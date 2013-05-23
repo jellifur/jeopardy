@@ -28,7 +28,8 @@ def getWagers(line):
 		
 	output = 'Wagers: '
 	for i, item in enumerate(wagers):
-		output = output + '\n' + players[i] + ': ' + item
+		player = replaceChar(players[i])
+		output = output + '\n' + player + ': ' + item
 
 	return output	
 	
@@ -53,6 +54,7 @@ def getQuestions(line, final):
 			right[i] = re.sub('right&.*?&gt;', '', item)
 			right[i] = right[i].replace('&lt;', '')
 		for item in right:
+			item = replaceChar(item)
 			if isRight:
 				rightOutput += ' | '
 			rightOutput += item
@@ -203,9 +205,8 @@ def parse(number, iFile):
 			return
 			
 		# Output categories
-		oFile.write('First Jeopardy! Round: ' + categories[0])
-		for i in range(1,len(categories)):
-			oFile.write(', ' + categories[i])
+		oCategories = ', '.join(categories)
+		oFile.write('First Jeopardy! Round: ' + oCategories)
 			
 		# Get questions
 		loopQuestions(iFile, oFile, categories, 'Scores at the first commercial break')
@@ -263,9 +264,8 @@ def parse(number, iFile):
 			return
 	
 		# Output categories.
-		oFile.write('Second Jeopardy! Round: ' + categories[0])
-		for i in range(1,len(categories)):
-			oFile.write(', ' + categories[i]) # Output categories
+		oCategories = ', '.join(categories)
+		oFile.write('Second Jeopardy! Round: ' + oCategories)
 			
 		# Get questions
 		loopQuestions(iFile, oFile, categories, 'Scores at the end of the Double Jeopardy!')
@@ -363,7 +363,7 @@ def parse(number, iFile):
 	
 def main():
 	print 'working...'
-	for i in range(1,4118): # Open files
+	for i in range(2000,4118): # Open files
 		fileName = str(i)+'.txt'
 		try:
 			iFile = codecs.open('game_pages/'+fileName, 'r', 'cp1252')

@@ -267,6 +267,11 @@ def insertDB(games, f, gameId, jeopardy, genId):
 			line = re.sub('right: ', '', line)
 			rightNames = line.split(' | ')
 
+		genId.Qid+=1
+		j.execute('INSERT INTO Questions VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
+					(genId.Qid, showId, 3, None, None, parsedLine[0], parsedLine[1], 0, \
+						is_answered, None))
+	
 		# Wrong answers
 		f.readline()
 		wrongAnswers = []
@@ -282,6 +287,10 @@ def insertDB(games, f, gameId, jeopardy, genId):
 			tmp = line.split(': ')
 			wagers[tmp[0]] = tmp[1]
 			line = f.readline()
+		
+		if len(wagers) == 0:
+			print str(gameId) + ' Has a tiebreaker round (will fix later)'
+			return
 
 		# INSERT into Answers (right)
 		if is_answered == 1:
@@ -353,18 +362,18 @@ def main():
 	# Open files
 	games = open("games.txt")
 
+	print 'Working...'
 	genId = GenId()
-	for i in range(1,4118):
-		if i == 3889:
-			return
+	for i in range(4000,4118):
+		#if i == 3889 or i == 1473 or i == 2172 or i == 3081: # Rounds with Tiebreakers
+		#	continue
 		fileName = str(i)+'_Qs.txt'
-		print i
 		try:
 			f = codecs.open('questions/'+fileName, encoding='utf-8')
 			insertDB(games, f, i, jeopardy, genId)
 			f.close()
 		except IOError:
-			print "Can't open", fileName
+			print str(i) + ": Can't open", fileName
 
 	# ===================== debugging stuff =========================
 	j = jeopardy.cursor()
@@ -374,8 +383,8 @@ def main():
 	#for row in j.execute('SELECT * FROM Contestants'):
 	#	print row
 
-	#for row in j.execute('SELECT * FROM Questions'):
-	#	print row
+	for row in j.execute('SELECT * FROM Questions'):
+		print row
 
 	#for row in j.execute('SELECT * FROM Answers'):
 	#	print row
