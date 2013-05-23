@@ -1,0 +1,341 @@
+3326 - Monday, February 8, 1999
+Comments: 1999 Tournament of Champions quarterfinal game 1.
+Contestants:
+Melizza Zygmunt: a stay-at-home mom from Valparaiso, Indiana
+Dan Girard: an artist from Altadena, California
+James Arey: a hotel concierge from New Orleans, Louisiana
+First Jeopardy! Round: VICE PRESIDENTS' TERMS OF SERVICE, THE WORLD SERIES, THE USA TODAY, BRAIN STRAIN, "G" WHIZ!, JIM DANDIES
+VICE PRESIDENTS' TERMS OF SERVICE | 1961-1963 | Lyndon B. Johnson
+right: Dan
+Wrong: 
+Value: $100
+Number: 2
+THE WORLD SERIES | In 1906 these 2 Chicago teams played each other in the Series for the first & last time | Cubs & White Sox
+right: Melizza
+Wrong: 
+Value: $100
+Number: 22
+THE USA TODAY | A 1998 study reports half the "vegetables" we eat are these, & half of those are deep-fried | Potatoes
+right: Dan
+Wrong: 
+Value: $100
+Number: 27
+BRAIN STRAIN | The word monosyllable has this many syllables | 5
+right: Dan
+Wrong: 
+Value: $100
+Number: 7
+"G" WHIZ! | A male goose you might take a look at | Gander
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+JIM DANDIES | In an 1884 work, runaway slave Jim rafts down the Mississippi with this title character | Huckleberry Finn
+right: James
+Wrong: 
+Value: $100
+Number: 14
+VICE PRESIDENTS' TERMS OF SERVICE | 1789-1797 | John Adams
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+THE WORLD SERIES | In 1955 the series between the Yankees & dese Bums became the first televised in color | Brooklyn Dodgers
+right: Dan
+Wrong: 
+Value: $200
+Number: 23
+THE USA TODAY | Over 70% of teens know Al Gore is vice president; 90% know this man starred in "Titanic" | Leonardo DiCaprio
+right: James
+Wrong: 
+Value: $200
+Number: 21
+BRAIN STRAIN | This final board game maneuver comes from the Arabic phrase "Shah Mat"--the king is dead | checkmate
+right: Melizza
+Wrong: 
+Value: $200
+Number: 8
+"G" WHIZ! | Garbology is the study of this, not of Greta Garbo movies | Garbage
+right: Dan
+Wrong: 
+Value: $200
+Number: 12
+JIM DANDIES | The Associated Press named him the greatest male athlete of the first half of the 20th century | Jim Thorpe
+right: Dan
+Wrong: 
+Value: $200
+Number: 15
+VICE PRESIDENTS' TERMS OF SERVICE | 1973-1974 | Gerald Ford
+right: Dan
+Wrong: 
+Value: $300
+Number: 4
+THE WORLD SERIES | In 1992 this Canadian team won 3 of its 4 World Series games in its last-at-bat | Toronto Blue Jays
+right: Melizza
+Wrong: 
+Value: $300
+Number: 24
+THE USA TODAY | The USA's largest private employer, it has over 700,000 workers, most stocking shelves & pushing carts | Wal-Mart
+right: James
+Wrong: 
+Value: $300
+Number: 28
+BRAIN STRAIN | A group of things of the same kind, or scenery constructed for a theatrical performance | Set
+right: Dan
+Wrong: 
+Value: $300
+Number: 9
+"G" WHIZ! | A small cave, perhaps a "blue" one | Grotto
+right: James
+Wrong: 
+Value: $300
+Number: 13
+JIM DANDIES | In this 1939 book, the Joads run into Jim Casy, a preacher who becomes an activist | The Grapes Of Wrath
+right: Dan
+Wrong: 
+Value: $300
+Number: 18
+VICE PRESIDENTS' TERMS OF SERVICE | 1945 | Harry S. Truman
+right: Dan
+Wrong: 
+Value: $400
+Number: 5
+THE WORLD SERIES | This fabled Yankee catcher holds many World Series records including most career hits with 71 | Yogi Berra
+right: Dan
+Wrong: 
+Value: $400
+Number: 25
+THE USA TODAY | The national average is about 1,000 (500 verbal, 500 math) of a possible 1,600 on the test abbreviated this | SAT (Scholastic Aptitude Test)
+right: Melizza
+Wrong: 
+Value: $400
+Number: 29
+BRAIN STRAIN | From one to ten, the only digit with the same number of letters as its value | 4 (four)
+right: Melizza
+Wrong: 
+Value: $400
+Number: 10
+"G" WHIZ! | It's the slang term for a newcomer to India, even if his first name isn't Merv | Griffin
+right: Dan
+Wrong: 
+Value: $400
+Number: 16
+JIM DANDIES | Name shared by a Minnesota Twins pitcher & a "Sale Of The Century" host | Jim Perry
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+VICE PRESIDENTS' TERMS OF SERVICE | 1933-1941 | John Nance Garner
+right: Dan
+Wrong: 
+Value: $500
+Number: 6
+THE WORLD SERIES | (VIDEO DAILY DOUBLE): "(Hi, I'm Reggie Jackson)  Only 3 men have been named MVP of the World Series twice:  me, Sandy Koufax & this Cardinals pitcher in 1964 & 1967" | Bob Gibson
+right: Dan
+Wrong: 
+Value: DD: $1,000
+Number: 26
+THE USA TODAY | Good News!  About 60 million U.S. Christians are this type, from Greek for "good news" | Evangelical
+right: Dan
+Wrong: 
+Value: $500
+Number: 30
+BRAIN STRAIN | The most common first name in the world is the name of this religious figure | Mohammed
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 11
+"G" WHIZ! | Perhaps from the Latin for "throat", it's a noise made by brooks & babies | Gurgle
+right: Dan
+Wrong: 
+Value: $500
+Number: 17
+JIM DANDIES | This Speaker of the House resigned in 1989 under charges of wrongdoing | Jim Wright
+right: Dan
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+James: -$400
+Dan: $1,900
+Melizza: $100
+Scores at the end of the Jeopardy! Round:
+James: -$200
+Dan: $5,800
+Melizza: $900
+Second Jeopardy! Round: OUTDATED MAPS, CELEBRITY BOOKS, LANGUAGES, DREAMERS, 4-LETTER WORDS, GYM DANDY
+OUTDATED MAPS | Its capital was East Berlin | East Germany
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+CELEBRITY BOOKS | Can we talk about this funny lady's books? -- they include "Enter Talking" & "From Mother To Daughter" | Joan Rivers
+right: Dan
+Wrong: 
+Value: $200
+Number: 10
+LANGUAGES | Preceding Bengali, it's alphabetically first of the dozen most spoken languages in the world | Arabic
+right: James
+Wrong: 
+Value: $200
+Number: 8
+DREAMERS | A dream angel tells this New Testament man to "Take the young child and his mother, and flee into Egypt" | Joseph
+right: James
+Wrong: 
+Value: $200
+Number: 1
+4-LETTER WORDS | We're not going out on one to say daredevils risk "life and" this | Limb
+right: Dan
+Wrong: 
+Value: $200
+Number: 11
+GYM DANDY | Static positions combine with rapid movements in this event where you grasp 2 hanging parallel hoops | Rings
+right: James
+Wrong: 
+Value: $200
+Number: 26
+OUTDATED MAPS | In 1902 Panama was still part of this country | Colombia
+right: Dan
+Wrong: 
+Value: $400
+Number: 4
+CELEBRITY BOOKS | In "In The Arena", he takes readers behind the scenes of such movies as "Ben-Hur" | Charlton Heston
+right: Dan
+Wrong: 
+Value: $400
+Number: 21
+LANGUAGES | The Mexican pop group Kabah took the name of this language created in 1887 as the title of its 1998 CD | Esperanto
+right: James
+Wrong: 
+Value: $400
+Number: 17
+DREAMERS | He said "little people" in his dreams inspired stories like "Dr. Jekyll And Mr. Hyde" | Robert Louis Stevenson
+right: Dan
+Wrong: 
+Value: $400
+Number: 2
+4-LETTER WORDS | Push this button on the TV remote & your sou | Mute
+right: James
+Wrong: 
+Value: $400
+Number: 12
+GYM DANDY | This gymnastics event is performed by both men & women on a mat without any other equipment | Floor exercise
+right: James
+Wrong: 
+Value: $400
+Number: 27
+OUTDATED MAPS | Bangladesh was known as this until a 1971 civil war | East Pakistan
+right: Dan
+Wrong: 
+Value: $600
+Number: 5
+CELEBRITY BOOKS | "Holiday In Your Heart", about a young country singer, was co-written by this teen country sensation | LeAnn Rimes
+right: Melizza
+Wrong: 
+Value: $600
+Number: 9
+LANGUAGES | Language being listened to by the man seen here with Clinton (Vaclav Havel) | Czech
+right: Melizza
+Wrong: 
+Value: $600
+Number: 18
+DREAMERS | Chemist Friedrich Kekule described the benzene molecule after dreaming of this creature swallowing its tail | Snake
+right: Melizza
+Wrong: 
+Value: $600
+Number: 23
+4-LETTER WORDS | Type of chart seen here | Flow
+right: James
+Wrong: 
+Value: $600
+Number: 13
+GYM DANDY | She's the legendary gymnast famous for using "The Young And The Restless" theme song in 1976 | Nadia Comaneci
+right: James
+Wrong: 
+Value: $600
+Number: 28
+OUTDATED MAPS | When part of the Soviet Union, this country was abbreviated the B.S.S.R. | Byelorussia
+right: Melizza
+Wrong: 
+Value: $800
+Number: 6
+CELEBRITY BOOKS | Good Heavens!  This star of TV's "7th Heaven" wrote the erotic thriller "Eye Contact" | Stephen Collins
+right: Dan
+Wrong: 
+Value: $800
+Number: 16
+LANGUAGES | To read the Domesday Book in its original form, you have to know this language | Latin
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 19
+DREAMERS | This director of "M*A*S*H" & "Nashville" based his 1977 film "Three Women" on one of his dreams | Robert Altman
+right: James
+Wrong: 
+Value: $800
+Number: 24
+4-LETTER WORDS | From the Dutch for "slippery", if you're this, you're a smooth talker | Glib
+right: Dan
+Wrong: 
+Value: $800
+Number: 14
+GYM DANDY | In this men's event, it's "routine" to work your way around a long leather-covered apparatus | the pommel horse
+right: Melizza
+Wrong: 
+James: What is a horse?
+Value: $800
+Number: 29
+OUTDATED MAPS | In 1954 French Indochina was divided into these 4 countries | Cambodia, Laos, North Vietnam & South Vietnam
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 7
+CELEBRITY BOOKS | This zany duo reveals the "magical" secrets of "How To Play With Your Food" & "How To Play In Traffic" | Penn & Teller
+right: Dan
+Wrong: 
+Value: $1000
+Number: 22
+LANGUAGES | The earliest written record we have of any Indo-European language is from this empire of Asia Minor | Hittite
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+DREAMERS | According to Plutarch, in the 300s B.C., Persian king Darius dreamed this conqueror would wait on him | Alexander The Great
+right: Dan
+Wrong: 
+Value: $1000
+Number: 25
+4-LETTER WORDS | Merriam-Webster says glob may be a blend of globe & this word | Blob
+right: James
+Wrong: 
+Value: $1000
+Number: 15
+GYM DANDY | A relative newcomer to the Olympics, this type of gymnastics uses ropes, clubs, balls, hoops & ribbons | Rhythmic gymnastics
+right: Dan
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+James: $3,400
+Dan: $12,800
+Melizza: $2,300
+
+Final Jeopardy! Round
+HISTORIC NAMES | He was the son of an Irish immigrant who was the Viceroy of Peru | Bernardo O' Higgins
+right: Dan
+Wrong: 
+Melizza: Who is
+James: Who was O' Casey?
+Wagers: 
+Melizza: $2,300
+James: $3,400
+Dan: $2,200
+Final scores:
+James: $0 (2nd place: $2,500 if eliminated)
+Dan: $15,000 (Automatic semifinalist)
+Melizza: $0 (3rd place: $2,500 if eliminated)
+
+Coryat scores
+James: $3,400 (14 R,5 W)
+Dan: $12,300 (31 R(including 1 DD),1 W)
+Melizza: $4,300 (10 R,3 W(including 2 DDs))

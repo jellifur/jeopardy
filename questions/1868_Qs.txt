@@ -1,0 +1,348 @@
+5236 - Monday, May 21, 2007
+Contestants:
+Vic Sawyer: a snowcoach driver and hotel manager from Yellowstone National Park, Wyoming and Montana
+Allison Frisbee: a law student from Concord, New Hampshire
+Martin Hughes: a sociology professor from Indiana, Pennsylvania (whose 1-day cash winnings total $21,601)
+First Jeopardy! Round: TERMS OF ENGINEERMENT, ONE-NAMED TV CHARACTERS, FIVE ABOUT TENN., BOB'S YOUR UNCLE, ALL WE ARE "SAY"ING, GIVE WAR AND PEACE A CHANCE
+TERMS OF ENGINEERMENT | It's a gated canal section in which water levels are raised & lowered | locks
+right: Martin
+Wrong: 
+Value: $200
+Number: 1
+ONE-NAMED TV CHARACTERS | Bob Denver said the first name of the title character on this sitcom, never revealed, would have been Willie | Gilligan's Island
+right: Martin
+Wrong: 
+Value: $200
+Number: 6
+FIVE ABOUT TENN. | The Coliseum is the home stadium of this pro football team | the Tennessee Titans
+right: Vic
+Wrong: 
+Martin: Uh, who are the Nashville Titans?
+Value: $200
+Number: 11
+BOB'S YOUR UNCLE | In 1970 he began his newspaper career with the Montgomery Co. Sentinel, & in 1971 he joined the Washington Post | Bob Woodward
+right: Vic
+Wrong: 
+Value: $200
+Number: 21
+ALL WE ARE "SAY"ING | In the 1980s it was Nancy Reagan's 3-word advice to someone offered illegal drugs | "Just say no"
+right: Martin
+Wrong: 
+Value: $200
+Number: 12
+GIVE WAR AND PEACE A CHANCE | In Book 3 of "War and Peace", this city is famously abandoned & burned | Moscow
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+TERMS OF ENGINEERMENT | Used extensively by the Romans, it's a bridge built to transport water, not people | an aqueduct
+right: Vic
+Wrong: 
+Value: $400
+Number: 2
+ONE-NAMED TV CHARACTERS | Just one more thing, sir: this L.A. detective's show premiered in 1971, but his first name wasn't actually "Lt." | Columbo
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+FIVE ABOUT TENN. | Located in Memphis, this mansion is the second most-visited home in the U.S.; <http://www.j-archive.com/media/2007-05-21_J_13.mp3> thank you very much | Graceland
+right: Martin
+Wrong: 
+Value: $400
+Number: 13
+BOB'S YOUR UNCLE | If there's anything Bob Dole knows, it's that when Bob Dole was Senate majority leader, Bob Dole served for this state | Kansas
+right: Allison
+Wrong: 
+Value: $400
+Number: 22
+ALL WE ARE "SAY"ING | This type of legal evidence is unverified, unofficial & not part of one's direct knowledge | hearsay
+right: Vic
+Wrong: 
+Value: $400
+Number: 16
+GIVE WAR AND PEACE A CHANCE | In "War and Peace", this man is described as the Antichrist scourging Europe | Napoleon
+right: 
+Wrong: 
+Allison: I wish I had read it, ah...
+Value: DD: $1,000
+Number: 27
+TERMS OF ENGINEERMENT | The Golden Gate & the Brooklyn are steel-cabled examples of this type of bridge | a suspension bridge
+right: Vic
+Wrong: 
+Value: $600
+Number: 3
+ONE-NAMED TV CHARACTERS | Say hello to this evil postal worker played by Wayne Knight on "Seinfeld" | Newman
+right: Martin
+Wrong: 
+Value: $600
+Number: 8
+FIVE ABOUT TENN. | This music program based in Nashville is the USA's oldest continuous live radio program | the Grand Ole Opry
+right: Vic
+Wrong: 
+Value: $600
+Number: 14
+BOB'S YOUR UNCLE | This former sitcom shrink got the Kennedy Center's 2002 Mark Twain Prize for his contribution to American humor | Bob Newhart
+right: Martin
+Wrong: 
+Value: $600
+Number: 23
+ALL WE ARE "SAY"ING | This popular children's game bearing a man's name tests your ability to follow directions | Simon Says
+right: Vic
+Wrong: 
+Value: $600
+Number: 17
+GIVE WAR AND PEACE A CHANCE | Appropriately, Tolstoy wrote "War and Peace" in these 2 languages | French & Russian
+right: Allison
+Wrong: 
+Value: $600
+Number: 28
+TERMS OF ENGINEERMENT | When burned with oxygen, this gas, C<sub>2</sub>H<sub>2</sub>, burns so hot it can weld iron & cut steel | acetylene
+right: 
+Wrong: Triple Stumper
+Martin: What is carbon?
+Value: $800
+Number: 4
+ONE-NAMED TV CHARACTERS | You are about to enter the world of forensic medicine with this boat-dwelling coroner played by Jack Klugman | Quincy
+right: Vic
+Wrong: 
+Value: $800
+Number: 9
+FIVE ABOUT TENN. | One of the 3 instruments that appear with some sheet music on the back of Tennessee's state quarter | a guitar (or a fiddle or a trumpet)
+right: Vic
+Wrong: 
+Value: $800
+Number: 15
+BOB'S YOUR UNCLE | In 1972 he choreographed "Pippin", & later, "Chicago"; now... <http://www.j-archive.com/media/2007-05-21_J_24.wmv> jazz hands! | Bob Fosse
+right: Allison
+Wrong: 
+Value: $800
+Number: 24
+ALL WE ARE "SAY"ING | A person who professes to foretell the future; one warned of the ides of March | a soothsayer
+right: Martin
+Wrong: 
+Value: $800
+Number: 18
+GIVE WAR AND PEACE A CHANCE | The novel opens at a party given by Anna Pavlova in this city, the capital at the time | St. Petersburg
+right: Martin
+Wrong: 
+Value: $800
+Number: 29
+TERMS OF ENGINEERMENT | In this type of well named for a region of France, groundwater rises to the surface under pressure from an aquifer | an Artesian well
+right: Vic
+Wrong: 
+Value: $1000
+Number: 5
+ONE-NAMED TV CHARACTERS | In 1987 this android, a Lt. Commander in Starfleet, began going where no android had gone before | Data
+right: Martin
+Wrong: 
+Value: $1000
+Number: 10
+FIVE ABOUT TENN. | Instrumental in the development of the atomic bomb, this Tenn. city is the "Energy Capital of the World" | Oak Ridge
+right: Vic
+Wrong: 
+Value: $1000
+Number: 19
+BOB'S YOUR UNCLE | This ex-senator & governor of Nebraska served in the Navy & received the Medal of Honor | Bob Kerrey
+right: Allison
+Wrong: 
+Value: $1000
+Number: 25
+ALL WE ARE "SAY"ING | Bring your ore nuggets down to this office in the Old West to see if they're really gold, pilgrim | an assayer
+right: Martin
+Wrong: 
+Value: $1000
+Number: 20
+GIVE WAR AND PEACE A CHANCE | Real life figures in "War and Peace" include this man who was the czar from 1801 to 1825 | Czar Alexander I
+right: 
+Wrong: Triple Stumper
+Martin: Who is Nicholas I?
+Allison: Who is Peter?
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Martin: $1,600
+Allison: $0
+Vic: $4,400
+Scores at the end of the Jeopardy! Round:
+Martin: $3,800
+Allison: $800
+Vic: $6,600
+Second Jeopardy! Round: COMMUNICATION, HOT MOVIES, COUNTRIES' HIGHEST POINTS, MILITARY MATTERS, FORBES' CARS FOR THE RICH, ANAGRAMMED BIRDS
+COMMUNICATION | Dahalo, a language of Kenya, uses only one of these, like Amazon.com's online shopping technology | a click
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+HOT MOVIES | Norman Jewison asked Rod Steiger to chew gum, eventually 263 packs, as Police Chief Bill Gillespie in this 1967 film | In the Heat of the Night
+right: Vic
+Wrong: 
+Value: $400
+Number: 1
+COUNTRIES' HIGHEST POINTS | Mount Meron in Galilee | Israel
+right: Martin
+Wrong: 
+Value: $400
+Number: 6
+MILITARY MATTERS | The museum of this largest & oldest military academy in the U.S. houses tanks & other WWI memorabilia | West Point
+right: Allison
+Wrong: 
+Value: $400
+Number: 11
+FORBES' CARS FOR THE RICH | This get personal for a personal computer mogul Michael Dell in a 2005 H2 from this manufacturer | Hummer
+right: Allison
+Wrong: 
+Value: $400
+Number: 26
+ANAGRAMMED BIRDS | I'd pay to see a hare race this tall South American bird | the rhea (for hare)
+right: Vic
+Wrong: 
+Value: $400
+Number: 16
+COMMUNICATION | (<http://www.j-archive.com/media/2007-05-21_DJ_19.jpg> Jimmy of the Clue Crew demonstrates that he is a man of letters.)  By looking at its first few letters, you'll see the Russian alphabet is based largely on this much more ancient alphabet | Greek
+right: Allison
+Wrong: 
+Martin: What is Cyrillic?
+Value: $800
+Number: 19
+HOT MOVIES | Hedy Lamarr sued Mel Brooks over the "use" of her name in this 1974 comedy & eventually settled out of court | Blazing Saddles
+right: Martin
+Wrong: 
+Value: $800
+Number: 2
+COUNTRIES' HIGHEST POINTS | Mount Ararat | Turkey
+right: Martin
+Wrong: 
+Value: $800
+Number: 7
+MILITARY MATTERS | Benedict Arnold finished his military career in this nation's army | Great Britain
+right: Allison
+Wrong: 
+Value: $800
+Number: 12
+FORBES' CARS FOR THE RICH | Investor Warren Buffett drives one of these "urban" car models from Lincoln | a Town Car
+right: Vic
+Wrong: 
+Martin: What's a Navigator?
+Value: $800
+Number: 27
+ANAGRAMMED BIRDS | This arctic bird should rent a waterfront home | tern (for rent)
+right: Martin
+Wrong: 
+Value: $800
+Number: 17
+COMMUNICATION | Police radio codes that start with this 2-digit number date back to the 1930s | 10
+right: Vic
+Wrong: 
+Value: $1200
+Number: 20
+HOT MOVIES | Steve McQueen & Paul Newman did some of their own stunts in this 1974 special-effects extravaganza | The Towering Inferno
+right: Vic
+Wrong: 
+Value: $1200
+Number: 3
+COUNTRIES' HIGHEST POINTS | Ras Dashen, the fourth-highest mountain in Africa | Ethiopia
+right: Martin
+Wrong: 
+Value: DD: $3,000
+Number: 8
+MILITARY MATTERS | The world's most powerful military alliance takes its name from this ocean region | the North Atlantic
+right: Vic
+Wrong: 
+Value: $1200
+Number: 13
+FORBES' CARS FOR THE RICH | Put it together: IKEA founder Ingvar Kamprad drives a 240 GL from this European auto company | Volvo
+right: 
+Wrong: 
+Vic: What is Mercedes-Benz?
+Value: DD: $2,400
+Number: 28
+ANAGRAMMED BIRDS | I'd like to greet this wading bird with a friendly hello | egret (from greet)
+right: Vic
+Wrong: 
+Value: $1200
+Number: 23
+COMMUNICATION | (<http://www.j-archive.com/media/2007-05-21_DJ_21.jpg> Jon of the Clue Crew delivers a cryptic message.)  Julius Caesar communicated with his generals using a code that shifted each letter a set distance down the alphabet--for instance, these letters spell "Jeopardy"; it's now called the "Caesar" this | cipher
+right: Allison
+Wrong: 
+Value: $1600
+Number: 21
+HOT MOVIES | This 1977 movie produced the second-best-selling soundtrack in movie history | Saturday Night Fever
+right: Vic
+Wrong: 
+Value: $1600
+Number: 4
+COUNTRIES' HIGHEST POINTS | Pico Bolivar in Merida | Venezuela
+right: 
+Wrong: Triple Stumper
+Martin: What is Mexico?
+Allison: What is Bolivia?
+Value: $1600
+Number: 9
+MILITARY MATTERS | During WWII, the U.S. built a military base in this Ecuadorian island group to protect the Panama Canal | the Galápagos
+right: Allison
+Wrong: 
+Vic: [Closes eyes and thinks but nothing comes]
+Value: $1600
+Number: 14
+FORBES' CARS FOR THE RICH | For Bill Gates, it computes to own 2 models, the 959 & the 911, from this manufacturer | Porsche
+right: Martin
+Wrong: 
+Value: $1600
+Number: 29
+ANAGRAMMED BIRDS | If you're in the lair of this slim bird, don't tell him he's as skinny as... | rail (from lair)
+right: Vic
+Wrong: 
+Value: $1600
+Number: 24
+COMMUNICATION | It can mean "speed", or a message or news story sent with speed | a flash (or a dispatch)
+right: Martin
+Wrong: 
+Value: $2000
+Number: 22
+HOT MOVIES | This 1981 dramatic film about Stone Age man won the Academy Award for Best Makeup | Quest for Fire
+right: Martin
+Wrong: 
+Value: $2000
+Number: 5
+COUNTRIES' HIGHEST POINTS | Moldoveanu | Romania
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+MILITARY MATTERS | This term from the Japanese refers to the 3 military govts. that ruled Japan between 1192 & 1867 | the Shogunate (the Shogun accepted)
+right: Martin
+Wrong: 
+Value: $2000
+Number: 15
+FORBES' CARS FOR THE RICH | No stranger to the finer things in life, Saudi Prince Alwaleed Alsaud traverses the sands in this auto's Phantom | Rolls-Royce
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+ANAGRAMMED BIRDS | I wonder if I'd see this long-legged bird along the Rhone River | heron (from Rhone)
+right: Vic
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Martin: $14,000
+Allison: $4,800
+Vic: $14,200
+
+Final Jeopardy! Round
+19th CENTURY INVENTORS | He wrote, "Isn't it the irony of fate that I have been prescribed nitroglycerin to be taken internally" | Alfred Nobel
+right: Allison | Martin | Vic
+Wrong: 
+Wagers: 
+Allison: $600
+Martin: $400
+Vic: $13,801
+Final scores:
+Martin: $14,400 (2nd place: $2,000)
+Allison: $5,400 (3rd place: $1,000)
+Vic: $28,001 (New champion: $28,001)
+
+Coryat scores
+Martin: $12,200 (19 R(including 1 DD),6 W)
+Allison: $5,800 (10 R,3 W(including 1 DD))
+Vic: $16,600 (21 R,2 W(including 1 DD))

@@ -1,0 +1,337 @@
+4969 - Thursday, March 30, 2006
+Contestants:
+Doc Hamilton: an advanced customer care agent from Nashville, Tennessee
+Barbara Watkins: a stay-at-home mom and attorney from Oak Park, Illinois
+Ben Goggins: a retired marine biologist from Tybee Island, Georgia (whose 2-day cash winnings total $46,800)
+First Jeopardy! Round: I KNOW YOU FROM SOMEWHERE, THE DEANS LIST, THINGS FARMERS KNOW, LET'S TAKE A TRIP, YES, SIR!, THAT'S MY "BB"
+I KNOW YOU FROM SOMEWHERE | You were in my class as a manager trainee at this company's Hamburger University in Illinois | McDonald's
+right: Barbara
+Wrong: 
+Value: $200
+Number: 21
+THE DEANS LIST | Much of this Rat Pack crooner's hard-drinking persona may have been just for the cameras | Dean Martin
+right: Doc
+Wrong: 
+Value: $200
+Number: 6
+THINGS FARMERS KNOW | One reason for plowing is to aerate the soil, especially with this, making up about 1/5 of the air | oxygen
+right: Doc
+Wrong: 
+Barbara: What is nitrogen?  No!
+Value: $200
+Number: 11
+LET'S TAKE A TRIP | You'll be "sky high" (naturally) at SkyCity Restaurant atop this Seattle landmark | the Space Needle
+right: Doc
+Wrong: 
+Barbara: What is the Seattle Needle?
+Value: $200
+Number: 1
+YES, SIR! | Robert Bolt's play "A Man for All Seasons" is about the trials & tribulations of this man knighted in 1521 | (Sir) Thomas More
+right: Ben
+Wrong: 
+Value: $200
+Number: 26
+THAT'S MY "BB" | Hop over to this hare relative | a rabbit
+right: Doc
+Wrong: 
+Value: $200
+Number: 16
+I KNOW YOU FROM SOMEWHERE | You showed me pictures of your kids while we were delayed in Terminal 4 of this London airport | Heathrow
+right: Doc
+Wrong: 
+Value: $400
+Number: 22
+THE DEANS LIST | In the 1930s this "lightheaded" pitcher led the National League in strikeouts 4 times | Dizzy Dean
+right: Ben
+Wrong: 
+Value: $400
+Number: 7
+THINGS FARMERS KNOW | The USDA's Risk Management Agency provides this, protecting against loss due to drought, hail & falling prices | (crop) insurance
+right: Ben
+Wrong: 
+Value: $400
+Number: 12
+LET'S TAKE A TRIP | The Adventuredome at this Vegas hotel spreads out over 5 acres; one of you "3, ring" in now | Circus Circus
+right: Ben
+Wrong: 
+Value: $400
+Number: 2
+YES, SIR! | Knighted in 1585, from 1603 to 1616 he was imprisoned in the Tower of London & wrote his world history there | Sir Walter Raleigh
+right: Barbara
+Wrong: 
+Value: $400
+Number: 27
+THAT'S MY "BB" | You can't make sauerkraut without this vegetable | cabbage
+right: Ben
+Wrong: 
+Value: $400
+Number: 17
+I KNOW YOU FROM SOMEWHERE | If I wore my serape, it might refresh your memory of our meeting in Saltillo in this country | Mexico
+right: Barbara
+Wrong: 
+Value: $600
+Number: 23
+THE DEANS LIST | The then-new fad of skateboarding was celebrated in this duo's 1964 hit song "Sidewalk Surfin'" | Jan & Dean
+right: Ben
+Wrong: 
+Value: $600
+Number: 8
+THINGS FARMERS KNOW | A round type of this structure, with the silo inside it, was popular in the early 1900s; it's rare now | a barn
+right: Barbara
+Wrong: 
+Value: $600
+Number: 13
+LET'S TAKE A TRIP | Anytime the head or tail of this Danish statue is vandalized, it's repaired using the original 1913 mold | the Little Mermaid
+right: Ben
+Wrong: 
+Value: DD: $1,000
+Number: 3
+YES, SIR! | Following the release of his masterpieces "Rob Roy" & "The Heart of Midlothian", he was made a baronet in 1820 | Sir Walter Scott
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+THAT'S MY "BB" | From the Hebrew for "day of rest", for most Christians it occurs on Sunday | the Sabbath
+right: Doc
+Wrong: 
+Value: $600
+Number: 18
+I KNOW YOU FROM SOMEWHERE | We were stationed together with the III Corps Artillery at Fort Sill in this state | Oklahoma
+right: Doc
+Wrong: 
+Ben: What is Arkansas?
+Value: $800
+Number: 24
+THE DEANS LIST | It doesn't take a sausage to know that this country singer took "Big Bad John" to No. 1 in 1961 | Jimmy Dean
+right: Ben
+Wrong: 
+Value: $800
+Number: 9
+THINGS FARMERS KNOW | Starting in 1939, the Haughley Experiment tested this type of farming, based on natural pesticides & fertilizers | organic
+right: Ben
+Wrong: 
+Value: $800
+Number: 14
+LET'S TAKE A TRIP | In Venice you're sitting by this famous square if you're sipping an espresso at Florian's, est. 1720 | St. Mark's Square
+right: Ben
+Wrong: 
+Value: $800
+Number: 4
+YES, SIR! | This director of "Doctor Zhivago" was directed to pick up a knighthood in 1984 | David Lean
+right: Ben
+Wrong: 
+Value: $800
+Number: 29
+THAT'S MY "BB" | It surrounds Jamaica | the Caribbean
+right: Barbara
+Wrong: 
+Value: $800
+Number: 19
+I KNOW YOU FROM SOMEWHERE | We had a wild time on the Reeperbahn in this second-largest German city | Hamburg
+right: 
+Wrong: Triple Stumper
+Barbara: What is Berlin?
+Value: $1000
+Number: 25
+THE DEANS LIST | This author's thrillers turned into films include "Phantoms" & "Demon Seed" | Dean Koontz
+right: Doc
+Wrong: 
+Value: $1000
+Number: 10
+THINGS FARMERS KNOW | As part of this plant family that can get nitrogen from the air, soybeans don't need nitrogen fertilizers | legumes
+right: Ben
+Wrong: 
+Value: $1000
+Number: 15
+LET'S TAKE A TRIP | When this country broke away from Ethiopia in 1993, Haile Selassie Avenue in the capital became Harnet Avenue | Eritrea
+right: Ben
+Wrong: 
+Value: $1000
+Number: 5
+THAT'S MY "BB" | It's the funky ape species seen <http://www.j-archive.com/media/2006-03-30_J_20.jpg> here | a gibbon
+right: Ben
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ben: $7,200
+Barbara: $200
+Doc: $1,600
+Scores at the end of the Jeopardy! Round:
+Ben: $8,800
+Barbara: $1,200
+Doc: $3,600
+Second Jeopardy! Round: THE PERIODIC TABLE OF ELEMENTS, TV TITLE REFERENCES, 1812, THE NON-CATEGORY, ART, 15-LETTER WORDS
+THE PERIODIC TABLE OF ELEMENTS | In "The Periodic Table" by Primo Levi, a Holocaust survivor, the last chapter is on this element on which life is based | carbon
+right: Doc
+Wrong: 
+Value: $400
+Number: 7
+TV TITLE REFERENCES | On a teen drama, the upscale Newport Beach, as opposed to the downscale Chino | The O.C.
+right: Doc
+Wrong: 
+Value: $400
+Number: 12
+1812 | On Dec. 29, 1812 this U.S. ship nicknamed "Old Ironsides" defeated the British frigate Java off Brazil | the Constitution
+right: Ben
+Wrong: 
+Value: $400
+Number: 17
+THE NON-CATEGORY | It describes the cooking surface of a Teflon-coated frying pan | non-stick
+right: Barbara
+Wrong: 
+Value: $400
+Number: 24
+ART | This movement began in 1950s Britain, but it's based on American mass media & advertising images | Pop Art
+right: Ben
+Wrong: 
+Value: $400
+Number: 1
+15-LETTER WORDS | The inability to cooperate or coexist, it's grounds for divorce in some states | incompatibility
+right: Ben
+Wrong: 
+Doc: What is irreconciliable?
+Value: $400
+Number: 6
+THE PERIODIC TABLE OF ELEMENTS | (<http://www.j-archive.com/media/2006-03-30_DJ_08.jpg> Jon of the Clue Crew shows the periodic table on a monitor.)  The columns on the periodic table are of atoms with the same configuration of these  as they fill the atom's shell | electrons
+right: Barbara
+Wrong: 
+Value: $800
+Number: 8
+TV TITLE REFERENCES | Meredith, a surgical resident at Seattle's Grace Hospital | Grey's Anatomy
+right: Doc
+Wrong: 
+Value: $800
+Number: 13
+1812 | In 1812 Serbia was pushing for independence from this empire under Sultan Mahmud II | Ottoman Empire
+right: Doc
+Wrong: 
+Value: $800
+Number: 18
+THE NON-CATEGORY | A 1990s pop group was called 4 Non these | Blondes
+right: Doc
+Wrong: 
+Value: $800
+Number: 25
+ART | Around 1450, with big commissions drying up, sculptors turned to these head-&-shoulders portrait pieces | busts
+right: Barbara
+Wrong: 
+Value: $800
+Number: 2
+15-LETTER WORDS | This process that makes someone more U.S. citizen-like happens to "Emily" in the title of a William Huie novel | Americanization
+right: Ben
+Wrong: 
+Value: $800
+Number: 20
+THE PERIODIC TABLE OF ELEMENTS | Of 101, 111, 121 or 201, the highest atomic number of an element fully authenticated by the people who do that | 111
+right: 
+Wrong: Triple Stumper
+Ben: What is 121?
+Barbara: What is 101?
+Doc: What is 201?
+Value: $1200
+Number: 9
+TV TITLE REFERENCES | Jennifer Love Hewitt, who sees & talks (softly) to dead people | Ghost Whisperer
+right: Doc
+Wrong: 
+Ben: What is Medium?
+Value: $1200
+Number: 14
+1812 | This Mass. gov. signed a law to redistrict Essex County, ensuring a favorable majority in the legislature | (Elbridge) Gerry
+right: Barbara
+Wrong: 
+Ben: Who is Mander?
+Doc: Who is Gerrymand?
+Value: $1200
+Number: 19
+THE NON-CATEGORY | MLK Jr. said the "Gandhian emphasis on love and" this led him to the method for social reform that he'd been seeking | non-violence
+right: Doc
+Wrong: 
+Value: DD: $5,200
+Number: 26
+ART | Noun for a work in which ideas are personified, like the book "Pilgrim's Progress" or <http://www.j-archive.com/media/2006-03-30_DJ_03.jpg> de Troy's <http://www.j-archive.com/media/2006-03-30_DJ_03a.jpg> "Time Unveiling Truth" | allegory
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+15-LETTER WORDS | The removal from land or a person of unwanted chemical or radioactive impurities | decontamination
+right: Barbara
+Wrong: 
+Value: $1200
+Number: 21
+THE PERIODIC TABLE OF ELEMENTS | In the table setting seen <http://www.j-archive.com/media/2006-03-30_DJ_10.jpg> here, 50 is the atomic number and 118.7 is this | the atomic weight
+right: Doc
+Wrong: 
+Value: $1600
+Number: 10
+TV TITLE REFERENCES | Opening in 2005, a look back at some members of the high school class of 1986 | Reunion
+right: 
+Wrong: Triple Stumper
+Doc: What is Class Reunion?
+Value: $1600
+Number: 15
+THE NON-CATEGORY | One type of geometry is called non-this, after a Greek mathematician | Euclidean
+right: Barbara
+Wrong: 
+Value: $1600
+Number: 27
+ART | This "Rake's Progress" satirist was a British patriot, as seen in his 1748 work "O the Roast Beef of Old England" | (William) Hogarth
+right: Barbara
+Wrong: 
+Value: $1600
+Number: 4
+15-LETTER WORDS | The emission of light by living organisms like fireflies | bioluminescence
+right: 
+Wrong: 
+Barbara: What is ph... photoluminescence?
+Value: DD: $2,000
+Number: 22
+THE PERIODIC TABLE OF ELEMENTS | German Johann Dobereiner had diddled around with the patterns, but the periodic table was codified in this country | Russia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+TV TITLE REFERENCES | The Philadelphia homicide squad that investigates old, unsolved crimes | Cold Case
+right: Ben
+Wrong: 
+Value: $2000
+Number: 16
+THE NON-CATEGORY | (<http://www.j-archive.com/media/2006-03-30_DJ_28.jpg> Kelly of the Clue Crew delivers the clue from a lab in NC State University, Raleigh, NC.)  North Carolina State has a research center for fabrics that are bonded by heat or chemicals, in other words, non this | woven
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+ART | The puzzling, distorted <http://www.j-archive.com/media/2006-03-30_DJ_05.jpg> skull in his 1533 portrait <http://www.j-archive.com/media/2006-03-30_DJ_05a.jpg> "The Ambassadors" may refer to his name, meaning "hollow bone" | (Hans) Holbein (the Younger)
+right: 
+Wrong: Triple Stumper
+Ben: Who is Bosch?
+Value: $2000
+Number: 5
+15-LETTER WORDS | The process of making 2 or more things work together in unison | synchronization
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Ben: $7,200
+Barbara: $5,600
+Doc: $10,400
+
+Final Jeopardy! Round
+NOTABLE WOMEN | She was the 31st person--& the first woman--to lie in state or honor in the U.S. Capitol | Rosa Parks
+right: Ben | Doc
+Wrong: 
+Barbara: Who was Eleanor Roosevelt?
+Wagers: 
+Barbara: $5,599
+Ben: $7,200
+Doc: $4,001
+Final scores:
+Ben: $14,400 (2nd place: $2,000)
+Barbara: $1 (3rd place: $1,000)
+Doc: $14,401 (New champion: $14,401)
+
+Coryat scores
+Ben: $6,800 (19 R(including 1 DD),5 W)
+Barbara: $7,600 (12 R,5 W(including 1 DD))
+Doc: $6,400 (16 R(including 1 DD),4 W)

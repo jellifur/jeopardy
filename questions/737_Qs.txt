@@ -1,0 +1,345 @@
+1430 - Friday, November 16, 1990
+Comments: 1990 Tournament of Champions final game 2.
+Contestants:
+Bob Blake: an actuary from Vancouver, British Columbia (subtotal of $13,200)
+Larry McKnight: a computer analyst from Ventura, California (subtotal of $2,100)
+Steve Berman: a film executive originally from Toms River, New Jersey (subtotal of $2,200)
+First Jeopardy! Round: NEWSPAPERS, MAMMALS, RECORD LABELS, ART, POTENT POTABLES, STARTS WITH "END"
+NEWSPAPERS | This D.C. paper led all others in pursuing the story of the Watergate break-in | The Washington Post
+right: Steve
+Wrong: 
+Value: $100
+Number: 2
+MAMMALS | The primate order is characterized by having these instead of claws | fingernails
+right: Larry
+Wrong: 
+Value: $100
+Number: 8
+RECORD LABELS | It was named after a nickname of Detroit | Motown
+right: Larry
+Wrong: 
+Value: $100
+Number: 1
+ART | This late artist was also a jewelry designer; you might expect his watches to be limp | Salvador Dalí
+right: Larry
+Wrong: 
+Value: $100
+Number: 26
+POTENT POTABLES | This word that follows golden, silver & gin in cocktail names refers to the addition of soda water | fizz
+right: Steve
+Wrong: 
+Value: $100
+Number: 16
+STARTS WITH "END" | A bequest or gift, especially to a university | an endowment
+right: Bob
+Wrong: 
+Value: $100
+Number: 17
+NEWSPAPERS | In 1988 Rupert Murdoch sold this NYC tabloid to Peter Kalikow, who's now trying to keep it alive | the New York Post
+right: Steve
+Wrong: 
+Value: $200
+Number: 7
+MAMMALS | To reach really high foliage the gerenuk, an antelope, does this | stands on its hind legs
+right: 
+Wrong: Triple Stumper
+Bob: What's jump?
+Value: $200
+Number: 10
+RECORD LABELS | You'll also find the name of this British label, begun by Richard Branson in 1973, on an airline | Virgin
+right: Steve
+Wrong: 
+Value: $200
+Number: 3
+ART | The "Thinker" guards the entrance to the Philadelphia museum devoted to this sculptor | Rodin
+right: Steve
+Wrong: 
+Value: $200
+Number: 27
+POTENT POTABLES | The flowers of this plant give beer its bitter taste | hops
+right: Larry
+Wrong: 
+Value: $200
+Number: 18
+STARTS WITH "END" | This salad vegetable looks a lot like lettuce except its leaves are curlier | endive
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+NEWSPAPERS | Both the Cleveland Plain Dealer & this St. Louis paper are owned by the Newhouse family | the St. Louis Post-Dispatch
+right: Steve
+Wrong: 
+Value: $300
+Number: 9
+MAMMALS | The horn of the rhino is made of these packed together | hairs
+right: Steve
+Wrong: 
+Value: $300
+Number: 11
+RECORD LABELS | This ex-Beatle does his own releases on his own label--Dark Horse | George Harrison
+right: Bob
+Wrong: 
+Value: $300
+Number: 4
+ART | An artist dedicated to reviving early Renaissance style & methods is described as "pre-" this | Raphaelite
+right: Larry
+Wrong: 
+Value: $300
+Number: 28
+POTENT POTABLES | This brandy made from hard cider was called Jersey lightning in Colonial times | applejack
+right: Larry
+Wrong: 
+Value: $300
+Number: 19
+STARTS WITH "END" | It's the brand of dentistry that deals with the tooth pulp & tissues | endodontics
+right: Steve
+Wrong: 
+Larry: What's endodonty?
+Value: $300
+Number: 23
+NEWSPAPERS | This paper is noted for its historic rivalry with the Rocky Mountain News | The Denver Post
+right: Steve
+Wrong: 
+Value: $400
+Number: 14
+MAMMALS | Name given to both the smallest rabbit & the smallest shrew on the North American continent | pygmy
+right: 
+Wrong: 
+Steve: What is the mole shrew?
+Value: DD: $1,100
+Number: 12
+RECORD LABELS | In 1948 this label introduced the first LP | Columbia
+right: Bob
+Wrong: 
+Larry: What's RCA-Victor?
+Value: $400
+Number: 5
+ART | Egypt's temple of Abu Simbel features 4 figures of this pharaoh carved out of the rock | Ramses II
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+POTENT POTABLES | This juice makes a cape codder cocktail red | cranberry juice
+right: Larry
+Wrong: 
+Value: $400
+Number: 20
+STARTS WITH "END" | Completes the title of the Walt Whitman poem "Out of the Cradle..." | "Endlessly Rocking"
+right: Larry
+Wrong: 
+Value: $400
+Number: 24
+NEWSPAPERS | Seattle's leading morning paper has this unusual name | the Post-Intelligencer
+right: Bob
+Wrong: 
+Value: $500
+Number: 15
+MAMMALS | The largest & fastest members of the dolphin family, they're also known as orcas | killer whales
+right: Larry
+Wrong: 
+Value: $500
+Number: 13
+RECORD LABELS | Folk label whose name means "forefront"; it had its 1st new release in 8 yrs. with "Different World" in 1990 | Vanguard
+right: Bob
+Wrong: 
+Value: $500
+Number: 6
+ART | His paintings of flags & targets at a one-man show in 1958 unleashed a storm of controversy | Jasper Johns
+right: Larry
+Wrong: 
+Value: $500
+Number: 30
+POTENT POTABLES | The name of this California co. means a wooden seat built into a wall near an open fireplace | Inglenook
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 21
+STARTS WITH "END" | In Greek myth, the moon goddess Selene was in love with this shepherd | Endymion
+right: Steve
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Steve: $0
+Larry: -$200
+Bob: $1,000
+Scores at the end of the Jeopardy! Round:
+Steve: $1,500
+Larry: $2,200
+Bob: $1,800
+Second Jeopardy! Round: GENERAL SCIENCE, CLASSICAL MUSIC, HISTORY, NEW YORK CITIES, SHIPS, IMPRISONED AUTHORS
+GENERAL SCIENCE | If run in reverse an electric motor becomes one of these devices that produces electric current | a generator
+right: Larry
+Wrong: 
+Value: $200
+Number: 25
+CLASSICAL MUSIC | Johann was his actual first name; Wolfgang was 1 of his middle names | (Johannes Chrysostomus Wolfgangus Theophilus) Mozart
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+HISTORY | In the first Punic War, the troops of his father, Hamilcar Barca, were defeated by the Romans in Sicily | Hannibal
+right: Steve
+Wrong: 
+Value: $200
+Number: 11
+NEW YORK CITIES | In a song from "42nd Street" people "shuffled off to" this New York city | Buffalo
+right: Bob
+Wrong: 
+Value: $200
+Number: 19
+SHIPS | A British crew sailed a replica of this ship from Plymouth, England to Plymouth, Mass. in 1957 | the Mayflower
+right: Steve
+Wrong: 
+Value: $200
+Number: 30
+IMPRISONED AUTHORS | He used incidents from his captivity as a pirates' slave for "Don Quixote" | Cervantes
+right: Steve
+Wrong: 
+Value: $200
+Number: 12
+GENERAL SCIENCE | It's the branch of biology dealing with heredity; everybody into the pool! | genetics
+right: Bob
+Wrong: 
+Value: $400
+Number: 24
+CLASSICAL MUSIC | As a teenager, this Israeli violinist made his American debut on "The Ed Sullivan Show" in 1958 | Itzhak Perlman
+right: Bob
+Wrong: 
+Value: $400
+Number: 20
+HISTORY | Abdicating the imperial throne on August 6, 1806, Francis II was its last ruler | the Holy Roman Empire
+right: Bob
+Wrong: 
+Value: DD: $500
+Number: 10
+NEW YORK CITIES | You can visit Thomas Paine's home there, but not Rob Petrie's | New Rochelle
+right: Steve
+Wrong: 
+Value: $400
+Number: 18
+SHIPS | Because many rulers of these Nordic people were buried in their ships, some vessels have survived | the Vikings
+right: Larry
+Wrong: 
+Value: $400
+Number: 29
+IMPRISONED AUTHORS | This author describes "One Day in the Life of Ivan Denisovich" at a Stalinist labor camp | Solzhenitsyn
+right: Larry
+Wrong: 
+Value: $400
+Number: 13
+GENERAL SCIENCE | It's found in layered beds or as nodules in chalk; early man chipped it to form tools | flint
+right: Steve
+Wrong: 
+Value: $600
+Number: 4
+CLASSICAL MUSIC | This Spanish cellist gave White House recitals for Teddy Roosevelt in 1904 & JFK in 1961 | Casals
+right: Bob
+Wrong: 
+Value: $600
+Number: 21
+HISTORY | Union with this Baltic country in 1386 made Poland Europe's largest country | Lithuania
+right: Bob
+Wrong: 
+Value: $600
+Number: 9
+NEW YORK CITIES | It's home to Kodak & Xerox | Rochester
+right: Larry
+Wrong: 
+Value: $600
+Number: 1
+SHIPS | Of the bow, the forecastle & the poop, the one situated at the stern of a ship | the poop
+right: Larry
+Wrong: 
+Value: $600
+Number: 28
+IMPRISONED AUTHORS | To escape debtor's prison, John Cleland wrote this bawdy book about "A Woman of Pleasure" in 1748 | Fanny Hill
+right: Bob
+Wrong: 
+Value: $600
+Number: 14
+GENERAL SCIENCE | Tube that forms the basis of an oscilloscope | a cathode ray tube
+right: Larry
+Wrong: 
+Value: $800
+Number: 3
+CLASSICAL MUSIC | He produced over 30 operas in London from "Rinaldo" in 1711 to "Deidamia" in 1741 | Handel
+right: Larry
+Wrong: 
+Value: $800
+Number: 22
+HISTORY | In ancient Greece, Athens had its Delian League of city-states while Sparta had this league | the Peloponnesian League
+right: Bob
+Wrong: 
+Value: $800
+Number: 8
+NEW YORK CITIES | Odysseus might call this city home as it shares its name with the island he was from | Ithaca
+right: 
+Wrong: 
+Steve: ...What is Troy?
+Value: DD: $2,100
+Number: 5
+SHIPS | These sailing ships were the largest in the Spanish Armada | galleons
+right: Larry
+Wrong: 
+Value: $800
+Number: 27
+IMPRISONED AUTHORS | In "Midnight Express", Billy Hayes gave his account of time spent in prison in this country | Turkey
+right: Steve
+Wrong: 
+Value: $800
+Number: 15
+GENERAL SCIENCE | This propulsion proposed for interstellar trips uses a flow of electrons & has been tested in Earth orbit | an ion drive
+right: Larry
+Wrong: 
+Value: $1000
+Number: 2
+CLASSICAL MUSIC | After this Russian died, his "Prince Igor" opera was completed by Rimsky-Korsakov & Glazunov | Alexander Borodin
+right: 
+Wrong: Triple Stumper
+Steve: Who is Mussorgsky?
+Value: $1000
+Number: 23
+HISTORY | Called greatest Catholic missionary of modern times, he introduced Christianity into Japan in 1549 | Francis Xavier
+right: Bob
+Wrong: 
+Value: $1000
+Number: 7
+NEW YORK CITIES | At a congress in this city in 1754 Ben Franklin put forth a plan for unity of the colonies | Albany
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+SHIPS | It has surpassed Liberia as the country with the most merchant ships under its flag | Panama
+right: Larry
+Wrong: 
+Value: $1000
+Number: 26
+IMPRISONED AUTHORS | Though his "Cell 2455, Death Row" became a best seller, it didn't save him from execution | Caryl Chessman
+right: Bob
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Steve: $1,000
+Larry: $8,800
+Bob: $7,900
+
+Final Jeopardy! Round
+ISLANDS | It's the only inhabited U.S. territory south of the equator | American Samoa
+right: Steve | Bob
+Wrong: 
+Larry: What is Guam?
+Wagers: 
+Steve: $1,000
+Bob: $1
+Larry: $6,600
+Final scores:
+Steve: $2,000 (2nd runner-up: $7,500)
+Larry: $2,200 (1st runner-up: $10,000)
+Bob: $7,901 (Tournament champion: $100,000)
+
+Coryat scores
+Steve: $4,200 (17 R,3 W(including 2 DDs))
+Larry: $8,800 (20 R,2 W)
+Bob: $7,800 (16 R(including 1 DD),1 W)

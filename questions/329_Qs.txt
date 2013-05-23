@@ -1,0 +1,348 @@
+4782 - Tuesday, May 24, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 5, game 2.
+Contestants:
+Jerome Vered: a writer from Los Angeles, California (subtotal of $16,400)
+Ken Jennings: a software engineer from Salt Lake City, Utah (subtotal of $16,000)
+Brad Rutter: a TV quiz show host from Lancaster, Pennsylvania (subtotal of $18,400)
+First Jeopardy! Round: AMERICAN HISTORY, U.S. GEOGRAPHY IN SONG, ALPHABETICALLY LAST, COMPOUND WORDS, GUNS & AMMO, HAUTE COUTURE
+AMERICAN HISTORY | This pact among the U.S., Mexico & Canada took effect in 1994 & aims to eliminate tariffs by 2008 | NAFTA
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+U.S. GEOGRAPHY IN SONG | "Do you know the way to" this 1968 Top 10 place | San Jose
+right: Jerome
+Wrong: 
+Value: $200
+Number: 11
+ALPHABETICALLY LAST | ...of our solar system's 9 major planets | Venus
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+COMPOUND WORDS | Drivers wondered where to put gum wrappers when Chrysler introduced 1995 models without these | ashtrays
+right: Jerome
+Wrong: 
+Value: $200
+Number: 21
+GUNS & AMMO | In 2004, the National Firearms Museum opened an exhibit on these, highlighting their use in skeet & trapshooting | shotguns
+right: Brad
+Wrong: 
+Value: $200
+Number: 1
+HAUTE COUTURE | Nicole Farhi, who married playwright David Hare, is called the "Donna Karan of" this world capital | London
+right: Brad
+Wrong: 
+Value: $200
+Number: 29
+AMERICAN HISTORY | In the 1880s the Knights of this gave way to the American Federation of this representing workers | Labor
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+U.S. GEOGRAPHY IN SONG | In a 1964 hit, "I'm gonna have me some fun if it costs me my very last dime" in this title city | Las Vegas
+right: 
+Wrong: Triple Stumper
+Jerome: What's Kansas City?
+Value: $400
+Number: 12
+ALPHABETICALLY LAST | ...on the 2005 World Almanac's list of important inventions | the zipper
+right: Jerome
+Wrong: 
+Value: $400
+Number: 17
+COMPOUND WORDS | It comes between "Seal Island National" & "Refuge" | wildlife
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+GUNS & AMMO | (<http://www.j-archive.com/media/2005-05-24_J_02.jpg> Sarah of the Clue Crew delivers the clue from a biathlon range at Soldier Hollow, Utah.)  The biathlon rifle's a straight-pull, bolt-action model that fires 5.6 millimeter rounds, or <http://www.j-archive.com/media/2005-05-24_J_02a.jpg> this small caliber | .22
+right: Brad
+Wrong: 
+Value: $400
+Number: 2
+HAUTE COUTURE | Now a superstar designer herself, she was often described as the muse of her late brother Gianni | Donatella Versace
+right: Jerome
+Wrong: 
+Value: $400
+Number: 30
+AMERICAN HISTORY | In 1849, Thomas Ewing, "The Logician of the West", became the USA's first Secy. of this Cabinet Dept. | the Interior
+right: Brad
+Wrong: 
+Value: $600
+Number: 8
+U.S. GEOGRAPHY IN SONG | In 1981, Billy Joel told us to "Say goodbye to" this title place | Hollywood
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+ALPHABETICALLY LAST | ...of the mainland countries of South America | Venezuela
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+COMPOUND WORDS | A swallowtail is a type of this, a man's formal coat that slopes toward the tails | cutaway
+right: 
+Wrong: Triple Stumper
+Jerome: What's a, uh, an evening jacket?
+Value: $600
+Number: 23
+GUNS & AMMO | The line of pistols designed by this Austrian in 1898 became the standard for German soldiers | (George) Luger
+right: Brad
+Wrong: 
+Value: $600
+Number: 3
+HAUTE COUTURE | Lebanese designer Elie Saab created the gown she wore at the 1999 coronation of her husband, King Abdullah | Rania
+right: 
+Wrong: Triple Stumper
+Brad: Who is Noor?
+Value: $600
+Number: 26
+AMERICAN HISTORY | This committee that once claimed 800,000 members was dissolved Dec. 11, 1941 | the America First Committee
+right: 
+Wrong: Triple Stumper
+Jerome: What is the German-American Bund?
+Value: $800
+Number: 9
+U.S. GEOGRAPHY IN SONG | "Reverend Green be glad to see you" when you're "walking in" this town | Memphis
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+ALPHABETICALLY LAST | ...of Jesus' 12 original apostles | Thomas
+right: 
+Wrong: Triple Stumper
+Jerome: Who is Zebedee?
+Value: $800
+Number: 19
+COMPOUND WORDS | A piece of furniture, such as a bookcase, with a projecting central section | breakfront
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+GUNS & AMMO | The bullet or "ball" designed by this Frenchman in 1849 wreaked havoc in the U.S. Civil War | Minié
+right: Brad
+Wrong: 
+Value: $800
+Number: 4
+HAUTE COUTURE | This French designer's "Corolle" collection became famous as 1947's "New Look" | Christian Dior
+right: 
+Wrong: 
+Ken: Who is Chanel?
+Value: DD: $1,800
+Number: 27
+AMERICAN HISTORY | Gen. Charles Lee was relieved of command after ordering a retreat at this 1778 New Jersey battle | Monmouth
+right: Brad
+Wrong: 
+Value: $1000
+Number: 10
+U.S. GEOGRAPHY IN SONG | Sure, you studied presidents & state birds, but how the Beastie Boys & their "No Sleep Till" here | Brooklyn
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+ALPHABETICALLY LAST | ...on the Senate Foreign Relations Committee | Sen. George Voinovich (of Ohio)
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+COMPOUND WORDS | "Colorful" type of partial bone fracture common in children | greenstick
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+GUNS & AMMO | It's a term for a <http://www.j-archive.com/media/2005-05-24_J_05.jpg> type of monkey or a type of <http://www.j-archive.com/media/2005-05-24_J_05a.jpg> short barreled pistol both seen <http://www.j-archive.com/media/2005-05-24_J_05b.jpg> here | a snub-nose
+right: Brad
+Wrong: 
+Value: $1000
+Number: 5
+HAUTE COUTURE | Haute handbags are the speciality of this woman who was born Judith Peto in Budapest | Judith Lieber
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Brad: $4,600
+Ken: $3,000
+Jerome: -$1,000
+Scores at the end of the Jeopardy! Round:
+Brad: $4,200
+Ken: $2,400
+Jerome: -$1,400
+Second Jeopardy! Round: RICH-ARTs & ROB-ARTs, APPROPRIATE NAMES, BRITISH BUSINESS, CROSSWORD CLUES "T", ISTHMUS IN MAY, DESPERATE HOUSEFLIES
+RICH-ARTs & ROB-ARTs | Richard Diebenkorn's  "Ocean Park" series is named for an area in this beach city near L.A. | Santa Monica
+right: Jerome
+Wrong: 
+Value: $400
+Number: 1
+APPROPRIATE NAMES | Baron Brain, a medical scientist, wrote the text titled "Diseases of" this "System", now its 11th edition | the nervous system
+right: Brad
+Wrong: 
+Value: $400
+Number: 6
+BRITISH BUSINESS | John Shepherd-Barron invented it & in 1967 Barclays Bank installed the world's first one | an ATM
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+CROSSWORD CLUES "T" | Spanish diacritical mark (5) | tilde
+right: Brad
+Wrong: 
+Value: $400
+Number: 16
+ISTHMUS IN MAY | The 125-mile-wide Isthmus of Tehuantepec divides the Pacific Ocean from this gulf | the Gulf of Mexico
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+DESPERATE HOUSEFLIES | This poet "heard a fly buzz--when I died", "with blue--uncertain stumbling buzz--between the light--and me--" | Emily Dickinson
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+RICH-ARTs & ROB-ARTs | In houses like the one seen <http://www.j-archive.com/media/2005-05-24_DJ_02.jpg> here, Richard Morris Hunt brought America <http://www.j-archive.com/media/2005-05-24_DJ_02a.jpg> this style, from the French for "fine art" | Beaux Arts
+right: Jerome
+Wrong: 
+Value: $800
+Number: 2
+APPROPRIATE NAMES | "That is my real last name", says this man who came from obscurity to win the 2003 World Series of Poker | (Chris) Moneymaker
+right: Brad
+Wrong: 
+Value: $800
+Number: 7
+BRITISH BUSINESS | This art book publisher took its name from the rivers flowing through London & New York City | Thames & Hudson
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+CROSSWORD CLUES "T" | Stein's secretary (6) | Toklas
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+ISTHMUS IN MAY | This 10,400-sq.-mile region of Ukraine is joined to the mainland by the narrow Isthmus of Perekop | the Crimea
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+DESPERATE HOUSEFLIES | One of his "Songs of Experience" says "Little fly, thy summer's play my thoughtless hand has brushed away" | (William) Blake
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+RICH-ARTs & ROB-ARTs | Around 1912 Robert Delaunay brought color to the forefront of this -ism, thereby creating Orphism | Cubism
+right: Jerome
+Wrong: 
+Value: DD: $2,000
+Number: 3
+APPROPRIATE NAMES | The last name of this 1990s Detroit Tigers slugger was appropriate when he played first but not when he DHed | Cecil Fielder
+right: Brad
+Wrong: 
+Value: $1200
+Number: 8
+BRITISH BUSINESS | In the early 1700s William Fortnum, a footman who sold Queen Anne's used candles, went into retail with this partner | (Hugh) Mason
+right: Jerome
+Wrong: 
+Value: $1200
+Number: 13
+CROSSWORD CLUES "T" | Prehistoric cave-dweller (10) | troglodyte
+right: Ken
+Wrong: 
+Value: DD: $3,400
+Number: 18
+ISTHMUS IN MAY | The 31-mile-wide Isthmus of San Blas is the narrowest portion of this larger isthmus | the Isthmus of Panama
+right: Brad
+Wrong: 
+Value: $1200
+Number: 23
+DESPERATE HOUSEFLIES | Showdowns in this Sergio Leone epic include Fonda vs. Bronson & Jack Elam vs. a fly | Once Upon a Time in the West
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+RICH-ARTs & ROB-ARTs | In 2005 the woman in Robert Doisneau's photo called this "at the Hotel de Ville" sold her copy for $242,000 | The Kiss
+right: Brad
+Wrong: 
+Value: $1600
+Number: 4
+APPROPRIATE NAMES | The captain of the U.S.S. Constitution in her historic War of 1812 battle, it's also a part of the ship | Isaac Hull
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+BRITISH BUSINESS | Lea & Perrins of sauce fame both started their careers as these, meaning druggists or pharmacists | chemists
+right: Brad
+Wrong: 
+Value: $1600
+Number: 14
+CROSSWORD CLUES "T" | Son of Penelope & Odysseus (10) | Telemachus
+right: Jerome
+Wrong: 
+Value: $1600
+Number: 19
+ISTHMUS IN MAY | The Karelian Isthmus is a narrow strip of land between Lake Ladoga and this gulf | the Gulf of Finland
+right: Jerome
+Wrong: 
+Ken: What's Bothnia?
+Value: $1600
+Number: 24
+DESPERATE HOUSEFLIES | One fatality in this gory play from the early 1590s is a fly killed by Marcus | Titus Andronicus
+right: Brad
+Wrong: 
+Value: $1600
+Number: 29
+RICH-ARTs & ROB-ARTs | This architect partnered with Rudolph Schindler & pioneered steel-frame housing with the Lovell House, <http://www.j-archive.com/media/2005-05-24_DJ_05.jpg> seen <http://www.j-archive.com/media/2005-05-24_DJ_05a.jpg> here | (Richard) Neutra
+right: Jerome
+Wrong: 
+Value: $2000
+Number: 5
+APPROPRIATE NAMES | As a press secretary, this Mississippi native was often a spokesman for U.S. presidents in the 1970s & '80s | Larry Speakes
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+BRITISH BUSINESS | In 1986 inefficiency & strikes did in this auto brand known as BL | British Leyland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+CROSSWORD CLUES "T" | A structural type of geology (9) | tectonics
+right: Ken
+Wrong: 
+Jerome: What is tectonic?
+Value: $2000
+Number: 20
+ISTHMUS IN MAY | This ancient city commanded the SW end of the isthmus between the Peloponnesus & the rest of Greece | Corinth
+right: Jerome
+Wrong: 
+Value: $2000
+Number: 25
+DESPERATE HOUSEFLIES | Uncle Toby lets a fly go, saying the world "is wide enough to hold both thee and me" in "Tristram Shandy" by him | (Laurence) Sterne
+right: Brad
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Brad: $15,000
+Ken: $11,000
+Jerome: $8,200
+
+Final Jeopardy! Round
+LAW & SOCIETY | This Hollywood legend who died January 21, 1959 supported placing monuments that have since brought legal challenges | Cecil B. DeMille
+right: Brad
+Wrong: 
+Jerome: Who is Dean?
+Ken: Who is Gary Cooper?
+Wagers: 
+Jerome: $5,000
+Ken: $1,000
+Brad: $5,000
+Final scores:
+Brad: $20,000 ()
+Ken: $10,000 ()
+Jerome: $3,200 ()
+
+Coryat scores
+Brad: $15,000 (17 R,1 W)
+Ken: $10,600 (17 R(including 1 DD),2 W(including 1 DD))
+Jerome: $7,400 (12 R(including 1 DD),5 W)

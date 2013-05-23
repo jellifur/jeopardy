@@ -1,0 +1,304 @@
+3397 - Tuesday, May 18, 1999
+Comments: 1999-A Celebrity <i>Jeopardy!</i> game 2.
+Contestants:
+Catherine Bell: an actress from JAG
+Shannon Sharpe: a tight end from the Denver Broncos
+Holly Robinson Peete: an actress from For Your Love
+First Jeopardy! Round: U.S. HISTORY 101, JOCK JACKS & JOHNS, HOLLY-WOOD, SOCIAL ISSUES, SPEAK OF THE DEVIL!, PLAYING TO TYPE
+U.S. HISTORY 101 | In 1779 this Pennsylvania city was a state capital as well as the national capital | Philadelphia
+right: Shannon
+Wrong: 
+Value: $100
+Number: 11
+JOCK JACKS & JOHNS | In 1986, at age 46, this "Golden Bear" became the oldest golfer to win the Masters tournament | Jack Nicklaus
+right: Holly
+Wrong: 
+Value: $100
+Number: 6
+HOLLY-WOOD | She won an Oscar for her muted performance in "The Piano" | Holly Hunter
+right: Catherine
+Wrong: 
+Value: $100
+Number: 1
+SOCIAL ISSUES | California's Proposition 13, limiting property assessments, pioneered this type of "revolt" | tax/taxpayers' revolt
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 20
+SPEAK OF THE DEVIL! | When I speak of the "devil", I want this chocolate dessert, & I want it now! | Devil's Food Cake
+right: Catherine
+Wrong: 
+Value: $100
+Number: 15
+PLAYING TO TYPE | Let's go & fly one of these; maybe a flat, box or delta type | kite
+right: 
+Wrong: Triple Stumper
+Shannon: What is an airplane?
+Value: $100
+Number: 22
+U.S. HISTORY 101 | In the Kennedy assassination, a bullet struck John Connally, the governor of this state | Texas
+right: Holly
+Wrong: 
+Value: $200
+Number: 12
+JOCK JACKS & JOHNS | This former coach of the Raiders has won many Emmy Awards as an NFL analyst with CBS & Fox | John Madden
+right: Shannon
+Wrong: 
+Value: $200
+Number: 7
+HOLLY-WOOD | A 1982 concert film showed "Monty Python Live at' this landmark | the Hollywood Bowl
+right: 
+Wrong: Triple Stumper
+Holly: What is the Hollywood Sign?
+Value: $200
+Number: 2
+SOCIAL ISSUES | The flow of these from the south to states with tighter laws is called the "Iron Pipeline" | guns
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+SPEAK OF THE DEVIL! | This mysterious geographical area is also known as the Devil's Triangle | the Bermuda Triangle
+right: Holly
+Wrong: 
+Value: $200
+Number: 16
+PLAYING TO TYPE | Strike slip & oblique slip are types of these cracks along which earthquakes occur | fault lines
+right: Catherine
+Wrong: 
+Value: $200
+Number: 23
+U.S. HISTORY 101 | This president who vetoed the bill to establish the Second Bank of the U.S. is on the $20 bill today | Andrew Jackson
+right: Holly
+Wrong: 
+Catherine: Who is Jefferson?
+Value: $300
+Number: 13
+JOCK JACKS & JOHNS | In 1927 he lost a heavyweight title rematch with Gene Tunney in the Battle of the "Long Count" | Jack Dempsey
+right: Shannon
+Wrong: 
+Value: $300
+Number: 8
+HOLLY-WOOD | In a 1978 film Gary Busey played this rock legend | Buddy Holly
+right: Holly
+Wrong: 
+Value: $300
+Number: 3
+SOCIAL ISSUES | Also used by trapeze artists, it refers to programs like Medicare that protect the needy | safety net
+right: Shannon
+Wrong: 
+Value: $300
+Number: 27
+SPEAK OF THE DEVIL! | This insect is sometimes called the Devil's Horse, even though it looks like it's "praying" | praying mantis
+right: Catherine
+Wrong: 
+Value: $300
+Number: 17
+PLAYING TO TYPE | Heart attacks are often associated with this letter type of personality | type A
+right: Catherine
+Wrong: 
+Value: $300
+Number: 24
+U.S. HISTORY 101 | This gift from France was officially unveiled October 28, 1886 on Bedloe's Island | the Statue of Liberty
+right: Holly
+Wrong: 
+Value: DD: $300
+Number: 14
+JOCK JACKS & JOHNS | The No, 1 tennis player in the world from 1981 to 1984, he won more U.S. Davis Cup singles matches than anyone else | John McEnroe
+right: Holly
+Wrong: 
+Value: $400
+Number: 9
+HOLLY-WOOD | TV's "Charmed" star who took on "Dr. Giggles" on film | Holly Marie Combs
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+SPEAK OF THE DEVIL! | It's the pro sport played by the New Jersey Devils | ice hockey
+right: Holly
+Wrong: 
+Value: $400
+Number: 18
+PLAYING TO TYPE | ER techs need to know if this is type B or O | blood
+right: Catherine
+Wrong: 
+Value: $400
+Number: 25
+JOCK JACKS & JOHNS | This Utah Jazz guard holds the NBA record for career steals with over 2,600 | John Stockton
+right: Shannon
+Wrong: 
+Value: $500
+Number: 10
+HOLLY-WOOD | In "Breakfast at Tiffany's" Audrey Hepburn played this small-town girl in the big city | Holly Golightly
+right: Holly
+Wrong: 
+Value: $500
+Number: 5
+SPEAK OF THE DEVIL! | Ile du Diable is the French name for this place that was once a French penal colony | Devil's Island
+right: Holly
+Wrong: 
+Value: $500
+Number: 19
+PLAYING TO TYPE | The Golden Gate Bridge is classified as this type of bridge | suspension bridge
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Holly: $1,900
+Shannon: $1,100
+Catherine: -$200
+Scores at the end of the Jeopardy! Round:
+Holly: $3,000
+Shannon: $1,300
+Catherine: $1,100
+Second Jeopardy! Round: WORLD HISTORY 101, N.E.W.S., SHOWBIZ TIMELINE, YOU'RE AN ANIMAL!, SPORTS RHYME TIME, PLAYING AGAINST TYPE
+WORLD HISTORY 101 | World War II began in Europe in this decade when Nazi troops invaded Poland | the 1930s (1939)
+right: Shannon
+Wrong: 
+Catherine: What is 1940?
+Value: $200
+Number: 8
+N.E.W.S. | Of northern, eastern, western or southern, the classification of the 1992 Best Picture Oscar winner | western
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 18
+SHOWBIZ TIMELINE | The music died when Buddy Holly, the Big Bopper & this "La Bamba" singer died in a plane crash on February 3, 1959 | Ritchie Valens
+right: Shannon
+Wrong: 
+Value: $200
+Number: 11
+YOU'RE AN ANIMAL! | The red caucated variety of this head-banging bird is seen here | woodpecker
+right: Shannon
+Wrong: 
+Value: $200
+Number: 1
+SPORTS RHYME TIME | Friendly frozen surface for NHL action | nice ice
+right: Holly
+Wrong: 
+Value: $200
+Number: 6
+PLAYING AGAINST TYPE | She was merry poppin' out of her shirt in "S.O.B.", a film directed by her husband | Julie Andrews
+right: Holly
+Wrong: 
+Value: $200
+Number: 16
+WORLD HISTORY 101 | This "Rough Rider" was FDR's uncle by marriage as well as his cousin | Theodore Roosevelt
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+N.E.W.S. | Of north, east, south or west, the lieutenant colonel who reported to McFarlane & Poindexter | Oliver North
+right: Shannon
+Wrong: 
+Value: $400
+Number: 21
+SHOWBIZ TIMELINE | In 1988 the Recording Industry of America reported that these outsold vinyl LPs for the first time | compact discs
+right: Catherine
+Wrong: 
+Value: $400
+Number: 12
+YOU'RE AN ANIMAL! | Varieties of these hardy insects of the family Formicidae may be weavers or carpenters | ants
+right: Catherine
+Wrong: 
+Value: $400
+Number: 2
+SPORTS RHYME TIME | Aye laddie, it's the teeny-tiny golf peg you put your ball one | wee tee
+right: Shannon
+Wrong: 
+Catherine: What is a tee?
+Value: $400
+Number: 7
+PLAYING AGAINST TYPE | In 1993's "The Good Son" he was a pre-teen sociopath, not someone you want to be "Home Alone" with | Macaulay Culkin
+right: Shannon
+Wrong: 
+Value: $400
+Number: 17
+WORLD HISTORY 101 | From ancient times until 1935, Iran was known by this name | Persia
+right: Holly
+Wrong: 
+Value: $600
+Number: 10
+N.E.W.S. | Of Northern, Eastern, Western or Southern, the airline once run by Eddie Rickenbacker | Eastern
+right: Shannon
+Wrong: 
+Catherine: What is Southwest?
+Value: $600
+Number: 22
+SHOWBIZ TIMELINE | On June 19, 1997 this musical surpassed "A Chorus Line" as the longest-running Broadway show of all time | Cats
+right: Catherine
+Wrong: 
+Value: DD: $600
+Number: 13
+YOU'RE AN ANIMAL! | These fast felines are extinct or endangered in much of their range | cheetahs
+right: Shannon
+Wrong: 
+Value: $600
+Number: 3
+WORLD HISTORY 101 | These Asiatic nomads were led by Attila from 434 to 453 A.D. | the Huns
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+N.E.W.S. | Of north, east, west or south, the one that doesn't start a U.S. state's name | east
+right: 
+Wrong: 
+Shannon: What is south?
+Value: DD: $500
+Number: 23
+SHOWBIZ TIMELINE | In 1914 he created the Little Tramp character in "Kid Auto Races at Venice", his second film | Charlie Chaplin
+right: Catherine
+Wrong: 
+Value: $800
+Number: 14
+YOU'RE AN ANIMAL! | It's the masked animal seen here | cardinal
+right: Shannon
+Wrong: 
+Value: $800
+Number: 4
+WORLD HISTORY 101 | Born in 1819, she lived until 1901, the last 64 years as queen | Queen Victoria
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+N.E.W.S. | Of North, East, West or South, the Joe who had a hit with "Games People Play" | Joe South
+right: Shannon
+Wrong: 
+Holly: West...What is West?
+Value: $1000
+Number: 24
+SHOWBIZ TIMELINE | On May 16, 1929, Douglas Fairbanks hosted the first Oscar ceremonies at this Hollywood hotel | the Roosevelt Hotel
+right: Catherine
+Wrong: 
+Value: $1000
+Number: 15
+YOU'RE AN ANIMAL! | In the '50s, many a politically incorrect coat was made from the furs of this herbivore | chinchilla
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Holly: $3,000
+Shannon: $5,600
+Catherine: $3,100
+
+Final Jeopardy! Round
+TV CHARACTERS | The first name of this TV title character whose show debuted in 1998 is a synonym for "happiness" or "good fortune" | Felicity
+right: 
+Wrong: 
+Holly: Who I
+Catherine: Who is Chance
+Shannon: Who Don't Know   Hi Buck Buck & Granny
+Wagers: 
+Holly: $3,000
+Catherine: $3,100
+Shannon: $601
+Final scores:
+Holly: $0 (3rd place: $10,000 for The HollyRod Foundation)
+Shannon: $4,999 (Winner: $15,000 for the Cerebral Palsy Association)
+Catherine: $0 (2nd place: $10,000 for The Buoniconti Fund, for The Miami Project)
+
+Coryat scores
+Holly: $3,100 (13 R(including 1 DD),2 W)
+Shannon: $6,100 (15 R,2 W(including 1 DD))
+Catherine: $3,100 (11 R(including 1 DD),4 W)

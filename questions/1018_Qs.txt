@@ -1,0 +1,343 @@
+3662 - Tuesday, July 4, 2000
+Contestants:
+Ron Landers: a lawyer from Chattanooga, Tennessee
+Mike Fazioli: an editor from Fairfield, Connecticut (whose 1-day cash winnings total $10,400)
+Glen Savory: an Air Force contracting officer originally from Georgetown, Massachusetts (whose 1-day cash winnings total $10,400)
+First Jeopardy! Round: INDEPENDENCE!, LET'S HAVE A BALL, MUSIC OF THE '90s, HISTORICAL NOVELS, FOOD, "FIRE"WORKS
+INDEPENDENCE! | With a treaty signed September 3, 1783, Great Britain recognized this country's independence | USA
+right: Glen
+Wrong: 
+Value: $100
+Number: 1
+LET'S HAVE A BALL | Sink it & you've scratched | the cue ball
+right: 
+Wrong: Triple Stumper
+Glen: Um...
+Mike: What is the pinball?
+Ron: What is the 8-ball?
+Value: $100
+Number: 6
+MUSIC OF THE '90s | In 1998 this actor-rapper had his first No. 1 pop hit with "Gettin' Jiggy Wit It" | Will Smith
+right: Ron
+Wrong: 
+Value: $100
+Number: 11
+HISTORICAL NOVELS | Fans of chariot races may know that Lew Wallace wrote this novel way back in 1880 | Ben Hur
+right: Ron
+Wrong: 
+Value: $100
+Number: 16
+FOOD | In 1966 Fritos introduced these chips, cut in a triangular shape | Doritos
+right: Ron
+Wrong: 
+Value: $100
+Number: 21
+"FIRE"WORKS | The "Red Imported" species of this insect can build a dirt mound 2 feet high | the fire ant
+right: Glen
+Wrong: 
+Value: $100
+Number: 22
+INDEPENDENCE! | May 14, 1948 is considered this country's day of independence | Israel
+right: Ron
+Wrong: 
+Value: $200
+Number: 2
+LET'S HAVE A BALL | This demolition tool swings from a cable attached to a crane | a wrecking ball
+right: Ron
+Wrong: 
+Value: $200
+Number: 7
+MUSIC OF THE '90s | Her video for "Constant Craving" was named MTV's Best Female Video of the Year in 1993 | k.d. lang
+right: Ron
+Wrong: 
+Value: $200
+Number: 12
+HISTORICAL NOVELS | "My Theodosia" is the story of this man's daughter, Theodosia Burr Alston, believed to be lost at sea in 1813 | Aaron Burr
+right: Glen
+Wrong: 
+Value: $200
+Number: 17
+FOOD | Campbell's picked these, the school colors of Cornell University, for its label | red & white
+right: Mike
+Wrong: 
+Value: $200
+Number: 23
+"FIRE"WORKS | Aries, Leo & Sagittarius, taken collectively | fire signs
+right: Mike
+Wrong: 
+Value: $200
+Number: 24
+INDEPENDENCE! | India got its independence August 15, 1947, the day after this neighbor got its own | Pakistan
+right: Ron
+Wrong: 
+Value: $300
+Number: 3
+LET'S HAVE A BALL | Its manufacturer says it was designed for use in congested areas | the wiffle ball
+right: Mike
+Wrong: 
+Value: $300
+Number: 8
+MUSIC OF THE '90s | The first No. 1 hit of the '90s, "Another Day In Paradise" by this singer was originally titled "Homeless" | Phil Collins
+right: Glen
+Wrong: 
+Value: $300
+Number: 13
+HISTORICAL NOVELS | This 1978 James Michener novel details the history of Maryland's eastern shore | Chesapeake
+right: Glen
+Wrong: 
+Value: $300
+Number: 18
+FOOD | Banquet introduced its first frozen food product in 1953, this type of pie | chicken pot pie
+right: Ron
+Wrong: 
+Value: $300
+Number: 28
+"FIRE"WORKS | This loud noise happens when your jalopy ignites unburned exhaust fumes | backfire
+right: Ron
+Wrong: 
+Value: $300
+Number: 25
+INDEPENDENCE! | In 1896, after losing a war Italy was forced to recognize the independence of this African country | Ethiopia
+right: Ron
+Wrong: 
+Value: $400
+Number: 4
+LET'S HAVE A BALL | It's a naphthalene sphere to repel a lepidopteran | a moth ball
+right: 
+Wrong: 
+Mike: [No response]
+Value: DD: $500
+Number: 9
+MUSIC OF THE '90s | This old Elvis tune resurrected by UB40 in 1993 begins, "Wise men say, only fools rush in" | I Can't Help Falling In Love With You
+right: Ron
+Wrong: 
+Value: $400
+Number: 14
+HISTORICAL NOVELS | Chief Conanchet is a major character in "The Wept of Wish-Ton-Wish", an 1829 novel by this American author | James Fenimore Cooper
+right: Ron
+Wrong: 
+Value: $400
+Number: 19
+FOOD | The last name of a former General Mills director was immortalized in this cake mix line | Betty Crocker
+right: Ron
+Wrong: 
+Glen: Who is Bundt?
+Value: $400
+Number: 29
+"FIRE"WORKS | Adjective for a plan that is guaranteed to succeed | surefire
+right: Ron
+Wrong: 
+Value: $400
+Number: 26
+INDEPENDENCE! | In 1965 it slung itself out of the federation of Malaysia | Singapore
+right: Ron
+Wrong: 
+Value: $500
+Number: 5
+LET'S HAVE A BALL | In 1999 Boy George was injured when one of these plunged from the ceiling during sound check | a mirrored ball (or disco ball)
+right: Mike
+Wrong: 
+Value: $500
+Number: 10
+MUSIC OF THE '90s | In 1993 he sang, "I'd do anything for love, but I won't do that" | Meat Loaf
+right: Ron
+Wrong: 
+Value: $500
+Number: 15
+HISTORICAL NOVELS | Highland raiders known as the Children of the Mist wreak havoc in "The Legend of Montrose" by this 19th c. author | Sir Walter Scott
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+FOOD | Oh baby, in 1953 Ore-Ida invented this hash brown product | tater tots
+right: Glen
+Wrong: 
+Value: $500
+Number: 30
+"FIRE"WORKS | This British fighter plane had its heyday during World War II | Spitfire
+right: Glen
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Glen: $300
+Mike: $200
+Ron: $1,800
+Scores at the end of the Jeopardy! Round:
+Glen: $1,500
+Mike: $600
+Ron: $4,700
+Second Jeopardy! Round: CELEBRATING THE IV, HORSE SENSE, AROUND ASIA, NAME THE TV SHOW, ARCHAEOLOGY, "RED", "WHITE" & "BLUE"
+CELEBRATING THE IV | The last IV to serve as this was Pius IV in 1565 | Pope
+right: Ron
+Wrong: 
+Value: $200
+Number: 6
+HORSE SENSE | This alliterative plaything is a horse's head on a stick | Hobby horse
+right: Glen
+Wrong: 
+Value: $200
+Number: 26
+AROUND ASIA | In area, it's the largest country that's entirely in Asia | China
+right: Mike
+Wrong: 
+Value: $200
+Number: 21
+NAME THE TV SHOW | (ticking stopwatch) | 60 Minutes
+right: Mike
+Wrong: 
+Value: $200
+Number: 1
+ARCHAEOLOGY | Surfacing in 1999, the "Angel Scroll" is either a hoax or part of these Jewish writings discovered in 1947 | Dead Sea Scrolls
+right: Glen
+Wrong: 
+Value: $200
+Number: 11
+"RED", "WHITE" & "BLUE" | Clara Barton is "The Mother Of" this organization | Red Cross
+right: Mike
+Wrong: 
+Value: $200
+Number: 16
+CELEBRATING THE IV | Regent for his predecessor from 1811 to 1820, he was king of England on his own from 1820 to 1830 | George IV
+right: Ron
+Wrong: 
+Value: $400
+Number: 7
+HORSE SENSE | The horse is the state animal of this state, home to Schering-Plough & Bayonne | New Jersey
+right: Glen
+Wrong: 
+Value: $400
+Number: 27
+AROUND ASIA | Many medieval structures remain in Esfahan, which became capital of this country in 1598 under Shah Abbas | Iran
+right: Mike
+Wrong: 
+Value: $400
+Number: 22
+NAME THE TV SHOW | "Na Nu, Na Nu" | Mork And Mindy
+right: Glen
+Wrong: 
+Value: $400
+Number: 2
+ARCHAEOLOGY | What might be the earliest example of a phonetic alphabet was found in this African country in December 1999 | Egypt
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+"RED", "WHITE" & "BLUE" | It describes a crime such as embezzlement committed by a person in business or government | White collar
+right: Glen
+Wrong: 
+Value: $400
+Number: 17
+CELEBRATING THE IV | In 1547 he decreed, "Call me czar!" | Ivan IV (a.k.a. "The Terrible")
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+HORSE SENSE | A horse born December 31, 1998 became a yearling on this date | January 1, 1999
+right: Ron
+Wrong: 
+Value: $600
+Number: 28
+AROUND ASIA | In South Korea, Pagoda & Seoul Grand are these, also the name of over 3 million people | Parks
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+NAME THE TV SHOW | "Ugly Naked Guy's laying kitchen tile, eww!" | Friends
+right: Ron
+Wrong: 
+Value: $600
+Number: 3
+ARCHAEOLOGY | Some yarn found on Baffin Island suggests these people visited there in the 13th century | Vikings (Norse)
+right: Glen
+Wrong: 
+Value: $600
+Number: 13
+"RED", "WHITE" & "BLUE" | Sean Penn & Nick Nolte were among the soldiers at Guadalcanal in this 1998 war film | The Thin Red Line
+right: Ron
+Wrong: 
+Value: $600
+Number: 18
+CELEBRATING THE IV | Henry IV was the first king of France in this family's dynasty | Bourbon
+right: Glen
+Wrong: 
+Value: $800
+Number: 9
+HORSE SENSE | It was the 1975 Tony Award winner for best play | Equus
+right: Ron
+Wrong: 
+Value: DD: $1,800
+Number: 29
+AROUND ASIA | Eel is a culinary specialty of this third-largest Japanese city, site of the 1970 World's Fair | Osaka
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+NAME THE TV SHOW | "No soup for you!" | Seinfeld
+right: Mike
+Wrong: 
+Value: $800
+Number: 4
+ARCHAEOLOGY | Anthropologists now argue over the gender of this famous Australopithecene once accepted as female | Lucy
+right: Glen
+Wrong: 
+Value: DD: $1,000
+Number: 14
+"RED", "WHITE" & "BLUE" | This lefty & former Oakland A ended his pitching career in 1986 with a 209-161 record & a 3.27 ERA | Vida Blue
+right: Glen
+Wrong: 
+Value: $800
+Number: 19
+CELEBRATING THE IV | With 60 years, Christian IV holds the record as the man who reigned the longest over this country | Denmark
+right: Mike
+Wrong: 
+Value: $1000
+Number: 10
+HORSE SENSE | In 1948 the public was let in to see the horses painted in the walls of this French cave | Lascaux
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+AROUND ASIA | The winding course of Turkey's Buyuk Menderes River gives us this English word | Meander
+right: Glen
+Wrong: 
+Value: $1000
+Number: 25
+NAME THE TV SHOW | "I'm coming, Elizabeth, I'm coming!" | Sanford And Son
+right: Glen
+Wrong: 
+Value: $1000
+Number: 5
+ARCHAEOLOGY | In 1996 New Mexico wildfires damaged ruins of this tribe the Navajo called "The Ancient Ones" | Anasazi
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+"RED", "WHITE" & "BLUE" | "Holy" district in London's east end that's infamous as the scene of Jack the Ripper's murders | Whitechapel
+right: Glen
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Glen: $8,300
+Mike: $2,800
+Ron: $8,300
+
+Final Jeopardy! Round
+U.S. HISTORY | In 1965 President Johnson flew to this state to sign the Medicare bill with a former president as witness | Missouri
+right: Mike | Glen
+Wrong: 
+Ron: What is Texas?
+Wagers: 
+Mike: $2,800
+Ron: $8,300
+Glen: $8,300
+Final scores:
+Glen: $16,600 (2-day champion: $27,000)
+Mike: $5,600 (2nd place: ebags.com Gift Certificate)
+Ron: $0 (3rd place: Ducane Gas Grill)
+
+Coryat scores
+Glen: $8,100 (19 R(including 1 DD),3 W)
+Mike: $3,300 (10 R,3 W(including 1 DD))
+Ron: $7,300 (22 R(including 1 DD),2 W)

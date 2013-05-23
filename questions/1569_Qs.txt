@@ -1,0 +1,338 @@
+3882 - Tuesday, June 19, 2001
+Contestants:
+Jay Robison: an administrative assistant from Austin, Texas
+Marian Chen: a graduate student from Jersey City, New Jersey
+Chip Rossetti: an editor from Brooklyn, New York (whose 1-day cash winnings total $12,201)
+First Jeopardy! Round: EARTH SCIENCES, ANTIQUES, HAIL TO THE CHIEF, SATURDAY NIGHT LIVES, TRAVEL FUN, MUSICAL GENRES
+EARTH SCIENCES | The Earth is the only planet in our solar system to have 2/3 of its surface covered by this | Water
+right: Chip
+Wrong: 
+Value: $100
+Number: 12
+ANTIQUES | In the 19th century Baccarat made prized examples of these objects, to be used on a desk when the window's open | Paperweights
+right: Chip
+Wrong: 
+Value: $100
+Number: 1
+HAIL TO THE CHIEF | He appeared in films with his first wife Jane & his second wife Nancy | Ronald Reagan
+right: Jay
+Wrong: 
+Value: $100
+Number: 24
+SATURDAY NIGHT LIVES | His classic characters on "SNL" included the Killer Bee, Joe Cocker & the Samurai Warrior | John Belushi
+right: Chip
+Wrong: 
+Value: $100
+Number: 19
+TRAVEL FUN | You can cuddle a koala at the Lone Pine Koala Sanctuary in Brisbane in this country | Australia
+right: Jay
+Wrong: 
+Value: $100
+Number: 11
+MUSICAL GENRES | A light blow, as on a door or across the knuckles | Rap
+right: Chip
+Wrong: 
+Value: $100
+Number: 6
+EARTH SCIENCES | The Earth's crust & lithosphere are broken into these whose movements against each other cause earthquakes | Plates
+right: Marian
+Wrong: 
+Value: $200
+Number: 17
+ANTIQUES | A popular porcelain item is this type of bowl in which a party drink is served | Punch bowl
+right: Jay
+Wrong: 
+Value: $200
+Number: 2
+HAIL TO THE CHIEF | He met wife Mamie Doud in 1915 at Fort Sam Houston when they were introduced by the wife of a fellow officer | Dwight D. Eisenhower
+right: Marian
+Wrong: 
+Value: $200
+Number: 25
+SATURDAY NIGHT LIVES | In the fall of 1976, this star of "Fletch" became one of the first cast members to leave the show | Chevy Chase
+right: Jay
+Wrong: 
+Value: $200
+Number: 20
+TRAVEL FUN | The 50-story replica of the Eiffel Tower seen here isn't in Paris, France, but in this city | Las Vegas
+right: Chip
+Wrong: 
+Value: $200
+Number: 13
+MUSICAL GENRES | A mass of mineral matter | Rock
+right: Marian
+Wrong: 
+Value: $200
+Number: 7
+EARTH SCIENCES | The name of this phylum that includes lobsters & spiders means "jointed foot" | Arthropods
+right: Chip
+Wrong: 
+Value: $300
+Number: 18
+ANTIQUES | In 1998 a drinking flagon made of this tin alloy sold for a record $145,500 | Pewter
+right: Chip
+Wrong: 
+Value: $300
+Number: 3
+HAIL TO THE CHIEF | In his 1805 inaugural, he said, "I know that the acquisition of Louisiana has been disapproved by some" | Thomas Jefferson
+right: Marian
+Wrong: 
+Value: $300
+Number: 26
+SATURDAY NIGHT LIVES | The show's original cast members were billed as these "players" | "The Not Ready For Prime Time Players"
+right: Chip
+Wrong: 
+Value: $300
+Number: 21
+TRAVEL FUN | If it's August & you're in Austin, Texas, indulge in a romantic dinner cruise to watch these flying mammals | Bats
+right: Jay
+Wrong: 
+Value: $300
+Number: 14
+MUSICAL GENRES | The book of Matthew, Mark, Luke or John | Gospel
+right: Jay
+Wrong: 
+Value: $300
+Number: 8
+EARTH SCIENCES | In 1952 she quit her job at the U.S. Fish & Wildlife Service to devote all her time to her writing | Rachel Carson
+right: Chip
+Wrong: 
+Value: DD: $300
+Number: 29
+ANTIQUES | 3-word name for the piece of antique furniture seen here | Chest of drawers
+right: Chip
+Wrong: 
+Value: $400
+Number: 4
+HAIL TO THE CHIEF | Some opponents called him the "Raw Dealocrat" | Franklin D. Roosevelt
+right: Chip
+Wrong: 
+Value: $400
+Number: 27
+SATURDAY NIGHT LIVES | For 2 seasons Don Novello appeared regularly on the show as this "Father" | Father Guido Sarducci
+right: Jay
+Wrong: 
+Value: $400
+Number: 22
+TRAVEL FUN | Consider riding a narrow-gauge train into a salt mine at Bex in this country's Vaud canton | Switzerland
+right: Chip
+Wrong: 
+Value: $400
+Number: 15
+MUSICAL GENRES | To burst, like a balloon | Pop
+right: Marian
+Wrong: 
+Value: $400
+Number: 9
+EARTH SCIENCES | In 1911 Arthur Holmes used the decay of this element to lead to measure the age of the Earth | Uranium
+right: Jay
+Wrong: 
+Value: $500
+Number: 30
+ANTIQUES | The "Antiques Roadshow" website calls this "a fancy word" for who owned an object, when & where | provenance
+right: Jay
+Wrong: 
+Chip: What is pedigree?
+Value: $500
+Number: 5
+HAIL TO THE CHIEF | He died of a stroke on August 2, 1923, right after his wife read an article about him, "A Calm View of a Calm Man" | Warren G. Harding
+right: Chip
+Wrong: 
+Value: $500
+Number: 28
+SATURDAY NIGHT LIVES | Cast member Nora Dunn boycotted the final show of the '89-90 season when this controversial comedian hosted | Andrew Dice Clay
+right: Jay
+Wrong: 
+Value: $500
+Number: 23
+TRAVEL FUN | A snowman known as Bonhomme is the symbol of Le Carnaval D'Hiver, the winter carnival in this Canadian city | Quebec City
+right: Marian
+Wrong: 
+Value: $500
+Number: 16
+MUSICAL GENRES | A rural district, or a nation | Country
+right: Marian
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Chip: $1,100
+Marian: $1,600
+Jay: $600
+Scores at the end of the Jeopardy! Round:
+Chip: $3,000
+Marian: $2,200
+Jay: $1,900
+Second Jeopardy! Round: OFF & RUNNING, "TRAC" MEET, LITERATURE, NOT REALLY RELATED, THE ASTRONAUT HALL OF FAME, CITIES IN INDIA
+OFF & RUNNING | In Olympic track & field events, this many runners make up a relay team | 4
+right: Chip
+Wrong: 
+Value: $200
+Number: 24
+"TRAC" MEET | A farming vehicle with large, heavily-treaded tires | Tractor
+right: Marian
+Wrong: 
+Value: $200
+Number: 16
+LITERATURE | James Fenimore Cooper's 1823 novel "The Pioneers" was the first in a series of these 5 "Tales" | "Leatherstocking Tales"
+right: Jay
+Wrong: 
+Value: $200
+Number: 2
+NOT REALLY RELATED | "You're So Vain" singer & pieman meeter | Carly & Simple Simon
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+THE ASTRONAUT HALL OF FAME | State in which the Hall of Fame is located | Florida
+right: Chip
+Wrong: 
+Value: $200
+Number: 1
+CITIES IN INDIA | Until 1912 it was the capital of British India (black hole & all) | Calcutta
+right: Jay
+Wrong: 
+Value: $200
+Number: 7
+OFF & RUNNING | She won 3 track & field gold medals at the 1988 Summer Olympics | Florence Griffith-Joyner
+right: Jay
+Wrong: 
+Value: $400
+Number: 25
+"TRAC" MEET | It's a commercially released album of music used in a film | Soundtrack
+right: Marian
+Wrong: 
+Value: $400
+Number: 17
+LITERATURE | In 1919 Booth Tarkington won a Pulitzer Prize for this "Magnificent" novel; in 1922 he won again for "Alice Adams" | "The Magnificent Ambersons"
+right: Jay
+Wrong: 
+Value: $400
+Number: 9
+NOT REALLY RELATED | "Cruelty" singer & chocolate chip cookie maker | Tori & Famous Amos
+right: Marian
+Wrong: 
+Value: $400
+Number: 22
+THE ASTRONAUT HALL OF FAME | His historic 1962 orbital flight was marked by drama over a possibly loose heat shield | John Glenn
+right: Jay
+Wrong: 
+Value: $400
+Number: 3
+CITIES IN INDIA | In this city you'll find the National Museum & the Rashtrapati Bhavan or President's House | New Delhi
+right: Chip
+Wrong: 
+Value: $400
+Number: 8
+OFF & RUNNING | In 1985 this American middle-distance runner married discus thrower Richard Slaney | Mary Decker
+right: Jay
+Wrong: 
+Value: DD: $1,100
+Number: 26
+"TRAC" MEET | Oops!  It's a newspaper's printed correction | Retraction
+right: Marian
+Wrong: 
+Value: $600
+Number: 18
+LITERATURE | In this 1952 short story, Hemingway wrote, "A man can be destroyed but not defeated" | "The Old Man and the Sea"
+right: Marian
+Wrong: 
+Value: $600
+Number: 11
+NOT REALLY RELATED | Etiquette expert promoting restraint & a parking place to hold your horses | Emily & hitching Post
+right: Jay
+Wrong: 
+Value: $600
+Number: 23
+THE ASTRONAUT HALL OF FAME | While others moonwalked, this vehicle was piloted by Michael Collins on Apollo 11 & Ronald Evans on Apollo 17 | Command module
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+CITIES IN INDIA | This heavily populated port city & capital of Maharashtra state is the leading financial center of India | Bombay/Mumbai
+right: Marian
+Wrong: 
+Value: $600
+Number: 10
+OFF & RUNNING | Finland's Olympic Stadium prominently features a statue of this distance runner | Paavo Nurmi
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+"TRAC" MEET | It can mean a passage from a book or a concentrated food flavoring like vanilla | Extract
+right: Marian
+Wrong: 
+Value: $800
+Number: 19
+LITERATURE | In "A Scandal in" this, Sherlock Holmes calls Dr. Watson his "Boswell" | "Bohemia"
+right: Chip
+Wrong: 
+Value: $800
+Number: 12
+NOT REALLY RELATED | Ring in with these, a "JAG" star & a Philadelphia landmark | Catherine & Liberty Bell
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+THE ASTRONAUT HALL OF FAME | The other Mercury astronauts knew him as "Wally" | Wally Schirra
+right: Jay
+Wrong: 
+Value: $800
+Number: 5
+CITIES IN INDIA | Over 2,000 died when the Union Carbide chemical plant in this city leaked toxic gas in 1984 | Bhopal
+right: Jay
+Wrong: 
+Value: $800
+Number: 14
+OFF & RUNNING | Runners must clear hurdles & water jumps in this 3,000-meter track & field event | Steeplechase
+right: Jay
+Wrong: 
+Value: $1000
+Number: 28
+"TRAC" MEET | It can be a type of non-representational art or a printed summary of a longer text | Abstract
+right: Marian
+Wrong: 
+Value: DD: $1,500
+Number: 20
+LITERATURE | Graham Greene's "A Gun For Sale" was published in the U.S. under this title | "This Gun For Hire"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+NOT REALLY RELATED | "Lady's Not For Burning" playwright & potato product not for burning at McDonald's | Christopher & French Fry
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+THE ASTRONAUT HALL OF FAME | This astronaut's sunken Mercury capsule was recovered in 1999 | Gus Grissom
+right: Jay
+Wrong: 
+Value: $1000
+Number: 6
+CITIES IN INDIA | Mumtaz knows it's the northern India city that's home to the Pearl Mosque & the Taj Mahal | Agra
+right: Marian
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Chip: $3,400
+Marian: $7,300
+Jay: $8,000
+
+Final Jeopardy! Round
+HITCHCOCK FILMS | The action of this 1959 film moves from New York to South Dakota | North by Northwest
+right: Chip | Marian | Jay
+Wrong: 
+Wagers: 
+Chip: $2,000
+Marian: $7,300
+Jay: $7,000
+Final scores:
+Chip: $5,400 (3rd place: DirecTV Satellite System Package)
+Marian: $14,600 (2nd place: Costa Cruises 7-Night Caribbean Cruise)
+Jay: $15,000 (New champion: $15,000)
+
+Coryat scores
+Chip: $3,500 (17 R(including 1 DD),4 W)
+Marian: $6,800 (16 R(including 1 DD),3 W)
+Jay: $7,500 (21 R(including 1 DD),5 W)

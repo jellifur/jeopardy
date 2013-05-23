@@ -1,0 +1,344 @@
+3946 - Monday, October 29, 2001
+Comments: 2001 Tournament of Champions semifinal game 1.  <br />
+Contestants:
+Tad Carithers: an attorney from Atlanta, Georgia
+Ryan Moore: a partner in a start-up company from Venice, California
+Babu Srinivasan: a history professor from Houston, Texas
+First Jeopardy! Round: MEDICAL BREAKTHROUGHS, PRO FOOTBALL, THEY WERE FREEMASONS, CLEAN FREAK, ART-PODGE, "TIC" TALK
+MEDICAL BREAKTHROUGHS | In the 1750s naval surgeon James Lind showed that this could be cured & prevented by eating citrus fruit | scurvy
+right: Babu
+Wrong: 
+Value: $100
+Number: 26
+PRO FOOTBALL | In 1999 this city's Colts won 10 more games than in 1998, the biggest one-season improvement to date | Indianapolis
+right: Tad
+Wrong: 
+Value: $100
+Number: 1
+THEY WERE FREEMASONS | In 1960 this acting legend & Freemason played another Freemason, Davy Crockett, in "The Alamo" | John Wayne
+right: Ryan
+Wrong: 
+Tad: Who is Fess Parker?
+Value: $100
+Number: 16
+CLEAN FREAK | (Sarah of the Clue Crew)  Health regulations often call for some restaurant employees to wear these on their heads | hairnets
+right: Tad
+Wrong: 
+Value: $100
+Number: 2
+ART-PODGE | This Chinese dynasty that reigned from 1368 to 1644 was known for beautiful vases | Ming
+right: Tad
+Wrong: 
+Value: $100
+Number: 18
+"TIC" TALK | This kind of person doesn't deny that God exists, he just believes it's impossible to know | agnostic
+right: Tad
+Wrong: 
+Value: $100
+Number: 11
+MEDICAL BREAKTHROUGHS | He developed the live-attenuated vaccine for polio, which is given orally & requires no booster shot | Albert Sabin
+right: Tad
+Wrong: 
+Babu: Who is Salk?
+Value: $200
+Number: 27
+PRO FOOTBALL | Until 1989 this was the only head coach the Dallas Cowboys ever had | Tom Landry
+right: Tad
+Wrong: 
+Value: $200
+Number: 4
+THEY WERE FREEMASONS | This American conjurer, escapologist & Freemason was born in Budapest in 1874 as Ehrich Weiss | Harry Houdini
+right: Tad
+Wrong: 
+Value: $200
+Number: 17
+CLEAN FREAK | It can mean to wash shampoo off hair, or a solution to color hair | rinse
+right: Babu
+Wrong: 
+Value: $200
+Number: 3
+ART-PODGE | Damien Hirst is known for his dead-animals-in-tanks artworks, notably a tiger one of these fish in formaldehyde | tiger shark
+right: Tad
+Wrong: 
+Value: $200
+Number: 19
+"TIC" TALK | This ancient medical oath begins, "I swear by Apollo physician..." | the Hippocratic Oath
+right: Tad
+Wrong: 
+Value: $200
+Number: 12
+MEDICAL BREAKTHROUGHS | Neatness doesn't always count -- a moldy petri dish of Staphylococcus bacteria led to the discovery of this antibiotic | penicillin
+right: Tad
+Wrong: 
+Value: $300
+Number: 28
+PRO FOOTBALL | 2 of the 3 cities that had been home to the team now called the Titans | (2 of 3) Houston, Memphis & Nashville
+right: Babu
+Wrong: 
+Value: DD: $600
+Number: 7
+THEY WERE FREEMASONS | He regularly attended Masonic lodge meetings until 1911 when he became England's first Lord of the Admiralty | Winston Churchill
+right: Ryan
+Wrong: 
+Value: $300
+Number: 23
+CLEAN FREAK | In this process, a stone surface is cleaned with tiny grains fired at high velocity | sandblastng
+right: Tad
+Wrong: 
+Value: $300
+Number: 5
+ART-PODGE | "Lobster Trap and Fish Tail" is one of this artist's best-known mobiles | Alexander Calder
+right: Tad
+Wrong: 
+Value: $300
+Number: 20
+"TIC" TALK | This term for a reckless or foolish person is from the Latin for "moon-struck" | lunatic
+right: Ryan
+Wrong: 
+Value: $300
+Number: 13
+MEDICAL BREAKTHROUGHS | Neatness does count -- his discovery of antiseptics reduced deaths from surgical infections | Joseph Lister
+right: Ryan
+Wrong: 
+Value: $400
+Number: 29
+PRO FOOTBALL | This Dolphins quarterback retired after the 1999 season with a record 420 career touchdown passes | Dan Marino
+right: Tad
+Wrong: 
+Value: $400
+Number: 8
+THEY WERE FREEMASONS | This Austrian Freemason used references to Masonry in his "Magic Flute" | Mozart
+right: Tad
+Wrong: 
+Value: $400
+Number: 24
+CLEAN FREAK | It's the car care product whose symbol is seen here | Turtle Wax
+right: Babu
+Wrong: 
+Value: $400
+Number: 6
+ART-PODGE | (Sarah of the Clue Crew)  From the French meaning "to cut out", it's the decorative art I'm demonstrating here | decoupage
+right: 
+Wrong: Triple Stumper
+Ryan: What is collage?
+Value: $400
+Number: 21
+"TIC" TALK | A synonym for rural, it can also mean simple or artless | rustic
+right: Tad
+Wrong: 
+Value: $400
+Number: 14
+MEDICAL BREAKTHROUGHS | Interferon alone or combined with the antiviral drug Ribavirin is used to treat the C-type of this disease | hepatitis
+right: Ryan
+Wrong: 
+Value: $500
+Number: 30
+PRO FOOTBALL | In 1967 this Green Bay Packers quarterback was named MVP of the first Super Bowl | Bart Starr
+right: Tad
+Wrong: 
+Value: $500
+Number: 10
+THEY WERE FREEMASONS | This former VP & Freemason launched a conspiracy to take over the U.S. Southwest | Aaron Burr
+right: Tad
+Wrong: 
+Value: $500
+Number: 25
+CLEAN FREAK | Andy Warhol gave this steel wool product free publicity by sculpting its boxes | Brillo
+right: Babu
+Wrong: 
+Value: $500
+Number: 9
+ART-PODGE | Christianity & Aztec ritual inspired the thorn necklace worn by this Latina woman in a masochistic 1940 self-portrait | Frida Kahlo
+right: Ryan
+Wrong: 
+Value: $500
+Number: 22
+"TIC" TALK | It's the principal Christian church in Egypt | Coptic
+right: Ryan
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Babu: $1,700
+Ryan: $800
+Tad: $2,300
+Scores at the end of the Jeopardy! Round:
+Babu: $1,600
+Ryan: $2,200
+Tad: $4,400
+Second Jeopardy! Round: BOTSWANA ANAGRAMS, SERGEI EISENSTEIN CINEMA, OPERA HAS BEEN VERDI, VERDI GOOD TO ME, IT'S MY LIFE, FRANCE LOSES THE FIGHT, EGGS-ACTLY
+BOTSWANA ANAGRAMS | The Limpopo River also has the name of this reptile that some want to make into "coil decor" | crocodile (coil decor)
+right: Babu
+Wrong: 
+Value: $200
+Number: 1
+SERGEI EISENSTEIN CINEMA | Sergei's film about one of these labor events juxtaposed shots of workers with slaughterhouse footage | strike
+right: Ryan
+Wrong: 
+Value: $200
+Number: 10
+OPERA HAS BEEN VERDI, VERDI GOOD TO ME | In the 1830s Verdi studied with Vincenzo Lavigna, formerly maestro al cembalo at this Milan opera house | La Scala
+right: Tad
+Wrong: 
+Value: $200
+Number: 3
+IT'S MY LIFE | In "An Hour Before Daylight" this former president shares memories of growing up in rural Georgia | Jimmy Carter
+right: Tad
+Wrong: 
+Value: $200
+Number: 11
+FRANCE LOSES THE FIGHT | Napoleon's forces suffered about 40,000 casualties losing this June 18, 1815 battle | Waterloo
+right: Tad
+Wrong: 
+Value: $200
+Number: 5
+EGGS-ACTLY | After the robin goes bob-bob-bobbing along, it lays an egg of this color | blue
+right: Tad
+Wrong: 
+Value: $200
+Number: 25
+BOTSWANA ANAGRAMS | Though Botswana has little or no gold, these mineral products might get the "Midas nod" | diamonds (Midas nod)
+right: Tad
+Wrong: 
+Value: $400
+Number: 2
+SERGEI EISENSTEIN CINEMA | Sergei ran afoul of Stalin while making a film on the life & times of this brutal czar | Ivan the Terrible
+right: Babu
+Wrong: 
+Value: $400
+Number: 21
+OPERA HAS BEEN VERDI, VERDI GOOD TO ME | In English "Il Trovatore" means this, a wandering minstrel | a troubadour
+right: Ryan
+Wrong: 
+Value: $400
+Number: 20
+IT'S MY LIFE | This anthropologist told about her early years in 1972's "Blackberry Winter" | Margaret Mead
+right: Tad
+Wrong: 
+Value: $400
+Number: 12
+FRANCE LOSES THE FIGHT | In May 1940 Germany attacked France through this country, now home to NATO HQ; France fell by June | Belgium
+right: Tad
+Wrong: 
+Value: $400
+Number: 6
+EGGS-ACTLY | A pound of this egg delicacy from Russia could set you back $1,200; from Iran, over $1,600 | caviar
+right: Tad
+Wrong: 
+Value: $400
+Number: 27
+BOTSWANA ANAGRAMS | In this area that covers much of Botswana, you might take "a rash ideal trek" | Kalahari Desert (a rash ideal trek)
+right: Ryan
+Wrong: 
+Value: $600
+Number: 14
+SERGEI EISENSTEIN CINEMA | Beatrice Vitoldi played "Mother with Baby Carriage" in this film | Battleship Potemkin
+right: Babu
+Wrong: 
+Value: DD: $3,800
+Number: 22
+OPERA HAS BEEN VERDI, VERDI GOOD TO ME | The title character of this Verdi opera is a hunchbacked court jester | Rigoletto
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 30
+IT'S MY LIFE | Title of Billie Holiday's 1965 autobiography & of the movie it later inspired | "Lady Sings the Blues"
+right: Babu
+Wrong: 
+Value: $600
+Number: 13
+FRANCE LOSES THE FIGHT | The Third Republic began after France lost the war to this Bismarck-led German state | Prussia
+right: Babu
+Wrong: 
+Value: $600
+Number: 7
+EGGS-ACTLY | The Sauropod, a dinosaur the size of a bus, came from eggs discovered in this country's Patagonia region | Argentina
+right: Ryan
+Wrong: 
+Babu: What is Spain?
+Value: $600
+Number: 29
+BOTSWANA ANAGRAMS | If you lose all your clothes in this capital, just "go on bare" | Gabarone (go on bare)
+right: Ryan
+Wrong: 
+Value: $800
+Number: 15
+SERGEI EISENSTEIN CINEMA | The title month "October" is the one in this revolutionary year | 1917
+right: Babu
+Wrong: 
+Value: $800
+Number: 23
+OPERA HAS BEEN VERDI, VERDI GOOD TO ME | Egyptologist Auguste Mariette claimed his scenario was the basis for the libretto of this 1871 opera | Aida
+right: 
+Wrong: 
+Tad: What is "Salome?"
+Value: DD: $100
+Number: 4
+IT'S MY LIFE | Read up on this longtime speaker of the House in his 1987 memoir "Man of the House" | Tip O'Neill
+right: Tad
+Wrong: 
+Value: $800
+Number: 18
+FRANCE LOSES THE FIGHT | The English won most of the battles in this 1337-1453 war but in the end France drove them out | Hundred Years' War
+right: Babu
+Wrong: 
+Value: $800
+Number: 8
+EGGS-ACTLY | Chinese cooking has extremes of Egg Foo Yung & this dish of duck eggs that have been buried for a long while | thousand/hundred-year-old eggs
+right: Tad
+Wrong: 
+Value: $800
+Number: 28
+BOTSWANA ANAGRAMS | When Botswana was this British protectorate, it was perhaps more of a "can and ale hub" | Bechuanaland (can and ale hub)
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+SERGEI EISENSTEIN CINEMA | Sponsored by Upton Sinclair, Eisenstein set out to film "Que Viva" this country | Mexico
+right: Babu
+Wrong: 
+Value: $1000
+Number: 24
+OPERA HAS BEEN VERDI, VERDI GOOD TO ME | Verdi's last opera, this comic masterpiece is based in part on Shakespeare's "King Henry IV" | Falstaff
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 17
+IT'S MY LIFE | This TV news producer tells his own story in "Tell Me a Story: Fifty Years & 60 Minutes in Television" | Don Hewitt
+right: Tad
+Wrong: 
+Value: $1000
+Number: 19
+FRANCE LOSES THE FIGHT | The 1520s weren't good for France either; it lost Milan to Charles V, leader of this "empire" that began in 962 | Holy Roman Empire
+right: Tad
+Wrong: 
+Value: $1000
+Number: 9
+EGGS-ACTLY | The Franklin Mint has the eggs named for this artisan ranging from $37.50 to the eggs-pensive $6,900 | Faberge
+right: Babu
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Babu: $10,200
+Ryan: $5,800
+Tad: $10,300
+
+Final Jeopardy! Round
+HISTORIC GEOGRAPHY | Upon this nation's independence in 1903, it was "moved" from one continent to another | Panama
+right: Babu | Tad
+Wrong: 
+Ryan: What is Tur Key?
+Wagers: 
+Ryan: $4,501
+Babu: $10,200
+Tad: $10,200
+Final scores:
+Babu: $20,400 (2nd place: $5,000)
+Ryan: $1,299 (3rd place: $5,000)
+Tad: $20,500 (Finalist)
+
+Coryat scores
+Babu: $6,700 (14 R(including 2 DDs),2 W)
+Ryan: $5,800 (13 R,1 W)
+Tad: $10,400 (29 R,2 W(including 1 DD))

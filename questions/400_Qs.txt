@@ -1,0 +1,313 @@
+2753 - Wednesday, July 17, 1996
+Comments: 1996 Olympic Games Tournament semifinal game 3.
+Contestants:
+Hasib Yildirim: a banker from Istanbul, Turkey
+Ulf Jensen: a university teacher from Uppsala, Sweden
+Ryan Holznagel: a writer from Portland, Oregon
+First Jeopardy! Round: PRIME MINISTERS, EUROPEAN ACTRESSES, MYTHOLOGY, POTENT POTABLES, BODIES OF WATER, STARTS WITH "J"
+PRIME MINISTERS | This current French president served as prime minister under both Giscard d'Estaing & Mitterrand | Jacques Chirac
+right: Ryan
+Wrong: 
+Value: $100
+Number: 1
+MYTHOLOGY | Anticlea gave birth to this hero of "The Odyssey" near Mt. Neriton on the island of Ithaca | Odysseus
+right: Ulf
+Wrong: 
+Value: $100
+Number: 13
+BODIES OF WATER | To Hindus, the Narmada River is 2nd in sacredness only to this one | The Ganges
+right: Ryan
+Wrong: 
+Value: $100
+Number: 18
+STARTS WITH "J" | She was Romeo's beloved | Juliet
+right: Ryan | Ulf
+Wrong: 
+Value: $100
+Number: 19
+PRIME MINISTERS | Pham Van Dong served as prime minister of this country from unification until 1986 | Vietnam
+right: Ulf
+Wrong: 
+Value: $200
+Number: 2
+MYTHOLOGY | This god of shepherds & flocks is depicted with a reed pipe | Pan
+right: Ulf
+Wrong: 
+Value: $200
+Number: 23
+POTENT POTABLES | Sherry has been made in this country's province of Cadiz for centuries | Spain
+right: Hasib
+Wrong: 
+Value: $200
+Number: 12
+BODIES OF WATER | This largest African lake is bordered by Uganda, Tanzania & Kenya | Lake Victoria
+right: Ulf
+Wrong: 
+Value: $200
+Number: 17
+STARTS WITH "J" | It's a shade of green or a green gemstone that's often carved | Jade
+right: Ryan
+Wrong: 
+Value: $200
+Number: 20
+PRIME MINISTERS | Tunku Abdul Rahman was the 1st prime minister of the federation of Malaya & of this successor state | Malaysia
+right: Ulf
+Wrong: 
+Value: $300
+Number: 5
+EUROPEAN ACTRESSES | This French star of "And God Created Woman" retired from films to devote her life to animal welfare | Brigitte Bardot
+right: Ulf
+Wrong: 
+Value: $300
+Number: 7
+MYTHOLOGY | Persephone, who reigned with him over the underworld, was his niece | Hades
+right: Hasib
+Wrong: 
+Ulf: Who was Plato?
+Value: $300
+Number: 24
+POTENT POTABLES | The Napa Valley in this western U.S. state is famous for its wineries | California
+right: Ulf
+Wrong: 
+Value: $300
+Number: 9
+BODIES OF WATER | The U.S.-Russian boundary passes through this strait | Bering Strait
+right: Ulf
+Wrong: 
+Value: $300
+Number: 16
+STARTS WITH "J" | Swing was the most popular style of this music in the 1930s | Jazz
+right: Ryan
+Wrong: 
+Value: $300
+Number: 21
+PRIME MINISTERS | This Israeli prime minister signed the first peace treaty between Israel & an Arab country | Menachem Begin
+right: Ryan
+Wrong: 
+Hasib: Who is Yitzhak Rabin?
+Value: $400
+Number: 4
+EUROPEAN ACTRESSES | Among the Pedro Almodovar films she starred in are "Tie Me Up, Tie Me Down", "High Heels"  & "Kika" | Victoria Abril
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+POTENT POTABLES | Tequila is named for a town near Guadalajara in this country | Mexico
+right: Ulf
+Wrong: 
+Value: $400
+Number: 10
+BODIES OF WATER | Vatican City lies on the west bank of this river | the Tiber
+right: Ulf
+Wrong: 
+Value: $400
+Number: 14
+STARTS WITH "J" | Crete de la Neige is the highest peak of this mountain range between France & Switzerland | Jura Mountains
+right: Ulf
+Wrong: 
+Value: $400
+Number: 22
+PRIME MINISTERS | He took power in 1993 when his Liberals won 177 of the 295 seats in Canada's House of Commons | Jean Chretien
+right: 
+Wrong: Triple Stumper
+Ryan: Who is Mulroney?
+Value: $500
+Number: 3
+EUROPEAN ACTRESSES | In films, <http://www.j-archive.com/media/1996-07-17_J_08.jpg> she's led a double life, seen red & recently, love amour | Irene Jacob
+right: 
+Wrong: 
+Ulf: Who is Susan Bellefleur?
+Value: DD: $800
+Number: 8
+POTENT POTABLES | It's traditional to float 2 or 3 of these beans on top of Sambuca liqueur | coffee beans
+right: Ryan
+Wrong: 
+Value: $500
+Number: 11
+BODIES OF WATER | This bay that shares its name with the Philippine capital is nearly landlocked | Manila Bay
+right: Ulf
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ryan: $0
+Ulf: $300
+Hasib: -$400
+Scores at the end of the Jeopardy! Round:
+Ryan: $1,200
+Ulf: $2,600
+Hasib: $100
+Second Jeopardy! Round: PATRON SAINTS, WORLD HISTORY, LITERATURE, SCIENCE, OPERA, ODDS & ENDS
+PATRON SAINTS | This saint who was burned at the stake is the patroness of France & of soldiers | Joan of Arc
+right: Ryan
+Wrong: 
+Value: $200
+Number: 29
+WORLD HISTORY | In 1912 it was the largest & most luxurious ship ever built; it sank on its 1st voyage | Titanic
+right: Ryan
+Wrong: 
+Value: $200
+Number: 1
+LITERATURE | The first four chapters of this Bram Stoker work are from Jonathan Harker's journal | "Dracula"
+right: Ulf
+Wrong: 
+Value: $200
+Number: 14
+SCIENCE | Almost the entire mass of an atom is contained in this central portion | Nucleus
+right: Ryan
+Wrong: 
+Value: $200
+Number: 6
+OPERA | This Austrian composer's 1790 opera "Cosi Fan Tutte" is set in 18th c. Naples | W.A. Mozart
+right: Ulf
+Wrong: 
+Value: $200
+Number: 30
+ODDS & ENDS | In a leap year an extra day is added to this month | February
+right: Hasib
+Wrong: 
+Value: $200
+Number: 5
+PATRON SAINTS | Sinterclaus, from which Santa Claus is derived, is the Dutch name for this patron of sailors & children | St. Nicholas
+right: Ryan
+Wrong: 
+Value: $400
+Number: 25
+WORLD HISTORY | The Bayeux Tapestry is a graphic representation of this man's conquest of England | William the Conqueror
+right: Ryan
+Wrong: 
+Value: $400
+Number: 7
+LITERATURE | City that was the starting & ending point of Phileas Fogg's 80-day trip around the world | London
+right: Ulf
+Wrong: 
+Value: $400
+Number: 28
+SCIENCE | In 1914 she became head of the Paris Institute of Radium | Marie Curie
+right: Ulf
+Wrong: 
+Value: $400
+Number: 22
+OPERA | Donizetti's opera about this female Borgia is based on a play by Victor Hugo | Lucrezia Borgia
+right: Ryan
+Wrong: 
+Value: $400
+Number: 20
+ODDS & ENDS | This pair who collaborated on "The Communist Manifesto" met in Paris in 1844 | Marx & Engels
+right: Ulf
+Wrong: 
+Value: $400
+Number: 27
+PATRON SAINTS | His feast day is February 14th, but lovers can seek his help any time of year | St. Valentine
+right: Ryan
+Wrong: 
+Value: $600
+Number: 10
+WORLD HISTORY | Ruling from 1792-1750 B.C., he had the laws of Babylon carved into an 8' high block of stone | Hammurabi
+right: Ryan
+Wrong: 
+Value: $600
+Number: 2
+LITERATURE | In 1726, he received 200 pounds for his tale of Lemuel Gulliver, the only time he was paid for his writing | Jonathan Swift
+right: Hasib
+Wrong: 
+Value: $600
+Number: 13
+SCIENCE | They're the tiny threadlike structures that carry the genes - you have 23 pairs | Chromosomes
+right: Hasib
+Wrong: 
+Value: $600
+Number: 21
+OPERA | The first scene of this composer's "Das Rheingold" takes place at the bottom of the Rhine | Richard Wagner
+right: Ulf
+Wrong: 
+Value: $600
+Number: 17
+ODDS & ENDS | Rearrange the letters of rial & you'll have the name of this European currency | Lira
+right: Ryan
+Wrong: 
+Value: $600
+Number: 8
+PATRON SAINTS | This patron of skiers is best remembered for the hospices he founded in the Alps | St. Bernard
+right: Ulf
+Wrong: 
+Value: $800
+Number: 11
+WORLD HISTORY | In 404 B.C., this city surrendered, ending the 27-year-long Peloponnesian War | Athens
+right: Ulf
+Wrong: 
+Value: $800
+Number: 3
+LITERATURE | Husband of poet Elizabeth, he wrote "O' to be in England, now that April's there" | Robert Browning
+right: Ryan
+Wrong: 
+Value: $800
+Number: 15
+SCIENCE | Organic chemistry specializes in compounds that contain this element | Carbon
+right: Ulf
+Wrong: 
+Value: $800
+Number: 23
+OPERA | Bellini's 1831 opera "Norma" had its world premiere at this Milan opera house | La Scala
+right: Ulf
+Wrong: 
+Value: $800
+Number: 18
+ODDS & ENDS | It's the largest island in the Indian Ocean | Madagascar
+right: Ulf
+Wrong: 
+Value: $800
+Number: 9
+PATRON SAINTS | This beloved physician of the New Testament is the patron saint of painters | St. Luke
+right: Ulf
+Wrong: 
+Value: DD: $2,000
+Number: 12
+WORLD HISTORY | It's said the epitaph on Cyrus the Great's tomb called him the founder of this empire | Persian Empire
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 4
+LITERATURE | This German was in his 80's when he finished writing "Faust" a few months before his death in 1832 | Goethe
+right: Ulf
+Wrong: 
+Value: $1000
+Number: 16
+SCIENCE | His discovery of energy quanta earned him the 1918 Nobel Prize for Physics | Max Planck
+right: Ulf
+Wrong: 
+Value: DD: $2,000
+Number: 24
+OPERA | Maria Callas was noted for her passionate performance in this composer's "Tosca" | Giacomo Puccini
+right: Ulf
+Wrong: 
+Value: $1000
+Number: 19
+ODDS & ENDS | Celebrated in a Byron poem, this Swiss fortress originally guarded the main road to Italy | Chillon
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Ryan: $6,600
+Ulf: $14,800
+Hasib: $1,500
+
+Final Jeopardy! Round
+POP SINGERS | On March 10, 1996, this woman performed a song on the balcony of Buenos Aires' presidential palace | Madonna
+right: Ryan | Ulf
+Wrong: 
+Hasib: Who is (no response)
+Wagers: 
+Hasib: $1,000
+Ryan: $6,600
+Ulf: $1,000
+Final scores:
+Ryan: $13,200 (2nd place: $5,000)
+Ulf: $15,800 (Finalist)
+Hasib: $500 (3rd place: $5,000)
+
+Coryat scores
+Ryan: $6,600 (18 R,1 W)
+Ulf: $13,600 (28 R(including 2 DDs),2 W(including 1 DD))
+Hasib: $1,500 (5 R,1 W)

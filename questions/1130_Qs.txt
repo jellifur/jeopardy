@@ -1,0 +1,343 @@
+5045 - Friday, July 14, 2006
+Contestants:
+Bruce Lin: a research scientist originally from Mississauga, Ontario, Canada
+Lisa Llanes-Simpson: a social worker and notary public from Poughkeepsie, New York
+Eric Allen: a video game merchandiser from Birmingham, Alabama (whose 1-day cash winnings total $15,201)
+First Jeopardy! Round: THE NEW YORK TIMES PULITZER PRIZE WINNERS, HOMETOWN ATHLETES, PRESIDENTIAL WIVES, FRUITLESS SEARCHES, RHYME RIGHT, SIDE EFFECTS OF JEPOLAX
+THE NEW YORK TIMES PULITZER PRIZE WINNERS | William Laurence won a Prize in 1946 for his eyewitness account of the atomic bombing of this city, after Hiroshima | Nagasaki
+right: Lisa
+Wrong: 
+Value: $200
+Number: 16
+HOMETOWN ATHLETES | Out of retirement to play for this hometown team, Roger Clemens led them to their first World Series in 2005 | the (Houston) Astros
+right: Bruce
+Wrong: 
+Value: $200
+Number: 26
+PRESIDENTIAL WIVES | The death of 11-year-old son Willie in 1862 pushed her over the brink; she was inconsolable for months | Mrs. Lincoln
+right: Bruce
+Wrong: 
+Value: $200
+Number: 17
+FRUITLESS SEARCHES | Either of the 2 people the Coast Guard cutter Itasca was unable to locate after they left from New Guinea in 1937 | Amelia Earhart (or Fred Noonan)
+right: Lisa
+Wrong: 
+Value: $200
+Number: 11
+RHYME RIGHT | Horse-headed chess piece | a knight
+right: Bruce
+Wrong: 
+Value: $200
+Number: 3
+SIDE EFFECTS OF JEPOLAX | There have been reports of the basilar type of this brutal headache, which includes vertigo | a migraine
+right: Lisa
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES PULITZER PRIZE WINNERS | The Times won its first Pulitzer in 1918 for its coverage of this | World War I
+right: Bruce
+Wrong: 
+Value: $400
+Number: 18
+HOMETOWN ATHLETES | (<http://www.j-archive.com/media/2006-07-14_J_27.jpg> Jimmy of the Clue Crew reports from Pittsburgh, PA.)  Growing up within 5 blocks from the campus, <http://www.j-archive.com/media/2006-07-14_J_27a.jpg> this quarterback naturally played at Pitt, starting in 1979 | Dan Marino
+right: Eric
+Wrong: 
+Value: $400
+Number: 27
+PRESIDENTIAL WIVES | Her 2 children from a previous marriage, John & Patsy Custis, were "adopted" by the president | Martha Washington
+right: Lisa
+Wrong: 
+Value: $400
+Number: 20
+FRUITLESS SEARCHES | Many scholars believe this was actually the Aegean Sea island of Thira, largely destroyed around 1500 B.C. | Atlantis
+right: Lisa
+Wrong: 
+Value: $400
+Number: 12
+RHYME RIGHT | One set of stairs between floors | a flight
+right: Bruce
+Wrong: 
+Value: $400
+Number: 4
+SIDE EFFECTS OF JEPOLAX | In a few cases Jepolax may destroy alveoli, leading to this lung disease that includes short wind | emphysema
+right: 
+Wrong: Triple Stumper
+Eric: What is asthma?
+Lisa: What is tuberculosis?
+Bruce: What is pneumonia?
+Value: $400
+Number: 2
+THE NEW YORK TIMES PULITZER PRIZE WINNERS | Max Frankel won a 1973 Prize for his reporting on President Nixon's trip to this country | China
+right: Eric
+Wrong: 
+Value: $600
+Number: 19
+HOMETOWN ATHLETES | Known as "Junior", this Cincinnati high school superstar joined the Reds in 2000 | Ken Griffey, Jr.
+right: Bruce
+Wrong: 
+Value: $600
+Number: 28
+PRESIDENTIAL WIVES | She met the future president in 1915 at Fort Sam Houston when introduced to him by the wife of a fellow officer | Mamie Eisenhower
+right: Lisa
+Wrong: 
+Value: DD: $1,800
+Number: 21
+FRUITLESS SEARCHES | This Brooklyn reporter's opening of Al Capone's vault in 1986 left him with a few scars of his own | Geraldo Rivera
+right: Lisa
+Wrong: 
+Value: $600
+Number: 13
+RHYME RIGHT | A perceived snub or act of contempt | a slight
+right: Bruce
+Wrong: 
+Value: $600
+Number: 5
+SIDE EFFECTS OF JEPOLAX | Combining Jepolax with liquor can lead to this scarring final stage of alcoholic liver disease | cirrhosis
+right: Bruce
+Wrong: 
+Value: $600
+Number: 7
+THE NEW YORK TIMES PULITZER PRIZE WINNERS | In 1972 The Times won for meritorious public service for publishing these documents leaked by Daniel Ellsberg | the Pentagon Papers
+right: Bruce
+Wrong: 
+Value: $800
+Number: 24
+HOMETOWN ATHLETES | Stephon Marbury, a Brooklyn native & childhood fan of this team, joined them in 2004--with mixed results | the Knicks
+right: Lisa
+Wrong: 
+Value: $800
+Number: 29
+PRESIDENTIAL WIVES | In 1915, 16 months after the death of his first wife, Ellen, Woodrow Wilson married this descendant of Pocahontas | Edith
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+FRUITLESS SEARCHES | In 1987 a sonar exploration of this body of water found something big, but it may have been a school of salmon | Loch Ness
+right: Lisa
+Wrong: 
+Value: $800
+Number: 14
+RHYME RIGHT | It's a bend in a coastline that forms a bay | a bight
+right: Bruce
+Wrong: 
+Eric: What is a... bright?
+Value: $800
+Number: 6
+SIDE EFFECTS OF JEPOLAX | There are slight risks of acidosis, carcinoma & this sensation, from the Latin for "choking chest pain" | angina
+right: Lisa
+Wrong: 
+Value: $800
+Number: 8
+THE NEW YORK TIMES PULITZER PRIZE WINNERS | Wonder if he mentioned his 1979 win for his "Observer" column in his memoir "Growing Up"? | Russell Baker
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+HOMETOWN ATHLETES | Born in 1942, he went to Chicago Vocation High & made crushing ballcarriers his vocation as a Bears linebacker | Dick Butkus
+right: 
+Wrong: Triple Stumper
+Eric: Who is Ditka?
+Value: $1000
+Number: 30
+PRESIDENTIAL WIVES | John Philip Sousa provided the music for Grover Cleveland's White House wedding to this 21-year-old | Frances Folsom
+right: 
+Wrong: Triple Stumper
+Eric: Who is Frances Farmer?
+Value: $1000
+Number: 23
+FRUITLESS SEARCHES | Bologna Stone, found in 1603, was thought to be this alchemical "stone" to change cheaper metals into gold | the philosopher's stone
+right: Bruce
+Wrong: 
+Eric: What is lead?
+Lisa: What is the touchstone?
+Value: $1000
+Number: 15
+RHYME RIGHT | Isle where Victoria shuffled off her mortal throne | the Isle of Wight
+right: Bruce
+Wrong: 
+Value: $1000
+Number: 9
+SIDE EFFECTS OF JEPOLAX | Discontinue use at the first sign of seborrheic inflammation of this | the skin
+right: Lisa
+Wrong: 
+Bruce: What are the eyes?
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Eric: -$2,200
+Lisa: $2,600
+Bruce: $3,200
+Scores at the end of the Jeopardy! Round:
+Eric: -$3,200
+Lisa: $5,800
+Bruce: $5,400
+Second Jeopardy! Round: SOUTH AFRICA, I'M TOMMY LEE JONES!, ART-FULL, BESTSELLERS, IN THE SANDBOX, ADD AN ELEMENT SYMBOL
+SOUTH AFRICA | An English word for an ill-mannered person is related to this term for a South African settler | Boer
+right: Eric
+Wrong: 
+Value: $400
+Number: 26
+I'M TOMMY LEE JONES! | I suffered no alienation protecting the Earth as Agent K in this 1997 comedy | Men in Black
+right: Eric
+Wrong: 
+Value: $400
+Number: 16
+ART-FULL | As official battle painter to this emperor, Antoine-Jean Gros painted "The Plague at Jaffa" in 1804 | Napoleon Bonaparte
+right: Bruce
+Wrong: 
+Value: $400
+Number: 11
+BESTSELLERS | He dedicated his 2006 novel "Cell" in part to "Night of the Living Dead" director George Romero | Stephen King
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+IN THE SANDBOX | 242-year-old Sandy Hook Lighthouse, which lies on this Garden State's coast, is the USA's oldest still in use | New Jersey
+right: Eric
+Wrong: 
+Value: $400
+Number: 6
+ADD AN ELEMENT SYMBOL | Add the symbol of this element to "comb" & you get a small jazz band | oxygen (O)
+right: Bruce
+Wrong: 
+Value: $400
+Number: 1
+SOUTH AFRICA | In South Africa, Ford sells the Bantam, a popular bakkie; the U.S. equivalent is the F-series of these | trucks
+right: Eric
+Wrong: 
+Value: $800
+Number: 27
+I'M TOMMY LEE JONES! | The trail rarely went cold with me on the case as U.S. Marshal Samuel Gerard in this 1993 big screener | The Fugitive
+right: Eric
+Wrong: 
+Value: $800
+Number: 17
+ART-FULL | Famous works in this NYC museum include Rousseau's "The Dream" & Mondrian's "Broadway Boogie Woogie" | MOMA (Museum of Modern Art)
+right: Bruce
+Wrong: 
+Eric: What is the Guggenheim?
+Lisa: What is the Metropolitan?
+Value: $800
+Number: 12
+BESTSELLERS | In Sue Grafton's 2005 bestseller, "S is for" this | Silence
+right: 
+Wrong: Triple Stumper
+Eric: What is slander?
+Lisa: What is suicide?
+Bruce: What is seduction?
+Value: $800
+Number: 22
+IN THE SANDBOX | On a golf course, a sand trap is also called this, like an underground fortification | a bunker
+right: Eric
+Wrong: 
+Value: $800
+Number: 7
+ADD AN ELEMENT SYMBOL | Add the symbol of this element to the letters "B-R-I-D-E-S" & you get a Scottish island group | helium (He)
+right: Lisa
+Wrong: 
+Value: $800
+Number: 2
+I'M TOMMY LEE JONES! | The sky was the limit in this 2000 adventure when I joined astronauts Garner & Eastwood for one last mission | Space Cowboys
+right: Eric
+Wrong: 
+Value: $1200
+Number: 18
+ART-FULL | The movement called "Post"- this began with Seurat's "La Grande Jatte" & ended with Cezanne's death | Impressionism
+right: Eric
+Wrong: 
+Value: $1200
+Number: 13
+BESTSELLERS | His "Power of Positive Thinking" was among the top 10 nonfiction bestsellers each year 1952-1955 | Norman Vincent Peale
+right: 
+Wrong: Triple Stumper
+Lisa: Who is Covey?
+Bruce: Who is Dale Carnegie?
+Value: $1200
+Number: 23
+IN THE SANDBOX | The Southwest's largest Indian tribe, it's noted for its sand painting, a part of the tribe's healing ceremonies | the Navajo
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 8
+ADD AN ELEMENT SYMBOL | Tack the symbol of this element onto "el" & you get a lodge member | potassium (K)
+right: Bruce
+Wrong: 
+Value: $1200
+Number: 3
+I'M TOMMY LEE JONES! | I was downright punchy as Loretta Lynn's husband in this 1980 film | Coal Miner's Daughter
+right: Eric
+Wrong: 
+Value: $1600
+Number: 19
+ART-FULL | Around 1610 this Baroque master got his first nice big plump commissions, for Antwerp Cathedral | Peter Paul Rubens
+right: 
+Wrong: Triple Stumper
+Eric: Who is... Rembrandt?
+Lisa: Who is Renoir?
+Value: $1600
+Number: 14
+BESTSELLERS | Inspired by a conversation with a blacksmith, Nicholas Evans made himself heard with this 1995 bestseller | The Horse Whisperer
+right: 
+Wrong: 
+Eric: I have no idea.
+Value: DD: $2,000
+Number: 24
+IN THE SANDBOX | The black sand beaches of the Pacific consist of grains of this most abundant lava rock | basalt
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 9
+ADD AN ELEMENT SYMBOL | Add the symbol of this element to "palm" & you get an incendiary weapon used in bombs | sodium (Na)
+right: Bruce
+Wrong: 
+Value: $1600
+Number: 4
+I'M TOMMY LEE JONES! | There was no corn in this disturbing 1994 biopic when I depicted a legendary baseball player | Cobb
+right: 
+Wrong: Triple Stumper
+Eric: Who is Ty Cobb?
+Value: $2000
+Number: 20
+ART-FULL | Last name of Gustave, whose work <http://www.j-archive.com/media/2006-07-14_DJ_15.jpg> seen <http://www.j-archive.com/media/2006-07-14_DJ_15a.jpg> here shocked people by showing a common burial on a large canvas | Gustave Courbet
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+BESTSELLERS | Mary McCarthy's best-known novel is this 1963 bestseller about the lives of 8 Vassar graduates | The Group
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 25
+IN THE SANDBOX | Winston Churchill was trained at the Royal Military academy commonly called this | Sandhurst
+right: Bruce
+Wrong: 
+Value: $2000
+Number: 10
+ADD AN ELEMENT SYMBOL | "Plate" plus the symbol of this element gives you a synonym for "mesa" | gold (Au)
+right: Bruce
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Eric: -$2,800
+Lisa: $7,000
+Bruce: $11,800
+
+Final Jeopardy! Round
+FAMOUS PLAYS | This play that is quite concerned with the English language was, oddly enough, first performed in German in 1913 | Pygmalion
+right: 
+Wrong: 
+Lisa: What is I have no idea?
+Bruce: What is My Fair Lady?
+Wagers: 
+Lisa: $6,900
+Bruce: $2,201
+Final scores:
+Eric: -$2,800 (3rd place: $1,000)
+Lisa: $100 (2nd place: $2,000)
+Bruce: $9,599 (New champion: $9,599)
+
+Coryat scores
+Eric: -$800 (11 R,10 W(including 1 DD))
+Lisa: $5,800 (15 R(including 1 DD),6 W)
+Bruce: $11,800 (19 R,4 W)

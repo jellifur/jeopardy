@@ -1,0 +1,324 @@
+62 - Tuesday, December 4, 1984
+Contestants:
+Richard Landon: a restaurant manager from Santa Cruz, California
+Mary Mason: a psychology student originally from Bakersfield, California
+Daniel Elias: an advertising copywriter from New York City (whose 1-day cash winnings total $10,100)
+First Jeopardy! Round: WASHINGTON D.C., COLORS, SPORTS, A LA "CART", FOOD, MOVIE TRIVIA
+WASHINGTON D.C. | What the "D.C." stands for | the District of Columbia
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+COLORS | Color of a lucky "letter day" | red
+right: Richard
+Wrong: 
+Value: $100
+Number: 11
+A LA "CART" | While 2 of its wheels head toward produce, 1 goes to dairy, the other to checkout | a shopping cart
+right: Dan
+Wrong: 
+Value: $100
+Number: 21
+FOOD | Varieties include Chinese & Dijon | mustard
+right: Mary
+Wrong: 
+Value: $100
+Number: 8
+MOVIE TRIVIA | Turned down to be an "Our Gang" member, she became top box office star of 1935 | Shirley Temple
+right: Dan
+Wrong: 
+Value: $100
+Number: 17
+WASHINGTON D.C. | The District's oldest neighborhood, it was named for a king | Georgetown
+right: Richard
+Wrong: 
+Value: $200
+Number: 2
+COLORS | Johnny Cash is known for wearing only this color on stage | black
+right: Richard
+Wrong: 
+Value: $200
+Number: 13
+SPORTS | Tennis serve that touches net before dropping into proper court, it's replayed | a let ball
+right: Dan
+Wrong: 
+Value: $200
+Number: 24
+A LA "CART" | A sideways handspring | a cartwheel
+right: Dan
+Wrong: 
+Value: $200
+Number: 22
+FOOD | Type of food that comes in shapes of bow ties, elbows & wagon wheels | pasta
+right: Mary
+Wrong: 
+Value: $200
+Number: 9
+MOVIE TRIVIA | Number of the sequel <http://www.j-archive.com/media/1984-12-04_J_18.mp3> the following was the theme of | Rocky III
+right: Dan
+Wrong: 
+Value: DD: $1,000
+Number: 18
+WASHINGTON D.C. | 287 miles long, it flows past Washington & induces "fever" in ambitious politicians | the Potomac River
+right: Dan
+Wrong: 
+Value: $300
+Number: 4
+COLORS | Baby, sky, & steel | blue
+right: Mary
+Wrong: 
+Value: $300
+Number: 14
+SPORTS | You win this when you pick the winners of 2 successive horse races | the Daily Double
+right: Dan
+Wrong: 
+Value: $300
+Number: 3
+A LA "CART" | You can load it in your 8-track | a (tape) cartridge
+right: Richard
+Wrong: 
+Dan: What is a... cassette?
+Mary: What is...?
+Value: $300
+Number: 23
+FOOD | Also known as an alligator pear | an avocado
+right: Dan
+Wrong: 
+Value: $300
+Number: 10
+MOVIE TRIVIA | For the first time in '68, the Academy Awards were held in this auditorium, its current home | the Dorothy Chandler Pavilion
+right: Dan
+Wrong: 
+Value: $300
+Number: 25
+WASHINGTON D.C. | Though this mound rises only 88', it's synonymous with building which stands upon it | Capitol Hill
+right: Dan
+Wrong: 
+Value: $400
+Number: 5
+COLORS | Broadway's nickname | the Great White Way
+right: Richard
+Wrong: 
+Value: $400
+Number: 19
+SPORTS | What the letters in "SCUBA" stand for | self-contained underwater breathing apparatus
+right: Mary
+Wrong: 
+Value: $400
+Number: 7
+A LA "CART" | The 1st graduate of the U.S. Naval Academy to become president | Jimmy Carter
+right: Richard
+Wrong: 
+Dan: Who is...?
+Value: $400
+Number: 27
+FOOD | California vegetable with a crown & a heart | an artichoke
+right: Mary
+Wrong: 
+Value: $400
+Number: 15
+MOVIE TRIVIA | In his best English Bronx accent he cried "Yonder lies the castle of my father" | Tony Curtis
+right: 
+Wrong: Triple Stumper
+Dan: Who is Jerry Lewis?
+Value: $400
+Number: 26
+WASHINGTON D.C. | Former Secretary of State for whom Washington, D.C. International Airport is named | John Foster Dulles
+right: Richard
+Wrong: 
+Dan: Who is Allen Foster Dulles?
+Value: $500
+Number: 6
+COLORS | The 3 colors that make up the dots on a color TV screen | blue, green, and red
+right: Dan
+Wrong: 
+Value: $500
+Number: 20
+SPORTS | On an official archery target, it's the color of the bull's eye | yellow (or gold)
+right: Dan
+Wrong: 
+Mary: What is black?
+Value: $500
+Number: 12
+FOOD | The non-chocolate version are called "blondies" | brownies
+right: Mary
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Dan: $900
+Mary: $700
+Richard: $700
+Scores at the end of the Jeopardy! Round:
+Dan: $2,700
+Mary: $1,100
+Richard: $2,100
+Second Jeopardy! Round: EUROPE, BIG BANDS, NOTORIOUS, BIRDS, BEES, POLITICS
+EUROPE | Some 40% of this country's land has been reclaimed from the sea | the Netherlands
+right: Dan
+Wrong: 
+Value: $200
+Number: 23
+BIG BANDS | A wunnerful, wunnerful bandleader | Lawrence Welk
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+NOTORIOUS | White supremacy group depicted as heroes in film classic "Birth of a Nation" | the Ku Klux Klan
+right: Richard
+Wrong: 
+Value: $200
+Number: 2
+BIRDS | This red bird is the state bird of 7 states | the cardinal
+right: Dan
+Wrong: 
+Value: $200
+Number: 24
+BEES | Its name comes from the Middle English word "bumblen" | a bumblebee
+right: Dan
+Wrong: 
+Value: $200
+Number: 15
+POLITICS | Baby book author who ran for president in '68 | Dr. Spock
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+EUROPE | Both in size & population, it's largest Scandinavian country | Sweden
+right: Mary
+Wrong: 
+Dan: What is Norway?
+Value: $400
+Number: 3
+BIG BANDS | In 1937 he was "in the mood" to start a band | Glenn Miller
+right: Mary
+Wrong: 
+Value: $400
+Number: 4
+NOTORIOUS | Name of FBI "sting" operation that sent 4 former Congressmen to prison in '83 | Abscam
+right: Dan
+Wrong: 
+Value: $400
+Number: 11
+BIRDS | Depending on the species, a bird can have 940 to 25,000 of them | feathers
+right: Dan
+Wrong: 
+Value: $400
+Number: 25
+BEES | Common name of an apiculturist | a beekeeper
+right: Dan
+Wrong: 
+Value: $400
+Number: 18
+POLITICS | Nickname of late Washington Senator Henry Jackson | Scoop Jackson
+right: Dan
+Wrong: 
+Value: $400
+Number: 20
+EUROPE | 19th century Sardinia took the lead in unifying this country | Italy
+right: Richard
+Wrong: 
+Dan: I don't know, I'm sorry.
+Value: $600
+Number: 6
+BIG BANDS | As famous for his marriages as his music; once wed Ava Gardner & Lana Turner | Artie Shaw
+right: Richard
+Wrong: 
+Mary: Who is Harry James?
+Value: $600
+Number: 5
+NOTORIOUS | 32 inmates & 11 guards were killed in '71 uprising at this NY prison | Attica
+right: Dan
+Wrong: 
+Value: $600
+Number: 12
+BIRDS | All 16 species of the Hawaiian honeycreeper are on this list | the endangered species list
+right: Richard
+Wrong: 
+Value: $600
+Number: 26
+BEES | A large crowd of bees on the move | a swarm
+right: Dan
+Wrong: 
+Value: $600
+Number: 16
+POLITICS | U.S. ambassadors to this country have included Anne Armstrong & Joseph Kennedy | Great Britain
+right: Dan
+Wrong: 
+Value: $600
+Number: 21
+EUROPE | In '67 this last king of Greece went into exile | Constantine (II)
+right: Mary
+Wrong: 
+Value: $800
+Number: 7
+BIG BANDS | Benny Goodman got good "vibes" from him | Lionel Hampton
+right: Mary
+Wrong: 
+Value: $800
+Number: 9
+NOTORIOUS | Despite his "fortunate" nickname, this gangster was deported to Italy in '46 | "Lucky" Luciano
+right: Richard
+Wrong: 
+Dan: What is "Lucky"... somebody?
+Value: $800
+Number: 13
+BEES | The 3 classes of a honeybee colony | a drone, a queen, and a worker
+right: Dan
+Wrong: 
+Value: DD: $1,900
+Number: 17
+POLITICS | Florida Congressman who champions the senior citizen | Claude Pepper
+right: Dan
+Wrong: 
+Value: $800
+Number: 22
+EUROPE | Only predominantly Muslim country entirely in Europe | Albania
+right: 
+Wrong: 
+Mary: What is Turkey?
+Value: DD: $1,000
+Number: 8
+BIG BANDS | "Royal" bandleader whose first two names were Edward Kennedy | Duke Ellington
+right: Richard
+Wrong: 
+Mary: Who is Guy Lombardo?
+Value: $1000
+Number: 10
+NOTORIOUS | He wrote the Howard Hughes "autobiography" that sent him to jail | Clifford Irving
+right: Mary
+Wrong: 
+Value: $1000
+Number: 14
+POLITICS | Only 4 state governors serve terms this long | two years
+right: 
+Wrong: Triple Stumper
+Dan: What is four years?
+Mary: What are six years?
+Value: $1000
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Dan: $6,800
+Mary: $900
+Richard: $6,100
+
+Final Jeopardy! Round
+U.S. PRESIDENTS | President elected to 2nd term with 523 electoral votes, the greatest number in any election | Franklin D. Roosevelt
+right: 
+Wrong: 
+Mary: Who was L. B. Johnson
+Richard: Who is Richard Nixon?
+Dan: Who was Richard Nixon?
+Wagers: 
+Mary: $900
+Richard: $6,100
+Dan: $5,800
+Final scores:
+Dan: $1,000 (2-day champion: $11,100)
+Mary: $0 (3rd place: a balans chair)
+Richard: $0 (2nd place: china and a range)
+
+Coryat scores
+Dan: $4,900 (26 R(including 2 DDs),8 W)
+Mary: $1,900 (11 R,6 W(including 1 DD))
+Richard: $6,100 (14 R,0 W)

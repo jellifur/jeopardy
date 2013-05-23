@@ -1,0 +1,311 @@
+1874 - Thursday, October 29, 1992
+Comments: 1992 Celebrity <i>Jeopardy!</i> game 4.
+Contestants:
+Luke Perry: an actor from Beverly Hills, 90210
+Judith Ivey: an actress from Designing Women
+Beau Bridges: an actor from Without Warning: The James Brady Story
+First Jeopardy! Round: THE '70s, CURRENT SITCOMS, MAGAZINES, COUNTRY SINGERS, THE BIBLE, "G"EOGRAPHY
+THE '70s | This word came into vogue in 1979 after Michelle Triola sued Lee Marvin for it | palimony
+right: Luke
+Wrong: 
+Value: $100
+Number: 4
+CURRENT SITCOMS | A Vermont innkeeper in his last series, this veteran comedian now plays cartoonist Bob McKay | Bob Newhart
+right: Judith
+Wrong: 
+Value: $100
+Number: 9
+MAGAZINES | This magazine was introduced in 1885; its seal came later | Good Housekeeping
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 19
+COUNTRY SINGERS | After "Achy Breaky Heart", his debut CD "Some Gave All" hit No.1 on the country & pop charts | Billy Ray Cyrus
+right: Luke
+Wrong: 
+Value: $100
+Number: 12
+THE BIBLE | In chronological order, this book of the Bible comes first | Genesis
+right: Luke
+Wrong: 
+Value: $100
+Number: 3
+"G"EOGRAPHY | This rocky British crown colony is known as "Gib" for short | Gibraltar
+right: Beau
+Wrong: 
+Value: $100
+Number: 1
+THE '70s | On August 1, 1971 George Harrison headlined a concert to raise money for refugees from this country | Bangladesh
+right: Luke
+Wrong: 
+Value: $200
+Number: 5
+CURRENT SITCOMS | Now in its 7th season, this sitcom about the Bundys is Fox's longest-running series | Married... with Children
+right: Luke
+Wrong: 
+Value: $200
+Number: 10
+MAGAZINES | Named for a nursery rhyme pair, it's one of the most popular magazines for kids | Jack and Jill
+right: Judith
+Wrong: 
+Value: $200
+Number: 20
+COUNTRY SINGERS | At the age of 13, this performer topped the country charts with "Delta Dawn" | Tanya Tucker
+right: Judith
+Wrong: 
+Luke: Who is Linda Ronstadt?
+Value: $200
+Number: 13
+THE BIBLE | According to the Open Bible, this fee paid to Judas was worth over $3500 | 30 pieces of silver
+right: Judith
+Wrong: 
+Beau: How many...20 pieces of silver?
+Value: $200
+Number: 23
+"G"EOGRAPHY | This Southern state's motto is "Wisdom, Justice and Moderation" | Georgia
+right: Luke
+Wrong: 
+Value: $200
+Number: 2
+THE '70s | On January 1, 1978 he was sworn in as the 105th mayor of New York City | Ed Koch
+right: Luke
+Wrong: 
+Value: $300
+Number: 6
+CURRENT SITCOMS | On "Love and War", Jay Thomas wants this former "L.A. Law" star to warm up his nights | Susan Dey
+right: Luke
+Wrong: 
+Value: $300
+Number: 11
+MAGAZINES | It's been referred to as the African-American version of Life magazine | Ebony
+right: Beau
+Wrong: 
+Value: $300
+Number: 21
+COUNTRY SINGERS | A year before he recorded "By the Time I Get to Phoenix", he played guitar on the Beach Boys' "Good Vibrations" | Glen Campbell
+right: 
+Wrong: Triple Stumper
+Judith: Who is Jimmy Webb?
+Value: $300
+Number: 14
+THE BIBLE | Since he wasn't an eyewitness to the events, this doctor's gospel is all secondhand | Luke
+right: Beau
+Wrong: 
+Value: $300
+Number: 26
+"G"EOGRAPHY | You'll find the Kelvingrove Art Galleries & Museum in this Scottish city | Glasgow
+right: Judith
+Wrong: 
+Beau: What is Edinburgh?
+Value: $300
+Number: 22
+THE '70s | The 2 reporters at the Washington Post who blew the whistle on Watergate | Woodward & Bernstein
+right: Luke
+Wrong: 
+Value: DD: $500
+Number: 7
+CURRENT SITCOMS | She's back, she's blonde & she has designs on becoming a country star on her new sitcom | Delta Burke
+right: Luke
+Wrong: 
+Value: $400
+Number: 17
+MAGAZINES | In January 1992 this magazine for men celebrated 30 years of dubious achievements | Esquire
+right: 
+Wrong: Triple Stumper
+Judith: What is Playboy?
+Value: $400
+Number: 24
+COUNTRY SINGERS | In October 1991 this singer quit "Killin' Time" long enough to marry Lisa Hartman | Clint Black
+right: Judith
+Wrong: 
+Value: $400
+Number: 15
+"G"EOGRAPHY | Syros, Skyros & Skiathos are just 3 of this Balkan country's many islands | Greece
+right: Judith
+Wrong: 
+Value: $400
+Number: 27
+THE '70s | She went to court in 1972 to get an injunction to keep photographer Ron Galella away from her | Jackie Onassis
+right: Judith
+Wrong: 
+Beau: Who is Elizabeth Taylor?
+Value: $500
+Number: 8
+CURRENT SITCOMS | It's the name of the newsmagazine show for which Murphy Brown works | FYI
+right: Luke
+Wrong: 
+Value: $500
+Number: 18
+MAGAZINES | Edited by Paige Rense, this interior design magazine is noted for showcasing celebrity homes | Architectural Digest
+right: Judith
+Wrong: 
+Value: $500
+Number: 25
+COUNTRY SINGERS | His 1991 music video "The Thunder Rolls" created controversy because of its violence | Garth Brooks
+right: Luke
+Wrong: 
+Value: $500
+Number: 16
+"G"EOGRAPHY | Most of the Indians in this Central American country speak one of the Maya languages | Guatemala
+right: Judith
+Wrong: 
+Beau: What is Peru? .... [buzzer sounds to end the round]  <em class="correct_response">Guatemala</em>  <table width="100%"><tr><td class="wrong">Beau</td><td class="right">Judith</td></tr></table>'
+Value: $500
+Number: 28
+Scores at the first commercial break (after clue 15)
+Beau: -$400
+Judith: $600
+Luke: $1,600
+Scores at the end of the Jeopardy! Round:
+Beau: -$800
+Judith: $2,600
+Luke: $3,200
+Second Jeopardy! Round: BROADWAY MUSICALS, FAMOUS WOMEN, AMERICAN INDIANS, GASES, FILMS OF THE '80s, BOOKS & AUTHORS
+BROADWAY MUSICALS | Gregory Hines tapped his way to a Tony when he played this title role in "Jelly's Last Jam" | Jelly Roll Morton
+right: Luke
+Wrong: 
+Value: $200
+Number: 19
+FAMOUS WOMEN | After taking up with John Lennon, she became known as "The Woman Who Broke Up the Beatles" | Yoko Ono
+right: Judith
+Wrong: 
+Value: $200
+Number: 9
+AMERICAN INDIANS | Until the 1880s, this animal was the principal source of food for the Plains Indians | the buffalo
+right: Beau
+Wrong: 
+Value: $200
+Number: 1
+GASES | The main purpose of a red blood cell is to carry this gas from your lungs to the rest of your body | oxygen
+right: Judith
+Wrong: 
+Value: $200
+Number: 18
+FILMS OF THE '80s | In 1984 films, Robert Ginty was "The Exterminator" & he was "The Terminator" | Arnold Schwarzenegger
+right: Luke
+Wrong: 
+Value: $200
+Number: 5
+BOOKS & AUTHORS | His "The Bonfire of the Vanities" was first published as a serial in Rolling Stone | Thomas Wolfe
+right: Judith
+Wrong: 
+Value: $200
+Number: 15
+BROADWAY MUSICALS | This Rodgers & Hammerstein musical opens on a sailing vessel in the Gulf of Siam | The King and I
+right: Luke
+Wrong: 
+Judith: What is "South Pacific?"
+Value: $400
+Number: 21
+FAMOUS WOMEN | With help from miracle worker Anne Sullivan, she graduated from Radcliffe with honors in 1904 | Helen Keller
+right: Luke
+Wrong: 
+Value: $400
+Number: 10
+AMERICAN INDIANS | In addition to cultivating Pocahontas, John Rolfe learned to cultivate this cash crop from the Indians | tobacco
+right: Beau
+Wrong: 
+Value: $400
+Number: 2
+GASES | The sun spends its days & nights converting this gas into helium | hydrogen
+right: Beau
+Wrong: 
+Value: $400
+Number: 20
+FILMS OF THE '80s | In "On Golden Pond" he played Norman Thayer | Henry Fonda
+right: Luke
+Wrong: 
+Value: $400
+Number: 6
+BOOKS & AUTHORS | Type of music that's the title of Toni Morrison's 1992 novel set in 1926 Harlem | Jazz
+right: Judith
+Wrong: 
+Luke: What is ragtime?
+Value: $400
+Number: 16
+FAMOUS WOMEN | This woman for whom the Tony Awards are named was a descendant of Mayflower Pilgrim John Howland | Antoinette Perry
+right: Judith
+Wrong: 
+Value: $600
+Number: 13
+AMERICAN INDIANS | The Chippewa name for this bird is kookookoo-ooh | the owl
+right: 
+Wrong: Triple Stumper
+Judith: Ohh, I beeped too soon.
+Value: $600
+Number: 3
+GASES | Baking powder produces this gas | carbon dioxide
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+FILMS OF THE '80s | David Lynch directed this 1980 tale about John Merrick | The Elephant Man
+right: Beau
+Wrong: 
+Value: $600
+Number: 7
+FAMOUS WOMEN | She created TV's "All My Children" while working as a writer for "The Guiding Light" | Agnes Nixon
+right: Luke
+Wrong: 
+Value: $800
+Number: 14
+AMERICAN INDIANS | Red Cloud & Crazy Horse were members of the Oglalla branch of this tribe | the Sioux
+right: Luke
+Wrong: 
+Value: $800
+Number: 4
+GASES | It's the common nickname of nitrous oxide | laughing gas
+right: Luke
+Wrong: 
+Value: $800
+Number: 23
+FILMS OF THE '80s | In this 1982 film Lou Gossett drills Richard Gere & Debra Winger thrills him | An Officer and a Gentleman
+right: Luke
+Wrong: 
+Value: $800
+Number: 11
+FAMOUS WOMEN | From 1973 to 1983 she was Rolling Stone magazine's chief photographer | Annie Leibovitz
+right: Beau
+Wrong: 
+Value: $1000
+Number: 17
+AMERICAN INDIANS | In 1828 this tribe began publishing a weekly newspaper using their new alphabet | the Cherokee
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 8
+GASES | Produced by the decay of plant & animal matter, this colorless & odorless gas, CH4, is flammable | methane
+right: Luke
+Wrong: 
+Value: DD: $600
+Number: 24
+FILMS OF THE '80s | Susan Sarandon, Michelle Pfeiffer & Cher were this title group | The Witches of Eastwick
+right: Luke
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Beau: $1,800
+Judith: $3,200
+Luke: $9,200
+
+Final Jeopardy! Round
+U.S. PRESIDENTS | The first two presidents not born in Virginia were born in what is now this state | Massachusetts
+right: 
+Wrong: 
+Beau: What is Illinois?
+Judith: What is New York?
+Luke: What is Pennsylvania?
+Wagers: 
+Beau: $1,800
+Judith: $1,500
+Luke: $3,500
+Final scores:
+Beau: $0 (3rd place: $10,000 for the Pearl White Theatre of Performing Arts of Venice, California)
+Judith: $1,700 (2nd place: $10,000 for Broadway Cares/Equity Fights AIDS)
+Luke: $5,700 (Winner: $10,000 for the National Multiple Sclerosis Society; week's big winner has total doubled)
+
+Coryat scores
+Beau: $1,800 (8 R,4 W)
+Judith: $3,200 (15 R,4 W)
+Luke: $9,500 (23 R(including 2 DDs),2 W)

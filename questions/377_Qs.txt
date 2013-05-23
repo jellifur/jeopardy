@@ -1,0 +1,335 @@
+4791 - Monday, June 6, 2005
+Contestants:
+Brice Sunderland: a teacher and athletic director from San Bernardino, California
+Rosemarie Keenan: a research administrator from Seattle, Washington
+Tom Walker: a lawyer from Boston, Massachusetts (whose 1-day cash winnings total $23,201)
+First Jeopardy! Round: BLOWIN' IN THE WIND, IT AIN'T ME, BABE, LIKE A ROLLING STONE, THE TIMES THEY ARE A-CHANGIN', YOU GOTTA SERVE SOMEBODY, JUST LIKE A WOMAN
+BLOWIN' IN THE WIND | Before it first touches down on the ground, its funnel looks white, as it's just made up of water droplets | a tornado
+right: Tom
+Wrong: 
+Value: $200
+Number: 1
+IT AIN'T ME, BABE | I left Minnesota around the time I changed my name from Robert Allen Zimmerman to this | (Bob) Dylan
+right: Brice
+Wrong: 
+Value: $200
+Number: 26
+LIKE A ROLLING STONE | After this archaeologist dodged a boulder in a 1981 flick, Belloq took from him everything he could steal | Indiana Jones
+right: Tom
+Wrong: 
+Value: $200
+Number: 16
+THE TIMES THEY ARE A-CHANGIN' | Ian Astbury of The Cult joined Robbie Krieger & Ray Manzarek for the retooling of this band "of the 21st Century" | The Doors
+right: Brice
+Wrong: 
+Value: $200
+Number: 21
+YOU GOTTA SERVE SOMEBODY | Born in 1895, this director of a Justice Department bureau served under 8 presidents | J. Edgar Hoover
+right: Tom
+Wrong: 
+Value: $200
+Number: 6
+JUST LIKE A WOMAN | A freed slave's son, Publius Helvius Pertinax was this empire's ruler for nearly 3 months in 193 A.D. | the Roman Empire
+right: Tom
+Wrong: 
+Value: $200
+Number: 11
+BLOWIN' IN THE WIND | You may experience a southerly burster or a brickfielder on this continent | Australia
+right: Brice
+Wrong: 
+Value: $400
+Number: 2
+IT AIN'T ME, BABE | It gives me the seven-year itch when you call me Norma Jean Baker | Marilyn Monroe
+right: Tom
+Wrong: 
+Value: $400
+Number: 27
+LIKE A ROLLING STONE | You got nothin' to lose in this game with 15 white & black "stones" that mercifully end up on the bar after being "hit" | backgammon
+right: Brice
+Wrong: 
+Value: $400
+Number: 17
+THE TIMES THEY ARE A-CHANGIN' | In 2004 Veritas software's marketing dept. made news when it banned this type of communication on Fridays | e-mail
+right: Brice
+Wrong: 
+Value: $400
+Number: 22
+YOU GOTTA SERVE SOMEBODY | Ex-Confederate General Nathan Bedford Forrest served as the first head of this supremacist group | the Ku Klux Klan
+right: Rosemarie
+Wrong: 
+Value: $400
+Number: 7
+JUST LIKE A WOMAN | This UCLA basketball coach led his team to a record 88 straight NCAA basketball victories | John Wooden
+right: Brice
+Wrong: 
+Value: $400
+Number: 12
+BLOWIN' IN THE WIND | In 1805 this commander in the British navy devised a scale for classifying winds | (Sir Francis) Beaufort
+right: Brice
+Wrong: 
+Value: DD: $1,000
+Number: 3
+IT AIN'T ME, BABE | It makes me neurotic to tell you my real name is Allen Stewart Konigsberg | Woody Allen
+right: Brice
+Wrong: 
+Value: $600
+Number: 28
+LIKE A ROLLING STONE | The Skipper on "Gilligan's Island" probably knows that another name for this small fish is the stone roller; didn't you? | a minnow
+right: Tom
+Wrong: 
+Value: $600
+Number: 18
+THE TIMES THEY ARE A-CHANGIN' | Beepcard Inc. is developing a talking 1 of these, slightly thicker than normal, that asks for your password | a credit card
+right: Brice
+Wrong: 
+Value: $600
+Number: 23
+YOU GOTTA SERVE SOMEBODY | Composed largely of American pilots, the Lafayette Escadrille flying squadron served during this war | the First World War
+right: Tom
+Wrong: 
+Value: $600
+Number: 8
+JUST LIKE A WOMAN | Last name of the traveling salesman whose life was dramatized in a 1949 play | (Willy) Loman
+right: Tom
+Wrong: 
+Value: $600
+Number: 13
+BLOWIN' IN THE WIND | A pampero is a sudden cold summer wind in this second-largest South American country | Argentina
+right: Brice
+Wrong: 
+Value: $800
+Number: 4
+IT AIN'T ME, BABE | I played the simply named Jo March, but I was born with the last name Horowitz | Winona Ryder
+right: Brice
+Wrong: 
+Value: $800
+Number: 29
+LIKE A ROLLING STONE | The "tears" of this Hawaiian volcano goddess are actually bits of flung molten rock with no direction home | Pele
+right: Brice
+Wrong: 
+Value: $800
+Number: 19
+THE TIMES THEY ARE A-CHANGIN' | Alison Bartlett, who plays Gina, a kindly vet on this PBS show, got overexposed with Steve Buscemi on "The Sopranos" | Sesame Street
+right: Tom
+Wrong: 
+Value: $800
+Number: 24
+YOU GOTTA SERVE SOMEBODY | This American in Paris served as U.S. Minister to France from 1778 to 1785 | Ben Franklin
+right: Tom
+Wrong: 
+Brice: Who is Thomas Jefferson?
+Value: $800
+Number: 9
+JUST LIKE A WOMAN | Also called Gakusei Ryori, or "student cuisine", this noodle dish was invented in 1958 by Momofuku Ando | Top Ramen
+right: Brice
+Wrong: 
+Value: $800
+Number: 14
+BLOWIN' IN THE WIND | This term for a sudden gust of wind & precipitation is related to a Swedish word for rushing water | a squall
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+IT AIN'T ME, BABE | Here's a "hard" one; I'm the '50s hunk who at one point went by Roy Fitzgerald | Rock Hudson
+right: Rosemarie
+Wrong: 
+Brice: Who is Tab Hunter?
+Value: $1000
+Number: 30
+LIKE A ROLLING STONE | "Once upon a time" this king of Corinth was sent to Tartarus & had problems with a mobile rock | Sisyphus
+right: Tom
+Wrong: 
+Value: $1000
+Number: 20
+THE TIMES THEY ARE A-CHANGIN' | As the "M" word indicate, TMS uses these to stimulate the brain & treat neuropsychiatric conditions in a non-intrusive way | magnets
+right: Rosemarie
+Wrong: 
+Value: $1000
+Number: 25
+YOU GOTTA SERVE SOMEBODY | In Matthew 6:24, Jesus warned that "No man can serve two masters... ye cannot serve God and" this | mammon (money later accepted)
+right: Rosemarie
+Wrong: 
+Value: $1000
+Number: 10
+JUST LIKE A WOMAN | Fred Grandy's character Gopher had this rank on "The Love Boat" | yeoman
+right: Brice
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Tom: $2,600
+Rosemarie: $1,400
+Brice: $3,600
+Scores at the end of the Jeopardy! Round:
+Tom: $5,600
+Rosemarie: $3,400
+Brice: $6,600
+Second Jeopardy! Round: THAT'S JUST CLASSIC!, YOU DESERVE A SHOWBIZ AWARD!, CANADIAN GEOGRPAPHY, FLY FISHING, POLLY "ANNA"s, WE GET LETTERS
+THAT'S JUST CLASSIC! | About half of Liszt's work was transcribing others' works, like Beethoven's symphonies, for this instrument | the piano
+right: Brice
+Wrong: 
+Value: $400
+Number: 22
+YOU DESERVE A SHOWBIZ AWARD! | The IAFCS hands out the "Annies" every year for excellence in this specific type of filmmaking | animation
+right: 
+Wrong: Triple Stumper
+Brice: What are musicals?
+Value: $400
+Number: 7
+CANADIAN GEOGRPAPHY | The name or this Ontario capital means "place of meeting" in the Huron Indian language | Toronto
+right: Tom
+Wrong: 
+Value: $400
+Number: 13
+FLY FISHING | (<http://www.j-archive.com/media/2005-06-06_DJ_08.jpg> Cheryl of the Clue Crew holds what looks like a not-so-freshly caught game fish in Montana.)  I caught one of <http://www.j-archive.com/media/2005-06-06_DJ_08a.jpg> these salmon family members popular with fly casters | a (rainbow) trout
+right: Brice
+Wrong: 
+Value: $400
+Number: 8
+POLLY "ANNA"s | Poe's favorite "bel" | Annabel Lee
+right: Tom
+Wrong: 
+Value: $400
+Number: 1
+WE GET LETTERS | On July 4, 1828 the last surviving Declaration signer laid the first stone for the railroad known by these 2 letters | B&O
+right: Brice
+Wrong: 
+Value: $400
+Number: 2
+THAT'S JUST CLASSIC! | It's the classic passage of 19th century travelin' music heard <http://www.j-archive.com/media/2005-06-06_DJ_23.mp3> here | "Ride of the Valkyrie"
+right: Brice
+Wrong: 
+Value: $800
+Number: 23
+YOU DESERVE A SHOWBIZ AWARD! | This award's name is derived from a nickname for the image orthicon tube used in televisions | the Emmy
+right: Brice
+Wrong: 
+Value: $800
+Number: 18
+CANADIAN GEOGRPAPHY | Canada's most densely populated province, it's known to locals just as "The Island" | Prince Edward Island
+right: Brice
+Wrong: 
+Value: $800
+Number: 14
+FLY FISHING | In this story by Norman MacLean, casting is "an art... performed on a four-count rhythm between 10 & 2 o'clock" | A River Runs Through It
+right: Brice
+Wrong: 
+Value: $800
+Number: 9
+WE GET LETTERS | John de Lancie played this being who tormented the crew of the Enterprise on "Star Trek: The Next Generation" | Q
+right: Brice
+Wrong: 
+Value: $800
+Number: 3
+THAT'S JUST CLASSIC! | Born in 1986, at age 13 she became the youngest classical artist to earn a gold record | (Charlotte) Church
+right: Rosemarie
+Wrong: 
+Tom: Who is Yo-Yo Ma?
+Value: $1200
+Number: 24
+YOU DESERVE A SHOWBIZ AWARD! | Starting in 1972, the ACT awards were handed out for achievement in television aimed at this demographic | children
+right: Brice
+Wrong: 
+Tom: What are African-Americans?
+Value: $1200
+Number: 19
+CANADIAN GEOGRPAPHY | One of the two largest lakes solely within Canada; both are "Great" | Great Bear Lake (or Great Slave Lake)
+right: Tom
+Wrong: 
+Value: $1200
+Number: 15
+FLY FISHING | (<http://www.j-archive.com/media/2005-06-06_DJ_10.jpg> Jimmy of the Clue Crew casts from his mid-stream position in stylish waders in Montana.)  Bugs, and hopefully fish, gather at this area of a stream; it sounds like a first name | an eddy
+right: Brice
+Wrong: 
+Value: $1200
+Number: 10
+POLLY "ANNA"s | Eugene O'Neill's title belle (certainly not a "church-belle") | Anna Christie
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+WE GET LETTERS | Alphabetically, it's the first letter that doesn't have a U.S. president's last name filed under it | D
+right: Brice
+Wrong: 
+Value: $1200
+Number: 4
+THAT'S JUST CLASSIC! | This group persecuted in France in the 16th century was the title subject of a 19th c. opera by Meyerbeer | the Huguenots
+right: Tom
+Wrong: 
+Value: $1600
+Number: 25
+YOU DESERVE A SHOWBIZ AWARD! | A Gallup poll determines the winners of these annual awards, hosted by Kevin James in 2004 | The People's Choice Awards
+right: Brice
+Wrong: 
+Value: DD: $2,600
+Number: 20
+CANADIAN GEOGRPAPHY | North America's second-longest river, it flows into the sea in the Northwest Territories | the McKenzie
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 16
+FLY FISHING | These are attached to a fly to help it float; they're also what are "raised" when you get angry | hackles
+right: Brice
+Wrong: 
+Value: $1600
+Number: 11
+POLLY "ANNA"s | Margaret Landon's book about a real Anna who rang a king's chimes | Anna and the King of Siam
+right: Rosemarie
+Wrong: 
+Brice: What is The King and I?
+Value: $1600
+Number: 27
+WE GET LETTERS | They're the 3 silent letters in Galahad's job title | K, G & H
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 5
+YOU DESERVE A SHOWBIZ AWARD! | Bearing the name of one of Zeus' daughters, these awards are handed out for the best TV & radio commercials | the Clio Awards
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+CANADIAN GEOGRPAPHY | Canada's northernmost point lies on this large island a "mere" 6 degrees, 92 minutes from the North Pole | Ellesmere Island
+right: 
+Wrong: Triple Stumper
+Rosemarie: What is Baffin Island?
+Value: $2000
+Number: 17
+FLY FISHING | (<http://www.j-archive.com/media/2005-06-06_DJ_12.jpg> Sarah of the Clue Crew gives her line a good cast wading in a stream.)  Of the two most basic types of fly-fishing, this one in which your lure is underwater is simpler to cast | wet (fly)
+right: Brice
+Wrong: 
+Value: $2000
+Number: 12
+POLLY "ANNA"s | Full name of James Joyce's "Plurabelle" | Anna Livia Plurabelle
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+WE GET LETTERS | Nunnation is the adding of this final letter in the declension of nouns | N
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Tom: $6,800
+Rosemarie: $4,200
+Brice: $15,600
+
+Final Jeopardy! Round
+CONTEMPORARY QUOTATIONS | On Dec. 13, 2000 he said, "While I strongly disagree with the court's decision, I accept it" | Al Gore
+right: Rosemarie | Tom
+Wrong: 
+Brice: Who is BIll Clinton?
+Wagers: 
+Rosemarie: $4,100
+Tom: $2,700
+Brice: $1,400
+Final scores:
+Tom: $9,500 (2nd place: $2,000)
+Rosemarie: $8,300 (3rd place: $1,000)
+Brice: $14,200 (New champion: $14,200)
+
+Coryat scores
+Tom: $6,800 (15 R,2 W)
+Rosemarie: $4,200 (6 R,1 W)
+Brice: $16,200 (28 R(including 2 DDs),6 W(including 1 DD))

@@ -1,0 +1,345 @@
+4581 - Monday, July 5, 2004
+Comments: Ken Jennings game 24.
+Contestants:
+Nick Aretakis: a bookseller from New Haven, Connecticut
+Lucinda Sabino: a housewife and writer from Rochester, Michigan
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 23-day cash winnings total $755,360)
+First Jeopardy! Round: CLEOPATRA, TV FAMILY ROLL CALL, CHOOSE YOUR WEAPON, SEA CREATURES, INITIALLY YOURS, TAKE THIS
+CLEOPATRA | Her last husband | Marc Antony
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+TV FAMILY ROLL CALL | Mike, Carol, their son Greg & his 5 other siblings | The Brady Bunch
+right: Lucinda
+Wrong: 
+Value: $200
+Number: 11
+CHOOSE YOUR WEAPON | When George Washington was sworn in on April 30, 1789, he was wearing one of these weapons | a sword
+right: Lucinda
+Wrong: 
+Value: $200
+Number: 16
+SEA CREATURES | The angel shark is so-named because its pectoral fins are shaped like these | wings
+right: Lucinda
+Wrong: 
+Value: $200
+Number: 8
+INITIALLY YOURS | In 1920 he celebrated the birth of his only child, Christopher Robin | A.A. Milne
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+TAKE THIS | Take this dessert & you're surprising or unusual | the cake
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+CLEOPATRA | The critter that ended her life | an asp
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+TV FAMILY ROLL CALL | Ross, his sister Monica, his ex-wife Carol, his ex-wife Emily & his ex-wife Rachel | Friends
+right: Lucinda
+Wrong: 
+Value: $400
+Number: 15
+CHOOSE YOUR WEAPON | This South American weapon consists of a hollow reed & a dart | a blowpipe (or blowgun)
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+SEA CREATURES | Britannica says that the pygmy sperm type of this creature "is of no commercial value" (probably a blessing) | a whale
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+INITIALLY YOURS | After developing his Maine hunting shoe in 1911, he opened a mail order business | Bean
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+TAKE THIS | Suffer a heavy financial loss & you take one of these; & there are no bubbles | a bath
+right: Lucinda
+Wrong: 
+Value: $400
+Number: 7
+CLEOPATRA | The city where she died in 30 B.C. | Alexandria
+right: Nick
+Wrong: 
+Value: $600
+Number: 28
+TV FAMILY ROLL CALL | Ray, Debra, their 3 kids, Robert, Marie & Frank | Everybody Loves Raymond
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+CHOOSE YOUR WEAPON | From an imitative Czech word for "whistle", it's any small gun held & fired with one hand | a pistol
+right: Ken
+Wrong: 
+Value: $600
+Number: 22
+SEA CREATURES | (<http://www.j-archive.com/media/2004-07-05_J_12.jpg> Hi, I'm Jeff Probst [in Thailand].)  Several species of these migratory sea creatures, including green & hawksbill, lay their eggs on Tarutao's beaches | a turtle
+right: Ken
+Wrong: 
+Value: $600
+Number: 12
+INITIALLY YOURS | He designed the Richelieu Wing of the Louvre, as well as the pyramidal glass entrance | I.M. Pei
+right: Ken
+Wrong: 
+Value: DD: $1,000
+Number: 3
+TAKE THIS | To leave hurriedly is to take one of these, so have a puff ready | a powder
+right: Nick
+Wrong: 
+Value: $600
+Number: 10
+CLEOPATRA | About 70 feet high each, one of these obelisks is in Central Park, another by the Thames River | Cleopatra's Needle
+right: Lucinda
+Wrong: 
+Value: $800
+Number: 29
+TV FAMILY ROLL CALL | Rev. Eric, Annie & their 7 wholesome children | 7th Heaven
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+CHOOSE YOUR WEAPON | The 16th c. Swiss turned their foes into Swiss cheese with this metal-tipped spear similar to a lance | a pike
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+SEA CREATURES | The male of this "musical" species uses its large claw to attract females | a fiddler crab
+right: Lucinda
+Wrong: 
+Nick: What is a crab?
+Value: $800
+Number: 13
+INITIALLY YOURS | He's the singer heard <http://www.j-archive.com/media/2004-07-05_J_04.mp3> here in one of his biggest hits  "Raindrops keep fallin' on my head / And just like the guy whose feet are too big..." | B.J. Thomas
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+TAKE THIS | When a congressman gets up to make a formal address he takes this part of the room | the floor
+right: Nick
+Wrong: 
+Ken: What is the podium?
+Value: $800
+Number: 21
+CLEOPATRA | Name shared by the 2 brothers with whom Cleo co-ruled Egypt | Ptolemy
+right: 
+Wrong: Triple Stumper
+Nick: What is Ramses?
+Value: $1000
+Number: 30
+TV FAMILY ROLL CALL | Hank, Peggy, Bobby & Luanne | King of the Hill
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+CHOOSE YOUR WEAPON | This company that brought us the microwave oven also gave us the Patriot missile | Raytheon
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+SEA CREATURES | The "Beast" that terrified Bermuda in a 1991 Peter Benchley novel was a giant one of these | a squid
+right: Ken
+Wrong: 
+Value: $1000
+Number: 14
+INITIALLY YOURS | By the time she was 17, she'd published her first novel, "The Outsiders" | S.E. Hinton
+right: Nick
+Wrong: 
+Value: $1000
+Number: 5
+TAKE THIS | Assume a secondary position, maybe in the car | take a backseat
+right: Nick
+Wrong: 
+Ken: What is take... the... passenger sheet--seat?
+Value: $1000
+Number: 23
+Scores at the first commercial break (after clue 15)
+Ken: $4,600
+Lucinda: $2,000
+Nick: $800
+Scores at the end of the Jeopardy! Round:
+Ken: $7,800
+Lucinda: $3,000
+Nick: $2,200
+Second Jeopardy! Round: BUILDING BRIDGES, CELEBRITY TRIVIA, ON THE "M"AP, WE'RE IN BUSINESS, THE GOD SQUAD, 9-LETTER WORDS
+BUILDING BRIDGES | Its construction over the Thames between 1176 & 1209 reportedly cost the lives of 150 workmen | London Bridge
+right: Ken
+Wrong: 
+Value: $400
+Number: 19
+CELEBRITY TRIVIA | He owns the last letter ever written by George Harrison, which complimented him & asked for a Mini-Me doll | Mike Myers
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+ON THE "M"AP | Most Moroccan rivers flow into the Atlantic or disappear in the Sahara, but the Moulouya flows into this sea | the Mediterranean
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+WE'RE IN BUSINESS | AAmerican AAirlines offers this, the oldest frequent flyer program | AAdvantage
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+THE GOD SQUAD | With his exposed bones & skull-like head, Ah Puch is unmistakable as the Mayan god of this | death
+right: Lucinda
+Wrong: 
+Value: $400
+Number: 24
+9-LETTER WORDS | A children's game, it can also serve as a verb meaning to move around making irregular jumps | hopscotch
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+BUILDING BRIDGES | In Thailand a sound & light show depicts the bombing of this bridge built by P.O.W.s | the bridge on the River Kwai
+right: Ken
+Wrong: 
+Value: DD: $4,200
+Number: 20
+CELEBRITY TRIVIA | He worked as a professional carpenter before starring in movies like "Witness" & "Patriot Games" | Harrison Ford
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+ON THE "M"AP | A 2003 movie directed by Clint Eastwood was named for this river that flows into Boston Harbor | Mystic
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+WE'RE IN BUSINESS | This van lines company moved Ronald Reagan to Washington & Elvis into Graceland | Allied Van Lines
+right: 
+Wrong: Triple Stumper
+Lucinda: What is Atlas Van Lines?
+Value: $800
+Number: 17
+THE GOD SQUAD | A son of either Hermes or Dionysus, Priapus was a fertility god of this civilization | Ancient Greece
+right: Ken
+Wrong: 
+Value: $800
+Number: 25
+9-LETTER WORDS | This British dependency is one of the southernmost points on the Iberian Peninsula | Gibraltar
+right: Lucinda
+Wrong: 
+Value: $800
+Number: 7
+BUILDING BRIDGES | The famed Howrah Bridge over the Hooghly in this country was completed in 1943, near the end of the Raj | India
+right: Lucinda
+Wrong: 
+Value: $1200
+Number: 21
+CELEBRITY TRIVIA | Born in Smyrna, Ga., she dated Jason Patric, Benjamin Bratt, Matthew Perry, Liam Neeson & Daniel Day-Lewis | Julia Roberts
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+ON THE "M"AP | It's the capital of the Lombardy region | Milan
+right: Nick
+Wrong: 
+Ken: What is Marseilles?
+Value: $1200
+Number: 13
+WE'RE IN BUSINESS | For its U.S. HQ in Wake Forest, N.C. this socially conscious cosmetics company "recycled" an existing building | The Body Shop
+right: 
+Wrong: Triple Stumper
+Nick: What is Avon?
+Value: $1200
+Number: 18
+9-LETTER WORDS | It's from a Latin word meaning "sword"; Russell Crowe played one in an Oscar-winning movie | gladiator
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+CELEBRITY TRIVIA | Pepsi dropped Madonna after the release of this song's video showed her kissing a saint in a church | "Like A Prayer"
+right: Ken
+Wrong: 
+Nick: What is "Papa Don't Preach"?
+Value: $1600
+Number: 4
+ON THE "M"AP | It's the collective name for Vanuatu, the Solomon Islands & others | Melanesia
+right: 
+Wrong: Triple Stumper
+Ken: What's Micronesia?
+Lucinda: What are the Maldives?
+Value: $1600
+Number: 14
+WE'RE IN BUSINESS | This current Ford CEO has appeared in ads for the family business | Bill Ford (William Clay Ford, Jr.)
+right: 
+Wrong: Triple Stumper
+Ken: Who is Ford?
+Nick: Who is Henry Ford III?
+Value: $1600
+Number: 22
+THE GOD SQUAD | Izanagi & Izanami are male & female creator gods from this island nation of Asia | Japan
+right: Ken
+Wrong: 
+Value: $1600
+Number: 27
+9-LETTER WORDS | A flesh-eater | a carnivore
+right: Ken
+Wrong: 
+Nick: What is a cannibal?
+Value: $1600
+Number: 9
+BUILDING BRIDGES | (<http://www.j-archive.com/media/2004-07-05_DJ_28.jpg> Cheryl of the Clue Crew reports from the Brooklyn Bridge.)  It's the last name of the <http://www.j-archive.com/media/2004-07-05_DJ_28a.jpg> father-&-son engineers who were instrumental in building the Brooklyn Bridge | Roebling
+right: Ken
+Wrong: 
+Value: $2000
+Number: 28
+CELEBRITY TRIVIA | A 2-time Oscar winner, he was a roommate of funnyman Wally Cox during his theatrical training in NYC | Marlon Brando
+right: 
+Wrong: Triple Stumper
+Ken: Uhw.  Who is Jack Lemmon?
+Lucinda: Who is Richard Dreyfuss?
+Value: $2000
+Number: 5
+ON THE "M"AP | (<http://www.j-archive.com/media/2004-07-05_DJ_15.wmv> Sarah of the Clue Crew flies over a glacier in Alaska.) This glacier, 13 miles from downtown Juneau, was called Auk Glacier by naturalist John Muir; the name was changed in 1892 | the Mendenhall Glacier
+right: 
+Wrong: Triple Stumper
+Nick: What is Muir Glacier?
+Value: $2000
+Number: 15
+WE'RE IN BUSINESS | Starting as a New York Regents Exam tutor, he built an empire on standardized test preparation | Stanley Kaplan
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+THE GOD SQUAD | Neil Baldwin's 1998 book "Legends of the Plumed Serpent" is a "Biography of" this Mexican god | Quetzlcoatl
+right: Ken
+Wrong: 
+Value: $2000
+Number: 26
+9-LETTER WORDS | A descendant of 17th century Dutch settlers in South Africa | Afrikaner
+right: Ken
+Wrong: 
+Value: DD: $4,000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Ken: $24,800
+Lucinda: $1,000
+Nick: -$4,600
+
+Final Jeopardy! Round
+MASS COMMUNICATION | Its 1st broadcast, February 24, 1942, said, "The news may be good.  The news may be bad.  We shall tell you the truth" | Voice of America
+right: 
+Wrong: 
+Lucinda: What is Meet the Press?
+Ken: What is Radio Free Europe?
+Wagers: 
+Lucinda: $900
+Ken: $5,200
+Final scores:
+Ken: $19,600 (24-day champion: $774,960)
+Lucinda: $100 (2nd place: $2,000)
+Nick: -$4,600 (3rd place: $1,000)
+
+Coryat scores
+Ken: $19,000 (32 R(including 3 DDs),6 W)
+Lucinda: $1,000 (10 R,3 W)
+Nick: -$4,600 (6 R,7 W)

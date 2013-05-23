@@ -1,0 +1,345 @@
+5858 - Wednesday, February 17, 2010
+Contestants:
+Elizabeth Galoozis: a reference librarian from Cambridge, Massachusetts
+Mayank Keshaviah: an SAT teacher originally from Minneapolis, Minnesota
+Jeremy Apsley: a bartender from Cleveland, Ohio (whose 1-day cash winnings total $30,400)
+First Jeopardy! Round: PERMANENTLY AT WESTMINSTER ABBEY, MOVIE SEQUELS, HAMNESIA, PICTURE THE PREZ, STUPID ANSWERS, PLAYING BASEBALL FOR VOCABULARY
+PERMANENTLY AT WESTMINSTER ABBEY | He's at the abbey because he was Clerk of Works to the Palace of Westminster, not for writing "The Canterbury Tales" | Chaucer
+right: Mayank
+Wrong: 
+Value: $200
+Number: 3
+MOVIE SEQUELS | She played Fanny Brice in "Funny Girl" & "Funny Lady", its sequel | Barbra Streisand
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 1
+HAMNESIA | Where am I?  I can't remember anything!  Hey!  A locket with a frog's picture in it, maybe it'll jar my memory?  Kermy? | Miss Piggy
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 11
+PICTURE THE PREZ | He was a student at Oxford when the photo seen <http://www.j-archive.com/media/2010-02-17_J_18.jpg> here was taken | Bill Clinton
+right: Mayank
+Wrong: 
+Value: $200
+Number: 18
+STUPID ANSWERS | You use these broad noodles to make lasagna | lasagna noodles
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 26
+PLAYING BASEBALL FOR VOCABULARY | This device lets a trombonist change pitch | a slide
+right: Mayank
+Wrong: 
+Value: $200
+Number: 16
+PERMANENTLY AT WESTMINSTER ABBEY | This biographee of James Boswell died Dec. 13, 1784 & moved into the abbey shortly thereafter | Samuel Johnson
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 7
+MOVIE SEQUELS | The Rydell High class of 1961 is the focus of this sequel | Grease 2
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 2
+HAMNESIA | OK, so there's a web above me that spells out "Some pig"; some pig, indeed | Wilbur
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 12
+PICTURE THE PREZ | You're on the money if you know he's the president in <http://www.j-archive.com/media/2010-02-17_J_19.jpg> this photo | Andrew Jackson
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 19
+STUPID ANSWERS | This type of bed covering gets its name from an Old French word, cuilte | a quilt
+right: Mayank
+Wrong: 
+Value: $400
+Number: 27
+PLAYING BASEBALL FOR VOCABULARY | A mixture of flour & water to make pancakes | batter
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 17
+PERMANENTLY AT WESTMINSTER ABBEY | His remains?  "Is it safe?"  Yes, this 1948 Best Actor Oscar winner for "Hamlet" is safe at Westminster Abbey | Laurence Olivier
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 8
+MOVIE SEQUELS | Courteney Cox & Neve Campbell starred in this scary movie & its 2 sequels | Scream
+right: Jeremy
+Wrong: 
+Value: $600
+Number: 4
+HAMNESIA | OK, I'm on some kind of farm... What does that say...Hoggett? & why are these sheep following me? | Babe
+right: Jeremy
+Wrong: 
+Value: $600
+Number: 13
+PICTURE THE PREZ | He's the young Naval officer pictured <http://www.j-archive.com/media/2010-02-17_J_20.jpg> here | (Jimmy) Carter
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 20
+STUPID ANSWERS | Just before serving this Chinese soup, drop some beaten egg into it | egg drop soup
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 28
+PLAYING BASEBALL FOR VOCABULARY | An intentional stoppage by workers | a strike
+right: Jeremy
+Wrong: 
+Value: $600
+Number: 23
+PERMANENTLY AT WESTMINSTER ABBEY | In 1841 "Pippa Passes"; in 1889 this poet passes; today, you can pass him by at Westminster | Robert Browning
+right: Elizabeth
+Wrong: 
+Value: $800
+Number: 9
+MOVIE SEQUELS | Amber Tamblyn, Alexis Bledel, Blake Lively & America Ferrera reunite as jeans-sharing friends in this 2008 sequel | Sisterhood of the Traveling Pants 2
+right: 
+Wrong: Triple Stumper
+Mayank: What is Sisterhood of the Traveling Pants?
+Value: $800
+Number: 5
+HAMNESIA | Oh d-d-dear-dear!  Where was it Pooh said we should meet? at least I have some haycorns in my pocket... | Piglet
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 14
+PICTURE THE PREZ | He sat down & took a load off in the photo seen <http://www.j-archive.com/media/2010-02-17_J_21.jpg> here | (William Howard) Taft
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 21
+STUPID ANSWERS | This rapper was born Tramar Dillard in Opa-locka, Florida | Flo Rida
+right: Mayank
+Wrong: 
+Value: $800
+Number: 29
+PLAYING BASEBALL FOR VOCABULARY | An unraveling in your nylon stocking | a run
+right: Elizabeth
+Wrong: 
+Value: $800
+Number: 24
+PERMANENTLY AT WESTMINSTER ABBEY | This "Gunga Din" writer was gunga done in 1936 & can be found in Poets' Corner | (Rudyard) Kipling
+right: Mayank
+Wrong: 
+Value: $1000
+Number: 10
+MOVIE SEQUELS | In a 2008 Guillermo del Toro sequel, this title superhero faced off against the Golden Army | Hellboy
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+HAMNESIA | I must remember! some plans for a windmill in my pocket that I must've drawn up & a note that says "Watch Napoleon" | Snowball
+right: 
+Wrong: Triple Stumper
+Jeremy: Who is Orson?
+Value: $1000
+Number: 15
+PICTURE THE PREZ | <http://www.j-archive.com/media/2010-02-17_J_22.jpg> He was the first president to be born an American citizen | Martin Van Buren
+right: 
+Wrong: 
+Jeremy: Who is James Buchanan?
+Value: DD: $2,000
+Number: 22
+STUPID ANSWERS | This book by Malcolm Gladwell is about the choices that are made in the blink of an eye | Blink
+right: Elizabeth
+Wrong: 
+Value: $1000
+Number: 30
+PLAYING BASEBALL FOR VOCABULARY | A single-handled jug with a spout for pouring | a pitcher
+right: Jeremy
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Jeremy: $1,200
+Mayank: $400
+Elizabeth: $2,400
+Scores at the end of the Jeopardy! Round:
+Jeremy: $2,600
+Mayank: $2,000
+Elizabeth: $5,800
+Second Jeopardy! Round: ON THE RADIO, ROCK, THE BLUES, COUNTRY, GANGSTER RAP, "HIP" "HOP"
+ON THE RADIO | She had a dance hit with "Single Ladies (Put A Ring On It)"; Jay-Z put a ring on her | Beyoncé
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 8
+ROCK | More than half of sedimentary rock is this type from which oil & natural gas can be obtained | shale
+right: Mayank
+Wrong: 
+Value: $400
+Number: 13
+THE BLUES | Since 1902 this blue September birthstone has been made synthetically with the Verneuil process | a sapphire
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 18
+COUNTRY | It's where you'll find Kerry's lovely lakes of Killarney | Ireland
+right: Mayank
+Wrong: 
+Value: $400
+Number: 2
+GANGSTER RAP | I ran Chicago by age 26 / Showed Bugs Moran I knew a few tricks / For 6 years, it was just like heaven / Had 100 mil by 1927 | Al Capone
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 1
+"HIP" "HOP" | These tight-fitting low-rise jeans that were all the rage in the 1960s made a comeback in the '90s | hiphuggers
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 7
+ON THE RADIO | "Sober" was a 2009 hit for this woman whose hair color no longer matches her name | Pink
+right: Mayank
+Wrong: 
+Value: $800
+Number: 9
+ROCK | Trachyte & rhyolite are the most common varieties of this porous igneous volcanic rock | pumice
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 14
+THE BLUES | The Jabra Freespeak BT250 is this type of headset for cellphones | Bluetooth
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 19
+COUNTRY | In 2005 Lech Kaczynski became the president of this country | Poland
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 3
+GANGSTER RAP | Grew up poor in Texas / Wasn't rollin' in no Lexus / Ms. Parker was my matey / I was played by Warren Beatty | Clyde Barrow
+right: Elizabeth
+Wrong: 
+Jeremy: Who is Bugsy Siegel?
+Value: $800
+Number: 27
+"HIP" "HOP" | It's the childhood activity seen <http://www.j-archive.com/media/2010-02-17_DJ_22.jpg> here | hopscotch
+right: Elizabeth
+Wrong: 
+Value: $800
+Number: 22
+ON THE RADIO | You might think that this title track of Britney Spears' 2008 CD is a reference to the madhouse that is her life | "Circus"
+right: Elizabeth
+Wrong: 
+Value: $1200
+Number: 10
+ROCK | On average rocks consist of 46.5% this gaseous element | oxygen
+right: Mayank
+Wrong: 
+Value: $1200
+Number: 15
+THE BLUES | Before it merges with the White at Khartoum, this river known as Abbai in Ethiopia runs for 850 miles | the Blue Nile
+right: Jeremy
+Wrong: 
+Value: $1200
+Number: 20
+COUNTRY | In 2002 this country's drachma was replaced by the euro | Greece
+right: Jeremy
+Wrong: 
+Value: $1200
+Number: 4
+GANGSTER RAP | My gun was for hire / When I ran with Meyer / I was born in Brooklyn, not Haiti / I was played by Warren Beatty | (Bugsy) Siegel
+right: Elizabeth
+Wrong: 
+Value: $1200
+Number: 28
+"HIP" "HOP" | Members of Congress introduce new bills by placing them inside this wooden box | a hopper
+right: Mayank
+Wrong: 
+Value: $1200
+Number: 24
+ON THE RADIO | It was "Amazing" how "Heartless" he was to Taylor Swift on the 2009 Video Music Awards | Kanye West
+right: Mayank
+Wrong: 
+Value: $1600
+Number: 11
+ROCK | In its purest form, this rock used in the cement industry contains only calcite | limestone
+right: Jeremy
+Wrong: 
+Value: $1600
+Number: 16
+THE BLUES | Keep your hat on while you give us this name of Texas' state flower | the bluebonnet
+right: Elizabeth
+Wrong: 
+Value: $1600
+Number: 23
+COUNTRY | This country's coat of arms has 3 stars for its 3 main island groups, an eagle for the U.S. & and a lion representing Spain | the Philippines
+right: Jeremy
+Wrong: 
+Value: DD: $2,000
+Number: 5
+GANGSTER RAP | Escaped Indiana jail with a wooden gun / Was the 1st public enemy No. 1 / Know who didn't play me? / That'd be Warren Beatty | (John) Dillinger
+right: Jeremy
+Wrong: 
+Value: $1600
+Number: 29
+"HIP" "HOP" | Everyone on the dance floor for this party favorite heard <http://www.j-archive.com/media/2010-02-17_DJ_25.mp3> here | "The Bunny Hop"
+right: 
+Wrong: Triple Stumper
+Elizabeth: What is the Lindy Hop?
+Value: $1600
+Number: 25
+ON THE RADIO | This "Nasty Girl" rapper's name sounds like an adjective meaning "farcical" or "absurd" | Ludacris
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+ROCK | Chert, a hard, dense sedimentary rock, is called jasper if it's brightly colored, & this if it's dark | flint
+right: 
+Wrong: 
+Jeremy: What is ebony?
+Value: DD: $2,000
+Number: 17
+THE BLUES | Kandinsky & Klee were members of this informal expressionist painting group | the Blue Rider group
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+COUNTRY | Comprising 170 islands in 3 main groups, this kingdom in the South Pacific has been called the "friendly islands" | Tonga
+right: Jeremy
+Wrong: 
+Value: $2000
+Number: 6
+GANGSTER RAP | In '29 Staten Island wasn't fine / Didn't move quick / Got stabbed with an ice pick / But I wasn't done / This Sicilian is fortunate, son | "Lucky" Luciano
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+"HIP" "HOP" | Not surprisingly, his father Heraclides & his grandfather were both physicians & his mother was a midwife | Hippocrates
+right: Jeremy
+Wrong: 
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Jeremy: $14,200
+Mayank: $7,600
+Elizabeth: $11,000
+
+Final Jeopardy! Round
+RELIGIOUS WORDS | Surprisingly, this word appears only twice in the New Testament, once in Acts & once in the First Epistle of Peter | Christian
+right: Elizabeth
+Wrong: 
+Mayank: What is Jesus
+Jeremy: What is faith?
+Wagers: 
+Mayank: $7,000
+Elizabeth: $4,600
+Jeremy: $8,000
+Final scores:
+Jeremy: $6,200 (2nd place: $2,000)
+Mayank: $600 (3rd place: $1,000)
+Elizabeth: $15,600 (New champion: $15,600)
+
+Coryat scores
+Jeremy: $17,800 (21 R(including 1 DD),4 W(including 2 DDs))
+Mayank: $7,600 (12 R,1 W)
+Elizabeth: $11,000 (18 R,1 W)

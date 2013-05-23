@@ -1,0 +1,346 @@
+4601 - Monday, September 13, 2004
+Comments: Ken Jennings game 44.
+Contestants:
+Bruce England: a biochemist from Hayward, California
+Dana Dolan: a writer and editor from Atlanta, Georgia
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 43-day cash winnings total $1,432,461)
+First Jeopardy! Round: RIVER SOURCES, CAR TREK, WHAT A CHARACTER!, POP CULTURE AMERICA, A PEANUTS TIMELINE, YOU'RE "GOLDEN", BABY
+RIVER SOURCES | If you’re rowin’ the Rhone from start to finish, you begin in this mountain range | the Alps
+right: Bruce
+Wrong: 
+Value: $200
+Number: 11
+CAR TREK | The Continental & the Town Car are models from this Ford division | Lincoln
+right: Bruce
+Wrong: 
+Value: $200
+Number: 26
+WHAT A CHARACTER! | A murder suspect named Injun Joe | The Adventures of Tom Sawyer
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+POP CULTURE AMERICA | The Harlem Globetrotters were founded in this city famous for its blues & its fire | Chicago
+right: Bruce
+Wrong: 
+Value: $200
+Number: 16
+A PEANUTS TIMELINE | November 16, 1952: For the first time, she holds a football for Charlie Brown to kick | Lucy
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+YOU'RE "GOLDEN", BABY | The USA's tallest bridge towers are the 746-foot steel peaks of this structure | the Golden Gate Bridge
+right: Bruce
+Wrong: 
+Value: $200
+Number: 21
+RIVER SOURCES | The Krishna starts near one coast of this country & flows almost all the way across it | India
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+CAR TREK | In a Stephen King-based movie, this title vehicle was a red 1958 Plymouth Fury | Christine
+right: Bruce
+Wrong: 
+Value: $400
+Number: 27
+WHAT A CHARACTER! | Troubled Air Force Captain John Yossarian | Catch-22
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+POP CULTURE AMERICA | In the 1940s if you weren't commie enough to be "red" people used this 5-letter epithet that was a shade lighter | pinko
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+A PEANUTS TIMELINE | July 20, 1971: Marcie first calls this character "Sir" | Peppermint Patty
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+YOU'RE "GOLDEN", BABY | This NBA team took the 1975 championship | the Golden State Warriors
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+RIVER SOURCES | It doesn’t have its distinct color yet when it emerges in Qinghai Province | the Yellow River
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+CAR TREK | In 1964, the first year of its release, this popular muscle car was the Indy 500 pace car | a Mustang
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+WHAT A CHARACTER! | A small slave girl named Topsy | Uncle Tom’s Cabin
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+POP CULTURE AMERICA | Object associated with the Lone Ranger & with Bob Seger's Band | a silver bullet
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+A PEANUTS TIMELINE | August 23, 1959: She joins Charlie Brown's family as his younger sister | Sally
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+YOU'RE "GOLDEN", BABY | It's the second-most registered dog breed at the American Kennel Club | a golden retriever
+right: Bruce
+Wrong: 
+Value: $600
+Number: 23
+RIVER SOURCES | It's formed by the junction of the Luvua & Lualaba in the country named for it | the Congo
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+CAR TREK | The LS 400 and the ES 250 were the first models of this luxury car line from Toyota | Lexus
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+WHAT A CHARACTER! | Professor Henry Higgins | Pygmalion
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+POP CULTURE AMERICA | In alphabetical order, the 3 spokesmen for Rice Krispies | Crackle, Pop & Snap
+right: Ken
+Wrong: 
+Bruce: Who are Snap, Crackle & Pop?
+Value: $800
+Number: 19
+A PEANUTS TIMELINE | September 24, 1990: This hygiene-challenged boy runs for class president | Pig-Pen
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+YOU'RE "GOLDEN", BABY | Jason stole it for his Uncle Pelias | the Golden Fleece
+right: Bruce
+Wrong: 
+Value: $800
+Number: 24
+RIVER SOURCES | This Mideastern boundary river rises on the slopes of Mount Hermon | the Jordan
+right: Ken
+Wrong: 
+Value: DD: $2,200
+Number: 15
+CAR TREK | The Rio is from Kia, which is owned by this South Korean automaker | Hyundai
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+WHAT A CHARACTER! | Marooned sailor Ben Gunn | Treasure Island
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+POP CULTURE AMERICA | The Winchester '73 and the Colt .45 have both been referred to as "the gun that" did this | won the West
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+A PEANUTS TIMELINE | September 1, 1991: This young virtuoso becomes a spokesman for National Piano Month | Schroeder
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+YOU'RE "GOLDEN", BABY | Sir James Frazer compared mythologies & religions in this work | The Golden Bough
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Ken: $6,000
+Dana: $0
+Bruce: $0
+Scores at the end of the Jeopardy! Round:
+Ken: $16,600
+Dana: $0
+Bruce: $1,800
+Second Jeopardy! Round: GEOLOGY, MUSIC, RELIGIOUS TITLES, FAMOUS KENTUCKIANS, MISHMASH, ON THE "PHONE"
+GEOLOGY | This rock from Georgia was used to sculpt the statue of Lincoln in the Lincoln Memorial | marble
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+MUSIC | In a Billy Joel hit, she's "looking for a downtown man" | an Uptown Girl
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+RELIGIOUS TITLES | Resh kallah, rebbe | Judaism
+right: Dana
+Wrong: 
+Value: $400
+Number: 7
+FAMOUS KENTUCKIANS | This movie heartthrob isn't "From Hell" or from "Sleepy Hollow"; he's from Owensboro, Ky. | Johnny Depp
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+MISHMASH | This veggie was almost uneaten in the U.S. until the D'Arrigo Bros. Produce Company started marketing it in the 1920s | broccoli
+right: Bruce
+Wrong: 
+Dana: What is asparagus?
+Value: $400
+Number: 1
+ON THE "PHONE" | The branch of linguistics dealing with the sounds of speech | phonetics
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+GEOLOGY | Crude oil can be extracted from this rock, the most abundant sedimentary rock in the Earth's crust | shale
+right: Ken
+Wrong: 
+Value: $800
+Number: 18
+MUSIC | Critics love this 10-letter adjective to describe music resembling "Lay Lady Lay" or "Like A Rolling Stone" | Dylanesque
+right: Ken
+Wrong: 
+Value: $800
+Number: 13
+RELIGIOUS TITLES | Sharif, ayatollah | Islam
+right: Ken
+Wrong: 
+Value: $800
+Number: 8
+FAMOUS KENTUCKIANS | (<http://www.j-archive.com/media/2004-09-13_DJ_03.jpg> Jimmy of the Clue Crew sits at a table in the Seelback Hilton in Louisville, KY.)  This boxing legend known as the Louisville Lip loves to dine here at the Oak Room when he's visiting his hometown | Muhammad Ali
+right: Bruce
+Wrong: 
+Value: $800
+Number: 3
+MISHMASH | If your stylist puts humectant conditioner in your hair, it's most likely because your hair is this | dry
+right: Bruce
+Wrong: 
+Value: $800
+Number: 27
+ON THE "PHONE" | 2 words that sound alike but are spelled differently | homophones
+right: Ken
+Wrong: 
+Value: $800
+Number: 23
+GEOLOGY | The Hawaiian islands consist mostly of this hard, dark volcanic rock | basalt
+right: Ken
+Wrong: 
+Value: $1200
+Number: 19
+MUSIC | (Typewriter) keyboardist Paul Ackerman entered the R&R Hall of Fame by editing this music journal for 30 years | Billboard
+right: Dana
+Wrong: 
+Value: $1200
+Number: 14
+RELIGIOUS TITLES | Babu, jagadguru | Hinduism
+right: Dana
+Wrong: 
+Value: $1200
+Number: 9
+FAMOUS KENTUCKIANS | Her brother Nick, nephew George & friend Al Pacino all attended her 2002 funeral in Maysville, Ky., her hometown | Rosemary Clooney
+right: 
+Wrong: 
+Bruce: ...Who is Minnie Pearl?
+Value: DD: $3,000
+Number: 4
+MISHMASH | At an estate sale, Carl Rice spent $60 on 2 of these by Martin Johnson Heade; they later sold for over $1 million | paintings
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+ON THE "PHONE" | Daughter of Zeus & Demeter | Persephone
+right: Ken
+Wrong: 
+Value: $1200
+Number: 24
+GEOLOGY | Due to its luster, German miners gave this "pleasant" rock its name, which means "spark" | gneiss
+right: Ken
+Wrong: 
+Value: DD: $7,000
+Number: 20
+MUSIC | The riff heard <http://www.j-archive.com/media/2004-09-13_DJ_15.mp3> here kicks off a recent album by this band | The White Stripes
+right: Ken
+Wrong: 
+Value: $1600
+Number: 15
+RELIGIOUS TITLES | Bhai, sardar | Sikhism
+right: Ken
+Wrong: 
+Bruce: What is Bahá'i?
+Value: $1600
+Number: 10
+FAMOUS KENTUCKIANS | Good morning to this newswoman, who's <http://www.j-archive.com/media/2004-09-13_DJ_05.jpg> seen <http://www.j-archive.com/media/2004-09-13_DJ_05a.jpg> here in 1963, when she was America's Junior Miss | Diane Sawyer
+right: Dana
+Wrong: 
+Ken: Who is Phyllis George?
+Value: $1600
+Number: 5
+MISHMASH | Oaxaca is "the land of 7" of these rich sauces, including the negro & verde types | molés
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+ON THE "PHONE" | An English language speaker | an Anglophone
+right: Ken
+Wrong: 
+Value: $1600
+Number: 25
+GEOLOGY | The Pilgrim Monument in Provincetown is the tallest structure in the U.S. made entirely of this | granite
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+MUSIC | "Stoned" is a memoir of '60s London by this then-manager of the Rolling Stones | Andrew Oldham
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+RELIGIOUS TITLES | T'ien shih | Taoism
+right: 
+Wrong: Triple Stumper
+Ken: What is Confucianism?
+Dana: What is Shintoism?
+Bruce: What is Buddhism?
+Value: $2000
+Number: 11
+FAMOUS KENTUCKIANS | In the '40s & '50s this Kentucky-born hunk starred in biblical films like "The Robe" & "Samson and Delilah" | Victor Mature
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+MISHMASH | These political "issues" get their name because they can split apart a unified movement | wedge issues
+right: 
+Wrong: Triple Stumper
+Bruce: What are divisive issues?
+Value: $2000
+Number: 30
+ON THE "PHONE" | The smallest unit in a language capable of conveying distinction in meaning | a phoneme
+right: Ken
+Wrong: 
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Ken: $38,800
+Dana: $2,000
+Bruce: -$4,800
+
+Final Jeopardy! Round
+COUNTRY NAMES | A Spanish dictionary defines it as "circulo maximo que equidista de los polos de la tierra" | Ecuador
+right: Dana | Ken
+Wrong: 
+Wagers: 
+Dana: $1,999
+Ken: $6,200
+Final scores:
+Ken: $45,000 (44-day champion: $1,477,461)
+Dana: $3,999 (2nd place: $2,000)
+Bruce: -$4,800 (3rd place: $1,000)
+
+Coryat scores
+Ken: $32,200 (41 R(including 2 DDs),2 W)
+Dana: $2,000 (4 R,2 W)
+Bruce: -$1,800 (10 R,5 W(including 1 DD))

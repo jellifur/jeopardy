@@ -1,0 +1,320 @@
+3409 - Thursday, June 3, 1999
+Contestants:
+Preston Spickler: an actor originally from Harpers Ferry, West Virginia
+Marina Rimer: a bartender from Los Angeles, California
+Dave Martin: an English teacher from Sweet Home, Oregon (whose 1-day cash winnings total $14,500)
+First Jeopardy! Round: BRITISH PRIME MINISTERS, COUNTY SEATS, "DREAM"Y SONGS, BILL GATES' 50 BILLION, SPOUSE IN COMMON, GANGSTER'S DICTIONARY
+BRITISH PRIME MINISTERS | 1940-1945, 1951-1955 | Winston Churchill
+right: Marina
+Wrong: 
+Value: $100
+Number: 16
+COUNTY SEATS | Hilo, I love you, you're the seat of this county that's also a "Big Island" | Hawaii
+right: Marina
+Wrong: 
+Value: $100
+Number: 11
+"DREAM"Y SONGS | 1 of 2 "dream"y Top 20 songs recorded by Cass Elliott with The Mamas and The Papas | "California Dreamin'" & "Dream a Little Dream of Me"
+right: Marina
+Wrong: 
+Value: $100
+Number: 1
+BILL GATES' 50 BILLION | If his employee's price is $50.00, Bill could buy a billion of the "98" version of this operating system | Windows
+right: Marina
+Wrong: 
+Value: $100
+Number: 26
+SPOUSE IN COMMON | Elliott Gould, James Brolin | Barbra Streisand
+right: Preston
+Wrong: 
+Value: $100
+Number: 3
+GANGSTER'S DICTIONARY | I hates it when the cops put these "bracelets" on me after a bust | Handcuffs
+right: Preston
+Wrong: 
+Value: $100
+Number: 17
+BRITISH PRIME MINISTERS | 1990-1997 | John Major
+right: Preston
+Wrong: 
+Value: $200
+Number: 18
+COUNTY SEATS | Paris (population 8,730) is the seat of Bourbon County in this state | Kentucky
+right: Preston
+Wrong: 
+Value: $200
+Number: 12
+"DREAM"Y SONGS | Title that follows "When I want you in my arms, when I want you and all your charms, whenever I want you..." | "All I Have to Do Is Dream"
+right: Marina
+Wrong: 
+Value: $200
+Number: 2
+BILL GATES' 50 BILLION | In this state where he lives, Bill could pay the governor's salary for 413,000 years | Washington
+right: Marina
+Wrong: 
+Value: $200
+Number: 27
+SPOUSE IN COMMON | Heather Locklear, Pamela Anderson | Tommy Lee
+right: Dave
+Wrong: 
+Value: $200
+Number: 7
+GANGSTER'S DICTIONARY | You mugs, I need a "can opener", a tool used to open one of these, not a tin can | Safe
+right: Dave
+Wrong: 
+Value: $200
+Number: 22
+BRITISH PRIME MINISTERS | 1937-1940 | Neville Chamberlain
+right: Preston
+Wrong: 
+Value: $300
+Number: 19
+COUNTY SEATS | This Iowa city, the seat of Black Hawk County, has a name Wellington would remember | Waterloo
+right: Dave
+Wrong: 
+Value: $300
+Number: 13
+"DREAM"Y SONGS | "Cheer up sleepy Jean, oh what can it mean to" one of these "and a homecoming queen" | A daydream believer
+right: Dave
+Wrong: 
+Value: $300
+Number: 4
+BILL GATES' 50 BILLION | In 1997 Americans spent about $40 billion on these, & many wanted to be in Bill's | Shoes
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+SPOUSE IN COMMON | Roger Vadim, Tom Hayden | Jane Fonda
+right: Dave
+Wrong: 
+Value: $300
+Number: 8
+GANGSTER'S DICTIONARY | Roll out these "bones", boys, so we can play some games of chance | Dice
+right: Dave
+Wrong: 
+Value: $300
+Number: 23
+BRITISH PRIME MINISTERS | The Elder, 1766-1768; The Younger, 1783-1801, 1804-1806 | William Pitt
+right: 
+Wrong: 
+Value: DD: $400
+Number: 20
+COUNTY SEATS | Quincy, Illinois is the seat of a county with this presidential name | Adams
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+"DREAM"Y SONGS | In 1959 Bobby Darin wailed, "Every night I hope and pray", she "will come my way" | "Dream Lover"
+right: Preston
+Wrong: 
+Value: $400
+Number: 5
+BILL GATES' 50 BILLION | OK, we're not allowing for inflation, but Bill could afford over 8,000 Steve Austins, this title character | The Six Million Dollar Man
+right: Preston
+Wrong: 
+Value: $400
+Number: 29
+SPOUSE IN COMMON | Ava Gardner, Mia Farrow | Frank Sinatra
+right: Dave
+Wrong: 
+Value: $400
+Number: 9
+GANGSTER'S DICTIONARY | One day I might go legit & get a cush job as a "gumshoe", a private one of these | Detective/private eye
+right: Dave
+Wrong: 
+Value: $400
+Number: 24
+BRITISH PRIME MINISTERS | 1945-1951 | Clement Atlee
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 21
+COUNTY SEATS | As I walked out in the streets of this city, I was in the seat of Webb County, Texas | Laredo
+right: Dave
+Wrong: 
+Value: $500
+Number: 15
+"DREAM"Y SONGS | In the 1986 film "Blue Velvet", Dean Stockwell peerforms a lip-synched rendition of this Roy Orbison hit | "In Dreams"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 6
+BILL GATES' 50 BILLION | Bill could easily bid on Bolivia: their GDP, this annual figure, is less than half what he's worth | Gross Domestic Product
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+SPOUSE IN COMMON | Ursula Andress, Linda Evans | John Derek
+right: Dave
+Wrong: 
+Value: $500
+Number: 10
+GANGSTER'S DICTIONARY | Keep your head low...I just saw a "Salt & Pepper", one of these, go by | Police car
+right: Marina
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Dave: $2,300
+Marina: -$700
+Preston: -$200
+Scores at the end of the Jeopardy! Round:
+Dave: $3,200
+Marina: $0
+Preston: -$100
+Second Jeopardy! Round: CIVIL WAR LITERATURE, HISTORIC NAMES, TV MINISERIES, TAKE A PILL, KNOTS TO YOU, THAT'S WHAT THEY SAID
+CIVIL WAR LITERATURE | Henry Fleming shares a tent with a loud soldier & a tall soldier in this Stephen Crane novel | "The Red Badge of Courage"
+right: Dave
+Wrong: 
+Value: $200
+Number: 1
+HISTORIC NAMES | His epitaph reads, "Founder of Boys Town and Lover of Christ and Man" | Father Flanagan
+right: Marina
+Wrong: 
+Value: $200
+Number: 6
+TV MINISERIES | You could call Henry Thomas Ishmael & Patrick Stewart Ahab in this 1998 miniseries | Moby Dick
+right: Dave
+Wrong: 
+Value: $200
+Number: 12
+TAKE A PILL | Bayer hailed the FDA's endorsement of this drug for use during a suspected heart attack | Aspirin
+right: Dave
+Wrong: 
+Value: $200
+Number: 26
+KNOTS TO YOU | The Honda is a slip knot used by cowboys to make this tool of the trade | Lasso
+right: Marina
+Wrong: 
+Value: $200
+Number: 17
+THAT'S WHAT THEY SAID | After her election, this British prime minister said that she owed "everything to my father" | Margaret Thatcher
+right: Marina
+Wrong: 
+Value: $200
+Number: 11
+CIVIL WAR LITERATURE | Joanna Higgins' 1998 novel "A Soldier's Book" tells the story of Ira Stevens, a Union P.O.W. in this notorious prison | Andersonville
+right: Preston
+Wrong: 
+Value: $400
+Number: 2
+HISTORIC NAMES | While rounding the tip of South America in 1520, this Portuguese explorer named Cape Virgines & Patagonia | Ferdinand Magellan
+right: Marina
+Wrong: 
+Value: $400
+Number: 7
+TV MINISERIES | Vanessa Williams played Calypso & Greta Scacchi was the long-suffering Penelope in this 1997 epic | The Odyssey
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+KNOTS TO YOU | Alexander the Great cut it with his sword after being told that whoever could undo it would rule Asia | Gordian Knot
+right: Dave
+Wrong: 
+Value: $400
+Number: 22
+THAT'S WHAT THEY SAID | This author's Mr. Bumble declared that "The law is a ass, a idiot" | Charles Dickens
+right: Dave
+Wrong: 
+Value: $400
+Number: 13
+CIVIL WAR LITERATURE | He drew on his wartime nursing experience for the poem "The Wound-Dresser" | Walt Whitman
+right: Preston
+Wrong: 
+Value: DD: $500
+Number: 3
+HISTORIC NAMES | It's been said that the 1831 Russian capture of Warsaw inspired him to write his C minor etude | Frederic Chopin
+right: Preston
+Wrong: 
+Value: $600
+Number: 8
+TV MINISERIES | (Hi, I'm Kristoff St. John from "The Young and the Restless")  Earlier in my career, I appeared in "Roots: The Next Generation", playing this author as a boy | Alex Haley
+right: Preston
+Wrong: 
+Value: $600
+Number: 19
+KNOTS TO YOU | It is second only to "Gunsmoke" as TV's longest-running primetime drama series | Knots Landing
+right: Preston
+Wrong: 
+Value: $600
+Number: 23
+THAT'S WHAT THEY SAID | In 1803 Jacques Delille wrote, "Fate chooses our relatives, we choose" these | Our friends
+right: Marina
+Wrong: 
+Value: $600
+Number: 14
+CIVIL WAR LITERATURE | His works about the war include the essay "What I Saw of Shiloh" & the story "An Occurrence at Owl Creek Bridge" | Ambrose Bierce
+right: Preston
+Wrong: 
+Value: $800
+Number: 4
+HISTORIC NAMES | This family that once controlled Nicaragua saw 2 members killed -- the father in 1956, a son in 1980 | Somoza
+right: Dave
+Wrong: 
+Value: $800
+Number: 9
+TV MINISERIES | Robert Duvall sat tall in the saddle as Augustus McCrae in this 1989 4-part western | Lonesome Dove
+right: Preston
+Wrong: 
+Value: $800
+Number: 20
+KNOTS TO YOU | This South American civilization used Quipu, a system of knots, to record dates & large sums of figures | Incas
+right: Preston
+Wrong: 
+Value: $800
+Number: 24
+THAT'S WHAT THEY SAID | "When the one great scorer comes to write against your name, he marks -- not that you won or lost -- but" this | How you played the game
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+CIVIL WAR LITERATURE | Jeff Shaara has written a prequel & a sequel to this 1974 novel about Gettysburg by his father Michael | "The Killer Angels"
+right: Preston
+Wrong: 
+Value: $1000
+Number: 5
+HISTORIC NAMES | This discoverer of Uranus thought the sun was an inhabited body with a luminous atmosphere | William Herschel
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+TV MINISERIES | (Hi, I'm Stephen Collins of "7th Heaven")  In 1994 I played Ashley Wilkes in this miniseries sequel to "Gone with the Wind" | Scarlett
+right: Marina
+Wrong: 
+Value: $1000
+Number: 21
+KNOTS TO YOU | From the Turkish for "napkin", it's the art which creates decorative items by knotting cord, rope or string | Macrame
+right: Marina
+Wrong: 
+Value: $1000
+Number: 25
+THAT'S WHAT THEY SAID | In his 1918 poem "Prairie", he wrote, "I tell you the past is a bucket of ashes" | Carl Sandburg
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Dave: $5,800
+Marina: $3,000
+Preston: $5,600
+
+Final Jeopardy! Round
+WORLD EVENTS | The 3 people who did this most recently were Midori Ito, Muhammad Ali & Crown Prince Haakon of Norway | Lighting the Olympic flame at the Olympic Games
+right: 
+Wrong: 
+Marina: What is climb
+Preston: What is carried the Olympic torch
+Dave: What is win Nobel Peace Prizes
+Wagers: 
+Marina: $2,900
+Preston: $1,400
+Dave: $5,400
+Final scores:
+Dave: $400 (2nd place: Trip to Spice Island Beach Resort, Grenada)
+Marina: $100 (3rd place: Olympus Centurion S Zoom Lens Camera)
+Preston: $4,200 (New champion: $4,200)
+
+Coryat scores
+Dave: $5,800 (17 R,2 W)
+Marina: $3,000 (14 R,5 W)
+Preston: $6,100 (16 R(including 1 DD),5 W(including 1 DD))

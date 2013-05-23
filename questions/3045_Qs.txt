@@ -1,0 +1,322 @@
+3356 - Monday, March 22, 1999
+Comments: 1999 Celebrity <i>Jeopardy!</i> Sports Anchors Night.
+Contestants:
+Keith Olbermann: an anchorman from Fox Sports News
+Robin Roberts: an anchorwoman from ESPN
+Bob Costas: a commentator and anchorman from NBC Sports
+First Jeopardy! Round: WHERE WERE YOU IN '62?, SPORTS STATS, TRUCK STOP, POP MUSIC, AROUND THE USA, ATHLETE'S RHYME TIME
+WHERE WERE YOU IN '62? | Steel companies that raised prices $6 a ton were forced to roll them back by this president | John F. Kennedy
+right: Bob
+Wrong: 
+Value: $100
+Number: 1
+SPORTS STATS | In 1997, his first full year on the PGA Tour, he became the first to exceed $2 million in earnings for a season | Tiger Woods
+right: Bob
+Wrong: 
+Value: $100
+Number: 6
+TRUCK STOP | A 4-wheel drive vehicle that tows planes into gates is called this, like a boat that tows ships | tug
+right: Keith
+Wrong: 
+Value: $100
+Number: 21
+POP MUSIC | Ladies' Home Journal named this "Like A Virgin" singer one of the 100 most important women of the 20th century | Madonna
+right: Bob
+Wrong: 
+Value: $100
+Number: 11
+AROUND THE USA | This city is the home of Golden Gate University's main campus | San Francisco
+right: Bob
+Wrong: 
+Value: $100
+Number: 16
+ATHLETE'S RHYME TIME | A spotless putting area | clean green
+right: Bob
+Wrong: 
+Value: $100
+Number: 22
+WHERE WERE YOU IN '62? | This Warrior scored 100 points in one game | Wilt Chamberlain
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+SPORTS STATS | In June 1998 he set a major league record by slugging 20 home runs in a month | Sammy Sosa
+right: Bob
+Wrong: 
+Value: $200
+Number: 7
+POP MUSIC | Their rock opera albums "Tommy" & "Quadrophenia" were both turned into films | The Who
+right: Bob
+Wrong: 
+Value: $200
+Number: 12
+AROUND THE USA | It's Tennessee's state flower, not its state part of the eye | Iris
+right: 
+Wrong: Triple Stumper
+Keith: What is a Black-eyed Susan?
+Value: $200
+Number: 17
+ATHLETE'S RHYME TIME | An aquamarine rod for billiards | blue cue
+right: Keith
+Wrong: 
+Value: $200
+Number: 23
+WHERE WERE YOU IN '62? | It wasn't until almost 2 months after his coverage of John Glenn's flight he got the CBS Evening News anchor seat | Walter Cronkite
+right: Keith
+Wrong: 
+Value: $300
+Number: 3
+SPORTS STATS | From 1952 to 1955 this Phillie led the National League in wins, complete games & innings pitched | Robin Roberts
+right: Robin
+Wrong: 
+Value: $300
+Number: 8
+POP MUSIC | The group that finished the '80s as Starship first took off in the '60s under this name | Jefferson Airplane
+right: Bob
+Wrong: 
+Value: $300
+Number: 13
+AROUND THE USA | The National Museum of American Art is in this city's Old Patent Office Building | Washington, D.C.
+right: Keith
+Wrong: 
+Value: $300
+Number: 18
+ATHLETE'S RHYME TIME | A boxing arena monarch | ring king
+right: Keith
+Wrong: 
+Value: $300
+Number: 24
+WHERE WERE YOU IN '62? | This Space Age animated family made their network debut in the fall of '62 | The Jetsons
+right: Bob
+Wrong: 
+Value: $400
+Number: 4
+SPORTS STATS | In 1973 he became the first & only horse to break the 2-minute barrier in the Kentucky Derby | Secretariat
+right: Robin
+Wrong: 
+Value: DD: $500
+Number: 9
+TRUCK STOP | A folding weapon gave us this term for a rig's dangerous "bending" when it stops abruptly | jackknife
+right: 
+Wrong: Triple Stumper
+Keith: What is an umbrella?
+Value: $400
+Number: 28
+POP MUSIC | This '60s singer-guitarist called "Foxy Lady" "about the only happy song" he'd ever written | Jimi Hendrix
+right: Keith
+Wrong: 
+Value: $400
+Number: 14
+AROUND THE USA | The name of this island near Martha's Vineyard may mean "sandy, sterile soil tempting no one" | Nantucket
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+ATHLETE'S RHYME TIME | Your father's protective football gear | dad's pads
+right: Keith
+Wrong: 
+Value: $400
+Number: 25
+WHERE WERE YOU IN '62? | In June 1962 the Supreme Court ruled that this in schools violated the First Amendment | prayer
+right: Bob
+Wrong: 
+Value: $500
+Number: 5
+SPORTS STATS | In his 26 years in pro football, this quarterback-kicker scored a record 2,002 points | George Blanda
+right: Bob
+Wrong: 
+Value: $500
+Number: 10
+TRUCK STOP | Appropriately, Bigfoot is a famous one of these "scary" trucks whose tires are 5 1/2 feet across | monster trucks
+right: Bob
+Wrong: 
+Value: $500
+Number: 27
+POP MUSIC | This group was reeling in the '70s with hits like "Reeling in the Years", "Peg" & "Do It Again" | Steely Dan
+right: Bob
+Wrong: 
+Value: $500
+Number: 15
+AROUND THE USA | Founded in 1850, The Deseret News is the oldest continuously operating business in this U.S. state | Utah
+right: Bob
+Wrong: 
+Value: $500
+Number: 20
+ATHLETE'S RHYME TIME | A plump Louisville Slugger | fat bat
+right: Bob | Robin
+Wrong: 
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Bob: $2,600
+Robin: $800
+Keith: $300
+Scores at the end of the Jeopardy! Round:
+Bob: $4,800
+Robin: $1,300
+Keith: $1,400
+Second Jeopardy! Round: COUNTRIES OF THE WORLD, THE SPORTS BIZ, BEHIND THE MIKE, OPERA, JOCKS ON FILM, CHAUVINISTIC TERMS FOR WOMEN
+COUNTRIES OF THE WORLD | In April 1960 Rio de Janeiro was replaced as capital of this country | Brazil
+right: Robin
+Wrong: 
+Value: $200
+Number: 14
+THE SPORTS BIZ | This NBA player's $33 million for 1997-98 was the highest single-season salary in sports history | Michael Jordan
+right: Bob
+Wrong: 
+Value: $200
+Number: 9
+BEHIND THE MIKE | If you find John maddening his partner, this ex-placekicker, may calm you down | Pat Summerall
+right: Keith
+Wrong: 
+Value: $200
+Number: 4
+OPERA | Rossini's "William Tell" Overture was used as the theme for this classic TV western | The Lone Ranger
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+JOCKS ON FILM | In 1940 Pat O'Brien played this "All American" Notre Dame coach | Knute Rockne
+right: Robin
+Wrong: 
+Value: $200
+Number: 1
+CHAUVINISTIC TERMS FOR WOMEN | Barbie, for example | doll
+right: Keith
+Wrong: 
+Value: $200
+Number: 21
+COUNTRIES OF THE WORLD | Muammar Al-Qaddafi is this country's head of state but has no official title | Libya
+right: Bob
+Wrong: 
+Value: $400
+Number: 15
+THE SPORTS BIZ | In 1997 Paul Allen, who made billions as co-founder of this software giant, bought the Seattle Seahawks for $200 million | Microsoft
+right: Bob
+Wrong: 
+Value: $400
+Number: 10
+BEHIND THE MIKE | After a time out for some legal troubles, this play-by-play man returned to the Knicks in 1998 | Marv Albert
+right: Robin
+Wrong: 
+Value: $400
+Number: 5
+OPERA | In this opera based on a Grimm fairy tale, the witch lures 2 kids into her gingerbread house | Hansel and Gretel
+right: Bob
+Wrong: 
+Value: $400
+Number: 27
+JOCKS ON FILM | In 1969, the same year he played the Sundance Kid, he played an egotistical skier in "Downhill Racer" | Robert Redford
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+CHAUVINISTIC TERMS FOR WOMEN | An infant | babe
+right: Bob
+Wrong: 
+Value: $400
+Number: 23
+COUNTRIES OF THE WORLD | Country in the name of the species seen here | India
+right: Robin
+Wrong: 
+Value: $600
+Number: 16
+THE SPORTS BIZ | On 2/23/94 more U.S. households tuned in to watch Nancy & Tonya in this sport than any other Olympic sportscast ever | figure skating
+right: Bob
+Wrong: 
+Value: $600
+Number: 11
+BEHIND THE MIKE | He gained fame doing sports on radio station WHO Des Moines, moved into actng & later tried politics | Ronald Reagan
+right: Robin
+Wrong: 
+Value: $600
+Number: 6
+OPERA | Puccini's "Madama Butterfly" takes place in the early 1900s in this country | Japan
+right: 
+Wrong: 
+Bob: What is China?
+Value: DD: $600
+Number: 28
+JOCKS ON FILM | James Caan had a "ball" as the champ of a violent future sport in this 1975 flick | Rollerball
+right: Keith
+Wrong: 
+Value: $600
+Number: 3
+CHAUVINISTIC TERMS FOR WOMEN | A little bird, or sportscaster Hearn | Chick
+right: Bob
+Wrong: 
+Value: $600
+Number: 24
+COUNTRIES OF THE WORLD | The island of Corsica belongs to France; Sardinia, 7 miles away, belongs to this country | Italy
+right: Robin
+Wrong: 
+Value: DD: $1,300
+Number: 17
+THE SPORTS BIZ | Once upon a midnight dreary, Art Modell moved this NFL team to Baltimore & gave it this new nickname | the Ravens
+right: Bob
+Wrong: 
+Value: $800
+Number: 12
+BEHIND THE MIKE | From 1965 to 1984 this annnouncer & avid fisherman was the host of TV's "The American Sportsman" | Curt Gowdy
+right: Bob
+Wrong: 
+Value: $800
+Number: 7
+JOCKS ON FILM | This film's title is the second half of an old boxing expression | The Harder They Fall
+right: Bob
+Wrong: 
+Value: $800
+Number: 19
+CHAUVINISTIC TERMS FOR WOMEN | A knight's wife; there's "Nothing Like" one | dame
+right: Bob
+Wrong: 
+Value: $800
+Number: 25
+COUNTRIES OF THE WORLD | This cradle of civilization was conquered by Macedonia in 338 B.C. & wasn't independent again until 1830 | Greece
+right: Bob
+Wrong: 
+Value: $1000
+Number: 18
+THE SPORTS BIZ | In July 1998, after serving as acting baseball commissioner for 6 years, he was officially given the job by owners | Bud Selig
+right: Bob
+Wrong: 
+Value: $1000
+Number: 13
+BEHIND THE MIKE | She won 2 Olympic gold medals in swimming in 1964 & has covered the games for ABC | Donna de Varona
+right: Bob
+Wrong: 
+Value: $1000
+Number: 8
+JOCKS ON FILM | This 1957 biopic told of the Red Sox' Jimmy Piersall & his bout with mental illness | Fear Strikes Out
+right: Bob
+Wrong: 
+Value: $1000
+Number: 20
+CHAUVINISTIC TERMS FOR WOMEN | Not narrow | broad
+right: Keith
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Bob: $15,000
+Robin: $4,600
+Keith: $3,400
+
+Final Jeopardy! Round
+THE OLYMPICS | Before the first winter games in 1924, this sport was played in the summer games; Canada won gold in 1920 | ice hockey
+right: Keith | Bob
+Wrong: 
+Robin: What is "Bob"sledding
+Wagers: 
+Keith: $2,500
+Robin: $4,600
+Bob: $5,000
+Final scores:
+Bob: $20,000 (Winner: $20,000 for Bob Costas Cancer Center)
+Robin: $0 (3rd place: $10,000 for The Genesis Foundation)
+Keith: $5,900 (2nd place: $10,000 for Jesuit Jamshedpur Mission)
+
+Coryat scores
+Bob: $15,600 (33 R,1 W(including 1 DD))
+Robin: $4,000 (9 R(including 2 DDs),0 W)
+Keith: $3,400 (11 R,2 W)

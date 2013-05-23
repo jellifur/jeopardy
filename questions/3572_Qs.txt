@@ -1,0 +1,344 @@
+6084 - Thursday, February 10, 2011
+Comments: IBM Challenge mini-documentary: "Meet the Contestants"
+Contestants:
+Milind Kulkarni: an assistant professor from West Lafayette, Indiana
+Betsy Stephenson: a retired  employment program specialist from Charleston, West Virginia
+Paul Wampler: a web programmer from Knoxville, Tennessee (whose 3-day cash winnings total $50,401)
+First Jeopardy! Round: AFRICAN AMERICANS, POETIC SETTINGS, EMOTICONS, THE STATE OF MY BIRTH, THERE'S A DRAFT IN THE ROOM, "BR-R"
+AFRICAN AMERICANS | "All Hail the Queen" & "The Dana Owens Album" are releases by this actress & hip hop artist | Queen Latifah
+right: Paul
+Wrong: 
+Value: $200
+Number: 13
+POETIC SETTINGS | To Leigh Hunt, this "flows through old hushed Egypt and its sands... caves, pillars, pyramids, the shepherd bands" | the Nile
+right: Paul
+Wrong: 
+Value: $200
+Number: 24
+EMOTICONS | Your choices to express this action are =)) or ROTF, which sometimes has an "L" added on | laughing (or rolling on the floor)
+right: Paul
+Wrong: 
+Value: $200
+Number: 18
+THE STATE OF MY BIRTH | Jasper Johns,  Julia Roberts,  Rosalynn Carter | Georgia
+right: Paul
+Wrong: 
+Value: $200
+Number: 11
+THERE'S A DRAFT IN THE ROOM | The first NFL draft was held in 1936 at the Ritz-Carlton in this city, & the hometown Eagles had the first pick | Philadelphia
+right: Milind
+Wrong: 
+Value: $200
+Number: 1
+"BR-R" | It's another word for a pamphlet | brochure
+right: Paul
+Wrong: 
+Value: $200
+Number: 6
+AFRICAN AMERICANS | An award for African-American authors & illustrators is named for this wife of Martin Luther King Jr. | Coretta Scott King
+right: Paul
+Wrong: 
+Value: $400
+Number: 17
+POETIC SETTINGS | "A hundred shouting signs shed down their bright fantastic glow" in Claude McKay's "On" this NYC street | "Broadway"
+right: Milind
+Wrong: 
+Value: $400
+Number: 27
+EMOTICONS | :-t is asking for this, also a sports term or a punishment for a child | a timeout
+right: Betsy
+Wrong: 
+Value: $400
+Number: 19
+THE STATE OF MY BIRTH | Kurt Vonnegut,  David Letterman,  Dan Quayle | Indiana
+right: Betsy
+Wrong: 
+Value: $400
+Number: 12
+THERE'S A DRAFT IN THE ROOM | In 2009 the NFL held its draft at this NYC venue; Matthew Stafford was the first to kick up his heels | Radio City Music Hall
+right: Milind
+Wrong: 
+Value: $400
+Number: 2
+"BR-R" | This slang term for 1930s German storm troopers refers to their uniforms | the brownshirts
+right: Paul
+Wrong: 
+Value: $400
+Number: 7
+AFRICAN AMERICANS | Between the time this boxer retired in 1977 & again in 1997, he began hawking lean mean grilling machines | George Foreman
+right: Paul
+Wrong: 
+Value: $600
+Number: 20
+POETIC SETTINGS | "In every voice... the mind-forged manacles I hear", says William Blake's grim poem about this capital city | London
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+EMOTICONS | Like Blondie in a song, :-c is telling you, do this | call me
+right: Betsy
+Wrong: 
+Value: $600
+Number: 21
+THE STATE OF MY BIRTH | Jim Beam,  Jefferson Davis,  Abraham Lincoln | Kentucky
+right: Milind
+Wrong: 
+Value: $600
+Number: 14
+THERE'S A DRAFT IN THE ROOM | MLB's first televised amateur draft was at the Disney complex with the name of this ABC athletic anthology show | Wide World of Sports
+right: Paul
+Wrong: 
+Value: $600
+Number: 3
+"BR-R" | This 2-word name for the type of glass seen <http://www.j-archive.com/media/2011-02-10_J_08.jpg> here includes a kind of spirit | a brandy snifter
+right: Paul
+Wrong: 
+Value: $600
+Number: 8
+AFRICAN AMERICANS | In 2005 Baltimore/Washington Intl. Airport was renamed for this late Supreme Court justice | Thurgood Marshall
+right: Betsy
+Wrong: 
+Value: $800
+Number: 22
+POETIC SETTINGS | To Edith Wharton, this northwest French cathedral is "petalled with panes of azure, gules and or" | (Notre Dame de) Chartres
+right: 
+Wrong: Triple Stumper
+Betsy: Who is Notre Dame?
+Value: $800
+Number: 29
+EMOTICONS | I can't keep this 2-word expression, but :| sure can | a straight face
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 25
+THE STATE OF MY BIRTH | Cesar Chavez, Joe Jonas, Barry Goldwater | Arizona
+right: Milind
+Wrong: 
+Value: DD: $1,000
+Number: 15
+THERE'S A DRAFT IN THE ROOM | Since 2001 the NBA draft has been a garden party at this arena | Madison Square Garden
+right: Milind
+Wrong: 
+Value: $800
+Number: 4
+"BR-R" | In the U.S. Army the rank just above Colonel is this general | Brigadier General
+right: Paul
+Wrong: 
+Value: $800
+Number: 9
+AFRICAN AMERICANS | Representing Texas from 1973 to 1979, she was the first black woman from a Southern state to serve in Congress | Barbara Jordan
+right: 
+Wrong: Triple Stumper
+Betsy: Who is Shirley Chisholm?
+Value: $1000
+Number: 23
+POETIC SETTINGS | This 19th c. poem begins with the line "This is the forest primeval" | Evangeline
+right: Betsy
+Wrong: 
+Value: $1000
+Number: 30
+EMOTICONS | @-) shows & you're in this state, & perhaps you think you're a chicken | hypnotized
+right: Paul
+Wrong: 
+Value: $1000
+Number: 26
+THE STATE OF MY BIRTH | Medgar Evers,  Oprah Winfrey,  Eudora Welty | Mississippi
+right: Betsy
+Wrong: 
+Paul: What is Tennessee?
+Milind: What is Georgia?
+Value: $1000
+Number: 16
+THERE'S A DRAFT IN THE ROOM | In 2009 the Bell Centre/Le Centre Bell in this city was the home of the NHL draft | Montreal
+right: Paul
+Wrong: 
+Value: $1000
+Number: 5
+"BR-R" | <http://www.j-archive.com/media/2011-02-10_J_10.jpg> This freshwater game fish is named for a small body of water | the brook trout
+right: Paul
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Paul: $5,000
+Betsy: $400
+Milind: $3,000
+Scores at the end of the Jeopardy! Round:
+Paul: $6,400
+Betsy: $2,400
+Milind: $2,400
+Second Jeopardy! Round: THE COUNTRY THAT BORDERS..., WHAT THE TV TITLE MEANS, INCA HOOTS?, NAUTICAL TERMS, PEEVED VEEPS, ENDS IN "X"
+THE COUNTRY THAT BORDERS... | China & Finland | Russia
+right: Milind
+Wrong: 
+Value: $400
+Number: 4
+WHAT THE TV TITLE MEANS | Slang for what Laura Linney is diagnosed with on a Showtime series | The Big C
+right: Betsy
+Wrong: 
+Value: $400
+Number: 1
+INCA HOOTS? | When in Peru, don't forget to check out the cute pygmy owls named for these mountains | the Andes
+right: Milind
+Wrong: 
+Value: $400
+Number: 24
+NAUTICAL TERMS | This lookout platform is named for the bird that would be released to find the nearest land in bad weather | the crow's nest
+right: Betsy
+Wrong: 
+Value: $400
+Number: 19
+PEEVED VEEPS | He said that if his successor, Joe Biden, "wants to diminish the office of the vice president, that's... his call" | (Dick) Cheney
+right: Milind
+Wrong: 
+Value: $400
+Number: 11
+ENDS IN "X" | To fasten, like a stamp, or to attach blame | affix
+right: Paul
+Wrong: 
+Value: $400
+Number: 7
+THE COUNTRY THAT BORDERS... | Liechtenstein & Slovakia | Austria
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+WHAT THE TV TITLE MEANS | The building where the variety show "TGS with Tracy Jordan" is produced | 30 Rock
+right: Milind
+Wrong: 
+Value: $800
+Number: 2
+INCA HOOTS? | The name of this city taken by Pizarro in 1533 is derived from Quechuan words meaning "rock of the owl" | Cuzco
+right: 
+Wrong: Triple Stumper
+Milind: What is Machu Picchu?
+Value: $800
+Number: 25
+NAUTICAL TERMS | The bow is the front part of a ship; this is the rear part | the stern
+right: Milind
+Wrong: 
+Value: $800
+Number: 20
+PEEVED VEEPS | Returning from Europe in 1812, he entered the U.S. under an assumed name, Adolphus Arnot; oh yeah, he shot a guy | (Aaron) Burr
+right: Milind
+Wrong: 
+Value: $800
+Number: 12
+ENDS IN "X" | The heart of the matter, the this, if you will, is that it's a pivotal point | crux
+right: Betsy
+Wrong: 
+Value: $800
+Number: 8
+THE COUNTRY THAT BORDERS... | Honduras & Costa Rica | Nicaragua
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 6
+WHAT THE TV TITLE MEANS | While mocked by host John Henson, what contestants do on a watery obstacle course | Wipeout
+right: Milind
+Wrong: 
+Value: $1200
+Number: 3
+INCA HOOTS? | After listening to its piercing cry, you'll know why this west Peruvian owl is so named | the screech-owl
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 26
+NAUTICAL TERMS | Collectively, it's the 7-letter word for all the ropes & chains used to support & work the masts, booms & sails | rigging
+right: Milind
+Wrong: 
+Value: $1200
+Number: 21
+PEEVED VEEPS | He initially didn't want to be McKinley's 2nd VP; he thought it would weaken him for a 1904 presidential run | Teddy Roosevelt
+right: Milind
+Wrong: 
+Value: $1200
+Number: 13
+ENDS IN "X" | It's a choice 4-letter (French) word for "fake" | faux
+right: Paul
+Wrong: 
+Value: $1200
+Number: 16
+THE COUNTRY THAT BORDERS... | Iran & India | Pakistan
+right: Paul
+Wrong: 
+Value: DD: $1,200
+Number: 29
+WHAT THE TV TITLE MEANS | The "restaurant" for which contestants cook, usually to chef Gordon Ramsay's displeasure | Hell's Kitchen
+right: Paul
+Wrong: 
+Value: $1600
+Number: 9
+INCA HOOTS? | Peru's ferruginous pygmy owls are the color of this, which is formed by oxidation | rust
+right: Betsy
+Wrong: 
+Value: $1600
+Number: 27
+NAUTICAL TERMS | These walls are built between the decks to form watertight compartments | bulkheads
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 22
+PEEVED VEEPS | This Greek American published a memoir, "Go Quietly... or Else" | Spiro Agnew
+right: Betsy
+Wrong: 
+Value: $1600
+Number: 14
+ENDS IN "X" | It's a wild goat of the Himalayas | ibex
+right: Paul
+Wrong: 
+Value: $1600
+Number: 17
+THE COUNTRY THAT BORDERS... | Greece & Turkey | Bulgaria
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+WHAT THE TV TITLE MEANS | The South Dakota building where the U.S. government stores all the supernatural objects it's collected | Warehouse 13
+right: Betsy
+Wrong: 
+Value: $2000
+Number: 10
+INCA HOOTS? | A long-whiskered owlet was seen in Peru in 2007; it's so rare it has its own genus, Xenoglaux, meaning this "owl" | foreign (or strange)
+right: Paul
+Wrong: 
+Value: $2000
+Number: 28
+NAUTICAL TERMS | It's the triangular blade at the end of the arm of an anchor | fluke
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+PEEVED VEEPS | This veep lead the Democratic-Republican attacks against 1798's Alien & Sedition Acts | Thomas Jefferson
+right: 
+Wrong: 
+Betsy: Who is John Adams?
+Value: DD: $1,200
+Number: 15
+ENDS IN "X" | It's the number represented by 10<sup>10<sup>100</sup></sup> & not a giant set of movie theaters | googolplex
+right: Milind
+Wrong: 
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Paul: $14,400
+Betsy: $8,000
+Milind: $10,800
+
+Final Jeopardy! Round
+THE LAW | Asked in 1966 to write a concise statement for arresting officers to recite, California D.A. Harold Berliner started with these 7 words | You have the right to remain silent
+right: Betsy | Milind | Paul
+Wrong: 
+Wagers: 
+Betsy: $4,000
+Milind: $5,201
+Paul: $7,201
+Final scores:
+Paul: $21,601 (4-day champion: $72,002)
+Betsy: $12,000 (3rd place: $1,000)
+Milind: $16,001 (2nd place: $2,000)
+
+Coryat scores
+Paul: $14,800 (20 R(including 1 DD),1 W)
+Betsy: $9,200 (12 R,3 W(including 1 DD))
+Milind: $10,600 (16 R(including 1 DD),2 W)

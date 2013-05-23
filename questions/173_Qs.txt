@@ -1,0 +1,285 @@
+1 - Monday, September 10, 1984
+Comments: Premiere episode with Alex Trebek as host.
+Contestants:
+Frank Selevan: an advertising copywriter originally from Miami, Florida
+Lois Feinstein: a freelance copywriter originally from Plainview, New York
+Greg Hopkins: an energy demonstrator from Waverly, Ohio
+First Jeopardy! Round: LAKES & RIVERS, INVENTIONS, ANIMALS, FOREIGN CUISINE, ACTORS & ROLES, NUMBER PLEASE
+LAKES & RIVERS | River mentioned most often in the Bible | the Jordan
+right: Greg
+Wrong: 
+Lois: Um, the Nile... What is the Nile?
+Value: $100
+Number: 11
+INVENTIONS | Marconi's wonderful wireless | the radio
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 13
+ANIMALS | These rodents first got to America by stowing away on ships | rats
+right: Greg
+Wrong: 
+Value: $100
+Number: 1
+FOREIGN CUISINE | The "coq" in coq au vin | chicken
+right: Lois
+Wrong: 
+Value: $100
+Number: 20
+ACTORS & ROLES | Video in which Michael Jackson plays a werewolf & a zombie | "Thriller"
+right: Frank
+Wrong: 
+Value: $100
+Number: 3
+LAKES & RIVERS | Scottish word for lake | loch
+right: Frank
+Wrong: 
+Value: $200
+Number: 12
+INVENTIONS | In 1869 an American minister created this "oriental" transportation | the rickshaw
+right: Frank
+Wrong: 
+Value: $200
+Number: 17
+ANIMALS | There are about 40,000 muscles & tendons in this part of an elephant's body | the trunk
+right: Frank
+Wrong: 
+Value: $200
+Number: 2
+FOREIGN CUISINE | A British variety is called "bangers", a Mexican variety, "chorizo" | sausages
+right: Lois
+Wrong: 
+Value: $200
+Number: 21
+ACTORS & ROLES | 2 "Saturday Night" alumni who tried "Trading Places" | Dan Aykroyd & Eddie Murphy
+right: Frank
+Wrong: 
+Value: $200
+Number: 4
+LAKES & RIVERS | River in <http://www.j-archive.com/media/1984-09-10_J_14.mp3> this famous song: | the Volga River
+right: Greg
+Wrong: 
+Value: DD: $800
+Number: 14
+INVENTIONS | A 1920's hunting trip to Canada inspired Birdseye's food preserving method | freezing
+right: Frank
+Wrong: 
+Value: $300
+Number: 18
+ANIMALS | When husbands "pop" for an ermine coat, they're actually buying this fur | weasel
+right: 
+Wrong: Triple Stumper
+Lois: What is sable?
+Frank: What is mink?
+Value: $300
+Number: 8
+FOREIGN CUISINE | Jewish crepe filled with cheese | a blintz
+right: Lois
+Wrong: 
+Value: $300
+Number: 22
+ACTORS & ROLES | He may "Never Say Never Again" when asked to be Bond | Sean Connery
+right: Frank
+Wrong: 
+Value: $300
+Number: 5
+LAKES & RIVERS | American river only 33 miles shorter than the Mississippi | the Missouri
+right: Greg
+Wrong: 
+Value: $400
+Number: 15
+INVENTIONS | This fastener gets its name from a brand of galoshes it was used on | a zipper
+right: 
+Wrong: Triple Stumper
+Lois: What are snaps?
+Frank: What is a Macintosh?
+Value: $400
+Number: 19
+ANIMALS | Close relative of the pig, though its name means "river horse" | the hippopotamus
+right: Greg
+Wrong: 
+Value: $400
+Number: 9
+FOREIGN CUISINE | French for a toothsome cut of beef served to a twosome | Châteaubriand
+right: Lois
+Wrong: 
+Value: $400
+Number: 23
+ACTORS & ROLES | The blonde preferred in the film "Gentlemen Prefer Blondes" | Marilyn Monroe
+right: Frank
+Wrong: 
+Value: $400
+Number: 6
+LAKES & RIVERS | World's largest lake, nearly 5 times as big as Superior | the Caspian Sea
+right: Greg
+Wrong: 
+Value: $500
+Number: 16
+ANIMALS | If this species of hybrid's parents were reversed, you'd get a hinny | a mule
+right: Greg
+Wrong: 
+Value: $500
+Number: 10
+ACTORS & ROLES | Sam Shepard played this barrier breaker in "The Right Stuff" | Colonel Chuck Yeager
+right: Greg
+Wrong: 
+Frank: Um, who is...
+Value: $500
+Number: 7
+Scores at the first commercial break (after clue 15)
+Greg: $1,000
+Lois: -$300
+Frank: $400
+Scores at the end of the Jeopardy! Round:
+Greg: $3,300
+Lois: $200
+Frank: $700
+Second Jeopardy! Round: THE BIBLE, '50'S TV, NATIONAL LANDMARKS, WEIGHTS & MEASURES, NOTORIOUS, 4-LETTER WORDS
+THE BIBLE | When "Joshua Fit The Battle Of Jericho", these took a tumble | the walls
+right: Greg
+Wrong: 
+Value: $200
+Number: 6
+'50'S TV | Occupation of Richard Diamond, Peter Gunn & Mike Hammer | private eyes (or private detectives)
+right: Frank
+Wrong: 
+Value: $200
+Number: 9
+NATIONAL LANDMARKS | She came from France to harbor America's freedom | the Statue of Liberty
+right: Lois
+Wrong: 
+Value: $200
+Number: 8
+NOTORIOUS | It was probably a lyre, not a fiddle, if he played it while Rome burned | Nero
+right: Lois
+Wrong: 
+Value: $200
+Number: 21
+4-LETTER WORDS | Pulled the trigger or what's in a jigger | shot
+right: Lois
+Wrong: 
+Frank: [no response]
+Value: $200
+Number: 1
+THE BIBLE | His price was 30 pieces of silver | Judas
+right: Frank
+Wrong: 
+Greg: [no response]
+Value: $400
+Number: 7
+'50'S TV | She was "Our Miss Brooks" | Eve Arden
+right: Frank
+Wrong: 
+Value: $400
+Number: 10
+NATIONAL LANDMARKS | When he was home, George Washington slept here | Mount Vernon
+right: Frank
+Wrong: 
+Value: $400
+Number: 16
+NOTORIOUS | His book, translated as "My Struggle", outlined plans to conquer Europe | Adolf Hitler
+right: Greg
+Wrong: 
+Value: $400
+Number: 22
+4-LETTER WORDS | Basketball defense or Serling's twilight area | zone
+right: Lois
+Wrong: 
+Value: $400
+Number: 2
+THE BIBLE | According to the Bible, it wasn't necessarily an apple | the forbidden fruit (or the fruit of the Tree of Knowledge)
+right: Greg
+Wrong: 
+Value: $600
+Number: 13
+'50'S TV | Amount Michael Anthony gave out each week on behalf of John Beresford Tipton | one million dollars
+right: Frank
+Wrong: 
+Value: $600
+Number: 11
+NATIONAL LANDMARKS | The cornerstone of Massachusetts, it bears the date 1620 | Plymouth Rock
+right: Greg
+Wrong: 
+Value: $600
+Number: 20
+NOTORIOUS | Lenin called him ruthless, and his purges proved he was | Stalin
+right: Frank
+Wrong: 
+Value: $600
+Number: 23
+4-LETTER WORDS | Little girls do it with a rope, Van Halen does it in a song | jump
+right: Lois
+Wrong: 
+Value: $600
+Number: 3
+THE BIBLE | Though its name means "city of peace", it's seen over 30 wars, the last in 1967 | Jerusalem
+right: Greg
+Wrong: 
+Value: $800
+Number: 14
+'50'S TV | His card read "Have gun, will travel" | Paladin (Richard Boone)
+right: Greg
+Wrong: 
+Frank: Who was... Maverick?
+Value: $800
+Number: 12
+NATIONAL LANDMARKS | Site where John Hancock signed his "John Hancock" | Independence Hall
+right: Greg
+Wrong: 
+Frank: What is Philadelphia?
+Value: $800
+Number: 19
+4-LETTER WORDS | It's the first 4-letter word in "The Star Spangled Banner" | what
+right: Lois
+Wrong: 
+Value: DD: $1,000
+Number: 4
+THE BIBLE | According to 1st Timothy, it is the "root of all evil" | the love of money
+right: Greg
+Wrong: 
+Value: $1000
+Number: 15
+'50'S TV | Name under which experimenter Don Herbert taught viewers all about science | Mr. Wizard
+right: Frank
+Wrong: 
+Value: $1000
+Number: 18
+NATIONAL LANDMARKS | D.C. building shaken by November '83 bomb blast | the Capitol
+right: Lois
+Wrong: 
+Greg: What is the House cloak room ... the House of Representatives?
+Frank: What was the... Senate?
+Value: $1000
+Number: 17
+NOTORIOUS | After the deed, he leaped to the stage shouting "Sic semper tyrannis" | John Wilkes Booth
+right: Frank
+Wrong: 
+Value: $1000
+Number: 24
+4-LETTER WORDS | The president takes one before stepping into office | oath
+right: Greg
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Greg: $8,100
+Lois: $3,800
+Frank: $2,500
+
+Final Jeopardy! Round
+HOLIDAYS | The third Monday of January starting in 1986 | Martin Luther King Day
+right: Frank | Lois | Greg
+Wrong: 
+Wagers: 
+Frank: $2,500
+Lois: $3,700
+Greg: $300
+Final scores:
+Greg: $8,400 (New champion: $8,400)
+Lois: $7,500 (2nd place: a trip to Palm Springs + Skyway luggage)
+Frank: $5,000 (3rd place: his & hers Wimbledon tennis rackets)
+
+Coryat scores
+Greg: $7,600 (17 R(including 1 DD),2 W)
+Lois: $3,600 (11 R(including 1 DD),3 W)
+Frank: $2,500 (16 R,7 W)

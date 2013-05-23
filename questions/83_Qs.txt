@@ -1,0 +1,345 @@
+732 - Tuesday, November 10, 1987
+Comments: 1987 Tournament of Champions quarterfinal game 2.
+Contestants:
+Michael Galvin: a student from Shaker Heights, Ohio
+Frank Hughes: an account executive from Torrance, California
+Richard Cordray: a judicial clerk from Grove City, Ohio
+First Jeopardy! Round: WORLD CAPITALS, APOLLO 11, STORYTELLERS, MR. MOVIES, MEATS, ANCIENT VIP's
+WORLD CAPITALS | "The Rome of the North" is how famed sculptor Rodin described this Czech capital | Prague
+right: Richard
+Wrong: 
+Value: $100
+Number: 26
+APOLLO 11 | Some 1 million spectators surrounded this space center to watch the lift-off | Cape Kennedy
+right: Richard
+Wrong: 
+Value: $100
+Number: 3
+STORYTELLERS | "Call him" the narrator of "Moby Dick" | Ishmael
+right: Frank
+Wrong: 
+Value: $100
+Number: 20
+MR. MOVIES | In 1962, "Mr. Hobbs Took" this | A Vacation
+right: Frank
+Wrong: 
+Value: $100
+Number: 21
+MEATS | This cut is a pig's hind leg above the hock | ham
+right: Frank
+Wrong: 
+Value: $100
+Number: 17
+ANCIENT VIP's | Books about him were written by Plato & Xenophon, both students of his | Socrates
+right: Michael
+Wrong: 
+Frank: Who is Aristotle?
+Value: $100
+Number: 16
+WORLD CAPITALS | Foreign embassies are located in Jiddah, some 500 miles from this country's capital, Riyadh | Saudi Arabia
+right: Richard
+Wrong: 
+Value: $200
+Number: 7
+APOLLO 11 | "Peaceful" site on the moon where the lunar module touched down | the Sea of Tranquility
+right: Michael
+Wrong: 
+Value: $200
+Number: 22
+STORYTELLERS | ABC radio commentator who tells "The Rest of the Story" | Paul Harvey
+right: Richard
+Wrong: 
+Value: $200
+Number: 15
+MR. MOVIES | Though Diane Keaton never found the title character in this 1977 film, she found someone really nuts | Looking for Mr. Goodbar
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+MEATS | A long-standing tradition in France, hippophagy is the consumption of this | horse
+right: Michael
+Wrong: 
+Value: $200
+Number: 30
+ANCIENT VIP's | This Hebrew king taxed his people into rebellion, which may not have been too wise | Solomon
+right: Richard
+Wrong: 
+Value: $200
+Number: 13
+WORLD CAPITALS | "From the halls of Montezuma to the shores of Tripoli" refers to the capitals of these two countries | Mexico & Libya
+right: Frank
+Wrong: 
+Value: $300
+Number: 6
+APOLLO 11 | Astronomic name for the booster rocket used to power the launch | Saturn
+right: Michael
+Wrong: 
+Value: $300
+Number: 23
+STORYTELLERS | Some sources say it was Carnegie Hall; others say it was the '67 Newport Festival where he first sang "Alice's Restaurant" | Arlo Guthrie
+right: Richard
+Wrong: 
+Value: $300
+Number: 14
+MR. MOVIES | Of James Cagney, Henry Fonda or Jack Lemmon, the one who won an Oscar for "Mr. Roberts" | Jack Lemmon
+right: Frank
+Wrong: 
+Value: $300
+Number: 18
+MEATS | These gastropods are sometimes fed aromatic herbs to give them a special savor | snail
+right: Michael
+Wrong: 
+Value: $300
+Number: 29
+ANCIENT VIP's | The period during which he ruled is often referred to as "The Golden Age of Athens" | Pericles
+right: Richard
+Wrong: 
+Value: $300
+Number: 12
+WORLD CAPITALS | Founded in 1496 by Columbus's brother, this Dominican capitol is the oldest European city in the new world | Santo Domingo
+right: Michael
+Wrong: 
+Value: $400
+Number: 5
+APOLLO 11 | The three crew members of Apollo 11 | Neil Armstrong, Buzz Aldrin, and Michael Collins
+right: Michael
+Wrong: 
+Value: DD: $300
+Number: 24
+STORYTELLERS | In addition to her "Fairie Tale Theatre", she now has "Tall Tales and Legends" playing on cable | Shelly Duvall
+right: Frank
+Wrong: 
+Value: $400
+Number: 2
+MR. MOVIES | Of this 1939 film, the "New York Times" said "More fun even than the Senate itself!" | Mr. Smith Goes to Washington
+right: Richard
+Wrong: 
+Value: $400
+Number: 9
+MEATS | One of the largest edible fish, these huge flatfish can measure over 5 X 10 feet and can exceed 700 pounds | halibut
+right: Frank
+Wrong: 
+Value: $400
+Number: 28
+ANCIENT VIP's | Uncle of Caligula and stepfather of Nero, this Roman emperor was poisoned by his wife, Nero's mother | Claudius
+right: Richard
+Wrong: 
+Value: $400
+Number: 11
+WORLD CAPITALS | Construction of this planned Asian capital began in 1912; the government was moved there in 1931 | New Delhi, India
+right: Richard
+Wrong: 
+Value: $500
+Number: 4
+APOLLO 11 | While the lunar lander was code-named "Eagle", the command module was code-named this | Columbia
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+STORYTELLERS | He wrote two collections of modern fables, several fairytales, and "My World and Welcome to It" | James Thurber
+right: Michael
+Wrong: 
+Value: $500
+Number: 1
+MR. MOVIES | "Mr. Pennypacker", "Mr. Scoutmaster", and "Mr. Belvedere" are some of his title characters | Clifton Webb
+right: Frank
+Wrong: 
+Value: $500
+Number: 8
+MEATS | Used to cure many meats including bacon, its the creosote and formaldehyde in this that help preserve things | smoke
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+ANCIENT VIP's | In the 6th century B.C., he conquered Babylon and made Persia the greatest empire in the world | Cyrus the Great
+right: Richard
+Wrong: 
+Michael: Who is Darius?
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Richard: $2,600
+Frank: $1,200
+Michael: $400
+Scores at the end of the Jeopardy! Round:
+Richard: $3,400
+Frank: $2,100
+Michael: $1,800
+Second Jeopardy! Round: PHYSICS, PRESIDENTS, STARTS WITH "P", POETIC TERMS, NEPAL, GREAT DAMES
+PHYSICS | A shotgun's powerful recoil is an example of his third law of motion | Isaac Newton
+right: Frank
+Wrong: 
+Value: $200
+Number: 1
+PRESIDENTS | General whose Presidential campaign song was written by Irving Berlin | Dwight Eisenhower
+right: Michael
+Wrong: 
+Value: $200
+Number: 15
+STARTS WITH "P" | The word "pram" is short for this | parambulator
+right: Frank
+Wrong: 
+Value: $200
+Number: 2
+POETIC TERMS | The sonnet originated in this country with such poets as Guitoni D'Arretzo | Italy
+right: Richard
+Wrong: 
+Value: $200
+Number: 20
+NEPAL | It consists of two red triangles outlined in blue with white symbols of the sun and the moon | the flag of Nepal
+right: Richard
+Wrong: 
+Value: $200
+Number: 26
+GREAT DAMES | In 1952, she sprang her "Mousetrap" | Agatha Christie
+right: Frank
+Wrong: 
+Value: $200
+Number: 11
+PHYSICS | The term horsepower came about when James Watt compared work done by a horse to work done by this | steam engine
+right: Richard
+Wrong: 
+Value: $400
+Number: 7
+PRESIDENTS | All elected Presidents who are members of this party died in office | Whig
+right: Michael
+Wrong: 
+Value: $400
+Number: 16
+STARTS WITH "P" | Movie that featured the following music | Picnic
+right: 
+Wrong: 
+Frank: What is Pinocchio?
+Value: DD: $200
+Number: 3
+POETIC TERMS | These funny five-line verses often end with the name of a place; or, a place in Ireland | Limerick
+right: Michael
+Wrong: 
+Value: $400
+Number: 19
+NEPAL | At Lumbini, you can visit the birthplace of this "Enlightened One" | Buddha
+right: Richard
+Wrong: 
+Value: $400
+Number: 27
+GREAT DAMES | She played "Hamlet" at the age of 73 and a Vulcan high priestess in "Star Trek III" | Dame Judith Anderson
+right: 
+Wrong: Triple Stumper
+Frank: Who is Dame Mae Whittie?
+Value: $400
+Number: 12
+PHYSICS | If it were not for the retarding influence of this, raindrops would attain bullet-like speeds | the atmosphere
+right: Frank
+Wrong: 
+Richard: What is gravity?
+Value: $600
+Number: 22
+PRESIDENTS | This Iowan was the first President born west of the Mississippi | Herbert Hoover
+right: Richard
+Wrong: 
+Value: $600
+Number: 17
+STARTS WITH "P" | This extinct early man is known from fossils found at Chukutien | Peking Man 
+right: Frank
+Wrong: 
+Value: $600
+Number: 4
+POETIC TERMS | A deliberate violation of the rules of rhyming or grammar, not a little piece of paper from the DMV | poetic license
+right: Frank
+Wrong: 
+Value: $600
+Number: 10
+NEPAL | This Sherpa who went to the top of the world with Edmund Hillary died in 1986 at the age of 72 | Tenzing Norgay
+right: Michael
+Wrong: 
+Value: $600
+Number: 28
+GREAT DAMES | She helped her husband survive an attempted assassination & was Nureyev's partner for over fifteen years | Dame Margot Fonteyn
+right: 
+Wrong: Triple Stumper
+Richard: Who is Pavlova?
+Value: $600
+Number: 13
+PHYSICS | Pulling the cloth off a table without disturbing the dishes is the principle of this | inertia
+right: Michael
+Wrong: 
+Value: $800
+Number: 23
+PRESIDENTS | The last President to sport a moustache or beard while in office | William Howard Taft
+right: Richard
+Wrong: 
+Value: DD: $1,200
+Number: 18
+STARTS WITH "P" | As being of great price purchased with all she had, Hester Prynne named her child this | Pearl
+right: Michael
+Wrong: 
+Value: $800
+Number: 5
+POETIC TERMS | 16th century poet who perfected in "The Faerie Queene" the stanza named for him | Edmund Spenser
+right: Richard
+Wrong: 
+Value: $800
+Number: 9
+NEPAL | "Wooden temple", the meaning of this city's name, refers to the 400-year old one in its central square | Katmandu
+right: Michael
+Wrong: 
+Value: $800
+Number: 29
+GREAT DAMES | She starred as Cleopatra and Olivier's Juliet, long before booking "A Passage to India" | Dame Peggy Ashcroft
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+PHYSICS | Term for the speed of a body in a specified direction | velocity
+right: Richard
+Wrong: 
+Value: $1000
+Number: 24
+PRESIDENTS | The "54º40' or Fight" fever over Oregon helped elect this president, the only one ever to be speaker of the U.S. House | James K. Polk
+right: Richard
+Wrong: 
+Value: $1000
+Number: 21
+STARTS WITH "P" | The small cogwheel that engages a larger cogwheel | pinion
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+POETIC TERMS | It's an echoic term for words like hiss that imitate an actual sound | onomatopeia
+right: Michael
+Wrong: 
+Value: $1000
+Number: 8
+NEPAL | Told to jump from 600 feet, these tough Nepalese soldiers, not knowing they'd get chutes, said 300 feet was easier | Gurkhas
+right: Frank
+Wrong: 
+Value: $1000
+Number: 30
+GREAT DAMES | This Maori diva from New Zealand sang with Nelson Riddle and at Prince Charles's wedding | Kiri Te Kanawa
+right: Michael
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Richard: $8,000
+Frank: $4,900
+Michael: $7,800
+
+Final Jeopardy! Round
+THE BIBLE | The first verse of this book says, "There was a man in the land of Uz that feared God and eschewed evil" | Job
+right: Michael | Richard
+Wrong: 
+Frank: What is the book of Moses?
+Wagers: 
+Frank: $0
+Michael: $800
+Richard: $1,900
+Final scores:
+Richard: $9,900 (Automatic semifinalist)
+Frank: $4,900 (3rd place: $1,000 if eliminated)
+Michael: $8,600 (2nd place: $1,000 if eliminated)
+
+Coryat scores
+Richard: $7,600 (21 R(including 1 DD),2 W)
+Frank: $5,100 (15 R,3 W(including 1 DD))
+Michael: $7,900 (17 R(including 1 DD),1 W)

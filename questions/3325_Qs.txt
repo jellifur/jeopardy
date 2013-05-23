@@ -1,0 +1,329 @@
+5862 - Tuesday, February 23, 2010
+Contestants:
+Stewart Yeargin: a restaurant owner from Greenville, South Carolina
+Tom Toce: an actuary from New York, New York
+Ginny Bartlett: a parish administrator from Bath, Maine (whose 1-day cash winnings total $16,000)
+First Jeopardy! Round: THE SANCTITY OF MARRIAGES, BASEBALL HALL OF FAMERS' TEAMS, TOWERS, STATE FAIR FOODS, VEGAS CASINOS, IT'S 2-LETTER TIME
+THE SANCTITY OF MARRIAGES | His marriages ended in divorce, execution, death, divorce, execution & widowhood | Henry VIII
+right: Tom
+Wrong: 
+Value: $200
+Number: 7
+BASEBALL HALL OF FAMERS' TEAMS | Catcher Roy Campanella | Brooklyn
+right: Tom
+Wrong: 
+Value: $200
+Number: 8
+TOWERS | Seen <http://www.j-archive.com/media/2010-02-23_J_04.jpg> here are the world's first leaning high-rise buildings--Puerto de Europa in this country | Spain
+right: Ginny
+Wrong: 
+Value: $200
+Number: 4
+STATE FAIR FOODS | A finalist in the 2008 Big Tex Choice Awards was a deep-fried version of this chocolaty campfire treat; who wants another? | s'mores
+right: Stewart
+Wrong: 
+Value: $200
+Number: 21
+VEGAS CASINOS | The casino so nice they named it twice, this place has room types called the Skyline & Broadway Deluxe | New York New York
+right: Tom
+Wrong: 
+Value: $200
+Number: 26
+IT'S 2-LETTER TIME | This 2-letter conjunction is used to indicate an alternative | or
+right: Stewart
+Wrong: 
+Value: $200
+Number: 1
+THE SANCTITY OF MARRIAGES | At the time of his death, this second leader of the Mormon Church had married 56 women | Brigham Young
+right: Stewart
+Wrong: 
+Value: $400
+Number: 15
+BASEBALL HALL OF FAMERS' TEAMS | Left fielder & first baseman Willie Stargell | Pittsburgh Pirates
+right: Tom
+Wrong: 
+Value: $400
+Number: 9
+TOWERS | Societe Generale bank has built towers in the La Defense section of this city | Paris
+right: Ginny
+Wrong: 
+Value: $400
+Number: 5
+STATE FAIR FOODS | Iowa's hot beef sundae includes a buttery scoop of these, topped with gravy & cheese & garnished with a cherry tomato | mashed potatoes
+right: Ginny
+Wrong: 
+Stewart: What are onions?
+Value: $400
+Number: 22
+VEGAS CASINOS | Hail, yes!  There's a 4,100-seat Colosseum to showcase acts like Bette Midler & Cher at this casino | Caesars (Palace)
+right: Tom
+Wrong: 
+Value: $400
+Number: 27
+IT'S 2-LETTER TIME | The dictionary gives 2 meanings for it: an eastern Asian shrub, also the 7th tone of the diatonic scale | ti
+right: Stewart
+Wrong: 
+Value: DD: $1,000
+Number: 2
+THE SANCTITY OF MARRIAGES | This biblical king had 700 wives & 300 concubines; when did he find time to write all those songs? | Solomon
+right: Tom
+Wrong: 
+Value: $600
+Number: 16
+BASEBALL HALL OF FAMERS' TEAMS | Third baseman Brooks Robinson | the Orioles
+right: Tom
+Wrong: 
+Value: $600
+Number: 10
+TOWERS | To stop suburban flight, elevator operators' & janitors' unions developed the <http://www.j-archive.com/media/2010-02-23_J_06.jpg> Marina City Towers in this Midwest city | Chicago
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 6
+STATE FAIR FOODS | Get 'em while they're hot!  This fried pastry with a cone-shaped utensil in its name is a favorite at state fairs | funnel cake
+right: Tom
+Wrong: 
+Value: $600
+Number: 23
+VEGAS CASINOS | There's a SpongeBob SquarePants 4-D ride here; still trying to figure out the King Arthur's sword angle on that | Excalibur
+right: Stewart
+Wrong: 
+Value: $600
+Number: 28
+IT'S 2-LETTER TIME | In "Little Women" this tomboy wrote plays for her sisters to perform | Jo
+right: Ginny
+Wrong: 
+Value: $600
+Number: 3
+THE SANCTITY OF MARRIAGES | Khadijah was this Islamic leader's first wife; after her death he took others | Muhammad
+right: Tom
+Wrong: 
+Value: $800
+Number: 17
+BASEBALL HALL OF FAMERS' TEAMS | Pitcher Bob Feller | the Cleveland Indians
+right: Tom
+Wrong: 
+Value: $800
+Number: 11
+TOWERS | The Renoir Towers rise over the Rio de la Plata in this South American country | Argentina
+right: Stewart
+Wrong: 
+Value: $800
+Number: 13
+STATE FAIR FOODS | At the California State Fair, a sign for these fried amphibian appendages said, "Tastes like chicken" | frog legs
+right: Tom
+Wrong: 
+Value: $800
+Number: 24
+VEGAS CASINOS | Enjoy rock star lemonades & world famous DJs at the rehab poolside party at this hotel | the Hard Rock Hotel & Casino
+right: 
+Wrong: Triple Stumper
+Stewart: What is the Hard Rock Cafe?
+Value: $800
+Number: 29
+IT'S 2-LETTER TIME | The object of this Japanese board game, over 3,000 years old, is to capture territory on a board of intersecting lines | go
+right: Tom
+Wrong: 
+Value: $800
+Number: 19
+THE SANCTITY OF MARRIAGES | This brutal Ugandan leader had 6 wives, long-serving concubines & a succession of casual mistresses | Idi Amin
+right: Stewart
+Wrong: 
+Value: $1000
+Number: 18
+BASEBALL HALL OF FAMERS' TEAMS | Right fielder Al Kaline | the Detroit Tigers
+right: Tom
+Wrong: 
+Value: $1000
+Number: 12
+TOWERS | Seen <http://www.j-archive.com/media/2010-02-23_J_14.jpg> here are the world headquarters towers (nicknamed "Debit" & "Credit") for this bank in Frankfurt | Deutsche Bank
+right: Stewart
+Wrong: 
+Value: $1000
+Number: 14
+STATE FAIR FOODS | A recent hit at the Florida State Fair was this sweet, crisp & hickory-flavored meat dipped in chocolate | bacon
+right: 
+Wrong: Triple Stumper
+Ginny: What is barbecue?
+Stewart: What is alligator meat?
+Value: $1000
+Number: 25
+VEGAS CASINOS | Ricky Ricardo is not headlining at this hotel, but you can enjoy "the Soprano's Last Supper" with Tony Baritone | the Tropicana
+right: 
+Wrong: Triple Stumper
+Tom: What is the Copacabana?
+Value: $1000
+Number: 30
+IT'S 2-LETTER TIME | This Irish term for one's father is the title of a 1978 Tony Award-winning play by Hugh Leonard | Da
+right: Ginny
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ginny: $1,200
+Tom: $3,200
+Stewart: $3,400
+Scores at the end of the Jeopardy! Round:
+Ginny: $1,600
+Tom: $6,400
+Stewart: $3,000
+Second Jeopardy! Round: INTERNET FAVORITES, YOU TUBE, FLICK ARRR!, EPIC CURIOUS, INFO PLEASE, "YA"HOO!
+INTERNET FAVORITES | Our writers visit search.eb.com, which brings you to the website for this reference work that's been around since 1768 | Encyclopedia Britannica
+right: Ginny
+Wrong: 
+Value: $400
+Number: 22
+YOU TUBE | The circle of Willis, a ring of arteries in this organ, is a fail-safe system to ensure it a steady blood supply | the brain
+right: Stewart
+Wrong: 
+Tom: What is the heart?
+Value: $400
+Number: 5
+FLICK ARRR! | Johnny Depp got gold caps for his turn as Captain Jack Sparrow in this 2003 film | Pirates of the Caribbean
+right: Stewart
+Wrong: 
+Value: $400
+Number: 9
+EPIC CURIOUS | Wiglaf is a loyal companion of this Anglo-Saxon epic hero | Beowulf
+right: Tom
+Wrong: 
+Value: $400
+Number: 3
+INFO PLEASE | Number of feet in a mile | 5,280
+right: Tom
+Wrong: 
+Value: $400
+Number: 14
+"YA"HOO! | An expensive sailing vessel used for pleasure | a yacht
+right: Tom
+Wrong: 
+Value: $400
+Number: 1
+INTERNET FAVORITES | Dating back to the 1920s, this broadcaster precedes .co.uk in a news website | BBC
+right: Stewart
+Wrong: 
+Value: $800
+Number: 23
+FLICK ARRR! | This 1991 film retold the story of Peter Pan & was named for Peter's pirate nemesis (Dustin Hoffman) | Hook
+right: Tom
+Wrong: 
+Ginny: Uh, what is Captain Hook?
+Value: $800
+Number: 10
+EPIC CURIOUS | An American epic, this 1985 Larry McMurtry tale of a cattle drive sweeps from Texas to Montana | Lonesome Dove
+right: Ginny
+Wrong: 
+Value: $800
+Number: 4
+INFO PLEASE | Number of U.S. presidents named George | 3
+right: Stewart
+Wrong: 
+Value: $800
+Number: 15
+"YA"HOO! | A Hebrew name for God | Yahweh
+right: Stewart
+Wrong: 
+Value: $800
+Number: 2
+INTERNET FAVORITES | The online news dispensary called this "Report" isn't named for menial work but for its creator Matt | The Drudge Report
+right: Stewart
+Wrong: 
+Value: $1200
+Number: 24
+FLICK ARRR! | Westley (Cary Elwes) becomes the Dread Pirate Roberts & rescues Buttercup (Robin Wright) in this flick | The Princess Bride
+right: Tom
+Wrong: 
+Value: $1200
+Number: 11
+EPIC CURIOUS | About 1,600 years old, the <http://www.j-archive.com/media/2010-02-23_DJ_06.mp3> Mahabharata is an epic written in this language | Sanskrit
+right: Stewart
+Wrong: 
+Tom: What is Hindi?
+Value: $1200
+Number: 6
+INFO PLEASE | Last No. 1 hit for the duo of Simon & Garfunkel | "Bridge Over Troubled Water"
+right: 
+Wrong: Triple Stumper
+Ginny: What is "Bridge Over Troubled Waters"?
+Value: $1200
+Number: 16
+"YA"HOO! | This city of 60,000 southeast of Seattle bears the name of a Native American tribe | Yakima
+right: Tom
+Wrong: 
+Value: $1200
+Number: 19
+INTERNET FAVORITES | 4chan.org is a collaborative community known for posting these on the net, usually in .jpeg or .gif form | photographs (or images)
+right: Tom
+Wrong: 
+Value: $1600
+Number: 25
+FLICK ARRR! | Kevin Kline starred as the pirate king in the film adaptation of this operetta | The Pirates of Penzance
+right: Tom
+Wrong: 
+Value: DD: $3,000
+Number: 12
+EPIC CURIOUS | "Gerusalemme liberata" depicts these military conflicts that took place 500 years before the work was written | the Crusades
+right: Stewart
+Wrong: 
+Value: DD: $2,000
+Number: 7
+INFO PLEASE | David Obey chairs this U.S. House committee with responsibility for spending | Appropriations
+right: 
+Wrong: Triple Stumper
+Ginny: What's the Office of Budget Management?
+Stewart: Uh, what is Ways and Means?
+Value: $1600
+Number: 17
+"YA"HOO! | Japanese-style grilled chicken kebabs; yum! | yakitori
+right: Stewart
+Wrong: 
+Value: $1600
+Number: 20
+INTERNET FAVORITES | In 2000 the website named for this recently used weapon was acquired by Court TV | The Smoking Gun
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+FLICK ARRR! | In a 2004 film Steve the Pirate plays this title sport on Vince Vaughn's Average Joe's team | Dodgeball
+right: Stewart
+Wrong: 
+Value: $2000
+Number: 13
+EPIC CURIOUS | This epic poet was satirized in ancient times with a mock epic called "Battle of the Frogs and the Mice" | Homer
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 8
+INFO PLEASE | It's the better-known name of the ICPO, International Criminal Police Organization | Interpol
+right: Tom
+Wrong: 
+Value: $2000
+Number: 18
+"YA"HOO! | Worn so that only the eyes are visible, <http://www.j-archive.com/media/2010-02-23_DJ_21.jpg> it's a traditional veil worn by some Muslim women | a yashmak
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Ginny: -$800
+Tom: $15,800
+Stewart: $12,600
+
+Final Jeopardy! Round
+MONARCHS | In 2001 Bulgaria elected as prime minister its former child monarch, the only person now living to have held this royal title | czar
+right: 
+Wrong: 
+Stewart: What is crown prince
+Tom: What is crown prince?
+Wagers: 
+Stewart: $12,597
+Tom: $9,400
+Final scores:
+Ginny: -$800 (3rd place: $1,000)
+Tom: $6,400 (New champion: $6,400)
+Stewart: $3 (2nd place: $2,000)
+
+Coryat scores
+Ginny: -$800 (7 R,4 W)
+Tom: $14,400 (22 R(including 1 DD),3 W)
+Stewart: $11,600 (18 R(including 2 DDs),4 W)

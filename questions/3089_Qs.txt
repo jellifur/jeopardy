@@ -1,0 +1,287 @@
+4307 - Tuesday, April 29, 2003
+Comments: 2003 Celebrity <i>Jeopardy!</i> game 2.
+Contestants:
+Ashton Kutcher: an actor from That '70s Show
+Vivica A. Fox: an actress from Boat Trip
+Wayne Brady: an actor, comedian and singer from The Wayne Brady Show
+First Jeopardy! Round: WAYNE'S WORLD, JUST MARRIED, CHEMICAL ELEMENTS, THE THEATRE, BOY, DO YOU NEED MAKE-UP!, ANIMAL VERBS
+WAYNE'S WORLD | An airport in Orange County, California is named for this movie "Duke" | John Wayne
+right: Ashton
+Wrong: 
+Value: $200
+Number: 1
+JUST MARRIED | In 1804 Napoleon's brother Jerome & his Baltimore-bred bride honeymooned at this upstate New York site | Niagara Falls
+right: 
+Wrong: Triple Stumper
+Vivica: What are the Hamptons?
+Ashton: What are the Catskills?
+Value: $200
+Number: 17
+CHEMICAL ELEMENTS | This metal's "Age" began around 1200 B.C. & no, it didn't follow the Wash & Dry Age | the Iron Age
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 7
+THE THEATRE | Playwright Jean Anouilh had a lot at "stake" with "L'Alouette", his play about this female saint | Joan of Arc
+right: Wayne
+Wrong: 
+Value: $200
+Number: 4
+BOY, DO YOU NEED MAKE-UP! | Jet-lagged or just hung-over?  Let's wake up your face with Wu Morning!, a mask from this Asian country | China
+right: Wayne
+Wrong: 
+Value: $200
+Number: 10
+ANIMAL VERBS | Flutter, like eyelashes | bat
+right: 
+Wrong: Triple Stumper
+Wayne: What is butterfly?
+Value: $200
+Number: 3
+WAYNE'S WORLD | In 1998 he was picked as the top player of all time by The Hockey News | Wayne Gretzky
+right: Wayne
+Wrong: 
+Value: $400
+Number: 2
+JUST MARRIED | 2 of the traditional "Big 5" animals you'd hope to see on a safari honeymoon | (2 of 5) lion, elephant, leopard, rhinoceros, cape buffalo
+right: 
+Wrong: Triple Stumper
+Vivica: What are lions & tigers...& bears, oh my?
+Ashton: What are giraffes & elephants?
+Value: $400
+Number: 22
+CHEMICAL ELEMENTS | Centrum multivitamins say they're "Complete from A to" this element | zinc
+right: Ashton
+Wrong: 
+Value: $400
+Number: 8
+THE THEATRE | This director of the film "Moulin Rouge!" brought his hit production of "La boheme" to Broadway in 2002 | Baz Luhrmann
+right: Ashton
+Wrong: 
+Value: $400
+Number: 18
+BOY, DO YOU NEED MAKE-UP! | Let's dramatize your look with some Hard Candy mascara in pickle, a shade of this color | green
+right: Wayne
+Wrong: 
+Value: $400
+Number: 11
+ANIMAL VERBS | To decide irrevocably, like someone's fate | seal
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 5
+WAYNE'S WORLD | Wayne Rogers left this show after a contract dispute; his character Trapper John got discharged & went home | M*A*S*H
+right: Wayne
+Wrong: 
+Value: $600
+Number: 12
+JUST MARRIED | In Venice, this professional needs a license to operate his boat, but not to sing to newlyweds | gondolier
+right: Wayne
+Wrong: 
+Value: $600
+Number: 23
+CHEMICAL ELEMENTS | Wondering what to do with your cadmium?  Combine it with nickel to make the popular NiCad types of these | batteries
+right: Wayne
+Wrong: 
+Value: $600
+Number: 9
+THE THEATRE | Now ear this: "Vincent in Brixton" is a play about this artist | Vincent Van Gogh
+right: Ashton
+Wrong: 
+Value: DD: $600
+Number: 19
+BOY, DO YOU NEED MAKE-UP! | Bad Girl & Lush aren't what your agent calls you; they're pencils from Benefit made to line eyes & these | lips
+right: Vivica
+Wrong: 
+Value: $600
+Number: 14
+ANIMAL VERBS | In cooking, to cut open & spread flat, as with shrimp or steak | butterfly
+right: Ashton
+Wrong: 
+Value: $600
+Number: 6
+WAYNE'S WORLD | He headlines at the Stardust in Las Vegas 40 weeks a year | Wayne Newton
+right: Vivica
+Wrong: 
+Value: $800
+Number: 13
+CHEMICAL ELEMENTS | Martin Klaproth named this radioactive element that he discovered in 1789 for a planet discovered in 1781 | uranium
+right: Ashton
+Wrong: 
+Vivica: What is Pluto?
+Value: $800
+Number: 20
+BOY, DO YOU NEED MAKE-UP! | Your face may get a lift from this music-&-airline mogul's Virgin Cosmetics | Richard Branson
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+CHEMICAL ELEMENTS | At -37.93 degrees Fahrenheit, this metal becomes a solid | mercury
+right: Ashton
+Wrong: 
+Value: $1000
+Number: 21
+BOY, DO YOU NEED MAKE-UP! | I think I'll adorn myself with Tova Borgnine's All Over crayons (wonder if she uses them on this guy, her husband) | Ernest Borgnine
+right: Wayne
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Wayne: $2,200
+Vivica: $1,400
+Ashton: $1,200
+Scores at the end of the Jeopardy! Round:
+Wayne: $3,800
+Vivica: $0
+Ashton: $3,400
+Second Jeopardy! Round: INDEPENDENCE DAY, THE BEVERLY HILLS PUBLIC LIBRARY, GRACELAND, THE PIANIST, HAIL TO THE CHIEF, WHAT ARE YOU AFRAID OF?
+INDEPENDENCE DAY | This country celebrates Cinco de Mayo on May 5 & its independence on September 16 | Mexico
+right: Ashton
+Wrong: 
+Value: $400
+Number: 1
+THE BEVERLY HILLS PUBLIC LIBRARY | Beg all you want, you can't do this with Siegel & Shim's "Dictionary of Accounting Terms" -- it's a reference book | check it out
+right: Wayne
+Wrong: 
+Value: $400
+Number: 10
+GRACELAND | (Sarah of the Clue Crew at Graceland in Memphis)  This person who released their first album in 2003 often napped in the Monkey Chair at Graceland's Jungle Room | Lisa Marie Presley
+right: Wayne
+Wrong: 
+Value: $400
+Number: 4
+THE PIANIST | Once the highest-paid musician, he dazzled us with costumes & candelabra, as well as his piano playing | Liberace
+right: Wayne
+Wrong: 
+Value: $400
+Number: 6
+HAIL TO THE CHIEF | The family bible records his first 2 names as David Dwight, not Dwight David | Eisenhower
+right: Wayne
+Wrong: 
+Value: $400
+Number: 16
+WHAT ARE YOU AFRAID OF? | Rhytiphobia is the fear of getting these -- botox, anyone? | wrinkles
+right: Ashton
+Wrong: 
+Wayne: What are big lips?
+Vivica: What are shots...injections?
+Value: $400
+Number: 9
+INDEPENDENCE DAY | On September 7 you can party on down to Rio & celebrate this South American country's independence | Brazil
+right: Ashton
+Wrong: 
+Wayne: What is Argentina?
+Vivica: I'm sorry, I don't know.
+Value: $800
+Number: 2
+THE BEVERLY HILLS PUBLIC LIBRARY | "Before Taliban" & "Behind the Burqa" are books about this country | Afghanistan
+right: Wayne
+Wrong: 
+Vivica: What is Iraq?
+Value: $800
+Number: 23
+GRACELAND | Elvis' pets at Graceland included these birds of the pheasant family, with spreading tail feathers | peacocks
+right: Ashton
+Wrong: 
+Wayne: What are partridges?
+Value: $800
+Number: 5
+THE PIANIST | He's the pianist who's tickling the ivories in the photo seen here | Richard M. Nixon
+right: Vivica
+Wrong: 
+Value: $800
+Number: 18
+HAIL TO THE CHIEF | Stephen T. Logan, & later William H. Herndon, were his law partners in Springfield, Illinois | Abraham Lincoln
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+WHAT ARE YOU AFRAID OF? | Melissophobia isn't the fear of Joan Rivers' daughter but the fear of these insects, honey | bees
+right: Wayne
+Wrong: 
+Value: $800
+Number: 7
+INDEPENDENCE DAY | This "is the word"; "It's got groove, it's got meaning" & it's got its independence day on March 25 | Greece
+right: Wayne
+Wrong: 
+Value: $1200
+Number: 3
+THE BEVERLY HILLS PUBLIC LIBRARY | Shelved not far from his novel "A Farewell to Arms" is a bio of him subtitled "A Life Without Consequences" | Ernest Hemingway
+right: Ashton
+Wrong: 
+Value: $1200
+Number: 24
+GRACELAND | (Cheryl of the Clue Crew at Graceland in Memphis)  The initials "TCB" painted here on the tail of Elvis Presley's airplane stand for this | "Taking Care of Business"
+right: Wayne
+Wrong: 
+Value: $1200
+Number: 12
+HAIL TO THE CHIEF | His first proclamation as president was to declare a national day of mourning for John F. Kennedy | Lyndon Baines Johnson
+right: Ashton
+Wrong: 
+Value: $1200
+Number: 20
+WHAT ARE YOU AFRAID OF? | You may want to avoid Jay Leno if you have geniophobia, the fear of this body part | the chin
+right: Ashton
+Wrong: 
+Value: $1200
+Number: 8
+INDEPENDENCE DAY | After the czar was overthrown in 1917, Finland declared its independence from this country | Russia
+right: Ashton
+Wrong: 
+Value: $1600
+Number: 19
+GRACELAND | In the 1960s Elvis began a tradition of lining his driveway with lights of this color found in an Elvis XMAS song | blue
+right: Wayne
+Wrong: 
+Value: DD: $1,000
+Number: 13
+HAIL TO THE CHIEF | As part of his "New Deal", he took American currency off the gold standard in 1933 | Franklin D. Roosevelt
+right: Wayne
+Wrong: 
+Value: $1600
+Number: 21
+WHAT ARE YOU AFRAID OF? | Gallophobes fear anything related to this country -- better cancel that film with Gerard Depardieu | France
+right: Wayne
+Wrong: 
+Value: DD: $3,000
+Number: 14
+THE BEVERLY HILLS PUBLIC LIBRARY | The language books are in the 400s in this numerical system used by the library | Dewey Decimal System
+right: Wayne
+Wrong: 
+Value: $2000
+Number: 22
+GRACELAND | (Sarah of the Clue Crew)  This TV-radio console was a gift to Elvis from this company for the sale of more than 50 million albums | RCA
+right: Wayne
+Wrong: 
+Vivica: What is Zenith?
+Value: $2000
+Number: 11
+WHAT ARE YOU AFRAID OF? | Tippi Hedren doesn't suffer from ornithophobia, the fear of these creatures | birds
+right: Wayne
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Wayne: $19,000
+Vivica: -$3,200
+Ashton: $11,000
+
+Final Jeopardy! Round
+FILMS OF THE '60s | In the top films of 2 consecutive years in the 1960s, she played a nanny & a governess | Julie Andrews
+right: Vivica | Wayne
+Wrong: 
+Ashton: Who Raquel Welch
+Wagers: 
+Vivica: $350
+Ashton: $11,000
+Wayne: $5,000
+Final scores:
+Wayne: $24,000 (Winner: $50,000 for Animal Avengers)
+Vivica: $850 (2nd place: $20,000 for Breeding Tabernacle Church)
+Ashton: $0 (3rd place: $20,000 for University of Iowa Patient Support Fund)
+
+Coryat scores
+Wayne: $18,200 (22 R(including 2 DDs),4 W)
+Vivica: -$3,200 (3 R,7 W)
+Ashton: $11,000 (15 R(including 1 DD),2 W)

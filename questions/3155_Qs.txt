@@ -1,0 +1,351 @@
+5758 - Wednesday, September 30, 2009
+Comments: Andy Srinivasan game 4.
+Contestants:
+Stan Chiueh: a law student from Austin, Texas
+Jose Treviño: a logistics analyst from Bristow, Virginia
+Andy Srinivasan: a high school science teacher from Garner, North Carolina (whose 3-day cash winnings total $53,800)
+First Jeopardy! Round: HEALTH & MEDICINE, CLASSIC VIDEO GAMES, THE ONION, LITERARY SHIPS, THE CON IS ON, STAR-SPANGLED BANNER WORDS
+HEALTH & MEDICINE | Bacteria in the mouth produce an acid that eats away at this outer part of the tooth & causes cavities | enamel
+right: Andy
+Wrong: 
+Value: $200
+Number: 1
+CLASSIC VIDEO GAMES | The creator of <http://www.j-archive.com/media/2009-09-30_J_06.wmv> this game got the idea while noticing a pizza missing a slice looked like an open-mouthed head | Pac-Man
+right: Jose
+Wrong: 
+Value: $200
+Number: 6
+THE ONION | This company "Introduces 'Nothing But Tears' Shampoo To Toughen Up Newborns" | Johnson & Johnson
+right: Stan
+Wrong: 
+Value: $200
+Number: 11
+LITERARY SHIPS | The Nautilus plumbs the depths in this 1870 Verne work | Twenty Thousand Leagues Under the Sea
+right: Andy
+Wrong: 
+Value: $200
+Number: 16
+THE CON IS ON | After prison, check forger Frank Abagnale worked for the government & was played on film by this actor | (Leonardo) DiCaprio
+right: Andy
+Wrong: 
+Value: $200
+Number: 21
+STAR-SPANGLED BANNER WORDS | Sequential standing & sitting by sports spectators to give the impression of undulation | the wave
+right: Jose
+Wrong: 
+Value: $200
+Number: 26
+HEALTH & MEDICINE | "The Yellow Emperor's Classic of Internal Medicine" deals with this 365-body-point technique | acupuncture
+right: Jose
+Wrong: 
+Value: $400
+Number: 2
+CLASSIC VIDEO GAMES | Putting your initials next to your high score was an early innovation of <http://www.j-archive.com/media/2009-09-30_J_07.wmv> this game | Asteroids
+right: Andy
+Wrong: 
+Value: $400
+Number: 7
+THE ONION | In a 2006 opinion article, this 19th century inventor asked, "Why Doesn't My Code Get Its Own Movie?" | Morse
+right: Stan
+Wrong: 
+Value: $400
+Number: 12
+LITERARY SHIPS | The Rachel is the rescue ship at the end of this Melville epic | Moby-Dick
+right: Stan
+Wrong: 
+Value: $400
+Number: 17
+THE CON IS ON | The IRS says victims can claim losses, & it stands to refund up to $17 billion because of his illegal activities | Madoff
+right: Andy
+Wrong: 
+Value: $400
+Number: 22
+STAR-SPANGLED BANNER WORDS | The early evening when the sun is below the horizon | twilight
+right: Jose
+Wrong: 
+Stan: What is dusk?
+Value: $400
+Number: 27
+HEALTH & MEDICINE | Conjunctivitis, an inflammation caused by bacteria or a virus, is also known by this colorful name | pink eye
+right: Stan
+Wrong: 
+Value: $600
+Number: 3
+CLASSIC VIDEO GAMES | The Bank of Japan ordered an emergency minting of coins as there was a run on them when <http://www.j-archive.com/media/2009-09-30_J_08.wmv> this game debuted in 1978 | Space Invaders
+right: Andy
+Wrong: 
+Value: $600
+Number: 8
+THE ONION | After a 2009 accident, this Tour de France champ: "Riding A Bike Isn't Something You Just Remember How To Do" | Armstrong
+right: Andy
+Wrong: 
+Value: $600
+Number: 13
+LITERARY SHIPS | The Jolly Roger sails the seas in this J.M. Barrie romp | Peter Pan
+right: Jose
+Wrong: 
+Value: $600
+Number: 18
+THE CON IS ON | Christopher Rocancourt swindled the rich by claiming he was a French member of this Standard Oil family | Rockefeller
+right: Andy
+Wrong: 
+Value: $600
+Number: 23
+STAR-SPANGLED BANNER WORDS | Fortification with a parapet on top | a rampart
+right: Andy
+Wrong: 
+Value: $600
+Number: 28
+HEALTH & MEDICINE | This type of dr. specializes in the kidneys, bladder & ureters, as well as the male reproductive organs | a urologist
+right: Jose
+Wrong: 
+Andy: What is a gastroenterologist?
+Value: $800
+Number: 4
+CLASSIC VIDEO GAMES | The original name for the hero was Jumpman, & he was a carpenter, not a plumber, in <http://www.j-archive.com/media/2009-09-30_J_09.wmv> this game | Donkey Kong
+right: Andy
+Wrong: 
+Value: $800
+Number: 9
+THE ONION | Prague's airport named for this author was dubbed the "World's Most Alienating Airport" | (Franz) Kafka
+right: Stan
+Wrong: 
+Value: $800
+Number: 14
+LITERARY SHIPS | You're gonna need a bigger boat than the Orca in this Peter Benchley thriller | Jaws
+right: Andy
+Wrong: 
+Value: $800
+Number: 19
+THE CON IS ON | Police had to remove buyers who were building toll barriers after George Parker sold this New York structure to them | the Brooklyn Bridge
+right: Andy
+Wrong: 
+Value: $800
+Number: 24
+STAR-SPANGLED BANNER WORDS | It describes sound or video played in real time over the Internet | streaming
+right: Stan
+Wrong: 
+Value: $800
+Number: 29
+HEALTH & MEDICINE | Types of this surgical gripping device include gingival, hemostatic & Goldblatt | clamps
+right: 
+Wrong: Triple Stumper
+Andy: What are forceps?
+Value: $1000
+Number: 5
+CLASSIC VIDEO GAMES | The name of <http://www.j-archive.com/media/2009-09-30_J_10.wmv> this game, shown in the updated "zone" version, is a play on the Greek word for "four" | Tetris
+right: Andy
+Wrong: 
+Value: $1000
+Number: 10
+THE ONION | Last name of John D. & Catherine T., whose "Foundation Goes On Wild Endowment Binge" | MacArthur
+right: Andy
+Wrong: 
+Value: $1000
+Number: 15
+LITERARY SHIPS | The Hispaniola is found in this Stevenson high seas quest | Treasure Island
+right: Andy
+Wrong: 
+Value: $1000
+Number: 20
+THE CON IS ON | In 1911 Eduardo de Valfierno stole this Renaissance portrait in order to sell 6 forgeries of it | the Mona Lisa
+right: Andy
+Wrong: 
+Value: DD: $3,000
+Number: 25
+STAR-SPANGLED BANNER WORDS | Bravely, like a knight errant | gallantly
+right: Stan
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Andy: $2,800
+Jose: $1,400
+Stan: $2,000
+Scores at the end of the Jeopardy! Round:
+Andy: $10,400
+Jose: $2,600
+Stan: $3,800
+Second Jeopardy! Round: MADAM SENATOR, STEVE BUSCEMI FILMS, SAME FIRST & LAST LETTER, PUBLISHING, YOU CAN SAIL THE 7 SEAS, IN THE NAVY
+MADAM SENATOR | Olympia Snowe & Susan Collins represent this state that elected Margaret Chase Smith to both houses | Maine
+right: Stan
+Wrong: 
+Andy: What is Washington?
+Value: $400
+Number: 6
+STEVE BUSCEMI FILMS | Steve's rockhound goes to save the world with Ben Affleck & Owen Wilson in this 1998 flick | Armageddon
+right: Andy
+Wrong: 
+Value: $400
+Number: 21
+SAME FIRST & LAST LETTER | Pigs do it in the mud; some people do it "in self-pity" | wallow
+right: Andy
+Wrong: 
+Value: $400
+Number: 16
+PUBLISHING | Many books, like a 1688 illustrated "Paradise Lost", were once sold by this method used by magazines that come in the mail | subscription
+right: Jose
+Wrong: 
+Andy: What is mail order?
+Value: $400
+Number: 26
+YOU CAN SAIL THE 7 SEAS | Oh, my!  A George Takei TV character shares his last name with this sea between the Philippine Islands & Borneo | Sulu
+right: Andy
+Wrong: 
+Value: $400
+Number: 11
+IN THE NAVY | On July 18, 1792 this "Father of the American Navy" bought his "Stairway to Heaven" | John Paul Jones
+right: Andy
+Wrong: 
+Value: $400
+Number: 1
+MADAM SENATOR | In a brutal 2008 race, Kay Hagan beat this woman to take over as senator from North Carolina | (Elizabeth) Dole
+right: Stan
+Wrong: 
+Value: $800
+Number: 7
+STEVE BUSCEMI FILMS | It was goodbye, Mr. Chips when Peter Stormare disposed of Steve in grisly fashion in this 1996 film | Fargo
+right: Andy
+Wrong: 
+Value: $800
+Number: 22
+SAME FIRST & LAST LETTER | Paul wrote one "to the Romans" | an epistle
+right: Andy
+Wrong: 
+Value: $800
+Number: 17
+PUBLISHING | The Literary Guild is one of these (not the kind that meets at Mindy's house this Sunday) | a book club
+right: Andy
+Wrong: 
+Value: $800
+Number: 27
+YOU CAN SAIL THE 7 SEAS | Ports on this sea include Riga & Stockholm | Baltic
+right: Jose
+Wrong: 
+Andy: What is North Sea?
+Value: $800
+Number: 12
+IN THE NAVY | The grandfather & father of this P.O.W./politician are the USA's only father & son to each be a full admiral | John McCain
+right: Stan
+Wrong: 
+Value: $800
+Number: 2
+MADAM SENATOR | Debbie Stabenow was named the "Great Lakes Legislator of the Year" for this state | Michigan
+right: Stan
+Wrong: 
+Value: $1200
+Number: 8
+STEVE BUSCEMI FILMS | As Donny, Steve didn't live to see the end of this 1998 Coen Brothers film ...but The Dude abides | The Big Lebowski
+right: Stan
+Wrong: 
+Value: $1200
+Number: 23
+SAME FIRST & LAST LETTER | Be careful what you write about another person; if it's defamatory & untrue, it's this crime | libel
+right: Andy
+Wrong: 
+Value: $1200
+Number: 18
+PUBLISHING | Xlibris is a P.O.D. service, P.O.D. standing for this do-it-yourself method | print on demand
+right: Jose
+Wrong: 
+Stan: What is payment on delivery?
+Value: $1200
+Number: 28
+YOU CAN SAIL THE 7 SEAS | This sea's widest north-south extent is between Libya & Croatia | the Mediterranean
+right: Stan
+Wrong: 
+Value: $1200
+Number: 13
+IN THE NAVY | Despite his Army-sounding 1st name, he was a Naval officer in WWII before leading the Peace Corps from 1961 to 1966 | Sargent Shriver
+right: Andy
+Wrong: 
+Value: $1200
+Number: 3
+MADAM SENATOR | Gov. Mel Carnahan died but was nevertheless elected senator, so his wife Jean filled the vacancy for this state | Missouri
+right: Stan
+Wrong: 
+Value: $1600
+Number: 9
+STEVE BUSCEMI FILMS | Steve took to the skies as Garland "The Marietta Mangler" Greene in this Nicolas Cage pic | Con Air
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+SAME FIRST & LAST LETTER | It's the part of a racetrack between the last turn & the finish line | the homestretch
+right: Andy
+Wrong: 
+Value: DD: $5,000
+Number: 19
+PUBLISHING | (<http://www.j-archive.com/media/2009-09-30_DJ_29.wmv> Kelly of the Clue Crew shows some folded sheets of paper.)  In Shakespeare's lifetime, many of his plays were printed in quarto, folding a sheet twice to make four leaves; "Henry VI, Part 3" appeared in this format, folding three times to make eight leaves | octavo
+right: Jose
+Wrong: 
+Value: $1600
+Number: 29
+YOU CAN SAIL THE 7 SEAS | It's the biblical sea <http://www.j-archive.com/media/2009-09-30_DJ_14.jpg> depicted <http://www.j-archive.com/media/2009-09-30_DJ_14a.jpg> here | the Red Sea
+right: Stan
+Wrong: 
+Value: $1600
+Number: 14
+IN THE NAVY | In the 1801 Battle of Copenhagen, he ignored Admiral Parker's signal to disengage, putting a telescope to his blind eye | Nelson
+right: Andy
+Wrong: 
+Value: $1600
+Number: 4
+MADAM SENATOR | The great-great-grandfather of this Republican senator from Texas signed the Texas Declaration of Independence | Kay Bailey Hutchison
+right: 
+Wrong: Triple Stumper
+Stan: Who is Hutchinson?
+Value: $2000
+Number: 10
+STEVE BUSCEMI FILMS | Hi, I'm Steve, I'll dress like Buddy Holly & be John & Uma's waiter in this 1994 film | Pulp Fiction
+right: Stan
+Wrong: 
+Value: $2000
+Number: 25
+SAME FIRST & LAST LETTER | A pain in the neck, or a twist in a rope or thread | a kink
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+PUBLISHING | A book may be released under one of these, also a mark made in something soft; Bantam Classics is one | an imprint
+right: 
+Wrong: Triple Stumper
+Jose: What is paperback?
+Value: $2000
+Number: 30
+YOU CAN SAIL THE 7 SEAS | "Abel"-bodied sailors navigate this Down Under sea that has a max depth of about 17,000 feet | the Tasman Sea
+right: 
+Wrong: 
+Stan: What is... the Coral Sea?
+Value: DD: $7,500
+Number: 15
+IN THE NAVY | At the Battle of Mobile Bay, this Union Naval officer won fame by saying, "Damn the torpedoes!  Full speed ahead!" | (David) Farragut
+right: Andy
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Andy: $23,800
+Jose: $4,600
+Stan: $3,900
+
+Final Jeopardy! Round
+HISTORIC HEADLINES | On Sept. 30, 2008 Daily Variety reprised this 5-word headline from Oct. 30, 1929 | Wall Street Lays An Egg
+right: 
+Wrong: 
+Stan: What is Black Friday: Stock Market Crash
+Jose: What was Stock Market Crashes?
+Andy: What is the stock market?
+Wagers: 
+Stan: $1,131
+Jose: $4,500
+Andy: $8,000
+Final scores:
+Andy: $15,800 (4-day champion: $69,600)
+Jose: $100 (3rd place: $1,000)
+Stan: $2,769 (2nd place: $2,000)
+
+Coryat scores
+Andy: $18,400 (28 R(including 2 DDs),5 W)
+Jose: $4,600 (10 R,1 W)
+Stan: $11,400 (16 R,4 W(including 1 DD))

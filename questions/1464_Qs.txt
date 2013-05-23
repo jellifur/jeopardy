@@ -1,0 +1,343 @@
+4106 - Monday, June 10, 2002
+Contestants:
+Jon Newlon: a lawyer and father from Dade City, Florida
+Nancy Bishop: a graduate student from Iowa City, Iowa
+Dileep Rao: an actor from Santa Monica, California (whose 1-day cash winnings total $34,400)
+First Jeopardy! Round: AROUND THE BIBLE, ENDS IN "I", TUBES, FIRST CLASS, BUSINESS, COACH
+AROUND THE BIBLE | The first word in I Chronicles is this man first mentioned in Genesis 2:19 | Adam
+right: Dileep
+Wrong: 
+Value: $200
+Number: 3
+ENDS IN "I" | (<http://www.j-archive.com/media/2002-06-10_J_07.jpg> Sarah of the Clue Crew stands between two trees, holding binoculars.) It's the style of clothes I'm wearing or the type of expedition I'm gearing up for | safari
+right: Nancy
+Wrong: 
+Value: $200
+Number: 7
+TUBES | Submarines have fixed tubes in the bow to shoot these underwater weapons | torpedoes
+right: Jon
+Wrong: 
+Value: $200
+Number: 1
+FIRST CLASS | The first movie with a plot was filmed in 1903 & concerned the "great" robbery of one of these | a train
+right: Nancy
+Wrong: 
+Value: $200
+Number: 5
+BUSINESS | This company introduced its Trac II twin-blade razor in 1971 & the good news disposable razor 5 years later | Gillette
+right: Jon
+Wrong: 
+Value: $200
+Number: 2
+COACH | Tyrone Willingham is the first African-American football coach to lead this school's Fighting Irish | Notre Dame
+right: Dileep
+Wrong: 
+Value: $200
+Number: 15
+AROUND THE BIBLE | In Exodus the Lord told Moses to make a laver of brass for Aaron & his sons to wash their hands & these in | their feet
+right: Jon
+Wrong: 
+Value: $400
+Number: 6
+ENDS IN "I" | Better have a breath mint after eating this Italian-named dish of shrimp sauteed in garlic & butter | scampi
+right: Jon
+Wrong: 
+Value: $400
+Number: 11
+TUBES | If a surfer rides the tube in London, he's on this | the subway
+right: Dileep
+Wrong: 
+Value: $400
+Number: 4
+FIRST CLASS | City that was home to the USA's first boat club & organized baseball team, both named Knickerbocker | New York
+right: Dileep
+Wrong: 
+Value: $400
+Number: 19
+BUSINESS | Originally, this bread built strong bodies 8 ways; later the count went up to 12 | Wonder Bread
+right: Jon
+Wrong: 
+Value: $400
+Number: 21
+COACH | To this longtime Packers coach, winning wasn't everything; it was the only thing! | Vince Lombardi
+right: Nancy
+Wrong: 
+Value: $400
+Number: 25
+AROUND THE BIBLE | Upright man who moaned, "Naked came I out of my mother's womb and naked shall I return thither" | Job
+right: Nancy
+Wrong: 
+Value: $600
+Number: 8
+ENDS IN "I" | Stephen S. Wise was a well-known one; Isaac Bashevis Singer was the son of one | a rabbi
+right: Dileep
+Wrong: 
+Value: $600
+Number: 12
+TUBES | Every little breeze seems to whisper the name of this first test tube baby | Louise (Brown)
+right: Nancy
+Wrong: 
+Value: $600
+Number: 16
+FIRST CLASS | In 1901 X-ray discoverer Wilhelm Roentgen became the first recipient of a Nobel Prize in this category | Physics
+right: Jon
+Wrong: 
+Value: $600
+Number: 20
+BUSINESS | In 1984 this TV ratings service was acquired by Dun & Bradstreet | Nielsen ratings
+right: Nancy
+Wrong: 
+Value: $600
+Number: 22
+COACH | He was NBA coach of the year 3 times in the 1990s with the Lakers, Knicks & Miami Heat | Pat Riley
+right: Jon
+Wrong: 
+Value: $600
+Number: 28
+AROUND THE BIBLE | I Kings uses "slept with his fathers" as a euphemism for this | died
+right: Jon
+Wrong: 
+Value: $800
+Number: 9
+ENDS IN "I" | Don't be shy now; they're the colorful pond fish seen <http://www.j-archive.com/media/2002-06-10_J_13.jpg> here | koi
+right: 
+Wrong: 
+Dileep: What are... oh, it left me.
+Value: DD: $1,000
+Number: 13
+TUBES | The gas-filled Geissler tube of the late 1850s was adapted for use in these advertising signs | neon signs
+right: Dileep
+Wrong: 
+Value: $800
+Number: 17
+FIRST CLASS | It's been "cataloged" as the first skyscraper over 1,400 feet in height | the Sears Tower
+right: Dileep
+Wrong: 
+Value: $800
+Number: 23
+BUSINESS | Henry Wells & William Fargo co-founded this company known for its credit card; "Don't leave home without it" | American Express
+right: Dileep
+Wrong: 
+Value: $800
+Number: 26
+COACH | The all-time winningest NHL coach in regular season & playoffs, he's coached the Detroit Red Wings since 1993 | Scotty Bowman
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+AROUND THE BIBLE | Saul wanted to give his eldest daughter Merab to this future king, but Michal, another daughter, loved him | David
+right: Nancy
+Wrong: 
+Value: $1000
+Number: 10
+ENDS IN "I" | Drumroll please... it's another name for a set of kettledrums | timpani
+right: Nancy
+Wrong: 
+Value: $1000
+Number: 14
+TUBES | Like you, a frog has this tube connecting the middle ear & the throat | the Eustachian tube
+right: Nancy
+Wrong: 
+Value: $1000
+Number: 18
+FIRST CLASS | In 1891 Samuel O'Reilly turned Edison's electric engraving pen into the first electric machine to make these, sailor | tattoos
+right: Jon
+Wrong: 
+Value: $1000
+Number: 24
+BUSINESS | In 1946 this brand came in as the first laundry detergent to have a phosphate compound as a water softener | Tide
+right: Nancy
+Wrong: 
+Value: $1000
+Number: 27
+COACH | He's one of the few men to win a Super Bowl as a player, as assistant coach & as head coach of the Bears in 1986 | Mike Ditka
+right: Jon
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Dileep: $200
+Nancy: $3,000
+Jon: $2,000
+Scores at the end of the Jeopardy! Round:
+Dileep: $3,200
+Nancy: $6,600
+Jon: $5,600
+Second Jeopardy! Round: DAVY CROCKETT, ACTORS & ACTRESSES, ALPHA MALES, KIDDY LIT, COLLEGE TOWNS, THE "F" FILES
+DAVY CROCKETT | Crockett represented this state for 3 terms in the U.S. Congress | Tennessee
+right: Dileep
+Wrong: 
+Value: $400
+Number: 26
+ACTORS & ACTRESSES | In 2001 she denied reports of a $20 million offer to reprise her role as Ripley for "Alien 5" | Sigourney Weaver
+right: Jon
+Wrong: 
+Value: $400
+Number: 22
+ALPHA MALES | Robert Yerkes developed 2 intelligence tests: the Alpha exam for the literate & this one for the not | the Beta
+right: Nancy
+Wrong: 
+Value: $400
+Number: 10
+KIDDY LIT | Robert Louis Stevenson drew a map with his 12-year-old stepson that inspired him to write this story | Treasure Island
+right: Nancy
+Wrong: 
+Value: $400
+Number: 2
+COLLEGE TOWNS | Nebraska Wesleyan: in this state capital | Lincoln
+right: Nancy
+Wrong: 
+Value: $400
+Number: 7
+THE "F" FILES | Raisins & currants are traditional ingredients in this sometimes re-gifted Christmas treat | fruit cake
+right: Jon
+Wrong: 
+Value: $400
+Number: 13
+DAVY CROCKETT | In 1818 Crockett was elected to this rank in the Fifty-seventh Militia Regiment in Lawrence County | a colonel
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+ACTORS & ACTRESSES | Born in NYC in 1955, this Oscar winner has played a thief, a nun, a psychic & an intergalactic bartender | Whoopi Goldberg
+right: Dileep
+Wrong: 
+Value: $800
+Number: 23
+ALPHA MALES | Since 1992 Alpha Oumar Konare has been president of this African country whose name is an anagram of "mail" | Mali
+right: Jon
+Wrong: 
+Value: $800
+Number: 18
+KIDDY LIT | This title character releases 2 jinns: The Slave of the Ring & The Slave of the Lamp | Aladdin
+right: Nancy
+Wrong: 
+Value: $800
+Number: 3
+COLLEGE TOWNS | Where the peachtrees grow: Georgia State | Atlanta
+right: Jon
+Wrong: 
+Value: $800
+Number: 8
+THE "F" FILES | It's another name for a hydrant; a stocky person is said to be built like one | fireplug
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+DAVY CROCKETT | Some believe that Crockett & a few others survived the battle of the Alamo but were executed by this Mexican general | Santa Anna
+right: Jon
+Wrong: 
+Value: $1200
+Number: 28
+ACTORS & ACTRESSES | Rita Hayworth, Marilyn Monroe & Raquel Welch (in poster form) help Tim Robbins escape prison in this 1994 film | The Shawshank Redemption
+right: Nancy
+Wrong: 
+Value: $1200
+Number: 24
+ALPHA MALES | In the 1830s Thomas Henderson established the parallax of this triple star about 4.3 light years away | Alpha Centauri
+right: Jon
+Wrong: 
+Value: $1200
+Number: 19
+KIDDY LIT | A huntsman cuts open this creature's stomach to rescue Little Red-Cap & her grandmother | the Big Bad Wolf
+right: Nancy
+Wrong: 
+Value: $1200
+Number: 4
+COLLEGE TOWNS | In northeastern Illinois: Northeastern Illinois | Chicago
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 9
+THE "F" FILES | If you really don't know, you don't even have this damp type of "notion" | foggiest
+right: 
+Wrong: 
+Jon: What is faintest?
+Value: DD: $4,000
+Number: 15
+DAVY CROCKETT | It completes Crockett's personal motto "Be always sure you're right and then" do this | "go ahead"
+right: 
+Wrong: Triple Stumper
+Jon: What is check again?
+Value: $1600
+Number: 29
+ACTORS & ACTRESSES | "Don't Look Now", "Darling", but this beauty gave one of her finest performances in "McCabe and Mrs. Miller" | Julie Christie
+right: Nancy
+Wrong: 
+Dileep: Who is Eva Gabor?
+Jon: Who is Zsa Zsa Gabor?
+Value: $1600
+Number: 1
+ALPHA MALES | Henry Callis & others founded Alpha Phi Alpha, the first black college fraternity, at this Ithaca, N.Y. school | Cornell
+right: Jon
+Wrong: 
+Value: $1600
+Number: 20
+KIDDY LIT | Dodie Smith wrote this 1956 classic doggy tale | The Hundred and One Dalmatians
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 5
+COLLEGE TOWNS | 360 years old: Yale | New Haven
+right: Nancy
+Wrong: 
+Value: $1600
+Number: 11
+THE "F" FILES | Jetsam means goods jettisoned to lighten a ship; this word refers to part of a wrecked ship found floating | flotsam
+right: Nancy
+Wrong: 
+Value: $1600
+Number: 16
+DAVY CROCKETT | Until his re-election defeat in 1835, this party was grooming Crockett to run against Andrew Jackson in 1836 | the Whig party
+right: Jon
+Wrong: 
+Value: DD: $6,700
+Number: 30
+ACTORS & ACTRESSES | (<http://www.j-archive.com/media/2002-06-10_DJ_25.jpg> Sarah of the Clue Crew reports from Washington, D.C.) In "The Exorcist," Jason Miller as this priest falls down the steps here, now known as "The Exorcist Steps" | Father Damien Karras
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+ALPHA MALES | This innovative French director ventured into science fiction with 1965's "Alphaville" | Jean-Luc Godard
+right: 
+Wrong: Triple Stumper
+Dileep: Who is Truffaut?
+Value: $2000
+Number: 21
+KIDDY LIT | She wrote the children's classics "Little Lord Fauntleroy" & "The Secret Garden" | Frances Hodgson Burnett
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+COLLEGE TOWNS | At the mouth of Chesapeake Bay: Old Dominion | Norfolk
+right: 
+Wrong: Triple Stumper
+Dileep: What is Richmond?
+Value: $2000
+Number: 12
+THE "F" FILES | You can visit this region's "fields" in Belgium; France's Nord province; & the Netherlands' Zeeland province | Flanders
+right: Jon
+Wrong: 
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Dileep: -$1,200
+Nancy: $15,800
+Jon: $13,500
+
+Final Jeopardy! Round
+THE PRESIDENCY | He was the last president to take the oath of office from someone other than the Chief Justice of the U.S. | Lyndon Johnson
+right: Jon | Nancy
+Wrong: 
+Wagers: 
+Jon: $13,500
+Nancy: $800
+Final scores:
+Dileep: -$1,200 (3rd place: $1,000)
+Nancy: $16,600 (2nd place: $2,000)
+Jon: $27,000 (New champion: $27,000)
+
+Coryat scores
+Dileep: -$200 (10 R,4 W(including 1 DD))
+Nancy: $15,800 (19 R,0 W)
+Jon: $12,800 (19 R(including 1 DD),3 W(including 1 DD))

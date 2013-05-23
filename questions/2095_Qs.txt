@@ -1,0 +1,346 @@
+3640 - Friday, June 2, 2000
+Contestants:
+Rob Lewis: a systems analyst from Arlington, Virginia
+Rick Magee: a college instructor from the Bronx, New York
+Kevin Glaccum: an actor from Philadelphia, Pennsylvania (whose 1-day cash winnings total $8,900)
+First Jeopardy! Round: U.S. GEOGRAPHY, A JOLLY CATEGORY, WHEN THE CHIPS ARE DOWN, HITS OF 1964, POT LUCK, CROSSWORD CLUES "L"
+U.S. GEOGRAPHY | This river's drainage area covers about 1.25 million square miles in 31 states | Mississippi
+right: Kevin
+Wrong: 
+Value: $100
+Number: 7
+A JOLLY CATEGORY | Jolly Time was the first brand name of this snack food | Popcorn
+right: Rick
+Wrong: 
+Value: $100
+Number: 16
+WHEN THE CHIPS ARE DOWN | If you can't make any of your programs run, you can take out a deck of cards & play this game, AKA Patience | Solitaire
+right: Rick
+Wrong: 
+Value: $100
+Number: 18
+HITS OF 1964 | The Beatles' first No. 1 song in America, it's one of the biggest-selling British singles of all time | "I Want to Hold Your Hand"
+right: Rick
+Wrong: 
+Value: $100
+Number: 1
+POT LUCK | This British prime minister lived in his home of Chartwell in Westerham, Kent for the last 41 years of his life | Winston Churchill
+right: Kevin
+Wrong: 
+Value: $100
+Number: 26
+CROSSWORD CLUES "L" | Grand or petty crime (7) | Larceny
+right: Rick
+Wrong: 
+Value: $100
+Number: 2
+U.S. GEOGRAPHY | The highest peaks in this colorful mountain range of the Appalachian system lie in North Carolina | Blue Ridge Mountains
+right: Rick
+Wrong: 
+Value: $200
+Number: 8
+A JOLLY CATEGORY | "Frosty the Snowman was a jolly, happy soul, with a corncob pipe and a button nose and two eyes made out of" this | Coal
+right: Rob
+Wrong: 
+Value: $200
+Number: 17
+WHEN THE CHIPS ARE DOWN | Downloading off the net may have infected your system with one of these programs, Latin for "poison" | Virus
+right: Rick
+Wrong: 
+Value: $200
+Number: 19
+HITS OF 1964 | Mary Wells told us that "Nothing you could say can tear me away from" him | "My Guy"
+right: Kevin
+Wrong: 
+Value: $200
+Number: 12
+POT LUCK | The Ninety-Nines, an organization of women pilots, bestows memorial scholarships named for this woman | Amelia Earhart
+right: Kevin
+Wrong: 
+Value: $200
+Number: 27
+CROSSWORD CLUES "L" | Where Henry Cabot might bunk (5) | Lodge
+right: Kevin
+Wrong: 
+Value: $200
+Number: 3
+U.S. GEOGRAPHY | Cape Mendocino in Humboldt County is the westernmost point of this state | California
+right: Kevin
+Wrong: 
+Value: $300
+Number: 9
+A JOLLY CATEGORY | (Hi, I'm Katherine Kelly Lang from "The Bold and the Beautiful")  On TV, my dad Keith Wegeman played this "jolly" advertising icon first used in canned peas | The Jolly Green Giant
+right: Rick
+Wrong: 
+Value: $300
+Number: 23
+WHEN THE CHIPS ARE DOWN | One of the signs that things aren't working correctly is when you get one of these "exceptions" | Fatal exception
+right: Rob
+Wrong: 
+Value: $300
+Number: 20
+HITS OF 1964 | This hit whose intro is heard <http://www.j-archive.com/media/2000-06-02_J_13.mp3> here topped the charts in both England & the U.S. in the fall of 1964: | "Oh, Pretty Woman"
+right: Kevin
+Wrong: 
+Value: $300
+Number: 13
+POT LUCK | In international message flags, a red one stands for danger; a yellow one means this | Quarantine/disease
+right: 
+Wrong: Triple Stumper
+Rob: What is caution?
+Value: $300
+Number: 28
+CROSSWORD CLUES "L" | Philosophically, it makes sense (5) | Logic
+right: Kevin
+Wrong: 
+Value: $300
+Number: 4
+U.S. GEOGRAPHY | The 2 main branches of this inlet in Washington state are Hood Canal & Admiralty Inlet | Puget Sound
+right: Rick
+Wrong: 
+Value: $400
+Number: 10
+A JOLLY CATEGORY | This poem calls Santa "A right jolly old elf" | "The Night Before Christmas"
+right: Rob
+Wrong: 
+Value: $400
+Number: 24
+WHEN THE CHIPS ARE DOWN | If your E-mail crashes, you may have to use this rhyming 2-word term for letters delivered the old way | Snail mail
+right: Rob
+Wrong: 
+Value: $400
+Number: 21
+HITS OF 1964 | The Detergents' "Leader of the Laundromat" was a parody of this Shangri-Las hit | "Leader of the Pack"
+right: Kevin
+Wrong: 
+Value: $400
+Number: 14
+POT LUCK | From 1849 to 1956, a drawing by Richard Doyle graced the cover of every issue of this satiric British humor magazine | Punch
+right: Kevin
+Wrong: 
+Value: $400
+Number: 29
+CROSSWORD CLUES "L" | Numbers game (7) | Lottery
+right: Kevin
+Wrong: 
+Value: $400
+Number: 5
+U.S. GEOGRAPHY | Haleakala on this "Valley Island" of Hawaii has the world's largest dormant volcanic crater | Maui
+right: Rob
+Wrong: 
+Rick: What is Molokai?
+Value: $500
+Number: 11
+A JOLLY CATEGORY | This Australian song says, "Once a jolly swagman camped by a billabong, under the shade of a coolibah tree" | "Waltzing Matilda"
+right: Kevin
+Wrong: 
+Value: $500
+Number: 25
+WHEN THE CHIPS ARE DOWN | Difficulty clicking on icons to enter commands might indicate trouble with your GUI, this kind of interface | Graphical User Interface
+right: Rick
+Wrong: 
+Value: $500
+Number: 22
+HITS OF 1964 | Billboard says this Louis Armstrong hit was the first song from a Broadway show to hit No. 1 in the rock era | "Hello, Dolly!"
+right: Kevin
+Wrong: 
+Value: DD: $500
+Number: 15
+POT LUCK | French term for a thickener of soups & white sauces, made from flour & butter heated to form a paste | Roux
+right: Kevin
+Wrong: 
+Value: $500
+Number: 30
+CROSSWORD CLUES "L" | Parsifal was his pop (9) | Lohengrin
+right: Rob
+Wrong: 
+Value: $500
+Number: 6
+Scores at the first commercial break (after clue 15)
+Kevin: $2,600
+Rick: $300
+Rob: $1,000
+Scores at the end of the Jeopardy! Round:
+Kevin: $4,300
+Rick: $1,500
+Rob: $2,000
+Second Jeopardy! Round: '70s LIT, AN ACTOR'S LIFE FOR ME, WAR!, WHAT IS IT GOOD FOR?, ABSOLUTELY NOTHING, SAY IT AGAIN
+'70s LIT | This fictional doctor was listed as "author" of "The Seven-Per-Cent Solution"; Nicholas Meyer was "editor" | Dr. Watson
+right: Kevin
+Wrong: 
+Value: $200
+Number: 1
+AN ACTOR'S LIFE FOR ME | Later a "rebel", he was playing a wicked Arab boy on Broadway in 1954 when "discovered" by Elia Kazan | James Dean
+right: Rick
+Wrong: 
+Value: $200
+Number: 2
+WAR! | One cause of the 1956 Arab-Israeli War was the nationalization of this by Egypt | Suez Canal
+right: Kevin
+Wrong: 
+Value: $200
+Number: 8
+WHAT IS IT GOOD FOR? | Made from benzene, lidocaine is a "local" one of these | Anesthetic
+right: Rick
+Wrong: 
+Value: $200
+Number: 26
+ABSOLUTELY NOTHING | Without an "E", it comes before "squat"; with an "E", it comes after music legend "Bo" | Diddly/Diddley
+right: Rob
+Wrong: 
+Value: $200
+Number: 17
+SAY IT AGAIN | Interjection of annoyance aimed at a boy pharaoh | Tut, tut
+right: Rick
+Wrong: 
+Rob: What is tut?
+Value: $200
+Number: 12
+'70s LIT | This Jack Higgins novel of 1975 isn't about the Apollo 11 moon touchdown, it's a WWII tale | "The Eagle Has Landed"
+right: Rick
+Wrong: 
+Value: $400
+Number: 3
+AN ACTOR'S LIFE FOR ME | (Hi, I'm Carol Burnett)  This hilarious actor won 4 Emmys for his work on "The Carol Burnett Show" | Harvey Korman
+right: Rob
+Wrong: 
+Value: $400
+Number: 7
+WAR! | The First through Fourth Macedonian Wars pitted Macedonia against this republic | Rome
+right: 
+Wrong: Triple Stumper
+Rick: What is Greece?
+Value: $400
+Number: 18
+WHAT IS IT GOOD FOR? | Milk thistle reportedly lowers fat deposits in this organ as well as acting against cirrhosis in it | Liver
+right: Kevin
+Wrong: 
+Value: $400
+Number: 27
+ABSOLUTELY NOTHING | This word follows "nothing" in an expression meaning "the shortest possible time" | Flat
+right: Kevin
+Wrong: 
+Value: $400
+Number: 22
+SAY IT AGAIN | A form of Louise, it's used to describe something remarkable | Lulu
+right: Kevin
+Wrong: 
+Value: $400
+Number: 13
+'70s LIT | Super-selling '77 saga set on a sheep station | "The Thorn Birds"
+right: Kevin
+Wrong: 
+Value: $600
+Number: 4
+AN ACTOR'S LIFE FOR ME | Sean Connery's introduction to show biz was as a sailor in a British production of this musical | "South Pacific"
+right: Kevin
+Wrong: 
+Value: $600
+Number: 9
+WAR! | Between 1019 & 1919 there were at least 10 wars between Poland & this eastern neighbor | Russia
+right: Rob
+Wrong: 
+Value: $600
+Number: 19
+WHAT IS IT GOOD FOR? | Vitamin D speeds the body's production of this mineral | Calcium
+right: Rob
+Wrong: 
+Value: $600
+Number: 28
+ABSOLUTELY NOTHING | Mary Richards can take one of these "and suddenly make it all seem worthwhile" | A nothing day
+right: Rob
+Wrong: 
+Value: $600
+Number: 23
+SAY IT AGAIN | In a popular kids' game, this phrase precedes "Send Richard right over" | Red Rover, Red Rover
+right: Rick
+Wrong: 
+Value: $600
+Number: 14
+'70s LIT | In 1978 he came up with "The Holcroft Covenant" | Robert Ludlum
+right: Kevin
+Wrong: 
+Value: $800
+Number: 5
+AN ACTOR'S LIFE FOR ME | (Hi, I'm Nathan Lane)  In my (sad little) career I've played a priest, a gangster, a Roman slave & a wisecracking one of these in the film "The Lion King" | Meerkat
+right: 
+Wrong: Triple Stumper
+Rob: What is a baboon?
+Value: $800
+Number: 10
+WAR! | It was a cat fight when the Burmese went to war against these people in 1764 | Siamese
+right: Rob
+Wrong: 
+Value: DD: $1,200
+Number: 20
+WHAT IS IT GOOD FOR? | Used to treat headaches, this mint family member's name may come from the Latin lavare, "to wash" | Lavender
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 30
+ABSOLUTELY NOTHING | It can mean zero; something of no value; or a coded message | Cypher
+right: 
+Wrong: 
+Rob: What is zilch?
+Value: DD: $2,000
+Number: 24
+SAY IT AGAIN | Fleischer's cartoon clown who grew "out of the inkwell", his name sounds like a chocolate drink | Coco the Clown
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+'70s LIT | As this Gore Vidal novel came out in 1976, it has to wait until 2076 to celebrate its centennial | "1876"
+right: 
+Wrong: Triple Stumper
+Rob: What is "Bicentennial?"
+Value: $1000
+Number: 6
+AN ACTOR'S LIFE FOR ME | World drama was changed forever in 1898 when this director & acting teacher opened the Moscow Art Theater | Constantin Stanislavski
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 11
+WAR! | In 1790 Cornwallis was leading this company's campaigns to annex Mysore | British East India Company
+right: Rob
+Wrong: 
+Value: $1000
+Number: 21
+WHAT IS IT GOOD FOR? | These seeds of the carum carvi plant are used to stimulate the appetite | Caraway seeds
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+ABSOLUTELY NOTHING | In math, a set containing no elements is called an empty set or this type | Null set
+right: Rick
+Wrong: 
+Value: $1000
+Number: 25
+SAY IT AGAIN | A 1930s hit told about the "Flat Foot Floogie with" this | Floy, floy
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Kevin: $8,100
+Rick: $3,700
+Rob: $2,600
+
+Final Jeopardy! Round
+'90s OLYMPIC NAMES | She told Women's Sports & Fitness, "Strangers, fans, people on the street...always want to pick me up and carry me" | Kerri Strug
+right: Rob
+Wrong: 
+Rick: Who is Moceanu?
+Kevin: Who is Mary Lou Retton
+Wagers: 
+Rob: $2,000
+Rick: $1,600
+Kevin: $1,600
+Final scores:
+Kevin: $6,500 (2-day champion: $15,400)
+Rick: $2,100 (3rd place: Polaroid Photomax Digital Camera Creative Kit)
+Rob: $4,600 (2nd place: Trip to Wyndham El Conquistador Resort, Puerto Rico)
+
+Coryat scores
+Kevin: $8,100 (24 R(including 1 DD),4 W)
+Rick: $3,700 (15 R,2 W)
+Rob: $4,200 (13 R(including 1 DD),5 W(including 1 DD))

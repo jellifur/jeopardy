@@ -1,0 +1,350 @@
+4959 - Thursday, March 16, 2006
+Contestants:
+Scott Gardiner: an Army lawyer from Tampa, Florida
+Mike Hagesfeld: a software developer from Cleveland Heights, Ohio
+Christine Black: an administrative assistant from Warwick, New York (whose 1-day cash winnings total $600)
+First Jeopardy! Round: SHAKESPEARE, COMEDY OF ERRORS, TWELFTH NIGHT, KING JOHN, MEASURE FOR MEASURE, AS YOU LIKE "IT"
+SHAKESPEARE | The Royal Shakespeare Theatre is in this town; the theatre overlooks a river | Stratford-on-Avon
+right: Scott
+Wrong: 
+Value: $200
+Number: 1
+COMEDY OF ERRORS | To distract the media, Kevin Kline puts pratfall-prone Inspector Clouseau on the case in this 2006 movie | The Pink Panther
+right: Mike
+Wrong: 
+Value: $200
+Number: 6
+TWELFTH NIGHT | Dealing with a beastly triple-header was this man's famous twelfth labor | Hercules
+right: Mike
+Wrong: 
+Value: $200
+Number: 26
+KING JOHN | John died in October 1216, probably still stewing over this document he'd agreed to 16 months before | the Magna Carta
+right: Scott
+Wrong: 
+Value: $200
+Number: 11
+MEASURE FOR MEASURE | Small glasses behind the bar include the shot & this one used to measure out an ounce & a half | a jigger
+right: Mike
+Wrong: 
+Value: $200
+Number: 21
+AS YOU LIKE "IT" | If you're in the mood for travel, you're said to have these feet | itchy
+right: Mike
+Wrong: 
+Value: $200
+Number: 16
+SHAKESPEARE | "The Winter's Tale" has the memorable stage direction "Exit pursued by" this ursine beast | a bear
+right: Christine
+Wrong: 
+Value: $400
+Number: 2
+COMEDY OF ERRORS | Nicolas Cage & Holly Hunter perform a type of redistribution of baby wealth in this 1987 comedy | Raising Arizona
+right: Mike
+Wrong: 
+Value: $400
+Number: 7
+TWELFTH NIGHT | The traditional present for your twelfth wedding anniversary is this fabric created by a type of moth larva | silk
+right: Scott
+Wrong: 
+Value: $400
+Number: 27
+KING JOHN | John outlawed Eustace the monk but had nothing to do with this fabled outlaw who's portrayed as his adversary | Robin Hood
+right: Scott
+Wrong: 
+Value: $400
+Number: 12
+MEASURE FOR MEASURE | Measured in degrees, it's the angular distance north or south of the Earth's equator | latitude
+right: Scott
+Wrong: 
+Mike: What is 180?
+Value: $400
+Number: 22
+AS YOU LIKE "IT" | Its territory includes the island of Elba | Italy
+right: Christine
+Wrong: 
+Value: $400
+Number: 17
+SHAKESPEARE | Forget rotten; T.S. Eliot said "So far from being Shakespeare's masterpiece", it "is most certainly an artistic failure" | Hamlet
+right: Mike
+Wrong: 
+Value: $600
+Number: 3
+COMEDY OF ERRORS | Appropriately, it's this comedy in which Groucho as Prof. Wagstaff says, <http://www.j-archive.com/media/2006-03-16_J_08.mp3> "I'd horsewhip you--if I had a horse" | Horse Feathers
+right: Scott
+Wrong: 
+Christine: What is A Day at the Races?
+Value: $600
+Number: 8
+TWELFTH NIGHT | Seen <http://www.j-archive.com/media/2006-03-16_J_28.jpg> here, she represented New York's 12th District in the House of Representatives from 1969-1983 | Shirley Chisholm
+right: Scott
+Wrong: 
+Value: $600
+Number: 28
+KING JOHN | When young John was lord of this island, he & his buddies rudely laughed at the beards of local chieftains | Ireland
+right: Scott
+Wrong: 
+Value: $600
+Number: 13
+MEASURE FOR MEASURE | "Welcome to" this scale named for a child's structure; it's 1:12, 1 inch equaling 1 foot | dollhouse
+right: Mike
+Wrong: 
+Value: $600
+Number: 23
+AS YOU LIKE "IT" | Novelty bikini ballad that hit the top of the charts in 1960 | "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"
+right: Mike
+Wrong: 
+Value: $600
+Number: 18
+SHAKESPEARE | The line "All the world's a stage" may have been a reference to this theatre, home to Shakespeare's acting co. in 1599 | the Globe Theatre
+right: Christine
+Wrong: 
+Value: $800
+Number: 4
+COMEDY OF ERRORS | A leopard is the "Baby" in the title of this screwball comedy starring Cary Grant & Katharine Hepburn | Bringing Up Baby
+right: Scott
+Wrong: 
+Value: $800
+Number: 9
+TWELFTH NIGHT | The Twelfth Amendment to the U.S. Constitution concerns a revamping of this "college" | the Electoral College
+right: Scott
+Wrong: 
+Value: $800
+Number: 29
+KING JOHN | John supported this dashing brother & future king in his rebellion against their dad, Henry II | Richard the Lionhearted
+right: Christine
+Wrong: 
+Value: $800
+Number: 14
+MEASURE FOR MEASURE | A hundredweight in the U.S. is 100 of these | a pound
+right: Christine
+Wrong: 
+Value: $800
+Number: 24
+AS YOU LIKE "IT" | Fiddler Perlman | Itzhak
+right: Mike
+Wrong: 
+Value: $800
+Number: 19
+SHAKESPEARE | One of Shakespeare's sisters had this name, the same as Will's wife | Anne
+right: Christine
+Wrong: 
+Value: $1000
+Number: 5
+COMEDY OF ERRORS | 1986 film in which Bette Midler exclaims to Helen Slater, "I'm being marked down... I've been kidnapped by Kmart!" | Ruthless People
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+TWELFTH NIGHT | This twelfth U.S. president died in office, & his daughter married Jefferson Davis | Zachary Taylor
+right: 
+Wrong: Triple Stumper
+Scott: Who is William Henry Harrison?
+Value: $1000
+Number: 30
+KING JOHN | As he controlled no territory in his youth, John was known as John "Lack-" this | land
+right: Mike
+Wrong: 
+Value: $1000
+Number: 15
+MEASURE FOR MEASURE | In gold content measurement, one karat is equal to this fraction of pure gold | 1/24
+right: Christine
+Wrong: 
+Value: DD: $1,000
+Number: 25
+AS YOU LIKE "IT" | According to the Gospel of John in the King James Bible, they were the last 3 words spoken by Jesus on the Cross | "It is finished"
+right: 
+Wrong: Triple Stumper
+Scott: What is "It is done"?
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Christine: $2,400
+Mike: $2,200
+Scott: $2,800
+Scores at the end of the Jeopardy! Round:
+Christine: $4,600
+Mike: $4,400
+Scott: $3,000
+Second Jeopardy! Round: WORLD LEADERS, 1960s ROCK LYRICS, DON QUIZ-OTE, AIRLINE AD SLOGANS, SURVIVOR GEOGRAPHY, SILENT "G"
+WORLD LEADERS | This African was a prisoner for 28 years, then a world leader for 5 | Nelson Mandela
+right: Mike
+Wrong: 
+Value: $400
+Number: 1
+1960s ROCK LYRICS | "Come on baby let's do" this dance "take me by my little hand and go like this" | "The Twist"
+right: Mike
+Wrong: 
+Value: $400
+Number: 2
+DON QUIZ-OTE | In 1963 he was a congressman from Illinois; in '75 he began his first stint as Secretary of Defense | Donald Rumsfeld
+right: Scott
+Wrong: 
+Value: $400
+Number: 12
+AIRLINE AD SLOGANS | "Something special in the air" | American Airlines
+right: Christine
+Wrong: 
+Mike: What is United?
+Value: $400
+Number: 7
+SURVIVOR GEOGRAPHY | (<http://www.j-archive.com/media/2006-03-16_DJ_26.jpg> Jeff Probst gives the clue from a rocky exotic locale.)  "Survivor: Vanuatu" & "Survivor: Palau" both took place in <http://www.j-archive.com/media/2006-03-16_DJ_26a.jpg> this ocean | the Pacific Ocean
+right: Scott
+Wrong: 
+Value: $400
+Number: 26
+SILENT "G" | This popular pasta dish consists of wide, flat noodles layered with meat, cheese & tomato sauce | lasagna
+right: Christine
+Wrong: 
+Value: $400
+Number: 17
+WORLD LEADERS | In 1920, 1922, 1926 & 1990 this country had a president with Chamorro in his or her name | Nicaragua
+right: Scott
+Wrong: 
+Value: DD: $2,000
+Number: 22
+1960s ROCK LYRICS | In this 1965 hit, The Beatles sang, "Suddenly, I'm not half the man I used to be.  There's a shadow hanging over me" | "Yesterday"
+right: Mike
+Wrong: 
+Value: $800
+Number: 3
+DON QUIZ-OTE | At age 28 he got NYC to build a convention center on the site of the Penn Central railyards | Donald Trump
+right: Mike
+Wrong: 
+Value: $800
+Number: 13
+AIRLINE AD SLOGANS | "The Wings of Italy" | Alitalia
+right: Mike
+Wrong: 
+Scott: What is Air Italia?
+Value: $800
+Number: 8
+SURVIVOR GEOGRAPHY | (<http://www.j-archive.com/media/2006-03-16_DJ_27.jpg> Jeff Probst delivers from near a small grove of trees.)  The sixth "Survivor" was along <http://www.j-archive.com/media/2006-03-16_DJ_27a.jpg> this river that has more than 10 times the volume of flow of the Mississippi | the Amazon
+right: Christine
+Wrong: 
+Value: $800
+Number: 27
+SILENT "G" | That's it, I'm giving up my position, I'm stepping down, I'm doing this | resigning
+right: Scott
+Wrong: 
+Value: $800
+Number: 18
+WORLD LEADERS | (<http://www.j-archive.com/media/2006-03-16_DJ_23.jpg> Jimmy of the Clue Crew strolls through a shipyard in Gdansk, Poland.) I'm in what's in now simply called the Gdansk Shipyard; during Polish Communist rule, it was named for this man | Lenin
+right: Scott
+Wrong: 
+Value: $1200
+Number: 23
+1960s ROCK LYRICS | "You know that it would be untrue, you know that I would be a liar" if we said this song wasn't a Doors hit | "Light My Fire"
+right: Mike
+Wrong: 
+Value: $1200
+Number: 4
+DON QUIZ-OTE | After quitting a 1950s series, he quipped, "When you've made 6 pictures and the mule still gets more fan mail..." | Donald O'Connor
+right: Christine
+Wrong: 
+Mike: Who is Don Knotts?  Rest in peace.
+Value: $1200
+Number: 14
+AIRLINE AD SLOGANS | "We love to fly and it shows" | Delta
+right: 
+Wrong: Triple Stumper
+Mike: What is United?
+Value: $1200
+Number: 9
+SURVIVOR GEOGRAPHY | (<http://www.j-archive.com/media/2006-03-16_DJ_28.jpg> Jeff Probst reads from near the thicket of trees again.)  In 2005 "Survivor" went to the Maya Empire in <http://www.j-archive.com/media/2006-03-16_DJ_28a.jpg> this most populous Central American country | Guatemala
+right: 
+Wrong: Triple Stumper
+Scott: What is Honduras?
+Value: $1200
+Number: 28
+SILENT "G" | Injurious to crops, it's a long period of dry weather with little rainfall | a drought
+right: Mike
+Wrong: 
+Value: $1200
+Number: 19
+WORLD LEADERS | Prime Minister of this country under President Banana, Robert Mugabe became its president in 1987 | Zimbabwe
+right: Mike
+Wrong: 
+Value: $1600
+Number: 24
+1960s ROCK LYRICS | "On a cold and gray Chicago mornin', a poor little baby child is born" here, "and his mama cries" | "In The Ghetto"
+right: Christine
+Wrong: 
+Value: $1600
+Number: 5
+DON QUIZ-OTE | In 1938 he became the first player to win tennis' Grand Slam | Don Budge
+right: Scott
+Wrong: 
+Mike: Who is Don Newcombe?
+Value: $1600
+Number: 15
+AIRLINE AD SLOGANS | "We have to earn our wings every day" | Eastern
+right: 
+Wrong: Triple Stumper
+Christine: What is Continental?
+Value: $1600
+Number: 10
+SURVIVOR GEOGRAPHY | (<http://www.j-archive.com/media/2006-03-16_DJ_29.jpg> Jeff Probst reads from near some foliage.)  In the 2nd season, castaways made camp in the Outback of <http://www.j-archive.com/media/2006-03-16_DJ_29a.jpg> this "royal" Australian state | Queensland
+right: Scott
+Wrong: 
+Mike: What is Victoria?
+Value: $1600
+Number: 29
+SILENT "G" | It can mean kind & good-natured as well as non-cancerous | benign
+right: Mike
+Wrong: 
+Value: $1600
+Number: 20
+WORLD LEADERS | (<http://www.j-archive.com/media/2006-03-16_DJ_25.jpg> Jimmy reads from the streets of Lubeck, Germany.)  <http://www.j-archive.com/media/2006-03-16_DJ_25a.jpg> This Lubeck-born West German chancellor said, "I always carried a piece of Lubeck with me wherever I had to go" | Willy Brandt
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+1960s ROCK LYRICS | This "Sweet" Tommy James & the Shondells hit was "so stimulating, so intoxicating", "drink it right down" | "Sweet Cherry Wine"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+DON QUIZ-OTE | In 1967 this man's aircraft company merged with McDonnell Aircraft | (Donald) Douglas
+right: Christine
+Wrong: 
+Value: $2000
+Number: 16
+AIRLINE AD SLOGANS | "The world's favourite airline" | British Airways
+right: Mike
+Wrong: 
+Value: DD: $1,400
+Number: 11
+SURVIVOR GEOGRAPHY | (<http://www.j-archive.com/media/2006-03-16_DJ_30.jpg> Jeff Probst for a final time.)  In the 1st "Survivor", when you were voted off the island, it was <http://www.j-archive.com/media/2006-03-16_DJ_30a.jpg> Pulau Tiga, off Borneo, in this sea | the South China Sea
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+SILENT "G" | Ring the bells & tell us the style of bed seen <http://www.j-archive.com/media/2006-03-16_DJ_21.jpg> here | sleigh
+right: Scott
+Wrong: 
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Christine: $9,400
+Mike: $8,600
+Scott: $11,000
+
+Final Jeopardy! Round
+FOOD LORE | In food lore, the design of this treat symbolizes arms folded in prayer & the 3 holes stand for the Trinity | the pretzel
+right: Mike | Scott
+Wrong: 
+Christine: What is a hot cross bun?
+Wagers: 
+Mike: $5,399
+Christine: $5,000
+Scott: $7,801
+Final scores:
+Christine: $4,400 (3rd place: $1,000)
+Mike: $13,999 (2nd place: $2,000)
+Scott: $18,801 (New champion: $18,801)
+
+Coryat scores
+Christine: $9,400 (13 R(including 1 DD),2 W)
+Mike: $9,200 (20 R(including 1 DD),6 W)
+Scott: $9,800 (18 R(including 1 DD),4 W)

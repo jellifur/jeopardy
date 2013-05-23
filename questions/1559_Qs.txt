@@ -1,0 +1,338 @@
+3863 - Wednesday, May 23, 2001
+Contestants:
+Ken Beckrich: a consultant from Lawton, Michigan
+Rebecca Gold: a systems developer from New York City, New York
+Chris Dougherty: a college student from Seattle, Washington
+First Jeopardy! Round: BEASTLY LITERATURE, STYLIN' LIKE LARRY KING, CALIFORNIA EXPORTS, THE ROMANOVS, BIBLICAL RHYME TIME, SUMMER CAMP
+BEASTLY LITERATURE | Wolf, this Washington Irving character's dog, fails to recognize his master after a 20-year absence | Rip Van Winkle
+right: Rebecca
+Wrong: 
+Value: $100
+Number: 3
+STYLIN' LIKE LARRY KING | Try the truffles at Tala's...how 'bout those Mets?...this network my show is on should give me a raise, huh? | CNN
+right: Rebecca
+Wrong: 
+Value: $100
+Number: 15
+CALIFORNIA EXPORTS | Over 90% of these exported from the U.S. come from California from firms like Robert Mondavi | Wines
+right: Chris
+Wrong: 
+Value: $100
+Number: 1
+THE ROMANOVS | In 1695 he declared war on the Ottoman Empire, a great move | Peter the Great
+right: Ken
+Wrong: 
+Value: $100
+Number: 20
+BIBLICAL RHYME TIME | Fisherman-apostle's high-frequency hi-fi speakers | Peter's tweeters
+right: Rebecca
+Wrong: 
+Value: $100
+Number: 9
+SUMMER CAMP | Connecticut's SJ Ranch is "For the girl who loves" these animals -- & which of them doesn't? | Horses
+right: Chris
+Wrong: 
+Value: $100
+Number: 24
+BEASTLY LITERATURE | Santiago, the old man in a Hemingway story, struggles mightily with this type of game fish | Marlin
+right: Chris
+Wrong: 
+Value: $200
+Number: 4
+STYLIN' LIKE LARRY KING | Sinatra's new box set is heaven...the yams at Remy's, wow...had dinner with this woman, Clinton's Secretary of State | Madeleine Albright
+right: Chris
+Wrong: 
+Value: $200
+Number: 22
+CALIFORNIA EXPORTS | The CAAB is the California advisory board for these, seen here | Artichokes
+right: Ken
+Wrong: 
+Value: $200
+Number: 2
+THE ROMANOVS | In 1956 Ingrid Bergman played this possible Romanov | Anastasia
+right: Ken
+Wrong: 
+Value: $200
+Number: 12
+BIBLICAL RHYME TIME | A gospel writer's small songbirds | Mark's larks
+right: Ken
+Wrong: 
+Value: $200
+Number: 10
+SUMMER CAMP | A building or tent where the kids sleep, or the bed within it | Bunk
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 25
+BEASTLY LITERATURE | She illustrated the piggies seen here | Beatrix Potter
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 5
+STYLIN' LIKE LARRY KING | Don't like seafood much but the eel at Manno's, to die for..."Shopgirl", written by this "All Of Me" star, is a real winner! | Steve Martin
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 23
+CALIFORNIA EXPORTS | Dr. William F. House's cochlear implant is helping bring this to people who couldn't be helped before | Hearing
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 6
+THE ROMANOVS | She & her lover, Count Orlov, overthrew her husband in a July 1762 palace coup | Catherine the Great
+right: Chris
+Wrong: 
+Value: $300
+Number: 13
+BIBLICAL RHYME TIME | Patient & faithful Old Testament figure's ear parts | Job's lobes
+right: Ken
+Wrong: 
+Value: $300
+Number: 11
+SUMMER CAMP | This word for the area down by the lake & activities there is also found in a Brando film title | Waterfront
+right: Ken
+Wrong: 
+Value: $300
+Number: 26
+BEASTLY LITERATURE | Moses, a raven, tells the other creatures about a better life to come on Sugar-Candy Mountain in this 1945 novel | "Animal Farm"
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+STYLIN' LIKE LARRY KING | Mary had a little lamb but I don't eat veal...I think Ryan Stiles' & Wayne Brady's improv on this show is tops! | Whose Line Is It Anyway?
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+CALIFORNIA EXPORTS | Skechers makes these up to size 15 for men | Shoes
+right: Chris
+Wrong: 
+Value: $400
+Number: 18
+THE ROMANOVS | Alexander II added $7,200,000 to Russia's coffers by selling off what's now known as this | Alaska
+right: 
+Wrong: 
+Value: DD: $400
+Number: 14
+BIBLICAL RHYME TIME | Pillar of salt's hubby's collapsible beds | Lot's cots
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+SUMMER CAMP | Dating from the 1880s, the oldest camp run by this "Christian" organization is Camp Dudley on Lake Champlain | YMCA (Young Men's Christian Association)
+right: Ken
+Wrong: 
+Value: $400
+Number: 29
+BEASTLY LITERATURE | Jean de Brunhoff wrote & illustrated the first stories about this urbane king of the elephants | Babar
+right: Rebecca
+Wrong: 
+Value: $500
+Number: 8
+STYLIN' LIKE LARRY KING | I love the hummus at Jorge's...my pick, Jets by 2...don't miss "Snatch", directed by this husband of Madonna | Guy Ritchie
+right: Chris
+Wrong: 
+Value: $500
+Number: 28
+CALIFORNIA EXPORTS | Callaway's Big Bertha is a titanium one of these | Golf club
+right: Ken
+Wrong: 
+Value: $500
+Number: 19
+THE ROMANOVS | In 1807 Alexander I allied himself with this country; in 1812 the alliance broke & the ex-ally invaded Russia | France
+right: Chris
+Wrong: 
+Value: $500
+Number: 21
+BIBLICAL RHYME TIME | Noah's son's marine mollusks | Ham's clams
+right: Ken
+Wrong: 
+Value: $500
+Number: 17
+SUMMER CAMP | A New Hampshire camp is named for this man in tribute to his poem "I Hear America Singing" | Walt Whitman
+right: Ken
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Chris: $0
+Rebecca: $1,000
+Ken: $1,200
+Scores at the end of the Jeopardy! Round:
+Chris: $1,500
+Rebecca: $1,600
+Ken: $4,300
+Second Jeopardy! Round: EGYPT BEYOND THE PYRAMIDS, SEEING DOUBLE, THAT'S OLD NEWS!, FLORIDUDS, SIMPLE SCIENCE, NEW SUMMER "CAMP"s
+EGYPT BEYOND THE PYRAMIDS | This teeming capital of today is found very near the site of the ancient Egyptian capital of Memphis | Cairo
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+SEEING DOUBLE | Lily Tomlin & this "Divine" woman play 2 sets of identical twins mismatched by accident at birth in "Big Business" | Bette Midler
+right: Chris
+Wrong: 
+Value: $200
+Number: 13
+THAT'S OLD NEWS! | In the 300s B.C., this Greek philosopher used lunar eclipses to prove that the Earth was spherical | Aristotle
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 20
+FLORIDUDS | Pastel jackets worn over T-shirts were all the rage in the '80s because of this Florida-set TV show | 
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+SIMPLE SCIENCE | The only even prime number | 2
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 8
+NEW SUMMER "CAMP"s | Only boys with a certain first name can attend this camp with the same name as a Maryland retreat | Camp David
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+EGYPT BEYOND THE PYRAMIDS | All classes of society wore these accessories; the poor wore vegetable fiber, while the rich got real hair | Wigs
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+SEEING DOUBLE | These 2 actors were the genetically designed "Twins" in a 1988 film comedy | Danny DeVito & Arnold Schwarzenegger
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 14
+THAT'S OLD NEWS! | He led a 1676 rebellion in Virginia protesting lack of protection from Indian raids | Nathaniel Bacon
+right: Ken
+Wrong: 
+Value: DD: $3,000
+Number: 4
+FLORIDUDS | In Key West, site of his vacation home, the "Little White House", he favored loud print shirts like the one seen here | Harry S. Truman
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 22
+SIMPLE SCIENCE | A solid shape with 6 identical faces only | Cube
+right: Chris
+Wrong: 
+Value: $400
+Number: 9
+NEW SUMMER "CAMP"s | It has a racetrack 5 miles long, & we'll learn the official song, "Doo-dah!  Doo-dah!" | Camptown Races
+right: Chris
+Wrong: 
+Value: $400
+Number: 27
+EGYPT BEYOND THE PYRAMIDS | 13-letter term for the process undergone by the Egyptian seen here | Mummification
+right: Ken
+Wrong: 
+Value: $600
+Number: 5
+SEEING DOUBLE | The little boy Danny sees twin sisters in the hallway of the hotel in this creepy 1980 Kubrick classic | The Shining
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+THAT'S OLD NEWS! | This French hero of WWI surrendered to Hitler in 1940 & later headed a collaboration government | Marshall Petain
+right: Chris
+Wrong: 
+Value: $600
+Number: 17
+FLORIDUDS | Palm Beach County told hot dog vendors wearing these bikinis (later celebrated in a Sisqo song) to cover their buns | Thongs
+right: Chris
+Wrong: 
+Value: $600
+Number: 23
+SIMPLE SCIENCE | Of a proton, neutron or electron, the one that's heaviest | Neutron
+right: Chris
+Wrong: 
+Value: $600
+Number: 10
+NEW SUMMER "CAMP"s | This camp is not for all baseball players, just those who want to be a Hall of Fame catcher | Campanella
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+EGYPT BEYOND THE PYRAMIDS | Herodotus first used this term from the Greek to describe the region of the Nile near the Mediterranean | Delta
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 6
+SEEING DOUBLE | This actor turned in 2 performances as twin gynecologists in "Dead Ringers" | Jeremy Irons
+right: Rebecca
+Wrong: 
+Value: $800
+Number: 15
+THAT'S OLD NEWS! | In the 1820s, the USA's first coeducational school opened in New Harmony in this Midwestern state | Indiana
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+FLORIDUDS | In 1997 this fashion designer known for his "Flash & Trash" chic was slain in front of his Miami Beach mansion | Gianni Versace
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+SIMPLE SCIENCE | The common name for iron oxide | Rust
+right: Chris
+Wrong: 
+Value: $800
+Number: 11
+NEW SUMMER "CAMP"s | Stair-climbing & bell-ringing are the big activities here | Campanile
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+EGYPT BEYOND THE PYRAMIDS | Ruler discussed here, ignoring those nasty plagues | Ramses II
+right: Rebecca
+Wrong: 
+Value: $1000
+Number: 7
+SEEING DOUBLE | This 1961 twin film, remade in 1998, was based on a German novel | The Parent Trap
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+THAT'S OLD NEWS! | The beloved of Petrarch, she died in 1348 when a plague swept medieval Europe | Laura
+right: Ken
+Wrong: 
+Value: $1000
+Number: 19
+FLORIDUDS | In 2000, the fashion choices of this politician, seen here, came under a lot of scrutiny | Katherine Harris
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+SIMPLE SCIENCE | It's the main artery leaving the heart | Aorta
+right: Ken
+Wrong: 
+Value: $1000
+Number: 12
+NEW SUMMER "CAMP"s | Following the "lucky" story by Bret Harte, we spend the summer here mining, then get wiped out in a flood | Roaring Camp
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Chris: $5,100
+Rebecca: $3,400
+Ken: $11,100
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | 3 of this federation's constituent parts are Ash Shariqah, Al Fujayrah & Umm Al Qaywayn | Unired Arab Emirates
+right: Rebecca | Ken
+Wrong: 
+Chris: What is [Saudi Arabia] United Arab i
+Wagers: 
+Rebecca: $2,000
+Chris: $1,800
+Ken: $300
+Final scores:
+Chris: $3,300 (3rd place: Pair of ebikes (bicycles) from ebikes.com)
+Rebecca: $5,400 (2nd place: Trip to London, courtesy of Priceline.com)
+Ken: $11,400 (New champion: $11,400)
+
+Coryat scores
+Chris: $5,500 (15 R,3 W(including 1 DD))
+Rebecca: $3,400 (12 R,2 W)
+Ken: $10,500 (23 R(including 1 DD),2 W(including 1 DD))

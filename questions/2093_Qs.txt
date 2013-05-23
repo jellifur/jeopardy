@@ -1,0 +1,339 @@
+3639 - Thursday, June 1, 2000
+Contestants:
+Kevin Glaccum: an actor from Philadelphia, Pennsylvania
+Lise Stephenson: a construction accountant from Metairie, Louisiana
+Jamie Meyers: a systems administrator from Toledo, Ohio (whose 1-day cash winnings total $12,800)
+First Jeopardy! Round: COASTAL COMMUNITIES, SPORTS SUPERSTITIONS, THE SOMEONE OF SOMEWHERE, STUPID ANSWERS, COLORS, "OO", SORRY!
+COASTAL COMMUNITIES | Incorporated in 1901, there's no place like this Alaskan city on Norton Sound | Nome
+right: Kevin
+Wrong: 
+Value: $100
+Number: 3
+SPORTS SUPERSTITIONS | For boxers, it's unlucky to be the first to enter this area | The ring
+right: Kevin
+Wrong: 
+Value: $100
+Number: 24
+THE SOMEONE OF SOMEWHERE | KInd-hearted train robber Sam Bass has been called this British outlaw "of Texas" | Robin Hood
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 18
+STUPID ANSWERS | In 1567 Pope Pius V issued a papal bull against the fighting of these | Bulls
+right: Lise
+Wrong: 
+Value: $100
+Number: 1
+COLORS | Saffron, canary, lemon | Yellow
+right: Kevin
+Wrong: 
+Value: $100
+Number: 5
+"OO", SORRY! | This tropical grass can shoot up to 130 feet in height | Bamboo
+right: Kevin
+Wrong: 
+Value: $100
+Number: 13
+COASTAL COMMUNITIES | Yale University is this city's largest employer | New Haven, Connecticut
+right: Lise
+Wrong: 
+Value: $200
+Number: 4
+SPORTS SUPERSTITIONS | It's bad luck in this sport for a dog to cross the diamond before the first pitch | Baseball
+right: Jamie
+Wrong: 
+Value: $200
+Number: 27
+THE SOMEONE OF SOMEWHERE | Firdawsi, known for his epic "Book of Kings", has been called this Greek poet "of Persia" | Homer
+right: Kevin
+Wrong: 
+Value: $200
+Number: 19
+STUPID ANSWERS | Family of trees on which you'd fine pine cones | Pine trees
+right: Kevin
+Wrong: 
+Value: $200
+Number: 2
+COLORS | Ruby, brick, crimson | Red
+right: Kevin
+Wrong: 
+Value: $200
+Number: 6
+"OO", SORRY! | Home, sweet home, to an Inuit | Igloo
+right: Lise
+Wrong: 
+Value: $200
+Number: 14
+COASTAL COMMUNITIES | Gloucester in this state has been a fishing center for over 3 centuries | Massachusetts
+right: Jamie
+Wrong: 
+Value: $300
+Number: 23
+SPORTS SUPERSTITIONS | Avoid faults by never holding more than 2 balls when serving in this sport | Tennis
+right: Jamie
+Wrong: 
+Value: $300
+Number: 28
+THE SOMEONE OF SOMEWHERE | U.S. Grant was known as "The Hero of" this place, where he's pictured here: | Appomattox
+right: Kevin
+Wrong: 
+Value: $300
+Number: 20
+STUPID ANSWERS | Bangui is the capital of this central African republic | Central African Republic
+right: Jamie
+Wrong: 
+Value: $300
+Number: 8
+COLORS | Lilac, lavender, puce | Purple
+right: Jamie
+Wrong: 
+Value: $300
+Number: 7
+"OO", SORRY! | Now a children's toy, this musical instrument was popular in jug bands | Kazoo
+right: Jamie
+Wrong: 
+Value: $300
+Number: 15
+COASTAL COMMUNITIES | Hey Jack, it was the capital of Alta California from 1775 to 1846 | Monterey
+right: Kevin
+Wrong: 
+Value: $400
+Number: 25
+SPORTS SUPERSTITIONS | Hey hockey puck!  Don't stack this piece of equipment crossing another player's; it's bad luck | Hockey
+right: Jamie
+Wrong: 
+Value: $400
+Number: 29
+THE SOMEONE OF SOMEWHERE | It's what nurse Clara Barton was "The Angel of" | The battlefield
+right: Kevin
+Wrong: 
+Value: $400
+Number: 21
+STUPID ANSWERS | In the binary number system, this number would be 01 | 1
+right: Kevin
+Wrong: 
+Value: $400
+Number: 9
+COLORS | Olive, hunter, kelly | Green
+right: Kevin
+Wrong: 
+Value: $400
+Number: 11
+"OO", SORRY! | Carrie Fisher made her film debut in this 1975 Warren Beatty-Julie Christie movie | Shampoo
+right: Kevin
+Wrong: 
+Value: $400
+Number: 16
+COASTAL COMMUNITIES | A whole lotta wood chips are shipped out of Coos Bay in this state | Oregon
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+SPORTS SUPERSTITIONS | Gone fishing?  Don't reveal this until you are done for the day | Your catch/number of fish you caught
+right: Kevin
+Wrong: 
+Value: $500
+Number: 30
+THE SOMEONE OF SOMEWHERE | Ben Franklin dubbed silver-tongued Robert R. Livingston this Roman orator "of America" | Cicero
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+STUPID ANSWERS | In 1851 this yacht won the trophy that was to become the America's Cup | America
+right: Lise
+Wrong: 
+Value: $500
+Number: 10
+COLORS | Cornflower, cerulean, periwinkle | Blue
+right: Kevin
+Wrong: 
+Value: $500
+Number: 12
+"OO", SORRY! | This Ontario city was settled by Pennsylvania Mennonites who named it for an 1815 European battle | Waterloo
+right: Kevin
+Wrong: 
+Value: DD: $800
+Number: 17
+Scores at the first commercial break (after clue 15)
+Jamie: $900
+Lise: $700
+Kevin: $1,200
+Scores at the end of the Jeopardy! Round:
+Jamie: $1,900
+Lise: $600
+Kevin: $4,200
+Second Jeopardy! Round: GOVERNORS, THE CINEMA, THE JOY OF INSECTS, TO THE MAX, AUTOBIOGRAPHERS, WHAT DO YOU MEAN?
+GOVERNORS | Early in 2000 South Carolina governor Jim Hodges advocated removing this from atop the statehouse | Confederate battleflag
+right: Lise
+Wrong: 
+Value: $200
+Number: 4
+THE CINEMA | Johnny Depp debuted in this 1984 film & made a cameo later in the series in "Freddy's Dead: The Final Nightmare" | Nightmare on Elm Street
+right: Kevin
+Wrong: 
+Value: $200
+Number: 2
+THE JOY OF INSECTS | One difference between crickets & these, including locusts, is crickets' longer antennae | Grasshoppers
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+TO THE MAX | With the creation of pancake makeup, he changed the face of Hollywood | Max Factor
+right: Kevin
+Wrong: 
+Value: $200
+Number: 21
+AUTOBIOGRAPHERS | A singer: "Stand By Your Man" | Tammy Wynette
+right: Kevin
+Wrong: 
+Value: $200
+Number: 1
+WHAT DO YOU MEAN? | In the E.R., doctors ask for things to be done immediately by using this 4-letter Latin abbreviation | Stat
+right: Jamie
+Wrong: 
+Value: $200
+Number: 14
+GOVERNORS | The person heard here is the governor of this U.S. state: ("I'm a 6' 4", 250-pound ex-Navy seal, pro wrestler, radio personality....") | Minnesota (Jesse Ventura)
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+THE CINEMA | This martial artist's 1995 film "Hung Fan Kui" was released in the U.S. as "Rumble in the Bronx" | Jackie Chan
+right: Jamie
+Wrong: 
+Value: $400
+Number: 3
+THE JOY OF INSECTS | Made of paper, the nests of these wasps are a synonym for hostility & strife | Hornets
+right: Kevin
+Wrong: 
+Value: $400
+Number: 27
+TO THE MAX | This Swedish actor who tried to expel demons in "The Exorcist" played the devil himself in "Needful Things" | Max Von Sydow
+right: Jamie
+Wrong: 
+Value: $400
+Number: 22
+AUTOBIOGRAPHERS | A diva: "Bubbles: An Encore" | Beverly Sills
+right: Lise
+Wrong: 
+Value: $400
+Number: 5
+WHAT DO YOU MEAN? | In restaurants this number means "all gone" | 86
+right: Kevin
+Wrong: 
+Value: $400
+Number: 15
+GOVERNORS | In this state's 1998 election, John Engler pulled the plug on the gubernatorial hopes of Jack Kevorkian's lawyer | Michigan
+right: Jamie
+Wrong: 
+Value: $600
+Number: 8
+THE CINEMA | (Hi, I'm Gil Bellows of "Ally McBeal")  In 1994 I was on the wrong side of the law as an inmate in this film that also starred Tim Robbins & Morgan Freeman | The Shawshank Redemption
+right: Lise
+Wrong: 
+Value: $600
+Number: 11
+THE JOY OF INSECTS | A maggot represents this stage in the metamorphosis of a fly | Larval
+right: Kevin
+Wrong: 
+Value: $600
+Number: 28
+TO THE MAX | Seen here, the stage he designed for "Woodstock '99" was out of this world: | Peter Max
+right: Kevin
+Wrong: 
+Value: $600
+Number: 23
+AUTOBIOGRAPHERS | A Scandinavian movie director: "The Magic Lantern" | Ingmar Bergman
+right: Jamie
+Wrong: 
+Value: $600
+Number: 6
+WHAT DO YOU MEAN? | When used with "up", this type of little house is slang for living together without being married | Shack
+right: Jamie
+Wrong: 
+Value: $600
+Number: 16
+GOVERNORS | In 1998 this state's Jim Geringer was the only governor to win election with under 100,000 votes | Wyoming
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 9
+THE CINEMA | She was nominated for an Oscar for playing a role based on herself in Neil Simon's "Chapter Two" | Marsha Mason
+right: Kevin
+Wrong: 
+Value: $800
+Number: 19
+THE JOY OF INSECTS | The etymology of this word for the study of insects is that it comes from Greek for "notched" | Entymology
+right: Jamie
+Wrong: 
+Value: $800
+Number: 29
+TO THE MAX | This contemporary of Einstein won the 1918 Nobel Prize for Physics | Max Planck
+right: Jamie
+Wrong: 
+Value: $800
+Number: 24
+AUTOBIOGRAPHERS | A religious leader: "Freedom in Exile" | The Dalai Lama
+right: Lise
+Wrong: 
+Value: DD: $1,200
+Number: 12
+WHAT DO YOU MEAN? | From the Latin for "chest", it's a pen used for small animals such as rabbits | Hutch
+right: Lise
+Wrong: 
+Value: $800
+Number: 17
+GOVERNORS | In 1990 she came within 2 percentage points of defeating Bill Bradley for his senate seat | Christine Todd Whitman
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 10
+THE CINEMA | This bouncy wirehaired fox terrier shared the spotlight with William Powell & Myrna Loy in "The Thin Man" series | Asta
+right: Lise
+Wrong: 
+Value: $1000
+Number: 20
+THE JOY OF INSECTS | There are biting & nonbiting types of this tiny insect with the name of an Archie Comics girl | Midge
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+TO THE MAX | He wrote the play "Winterset" & co-wrote "What Price Glory?" | Maxwell Anderson
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 25
+AUTOBIOGRAPHERS | A former vice president: "Standing Firm" | Dan Quayle
+right: Lise
+Wrong: 
+Value: $1000
+Number: 13
+WHAT DO YOU MEAN? | Manic depression is another term for this "disorder" marked by mood disturbances | Bipolar disorder
+right: Lise
+Wrong: 
+Value: $1000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Jamie: $3,900
+Lise: $4,400
+Kevin: $6,000
+
+Final Jeopardy! Round
+ARTISTS | He was born in 1864 to 2 first cousins | Henri de Toulouse-Lautrec
+right: Kevin
+Wrong: 
+Jamie: Who is Picasso?
+Lise: Who was
+Wagers: 
+Jamie: $2,200
+Lise: $399
+Kevin: $2,900
+Final scores:
+Jamie: $1,700 (3rd place: ViewSonic VP-150 Computer/TV Monitor)
+Lise: $4,001 (2nd place: Trip to Spa Atlantis Ocean Resort, Pompano Beach, Florida)
+Kevin: $8,900 (New champion: $8,900)
+
+Coryat scores
+Jamie: $5,900 (15 R,3 W(including 1 DD))
+Lise: $4,000 (12 R(including 1 DD),6 W)
+Kevin: $5,700 (26 R(including 1 DD),7 W)

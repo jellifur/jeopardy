@@ -1,0 +1,347 @@
+6547 - Tuesday, February 19, 2013
+Comments: 2013 Tournament of Champions quarterfinal game 5.
+Contestants:
+Ashok Poozhikunnel: an underwriter from Wheaton, Illinois
+Dave Leach: a game merchant from Atlanta, Georgia
+Patrick Quinn: a high school German teacher from Chesterfield, Missouri
+First Jeopardy! Round: WHO'S ON FIRST?, SAY "LA-V", HOUSEHOLD HINTS, TILE LAND, COMPUTER LINGO, THE FUTURE
+WHO'S ON FIRST? | Cubs, 1898-1912-- the third of a famous trio | Chance
+right: Patrick
+Wrong: 
+Value: $200
+Number: 1
+SAY "LA-V" | Extravagantly luxurious, or to bestow profusely | lavish
+right: Dave
+Wrong: 
+Value: $200
+Number: 21
+HOUSEHOLD HINTS | To deal with a drippy candlestick, put it in this appliance; later, remove it & scrape off the hardened wax | the freezer
+right: 
+Wrong: Triple Stumper
+Dave: What is the microwave?
+Value: $200
+Number: 10
+TILE LAND | The Roman pool at this publisher's California "castle" is decorated from floor to ceiling with glass tiles | (William Randolph) Hearst
+right: Ashok
+Wrong: 
+Value: $200
+Number: 6
+COMPUTER LINGO | Apple's Leopard is a type of OS, one of these | an operating system
+right: Ashok
+Wrong: 
+Value: $200
+Number: 26
+THE FUTURE | (<http://www.j-archive.com/media/2013-02-19_J_08.wmv> Al Gore gives the clue.) World Power hangs in the balance as this nation surges forward; in 2010 it ended the USA's century-old standing as the no. 1 manufacturing nation | China
+right: Dave
+Wrong: 
+Value: $200
+Number: 8
+WHO'S ON FIRST? | Yankees, 1923-1939 | (Lou) Gehrig
+right: Patrick
+Wrong: 
+Value: $400
+Number: 3
+SAY "LA-V" | Shrub with pale lilac-colored flowers | lavender
+right: Ashok
+Wrong: 
+Value: $400
+Number: 22
+HOUSEHOLD HINTS | To remove grass stains from clothes, try rubbing with the Karo brand of this type of syrup | corn syrup
+right: Patrick
+Wrong: 
+Value: $400
+Number: 11
+TILE LAND | The great <http://www.j-archive.com/media/2013-02-19_J_07.jpg> pavement in front of the high altar at this London church uses a <http://www.j-archive.com/media/2013-02-19_J_07a.jpg> mosaic technique called cosmati work | Westminster Abbey
+right: Patrick
+Wrong: 
+Dave: What is St. Paul's?
+Value: $400
+Number: 7
+COMPUTER LINGO | The "HT" in both HTTP & HTML stands for this | hypertext
+right: Patrick
+Wrong: 
+Value: $400
+Number: 27
+THE FUTURE | (<http://www.j-archive.com/media/2013-02-19_J_17.wmv> Al Gore gives the clue.) Looking to the future, we can't ignore the climate crisis as we've done too often since back in 1859 when an Irish scientist noted the heat-trapping effect of this molecule | carbon dioxide
+right: Dave
+Wrong: 
+Value: $400
+Number: 17
+WHO'S ON FIRST? | A's, 1987-1997; Cardinals, 1998-2001 | Mark McGwire
+right: Dave
+Wrong: 
+Value: $600
+Number: 5
+SAY "LA-V" | Frenchman known as the "father of modern chemistry" | (Antoine) Lavoisier
+right: Dave
+Wrong: 
+Value: $600
+Number: 23
+HOUSEHOLD HINTS | To keep these little plantlike protists out of a bird bath, plunk in a pre-1982 penny; copper stops their growth | algae
+right: Patrick
+Wrong: 
+Value: $600
+Number: 12
+TILE LAND | The Blue Mosque in this Turkish city gets its name from the 20,000 blue tiles that line its ceiling | Istanbul
+right: Patrick
+Wrong: 
+Value: $600
+Number: 9
+COMPUTER LINGO | If your machine is being controlled by someone else, it may have been taken over by this 3-letter piece of malware | a bot
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+THE FUTURE | (<http://www.j-archive.com/media/2013-02-19_J_18.wmv> Al Gore gives the clue.) The global economy is being transformed into Earth Inc, by the mechanization of human jobs & this practice of moving jobs from industrial to developing economies | outsourcing
+right: Patrick
+Wrong: 
+Dave: What is globalization?
+Value: $600
+Number: 18
+WHO'S ON FIRST? | Phillies, 2004-present | (Ryan) Howard
+right: Ashok
+Wrong: 
+Value: $800
+Number: 2
+SAY "LA-V" | A basin used for ceremonial washing, or an Australian tennis great | Laver
+right: Dave
+Wrong: 
+Value: $800
+Number: 24
+HOUSEHOLD HINTS | To save a cell phone that's been dropped in water, remove the battery & SIM card, pat dry & cover it with the white type of this | rice
+right: Ashok
+Wrong: 
+Value: $800
+Number: 13
+TILE LAND | This Moorish fortress in Granada, Spain has a type of polygonal mosaic called alicatado | the Alhambra
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+COMPUTER LINGO | To set up the pictures & clips on my blog, I might need a VGA, this "array" | video graphics
+right: Dave
+Wrong: 
+Value: $800
+Number: 29
+THE FUTURE | (<http://www.j-archive.com/media/2013-02-19_J_19.wmv> Al Gore gives the clue.) Population & economic growth threaten our natural resources; one example is the erosion of this, the upper 6 inches of farming land that provides 99% of human food | topsoil
+right: Patrick
+Wrong: 
+Value: DD: $1,000
+Number: 19
+WHO'S ON FIRST? | Mets, 1983-1989; "Seinfeld ", beginning in 1992 | (Keith) Hernandez
+right: Ashok
+Wrong: 
+Value: $1000
+Number: 4
+SAY "LA-V" | It's a type of middle eastern fiatbread | lavash
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 25
+HOUSEHOLD HINTS | If you accidentally super glued your fingers together, dab nail polish remover containing this solvent--it breaks the bond | acetone
+right: Dave
+Wrong: 
+Value: $1000
+Number: 14
+TILE LAND | Spectacular blue tiles are a feature of Yazd's Jame mosque, seen on this country's 200-rial note | Iran
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+COMPUTER LINGO | Send me that report as a PDF, this "format" | portable document format
+right: 
+Wrong: Triple Stumper
+Patrick: I used to teach that.
+Dave: What is postscript document format?
+Value: $1000
+Number: 30
+THE FUTURE | (<http://www.j-archive.com/media/2013-02-19_J_20.wmv> Al Gore gives the clue.) When the future seems gloomy, think of the work of Ilya Prigogine, who said that a system open to new ideas & influences can reform itself in his Nobel-winning corollary to the second law of these | thermodynamics
+right: Ashok
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Patrick: $2,600
+Dave: $2,000
+Ashok: $2,800
+Scores at the end of the Jeopardy! Round:
+Patrick: $4,600
+Dave: $3,200
+Ashok: $4,400
+Second Jeopardy! Round: BRIDES OF SHAKESPEARE, THE LIFE OF A GENIUS, G.I. JOES, THE BEGINNING, MIDDLE & END LETTER, THE WIZ, EASEL DOWN THE ROAD
+BRIDES OF SHAKESPEARE | Katharina | Petruchio
+right: Dave
+Wrong: 
+Value: $400
+Number: 1
+THE LIFE OF A GENIUS | You take tests to determine this, originally the ratio of mental to physical age multiplied by 100 | your IQ
+right: Dave
+Wrong: 
+Value: $400
+Number: 6
+G.I. JOES | Former confederate general Joseph Wheeler also commanded forces during this war of 1898 | the Spanish-American War
+right: Patrick
+Wrong: 
+Value: $400
+Number: 9
+THE BEGINNING, MIDDLE & END LETTER | R: Holder of a city's drinking supply | reservoir
+right: Patrick
+Wrong: 
+Value: $400
+Number: 20
+THE WIZ | "Fly, you fools", warns Sir Ian McKellen as this Middle Earth wizard | Gandalf
+right: Ashok
+Wrong: 
+Value: $400
+Number: 14
+EASEL DOWN THE ROAD | Robert Lebron's <http://www.j-archive.com/media/2013-02-19_DJ_21.jpg> painting of this New York City thoroughfare shares its title with an Oliver Stone film | Wall Street
+right: Patrick
+Wrong: 
+Value: $400
+Number: 21
+BRIDES OF SHAKESPEARE | Calpurnia | (Julius) Caesar
+right: Patrick
+Wrong: 
+Value: $800
+Number: 2
+THE LIFE OF A GENIUS | Figure out why identical twins curiously have different these; dactylography will help | fingerprints
+right: Dave
+Wrong: 
+Value: $800
+Number: 7
+G.I. JOES | <http://www.j-archive.com/media/2013-02-19_DJ_10.jpg> This Navy <http://www.j-archive.com/media/2013-02-19_DJ_10a.jpg> pilot & older brother of a president died in 1944 on a secret mission | Kennedy
+right: Ashok
+Wrong: 
+Value: $800
+Number: 10
+THE BEGINNING, MIDDLE & END LETTER | P: A type of kids' book | a popup
+right: Ashok
+Wrong: 
+Value: $800
+Number: 23
+THE WIZ | Nicolas Cage trains Jay Baruchel in this Disney film whose title harks back to "Fantasia" | The Sorcerer's Apprentice
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+EASEL DOWN THE ROAD | Camille Pissarro showed this city in his <http://www.j-archive.com/media/2013-02-19_DJ_22.jpg> painting detailing the Avenue de l'Opéra | Paris
+right: Dave
+Wrong: 
+Value: $800
+Number: 22
+BRIDES OF SHAKESPEARE | Emilia | Iago
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+THE LIFE OF A GENIUS | They'll want your intellect at these Murray Hill, N.J. labs, the longtime research & development arm of AT&T | Bell labs
+right: Dave
+Wrong: 
+Value: DD: $2,500
+Number: 8
+G.I. JOES | This general dubbed "Fighting Joe" briefly commanded the army of the Potomac | (Joe) Hooker
+right: Ashok
+Wrong: 
+Value: $1200
+Number: 11
+THE BEGINNING, MIDDLE & END LETTER | T: A healing term, or a story outline of a film | a treatment
+right: Dave
+Wrong: 
+Value: $1200
+Number: 24
+THE WIZ | In "Eragon", a battle against the evil wizard Durza begins when a boy finds an egg that hatches into one of these | a dragon
+right: Dave
+Wrong: 
+Value: $1200
+Number: 16
+EASEL DOWN THE ROAD | His conversion <http://www.j-archive.com/media/2013-02-19_DJ_27.jpg> seen <http://www.j-archive.com/media/2013-02-19_DJ_27a.jpg> here took place on the road to Damascus | St. Paul
+right: Ashok
+Wrong: 
+Value: $1200
+Number: 27
+BRIDES OF SHAKESPEARE | Octavia | Mark Antony
+right: 
+Wrong: Triple Stumper
+Patrick: Who is Brutus?
+Value: $1600
+Number: 4
+THE LIFE OF A GENIUS | Debunked in 1989? Maybe so, but you know you can create this room-temperature nuclear reaction | cold fusion
+right: Dave
+Wrong: 
+Value: $1600
+Number: 19
+G.I. JOES | Last name of the 5 sailor brothers including Joseph who were killed when their ship was sunk in the battle of Guadalcanal | Sullivan
+right: Dave
+Wrong: 
+Value: $1600
+Number: 12
+THE BEGINNING, MIDDLE & END LETTER | A: The crop feed also called purple medic | alfalfa
+right: 
+Wrong: 
+Value: DD: $3,500
+Number: 25
+THE WIZ | This "Aladdin" sorcerer's title is Grand Vizier of the Sultan of Agrabah | Jafar
+right: Ashok
+Wrong: 
+Value: $1600
+Number: 17
+EASEL DOWN THE ROAD | Seen <http://www.j-archive.com/media/2013-02-19_DJ_28.jpg> here is John Linton Chapman's <http://www.j-archive.com/media/2013-02-19_DJ_28a.jpg> depiction of this ancient Roman road | the Appian Way
+right: Dave
+Wrong: 
+Value: $1600
+Number: 28
+BRIDES OF SHAKESPEARE | Hippolyta | Theseus
+right: 
+Wrong: Triple Stumper
+Patrick: Who is Oberon?
+Value: $2000
+Number: 5
+THE LIFE OF A GENIUS | Solve previously unsolved math problem, get this medal named for Canadian math professor John | Fields
+right: Ashok
+Wrong: 
+Value: $2000
+Number: 30
+G.I. JOES | Nicknamed "Vinegar Joe", he was commanding general of U.S. forces in China, Burma & India during WWII | Vinegar Joe Stillwell
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+THE BEGINNING, MIDDLE & END LETTER | U: Swahili for independence | uhuru
+right: Patrick
+Wrong: 
+Value: $2000
+Number: 26
+THE WIZ | The evil wizard Leezar causes problems for Natalie Portman & Danny McBride in this 2011 comedy | Your Highness
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+EASEL DOWN THE ROAD | This 20th century Swiss artist's painting <http://www.j-archive.com/media/2013-02-19_DJ_29.jpg> Highways and Byways really gives me Wanderlust | Paul Klee
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Patrick: $5,000
+Dave: $12,600
+Ashok: $12,400
+
+Final Jeopardy! Round
+THE NEW 7 WONDERS OF THE WORLD | On the new list chosen in 2007, this wonder designed by Heitor da Silva Costa is the only statue | Christ the Redeemer
+right: Dave
+Wrong: 
+Patrick: What is the Christ in Rio de Janeiro?
+Ashok: What is the statue of Mary in Brazil?
+Wagers: 
+Patrick: $4,011
+Ashok: $400
+Dave: $2,500
+Final scores:
+Patrick: $989 (3rd place: $5,000 if eliminated)
+Dave: $15,100 (Automatic semifinalist)
+Ashok: $12,000 (2nd place: $5,000 if eliminated)
+
+Coryat scores
+Patrick: $4,800 (15 R(including 1 DD),3 W)
+Dave: $14,800 (20 R(including 1 DD),5 W(including 1 DD))
+Ashok: $12,400 (14 R,0 W)

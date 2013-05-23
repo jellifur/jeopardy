@@ -1,0 +1,350 @@
+2876 - Monday, February 17, 1997
+Comments: Grace Veach game 1.
+Contestants:
+Grace Veach: a librarian from Decatur, Illinois
+Steve McManus: a systems administrator from Columbia, South Carolina
+Joyce Sturgill: a remedial English teacher from Fort Pierce, Florida (whose 1-day cash winnings total $7,001)
+First Jeopardy! Round: PRESIDENTS' BIRTHDAYS, NATURE, TELEVISION, U.S. STATES, CROSSES, ALL "AMERICAN"
+PRESIDENTS' BIRTHDAYS | Jimmy Carter was born October 1, 1924 in this Georgia city | Plains
+right: Joyce
+Wrong: 
+Value: $100
+Number: 4
+NATURE | This largest living bird may live 70 years | ostrich
+right: Grace
+Wrong: 
+Value: $100
+Number: 1
+TELEVISION | This comedian's TV roles have included Alexander Scott, Dr. Cliff Huxtable & Hilton Lucas | Bill Cosby
+right: Grace
+Wrong: 
+Value: $100
+Number: 9
+U.S. STATES | This "Show-Me State" has also been called the "Gateway to the West" | Missouri
+right: Joyce
+Wrong: 
+Value: $100
+Number: 10
+CROSSES | A crusader's white cross on a field of red, used by a canton in the 13th century, became this country's flag | Switzerland
+right: Grace
+Wrong: 
+Value: $100
+Number: 15
+ALL "AMERICAN" | Europeans know this once popular rose of Madame Ferdinand Jamin | American Beauty
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 24
+PRESIDENTS' BIRTHDAYS | On December 28, 1856, Woodrow Wilson became the eighth president born in this state | Virginia
+right: Joyce
+Wrong: 
+Value: $200
+Number: 5
+NATURE | Species of this "masked" mammal include the North American & the crab-eating | raccoon
+right: Grace
+Wrong: 
+Value: $200
+Number: 2
+TELEVISION | In a 1981 TV movie, the castaways from this series met the Harlem Globetrotters | Gilligan's Island
+right: Grace
+Wrong: 
+Value: $200
+Number: 18
+U.S. STATES | About one-third of this state's industrial workers are employed in the auto industry | Michigan
+right: Joyce
+Wrong: 
+Value: $200
+Number: 11
+CROSSES | In England this game is called noughts & crosses | tic-tac-toe
+right: Grace
+Wrong: 
+Value: $200
+Number: 16
+ALL "AMERICAN" | "Barrister" is a quarterly publication of this organization | American Bar Association
+right: Joyce
+Wrong: 
+Value: $200
+Number: 25
+PRESIDENTS' BIRTHDAYS | The fact that the 22nd & 24th presidents share a March 18, 1837 birthday isn't odd; they're both this man | Grover Cleveland
+right: Grace
+Wrong: 
+Value: $300
+Number: 6
+NATURE | Most of the world's lemurs live on this island off Africa's east coast | Madagascar
+right: Steve
+Wrong: 
+Value: $300
+Number: 3
+TELEVISION | For 3 months in 1950, this red-haired entertainer had a series on which he gave ukulele lessons | Arthur Godfrey
+right: Joyce
+Wrong: 
+Steve: Who is Arthur.....?
+Value: $300
+Number: 21
+U.S. STATES | This state's lowest point, 320 feet, lies at the junction of the Wabash & the Ohio Rivers | Indiana
+right: 
+Wrong: 
+Joyce: What is Kentucky?
+Value: DD: $500
+Number: 12
+CROSSES | The Chi-Rho cross is formed from the first 2 letters of his title in Greek | Jesus
+right: Joyce
+Wrong: 
+Value: $300
+Number: 17
+ALL "AMERICAN" | Grant Wood's sister, who appears in this famous painting, was once a subject on "To Tell The Truth" | "American Gothic"
+right: Steve
+Wrong: 
+Value: $300
+Number: 26
+PRESIDENTS' BIRTHDAYS | He was born August 20, 1833 & named for his great-grand-father, not his grandfather who was president | Benjamin Harrison
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+NATURE | The Harpy type of this bird lives in South American rain forests & preys on monkeys & other mammals | eagle
+right: Joyce
+Wrong: 
+Value: $400
+Number: 7
+TELEVISION | On "The Dick Van Dyke Show", Rob Petrie was a comedy writer for this series | The Alan Brady Show
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+U.S. STATES | Laughlin is this state's southernmost city | Nevada
+right: 
+Wrong: Triple Stumper
+Steve: What is Texas?
+Value: $400
+Number: 13
+CROSSES | The St. Andrew's cross resembles this math sign | multiplication
+right: Grace
+Wrong: 
+Joyce: What is division?
+Value: $400
+Number: 19
+ALL "AMERICAN" | The screenplay for this Gene Kelly - Leslie Caron musical was written by Alan Jay Lerner | An American in Paris
+right: Grace
+Wrong: 
+Value: $400
+Number: 29
+PRESIDENTS' BIRTHDAYS | He was born to a blacksmith's wife August 10, 1874 in West Branch, Iowa | Herbert Hoover
+right: Grace
+Wrong: 
+Value: $500
+Number: 28
+NATURE | The Marco Polo variety of this mammal is so named because Marco Polo was the first to describe it | sheep
+right: 
+Wrong: Triple Stumper
+Joyce: What is a panda?
+Steve: What is a camel?
+Value: $500
+Number: 8
+TELEVISION | On "The Munsters", it was Eddie Munster's middle name | Wolfgang
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 23
+U.S. STATES | This state has 2 national monuments:  the Hagerman fossil beds & craters of the moon | Idaho
+right: Grace
+Wrong: 
+Joyce: What is New Mexico?
+Value: $500
+Number: 14
+CROSSES | The Crux Ansata, a tau cross with a loop on top, is known as this to Egyptians | ankh
+right: Grace
+Wrong: 
+Value: $500
+Number: 20
+ALL "AMERICAN" | General Grant & his wife were supposed to attend this play with the Lincolns, but changed their minds | Our American Cousin
+right: Grace
+Wrong: 
+Joyce: What is "American Cousin?"
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Joyce: $0
+Steve: -$600
+Grace: $700
+Scores at the end of the Jeopardy! Round:
+Joyce: -$600
+Steve: -$200
+Grace: $4,000
+Second Jeopardy! Round: CANADA, NUTRITION, POP-ROCK, HISTORY, AUTHORS & THEIR WORKS, FASHION
+CANADA | Canadians celebrate Canada Day on this date, 3 days before our national holiday | July 1
+right: Steve
+Wrong: 
+Value: $200
+Number: 19
+NUTRITION | Cooking fruits & vegetables with this appliance retains more vitamin C than steaming, baking, or broiling | microwave oven
+right: Grace
+Wrong: 
+Value: $200
+Number: 5
+POP-ROCK | In 1996 the Fugees had a hit with a remake of this Roberta Flack song | "Killing Me Softly"
+right: Grace
+Wrong: 
+Value: $200
+Number: 11
+HISTORY | In 47 B.C. he reported to the Romans on his victory at Zela, "Veni, Vidi, Vici" | Julius Caesar
+right: Grace
+Wrong: 
+Value: $200
+Number: 2
+AUTHORS & THEIR WORKS | His famous story "The Snows of Kilimanjaro" was originally published in Esquire in 1936 | Ernest Hemingway
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+FASHION | It's the part of a button-down shirt that buttons down | collar
+right: Steve
+Wrong: 
+Value: $200
+Number: 3
+CANADA | Nanaimo & Victoria are the 2 major cities on this Pacific island known for its picturesque fjords | Vancouver Island
+right: Grace
+Wrong: 
+Value: $400
+Number: 20
+NUTRITION | Clinical tests have shown this pungent bulb, allium sativum, can lower both cholesterol & blood pressure | garlic
+right: Joyce
+Wrong: 
+Value: $400
+Number: 6
+POP-ROCK | In 1996 this Steve Perry group released "Trial By Fire", its first album of new material in a decade | Journey
+right: Steve
+Wrong: 
+Value: $400
+Number: 12
+HISTORY | She was ruler of Russia when it fought 2 wars against the Ottoman Empire, 1768-1774 & 1787-1791 | Catherine the Great
+right: Grace
+Wrong: 
+Value: $400
+Number: 4
+AUTHORS & THEIR WORKS | This "Kidnapped" author wrote about a real journey he made in "Travels With a Donkey in the Cevennes" | Robert Louis Stevenson
+right: Grace
+Wrong: 
+Value: $400
+Number: 7
+FASHION | Exquisite gloves are made from this material, the leather of young goats | kid
+right: Joyce
+Wrong: 
+Value: $400
+Number: 27
+CANADA | The smallest Maritime province, it has the largest name | Prince Edward Island
+right: Grace
+Wrong: 
+Value: $600
+Number: 21
+NUTRITION | This trace mineral, Se, may slow down the aging process by attacking free radicals in the body | selenium
+right: Joyce
+Wrong: 
+Value: $600
+Number: 8
+POP-ROCK | The "Twister" soundtrack features a duet by Stevie Nicks & Lindsey Buckingham, once of this group | Fleetwood Mac
+right: Grace
+Wrong: 
+Value: $600
+Number: 24
+HISTORY | In 218 B.C. this Carthaginian defeated the Romans at the Trebia River | Hannibal
+right: Grace
+Wrong: 
+Value: $600
+Number: 13
+AUTHORS & THEIR WORKS | This "Vanity Fair" author's novel "The Virginians", is a sequel to "Henry Esmond" | William Makepeace Thackeray
+right: Steve
+Wrong: 
+Value: $600
+Number: 16
+FASHION | The "little" cocktail dress of this color has been in fashion most of the century | black
+right: Joyce
+Wrong: 
+Value: $600
+Number: 28
+CANADA | The June 6, 1996 "Us & Them" comic strip wondered how many Americans could name this person, Canada's P.M. | Jean Chretien
+right: Grace
+Wrong: 
+Value: DD: $600
+Number: 22
+NUTRITION | Pyridoxine, biotin & niacin are members of this water-soluble vitamin complex | B vitamin
+right: Grace
+Wrong: 
+Value: $800
+Number: 9
+POP-ROCK | If you've got a "Fast Car", you can pick up her 1995 album "New Beginning" | Tracy Chapman
+right: Steve
+Wrong: 
+Value: $800
+Number: 25
+HISTORY | In 325 he convened the Council of Nicaea to determine the divinity of Christ | Constantine
+right: Steve
+Wrong: 
+Value: $800
+Number: 14
+AUTHORS & THEIR WORKS | "Clowns' Houses" is a book of poetry by this sister of Osbert & Sacheverell Sitwell | Edith Sitwell
+right: Joyce
+Wrong: 
+Value: $800
+Number: 17
+FASHION | This term for an exaggeratedly full hairstyle can also apply to a full skirt | bouffant
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+CANADA | Nunavut, currently part of this Canadian area, will become a territory itself by 1999 | Northwest Territories
+right: Steve
+Wrong: 
+Joyce: What is the Yukon Territory?
+Value: $1000
+Number: 23
+NUTRITION | Abundant in spinach & broccoli, this substance must be converted to vitamin A before a body can use it | carotene
+right: 
+Wrong: 
+Grace: What is Riboflavin?
+Value: DD: $500
+Number: 10
+POP-ROCK | In 1995 this former lead singer for 10,000 Maniacs released her debut solo album "Tigerlily" | Natalie Merchant
+right: Grace
+Wrong: 
+Value: $1000
+Number: 26
+HISTORY | In 1821 Panama broke away from Spanish rule & became a province of this country | Colombia
+right: Joyce
+Wrong: 
+Steve: What is Venezuela?
+Value: $1000
+Number: 15
+AUTHORS & THEIR WORKS | This Texan set her novella "Noon Wine" on a Texas dairy farm, not on a "Ship of Fools" | Katherine Anne Porter
+right: Joyce
+Wrong: 
+Value: $1000
+Number: 18
+FASHION | This man born in Piacenza, Italy pioneered a softer, unstructured look for corporate women | Giorgio Armani
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Joyce: $3,200
+Steve: $3,000
+Grace: $9,500
+
+Final Jeopardy! Round
+FAMOUS FAMILIES | Chicago's Fire Academy was built in 1960 on the site where this family once lived | The O'Learys
+right: Steve | Grace
+Wrong: 
+Joyce: Who are the Dal...?
+Wagers: 
+Steve: $2,995
+Joyce: $3,001
+Grace: $1,000
+Final scores:
+Joyce: $199 (3rd place: Swintec Fax Machine)
+Steve: $5,995 (2nd place: a trip to Washington, D.C.)
+Grace: $10,500 (New champion: $10,500)
+
+Coryat scores
+Joyce: $3,700 (15 R,6 W(including 1 DD))
+Steve: $3,000 (11 R,4 W)
+Grace: $10,200 (25 R(including 1 DD),1 W(including 1 DD))

@@ -1,0 +1,341 @@
+6529 - Thursday, January 24, 2013
+Comments: Joshua Brakhage game 2.
+Contestants:
+Waymond Mitchell: a quotation specialist from Houston, Texas
+Zora Shinn: a retired attorney from Solvang, California
+Joshua Brakhage: a TV news producer originally from South Coffeyville, Oklahoma (whose 1-day cash winnings total $20,006)
+First Jeopardy! Round: LET'S MAKE A QUILT, GEO-POLITICIANS, "L" CAN EAT, AUTHOR! AUTHOR!, EYE ON SPORTS, VOWELICIOUS
+LET'S MAKE A QUILT | This "mad" patchwork quilt is made from irregular or scrap pieces sewn in no particular pattern or design | a crazy quilt
+right: Zora
+Wrong: 
+Value: $200
+Number: 22
+GEO-POLITICIANS | This first signer of the Declaration of Independence has his name on several towns & a Boston Univ. student village | John Hancock
+right: Joshua
+Wrong: 
+Value: $200
+Number: 16
+"L" CAN EAT | This twisty candy was used to make the shoe Charlie Chaplin ate in "The Gold Rush" | licorice
+right: Waymond
+Wrong: 
+Value: $200
+Number: 1
+AUTHOR! AUTHOR! | Born in a slum, he was admitted to the University of Copenhagen in 1828; his first book of fairy tales came 7 years later | Hans Christian Andersen
+right: Joshua
+Wrong: 
+Value: $200
+Number: 11
+EYE ON SPORTS | <http://www.j-archive.com/media/2013-01-24_J_06.jpg> She began wearing glasses in 1985; that didn't stop her from being the world's number one tennis player that year and in '86 | Martina Navratilova
+right: Waymond
+Wrong: 
+Value: $200
+Number: 6
+VOWELICIOUS | If you "paddle your own" this transport, you manage independently | a canoe
+right: Zora
+Wrong: 
+Value: $200
+Number: 21
+LET'S MAKE A QUILT | The 19th-century <http://www.j-archive.com/media/2013-01-24_J_23.jpg> style of <http://www.j-archive.com/media/2013-01-24_J_23a.jpg> quilt named for this Maryland city can fetch 6-figure sums at auctions today | a Baltimore quilt
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 23
+GEO-POLITICIANS | J. Strom Thurmond lake lies on the border of Georgia & this state represented by Senator Thurmond for 48 years | South Carolina
+right: Zora
+Wrong: 
+Value: $400
+Number: 17
+"L" CAN EAT | In Lombardy this layered dish is a Christmastime specialty, with the sheets of pasta symbolizing Jesus' swaddling clothes | lasagna
+right: Joshua
+Wrong: 
+Value: $400
+Number: 2
+AUTHOR! AUTHOR! | The 8th child of sharecroppers & a writer of "purple" prose, she was blinded in one eye in a childhood accident | Alice Walker
+right: Waymond
+Wrong: 
+Value: $400
+Number: 12
+EYE ON SPORTS | The Nike-designed eyewear of Amare Stoudemire, now of this team, survived tests including a 90-mph squash ball | New York Knicks
+right: Joshua
+Wrong: 
+Waymond: Who is Amare Stoudemire?
+Value: $400
+Number: 7
+VOWELICIOUS | Aloha!  This 4-stringed instrument is related to the guitar | a ukulele
+right: Joshua
+Wrong: 
+Value: $400
+Number: 25
+LET'S MAKE A QUILT | This layer inside a quilt that provides thickness & warmth sounds like an activity for Josh Hamilton | batting
+right: Joshua
+Wrong: 
+Value: $600
+Number: 24
+GEO-POLITICIANS | Alamo is the seat of the Tennessee county named for this frontiersman and Congressman | Davy Crockett
+right: 
+Wrong: 
+Zora: Who is Daniel Boone?
+Value: DD: $800
+Number: 18
+"L" CAN EAT | To prepare this Thermidor style, mix the meat with a Béchamel sauce & spoon it back into the shells | lobster
+right: Joshua
+Wrong: 
+Value: $600
+Number: 3
+AUTHOR! AUTHOR! | In 1994 Candace Bushnell created a column called this; in '95, it was sold as a book; then in '96, to HBO | Sex and the City
+right: Joshua
+Wrong: 
+Value: $600
+Number: 13
+EYE ON SPORTS | Aided by 20/10 vision, this Red Sox "splendid splinter" won the 1958 batting title at age 40 | Ted Williams
+right: Waymond
+Wrong: 
+Value: $600
+Number: 8
+VOWELICIOUS | When it's midnight at this small, fertile desert area with a well, send your camel to bed | an oasis
+right: Zora
+Wrong: 
+Value: $600
+Number: 26
+LET'S MAKE A QUILT | These social gatherings where women would make quilts together were a popular feature of frontier life | a bee
+right: Joshua
+Wrong: 
+Value: $800
+Number: 29
+GEO-POLITICIANS | The last U.S. president to have a county named for him (in N.M.), he may be best known for the Teapot Dome scandal | (Warren G.) Harding
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+"L" CAN EAT | Delicate sponge cake in the shape of a digit | ladyfinger
+right: Joshua
+Wrong: 
+Value: $800
+Number: 4
+AUTHOR! AUTHOR! | His volunteering to take mind-altering drugs as a test subject at a hospital led to a 1962 novel, his best-known work | Ken Kesey
+right: Zora
+Wrong: 
+Value: $800
+Number: 14
+EYE ON SPORTS | Saying he'd be considered legally blind without specs, this golfer got LASIK in 1999, then--natch--won the Disney Classic | Tiger Woods
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+VOWELICIOUS | It now means rules of social behavior; in French it meant a posting of military orders | etiquette
+right: Waymond
+Wrong: 
+Value: $800
+Number: 27
+LET'S MAKE A QUILT | Quilts may be pieced, where shapes are cut & sewn together, or this, where cut pieces are sewn to a background | appliqué
+right: Zora
+Wrong: 
+Value: $1000
+Number: 30
+GEO-POLITICIANS | This 5'4" "Little Giant" who debated Abraham Lincoln has an 11,300' mountain named for him in Montana | Stephen Douglas
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 20
+"L" CAN EAT | Make sure you have plenty of schmear to go with this brand of bagels that went frozen in 1962 | Lender's
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 5
+AUTHOR! AUTHOR! | This author who said welcome to "The Jungle" organized the epic (end poverty in Calif.) movement in the 1930s | Upton Sinclair
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 15
+EYE ON SPORTS | On April 18, 1956 Ed Rommel became the first man with this job to wear eyeglasses during work | (baseball) umpire
+right: Waymond
+Wrong: 
+Joshua: What's a referee?
+Value: $1000
+Number: 10
+VOWELICIOUS | Propeller is one type of this skullcap | a beanie
+right: Waymond
+Wrong: 
+Joshua: What's a yarmulke?
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Joshua: $4,000
+Zora: $800
+Waymond: $2,000
+Scores at the end of the Jeopardy! Round:
+Joshua: $6,000
+Zora: $2,400
+Waymond: $3,800
+Second Jeopardy! Round: ROMAN ALONG, NONMUSICAL INSTRUMENTS, WATERFALLS, WEATHER SONGS, BACK WORDS, "BOUND" FOR GLORY
+ROMAN ALONG | The building of this arena was begun by Vespasian around 70 A.D. & finished by his son Titus in 80 | the Colosseum
+right: Zora
+Wrong: 
+Value: $400
+Number: 6
+NONMUSICAL INSTRUMENTS | Used car sellers beware--rolling back this instrument to show lower mileage is illegal | odometer
+right: Joshua
+Wrong: 
+Value: $400
+Number: 11
+WATERFALLS | David Livingstone sighted these falls on Nov. 16, 1855 & named them for the monarch | Victoria Falls
+right: Joshua
+Wrong: 
+Value: $400
+Number: 22
+WEATHER SONGS | "Riders On The Storm" was the last song this Doors vocalist ever recorded; he died in Paris a few months later | Jim Morrison
+right: Zora
+Wrong: 
+Value: $400
+Number: 1
+BACK WORDS | Between the vertebrae are these, which are mostly fibrocartilage & act as shock absorbers | discs
+right: Zora
+Wrong: 
+Value: $400
+Number: 12
+"BOUND" FOR GLORY | To increase rapidly is to "grow by" this 3-word phrase | leaps and bounds
+right: Joshua
+Wrong: 
+Value: $400
+Number: 14
+ROMAN ALONG | Organized by Augustus in 6 A.D., the Vigiles were a group of these, who might have helped when Nero took over | firemen
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+NONMUSICAL INSTRUMENTS | A doctor uses a cardiotachometer to record & time this | heartbeat (or heart rate)
+right: Joshua
+Wrong: 
+Value: $800
+Number: 13
+WATERFALLS | Entering the valley of <http://www.j-archive.com/media/2013-01-24_DJ_23.jpg> this national park, you may fall in love with Bridalveil Fall | Yosemite
+right: Zora
+Wrong: 
+Value: $800
+Number: 23
+WEATHER SONGS | "The answer, my friend", is this No. 2 Peter, Paul & Mary song written by Bob Dylan | "Blowin' In The Wind"
+right: Zora
+Wrong: 
+Value: $800
+Number: 2
+BACK WORDS | It's Latin for "of the back" & follows latissimus in the name of the broadest muscles of the back | dorsi
+right: Zora
+Wrong: 
+Waymond: What is dorsal?
+Value: $800
+Number: 27
+"BOUND" FOR GLORY | To exist in plenty | abound
+right: Joshua
+Wrong: 
+Value: $800
+Number: 15
+ROMAN ALONG | He was Julius Caesar's wingman, leading the left wing of Caesar's troops in the Battle of Pharsalus | Marc Antony
+right: Joshua
+Wrong: 
+Waymond: Who was Pompey?
+Value: $1200
+Number: 8
+NONMUSICAL INSTRUMENTS | This instrument of torture consisted of a human-sized case in the form of a woman & studded with sharp spikes | iron maiden
+right: Zora
+Wrong: 
+Value: $1200
+Number: 19
+WATERFALLS | You can take an elevator to the base of this waterfall to visit the Cave of the Winds, which is behind it | Niagara Falls
+right: Waymond
+Wrong: 
+Value: $1200
+Number: 24
+WEATHER SONGS | John Fogerty wrote this group's protest song "Who'll Stop The Rain" | Creedence Clearwater Revival
+right: Waymond
+Wrong: 
+Value: $1200
+Number: 3
+BACK WORDS | SBA is short for this association that helps those with a certain neural tube defect, the SB in its name | spina bifida
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+"BOUND" FOR GLORY | After a breakup, you're "on" this | the rebound
+right: Waymond
+Wrong: 
+Value: $1200
+Number: 16
+ROMAN ALONG | In 321 A.D. this emperor declared Sunday the legal day of rest & religious worship | Constantine
+right: Zora
+Wrong: 
+Value: $1600
+Number: 9
+NONMUSICAL INSTRUMENTS | A nephograph is an instrument for photographing these in the sky | clouds
+right: Waymond
+Wrong: 
+Value: $1600
+Number: 20
+WATERFALLS | Ironically, it leaps from a plateau whose name means "devil's mountain" | Angel Falls
+right: Waymond
+Wrong: 
+Value: DD: $2,000
+Number: 25
+WEATHER SONGS | In this 1963 hit Martha & the Vandellas sang, "whenever I'm with him something inside starts to burning" | "Heat Wave"
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+BACK WORDS | The wearing of a brace & surgery are possible treatments for this common lateral curvature of the spine | scoliosis
+right: Zora
+Wrong: 
+Value: $1600
+Number: 29
+"BOUND" FOR GLORY | A rogue or cad | bounder
+right: Zora
+Wrong: 
+Value: $1600
+Number: 17
+ROMAN ALONG | In 212 this emperor known for his baths extended Roman citizenship to all free persons of the empire | Caracalla
+right: Zora
+Wrong: 
+Value: $2000
+Number: 10
+NONMUSICAL INSTRUMENTS | This instrument that records respiratory movements shares its name with a classic drawing kit | spirograph
+right: 
+Wrong: 
+Waymond: What is an Etch-a-Sketch?
+Value: DD: $5,000
+Number: 21
+WATERFALLS | A spectacular group of waterfalls in Norway has this numerical name, like the Pleiades | the seven sisters
+right: Waymond
+Wrong: 
+Value: $2000
+Number: 26
+WEATHER SONGS | In 1970 Anne Murray told it to "spread your tiny wings & fly away" | "Snowbird"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+"BOUND" FOR GLORY | 2012 marks the golden anniversary of the U.S. branch of this outdoor education program | Outward Bound
+right: Zora
+Wrong: 
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Joshua: $10,000
+Zora: $16,000
+Waymond: $5,200
+
+Final Jeopardy! Round
+OLYMPIC HOST CITIES | When this city hosted the XIV Winter Olympics, it was located in a different nation than today | Sarajevo
+right: Waymond | Joshua
+Wrong: 
+Zora: What is Seoul
+Wagers: 
+Waymond: $5,200
+Joshua: $10,000
+Zora: $4,100
+Final scores:
+Joshua: $20,000 (2-day champion: $40,006)
+Zora: $11,900 (2nd place: $2,000)
+Waymond: $10,400 (3rd place: $1,000)
+
+Coryat scores
+Joshua: $10,000 (19 R,2 W)
+Zora: $16,800 (18 R,1 W(including 1 DD))
+Waymond: $9,800 (13 R(including 1 DD),5 W(including 1 DD))

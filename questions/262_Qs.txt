@@ -1,0 +1,346 @@
+4750 - Friday, April 8, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 1, game 43.
+Contestants:
+Phil Yellman: a legal assistant from Seattle, Washington
+Trevor Norris: a budget analyst from Washington, D.C.
+Josh DenHartog: an actuarial technician from Thousand Oaks, California
+First Jeopardy! Round: JON STEWART'S  AMERICA, JOBS IN THE ARTS, NOBEL, PULITZER OR BOTH, I'LL TAKE MANHATTAN, "TOM", LET'S ROCK!
+JON STEWART'S  AMERICA | In the "Unelectable Founders" section, an "achievement" of his is "all-time record holder, most places slept" | Washington
+right: Josh
+Wrong: 
+Value: $200
+Number: 19
+JOBS IN THE ARTS | At the theatre it's the sole job of--Line!--following the script & reminding actors what to say next | prompter
+right: 
+Wrong: Triple Stumper
+Josh: What's the cue card person?
+Value: $200
+Number: 23
+NOBEL, PULITZER OR BOTH | Ernest Hemingway | both
+right: Phil
+Wrong: 
+Value: $200
+Number: 17
+I'LL TAKE MANHATTAN | Stroll down this avenue if you want to shop at Bergdorf's or Saks | Fifth Avenue
+right: Trevor
+Wrong: 
+Value: $200
+Number: 11
+"TOM" | Ths science of dealing with the structure of animals | anatomy
+right: Josh
+Wrong: 
+Value: $200
+Number: 6
+LET'S ROCK! | The Rolling Stones were inducted into it in 1989; meanwhile, The Comateens remain unjustly excluded | The Rock & Roll Hall of Fame
+right: Josh
+Wrong: 
+Value: $200
+Number: 1
+JON STEWART'S  AMERICA | If this woman "was alive and sewing American flags today, she'd be a 13-year-old Laotian boy" | Betsy Ross
+right: Trevor
+Wrong: 
+Value: $400
+Number: 13
+JOBS IN THE ARTS | Elmer Booze has gained (moderate) fame doing this for piano virtuosos as they perform | turn pages
+right: Josh
+Wrong: 
+Value: $400
+Number: 24
+NOBEL, PULITZER OR BOTH | Norman Mailer | Pulitzer
+right: Josh
+Wrong: 
+Value: $400
+Number: 18
+I'LL TAKE MANHATTAN | The Empire State Building took the title of tallest building in the world away from this Manhattan skyscraper | the Chrysler Building
+right: Josh
+Wrong: 
+Value: $400
+Number: 12
+"TOM" | From the Greek for "theft", it's a person with an irresistible need to steal | a kleptomaniac
+right: Trevor
+Wrong: 
+Value: $400
+Number: 7
+LET'S ROCK! | In this movie Jack Black plays Dewey Finn, who tries to turn a prep class into a band | School of Rock
+right: Josh
+Wrong: 
+Phil: What is Schoolhouse Rock?
+Value: $400
+Number: 2
+JON STEWART'S  AMERICA | He "wrote immortal maxims like '$2,145.34 saved is $2,145.34 earned.'  (Figures adjusted for inflation)" | Franklin
+right: Josh
+Wrong: 
+Value: $600
+Number: 20
+JOBS IN THE ARTS | In 1999 & 2000 some of these employees at the Natl. Gallery sat for David Hockney; sitting might have felt odd to them | security guards
+right: Trevor
+Wrong: 
+Value: $600
+Number: 25
+NOBEL, PULITZER OR BOTH | Robert Frost | Pulitzer
+right: Phil
+Wrong: 
+Value: $600
+Number: 28
+I'LL TAKE MANHATTAN | (<http://www.j-archive.com/media/2005-04-08_J_14.jpg> Hi, I'm Christie Whitman.)  My grandfather's company built this "city in a city", Midtown Manhattan's famous Art Deco complex | Rockefeller Center
+right: Trevor
+Wrong: 
+Phil: Who is Trump?
+Value: $600
+Number: 14
+"TOM" | The witty line "I'd rather have a bottle in front of me than" this has been attributed to Tom Waits | a frontal lobotomy
+right: Trevor
+Wrong: 
+Value: DD: $1,200
+Number: 8
+LET'S ROCK! | In 1990 the Red Hot Chili Peppers were part of the first campaign by this org. to interest youth in politics | Rock the Vote
+right: Josh
+Wrong: 
+Value: $600
+Number: 3
+JON STEWART'S  AMERICA | A listed "cause" of this country's 1978 revolution was "too much 'Shah', not enough 'Na Na'" | Iran
+right: Phil
+Wrong: 
+Value: $800
+Number: 21
+JOBS IN THE ARTS | William Hamilton is the consulting one of these muscle & joint doctors to American Ballet Theatre | orthopedist
+right: 
+Wrong: Triple Stumper
+Phil: What is a, uh...
+Value: $800
+Number: 26
+NOBEL, PULITZER OR BOTH | Saul Bellow | both
+right: Josh
+Wrong: 
+Value: $800
+Number: 29
+I'LL TAKE MANHATTAN | Take in a show at the Public Theater or Shakespeare in the Park, both founded by this producer/director | (Joseph) Papp
+right: Phil
+Wrong: 
+Value: $800
+Number: 15
+"TOM" | Southeast of Tucson, Arizona, this city bills itself as "the town too tough to die" | Tombstone
+right: Trevor
+Wrong: 
+Value: $800
+Number: 9
+LET'S ROCK! | This 2001 movie was inspired by a singer in a Judas Priest cover band who ended up joining that band | Rock Star
+right: Trevor
+Wrong: 
+Value: $800
+Number: 4
+JON STEWART'S  AMERICA | 1885 "last words" from this president: "Bury me next to my wife.  But nothing too fancy" | Grant
+right: Josh
+Wrong: 
+Value: $1000
+Number: 22
+JOBS IN THE ARTS | 13-letter word for the "super" job of nonspeaking actor onstage in an opera | supernumerary
+right: Phil
+Wrong: 
+Value: $1000
+Number: 27
+NOBEL, PULITZER OR BOTH | Isaac Bashevis Singer | Nobel
+right: Phil
+Wrong: 
+Value: $1000
+Number: 30
+I'LL TAKE MANHATTAN | (<http://www.j-archive.com/media/2005-04-08_J_16.jpg> Jimmy of the Clue Crew reports from Times Square in New York.) In the Roaring '20s, Times Square nightclubs included the El Fey, hosted by <http://www.j-archive.com/media/2005-04-08_J_16a.jpg> this gal from Waco | Texas Guinan
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+"TOM" | The functions of this federal agency were transferred to the Nuclear Regulatory Commission | the Atomic Energy Commission
+right: Phil
+Wrong: 
+Value: $1000
+Number: 10
+LET'S ROCK! | Cannons fire during AC/DC's song "For" these people "We Salute You" | "Those About To Rock"
+right: Josh
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Josh: $2,800
+Trevor: $3,800
+Phil: $600
+Scores at the end of the Jeopardy! Round:
+Josh: $6,000
+Trevor: $5,000
+Phil: $3,600
+Second Jeopardy! Round: WORLD HISTORY, VERBS, "M"-A-NATIONS, FELIX, NOTHING MORE THAN FELIX, FASHION, HEAD TO FOOT, THANK YOU, I PREFER NOT TO ROCK
+WORLD HISTORY | The "Anschluss" was the forced union of Austria with this country in 1938 | Germany
+right: Phil
+Wrong: 
+Trevor: What is Hungary?
+Value: $400
+Number: 5
+VERBS | A verb meaning "to forbid", or a leading anti-perspirant | ban
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+"M"-A-NATIONS | This country calls an 1846 to 1848 military conflict "The War of American Aggression" | Mexico
+right: Josh
+Wrong: 
+Value: $400
+Number: 13
+FELIX, NOTHING MORE THAN FELIX | Felix E. Dzerzhinsky oversaw the system of forced labor camps now known by this Russian name | gulag
+right: Josh
+Wrong: 
+Value: $400
+Number: 15
+FASHION, HEAD TO FOOT | It can be an Empire-period dress, a more shapeless flapper dress, or just the French word for shirt | chemise
+right: 
+Wrong: Triple Stumper
+Trevor: What is chapeau?
+Value: $400
+Number: 25
+THANK YOU, I PREFER NOT TO ROCK | Benedetto is the original last name of this man who's been crooning great music for decades | (Tony) Bennett
+right: Josh
+Wrong: 
+Value: $400
+Number: 9
+WORLD HISTORY | The Contras were a U.S.-backed force battling the government of this country | Nicaragua
+right: Phil
+Wrong: 
+Value: $800
+Number: 4
+VERBS | This short form of a Biblical name can also mean to banter with or tease | josh
+right: 
+Wrong: 
+Phil: No thoughts.
+Value: DD: $1,600
+Number: 7
+"M"-A-NATIONS | The city of Tangier in this country lies on the strategically important Strait of Gibraltar | Morocco
+right: Phil
+Wrong: 
+Value: $800
+Number: 16
+FELIX, NOTHING MORE THAN FELIX | Felix III was Rome-in' around when he held this post from 483 to 492 | pope
+right: Trevor
+Wrong: 
+Value: $800
+Number: 20
+FASHION, HEAD TO FOOT | Classy backless shoes include slides & these, named for an animal | mules
+right: Trevor
+Wrong: 
+Value: $800
+Number: 30
+THANK YOU, I PREFER NOT TO ROCK | Before she worked with Nelson Eddy, this singer starred in stage shows like "Yes, Yes, Yvette" | (Jeanette) MacDonald
+right: Phil
+Wrong: 
+Value: $800
+Number: 10
+WORLD HISTORY | The Irgun was a secret underground organization fighting to establish this nation | Israel
+right: Phil
+Wrong: 
+Value: $1200
+Number: 3
+VERBS | You can do it to a ball, your voice, or a game you're losing on purpose | throw
+right: Josh
+Wrong: 
+Value: $1200
+Number: 8
+"M"-A-NATIONS | This island country uses the lira as its basic unit of currency | Malta
+right: Phil
+Wrong: 
+Value: $1200
+Number: 17
+FELIX, NOTHING MORE THAN FELIX | Heard <http://www.j-archive.com/media/2005-04-08_DJ_22.mp3> here is one of the most popular works by this Felix | Mendelssohn
+right: Josh
+Wrong: 
+Value: $1200
+Number: 22
+FASHION, HEAD TO FOOT | A pencil one is narrow, hopefully not to the point that the wearer has trouble walking | a skirt
+right: Phil
+Wrong: 
+Value: $1200
+Number: 29
+THANK YOU, I PREFER NOT TO ROCK | This much-married bandleader's 1938 hit "Begin The Beguine" set him up as a rival to Benny Goodman | (Artie) Shaw
+right: Phil
+Wrong: 
+Value: $1200
+Number: 11
+WORLD HISTORY | A record of all the land in England, this "Book" was commissioned by William the Conqueror in 1085 | The Domesday Book
+right: Phil
+Wrong: 
+Value: $1600
+Number: 1
+VERBS | (<http://www.j-archive.com/media/2005-04-08_DJ_21.jpg> Sarah of the Clue Crew stands behind a woodworking project.) You can shape moldings to fit by mitering, or by doing <http://www.j-archive.com/media/2005-04-08_DJ_21a.jpg> this, a term you'll just have to deal with | coping (cope accepted)
+right: Josh
+Wrong: 
+Value: $1600
+Number: 21
+"M"-A-NATIONS | Cyberjaya, a city billed as an Asian Silicon Valley, was recently founded in this Muslim nation of 20 million | Malaysia
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 18
+FELIX, NOTHING MORE THAN FELIX | In 1999 he became a welterweight boxing champion | (Felix) Trinidad
+right: Josh
+Wrong: 
+Value: $1600
+Number: 24
+FASHION, HEAD TO FOOT | The slenderer among us can wear the wide contour type of this, also called a cincture | a belt
+right: Phil
+Wrong: 
+Josh: What's a corset?
+Value: $1600
+Number: 28
+THANK YOU, I PREFER NOT TO ROCK | Of Gypsy heritage, he became a great jazz guitarist despite losing the use of 2 fingers on his left hand | (Django) Reinhardt
+right: Josh
+Wrong: 
+Value: $1600
+Number: 12
+WORLD HISTORY | World leaders met at the Congress of this city in 1815 to decide the fate of Europe after Napoleon's defeat | Vienna
+right: Phil
+Wrong: 
+Value: DD: $1,800
+Number: 2
+VERBS | "Happy" manual term meaning to extend hearty, perhaps insincere greetings | glad-handing
+right: Phil
+Wrong: 
+Value: $2000
+Number: 23
+"M"-A-NATIONS | Timbuktu in this country was a dusty town when first visited by Europeans in the 1820s; today it bustles with 30,000 | Mali
+right: Phil
+Wrong: 
+Value: $2000
+Number: 19
+FELIX, NOTHING MORE THAN FELIX | His book "Bambi" first appeared in print in 1923; a Disney movie made it world famous | Felix Salten
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+FASHION, HEAD TO FOOT | This brand of beret that dates to 1930 suddenly got street cred when L.L. Cool J. wore it & Slick Rick sang about it | the Kangol
+right: Trevor
+Wrong: 
+Value: $2000
+Number: 27
+THANK YOU, I PREFER NOT TO ROCK | This baritone who died in 2004 was a star at the Met & at Yankee Stadium with his national anthem rendition | (Robert) Merrill
+right: Phil
+Wrong: 
+Value: $2000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+Josh: $12,800
+Trevor: $7,800
+Phil: $20,600
+
+Final Jeopardy! Round
+CHILDREN'S LITERATURE | Dr. Seuss wrote this book to win a bet that he couldn't write a book using only 50 different words | Green Eggs and Ham
+right: Trevor | Josh | Phil
+Wrong: 
+Wagers: 
+Trevor: $7,800
+Josh: $12,800
+Phil: $5,001
+Final scores:
+Josh: $25,600 (2nd place: $5,000)
+Trevor: $15,600 (3rd place: $5,000)
+Phil: $25,601 (Winner: $25,601 + an advance to UToC Round 2)
+
+Coryat scores
+Josh: $12,800 (20 R,2 W)
+Trevor: $7,200 (11 R(including 1 DD),2 W)
+Phil: $22,400 (21 R(including 1 DD),4 W(including 1 DD))

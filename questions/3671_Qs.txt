@@ -1,0 +1,316 @@
+500 - Friday, November 7, 1986
+Comments: 1986 Tournament of Champions quarterfinal game 5.
+Contestants:
+Gary Palmer: a physician from Palm Springs, California
+Guy Tonti: a telecommunications manager from Vallejo, California
+Chuck Forrest: a law student from Grand Blanc, Michigan
+First Jeopardy! Round: NUCLEAR PHYSICS, DISNEYLAND, MOVIE PAIRS, THE QUEEN'S ENGLISH, DAYS IN SONG, READ THE LABEL!
+NUCLEAR PHYSICS | The largest fusion reactor within 100 million miles of earth | sun
+right: Guy
+Wrong: 
+Value: $100
+Number: 1
+DISNEYLAND | Appropriately named sternwheeler that circles Tom Sawyer Island | Mark Twain
+right: Chuck
+Wrong: 
+Value: $100
+Number: 20
+MOVIE PAIRS | These "Buck Privates" once had insurance in case any audience member died of laughter | Abbott and Costello
+right: Chuck
+Wrong: 
+Value: $100
+Number: 15
+THE QUEEN'S ENGLISH | If you go to a "chemist's" in London, you've gone to this kind of shop | pharmacist
+right: Chuck
+Wrong: 
+Value: $100
+Number: 3
+DAYS IN SONG | According to the Mamas & The Papas, you "can't trust that day" | Monday
+right: Chuck
+Wrong: 
+Value: $100
+Number: 13
+READ THE LABEL! | If roaches could read, they'd know this is where they "check in...but they don't check out" | Roach Motel
+right: Chuck
+Wrong: 
+Value: $100
+Number: 9
+NUCLEAR PHYSICS | FDR was alerted to the military significance of nuclear fission by a letter from this scientist | Einstein
+right: Chuck
+Wrong: 
+Value: $200
+Number: 2
+MOVIE PAIRS | Tom Berenger & William Katt played this outlaw pair in their "early days" | Butch Cassidy and the Sundance Kid
+right: Gary
+Wrong: 
+Value: $200
+Number: 19
+THE QUEEN'S ENGLISH | A "serviette" | napkin
+right: Chuck
+Wrong: 
+Value: $200
+Number: 5
+DAYS IN SONG | [Audio] Title of the following headbreaking, not heartbreaking, song: | Saturday Night's Alright For Fighting
+right: 
+Wrong: 
+Chuck: What is Tuesday?
+Value: DD: $1,000
+Number: 16
+READ THE LABEL! | The "Q" on your pantyhose package means they're this | queen size
+right: Guy
+Wrong: 
+Value: $200
+Number: 11
+NUCLEAR PHYSICS | This protective material used to surround the fuel rod tubes at Chernobyl is also found in your pencil | graphite
+right: Chuck | Guy
+Wrong: 
+Value: $300
+Number: 4
+MOVIE PAIRS | They were "tapped" to star in 1985's "White Nights" | Gregory Hines and Mikhail Baryshnikov
+right: Chuck
+Wrong: 
+Gary: Who is * [2nd name] and uh, uh, blank?
+Value: $300
+Number: 22
+THE QUEEN'S ENGLISH | How a London theatrical producer would probably react to learn his play is a "bomb" | happily
+right: Chuck
+Wrong: 
+Value: $300
+Number: 7
+DAYS IN SONG | Opening line of theme song written for TV's "Happy Days" | Sunday, Monday, Happy Days
+right: Guy
+Wrong: 
+Value: $300
+Number: 17
+READ THE LABEL! | Label on this drink says it was "Authorized by decree, Emperor Napoleon III, 23 June 1863" | Perrier
+right: Guy
+Wrong: 
+Value: $300
+Number: 12
+NUCLEAR PHYSICS | Only material occuring in nature that is readily fissionable is an isotope of this | uranium
+right: Chuck
+Wrong: 
+Value: $400
+Number: 6
+MOVIE PAIRS | Howard & Shearer, or Whiting & Hussey, who were closer to the correct ages | Romeo and Juliet
+right: Chuck
+Wrong: 
+Value: $400
+Number: 23
+THE QUEEN'S ENGLISH | Someone who wants to be a "sister", but not a nun, would be interested in this profession | nursing
+right: Chuck
+Wrong: 
+Value: $400
+Number: 10
+DAYS IN SONG | This 1967 song was the 4th #1 hit in the U.S. for The Rolling Stones | Ruby Tuesday
+right: Chuck
+Wrong: 
+Value: $400
+Number: 18
+NUCLEAR PHYSICS | These negatively charged particles are found orbiting in a "cloud" around the nucleus of a stable atom | electrons
+right: Guy
+Wrong: 
+Value: $500
+Number: 8
+MOVIE PAIRS | They played the primary pair of priests in "Going My Way" | Bing Crosby and Fitzgerald
+right: Guy
+Wrong: 
+Value: $500
+Number: 24
+THE QUEEN'S ENGLISH | The British use the Eskimo word "anorak" for this | parka
+right: 
+Wrong: Triple Stumper
+Chuck: What is a winter coat, a fur coat?
+Value: $500
+Number: 14
+DAYS IN SONG | Song in which K. Kristofferson stumbled to the closet to find his cleanest dirty shirt | Sunday Morning Coming Down
+right: Chuck
+Wrong: 
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Chuck: $2,000
+Guy: $1,400
+Gary: $0
+Scores at the end of the Jeopardy! Round:
+Chuck: $2,400
+Guy: $2,200
+Gary: -$100
+Second Jeopardy! Round: WORLD HISTORY, ELECTIONS, NOVELS, SPORTS GREATS, U.S. CITIES, "MOORE" OR "LES"
+WORLD HISTORY | Effendi, bey, & pasha were titles of nobility in this country's Ottoman empire | Turkey
+right: Chuck
+Wrong: 
+Value: $200
+Number: 2
+ELECTIONS | The only 2 individuals to run for president unopposed were James Monroe & this man | George Washington
+right: Guy
+Wrong: 
+Value: $200
+Number: 3
+NOVELS | A Nora Ephron bestseller about marital pain, or a painful digestive condition | heartburn
+right: Chuck
+Wrong: 
+Value: $200
+Number: 22
+SPORTS GREATS | Baseball star whose nickname & recent autobiography are both "The Mick" | Mickey Mantle
+right: Chuck
+Wrong: 
+Value: $200
+Number: 1
+U.S. CITIES | The 1985 Live-Aid concert for African relief was held simultaneously in London & this U.S. city | Philadelphia
+right: Gary
+Wrong: 
+Value: $200
+Number: 8
+"MOORE" OR "LES" | While James Bond may not have been a "saint", he was | Roger Moore
+right: Guy
+Wrong: 
+Value: $200
+Number: 9
+WORLD HISTORY | About 1000 times as many people attended this man's 1970 Cairo funeral as attended his successor's | Nasser
+right: Gary
+Wrong: 
+Value: $400
+Number: 11
+ELECTIONS | It's been said Martin van Buren's son John was 1st to advise, "Vote early & ..." this | often
+right: Gary
+Wrong: 
+Value: $400
+Number: 14
+NOVELS | Published in 1902 & dedicated to Teddy Roosevelt, this Owen Wister novel is a western classic | The Virginian
+right: Chuck
+Wrong: 
+Value: $400
+Number: 27
+SPORTS GREATS | Though clumsy & fat as a child, Dick Button rose to stardom doing this | ice skating
+right: Gary
+Wrong: 
+Value: $400
+Number: 4
+U.S. CITIES | This Montana city is called "a mile high & a mile deep" for its elevation & its mine shafts | Butte
+right: Chuck
+Wrong: 
+Value: $400
+Number: 10
+"MOORE" OR "LES" | A model of Gibson guitar bears his name, as well it should | Les Paul
+right: Chuck
+Wrong: 
+Value: $400
+Number: 12
+WORLD HISTORY | In 1934-35, nationalist military pressure forced Mao to lead his "Red Army" on this 6000 mile trek | the long march
+right: Chuck
+Wrong: 
+Value: $600
+Number: 13
+ELECTIONS | "As Maine goes, so goes Vermont" refers to only 2 states won by him in 1936 election | Alf Landon
+right: Chuck
+Wrong: 
+Value: $600
+Number: 19
+NOVELS | Pulitzer-winning Robert Penn Warren novel, its movie adaptation won Best Picture Oscar | All The King's Men
+right: Chuck
+Wrong: 
+Value: $600
+Number: 28
+SPORTS GREATS | In 1938, Don Budge became 1st player ever to win this sport's 4 major championships in 1 year | tennis
+right: Gary
+Wrong: 
+Value: $600
+Number: 5
+U.S. CITIES | Once the westernmost outpost of the Pony Express, it became a state capital in 1854 | Sacramento
+right: Gary
+Wrong: 
+Value: DD: $700
+Number: 17
+"MOORE" OR "LES" | Completes famous epitaph: "Here lies Lester Moore, four slugs from a fourty-four..." | No Les No more.
+right: 
+Wrong: 
+Gary: I don't know.
+Value: DD: $1,000
+Number: 15
+WORLD HISTORY | In 1657, the English parliament suggested he become king, but he turned down the offer | Oliver Cromwell
+right: Gary
+Wrong: 
+Value: $800
+Number: 20
+ELECTIONS | Besides the Democrats & Republicans, this state also has 2 parties named Liberal & Conservative | New York
+right: Chuck
+Wrong: 
+Value: $800
+Number: 24
+NOVELS | R. L. Stevenson describes this novel as "Memoirs of the Adventures of David Balfour in the Year 1751" | Kidnapped
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+SPORTS GREATS | Junior Johnson, whom Tom Wolfe called "the last great American hero" starred in this sport | stock car racing
+right: 
+Wrong: Triple Stumper
+Chuck: What is wrestling?
+Value: $800
+Number: 6
+U.S. CITIES | Standing 55' high, the statue of Vulcan in this southern city is largest cast-iron statue in world | Birmingham (Alabama)
+right: Gary
+Wrong: 
+Value: $800
+Number: 18
+"MOORE" OR "LES" | In 1975, she became only mother in U.S. history to try to shoot a president | Sara Moore
+right: Gary
+Wrong: 
+Value: $800
+Number: 16
+WORLD HISTORY | His 1808 ousting of the king of Spain gave Latin American states the pretext to declare independence | Napoleon
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 23
+ELECTIONS | Though Samuel J. Tilden got more popular votes, this man became president in 1876 | Rutherford B. Hayes
+right: Chuck
+Wrong: 
+Gary: Who is Benjamin Harrison?
+Value: $1000
+Number: 25
+NOVELS | Turgenev novel that dealt with confrontation between 2 generations & popularized the word "nihilist" | Fathers And Sons
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 30
+SPORTS GREATS | It's said she lost 12 lbs. during her record-setting 1926 swim of the English Channel | (Gertrude) Ederle
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 7
+U.S. CITIES | Wright-Patterson AFB, largest air force research field in U.S. is near this 6th-largest Ohio city | Dayton
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 26
+"MOORE" OR "LES" | Though some of her verse is difficult, this Brooklyn poetess also wrote odes to the Dodgers | Marianne Moore
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Chuck: $11,000
+Guy: $2,600
+Gary: $3,000
+
+Final Jeopardy! Round
+HEALTH | Iceland shares the longest average life expectancy of 77 years with this other island country | Japan
+right: Gary
+Wrong: 
+Guy: What is Greenland?
+Chuck: What is New Zealand?
+Wagers: 
+Guy: $2,600
+Gary: $3,000
+Chuck: $1,000
+Final scores:
+Chuck: $10,000 (Automatic semifinalist)
+Guy: $0 (3rd place: $1,000 if eliminated)
+Gary: $6,000 (2nd place: $1,000 if eliminated)
+
+Coryat scores
+Chuck: $12,000 (30 R,3 W(including 1 DD))
+Guy: $2,600 (9 R,0 W)
+Gary: $3,900 (10 R(including 1 DD),3 W(including 1 DD))

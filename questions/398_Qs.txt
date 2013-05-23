@@ -1,0 +1,310 @@
+2751 - Monday, July 15, 1996
+Comments: 1996 Olympic Games Tournament semifinal game 1.
+Contestants:
+Jan Mertens: a computer programmer from Antwerp, Belgium
+Steinar Madsen: a senior medical officer from Valstad, Norway
+Elena Kislenkova: an assistant lecturer from St. Petersburg, Russia
+First Jeopardy! Round: SOUTH OF THE EQUATOR, FOOD, THE OSCARS, COMPANY SYMBOLS, HISTORIC NAMES, THE BEATLES
+FOOD | Carpacchio, an Italian dish of raw shavings of this meat, is often served with capers | beef
+right: 
+Wrong: Triple Stumper
+Jan: What is bacon?
+Value: $100
+Number: 21
+THE OSCARS | When he won for directing the Scottish epic "Braveheart", he joked "What I really want to do is act" | Mel Gibson
+right: Elena
+Wrong: 
+Value: $100
+Number: 1
+COMPANY SYMBOLS | This black-and-white flightless bird is the symbol of a British-American book company | a penguin
+right: Steinar
+Wrong: 
+Jan: What is a pelican?
+Value: $100
+Number: 11
+HISTORIC NAMES | The international airport that serves Venice is named for this explorer famous for his Asian travels | Marco Polo
+right: Steinar
+Wrong: 
+Value: $100
+Number: 16
+THE BEATLES | This drummer joined the Beatles in 1962, replacing Pete Best | Ringo Starr (Richard Starkey)
+right: Steinar
+Wrong: 
+Value: $100
+Number: 6
+FOOD | Naan, an east Indian form of this, is usually baked in a tandoor | bread
+right: Steinar
+Wrong: 
+Value: $200
+Number: 22
+THE OSCARS | She had the "Sense and Sensibility" to win an Oscar for her screenplay adapted from Jane Austen's novel | Emma Thompson
+right: Steinar
+Wrong: 
+Value: $200
+Number: 2
+COMPANY SYMBOLS | McDonald's are "golden" | the Arches
+right: Steinar
+Wrong: 
+Value: $200
+Number: 12
+HISTORIC NAMES | This spiritual & political leader of India ended his last fast just days before he was slain in 1948 | Mahatma Gandhi
+right: Elena
+Wrong: 
+Value: $200
+Number: 17
+THE BEATLES | "Yeah, Yeah, Yeah", this song was the Beatles' 2nd No. 1 hit in the U.S. after "I Want to Hold Your Hand" | "She Loves You"
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 7
+THE OSCARS | His performance as a suicidal alcoholic in "Leaving Las Vegas" won him the Best Actor Oscar | Nicolas Cage
+right: Steinar
+Wrong: 
+Value: $300
+Number: 3
+COMPANY SYMBOLS | The button fasteners on these jeans include the company name & S.F. Cal. | Levi's
+right: Steinar
+Wrong: 
+Value: $300
+Number: 13
+HISTORIC NAMES | In 1817 the remains of Peter Abelard & this woman were entombed together in a Paris cemetery | Heloise
+right: Jan
+Wrong: 
+Value: $300
+Number: 18
+THE BEATLES | This 1964 hit begins "Well she was just seventeen - you know what I mean?" | "I Just Saw Her Standing There"
+right: Jan
+Wrong: 
+Value: $300
+Number: 8
+THE OSCARS | A "champion" among actors; this star of "Spartacus" earned a honorary Oscar & a  standing ovation | Kirk Douglas
+right: Steinar
+Wrong: 
+Value: $400
+Number: 4
+COMPANY SYMBOLS | Audi's symbol is these, one fewer than the Olympics uses | 4 (interlocking) rings
+right: Jan
+Wrong: 
+Value: $400
+Number: 14
+HISTORIC NAMES | England's King Henry VIII had 3 wives named Catherine:  Catherine Howard, Catherine of Aragon & this one | Catherine Parr
+right: 
+Wrong: Triple Stumper
+Steinar: Who is Catherine of Siena?
+Value: $400
+Number: 19
+THE BEATLES | This 1964 film, the Beatles' first, received an Oscar nomination for its musical score | A Hard Day's Night
+right: 
+Wrong: Triple Stumper
+Steinar: What is Yellow Submarine?
+Jan: What is Help!?
+Value: $400
+Number: 9
+THE OSCARS | Winning for "Dead Man Walking", she told Tim Robbins, "This is yours as much as mine.  Thank God we live together!" | Susan Sarandon
+right: Jan
+Wrong: 
+Value: $500
+Number: 5
+COMPANY SYMBOLS | This Swiss wristwatch company uses a white cross on a red square as its symbol | Swatch
+right: Elena
+Wrong: 
+Value: $500
+Number: 15
+HISTORIC NAMES | In 1487 Pope Innocent VIII appointed him grand inquisitor for all of Spain | Tomas de Torquemada
+right: 
+Wrong: Triple Stumper
+Elena: Who was Loyola?
+Value: $500
+Number: 20
+THE BEATLES | Songs on this 1967 hit album include "Lucy In The Sky With Diamonds" & "With A Little Help From My Friends" | Sgt. Pepper's Lonely Hearts Club Band
+right: Jan
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Elena: $100
+Steinar: $900
+Jan: $800
+Scores at the end of the Jeopardy! Round:
+Elena: $300
+Steinar: $1,100
+Jan: $1,400
+Second Jeopardy! Round: UNITED NATIONS SECRETARIES-GENERAL, THE OLYMPICS, ART & ARTISTS, RELIGION, WORLD LITERATURE, MOUNTAINS
+UNITED NATIONS SECRETARIES-GENERAL | China vetoed this Austrian's bid for an unprecedented third term as secretary-general | Kurt Waldheim
+right: Jan
+Wrong: 
+Value: $200
+Number: 21
+THE OLYMPICS | At Antwerp in 1920, the Olympic flag debuted & these birds were first released as symbols of peace | Doves
+right: Elena
+Wrong: 
+Value: $200
+Number: 11
+ART & ARTISTS | He was in his 20's when he sculpted the "Pieta", now in St. Peter's Basilica | Michelangelo
+right: Elena
+Wrong: 
+Value: $200
+Number: 25
+RELIGION | In January of 1377, Pope Gregory XI moved the papacy back to this city | Rome
+right: Jan
+Wrong: 
+Value: $200
+Number: 12
+WORLD LITERATURE | Sancho Panza calls him "The Knight of the Sad Countenance" | Don Quixote
+right: Elena
+Wrong: 
+Value: $200
+Number: 1
+MOUNTAINS | South America's Apurimac & Marinon Rivers rise in the permanent snows & glaciers of this range | The Andes
+right: Jan
+Wrong: 
+Value: $200
+Number: 6
+UNITED NATIONS SECRETARIES-GENERAL | This current secretary-general accompanied Anwar Sadat on his historic 1977 trip to Israel | Boutros Boutros-Ghali
+right: Steinar
+Wrong: 
+Value: $400
+Number: 22
+THE OLYMPICS | With 8,611 points, Robert Zmelik of Czechoslovakia won this multi-sport event in 1992 | Decathlon
+right: Jan
+Wrong: 
+Value: $400
+Number: 17
+ART & ARTISTS | He painted tropical landscapes on Martinique before he moved to Tahiti | Paul Gauguin
+right: Elena
+Wrong: 
+Value: $400
+Number: 26
+RELIGION | In 1642 this spiritual leader became the ruler of Tibet | Dalai Lama
+right: Jan
+Wrong: 
+Value: $400
+Number: 13
+WORLD LITERATURE | This classic story collection includes "The Tales of Sinbad", "Aladdin" & "Ali Baba" | "Arabian Nights"
+right: Elena
+Wrong: 
+Value: $400
+Number: 2
+MOUNTAINS | The southern slopes of this highest Japanese mountain extend to the shore of Suruga Bay | Mt. Fuji
+right: Steinar
+Wrong: 
+Value: $400
+Number: 7
+UNITED NATIONS SECRETARIES-GENERAL | This Peruvian diplomat served with the U.N. peacekeeping mission in Cyprus from 1975-1977 | Javier Perez de Cuellar
+right: Jan
+Wrong: 
+Value: $600
+Number: 23
+THE OLYMPICS | The Olympic motto, "Citius Altius Fortius",translates to "Swifter, Higher" & this | Stronger
+right: Elena
+Wrong: 
+Value: $600
+Number: 18
+ART & ARTISTS | This Frenchman painted many portraits of ballet dancers including "Dancer With a Fan" in 1879 | Edgar Degas
+right: 
+Wrong: Triple Stumper
+Steinar: Who is Edward Degas?
+Value: $600
+Number: 27
+RELIGION | His name is a contraction of Arabic for "The God"; The Koran says he is eternal & omnipotent | Allah
+right: Elena
+Wrong: 
+Value: $600
+Number: 14
+WORLD LITERATURE | In this 1862 novel, ex-convict Jean Valjean steals the Bishop of Digne's silverware | Les Misérables
+right: Jan
+Wrong: 
+Value: $600
+Number: 3
+MOUNTAINS | Coffee & bananas are grown on the lower slopes of this mountain, the highest in Africa | Mt. Kilimanjaro
+right: Elena
+Wrong: 
+Value: $600
+Number: 8
+UNITED NATIONS SECRETARIES-GENERAL | He was press director for Burma's interim government following its vote for independence | U Thant
+right: Jan
+Wrong: 
+Value: DD: $2,600
+Number: 24
+THE OLYMPICS | The 1968 summer games in this capital city were the first telecast in color | Mexico City
+right: Steinar
+Wrong: 
+Value: $800
+Number: 19
+ART & ARTISTS | This Spanish court artist's 1620s painting "Los Borachos" or "The Drinkers" is in the Prado | Diego Velasquez
+right: 
+Wrong: Triple Stumper
+Jan: Who is Goya?
+Value: $800
+Number: 28
+RELIGION | Bodhisattvas are personifications of the virtues of this founder of a religion | Buddha
+right: Jan
+Wrong: 
+Value: $800
+Number: 15
+WORLD LITERATURE | His "The Brothers Karamazov" was translated into English in 1912, 32 years after it was 1st published | Fyodor Dostoevsky
+right: Jan
+Wrong: 
+Value: $800
+Number: 4
+MOUNTAINS | The world's 2nd-tallest mountain; it's also known as Kechu | K2 (Mt. Godwin-Austen)
+right: Jan
+Wrong: 
+Value: $800
+Number: 9
+UNITED NATIONS SECRETARIES-GENERAL | After he left office in 1953, he returned to Norway & later served in the cabinet | Trygve Lie
+right: Steinar
+Wrong: 
+Value: $1000
+Number: 30
+THE OLYMPICS | The first torch relay was run in 1936, taking the flame from Olympia, Greece to this city | Berlin
+right: Steinar
+Wrong: 
+Value: $1000
+Number: 20
+ART & ARTISTS | This Dutchman's brother Adrian may have been the model for his "The Man With the Golden Helmet" | Rembrandt
+right: 
+Wrong: 
+Elena: [No response]
+Value: DD: $2,000
+Number: 29
+RELIGION | The horseradish on the plate for this Jewish holiday symbolizes the bitterness of slavery in Egypt | Passover
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+WORLD LITERATURE | Shakespeare's "Cymbelline" is based in part on a story from this 14th c. work by Bocaccio | "The Decameron"
+right: Jan
+Wrong: 
+Value: $1000
+Number: 5
+MOUNTAINS | Both ends of this mountain chain between Romania & Slovakia lie on the Danube River | Carpathian Mountains
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Elena: $1,500
+Steinar: $4,100
+Jan: $9,200
+
+Final Jeopardy! Round
+RULERS | Last name of the last man to sit in power on the Peacock Throne | (Shah Reza) Pahlevi (of Iran)
+right: 
+Wrong: 
+Elena: What is pool...?
+Steinar: What is King Bhumibol?
+Jan: What is Yi?
+Wagers: 
+Elena: $500
+Steinar: $4,099
+Jan: $999
+Final scores:
+Elena: $1,000 (2nd place: $5,000)
+Steinar: $1 (3rd place: $5,000)
+Jan: $8,201 (Finalist)
+
+Coryat scores
+Elena: $3,500 (11 R,2 W(including 1 DD))
+Steinar: $4,100 (14 R,3 W)
+Jan: $7,400 (17 R(including 1 DD),4 W)

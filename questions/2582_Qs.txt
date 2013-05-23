@@ -1,0 +1,343 @@
+4145 - Friday, September 13, 2002
+Comments: (Cheryl: Today's topic on <i>Jeopardy!</i> is pandas--could they be any cuter?  Stay tuned!)
+Contestants:
+Richard Hannasch: a certified public accountant from Carlsbad, California
+Kandice Kerwin: an attorney from Annville, Pennsylvania
+Tom Kelso: a credit analyst from Chicago, Illinois (whose 1-day cash winnings total $28,801)
+First Jeopardy! Round: A NATION OF ASIA, FORBES MAGAZINE'S RICHEST, RODENT, MARSUPIAL OR PRIMATE, SIGNS & SYMBOLS, HELLO, NEWMAN, THE "BLUE"s
+A NATION OF ASIA | Trendy cafes called manga kissas are places teens can go to meet & read comic books in this nation | Japan
+right: Tom
+Wrong: 
+Value: $200
+Number: 6
+FORBES MAGAZINE'S RICHEST | This man is Number 1 with $53 billion; just turn on any computer if you need a clue | Bill Gates
+right: Tom
+Wrong: 
+Value: $200
+Number: 16
+RODENT, MARSUPIAL OR PRIMATE | The kangaroo rat | rodent
+right: Tom
+Wrong: 
+Value: $200
+Number: 1
+SIGNS & SYMBOLS | It's the 2-word phrase symbolized here | Handicapped access
+right: Tom
+Wrong: 
+Value: $200
+Number: 18
+HELLO, NEWMAN | Paul Newman's character kicks western outlaw Harvey Logan where it really hurts in this 1969 classic | Butch Cassidy and the Sundance Kid
+right: Richard
+Wrong: 
+Value: $200
+Number: 11
+THE "BLUE"s | Skydome is home to this Major League Baseball team | Toronto Blue Jays
+right: Kandice
+Wrong: 
+Value: $200
+Number: 17
+A NATION OF ASIA | Home to the Golden Temple & the center of the Sikh religion, the city of Amritsar is found in this nation | India
+right: Kandice
+Wrong: 
+Value: $400
+Number: 7
+FORBES MAGAZINE'S RICHEST | Son Robson inherited the bulk of his $20 billion from his dad Sam, who started this retail chain | Wal-Mart
+right: Kandice
+Wrong: 
+Value: $400
+Number: 27
+RODENT, MARSUPIAL OR PRIMATE | The rat kangaroo | marsupial
+right: Kandice
+Wrong: 
+Value: $400
+Number: 2
+SIGNS & SYMBOLS | In 1932 actress Peg Entwistle jumped to her death from the "H" in this sign | the "Hollywood" Sign
+right: Richard
+Wrong: 
+Value: $400
+Number: 20
+HELLO, NEWMAN | Told he was sexier than this "Top Gun" star, Newman quipped, "I'm lucky to have a pulse" | Tom Cruise
+right: Richard
+Wrong: 
+Value: $400
+Number: 12
+THE "BLUE"s | What a restaurant popularly calls its featured meal of the day | blue plate special
+right: Kandice
+Wrong: 
+Value: $400
+Number: 19
+A NATION OF ASIA | (Alex on location)  I'm at Namdaemun, a gate that is national treasure No. 1 of this country that was host of the 1988 Summer Olympics | South Korea
+right: Tom
+Wrong: 
+Value: $600
+Number: 8
+FORBES MAGAZINE'S RICHEST | Silvio Berlusconi not only has $7.2 billion, he was elected prime minister of this country in 2001 | Italy
+right: Tom
+Wrong: 
+Value: $600
+Number: 28
+RODENT, MARSUPIAL OR PRIMATE | The bandicoot | marsupial
+right: Tom
+Wrong: 
+Value: $600
+Number: 3
+SIGNS & SYMBOLS | Waldi, the symbol of the 1972 summer games in Munich, was a stylized one of these "wiener" dogs | dachshund
+right: Richard
+Wrong: 
+Value: $600
+Number: 21
+HELLO, NEWMAN | Newman's movie debut, "The Silver" this, also features Lorne Greene as St. Peter | The Silver Chalice
+right: Tom
+Wrong: 
+Value: $600
+Number: 13
+THE "BLUE"s | It's where Fats Domino found his thrill in a 1956 hit | "Blueberry Hill"
+right: Tom
+Wrong: 
+Value: $600
+Number: 23
+A NATION OF ASIA | In the 16th century Portuguese sailors named this island "Ilha Formosa" or "beautiful island" | Taiwan
+right: Tom
+Wrong: 
+Value: $800
+Number: 9
+FORBES MAGAZINE'S RICHEST | This Berkshire Hathaway exec. is in the Top 5 with $35 billion | Warren Buffett
+right: Richard
+Wrong: 
+Value: $800
+Number: 29
+RODENT, MARSUPIAL OR PRIMATE | The woodchuck | rodent
+right: Kandice
+Wrong: 
+Value: $800
+Number: 4
+SIGNS & SYMBOLS | (Cheryl of the Clue Crew reporting from the Atlanta Zoo)  A traditional symbol of peace, the giant panda is also the symbol of this nature organization | WWF (World Wildlife Fund)
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+HELLO, NEWMAN | Paul won an Oscar for this 1986 film in which he reprised his role of Fast Eddie Felsen | The Color of Money
+right: Tom
+Wrong: 
+Value: $800
+Number: 14
+THE "BLUE"s | It's the state flower of Texas, but keep it under your hat | bluebonnet
+right: Tom
+Wrong: 
+Value: DD: $800
+Number: 24
+A NATION OF ASIA | The statue seen here (The Golden Buddha) is found in this southeast Asian kingdom bordered by Laos & Burma | Thailand
+right: Tom
+Wrong: 
+Value: $1000
+Number: 10
+FORBES MAGAZINE'S RICHEST | Smart as a fox, this Australian-born mogul now has $5.7 billion | Rupert Murdoch
+right: Tom
+Wrong: 
+Value: $1000
+Number: 30
+RODENT, MARSUPIAL OR PRIMATE | The aye-aye | primate
+right: Kandice
+Wrong: 
+Tom: What is a marsupial?
+Value: $1000
+Number: 5
+SIGNS & SYMBOLS | One of the 2 signs of the Zodiac for July | Cancer the crab or Leo the lion
+right: Tom
+Wrong: 
+Value: $1000
+Number: 26
+HELLO, NEWMAN | Try to spot Bruce Willis as a courtroom extra in this 1982 Newman film about an alcoholic lawyer | The Verdict
+right: Richard
+Wrong: 
+Value: $1000
+Number: 15
+THE "BLUE"s | This Disney series features a whole new cast of Muppets including Ojo, Treelo & Tutter the mouse | Bear in the Big Blue House
+right: Tom
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Tom: $3,800
+Kandice: $2,600
+Richard: $1,600
+Scores at the end of the Jeopardy! Round:
+Tom: $10,000
+Kandice: $3,600
+Richard: $3,400
+Second Jeopardy! Round: FIRST THINGS FIRST, LITERARY TRANSLATIONS, LAST NAME MEANINGS, GEOLOGY TEST, "J" WALKING, THE BLUES
+FIRST THINGS FIRST | Speaking to WWI troops in 1919, this man became the first U.S. president to make a radio broadcast | Woodrow Wilson
+right: Tom
+Wrong: 
+Value: $400
+Number: 26
+LITERARY TRANSLATIONS | The epic "Voyna i mir" | War and Peace
+right: Richard
+Wrong: 
+Value: $400
+Number: 1
+LAST NAME MEANINGS | The surname Price isn't related to cost; it's from this Celtic language's "Ap Rhys", or "Son of Rhys" | Welsh
+right: Tom
+Wrong: 
+Value: $400
+Number: 17
+GEOLOGY TEST | One estimate says there are about 326 million cubic miles of this compound in, on & above the Earth | water
+right: Kandice
+Wrong: 
+Richard: What is silicon dioxide?
+Value: $400
+Number: 16
+"J" WALKING | A short moment of time to make popcorn "pop" or to get a "lube" job | jiffy
+right: Tom
+Wrong: 
+Value: $400
+Number: 11
+THE BLUES | Sonny Boy Williamson was killed at 34.  He played this "mouth organ" like nobody did before | harmonica
+right: Tom
+Wrong: 
+Value: $400
+Number: 4
+FIRST THINGS FIRST | After being bitten by a dog in 1885, Joseph Meister became the first person inoculated against this | rabies
+right: Kandice
+Wrong: 
+Value: $800
+Number: 27
+LITERARY TRANSLATIONS | Thomas Mann's thrill ride... er... read: "Der Zauberberg" | The Magic Mountain
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+LAST NAME MEANINGS | Jenkins originally meant this, the name of a pal of Robin Hood's | Little John
+right: Tom
+Wrong: 
+Value: $800
+Number: 18
+GEOLOGY TEST | It runs from the Gulf of California to the Gorda Ridge off Oregon between the North American & Pacific plates | San Andreas Fault
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+"J" WALKING | With a population of 735,000, it's the most populous city in Florida | Jacksonville
+right: Kandice
+Wrong: 
+Value: $800
+Number: 12
+THE BLUES | Last name of blues guitarists B.B. & Freddie.  When the Lord decides to call you, you'd better be ready | King
+right: Kandice
+Wrong: 
+Value: $800
+Number: 5
+FIRST THINGS FIRST | Some consider German king Otto the Great, crowned in 962, the first of these central European "emperors" | Holy Roman Emperor
+right: Kandice
+Wrong: 
+Value: $1200
+Number: 28
+LITERARY TRANSLATIONS | A memoir: "Den Afrikanske Farm" | Out of Africa
+right: Tom
+Wrong: 
+Value: $1200
+Number: 3
+LAST NAME MEANINGS | (Hi, I'm Jeff Probst)  My last name translates to this, used in English to mean an administrator at a college | provost
+right: Kandice
+Wrong: 
+Value: $1200
+Number: 19
+GEOLOGY TEST | BMW engineers are working out the kinks to use this most abundant element in the universe as an auto fuel | hydrogen
+right: Tom
+Wrong: 
+Value: $1200
+Number: 23
+"J" WALKING | After Solomon's death in 922 B.C., the Hebrews divided into 2 kingdoms: Israel & this one | Judah
+right: Richard
+Wrong: 
+Value: $1200
+Number: 13
+THE BLUES | Handicap of Lemon Jefferson & also Willie McTell.  They both needed a good woman to catch them if they fell | blindness
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+FIRST THINGS FIRST | Ernest Poole became the first novelist to win this prize on June 3, 1918 | Pulitzer Prize
+right: Tom
+Wrong: 
+Richard: What is the Nobel Prize?
+Value: $1600
+Number: 29
+LITERARY TRANSLATIONS | The magical "El Amor en los Tiempos del Colera" | Love in the Time of Cholera
+right: Kandice
+Wrong: 
+Value: DD: $1,400
+Number: 6
+LAST NAME MEANINGS | An ancestor of songwriter Johnny must have been one of these, a dry-goods merchant | mercer
+right: Tom
+Wrong: 
+Value: $1600
+Number: 20
+GEOLOGY TEST | Calcium bicarbonate from this, the most abundant soluble rock, is used by sea creatures in forming shells | limestone
+right: Tom
+Wrong: 
+Value: $1600
+Number: 24
+"J" WALKING | It's the "gem" of a unit equal to the work done when a current of 1 ampere passes through 1 ohm for 1 second | joule
+right: Tom
+Wrong: 
+Value: $1600
+Number: 14
+THE BLUES | The Handy Awards Festival is up & down this Memphis street.  When the blues fills the air, it sounds mighty sweet | Beale Street
+right: Tom
+Wrong: 
+Value: $1600
+Number: 9
+FIRST THINGS FIRST | (Jimmy of the Clue Crew reports from the Palace Hotel in San Francisco)  The Garden Court was the site of the official 1945 banquet honoring the opening session of this organization | United Nations
+right: Tom
+Wrong: 
+Value: DD: $3,000
+Number: 30
+LITERARY TRANSLATIONS | The weighty "Nesnesitelna Lekhost Oyti" (in Czech) or "L'Insoutenable Legerte de l'Etre" (in French) | "The Unbearable Lightness of Being"
+right: Tom
+Wrong: 
+Value: $2000
+Number: 7
+LAST NAME MEANINGS | Common occupational surname shown here (making those barrels) | cooper
+right: Tom
+Wrong: 
+Value: $2000
+Number: 21
+GEOLOGY TEST | Deposits inside these are called speleothems & include stalactites & stalagmites | caves
+right: Kandice
+Wrong: 
+Value: $2000
+Number: 25
+"J" WALKING | Christian monk & translator Eusebius Hieronymus is better known as this saint | Saint Jerome
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+THE BLUES | This man & Sonny Terry played together 30 years.  If you don't like their music, you need to check your ears | Brownie McGhee
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Tom: $30,600
+Kandice: $12,200
+Richard: $3,000
+
+Final Jeopardy! Round
+PRESIDENTIAL ELECTIONS | The first winning presidential ticket of 2 sitting U.S. senators was the ticket of these 2 men | John F. Kennedy & Lyndon B. Johnson
+right: Kandice
+Wrong: 
+Richard: Who are Johnson & Humphrey?
+Tom: Who was [LBJ & HHH?] Truman and Garner
+Wagers: 
+Richard: $3,000
+Kandice: $2,800
+Tom: $6,000
+Final scores:
+Tom: $24,600 (2-day champion: $53,401)
+Kandice: $15,000 (2nd place: $2,000)
+Richard: $0 (3rd place: $1,000)
+
+Coryat scores
+Tom: $29,600 (33 R(including 2 DDs),1 W)
+Kandice: $12,400 (15 R(including 1 DD),0 W)
+Richard: $3,000 (8 R,2 W)

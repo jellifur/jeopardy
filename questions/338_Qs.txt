@@ -1,0 +1,316 @@
+9 - Thursday, September 20, 1984
+Contestants:
+Craig Hendricks: a history teacher from Long Beach, California
+Lynn Strather: a technical editor originally from Hazleton, Pennsylvania
+Richard Willing: a newspaper reporter from Detroit, Michigan (whose 1-day cash winnings total $12,950)
+First Jeopardy! Round: FICTION, FIRST LADIES, MYSTERIES, RACY LADIES, ADDRESSES, TRIVIA
+FICTION | Shakespeare's "star-crossed" lovers | Romeo and Juliet
+right: Lynn
+Wrong: 
+Value: $100
+Number: 1
+FIRST LADIES | She talked to Arnold's class about drugs on TV's "Diff'rent Strokes" | Nancy Reagan
+right: Lynn
+Wrong: 
+Value: $100
+Number: 8
+MYSTERIES | Dashiell Hammett detective played on the screen by Humphrey Bogart | Sam Spade
+right: Richard
+Wrong: 
+Value: $100
+Number: 6
+RACY LADIES | Driving with a broken wrist, Janet Guthrie was the 1st woman to compete in this race | the Indianapolis 500
+right: Craig
+Wrong: 
+Value: $100
+Number: 7
+ADDRESSES | The prime minister of England lives here | 10 Downing Street
+right: Lynn
+Wrong: 
+Value: $100
+Number: 13
+TRIVIA | They were formerly called the Sandwich Islands | Hawaii
+right: Richard
+Wrong: 
+Lynn: What is Tahiti?
+Value: $100
+Number: 22
+FICTION | The "lovable" family of Peter Pan | the Darlings
+right: Lynn
+Wrong: 
+Value: $200
+Number: 2
+FIRST LADIES | One of her early suitors was her husband's arch rival, Stephen A. Douglas | Mary Todd Lincoln
+right: Lynn
+Wrong: 
+Value: $200
+Number: 18
+MYSTERIES | 1st cousins Dannay & Lee wrote the Ellery Queen stories under this pen name | Ellery Queen
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 9
+RACY LADIES | Though a hot prospect in '80, Beth Heiden was frozen out of gold in this Olympic sport | speed skating
+right: Richard
+Wrong: 
+Craig: What is cycling?
+Value: $200
+Number: 27
+ADDRESSES | Feathered friend who lives at 123½ Sesame Street | Big Bird
+right: Lynn
+Wrong: 
+Value: $200
+Number: 14
+TRIVIA | Number of blank tiles in a Scrabble set | 2
+right: 
+Wrong: Triple Stumper
+Craig: 36.
+Value: $200
+Number: 23
+FICTION | "Cat on a Hot Tin Roof's" portly patriarch | Big Daddy
+right: Lynn
+Wrong: 
+Value: $300
+Number: 3
+FIRST LADIES | Teddy's niece, her married & maiden names were the same | Eleanor Roosevelt
+right: Craig
+Wrong: 
+Value: $300
+Number: 19
+MYSTERIES | This agency's symbol of an unblinking eye gave birth to the phrase "private eye" | the Pinkerton agency
+right: Richard
+Wrong: 
+Value: $300
+Number: 10
+RACY LADIES | Never has to jockey for position as Mrs. Fred Astaire | Robyn Smith
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+ADDRESSES | He shared digs with John Watson at 221-B Baker Street | Sherlock Holmes
+right: Richard
+Wrong: 
+Value: $300
+Number: 15
+TRIVIA | Longest river in Canada or the SCTV bros. | the Mackenzie
+right: Richard
+Wrong: 
+Value: $300
+Number: 24
+FICTION | The Philip Roth character with a "complaint" | Portnoy
+right: Lynn
+Wrong: 
+Value: $400
+Number: 4
+FIRST LADIES | Her tough Texas husband preferred her nickname to calling her Claudia Alta | Lady Bird Johnson
+right: Richard
+Wrong: 
+Value: $400
+Number: 20
+MYSTERIES | She's Agatha Christie's ageless amateur detective | Miss (Jane) Marple
+right: Richard
+Wrong: 
+Value: $400
+Number: 11
+ADDRESSES | "Kookie" Byrnes parked cars for Dino's Lodge | 77 Sunset Strip
+right: Lynn
+Wrong: 
+Value: $400
+Number: 16
+TRIVIA | It's whom Boris Spassky lost the chess crown to in 1972 | Bobby Fischer
+right: Craig
+Wrong: 
+Value: $400
+Number: 25
+FICTION | Pasternak's Moscow medic | Dr. Zhivago
+right: Craig
+Wrong: 
+Value: $500
+Number: 5
+FIRST LADIES | She was expelled from Society of Friends for marrying non-Quaker 4th president | Dolley Madison
+right: Richard
+Wrong: 
+Value: DD: $1,000
+Number: 21
+MYSTERIES | Author of "Burr" who wrote chilling mysteries under the pen name Edgar Box | Gore Vidal
+right: Richard
+Wrong: 
+Value: $500
+Number: 12
+ADDRESSES | You'd find this at 1313 S. Harbor Boulevard in Anaheim, CA | Disneyland
+right: Craig
+Wrong: 
+Value: $500
+Number: 17
+TRIVIA | Awarded medal as "1st woman to be killed in action" in WWII: she was Gable's wife | Carole Lombard
+right: Richard
+Wrong: 
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Richard: $1,300
+Lynn: $1,100
+Craig: $600
+Scores at the end of the Jeopardy! Round:
+Richard: $4,100
+Lynn: $1,900
+Craig: $1,400
+Second Jeopardy! Round: BLACK AMERICA, GRAMMAR, BROTHERS & SISTERS, GREEK MYTHOLOGY, FOODS, SOVIET UNION
+BLACK AMERICA | The first black in Big League Baseball | Jackie Robinson
+right: Craig
+Wrong: 
+Value: $200
+Number: 16
+GRAMMAR | The adverb in "think fast" | fast
+right: Lynn
+Wrong: 
+Value: $200
+Number: 4
+BROTHERS & SISTERS | An "easy rider" whose sister played an easy lady in "Klute" | Peter Fonda
+right: Lynn
+Wrong: 
+Value: $200
+Number: 21
+GREEK MYTHOLOGY | Hilltop home of the gods | Mt. Olympus
+right: Richard
+Wrong: 
+Value: $200
+Number: 9
+FOODS | "Real men" don't eat this French custard cheese pie | quiche
+right: Lynn
+Wrong: 
+Value: $200
+Number: 14
+SOVIET UNION | Largest Soviet newspaper, its name means "Truth" | Pravda
+right: Craig
+Wrong: 
+Lynn: What is TASS?
+Value: $200
+Number: 1
+BLACK AMERICA | Forced to give up crown as Miss America because of photos in "Penthouse" | Vanessa Williams
+right: Richard
+Wrong: 
+Value: $400
+Number: 17
+GRAMMAR | The superlative form of good | best
+right: Lynn
+Wrong: 
+Value: $400
+Number: 5
+BROTHERS & SISTERS | In the Bible, Aaron was this brother's mouthpiece in dealing with Pharaoh | Moses
+right: Lynn
+Wrong: 
+Craig: Who was Joseph?
+Value: $400
+Number: 22
+GREEK MYTHOLOGY | He ultimately got "fleeced" by Medea | Jason
+right: Lynn
+Wrong: 
+Value: $400
+Number: 10
+FOODS | On the market since 1896, it wasn't until 1912 that they included prizes | Cracker-Jacks
+right: Richard
+Wrong: 
+Value: $400
+Number: 15
+SOVIET UNION | Daughter of this Soviet ruler has been living in America since 1967 | Stalin
+right: Richard
+Wrong: 
+Value: $400
+Number: 2
+BLACK AMERICA | A symbol for black performers in film since the '50's, he won an Oscar as Best Actor in '63 | Sidney Poitier
+right: Richard
+Wrong: 
+Value: $600
+Number: 18
+GRAMMAR | It can be common, proper, collective or concrete | a noun
+right: Lynn
+Wrong: 
+Value: DD: $2,000
+Number: 6
+BROTHERS & SISTERS | Nursing mother who wouldn't make "house calls", she's Vanessa's sister | Lynn Redgrave
+right: Richard
+Wrong: 
+Value: $600
+Number: 23
+GREEK MYTHOLOGY | A challenge to any optician, these giants had only one eye | cyclops
+right: Lynn
+Wrong: 
+Value: $600
+Number: 11
+SOVIET UNION | Soviet republic that has same name as an American state | Georgia
+right: Lynn
+Wrong: 
+Value: $600
+Number: 3
+BLACK AMERICA | As result of anti-slavery raid on Harper's Ferry, his "body lies a moldering in the grave" | John Brown
+right: Craig
+Wrong: 
+Value: $800
+Number: 19
+GRAMMAR | 3-letter ending of present participles & gerunds | -ing
+right: Lynn
+Wrong: 
+Value: $800
+Number: 7
+BROTHERS & SISTERS | Apollo's loving sister, sometimes served on the half shell | Venus
+right: Lynn
+Wrong: 
+Value: $800
+Number: 26
+GREEK MYTHOLOGY | A "bull" of a man, he lived in a labyrinth | the Minotaur
+right: Lynn
+Wrong: 
+Value: $800
+Number: 12
+SOVIET UNION | Soviet official who advocated using gasoline-filled bottles against Nazi tanks | Molotov
+right: Lynn
+Wrong: 
+Craig: [no response]
+Value: $800
+Number: 25
+BLACK AMERICA | Harriet Tubman, who freed over 300 slaves, was 1 of its foremost "conductors" | the Underground Railroad
+right: Richard
+Wrong: 
+Value: $1000
+Number: 20
+GRAMMAR | It comes at the end of a declarative sentence | a period
+right: Lynn
+Wrong: 
+Value: $1000
+Number: 8
+GREEK MYTHOLOGY | First member of the "me" generation, this youth fell in love with his own reflection | Narcissus
+right: Craig
+Wrong: 
+Value: $1000
+Number: 13
+SOVIET UNION | Kenny Ball did <http://www.j-archive.com/media/1984-09-27_DJ_24.mp3> this jazzed up version of an old Russian folk song | "Midnight In Moscow"
+right: Richard
+Wrong: 
+Value: DD: $2,000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Richard: $9,700
+Lynn: $10,900
+Craig: $2,400
+
+Final Jeopardy! Round
+SCIENCE | The mammal that holds the record for the longest lifespan | man
+right: 
+Wrong: 
+Craig: What is an elephant
+Richard: What is the Elephant
+Lynn: What is an elephant
+Wagers: 
+Craig: $2,300
+Richard: $9,650
+Lynn: $10,000
+Final scores:
+Richard: $50 (3rd place: a "telephone center")
+Lynn: $900 (New champion: $900)
+Craig: $100 (2nd place: a washer/dryer and watches)
+
+Coryat scores
+Richard: $8,200 (19 R(including 2 DDs),0 W)
+Lynn: $9,500 (23 R(including 1 DD),2 W)
+Craig: $2,400 (9 R,4 W)

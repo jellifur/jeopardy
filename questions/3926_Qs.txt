@@ -1,0 +1,337 @@
+6407 - Tuesday, June 26, 2012
+Contestants:
+Jim Abbott: a property appraiser from St. Augustine, Florida
+Jon Shoup: a graduate student of political science from Charlottesville, Virginia
+Margaret Swanson: a graduate student of architecture from Somerville, Massachusetts (whose 3-day cash winnings total $48,000)
+First Jeopardy! Round: HEALTH & NUTRITION, SPEECH!, WHAT'S DOT?, B.P., LAST NAME'S THE SAME, THE SCREAM ACTORS GUILD
+HEALTH & NUTRITION | Broccoli & cauliflower are good sources of folacin, a vitamin of this letter group | B
+right: Jim
+Wrong: 
+Margaret: What is K?
+Value: $200
+Number: 26
+SPEECH! | After his defeat at Waterloo, he told his army, "Be always gallant and good... do not forget me" | Napoleon
+right: Jon
+Wrong: 
+Value: $200
+Number: 2
+WHAT'S DOT? | In 2009 Dots candy introduced Bat Dots, a black, blood orange-flavored gum drop, for this holiday | Halloween
+right: Jon
+Wrong: 
+Value: $200
+Number: 17
+B.P. | You have to show one of these to get on your airplane flight | a boarding pass
+right: Jon
+Wrong: 
+Value: $200
+Number: 4
+LAST NAME'S THE SAME | Jaleel, Betty, Vanna | White
+right: Jon
+Wrong: 
+Value: $200
+Number: 1
+THE SCREAM ACTORS GUILD | <http://www.j-archive.com/media/2012-06-26_J_08.jpg> This  actor was a "Thriller" in films like "House of Wax" & "The Fly" | Vincent Price
+right: Jim
+Wrong: 
+Value: $200
+Number: 8
+HEALTH & NUTRITION | Sour cherries are rich in anti-these, which fight free radicals | anti-oxidants
+right: Margaret
+Wrong: 
+Value: $400
+Number: 27
+SPEECH! | In a 1936 farewell address, he said he couldn't discharge his duties as king "without the help & support of the woman I love" | Edward VIII
+right: Jim
+Wrong: 
+Jon: Who is George VI?
+Value: $400
+Number: 3
+WHAT'S DOT? | In 2000-2001 many high-tech companies failed in what became known as the "dot" this "bust" | com
+right: Jon
+Wrong: 
+Value: $400
+Number: 22
+B.P. | This occupational symbol is made up of red & white stripes | a barber's pole
+right: Margaret
+Wrong: 
+Value: $400
+Number: 9
+LAST NAME'S THE SAME | Dick, Roy, Petula | Clark
+right: Jim
+Wrong: 
+Value: $400
+Number: 18
+THE SCREAM ACTORS GUILD | "I Know" Jennifer Love Hewitt hits a high note as Julie James in this scary 1997 film | I Know What You Did Last Summer
+right: Jim
+Wrong: 
+Value: $400
+Number: 11
+HEALTH & NUTRITION | Wear sunscreen with SPF 15 or higher & with protection from both the A & B types of this light | UV (ultraviolet)
+right: Margaret
+Wrong: 
+Value: $600
+Number: 28
+SPEECH! | In 1992 activist Mary Fisher told the nation, "The reality of" this disease "is brutally clear" | AIDS
+right: Jon
+Wrong: 
+Value: $600
+Number: 5
+WHAT'S DOT? | Although Brian Hyland had 8 Top 40 hits, only this novelty song of 1960 topped the charts | "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini"
+right: Jon
+Wrong: 
+Value: $600
+Number: 23
+B.P. | To make dough rise, this can be used as a substitute for yeast | baking powder
+right: Jon
+Wrong: 
+Value: $600
+Number: 10
+LAST NAME'S THE SAME | Alex, Michelle, Chi Chi | Rodriguez
+right: Jim
+Wrong: 
+Value: $600
+Number: 19
+THE SCREAM ACTORS GUILD | To be Frank, he's the actor <http://www.j-archive.com/media/2012-06-26_J_12.jpg> seen <http://www.j-archive.com/media/2012-06-26_J_12a.jpg> here in one of his greatest roles | Boris Karloff
+right: Jim
+Wrong: 
+Jon: Who is Lugosi?
+Value: $600
+Number: 12
+HEALTH & NUTRITION | (<http://www.j-archive.com/media/2012-06-26_J_29.jpg> Dr. Oz gives the clue.) Consuming lots of empty calories in forms such as soda leads directly to belly flab because this organ just keeps converting the sugar to fat | the liver
+right: Jon
+Wrong: 
+Value: $800
+Number: 29
+SPEECH! | In a 1936 speech to the workers of Milan, he outlined the aims of the Fascist Party | Mussolini
+right: Jon
+Wrong: 
+Value: $800
+Number: 6
+WHAT'S DOT? | In Morse code the letter S is represented by this many dots | three
+right: Jon
+Wrong: 
+Value: $800
+Number: 24
+B.P. | In 1888 John J. Loud patented an early version of this innovative writing implement | ballpoint pen
+right: Margaret
+Wrong: 
+Value: $800
+Number: 14
+LAST NAME'S THE SAME | Venus, Vanessa, Hank | Williams
+right: Jon
+Wrong: 
+Value: $800
+Number: 20
+THE SCREAM ACTORS GUILD | This actress was a howl as little Regan in "The Exorcist" | (Linda) Blair
+right: Margaret
+Wrong: 
+Jim: [Whispers] Oh.  [Sighs]
+Value: $800
+Number: 13
+SPEECH! | In 1862 he told the Prussian Diet, "The great questions of the time" will be decided by "iron and blood" | Otto von Bismarck
+right: 
+Wrong: 
+Jon: Who is Wilhelm?
+Value: DD: $1,000
+Number: 7
+WHAT'S DOT? | The <http://www.j-archive.com/media/2012-06-26_J_25.jpg> dots you see over lower case i's and j's are called these, sometimes paired with jot | a tittle
+right: Jim
+Wrong: 
+Value: $1000
+Number: 25
+B.P. | It's the lowest of the lowest range of voices | basso profundo
+right: Jon
+Wrong: 
+Value: $1000
+Number: 15
+LAST NAME'S THE SAME | Bo, Jesse, Glenda | Jackson
+right: Margaret
+Wrong: 
+Jim: What is James?
+Value: $1000
+Number: 21
+THE SCREAM ACTORS GUILD | The senior frightener <http://www.j-archive.com/media/2012-06-26_J_16.jpg> seen <http://www.j-archive.com/media/2012-06-26_J_16a.jpg> here, he showed many faces in his career | Lon Chaney, Sr.
+right: Jim
+Wrong: 
+Jon: Who is Lugosi?
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Margaret: $2,000
+Jon: $600
+Jim: $1,800
+Scores at the end of the Jeopardy! Round:
+Margaret: $3,800
+Jon: $4,200
+Jim: $3,000
+Second Jeopardy! Round: SITCOM EPISODES, ANTONYMS OF BIBLE BOOKS, SCULPTURE, OTHER RED, WHITE & BLUE FLAGS, JOHN STEINBECK, TRAVELS WITH CHARLEY
+SITCOM EPISODES | "Threat Level Midnight", "Michael's Last Dundies" | The Office
+right: Margaret
+Wrong: 
+Value: $400
+Number: 2
+ANTONYMS OF BIBLE BOOKS | "Conclusion" | Genesis
+right: Margaret
+Wrong: 
+Jim: What is, um... Revelation?
+Value: $400
+Number: 1
+SCULPTURE | Any sculpture that projects from a background is called this; "bas" and "haut" can come before it | relief
+right: Jon
+Wrong: 
+Value: $400
+Number: 8
+OTHER RED, WHITE & BLUE FLAGS | The red in this country's <http://www.j-archive.com/media/2012-06-26_DJ_07.jpg> flag represents its volcanoes | Iceland
+right: Jim
+Wrong: 
+Value: $400
+Number: 7
+JOHN STEINBECK | John Steinbeck really went on "Travels with Charley"; Charley, or Charles le Chien, was this breed of dog | a poodle
+right: Jim
+Wrong: 
+Value: $400
+Number: 23
+TRAVELS WITH CHARLEY | This future cartoonist was sent to Europe in WWII & once refused to toss a grenade where he saw a little dog walk | (Charles) Schulz
+right: Margaret
+Wrong: 
+Value: $400
+Number: 10
+SITCOM EPISODES | "The Larry David Sandwich", "The Ida Funkhouser Roadside Memorial" | Curb Your Enthusiasm
+right: Jon
+Wrong: 
+Value: $800
+Number: 3
+ANTONYMS OF BIBLE BOOKS | "Concealment" | Revelation
+right: Jim
+Wrong: 
+Margaret: What is Revelations?
+Value: $800
+Number: 19
+SCULPTURE | This 4-letter term means a figure composed of the head, neck, shoulders & part of the torso | a bust
+right: Jon
+Wrong: 
+Value: $800
+Number: 11
+OTHER RED, WHITE & BLUE FLAGS | Samoa's <http://www.j-archive.com/media/2012-06-26_DJ_09.jpg> flag includes stars that represent this constellation | the Southern Cross
+right: Jim
+Wrong: 
+Margaret: What is the Northern Cross?
+Value: $800
+Number: 9
+JOHN STEINBECK | The struggles of this family, including son Tom, are at the heart of "The Grapes of Wrath" | the Joad family
+right: Jim
+Wrong: 
+Value: $800
+Number: 25
+TRAVELS WITH CHARLEY | His outspokenness encouraged the 76ers to send him on a trip to Phoenix in 1992 | Charles Barkley
+right: Jon
+Wrong: 
+Value: $800
+Number: 16
+SITCOM EPISODES | "Roper's Niece", "Furley vs. Furley" | Three's Company
+right: Jim
+Wrong: 
+Value: $1200
+Number: 4
+ANTONYMS OF BIBLE BOOKS | "Influx" | Exodus
+right: Jon
+Wrong: 
+Value: $1200
+Number: 20
+SCULPTURE | In architecture, a column in the form of a man is called one of these, like a supportive Greek giant | an atlas
+right: Jon
+Wrong: 
+Value: $1200
+Number: 13
+OTHER RED, WHITE & BLUE FLAGS | The historic arms of Dubrovnik are included on this Balkan country's red, white & blue striped flag | Croatia
+right: Margaret
+Wrong: 
+Value: $1200
+Number: 12
+TRAVELS WITH CHARLEY | Prince Charles traveled to Aberystwyth, where he learned this language to prep for a 1969 investiture | Welsh
+right: Jon
+Wrong: 
+Value: DD: $2,200
+Number: 17
+SITCOM EPISODES | "The Courtship of Stewie's Father", "New Kidney in Town" | Family Guy
+right: Jon
+Wrong: 
+Value: $1600
+Number: 5
+ANTONYMS OF BIBLE BOOKS | "Last Commoners" | Kings I
+right: Margaret
+Wrong: 
+Value: $1600
+Number: 26
+SCULPTURE | (<http://www.j-archive.com/media/2012-06-26_DJ_22.jpg> Kelly of the Clue Crew demonstrates the clue in the lab.) Sculpture is sometimes divided into 4 primary methods: carving, modeling, welding, & <http://www.j-archive.com/media/2012-06-26_DJ_22.wmv> this, from the Old French for "bring together", in which existing objects are combined | assembly
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 22
+OTHER RED, WHITE & BLUE FLAGS | Red replaced orange in this country's flag, but an orange streamer is flown with the flag on state holidays | the Netherlands
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+JOHN STEINBECK | "Jody put out his bruised hand again, and..." this title animal "let his nose be rubbed" | The Red Pony
+right: 
+Wrong: 
+Margaret: Um, what is the mouse, from "Of Mice and Men"?
+Value: DD: $2,000
+Number: 27
+TRAVELS WITH CHARLEY | When Petain took over leadership of France, this general headed to England | (Charles) de Gaulle
+right: Jim
+Wrong: 
+Value: $1600
+Number: 18
+SITCOM EPISODES | "A Fistful of Paintballs", "Abed's Uncontrollable Christmas" | Community
+right: Jon
+Wrong: 
+Value: $2000
+Number: 6
+ANTONYMS OF BIBLE BOOKS | "Joyful Utterances" | Lamentations
+right: Margaret
+Wrong: 
+Value: $2000
+Number: 24
+OTHER RED, WHITE & BLUE FLAGS | Britannica says the white disc on this landlocked Asian nation's flag, seen <http://www.j-archive.com/media/2012-06-26_DJ_15.jpg> here, honors the Japanese | Laos
+right: 
+Wrong: Triple Stumper
+Jon: What is Bhutan?
+Jim: What's Mongolia?
+Value: $2000
+Number: 15
+JOHN STEINBECK | John Steinbeck named one of the families in this novel after Captain Trask, a friend of his father | East of Eden
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+TRAVELS WITH CHARLEY | Charles Taylor, once dictator of this country, was extradited to The Hague & tried for war crimes & crimes against humanity | Liberia
+right: Jon
+Wrong: 
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Margaret: $6,200
+Jon: $15,200
+Jim: $6,600
+
+Final Jeopardy! Round
+HISTORIC U.S. CITIES | A 1905 treaty named for this U.S. city ended a foreign war 7,000 miles away & was actually signed at Kittery, Maine | Portsmouth
+right: Jim
+Wrong: 
+Margaret: What is Portland?
+Jon: What is Burlington?
+Wagers: 
+Margaret: $5,800
+Jim: $5,801
+Jon: $1,021
+Final scores:
+Margaret: $400 (3rd place: $1,000)
+Jon: $14,179 (New champion: $14,179)
+Jim: $12,401 (2nd place: $2,000)
+
+Coryat scores
+Margaret: $8,200 (12 R,4 W(including 1 DD))
+Jon: $15,200 (23 R(including 1 DD),5 W(including 1 DD))
+Jim: $6,600 (16 R,4 W)

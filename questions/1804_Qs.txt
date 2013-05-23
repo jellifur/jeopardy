@@ -1,0 +1,345 @@
+5214 - Thursday, April 19, 2007
+Contestants:
+Andrea Ozment: a nurse and freelance writer from New Haven, Connecticut
+William Lee: a software engineer originally from Vero Beach, Florida
+Tricia McKinney: a TV news writer from Secaucus, New Jersey (whose 3-day cash winnings total $50,800)
+First Jeopardy! Round: NAME THAT CLASSIC, BRIDE OF THE YANKEES, LESSER-KNOWN AMERICANS, MR. OR MS. MAYOR, NATIONAL FLAGS, SCRAMBLED SAYINGS
+NAME THAT CLASSIC | "Whaling has... come to be regarded among landsmen as a rather unpoetical and disreputable pursuit" | Moby-Dick
+right: Andrea
+Wrong: 
+Value: $200
+Number: 9
+BRIDE OF THE YANKEES | Married in 1954, this "Yankee Clipper" has roses delivered to his ex-wife's grave for 20 years after her death | Joe DiMaggio
+right: Tricia
+Wrong: 
+Value: $200
+Number: 1
+LESSER-KNOWN AMERICANS | In January 1777 Mary Goddard printed up the first copies of this that also included the signers' names | the Declaration of Independence
+right: Andrea
+Wrong: 
+Value: $200
+Number: 8
+MR. OR MS. MAYOR | 6-term mayor Richard J. Daley begat Richard M. Daley of this city | Chicago
+right: Andrea
+Wrong: 
+Value: $200
+Number: 14
+NATIONAL FLAGS | This mythical creature decorates Bhutan's saffron-colored flag | a dragon
+right: William
+Wrong: 
+Value: $200
+Number: 3
+SCRAMBLED SAYINGS | Sorry safe than better | "Better safe than sorry"
+right: Tricia
+Wrong: 
+Value: $200
+Number: 15
+NAME THAT CLASSIC | "Injun Joe lay stretched upon the ground, dead, with his face close to the crack of the door" | (The Adventures of) Tom Sawyer
+right: Tricia
+Wrong: 
+Value: $400
+Number: 10
+BRIDE OF THE YANKEES | In the HBO movie "61*", Claire, this man's widow, is none too happy when his home-run record of 60 is tied | Babe Ruth
+right: William
+Wrong: 
+Tricia: Who is Maris?
+Value: $400
+Number: 2
+LESSER-KNOWN AMERICANS | Sidney Lenz, a president of the American Ping-Pong Association, was also an expert on whist & this card game | bridge
+right: Andrea
+Wrong: 
+Value: $400
+Number: 17
+MR. OR MS. MAYOR | You could find Dianne Feinstein's heart in this city from 1978 to 1988 | San Francisco
+right: Andrea
+Wrong: 
+Value: $400
+Number: 21
+NATIONAL FLAGS | The flag of this island country was chosen by Dr. Sun Yat-sen about 100 years ago | Taiwan
+right: Tricia
+Wrong: 
+Value: $400
+Number: 4
+SCRAMBLED SAYINGS | Can't join them if you beat them | "If you can't beat them, join them"
+right: William
+Wrong: 
+Value: $400
+Number: 16
+NAME THAT CLASSIC | "They found hanging upon the wall a splendid portrait of their master as they had last seen him" | The Picture of Dorian Gray
+right: Andrea
+Wrong: 
+Tricia: What is The Portrait of Dorian Gray?
+Value: $600
+Number: 11
+BRIDE OF THE YANKEES | In a 2001 "SNL" skit this Yankees shortstop appeared in drag as his double-play partner's wife Candy Soriano | Derek Jeter
+right: William
+Wrong: 
+Value: $600
+Number: 29
+LESSER-KNOWN AMERICANS | One of this state's largest cities is named for steamboat builder & captain Henry Schreve | Louisiana
+right: Andrea
+Wrong: 
+Value: DD: $1,000
+Number: 22
+MR. OR MS. MAYOR | Marion Barry & Adrian Fenty have been mayors of this city | Washington, D.C.
+right: Tricia
+Wrong: 
+Value: $600
+Number: 27
+NATIONAL FLAGS | In 1964 this country incorporated the green-black-blue stripes of Zanzibar's flag on its national flag | Tanzania
+right: Andrea
+Wrong: 
+Value: $600
+Number: 5
+SCRAMBLED SAYINGS | A hard rock and a place between | "Between a rock and a hard place"
+right: Andrea
+Wrong: 
+Value: $600
+Number: 18
+NAME THAT CLASSIC | "The escape of Cassy and Emmeline irritated the...surly temper of Legree to the last degree" | Uncle Tom's Cabin
+right: William
+Wrong: 
+Value: $800
+Number: 12
+BRIDE OF THE YANKEES | In 1994 Don's wife Kim Mattingly finished the 25th annual one of these in 5 hours, 40 minutes, 46 seconds | the New York Marathon
+right: Andrea
+Wrong: 
+Value: $800
+Number: 30
+LESSER-KNOWN AMERICANS | After meeting this woman at the Rockford Female Seminary, Ellen Gates Starr founded Hull House with her | Jane Addams
+right: William
+Wrong: 
+Value: $800
+Number: 23
+MR. OR MS. MAYOR | In 1993 Richard Riordan succeeded Tom Bradley in running this city | Los Angeles
+right: William
+Wrong: 
+Value: $800
+Number: 28
+NATIONAL FLAGS | The 3 stars on the Philippines' flag represent Mindanao, the Visayan Islands & this largest island | Luzon
+right: William
+Wrong: 
+Value: $800
+Number: 6
+SCRAMBLED SAYINGS | New dog tricks you an old teach can't | "You can't teach an old dog new tricks"
+right: Tricia
+Wrong: 
+Value: $800
+Number: 19
+NAME THAT CLASSIC | "While I was young I lived upon my mother's milk, as I could not eat grass" | Black Beauty
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+BRIDE OF THE YANKEES | In 1999 Diana, the widow of this 1970s catcher & team captain, threw out the first pitch at a Yankee game | Thurman Munson
+right: William
+Wrong: 
+Value: $1000
+Number: 25
+LESSER-KNOWN AMERICANS | This pioneer who gave his name to a pass, a trail & a Montana city was killed by Indians in 1867 | John Bozeman
+right: 
+Wrong: Triple Stumper
+William: Who is Custer?
+Value: $1000
+Number: 24
+MR. OR MS. MAYOR | Ernest Morial & Moon Landrieu kept 'em marchin' in for this city | New Orleans
+right: Andrea
+Wrong: 
+Value: $1000
+Number: 26
+NATIONAL FLAGS | Reminding us that he is a co-prince of the country, the staff & hat of the Bishop of Urgel grace this tiny country's flag | Andorra
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 7
+SCRAMBLED SAYINGS | The young wasted youth is on | "Youth is wasted on the young"
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Tricia: $200
+William: $2,600
+Andrea: $1,800
+Scores at the end of the Jeopardy! Round:
+Tricia: $2,600
+William: $4,800
+Andrea: $6,000
+Second Jeopardy! Round: EUROPEAN COMPOSERS, TV SPIN-OFFS, AT THE ART OPENING, VERY SPECIFIC FORTUNE COOKIES, IN NEED OF A DATE, "E" HARMONY
+EUROPEAN COMPOSERS | Concerning the crash in his "Surprise" symphony, he reportedly said, "this will make the ladies jump" | Haydn
+right: Tricia
+Wrong: 
+Value: $400
+Number: 16
+TV SPIN-OFFS | "Boston Legal" | The Practice
+right: Andrea
+Wrong: 
+Value: $400
+Number: 1
+AT THE ART OPENING | (<http://www.j-archive.com/media/2007-04-19_DJ_21.jpg> Sarah of the Clue Crew reads next to a painting.) This piece would go nicely over my couch. Too bad for me, it has a <http://www.j-archive.com/media/2007-04-19_DJ_21a.jpg> red dot next to it, signifying this. | it has been sold
+right: Andrea
+Wrong: 
+Value: $400
+Number: 21
+VERY SPECIFIC FORTUNE COOKIES | Your knowledge knows no bounds; It includes the first name of dramatist Orton, labor man Hill & Sen. Lieberman | Joe
+right: William
+Wrong: 
+Value: $400
+Number: 6
+IN NEED OF A DATE | Hubert Humphrey was the Democratic candidate for president in this year | 1968
+right: Andrea
+Wrong: 
+Value: $400
+Number: 26
+"E" HARMONY | Specific type of "ologist" who is an expert at getting out of handcuffs or other restraints | escapologist
+right: Tricia
+Wrong: 
+Value: $400
+Number: 11
+EUROPEAN COMPOSERS | Due to the poor reception of his 1904 premiere of "Madame Butterfly", he withdrew it to revise the score | Puccini
+right: Tricia
+Wrong: 
+Value: $800
+Number: 17
+TV SPIN-OFFS | "The Bionic Woman" | The Six Million Dollar Man
+right: Tricia
+Wrong: 
+Value: $800
+Number: 2
+AT THE ART OPENING | (<http://www.j-archive.com/media/2007-04-19_DJ_22.jpg> Cheryl of the Clue Crew presents from an art gallery.) By focusing the bouquet, these wine glasses are perfect for this, the world's most popular white wine grape. | Chardonnay
+right: Tricia
+Wrong: 
+Value: $800
+Number: 22
+VERY SPECIFIC FORTUNE COOKIES | Be aware it's the sole alcohol component of a traditional screwdriver & you will claim $800 | vodka
+right: Andrea
+Wrong: 
+Value: $800
+Number: 7
+IN NEED OF A DATE | Year of the swearing in ceremony seen <http://www.j-archive.com/media/2007-04-19_DJ_27.jpg> here | 1981
+right: William
+Wrong: 
+Value: $800
+Number: 27
+"E" HARMONY | Candling is the process of inspecting & grading this farm product | eggs
+right: Andrea
+Wrong: 
+Value: $800
+Number: 12
+EUROPEAN COMPOSERS | At the time of this "New World" composer's death in 1904, he was the director of the Prague Conservatory | Dvorak
+right: 
+Wrong: Triple Stumper
+William: Who was Dorvak?
+Value: $1200
+Number: 18
+TV SPIN-OFFS | "Angel" | Buffy the Vampire Slayer
+right: William
+Wrong: 
+Value: $1200
+Number: 3
+AT THE ART OPENING | (<http://www.j-archive.com/media/2007-04-19_DJ_23.jpg> Jon of the Clue Crew regards a painting.)  I'd say the work here is derivative of this man, who died in France in 1973 | Picasso
+right: Andrea
+Wrong: 
+Value: $1200
+Number: 23
+VERY SPECIFIC FORTUNE COOKIES | You will know this 1-named household hinter advised, to remove stains, "work from the outside to the center" | Heloise
+right: William
+Wrong: 
+Value: $1200
+Number: 8
+IN NEED OF A DATE | In this year, the Korean War "ended" with the signing of a truce agreement | 1953
+right: 
+Wrong: Triple Stumper
+Tricia: What is 1952?
+Value: $1200
+Number: 28
+"E" HARMONY | It's actually a vast 4 million-square-mile peninsula of an even more vast land mass | Europe
+right: Andrea
+Wrong: 
+Value: DD: $2,000
+Number: 13
+EUROPEAN COMPOSERS | "Song of Norway", a popular operetta of the 1940s, was loosely based on this composer's life | Grieg
+right: Tricia
+Wrong: 
+Value: DD: $2,000
+Number: 19
+TV SPIN-OFFS | "The Colbys" | Dynasty
+right: William
+Wrong: 
+Value: $1600
+Number: 4
+AT THE ART OPENING | (<http://www.j-archive.com/media/2007-04-19_DJ_24.jpg> Jimmy of the Clue Crew reads from an art gallery.) As you see, sometimes an artist ventures to this traditional type of art, a sixteen-letter word meaning it looks like something real | representational
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+VERY SPECIFIC FORTUNE COOKIES | You will have a blast when you know this repeating arms company began making its famous rifle is 1866 | Winchester
+right: Tricia
+Wrong: 
+Andrea: What is Remington?
+Value: $1600
+Number: 9
+IN NEED OF A DATE | Olympic year of triumph in which the photo seen <http://www.j-archive.com/media/2007-04-19_DJ_29.jpg> here was taken | 1936
+right: William
+Wrong: 
+Value: $1600
+Number: 29
+"E" HARMONY | It's the fancy word for the sonar used by animals like the bat & the dolphin | echolocation
+right: Andrea
+Wrong: 
+Value: $1600
+Number: 14
+EUROPEAN COMPOSERS | In 1971 Pierre Boulez became the first Frenchman to serve as music director of this great American orchestra | New York Philharmonic
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+TV SPIN-OFFS | "Grady" | Sanford and Son
+right: William
+Wrong: 
+Value: $2000
+Number: 5
+AT THE ART OPENING | (<http://www.j-archive.com/media/2007-04-19_DJ_25.jpg> Kelly of the Clue Crew reads from an art gallery.) The piece here entitled "The Studio" is one of these works created for a particular site, from the Latin for "in  place" | installation
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 25
+VERY SPECIFIC FORTUNE COOKIES | "Q" will be very important to you today, as you will grasp this type of equation, just like "a modern major-general" | quadratical
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 10
+IN NEED OF A DATE | Irish leader Michael Collins had his last pint of Guinness in this year he was assasinated | 1922
+right: 
+Wrong: Triple Stumper
+William: What is 1916?
+Value: $2000
+Number: 30
+"E" HARMONY | It's the technical term for an air plant like certain mosses & ferns | epiphyte
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Tricia: $14,200
+William: $10,400
+Andrea: $12,000
+
+Final Jeopardy! Round
+PRESIDENTIAL VETOES | Of the 21 regular vetoes by this 19th century president, 15 were overridden, the highest reversal total for any president | Andrew Johnson
+right: William | Andrea
+Wrong: 
+Tricia: Who was Andrew Jackson?
+Wagers: 
+William: $10,400
+Andrea: $8,000
+Tricia: $9,799
+Final scores:
+Tricia: $4,401 (3rd place: $1,000)
+William: $20,800 (New champion: $20,800)
+Andrea: $20,000 (2nd place: $2,000)
+
+Coryat scores
+Tricia: $13,800 (17 R(including 1 DD),3 W)
+William: $10,400 (16 R,3 W)
+Andrea: $10,800 (19 R(including 2 DDs),1 W)

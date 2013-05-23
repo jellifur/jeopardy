@@ -1,0 +1,345 @@
+5215 - Friday, April 20, 2007
+Contestants:
+Sandy Yates: a revenue agent from Petaluma, California
+Laura Wimberley: a college teaching assistant originally from Wilmington, Delaware
+William Lee: a software engineer originally from Vero Beach, Florida (whose 1-day cash winnings total $20,800)
+First Jeopardy! Round: OLD TESTAMENT BOOKS IN OTHER WORDS, THE SPORTING LIFE, WORD & PHRASE ORIGINS, ILLINOIS, IOWA OR INDIANA, JAVA, THE HUT, EXECUTIVE PERKS
+OLD TESTAMENT BOOKS IN OTHER WORDS | Roy Bean & Kenesaw Mountain Landis | Judges
+right: William
+Wrong: 
+Value: $200
+Number: 8
+THE SPORTING LIFE | Probably by not hitting into his last name, he won the 1997 Masters by 12 strokes, an all-time best | Tiger Woods
+right: Sandy
+Wrong: 
+Value: $200
+Number: 1
+WORD & PHRASE ORIGINS | Although this creature walks on 8 arms, its name is Greek for "8-footed" | an octopus
+right: William
+Wrong: 
+Value: $200
+Number: 16
+ILLINOIS, IOWA OR INDIANA | The Diamond Lady, the first of this state's riverboat casinos, launched from Bettendorf in 1991 | Iowa
+right: Sandy
+Wrong: 
+Value: $200
+Number: 2
+JAVA, THE HUT | Madrid's Gran Cafe de Gijon serves blanco y negro--coffee with this cool treat, cinnamon flavor | ice cream
+right: Sandy
+Wrong: 
+Value: $200
+Number: 26
+EXECUTIVE PERKS | From 1997 to 2001 Tyson Foods paid 84,000 of green to care for this area at the homes of its chairman | the lawn
+right: Sandy
+Wrong: 
+Value: $200
+Number: 20
+OLD TESTAMENT BOOKS IN OTHER WORDS | Short pithy sayings espousing fundamental truths | Proverbs
+right: Sandy
+Wrong: 
+Value: $400
+Number: 12
+THE SPORTING LIFE | In 1999 at Wimbledon, Pete Sampras had 108 of these unreturned serves "up his sleeve" | aces
+right: Sandy
+Wrong: 
+Value: $400
+Number: 4
+WORD & PHRASE ORIGINS | This 2-word phrase meaning essential food or money needed in order to live comes from the Lord's Prayer in Matthew | daily bread
+right: Laura
+Wrong: 
+Value: $400
+Number: 17
+ILLINOIS, IOWA OR INDIANA | In area, it's the smallest mainland state west of the Appalachian Mountains | Indiana
+right: William
+Wrong: 
+Laura: What is Iowa?
+Value: $400
+Number: 3
+JAVA, THE HUT | In the early '60s, many folkies flocked to Cafe Wha?, at MacDougal & Minetta in this Manhattan area | Greenwich Village
+right: William
+Wrong: 
+Value: $400
+Number: 27
+EXECUTIVE PERKS | In "Will Success Spoil Rock Hunter?", Tony Randall's goal is to get the key to this executive sanctum | the executive washroom
+right: Sandy
+Wrong: 
+Value: $400
+Number: 21
+OLD TESTAMENT BOOKS IN OTHER WORDS | Mike Rutherford, Phil Collins, Peter Gabriel, et al. | Genesis
+right: William
+Wrong: 
+Value: $600
+Number: 13
+THE SPORTING LIFE | This Chargers back rewrote the NFL record book in 2006 with 31 touchdowns & 186 points | LaDainian Tomlinson
+right: William
+Wrong: 
+Value: $600
+Number: 9
+WORD & PHRASE ORIGINS | This phrase arose from a man who rented horses & gave customers one "pick", the horse nearest the stable door | Hobson's choice
+right: Laura
+Wrong: 
+Value: $600
+Number: 18
+ILLINOIS, IOWA OR INDIANA | Rockford is its third-largest city | Illinois
+right: Sandy
+Wrong: 
+Value: $600
+Number: 5
+JAVA, THE HUT | In the early 1700s there were 550 coffeehouses in this city, including Edward Lloyd's | London
+right: William
+Wrong: 
+Value: DD: $1,000
+Number: 28
+EXECUTIVE PERKS | An exec might be kept happy with a membership in one of these, like Winged Foot | a country club (or a golf club)
+right: William
+Wrong: 
+Value: $600
+Number: 22
+OLD TESTAMENT BOOKS IN OTHER WORDS | Many acts of mourning | Lamentations
+right: William
+Wrong: 
+Value: $800
+Number: 14
+THE SPORTING LIFE | (<http://www.j-archive.com/media/2007-04-20_J_10.jpg> Hi, I'm Keith Olbermann.) This heavyweight boxing champ was adopted by Cus D'Amato, & since my uncle wed Cus' niece, that makes him my cousin | Mike Tyson
+right: William
+Wrong: 
+Value: $800
+Number: 10
+WORD & PHRASE ORIGINS | From the Latin for "elbow", it's the forearm bone that...well, forms the elbow | the ulna
+right: Sandy
+Wrong: 
+Value: $800
+Number: 19
+ILLINOIS, IOWA OR INDIANA | One of the world's largest tractor factories can be found in this state's city of Waterloo | Iowa
+right: Sandy
+Wrong: 
+Value: $800
+Number: 6
+JAVA, THE HUT | Daddy-o, leave the squares at home on Wednesday--it's open mic night at Sacred Grounds in this city's Haight | San Francisco
+right: Sandy
+Wrong: 
+Value: $800
+Number: 29
+EXECUTIVE PERKS | A book helping women get ahead is called "Nice Girls Don't Get" this desirably positioned workspace | the corner office
+right: William
+Wrong: 
+Value: $800
+Number: 23
+OLD TESTAMENT BOOKS IN OTHER WORDS | Slang term for an illegal lottery run by organized crime | Numbers
+right: Sandy
+Wrong: 
+Value: $1000
+Number: 15
+THE SPORTING LIFE | In baseball it's a brutish swing, or the nickname of Lewis Wilson, who holds the one-season RBI record | Hack
+right: Sandy
+Wrong: 
+Value: $1000
+Number: 11
+WORD & PHRASE ORIGINS | This name for a type of flask invented by James Dewar in 1892 became a trademark | a Thermos
+right: 
+Wrong: Triple Stumper
+Sandy: What is a hip flask?
+Value: $1000
+Number: 25
+ILLINOIS, IOWA OR INDIANA | The city of East Chicago is located there | Indiana
+right: Laura
+Wrong: 
+Value: $1000
+Number: 7
+JAVA, THE HUT | After World War II, Paris's Cafe de Flore became awash with tourists hoping to find <http://www.j-archive.com/media/2007-04-20_J_30.jpg> this man pondering the purpose of being | (Jean-Paul) Sartre
+right: William
+Wrong: 
+Value: $1000
+Number: 30
+EXECUTIVE PERKS | The right to buy a certain number of shares of the company you work for for a certain price at a certain time | a stock option
+right: Sandy
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the first commercial break (after clue 15)
+William: $3,600
+Laura: $600
+Sandy: $4,600
+Scores at the end of the Jeopardy! Round:
+William: $7,400
+Laura: $1,600
+Sandy: $7,000
+Second Jeopardy! Round: WILLIAM FAULKNER, HARD STUPID ANSWERS, BRITISH ROYALTY, DISCOVERIES, ATTENTION!, "AT" EASE
+WILLIAM FAULKNER | Accepting this honor for 1949, Faulkner said any story needs the old truths like love, honor, pity & pride | the Nobel
+right: Sandy
+Wrong: 
+Value: $400
+Number: 26
+HARD STUPID ANSWERS | Christina Aguilera, Lil' Kim, Mya & this pink-clad singer sang "Lady Marmalade" at the 2002 Grammys | Pink
+right: William
+Wrong: 
+Value: $400
+Number: 21
+BRITISH ROYALTY | He called himself "king of Great Britain" after gaining England's throne in 1603--he was already king of Scotland | James I
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+DISCOVERIES | The tallest living tree, a 378-footer, was discovered in 2006 in this U.S. state; its exact location is secret | California
+right: Sandy
+Wrong: 
+Value: $400
+Number: 13
+ATTENTION! | Total number of words in this clue | 7
+right: Sandy
+Wrong: 
+Value: $400
+Number: 11
+"AT" EASE | A midge is one of these small biting flies | a gnat
+right: Sandy
+Wrong: 
+Value: $400
+Number: 1
+WILLIAM FAULKNER | Faulkner worked uncredited on many movies but did get his name on this 1946 adaptation of a Chandler novel | The Big Sleep
+right: William
+Wrong: 
+Value: $800
+Number: 27
+HARD STUPID ANSWERS | Joe Theismann changed the pronunciation of his name in college while trying to merit one of these | a Heisman
+right: Sandy
+Wrong: 
+Value: $800
+Number: 22
+BRITISH ROYALTY | When he was executed on Jan. 30, 1649, the chopping block was so low he had to lie down rather than kneel | Charles I
+right: Sandy
+Wrong: 
+Value: $800
+Number: 3
+DISCOVERIES | Lake Vostok, the size of Lake Ontario, was only discovered in the last 40 years, as it's under 2 1/2 miles of this | ice
+right: William
+Wrong: 
+Value: $800
+Number: 17
+ATTENTION! | Zero divided by 3.14159 | zero
+right: William
+Wrong: 
+Value: $800
+Number: 12
+"AT" EASE | In this casino game, the winner is the one whose cards total closest to a number ending in 9 | baccarat
+right: Sandy
+Wrong: 
+Value: $800
+Number: 7
+WILLIAM FAULKNER | (<http://www.j-archive.com/media/2007-04-20_DJ_28.jpg> Jon of the Clue Crew delivers the clue from Rowan Oak in Oxford, Mississippi.)  Speaking at the rededication of Faulkner's home, John Grisham said this 1929 book at first baffled him; guess he thought it was signifying nothing | The Sound and the Fury
+right: William
+Wrong: 
+Value: $1200
+Number: 28
+HARD STUPID ANSWERS | Mirage crowds love this new Cirque du Soleil show that features re-mastered Beatles tunes | Love
+right: William
+Wrong: 
+Value: $1200
+Number: 23
+BRITISH ROYALTY | This mother of King Henry II tried "waltzing" onto the English throne but failed to get herself crowned | Matilda
+right: Sandy
+Wrong: 
+Value: $1200
+Number: 4
+DISCOVERIES | Silicon carbide, used for grinding & cutting, was discovered by a man trying to make artificial these | diamonds
+right: William
+Wrong: 
+Value: $1200
+Number: 18
+ATTENTION! | Of rock, paper, or scissors, the one that's the lowest-scoring Scrabble word | paper
+right: Laura
+Wrong: 
+William: What is scissors?"
+Value: $1200
+Number: 14
+"AT" EASE | A warning or caution, or a formal notice in law | a caveat
+right: 
+Wrong: Triple Stumper
+William: What is a warrant?
+Value: $1200
+Number: 8
+WILLIAM FAULKNER | (<http://www.j-archive.com/media/2007-04-20_DJ_29.jpg> Jon of the Clue Crew delivers the clue from Rowan Oak in Oxford, Mississippi.) "The Town" and "The Mansion" were written here in Rowan Oak, and were the final two pieces of this family's trilogy | the Snopes family
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+HARD STUPID ANSWERS | In this director's film, Pres. Bush can be seen saying into a mike, "This is an impressive crowd: the Haves, & the Have-Mores" | Michael Moore
+right: William
+Wrong: 
+Value: $1600
+Number: 24
+BRITISH ROYALTY | Isabella of Angouleme was 12 or 13 (perhaps a bit too young) when she wed this king in 1200 | King John
+right: Sandy
+Wrong: 
+Value: DD: $3,000
+Number: 5
+DISCOVERIES | In 1650 Mizar was the first double one of these discovered; today we know it's actually a quadruple | a star
+right: William
+Wrong: 
+Value: $1600
+Number: 19
+ATTENTION! | It's the 10-letter term for the phrase "never odd or even" | a palindrome
+right: Laura
+Wrong: 
+Value: $1600
+Number: 15
+"AT" EASE | A terraced pyramid of the ancient Babylonians | a ziggurat
+right: Sandy
+Wrong: 
+Value: $1600
+Number: 9
+WILLIAM FAULKNER | (<http://www.j-archive.com/media/2007-04-20_DJ_30.jpg> Cheryl of the Clue Crew delivers the clue from Rowan Oak in Oxford, Mississippi.)On the wall is Faulkner's <http://www.j-archive.com/media/2007-04-20_DJ_30a.jpg> handwritten plot outline for this 1954 novel set during World War I.  Its title is a type of story | Fable
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+HARD STUPID ANSWERS | Most of the action in this 2005 movie takes place in Basin City | Sin City
+right: William
+Wrong: 
+Value: $2000
+Number: 25
+BRITISH ROYALTY | This king may have been starved to death by order of Henry IV, but at least he got his own Shakespeare play | Richard II
+right: Sandy
+Wrong: 
+Value: $2000
+Number: 6
+DISCOVERIES | "Love waves" isn't a Barry White song; they're this type of wave discovered by geophysicist Augustus Love | seismic waves
+right: 
+Wrong: 
+William: What are sound waves?
+Value: DD: $1,500
+Number: 20
+ATTENTION! | (4 x 22) divided by (11 x 8) equals this | 1
+right: William
+Wrong: 
+Value: $2000
+Number: 16
+"AT" EASE | A national capital on the Arabian Peninsula | Muscat
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+William: $17,100
+Laura: $4,800
+Sandy: $18,800
+
+Final Jeopardy! Round
+O CANADA | The unusual flag of this Canadian province is seen <http://www.j-archive.com/media/2007-04-20_FJ.jpg> here | Prince Edward Island
+right: 
+Wrong: 
+Laura: What is Nunavut?
+William: What is British Columbia?
+Sandy: What is British Columbia?
+Wagers: 
+Laura: $0
+William: $17,000
+Sandy: $16,000
+Final scores:
+William: $100 (3rd place: $1,000)
+Laura: $4,800 (New champion: $4,800)
+Sandy: $2,800 (2nd place: $2,000)
+
+Coryat scores
+William: $18,200 (23 R(including 1 DD),3 W(including 1 DD))
+Laura: $4,800 (6 R,1 W)
+Sandy: $17,400 (25 R(including 1 DD),1 W)

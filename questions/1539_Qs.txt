@@ -1,0 +1,344 @@
+4560 - Friday, June 4, 2004
+Comments: Ken Jennings game 3.  <br />
+Contestants:
+Dane Petersen: a public relations and marketing manager from Arlington, Virginia
+Neil Thom: an attorney from Columbus, Georgia
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 2-day cash winnings total $59,201)
+First Jeopardy! Round: AUTHORS, SPORTS QUOTES, "E"OGRAPHY, IF YOU'RE GOING TO DO IT..., BUSINESSMEN, NUMERICAL HOMOPHONES
+AUTHORS | During the War of 1812 this "Rip Van Winkle" author wrote biographies of naval commanders | (Washington) Irving
+right: Ken
+Wrong: 
+Value: $200
+Number: 8
+SPORTS QUOTES | Before winning the World Heavyweight title, he said he wasn't "the greatest; I'm the double greatest" | Ali
+right: Ken
+Wrong: 
+Value: $200
+Number: 2
+"E"OGRAPHY | It's the northernmost & smallest of the 3 Baltic nations | Estonia
+right: Dane
+Wrong: 
+Value: $200
+Number: 1
+IF YOU'RE GOING TO DO IT... | As a Swiss Guard, today you are responsible for the safety of this one person | John Paul II (the Pope)
+right: Ken
+Wrong: 
+Value: $200
+Number: 18
+BUSINESSMEN | His partnership with Alvah Roebuck began when he placed a classified ad looking for a watchmaker | Sears
+right: Neil
+Wrong: 
+Value: $200
+Number: 23
+NUMERICAL HOMOPHONES | Was victorious | won
+right: Ken
+Wrong: 
+Value: $200
+Number: 13
+AUTHORS | His father was also a count; his mother was Princess Volkonskaya | Leo Tolstoy
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+SPORTS QUOTES | Of baseball, this Yankees Hall of Fame catcher remarked, "Ninety per cent of the game is half mental" | Yogi Berra
+right: Ken
+Wrong: 
+Value: $400
+Number: 4
+"E"OGRAPHY | Get all your shots before you canoe down this small Congo river with the same name as a deadly hemorrhagic virus | Ebola
+right: Dane
+Wrong: 
+Value: $400
+Number: 3
+IF YOU'RE GOING TO DO IT... | To score 2 points at once in pro football the offense has a 2-point conversion & the defense has this | a safety
+right: Neil
+Wrong: 
+Value: $400
+Number: 19
+BUSINESSMEN | On Business Week's 2003 list of the 50 most generous philanthropists, he & wife Melinda ranked first | Bill Gates
+right: Ken
+Wrong: 
+Value: $400
+Number: 24
+NUMERICAL HOMOPHONES | Completes the title of Jeffrey Steingarten's book "It Must Have Been Something I ..." | Ate
+right: Neil
+Wrong: 
+Value: $400
+Number: 14
+AUTHORS | At one time this author owned his own magazine, Master Humphrey's Clock, in which he published "Barnaby Rudge" | Dickens
+right: Ken
+Wrong: 
+Value: $600
+Number: 10
+SPORTS QUOTES | This Chicago Bears defensive tackle nicknamed "Refrigerator" said that "Even when I was little, I was big" | Willam Perry
+right: Dane
+Wrong: 
+Value: $600
+Number: 28
+"E"OGRAPHY | Napoleon could tell you it's the largest island in Italy's Tuscan Archipelago | Elba
+right: Ken
+Wrong: 
+Value: $600
+Number: 5
+IF YOU'RE GOING TO DO IT... | To know the truth of the Matrix, take this color pill | the red pill
+right: Dane
+Wrong: 
+Ken: Ooh, 50-50... what is a blue pill?
+Value: $600
+Number: 20
+BUSINESSMEN | In the 1890s he stopped selling baking powder to concentrate on a freebie he'd been giving away--chewing gum! | (William) Wrigley
+right: Ken
+Wrong: 
+Value: $600
+Number: 25
+NUMERICAL HOMOPHONES | A negative, in Neuberg | nein
+right: Neil
+Wrong: 
+Value: $600
+Number: 15
+AUTHORS | In 1882, at age 16, he found work as sub-editor of the Civil and Military Gazette in Lahore, India | Kipling
+right: Ken
+Wrong: 
+Value: $800
+Number: 11
+SPORTS QUOTES | Asked about his golf game after leaving the White House, this 34th Pres. said that "a lot more people beat me now" | Eisenhower
+right: Dane
+Wrong: 
+Value: $800
+Number: 29
+"E"OGRAPHY | In the 9th & 10th centuries, Danish Norsemen controlled a region called the Danelaw in this country | England
+right: Ken
+Wrong: 
+Value: $800
+Number: 6
+IF YOU'RE GOING TO DO IT... | You mix, then heat, lime, silica, alumina & iron oxide with gypsum to create the Portland type of this | cement
+right: Ken
+Wrong: 
+Value: $800
+Number: 21
+BUSINESSMEN | Jeff Bezos, CEO of this giant online retailer, was Time's Person of the Year for 1999 | Amazon.com
+right: Ken
+Wrong: 
+Value: $800
+Number: 26
+NUMERICAL HOMOPHONES | It means "toward the bow", you landlubber | fore
+right: Ken
+Wrong: 
+Value: $800
+Number: 16
+AUTHORS | This author of "The Outcasts of Poker Flat" served as U.S. consul in Germany & Scotland between 1878 & 1885 | Bret Harte
+right: Ken
+Wrong: 
+Value: $1000
+Number: 12
+SPORTS QUOTES | Vince Lombardi declared that "Winning isn't everything, it's" this | the only thing
+right: Neil
+Wrong: 
+Value: $1000
+Number: 30
+"E"OGRAPHY | Cast in a battle scene in "Lord of the Rings", NZ's army had to back out to keep peace in this Indonesian province | East Timor
+right: Ken
+Wrong: 
+Value: $1000
+Number: 7
+IF YOU'RE GOING TO DO IT... | To read the Mahabharata in its original language you have to know this one | Sanskrit
+right: Neil
+Wrong: 
+Value: $1000
+Number: 22
+BUSINESSMEN | In 1913 he spent some of those nickels & dimes to build in NYC what was then the world's tallest building | Woolworth
+right: Ken
+Wrong: 
+Value: DD: $1,000
+Number: 27
+NUMERICAL HOMOPHONES | Unleashes a dog to attack | sics
+right: Neil
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the first commercial break (after clue 15)
+Ken: $6,200
+Neil: $1,000
+Dane: $600
+Scores at the end of the Jeopardy! Round:
+Ken: $10,200
+Neil: $4,600
+Dane: $2,600
+Second Jeopardy! Round: GONE WITH THE WIND, FRANKLY, MY DEER, I DON'T, GIVE "A", HOOVER DAM
+GONE WITH THE WIND | Fans of the film love the museum devoted to it in this city, steps away from the home where the novel was written | Atlanta
+right: Ken
+Wrong: 
+Value: $400
+Number: 4
+FRANKLY | The successor of Charlemagne as king of the Franks was the first of 18 French kings with this name | Louis
+right: Ken
+Wrong: 
+Value: $400
+Number: 18
+MY DEER | Known as the caribou in North America, this Arctic deer is domesticated in some polar regions | the reindeer
+right: Ken
+Wrong: 
+Value: $400
+Number: 23
+I DON'T | Going further than vegetarians, I don't eat eggs or wear leather, because I'm one of these | a vegan
+right: Dane
+Wrong: 
+Neil: What is a lacto-ovo vegetarian?
+Value: $400
+Number: 12
+GIVE "A" | A tale from "The Arabian Nights" tells the story of this person who releases a genie | Aladdin
+right: Dane
+Wrong: 
+Value: $400
+Number: 1
+HOOVER DAM | (<http://www.j-archive.com/media/2004-06-04_DJ_11.jpg> Jimmy of the Clue Crew reports from Hoover Dam.) 2 purposes behind building <http://www.j-archive.com/media/2004-06-04_DJ_11.wmv> Hoover Dam were to generate electricity & control flooding on this river | the Colorado
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+GONE WITH THE WIND | When this actor's divorce came through during filming, he used one of his days off to elope with Carole Lombard | Gable
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+FRANKLY | Alaric II, King of these "goths", was killed in the decisive Battle of Vouille against the Franks in 507 | the Visigoths
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+MY DEER | (<http://www.j-archive.com/media/2004-06-04_DJ_24.wmv> Sarah of the Clue Crew reports from Alaska.)  In spring & summer, an elk's antlers are covered with material called <http://www.j-archive.com/media/2004-06-04_DJ_24.jpg> this, like a "crushed" fabric | velvet
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+I DON'T | As this professional, from Greek for "mind" & "word", I don't prescribe drugs no matter how nuts you are | a psychologist
+right: Neil
+Wrong: 
+Value: $800
+Number: 13
+GIVE "A" | It's the 18th century hymn heard <http://www.j-archive.com/media/2004-06-04_DJ_02.mp3> here in an updated version | "Amazing Grace"
+right: Dane
+Wrong: 
+Value: $800
+Number: 2
+HOOVER DAM | (<http://www.j-archive.com/media/2004-06-04_DJ_14.jpg> Jimmy of the Clue Crew reports from Hoover Dam.)  Between 1933 & '35, 4.4 million cubic yards of <http://www.j-archive.com/media/2004-06-04_DJ_14.wmv> this were laid in the dam, enough to pave a highway from San Francisco to New York City | concrete
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+GONE WITH THE WIND | Elizabeth McDuffie, who was Eleanor Roosevelt's maid at the White House, was tested for this role | Mammy
+right: Ken
+Wrong: 
+Dane: What is... uh...
+Value: $1200
+Number: 8
+FRANKLY | In the 5th century Frankish king Clovis I was the ruler of this region conquered by Julius Caesar in 50 B.C. | Gaul
+right: Ken
+Wrong: 
+Value: DD: $3,000
+Number: 20
+MY DEER | The northern deer tick is a major carrier of this disease first seen in Connecticut | Lyme disease
+right: Ken
+Wrong: 
+Value: $1200
+Number: 25
+I DON'T | In this most traditional of the 3 main branches of U.S. Judaism, I don't travel on Saturday | Orthodox
+right: Ken
+Wrong: 
+Value: $1200
+Number: 15
+GIVE "A" | Italian hometown of the first Roman Catholic saint to receive the stigmata | Assisi
+right: Neil
+Wrong: 
+Value: $1200
+Number: 3
+HOOVER DAM | (<http://www.j-archive.com/media/2004-06-04_DJ_28.jpg> Sofia of the Clue Crew reports from Hoover Dam.)  For much of its early history, Hoover Dam was called this, from a canyon where it was once going to be built | Boulder Dam
+right: 
+Wrong: Triple Stumper
+Neil: What is the Coulee Dam?
+Value: $1200
+Number: 28
+GONE WITH THE WIND | This actor thought he wasn't young & handsome enough to play Ashley, but he got the part anyway | Leslie Howard
+right: Neil
+Wrong: 
+Value: $1600
+Number: 9
+FRANKLY | This Frankish king earned his byname "The Hammer" by beating back the Muslim invasion of France at Poitiers in 732 | Charles Martel
+right: Ken
+Wrong: 
+Value: $1600
+Number: 21
+MY DEER | When running, this deer species seen <http://www.j-archive.com/media/2004-06-04_DJ_26.jpg> here shows off the feature for which it is named | a white-tail
+right: Ken
+Wrong: 
+Value: DD: $2,800
+Number: 26
+I DON'T | I don't throw anything away, so I'm known as this creature seen <http://www.j-archive.com/media/2004-06-04_DJ_16.jpg> here | a pack rat
+right: Neil
+Wrong: 
+Value: $1600
+Number: 16
+GIVE "A" | From Old French for "goods of weight", it's a measuring system based on the pound | avoir du pois
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 5
+HOOVER DAM | (<http://www.j-archive.com/media/2004-06-04_DJ_29.jpg> Jimmy of Clue Crew reports from inside Hoover Dam.)  Hoover Dam generates over 2,000 megawatts of hydroelectric power using 17 main ones of <http://www.j-archive.com/media/2004-06-04_DJ_29a.jpg> these | turbines
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+GONE WITH THE WIND | Long before he was TV's Superman, he played one of the Tarleton twins in the film's opening scene | George Reeves
+right: Dane
+Wrong: 
+Value: $2000
+Number: 10
+FRANKLY | Don't call him "Short" Stuff--this king of the Franks founded the Carolingian dynasty in 751 | Pepin (the Short)
+right: Ken
+Wrong: 
+Value: $2000
+Number: 22
+MY DEER | The male of this small deer is prized for an oily excretion that's used to scent perfumes & soaps | a musk deer
+right: Ken
+Wrong: 
+Value: $2000
+Number: 27
+I DON'T | I hire barristers but don't argue high court cases myself because I'm this type of British lawyer | a solicitor
+right: Ken
+Wrong: 
+Value: $2000
+Number: 17
+GIVE "A" | Found just north of Venezuela, this Caribbean nation's capital is St. John's | Antigua
+right: Neil
+Wrong: 
+Value: $2000
+Number: 6
+HOOVER DAM | (<http://www.j-archive.com/media/2004-06-04_DJ_30.jpg> Sofia of the Clue Crew reports from Hoover Dam.)  In addition to its technological fame, Hoover Dam is known as a masterpiece of <http://www.j-archive.com/media/2004-06-04_DJ_30a.jpg> this 1930s design style | Art Deco
+right: Neil
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ken: $33,600
+Neil: $12,200
+Dane: $5,000
+
+Final Jeopardy! Round
+RECORD HOLDERS | Phoebe Snetsinger, she of the apropos first name, set a record for this activity, about 8,400 species | birdwatching
+right: Ken
+Wrong: 
+Dane: What is [naming crossed out] naming?
+Neil: What is butterfly collecting
+Wagers: 
+Dane: $3,000
+Neil: $2,000
+Ken: $3,400
+Final scores:
+Ken: $37,000 (3-day champion: $96,201)
+Neil: $10,200 (2nd place: $2,000)
+Dane: $2,000 (3rd place: $1,000)
+
+Coryat scores
+Ken: $30,600 (36 R(including 3 DDs),1 W)
+Neil: $12,200 (13 R,2 W)
+Dane: $5,000 (9 R,1 W)

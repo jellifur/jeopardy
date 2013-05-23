@@ -1,0 +1,338 @@
+6231 - Monday, October 24, 2011
+Comments: Alex introduces the newly unveiled <i>Jeopardy!</i> Hall of Fame backstage.
+Contestants:
+Laura Bulkin: a pianist and music teacher from Taos, New Mexico
+Francisco Maldonado-Ramirez: a legislative aide from Highland Park, New Jersey
+Balaji Narain: an attorney originally from Cumming, Georgia (whose 1-day cash winnings total $35,400)
+First Jeopardy! Round: VOLCANOES, ALSO SOMETHING YOU WEAR, NOVELS BY CHAPTER TITLE, A "TON" OF PEOPLE, KAN U SPEL BIZNESS?, A TOUR OF EATALY
+VOLCANOES | About its eruption in 79 A.D., an observer wrote that "broad sheets of fire and leaping flames blazed at several points" | Vesuvius
+right: Balaji
+Wrong: 
+Value: $200
+Number: 1
+ALSO SOMETHING YOU WEAR | A hard blow or punch | a sock
+right: Laura
+Wrong: 
+Value: $200
+Number: 4
+NOVELS BY CHAPTER TITLE | "The Shoulder of Athos, the Baldric of Porthos, and the Handkerchief of Aramis" | The Three Musketeers
+right: Francisco
+Wrong: 
+Value: $200
+Number: 12
+A "TON" OF PEOPLE | In 2004 the most valuable guitar, this rocker's Stratocaster "Blackie", sold for $959,500 at auction | (Eric) Clapton
+right: Laura
+Wrong: 
+Value: $200
+Number: 9
+KAN U SPEL BIZNESS? | Dessert topping (the part after "Reddi") | W-I-P
+right: Laura
+Wrong: 
+Balaji: What is W-I-P-P?
+Francisco: What is Whip?
+Value: $200
+Number: 3
+A TOUR OF EATALY | (<http://www.j-archive.com/media/2011-10-24_J_26.jpg> Sarah of the Clue Crew presents the clue from Eataly in New York.)  <http://www.j-archive.com/media/2011-10-24_J_26a.jpg> Parmesan cheese comes from the northern Italian city of Parma, where the whey from cheese making is fed to the local pigs, helping create another famous local product, <http://www.j-archive.com/media/2011-10-24_J_26b.jpg> this | prosciutto
+right: Francisco
+Wrong: 
+Value: $200
+Number: 26
+VOLCANOES | At least 57 people died as a result of this U.S. volcano's May 18, 1980 eruption | Mount St. Helens
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+ALSO SOMETHING YOU WEAR | To avoid or go around the edge of | a skirt
+right: Laura
+Wrong: 
+Value: $400
+Number: 5
+NOVELS BY CHAPTER TITLE | "Four Thousand Leagues Under the Pacific" | 20,000 Leagues Under the Sea
+right: Francisco
+Wrong: 
+Value: $400
+Number: 13
+A "TON" OF PEOPLE | In the 1991 remake of "Father of the Bride", she played the mother of the bride | Diane Keaton
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+KAN U SPEL BIZNESS? | Mr. Potato Head maker (the part after "Play") | S-K-O-O-L
+right: Laura
+Wrong: 
+Value: $400
+Number: 19
+A TOUR OF EATALY | (<http://www.j-archive.com/media/2011-10-24_J_27.jpg> Sarah of the Clue Crew presents the clue from Eataly in New York.)  The Piedmont region is known for <http://www.j-archive.com/media/2011-10-24_J_27a.jpg> bread sticks, which an enthused Napoleon called "little sticks" of this city, that holds a famous shroud | Turin
+right: Balaji
+Wrong: 
+Value: $400
+Number: 27
+VOLCANOES | This youngest surface volcano on the Big Island of Hawaii has distinctive lava formations like Pele's Hair | Kilauea
+right: Balaji
+Wrong: 
+Francisco: What is Mauna Loa?
+Value: $600
+Number: 23
+ALSO SOMETHING YOU WEAR | When followed by "down", it means to eat voraciously | scarf
+right: Balaji
+Wrong: 
+Value: $600
+Number: 6
+NOVELS BY CHAPTER TITLE | "Hester and Pearl" | The Scarlet Letter
+right: Francisco
+Wrong: 
+Value: $600
+Number: 14
+A "TON" OF PEOPLE | He's the voice of country music seen <http://www.j-archive.com/media/2011-10-24_J_11.jpg> here | Blake Shelton
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 11
+KAN U SPEL BIZNESS? | Drugstore with 4,700 outlets (the part before "Aid") | R-I-T-E
+right: Balaji
+Wrong: 
+Value: $600
+Number: 20
+A TOUR OF EATALY | (<http://www.j-archive.com/media/2011-10-24_J_28.jpg> Sarah of the Clue Crew presents the clue from Eataly in New York.)  The rugged Tuscan landscape has a vast number of microclimates, so <http://www.j-archive.com/media/2011-10-24_J_28a.jpg> this wine, made from up to 90% local sangiovese grapes, can very widely from vineyard to vineyard | Chianti
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+VOLCANOES | In 1908 members of Ernest Shackleton's expedition became the first to climb this continent's Mount Erebus | Antarctica
+right: Balaji
+Wrong: 
+Value: $800
+Number: 24
+ALSO SOMETHING YOU WEAR | Hard, quick gasps for air | pants
+right: Laura
+Wrong: 
+Value: $800
+Number: 7
+NOVELS BY CHAPTER TITLE | "Mr. Badger" | The Wind in the Willows
+right: 
+Wrong: 
+Francisco: What is Fantastic Mr. Fox?
+Value: DD: $2,000
+Number: 15
+A "TON" OF PEOPLE | After his death in 1974, his son Mercer took over his band | Duke Ellington
+right: Laura
+Wrong: 
+Value: $800
+Number: 17
+KAN U SPEL BIZNESS? | "Kid tested, mother approved" cereal | K-I-X
+right: Francisco
+Wrong: 
+Value: $800
+Number: 21
+VOLCANOES | This lake lies in a caldera formed when Oregon's Mount Mazama volcano collapsed 7,000 years ago | Crater Lake
+right: Laura
+Wrong: 
+Value: $1000
+Number: 25
+ALSO SOMETHING YOU WEAR | A policy seeking to reduce pollution is referred to as this & trade | cap
+right: Francisco
+Wrong: 
+Value: $1000
+Number: 8
+NOVELS BY CHAPTER TITLE | "The Lotus Eaters" & "Circe" | Ulysses
+right: 
+Wrong: Triple Stumper
+Balaji: What is the Odyssey?
+Laura: What is the Iliad?
+Value: $1000
+Number: 16
+A "TON" OF PEOPLE | His "Boyz N the Hood" earned him the first-ever best director Oscar nomination for an African American | John Singleton
+right: Francisco
+Wrong: 
+Value: $1000
+Number: 18
+KAN U SPEL BIZNESS? | Amazing, phenomenal cleaner from SC Johnson | F-A-N-T-A-S-T-I-K
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+Scores at the first commercial break (after clue 15)
+Balaji: $600
+Francisco: $1,400
+Laura: $2,200
+Scores at the end of the Jeopardy! Round:
+Balaji: $2,000
+Francisco: $1,400
+Laura: $3,400
+Second Jeopardy! Round: TOP OF THE LIST, MAGIC, OLYMPIC GOLD MEDALISTS BY SPORT, COME TO OUR AIDE, POEMS ON POETS, CROSSWORD CLUES "F"
+TOP OF THE LIST | U.S. News & World Report calls this New Haven school the best value college, even with tuition at over $38,000 a year | Yale
+right: Balaji
+Wrong: 
+Value: $400
+Number: 11
+MAGIC | According to tradition, this prop used by magicians should be made of hazel wood cut at sunrise | a wand
+right: Francisco
+Wrong: 
+Value: $400
+Number: 6
+OLYMPIC GOLD MEDALISTS BY SPORT | 1976: Nadia Comaneci; 2008: Nastia Liukin (champions all-around) | gymnastics
+right: Francisco
+Wrong: 
+Value: $400
+Number: 21
+COME TO OUR AIDE | Patrick Jephson, her aide in the 1990s, doesn't aid her reputation with his book "Shadows of a Princess" | Princess Diana
+right: Laura
+Wrong: 
+Value: $400
+Number: 16
+POEMS ON POETS | To hear about "My Highland Lassie" / My poor heart, it yearns / For he wrote 'em, I just quote 'em / He is... | (Rabbie) Burns
+right: Laura
+Wrong: 
+Value: $400
+Number: 30
+CROSSWORD CLUES "F" | The Union Jack (4) | flag
+right: Laura
+Wrong: 
+Value: $400
+Number: 1
+TOP OF THE LIST | According to the Cat Fanciers' Assoc., the top breed of pedigreed cat is this feline with a Middle Eastern name | Persian
+right: Francisco
+Wrong: 
+Value: $800
+Number: 12
+MAGIC | This duo first teamed up in 1975; one was a clown college graduate & juggler, the other, a silent magician | Penn & Teller
+right: Francisco
+Wrong: 
+Value: $800
+Number: 7
+OLYMPIC GOLD MEDALISTS BY SPORT | 1964: Joe Frazier; 1996: Wladimir Klitschko | boxing
+right: Francisco
+Wrong: 
+Value: $800
+Number: 22
+COME TO OUR AIDE | Vladislav Surkov, a longtime aide to this former president, is known as the Kremlin's "Gray Cardinal" | (Vladimir) Putin
+right: Balaji
+Wrong: 
+Value: $800
+Number: 17
+POEMS ON POETS | "The Lamb" & "The Fly" are far from a mess / But this man's "The Tyger" / Gets all the good press | (William) Blake
+right: Balaji
+Wrong: 
+Value: $800
+Number: 29
+CROSSWORD CLUES "F" | Velour, velvet or tricot (6) | fabric
+right: Laura
+Wrong: 
+Value: $800
+Number: 2
+TOP OF THE LIST | Not only is Hartsfield-Jackson in Atlanta the world's busiest airport, this airline based there is the largest | Delta
+right: Balaji
+Wrong: 
+Value: $1200
+Number: 13
+MAGIC | This magician's feats include walking through the Great Wall of China | David Copperfield
+right: Francisco
+Wrong: 
+Value: $1200
+Number: 8
+OLYMPIC GOLD MEDALISTS BY SPORT | 1924: Helen Wills; 2004: Justine Henin-Hardenne | tennis
+right: Francisco
+Wrong: 
+Value: $1200
+Number: 23
+COME TO OUR AIDE | (<http://www.j-archive.com/media/2011-10-24_DJ_18.jpg> Hi.  I'm Chris Matthews.)  Here's a tip for you: for 6 years, I was the top aide to <http://www.j-archive.com/media/2011-10-24_DJ_18a.jpg> this Democrat from Massachusetts when he was Speaker of the House | Tip O'Neill
+right: Balaji
+Wrong: 
+Value: DD: $2,600
+Number: 18
+POEMS ON POETS | Being called "a gargoyle of a man" / May have caused him to lose all hope / But his "Rape of the Lock" was good / He's... | (Alexander) Pope
+right: Laura
+Wrong: 
+Value: $1200
+Number: 28
+CROSSWORD CLUES "F" | Long crack in a rock (7) | fissure
+right: Francisco
+Wrong: 
+Value: $1200
+Number: 3
+TOP OF THE LIST | Not surprisingly, this taste sensation is rocking as Ben & Jerry's top-selling ice cream flavor | Cherry Garcia
+right: Francisco
+Wrong: 
+Value: $1600
+Number: 14
+MAGIC | This 16-letter synonym for sleight of hand comes from the Latin for "nimble finger" | prestidigitation
+right: Laura
+Wrong: 
+Value: $1600
+Number: 9
+OLYMPIC GOLD MEDALISTS BY SPORT | 1904: Thomas Kiely, with 6,036 points; 2000: Erki Nool, with 8,641 | the decathlon
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+COME TO OUR AIDE | In 1948 White House aide Lauchlin Currie told this committee he wasn't a Soviet spy; today we know he was | the House Un-American Activities Committee
+right: Francisco
+Wrong: 
+Balaji: [*]?
+Value: $1600
+Number: 20
+POEMS ON POETS | "A hundred naked maidens" / Danced in his "Faerie Queene" / Give this Elizabethan credit / He sure could set a scene | (Edmund) Spenser
+right: Laura
+Wrong: 
+Value: $1600
+Number: 27
+CROSSWORD CLUES "F" | Islamic legal opinion or directive (5) | fatwa
+right: Laura
+Wrong: 
+Value: $1600
+Number: 4
+TOP OF THE LIST | In 2011 this Nissan model was Consumer Reports' top pick for family sedan | the Altima
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+MAGIC | In November 2000 this illusionist known for his street magic was encased in a block of ice for 63 hours in Times Square | David Blaine
+right: Laura
+Wrong: 
+Value: $2000
+Number: 10
+OLYMPIC GOLD MEDALISTS BY SPORT | 1896: Ellery Clark, 20' 10"; 2000: Ivan Pedroso, 28' 3/4" | the long jump
+right: Francisco
+Wrong: 
+Value: DD: $1,000
+Number: 25
+COME TO OUR AIDE | In 2009 an aide to the Defense Sec. was ensnared in the scandal over a couple who crashed this White House event | the White House State Dinner
+right: Balaji
+Wrong: 
+Francisco: What is the White House Press Correspondent's Dinner?
+Value: $2000
+Number: 19
+POEMS ON POETS | This romantic poet was really not clairvoyant / In 1822 / He put "Hellas" into view / But we wish he was more buoyant | Shelley
+right: Balaji
+Wrong: 
+Value: $2000
+Number: 26
+CROSSWORD CLUES "F" | Smooth move in a bridge game (7) | finesse
+right: Laura
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Balaji: $10,200
+Francisco: $10,400
+Laura: $15,400
+
+Final Jeopardy! Round
+U.S. CITIES | Of the top 10 cities in population within city limits, this one of 1.4 million is the only state capital | Phoenix, Arizona
+right: Balaji
+Wrong: 
+Francisco: What is Atlanta
+Laura: What is Boston?
+Wagers: 
+Balaji: $10,199
+Francisco: $10,400
+Laura: $5,401
+Final scores:
+Balaji: $20,399 (2-day champion: $55,799)
+Francisco: $0 (3rd place: $1,000)
+Laura: $9,999 (2nd place: $2,000)
+
+Coryat scores
+Balaji: $8,800 (13 R(including 1 DD),3 W)
+Francisco: $13,400 (18 R(including 1 DD),4 W(including 1 DD))
+Laura: $15,400 (19 R,1 W)

@@ -1,0 +1,337 @@
+uper Jeopardy! show #1 - Saturday, June 16, 1990
+Comments: <i>Super Jeopardy!</i> quarterfinal game 1.
+Contestants:
+Ouida Rellstab: a teacher from New Orleans, Louisiana
+Steve Rogitz: an operations manager from Torrance, California
+Bruce Naegeli: a law librarian from Phoenix, Arizona
+Bob Verini: a playwright, actor, and director from New York City, New York
+First Jeopardy! Round: "B" IN GEOGRAPHY, ANIMALS, GOLDEN OLDIES, CHEMISTRY, FIRST LADIES, IN THE NEWS
+"B" IN GEOGRAPHY | Strait separating Alaska & the Soviet Union | the Bering Strait
+right: Ouida
+Wrong: 
+Value: 200
+Number: 7
+ANIMALS | Many of these animals forming the Great Barrier Reef are being eaten by crown-of-thorns starfish | coral
+right: Bob
+Wrong: 
+Value: 200
+Number: 8
+GOLDEN OLDIES | Title city of 1967 Scott McKenzie hit subtitled "Be Sure To Wear Some Flowers In Your Hair" | San Francisco
+right: Bob
+Wrong: 
+Value: 200
+Number: 6
+CHEMISTRY | By its formula you could call this common substance oxygen hydride | water (H
+right: Bob
+Wrong: 
+Value: 200
+Number: 26
+FIRST LADIES | Shortly after their wedding Ike told her, "My country comes first and always will.  You come second." | Mamie Doud Eisenhower
+right: Bob
+Wrong: 
+Value: 200
+Number: 1
+IN THE NEWS | For the 1st time, members of this organization established by JFK are being sent to Poland & Hungary | the Peace Corps
+right: Ouida
+Wrong: 
+Value: 200
+Number: 15
+"B" IN GEOGRAPHY | The Ganges & Irrawaddy are among the rivers emptying into this large bay | the Bay of Bengal
+right: Steve
+Wrong: 
+Value: 400
+Number: 9
+ANIMALS | The down this type of duck produces is used to line nests & for jackets, quilts, pillows & sleeping bags | eider
+right: Ouida
+Wrong: 
+Value: 400
+Number: 16
+GOLDEN OLDIES | In Bobbie Gentry's hit song "Ode To Billie Joe", Billie Joe jumped off this bridge | the Tallahatchie
+right: Bob
+Wrong: 
+Value: 400
+Number: 10
+CHEMISTRY | Bronze & brass are examples of this, a mixture of 2 or more metals | an alloy
+right: Ouida
+Wrong: 
+Value: 400
+Number: 27
+FIRST LADIES | Barbara Bush & Raisa Gorbachev spoke at the 1990 commencement at this college | Wellesley
+right: Bob
+Wrong: 
+Steve: What is Smith?
+Value: 400
+Number: 2
+IN THE NEWS | Ronald Reagan was the star witness at the trial of this former national security advisor | John Poindexter
+right: Bob
+Wrong: 
+Value: 400
+Number: 18
+"B" IN GEOGRAPHY | Region of France between the Seine & Marne Valleys famous for its soft white cheese | Brie
+right: Steve
+Wrong: 
+Value: 600
+Number: 11
+ANIMALS | This bright green beetle, a major plant pest, was brought to the U.S. from the orient circa 1916 | a Japanese beetle
+right: Steve
+Wrong: 
+Value: 600
+Number: 17
+GOLDEN OLDIES | "There's a crazy little house beyond the tracks, & ev'rybody calls it" this | the Sugar Shack
+right: Steve
+Wrong: 
+Bob: What is the Love Shack?
+Value: 600
+Number: 12
+CHEMISTRY | This gas is the chief constituent of natural gas | methane
+right: Steve
+Wrong: 
+Value: 600
+Number: 28
+FIRST LADIES | The cologne worn by this wife of our 4th president is still being marketed | Dolley Madison
+right: Bob
+Wrong: 
+Value: 600
+Number: 3
+IN THE NEWS | The town of Kalapana, Hawaii has been virtually destroyed by lava from this volcano | Kîlauea
+right: Steve
+Wrong: 
+Bob: What is Mauna Loa?
+Ouida: Uh, what is Kîlalea?
+Value: 600
+Number: 22
+"B" IN GEOGRAPHY | Alpine Pass connecting Innsbruck, Austria & Bolzano, Italy | the Brenner
+right: Ouida
+Wrong: 
+Value: 800
+Number: 19
+ANIMALS | They're the only living members of the mammalian family Proboscidea | elephants
+right: Steve
+Wrong: 
+Value: 800
+Number: 20
+GOLDEN OLDIES | Of this car, Ronny & The Daytonas sang, "You're really looking fine, 3 deuces & a 4-speed, & a 389" | "Little GTO"
+right: Steve
+Wrong: 
+Value: 800
+Number: 13
+CHEMISTRY | Lampblack consists mostly of this element | carbon
+right: Steve
+Wrong: 
+Value: 800
+Number: 29
+FIRST LADIES | "Murder in the Rose Garden" is the 7th in a series of mystery novels featuring her as a sleuth | Eleanor Roosevelt
+right: Bob
+Wrong: 
+Value: 800
+Number: 4
+IN THE NEWS | 1 of the 2 U.S. hostages released in Lebanon in April 1990 | Frank Reed (or Robert Polhill)
+right: Bob
+Wrong: 
+Value: 800
+Number: 23
+"B" IN GEOGRAPHY | With Hercegovina it forms 1 of Yugoslavia's 6 republics | Bosnia
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 24
+ANIMALS | Salamanders called newts when aquatic are called this when terrestrial | efts
+right: Steve
+Wrong: 
+Value: 1000
+Number: 21
+GOLDEN OLDIES | 1861 song that was the basis of <http://www.j-archive.com/media/1990-06-16_J_14.mp3> the following Elvis Presley hit:  "Love me tender, love me sweet, never let me go / You have made my life complete..." | "Aura Lee"
+right: 
+Wrong: 
+Steve: What is "Inka Dinka Doo"?
+Value: DD: 2,000
+Number: 14
+FIRST LADIES | Julia Gardiner, the 1st to marry a president while in office, married this Virginian in 1844 | (John) Tyler
+right: Steve
+Wrong: 
+Bob: Who is Polk?
+Value: 1000
+Number: 5
+IN THE NEWS | She's the Democrat running for governor of Texas in 1990 | Ann Richards
+right: Bob
+Wrong: 
+Value: 1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Bob: 1,200
+Bruce: 0
+Steve: 1,000
+Ouida: 200
+Scores at the end of the Jeopardy! Round:
+Bob: 3,000
+Bruce: 1,000
+Steve: 5,400
+Ouida: 1,400
+Second Jeopardy! Round: AMERICAN REVOLUTION, THE HUMAN BODY, SIGNS & SYMBOLS, BRAZIL, REFERENCE BOOKS, PALACES
+AMERICAN REVOLUTION | During the winter of 1777, Washington reorganized his army at this site | Valley Forge
+right: Ouida
+Wrong: 
+Value: 500
+Number: 1
+THE HUMAN BODY | Also called the corium, it's the thicker layer of skin under the epidermis | the dermis
+right: Bruce
+Wrong: 
+Value: 500
+Number: 2
+SIGNS & SYMBOLS | The geometric ratio 3.14159265 is symbolized by this, the 16th letter of the Greek alphabet | pi
+right: Bob
+Wrong: 
+Value: 500
+Number: 12
+BRAZIL | When viewed from the air, the layout of this capital city looks like an airplane | Brasília
+right: Steve
+Wrong: 
+Value: 500
+Number: 18
+REFERENCE BOOKS | According to the World Almanac, his "Baby and Child Care" is the all-time best selling paperback book | Dr. Spock
+right: Bob
+Wrong: 
+Value: 500
+Number: 6
+PALACES | This city's Potala Palace was home to Dalai Lamas for over 300 years | Lhasa
+right: Bruce
+Wrong: 
+Ouida: What is Tibet?
+Value: 500
+Number: 26
+AMERICAN REVOLUTION | At the end of the Revolution currency was so worthless, "not worth" 1 of these became a common phrase | a Continental
+right: Ouida
+Wrong: 
+Value: 1000
+Number: 3
+THE HUMAN BODY | This tube that carries food from throat to stomach is the narrowest part of the digestive tract | the esophagus
+right: Ouida
+Wrong: 
+Value: 1000
+Number: 4
+SIGNS & SYMBOLS | This hockey team's logo features a fluke & a "W" | the Hartford Whalers
+right: Steve
+Wrong: 
+Value: 1000
+Number: 13
+REFERENCE BOOKS | Published in 1985, the 2nd edition of this dictionary costs $2500 | the Oxford English Dictionary
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 7
+PALACES | This palace facing St. James Park was built for John Sheffield in 1703 | Buckingham Palace
+right: 
+Wrong: Quadruple Stumper
+Value: 1000
+Number: 25
+AMERICAN REVOLUTION | The Battle of Bunker Hill occurred on this hill | Breed's Hill
+right: Bob
+Wrong: 
+Value: 1500
+Number: 8
+THE HUMAN BODY | In humans night blindness is an early sign of a deficiency of this vitamin | A
+right: Bob
+Wrong: 
+Steve: What is K?
+Ouida: What is C?
+Value: 1500
+Number: 5
+SIGNS & SYMBOLS | The value of this answer in Roman numerals | MD
+right: Bob
+Wrong: 
+Value: 1500
+Number: 16
+REFERENCE BOOKS | U.S. historian Allan Nevins is known for his multi-volume works on this war | the Civil War
+right: Bob
+Wrong: 
+Value: 1500
+Number: 9
+PALACES | A palace in Florence has a mural featuring portraits of this ruling family | the Medici
+right: Bob
+Wrong: 
+Value: 1500
+Number: 24
+AMERICAN REVOLUTION | This brother of explorer William Clark used his own money to feed & pay his soldiers | George Rogers Clark
+right: Steve
+Wrong: 
+Value: 2000
+Number: 14
+THE HUMAN BODY | Harder than bone but softer than enamel, it's the yellowish tissue that makes up the bulk of a tooth | dentin
+right: 
+Wrong: Quadruple Stumper
+Value: 2000
+Number: 21
+SIGNS & SYMBOLS | This month's birthstone is turquoise, & its flower, the holly | December
+right: Bob
+Wrong: 
+Value: 2000
+Number: 17
+REFERENCE BOOKS | Her "Boston Cooking-School Cookbook", first published in 1896, is still sold today | Fannie Farmer
+right: Bob
+Wrong: 
+Value: 2000
+Number: 10
+PALACES | Al-Nadwa Palace in Amman is home to this King | King Hussein
+right: Bruce
+Wrong: 
+Value: DD: 5,000
+Number: 23
+AMERICAN REVOLUTION | The Americans took nearly 6,000 prisoners at this N.Y. State battle, called a turning point in the war | Saratoga
+right: Steve
+Wrong: 
+Value: 2500
+Number: 15
+THE HUMAN BODY | The movable lower jaw is the mandible; the fixed upper jaw is called this | the maxilla
+right: Ouida
+Wrong: 
+Value: 2500
+Number: 20
+SIGNS & SYMBOLS | Among the symbols in its major arcana are the sun, a hanged man & a fool | tarot cards
+right: Ouida
+Wrong: 
+Value: 2500
+Number: 19
+BRAZIL | Brazil shares borders with all South American countries except for Chile & this one | Ecuador
+right: Bob
+Wrong: 
+Value: 2500
+Number: 27
+REFERENCE BOOKS | "The History of the Decline & Fall of the Roman Empire" ends in 1453 with the fall of this city | Constantinople
+right: Bob
+Wrong: 
+Value: DD: 5,000
+Number: 11
+PALACES | Mary, Queen of Scots, bathed in wine in a small building near this palace | Holyrood
+right: Bruce
+Wrong: 
+Value: 2500
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Bob: 23,000
+Bruce: 10,500
+Steve: 9,900
+Ouida: 6,900
+
+Final Jeopardy! Round
+THE 50 STATES | Of all the states named after Indian tribes, this one is the farthest west | Utah
+right: Steve
+Wrong: 
+Ouida: What is [Hawaii crossed off]
+Bruce: What is Oregon?
+Bob: What is Idaho?
+Wagers: 
+Ouida: 6,900
+Steve: 9,900
+Bruce: 10,500
+Bob: 100
+Final scores:
+Bob: 22,900 (Semifinalist)
+Bruce: 0 (3rd place: $5,000)
+Steve: 19,800 (2nd place: $5,000)
+Ouida: 0 (4th place: $5,000)
+
+Coryat scores
+Bob: 20,500 (22 R(including 1 DD),3 W)
+Bruce: 7,500 (6 R(including 1 DD),0 W)
+Steve: 11,900 (15 R,3 W(including 1 DD))
+Ouida: 6,900 (10 R,3 W)

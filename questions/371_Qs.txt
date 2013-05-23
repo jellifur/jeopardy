@@ -1,0 +1,345 @@
+2815 - Friday, November 22, 1996
+Comments: 1996 Tournament of Champions quarterfinal game 5.
+Contestants:
+Bob Scarpone: an attorney from Flanders, New Jersey
+Barbara Walker: an elementary school principal from Westminster, Maryland
+Michael Daunt: an accountant from Waterloo, Ontario, Canada
+First Jeopardy! Round: TRAITORS, ANATOMY, BUSINESS & INDUSTRY, GEOGRAPHY, WHAT A DISH!, SEAN CONNERY FILMS
+TRAITORS | In 1781 this traitor's troops massacred the American militia at Fort Griswold in CT | Benedict Arnold
+right: Bob
+Wrong: 
+Value: $100
+Number: 12
+ANATOMY | The cones in the eye allow us to see colors and these light-sensitive cells allow us to see shades of gray | rods
+right: Bob
+Wrong: 
+Value: $100
+Number: 22
+BUSINESS & INDUSTRY | This No. 1 U.S. bleach company was originally known as The Electro-Alkaline Company | Clorox
+right: Barbara
+Wrong: 
+Value: $100
+Number: 17
+GEOGRAPHY | The Ishikari Plain is the largest lowland on this country's Hokkaido island | Japan
+right: Barbara
+Wrong: 
+Value: $100
+Number: 1
+WHAT A DISH! | Mash & bake these vegetables, add eggs & butter & they're duchesse | potatoes
+right: Barbara
+Wrong: 
+Value: $100
+Number: 6
+SEAN CONNERY FILMS | He was a London publisher who loved a Russian girl in "The Russia House" & a Russian sub captain in this | The Hunt for Red October
+right: Bob
+Wrong: 
+Value: $100
+Number: 7
+TRAITORS | To punish Quisling & 24 other traitors, this country reinstated the death penalty | Norway
+right: Michael
+Wrong: 
+Value: $200
+Number: 13
+ANATOMY | 2 muscles, the brachialis & this one, allow you to bend your arm at the elbow | the biceps
+right: Barbara
+Wrong: 
+Value: $200
+Number: 23
+BUSINESS & INDUSTRY | When this soda company jokingly offered a Harrier jet for 7 million points, John Leonard tried to claim it | Pepsi
+right: Michael
+Wrong: 
+Value: $200
+Number: 27
+GEOGRAPHY | Point Tarifa, in Andalusia in this country, is Europe's southernmost point | Spain
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+WHAT A DISH! | Gravlax is this red-fleshed fish with mustard sauce | salmon
+right: Barbara
+Wrong: 
+Value: $200
+Number: 18
+SEAN CONNERY FILMS | Connery caught the Best Supporting Actor Oscar for this 1987 film | The Untouchables
+right: Bob
+Wrong: 
+Value: $200
+Number: 8
+TRAITORS | To this Scottish hero, executed as a traitor, August 23, 1305, we raise not our martinis but our Gibsons | William Wallace
+right: Michael
+Wrong: 
+Value: $300
+Number: 14
+ANATOMY | The hip is a ball-and-socket joint consisting of the acetabulum & the head of this bone | the femur
+right: Michael
+Wrong: 
+Value: $300
+Number: 24
+BUSINESS & INDUSTRY | In 1993 Louis V. Gerstner became the first outsider to head this computer giant | IBM
+right: Michael
+Wrong: 
+Value: $300
+Number: 28
+GEOGRAPHY | This European country's 14,000' mountains include Weisshorn, Taschhorn & Finsteraarhorn | Switzerland
+right: Michael
+Wrong: 
+Value: $300
+Number: 3
+WHAT A DISH! | The Indonesian gado-gado is vegetables in this legume sauce | peanut sauce
+right: Bob
+Wrong: 
+Value: $300
+Number: 19
+SEAN CONNERY FILMS | In this 1992 film, Connery finds & loses a cancer cure in a rainforest | Medicine Man
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 9
+TRAITORS | Epialtes, a Greek traitor, allowed Xerxes I of this empire to capture Thermopylae | the Persian Empire
+right: Michael
+Wrong: 
+Value: $400
+Number: 15
+ANATOMY | This section of the respiratory tract is also known as the windpipe | the trachea
+right: Bob
+Wrong: 
+Value: $400
+Number: 25
+BUSINESS & INDUSTRY | Delta Airlines moved its headquarters from Monroe, La. to this city in 1941 | Atlanta, Georgia
+right: Barbara
+Wrong: 
+Value: $400
+Number: 29
+GEOGRAPHY | This country's Kemijoki River rises near the Russian border and empties into the Gulf of Bothnia | Finland
+right: 
+Wrong: 
+Michael: What is Kazakhstan?
+Value: DD: $500
+Number: 4
+WHAT A DISH! | Devils on Horseback are stuffed prunes, & Angels on Horseback are oysters wrapped in this | bacon
+right: Michael
+Wrong: 
+Value: $400
+Number: 20
+SEAN CONNERY FILMS | As Danny to Michael Caine's Peachy, Connery was this title character in a 1975 John Huston film | The Man Who Would Be King
+right: Bob
+Wrong: 
+Value: $400
+Number: 10
+TRAITORS | This head of Vichy France died in 1951 on Ile de Re off the coast of Brittany | Marshal Henri Petain
+right: Michael
+Wrong: 
+Value: $500
+Number: 16
+ANATOMY | Among the hormones secreted by these glands are hydrocortisone & aldosterone | the adrenal glands
+right: Bob
+Wrong: 
+Value: $500
+Number: 26
+BUSINESS & INDUSTRY | This 825,000 acre Texas ranch introduced the Santa Cruz, a new breed of beef cattle, in 1995 | The King Ranch
+right: Barbara
+Wrong: 
+Value: $500
+Number: 30
+GEOGRAPHY | This capital of Queensland in Australia was founded as a station for British convicts in 1824 | Brisbane
+right: Barbara
+Wrong: 
+Value: $500
+Number: 5
+WHAT A DISH! | Sauce you put on the ice cream & peaches of a Peach Melba | raspberry sauce
+right: Barbara
+Wrong: 
+Value: $500
+Number: 21
+SEAN CONNERY FILMS | Although he's Scottish, the luck of the Irish got Connery cast in this 1959 Disney film about the wee folk | Darby O' Gill and the Little People
+right: Bob
+Wrong: 
+Value: $500
+Number: 11
+Scores at the first commercial break (after clue 15)
+Michael: -$200
+Barbara: $700
+Bob: $1,500
+Scores at the end of the Jeopardy! Round:
+Michael: $2,400
+Barbara: $2,600
+Bob: $2,800
+Second Jeopardy! Round: HISTORIC PEOPLE, POSTAGE STAMPS, QUOTABLE WOMEN, PHOTOGRAPHY, PENNSYLVANIA, BOOKS & AUTHORS
+HISTORIC PEOPLE | In 1890 this German emperor forced Otto Von Bismarck to resign as chancellor | Kaiser Wilhelm II
+right: Michael
+Wrong: 
+Bob: Who is Wilhelm?
+Value: $200
+Number: 1
+POSTAGE STAMPS | Mighty Casey, Pecos Bill, John Henry & this lumberjack appeared on 1996 stamps honoring folk heroes | Paul Bunyan
+right: Bob
+Wrong: 
+Value: $200
+Number: 30
+QUOTABLE WOMEN | "Husbands are like fires; they go out when unattended" quipped this blonde from Budapest, dahlink | Zsa Zsa Gabor
+right: Bob
+Wrong: 
+Value: $200
+Number: 6
+PHOTOGRAPHY | This telegraph pioneer introduced Mathew Brady to photography in the 1840s | Samuel Morse
+right: Michael
+Wrong: 
+Barbara: Who is Alexander Graham Bell?
+Value: $200
+Number: 17
+PENNSYLVANIA | The section of Hwy. 422 that passes through this town is known as Chocolate Avenue | Hershey
+right: Michael
+Wrong: 
+Value: $200
+Number: 16
+BOOKS & AUTHORS | Irving Wallace wrote 1959's "The Fabulous Showman" about this "Prince of Humbugs" | P.T. Barnum
+right: Michael
+Wrong: 
+Value: $200
+Number: 9
+HISTORIC PEOPLE | This Babylonian king's code of laws is said to have been inspired by the sun god, Shamash | Hammurabi
+right: Barbara
+Wrong: 
+Value: $400
+Number: 2
+POSTAGE STAMPS | This female gymnast was featured on a 1976 stamp celebrating Romania's Olympic medalists | Nadia Comaneci
+right: Michael
+Wrong: 
+Value: $400
+Number: 29
+QUOTABLE WOMEN | Fran Leibowitz said, "Never allow your child to call you by this name; he hasn't known you long enough" | Your First Name
+right: Michael
+Wrong: 
+Value: $400
+Number: 7
+PHOTOGRAPHY | It's another name for a movie's director of photography | Cinematographer
+right: Bob
+Wrong: 
+Value: $400
+Number: 18
+PENNSYLVANIA | In 1931 this ruffed game bird became the state bird | Ruffed Grouse
+right: Bob
+Wrong: 
+Value: $400
+Number: 22
+BOOKS & AUTHORS | In 1831 this artist & naturalist began to write "The Ornithological Biography" | John James Audubon
+right: Bob
+Wrong: 
+Value: $400
+Number: 12
+HISTORIC PEOPLE | This Portuguese sailor was known as "The Admiral of the Indian Seas" | Vasco Da Gama
+right: Michael
+Wrong: 
+Value: $600
+Number: 3
+POSTAGE STAMPS | A 1982 Cuban stamp commemorated the 15th anniversary of this revolutionary's death | Ernesto "Che" Guevara
+right: Michael
+Wrong: 
+Value: $600
+Number: 26
+QUOTABLE WOMEN | "America is not old enough yet to get young again", remarked this expatriate who lived in Paris | Gertrude Stein
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+PHOTOGRAPHY | This author excelled as a photographer of children & Alice Liddell was one of his subjects | Lewis Carroll
+right: Bob
+Wrong: 
+Value: $600
+Number: 19
+PENNSYLVANIA | Although called a state, Pennsylvania is actually this, as are Kentucky, Massachusetts & Virginia | Commonwealth
+right: Barbara
+Wrong: 
+Value: $600
+Number: 23
+BOOKS & AUTHORS | Both he & the publisher of his "Madame Bovary" were acquited on charges of immorality | Gustauve Flaubert
+right: Bob
+Wrong: 
+Value: $600
+Number: 13
+HISTORIC PEOPLE | In 1994 the NAACP awarded this poetess its Spingarn Medal for highest achievement by a black American | Maya Angelou
+right: Michael
+Wrong: 
+Value: $800
+Number: 4
+POSTAGE STAMPS | A U.S. stamp from 1965 commemorated the 700th anniversary of the birth of this Italian poet | Dante Aligheri
+right: Michael
+Wrong: 
+Value: $800
+Number: 27
+QUOTABLE WOMEN | Round Table wit who noted, "Scratch a lover & find a foe" | Dorothy Parker
+right: Bob
+Wrong: 
+Value: $800
+Number: 10
+PHOTOGRAPHY | Minor White succeeded this man as director of photography at the California School of Fine Arts in 1947 | Ansel Adams
+right: 
+Wrong: 
+Bob: Who is Man Ray?
+Value: DD: $1,500
+Number: 20
+PENNSYLVANIA | These 2 rivers form the Ohio River in western Pennsylvania | Allegheny & Monongahela
+right: Bob
+Wrong: 
+Value: $800
+Number: 24
+BOOKS & AUTHORS | Allan Drury won a 1960 Pulitzer Prize for this novel about the seamy underside of Congress | "Advise And Consent"
+right: Bob
+Wrong: 
+Value: $800
+Number: 14
+HISTORIC PEOPLE | On January 6, 1066, one day after Edward the Confessor died, he became king of England | Harold
+right: Michael
+Wrong: 
+Bob: Who is William the Conqueror?
+Value: $1000
+Number: 5
+POSTAGE STAMPS | (VIDEO DAILY DOUBLE): A recent stamp honoring this artist featured the work seen here: | Georgia O'Keeffe ("Red Poppy")
+right: 
+Wrong: 
+Value: DD: $900
+Number: 28
+QUOTABLE WOMEN | This member of Parliament reportedly said, " I married beneath me, all women do" | Lady Astor
+right: Michael
+Wrong: 
+Bob: Who is Vanessa Redgrave?
+Value: $1000
+Number: 11
+PHOTOGRAPHY | This German camera changed photojournalism in the 1920s with its small size & brief exposure times | Leica
+right: Bob
+Wrong: 
+Value: $1000
+Number: 21
+PENNSYLVANIA | 1 of Pennsylvania's 2 U.S. Senators | Arlen Specter & Rick Santorum
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+BOOKS & AUTHORS | Sally Bowles, a minimally talented nightclub singer, is the heroine of his "Goodbye To Berlin" stories | Christopher Isherwood
+right: Bob
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Michael: $7,900
+Barbara: $3,400
+Bob: $6,900
+
+Final Jeopardy! Round
+TELEVISION HISTORY | Set in the 1870s, it ran from 1955 to 1975 | Gunsmoke
+right: Bob | Michael
+Wrong: 
+Barbara: What is Bonanza?
+Wagers: 
+Barbara: $3,400
+Bob: $1,001
+Michael: $2,400
+Final scores:
+Michael: $10,300 (Automatic semifinalist)
+Barbara: $0 (3rd place: $1,000 if eliminated)
+Bob: $7,901 (2nd place: $1,000 if eliminated)
+
+Coryat scores
+Michael: $9,300 (21 R,2 W(including 2 DDs))
+Barbara: $3,400 (11 R,1 W)
+Bob: $8,400 (23 R,4 W(including 1 DD))

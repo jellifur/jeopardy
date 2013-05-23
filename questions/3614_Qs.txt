@@ -1,0 +1,348 @@
+6121 - Monday, April 4, 2011
+Comments: Christopher Short game 2.
+Contestants:
+Tom Moosbrugger: a library worker from Columbus, Ohio
+Ko Otaka: a realtor from Washington, D.C.
+Christopher Short: a pub trivia editor from Crawfordsville, Indiana (whose 1-day cash winnings total $21,600)
+First Jeopardy! Round: PLAY STATION, FACE BOOK, HANDHELD, AYE, "PAD", ONLINE, JEOPARDY PLATFORMS
+PLAY STATION | Sean O'Casey's "Juno and the Paycock" is set in the 1920s in a tenement building in this capital city | Dublin
+right: Ko
+Wrong: 
+Value: $200
+Number: 6
+FACE BOOK | Possessing 5 faces & 15 eyes, Pancanana is a demon god of this Asian religion | Hinduism
+right: Ko
+Wrong: 
+Value: $200
+Number: 11
+HANDHELD | Used by bird watchers, these items are simply a connected pair of handheld telescopes | binoculars
+right: Tom
+Wrong: 
+Value: $200
+Number: 25
+AYE, "PAD" | Composer & priest Giovanni Martini is known by this "fatherly" title | Padre
+right: Tom
+Wrong: 
+Value: $200
+Number: 1
+ONLINE | In 2010 this site removed its adult services listings | Craigslist
+right: Christopher
+Wrong: 
+Ko: What is Google?
+Value: $200
+Number: 16
+JEOPARDY PLATFORMS | Hemingway's "The Dangerous Summer" was inspired by Dominguin, who worked in this type of sporting arena | a bullfighting arena
+right: Tom
+Wrong: 
+Value: $200
+Number: 21
+PLAY STATION | William Inge set both "Picnic" & "Bus Stop" in this Midwestern state | Kansas
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+FACE BOOK | According to Christopher Marlowe, hers was "The face that launched a thousand ships" | Helen of Troy
+right: Christopher
+Wrong: 
+Value: $400
+Number: 12
+HANDHELD | President Obama says one of his worst habits is frequently checking this handheld device from RIM | a BlackBerry
+right: Christopher
+Wrong: 
+Value: $400
+Number: 27
+AYE, "PAD" | Saddle up!  It's from the Middle English for "enclosure" | paddock
+right: Christopher
+Wrong: 
+Value: $400
+Number: 2
+ONLINE | In this rural social networking game from Zynga, you start with 6 plots of land | Farmville
+right: Christopher
+Wrong: 
+Value: $400
+Number: 17
+JEOPARDY PLATFORMS | In 1975, the USS Kirk had to push helicopters off its deck as it helped people fleeing from this Asian capital | Saigon
+right: Ko
+Wrong: 
+Tom: What is Hanoi?
+Value: $400
+Number: 22
+PLAY STATION | Many believe that this hamlet in the play "Our Town" represented Peterborough, New Hampshire | Grover's Corners
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+FACE BOOK | This military marching command to reverse is the title of Col. David H. Hackworth's "Odyssey of an American Warrior" | about-face
+right: Tom
+Wrong: 
+Value: $600
+Number: 13
+HANDHELD | They're the handheld percussion instruments heard <http://www.j-archive.com/media/2011-04-04_J_28.mp3> here | castanets
+right: Tom
+Wrong: 
+Value: $600
+Number: 28
+AYE, "PAD" | Princess Amidala, to her friends | Padmé
+right: Christopher
+Wrong: 
+Value: $600
+Number: 3
+ONLINE | Online ABC & Disney users know to type these 2 letters prior to ".com" to use those sites | G-O
+right: Tom
+Wrong: 
+Value: $600
+Number: 18
+JEOPARDY PLATFORMS | The Kangshung Face, the North Col & the Khumu Icefall are all parts of this dangerous place | Mt. Everest
+right: 
+Wrong: 
+Ko: Um, what is Antarctica?
+Value: DD: $1,000
+Number: 23
+PLAY STATION | In a musical, MacConnachy Square is in the heart of this enchanted Scottish village | Brigadoon
+right: Christopher
+Wrong: 
+Value: $800
+Number: 9
+FACE BOOK | In Catholic lore, when this female saint wiped the sweat from Jesus' face with her veil, an image of him remained there | Veronica
+right: 
+Wrong: Triple Stumper
+Christopher: Who is Salome?
+Ko: Who is Mary Magdelene?
+Tom: Who is Saint Teresa?
+Value: $800
+Number: 14
+HANDHELD | 4-letter word for any article used to dress a stage for a scene, or any object carried by hand onstage | a prop
+right: Tom
+Wrong: 
+Value: $800
+Number: 29
+AYE, "PAD" | This device has a U-shaped bar that goes through a loop called a staple | a padlock
+right: Christopher
+Wrong: 
+Value: $800
+Number: 4
+ONLINE | Julian Assange runs this site known for posting U.S. military documents, to the Pentagon's displeasure | WikiLeaks
+right: Tom
+Wrong: 
+Value: $800
+Number: 19
+JEOPARDY PLATFORMS | A train platform spells final jeopardy for this Tolstoy title heroine | Anna Karenina
+right: Christopher
+Wrong: 
+Value: $800
+Number: 24
+PLAY STATION | This title swordsman & poet visits Roxane, whom he loves, at her convent every week for almost 15 years | Cyrano
+right: Tom
+Wrong: 
+Value: $1000
+Number: 10
+FACE BOOK | In 1910 this man published his story collection "Lost Face", which includes "To Build a Fire" | Jack London
+right: Tom
+Wrong: 
+Value: $1000
+Number: 15
+HANDHELD | On "Star Trek" handheld devices included tricorders & these weapons with a "stun" setting | phasers
+right: Christopher
+Wrong: 
+Value: $1000
+Number: 30
+AYE, "PAD" | Found at the confluence of the Ohio & Tennessee Rivers, it's the seat of McCracken County, Kentucky | Paducah
+right: Christopher
+Wrong: 
+Value: $1000
+Number: 5
+ONLINE | Wake up, pops!  Danica Patrick can be seen in ads for this domain-procuring site | GoDaddy.com
+right: Tom
+Wrong: 
+Value: $1000
+Number: 20
+JEOPARDY PLATFORMS | Alliterative term for a feat done by 1920s barnstorming pilots; the man who did it first had less than a 2-year career | wing walking
+right: Ko
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Christopher: $3,200
+Ko: -$400
+Tom: $2,000
+Scores at the end of the Jeopardy! Round:
+Christopher: $6,000
+Ko: -$200
+Tom: $5,800
+Second Jeopardy! Round: ARCHITECTURE, THE MOGULS & THE MOVIES, POETIC QUESTIONS, NOT WHAT IT SOUNDS LIKE, FOUNTAINS, IN THE DICTIONARY
+ARCHITECTURE | This style of home named for a Massachusetts peninsula features a gabled roof & a central chimney | a Cape Cod
+right: Ko
+Wrong: 
+Value: $400
+Number: 1
+THE MOGULS & THE MOVIES | Starting in 1915, Carl Laemmle built this "city" named for his studio, complete with its own mayor & fire department | Universal City
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+POETIC QUESTIONS | This piece of Edgar Allan Poe-try asks, "Is there--is there balm in Gilead?--tell me--tell me, I implore!" | "The Raven"
+right: Christopher
+Wrong: 
+Value: $400
+Number: 17
+NOT WHAT IT SOUNDS LIKE | Combine the last name of writer Virginia & the strong safety who rushes the QB to get this newsman (5, 7) | Woolf Blitzer
+right: Christopher
+Wrong: 
+Value: $400
+Number: 5
+FOUNTAINS | The fountains in <http://www.j-archive.com/media/2011-04-04_DJ_19.jpg> this French palace express the power of the king over nature | Versailles
+right: Tom
+Wrong: 
+Value: $400
+Number: 19
+IN THE DICTIONARY | It follows blue, cran & straw | berry
+right: Christopher
+Wrong: 
+Value: $400
+Number: 10
+ARCHITECTURE | This British architectural style began with the accession of Henry VII in the late 15th century | Tudor
+right: Ko
+Wrong: 
+Value: DD: $2,000
+Number: 2
+THE MOGULS & THE MOVIES | These brothers brought sound to the big screen with "The Jazz Singer" | the Warner Brothers
+right: Christopher
+Wrong: 
+Value: $800
+Number: 22
+POETIC QUESTIONS | In "Song of Myself", he asked, "Do I contradict myself?" | Whitman
+right: Tom
+Wrong: 
+Value: $800
+Number: 18
+NOT WHAT IT SOUNDS LIKE | A courteous & respectful set of dishes & utensils, as for afternoon tea (5, 7) | civil service
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+FOUNTAINS | This European capitol is famous for its fountains, like the one seen <http://www.j-archive.com/media/2011-04-04_DJ_20.jpg> here depicting <http://www.j-archive.com/media/2011-04-04_DJ_20a.jpg> Triton | Rome
+right: Tom
+Wrong: 
+Value: $800
+Number: 20
+IN THE DICTIONARY | This synonym for shy is derived from abash, meaning to embarrass | bashful
+right: Christopher
+Wrong: 
+Value: $800
+Number: 11
+ARCHITECTURE | From 1938 to 1952 this Bauhaus creator headed Harvard's architecture department | (Walter) Gropius
+right: Ko
+Wrong: 
+Value: $1200
+Number: 3
+THE MOGULS & THE MOVIES | The moguls proved their patriotism with movies like <http://www.j-archive.com/media/2011-04-04_DJ_23.wmv> this one, in which Bogey battles Germans in the title desert | Sahara
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+POETIC QUESTIONS | His "Love Song of J. Alfred Prufrock" asks, "Do I dare disturb the universe?" | Eliot
+right: Ko
+Wrong: 
+Value: $1200
+Number: 26
+NOT WHAT IT SOUNDS LIKE | A depressed young southern lady; perhaps her beau is gone (4, 5) | blue belle
+right: Christopher
+Wrong: 
+Value: $1200
+Number: 7
+FOUNTAINS | Take in a night show every 15 minutes in front of <http://www.j-archive.com/media/2011-04-04_DJ_21.jpg> this Las Vegas hotel | the Bellagio
+right: Christopher
+Wrong: 
+Value: $1200
+Number: 21
+IN THE DICTIONARY | Slower than a gallop, this horse's gait is named for a pilgrimage site in England | canter
+right: Tom
+Wrong: 
+Value: $1200
+Number: 12
+ARCHITECTURE | Craftsman homes feature these on the porch, but they're square, not round as in ancient Greek temples | columns
+right: Christopher
+Wrong: 
+Value: $1600
+Number: 4
+THE MOGULS & THE MOVIES | Under siege by TV, Darryl F, Zanuck publicly declared every picture he made would now be in this widescreen process | CinemaScope
+right: Ko
+Wrong: 
+Value: $1600
+Number: 24
+POETIC QUESTIONS | This poet innocently wondered, "Little lamb, who made thee?" | William Blake
+right: 
+Wrong: 
+Ko: Uh... Who is Wordsworth?
+Value: DD: $2,000
+Number: 27
+NOT WHAT IT SOUNDS LIKE | Complete demolition of a tall grass that produces sugar (6, 4) | razing cane
+right: Christopher
+Wrong: 
+Value: $1600
+Number: 8
+FOUNTAINS | This Chicago fountain seen <http://www.j-archive.com/media/2011-04-04_DJ_29.jpg> here has the same name as a palace | the Buckingham Fountain
+right: Tom
+Wrong: 
+Value: $1600
+Number: 29
+IN THE DICTIONARY | With a small circle above it, this letter represents a unit used to measure light wavelengths | an A
+right: Tom
+Wrong: 
+Value: $1600
+Number: 13
+ARCHITECTURE | (<http://www.j-archive.com/media/2011-04-04_DJ_15.jpg>  Sarah of the Clue Crew presents the clue on a monitor.)  A cupola is the top structure of a <http://www.j-archive.com/media/2011-04-04_DJ_15a.jpg> dome; when the windows or walls are opened to illuminate the dome <http://www.j-archive.com/media/2011-04-04_DJ_15b.jpg> interior, it's this type of cupola, sharing its name with a certain portable light | a lantern
+right: Tom
+Wrong: 
+Value: $2000
+Number: 15
+THE MOGULS & THE MOVIES | William Randolph Hearst was said to have spent $7 million promoting the career of <http://www.j-archive.com/media/2011-04-04_DJ_25.jpg> this <http://www.j-archive.com/media/2011-04-04_DJ_25a.jpg> actress, his companion | Marion Davies
+right: Ko
+Wrong: 
+Value: $2000
+Number: 25
+POETIC QUESTIONS | Keats' ode to this bird ends, "Was it a vision, or a waking dream? Fled is that music: --do I wake or sleep?" | the nightingale
+right: Tom
+Wrong: 
+Value: $2000
+Number: 28
+NOT WHAT IT SOUNDS LIKE | The area or subject covered by 19th c. writer Bret when he was a reporter (5, 4) | Harte beat
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 9
+FOUNTAINS | The fountain seen <http://www.j-archive.com/media/2011-04-04_DJ_30.jpg> here is a symbol of this Swiss city; note that it's in a lake | Geneva
+right: Tom
+Wrong: 
+Value: $2000
+Number: 30
+IN THE DICTIONARY | From the Italian for "little property", it can be a trifle or a short, light piece of music or verse | bagatelle
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+Christopher: $14,400
+Ko: $6,200
+Tom: $18,200
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | These 3 nations each border the world's largest & smallest oceans | Russia, the United States & Canada
+right: 
+Wrong: 
+Ko: What are [U.S. Canada Mexi crossed out] India Sri Lanka?
+Christopher: What are Australia, Papua New Guinea, Borneo
+Tom: What are Australia, Indonesia, and Malaysia
+Wagers: 
+Ko: $6,200
+Christopher: $4,000
+Tom: $10,601
+Final scores:
+Christopher: $10,400 (2-day champion: $32,000)
+Ko: $0 (3rd place: $1,000)
+Tom: $7,599 (2nd place: $2,000)
+
+Coryat scores
+Christopher: $14,400 (20 R,1 W)
+Ko: $8,000 (10 R(including 1 DD),4 W(including 2 DDs))
+Tom: $18,200 (20 R,2 W)

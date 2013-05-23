@@ -1,0 +1,344 @@
+4781 - Monday, May 23, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 5, game 1.
+Contestants:
+Ken Jennings: a software engineer from Salt Lake City, Utah
+Brad Rutter: a TV quiz show host from Lancaster, Pennsylvania
+Jerome Vered: a writer from Los Angeles, California
+First Jeopardy! Round: THE SMART SET, EGGHEADS, SHEER GENIUS!, SHREW-ED, HIGH INTELLIGENCE, "BRIL"-LIANT!
+THE SMART SET | As co-editor of the influential magazine The Smart Set, this Baltimorean attacked the "booboisie" | (H.L.) Mencken
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+EGGHEADS | As "The Absent-Minded Professor", Fred MacMurray reached new heights after discovering this magical substance | flubber
+right: Brad
+Wrong: 
+Value: $200
+Number: 11
+SHEER GENIUS! | Among his 355 patents is an 1887 one for ballistite, or smokeless powder | (Alfred) Nobel
+right: Jerome
+Wrong: 
+Ken: Who is Edison?
+Value: $200
+Number: 26
+SHREW-ED | Continent where you'd find the shrews Crocidura nigeriae & Crocidura tansaniana | Africa
+right: Jerome
+Wrong: 
+Value: $200
+Number: 21
+HIGH INTELLIGENCE | In 2004 he replaced George Tenet as the permanent head of the CIA | Porter Goss
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+"BRIL"-LIANT! | A rapid chaotic beating of the heart muscles in a nonsynchronous way | fibrillation
+right: Brad
+Wrong: 
+Value: $200
+Number: 6
+THE SMART SET | His first U.S. publication, in the May 1915 Smart Set, was 2 stories about Dubliners | James Joyce
+right: Brad
+Wrong: 
+Value: $400
+Number: 2
+EGGHEADS | Since 1963 this British title character has traveled through time & space in a device called the TARDIS | Doctor Who
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+SHEER GENIUS! | In 1884 Ottmar Mergenthaler invented this machine that eliminated setting type by hand | the linotype machine
+right: Jerome
+Wrong: 
+Value: $400
+Number: 27
+SHREW-ED | Canadian province where you'll most likely spot Trowbridge's shrew, which enjoys Douglas fir seeds | British Columbia
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+HIGH INTELLIGENCE | The name of this intelligence service established in 1951 is from the Hebrew for "institution" | Mossad
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+"BRIL"-LIANT! | 1964 building blocks for a  wacky Warhol work | Brillo
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+THE SMART SET | In 1919 The Smart Set ran his first paid story, "Babes in the Woods"; in 1922, the classic "The Diamond as Big as the Ritz" | F. Scott Fitzgerald
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+EGGHEADS | In the '60s he played Egghead, a super-smart villain on TV's "Batman" | Vincent Price
+right: Jerome
+Wrong: 
+Value: $600
+Number: 13
+SHEER GENIUS! | The difference engine, a computing device he designed in the 1820s, was built in 1991 from his plans & it worked! | (Charles) Babbage
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+SHREW-ED | The Southeastern shrew inhabits the marshy U.S. region that got this uninviting name from Col. William Byrd | the Great Dismal Swamp
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+HIGH INTELLIGENCE | John Thurloe was this English leader's intelligence chief in the 1650s, gathering info on royalist plots | (Oliver) Cromwell
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+"BRIL"-LIANT! | A crude cart used to carry the condemned to the guillotine during the French Revolution | a tumbril
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+THE SMART SET | This ex-sailor published 3 early sea plays in the magazine, including "The Long Voyage Home" | Eugene O'Neill
+right: Ken
+Wrong: 
+Value: DD: $1,000
+Number: 4
+EGGHEADS | The head of the house on this sitcom was alien egghead/physics professor Dick Solomon | 3rd Rock from the Sun
+right: Brad
+Wrong: 
+Value: $800
+Number: 14
+SHEER GENIUS! | In 1837 Brits Cooke & Wheatstone designed an electric one; later that year, an American painter perfected it | the telegraph
+right: Brad
+Wrong: 
+Value: $800
+Number: 29
+SHREW-ED | The Mt. Malindang shrew & the Palawan tree shrew are native to this country | the Philippines
+right: Brad
+Wrong: 
+Value: $800
+Number: 24
+HIGH INTELLIGENCE | During World War II Gen. Bill Donovan ran this forerunner of the CIA | the OSS (Office of Strategic Services)
+right: Jerome
+Wrong: 
+Value: $800
+Number: 19
+"BRIL"-LIANT! | Miles Franklin was only a teenager when she penned this bestseller about growing up in Australia's outback | My Brilliant Career
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+THE SMART SET | His 1st published story, "The Parthian Shot", ran in The Smart Set in 1922, before he began doing his spadework | Dashiell Hammett
+right: Ken
+Wrong: 
+Brad: Who is Chandler?
+Value: $1000
+Number: 5
+EGGHEADS | In this screwball comedy, stuffy paleontologist Cary Grant had a few bones to pick with Katharine Hepburn | Bringing Up Baby
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+SHEER GENIUS! | Named for its American inventor, this electrostatic generator is used to accelerate particles | a Van de Graaff generator
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+SHREW-ED | It would be "serendip"itous to see a Kelaart's long-clawed shrew, as it lives only on this island | Sri Lanka
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+HIGH INTELLIGENCE | Sanskrit for "learned man", this term was used for natives recruited into intelligence gathering in British India | pundit
+right: 
+Wrong: Triple Stumper
+Ken: What is... ghurka?
+Value: $1000
+Number: 20
+"BRIL"-LIANT! | 12-letter word for an oily men's hair cream to keep hair in place & make it look glossy | brilliantine
+right: Jerome
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Jerome: $1,600
+Brad: $600
+Ken: $4,600
+Scores at the end of the Jeopardy! Round:
+Jerome: $3,200
+Brad: $2,200
+Ken: $8,200
+Second Jeopardy! Round: LET'S GET BIBLICAL, TAKE ME TO THE RIVER, STATE THE CHEMICAL ELEMENT, MY CATEGORY WITH ANDRE, IT CHANGED THE WORLD, BEFORE, DURING & AFTER
+LET'S GET BIBLICAL | We're not lyin', most of the Book of Daniel takes place in this ancient kingdom | Babylon
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+TAKE ME TO THE RIVER | Jean Renoir's film "The River" was shot on location in India along the banks of this river | the Ganges
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+STATE THE CHEMICAL ELEMENT | Colorado | cobalt
+right: Brad
+Wrong: 
+Value: $400
+Number: 1
+MY CATEGORY WITH ANDRE | Known as "The Hawk", this Chicago Cub was the 1987 National League MVP | Andre Dawson
+right: Brad
+Wrong: 
+Value: $400
+Number: 11
+IT CHANGED THE WORLD | His empire collapsed after he died of a fever in 323 B.C.; guess he forgot to feed a cold | Alexander the Great
+right: Brad
+Wrong: 
+Value: $400
+Number: 30
+BEFORE, DURING & AFTER | On the body of water near Duluth, a place of justice employs this person for amusement | Lake Superior Court Jester
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+LET'S GET BIBLICAL | On Purim it's a tradition to read from this Bible book with a woman's name | Esther
+right: Jerome
+Wrong: 
+Value: $800
+Number: 22
+TAKE ME TO THE RIVER | The name of this Pennsylvania river is from the Dutch for "hidden channel" | the Schuylkill
+right: Brad
+Wrong: 
+Value: $800
+Number: 17
+STATE THE CHEMICAL ELEMENT | California | calcium
+right: Brad
+Wrong: 
+Value: $800
+Number: 2
+MY CATEGORY WITH ANDRE | This French Minister of War lent his name to an ineffective fortification on the border with Germany | (Andre) Maginot
+right: Brad
+Wrong: 
+Value: DD: $2,000
+Number: 12
+IT CHANGED THE WORLD | In the Americas the 1521 conquest of this people was aided by their lack of resistance to measles & smallpox | the Aztecs
+right: Brad
+Wrong: 
+Value: $800
+Number: 29
+BEFORE, DURING & AFTER | '60s dance craze in which you shout, "The sky is falling--at least Polaris' star group is!" | Funky Chicken Little Dipper
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+LET'S GET BIBLICAL | Abigail got this king to spare her husband Nabal's life; about 10 days later Nabal died & she wed the king | King David
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+TAKE ME TO THE RIVER | Rising in the Cottian Alps, it's the longest river in Italy | the Po
+right: Jerome
+Wrong: 
+Value: $1200
+Number: 18
+STATE THE CHEMICAL ELEMENT | Georgia | gallium
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+MY CATEGORY WITH ANDRE | We hope to guide you to the name of this man who developed detachable tires with his brother Edouard | (Andre) Michelin
+right: Brad
+Wrong: 
+Value: $1200
+Number: 13
+IT CHANGED THE WORLD | (<http://www.j-archive.com/media/2005-05-23_DJ_26.jpg> Jimmy of the Clue Crew stands before a portrait of George Marshall in the Pentagon in Arlington, Virginia.)  George Marshall became <http://www.j-archive.com/media/2005-05-23_DJ_26a.jpg> Chief of Staff of a 200,000 man army on this date, when WWII began; by war's end, the number was 8 million | September 1, 1939
+right: 
+Wrong: Triple Stumper
+Ken: What is December 8, 1941?
+Value: $1200
+Number: 26
+BEFORE, DURING & AFTER | This place of pirates & lost boys adds Alaska's nickname & is home to the leader of Jazz' Solar Arkestra | the Never Never Land of the Midnight Sun Ra
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+LET'S GET BIBLICAL | Jacob was shocked when he lifted the veil on his first bride & found her to be this woman | Leah
+right: Jerome
+Wrong: 
+Value: $1600
+Number: 24
+TAKE ME TO THE RIVER | These two rivers both start with "Dn" & flow into the Black Sea within 100 miles of Odessa | the Dnieper & the Dniester
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+STATE THE CHEMICAL ELEMENT | South Carolina | scandium
+right: Brad
+Wrong: 
+Value: $1600
+Number: 4
+MY CATEGORY WITH ANDRE | Later French Minister of Culture, in 1923 he was arrested for removing some artifacts from a Cambodian temple | Andre Malraux
+right: Jerome
+Wrong: 
+Value: $1600
+Number: 14
+IT CHANGED THE WORLD | The Bolsheviks took over Russia in the fall of 1917, removing this moderate socialist who had become P.M. in July | Kerensky
+right: Brad
+Wrong: 
+Value: $1600
+Number: 27
+BEFORE, DURING & AFTER | The Oscar-winning actor who freed the slaves & then became a muckraking journalist | F. Murray Abraham Lincoln Steffens
+right: Brad
+Wrong: 
+Value: $1600
+Number: 9
+LET'S GET BIBLICAL | God asked him, "Should not I spare Nineveh... wherein are more than sixscore thousand persons" | Jonah
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+TAKE ME TO THE RIVER | When visiting Argentina, visit the Cataratas, or falls of, this river, which include the Tres Mosqueteros | Iguazu
+right: Jerome
+Wrong: 
+Ken: What is the Rio de la Plata?
+Value: $2000
+Number: 20
+STATE THE CHEMICAL ELEMENT | Maryland | mendelevium
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+MY CATEGORY WITH ANDRE | He's the avant-garde theater director who puts it all out on the table in the film "My Dinner with Andre" | Andre Gregory
+right: Jerome
+Wrong: 
+Value: $2000
+Number: 15
+IT CHANGED THE WORLD | The papers that revolutionized modern physics were published in 1905 by a clerk of this city's patent office | Berne
+right: 
+Wrong: 
+Brad: What is Zurich?
+Value: DD: $1,600
+Number: 28
+BEFORE, DURING & AFTER | His efforts have included singing "I Want Your Sex", playing "The American President" & occupying Japan | George Michael Douglas MacArthur
+right: Brad
+Wrong: 
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Jerome: $12,400
+Brad: $14,200
+Ken: $13,000
+
+Final Jeopardy! Round
+IMAGES OF AMERICA | Citing John Winthrop, who said, "The eyes of all people are on us", Ronald Reagan liked to compare the U.S. to this | a shining city on a hill
+right: Jerome | Ken | Brad
+Wrong: 
+Wagers: 
+Jerome: $4,000
+Ken: $3,000
+Brad: $4,200
+Final scores:
+Jerome: $16,400 ()
+Brad: $18,400 ()
+Ken: $16,000 ()
+
+Coryat scores
+Jerome: $12,400 (12 R,0 W)
+Brad: $14,600 (18 R(including 1 DD),2 W(including 1 DD))
+Ken: $12,800 (23 R(including 1 DD),4 W)

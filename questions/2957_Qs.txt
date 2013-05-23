@@ -1,0 +1,351 @@
+5649 - Thursday, March 12, 2009
+Comments: 2009 Tournament of Champions quarterfinal game 2.  From Las Vegas.
+Contestants:
+Tom Morris: a substitute teacher and grad student from Irvine, California
+Matt Kohlstedt: a grad student originally from La Grange, Illinois
+Larissa Kelly: a grad student from El Cerrito, California
+First Jeopardy! Round: LONDON LANDMARKS, STEVE WIN, TECHNO LUST, STATE FLAGS, THEY SHOULD HAVE PLAYED VEGAS, "BO"POURRI
+LONDON LANDMARKS | It's the square where you'd find the monument seen <http://www.j-archive.com/media/2009-03-12_J_19.jpg> here | Trafalgar Square
+right: Larissa
+Wrong: 
+Value: $200
+Number: 19
+STEVE WIN | Steve Carell won an MTV Movie Award for playing Andy Stitzer, the title character of this 2005 film | The 40-Year-Old Virgin
+right: Larissa
+Wrong: 
+Value: $200
+Number: 12
+TECHNO LUST | This company has gone abbrev. happy with an HD XL DVR that records up to 150 hours of HDTV with THX | TiVo
+right: Matt
+Wrong: 
+Value: $200
+Number: 17
+STATE FLAGS | Rhode Island has 13 of these on its state flag, Texas only one | a star
+right: Larissa
+Wrong: 
+Value: $200
+Number: 6
+THEY SHOULD HAVE PLAYED VEGAS | Fiddle me this: This emperor born in 37 A.D. could really burn up the stage at Caesars Palace | Nero
+right: Matt
+Wrong: 
+Value: $200
+Number: 11
+"BO"POURRI | She lost some sheep | Bo Peep
+right: Matt
+Wrong: 
+Value: $200
+Number: 1
+LONDON LANDMARKS | It's Sir Christopher Wren's masterpiece, seen <http://www.j-archive.com/media/2009-03-12_J_20.jpg> here | St. Paul's
+right: Larissa
+Wrong: 
+Value: $400
+Number: 20
+STEVE WIN | This Steve won a WGA award for his adapted screenplay "Roxanne" | Steve Martin
+right: Matt
+Wrong: 
+Value: $400
+Number: 13
+TECHNO LUST | This search site's browser called Chrome has an incognito mode for anonymous surfing | Google
+right: Larissa
+Wrong: 
+Tom: What is Yahoo!?
+Value: $400
+Number: 18
+STATE FLAGS | This bovine is found on the flags of both Kansas & Wyoming | a buffalo
+right: Larissa
+Wrong: 
+Value: $400
+Number: 7
+THEY SHOULD HAVE PLAYED VEGAS | Aargh!  He stuck long lit matches under his hat to frame his famous facial hair in fire; let's book him at Treasure Island | Blackbeard
+right: Tom
+Wrong: 
+Value: $400
+Number: 23
+"BO"POURRI | This government organization was founded in 1924 to prevent illegal immigration | Border Patrol
+right: Matt
+Wrong: 
+Value: $400
+Number: 2
+LONDON LANDMARKS | London's first new bridge in more than 100 years, <http://www.j-archive.com/media/2009-03-12_J_21.jpg> it opened to foot traffic in the historic year of 2000 | the Millennium Bridge
+right: Larissa
+Wrong: 
+Value: DD: $2,000
+Number: 21
+STEVE WIN | This Dodger first baseman won 4 straight gold gloves (1974-1977) | Steve Garvey
+right: Tom
+Wrong: 
+Value: $600
+Number: 14
+TECHNO LUST | (<http://www.j-archive.com/media/2009-03-12_J_28.wmv> Alex, at Sony headquaters in Tokyo, Japan, takes a picture of you.)  Able to go from wide angle to telephoto without an equipment change, the Sony A100 is a classic DSLR, which stands for "digital" this | single lens reflex
+right: Tom
+Wrong: 
+Value: $600
+Number: 28
+STATE FLAGS | A flaming one of these on Indiana's flag represents liberty & enlightenment | a torch
+right: Larissa
+Wrong: 
+Value: $600
+Number: 8
+THEY SHOULD HAVE PLAYED VEGAS | Showgirls in green sleeves--& little else--will accompany this king as he plays his legendary hit "Greensleeves" | Henry VIII
+right: 
+Wrong: Triple Stumper
+Matt: Who is Nat King Cole?
+Value: $600
+Number: 24
+"BO"POURRI | An old-timey central European, or a modern artsy type | a Bohemian
+right: Tom
+Wrong: 
+Value: $600
+Number: 3
+LONDON LANDMARKS | <http://www.j-archive.com/media/2009-03-12_J_22.jpg> This place has your ticket to concerts and sporting events | Wembley Stadium
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+STEVE WIN | His "Higher Love" won him the 1986 Record of the Year Grammy | (Steve) Winwood
+right: Matt
+Wrong: 
+Tom: Who is Stevie Wonder?
+Value: $800
+Number: 15
+TECHNO LUST | DirectX software is perfect for gamers; these "controls" that end in "-ex" help applications share information | ActiveX
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+STATE FLAGS | Ohio's is the only flag in this shape with swallowtails, coveted by baseball teams | a pennant
+right: Matt
+Wrong: 
+Value: $800
+Number: 9
+THEY SHOULD HAVE PLAYED VEGAS | Britannica says this WWI spy was "willing to appear virtually nude in public"--can't wait to see her dance in Vegas | Mata Hari
+right: Larissa
+Wrong: 
+Value: $800
+Number: 25
+"BO"POURRI | Weak acid used in roach powder & eyewash | boric acid
+right: Tom
+Wrong: 
+Matt: What is boron?
+Value: $800
+Number: 4
+LONDON LANDMARKS | This venue, seen <http://www.j-archive.com/media/2009-03-12_J_27.jpg> here, was dedicated to Queen Victoria's husband | Royal Albert Hall
+right: Matt
+Wrong: 
+Value: $1000
+Number: 27
+STEVE WIN | 1985 brought a National Medal of Technology to these 2 Steves who co-founded a little company | Wozniak & Jobs
+right: Matt
+Wrong: 
+Value: $1000
+Number: 16
+TECHNO LUST | You can create your own species and universe with <http://www.j-archive.com/media/2009-03-12_J_30.wmv> this game, whose name comes from the Greek for "seed" | Spore
+right: Larissa
+Wrong: 
+Value: $1000
+Number: 30
+STATE FLAGS | Its flag uses the red & yellow colors of the Spanish flag & the sun symbol of the Zia Indians | New Mexico
+right: Larissa
+Wrong: 
+Value: $1000
+Number: 10
+THEY SHOULD HAVE PLAYED VEGAS | It's Luxor or bust for this royal wife, known for her painted bust since the 18th dynasty | Nefertiti
+right: Matt
+Wrong: 
+Value: $1000
+Number: 26
+"BO"POURRI | 1932 "army" that marched on Washington | the Bonus Army
+right: Larissa
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Larissa: $3,400
+Matt: $2,000
+Tom: $1,200
+Scores at the end of the Jeopardy! Round:
+Larissa: $8,200
+Matt: $4,600
+Tom: $2,600
+Second Jeopardy! Round: LANDLOCKED UP, REMEMBER THESE OSCAR NOMINEES?, ALL ABOUT AUTHORS, SHOW BUSINESS, NATIVE AMERICAN TRIBES, BEGINS & ENDS WITH "E"
+LANDLOCKED UP | One of the 2 landlocked countries that border the Czech Republic | (1 of) Austria (or Slovakia)
+right: Tom
+Wrong: 
+Matt: What is Germany?
+Value: $400
+Number: 1
+REMEMBER THESE OSCAR NOMINEES? | Best Picture-nominated period piece with Anthony Hopkins & Emma Thompson as house servants | The Remains of the Day
+right: Larissa
+Wrong: 
+Value: $400
+Number: 6
+ALL ABOUT AUTHORS | Parties at her Atlanta home--now a museum--serve martinis in Mason jars, a favorite of hers | (Margaret) Mitchell
+right: Larissa
+Wrong: 
+Value: $400
+Number: 11
+SHOW BUSINESS | This company took a big step in computer animation by buying Pixar | Disney
+right: Larissa
+Wrong: 
+Tom: Who is Apple?
+Value: $400
+Number: 16
+NATIVE AMERICAN TRIBES | To preserve the buffalo, the Oglala branch of these Indians tried to keep folks from using the Bozeman Trail | the Sioux
+right: Larissa
+Wrong: 
+Value: $400
+Number: 24
+BEGINS & ENDS WITH "E" | In 2002 this female rapper had her biggest hit, "Gangsta Lovin'" featuring Alicia Keys | Eve
+right: Tom
+Wrong: 
+Value: $400
+Number: 30
+LANDLOCKED UP | A landlocked country the size of Arkansas, its ethnic groups include Newars & Sherpas | Nepal
+right: Tom
+Wrong: 
+Value: $800
+Number: 2
+REMEMBER THESE OSCAR NOMINEES? | "In the Name of the Father", believe us that this guy got a lead actor nod for that film | Daniel Day-Lewis
+right: Tom
+Wrong: 
+Value: $800
+Number: 7
+ALL ABOUT AUTHORS | This author of "The Tale of Mrs. Tiggy-Winkle" looked a bit like Mrs. Tiggy-Winkle when she wore a frilled white cap | Beatrix Potter
+right: Larissa
+Wrong: 
+Value: $800
+Number: 12
+SHOW BUSINESS | "In Dreams" & "Dreamgirls" are 2 films from this studio founded by a trio | DreamWorks
+right: Tom
+Wrong: 
+Value: $800
+Number: 17
+NATIVE AMERICAN TRIBES | (<http://www.j-archive.com/media/2009-03-12_DJ_25.jpg> Jimmy of the Clue Crew reports from the Gathering of Nations in Albuquerque, NM.)  Nightmares get caught in the webs of <http://www.j-archive.com/media/2009-03-12_DJ_25a.jpg> these Ojibwa craftworks, & the morning sun burns them away | dreamcatchers
+right: Tom
+Wrong: 
+Value: $800
+Number: 25
+BEGINS & ENDS WITH "E" | Chopin composed a "Revolutionary" this piece | Étude
+right: Larissa
+Wrong: 
+Value: $800
+Number: 29
+LANDLOCKED UP | 5 miles from Rimini, Italy, this nation has a population of about 30,000 | San Marino
+right: Larissa
+Wrong: 
+Value: $1200
+Number: 3
+REMEMBER THESE OSCAR NOMINEES? | 1998 contender featuring Clooney, Penn, Travolta, Nolte & Harrelson (war is hell on top billing) | The Thin Red Line
+right: Larissa
+Wrong: 
+Value: $1200
+Number: 8
+ALL ABOUT AUTHORS | This author who set "The Return of the Native" in Wessex had a terrier named Wessex | (Thomas) Hardy
+right: Larissa
+Wrong: 
+Value: $1200
+Number: 13
+SHOW BUSINESS | In 1923 siblings Harry, Albert, Samuel & Jack established a studio under this name | Warner Brothers
+right: Tom
+Wrong: 
+Value: DD: $2,600
+Number: 18
+NATIVE AMERICAN TRIBES | The Penobscot are represented in the legislature of this state where you'll find Penobscot Bay | Maine
+right: 
+Wrong: Triple Stumper
+Larissa: What is Rhode Island?
+Matt: What is Massachusetts?
+Tom: What is Connecticut?
+Value: $1200
+Number: 26
+BEGINS & ENDS WITH "E" | Sheikh Hamid bin Khalifa al Thani rules one, specifically Qatar | an emirate
+right: Matt
+Wrong: 
+Value: DD: $6,000
+Number: 21
+LANDLOCKED UP | Eritrea's independence made this neighbor landlocked | Ethiopia
+right: Tom
+Wrong: 
+Value: $1600
+Number: 4
+REMEMBER THESE OSCAR NOMINEES? | Actor Massimo Troisi died shortly after delivering this occupational 1994 movie | Il Postino
+right: Matt
+Wrong: 
+Value: $1600
+Number: 9
+ALL ABOUT AUTHORS | Nathaniel Hawthorne died while traveling with this N.H.-born U.S. president, his close friend | (Franklin) Pierce
+right: Larissa
+Wrong: 
+Value: $1600
+Number: 14
+SHOW BUSINESS | The Paramount holdings of this company include MTV & Comedy Central | Viacom
+right: Matt
+Wrong: 
+Value: $1600
+Number: 19
+NATIVE AMERICAN TRIBES | (<http://www.j-archive.com/media/2009-03-12_DJ_27.jpg> Jimmy of the Clue Crew gives the clue after a Native American speaks in his native language, subtitled in English.)  "They made code to help the Allies"  The first tribe relocated to Oklahoma's Indian Territory was this southern one; speakers of its language helped in World War I, like Navajo code talkers in World War II | the Choctaw
+right: 
+Wrong: Triple Stumper
+Tom: Who are the... Cherokee?
+Value: $1600
+Number: 27
+BEGINS & ENDS WITH "E" | It's a person with refined taste, especially in food & wine | an epicure
+right: Matt
+Wrong: 
+Value: $1600
+Number: 20
+LANDLOCKED UP | Si, it's the smallest landlocked country in the Americas | Paraguay
+right: Larissa
+Wrong: 
+Value: $2000
+Number: 5
+REMEMBER THESE OSCAR NOMINEES? | Forgot this nominee with Sissy Spacek & Tom Wilkinson?  Well, it is only a prepositional phrase | In the Bedroom
+right: Larissa
+Wrong: 
+Value: $2000
+Number: 10
+ALL ABOUT AUTHORS | She co-authored a book about "The Decoration of Houses" before writing "The House of Mirth" | Edith Wharton
+right: Larissa
+Wrong: 
+Value: $2000
+Number: 15
+SHOW BUSINESS | Started in 1890, this conglom shows off its products on the networks it owns, like Sci Fi, USA & Bravo | GE
+right: Larissa
+Wrong: 
+Tom: What is NBC?
+Value: $2000
+Number: 23
+NATIVE AMERICAN TRIBES | The Klamath tribes run the Kla-Mo-Ya casino in this state | Oregon
+right: Tom
+Wrong: 
+Value: $2000
+Number: 28
+BEGINS & ENDS WITH "E" | This decongestant is used by those suffering from hay fever, colds & allergies | ephedrine (epinephrine accepted)
+right: Tom
+Wrong: 
+Value: $2000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Larissa: $23,400
+Matt: $13,800
+Tom: $9,600
+
+Final Jeopardy! Round
+FRENCH CLASSICAL MUSIC | This 1928 work repeats a theme, almost entirely in C major, in an unvarying rhythm & has a crescendo lasting 17 minutes | Boléro
+right: Larissa
+Wrong: 
+Tom: What is I have <u>no</u> <u>idea</u>?
+Matt: What is Nutracker Suite?
+Wagers: 
+Tom: $0
+Matt: $3,200
+Larissa: $3,000
+Final scores:
+Larissa: $26,400 (Automatic semifinalist)
+Matt: $10,600 (2nd place: $5,000 if eliminated)
+Tom: $9,600 (3rd place: $5,000 if eliminated)
+
+Coryat scores
+Larissa: $22,000 (26 R(including 1 DD),1 W)
+Matt: $9,000 (14 R(including 1 DD),4 W)
+Tom: $8,200 (16 R(including 1 DD),6 W)

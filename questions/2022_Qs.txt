@@ -1,0 +1,334 @@
+3545 - Friday, January 21, 2000
+Contestants:
+David Jay: an implementation specialist from San Diego, California
+Travis Schroeder: an undergraduate student from Arroyo Grande, California
+Lynn Walters: a stay-at-home mom from St. Louis, Missouri (whose 2-day cash winnings total $13,001)
+First Jeopardy! Round: THE SWINGIN' '70s, ARCHIE-OLOGY, BLAST OFF!, ALLITERATIVE PEOPLE, ANIMAL COMMON BONDS, ____THE____
+THE SWINGIN' '70s | In a New York magazine article, Tom Wolfe gave the '70s this egotistical name | The "Me" Decade
+right: David
+Wrong: 
+Value: $100
+Number: 6
+ARCHIE-OLOGY | In the "Archie" comics, this is the nickname of Forsythe Pendleton Jones | "Jughead"
+right: Travis
+Wrong: 
+Value: $100
+Number: 16
+BLAST OFF! | This Russian's one-orbit flight on April 12, 1961 was his first & only venture into space | Yuri Gagarin
+right: Travis
+Wrong: 
+Value: $100
+Number: 13
+ALLITERATIVE PEOPLE | "T-R-O-U-B-L-E" was a 1992 album by this country singer whose names also start with "TR" | Travis Tritt
+right: Lynn
+Wrong: 
+Value: $100
+Number: 24
+ANIMAL COMMON BONDS | Morgan, Belgian, Clydesdale | Horses
+right: Lynn
+Wrong: 
+Value: $100
+Number: 1
+____THE____ | Lose out on an opportunity (& a ride) by getting to the dock too late | Miss the boat
+right: Travis
+Wrong: 
+Value: $100
+Number: 7
+THE SWINGIN' '70s | This former New York governor was reportedly with a young woman when he died suddenly in 1979 | Nelson Rockefeller
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 9
+ARCHIE-OLOGY | Betty's last name is Cooper; this character's is Lodge | Veronica
+right: Travis
+Wrong: 
+Value: $200
+Number: 17
+BLAST OFF! | This first U.S. space station was launched on May 14, 1973 -- 2 years after the Soviet Union orbited its first | Skylab
+right: Lynn
+Wrong: 
+Value: $200
+Number: 14
+ALLITERATIVE PEOPLE | On TV he plays the mayor of "Spin City" | Barry Bostwick
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 25
+ANIMAL COMMON BONDS | Sumatran short-eared, lop, cottontail | Rabbits
+right: Travis
+Wrong: 
+Value: $200
+Number: 2
+____THE____ | To propose marriage; it shouldn't "burst" your intended's hopes | Pop the question
+right: Lynn
+Wrong: 
+Value: $200
+Number: 8
+THE SWINGIN' '70s | (Hi, I'm Danny Masterson of "That '70s Show")  This American with a swingin' mustache & haircut was a hero of the 1972 Olympics with 7 gold medals | Mark Spitz
+right: Lynn
+Wrong: 
+Value: $300
+Number: 10
+ARCHIE-OLOGY | Archie lives & attends high school in this town | Riverdale
+right: Lynn
+Wrong: 
+Value: $300
+Number: 21
+BLAST OFF! | The 1986 Giotto probe of this was named for the artist who may have painted its 1301 appearance | Halley's Comet
+right: Lynn
+Wrong: 
+Value: DD: $800
+Number: 15
+ALLITERATIVE PEOPLE | This former junk bond king now chairs a not-for-profit think tank named for him | Michael Milken
+right: David
+Wrong: 
+Value: $300
+Number: 26
+ANIMAL COMMON BONDS | Schipperke, borzoi, bichon frise | Dogs
+right: Lynn
+Wrong: 
+Value: $300
+Number: 3
+____THE____ | Expose wrongdoing, or what a ref does to start play in the game | Blow the whistle
+right: Lynn
+Wrong: 
+Value: $300
+Number: 18
+THE SWINGIN' '70s | This company that had been making rugged boots since 1863 had a new vogue in the '70s | Frye
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+ARCHIE-OLOGY | Midge's boyfriend, he suffers from dyslexia | Moose
+right: Lynn
+Wrong: 
+Value: $400
+Number: 29
+BLAST OFF! | On April 14, 1981 this shuttle commanded by John Young was the first manned U.S. spacecraft to land on land | Columbia
+right: Travis
+Wrong: 
+Value: $400
+Number: 22
+ALLITERATIVE PEOPLE | This urbane movie reviewer & author of "Do You Sleep in the Nude?" is a native Texan | Rex Reed
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+ANIMAL COMMON BONDS | Abyssinian, Burmese, Manx | Cats
+right: Travis
+Wrong: 
+Value: $400
+Number: 4
+____THE____ | It's a good place to have an ace & a bad place to be financially | In the hole
+right: Lynn
+Wrong: 
+Value: $400
+Number: 19
+THE SWINGIN' '70s | A man who dashed naked through the Hawaii legislature proclaimed himself this "of the house" | "Streaker of the House"
+right: Lynn
+Wrong: 
+Value: $500
+Number: 12
+ARCHIE-OLOGY | Archie will turn 60 in this, the 1st year of the 21st century | 2001
+right: David
+Wrong: 
+Value: $500
+Number: 30
+BLAST OFF! | This rocket, the most powerful launch vehicle built by the U.S., stood 363 feet high & weighed over 6 million lbs. | Saturn 5
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 23
+ALLITERATIVE PEOPLE | (Hi, I'm Kevin Garnett)  This 76er known as "Chocolate Thunder" was 1 of only 3 players before me to go from high school to the NBA | Darryl Dawkins
+right: David
+Wrong: 
+Value: $500
+Number: 28
+ANIMAL COMMON BONDS | Thresher, nurse, whale | Sharks
+right: Travis
+Wrong: 
+Value: $500
+Number: 5
+____THE____ | Freed from blame, or a fish after being caught & released | Off the hook
+right: Travis
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Lynn: $2,400
+Travis: $900
+David: $100
+Scores at the end of the Jeopardy! Round:
+Lynn: $3,400
+Travis: $2,100
+David: $500
+Second Jeopardy! Round: BRITISH POETS LAUREATE, MUSICAL INSPIRATIONS, FAMILIAL QUOTATIONS, TO THE REPUBLIC, FOR RICHARD, SPANS
+BRITISH POETS LAUREATE | Robert Southey's prose collection "The Doctor" featured this ursine nursery story | "The Story of the Three Bears"
+right: Travis
+Wrong: 
+Value: $200
+Number: 26
+MUSICAL INSPIRATIONS | "The Trapp Family Singers" | The Sound of Music
+right: David
+Wrong: 
+Value: $200
+Number: 17
+FAMILIAL QUOTATIONS | In "Psycho" Anthony Perkins says, "A boy's best friend is" this person | his mother
+right: Lynn
+Wrong: 
+Value: $200
+Number: 12
+TO THE REPUBLIC | The name of this Pacific island republic is 4 letters long & 3 of them are dotted | Fiji
+right: Lynn
+Wrong: 
+Value: $200
+Number: 6
+FOR RICHARD | The Beatles we are all familiar with were John, Paul, George & the man born with this name | Richard Starkey (Ringo Starr)
+right: Lynn
+Wrong: 
+Value: $200
+Number: 7
+SPANS | In 1993 Croatian forces destroyed a 400-year-old bridge in this country's city of Mostar | Bosnia
+right: David
+Wrong: 
+Value: $200
+Number: 1
+BRITISH POETS LAUREATE | John Dryden also wrote plays; his "All for Love" was based on this Roman tale by Shakespeare | Antony and Cleopatra
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+MUSICAL INSPIRATIONS | "Pygmalion" | My Fair Lady
+right: Lynn
+Wrong: 
+Value: $400
+Number: 18
+FAMILIAL QUOTATIONS | In the King James Version of John 3:16, "God so loved the world, that he gave" this | His only begotten son
+right: Travis
+Wrong: 
+Value: $400
+Number: 13
+TO THE REPUBLIC | These 3 Baltic republics were admitted to the U.N. on the same day, September 17, 1991 | Estonia, Latvia & Lithuania
+right: 
+Wrong: Triple Stumper
+Travis: What are Bosnia, Estonia & Lithuania?
+Value: $400
+Number: 22
+FOR RICHARD | Elected to the House from Missouri's 3rd District, he represents his hometown of St. Louis | Richard Gephardt
+right: Lynn
+Wrong: 
+Value: $400
+Number: 8
+SPANS | Unlike many London sites, this bridge seen <http://www.j-archive.com/media/2000-01-21_DJ_02.jpg> here is only about a century old: | Tower Bridge
+right: 
+Wrong: Triple Stumper
+David: What is London Bridge?
+Value: $400
+Number: 2
+BRITISH POETS LAUREATE | He wrote that "Nothing can bring back the hour of splendour in the grass, of glory in the flower" | William Wordsworth
+right: 
+Wrong: Triple Stumper
+Travis: Who is Walt Whitman?
+Value: $600
+Number: 28
+MUSICAL INSPIRATIONS | "The Once and Future King" | Camelot
+right: Lynn
+Wrong: 
+David: What is The King and I?
+Value: $600
+Number: 19
+FAMILIAL QUOTATIONS | Robin Morgan made "Bartlett's" with her 1970 book title this "is Powerful" | Sisterhood
+right: Lynn
+Wrong: 
+Value: $600
+Number: 14
+TO THE REPUBLIC | In 1997 Christmas was declared an official holiday in this Caribbean republic | Cuba
+right: Lynn
+Wrong: 
+Value: $600
+Number: 23
+FOR RICHARD | During his fourth Antarctic expedition, 1946-47, he flew over the South Pole a second time | Admiral Richard E. Byrd
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 9
+SPANS | The Astoria Bridge in Washington & Oregon is one of this type that sounds like it suffers from a hernia | truss
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+MUSICAL INSPIRATIONS | "Berlin Stories" & "I am a Camera" | Cabaret
+right: Lynn
+Wrong: 
+Value: $800
+Number: 20
+FAMILIAL QUOTATIONS | In an old saying, this Roman person "must be above suspicion" | Caesar's wife
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+TO THE REPUBLIC | The heart of what was Phoenicia is in this republic between Israel & Syria | Lebanon
+right: Lynn
+Wrong: 
+Value: DD: $1,000
+Number: 24
+FOR RICHARD | He's been dubbed "The King of Angst": | Richard Lewis
+right: Travis
+Wrong: 
+Value: $800
+Number: 10
+SPANS | A rail bridge across this firth at Queensferry, Scotland has 2 1700-foot spans | the Firth of Forth
+right: David
+Wrong: 
+Value: $800
+Number: 4
+MUSICAL INSPIRATIONS | "Green Grow the Lilacs" | Oklahoma!
+right: Lynn
+Wrong: 
+Value: $1000
+Number: 21
+FAMILIAL QUOTATIONS | An 18th century anti-slavery medal bore the legend "Am I not a man and" one of these | a brother
+right: 
+Wrong: 
+Lynn: What is a son of God?
+Value: DD: $500
+Number: 16
+TO THE REPUBLIC | In 1970 this South American country freely elected a Marxist-Leninist leader, a first for a non-Communist country | Chile (Salvador Allende)
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+FOR RICHARD | In one prison he wrote "To Lucasta, going to the wars"; in another prison he wrote "To Althea" | Richard Lovelace
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+SPANS | The Confederation Bridge, opened in 1997, is the first highway link to this Canadian island province | Prince Edward Island
+right: Travis
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Lynn: $8,900
+Travis: $3,500
+David: $700
+
+Final Jeopardy! Round
+MOVIE SOUNDTRACKS | "You Can Leave Your Hat On" & "The Stripper" are on the soundtrack of this 1997 Oscar-nominated movie | The Full Monty
+right: Lynn
+Wrong: 
+David: What is Vocare
+Travis: What is Striptease?
+Wagers: 
+David: $1
+Travis: $1,500
+Lynn: $1,100
+Final scores:
+Lynn: $10,000 (3-day champion: $23,001)
+Travis: $2,000 (2nd place: Sanyo Blimp Trip in the U.S.)
+David: $699 (3rd place: Edge Company Catalog Gift Certificate)
+
+Coryat scores
+Lynn: $8,700 (23 R(including 2 DDs),2 W(including 1 DD))
+Travis: $3,500 (13 R,3 W)
+David: $700 (7 R,4 W)

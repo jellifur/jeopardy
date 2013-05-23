@@ -1,0 +1,347 @@
+5040 - Friday, July 7, 2006
+Contestants:
+Erin Weiss: an art dealer from Los Angeles, California
+Brett McGlasson: a systems analyst from Henderson, Nevada
+Rich Small: an IT programmer from Kent, Washington (whose 1-day cash winnings total $9,600)
+First Jeopardy! Round: BOOKS & AUTHORS, MUHAMMAD ALI'S GREATEST HITS, DOCTOR WHOM?, THE SMALLEST IN AREA, MONTHS, WORD PUZZLES
+BOOKS & AUTHORS | In a classic book, d'Artagnan hopes to serve as a guard to King Louis XIII & is befriended by this title group | The Three Musketeers
+right: Brett
+Wrong: 
+Value: $200
+Number: 11
+MUHAMMAD ALI'S GREATEST HITS | In '74 in Zaire, Ali KO'd this heavy hitter, long before he started selling us BBQ equipment | George Foreman
+right: Erin
+Wrong: 
+Value: $200
+Number: 1
+DOCTOR WHOM? | Robert Louis Stevenson created this good doctor in 1886 | Dr. (Henry) Jekyll
+right: Brett
+Wrong: 
+Value: $200
+Number: 16
+THE SMALLEST IN AREA | Mexico, the U.S., Canada | Mexico
+right: Erin
+Wrong: 
+Value: $200
+Number: 26
+MONTHS | On the Gregorian calendar, it's the second month | February
+right: Rich
+Wrong: 
+Value: $200
+Number: 21
+WORD PUZZLES | Someone who's a bit erratic might be said to have one of <http://www.j-archive.com/media/2006-07-07_J_02.jpg> these | a split personality
+right: Brett
+Wrong: 
+Value: $200
+Number: 2
+BOOKS & AUTHORS | Tyrone Slothrop is a central character in his novel "Gravity's Rainbow" | Pynchon
+right: Brett
+Wrong: 
+Value: $400
+Number: 12
+MUHAMMAD ALI'S GREATEST HITS | Ali TKO'd this Philly man who had a smokin' left hook after the 14th round in the "Thrilla in Manila" | (Joe) Frazier
+right: Brett
+Wrong: 
+Value: $400
+Number: 3
+DOCTOR WHOM? | Before becoming a renowned pediatrician, <http://www.j-archive.com/media/2006-07-07_J_17.jpg> he was a star rower at Yale & won gold in the 1924 Olympics | Dr. (Benjamin) Spock
+right: Brett
+Wrong: 
+Value: $400
+Number: 17
+THE SMALLEST IN AREA | Italy, Iceland, Indonesia | Iceland
+right: Brett
+Wrong: 
+Value: $400
+Number: 27
+MONTHS | In an informal congressional vote for indep. on the first of this month in 1776, there were only 9 yes votes | July
+right: Rich
+Wrong: 
+Value: $400
+Number: 22
+WORD PUZZLES | <http://www.j-archive.com/media/2006-07-07_J_05.jpg> A reason to like being in a crowd | there's safety in numbers
+right: Brett
+Wrong: 
+Value: $400
+Number: 5
+BOOKS & AUTHORS | This "Invisible Man" author was working on a novel called "Juneteenth" when he died in 1994 | Ellison
+right: Brett
+Wrong: 
+Value: $600
+Number: 13
+MUHAMMAD ALI'S GREATEST HITS | Ali "shocked the world" in '64 with his TKO upset of this champ, who died mysteriously in Vegas in 1970 | Sonny Liston
+right: Rich
+Wrong: 
+Value: $600
+Number: 4
+DOCTOR WHOM? | This 20th century president was the first to hold a doctorate; his degree was in political science | Wilson
+right: Brett
+Wrong: 
+Value: $600
+Number: 18
+THE SMALLEST IN AREA | China, Australia, Brazil | Australia
+right: Brett
+Wrong: 
+Erin: What is Brazil?
+Value: $600
+Number: 28
+MONTHS | A 1941 song asked, "I like New York in" this month, "how about you?" | June
+right: Erin
+Wrong: 
+Value: $600
+Number: 23
+WORD PUZZLES | <http://www.j-archive.com/media/2006-07-07_J_08.jpg> It's how I describe Johnny Gilbert when he starts telling jokes | too funny for words
+right: Brett
+Wrong: 
+Value: $600
+Number: 8
+BOOKS & AUTHORS | Part one of this Carson McCullers novel says Frankie "belonged to no club and was a member of nothing in the world" | The Member of the Wedding
+right: 
+Wrong: Triple Stumper
+Brett: Uh, what is The Heart is a Lonely Hunter?
+Erin: What is The Wedding Party?
+Value: $800
+Number: 14
+MUHAMMAD ALI'S GREATEST HITS | There were fewer teeth than usual for Ali to knock out when he decisioned this man in '78 to regain the title | Leon Spinks
+right: Rich
+Wrong: 
+Value: $800
+Number: 6
+DOCTOR WHOM? | Seen <http://www.j-archive.com/media/2006-07-07_J_19.jpg> here, he was the first African American awarded a doctorate by Harvard | W.E.B. Du Bois
+right: 
+Wrong: Triple Stumper
+Brett: Uhh, who is Gates?
+Value: $800
+Number: 19
+THE SMALLEST IN AREA | Burma, Thailand, Malaysia | Malaysia
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+MONTHS | Our federal government's fiscal year begins on the first of this month | October
+right: Brett
+Wrong: 
+Erin: What is April?
+Value: $800
+Number: 24
+WORD PUZZLES | <http://www.j-archive.com/media/2006-07-07_J_09.jpg> They can be purchased without a prescription | over-the-counter drugs
+right: Erin
+Wrong: 
+Value: $800
+Number: 9
+BOOKS & AUTHORS | In 1912 this Polish-born author shared with readers "The Secret Sharer", a short story in English | Joseph Conrad
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+MUHAMMAD ALI'S GREATEST HITS | This man whose son played LB for the 49ers broke Ali's jaw in the 12th round (or possibly the first) of their '73 fight | Ken Norton
+right: Rich
+Wrong: 
+Value: $1000
+Number: 7
+DOCTOR WHOM? | This theologian author of "Summa Theologica" was made a saint in 1323 & Doctor of the Church in 1567 | Thomas Aquinas
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+THE SMALLEST IN AREA | Bolivia, Peru, Ecuador | Ecuador
+right: Rich
+Wrong: 
+Value: $1000
+Number: 30
+MONTHS | (<http://www.j-archive.com/media/2006-07-07_J_25.jpg> Jon of the Clue Crew reports from the sign-in desk at Bally Total Fitness.)  It's named for a god of doors, & it's the month the greatest number of Americans walk through that door & join a gym | January
+right: Brett
+Wrong: 
+Value: DD: $1,000
+Number: 25
+WORD PUZZLES | <http://www.j-archive.com/media/2006-07-07_J_10.jpg> What I'm usually accused of having whenever I try to dance | two left feet
+right: Erin
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Rich: $2,400
+Brett: $2,000
+Erin: $1,200
+Scores at the end of the Jeopardy! Round:
+Rich: $4,000
+Brett: $5,200
+Erin: $600
+Second Jeopardy! Round: GRAY'S ANATOMY, MY NAME IS URL, THE OAFISH, AMERICAN IDLE, DANCING WITH THE TSARS, SEE "S-I"
+GRAY'S ANATOMY | From the Latin for "smell", these nerves originate from deep processes of the nasal mucous membrane | olfactary
+right: Brett
+Wrong: 
+Value: $400
+Number: 11
+MY NAME IS URL | The topnotch Bell Labs scientists have a website that lets you "ynthesize-say" any phrase into this language | Pig Latin
+right: Erin
+Wrong: 
+Value: $400
+Number: 2
+THE OAFISH | So far, this actor who played Joey is the only member of the "Friends" cast to star in a spinoff of the show | Matt LeBlanc
+right: Erin
+Wrong: 
+Value: $400
+Number: 19
+AMERICAN IDLE | This disease in which the pancreas produces little or no insulin is common in overweight or inactive people | diabetes
+right: Brett
+Wrong: 
+Value: $400
+Number: 1
+DANCING WITH THE TSARS | Yuri Vladimirov danced the role of this notorious 16th century tsar in the 1975 premiere of the ballet about him | Ivan the Terrible
+right: Erin
+Wrong: 
+Brett: Uh, who is Peter the Great?
+Value: $400
+Number: 17
+SEE "S-I" | According to Rachel Carson, the use of pesticides & herbicides will lead to this title occurrence | Silent Spring
+right: Brett
+Wrong: 
+Value: $400
+Number: 12
+GRAY'S ANATOMY | These nodes 0.1 centimeters to 2.5 centimeters (1 inch) long, are especially numerous in the neck | lymph nodes
+right: Brett
+Wrong: 
+Value: $800
+Number: 24
+MY NAME IS URL | This company's website says shaking a photo too hard during development may damage the image | Polaroid
+right: Erin
+Wrong: 
+Brett: What is Kodak?
+Value: $800
+Number: 5
+THE OAFISH | The goofy but likeable 1950s TV character seen <http://www.j-archive.com/media/2006-07-07_DJ_20.jpg> here was played by this Oscar-winning actor | Art Carney
+right: Brett
+Wrong: 
+Value: $800
+Number: 20
+AMERICAN IDLE | This agency of the U.S. Public Health Service based in Atlanta reported that obesity cost the U.S. $75 billion in 2003 | the CDC (the Centers for Disease Control)
+right: Erin
+Wrong: 
+Value: $800
+Number: 3
+DANCING WITH THE TSARS | The future Nicholas II had to end an affair with ballerina Matilda Kshesinskaya to marry this German princess | Alexandra
+right: Rich
+Wrong: 
+Value: $800
+Number: 18
+SEE "S-I" | The voting for a new pope takes place in this room | the Sistine Chapel
+right: Erin
+Wrong: 
+Value: $800
+Number: 13
+GRAY'S ANATOMY | When we all use our frontalis muscles, there are a lot of raised these--literally | eyebrows
+right: Brett
+Wrong: 
+Value: $1200
+Number: 25
+MY NAME IS URL | The website for this brand of gum is its name followed by .quit.com | Nicorette
+right: Erin
+Wrong: 
+Value: DD: $1,200
+Number: 6
+THE OAFISH | The big-screen exploits of this oafish duo included "Putting Pants on Philip" & "Sons of the Desert" | Laurel & Hardy
+right: Brett
+Wrong: 
+Value: $1200
+Number: 21
+AMERICAN IDLE | In 2003 this Senate majority leader introduced the Improved Nutrition & Physical Activity Act | (Bill) Frist
+right: Rich
+Wrong: 
+Value: $1200
+Number: 4
+DANCING WITH THE TSARS | On seeing "The Sleeping Beauty", Alexander III's only comment to this composer was "Very nice" | Tchaikovsky
+right: Erin
+Wrong: 
+Value: $1200
+Number: 28
+SEE "S-I" | Italian term for a young, unmarried woman | signorina
+right: Erin
+Wrong: 
+Value: $1200
+Number: 14
+GRAY'S ANATOMY | The hypoglossal nerve functions as the motor to most of the muscles of this organ | the tongue
+right: Brett
+Wrong: 
+Value: DD: $2,000
+Number: 26
+MY NAME IS URL | The website for this "American" organization sells onesies that say, "My dad loves me He knows CPR" | the Red Cross
+right: Erin
+Wrong: 
+Value: $1600
+Number: 7
+THE OAFISH | (<http://www.j-archive.com/media/2006-07-07_DJ_22.wmv> Anthony Daniels of Star Wars reads the clue.)  The characters of C-3PO & R2-D2 are based on 2 crooks from "The Hidden Fortress" by this Japanese film director | Kurosawa
+right: Brett
+Wrong: 
+Value: $1600
+Number: 22
+AMERICAN IDLE | The FTC wants to ban ads that promise 2 pounds per week or more of weight loss without doing these 2 things | diet & exercise
+right: Erin
+Wrong: 
+Value: $1600
+Number: 9
+DANCING WITH THE TSARS | In 1801, Tsar Paul I brought Charles Didelot, the man who introduced flesh-colored tights, to this city as Ballet Master | Saint Petersburg
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+SEE "S-I" | Gnarly, dude!  Scope out this groovy math wave seen <http://www.j-archive.com/media/2006-07-07_DJ_15.jpg> here | a sine wave
+right: Erin
+Wrong: 
+Value: $1600
+Number: 15
+GRAY'S ANATOMY | The middle thyroid vein crosses in front of the carotid artery & joins up with this vein | the jugular vein
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+MY NAME IS URL | (<http://www.j-archive.com/media/2006-07-07_DJ_08.jpg> Former Homeland Security Secretary Tom Ridge reads the clue.)  Including information on First Aid kits & family communication plans, this DHS website on citizen preparedness is www.this.gov | ready
+right: 
+Wrong: Triple Stumper
+Erin: What is FEMA?
+Value: $2000
+Number: 8
+THE OAFISH | Thorkelson is the real last name of this man who played the dopey bass player of The Monkees on TV | Peter Tork
+right: Brett
+Wrong: 
+Value: $2000
+Number: 23
+AMERICAN IDLE | In relationship to weight, BMI stands for this; if yours is over 30, you may want to be more active | body mass index
+right: Erin
+Wrong: 
+Value: $2000
+Number: 10
+DANCING WITH THE TSARS | There are pretty good seats at <http://www.j-archive.com/media/2006-07-07_DJ_30.jpg> this Moscow theater in the historic Tsar's Box seen <http://www.j-archive.com/media/2006-07-07_DJ_30a.jpg> here | the Bolshoi
+right: Brett
+Wrong: 
+Value: $2000
+Number: 30
+SEE "S-I" | Historic East Central European region lying mostly within present-day Poland | Silesia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Rich: $6,000
+Brett: $16,800
+Erin: $12,600
+
+Final Jeopardy! Round
+STATE FLAGS | Its state flag, based on a design from 1776, shows Virtue, dressed like an Amazon, triumphing over Tyranny | Virginia
+right: Rich
+Wrong: 
+Erin: What is ?
+Brett: What is New York
+Wagers: 
+Rich: $2,500
+Erin: $4,400
+Brett: $8,500
+Final scores:
+Rich: $8,500 (2-day champion: $18,100)
+Brett: $8,300 (2nd place: $2,000)
+Erin: $8,200 (3rd place: $1,000)
+
+Coryat scores
+Rich: $6,000 (8 R,0 W)
+Brett: $16,400 (25 R(including 2 DDs),4 W)
+Erin: $12,600 (18 R(including 1 DD),4 W)

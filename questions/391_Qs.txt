@@ -1,0 +1,338 @@
+1190 - Friday, November 3, 1989
+Contestants:
+Fran Pipp: a psychologist from Dexter, Michigan
+Bill Nyden: a computer programmer and analyst from Mountain View, California
+Joe Roberts: a director of planning & building from Perth Amboy, New Jersey (whose 1-day cash winnings total $10,700)
+First Jeopardy! Round: WORLD HISTORY, THE UNIVERSE, GARDENING, ACTORS' REAL NAMES, FOOD & DRINK, RHYME TIME
+WORLD HISTORY | In 1967 this country exploded its 1st H-bomb at its Lob Nor test site in Sinkiang province | (Red) China
+right: Joe
+Wrong: 
+Value: $100
+Number: 1
+THE UNIVERSE | In 1986 Giotto, a craft launched by the European Space Agency, got within 335 miles of this comet's nucleus | Halley's Comet
+right: Joe
+Wrong: 
+Value: $100
+Number: 5
+GARDENING | Junipers & Japanese maples are especially suited for this type of tree dwarfing | Bonsai
+right: Joe
+Wrong: 
+Value: $100
+Number: 19
+ACTORS' REAL NAMES | It's the "noble" stage name of John Joseph Ryan, who starred on "Hawaii Five-O" | Jack Lord
+right: Joe
+Wrong: 
+Value: $100
+Number: 9
+FOOD & DRINK | With the hull left on it's called brown; with it removed it's white & called "polished" | Rice
+right: Bill
+Wrong: 
+Value: $100
+Number: 14
+RHYME TIME | An over-eater of sheep meat | Mutton Glutton
+right: Bill
+Wrong: 
+Value: $100
+Number: 25
+WORLD HISTORY | A civil war in Paris during his youth convinced this king to build his palace at Versailles | Louis XIV
+right: Joe
+Wrong: 
+Value: $200
+Number: 2
+THE UNIVERSE | Horsehead, Trifid & Crab are examples of these clouds of interstellar matter | Nebulae
+right: Joe
+Wrong: 
+Value: $200
+Number: 7
+GARDENING | These little red beetles will help guard your garden from aphids, scale & spider mites | Ladybug/Ladybird Beetles
+right: Bill
+Wrong: 
+Value: $200
+Number: 20
+ACTORS' REAL NAMES | "Silver Streak" star Jerome Silberman | Gene Wilder
+right: Fran
+Wrong: 
+Value: $200
+Number: 12
+FOOD & DRINK | You can't beat this soup which is made from beets | Borscht
+right: Joe
+Wrong: 
+Value: $200
+Number: 15
+RHYME TIME | A rapid reeling out of fishing line | Fast Cast
+right: Joe
+Wrong: 
+Value: $200
+Number: 26
+WORLD HISTORY | Long the ruling party in this country, the PRI won the 1988 election by its lowest margin ever | Mexico
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 3
+THE UNIVERSE | On Nov. 30, 1954 a Mrs. Hodges of Sylacauga, AL became the only person on record to be injured by one of these | Meteorite
+right: Fran
+Wrong: 
+Value: $300
+Number: 8
+GARDENING | Some roses form these seedpods, rich in vitamin C, after they bloom & drop their petals | Rose Hips
+right: Joe
+Wrong: 
+Value: $300
+Number: 21
+ACTORS' REAL NAMES | Ronald Pierce, who swung through the jungle as TV's Tarzan in the '60s, acts under this name | Ron Ely
+right: Bill
+Wrong: 
+Value: $300
+Number: 13
+FOOD & DRINK | The Larousse Gastronomique says quiche originated in this French region | Lorraine
+right: Bill
+Wrong: 
+Value: $300
+Number: 16
+RHYME TIME | In boxing it could be Caesars Palace or Madison Square Garden | Fight Site
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 27
+WORLD HISTORY | The 1st great building of the Acropolis was this one built between 447-438 B.C. | The Parthenon
+right: Bill
+Wrong: 
+Value: $400
+Number: 4
+THE UNIVERSE | This term for a star that's undergone a complete gravitational collapse was coined in the '60s | Black Hole
+right: Joe
+Wrong: 
+Value: $400
+Number: 10
+GARDENING | Ladies' slippers, ladies' tresses & dragon's mouth are examples of this exotic flower | Orchids
+right: Fran
+Wrong: 
+Value: $400
+Number: 22
+ACTORS' REAL NAMES | He used to be Hugh Krampe, but he shot to fame as Wyatt Earp under this name | Hugh O' Brien
+right: Joe
+Wrong: 
+Value: $400
+Number: 23
+FOOD & DRINK | Lyophilization is the scientific name of this process used to produce instant coffee | Freeze-drying
+right: Joe
+Wrong: 
+Value: $400
+Number: 17
+RHYME TIME | Animator Tex Avery described this Walter Lantz penguin as devoid of personality | Chilly Willy
+right: Fran
+Wrong: 
+Value: $400
+Number: 29
+WORLD HISTORY | In a famous race, these 2 men reached the South Pole, 1 in December 1911, the other 5 weeks later | Amundsen & Scott
+right: 
+Wrong: 
+Value: DD: $500
+Number: 6
+THE UNIVERSE | This outermost part of the solar atmosphere can easily be seen during total solar eclipses | Corona
+right: Joe
+Wrong: 
+Value: $500
+Number: 11
+GARDENING | Used for lawns & golf courses, it's usually listed last alphabetically among grasses | Zoysia
+right: Fran
+Wrong: 
+Value: $500
+Number: 28
+ACTORS' REAL NAMES | His real name is Anson Heimlich & his cousin invented the Heimlich Maneuver | Anson Williams
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+FOOD & DRINK | Escoffier came up with this fruit & ice cream dish in 1892 to honor a star of "Lohengrin" | Peach Melba
+right: Bill
+Wrong: 
+Value: $500
+Number: 18
+RHYME TIME | He takes the minutes at a powwow | Tribe Scribe
+right: Fran
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Joe: $1,100
+Bill: $700
+Fran: $300
+Scores at the end of the Jeopardy! Round:
+Joe: $2,300
+Bill: $1,400
+Fran: $2,100
+Second Jeopardy! Round: U.S. CITIES, MAGAZINES, RELIGION, ARTISTS, DOGS, POE
+U.S. CITIES | Called the German Athens in the 19th century, this Wisc. city is a leading center of German culture in the U.S. | Milwaukee
+right: Fran
+Wrong: 
+Value: $200
+Number: 10
+MAGAZINES | Its name is a pronoun, the objective case of "we" | Us Magazine
+right: Joe
+Wrong: 
+Value: $200
+Number: 8
+RELIGION | Though Hindus disapprove of killing animals, they regard the slaying of these animals as the worst offense | Cows
+right: Joe
+Wrong: 
+Value: $200
+Number: 7
+ARTISTS | When this Spanish surrealist died, there was no rush to buy his prints because there were so many of them | Salvador Dali
+right: Bill
+Wrong: 
+Value: $200
+Number: 6
+DOGS | A German word meaning "splashing in water" gave us the word "puddle" & this dog's name | Poodle
+right: Joe
+Wrong: 
+Value: $200
+Number: 26
+POE | Completes the line from "To Helen", "To the glory that was Greece & ..." | "The Grandeur that was Rome"
+right: Fran
+Wrong: 
+Value: $200
+Number: 1
+U.S. CITIES | Survey Sampling, Inc. calls this Iowa capital the No. 1 city for market research | Des Moines
+right: Joe
+Wrong: 
+Value: $400
+Number: 21
+MAGAZINES | As you might expect, Smithsonian is published in this city | Washington, D.C.
+right: Bill
+Wrong: 
+Value: $400
+Number: 9
+RELIGION | Mormons regard both of these books as the word of God | The Bible & The Book of Mormon
+right: Bill
+Wrong: 
+Value: $400
+Number: 15
+ARTISTS | His photo silkscreens include "Liz", "Jackie" & "Elvis" as well as "Marilyn" | Andy Warhol
+right: Joe
+Wrong: 
+Value: $400
+Number: 11
+DOGS | Pure white at birth, this dog's spots begin to appear when he's about 3 weeks old | Dalmatian
+right: Bill
+Wrong: 
+Value: $400
+Number: 27
+POE | In this tale William Legrand & his servant Jupiter find a rare entomological specimen | "The Gold Bug"
+right: Bill
+Wrong: 
+Value: $400
+Number: 2
+U.S. CITIES | An early visitor found Hohokam Indian ruins here & predicted a new city would rise from the ashes | Phoenix
+right: Joe
+Wrong: 
+Value: $600
+Number: 22
+MAGAZINES | Of Gourmet, Vanity Fair or Connoisseur, the one that's "The Guide to the Civilized World" | Connoisseur
+right: Joe
+Wrong: 
+Value: $600
+Number: 19
+RELIGION | In most Orthodox synagogues they are separated; in Conservative & Reform they are not | The Sexes
+right: Bill
+Wrong: 
+Value: $600
+Number: 16
+ARTISTS | It was recently said of this artist "He's far more than cowboys & indians.  (He) is uncannily modern." | Frederic Remington
+right: Fran
+Wrong: 
+Value: $600
+Number: 12
+DOGS | This smallest of all dogs comes in all canine colors | Chihuahua
+right: Bill
+Wrong: 
+Value: $600
+Number: 28
+POE | 1845 poem set in December, at midnight in a chamber | "The Raven"
+right: Joe
+Wrong: 
+Value: $600
+Number: 3
+U.S. CITIES | This city that earned its own song in "The Music Man" was named for an executive of U.S. Steel | Gary, Indiana
+right: Bill
+Wrong: 
+Value: $800
+Number: 23
+MAGAZINES | The magazine named for this naturalist celebrated its 100th anniversary in 1987 | Audubon
+right: Joe
+Wrong: 
+Value: DD: $1,000
+Number: 20
+RELIGION | Muslim law allows a man to have up to 4 of these if he can support & care for each equally | Wives
+right: Joe
+Wrong: 
+Value: $800
+Number: 17
+ARTISTS | The New Yorker 1st published 1 of this cartoonist's ghoulish works in 1935, long before the TV show | Charles Addams
+right: Bill
+Wrong: 
+Value: $800
+Number: 13
+DOGS | This "badger dog" was bred to keep its legs short so it could follow a badger into his burrow | Dachshund
+right: Bill
+Wrong: 
+Value: $800
+Number: 29
+POE | We're not sure who was the last of the Mohicans, but we do know Roderick was the last man in this line | The House of Usher
+right: Bill
+Wrong: 
+Value: $800
+Number: 4
+U.S. CITIES | You had to send the earliest Kodaks back to this city to have the film inside developed | Rochester, New York
+right: Joe
+Wrong: 
+Value: $1000
+Number: 24
+MAGAZINES | It's now published by the Ben Franklin Literary & Medical Society; Curtis sold it in 1982 | The Saturday Evening Post
+right: Bill
+Wrong: 
+Value: $1000
+Number: 25
+RELIGION | In March 1989, 35 archbishops from this country met with the Pope to discuss their flock of 53 million | United States
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+ARTISTS | German-born artist famous for his portraits of the court of Henry VIII | Hans Holbein the Younger
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+DOGS | Unlike the German miniature schnauzer, most other breeds of this group originated in the British isles | Terriers
+right: Bill
+Wrong: 
+Value: DD: $2,000
+Number: 30
+POE | According to the Oxford Companion to American Lit., they were sleigh, wedding, alarm & funeral | "The Bells"
+right: Fran
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Joe: $7,300
+Bill: $9,000
+Fran: $2,700
+
+Final Jeopardy! Round
+PRESIDENTS | The last president who did not serve in the armed forces | Franklin D. Roosevelt
+right: Joe | Bill
+Wrong: 
+Fran: Who was L B Johnson
+Wagers: 
+Fran: $500
+Joe: $1,701
+Bill: $3,401
+Final scores:
+Joe: $9,001 (2nd place: a trip to Miami & a Caribbean cruise)
+Bill: $12,401 (New champion: $12,401)
+Fran: $2,200 (3rd place: a Ricoh Mirai zoom camera)
+
+Coryat scores
+Joe: $7,600 (24 R(including 1 DD),3 W(including 1 DD))
+Bill: $8,000 (20 R(including 1 DD),3 W)
+Fran: $2,700 (10 R,3 W)

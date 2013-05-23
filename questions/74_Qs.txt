@@ -1,0 +1,343 @@
+4669 - Thursday, December 16, 2004
+Contestants:
+Cliff Kowalczyk: a trucking subcontractor from Lakewood, Ohio
+Grayson Holmes: a legal assistant from Washington, D.C.
+Joel Kahn: a physician from Irvine, California (whose 2-day cash winnings total $34,200)
+First Jeopardy! Round: W.H.O., WHAT'S COOKING, COWBOY?, WHEN WAS THAT MOVIE?, WHERE IS THAT, PIERRE?, WHY DIDN'T I THINK OF THAT?, "HOW" NOW
+W.H.O. | The World Health Organization was established in 1948 by this international body | the U.N.
+right: Cliff
+Wrong: 
+Value: $200
+Number: 24
+WHAT'S COOKING, COWBOY? | After a good feed, it's time to settle down with a cup of arbuckle, or this | coffee
+right: Joel
+Wrong: 
+Value: $200
+Number: 18
+WHEN WAS THAT MOVIE? | Released in 1968 it starred Keir Dullea as an astronaut out to solve a cosmic mystery | 2001: A Space Odyssey
+right: Grayson
+Wrong: 
+Value: $200
+Number: 14
+WHERE IS THAT, PIERRE? | If you're visiting the Cannes Film Festival, you're on this sea | the Mediterranean
+right: Cliff
+Wrong: 
+Value: $200
+Number: 1
+WHY DIDN'T I THINK OF THAT? | In 1888 Nikola Tesla came up with the first practical system for generating & transmitting this type of current | A.C.
+right: Cliff
+Wrong: 
+Grayson: What is an electric current?
+Value: $200
+Number: 6
+"HOW" NOW | In the children's song, it's the line that follows "twinkle, twinkle, little star" | how I wonder what you are
+right: Cliff
+Wrong: 
+Value: $200
+Number: 9
+W.H.O. | "3 by 5" is a program to provide, by 2005, anti-retroviral therapy to 3 million suffering from this | AIDS
+right: Cliff
+Wrong: 
+Value: $400
+Number: 25
+WHAT'S COOKING, COWBOY? | If you know what kind of wagon it was served in, you'll know this old west word for food, chow, grub | a chuckwagon
+right: Cliff
+Wrong: 
+Value: $400
+Number: 19
+WHEN WAS THAT MOVIE? | Richard Burton's last film role was as the torturer O'Brien in this cautionary George Orwell tale | 1984
+right: Cliff
+Wrong: 
+Value: $400
+Number: 15
+WHERE IS THAT, PIERRE? | The Jura Mountains straddle the border between France & this country | Switzerland
+right: Cliff
+Wrong: 
+Value: $400
+Number: 2
+WHY DIDN'T I THINK OF THAT? | Hiram Percy Maxim invented the muffler for a car & this for a gun | a silencer
+right: Cliff
+Wrong: 
+Value: $400
+Number: 7
+"HOW" NOW | The 5 words that begin the 43rd of the "Sonnets from the Portuguese" | How do I love thee
+right: Cliff
+Wrong: 
+Value: $400
+Number: 10
+W.H.O. | The W.H.O.'s administrative HQ is located in this Swiss city on the Rhone River | Geneva
+right: Grayson
+Wrong: 
+Value: $600
+Number: 26
+WHAT'S COOKING, COWBOY? | From genus prosopis, this western wood that started a cooking craze gives off a tangy smoke | mesquite
+right: Cliff
+Wrong: 
+Value: $600
+Number: 20
+WHEN WAS THAT MOVIE? | Songs in this revolutionary musical include "Sit Down, John" & "The Lees of Old Virginia" | 1776
+right: Cliff
+Wrong: 
+Value: $600
+Number: 21
+WHERE IS THAT, PIERRE? | This region of NW France derives its name from Celts fleeing the Anglo-Saxon invasion of England | Brittany
+right: Cliff
+Wrong: 
+Value: $600
+Number: 3
+WHY DIDN'T I THINK OF THAT? | Andrew Beard invented an improvement for the device that coupled 2 of these when they bumped together | train cars
+right: Joel
+Wrong: 
+Value: $600
+Number: 8
+"HOW" NOW | "Smokestack Lightnin'" was the biggest hit for this bluesman born Chester Burnett | Howlin' Wolf
+right: Joel
+Wrong: 
+Value: $600
+Number: 11
+W.H.O. | On March 15, 2003 the W.H.O issued a rare emergency travel advisory in response to this outbreak | SARS
+right: Cliff
+Wrong: 
+Value: $800
+Number: 27
+WHAT'S COOKING, COWBOY? | The bone-in type of this steak with a double anatomical name is also called a cowboy steak | ribeye
+right: Grayson
+Wrong: 
+Joel: What is a T-bone?
+Value: $800
+Number: 29
+WHEN WAS THAT MOVIE? | John Belushi starred as Capt. Wild Bill Kelso in this romp about hysteria gripping America after Pearl Harbor | 1941
+right: Cliff
+Wrong: 
+Value: $800
+Number: 22
+WHERE IS THAT, PIERRE? | This region of France between the Seine & Marne Valleys is famous for its soft white cheese | Brie
+right: Grayson
+Wrong: 
+Value: $800
+Number: 4
+WHY DIDN'T I THINK OF THAT? | This invention began in 1951 as a bottle of white tempera waterbase paint & a small brush | Wite-Out (or Liquid Paper)
+right: Cliff
+Wrong: 
+Value: DD: $2,800
+Number: 16
+"HOW" NOW | Dale Carnegie convinced us all with this 1936 work | How to Win Friends and Influence People
+right: Grayson
+Wrong: 
+Value: $800
+Number: 12
+W.H.O. | The eradication of this paralyzing viral disease mainly affecting children is a W.H.O goal for 2004 | polio
+right: Joel
+Wrong: 
+Value: $1000
+Number: 28
+WHAT'S COOKING, COWBOY? | Trail cooks couldn't carry eggs & milk, so they used starter to make this type of biscuit called a "hot rock" | sourdough
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+WHEN WAS THAT MOVIE? | Gary Grimes starred as Hermie in this "seasonal" film about 3 teenagers coming of age during World War II | Summer of '42
+right: Cliff
+Wrong: 
+Value: $1000
+Number: 23
+WHERE IS THAT, PIERRE? | A northern member of the Windward Islands, this volcanic isle has been a possession of France since 1635 | Martinique
+right: Joel
+Wrong: 
+Value: $1000
+Number: 5
+WHY DIDN'T I THINK OF THAT? | Garrett Morgan's "safety hood" was one of these used by World War I soldiers | a gas mask
+right: Joel
+Wrong: 
+Cliff: What is a helmet?
+Value: $1000
+Number: 17
+"HOW" NOW | Erica Jong's bestselling 1977 follow-up to "Fear of Flying" | How to Save Your Own Life
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Joel: $2,200
+Grayson: $1,600
+Cliff: $2,800
+Scores at the end of the Jeopardy! Round:
+Joel: $3,600
+Grayson: $3,000
+Cliff: $9,400
+Second Jeopardy! Round: WHO-SIERS, PIANISTS, DISASTER DIGEST, McCLURE'S MAGAZINE, PLACES, "P"s ON EARTH
+WHO-SIERS | Indianan who created such radio and TV charcters as Freddie the Freeloader & Clem Kadiddlehopper | Red Skelton
+right: Cliff
+Wrong: 
+Value: $400
+Number: 7
+PIANISTS | An amateur pianist, this President often entertained White House guests in the 1940s | Harry S. Truman
+right: Joel
+Wrong: 
+Value: $400
+Number: 1
+DISASTER DIGEST | 1666: A great fire destroys much of this capital city | London
+right: Grayson
+Wrong: 
+Value: $400
+Number: 19
+McCLURE'S MAGAZINE | Writing on corruption in McClure's, Lincoln Steffens said this little state is for sale, & cheap | Rhode Island
+right: Joel
+Wrong: 
+Grayson: What is Washington, D.C.?
+Value: $400
+Number: 26
+PLACES | <http://www.j-archive.com/media/2004-12-16_DJ_02.jpg> This island had its own Norman conquest and Roman conquest and Vandal and Saracen | Sicily
+right: Joel
+Wrong: 
+Value: $400
+Number: 2
+"P"s ON EARTH | The event in the Olympic decathlon in which the contestant gets the farthest off the ground | pole vault
+right: Cliff
+Wrong: 
+Value: $400
+Number: 8
+WHO-SIERS | Indianan who composed such standards as "Night And Day" & "Begin The Beguine" | Cole Porter
+right: Grayson
+Wrong: 
+Value: $800
+Number: 15
+PIANISTS | He co-wrote the jazz classic "Ain't Misbehavin'" & performed it in the film "Stormy Weather" | Fats Waller
+right: Grayson
+Wrong: 
+Value: $800
+Number: 13
+DISASTER DIGEST | 1687: Munitions stored by the Ottoman Turks explode & wreck this Athens landmark | the Parthenon
+right: Cliff
+Wrong: 
+Value: $800
+Number: 20
+McCLURE'S MAGAZINE | The postage stamp "Flappers do" this dance was based on an illustration in McClure's | the Charleston
+right: Grayson
+Wrong: 
+Value: $800
+Number: 28
+PLACES | Governor Granholm, not shown works in <http://www.j-archive.com/media/2004-12-16_DJ_03.jpg> this city | Lansing
+right: Grayson
+Wrong: 
+Value: $800
+Number: 3
+"P"s ON EARTH | It's a large Marine corps training camp near San Diego | Camp Pendleton
+right: Joel
+Wrong: 
+Value: $800
+Number: 9
+WHO-SIERS | Indianan writer who appears in the photo seen <http://www.j-archive.com/media/2004-12-16_DJ_16.jpg> here | Kurt Vonnegut
+right: Joel
+Wrong: 
+Value: $1200
+Number: 16
+PIANISTS | A promotional pianist for the piano maker Erard, this Hungarian's compositions included 1857's "A Faust Symphony" | Franz Liszt
+right: Joel
+Wrong: 
+Value: $1200
+Number: 14
+DISASTER DIGEST | 1906: 3,000 people die when a major earthquake hits this metropolis | San Francisco
+right: Grayson
+Wrong: 
+Value: $1200
+Number: 21
+McCLURE'S MAGAZINE | McClure's sent William Glackens to this island in 1898 to provide illustrations of the battles | Cuba
+right: Grayson
+Wrong: 
+Value: DD: $700
+Number: 29
+PLACES | It's the name of <http://www.j-archive.com/media/2004-12-16_DJ_04.jpg> this state, mate | Victoria
+right: 
+Wrong: Triple Stumper
+Grayson: What is New South Wales?
+Value: $1200
+Number: 4
+"P"s ON EARTH | While exploring the Arkansas River in 1806, he discovered the Colorado Peak named for him | Zebulon Pike
+right: Joel
+Wrong: 
+Value: $1200
+Number: 10
+WHO-SIERS | Indianan who switched from Democrat to Republican in the 1930s & ran against FDR in 1940 | Wendell Wilkie
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 17
+PIANISTS | The nickname of this innovative Jazz pianist was "Fatha" | Earl Hines
+right: Joel
+Wrong: 
+Value: $1600
+Number: 24
+DISASTER DIGEST | 1281: A "divine wind" saves this nation from a Mongol invasion | Japan
+right: Cliff
+Wrong: 
+Value: $1600
+Number: 22
+McCLURE'S MAGAZINE | She resigned as editor of McClure's in 1912 to become a novelist, mainly with tales of Nebraska | Willa Cather
+right: Joel
+Wrong: 
+Value: $1600
+Number: 30
+PLACES | Until 1966, <http://www.j-archive.com/media/2004-12-16_DJ_05.jpg> it was Basutoland | Lesotho
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 5
+"P"s ON EARTH | Though she was the daughter of Zeus and Demeter, this seedy young lady only spent part of the year with them | Persephone
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 11
+WHO-SIERS | Indianan who formed the American Railway Union in 1893 & was a candidate for President 5 times | Eugene Debs
+right: 
+Wrong: 
+Joel: Who was La Follette?
+Value: DD: $3,000
+Number: 18
+PIANISTS | In 1958 this pianist was honored with a ticker-tape parade in New York City | Van Cliburn
+right: Cliff
+Wrong: 
+Value: $2000
+Number: 25
+DISASTER DIGEST | The early 1800s: This "colorful" disease kills tens of thousands in southern Spain | yellow fever
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 23
+McCLURE'S MAGAZINE | In 1899 McClure's published this Brit's "The White Man's burden" | Rudyard Kipling
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 27
+PLACES | County of cliffs and Celts seen <http://www.j-archive.com/media/2004-12-16_DJ_06.jpg> here | Cornwall
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 6
+"P"s ON EARTH | Through the house of York, Richard I was the last king of this dynasty | Plantagenet
+right: Joel
+Wrong: 
+Value: $2000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Joel: $11,400
+Grayson: $16,100
+Cliff: $14,600
+
+Final Jeopardy! Round
+HISTORIC OBJECTS | More than 600 people, 200 horses, 40 ships, Edward the Confessor & Halley's Comet are depicted on it | the Bayeux Tapestry
+right: Joel | Cliff | Grayson
+Wrong: 
+Wagers: 
+Joel: $11,200
+Cliff: $10,000
+Grayson: $13,101
+Final scores:
+Joel: $22,600 (3rd place: $1,000)
+Grayson: $29,201 (New champion: $29,201)
+Cliff: $24,600 (2nd place: $2,000)
+
+Coryat scores
+Joel: $14,400 (16 R,2 W(including 1 DD))
+Grayson: $16,600 (17 R(including 1 DD),3 W)
+Cliff: $12,600 (22 R(including 1 DD),1 W)

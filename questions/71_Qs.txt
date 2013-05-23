@@ -1,0 +1,349 @@
+4666 - Monday, December 13, 2004
+Contestants:
+David Davalos: a playwright from New York, New York
+Snow Tempest: a writer from Los Angeles, California
+Robert Bowsher: a software engineer from Hilliard, Ohio (whose 1-day cash winnings total $6,399)
+First Jeopardy! Round: JOURNALISM, PEOPLE ON THE MAP, THE LIBERTY BELL, DON WE NOW OUR GUY APPAREL, PRESIDENTIAL MIDDLE NAMES, RHYME TIME
+JOURNALISM | Screamer & banner are synonyms for one type of this | headline
+right: Robert
+Wrong: 
+Value: $200
+Number: 1
+PEOPLE ON THE MAP | He wrote the songs "There's No Business Like Show Business" & "White Christmas" | Irving Berlin
+right: David
+Wrong: 
+Value: $200
+Number: 7
+THE LIBERTY BELL | This part of the bell is 3 feet, 2 inches long | the clapper
+right: Robert
+Wrong: 
+Value: $200
+Number: 18
+DON WE NOW OUR GUY APPAREL | The 2 numbers on a man's dress shirt, 16/34 for example, are usually measurments of these 2 things | neck size and sleeve length
+right: Robert
+Wrong: 
+Value: $200
+Number: 16
+PRESIDENTIAL MIDDLE NAMES | Howard | Taft
+right: Snow
+Wrong: 
+Value: $200
+Number: 22
+RHYME TIME | One-word name of a portable dwelling of native Americans, especially on the great plains | teepee
+right: Robert
+Wrong: 
+Value: $200
+Number: 3
+JOURNALISM | (<http://www.j-archive.com/media/2004-12-13_J_02.jpg> I'm Aaron Brown of CNN.)  This 5-letter word is slang for an exclusive news story acquired before one's competitors | a scoop
+right: David
+Wrong: 
+Value: $400
+Number: 2
+PEOPLE ON THE MAP | This Los Angeles Lakers star with 3 championship rings speaks fluent Italian | Kobe Bryant
+right: Robert
+Wrong: 
+Value: $400
+Number: 12
+THE LIBERTY BELL | The quote on the bell, "proclaim liberty throughout all the land", comes from this third book of the Bible | Leviticus
+right: David
+Wrong: 
+Robert: What is Exodus?
+Value: $400
+Number: 24
+DON WE NOW OUR GUY APPAREL | Bunny Austin shocked the tennis world when he wore these competing at Forest Hills in 1932 | shorts
+right: David
+Wrong: 
+Value: $400
+Number: 17
+PRESIDENTIAL MIDDLE NAMES | Ulysses (originally) | Ulysses S. Grant
+right: Robert
+Wrong: 
+Value: $400
+Number: 23
+RHYME TIME | The title of this Dr. Seuss book is evident from the illustration seen <http://www.j-archive.com/media/2004-12-13_J_08.jpg> here | Hop on Pop
+right: Snow
+Wrong: 
+Value: $400
+Number: 8
+JOURNALISM | It's the area assigned to a reporter for regular coverage; policemen walk them, too | a beat
+right: Robert
+Wrong: 
+Value: $600
+Number: 4
+PEOPLE ON THE MAP | He was nominated for an Emmy for his role as Buddy Sorrell on "The Dick Van Dyke Show" | Morey Amsterdam
+right: David
+Wrong: 
+Value: $600
+Number: 13
+THE LIBERTY BELL | From 1948 through 1963 this U.S. coin depicted the liberty bell on its reverse side | the half-dollar
+right: Robert
+Wrong: 
+Value: $600
+Number: 28
+DON WE NOW OUR GUY APPAREL | The name of this wide sash popular in men's formal wear comes from the Urdu for "waistband" | cummerbund
+right: Robert
+Wrong: 
+Value: $600
+Number: 19
+PRESIDENTIAL MIDDLE NAMES | Gamaliel | Warren Harding
+right: Robert
+Wrong: 
+Value: $600
+Number: 25
+RHYME TIME | Varieties of this brand of seasoned coating mix from Kraft include Tangy Honey Glaze & Original Pork | Shake 'n Bake
+right: Robert
+Wrong: 
+Value: $600
+Number: 9
+JOURNALISM | (<http://www.j-archive.com/media/2004-12-13_J_05.jpg> Hi, I'm Bob Woodward.)  A popular expression says that "a good reporter never reveals" this, & I'll be the first to agree | the sources
+right: Robert
+Wrong: 
+Value: $800
+Number: 5
+PEOPLE ON THE MAP | Among the many larger-than-life characters he created are Captain Wolf Larsen & Buck the sled dog | Jack London
+right: Robert
+Wrong: 
+Value: $800
+Number: 14
+THE LIBERTY BELL | On the inscription, "Pennsylvania" is misspelled, omitting this letter | N
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+DON WE NOW OUR GUY APPAREL | Popular as a fabric for men's pants, this ribbed fabric's name may derive from the French for "cloth of the king" | corduroy
+right: Robert
+Wrong: 
+Value: $800
+Number: 20
+PRESIDENTIAL MIDDLE NAMES | Knox | (James K.) Polk
+right: Snow
+Wrong: 
+David: Who is Garfield?
+Value: $800
+Number: 26
+RHYME TIME | To tell someone to relax, you can use the slang phrase "take a" this rhyming pharmaceutical term | a chill pill
+right: Robert
+Wrong: 
+Value: $800
+Number: 10
+JOURNALISM | It's the term for the first paragraph in a news story; a feature may have a delayed or indirect one | the lead
+right: Robert
+Wrong: 
+Value: $1000
+Number: 6
+PEOPLE ON THE MAP | This British-born actor has starred in "Cabaret", Logan's Run" & "Austin Powers" | Michael York
+right: Robert
+Wrong: 
+Value: $1000
+Number: 15
+THE LIBERTY BELL | In 1893 the liberty bell was on exhibit at the Columbian Exposition in this city | Chicago
+right: David
+Wrong: 
+Value: $1000
+Number: 30
+DON WE NOW OUR GUY APPAREL | (<http://www.j-archive.com/media/2004-12-13_J_21.jpg> Hi, I'm Tucker Carlsen of CNN's Crossfire.)  Among the many influential men to wear bow ties is this great Spanish poet & author of "The House of Bernarda Alba"  | (Frederic Garcia) Lorca
+right: David
+Wrong: 
+Value: $1000
+Number: 21
+PRESIDENTIAL MIDDLE NAMES | Rudolph | Gerald Ford
+right: 
+Wrong: 
+Snow: Who is Reagan?
+Value: DD: $2,400
+Number: 27
+RHYME TIME | At many Starbucks you can surf the Internet cordless with this type of rhyming computer network card | Wi-Fi
+right: Snow
+Wrong: 
+Value: $1000
+Number: 11
+Scores at the first commercial break (after clue 15)
+Robert: $6,400
+Snow: $1,400
+David: $1,200
+Scores at the end of the Jeopardy! Round:
+Robert: $9,400
+Snow: $0
+David: $3,200
+Second Jeopardy! Round: THE OSCARS, MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST, THE VEGETABLE GARDEN, I CAN SEE YOUR HOUSE FROM HERE!, 18th CENTURY QUOTES, WHERE DO YOU GET "OFF"?
+THE OSCARS | After winning Best Supporting Actress for "Kramer vs. Kramer", she left her statuette in the ladies' room | Meryl Streep
+right: David
+Wrong: 
+Value: $400
+Number: 16
+MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST | An atom of this No. 2 elment has an alpha particle as its nucleus | helium
+right: Robert
+Wrong: 
+Value: $400
+Number: 3
+THE VEGETABLE GARDEN | Slicing ones are harvested when they're about 7 inches long, pickling ones at 1 1/2 to 3 inches | cucumbers
+right: Snow
+Wrong: 
+Value: $400
+Number: 1
+I CAN SEE YOUR HOUSE FROM HERE! | From Venezuela's Mount Avila, you can see the presidential palace in this city | Caracas
+right: Snow
+Wrong: 
+Value: $400
+Number: 30
+18th CENTURY QUOTES | On Nov. 10, 1770 Voltaire wrote, "If God did not exist, it would be necessary to" do this | invent him
+right: Snow
+Wrong: 
+Value: $400
+Number: 11
+WHERE DO YOU GET "OFF"? | In this film, Lou Gossett Jr. drills Richard Gere & Debra Winger thrills Richard Gere | An Officer and a Gentleman
+right: Robert
+Wrong: 
+Value: $400
+Number: 21
+THE OSCARS | Timothy Hutton won a 1980 Oscar for Best Supporting Actor for this film directed by Robert Redford | Ordinary People
+right: Robert
+Wrong: 
+Value: $800
+Number: 17
+MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST | (<http://www.j-archive.com/media/2004-12-13_DJ_04.jpg> Cheryl of the Clue Crew stands at a blackboard.)  In the familiar atomic symbol, the dots represent these little guys | electrons
+right: Snow
+Wrong: 
+Value: $800
+Number: 4
+THE VEGETABLE GARDEN | This type of bean is said to be foolproof for gardeners, which makese sense as its name means something easy | snap bean
+right: Robert
+Wrong: 
+Value: $800
+Number: 2
+I CAN SEE YOUR HOUSE FROM HERE! | From Grouse Mountain, you'll B.C.-ing a panorama of this big city on a peninsula | Vancouver
+right: Robert
+Wrong: 
+Value: $800
+Number: 29
+18th CENTURY QUOTES | In this pamphlet Thomas Paine said, government "is but a necessary evil; in its worst state, an intolerable one" | Common Sense
+right: Robert
+Wrong: 
+Value: $800
+Number: 12
+WHERE DO YOU GET "OFF"? | In Fiscal 2000 over a billion dollars was wagered at New York City's OTB outlets, OTB standing for this | off-track betting
+right: David
+Wrong: 
+Value: $800
+Number: 22
+THE OSCARS | Paddy Chayefsky won an Oscar for his very first screenplay--this 1955 Ernest Borgnine film | Marty
+right: David
+Wrong: 
+Value: $1200
+Number: 18
+MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST | Pions are a type of these "rays" from outer space that enter the Earth's atmosphere | cosmic rays
+right: Robert | Snow
+Wrong: 
+Value: $1200
+Number: 6
+THE VEGETABLE GARDEN | Long-day onions form this, the rounded, edible part, during long summer days in the northern U.S. | the bulb
+right: Robert
+Wrong: 
+Value: $1200
+Number: 5
+I CAN SEE YOUR HOUSE FROM HERE! | "Vulcan", the U.S.A.'s largest cast-iron statue, is seen <http://www.j-archive.com/media/2004-12-13_DJ_26.jpg> here, looking down on this Southern city | Birmingham, Alabama
+right: 
+Wrong: 
+David: Boy, um...
+Value: DD: $3,000
+Number: 26
+18th CENTURY QUOTES | In this work Adam Smith wrote, "Consumption is the sole end and purpose of all production" | The Wealth of Nations
+right: David
+Wrong: 
+Value: $1200
+Number: 13
+WHERE DO YOU GET "OFF"? | Inked impressions are transferred onto paper from another surface in this printing method | offset printing
+right: Robert
+Wrong: 
+Value: $1200
+Number: 23
+THE OSCARS | The rumor that her acceptance speech for "Mrs. Miniver" ran over an hour is untrue; actually it was about 7 minutes | Greer Garson
+right: Snow
+Wrong: 
+Value: $1600
+Number: 19
+MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST | In the center of stars, the hot version of this process is going on; a cold version is still a dream | fusion
+right: Robert
+Wrong: 
+Value: $1600
+Number: 7
+THE VEGETABLE GARDEN | Insulated from cold, carrots, parsnips & other veggies classified as these have a long growing season | root vegetables
+right: Snow
+Wrong: 
+Value: $1600
+Number: 9
+I CAN SEE YOUR HOUSE FROM HERE! | The Chapel of the Ascension is on this mount that overlooks Jerusalem's old city | the Mount of Olives
+right: David
+Wrong: 
+Robert: What is the Temple Mountain?
+Snow: What is Mount Sinai?
+Value: $1600
+Number: 28
+18th CENTURY QUOTES | When asked whether we had a republic or a monarchy, Ben Franklin gave this 7-word reply | A republic, if you can keep it
+right: 
+Wrong: Triple Stumper
+Snow: What is depends on who you ask?
+David: What is neither?
+Value: $1600
+Number: 14
+WHERE DO YOU GET "OFF"? | It describes an investment based in a foreign country so its owner laughs at the IRS | offshore
+right: David
+Wrong: 
+Value: $1600
+Number: 24
+THE OSCARS | Her 2 acting Oscars for "The Sin of Madelon Claudet" & "Airport" were 39 years apart | Helen Hayes
+right: 
+Wrong: 
+Snow: Um, who is Lauren Bacall?
+Value: DD: $1,800
+Number: 20
+MAYBE YOU HAVE TO BE A NUCLEAR PHYSICIST | This type of agreement must be adhered to; this type of energy is required to keep a nucleus together | binding
+right: Snow
+Wrong: 
+David: What's a bond?
+Value: $2000
+Number: 8
+THE VEGETABLE GARDEN | There's nothing like a vine-ripened one of these, perhaps the vineripe variety | a tomato
+right: Robert
+Wrong: 
+Value: $2000
+Number: 10
+I CAN SEE YOUR HOUSE FROM HERE! | The view of Rio seen <http://www.j-archive.com/media/2004-12-13_DJ_27.jpg> here is from this mountain | Corcovado
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+18th CENTURY QUOTES | When this Prussian king died on August 17, 1786, his last words were "I am tired of ruling over slaves" | Frederick the Great
+right: Robert
+Wrong: 
+Value: $2000
+Number: 15
+WHERE DO YOU GET "OFF"? | Something expected to happen soon is "in" this | the offing
+right: David
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Robert: $21,000
+Snow: $3,400
+David: $5,400
+
+Final Jeopardy! Round
+BUSINESS HISTORY | Last names of the 2 men, both engineers, who met & formed a partnership at England's Midland Hotel in May 1904 | Rolls and Royce
+right: Robert
+Wrong: 
+Snow: What are Archer and Daniels?
+David: What Johnson & Johnson?
+Wagers: 
+Snow: $400
+David: $1,401
+Robert: $6,000
+Final scores:
+Robert: $27,000 (2-day champion: $33,399)
+Snow: $3,000 (3rd place: $1,000)
+David: $3,999 (2nd place: $2,000)
+
+Coryat scores
+Robert: $21,000 (29 R,2 W)
+Snow: $7,600 (12 R,4 W(including 2 DDs))
+David: $8,400 (14 R,4 W(including 1 DD))

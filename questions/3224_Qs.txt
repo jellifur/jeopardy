@@ -1,0 +1,346 @@
+5796 - Monday, November 23, 2009
+Contestants:
+Patrick Pence: a GIS coordinator from Tallahassee, Florida
+Cathy Sorge: an archivist from Silver Spring, Maryland
+Ben Davis: a law student from Chicago, Illinois (whose 1-day cash winnings total $20,801)
+First Jeopardy! Round: SNL CELEBRITY JEOPARDY!, STATES THAT END IN HAMPSHIRE, WHAT COLOR IS GREEN?, CURRENT BLACK PRESIDENTS, SOUNDS THAT KITTIES MAKE, TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR
+SNL CELEBRITY JEOPARDY! | As he did in "Anchorman", Will Ferrell sports this facial feature in the "SNL" "Jeopardy!" skits | a mustache
+right: Ben
+Wrong: 
+Value: $200
+Number: 2
+STATES THAT END IN HAMPSHIRE | The Franklin Pierce Law Center & Christa McAuliffe Planetarium can be found in this capital of New Hampshire | Concord
+right: Ben
+Wrong: 
+Value: $200
+Number: 16
+WHAT COLOR IS GREEN? | God did make these, & some of them are Granny Smiths | (little green) apples
+right: Patrick
+Wrong: 
+Value: $200
+Number: 1
+CURRENT BLACK PRESIDENTS | Africa's oldest democracy, this nation headed by Pres. Ian Khama is mainly made up of the Tswana people | Botswana
+right: Cathy
+Wrong: 
+Patrick: What is Liberia?
+Value: $200
+Number: 26
+SOUNDS THAT KITTIES MAKE | This sound made by lions can carry 5 miles | a roar
+right: Patrick
+Wrong: 
+Value: $200
+Number: 11
+TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR | Proverbial food storage container where your "hand is caught" when busted for taking a bribe | the cookie jar
+right: Ben
+Wrong: 
+Value: $200
+Number: 21
+SNL CELEBRITY JEOPARDY! | Darrell Hammond played this Scottish actor who...  Nope, I can't say anything else; just name him | Sean Connery
+right: Ben
+Wrong: 
+Value: $400
+Number: 4
+STATES THAT END IN HAMPSHIRE | New Hampshire is bounded to the north by this Canadian province, the country's largest in area | Quebec
+right: Patrick
+Wrong: 
+Value: $400
+Number: 17
+WHAT COLOR IS GREEN? | Lincoln Green is also called this green, where you might see it were it not for the trees | a forest
+right: Patrick
+Wrong: 
+Value: $400
+Number: 3
+CURRENT BLACK PRESIDENTS | Taking over from his assassinated father in 2001, Joseph Kabila is the president of this country abbreviated D.R.C. | the Democratic Republic of the Congo
+right: Ben
+Wrong: 
+Value: $400
+Number: 27
+SOUNDS THAT KITTIES MAKE | This sound of aggression from a domestic cat is also produced by vipers | a hiss
+right: Patrick
+Wrong: 
+Value: $400
+Number: 12
+TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR | A 1-pound tin of premium sevruga this can go for more than $2,000 | caviar
+right: Cathy
+Wrong: 
+Value: $400
+Number: 22
+SNL CELEBRITY JEOPARDY! | Norm MacDonald played this "Smokey and the Bandit" star who had a slight problem IDing Pat Morita's ancestry | Burt Reynolds
+right: Patrick
+Wrong: 
+Ben: Who is Burt Lancaster?
+Value: $600
+Number: 6
+STATES THAT END IN HAMPSHIRE | Chartered in 1769, this Ivy League school is N.H.'s oldest & ranks among the 10 oldest U.S. colleges | Dartmouth
+right: Ben
+Wrong: 
+Value: $600
+Number: 18
+WHAT COLOR IS GREEN? | This old song says, "Alas, my love, you do me wrong, to cast me off discourteously" | "Greensleeves"
+right: Patrick
+Wrong: 
+Value: $600
+Number: 5
+CURRENT BLACK PRESIDENTS | Troubles with neighboring Somalia & Eritrea surely occupy President Girma Woldegiorgis of this country | Ethiopia
+right: Ben
+Wrong: 
+Value: $600
+Number: 28
+SOUNDS THAT KITTIES MAKE | In "The Maltese Falcon", Dashiell Hammett wrote, "'That will be excellent,' Gutman" did this | purred
+right: 
+Wrong: Triple Stumper
+Ben: What is snarled?
+Value: $600
+Number: 13
+TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR | Django Reinhardt was a master of this instrument | the guitar
+right: Ben
+Wrong: 
+Value: $600
+Number: 23
+SNL CELEBRITY JEOPARDY! | Ben Stiller played this star of "The Firm" on a show where one category was "FOODS THAT END IN 'AMBURGER'" | Tom Cruise
+right: Patrick
+Wrong: 
+Value: $800
+Number: 7
+STATES THAT END IN HAMPSHIRE | New Hampshire's Squam Lakes provided the title location for this 1981 Fonda & Hepburn film | On Golden Pond
+right: Patrick
+Wrong: 
+Value: $800
+Number: 19
+WHAT COLOR IS GREEN? | This American political party that formed in 1874 favored an increase in paper currency | the Greenback Party
+right: Ben
+Wrong: 
+Value: $800
+Number: 9
+CURRENT BLACK PRESIDENTS | President Laurent Gbagbo heads this country that goes by its French name most of the time | Côte d'Ivoire (the Ivory Coast)
+right: Ben
+Wrong: 
+Value: DD: $600
+Number: 29
+SOUNDS THAT KITTIES MAKE | This threatening sound can also mean "to become tangled" | snarled
+right: Ben
+Wrong: 
+Value: $800
+Number: 14
+TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR | The incarnation of a god in Hindu myth, or an Internet graphical image representing a person | an avatar
+right: Ben
+Wrong: 
+Value: $800
+Number: 24
+SNL CELEBRITY JEOPARDY! | Kristen Wiig played this "Today" co-host, who, like so many of our players, brought Chardonnay on stage | Kathie Lee Gifford
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 8
+STATES THAT END IN HAMPSHIRE | Also the name of a "United" city in England, this city lies along the banks of the Merrimack River | Manchester
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 20
+WHAT COLOR IS GREEN? | This play says, "Beware, my lord, of jealousy; it is the green-eyed monster" | Othello
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 10
+CURRENT BLACK PRESIDENTS | President Amadou Toure has led this Saharan nation with a 4-letter name since 2002 | Mali
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 30
+SOUNDS THAT KITTIES MAKE | Starting around 1922, this phrase meant something excellent or desirable | the cat's meow
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 15
+TWINKLE TWINKLE LITTLE WORD THAT RHYMES WITH STAR | This animal's scientific name is Panthera onca | jaguar
+right: Ben
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Ben: $1,000
+Cathy: $0
+Patrick: $6,200
+Scores at the end of the Jeopardy! Round:
+Ben: $6,000
+Cathy: $600
+Patrick: $9,200
+Second Jeopardy! Round: WORDS OF LOVE, NEEDY NO. 1 HITMAKERS, FRUIT, ENDS WITH 3 VOWELS, DON'T BE A PAIN, A JOURNEY THROUGH ISRAEL
+WORDS OF LOVE | He concludes "The Divine Comedy" with "The love that moves the sun and the other stars" | Dante
+right: Cathy
+Wrong: 
+Value: $400
+Number: 27
+NEEDY NO. 1 HITMAKERS | 1964: "I Want To Hold Your Hand" | The Beatles
+right: Patrick
+Wrong: 
+Value: $400
+Number: 1
+FRUIT | The name of this fruit, genus Prunus, can precede picker, pie & Coke | cherry
+right: Ben
+Wrong: 
+Value: $400
+Number: 16
+ENDS WITH 3 VOWELS | Hawaiian feast | a luau
+right: Cathy
+Wrong: 
+Value: $400
+Number: 4
+DON'T BE A PAIN | This drug marketed as Advil & Nuprin reduces pain by inhibiting chemicals that cause inflammation | ibuprofen
+right: Ben
+Wrong: 
+Value: $400
+Number: 11
+A JOURNEY THROUGH ISRAEL | (<http://www.j-archive.com/media/2009-11-23_DJ_21.jpg> Alex reports from the Western Wall in Jerusalem.)  In Jewish circles, the Wailing Wall became known as the Western Wall after this 1967 war & the reunification of Jerusalem | the Six-Day War
+right: Ben
+Wrong: 
+Cathy: What is the Seven-Days War?
+Value: $400
+Number: 21
+WORDS OF LOVE | Marlowe rhymed, "Where both deliberate, the love is slight; who ever loved, that loved not at" this? | first sight
+right: Ben
+Wrong: 
+Value: $800
+Number: 28
+NEEDY NO. 1 HITMAKERS | 1987: "I Wanna Dance With Somebody (Who Loves Me)" | (Whitney) Houston
+right: Patrick
+Wrong: 
+Value: $800
+Number: 2
+FRUIT | More than 50 medications are affected by the juice of this citrus fruit; its enzymes break down the meds | grapefruit
+right: Cathy
+Wrong: 
+Value: $800
+Number: 17
+ENDS WITH 3 VOWELS | Pierre's "farewell" | adieu
+right: Patrick
+Wrong: 
+Value: $800
+Number: 7
+DON'T BE A PAIN | To control pain, some patients try this technique in which they monitor their body functions & try to alter them | biofeedback
+right: Cathy
+Wrong: 
+Value: $800
+Number: 12
+A JOURNEY THROUGH ISRAEL | (<http://www.j-archive.com/media/2009-11-23_DJ_22.wmv> Sarah of the Clue Crew is in a boat.)  You can ride in a boat reminiscent of Jesus' time on this sea, beside which he preached and performed miracles like the one of the loaves & fishes | the Sea of Galilee
+right: Patrick
+Wrong: 
+Value: $800
+Number: 22
+WORDS OF LOVE | In "Prometheus Unbound", he wrote, "All love is sweet, given or returned.  Common as light is love" | Percy Bysshe Shelley
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+NEEDY NO. 1 HITMAKERS | 1956: "I Want You, I Need You, I Love You" | Elvis
+right: Ben
+Wrong: 
+Value: $1200
+Number: 3
+FRUIT | This fuzzy fruit is also a slang term meaning inform against or betray | peach
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+ENDS WITH 3 VOWELS | Dresser | a bureau
+right: Cathy
+Wrong: 
+Value: $1200
+Number: 8
+DON'T BE A PAIN | Trigger point injections are used to treat this muscle contraction, from the Latin for "convulsion" | a spasm
+right: Cathy
+Wrong: 
+Value: $1200
+Number: 13
+A JOURNEY THROUGH ISRAEL | (<http://www.j-archive.com/media/2009-11-23_DJ_25.jpg> Alex places a stone on a grave at Mount Zion Cemetery in Jerusalem.)  Here in the Mount Zion Cemetery, one of the prominent graves is that of this man, a Krakow factory owner, who, in World War II, saved the lives of over 1,000 Jews | (Oskar) Schindler
+right: Patrick
+Wrong: 
+Value: $1200
+Number: 25
+WORDS OF LOVE | Virgil's "omnia vincit amor" is translated as this | love conquers all
+right: Patrick
+Wrong: 
+Value: DD: $3,000
+Number: 24
+NEEDY NO. 1 HITMAKERS | 1984: "I Want To Know What Love Is" | Foreigner
+right: Cathy
+Wrong: 
+Patrick: What is Air Supply?
+Value: $1600
+Number: 5
+FRUIT | The liqueur creme de cassis is made with the black type of this fruit | currant
+right: Ben
+Wrong: 
+Value: $1600
+Number: 19
+ENDS WITH 3 VOWELS | Emmy-winning actor Bridges | Beau
+right: Patrick
+Wrong: 
+Value: $1600
+Number: 9
+DON'T BE A PAIN | Pain registers in one area of the outer portion of the cerebrum called the cerebral this | cortex
+right: Patrick
+Wrong: 
+Value: $1600
+Number: 14
+A JOURNEY THROUGH ISRAEL | (<http://www.j-archive.com/media/2009-11-23_DJ_26.wmv> Jimmy of the Clue Crew reports from Isreal.)  <http://www.j-archive.com/media/2009-11-23_DJ_26.jpg> This ruined fortress atop a mesa is where thousands of Israeli soldiers have taken an oath swearing that it shall not fall again | Masada
+right: 
+Wrong: 
+Patrick: Uh... no idea.
+Value: DD: $300
+Number: 26
+WORDS OF LOVE | "In her first passion woman loves her lover, in all the others all she loves is love", he wrote in "Don Juan" | Byron
+right: Ben
+Wrong: 
+Value: $2000
+Number: 29
+NEEDY NO. 1 HITMAKERS | 1970: "I Want You Back" | The Jackson 5
+right: Ben
+Wrong: 
+Value: $2000
+Number: 6
+FRUIT | Fraise is French for this fruit | strawberry
+right: Ben
+Wrong: 
+Value: $2000
+Number: 20
+ENDS WITH 3 VOWELS | Environment or setting | milieu
+right: Ben
+Wrong: 
+Patrick: What is tableau?
+Value: $2000
+Number: 10
+DON'T BE A PAIN | There are several types of these nerve cells: some respond to temperature, some to pressure & some to pain | sensory receptors
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+A JOURNEY THROUGH ISRAEL | (<http://www.j-archive.com/media/2009-11-23_DJ_30.wmv> Alex floats in the Dead Sea.)  Floating in the Dead Sea is easy; now what keeps me buoyant?  The water is nine times saltier than seawater, & it has a very high this, which is mass per unit of volume | density
+right: Ben
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ben: $20,800
+Cathy: $6,600
+Patrick: $15,500
+
+Final Jeopardy! Round
+ODD TITLES | Gilbert & Sullivan's "Mikado", not Milne, gave us this hyphenated title for a pompous functionary | grand poo-bah
+right: Ben
+Wrong: 
+Cathy: What is [major general crossed out]
+Patrick: What is tigger?
+Wagers: 
+Cathy: $6,600
+Patrick: $2,000
+Ben: $10,201
+Final scores:
+Ben: $31,001 (2-day champion: $51,802)
+Cathy: $0 (3rd place: $1,000)
+Patrick: $13,500 (2nd place: $2,000)
+
+Coryat scores
+Ben: $21,000 (24 R(including 1 DD),2 W)
+Cathy: $6,600 (9 R,1 W)
+Patrick: $14,400 (22 R(including 1 DD),4 W(including 1 DD))

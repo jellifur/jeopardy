@@ -1,0 +1,343 @@
+4232 - Tuesday, January 14, 2003
+Contestants:
+Penny Frisbie: a systems engineer from Raleigh, North Carolina
+Rich Levine: a software process engineer from Chandler, Arizona
+Kathleen Ellis: a registered nurse from Red Oak, Texas (whose 2-day cash winnings total $43,501)
+First Jeopardy! Round: BUTTERFLIES & MOTHS, IT'S THE LITTLE THINGS, BESTSELLERS, COUNTRY COOKING, TV CARTOONS, THE "IGHT" STUFF
+BUTTERFLIES & MOTHS | For thousands of years, the Chinese have used the cocoons of the Bombyx mori moth to produce this | silk
+right: Rich
+Wrong: 
+Value: $200
+Number: 26
+IT'S THE LITTLE THINGS | Isaac Newton said he felt like a boy finding these small stones on the seashore of the Ocean of Truth | pebbles
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 16
+BESTSELLERS | Selected by daughter Caroline, "The Best-Loved Poems of" this beloved First Lady was a bestseller in 2001 | Jacqueline Kennedy
+right: Rich
+Wrong: 
+Value: $200
+Number: 11
+COUNTRY COOKING | Tempura | Japan
+right: Rich
+Wrong: 
+Value: $200
+Number: 6
+TV CARTOONS | According to their theme song, they're "The modern Stone-Age family" | The Flintstones
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 1
+THE "IGHT" STUFF | Proverbially speaking, things "out of" this are "out of mind" | sight
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 21
+BUTTERFLIES & MOTHS | Because hawk moths flap their wings so rapidly, they are sometimes mistaken for these small birds | hummingbirds
+right: Rich
+Wrong: 
+Value: $400
+Number: 27
+IT'S THE LITTLE THINGS | In French these office supplies are called trombones | paper clips
+right: Kathleen
+Wrong: 
+Value: DD: $2,000
+Number: 17
+BESTSELLERS | This talk show host's candid memoir "Find Me" came out in April 2002 | Rosie O'Donnell
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+COUNTRY COOKING | Goulash | Hungary
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 7
+TV CARTOONS | In a 2001 10th anniversary special, these kids were "All Growed Up" | Rugrats
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 2
+THE "IGHT" STUFF | It's a synonym for stingy or slightly inebriated | tight
+right: Rich
+Wrong: 
+Value: $400
+Number: 22
+BUTTERFLIES & MOTHS | Female butterflies & moths release pheromones to attract males, who use these organs to "smell" the chemicals | antennae
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+IT'S THE LITTLE THINGS | From the French for "little hook", this form of needlework can be used to make decorative clothes & gifts | crochet
+right: Rich
+Wrong: 
+Value: $600
+Number: 18
+BESTSELLERS | According to the title of a 1960s bestseller by Charles Schulz, "Happiness is" this | a Warm Puppy
+right: Kathleen
+Wrong: 
+Value: $600
+Number: 13
+COUNTRY COOKING | Hasenpfeffer | Germany
+right: Kathleen
+Wrong: 
+Value: $600
+Number: 8
+TV CARTOONS | Before moving on to "King of the Hill", Mike Judge created & gave voice to this adolescent pair | Beavis and Butt-head
+right: Rich
+Wrong: 
+Value: $600
+Number: 3
+THE "IGHT" STUFF | On film, Dracula refers to the howling wolves as "the children of" this | the night
+right: Kathleen
+Wrong: 
+Value: $600
+Number: 23
+BUTTERFLIES & MOTHS | This butterfly family is named for the way it flies, not for Alan Hale's character on "Gilligan's Island" | skipper
+right: Rich
+Wrong: 
+Value: $800
+Number: 29
+IT'S THE LITTLE THINGS | It's the interchangeable writing point of a fountain pen | nib
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 19
+BESTSELLERS | Mitch Albom's weekly visits with his dying college professor inspired this touching book | "Tuesdays with Morrie"
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 14
+COUNTRY COOKING | Osso Buco | Italy
+right: Rich
+Wrong: 
+Value: $800
+Number: 9
+TV CARTOONS | He's the PBS title character seen here, along with someone else you might recognize | Arthur
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 4
+THE "IGHT" STUFF | In the King James Bible, it's the fourth word spoken by God | "(Let there be) light"
+right: Rich
+Wrong: 
+Kathleen: What is night?
+Value: $800
+Number: 24
+BUTTERFLIES & MOTHS | In the names of butterflies, this word immediately follows black, tiger & checkered | swallowtail
+right: 
+Wrong: Triple Stumper
+Rich: What is tail?
+Value: $1000
+Number: 30
+IT'S THE LITTLE THINGS | BB can be a small lead pellet, or an abbreviation for this spherical friction-reducing object | ball bearing
+right: Kathleen
+Wrong: 
+Value: $1000
+Number: 20
+BESTSELLERS | In 1977 his "All Things Wise and Wonderful" was a No. 1 bestseller | James Herriot
+right: Penny
+Wrong: 
+Value: $1000
+Number: 15
+COUNTRY COOKING | Souvlaki | Greece
+right: Rich
+Wrong: 
+Value: $1000
+Number: 10
+TV CARTOONS | In a '70s spinoff from the original series, these gals found themselves "in Outer Space" | Josie and the Pussycats
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THE "IGHT" STUFF | Among Whittier's saddest "Words of Tongue or Pen", it's the word that fits the category | "(It) might (have been)"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Kathleen: $3,800
+Rich: $2,800
+Penny: $1,000
+Scores at the end of the Jeopardy! Round:
+Kathleen: $7,800
+Rich: $5,000
+Penny: $1,000
+Second Jeopardy! Round: ISLANDS, THE OLYMPICS, LET'S MONKEY AROUND, AMERICAN DRAMATISTS, FIRST LADIES, NOISES IN THE DICTIONARY
+ISLANDS | This island off Guinea-Bissau bears the old name of Taiwan | Formosa
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 1
+THE OLYMPICS | The 2 cities that hosted the Summer Olympics in the 1970s, they both begin with the same letter | Munich & Montreal
+right: Rich
+Wrong: 
+Value: $400
+Number: 16
+LET'S MONKEY AROUND | Most old world monkeys just use it for balance; it's prehensile on many new world monkeys | tail
+right: Rich
+Wrong: 
+Value: $400
+Number: 19
+AMERICAN DRAMATISTS | For playing Chuck Yeager in "The Right Stuff", this dramatist got an Oscar nomination as Best Supporting Actor | Sam Shepard
+right: 
+Wrong: Triple Stumper
+Rich: Who is Tom Wolfe?
+Value: $400
+Number: 24
+FIRST LADIES | Jenna's grandmother, in the '80s she was looked upon as "Everybody's Grandmother" | Barbara Bush
+right: Rich
+Wrong: 
+Value: $400
+Number: 6
+NOISES IN THE DICTIONARY | A type of band or the imitation of a tuba's sound, it can have one "pah" or two | oompah
+right: Rich
+Wrong: 
+Value: $400
+Number: 11
+ISLANDS | The U.S. took this largest of the Ryukyu Islands during WWII & didn't give it back to Japan until 1972 | Okinawa
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 2
+THE OLYMPICS | This competition combines cross-country skiing with rifle shooting at targets along the course | biathlon
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 17
+LET'S MONKEY AROUND | Experts say that among playground equipment, this "simian" piece may be responsible for the most injuries | monkey bars
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 20
+AMERICAN DRAMATISTS | Many of his plays are set in his native Chicago, including "American Buffalo" & "Glengarry Glen Ross" | David Mamet
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 26
+FIRST LADIES | Jackie Kennedy especially admired this First Lady for the way she raised Margaret in the White House glare | Bess Truman
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 7
+NOISES IN THE DICTIONARY | A light ringing sound, as of glasses in a toast; it also means prison | clink
+right: Rich
+Wrong: 
+Value: $800
+Number: 12
+ISLANDS | "Able was I ere I saw" this largest island of the Tuscan archipelago | Elba
+right: Kathleen
+Wrong: 
+Value: $1200
+Number: 3
+THE OLYMPICS | In 1908 the marathon was extended to end before this city's royal viewing area, establishing today's distance | London
+right: Kathleen
+Wrong: 
+Value: DD: $1,000
+Number: 18
+LET'S MONKEY AROUND | Actress seen here with Tyson, a monkey who worked with her on a biopic of Frida Kahlo | Salma Hayek
+right: Rich
+Wrong: 
+Value: $1200
+Number: 21
+AMERICAN DRAMATISTS | His first major work, "Ma Rainey's Black Bottom", received a 1985 N.Y. Drama Critics' Circle Award for Best Play | August Wilson
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 27
+FIRST LADIES | Receiving a "rock solid" education at Stanford, Lou Hoover was the first woman to earn a degree in this | geology
+right: Kathleen
+Wrong: 
+Value: DD: $13,000
+Number: 8
+NOISES IN THE DICTIONARY | It's a short, high-pitched tone, & can also mean "to summon" | beep
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 13
+ISLANDS | Gotland?  It's an island in this sea between Sweden & Latvia | Baltic Sea
+right: 
+Wrong: Triple Stumper
+Penny: What is the North Sea?
+Value: $1600
+Number: 4
+THE OLYMPICS | Based on a true story, this film was about the formation of a Jamaican bobsled team for the 1988 Winter Olympics | Cool Runnings
+right: Kathleen
+Wrong: 
+Value: $1600
+Number: 25
+LET'S MONKEY AROUND | It's the fruit of the baobab tree | monkey bread
+right: 
+Wrong: Triple Stumper
+Rich: What is a banana?
+Value: $1600
+Number: 22
+AMERICAN DRAMATISTS | 1953 was his year: he won both the New York Drama Critics' Circle Award & the Pulitzer Prize for "Picnic" | William Inge
+right: 
+Wrong: Triple Stumper
+Penny: Who is Agee?
+Value: $1600
+Number: 28
+FIRST LADIES | Her first husband John Todd & their infant son died during a yellow fever epidemic in 1793 | Dolley Madison
+right: 
+Wrong: Triple Stumper
+Penny: Who is Mary Todd Lincoln?
+Value: $1600
+Number: 9
+NOISES IN THE DICTIONARY | In "The Rime of the Ancient Mariner", the mariner's shipmates keel over "with heavy" this, "a lifeless lump" | thump
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+ISLANDS | The last name of English captain Robert Bylot's pilot, it was given to Canada's largest island | Baffin
+right: Kathleen
+Wrong: 
+Value: $2000
+Number: 5
+THE OLYMPICS | Last name of twins Phil & Steve who won gold & silver in the slalom at the 1984 Winter Olympics | Mahre
+right: Rich
+Wrong: 
+Value: $2000
+Number: 30
+LET'S MONKEY AROUND | He was the defendant in the 1925 "Monkey Trial" | John Scopes
+right: Rich
+Wrong: 
+Value: $2000
+Number: 23
+AMERICAN DRAMATISTS | Until his World War I drama "What Price Glory" was produced in NYC in 1924, he was a journalist & schoolteacher | Maxwell Anderson
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 29
+FIRST LADIES | It was the first name of Mrs. Grant & the second Mrs. Tyler | Julia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+NOISES IN THE DICTIONARY | This sound of vibration can be pronounced like the third person plural past indicative of "to be" | were/whir
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Kathleen: $31,000
+Rich: $10,600
+Penny: -$3,800
+
+Final Jeopardy! Round
+LOGOS & TRADEMARKS | This brand's famous logo orignally represented Vulcan about to strike his anvil | Arm & Hammer
+right: Rich | Kathleen
+Wrong: 
+Wagers: 
+Rich: $10,500
+Kathleen: $4,000
+Final scores:
+Kathleen: $35,000 (3-day champion: $78,501)
+Rich: $21,100 (2nd place: $2,000)
+Penny: -$3,800 (3rd place: $1,000)
+
+Coryat scores
+Kathleen: $17,800 (24 R(including 3 DDs),1 W)
+Rich: $10,600 (19 R,3 W)
+Penny: -$3,800 (1 R,3 W)

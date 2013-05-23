@@ -1,0 +1,336 @@
+5014 - Thursday, June 1, 2006
+Contestants:
+Jonathan Spencer: a box office manager from Alameda, California
+Kathy Daum: a retired registrar and volunteer from Montevallo, Alabama
+Nathan Meyers: a software developer from Medford, Massachusetts (whose 1-day cash winnings total $15,801)
+First Jeopardy! Round: EUROPE, THAT WAS ENTERTAINMENT, WOMEN IN POLITICS, "BOOK"S, SHIP SHAPE, A VARIETY OF WORDS
+EUROPE | Dufourspitze of Monte Rosa in the Alps is this country's highest mountain | Switzerland
+right: Nathan
+Wrong: 
+Kathy: What is Germany?
+Jonathan: What is Andorra?
+Value: $200
+Number: 25
+THAT WAS ENTERTAINMENT | The instrument <http://www.j-archive.com/media/2006-06-01_J_02.jpg> seen <http://www.j-archive.com/media/2006-06-01_J_02a.jpg> here belonged to this musician who died in 1987 | Liberace
+right: Nathan
+Wrong: 
+Value: $200
+Number: 2
+WOMEN IN POLITICS | Rose McConnell Long served as a U.S. senator from this state after the 1935 murder of her husband | Louisiana
+right: Nathan
+Wrong: 
+Value: $200
+Number: 17
+"BOOK"S | Excluded from the "Who's Who" big red book, Mae West said the publisher "isn't in my" this "book either" | her (little) black book
+right: Kathy
+Wrong: 
+Value: $200
+Number: 1
+SHIP SHAPE | In 1492 the Santa Clara & La Gallega were given these names & joined the Pinta on an epic ocean voyage | the Nina
+right: Kathy
+Wrong: 
+Value: $200
+Number: 11
+A VARIETY OF WORDS | Bridgestone product | tire
+right: 
+Wrong: Triple Stumper
+Nathan: What are [*]s?
+Value: $200
+Number: 12
+EUROPE | In a 1939 decree in Spain, he was proclaimed "Supreme Chief, responsible only before God and history" | Franco
+right: Kathy
+Wrong: 
+Value: $400
+Number: 26
+THAT WAS ENTERTAINMENT | Mr. Bunny Rabbit, the bunny seen <http://www.j-archive.com/media/2006-06-01_J_03.jpg> here, helped this TV host earn the love of children | Captain Kangaroo
+right: Kathy
+Wrong: 
+Value: $400
+Number: 3
+WOMEN IN POLITICS | (<http://www.j-archive.com/media/2006-06-01_J_18.jpg> Sarah of the Clue Crew reports from Duke University, Durham, NC.)  As a student here at Duke, <http://www.j-archive.com/media/2006-06-01_J_18a.jpg> she was known as Mary Elizabeth Hanford; in her senior year, she was Leader of the Year & the May Queen | Libby Dole
+right: Kathy
+Wrong: 
+Value: $400
+Number: 18
+"BOOK"S | "English as she is spoke" is an 1855 self-described one of these, written by 2 Portuguese men who knew no English | a phrase book
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+SHIP SHAPE | For many years prior to leaving for America in 1620, this ship had served in the wine trade between England & France | the Mayflower
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 22
+A VARIETY OF WORDS | A division of geologic time | era
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 13
+EUROPE | Established in 1919, this Amsterdam-based airline is the world's oldest still under its original name | KLM
+right: Nathan
+Wrong: 
+Value: $600
+Number: 27
+THAT WAS ENTERTAINMENT | The uniform seen <http://www.j-archive.com/media/2006-06-01_J_04.jpg> here was worn by this patriotic songwriter when he played himself in "This Is the Army" | Irving Berlin
+right: Kathy
+Wrong: 
+Value: $600
+Number: 4
+WOMEN IN POLITICS | Bobby Kennedy's daughter Kathleen Kennedy Townsend was the first female lt. governor of this state | Maryland
+right: 
+Wrong: Triple Stumper
+Nathan: What was New York?
+Kathy: What was Massachusetts?
+Value: $600
+Number: 19
+"BOOK"S | (<http://www.j-archive.com/media/2006-06-01_J_08.jpg> Cheryl of the Clue Crew demonstrates a novel book.)  By changing one element on each page, we've created one of <http://www.j-archive.com/media/2006-06-01_J_08.wmv> these, first patented in 1882 | a flip book
+right: Nathan
+Wrong: 
+Value: $600
+Number: 8
+SHIP SHAPE | A PBS "Nova" special on the salvage efforts to recover it called this ship "Lincoln's secret weapon" | the Monitor
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 23
+A VARIETY OF WORDS | A large, deep vessel for holding liquids such as dye | vat
+right: Nathan
+Wrong: 
+Kathy: What is a... oh...
+Value: $600
+Number: 14
+THAT WAS ENTERTAINMENT | <http://www.j-archive.com/media/2006-06-01_J_05.jpg> The <http://www.j-archive.com/media/2006-06-01_J_05a.jpg> mask will be familiar if you managed to catch this show in its 42-year off-Broadway run | The Fantasticks
+right: 
+Wrong: Triple Stumper
+Kathy: What is The Phantom of the Opera?
+Value: $800
+Number: 5
+WOMEN IN POLITICS | In January 1964 this Maine senator announced that she would seek the Republican nomination for president | Margaret Chase Smith
+right: Nathan
+Wrong: 
+Value: $800
+Number: 20
+"BOOK"S | Term for a tome that gives the pedigrees of horses | stud book
+right: 
+Wrong: Triple Stumper
+Jonathan: What is a chap book?
+Value: $800
+Number: 9
+SHIP SHAPE | (<http://www.j-archive.com/media/2006-06-01_J_24.jpg> Jimmy of the Clue Crew stands in front of a model ship in the FDR Presidential Library in Hyde Park, NY.)  A Navy buff, FDR had a <http://www.j-archive.com/media/2006-06-01_J_24a.jpg> model of this famous War of 1812 ship; it was built by the ship's carpenter | the U.S.S. Constitution
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+A VARIETY OF WORDS | A short metal fastener often used to join 2 sheets of metal together | rivet
+right: Kathy
+Wrong: 
+Value: $800
+Number: 15
+THAT WAS ENTERTAINMENT | Ja, the costume <http://www.j-archive.com/media/2006-06-01_J_06.jpg> shown was worn by this master of dialect as the German professor on "Your Show of Shows" | Sid Caesar
+right: Jonathan
+Wrong: 
+Value: $1000
+Number: 6
+WOMEN IN POLITICS | This governor of Connecticut was fondly known as "Mother Ella" | Ella Grasso
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 21
+"BOOK"S | It has lyrics & chords & is often used by cocktail lounge pianists instead of standard sheet music | a fake book
+right: Jonathan
+Wrong: 
+Value: $1000
+Number: 10
+A VARIETY OF WORDS | Adjective meaning feeling great anger | irate
+right: 
+Wrong: Triple Stumper
+Kathy: What is ire?
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Nathan: $1,200
+Kathy: $0
+Jonathan: $1,600
+Scores at the end of the Jeopardy! Round:
+Nathan: $3,400
+Kathy: -$200
+Jonathan: $2,400
+Second Jeopardy! Round: THERE WAS A FARMER, HAD A DOG, BINGO, WAS HIS NAME O', "B-I", NGO
+THERE WAS A FARMER | In the 1980s California farmer Mike Yurosek came up with the baby one of these veggies, a popular snack | carrots
+right: Kathy
+Wrong: 
+Value: $400
+Number: 13
+HAD A DOG | One of Britain's most popular toys this breed of dog seen <http://www.j-archive.com/media/2006-06-01_DJ_01.jpg> here | a Yorkshire terrier
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 1
+BINGO | It's believed bingo originated in this country around 1530 as the game "lo giuoco del lotto" | Italy
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 6
+WAS HIS NAME O' | He was nominated for a Best Actor Oscar for "The Stunt Man" | Peter O'Toole
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 11
+"B-I" | The name Nabisco comes from abbreviating the National this Company | Biscuit
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 19
+NGO | A 1985 Nobel Prize went to "Intl. Physicians for the Prevention of" this potentially devastating type of conflict | nuclear war
+right: Nathan
+Wrong: 
+Value: $400
+Number: 26
+THERE WAS A FARMER | William Ferguson Massey, an Auckland-area farmer, advanced farm interests as this country's P.M. from 1912 to 1925 | New Zealand
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 14
+HAD A DOG | The techichi, a small dog prized by the Toltecs, was the ancestor of this even smaller dog | a Chihuahua
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 2
+BINGO | On a standard bingo card, the minimum number of called numbers needed to win when a "free space" is included | 4
+right: Nathan
+Wrong: 
+Value: $800
+Number: 7
+WAS HIS NAME O' | He was Speaker of the House from 1977 to 1987 | Tip O'Neill
+right: Kathy
+Wrong: 
+Value: $800
+Number: 12
+"B-I" | This type of butterhead lettuce is also called limestone | Bibb lettuce
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+NGO | BINGO is business-oriented NGO; ENGO stands for this type, like the Sierra Club | environmental
+right: Kathy
+Wrong: 
+Value: $800
+Number: 27
+THERE WAS A FARMER | Farmer/congressman Dudley Hughes sponsored the law that led to this organization, the FFA | the Future Farmers of America
+right: Nathan
+Wrong: 
+Value: $1200
+Number: 15
+HAD A DOG | Prior to the 1930s the borzoi was known in America as the Russian this | wolfhound
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 3
+BINGO | Of yardie, housie or barnie, what bingo is known as in Australia | housie
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+WAS HIS NAME O' | In 1934 this writer had an "Appointment in Samarra" | John O'Hara
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+"B-I" | It's a person who loves or collects books | a bibliophile
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 23
+NGO | Based in Illinois, this league with a Spanish name is trying to get mothers to put down that bottle | La Leche
+right: Kathy
+Wrong: 
+Value: DD: $2,000
+Number: 28
+THERE WAS A FARMER | Boekenhout-Fontein is the farm of Paul Kruger, a leader of these people who warred with Britain in the 1890s | the Boers
+right: Nathan
+Wrong: 
+Value: DD: $1,600
+Number: 16
+HAD A DOG | In Tibetan tradition these dogs, like the one seen <http://www.j-archive.com/media/2006-06-01_DJ_04.jpg> here, were regarded as reincarnated lamas | a Lhasa Apso
+right: Nathan
+Wrong: 
+Value: $1600
+Number: 4
+BINGO | During the Depression, a verson of bingo called screeno was played across the U.S. in these locations | movie theaters
+right: 
+Wrong: Triple Stumper
+Nathan: What are horse tracks?
+Jonathan: What are casinos?
+Value: $1600
+Number: 9
+WAS HIS NAME O' | Bestsellers by this political satirist include "Parliament of Whores" & "Give War a Chance" | (P.J.) O'Rourke
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 20
+"B-I" | The first peacetime atomic weapons test was conducted here on July 1, 1946 | Bikini Atoll
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 24
+NGO | Orbis International says 28 million people stricken by this don't need to be | blindness
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+THERE WAS A FARMER | This Roman wrote the "Georgics", an instructional work on farming, before turning to historical epics | Virgil
+right: 
+Wrong: Triple Stumper
+Kathy: Who is Homer?
+Value: $2000
+Number: 17
+HAD A DOG | 2006's winner of Best in Show at the Westminster Kennel Club dog show was a colored type of this terrier | a bull terrier
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+BINGO | The first recorded use of bingo for charity fundraising was in 1930 at a church in Wilkes-Barre in this state | Pennsylvania
+right: Nathan
+Wrong: 
+Value: $2000
+Number: 10
+WAS HIS NAME O' | This Irish playwright wrote "Juno and the Paycock" for the Abbey Theatre in Dublin | Sean O'Casey
+right: Jonathan
+Wrong: 
+Value: $2000
+Number: 21
+"B-I" | The name of this ball game comes from the French for "sticks" | billiards
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+NGO | The NGO now called this began with people of a British college town trying to feed WWII Greece | Oxfam
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Nathan: $9,400
+Kathy: $3,000
+Jonathan: $10,400
+
+Final Jeopardy! Round
+PLAYWRIGHTS | In 2005 Broadway's Virginia Theatre was renamed to honor this late author, the first African-American so honored | August Wilson
+right: Jonathan
+Wrong: 
+Kathy: Who was Johnson?
+Nathan: Who was Troy Maxson?
+Wagers: 
+Kathy: $2,999
+Nathan: $1,001
+Jonathan: $8,401
+Final scores:
+Nathan: $8,399 (2nd place: $2,000)
+Kathy: $1 (3rd place: $1,000)
+Jonathan: $18,801 (New champion: $18,801)
+
+Coryat scores
+Nathan: $9,400 (14 R(including 1 DD),3 W)
+Kathy: $2,200 (12 R(including 1 DD),6 W)
+Jonathan: $10,400 (15 R,3 W)

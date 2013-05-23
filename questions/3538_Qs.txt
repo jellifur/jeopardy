@@ -1,0 +1,349 @@
+6052 - Tuesday, December 28, 2010
+Contestants:
+Anthony Curtis: a pawnbroker from Great Falls, Montana
+Alice Jackson: an adjunct instructor of art history from Birmingham, Alabama
+Marissa Goldsmith: a web developer from Springfield, Virginia (whose 2-day cash winnings total $33,300)
+First Jeopardy! Round: STATE CAPITALS, FROM PAGE TO SCREEN, MEASURING WHAT?, SUPER COOPER, WHERE'S THAT STATION?, "STOP" & "GO"
+STATE CAPITALS | The key on this capital's corporate seal represents it beit the key to the Rocky Mountain region | Denver
+right: Alice
+Wrong: 
+Marissa: What is Colorado?
+Value: $200
+Number: 1
+FROM PAGE TO SCREEN | Max had a rumpus in this 2009 film based on Maurice Sendak's beloved children's classic | Where the Wild Things Are
+right: Marissa
+Wrong: 
+Value: $200
+Number: 14
+MEASURING WHAT? | An acre is a measure of this of the sea floor as well as dry land | area
+right: Marissa
+Wrong: 
+Value: $200
+Number: 22
+SUPER COOPER | John Wayne accepted on his behalf when he won an Oscar for "High Noon" | Gary Cooper
+right: Anthony
+Wrong: 
+Value: $200
+Number: 21
+WHERE'S THAT STATION? | WWDC | Washington, D.C.
+right: Anthony
+Wrong: 
+Value: $200
+Number: 8
+"STOP" & "GO" | It's called the "peach of the tropics" | a mango
+right: Marissa
+Wrong: 
+Value: $200
+Number: 6
+STATE CAPITALS | The official website of this capital city can be found at talgov.com | Tallahassee
+right: Marissa
+Wrong: 
+Alice: What is Florida?
+Value: $400
+Number: 2
+FROM PAGE TO SCREEN | Pasta falls from the sky in this 2009 animated film based on a kids' book by Ron & Judi Barrett | Cloudy With a Chance of Meatballs
+right: Anthony
+Wrong: 
+Value: $400
+Number: 15
+MEASURING WHAT? | Ahoy! A knot measures this | speed
+right: Alice | Anthony
+Wrong: 
+Value: $400
+Number: 23
+SUPER COOPER | This actor, seen <http://www.j-archive.com/media/2010-12-28_J_24.jpg> here was part of The A-Team | Bradley Cooper
+right: Alice
+Wrong: 
+Value: $400
+Number: 24
+WHERE'S THAT STATION? | KLOS | Los Angeles
+right: Alice
+Wrong: 
+Value: $400
+Number: 9
+"STOP" & "GO" | It's a brief appearance by a politician in a small town, traditionally on the rear platform of a train | a whistlestop
+right: Anthony
+Wrong: 
+Value: $400
+Number: 7
+STATE CAPITALS | A sign in this Oregon capital marks the 45th parallel "half way between the equator and the North Pole" | Salem
+right: Alice
+Wrong: 
+Value: $600
+Number: 3
+FROM PAGE TO SCREEN | This 2009 film about roller derby was based on a book by Shauna Cross | Whip It
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 16
+MEASURING WHAT? | A light year | distance
+right: Anthony
+Wrong: 
+Value: $600
+Number: 28
+SUPER COOPER | This journalist's 2006 "Memoir of War, Disasters, and Survival" was called "Dispatches from the Edge" | Anderson Cooper
+right: Alice
+Wrong: 
+Value: $600
+Number: 25
+WHERE'S THAT STATION? | KCKC | Kansas City
+right: Alice
+Wrong: 
+Value: $600
+Number: 10
+"STOP" & "GO" | In captivity this bird is fed a diet containing carotenoid pigments to maintain the color of its plumage | a flamingo
+right: Alice
+Wrong: 
+Value: $600
+Number: 11
+STATE CAPITALS | It began as a trading post called La Petite Roche to distinguish it from a high bluff farther upstream | Little Rock
+right: Alice
+Wrong: 
+Value: $800
+Number: 4
+FROM PAGE TO SCREEN | Winston Groom's novel about a not-so-smart guy became this Oscar-winning 1994 film | Forrest Gump
+right: Anthony
+Wrong: 
+Value: $800
+Number: 17
+MEASURING WHAT? | An erg | work
+right: Alice
+Wrong: 
+Value: $800
+Number: 30
+SUPER COOPER | In 1965 this one of the original 7 U.S. astronauts became the first person to make 2 orbital flights | Gordon Cooper
+right: 
+Wrong: Triple Stumper
+Anthony: Who is Gil Grissom?
+Value: $800
+Number: 26
+WHERE'S THAT STATION? | KBOI | Boise
+right: Alice
+Wrong: 
+Value: $800
+Number: 20
+"STOP" & "GO" | On a camera, it's the setting of an adjustable lens aperture indicated by a number, such as 1.4 or 11 | an f-stop
+right: Marissa
+Wrong: 
+Value: $800
+Number: 12
+STATE CAPITALS | In 1873 the town of Edwinton was renamed this by the Northern Pacific Railroad to honor the German Chancellor | Bismarck
+right: Alice
+Wrong: 
+Value: DD: $1,000
+Number: 5
+FROM PAGE TO SCREEN | "The Informant!" starring him as real-life whistleblower Mark Whiteacre, was based on a book by Kurt Eichenwald | Matt Damon
+right: Anthony
+Wrong: 
+Value: $1000
+Number: 18
+MEASURING WHAT? | A millibar | barometric or atmospheric pressure
+right: 
+Wrong: Triple Stumper
+Marissa: What is liquid?
+Alice: What is volume?
+Value: $1000
+Number: 29
+SUPER COOPER | In the 2007 film "Breach", he played real-life FBI agent Robert Hanssen, who sold secrets to the Soviet Union | Chris Cooper
+right: Alice
+Wrong: 
+Value: $1000
+Number: 27
+WHERE'S THAT STATION? | WGN | Chicago
+right: Alice
+Wrong: 
+Value: $1000
+Number: 19
+"STOP" & "GO" | A highlight of this 1956 film is a rendition of "That Old Black Magic" by Marilyn Monroe, who plays Cherie, a saloon singer | Bus Stop
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Marissa: $1,400
+Alice: $3,800
+Anthony: $1,000
+Scores at the end of the Jeopardy! Round:
+Marissa: $600
+Alice: $7,800
+Anthony: $3,200
+Second Jeopardy! Round: COMPLETE THE BOOK TITLE, THE PRODUCE AISLE, APOCRYPHA NOW, WHAT'S THE "PLAN"?, LOONEY TUNES, MERRY MELODIES
+COMPLETE THE BOOK TITLE | Stephen King: "The ___ Tower" | Dark
+right: Anthony
+Wrong: 
+Value: $400
+Number: 13
+THE PRODUCE AISLE | Sweet potatoes are often called these, but true ones are actually starchy roots grown in Africa & Asia | yams
+right: Marissa
+Wrong: 
+Value: $400
+Number: 1
+APOCRYPHA NOW | "Bel & the Dragon" finds this hero cast into a lion's den, but the king lets him go after the lions leave him alone | Daniel
+right: Alice
+Wrong: 
+Value: $400
+Number: 9
+WHAT'S THE "PLAN"? | The Adler in Chicago is one of these buildings for space science education | a planetarium
+right: Alice
+Wrong: 
+Value: $400
+Number: 6
+LOONEY TUNES | In "Hare Tonic", he hopes to make wabbit stew fwom that twickster Bugs Bunny | Elmer Fudd
+right: Anthony
+Wrong: 
+Value: $400
+Number: 12
+MERRY MELODIES | The cheerful <http://www.j-archive.com/media/2010-12-28_DJ_27.mp3> tune you're hearing is this composer's overture to "H.M.S. Pinafore" | Sullivan
+right: Anthony
+Wrong: 
+Marissa: Who is Gilbert?
+Value: $400
+Number: 27
+COMPLETE THE BOOK TITLE | Tom Clancy: "___ Storm Rising" | Red
+right: Alice
+Wrong: 
+Value: $800
+Number: 14
+THE PRODUCE AISLE | The entire floret section, or head, of this broccoli relative is called the curd | cauliflower
+right: Alice
+Wrong: 
+Value: $800
+Number: 2
+APOCRYPHA NOW | O! Don't you cry for this woman, whose Apocryphal history finds her falsely accused of adultery | Susanna
+right: 
+Wrong: Triple Stumper
+Anthony: Who is Mary Magdalene?
+Value: $800
+Number: 18
+WHAT'S THE "PLAN"? | This word for a large farm or estate can precede "shutters" & follow "cotton" | plantation
+right: Marissa
+Wrong: 
+Value: $800
+Number: 7
+LOONEY TUNES | In "Buccaneer Bunny", he calls himself the "blood-thirsiest, shoot-'em firstiest, doggone worstiest" | Yosemite Sam
+right: Anthony
+Wrong: 
+Value: $800
+Number: 20
+MERRY MELODIES | This ode by Friedrich von Schiller is set to music in Beethoven's Ninth Symphony | "Ode To Joy"
+right: Marissa
+Wrong: 
+Value: $800
+Number: 25
+COMPLETE THE BOOK TITLE | Jared Diamond: "Guns, Germs, and ___" | Steel
+right: Anthony
+Wrong: 
+Value: $1200
+Number: 15
+THE PRODUCE AISLE | What's called elephant this is actually a leek relative | garlic
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 3
+APOCRYPHA NOW | "The Wisdom of" this king is in the Apocrypha; his Hebrew name is Shlomo | Solomon
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 19
+WHAT'S THE "PLAN"? | In 1948 this organization awarded a grant to biologist Gregory Pincus, who developed the birth control pill | Planned Parenthood
+right: Anthony
+Wrong: 
+Value: $1200
+Number: 8
+LOONEY TUNES | An anvil, rocket skates & a do-it-yourself tornado kit are items Wile E. Coyote has bought from this corporation | Acme
+right: Anthony
+Wrong: 
+Value: $1200
+Number: 21
+MERRY MELODIES | This composer also known for ballets composed a merry <http://www.j-archive.com/media/2010-12-28_DJ_24.mp3> waltz for his opera "Eugene Onegin" | Tchaikovsky
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 24
+COMPLETE THE BOOK TITLE | Robert Ludlum: "The Osterman ___" | Weekend
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 16
+THE PRODUCE AISLE | Kadota & Smyrna are varieties of this fruit | fig
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+APOCRYPHA NOW | The "Song of the Three Young Men" finds the trio tossed into a fiery furnace by Nebuchadnezzar, king of this land | Babylon
+right: Anthony
+Wrong: 
+Value: $1600
+Number: 29
+WHAT'S THE "PLAN"? | This British royal line descended from the union of Geoffrey, Count of Anjou, & the Empress Matilda, Henry I's daughter | the Plantagenets
+right: Marissa
+Wrong: 
+Value: $1600
+Number: 10
+LOONEY TUNES | In "The Cats Bah", he pops open a bottle of bubbly & is interviewed about the great love of his life | Pepé Le Pew
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 22
+MERRY MELODIES | This 19th c. composer's Mazurka No. 9 (Op. 7 No. 5) is one of the peppier ones | Chopin
+right: Marissa
+Wrong: 
+Value: DD: $4,000
+Number: 26
+COMPLETE THE BOOK TITLE | James Patterson: "Double ___" | Cross
+right: 
+Wrong: Triple Stumper
+Alice: What is Jeopardy?
+Value: $2000
+Number: 17
+THE PRODUCE AISLE | Also called the Chioggia, the beet seen <http://www.j-archive.com/media/2010-12-28_DJ_05.jpg> here has this sweet name because of its stripes | candy cane
+right: Marissa
+Wrong: 
+Anthony: What is peppermint?
+Value: $2000
+Number: 5
+APOCRYPHA NOW | 4 books in the Apocrypha are named for this priestly Hebrew family remembered in December | the Maccabees
+right: 
+Wrong: 
+Anthony: Who are the Cohens?
+Value: DD: $4,200
+Number: 28
+WHAT'S THE "PLAN"? | In this reflex, the toes curl down when the sole is stroked; abnormal response can indicate brain or spinal cord damage | plantar
+right: Alice
+Wrong: 
+Value: $2000
+Number: 11
+LOONEY TUNES | I say, he got above-the-title billing in the punningly named "Of Rice and Hen" | Foghorn Leghorn
+right: Marissa
+Wrong: 
+Value: $2000
+Number: 23
+MERRY MELODIES | Johann Strauss Sr. wrote a merry one of these military-style pieces in honor of Field Marshal Radetzky | a march
+right: Anthony
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Marissa: $15,400
+Alice: $10,200
+Anthony: $5,400
+
+Final Jeopardy! Round
+CABINET OFFICERS | He was the last Secretary of State to serve in the post under 2 presidents | Henry Kissinger
+right: Anthony
+Wrong: 
+Alice: Who is Jefferson?
+Marissa: Who is Dulles?
+Wagers: 
+Anthony: $5,399
+Alice: $5,201
+Marissa: $4,600
+Final scores:
+Marissa: $10,800 (3-day champion: $44,100)
+Alice: $4,999 (3rd place: $1,000)
+Anthony: $10,799 (2nd place: $2,000)
+
+Coryat scores
+Marissa: $13,000 (15 R(including 1 DD),3 W)
+Alice: $10,200 (19 R(including 1 DD),3 W)
+Anthony: $9,600 (17 R,4 W(including 1 DD))

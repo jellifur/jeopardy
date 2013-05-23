@@ -1,0 +1,344 @@
+6302 - Tuesday, January 31, 2012
+Contestants:
+Ellen Ciompi: a surgical nurse from Durham, North Carolina
+Patrick Morrison: a student of Slavic Studies from Northville, Michigan
+Danny Parra: a sportscaster from Miami, Florida (whose 1-day cash winnings total $22,000)
+First Jeopardy! Round: AMERICANA, BEFORE THEY WERE FAMOUS, SCIENCE, DEJA VIEW, GIANTS, GANG OF "FOR"
+AMERICANA | In 1939 Superman made his first appearance as a balloon in this beloved parade | the Macy's Thanksgiving Day Parade
+right: Danny
+Wrong: 
+Value: $200
+Number: 4
+BEFORE THEY WERE FAMOUS | He made ends meet by working as a carpenter before catapulting to fame as Han Solo | Harrison Ford
+right: Ellen
+Wrong: 
+Value: $200
+Number: 1
+SCIENCE | This transparent structure behind the iris focuses light entering the eye | the lens
+right: 
+Wrong: Triple Stumper
+Danny: What is the retina?
+Ellen: What is the cornea?
+Value: $200
+Number: 2
+DEJA VIEW | Tim Daly was on the run searching for the one-armed man in the updated version of this series | The Fugitive
+right: Patrick
+Wrong: 
+Value: $200
+Number: 17
+GIANTS | I Samuel says the metal head of his spear weighed 600 shekels, or about 15 pounds | Goliath
+right: Ellen
+Wrong: 
+Value: $200
+Number: 13
+GANG OF "FOR" | 2 weeks, to a Brit | a fortnight
+right: Danny
+Wrong: 
+Value: $200
+Number: 14
+AMERICANA | One fifth of the about 400 species at this Washington, D.C. attraction are endangered or threatened | the National Zoo
+right: Ellen
+Wrong: 
+Value: $400
+Number: 5
+BEFORE THEY WERE FAMOUS | Before that whole telegraph thing, he helped found the National Academy of Design & was its first president | Samuel Morse
+right: Ellen
+Wrong: 
+Patrick: Who is Edison?
+Value: $400
+Number: 8
+SCIENCE | (<http://www.j-archive.com/media/2012-01-31_J_03.wmv> Sarah of the Clue Crew shows us diagrams from the Hall of Human Origins at the Smithsonian.)  Comparing MRI scans of a chimp's brain & a human's shows that the human's is not merely larger; it also contains vastly more white matter connecting these cells vital to the transmission & processing of information | nerves
+right: Danny
+Wrong: 
+Ellen: What is the brain?
+Value: $400
+Number: 3
+DEJA VIEW | Just the facts--in 2003 Ed O'Neill was on the beat as Joe Friday in the revival of this series | Dragnet
+right: Danny
+Wrong: 
+Value: $400
+Number: 19
+GIANTS | In "Jack and the Beanstalk", Jack stole from the giant a little brown hen that laid these | golden eggs
+right: Patrick
+Wrong: 
+Value: $400
+Number: 15
+GANG OF "FOR" | This fashion adjective refers to an outfit that hugs the body, for example the one seen <http://www.j-archive.com/media/2012-01-31_J_24.jpg> here | form-fitting
+right: Patrick
+Wrong: 
+Value: $400
+Number: 24
+AMERICANA | In 1877 the Philadelphia Univ. named for this 3rd president opened one of the first teaching hospitals in the United States | Jefferson
+right: Danny
+Wrong: 
+Value: $600
+Number: 6
+BEFORE THEY WERE FAMOUS | He worked in a bank & a fur-cap store; working on a whaler in the South Seas gave him those great plot lines | Melville
+right: Patrick
+Wrong: 
+Value: $600
+Number: 10
+SCIENCE | By definition, this adjective describes certain organisms that can or must live in the absence of oxygen | anaerobic
+right: Patrick
+Wrong: 
+Value: $600
+Number: 28
+DEJA VIEW | As in the original, Heather Locklear played Amanda Woodward on the new version of this show | Melrose Place
+right: Patrick
+Wrong: 
+Value: $600
+Number: 20
+GIANTS | It's said that this Minnesotan's first bed was a lumber wagon pulled by a team of oxen | Paul Bunyan
+right: Danny
+Wrong: 
+Value: $600
+Number: 16
+GANG OF "FOR" | A brief raid or excursion | foray
+right: Danny
+Wrong: 
+Value: $600
+Number: 25
+AMERICANA | "Oklahoma!" is a musical by Richard Rodgers & this lyricist | Hammerstein
+right: Patrick
+Wrong: 
+Value: $800
+Number: 7
+BEFORE THEY WERE FAMOUS | She taught law at the University of Chicago & Harvard before the Supreme Court called in 2010 | (Elena) Kagan
+right: Patrick
+Wrong: 
+Ellen: Who is Sotomayor?
+Value: $800
+Number: 11
+SCIENCE | (<http://www.j-archive.com/media/2012-01-31_J_29.wmv> Kelly of the Clue Crew shows us molecular models in the lab.)  We're using models of ethanol to show the 2 basic types of molecular models; 1 clarifies the bonds between these particles, while the other shows better what the molecule looks like in actual space | atoms
+right: Patrick
+Wrong: 
+Ellen: What are electrons?
+Value: $800
+Number: 29
+DEJA VIEW | Before "Twilight" & "Buffy the Vampire Slayer", there was this Gothic series & its 1991 remake about Barnabas Collins | Dark Shadows
+right: Ellen
+Wrong: 
+Value: $800
+Number: 21
+GIANTS | This Ted Hughes kids' book creation loves eating barbed wire & rusty chains | the Iron Giant
+right: Danny
+Wrong: 
+Value: $800
+Number: 18
+GANG OF "FOR" | This 2-word term used in many a contract is French for "superior strength" | force majeure
+right: Ellen
+Wrong: 
+Value: $800
+Number: 26
+AMERICANA | The Transylvania Co. hired Daniel Boone to blaze a trail through this gap to establish Kentucky as a 14th colony | the Cumberland Gap
+right: Danny
+Wrong: 
+Value: $1000
+Number: 9
+BEFORE THEY WERE FAMOUS | In 1902 he got fired as a tutor, but family friend Marcel Grossman helped him get a job as a Swiss patent clerk | Einstein
+right: Patrick
+Wrong: 
+Value: DD: $800
+Number: 12
+SCIENCE | This name of the infectious disease caused by the Epstein-Barr virus comes from words meaning "one" & "kernel" | mononucleosis
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 30
+DEJA VIEW | In 2009 an alien species invaded Earth, claiming to be "of peace, always" in the remake of this sci-fi series | V
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 22
+GIANTS | After Hermes slew this 100-eyed giant, the 100 eyes were placed on the tail of the peacock | Argus
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 23
+GANG OF "FOR" | Adjective meaning pertaining to courts of law | forensic
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 27
+Scores at the first commercial break (after clue 15)
+Danny: $2,200
+Patrick: $3,000
+Ellen: -$200
+Scores at the end of the Jeopardy! Round:
+Danny: $4,600
+Patrick: $6,600
+Ellen: $3,600
+Second Jeopardy! Round: ARCHAEOLOGY, BUSINESS & FINANCE NEWS, EDITORS, ENDANGERED LANGUAGES, ADVERBS, GANG OF FORE
+ARCHAEOLOGY | In August 2011 this 17th c. pirate captain's flagship was found in waters off Panama; as yet, no rum has been found | Henry Morgan
+right: Danny
+Wrong: 
+Value: $400
+Number: 10
+BUSINESS & FINANCE NEWS | Brazilian private equity firm 3G made a whopper of a deal when it paid over $3 billion to acquire this restaurant chain | Burger King
+right: Danny
+Wrong: 
+Value: $400
+Number: 26
+EDITORS | Maria Guarnaschelli brought some work home as editor of "The Splendid Table" & "Joy of" this | Cooking
+right: Ellen
+Wrong: 
+Value: $400
+Number: 21
+ENDANGERED LANGUAGES | Basque | Spain
+right: Danny
+Wrong: 
+Value: $400
+Number: 2
+ADVERBS | It's the way the crew of the Enterprise "go where no man has gone before" | boldly
+right: Danny
+Wrong: 
+Value: $400
+Number: 12
+GANG OF FORE | Swinging lefty, he won his third Masters title in 2010; he's righthanded in everything else | Phil Mickelson
+right: Danny
+Wrong: 
+Value: $400
+Number: 1
+ARCHAEOLOGY | In 1995 the body of Han dynasty king Liu Wu was found buried with a shroud made of this green gemstone | jade
+right: Ellen
+Wrong: 
+Danny: What is emerald?
+Value: $800
+Number: 11
+BUSINESS & FINANCE NEWS | In 2011 Fitch Agency downgraded this European country's credit rating to CCC, one grade above default | Greece
+right: Danny
+Wrong: 
+Value: $800
+Number: 27
+EDITORS | In November 2010 Tina Brown was announced as the editor-in-chief of this current events magazine founded in 1933 | Newsweek
+right: Patrick
+Wrong: 
+Value: $800
+Number: 22
+ENDANGERED LANGUAGES | Walloon | Belgium
+right: Danny
+Wrong: 
+Value: $800
+Number: 3
+ADVERBS | Though it appears to mean "angrily", this adverb can mean "extremely", as when it precedes "in love" | madly
+right: Danny
+Wrong: 
+Value: $800
+Number: 16
+GANG OF FORE | Golf's 2010 & 2011 U.S. Opens were won by gentlemen named McDowell & McIlroy from this part of the United Kingdom | Northern Ireland
+right: Patrick
+Wrong: 
+Value: $800
+Number: 7
+ARCHAEOLOGY | Diego de Landa, bishop of Yucatan, helped decipher hieroglyphics of this culture & published his work in a 1566 book | the Maya(ns)
+right: Danny
+Wrong: 
+Ellen: What is Egypt?
+Value: $1200
+Number: 13
+BUSINESS & FINANCE NEWS | We're not being redundant when we say that United united with this airline in 2010 | Continental
+right: Danny
+Wrong: 
+Value: $1200
+Number: 28
+EDITORS | The long of it is that he has been the editor of the crossword puzzles for The New York Times since 1993 | (Will) Shortz
+right: Patrick
+Wrong: 
+Value: $1200
+Number: 23
+ENDANGERED LANGUAGES | Zapotec | Mexico
+right: Danny
+Wrong: 
+Value: $1200
+Number: 4
+ADVERBS | Yea, in truth, really, this archaic 6-letter word doth mean indeed | verily
+right: Ellen
+Wrong: 
+Value: $1200
+Number: 18
+GANG OF FORE | The LPGA's all-time money winner, this Swede dueled it out with the boys at a 2003 PGA event | Annika Sörenstam
+right: Patrick
+Wrong: 
+Value: $1200
+Number: 8
+ARCHAEOLOGY | Recent excavations on the site of this 1607 Virginia colony have discovered the walls & buildings of its fort | Jamestown
+right: Patrick
+Wrong: 
+Value: $1600
+Number: 14
+BUSINESS & FINANCE NEWS | Amid the phone-hacking scandal, Rupert Murdoch withdrew his bid for this biggest British broadcaster | BSkyB
+right: 
+Wrong: Triple Stumper
+Danny: What is the BBC?
+Patrick: What is Sky News?
+Value: $1600
+Number: 29
+EDITORS | John Updike said, "A lot of nice touches in my stories" in this magazine "belong to" editor William Maxwell | The New Yorker
+right: Patrick
+Wrong: 
+Value: DD: $2,500
+Number: 24
+ENDANGERED LANGUAGES | Lombard & Piedmontese | Italy
+right: Ellen
+Wrong: 
+Patrick: What is France?
+Value: $1600
+Number: 5
+ADVERBS | Othello said, "Then must you speak of one that loved not" this "but too well" | wisely
+right: Ellen
+Wrong: 
+Value: $1600
+Number: 19
+GANG OF FORE | This "Super Mex" was struck by lightning at the 1975 Western Open but recovered & won the 1984 PGA Championship | Lee Trevino
+right: Danny
+Wrong: 
+Value: $1600
+Number: 9
+ARCHAEOLOGY | In 1902 German archaeologist Robert Koldewey unearthed the fabled Ishtar Gate in the ruins of this ancient city | Babylon
+right: Danny
+Wrong: 
+Value: DD: $5,000
+Number: 17
+EDITORS | As fiction editor at Esquire from 1969 to 1976, Gordon Lish promoted this "scaled-down" style of writing | minimalism
+right: 
+Wrong: Triple Stumper
+Danny: What is the inverse pyramid?
+Value: $2000
+Number: 25
+ENDANGERED LANGUAGES | Yakut | Russia
+right: Patrick
+Wrong: 
+Value: $2000
+Number: 6
+ADVERBS | Completes the Tom Swifty "Which way is the cemetery?" Tom asked in this serious manner | gravely
+right: Patrick
+Wrong: 
+Value: $2000
+Number: 20
+GANG OF FORE | From 1947 to 1954, she won 10 major championships, the last while batfling inoperable cancer | Babe Didrikson
+right: Ellen
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Danny: $14,800
+Patrick: $15,500
+Ellen: $10,000
+
+Final Jeopardy! Round
+1870s PEOPLE | Preserved in the West Point library, his last message reads, "Benteen.  Come on. Big village.  Be quick.  Bring packs" | General Custer
+right: Ellen | Danny | Patrick
+Wrong: 
+Wagers: 
+Ellen: $5,000
+Danny: $9,201
+Patrick: $14,101
+Final scores:
+Danny: $24,001 (2nd place: $2,000)
+Patrick: $29,601 (New champion: $29,601)
+Ellen: $15,000 (3rd place: $1,000)
+
+Coryat scores
+Danny: $11,800 (22 R(including 1 DD),4 W)
+Patrick: $14,800 (19 R(including 2 DDs),3 W)
+Ellen: $10,000 (15 R,5 W)

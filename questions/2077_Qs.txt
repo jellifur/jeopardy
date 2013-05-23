@@ -1,0 +1,339 @@
+3606 - Monday, April 17, 2000
+Contestants:
+Chris Meding: a lawyer from New York City, New York
+Erich Steinbergs: an entrepreneur from Minneapolis, Minnesota
+Jason Karpf: a realtor from Thousand Oaks, California (whose 1-day cash winnings total $11,000)
+First Jeopardy! Round: 'ROUND THE WORLD, HIGH SCHOOL TV, BEASTLY COMMON BONDS, FILE UNDER "B", STATE OF THE UNION, A DRESS
+'ROUND THE WORLD | The Sam McGuire Football Cup is awarded to a league champion in this island country | Ireland
+right: Erich
+Wrong: 
+Value: $100
+Number: 8
+HIGH SCHOOL TV | John Travolta & Gabe Kaplan starred in this series about a classroom of remedial students | Welcome Back, Kotter
+right: Chris
+Wrong: 
+Value: $100
+Number: 4
+BEASTLY COMMON BONDS | Bufflehead, eider, teal | Ducks
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 18
+FILE UNDER "B" | It's a British bottom or an American tramp | Bum
+right: Chris
+Wrong: 
+Value: $100
+Number: 13
+STATE OF THE UNION | You'll find the USA's tallest building in this state | Illinois (Sears Tower)
+right: Jason
+Wrong: 
+Value: $100
+Number: 1
+A DRESS | This diminuitive dress style seen here was introduced by Mary Quant in the 1960s: | Mini dress/skirt
+right: Jason
+Wrong: 
+Value: $100
+Number: 23
+'ROUND THE WORLD | Even at 5.4 million square miles, it's the world's smallest ocean | Arctic
+right: Jason
+Wrong: 
+Value: $200
+Number: 9
+HIGH SCHOOL TV | Robin Givens & Howard Hesseman were featured in this series about a classroom of honors students | Head of the Class
+right: Jason
+Wrong: 
+Value: $200
+Number: 5
+BEASTLY COMMON BONDS | Bushmaster, coral, hognose | Snakes
+right: Jason
+Wrong: 
+Value: $200
+Number: 19
+FILE UNDER "B" | A chance spectator; one may be innocent | Bystander
+right: Jason
+Wrong: 
+Value: $200
+Number: 14
+STATE OF THE UNION | More breakfast cereal is produced in this state's city of Battle Creek than any other place on Earth | Michigan
+right: Jason
+Wrong: 
+Value: $200
+Number: 2
+A DRESS | Often used as a dressing robe, it's the Asian style of dress seen here: | Kimono
+right: Erich
+Wrong: 
+Value: $200
+Number: 24
+'ROUND THE WORLD | A manufacturing powerhouse since the Industrial Revolution, this city is England's 2nd largest in population | Birmingham
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 10
+HIGH SCHOOL TV | You might want to hang with this title high school teacher played by Mark Curry | Mr. Cooper
+right: Chris
+Wrong: 
+Value: $300
+Number: 28
+BEASTLY COMMON BONDS | Tucuxi, bottle-nosed, spinner | Dolphins
+right: Jason
+Wrong: 
+Value: $300
+Number: 20
+FILE UNDER "B" | The Royal Sonesta Hotel in New Orleans has a webcam aimed at this famous street | Bourbon Street
+right: Erich
+Wrong: 
+Value: $300
+Number: 15
+STATE OF THE UNION | The light bulb & the phonograph were invented in this state | New Jersey
+right: Chris
+Wrong: 
+Value: $300
+Number: 3
+A DRESS | "Canine" favorite of the 1950s seen here: | Poodle skirt
+right: Jason
+Wrong: 
+Value: $300
+Number: 25
+'ROUND THE WORLD | Of Brazil, India or Australia, the one that's largest in area | Brazil
+right: Jason
+Wrong: 
+Value: $400
+Number: 11
+HIGH SCHOOL TV | This series that debuted in the '70s was set in the '50s & featured students of Jefferson High | Happy Days
+right: Chris
+Wrong: 
+Value: DD: $500
+Number: 29
+BEASTLY COMMON BONDS | White-tailed, harpy, golden | Eagles
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+FILE UNDER "B" | Sport seen here as it looked way back in 1932: (Winter Olympics mainstay) | Bobsledding
+right: Jason
+Wrong: 
+Value: $400
+Number: 16
+STATE OF THE UNION | This state's "Crater of Diamonds" near Murfreesboro is the only diamond mine in the U.S. | Arkansas
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+A DRESS | Don't apologize, it's the popular Hindu style of garment seen here: | Sari
+right: Jason
+Wrong: 
+Value: $400
+Number: 26
+'ROUND THE WORLD | You'll find the Dolomite Alps rising to nearly 11,000 feet in this European country | Italy
+right: Jason
+Wrong: 
+Value: $500
+Number: 12
+HIGH SCHOOL TV | In 1952 Wally Cox was this title science teacher | Mister Peepers
+right: Jason
+Wrong: 
+Value: $500
+Number: 30
+BEASTLY COMMON BONDS | Harbor, northern fur, bearded | Seals
+right: Jason
+Wrong: 
+Value: $500
+Number: 22
+FILE UNDER "B" | From the Latin for "projecting", it's a rich silk cloth with a raised pattern in gold or silver | Brocade
+right: Jason
+Wrong: 
+Value: $500
+Number: 17
+STATE OF THE UNION | This state gets fewer inches of rain each year than any other | Nevada
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 7
+A DRESS | This term for the dress seen here could also apply to its Roaring '20s wearers: | Flapper
+right: Erich
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Jason: $1,300
+Erich: -$400
+Chris: -$400
+Scores at the end of the Jeopardy! Round:
+Jason: $4,900
+Erich: -$100
+Chris: $400
+Second Jeopardy! Round: POETS &  POETRY, WORD ORIGINS, FILL IN THE BIBLICAL BLANK, "IN" THE MOVIES, YOU DO THE MATH, ROYAL WOMEN
+POETS &  POETRY | "The Coming of Arthur" & "Gareth and Lynette" are parts of his "Idylls of the King" | Alfred Lord Tennyson
+right: Chris
+Wrong: 
+Value: $200
+Number: 6
+WORD ORIGINS | This nickname for a potato comes from the sharp spade used to dig it up | Spud
+right: Jason
+Wrong: 
+Value: $200
+Number: 1
+FILL IN THE BIBLICAL BLANK | Isaiah 53:7 -- "He is brought as a lamb to the ____" | Slaughter
+right: Erich
+Wrong: 
+Value: $200
+Number: 26
+"IN" THE MOVIES | This 1996 blockbuster showed humanity fighting for freedom from enslaving aliens on July 4 | Independence Day
+right: Erich
+Wrong: 
+Value: $200
+Number: 14
+YOU DO THE MATH | The number of loaves in a baker's dozen plus the number of months in a year | 25 (13 + 12)
+right: Erich
+Wrong: 
+Value: $200
+Number: 19
+ROYAL WOMEN | As a princess, Queen Margrethe II of Denmark studied philosophy at this Danish capital's university | Copenhagen
+right: Jason
+Wrong: 
+Value: $200
+Number: 9
+POETS &  POETRY | This romantic poet's name gave us an adjective for the type of hero he created -- a brooding young man | Lord Byron
+right: Erich
+Wrong: 
+Value: $400
+Number: 7
+WORD ORIGINS | Meaning "light bringer", it refers to Venus when appearing as the morning star, or to Satan | Lucifer
+right: Chris
+Wrong: 
+Value: $400
+Number: 2
+FILL IN THE BIBLICAL BLANK | 1 John 4:8 -- "He that loveth not knoweth not God; for God is ____" | Love
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 30
+"IN" THE MOVIES | A skyscraper burns, baby, burns in this all-star 1974 disaster flick | The Towering Inferno
+right: Jason
+Wrong: 
+Value: $400
+Number: 15
+YOU DO THE MATH | The traditional number of wise men of the East times the number of Ali Baba's thieves | 120 (3 x 40)
+right: Jason
+Wrong: 
+Value: $400
+Number: 20
+ROYAL WOMEN | She doesn't look amused in the portrait seen here: | Queen Victoria
+right: Jason
+Wrong: 
+Value: $400
+Number: 10
+POETS &  POETRY | "Resolution and Independence" is found in this lake poet's 1807 "Poems in Two Volumes" | William Wordsworth
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+WORD ORIGINS | From Latin for "cuttlefish", it's the brown color of the cuttlefish ink once used to make a brown dye | Sepia
+right: Chris
+Wrong: 
+Value: $600
+Number: 3
+FILL IN THE BIBLICAL BLANK | Genesis 4:15 -- "And the Lord set a mark upon ____" | Cain
+right: Jason
+Wrong: 
+Value: $600
+Number: 29
+"IN" THE MOVIES | Miniaturized Navy test pilot Dennis Quaid is accidentally injected into Martin Short in this 1987 comedy | Innerspace
+right: Jason
+Wrong: 
+Value: $600
+Number: 16
+YOU DO THE MATH | Number of "Days of Christmas" in the carol divided by its number of French hens | 4 (12/3)
+right: Jason
+Wrong: 
+Value: $600
+Number: 21
+ROYAL WOMEN | Queen Liliuokalani was born in 1838 in what is now this state capital | Honolulu
+right: Jason
+Wrong: 
+Value: $600
+Number: 11
+POETS &  POETRY | The leaves of grass at this poet's grave surround a tomb of his own design in Harleigh Cemetery | Walt Whitman
+right: Chris
+Wrong: 
+Value: DD: $1,000
+Number: 24
+WORD ORIGINS | Today it simply means a sailing race; in the Venetian dialect, it meant a gondola race | Regatta
+right: Chris
+Wrong: 
+Value: DD: $800
+Number: 4
+FILL IN THE BIBLICAL BLANK | Mark 2:9 -- "Arise, and take up thy bed, and ____" | Walk
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+"IN" THE MOVIES | Matthew Perry & Salma Hayek hurry into marriage in this 1997 romance | Fools Rush In
+right: Chris
+Wrong: 
+Value: $800
+Number: 17
+YOU DO THE MATH | The original title number of Disney dalmatians minus the number of Snow White's dwarfs | 94  (101 - 7)
+right: Jason
+Wrong: 
+Value: $800
+Number: 22
+ROYAL WOMEN | Alix was the original name of this German-born empress of Russia | Alexandra
+right: Erich
+Wrong: 
+Value: $800
+Number: 12
+POETS &  POETRY | Last name of poet Wystan Hugh, who wrote, "A poet's hope: to be, like some valley cheese, local, but prized elsewhere" | W.H. Auden
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+WORD ORIGINS | Chiefly used in Louisiana, it's Creole for a gift given a customer by a shopkeeper at the time of purchase | Lagniappe
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+FILL IN THE BIBLICAL BLANK | 1 Corinthians 15:26 -- "The last enemy that shall be destroyed is ____" | Death
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+"IN" THE MOVIES | In this loopy film, Peter Falk involves dentist Alan Arkin in a possible CIA plot before their kids' wedding | The In-Laws
+right: Jason
+Wrong: 
+Value: $1000
+Number: 18
+YOU DO THE MATH | The number of pounds in a ton multiplied by the number of feet in a yard | 6000 (2000 x 3)
+right: Chris
+Wrong: 
+Value: $1000
+Number: 23
+ROYAL WOMEN | Maria Cristina ruled as queen regent of this country during the childhood of her son Alfonso XIII | Spain
+right: Erich
+Wrong: 
+Value: $1000
+Number: 13
+Scores at the end of the Double Jeopardy! Round:
+Jason: $9,700
+Erich: $2,700
+Chris: $5,200
+
+Final Jeopardy! Round
+BRAND NAME PEOPLE | Immigrating to the U.S. at age 17, he cooked at the Plaza in New York & catered Pres. Wilson's wedding reception in 1915 | Chef Boyardee (real name Ettore Boiardi)
+right: Erich
+Wrong: 
+Chris: Who is Delmonico?
+Jason: Who is Stouffer?
+Wagers: 
+Erich: $2,599
+Chris: $5,200
+Jason: $701
+Final scores:
+Jason: $8,999 (2-day champion: $19,999)
+Erich: $5,299 (2nd place: Intel Any Point Home Network Software)
+Chris: $0 (3rd place: American Historic Society Gift Certificate)
+
+Coryat scores
+Jason: $9,700 (28 R,3 W)
+Erich: $2,700 (10 R,4 W)
+Chris: $4,900 (12 R(including 3 DDs),3 W)

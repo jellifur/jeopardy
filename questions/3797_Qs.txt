@@ -1,0 +1,345 @@
+6281 - Monday, January 2, 2012
+Comments: Dave Leach game 3.
+Contestants:
+Elizabeth Weichel: a museum collection specialist from Raleigh, North Carolina
+Art Hilliker: a steel mill systems repairman from Irwin, Pennsylvania
+Dave Leach: a software analyst from Atlanta, Georgia (whose 2-day cash winnings total $34,683)
+First Jeopardy! Round: ARTHUR'S CAMELOT, PREFIXES, RECENT BOOKS, THE SUPER BOWL'S TOP RUSHER, C.S., I, ALPHABETICALLY LAST
+ARTHUR'S CAMELOT | King Arthur received this sword from the Lady of the Lake; it was later returned to her by Sir Bedivere | Excalibur
+right: Art
+Wrong: 
+Value: $200
+Number: 16
+PREFIXES | "Hypno-", as in hypnotism, is from the Greek for this | sleep
+right: Dave
+Wrong: 
+Value: $200
+Number: 1
+RECENT BOOKS | Olbermann & Berman are index entries in "Those Guys Have All the Fun", which details the history of this network | ESPN
+right: Dave
+Wrong: 
+Value: $200
+Number: 26
+THE SUPER BOWL'S TOP RUSHER | Super Bowl VIII: This team's Larry Csonka | the (Miami) Dolphins
+right: Art
+Wrong: 
+Value: $200
+Number: 21
+C.S., I | Money matters at this investment service company that invites you to "Talk to Chuck" | Charles Schwab
+right: Dave
+Wrong: 
+Value: $200
+Number: 9
+ALPHABETICALLY LAST | Of the days of the week | Wednesday
+right: Art
+Wrong: 
+Value: $200
+Number: 6
+ARTHUR'S CAMELOT | In some writings, it was Perceval, not Galahad, who went on a quest for this vessel | the Holy Grail
+right: Art
+Wrong: 
+Value: $400
+Number: 17
+PREFIXES | (<http://www.j-archive.com/media/2012-01-02_J_02.jpg> Kelly of the Clue Crew reports from See's Candy Factory.)  The main feel-good ingredient of <http://www.j-archive.com/media/2012-01-02_J_02a.jpg> cocoa is a chemical called theobromine, in the same class as caffeine; the "theo-" prefix means it is the food of these beings | the gods
+right: Dave
+Wrong: 
+Value: $400
+Number: 2
+RECENT BOOKS | You can read "Life", the memoir of this Rolling Stone, or listen to Johnny Depp narrate the audio book | Keith Richards
+right: Art
+Wrong: 
+Value: $400
+Number: 27
+THE SUPER BOWL'S TOP RUSHER | Super Bowl XVIII: Marcus Allen, with 191 yards for this L.A. team | the Raiders
+right: Art
+Wrong: 
+Value: $400
+Number: 22
+C.S., I | This astronomer & science writer from Cornell helped select the Mars landing sites for the Viking probes | Carl Sagan
+right: Art
+Wrong: 
+Value: $400
+Number: 10
+ALPHABETICALLY LAST | Of Snow White's 7 dwarfs | Sneezy
+right: Dave
+Wrong: 
+Value: $400
+Number: 7
+ARTHUR'S CAMELOT | This sorceress was introduced into Arthurian legend as Arthur's healer by Geoffrey of Monmouth around 1150 | Morgana le Fey (or Morgan le Fay) (Morgaine accepted)
+right: Art
+Wrong: 
+Value: $600
+Number: 18
+PREFIXES | This prefix that means "first" or "primitive" is found before "plasm" & "zoa" | proto-
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+RECENT BOOKS | "The Girl Who Kicked the Hornet's Nest" continues the story about a hacker from this country | Sweden
+right: Dave
+Wrong: 
+Value: $600
+Number: 28
+THE SUPER BOWL'S TOP RUSHER | Super Bowl IX: This immaculate Steeler | Franco Harris
+right: Art
+Wrong: 
+Value: $600
+Number: 23
+C.S., I | Some say when it comes to his films "Heathers" & "Pump Up the Volume", it's better to shoot first, then ask this actor | (Christian) Slater
+right: Dave
+Wrong: 
+Value: $600
+Number: 11
+ALPHABETICALLY LAST | Of the events in a decathlon | the shot put
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+ARTHUR'S CAMELOT | "The Simple Joys of Maidenhood" is one of her songs in the version of the tale by Lerner of New York & Loewe of Berlin | Guinevere
+right: Dave
+Wrong: 
+Elizabeth: Who is Maid Marian?
+Value: $800
+Number: 19
+PREFIXES | "Anti-" means "against; "ante-" means this | before
+right: 
+Wrong: 
+Dave: What is after?
+Value: DD: $1,200
+Number: 4
+RECENT BOOKS | "Here Comes Trouble", a look back by this pot-stirring documentarian, includes his boyhood in Flint | Michael Moore
+right: Elizabeth
+Wrong: 
+Value: $800
+Number: 29
+THE SUPER BOWL'S TOP RUSHER | Super Bowl XXV: Thurman Thomas, in a losing cause for this team that lost 3 other Super Bowls | the (Buffalo) Bills
+right: Art
+Wrong: 
+Value: $800
+Number: 24
+C.S., I | He became New York's senior senator when Daniel Patrick Moynihan retired in 2001 | (Charles) Schumer
+right: Dave
+Wrong: 
+Value: $800
+Number: 12
+ALPHABETICALLY LAST | By surname of current Supreme Court justices | (Clarence) Thomas
+right: Art
+Wrong: 
+Value: $800
+Number: 14
+ARTHUR'S CAMELOT | The Somerset town of Glastonbury claims to be this fabled isle, the final resting place of King Arthur | Avalon
+right: Art
+Wrong: 
+Value: $1000
+Number: 20
+PREFIXES | When this prefix precedes "active", it means "backwards"; by itself it refers to the style of an earlier time | retro-
+right: Dave
+Wrong: 
+Value: $1000
+Number: 5
+RECENT BOOKS | Book club alert--"Then Came You" is the latest novel by this author of "Good in Bed" & "In Her Shoes" | Jennifer Weiner
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+THE SUPER BOWL'S TOP RUSHER | Super Bowl XXVIII: This Cowboys Hall of Famer | Emmitt Smith
+right: Elizabeth
+Wrong: 
+Value: $1000
+Number: 25
+C.S., I | In 1914 a group of his "Chicago Poems" appeared in Poetry magazine | Carl Sandburg
+right: Art
+Wrong: 
+Value: $1000
+Number: 13
+ALPHABETICALLY LAST | Of the countries of the world | Zimbabwe
+right: Dave
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Dave: $4,000
+Art: $2,400
+Elizabeth: $0
+Scores at the end of the Jeopardy! Round:
+Dave: $5,600
+Art: $7,000
+Elizabeth: $1,000
+Second Jeopardy! Round: JFK's CAMELOT, FASHION, SPACE-Y MUSIC, SCULPTURE, STATES' HIGHEST POINTS, THAT "BIT" AT THE END
+JFK's CAMELOT | In March 1961 JFK issued an executive order creating this agency that sends volunteers to aid developing nations | the Peace Corps
+right: Dave
+Wrong: 
+Value: $400
+Number: 21
+FASHION | Mousquetaires, formal ones of these for women, have lengthwise buttoned openings at the wrist | (opera) gloves
+right: Dave
+Wrong: 
+Value: $400
+Number: 26
+SPACE-Y MUSIC | The late, great Queen vocalist Freddie ____ | Mercury
+right: Dave
+Wrong: 
+Value: $400
+Number: 11
+SCULPTURE | Luca Della Robbia is said to be the first sculptor to apply glazes to this semi-fired ceramic clay with an Italian name | terra cotta
+right: Dave
+Wrong: 
+Value: $400
+Number: 16
+STATES' HIGHEST POINTS | Jerimoth Hill in Providence County | Rhode Island
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 6
+THAT "BIT" AT THE END | This type of card can be used to make an electronic withdrawal of funds on deposit in a bank | debit
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 1
+JFK's CAMELOT | As an intern Nora Ephron had one exchange with JFK, as he left for this Mass. "Port", but couldn't hear what he said | Hyannis Port
+right: Art
+Wrong: 
+Value: $800
+Number: 22
+FASHION | President Truman popularized this shirt with the name of a Hawaiian greeting when he was on the cover of Life in 1951 | an aloha
+right: Dave
+Wrong: 
+Value: $800
+Number: 27
+SPACE-Y MUSIC | A synth-snazzy song by Duran Duran: "New ____ On Monday" | Moon
+right: Art
+Wrong: 
+Value: $800
+Number: 12
+SCULPTURE | In 1482 he asked the Duke of Milan for a job, saying, "I can further execute sculpture in marble, bronze or clay" | da Vinci
+right: 
+Wrong: Triple Stumper
+Dave: Who is Michelangelo?
+Elizabeth: Who is Rafael?
+Value: $800
+Number: 17
+STATES' HIGHEST POINTS | Mount Arvon on the Upper Peninsula | Michigan
+right: Dave
+Wrong: 
+Value: $800
+Number: 7
+THAT "BIT" AT THE END | A document or object shown in court & identified as evidence | an exhibit
+right: Dave
+Wrong: 
+Value: $800
+Number: 2
+JFK's CAMELOT | Those looking for eerie assassination coincidences know that this woman was JFK's devoted secretary | Evelyn Lincoln
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+FASHION | Named for an Italian resort isle, these tight 3/4-length pants have a short slit on the outside of each leg | capris
+right: Art
+Wrong: 
+Value: $1200
+Number: 28
+SPACE-Y MUSIC | Part of the successful production team the Smeezingtons: Bruno ____ | Mars
+right: Dave
+Wrong: 
+Value: $1200
+Number: 13
+SCULPTURE | He carved a bust of Lincoln for the U.S. Capitol rotunda; his much bigger one is in South Dakota | (Gutzon) Borglum
+right: Dave
+Wrong: 
+Value: DD: $2,500
+Number: 18
+STATES' HIGHEST POINTS | Mount Magazine, which has Ozark National Forest land on its slopes | Arkansas
+right: Elizabeth
+Wrong: 
+Dave: What is Missouri?
+Value: $1200
+Number: 8
+THAT "BIT" AT THE END | Psychological term meaning to consciously or unconsciously restrain an impulse | inhibit
+right: 
+Wrong: 
+Value: DD: $5,000
+Number: 3
+JFK's CAMELOT | JFK sent 3,000 troops to restore order after black student James Meredith attended this school in 1962 | Mississippi
+right: Elizabeth
+Wrong: 
+Value: $1600
+Number: 24
+FASHION | In the '80s big sweaters were popularly paired with these pants named for a strap at the bottom of each leg | stirrup pants
+right: Elizabeth
+Wrong: 
+Value: $1600
+Number: 29
+SPACE-Y MUSIC | A No. 5 hit for Train: "Drops Of ____" | Jupiter
+right: Art
+Wrong: 
+Value: $1600
+Number: 14
+SCULPTURE | A method of casting for bronze sculptures, cire-perdue means "lost" this in English | wax
+right: Art
+Wrong: 
+Value: $1600
+Number: 19
+STATES' HIGHEST POINTS | Granite Peak in Custer National Forest | Montana
+right: Elizabeth
+Wrong: 
+Value: $1600
+Number: 9
+THAT "BIT" AT THE END | So you & Amy found a place together--mind if I ask, are you going to get married or just do this? | cohabit
+right: Dave
+Wrong: 
+Value: $1600
+Number: 4
+JFK's CAMELOT | In October 1962 this U.N. ambassador said he'd wait "until hell freezes over" for a Soviet reply to photos taken over Cuba | Adlai Stevenson
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+FASHION | It's the amphibian name for the ornamental fastener <http://www.j-archive.com/media/2012-01-02_DJ_30.jpg> seen <http://www.j-archive.com/media/2012-01-02_DJ_30a.jpg> here | a frog
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+SPACE-Y MUSIC | A jazz musician whose costumes combined Ancient Egypt & science fiction: ____ Ra | Sun
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+SCULPTURE | When he won the commission for "The Burghers of Calais", he promised to deliver "six sculptures for the price of one" | Auguste Rodin
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+STATES' HIGHEST POINTS | Sassafras Mountain, about 30 miles northwest of Greenville | South Carolina
+right: Dave
+Wrong: 
+Value: $2000
+Number: 10
+THAT "BIT" AT THE END | An eye socket | an orbit
+right: Dave
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Dave: $11,900
+Art: $13,000
+Elizabeth: $7,000
+
+Final Jeopardy! Round
+'70s OSCARS | This film whose title refers to an establishment holds the record for most wins, 8, without winning Best Picture | Cabaret
+right: Dave
+Wrong: 
+Elizabeth: What is Casino?
+Art: What is One Flew Over the Cuckoo's Nest
+Wagers: 
+Elizabeth: $3,000
+Dave: $2,101
+Art: $12,900
+Final scores:
+Dave: $14,001 (3-day champion: $48,684)
+Art: $100 (3rd place: $1,000)
+Elizabeth: $4,000 (2nd place: $2,000)
+
+Coryat scores
+Dave: $16,800 (24 R(including 1 DD),4 W(including 2 DDs))
+Art: $13,000 (18 R,0 W)
+Elizabeth: $7,000 (8 R,2 W)

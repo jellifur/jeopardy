@@ -1,0 +1,344 @@
+1429 - Thursday, November 15, 1990
+Comments: 1990 Tournament of Champions final game 1.
+Contestants:
+Bob Blake: an actuary from Vancouver, British Columbia
+Larry McKnight: a computer analyst from Ventura, California
+Steve Berman: a film executive originally from Toms River, New Jersey
+First Jeopardy! Round: "G" MEN, ESPAÑOL, WEIGHTS & MEASURES, TRAIN SONGS, NATURE, FINAL RESTING PLACES
+"G" MEN | In 1980, at age 19, he became the youngest player named MVP of the NHL | Gretzky
+right: Steve
+Wrong: 
+Value: $100
+Number: 11
+ESPAÑOL | It's Spanish for "pineapple", as those who drink pineapple-coconut cocktails should know | piña
+right: Bob
+Wrong: 
+Value: $100
+Number: 6
+WEIGHTS & MEASURES | 1 hectare, the metric unit of area, is equal to 2.471 of these | an acre
+right: Bob
+Wrong: 
+Value: $100
+Number: 5
+TRAIN SONGS | In the old standard it's what "I've" been doing "all the live-long day" | working on the railroad
+right: Larry
+Wrong: 
+Value: $100
+Number: 19
+NATURE | This flower has been grown since ancient times for its foliage, fragrance & hips | a rose
+right: Steve
+Wrong: 
+Value: $100
+Number: 23
+FINAL RESTING PLACES | You'll find the 13 imperial tombs of the Ming dynasty in a valley on the outskirts of this capital | Beijing
+right: Bob
+Wrong: 
+Value: $100
+Number: 26
+"G" MEN | He was Benson DuBois on TV before playing the "Phantom of the Opera" in L.A. | Robert Guillaume
+right: Bob
+Wrong: 
+Value: $200
+Number: 13
+ESPAÑOL | A derisive word for a foreigner; Carlos Fuentes wrote of "The Old" one in 1985 | gringo
+right: Larry
+Wrong: 
+Value: $200
+Number: 7
+WEIGHTS & MEASURES | This cotton measure is 500 lbs. in the U.S. & only 176 lbs. in China | a bale
+right: Steve
+Wrong: 
+Value: $200
+Number: 2
+TRAIN SONGS | The Monkees took "The Last Train" there in 1966 & made it their first No. 1 hit | Clarksville
+right: Steve
+Wrong: 
+Value: $200
+Number: 20
+NATURE | It'll run if there's danger, or, if cornered, kick out, but will not as legend says bury its head | an ostrich
+right: Bob
+Wrong: 
+Value: $200
+Number: 24
+FINAL RESTING PLACES | Joseph Conrad is buried in the cemetery at this Gothic cathedral, as the archbishop could tell you | Canterbury
+right: Steve
+Wrong: 
+Value: $200
+Number: 30
+"G" MEN | Under the pen name A.A. Fair, he created private eyes Bertha Cool & Donald Lam | Erle Stanley Gardner
+right: Bob
+Wrong: 
+Value: $300
+Number: 14
+ESPAÑOL | The Spanish "calabozo" & the cowboy variation calaboose both mean thse | jail
+right: Bob
+Wrong: 
+Value: $300
+Number: 8
+WEIGHTS & MEASURES | Measuring longitude at the equator 1 of these equals 69.17 miles | a degree
+right: Larry
+Wrong: 
+Value: $300
+Number: 1
+TRAIN SONGS | The British singer who rode the "Morning Train" to the top of the charts in 1981 | Sheena Easton
+right: Bob
+Wrong: 
+Value: $300
+Number: 17
+NATURE | Of all the toucans, the toco has the biggest one of these | a beak
+right: Bob
+Wrong: 
+Value: $300
+Number: 12
+FINAL RESTING PLACES | He was buried on St. Helena in his favorite uniform in 1821 but was moved to Paris in 1840 | Napoleon
+right: Bob
+Wrong: 
+Value: $300
+Number: 29
+"G" MEN | After helping to organize the AFL, he headed it for almost 40 years | Samuel Gompers
+right: Steve
+Wrong: 
+Value: $400
+Number: 15
+ESPAÑOL | Any Spanish pier or wharf, or a certain waterfront area in San Francisco | embarcadero
+right: Bob
+Wrong: 
+Value: $400
+Number: 9
+WEIGHTS & MEASURES | 6 miles square is exactly equal to this many square miles | 36 square miles
+right: Steve
+Wrong: 
+Value: $400
+Number: 3
+TRAIN SONGS | The title destination of the train in <http://www.j-archive.com/media/1990-11-15_J_21.mp3> this 1973 No. 1 hit:  "L.A. proved too much for the man..." | Georgia
+right: Steve
+Wrong: 
+Value: DD: $1,300
+Number: 21
+NATURE | Mor & mull are 2 types of this black decayed organic matter in soil | humus
+right: 
+Wrong: Triple Stumper
+Larry: What's compost?
+Value: $400
+Number: 16
+FINAL RESTING PLACES | Father Damien was buried on this Hawaiian island but in 1936 his remains were moved to Belgium | Molokai
+right: Larry
+Wrong: 
+Value: $400
+Number: 28
+"G" MEN | Convinced the novel was evil, he burned the second part of "Dead Souls" shortly before he died | Gogol
+right: Larry
+Wrong: 
+Value: $500
+Number: 18
+ESPAÑOL | The traditional title for daughters of the kings of Portugal & Spain | infanta
+right: Bob
+Wrong: 
+Value: $500
+Number: 10
+WEIGHTS & MEASURES | This unit named for a Swedish scientist is used to designate wavelengths of light | angstrom
+right: Bob
+Wrong: 
+Value: $500
+Number: 4
+TRAIN SONGS | In "The Harvey Girls", Judy Garland sang about this railroad | the Atchison, Topeka, and the Santa Fe
+right: Steve
+Wrong: 
+Value: $500
+Number: 22
+NATURE | Legend says this flower's name comes from the last words of a knight who drowned picking one for his lady | a forget-me-not
+right: Larry
+Wrong: 
+Value: $500
+Number: 25
+FINAL RESTING PLACES | This Diaghilev dancer is buried near the great French dancer Auguste Vestris in Montmartre | Nijinsky
+right: Larry
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Steve: $1,100
+Larry: $100
+Bob: $2,700
+Scores at the end of the Jeopardy! Round:
+Steve: $3,400
+Larry: $2,100
+Bob: $3,600
+Second Jeopardy! Round: ANCIENT VIPs, ITALIAN LITERATURE, WORLD GEOGRAPHY, THE AMERICAN REVOLUTION, OPERA, ABBREV.
+ANCIENT VIPs | It was once believed that this Hun, who died on his wedding night, was murdered by his bride | Attila
+right: Bob
+Wrong: 
+Value: $200
+Number: 7
+ITALIAN LITERATURE | Besides "The Prince", he is also known for his "Discourses on" Livy | Machiavelli
+right: Larry
+Wrong: 
+Value: $200
+Number: 23
+WORLD GEOGRAPHY | This country's name means "Land of the Southern Slavs" | Yugoslavia
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+THE AMERICAN REVOLUTION | He wrote, "The birthday of a new world is at hand" in his pamplet "Common Sense" | Thomas Paine
+right: Bob
+Wrong: 
+Value: $200
+Number: 1
+OPERA | In "Siegfried" Fafner the giant is turned into one of these mythical beasts before Siegfried slays him | a dragon
+right: Bob
+Wrong: 
+Value: $200
+Number: 9
+ABBREV. | This is the abbreviation for a postscript after a P.S. | P.P.S.
+right: Larry
+Wrong: 
+Value: $200
+Number: 17
+ANCIENT VIPs | He was the 6th ruler of the Amorite dynasty of Babylon; you probably remember him for his code | Hammurabi
+right: Steve
+Wrong: 
+Value: $400
+Number: 8
+ITALIAN LITERATURE | The Academic American Ency. calls this Dante work the greatest poem of the Middle Ages | the Divine Comedy
+right: Bob
+Wrong: 
+Value: $400
+Number: 24
+WORLD GEOGRAPHY | Just north of Khartoum, Sudan, these 2 "colorful" rivers combine to form the Nile | the Blue Nile & the White Nile
+right: Bob
+Wrong: 
+Value: $400
+Number: 3
+THE AMERICAN REVOLUTION | This craftsman designed the 1st official seal of the Colonies & the 1st issue of Continental currency | Paul Revere
+right: Steve
+Wrong: 
+Value: $400
+Number: 13
+OPERA | 1st name shared by Rigoletto's daughter, a "Saturday Night Live" star & a R. Hayworth character | Gilda
+right: Bob
+Wrong: 
+Value: $400
+Number: 27
+ABBREV. | Medically, G.I. stands for this system | gastrointestinal
+right: Steve
+Wrong: 
+Value: $400
+Number: 18
+ANCIENT VIPs | Amenhotep IV of Egypt changed his name to this because he was so devoted to the god Aton | Akhenaten
+right: Bob
+Wrong: 
+Larry: What's Tutankhamen?
+Value: $600
+Number: 10
+ITALIAN LITERATURE | Completes the title of Giorgio Bassani's novel set in Fascist Italy, "The Garden of the..." | Finzi-Continis
+right: 
+Wrong: Triple Stumper
+Larry: What is Fitzi-Continis?
+Value: $600
+Number: 19
+WORLD GEOGRAPHY | The Gulf of Bothnia & the Gulf of Finland are both extensions of this sea | the Baltic
+right: Larry
+Wrong: 
+Value: $600
+Number: 4
+THE AMERICAN REVOLUTION | The first of these 5 acts closed the port of Boston until payment was made for the destroyed tea | the Coercive Acts (or the Intolerable Acts)
+right: Larry
+Wrong: 
+Value: $600
+Number: 14
+OPERA | Marie, the heroine of this Donizetti opera, was adopted as an infant by French soldiers | The Daughter of the Regiment
+right: Bob
+Wrong: 
+Value: DD: $3,000
+Number: 28
+ABBREV. | The abbreviation cc: near the bottom of a letter means this | copies to
+right: Larry
+Wrong: 
+Value: $600
+Number: 20
+ANCIENT VIPs | Sennacherib, king of this country, made Nineveh his capital & built a magnificent new palace there | Assyria
+right: Bob
+Wrong: 
+Value: DD: $3,000
+Number: 11
+ITALIAN LITERATURE | "Pinocchio" author Carlo Lorenzini used this last name, taken from his family village | Collodi
+right: Bob
+Wrong: 
+Value: $800
+Number: 25
+WORLD GEOGRAPHY | This sea in the North Atlantic is delineated only by the plants that float on its surface | the Sargasso Sea
+right: Bob
+Wrong: 
+Value: $800
+Number: 5
+THE AMERICAN REVOLUTION | Frontiersman who won victories at Kaskaskia, Cahokia & Vincennes in the NW Territory | George Rogers Clark
+right: Steve
+Wrong: 
+Value: $800
+Number: 15
+OPERA | English composer whose 1947 opera "Albert Herring" is about a young man, not a young fish | Benjamin Britten
+right: Steve
+Wrong: 
+Value: $800
+Number: 29
+ABBREV. | Most int'l airlines arrive at their fares through IATA, which stands for this | the International Air Transport Association
+right: Bob
+Wrong: 
+Value: $800
+Number: 21
+ANCIENT VIPs | This "Great" king of Persia was the son of Darius the Great & the Grandson of Cyrus the Great | Xerxes
+right: Larry
+Wrong: 
+Value: $1000
+Number: 12
+ITALIAN LITERATURE | This Existentialist Italian playwright won the Nobel Prize for Literature in 1934 | Pirandello
+right: Bob
+Wrong: 
+Value: $1000
+Number: 26
+WORLD GEOGRAPHY | In 1943 this Mexican volcano grew from a small depression to 1,000 ft. in height | Parícutin
+right: Bob
+Wrong: 
+Value: $1000
+Number: 6
+THE AMERICAN REVOLUTION | Prime minister during the war, some later called him "the minister who lost America" | Lord North
+right: Larry
+Wrong: 
+Value: $1000
+Number: 16
+OPERA | Drops of blood from the ceiling reveal where an outlaw is hiding in this Puccini opera | The Girl of the Golden West
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+ABBREV. | WPA was the abbreviation for this Depression-era program | the Works Progress Administration (or the Works Projects Administration)
+right: Larry
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Steve: $6,200
+Larry: $6,100
+Bob: $16,600
+
+Final Jeopardy! Round
+SPACE EXPLORATION | Next pair in the sequence:  Gumdrop, Spider;  Charlie Brown, Snoopy;... | the Columbia
+right: 
+Wrong: 
+Larry: What is ? and Eagle
+Steve: What is ??
+Bob: What are
+Wagers: 
+Larry: $4,000
+Steve: $4,000
+Bob: $3,400
+Final scores:
+Steve: $2,200 ()
+Larry: $2,100 ()
+Bob: $13,200 ()
+
+Coryat scores
+Steve: $5,300 (14 R(including 1 DD),0 W)
+Larry: $6,100 (15 R,3 W)
+Bob: $12,000 (28 R(including 2 DDs),0 W)

@@ -1,0 +1,340 @@
+6494 - Thursday, December 6, 2012
+Contestants:
+Noah Rachels: a university fundraiser from Astoria, New York
+Skylar Rampersaud: a computer security researcher from Kapolei, Hawaii
+Mike McCormick: a logistics director from Hockessin, Delaware (whose 1-day cash winnings total $16,801)
+First Jeopardy! Round: HOME SWEET MOTOR HOME, MOVIE MONEY, SHALL I COMPARE THEE?, THE NAME OF THE FLAG, AMERICAN WOMAN, STAY AWAY FROM MEAT
+HOME SWEET MOTOR HOME | Unlike fixed homes, most motor homes power their lights with this type of current that's found in batteries | direct current
+right: Noah
+Wrong: 
+Value: $200
+Number: 14
+MOVIE MONEY | Paul Newman won an Oscar for this sequel to "The Hustler" | The Color of Money
+right: Mike
+Wrong: 
+Value: $200
+Number: 10
+SHALL I COMPARE THEE? | A crazy person is said to be "nutty as" this notoriously unloved holiday dessert | fruitcake
+right: Noah
+Wrong: 
+Value: $200
+Number: 21
+THE NAME OF THE FLAG | This country's flag is called the Dannebrog | Denmark
+right: Mike
+Wrong: 
+Value: $200
+Number: 8
+AMERICAN WOMAN | Florida's state attorney in 1978, she would add the rest of the country to her docket as U.S. Attorney General | Janet Reno
+right: Mike
+Wrong: 
+Value: $200
+Number: 1
+STAY AWAY FROM MEAT | AKA soybean curd, it can be frozen up to 3 months--but that will change its texture, making it slightly chewier | tofu
+right: Skylar
+Wrong: 
+Value: $200
+Number: 3
+HOME SWEET MOTOR HOME | (<http://www.j-archive.com/media/2012-12-06_J_15.jpg> Jimmy of the Clue Crew reports from the RV/MH Hall of Fame.) One of the earliest RVs in existence is a 1913 custom-built wooden trailer that went on the back of <http://www.j-archive.com/media/2012-12-06_J_15.jpg> this famous car of the day | Model T
+right: Mike
+Wrong: 
+Value: $400
+Number: 15
+MOVIE MONEY | The title of this 1954 classic refers to the Trevi one in Rome | Three Coins in the Fountain
+right: Mike
+Wrong: 
+Noah: Uh... what is the fountain of money?
+Value: $400
+Number: 11
+SHALL I COMPARE THEE? | Money in the bank is like this 2-word bedding item that kids tote around | security blanket
+right: Skylar
+Wrong: 
+Noah: What is a knapsack?
+Value: $400
+Number: 22
+THE NAME OF THE FLAG | Hinomaru, the name of Japan's flag, means "the circle of" this body | the sun
+right: Noah
+Wrong: 
+Value: $400
+Number: 9
+AMERICAN WOMAN | "Learning is not attained by chance, it must be sought for with ardor", this future first lady wrote in 1780 | Abigail Adams
+right: Skylar
+Wrong: 
+Mike: Who is Martha Washington?
+Value: $400
+Number: 2
+STAY AWAY FROM MEAT | This 5-letter term coined in 1944 is the beginning & end of "vegetarian" | vegan
+right: Skylar
+Wrong: 
+Value: $400
+Number: 4
+HOME SWEET MOTOR HOME | Ray Frank, who coined the term motor home, also built the first one made of this synthetic material | fiberglass
+right: Noah
+Wrong: 
+Value: $600
+Number: 27
+MOVIE MONEY | Oliver Stone's follow-up to "Wall Street" had this subtitle | Money Never Sleeps
+right: Mike
+Wrong: 
+Noah: What is The Color of Money?
+Value: $600
+Number: 12
+SHALL I COMPARE THEE? | Something less than thrilling is commonly said to be this "as ditchwater" | dull
+right: Mike
+Wrong: 
+Value: $600
+Number: 23
+THE NAME OF THE FLAG | This Caribbean nation flies La Estrella Solitaria, "The Solitary Star" | Cuba
+right: 
+Wrong: 
+Mike: What is the Dominican Republic?
+Value: DD: $1,600
+Number: 19
+AMERICAN WOMAN | In 1934, after a nervous breakdown, this painter discovered N.M.'s ghost ranch, where she'd make her home | Georgia O'Keeffe
+right: Skylar
+Wrong: 
+Value: $600
+Number: 16
+STAY AWAY FROM MEAT | Not "Yesterday" but in 2009, this musician & longtime vegetarian launched a "meat free Monday" campaign | Paul McCartney
+right: Noah
+Wrong: 
+Value: $600
+Number: 5
+HOME SWEET MOTOR HOME | This 5-letter action comes before "out" in the name of a motor home attachment that adds room space | glide (or slide)
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+MOVIE MONEY | This 1964 Sergio Leone film starring Clint Eastwood introduced the spaghetti western | Fistful of Dollars
+right: Noah
+Wrong: 
+Mike: What is For a Few Dollars More?
+Value: $800
+Number: 13
+SHALL I COMPARE THEE? | Something that happens "as quick as" this action literally takes place in 2/5 of a second | blink of an eye
+right: Noah
+Wrong: 
+Value: $800
+Number: 24
+THE NAME OF THE FLAG | On YouTube you can watch Jack Webb talk about the U.S. flag in a clip rhymingly called "The Story of" this | Old Glory
+right: Noah
+Wrong: 
+Value: $800
+Number: 20
+AMERICAN WOMAN | This children's author wrote the 1980 sequel "Superfudge" | Judy Blume
+right: Skylar
+Wrong: 
+Value: $800
+Number: 17
+STAY AWAY FROM MEAT | Kashi makes this type of crunchy grain-fruit-honey-nut breakfast cereal & bars of it, too | granola
+right: Mike
+Wrong: 
+Value: $800
+Number: 6
+HOME SWEET MOTOR HOME | The film "This Is Nowhere" explores the trend of motor homes "camping" in the parking lots of this colossus of chain stores | Wal-Mart
+right: Noah
+Wrong: 
+Value: $1000
+Number: 29
+MOVIE MONEY | This Cher film takes place at a Woolworth's in a small Texas town, not far from where "Giant" was shot | Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+SHALL I COMPARE THEE? | Biff went home to mom & dad like this biblical guy did in Luke 15 after some "riotous living" | the prodigal son
+right: Mike
+Wrong: 
+Value: $1000
+Number: 25
+THE NAME OF THE FLAG | Poland's flag is descriptively called bialo-czerwona, meaning these 2 colors | red and white
+right: Noah
+Wrong: 
+Value: $1000
+Number: 30
+AMERICAN WOMAN | The first U.S.-born person to be named a saint, she has a "Hall" of a college named for her | (Elizabeth Ann) Seton
+right: Mike
+Wrong: 
+Value: $1000
+Number: 18
+STAY AWAY FROM MEAT | The Food Network says kosher salt is optional for a 1 lb. serving of this, Japanese for green soybeans | edamame
+right: Noah
+Wrong: 
+Value: $1000
+Number: 7
+Scores at the first commercial break (after clue 15)
+Mike: $1,600
+Skylar: $1,000
+Noah: $2,000
+Scores at the end of the Jeopardy! Round:
+Mike: $2,600
+Skylar: $2,800
+Noah: $6,000
+Second Jeopardy! Round: SULEIMAN THE MAGNIFICENT, AUTHORS ON AUTHORS, THEIR TV ROLES, JA, DAS IST MEIN POSSE, 1930s SCIENCE & TECHNOLOGY, "TAR" & "FEATHER"s
+SULEIMAN THE MAGNIFICENT | In 1520 Suleiman took over this title as ruler of the Ottoman Empire | sultan
+right: 
+Wrong: Triple Stumper
+Skylar: What is emperor?
+Value: $400
+Number: 1
+AUTHORS ON AUTHORS | Charles Dickens wrote that a visit by this "Fairy Tales" scribe had been "five weeks which seemed to the family ages" | Hans Christian Andersen
+right: 
+Wrong: Triple Stumper
+Noah: Who is Grimm?
+Value: $400
+Number: 5
+THEIR TV ROLES | Hank Moody & Fox Mulder | David Duchovny
+right: Mike
+Wrong: 
+Value: $400
+Number: 7
+JA, DAS IST MEIN POSSE | Andreas Brehme was the hero as the West German team won this in 1990 | the World Cup
+right: Skylar
+Wrong: 
+Noah: What is the gold medal?
+Value: $400
+Number: 15
+1930s SCIENCE & TECHNOLOGY | Norman Haworth, who synthesized this vitamin aka ascorbic acid, won a 1937 Nobel Prize | Vitamin C
+right: Noah
+Wrong: 
+Value: $400
+Number: 21
+"TAR" & "FEATHER"s | Late or overdue | tardy
+right: Mike
+Wrong: 
+Value: $400
+Number: 16
+SULEIMAN THE MAGNIFICENT | In 1522 Suleiman recaptured this "colossal" Greek island from the knights of St. John | Rhodes
+right: Mike
+Wrong: 
+Value: $800
+Number: 2
+AUTHORS ON AUTHORS | After reading this book, Ralph Waldo Emerson wrote Walt Whitman, "I greet you at the beginning of a great career" | Leaves of Grass
+right: Noah
+Wrong: 
+Value: $800
+Number: 6
+THEIR TV ROLES | Alexander Scott & Cliff Huxtable | Bill Cosby
+right: Mike
+Wrong: 
+Value: $800
+Number: 8
+1930s SCIENCE & TECHNOLOGY | Introduced by DuPont in 1938, Dr. West's miracle toothbrush was the first made of this synthetic polymer | nylon
+right: Mike
+Wrong: 
+Value: $800
+Number: 22
+"TAR" & "FEATHER"s | Battling Battalino & Azumah Nelson had success as these | featherweights
+right: Noah
+Wrong: 
+Value: $800
+Number: 17
+SULEIMAN THE MAGNIFICENT | As his top admiral Suleiman hired the pirate Khayr ad-Din, known as this for his red beard, like a crusading emperor | Barbarossa
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+AUTHORS ON AUTHORS | When reviewing "Dawn" in the New Yorker, she quipped, "Theodore Dreiser should ought to write nicer" | Dorothy Parker
+right: Mike
+Wrong: 
+Value: $1200
+Number: 12
+THEIR TV ROLES | Gemma Teller Morrow & Peg Bundy | Katey Sagal
+right: Noah
+Wrong: 
+Value: $1200
+Number: 9
+1930s SCIENCE & TECHNOLOGY | <http://www.j-archive.com/media/2012-12-06_DJ_23.jpg> Edwin Armstrong developed this new system of radio transmission & built the first station for it in 1939 | FM
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+"TAR" & "FEATHER"s | The surface of an airport runway | tarmac
+right: Mike
+Wrong: 
+Value: $1200
+Number: 18
+SULEIMAN THE MAGNIFICENT | At the 1526 Battle of Mohács, Sulei & his boys crushed the forces of this kingdom, which had advanced from Buda to meet him | Hungary
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+AUTHORS ON AUTHORS | Conan Doyle wrote, "Where was the detective story until" this author "breathed the breath of life into it?" | Edgar Allan Poe
+right: 
+Wrong: 
+Mike: Who is Wilkie Collins?
+Value: DD: $2,500
+Number: 13
+THEIR TV ROLES | Lois Lane & Susan Mayer | Teri Hatcher
+right: Mike
+Wrong: 
+Value: $1600
+Number: 10
+JA, DAS IST MEIN POSSE | Worldwide there are about 150 institutes to promote German culture named for this 18th & 19th c. writer | Goethe
+right: Noah
+Wrong: 
+Value: $1600
+Number: 28
+1930s SCIENCE & TECHNOLOGY | In 1930 astronomer Clyde Tombaugh discovered not only Pluto but Shawna, a main-belt one of these | asteroid
+right: Skylar
+Wrong: 
+Value: $1600
+Number: 24
+"TAR" & "FEATHER"s | This phrase means growing wealthy by taking advantage of one's position | feathering one's nest
+right: Noah
+Wrong: 
+Value: $1600
+Number: 19
+SULEIMAN THE MAGNIFICENT | Hoping to rid himself of those troublesome Hapsburgs, in 1529 Suleiman laid siege to this city but couldn't take it | Vienna
+right: 
+Wrong: Triple Stumper
+Noah: What is Austria?
+Value: $2000
+Number: 25
+AUTHORS ON AUTHORS | In 1974, a decade after her suicide, James Dickey called her "the Judy Garland of American poetry" | Sylvia Plath
+right: Noah
+Wrong: 
+Value: $2000
+Number: 14
+THEIR TV ROLES | Hurley Reyes & Dr. Diego Soto | Jorge Garcia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+JA, DAS IST MEIN POSSE | The artistic Novembergruppe included Bertolt Brecht & this composer, his collaborator | Kurt Weill
+right: Noah
+Wrong: 
+Value: $2000
+Number: 27
+1930s SCIENCE & TECHNOLOGY | In 1935 this American became the first to shoot a liquid-fuel rocket faster than the speed of sound | Robert Goddard
+right: 
+Wrong: 
+Skylar: Who is Mach?
+Value: DD: $2,400
+Number: 26
+"TAR" & "FEATHER"s | This Atlantic game fish is also called the silver king & grand écaille | tarpon
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Mike: $7,300
+Skylar: $2,000
+Noah: $13,600
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | Though it consists entirely of islands, this populous country borders 3 other nations | Indonesia
+right: Mike | Noah
+Wrong: 
+Skylar: What is Malaysia?
+Wagers: 
+Skylar: $2,000
+Mike: $7,300
+Noah: $1,499
+Final scores:
+Mike: $14,600 (2nd place: $2,000)
+Skylar: $0 (3rd place: $1,000)
+Noah: $15,099 (New champion: $15,099)
+
+Coryat scores
+Mike: $11,400 (18 R,4 W(including 2 DDs))
+Skylar: $4,400 (8 R,2 W(including 1 DD))
+Noah: $13,600 (19 R,6 W)

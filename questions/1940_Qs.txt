@@ -1,0 +1,353 @@
+uper Jeopardy! show #9 - Saturday, August 11, 1990
+Comments: <I>Super Jeopardy!</I> quarterfinal game 7.
+Contestants:
+Yael Sofaer: a programmer and analyst originally from Israel
+Ron Black: an attorney from Winston-Salem, North Carolina
+Dave Traini: a high school administrator from Medford Lakes, New Jersey
+Chuck Forrest: a foreign service officer originally from Grand Blanc, Michigan
+First Jeopardy! Round: CURRENT EVENTS, NON-POTENT POTABLES, SPORTS, PROVERBS, WORLD CAPITALS, ODDS & ENDS
+CURRENT EVENTS | Animal-rights activists have accused the navy of using these mammals as underwater “hit men” | dolphins
+right: Chuck
+Wrong: 
+Value: 200
+Number: 4
+NON-POTENT POTABLES | To make lemon juice into lemonade, these 2 ingredients must be added | sugar and water
+right: Ron
+Wrong: 
+Value: 200
+Number: 20
+SPORTS | In May 1990 this Lakers player became the first guard in NBA history to win 3 MVP awards | Magic Johnson
+right: Dave
+Wrong: 
+Value: 200
+Number: 8
+PROVERBS | “East, west”, this “is best” | home
+right: Yael
+Wrong: 
+Value: 200
+Number: 11
+WORLD CAPITALS | King Christian IV built the Round Tower in this Danish capital as an astronomical observatory | Copenhagen
+right: Dave
+Wrong: 
+Value: 200
+Number: 1
+ODDS & ENDS | The huge African goliath frogs entered in this May 1990 event in Angels Camp, CA. lost big | Calaveras County frog jumping contest
+right: Dave
+Wrong: 
+Value: 200
+Number: 5
+CURRENT EVENTS | After Lithuania & Estonia, it became the final Baltic republic to proclaim its independence | Latvia
+right: Yael
+Wrong: 
+Value: 400
+Number: 15
+NON-POTENT POTABLES | This powder mixed with milk is made from ground, kiln-dried, sprouted barley | malt
+right: 
+Wrong: Quadruple Stumper
+Value: 400
+Number: 23
+SPORTS | In 1978 he won the heavyweight boxing title; 7 years later, his brother Michael did the same | (Leon) Spinks
+right: Yael
+Wrong: 
+Value: 400
+Number: 14
+PROVERBS | “The nearer” this, “the sweeter the flesh” | the bone
+right: 
+Wrong: Quadruple Stumper
+Chuck: What is the fruit?
+Value: 400
+Number: 18
+WORLD CAPITALS | Yarralumla House in this Australian capital is the residence of the governor-general | Canberra
+right: Yael
+Wrong: 
+Value: 400
+Number: 2
+ODDS & ENDS | The pluribus, or many, in our motto “E Pluribus Unum” originally referred to this number | 13
+right: Yael
+Wrong: 
+Value: 400
+Number: 9
+CURRENT EVENTS | In March, for the first time, it reached $3 trillion | national debt
+right: Ron
+Wrong: 
+Value: 600
+Number: 16
+NON-POTENT POTABLES | The color of this coffee drink reminded Italians of the color of a monk's habit, hence its name | cappuccino
+right: Chuck
+Wrong: 
+Value: 600
+Number: 24
+SPORTS | 1 of 3 jockeys who have won the Kentucky Derby 4 or more times | Willie Shoemaker (Bill Hartack or Eddie Arcaro)
+right: Dave
+Wrong: 
+Value: 600
+Number: 17
+PROVERBS | Alexander Pope's “Essay on Criticism” gave us this proverb on the recklessness of fools | fools rush in where angels fear to tread
+right: Chuck
+Wrong: 
+Value: 600
+Number: 19
+WORLD CAPITALS | The name of Martinque's capital includes the name of this country which colonized it | Fort-de-France
+right: Chuck
+Wrong: 
+Value: 600
+Number: 3
+ODDS & ENDS | Though she stopped wearing those pantaloons in 1859 her name is still synonymous with them | (Amelia) Bloomer
+right: Dave
+Wrong: 
+Value: 600
+Number: 10
+CURRENT EVENTS | For health reasons, she stepped down as head of the Missionaries of Charity | Mother Teresa
+right: Ron
+Wrong: 
+Value: 800
+Number: 21
+NON-POTENT POTABLES | Introduced into Spain by Cortes, in the 17th century it became a fashionable drink | chocolate
+right: Yael
+Wrong: 
+Dave: What is coffee?
+Value: 800
+Number: 29
+SPORTS | This Oakland A's pitcher was the only man with 3 20-win seasons in the 1980s | Dave Stewart
+right: Ron
+Wrong: 
+Value: 800
+Number: 26
+PROVERBS | One of these “is never known till needed” & one “to all is” one “to none” | friend
+right: Ron
+Wrong: 
+Value: 800
+Number: 25
+WORLD CAPITALS | The churches & convents in this capital of Ecuador are renowned for their art treasures | Quito
+right: Ron
+Wrong: 
+Value: 800
+Number: 6
+ODDS & ENDS | On May 5, 1960 the U.S. claimed it was a weather plane | U2
+right: Yael
+Wrong: 
+Value: 800
+Number: 12
+CURRENT EVENTS | In an upset victory, she was voted in as Nicaragua's new president | (Violeta) Chamorro
+right: Dave
+Wrong: 
+Value: 1000
+Number: 22
+NON-POTENT POTABLES | Named for the peer it was created for, this black tea is often flavored with oil of bergamot | Earl Grey
+right: Yael
+Wrong: 
+Value: 1000
+Number: 30
+SPORTS | Randy Barnes, world record holder in this event, has licensed plates that read “80 feet” | shot put
+right: Ron
+Wrong: 
+Value: 1000
+Number: 27
+PROVERBS | “No man is” one of these “to his valet” | hero
+right: Dave
+Wrong: 
+Value: 1000
+Number: 28
+WORLD CAPITALS | The mausoleum of Kemal Attaturk in this city wasn't completed until 1953, 15 years after his death | Ankara
+right: Ron
+Wrong: 
+Value: DD: 1,000
+Number: 7
+ODDS & ENDS | After digging about 76 million cubic yards of earth to build a Panama canal, his firm went bankrupt in 1889 | Ferdinand de Lesseps
+right: Ron
+Wrong: 
+Value: 1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Chuck: 800
+Dave: 1,200
+Ron: 2,800
+Yael: 2,600
+Scores at the end of the Jeopardy! Round:
+Chuck: 1,600
+Dave: 3,000
+Ron: 7,000
+Yael: 4,400
+Second Jeopardy! Round: PSYCH 103, ANCIENT HISTORY, AUTHORS, ROCKS & MINERALS, PRESIDENTS, SAMMY DAVIS JR.
+PSYCH 103 | In 1938 this biologist was asked to teach a course on sex & marriage at Indiana Univ. | Kinsey
+right: Ron
+Wrong: 
+Value: 500
+Number: 7
+ANCIENT HISTORY | By 221 B.C. the Ch'in state had defeated the Ch'u to form this country's 1st unified empire | China
+right: Ron
+Wrong: 
+Value: 500
+Number: 3
+AUTHORS | Ellis Weiner is listed as the co-author of her “Mayflower Manners” | Sydney Biddle Barrows
+right: Chuck
+Wrong: 
+Value: 500
+Number: 22
+ROCKS & MINERALS | Originally these were quartz pebbles found in the Rhine River | rhinestones
+right: Dave
+Wrong: 
+Value: 500
+Number: 10
+PRESIDENTS | A month after taking office, he granted former president Nixon a full pardon | Ford
+right: Dave
+Wrong: 
+Value: 500
+Number: 23
+SAMMY DAVIS JR. | 3-letter title of Sammy's last film, or a type of dancing at which he excelled | tap
+right: Yael
+Wrong: 
+Value: 500
+Number: 29
+PSYCH 103 | The digit-span test doesn't measure the width of your hand but how many of these you can recall | numbers
+right: Yael
+Wrong: 
+Value: 1000
+Number: 14
+ANCIENT HISTORY | Linus, the second to hold this office, reigned circa 69-79 A.D. | pope
+right: Yael
+Wrong: 
+Value: 1000
+Number: 6
+AUTHORS | This marine biologist also wrote “The Sea Around Us”, but she's better known for “Silent Spring” | (Rachel) Carson
+right: Yael
+Wrong: 
+Value: 1000
+Number: 21
+ROCKS & MINERALS | There are deposits of this type of coal under half of West Virginia | bituminous
+right: Chuck
+Wrong: 
+Dave: What is anthracite?
+Value: 1000
+Number: 26
+PRESIDENTS | His sudden death in 1923 led some to believe that he had been poisoned by his wife | Harding
+right: Ron
+Wrong: 
+Value: 1000
+Number: 25
+SAMMY DAVIS JR. | After he nearly died in an auto accident, Sammy converted to this religion | Judaism
+right: Yael
+Wrong: 
+Value: 1000
+Number: 30
+PSYCH 103 | Swiss psychiatrist who said there is a “collective unconscious” shared by all manking | (Carl Gustav) Jung
+right: Chuck
+Wrong: 
+Value: 1500
+Number: 15
+ANCIENT HISTORY | The Seleucid Kingdom which once stretched from Thrace to India was a fragment of his empire | Alexander the Great
+right: Dave
+Wrong: 
+Value: 1500
+Number: 5
+AUTHORS | His reporting job in D.C. provided him with material for his novel “Advise and Consent” | (Allen) Drury
+right: Yael
+Wrong: 
+Value: 1500
+Number: 20
+ROCKS & MINERALS | Some of these fine-grained laminated sedimentary rocks are a source of oil | shales
+right: Ron
+Wrong: 
+Value: 1500
+Number: 12
+PRESIDENTS | After his son Willie died, he participated in several seances to try to contact him | Abraham Lincoln
+right: Dave
+Wrong: 
+Value: 1500
+Number: 11
+SAMMY DAVIS JR. | This song, a hit for Sammy in 1969, was played at his memorial service: [Audio] Whether I'm right or whether I'm wrong.. | I've Gotta Be Me
+right: 
+Wrong: 
+Ron: What is My Way?
+Value: DD: 50
+Number: 8
+PSYCH 103 | In this type of study, first done at McGill Univ., students were paid to feel, see, hear & touch nothing | sense deprivation
+right: Dave
+Wrong: 
+Value: DD: 11,500
+Number: 24
+ANCIENT HISTORY | Almost all of the Roman supply of this metal came from Cyprus, so they named it for the island | copper
+right: Chuck
+Wrong: 
+Value: 2000
+Number: 4
+AUTHORS | He grew up in Hollywood & hist first novel, “What Makes Sammy Run?”, was about an amoral studio exec | (Budd) Schulberg
+right: Dave
+Wrong: 
+Yael: Who is (sounded like
+Value: 2000
+Number: 9
+ROCKS & MINERALS | Connemara, Ireland is famous for the green-streaked variety of this stone | marble
+right: Yael
+Wrong: 
+Value: 2000
+Number: 13
+PRESIDENTS | His wife, M.W. Skelton, died 18 years before he took office, making him the 1st widower president | Thomas Jefferson
+right: 
+Wrong: Quadruple Stumper
+Value: 2000
+Number: 16
+SAMMY DAVIS JR. | The 1956 musical that Sammy starred in wasn't “Mr. Entertainment” but “Mr.” this | Wonderful
+right: 
+Wrong: Quadruple Stumper
+Dave: What is showbiz?
+Value: 2000
+Number: 28
+PSYCH 103 | John B. Watson founded this school of psychology that studies human actions and reactions | behaviorism
+right: Chuck
+Wrong: 
+Value: 2500
+Number: 19
+ANCIENT HISTORY | Cambyses II of this country ruled Egypt during its 27th dynasty | Persia
+right: Chuck
+Wrong: 
+Value: 2500
+Number: 1
+AUTHORS | When he won his Nobel Prize this author of “100 Years of Solitude” said Faulkner influenced him | (Gabriel Garcia) Marquez
+right: Dave
+Wrong: 
+Value: 2500
+Number: 2
+ROCKS & MINERALS | Now under the Coronation Chair, this stone came to England from Scotland | Stone of Scone
+right: Dave
+Wrong: 
+Value: 2500
+Number: 18
+PRESIDENTS | He's nicknamed the “Era of Good Feeling President” | Monroe
+right: Ron
+Wrong: 
+Dave: Who is Harding?
+Value: 2500
+Number: 17
+SAMMY DAVIS JR. | Sammy performed in vaudeville with his father & his “adopted uncle” in this trio | Will Mastin
+right: 
+Wrong: Quadruple Stumper
+Ron: What is Will Glaston?
+Value: 2500
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Chuck: 11,600
+Dave: 20,000
+Ron: 10,450
+Yael: 10,400
+
+Final Jeopardy! Round
+THE CIVIL WAR | Re-admitted to the Union under Andrew Johnson, this Confederate state avoided Reconstruction | Tennessee
+right: Yael | Ron | Chuck | Dave
+Wrong: 
+Wagers: 
+Yael: 6,401
+Ron: 10,450
+Chuck: 9,301
+Dave: 4,000
+Final scores:
+Chuck: 20,901 (2nd place: $5,000)
+Dave: 24,000 (Semifinalist)
+Ron: 20,900 (3rd place: $5,000)
+Yael: 16,801 (4th place: $5,000)
+
+Coryat scores
+Chuck: 11,600 (10 R,1 W)
+Dave: 10,500 (15 R(including 1 DD),4 W)
+Ron: 10,500 (14 R(including 1 DD),2 W(including 1 DD))
+Yael: 10,400 (15 R,1 W)

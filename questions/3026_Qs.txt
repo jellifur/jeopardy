@@ -1,0 +1,299 @@
+2930 - Friday, May 2, 1997
+Comments: 1997 Celebrity <i>Jeopardy!</i> game 5.
+Contestants:
+Mike Piazza: a catcher from the Los Angeles Dodgers
+Donna D'Errico: a model and actress from Baywatch
+Reggie White: a minister and defensive end from the Green Bay Packers
+First Jeopardy! Round: THE BIBLE, VIVA LAS VEGAS, THE GRAMMYS, ANNUAL EVENTS, THE OLYMPIC GAMES, RHYMES WITH JOCK
+THE BIBLE | The gospel according to Mark doesn't mention this husband of Mary by name | Joseph
+right: Mike
+Wrong: 
+Value: $100
+Number: 1
+VIVA LAS VEGAS | This hotel's pink & white big top is home to acrobats, daredevils & trapeze artists | Circus Circus
+right: Donna
+Wrong: 
+Value: $100
+Number: 2
+THE GRAMMYS | In 1997 she became the 1st first lady to win a Grammy, for "It Takes A Village" | Hillary Clinton
+right: Reggie
+Wrong: 
+Value: $100
+Number: 15
+ANNUAL EVENTS | Celebrated May 1, Lei Day is a statewide holiday in this state | Hawaii
+right: Donna
+Wrong: 
+Value: $100
+Number: 20
+RHYMES WITH JOCK | Foot warmer | sock
+right: Reggie
+Wrong: 
+Value: $100
+Number: 7
+THE BIBLE | The book of Ecclesiastes is traditionally ascribed to this wise king | Solomon
+right: Reggie
+Wrong: 
+Value: $200
+Number: 3
+VIVA LAS VEGAS | You enter this hotel's castle via the drawbridge over its moat | Excalibur
+right: Mike
+Wrong: 
+Value: $200
+Number: 12
+THE GRAMMYS | This British rocker proved himself a "Phenomenon", winning 2 Grammys for "Change The World" | Eric Clapton
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 16
+ANNUAL EVENTS | Pella, Iowa celebrates its heritage from this country during its Tulip Time Festival in May | Holland (the Netherlands)
+right: Mike
+Wrong: 
+Value: $200
+Number: 21
+RHYMES WITH JOCK | Members of a church, or a group of birds | flock
+right: Donna
+Wrong: 
+Value: $200
+Number: 8
+THE BIBLE | David was instantly taken with this woman after he saw her bathing | Bathsheba
+right: Reggie
+Wrong: 
+Value: $300
+Number: 4
+VIVA LAS VEGAS | Its 10 "Fantasy Suites" feature Roman, Egyptian or Pompeian decors | Caesars Palace
+right: Donna
+Wrong: 
+Value: $300
+Number: 13
+THE GRAMMYS | Singer seen here, she won 2 Grammys, including Best New Artist: | LeAnn Rimes
+right: 
+Wrong: 
+Reggie: Don't know.
+Value: DD: $100
+Number: 17
+ANNUAL EVENTS | Lent begins on this day of the week | Ash Wednesday
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+RHYMES WITH JOCK | A tress of hair | lock
+right: Donna
+Wrong: 
+Value: $300
+Number: 9
+THE BIBLE | He was the Bible's first murder victim | Abel
+right: Donna
+Wrong: 
+Reggie: Who is Cain?
+Value: $400
+Number: 5
+VIVA LAS VEGAS | In 1996 this hotel shut down its King Tut's Tomb to move it, so you'll have to wait to see your mummy | the Luxor
+right: Mike
+Wrong: 
+Value: $400
+Number: 14
+THE GRAMMYS | With good reason, her "Give Me One Reason" won the award for Best Rock Song | Tracy Chapman
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+RHYMES WITH JOCK | A type of coat, or another word for a smock | frock
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+THE BIBLE | In Acts 15:14 this apostle is referred to as Simeon | Simon (Peter)
+right: Mike
+Wrong: 
+Value: $500
+Number: 6
+VIVA LAS VEGAS | This new hotel's Coney Island Pavillion is home to a Nathan's Hot Dogs; mmmmmmmmmmm | New York-New York
+right: Mike
+Wrong: 
+Value: $500
+Number: 22
+THE GRAMMYS | Nominated for 12 Grammys, he picked up 3 for Producer of the Year, Record of the Yeat & Best R&B Song | Kenneth "Babyface" Edmonds
+right: Reggie
+Wrong: 
+Value: $500
+Number: 19
+RHYMES WITH JOCK | This strong, sweet German beer can be light or dark | bock
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 11
+Scores at the first commercial break (after clue 15)
+Reggie: $200
+Donna: $1,300
+Mike: $800
+Scores at the end of the Jeopardy! Round:
+Reggie: $700
+Donna: $1,400
+Mike: $1,900
+Second Jeopardy! Round: U.S. HISTORY, MOVIE DEBUTS, MAGAZINES, GEOGRAPHY, NUTRITION, NONFICTION
+U.S. HISTORY | This western state sent its first refrigerated trainload of oranges back east February 14, 1886 | California
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+MOVIE DEBUTS | "Oh! What a lovely war" marked the film debut of this lovely actress, now TV's "Dr. Quinn" | Jane Seymour
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+MAGAZINES | Steffi Graf posed in a bikini for this magazine's 1997 swimsuit issue | Sports Illustrated
+right: Reggie
+Wrong: 
+Value: $200
+Number: 16
+GEOGRAPHY | Venezia is the Italian name for this city | Venice
+right: Mike
+Wrong: 
+Value: $200
+Number: 6
+NUTRITION | This nutritious outer layer of kernels of grain is lost in refining but is found in raisin cereals | bran
+right: Mike
+Wrong: 
+Reggie: What is wheat?
+Value: $200
+Number: 8
+NONFICTION | "I'm Only One Man!", as co-host Kathie Lee Gifford can attest, & he tells all about it in his autobiography | Regis Philbin
+right: Donna
+Wrong: 
+Value: $200
+Number: 21
+U.S. HISTORY | On December 6, 1847 this future president took his seat in the U.S. House of Representatives for Illinois | Abraham Lincoln
+right: Mike
+Wrong: 
+Value: $400
+Number: 2
+MOVIE DEBUTS | This "Dirty Dancing" star did some dirty skating in his first film, "Skatetown, U.S.A." | Patrick Swayze
+right: Donna
+Wrong: 
+Reggie: Who is Kevin Bacon?
+Value: $400
+Number: 27
+MAGAZINES | With scented ads for 4 of these, the February 1997 Elle could have been called Smelle | perfumes
+right: Mike
+Wrong: 
+Value: $400
+Number: 17
+GEOGRAPHY | Famous for its pyramids, Giza is a suburb of this city | Cairo
+right: Mike
+Wrong: 
+Value: $400
+Number: 7
+NUTRITION | Helping the body use protein, the B6 type of this is as least half as important as B12 | vitamin
+right: Mike
+Wrong: 
+Value: $400
+Number: 9
+NONFICTION | You can read all about the way it was with this former CBS anchor in his recent book "A Reporter's Life" | Walter Cronkite
+right: Mike
+Wrong: 
+Value: $400
+Number: 22
+U.S. HISTORY | In 1956 Jonas Salk & Leonard Scheele said Salk's vaccine should eliminate this disease within 3 years | polio
+right: Donna
+Wrong: 
+Value: $600
+Number: 3
+MOVIE DEBUTS | He had hair in his 1st movie, "Port of New York", but not in his 2nd released film, "The King and I" | Yul Brynner
+right: Mike
+Wrong: 
+Value: $600
+Number: 28
+MAGAZINES | A story on lower death rates from heart disease brightened a recent issue of the journal of this, the AMA | American Medical Association
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+GEOGRAPHY | You'll find this highest mountain in the world about 100 miles northeast of Katmandu | Mount Everest
+right: Mike
+Wrong: 
+Value: $600
+Number: 13
+NUTRITION | Starches like potatoes are the "complex" type of these compounds | carbohydrates
+right: Donna
+Wrong: 
+Value: $600
+Number: 10
+NONFICTION | In 1996 this former Lakers center shared his love of history in "Black Profiles in Courage" | Kareem Abdul-Jabbar
+right: Reggie
+Wrong: 
+Value: $600
+Number: 23
+U.S. HISTORY | This president commuted Patty Hearst's jail sentence & was instrumental in a Mideast peace treaty | Jimmy Carter
+right: Mike
+Wrong: 
+Value: $800
+Number: 4
+MAGAZINES | The cover of its 1995 Hollywood issue showed actresses in their underwear; for 1997's, they wore gowns | Vanity Fair
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+GEOGRAPHY | This country borders every other country in South America except Ecuador & Chile | Brazil
+right: Mike
+Wrong: 
+Value: DD: $1,000
+Number: 14
+NUTRITION | Reputed to be aphrodisiacs, these shellfish are rich in zinc, which is crucial to testosterone production | oysters
+right: Mike
+Wrong: 
+Value: $800
+Number: 11
+NONFICTION | You'll find the largest aquarium & the tallest woman in this book that's celebrating its 40th anniversary | The Guinness Book of World Records
+right: Mike
+Wrong: 
+Value: $800
+Number: 24
+U.S. HISTORY | Name given to the module that landed the first men on the moon July 20, 1969 | the Eagle
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+MAGAZINES | Publications named for people include Forbes, Harper's & this woman's magazine founded by a man named James | McCall's
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+GEOGRAPHY | Montego Bay has been called the resort capital of this Caribbean island | Jamaica
+right: Mike
+Wrong: 
+Value: $1000
+Number: 15
+NUTRITION | Antioxidants like beta carotene prevent cell damage by these products of oxygen breakdown | free radicals
+right: 
+Wrong: 
+Mike: What is carbon dioxide?
+Value: DD: $3,000
+Number: 12
+NONFICTION | Between his novels "Congo" & "Sphere", he published "Electronic Life: How to Think About Computers" | Michael Crichton
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Reggie: $900
+Donna: $3,200
+Mike: $6,900
+
+Final Jeopardy! Round
+SCIENCE HISTORY | Announced by Ole Romer in 1676, the first measurement of this was 140,000 miles per second | the speed of light
+right: Reggie | Mike
+Wrong: 
+Donna: What is Speed?
+Wagers: 
+Reggie: $600
+Donna: $3,000
+Mike: $6,000
+Final scores:
+Reggie: $1,500 (2nd place: $10,000 for Urban Home)
+Donna: $200 (3rd place: $10,000 for Olive Crest Homes for Abused Children)
+Mike: $12,900 (Winner: $17,900 for Children's Hospital of Los Angeles)
+
+Coryat scores
+Reggie: $1,000 (7 R,4 W(including 1 DD))
+Donna: $3,200 (10 R,0 W)
+Mike: $9,700 (20 R(including 1 DD),1 W(including 1 DD))

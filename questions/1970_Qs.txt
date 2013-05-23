@@ -1,0 +1,353 @@
+uper Jeopardy! show #10 - Saturday, August 18, 1990
+Comments: <i>Super Jeopardy!</i> quarterfinal game 8.
+Contestants:
+Peggi Malys: a medical student from Atlanta, Georgia
+Keith Bell: a research analyst from Alexandria, Virginia
+Michael Rankins: a minister and sales representative from Rohnert Park, California
+Bob Blake: an actuary from Vancouver, British Columbia
+First Jeopardy! Round: “CAT”EGORY, SEAS, TOYS & GAMES, FAMOUS NAMES, THE MOVIES, 5-LETTER ANIMALS
+“CAT”EGORY | A substance that speeds up a chemical reaction without being consumed itself is called this | catalyst
+right: Keith
+Wrong: 
+Value: 200
+Number: 16
+SEAS | The early Romans called it mare nostrum, meaning “our sea” | Mediterranean
+right: Michael
+Wrong: 
+Value: 200
+Number: 1
+TOYS & GAMES | D. Gottlieb ws the company that introduced the first one with “flippers” in 1947 | pinball machine
+right: Bob
+Wrong: 
+Value: 200
+Number: 23
+FAMOUS NAMES | This aviator & aircraft manufacturer died in an airplane en route to Texas April 5, 1976 | Howard Hughes
+right: Michael
+Wrong: 
+Value: 200
+Number: 10
+THE MOVIES | Edmund Gwenn won the 1947 “Best Supoporting Actor” Oscar for his portrayal of Kris Kringle in this film | Miracle on 34th Street
+right: Keith
+Wrong: 
+Michael: What is Miracle on 47th Street?
+Value: 200
+Number: 2
+5-LETTER ANIMALS | This “lazy” mammal of South America eats, sleeps & travels upside down in trees | sloth
+right: Keith
+Wrong: 
+Value: 200
+Number: 21
+“CAT”EGORY | It's a tough, thin cord used for  stringing musical instruments & tennis rackets | catgut
+right: Keith
+Wrong: 
+Value: 400
+Number: 17
+SEAS | The Chinese call this sea the Hwang Hai | Yellow Sea
+right: Keith
+Wrong: 
+Value: 400
+Number: 3
+TOYS & GAMES | If you can do the “sleeper” or go “walking the dog”, you're proficient with this toy | yo-yo
+right: Michael
+Wrong: 
+Value: 400
+Number: 27
+FAMOUS NAMES | In 1922  she published her book on etiquette aftr reading one that was riddled with errors | Emily Post
+right: Michael
+Wrong: 
+Value: 400
+Number: 11
+THE MOVIES | [Video] It was filmed in Mexico by a Dutch director with an Austrian star [Video: Sharon Stone changes the view on a window with a touch and Arnold Schwarzenegger says, “Let's move to Mars.”] | Total Recall
+right: Michael
+Wrong: 
+Value: DD: 1,000
+Number: 5
+5-LETTER ANIMALS | The giant variety of this sea mollusk may grow to  55 feet long | squid
+right: Keith
+Wrong: 
+Value: 400
+Number: 22
+“CAT”EGORY | A raftlike pleasure boat with 2 hulls, it can be powered by sail or motor | catamaran
+right: Peggi
+Wrong: 
+Value: 600
+Number: 18
+SEAS | In 1969 oil was struck in the Efofisk Field in Norway's sector of this sea | North Sea
+right: Michael
+Wrong: 
+Value: 600
+Number: 4
+TOYS & GAMES | The word game in which the loser goes to the gallows | hangman
+right: Peggi
+Wrong: 
+Value: 600
+Number: 28
+FAMOUS NAMES | In 1938 this British P.M. used the expressions “Peace with honor“ & “Peace for our time” | Neville Chamberlain
+right: Keith
+Wrong: 
+Value: 600
+Number: 12
+THE MOVIES | Tarzan co-star, now 55, who drinks a beer a day & lives with a man in Newbury Park, California | Cheeta
+right: Bob
+Wrong: 
+Value: 600
+Number: 6
+5-LETTER ANIMALS | Europeans know this largest member of the deer family as the elk; we call it this | moose
+right: Michael
+Wrong: 
+Value: 600
+Number: 24
+“CAT”EGORY | Many early Christians buried their dead in this series of underground vaults or room | catacombs
+right: Michael
+Wrong: 
+Value: 800
+Number: 19
+SEAS | Aquaba, Jordan's only port, is on an arm of this sea | Red Sea
+right: Michael
+Wrong: 
+Value: 800
+Number: 7
+TOYS & GAMES | This ancient game, played with “stones”, is called trictrac in French | backgammon
+right: Michael
+Wrong: 
+Value: 800
+Number: 29
+FAMOUS NAMES | In 1907 she opened her first “casa dei bambini”, a school for the children of a Roman slum | (Maria) Montessori
+right: Keith
+Wrong: 
+Value: 800
+Number: 13
+THE MOVIES | 1979 Oscar-nominated film that climaxed in a bicycle race at Indiana University | Breaking Away
+right: Michael
+Wrong: 
+Value: 800
+Number: 8
+5-LETTER ANIMALS | Some perfumes are made from the musk of this catlike animal found in Africa & Asia | civet
+right: Bob
+Wrong: 
+Value: 800
+Number: 25
+“CAT”EGORY | To cry or screech like a cat in heat, or to have a noisy quarrel | caterwaul
+right: Bob
+Wrong: 
+Value: 1000
+Number: 20
+SEAS | Except for Zmeiny off the Danube delta, this sea is virtually devoid of islands | Black Sea
+right: Bob
+Wrong: 
+Value: 1000
+Number: 15
+TOYS & GAMES | The name of this game is from the Latin for “the Lord” | dominoes
+right: Bob
+Wrong: 
+Value: 1000
+Number: 30
+FAMOUS NAMES | 32 years after he was elected governor of Tennessee, he was elected governor of Texas | Sam Houston
+right: Bob
+Wrong: 
+Value: 1000
+Number: 14
+THE MOVIES | British actor who played J. Algernon Hawthorne in “It's a Mad, Mad, Mad, Mad World” | Terry-Thomas
+right: Michael
+Wrong: 
+Value: 1000
+Number: 9
+5-LETTER ANIMALS | Found in Africa, this giraffe relative has a reddish-brown body, white face & striped legs | okapi
+right: Michael
+Wrong: 
+Value: 1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Bob: 2,600
+Michael: 4,800
+Keith: 2,000
+Peggi: 0
+Scores at the end of the Jeopardy! Round:
+Bob: 5,600
+Michael: 8,400
+Keith: 3,200
+Peggi: 1,200
+Second Jeopardy! Round: THE 19TH CENTURY, SCIENTISTS, BALLET, WORLD LITERATURE, TRAVEL & TOURISM, DEM BONES
+THE 19TH CENTURY | This nationalist movement was founded by Jews at an int'l congress in 1897 in Switzerland | Zionism
+right: Peggi
+Wrong: 
+Value: 500
+Number: 24
+SCIENTISTS | Some scholars say his first wife, Mileva, deserves some credit for his theory of relativity | (Albert) Einstein
+right: Peggi
+Wrong: 
+Value: 500
+Number: 27
+BALLET | Baryshnikov said the ballet about this “Steadfast Tin” toy is one of his favorites | Soldier
+right: 
+Wrong: Quadruple Stumper
+Michael: What is The Nutcracker?
+Keith: What is the, uh...no?
+Value: 500
+Number: 30
+WORLD LITERATURE | After he returned to Venice in 1295, he wrote stories of his travels to the Orient | Marco Polo
+right: Peggi
+Wrong: 
+Value: 500
+Number: 10
+TRAVEL & TOURISM | At the highland games in Scotland you might see someone skirl, which is to play these | bagpipes
+right: Bob
+Wrong: 
+Value: 500
+Number: 5
+DEM BONES | World Book lists the complete set of 32 of these as part of the skeletal system | teeth
+right: Peggi
+Wrong: 
+Value: 500
+Number: 12
+THE 19TH CENTURY | The 2nd Hawaiian king with this name went to England & died there of measles in 1824 | Kamehameha
+right: Keith
+Wrong: 
+Value: 1000
+Number: 20
+SCIENTISTS | Frank Press, an authority on the earth's crust, was this president's science advisor from 1977-80 | Jimmy Carter
+right: Michael
+Wrong: 
+Value: 1000
+Number: 26
+BALLET | In 1958 F. Ashton created his ballet “Ondine” for this great dame of British ballet | Margot Fonteyn
+right: Peggi
+Wrong: 
+Value: 1000
+Number: 29
+WORLD LITERATURE | In Norse legend the 2 children in this nursery rhyme were captured by the moon while drawing water | Jack and Jill
+right: Bob
+Wrong: 
+Value: 1000
+Number: 4
+TRAVEL & TOURISM | To visit the oldest public park in the U.S., common sense tells you to go to this city | Boston
+right: Keith
+Wrong: 
+Value: 1000
+Number: 6
+DEM BONES | A hockey player wears guards to protect the tibia, better known as this | shin
+right: Keith
+Wrong: 
+Value: 1000
+Number: 15
+THE 19TH CENTURY | In 1864 he founded the International Working Men's Association in London | Karl Marx
+right: 
+Wrong: Quadruple Stumper
+Value: 1500
+Number: 19
+SCIENTISTS | This monk, known for his pea plants, flunked his exam for teacher certification | Mendel
+right: Peggi
+Wrong: 
+Value: 1500
+Number: 25
+BALLET | After this great dancer married in 1913, Diaghilev dismissed him from his company | Nijinsky
+right: Bob
+Wrong: 
+Value: 1500
+Number: 28
+WORLD LITERATURE | Maud Gonne, an Irish patriot & philanthropist, was the heroine of several poems by this Irishman | (William Butler) Yeats
+right: Peggi
+Wrong: 
+Value: 1500
+Number: 3
+TRAVEL & TOURISM | By popular demand, the first 5-star hotel in Ulan Bator is being named after this historic figure | Genghis Khan
+right: Bob
+Wrong: 
+Michael: Who is Kublai Khan?
+Value: 1500
+Number: 7
+DEM BONES | Of the 3 kinds of movable joints, the hip joints are this type | ball (and socket) joints
+right: Keith
+Wrong: 
+Value: 1500
+Number: 14
+THE 19TH CENTURY | The Groot Trek was a migration of about 12,000 members of this group in defiance of the British government | Boers
+right: Bob
+Wrong: 
+Value: DD: 5,000
+Number: 18
+SCIENTISTS | This Italian's experiments with electricity & animal tissue helped Volta develop the battery | (Luigi) Galvani
+right: Bob
+Wrong: 
+Value: 2000
+Number: 23
+BALLET | This ballerina defected to the west in 1970 & staged her own production of “La Bayadere” in 1974 | Natalia Makarova
+right: 
+Wrong: Quadruple Stumper
+Value: 2000
+Number: 22
+WORLD LITERATURE | Before Petrarch wrote love poems to Laura, Dante wrote his to her | Beatrice
+right: Peggi
+Wrong: 
+Value: 2000
+Number: 2
+TRAVEL & TOURISM | G. Hamilton could visit the cities of Hamilton & St. George in these islands; 2 hours from New York | Bermuda
+right: Bob
+Wrong: 
+Keith: What are the Thousand Islands?
+Value: 2000
+Number: 8
+DEM BONES | Extending off the metacarpals are these bones that form the fingers | phalanges
+right: Peggi
+Wrong: 
+Value: DD: 6,000
+Number: 13
+THE 19TH CENTURY | This Austrian prince masterminded the negotiations at the Congress of Vienna | Metternich
+right: Bob
+Wrong: 
+Value: 2500
+Number: 17
+SCIENTISTS | He may have been the “Father of Modern Chemistry”, but the French guillotined him anyway | Lavoisier
+right: Peggi
+Wrong: 
+Value: 2500
+Number: 21
+BALLET | In 1942 audience members left this composer's “Gayane” humming the “Sabre Dance” | Khachaturian
+right: Bob
+Wrong: 
+Value: 2500
+Number: 16
+WORLD LITERATURE | “Eugene Onegin”, a novel written in verse, is considered this Russian poet's masterpiece | Pushkin
+right: Peggi
+Wrong: 
+Value: 2500
+Number: 1
+TRAVEL & TOURISM | This Caribbean isle is divided between France & Holland; hence its name is spelled 2 ways | St. Martin
+right: Bob
+Wrong: 
+Value: 2500
+Number: 9
+DEM BONES | This passes through a opening in the occipital bone, the back plate of the skull | spinal cord
+right: Bob
+Wrong: 
+Value: 2500
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Bob: 29,100
+Michael: 7,400
+Keith: 5,200
+Peggi: 20,200
+
+Final Jeopardy! Round
+THE DECLARATION OF INDEPENDENCE | A member of this famous family proposed it and he and his brother signed it for Virginia | Lee
+right: Bob
+Wrong: 
+Keith: Who was Madison?
+Michael: Who are the Adamses?
+Peggi: What is the preamble?
+Wagers: 
+Keith: 5,200
+Michael: 7,400
+Peggi: 20,200
+Bob: 11,301
+Final scores:
+Bob: 40,401 (Semifinalist)
+Michael: 0 (3rd place: $5,000)
+Keith: 0 (4th place: $5,000)
+Peggi: 0 (2nd place: $5,000)
+
+Coryat scores
+Bob: 26,100 (18 R(including 1 DD),0 W)
+Michael: 6,800 (14 R(including 1 DD),3 W)
+Keith: 5,200 (12 R,2 W)
+Peggi: 16,200 (13 R(including 1 DD),0 W)

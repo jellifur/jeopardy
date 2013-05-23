@@ -1,0 +1,312 @@
+3396 - Monday, May 17, 1999
+Comments: 1999-A Celebrity <i>Jeopardy!</i> game 1.
+Contestants:
+Alyssa Milano: an actress from Charmed
+Gil Bellows: an actor from Ally McBeal
+Kari Wuhrer: an actress from Sliders
+First Jeopardy! Round: FAMOUS DATES, NAME THE MOVIE, CHARMED, I'M SURE, SLIDING, UP YOUR "ALLEY", TONGUE TWISTERS
+FAMOUS DATES | The human race really spread its wings when the space vehicle "The Eagle" landed here July 20, 1969 | the moon
+right: Alyssa
+Wrong: 
+Value: $100
+Number: 15
+NAME THE MOVIE | 1939: "Toto, I've a feeling we're not in Kansas anymore" | The Wizard of Oz
+right: Kari
+Wrong: 
+Value: $100
+Number: 2
+CHARMED, I'M SURE | The more important a person you meet in Japan, the lower & longer you do this | bow
+right: Kari
+Wrong: 
+Value: $100
+Number: 4
+SLIDING | It can be an overwhelming victory, or a mass of earth & rock rolling down a mountain | avalanche/landslide
+right: 
+Wrong: Triple Stumper
+Alyssa: What is a mudslide?
+Value: $100
+Number: 3
+TONGUE TWISTERS | It's what "Peter Piper picked a peck of" | pickled peppers
+right: Gil
+Wrong: 
+Value: $100
+Number: 1
+FAMOUS DATES | This Roman fell victim to assassins on the ides (or 15th) of March, 44 B.C. | Julius Caesar
+right: Gil
+Wrong: 
+Value: $200
+Number: 14
+NAME THE MOVIE | 1941: "I guess Rosebud is just a piece in a jigsaw puzzle, a missing piece" | Citizen Kane
+right: Kari
+Wrong: 
+Value: $200
+Number: 9
+CHARMED, I'M SURE | He may be addressed in conversation as "Most Holy Father" | the pope
+right: Kari
+Wrong: 
+Value: $200
+Number: 16
+SLIDING | It's said the noise the slide makes going up & down this fastener gave it its name | zipper
+right: Gil
+Wrong: 
+Kari: Supercalifragilisticexpi..
+Value: $200
+Number: 5
+TONGUE TWISTERS | It's how much wood a woodchuck would chuck "if a woodchuck could" do this | chuck wood
+right: Kari
+Wrong: 
+Value: $200
+Number: 18
+FAMOUS DATES | On Jan. 1, 1901 this southern hemisphere country (that's also a continent) proclaimed its independence | Australia
+right: Gil
+Wrong: 
+Kari: What is South America?
+Value: $300
+Number: 13
+NAME THE MOVIE | 1951: "Stell-lahhhhh!!" | A Streetcar Named Desire
+right: Alyssa
+Wrong: 
+Value: DD: $500
+Number: 8
+CHARMED, I'M SURE | Dr. Leo Buscaglia aside, Miss Manners says a gentleman shouldn't kiss or do this to a lady when first meeting | hug her
+right: 
+Wrong: Triple Stumper
+Kari: Would that be...what is look her in the eyes?
+Value: $300
+Number: 21
+SLIDING | In a 1978 song he was "Slip Slidin' Away" | Paul Simon
+right: 
+Wrong: Triple Stumper
+Gil: Who is Leo Sayer?
+Value: $300
+Number: 17
+TONGUE TWISTERS | It's what "She sells...by the sea shore" | seashells
+right: Kari
+Wrong: 
+Value: $300
+Number: 19
+FAMOUS DATES | A Pulitzer Prize-winning photo by Joe Rosenthal served as a model for this memorial depicting a famous February 23, 1945 event | Battle of Iwo Jima
+right: Gil
+Wrong: 
+Value: $400
+Number: 12
+NAME THE MOVIE | 1994: "Alrighty then!" | Ace Ventura: Pet Detective
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 7
+CHARMED, I'M SURE | It's the French equivalent of the English "charmed" or the Spanish "encantado" | enchante
+right: Gil
+Wrong: 
+Value: $400
+Number: 22
+TONGUE TWISTERS | "Listen to the local yokel" do this | yodel
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 20
+FAMOUS DATES | This amazingly swift of foot Olympian won 4 gold medals between August 1 & 16, 1936 | Jesse Owens
+right: Gil
+Wrong: 
+Value: $500
+Number: 11
+NAME THE MOVIE | 1995: "They may take our lives, but they'll never take our freedom!" | Braveheart
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 6
+CHARMED, I'M SURE | Since Robert Rubin took over the Treasury Department, he's been addressed as Mr. this | Mr. Secretary
+right: 
+Wrong: Triple Stumper
+Kari: What is Mr. Really Great Sandwich at a Deli?
+Gil: What is Mr. Money?
+Value: $500
+Number: 23
+UP YOUR "ALLEY" | In turn-of-the-century New York, this area was home to the music publishing industry | Tin Pan Alley
+right: Gil
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Kari: $200
+Gil: $800
+Alyssa: $800
+Scores at the end of the Jeopardy! Round:
+Kari: -$200
+Gil: $1,800
+Alyssa: $1,300
+Second Jeopardy! Round: SHAKESPEAREAN ACTORS, TRAVEL & TOURISM, SPORTS ANIMALS, PRESIDENTIAL NICKNAMES, PEOPLE, LOOK OUT "BELL"OW
+SHAKESPEAREAN ACTORS | Christopher Walken played this doomed Dane twice, in 1974 & 1982 | Hamlet
+right: Gil
+Wrong: 
+Value: $200
+Number: 2
+TRAVEL & TOURISM | A hotel in Scandinavia is destroyed every spring & rebuilt every fall as it is made out of this | ice
+right: Kari
+Wrong: 
+Value: $200
+Number: 9
+SPORTS ANIMALS | In golf, one stroke under par on a hole is a birdie & 2 strokes under par is this patriotic birdie | eagle
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 30
+PRESIDENTIAL NICKNAMES | He calls himself "The Comeback Kid" | Bill Clinton
+right: Gil
+Wrong: 
+Value: $200
+Number: 25
+PEOPLE | Geena Davis must like smorgasbords -- she spent her senior year in high school as an exchange student in this country | Sweden
+right: Gil
+Wrong: 
+Value: $200
+Number: 1
+LOOK OUT "BELL"OW | Helll-oo!  He invented the telephone | Alexander Graham Bell
+right: Gil
+Wrong: 
+Value: $200
+Number: 14
+SHAKESPEAREAN ACTORS | We assume his portrayal of Macbeth in college was a far cry from his current TV role, Andy Sipowicz | Dennis Franz
+right: Kari
+Wrong: 
+Value: $400
+Number: 8
+TRAVEL & TOURISM | Yves Saint Laurent owns the lush Jardins Majorelle in Marrakesh in this country | Morocco
+right: Kari
+Wrong: 
+Value: $400
+Number: 10
+SPORTS ANIMALS | This smelly mammal has given his name to the act of defeating an opponent without allowing him to score | skunk
+right: Kari
+Wrong: 
+Value: $400
+Number: 29
+PRESIDENTIAL NICKNAMES | He "acted" as president under the nickname "Dutch" | Ronald Reagan
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 28
+PEOPLE | Young star seen here in a 1998 sequel | Jennifer Love Hewitt
+right: Gil
+Wrong: 
+Value: $400
+Number: 17
+LOOK OUT "BELL"OW | This fairy's love for Peter didn't pan out | Tinkerbell
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 15
+SHAKESPEAREAN ACTORS | In 1986 she played Portia in "The Merchant of Venice" onstage & starred in the film "Aliens" | Sigourney Weaver
+right: Gil
+Wrong: 
+Value: $600
+Number: 7
+TRAVEL & TOURISM | This James Hoban-designed D.C. landmark, lit by electricity in 1891, will offer candlelight tours in December 1999 | the White House
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 11
+SPORTS ANIMALS | This type of punch, which lands on the back of the neck, is illegal in boxing | rabbit punch
+right: Gil
+Wrong: 
+Value: $600
+Number: 27
+PRESIDENTIAL NICKNAMES | Barbara calls him "Poppy" | George H.W. Bush
+right: Gil
+Wrong: 
+Value: $600
+Number: 26
+PEOPLE | Dean & Davis, great-grandsons of this makeup mogul, have taken their Smashbox Cosmetics Company to the "Max" | Max Factor
+right: Kari
+Wrong: 
+Value: $600
+Number: 18
+LOOK OUT "BELL"OW | On July 8, 1776 it was sounded in the tower of Independence Hall | the Liberty Bell
+right: Alyssa
+Wrong: 
+Value: DD: $200
+Number: 16
+SHAKESPEAREAN ACTORS | In San Diego in the mid-'60s, you could have seen him play Romeo before "Midnight Cowboy" made him a star | Jon Voight
+right: Gil
+Wrong: 
+Value: $800
+Number: 4
+TRAVEL & TOURISM | April is the time to be in Japan; it's Hanami, the best time to view these, sakura | cherry blossoms
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 12
+SPORTS ANIMALS | Skater Dorothy Hamill excelled at a variation of this spin named for a humped mammal | camel
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+PRESIDENTIAL NICKNAMES | He was "The Squire of Hyde Park" | Franklin Delano Roosevelt
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+PEOPLE | He's the tightwad comedian heard here in the golden days of radio | Jack Benny
+right: Gil
+Wrong: 
+Value: $800
+Number: 19
+LOOK OUT "BELL"OW | Sailors wore these long before the groovy folks in the '60s | bell-bottoms
+right: Kari
+Wrong: 
+Value: $800
+Number: 24
+SHAKESPEAREAN ACTORS | When he directed "King Lear" onstage in the early '90s, he cast Emma Thompson as the fool | Kenneth Branagh
+right: Gil
+Wrong: 
+Value: DD: $2,200
+Number: 3
+TRAVEL & TOURISM | Red double-decker buses travel the streets of this city in India, now officially known as Mumbai | Bombay
+right: Kari
+Wrong: 
+Value: $1000
+Number: 13
+SPORTS ANIMALS | Side, pommel & vaulting are types of these used by gymnasts | horses
+right: 
+Wrong: Triple Stumper
+Kari: What are....[time}?
+Value: $1000
+Number: 5
+PRESIDENTIAL NICKNAMES | WWI's "The Professor" | Woodrow Wilson
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+PEOPLE | Regis Philbin has 2 middle names: Xavier & this saintly one that often precedes Xavier | Francis
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+LOOK OUT "BELL"OW | As one word, it's a plant also called deadly nightshade; as 2 words, a Stevie Nicks album | belladonna/"Bella Donna"
+right: Gil
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Kari: $2,600
+Gil: $9,600
+Alyssa: $2,900
+
+Final Jeopardy! Round
+BRITISH AUTHORS | In 1954 she became the first recipient of the Grand Master Award from the Mystery Writers of America | Agatha Christie
+right: Alyssa | Gil
+Wrong: 
+Kari: Who Stevie Nicks
+Wagers: 
+Kari: $1,000
+Alyssa: $500
+Gil: $6,600
+Final scores:
+Kari: $1,600 (3rd place: $10,000 for the Kelly & Cal Ripken Foundation)
+Gil: $16,200 (Winner: $16,200 for Cure Autism Now)
+Alyssa: $3,400 (2nd place: $10,000 for the Red Cross)
+
+Coryat scores
+Kari: $2,600 (13 R,5 W)
+Gil: $8,400 (20 R(including 1 DD),2 W)
+Alyssa: $3,100 (8 R(including 2 DDs),1 W)

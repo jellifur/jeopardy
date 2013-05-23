@@ -1,0 +1,347 @@
+2943 - Wednesday, May 21, 1997
+Comments: 1997 College Championship semifinal game 3.
+Contestants:
+Eric Slack: a freshman from Purdue University
+Mark Urciuolo: a sophomore from Marist College
+Aaron Wenger: a junior from the University of Louisville
+First Jeopardy! Round: U.S. STATES, SWEET TREATS, DOCTORS, TELEVISION, FICTIONAL CHARACTERS, GRAMMAR
+U.S. STATES | The international date line bends around this state | Alaska
+right: Aaron
+Wrong: 
+Value: $100
+Number: 6
+SWEET TREATS | This jiggly dessert brand was based on a patented recipe by locomotive inventor Peter Cooper | Jell-O
+right: Eric
+Wrong: 
+Value: $100
+Number: 19
+DOCTORS | In 1996 Renat Akchurin performed a 7-hour heart bypass operation on this Russian president | Boris Yeltsin
+right: Mark
+Wrong: 
+Value: $100
+Number: 26
+TELEVISION | This series features a fox & a wolf, Matthew Fox & Scott Wolf | Party of Five
+right: Eric
+Wrong: 
+Value: $100
+Number: 12
+FICTIONAL CHARACTERS | Frederic Henry is wounded by a shell while eating cheese & macaroni in his "A Farewell to Arms" | Ernest Hemingway
+right: Mark
+Wrong: 
+Value: $100
+Number: 11
+GRAMMAR | 18th c. bishop Robert Lowth laid down the often-ignored rule that 2 negatives make one of these | a positive
+right: Mark
+Wrong: 
+Value: $100
+Number: 5
+U.S. STATES | With over 15,000 lakes, its lowest point is naturally on a lake, Lake Superior | Minnesota
+right: Eric
+Wrong: 
+Value: $200
+Number: 7
+SWEET TREATS | Made with sugar & crushed or chopped fruit, these preserves have a softer consistency than jellies | jams
+right: Mark
+Wrong: 
+Value: $200
+Number: 20
+DOCTORS | Dr. Audrey Manley is the acting holder of this post for which the Senate rejected Henry Foster in 1995 | Surgeon General of the United States
+right: Mark
+Wrong: 
+Value: $200
+Number: 27
+TELEVISION | This actress who played Mallory on "Family Ties" now stars on "Men Behaving Badly" | Justine Bateman
+right: Eric
+Wrong: 
+Value: $200
+Number: 13
+FICTIONAL CHARACTERS | Dr. Pangloss teaches this Voltaire title character metaphysico-theologo-cosmolonigology | Candide
+right: Aaron
+Wrong: 
+Value: $200
+Number: 1
+GRAMMAR | It's the correct noun form of "to decline", meaning to list the forms of a noun | declension
+right: Aaron
+Wrong: 
+Value: $200
+Number: 17
+U.S. STATES | Its state mineral is gold, its state fish is the golden trout & its state flower is the golden poppy | California
+right: Eric
+Wrong: 
+Aaron: What is Montana?
+Value: $300
+Number: 8
+SWEET TREATS | Fannie Farmer says don't overbake these chocolate flavored cake squares; they should be moist & chewy | brownies
+right: Mark
+Wrong: 
+Value: $300
+Number: 21
+DOCTORS | In 1996 David Kessler, known for battling against tobacco use, resigned as head of this agency | the FDA (Food and Drug Administration)
+right: Eric
+Wrong: 
+Aaron: What is the National Institutes of Health?
+Value: $300
+Number: 28
+TELEVISION | When they premiered in 1994, "ER" & this medical drama aired opposite each other | Chicago Hope
+right: Mark
+Wrong: 
+Value: $300
+Number: 14
+FICTIONAL CHARACTERS | This R.L. Stevenson story follows Mr. Utterson as he discovers these 2 characters are the same man | Dr. Jekyll and Mr. Hyde
+right: Aaron
+Wrong: 
+Value: $300
+Number: 2
+GRAMMAR | When reading this clue, a dangling one of these is included | participle
+right: Eric
+Wrong: 
+Value: $300
+Number: 18
+U.S. STATES | NCAA teams in this state include the La Salle Explorers, the Villanova Wildcats & the Drexel Dragons | Pennsylvania
+right: Mark
+Wrong: 
+Value: $400
+Number: 9
+SWEET TREATS | It's a rich soft chocolate treat or a precocious 4-year-old created by Judy Blume | Fudge
+right: Mark
+Wrong: 
+Value: $400
+Number: 24
+DOCTORS | This radio host & author of "How Could You Do That?!" earned her doctorate in physiology | Dr. Laura Schlessinger
+right: 
+Wrong: Triple Stumper
+Eric: Who is Susan Powter?
+Value: $400
+Number: 29
+TELEVISION | It's the first name shared by Frasier Crane's brother & the butler on "The Nanny" | Niles
+right: Eric
+Wrong: 
+Value: $400
+Number: 15
+FICTIONAL CHARACTERS | The title of this 1987 Toni Morrison novel is what the ghost of Sethe's daughter calls herself | Beloved
+right: 
+Wrong: Triple Stumper
+Aaron: What is Sua?
+Value: $400
+Number: 3
+GRAMMAR | It's the correspondence in number of a subject & a verb, & it aren't found in this clue | agreement
+right: Aaron
+Wrong: 
+Eric: What is case?
+Value: $400
+Number: 22
+U.S. STATES | Cimarron County in this state touches 4 other states | Oklahoma (Colorado, Kansas, New Mexico & Texas)
+right: 
+Wrong: 
+Mark: What is Tennessee?
+Value: DD: $500
+Number: 10
+SWEET TREATS | From a Turkish term for a cool drink, it's French for sherbet | sorbet
+right: Mark
+Wrong: 
+Value: $500
+Number: 25
+DOCTORS | In the 1950s these 2 famed physicians each developed a polio vaccine | Albert Sabin & Jonas Salk
+right: Aaron
+Wrong: 
+Value: $500
+Number: 30
+TELEVISION | This comedian hosts TV's "Politically Incorrect" | Bill Maher
+right: Mark
+Wrong: 
+Value: $500
+Number: 16
+FICTIONAL CHARACTERS | Rabo Karabekian, a minor character in "Breakfast of Champions", is the focus of his 1987 novel "Bluebeard" | Kurt Vonnegut, Jr.
+right: Aaron
+Wrong: 
+Value: $500
+Number: 4
+GRAMMAR | A verb's voice may be active or passive & this feature may be indicative, subjunctive or imperative | mood
+right: Eric
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Aaron: $400
+Mark: $400
+Eric: $800
+Scores at the end of the Jeopardy! Round:
+Aaron: $1,200
+Mark: $2,600
+Eric: $1,600
+Second Jeopardy! Round: HISTORIC NAMES, GOVERNMENT, PLAYWRIGHTS, ISLANDS, CHEMISTRY, IT'S THE PITT'S
+HISTORIC NAMES | Clarissa was the original first name of this nurse known as the "Angel of the Battlefield" | Clara Barton
+right: Mark
+Wrong: 
+Value: $200
+Number: 9
+GOVERNMENT | In the U.S. this official is the leader of the executive branch of a state's government | the governor
+right: Mark
+Wrong: 
+Value: $200
+Number: 3
+PLAYWRIGHTS | "En Folkefiende" is the Norwegian title of his 1882 drama "An Enemy of the People" | Henrik Ibsen
+right: Aaron
+Wrong: 
+Eric: Who was Heyerdahl?
+Value: $200
+Number: 30
+ISLANDS | Air Lanka is the government-owned airline of this Indian Ocean island nation | Sri Lanka
+right: Aaron
+Wrong: 
+Value: $200
+Number: 27
+CHEMISTRY | Boyle's Law says the volume of a gas increases as this decreases if its temperature stays constant | its pressure
+right: Aaron
+Wrong: 
+Value: $200
+Number: 23
+IT'S THE PITT'S | Brad sank his teeth into the role of Louis de Pointe du Lac in this horror film | Interview with the Vampire
+right: Mark
+Wrong: 
+Value: $200
+Number: 18
+HISTORIC NAMES | In 1505 this Protestant reformer earned a master of arts degree from the University of Erfurt | Martin Luther
+right: Mark
+Wrong: 
+Value: $400
+Number: 10
+GOVERNMENT | In John Marshall's day, this highest judicial body met in the basement of the Capitol | Supreme Court
+right: Aaron
+Wrong: 
+Value: $400
+Number: 4
+PLAYWRIGHTS | His 1659 comedy "Les precieuses ridicules", or "The Affected Young Ladies", launched his career | Molière
+right: Eric
+Wrong: 
+Value: $400
+Number: 29
+ISLANDS | This Ecuadorean island group is home to 6 species of giant tortoises found nowhere else on Earth | the Galapagos Islands
+right: Eric
+Wrong: 
+Value: $400
+Number: 17
+CHEMISTRY | An electron is said to be in this "state" when it's at a higher energy level than its ground state | excited
+right: Eric
+Wrong: 
+Value: $400
+Number: 26
+IT'S THE PITT'S | Film seen <http://www.j-archive.com/media/1997-05-21_DJ_19.wmv> here, it influenced People magazine to pick Brad as the "Sexiest Man Alive": | Legends of the Fall
+right: Mark
+Wrong: 
+Value: DD: $800
+Number: 19
+HISTORIC NAMES | Spain's King Philip II was married 4 times; his second wife was this Tudor queen | Mary Tudor (Mary I of England)
+right: Aaron
+Wrong: 
+Value: $600
+Number: 11
+GOVERNMENT | Chicago's Richard M. Daley is the president of the U.S. Conference of people in this post | mayors
+right: Mark
+Wrong: 
+Value: $600
+Number: 6
+PLAYWRIGHTS | This "Waiting For Godot" playwright once taught French at Trinity College in his native Dublin | Samuel Beckett
+right: Aaron
+Wrong: 
+Value: $600
+Number: 28
+ISLANDS | This U.S. Caribbean commonwealth has many smaller islands, including Culebra, Mona & Vieques | Puerto Rico
+right: Aaron
+Wrong: 
+Eric: What is the U.S. Virgin Islands?
+Value: $600
+Number: 16
+CHEMISTRY | Penicillin, the first of these drugs, comes from a fungus | antibiotics
+right: Eric
+Wrong: 
+Value: $600
+Number: 25
+IT'S THE PITT'S | Brad was flying high in this 1992 fly fishing film | A River Runs Through It
+right: Mark
+Wrong: 
+Value: $600
+Number: 20
+HISTORIC NAMES | This Egyptian for whom a lake is named was born in Alexandria in 1918 | Gamal Abdel Nasser
+right: Aaron
+Wrong: 
+Value: DD: $1,200
+Number: 12
+GOVERNMENT | Term for a state's geographical area that sends a representative to the U.S. Congress | a district
+right: Mark
+Wrong: 
+Value: $800
+Number: 7
+PLAYWRIGHTS | A course in playwriting at Smith College inspired this author of "The Heidi Chronicles" | Wendy Wasserstein
+right: Mark
+Wrong: 
+Value: $800
+Number: 2
+ISLANDS | Brunei & parts of 2 other countries occupy this, the world's third-largest island | Borneo
+right: Aaron
+Wrong: 
+Value: $800
+Number: 15
+CHEMISTRY | This "factor" of the gastric juice in your stomach is about 1.5 | pH
+right: Aaron
+Wrong: 
+Value: $800
+Number: 24
+IT'S THE PITT'S | In this 1991 film Brad played the hitchhiker who seduces Geena Davis | Thelma & Louise
+right: Mark
+Wrong: 
+Value: $800
+Number: 21
+HISTORIC NAMES | Theodora & Zoe, the daughters of emperor Constantine VIII, became joint rulers of this empire in 1042 | the Byzantine Empire
+right: Mark
+Wrong: 
+Value: $1000
+Number: 5
+GOVERNMENT | In this type of primary election, party affiliations do not appear on the ballot | non-partisan
+right: Mark
+Wrong: 
+Value: $1000
+Number: 8
+PLAYWRIGHTS | This author of "The Piano Lesson" founded the Black Horizons Theatre Company in 1968 | August Wilson
+right: 
+Wrong: Triple Stumper
+Aaron: Who was Ionesco?
+Value: $1000
+Number: 1
+ISLANDS | A popular tourist site in this Australian state is Port Arthur, a former penal settlement | Tasmania
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 14
+CHEMISTRY | This union of atoms may be covalent or ionic | a bond
+right: Aaron | Eric
+Wrong: 
+Value: $1000
+Number: 13
+IT'S THE PITT'S | The 2 Brad Pitt films released in 1995 with numbers in their titles | Se7en
+right: Mark
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Aaron: $7,800
+Mark: $11,000
+Eric: $3,600
+
+Final Jeopardy! Round
+WORLD CAPITALS | Many homes in this city are heated by near-boiling water pumped in from hot springs at Nesjavellir | Reykjavik, Iceland
+right: Eric | Aaron | Mark
+Wrong: 
+Wagers: 
+Eric: $3,599
+Aaron: $7,800
+Mark: $4,601
+Final scores:
+Aaron: $15,600 (2nd place: $5,000)
+Mark: $15,601 (Finalist)
+Eric: $7,199 (3rd place: $5,000)
+
+Coryat scores
+Aaron: $7,400 (19 R(including 1 DD),4 W)
+Mark: $11,100 (24 R(including 1 DD),1 W(including 1 DD))
+Eric: $3,600 (14 R,4 W)

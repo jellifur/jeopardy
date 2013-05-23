@@ -1,0 +1,350 @@
+5851 - Monday, February 8, 2010
+Comments: 2010-A College Championship semifinal game 1.
+Contestants:
+Samira Missaghi: a junior from the University of Minnesota
+Nick Yozamp: a junior from Washington University in St. Louis
+James Hill III: a freshman from Santa Clara University
+First Jeopardy! Round: CANADIAN GEOGRAPHY, EH?, ON HIS BASEBALL HALL OF FAME PLAQUE, STAMPS, THE KILLERS, SPOTT THA MISPELED WURD, THE BIG 10
+CANADIAN GEOGRAPHY, EH? | A narrow passage separates Canada's Ellesmere Island from this large Danish island | Greenland
+right: Samira
+Wrong: 
+Value: $200
+Number: 2
+ON HIS BASEBALL HALL OF FAME PLAQUE | This Yankee was the "greatest drawing card in history of baseball" | Babe Ruth
+right: Nick
+Wrong: 
+Value: $200
+Number: 1
+STAMPS | Woo hoo! In 2009 this animated family was chosen to grace stamps, though postage did go up to 44 cents (D'oh!) | the Simpsons
+right: Samira
+Wrong: 
+Value: $200
+Number: 30
+THE KILLERS | In Genesis 4 he becomes the first killer; God isn't happy | Cain
+right: Nick
+Wrong: 
+Value: $200
+Number: 22
+SPOTT THA MISPELED WURD | Meet me in the library for a liaison at your liesure | leisure
+right: James
+Wrong: 
+Value: $200
+Number: 3
+THE BIG 10 | The first 10 of these are known as the Bill of Rights | the Amendments
+right: Samira
+Wrong: 
+Value: $200
+Number: 16
+CANADIAN GEOGRAPHY, EH? | Mount Logan, Canada's highest peak, is found in this territory | the Yukon Territory
+right: Nick
+Wrong: 
+Value: $400
+Number: 7
+ON HIS BASEBALL HALL OF FAME PLAQUE | "Detroit - Philadelphia, A.L. - 1905-1926... retired with 4191 major league hits" | (Ty) Cobb
+right: James
+Wrong: 
+Value: $400
+Number: 4
+STAMPS | This astronomer for whom a space telescope is named is honored in the American Scientists series | (Edwin) Hubble
+right: James
+Wrong: 
+Value: $400
+Number: 27
+THE KILLERS | In one of the few documented one-on-one Old West gunfights, this "Wild" man killed Davis Tutt in 1865 | Wild Bill Hickok
+right: James
+Wrong: 
+Value: $400
+Number: 21
+SPOTT THA MISPELED WURD | The occasional misspelling is noticable on a telecast like "Jeopardy!" | noticeable
+right: Nick
+Wrong: 
+Value: $400
+Number: 12
+THE BIG 10 | In Israel Tevet is the tenth of these | month
+right: Nick
+Wrong: 
+Value: $400
+Number: 17
+CANADIAN GEOGRAPHY, EH? | Of the top 5 Canadian cities in population, it's the one closest to the Pacific Ocean | Vancouver
+right: James
+Wrong: 
+Value: $600
+Number: 8
+ON HIS BASEBALL HALL OF FAME PLAQUE | "'Mr. October', found special success in World Series spotlight with 10 home runs" | (Reggie) Jackson
+right: James
+Wrong: 
+Value: $600
+Number: 5
+STAMPS | A stamp honors this 19th c. author about whom it was said, "So this is the little lady who made this big war" | Harriet Beecher Stowe
+right: James
+Wrong: 
+Value: $600
+Number: 26
+THE KILLERS | Bodyguards Satwant & Beant Singh killed this female leader of India in 1984 | Indira Gandhi
+right: James
+Wrong: 
+Value: $600
+Number: 23
+SPOTT THA MISPELED WURD | If you supersede the competition, you will excede all expectations | exceed
+right: James
+Wrong: 
+Samira: What is supersede?
+Value: $600
+Number: 13
+THE BIG 10 | In L.A., the western tip of Interstate 10 is called this "freeway", after the beach community it passes through | Santa Monica
+right: Samira
+Wrong: 
+Value: $600
+Number: 18
+CANADIAN GEOGRAPHY, EH? | Appropriately, New Glasgow is in this Canadian province | Nova Scotia
+right: Nick
+Wrong: 
+Value: $800
+Number: 10
+ON HIS BASEBALL HALL OF FAME PLAQUE | This 2009 inductee was "faster than a speeding bullet" | Rickey Henderson
+right: Nick
+Wrong: 
+Value: $800
+Number: 6
+STAMPS | An international rate stamp has a photo of <http://www.j-archive.com/media/2010-02-08_J_28a.jpg> this nearly 700-sq mile swamp in Georgia and Florida | the Okefenokee
+right: Nick
+Wrong: 
+Value: $800
+Number: 28
+THE KILLERS | This "insect" of a gangster was a real-life hit man for Murder Incorporated in the 1930s & '40s | Bugsy Siegel
+right: 
+Wrong: Triple Stumper
+James: Who is Bugsy?
+Nick: Who is Malone?
+Value: $800
+Number: 24
+SPOTT THA MISPELED WURD | We want you to be committed to catagorizing your collectibles cohesively | categorizing
+right: James
+Wrong: 
+Value: $800
+Number: 14
+THE BIG 10 | The title of this Boccaccio work means "10 Days" | Decameron
+right: Samira
+Wrong: 
+Value: $800
+Number: 19
+CANADIAN GEOGRAPHY, EH? | This province has the longest border, including water, with the United States | Ontario
+right: Nick
+Wrong: 
+Value: $1000
+Number: 11
+ON HIS BASEBALL HALL OF FAME PLAQUE | "Boston Red Sox A.L. 1939-1960... batted .406 in 1941" | Ted Williams
+right: Nick
+Wrong: 
+Value: $1000
+Number: 9
+STAMPS | The Distinguished Marines series honors the man for whom a North Carolina Marine Corps base was named | Lt. Gen. John Lejeune
+right: 
+Wrong: 
+Nick: Who is... MacArthur?
+Value: DD: $1,800
+Number: 29
+THE KILLERS | Pausanius, a young Macedonian noble, killed this man, Alexander's dad, in 336 B.C. | Philip
+right: Nick
+Wrong: 
+Value: $1000
+Number: 25
+SPOTT THA MISPELED WURD | The accomodations at the monastery were rudimentary at best | accommodations
+right: James
+Wrong: 
+Value: $1000
+Number: 15
+THE BIG 10 | (<http://www.j-archive.com/media/2010-02-08_J_20.jpg> Alex stands in front of an exhibit at the Newseum.) The exhibit G-men and journalists contains the very first ledger in which this list was kept. It began when a reporter asked the FBI, "Who are the toughest guys you're looking for?" | the FBI's 10 most wanted list
+right: James
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+James: $4,200
+Nick: $4,600
+Samira: -$400
+Scores at the end of the Jeopardy! Round:
+James: $6,400
+Nick: $4,400
+Samira: $1,400
+Second Jeopardy! Round: GENERAL SCIENCE, INSTRUMENT ETYMOLOGY, FACIAL EXPRESSIONS, LIT MY FIRE, THE STAR'S TV SHOW & MOVIE, THE BIG 10-LETTER WORDS
+GENERAL SCIENCE | In 1869 this Austrian monk published a paper on hawkweed: the experiments didn't work as well as the ones with peas | Mendel
+right: James
+Wrong: 
+Value: $400
+Number: 3
+INSTRUMENT ETYMOLOGY | It's appropriate that the name of this double reed instrument with a low range comes from the Italian for "low" | a bassoon
+right: Nick
+Wrong: 
+Value: $400
+Number: 22
+FACIAL EXPRESSIONS | This word meaning "empty" or "to be filled in" describes a vacant type of stare | blank
+right: James
+Wrong: 
+Value: $400
+Number: 1
+LIT MY FIRE | "The Fire Sermon" is Part III of this poet's "The Waste Land" | T.S. Eliot
+right: Nick
+Wrong: 
+Value: $400
+Number: 19
+THE STAR'S TV SHOW & MOVIE | "Sex and the City", "Sex and the City" (& "Did you Hear About the Morgans?") | Sarah Jessica Parker
+right: Nick
+Wrong: 
+Value: $400
+Number: 2
+THE BIG 10-LETTER WORDS | Relatively speaking, it's your mom's husband by a later marriage | a stepfather
+right: Nick
+Wrong: 
+Value: $400
+Number: 9
+GENERAL SCIENCE | Unusual names borne by these celestial objects include 3834 Zappafrank & 10221 Kubrick | asteroids
+right: James
+Wrong: 
+Nick: What are comets?
+Samira: What are stars?
+Value: $800
+Number: 5
+INSTRUMENT ETYMOLOGY | Your dog will scratch his head if you don't know the ukulele's name comes from the Hawaiian for this "jumping" insect | the flea
+right: Nick
+Wrong: 
+Value: $800
+Number: 23
+FACIAL EXPRESSIONS | It's a self-satisfied smile or grin that you may be asked to wipe off your face | smirk
+right: James
+Wrong: 
+Value: $800
+Number: 15
+LIT MY FIRE | The burning of Moscow after Napoleon's exit is dramatized in this Tolstoy novel | War and Peace
+right: Nick
+Wrong: 
+Value: $800
+Number: 26
+THE STAR'S TV SHOW & MOVIE | "Bosom Buddies", "The Green Mile" | Tom Hanks
+right: Nick
+Wrong: 
+Value: $800
+Number: 4
+THE BIG 10-LETTER WORDS | From the late Latin for "word", this book is the last word on words | dictionary
+right: Samira
+Wrong: 
+Nick: What is epilogue?
+Value: $800
+Number: 11
+GENERAL SCIENCE | (<http://www.j-archive.com/media/2010-02-08_DJ_10.jpg> Jimmy of the Clue Crew holds a bicycle wheel)  When I torque a spinning bike wheel, an equal and opposite torque causes me to rotate also, an illustration of the conservation of angular this | momentum
+right: James
+Wrong: 
+Value: $1200
+Number: 10
+INSTRUMENT ETYMOLOGY | The first 4 letters of xylophone refer etymologically to this material used to make its sounding bars | wood
+right: Nick
+Wrong: 
+Value: $1200
+Number: 24
+FACIAL EXPRESSIONS | In the 1600s Charles Le Brun drew illlustrations for each of the passions. <http://www.j-archive.com/media/2010-02-08_DJ_16a.jpg> Here's la haine, this opposite of love | hate
+right: Samira
+Wrong: 
+Value: $1200
+Number: 16
+LIT MY FIRE | In Book 1 of this, Satan is "hurld hedlong flaming from th' ethereal skies... to dwell in adamantine chains and penal fire" | Paradise Lost
+right: Nick
+Wrong: 
+James: What is The Inferno?
+Value: $1200
+Number: 28
+THE STAR'S TV SHOW & MOVIE | "Friends", "Bruce Almighty" | Jennifer Aniston
+right: Samira
+Wrong: 
+Value: $1200
+Number: 6
+THE BIG 10-LETTER WORDS | Don't lose your head: this French device shares its name with an instrument for surgically removing tonsils | guillotine
+right: Samira
+Wrong: 
+Value: $1200
+Number: 12
+GENERAL SCIENCE | This 4-letter neutral compound is produced by the reaction of an acid & a base | a salt
+right: Nick
+Wrong: 
+Value: $1600
+Number: 20
+INSTRUMENT ETYMOLOGY | From the Latin for "clear" comes the name for this woodwind instrument | clarinet
+right: James
+Wrong: 
+Value: $1600
+Number: 25
+FACIAL EXPRESSIONS | Jack Nicholson movie villain known for his rictus | the Joker
+right: Samira
+Wrong: 
+Value: DD: $2,000
+Number: 17
+LIT MY FIRE | This Irish poet's "Sailing to Byzantium" urges "sages... in God's holy fire" to be "singing masters of my soul" | William Butler Yeats
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+THE STAR'S TV SHOW & MOVIE | "In Living Color", "Bruce Almighty" | Jim Carrey
+right: James
+Wrong: 
+Value: $1600
+Number: 7
+THE BIG 10-LETTER WORDS | The report's back from the lab; it's the science dealing with the detection of poisons | toxicology
+right: 
+Wrong: 
+Samira: [No response]
+Value: DD: $2,000
+Number: 13
+GENERAL SCIENCE | Plants having these underground stems, from the Greek for "root", include irises, bamboo & wild ginger | rhizomes
+right: 
+Wrong: Triple Stumper
+Samira: What are shoots?
+Value: $2000
+Number: 21
+INSTRUMENT ETYMOLOGY | The name of <http://www.j-archive.com/media/2010-02-08_DJ_27b.jpg> this instrument has nothing to do with the religion, but is more likely a corruption of the word "jaw" | Jew's harp
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+FACIAL EXPRESSIONS | This word for a sidelong glance of crude desire used to mean "the cheek" | a leer
+right: Samira
+Wrong: 
+Value: $2000
+Number: 18
+LIT MY FIRE | His 1963 bestseller "The Fire Next Time" took its title from an old spiritual | James Baldwin
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+THE STAR'S TV SHOW & MOVIE | "The Office", "Bruce Almighty" | Steve Carell
+right: James
+Wrong: 
+Value: $2000
+Number: 8
+THE BIG 10-LETTER WORDS | Something that's the first son's due; Esau sold his | birthright
+right: James
+Wrong: 
+Value: $2000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+James: $16,000
+Nick: $10,800
+Samira: $5,000
+
+Final Jeopardy! Round
+RANKS & TITLES | Owain Glyndwr, who died circa 1416, was the last native of his country to claim this title | Prince of Wales
+right: Nick
+Wrong: 
+Samira: What is King of Wales?
+James: What is King of Scotland?
+Wagers: 
+Samira: $5,000
+Nick: $5,201
+James: $5,601
+Final scores:
+James: $10,399 (2nd place: $10,000)
+Nick: $16,001 (Finalist)
+Samira: $0 (3rd place: $10,000)
+
+Coryat scores
+James: $16,000 (21 R,2 W)
+Nick: $12,600 (21 R,4 W(including 1 DD))
+Samira: $6,600 (11 R(including 1 DD),4 W(including 1 DD))

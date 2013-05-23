@@ -1,0 +1,278 @@
+3787 - Tuesday, February 6, 2001
+Comments: 2001 Celebrity <i>Jeopardy!</i> game 2.  From the Las Vegas Hilton.<br />
+Contestants:
+Charles Barkley: a former pro basketball player from Turner Network Television
+Martha Stewart: a TV personality from Martha Stewart Living
+Jeff Probst: a TV personality from Rock & Roll Jeopardy! and Survivor
+First Jeopardy! Round: AIRPLANE READING, ZOO-OLOGY, TREASURE ISLAND, FAMOUS PAIRS, ROCK & ROLL JEOPARDY!, "X" CALIBER
+AIRPLANE READING | Ken Blackburn, seen here, has set a world record for time aloft for one of these, & he's written books on them | paper airplanes
+right: Jeff
+Wrong: 
+Value: $100
+Number: 13
+ZOO-OLOGY | You'll feel like Santa when you ride a sleigh pulled by these animals at the Assiniboine Park Zoo in Winnipeg | reindeer
+right: Martha
+Wrong: 
+Value: $100
+Number: 22
+TREASURE ISLAND | Cigars from this island 90 miles south of Florida are treasured by some as the best in the world | Cuba
+right: Jeff
+Wrong: 
+Value: $100
+Number: 11
+FAMOUS PAIRS | What Little Miss Muffet was eating while she sat on her tuffet | curds & whey
+right: Martha
+Wrong: 
+Value: $100
+Number: 1
+ROCK & ROLL JEOPARDY! | The 1976 concert film "The Song Remains the Same" starred this "Stairway to Heaven" group | Led Zeppelin
+right: Jeff
+Wrong: 
+Value: $100
+Number: 6
+"X" CALIBER | Headquartered in Stamford, Connecticut, this photo copier company adopted its present name in 1961 | Xerox
+right: Jeff
+Wrong: 
+Value: $100
+Number: 23
+AIRPLANE READING | Max Allan Collins wrote the novelization of this film starring Harrison Ford as President Marshall | Air Force One
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 14
+ZOO-OLOGY | This British city's zoo in Regent's Park claims that its reptile house, opened in 1849, was the world's first | London
+right: Martha
+Wrong: 
+Value: $200
+Number: 21
+TREASURE ISLAND | Homes list for well over $1 million on this valuable "Vineyard" island of Massachusetts | Martha's Vineyard
+right: Martha
+Wrong: 
+Value: $200
+Number: 12
+FAMOUS PAIRS | Gotham City's dynamic duo | Batman & Robin
+right: Martha
+Wrong: 
+Value: $200
+Number: 3
+ROCK & ROLL JEOPARDY! | "I remember when rock was young" is the first line of this singer's hit "Crocodile Rock" | Elton John
+right: Jeff
+Wrong: 
+Value: $200
+Number: 7
+"X" CALIBER | It's the visionary technique used to create the image seen here | X-ray
+right: Jeff
+Wrong: 
+Value: $200
+Number: 24
+AIRPLANE READING | Eric Stoltz is heard here reading A. Scott Berg's biography of this man | Charles Lindbergh
+right: Martha
+Wrong: 
+Value: $300
+Number: 15
+ZOO-OLOGY | The Henry Doorly Zoo in this Nebraska city boasts "The World's Largest Indoor Tropical Rainforest" | Omaha
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 20
+FAMOUS PAIRS | Seen here, they were quite a pair | Laurel & Hardy
+right: Jeff
+Wrong: 
+Value: $300
+Number: 2
+ROCK & ROLL JEOPARDY! | This girl group gave us the '80s albums "Beauty and the Beat" & "Vacation" | the Go-Go's
+right: 
+Wrong: Triple Stumper
+Jeff: Who are the...man...um..[time]?
+Value: $300
+Number: 8
+AIRPLANE READING | In 1997 Nathan Franks & Alan Bennett investigated the 1918 "Last Flight" of this German ace | the Red Baron
+right: 
+Wrong: Triple Stumper
+Martha: Oh, sorry!
+Value: $400
+Number: 16
+ZOO-OLOGY | If you visit the Singapore Zoo, stay til late afternoon & have this British meal with an orangutan | tea
+right: Martha
+Wrong: 
+Value: $400
+Number: 19
+FAMOUS PAIRS | In the Bible, the first 2 brothers mentioned | Cain & Abel
+right: Martha
+Wrong: 
+Value: $400
+Number: 4
+ROCK & ROLL JEOPARDY! | A member of this "Eye of the Tiger" group is suing CBS for trademark infringement | Survivor
+right: Jeff
+Wrong: 
+Value: $400
+Number: 9
+AIRPLANE READING | Piers Paul Read's "Alive" is the true tale of a rugby team whose plane crashed in these South American mountains | the Andes
+right: Martha
+Wrong: 
+Value: $500
+Number: 17
+ZOO-OLOGY | Dozens of Guinea baboons frolic on Baboon Island at the Brookfield Zoo in this Midwest state | Illinois
+right: 
+Wrong: Triple Stumper
+Martha: What is Ohio?
+Value: $500
+Number: 18
+FAMOUS PAIRS | Songwriting team who gave us "The Sound of Music" | Rodgers & Hammerstein
+right: Jeff
+Wrong: 
+Value: $500
+Number: 5
+ROCK & ROLL JEOPARDY! | This interracial soul group got "Everyday People" to "Dance to the Music" | Sly and the Family Stone
+right: 
+Wrong: 
+Jeff: Who are Earth, Wind & Fire?
+Value: DD: $600
+Number: 10
+Scores at the first commercial break (after clue 15)
+Jeff: $700
+Martha: $900
+Charles: $0
+Scores at the end of the Jeopardy! Round:
+Jeff: $1,100
+Martha: $1,500
+Charles: $0
+Second Jeopardy! Round: AMERICAN HISTORY, WHEN MGM WAS GRAND, THE RAT PACK, SCIENCE, HEY, SPORT!, "GOLD"EN NUGGETS
+AMERICAN HISTORY | Custer's Last Stand is also known by the oxymoronic name "Little Big" this | Horn
+right: Charles
+Wrong: 
+Value: $200
+Number: 19
+THE RAT PACK | In 1990 the lights on the Strip were dimmed for 10 minutes to honor this late, great "Candy Man" performer | Sammy Davis, Jr.
+right: Jeff
+Wrong: 
+Value: $200
+Number: 12
+SCIENCE | Only a few living things, like some germs, can live without this gas symbolized O | oxygen
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+HEY, SPORT! | On January 13, 1999 this Chicago Bulls player retired after 13 seasons in which he averaged 31.5 points a game | Michael Jordan
+right: Martha
+Wrong: 
+Value: $200
+Number: 1
+AMERICAN HISTORY | In the 1950s, if your button said, "I Like Ike", he was your man | Dwight D. Eisenhower
+right: Martha
+Wrong: 
+Value: $400
+Number: 20
+THE RAT PACK | The girl in the Rat Pack, she later played a cranky former first lady in 1994's "Guarding Tess" | Shirley MacLaine
+right: 
+Wrong: Triple Stumper
+Charles: Who is Angie Dickinson?
+Value: $400
+Number: 13
+HEY, SPORT! | In Nov. 2000 Phil Mickelson caught this tiger by the tail, winning the Tour Championship PGA Tournament | Tiger Woods
+right: Jeff
+Wrong: 
+Value: $400
+Number: 5
+"GOLD"EN NUGGETS | For his role in "Cast Away", Tom Hanks won one of these awards in 2001 | Golden Globe
+right: Charles
+Wrong: 
+Value: $400
+Number: 4
+AMERICAN HISTORY | Born in Tennessee, Davy Crockett died in what's now this state | Texas
+right: Martha
+Wrong: 
+Value: $600
+Number: 21
+THE RAT PACK | In a 1953 film Dean Martin sang this song heard here | "That's Amore"
+right: Jeff
+Wrong: 
+Value: $600
+Number: 14
+SCIENCE | Though the Earth isn't a perfect sphere, its eastern & western halves are each called this | hemispheres
+right: Jeff
+Wrong: 
+Value: $600
+Number: 10
+HEY, SPORT! | In 1998 this Cardinal first baseman had a National League record 162 walks to go along with his 70 home runs | Mark McGwire
+right: Jeff
+Wrong: 
+Value: $600
+Number: 6
+"GOLD"EN NUGGETS | Seen here, he was a U.S. presidential candidate in 1964 | Barry Goldwater
+right: Martha
+Wrong: 
+Value: $600
+Number: 2
+AMERICAN HISTORY | William Cody's 2-word nickname, or perhaps what he sent out to his clients at the end of each month | "Buffalo Bill"
+right: 
+Wrong: 
+Martha: What is "Wild Bill?"
+Value: DD: $2,000
+Number: 22
+THE RAT PACK | This Rat Packer played Joey Barnes on his self-titled '60s sitcom | Joey Bishop
+right: Charles
+Wrong: 
+Value: $800
+Number: 15
+SCIENCE | No Doubt sang, "Thank You for turning on the lights.  Thank You, now you're" this organism that lives off a host | parasite
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+HEY, SPORT! | This NFL team plays its home games in the Georgia Dome | Atlanta Falcons
+right: Charles
+Wrong: 
+Value: $800
+Number: 7
+"GOLD"EN NUGGETS | Using his laptop computer, this actor helps save the human race in the 1996 film "Independence Day" | Jeff Goldblum
+right: Jeff
+Wrong: 
+Value: $800
+Number: 3
+THE RAT PACK | This British Rat Packer with a reputation as a playboy was one of the "Sergeants 3" in a 1962 film | Peter Lawford
+right: 
+Wrong: Triple Stumper
+Jeff: Who is Sinatra?
+Martha: Who is Charles Lawford?
+Value: $1000
+Number: 16
+SCIENCE | This man seen here, born in Oxford in 1942, is among the greatest physicists of our time | Stephen Hawking
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+HEY, SPORT! | America's oldest regularly contested foot race, it's been held since 1897 when the length was 24.5 miles | Boston Marathon
+right: Martha
+Wrong: 
+Value: $1000
+Number: 8
+"GOLD"EN NUGGETS | There are European & American varieties of this songbird, seen here | goldfinch
+right: Martha
+Wrong: 
+Value: $1000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+Jeff: $3,500
+Martha: $2,300
+Charles: $1,800
+
+Final Jeopardy! Round
+JFK | In an interview, Jackie confided that JFK regularly fell asleep listening to the soundtrack of this Broadway play | Camelot
+right: Martha
+Wrong: 
+Charles: What is Cats
+Jeff: What is Sound of Music (was it a play?)
+Wagers: 
+Charles: $1,800
+Martha: $1,000
+Jeff: $1,200
+Final scores:
+Jeff: $2,300 (2nd place: $10,000 for Beagles and Buddies)
+Martha: $3,300 (Winner: $15,000 for College of the Atlantic)
+Charles: $0 (3rd place: $10,000 for Cornerstone Schools of Alabama)
+
+Coryat scores
+Jeff: $4,100 (16 R,3 W(including 1 DD))
+Martha: $4,300 (15 R,4 W(including 1 DD))
+Charles: $1,800 (4 R,1 W)

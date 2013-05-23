@@ -1,0 +1,346 @@
+3643 - Wednesday, June 7, 2000
+Contestants:
+Jason Parker: a graduate student from Gainesville, Florida
+Janet Aitoro: a homemaker and professional volunteer from Weston, Connecticut
+Rahul Ranadive: a lawyer from Miami, Florida (whose 1-day cash winnings total $3,000)
+First Jeopardy! Round: U.S. GEOGRAPHY, MAJOR LEAGUE BASEBALL, MR. BODY, ELIZABETH TAYLOR'S HUSBANDS, A WORLD OF FAITH, I'M JUST AN OBJECT
+U.S. GEOGRAPHY | The city of El Paso in this state is a major gateway between the U.S. & Mexico | Texas
+right: Janet
+Wrong: 
+Value: $100
+Number: 2
+MAJOR LEAGUE BASEBALL | On Sept. 13, 1998 this Cubs slugger surpassed Roger Maris' home run record; however, Mark McGwire did it 5 days earlier | Sammy Sosa
+right: Janet
+Wrong: 
+Value: $100
+Number: 7
+MR. BODY | A man's can weigh 3.5 ounces more than a woman's, epicardium included | Heart
+right: Janet
+Wrong: 
+Value: $100
+Number: 21
+ELIZABETH TAYLOR'S HUSBANDS | He divorced Debbie Reynolds to marry Liz | Eddie Fisher
+right: Rahul
+Wrong: 
+Value: $100
+Number: 26
+A WORLD OF FAITH | The 2 main sects of this form of Buddhism are Rinzai & Soto | Zen
+right: Jason
+Wrong: 
+Value: $100
+Number: 1
+I'M JUST AN OBJECT | It's what you "bide" when awaiting your opportunity | Time
+right: Jason
+Wrong: 
+Value: $100
+Number: 16
+U.S. GEOGRAPHY | This "stately" river carved the Black Canyon as well as the Grand Canyon | Colorado River
+right: Janet
+Wrong: 
+Value: $200
+Number: 3
+MAJOR LEAGUE BASEBALL | On Feb. 28, 2000 this Yankee received a one-year suspension for violating MLB's drug policy | Darryl Strawberry
+right: Rahul
+Wrong: 
+Value: $200
+Number: 8
+MR. BODY | While this disease of loss of bone tissue mass occurs in men, it's much more common in women | Osteoporosis
+right: Jason
+Wrong: 
+Value: $200
+Number: 22
+ELIZABETH TAYLOR'S HUSBANDS | He was born in south Wales in 1925 | Richard Burton
+right: Jason
+Wrong: 
+Value: $200
+Number: 27
+A WORLD OF FAITH | It's the religious candle-lighting festival that commemorates the Jews' victory over Syrian king Antiochus IV | Hanukkah
+right: Janet
+Wrong: 
+Value: $200
+Number: 12
+I'M JUST AN OBJECT | To lose emotional control is to "flip your" this, also a saucepan cover | Lid
+right: Jason
+Wrong: 
+Value: $200
+Number: 17
+U.S. GEOGRAPHY | If you want to sneak a peek at the landmark seen here, head to this Midwest state: (Mount Rushmore) | South Dakota
+right: Jason
+Wrong: 
+Value: $300
+Number: 4
+MAJOR LEAGUE BASEBALL | In the 1999 All-Star Game, this Red Sox ace struck out the first 4 batters he faced as the AL beat the NL | Pedro Martinez
+right: Janet
+Wrong: 
+Value: $300
+Number: 9
+MR. BODY | A man suffering from MPB is losing this | His hair (male pattern baldness)
+right: Janet
+Wrong: 
+Value: $300
+Number: 23
+ELIZABETH TAYLOR'S HUSBANDS | Liz married him when she was 18 | Nicky Hilton
+right: Janet
+Wrong: 
+Value: $300
+Number: 28
+A WORLD OF FAITH | It's the modern & better known name for the pagan festival in autumn known as Samhain | Halloween
+right: Jason
+Wrong: 
+Value: $300
+Number: 13
+I'M JUST AN OBJECT | To "trip" this, meaning to dance, comes from a John Milton poem | The light fantastic
+right: Jason
+Wrong: 
+Value: $300
+Number: 18
+U.S. GEOGRAPHY | Sounds morbid, but it's the lowest point in California & in all of the U.S. | Death Valley
+right: Jason
+Wrong: 
+Value: $400
+Number: 5
+MAJOR LEAGUE BASEBALL | This Yankee catcher holds the World Series record for most hits with 71 | Yogi Berra
+right: Rahul
+Wrong: 
+Value: $400
+Number: 10
+MR. BODY | This iodine-using gland in the neck is actually slightly larger in men than women | Thyroid gland
+right: Jason
+Wrong: 
+Value: $400
+Number: 24
+ELIZABETH TAYLOR'S HUSBANDS | He played "The Spy Who Came in from the Cold" in 1965 | Richard Burton
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+A WORLD OF FAITH | The Maoris use this familiar religious term for prohibitions on certain objects, persons or places | Taboo
+right: Jason
+Wrong: 
+Value: $400
+Number: 14
+I'M JUST AN OBJECT | You curry food when you add spices; you curry this when you flatter someone | Favors
+right: Rahul
+Wrong: 
+Value: $400
+Number: 19
+U.S. GEOGRAPHY | In Hawaii, Mauna Kea means "white mountain" & this volcano's name means "long mountain" | Mauna Loa
+right: Jason
+Wrong: 
+Value: $500
+Number: 6
+MAJOR LEAGUE BASEBALL | In 1997 this 6' 10" Seattle Mariners lefty became the first pitcher in his team's history to win 20 games | Randy Johnson
+right: Jason
+Wrong: 
+Value: $500
+Number: 11
+MR. BODY | Fed by the hepatic portal veins, it weighs about a pound more in men than in women | Liver
+right: Jason
+Wrong: 
+Value: DD: $1,200
+Number: 25
+ELIZABETH TAYLOR'S HUSBANDS | For a while he was the world's most famous construction worker | Larry Fortensky
+right: Jason
+Wrong: 
+Value: $500
+Number: 30
+A WORLD OF FAITH | This religion of Haiti derives its name from a word meaning "spirit" in the Fon language of Africa | Voodoo
+right: Jason
+Wrong: 
+Value: $500
+Number: 15
+I'M JUST AN OBJECT | You "cudgel" them in an effort to remember | Brains
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Rahul: $600
+Janet: $900
+Jason: $3,000
+Scores at the end of the Jeopardy! Round:
+Rahul: $1,100
+Janet: $1,600
+Jason: $6,100
+Second Jeopardy! Round: FAMOUS AMERICANS, PARLIAMENTS, DIRECTORS' FIRST FEATURES, SHAKESPEAREAN CHARACTERS, "BAN", THE BOMB
+FAMOUS AMERICANS | He once remarked, "I didn't need school, I had the horn": | Louis Armstrong
+right: Rahul
+Wrong: 
+Value: $200
+Number: 6
+PARLIAMENTS | Outside Parliament in this Bahamas capital stands a statue of the young Queen Victoria | Nassau
+right: Janet
+Wrong: 
+Value: $200
+Number: 1
+DIRECTORS' FIRST FEATURES | "Yentl" (1983) | Barbra Streisand
+right: Janet
+Wrong: 
+Value: $200
+Number: 16
+SHAKESPEAREAN CHARACTERS | When Orson Welles directed & starred in this play in 1951, Peter Finch was his Iago | "Othello"
+right: Jason
+Wrong: 
+Value: $200
+Number: 11
+"BAN" | This large, printed handkerchief usually has white spots on a red or blue background | Bandana
+right: Janet
+Wrong: 
+Value: $200
+Number: 26
+THE BOMB | It's a small explosive bomb either thrown by hand or fired from a launcher | Grenade
+right: Janet
+Wrong: 
+Value: $200
+Number: 21
+FAMOUS AMERICANS | Infamous 19th century actor seen here: | John Wilkes Booth
+right: Rahul
+Wrong: 
+Value: $400
+Number: 7
+PARLIAMENTS | Established in 1998, the assembly for this part of the U.K. is called Cynulliad Cenedlaethol Cymru | Wales
+right: Jason
+Wrong: 
+Janet: What is Ireland?
+Value: $400
+Number: 2
+DIRECTORS' FIRST FEATURES | "What's Up, Tiger Lily?" (1966) | Woody Allen
+right: Janet
+Wrong: 
+Value: $400
+Number: 17
+SHAKESPEAREAN CHARACTERS | The Bishop of Ely & the Archbishop of this appear in the first scene of "Henry V" | Canterbury
+right: Janet
+Wrong: 
+Value: $400
+Number: 12
+"BAN" | In its native language, this nation's name means "Bengal Nation" | Bangladesh
+right: Jason
+Wrong: 
+Value: $400
+Number: 27
+THE BOMB | On Nov. 1, 1952 Eniwetok Atoll was the first place on Earth to face the wrath of one of these bombs | Hydrogen bomb
+right: Jason
+Wrong: 
+Value: $400
+Number: 22
+FAMOUS AMERICANS | "Cold" writer seen here who died in 1963: | Robert Frost
+right: Rahul
+Wrong: 
+Jason: Who is Truman Capote?
+Value: $600
+Number: 8
+PARLIAMENTS | Name of the German parliament building consumed by a mysterious fire soon after Hitler took power | Reichstag
+right: Jason
+Wrong: 
+Value: $600
+Number: 3
+DIRECTORS' FIRST FEATURES | "Diner" (1982) | Barry Levinson
+right: Janet
+Wrong: 
+Value: $600
+Number: 18
+SHAKESPEAREAN CHARACTERS | It's no surprise that she's a character in "King John"; she's his mother | Eleanor of Aquitaine
+right: 
+Wrong: 
+Janet: Who is Anne?
+Value: DD: $1,500
+Number: 13
+"BAN" | In this 1974 Paul McCartney & Wings hit, "The rain exploded with a mighty crash as we fell into the sun" | "Band on the Run"
+right: Rahul
+Wrong: 
+Value: $600
+Number: 28
+THE BOMB | Used against underwater targets, these "charges" operate by water pressure at the level for which they're set | Depth charges
+right: Jason
+Wrong: 
+Value: $600
+Number: 23
+FAMOUS AMERICANS | He wrote, "I come to my solitary woodland walk as the homesick go home": | Henry David Thoreau
+right: Rahul
+Wrong: 
+Value: $800
+Number: 9
+PARLIAMENTS | In 1905 this czar established Russia's parliament, the Duma, which also means "thought" | Nicholas II
+right: Rahul
+Wrong: 
+Value: $800
+Number: 4
+DIRECTORS' FIRST FEATURES | "Sixteen Candles" (1984) | John Hughes
+right: Jason
+Wrong: 
+Value: $800
+Number: 19
+SHAKESPEAREAN CHARACTERS | "Good-Day, Sir" is the first line of the play about this title Athenian | "Timon of Athens"
+right: Jason
+Wrong: 
+Value: $800
+Number: 14
+"BAN" | This wide-spreading east Indian fig tree has branches that send out roots to the ground | Banyan tree
+right: Rahul
+Wrong: 
+Value: $800
+Number: 29
+THE BOMB | From the Latin for "broken piece", this bomb is designed to break into many small pieces when exploded | Fragmentation bomb
+right: 
+Wrong: Triple Stumper
+Janet: What is shrapnel?
+Jason: What is a fragmentary bomb?
+Value: $800
+Number: 24
+FAMOUS AMERICANS | This athlete was stripped of his gold in 1913: | Jim Thorpe
+right: Jason
+Wrong: 
+Value: $1000
+Number: 10
+PARLIAMENTS | We wonder if this body, Iceland's parliament, issues its laws "to all people" | Althing
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 5
+DIRECTORS' FIRST FEATURES | "Who's Afraid of Virginia Woolf?" (1966) | Mike Nichols
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+SHAKESPEAREAN CHARACTERS | This title character is the daughter of Calchas, a Trojan priest | Cressida
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+"BAN" | Examples of this language group include Kikuyu, Tswana & Zulu | Bantu
+right: Rahul
+Wrong: 
+Value: $1000
+Number: 30
+THE BOMB | Also called an enhanced radiation bomb, it emits a large portion of its energy as radioactivity | Neutron bomb
+right: Jason
+Wrong: 
+Janet: What is an atomic bomb?
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Rahul: $5,300
+Janet: $100
+Jason: $10,900
+
+Final Jeopardy! Round
+WOMEN IN POEMS | Poe wrote "To" her, "Thy hyacinth hair, thy classic face, Thy Naiad airs have brought me home..." | Helen
+right: 
+Wrong: 
+Janet: Who is Annabell Lee
+Rahul: Who is ?
+Jason: Who is Alicia?
+Wagers: 
+Janet: $100
+Rahul: $5,099
+Jason: $200
+Final scores:
+Rahul: $201 (2nd place: Trip to Wyndham Rose Hall Resort , Montego Bay, Jamaica)
+Janet: $0 (3rd place: Polaroid Photomax Digital Camera Creative Kit)
+Jason: $10,700 (New champion: $10,700)
+
+Coryat scores
+Rahul: $6,300 (12 R,1 W(including 1 DD))
+Janet: $1,600 (15 R,4 W(including 1 DD))
+Jason: $10,200 (26 R(including 1 DD),2 W)

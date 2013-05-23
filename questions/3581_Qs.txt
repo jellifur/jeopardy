@@ -1,0 +1,340 @@
+6092 - Tuesday, February 22, 2011
+Comments: 2011 Teen Tournament quarterfinal game 4.
+Contestants:
+Lindsey Thiesfeld: a sophomore from Clarendon Hills, Illinois
+Idrees Kahloon: a junior from Lexington, Kentucky
+Cosi Audi: a junior from North Canton, Ohio
+First Jeopardy! Round: BIBLICAL PEOPLE, POP CULTURE, JUMPING JUPITER!, WE MAKE THAT, VAMPIRE DIARIES, COMBINED STATE ABBREV.
+BIBLICAL PEOPLE | The Lord told him, "Come thou and all thy house unto the ark" | Noah
+right: Idrees
+Wrong: 
+Value: $200
+Number: 3
+POP CULTURE | In 2010 McDonald's announced via Twitter that this pork sandwich was returning to its menu | McRib
+right: Lindsey
+Wrong: 
+Value: $200
+Number: 1
+JUMPING JUPITER! | Jupiter has one of these named Ganymede that's about the same size as the planet Mercury | a moon
+right: Lindsey
+Wrong: 
+Value: $200
+Number: 23
+WE MAKE THAT | iKnow it makes the Macbook Pro | Apple
+right: Lindsey
+Wrong: 
+Value: $200
+Number: 10
+VAMPIRE DIARIES | In a 2005 novel the narrator is absolutely positive that this 17-year-old is a vampire but loves him anyway | Edward
+right: Idrees
+Wrong: 
+Value: $200
+Number: 9
+COMBINED STATE ABBREV. | To whom it may concern: Delaware + Arkansas | dear
+right: Idrees
+Wrong: 
+Value: $200
+Number: 14
+BIBLICAL PEOPLE | This son of Jacob & Rachel was sold by his brothers to the Ishmaelites for 20 pieces of silver | Joseph
+right: Cosi
+Wrong: 
+Value: $400
+Number: 4
+POP CULTURE | This celebrity gossip website with a 3-letter name was launched in 2005 | TMZ
+right: Idrees
+Wrong: 
+Value: $400
+Number: 2
+JUMPING JUPITER! | In 1979 the Voyager probe discovered that Jupiter was surrounded by these; they're much less visible than Saturn's | rings
+right: Cosi
+Wrong: 
+Value: $400
+Number: 24
+WE MAKE THAT | It scored with the Air Max Hyped men's basketball shoe | Nike
+right: Idrees
+Wrong: 
+Value: $400
+Number: 16
+VAMPIRE DIARIES | She wrote the now-classic "Interview with the Vampire" | (Anne) Rice
+right: Cosi
+Wrong: 
+Value: $400
+Number: 11
+COMBINED STATE ABBREV. | Dark: Indiana + Kentucky | inky
+right: Idrees
+Wrong: 
+Value: $400
+Number: 15
+BIBLICAL PEOPLE | This first gospel writer had a feast at his house for his fellow tax collectors with Jesus as the honored guest | Matthew
+right: Cosi
+Wrong: 
+Value: $600
+Number: 8
+POP CULTURE | In 2010 this singer published his "100% Official" memoir, "First Step 2 Forever" | Justin Bieber
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 5
+JUMPING JUPITER! | (<http://www.j-archive.com/media/2011-02-22_J_30.wmv> Jimmy of the Clue Crew shows some space imagery on the monitor.)  A storm system that has lasted for centuries, this feature of Jupiter is large enough to engulf the Earth & Mars side by side | the Great Red Spot
+right: Idrees
+Wrong: 
+Value: $600
+Number: 30
+WE MAKE THAT | Play around with its PlayStation 3 | Sony
+right: Lindsey
+Wrong: 
+Value: $600
+Number: 17
+VAMPIRE DIARIES | Chapter XXIV of this novel opens with "Dr. Seward's phonograph diary, spoken by Van Helsing" | Dracula
+right: Idrees
+Wrong: 
+Value: $600
+Number: 12
+COMBINED STATE ABBREV. | A party: Georgia + Louisiana | gala
+right: Lindsey
+Wrong: 
+Value: $600
+Number: 25
+BIBLICAL PEOPLE | This patient man's name may mean "persecuted one" or "repentant one" | Job
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 13
+POP CULTURE | You might want to friend <http://www.j-archive.com/media/2011-02-22_J_06.jpg> this actor, a co-star of "The Social Network" | (Andrew) Garfield
+right: Cosi
+Wrong: 
+Value: $800
+Number: 6
+JUMPING JUPITER! | Despite its size, Jupiter is made up almost entirely of these 2 lightest elements | hydrogen & helium
+right: Idrees
+Wrong: 
+Value: $800
+Number: 28
+WE MAKE THAT | This company's 1969 jeans seem like they could be found in 1,969 malls | Gap
+right: Cosi
+Wrong: 
+Value: $800
+Number: 18
+VAMPIRE DIARIES | The "Vampire Diaries" series centers on Elena, Stefan & this brother of his | Damon
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+COMBINED STATE ABBREV. | Has a white face: Michigan + Maine | mime
+right: Lindsey
+Wrong: 
+Value: $800
+Number: 26
+BIBLICAL PEOPLE | After Jesus' resurrection, this fisherman was the first disciple to whom Jesus chose to appear | Simon Peter
+right: 
+Wrong: Triple Stumper
+Cosi: Who was Andrew?
+Value: $1000
+Number: 21
+POP CULTURE | In 2010 this rapper born Clifford Harris helped coax a would-be jumper down from an Atlanta building | T.I.
+right: Idrees
+Wrong: 
+Value: $1000
+Number: 7
+JUMPING JUPITER! | Appropriately, a NASA probe that orbited Jupiter for more than 8 years was named for this astronomer | Galileo
+right: Idrees
+Wrong: 
+Value: DD: $2,000
+Number: 29
+WE MAKE THAT | When it comes to laptops, this company's vPro processors are inside | Intel
+right: Idrees
+Wrong: 
+Value: $1000
+Number: 22
+VAMPIRE DIARIES | In a 2009 book by Amanda Grange, Elizabeth Bennet discovers this title character's true nature (he's a vampyre) | Mr. Darcy
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+COMBINED STATE ABBREV. | Think of a bouquet: Florida + Oregon + Alabama | floral
+right: Idrees
+Wrong: 
+Value: $1000
+Number: 27
+Scores at the first commercial break (after clue 15)
+Cosi: $2,200
+Idrees: $3,000
+Lindsey: $400
+Scores at the end of the Jeopardy! Round:
+Cosi: $2,400
+Idrees: $8,800
+Lindsey: $2,600
+Second Jeopardy! Round: CRIME DETECTION, WINTER SPORTS, HOMECOMING KINGS & QUEENS, COUNTRIES' LOWEST POINTS, RED THINGS, CROSSWORD CLUES "D"
+CRIME DETECTION | Reacting to hemoglobin, the chemical Luminol is used to detect this, even if it's been wiped off | blood
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 4
+WINTER SPORTS | On New Year's Day, many souls brave icy waters to take part in a swim named for these ursine creatures | a polar bear swim
+right: Lindsey
+Wrong: 
+Idrees: What is a bear swim?
+Value: $400
+Number: 12
+HOMECOMING KINGS & QUEENS | Mary, queen of these people, didn't see many of them when she lived in France from age 5 until her return at 18 | the Scots
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 1
+COUNTRIES' LOWEST POINTS | For Antigua & Barbuda: This sea | the Caribbean
+right: Idrees
+Wrong: 
+Value: $400
+Number: 22
+RED THINGS | These octagonal warnings weren't always red; some were yellow until 1954 | stop signs
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 2
+CROSSWORD CLUES "D" | Crazy, like a certain cartoon duck (5) | daffy
+right: Cosi
+Wrong: 
+Value: $400
+Number: 13
+CRIME DETECTION | A specialized lab is used for toxicology, the detection of these, from the Latin for "drink" | poison
+right: Idrees
+Wrong: 
+Value: $800
+Number: 6
+WINTER SPORTS | Let's have a race using <http://www.j-archive.com/media/2011-02-22_DJ_24.jpg> this craft whose name comes from a Native American word for "sled" | a toboggan
+right: Cosi
+Wrong: 
+Value: $800
+Number: 24
+HOMECOMING KINGS & QUEENS | In 2010 Akhenaton returned to this African country; actually it was just his big toe, which had been removed in 1968 | Egypt
+right: Idrees
+Wrong: 
+Value: $800
+Number: 14
+COUNTRIES' LOWEST POINTS | For Sri Lanka: This ocean | the Indian Ocean
+right: Cosi
+Wrong: 
+Value: $800
+Number: 23
+RED THINGS | (<http://www.j-archive.com/media/2011-02-22_DJ_03.jpg> National Geographic photographer Paul Nicklen presents the clue.)  It took years to get a shot of the red aurora borealis; charged particles in the "wind" from this celestial body collide with oxygen in Earth's magnetic field to produce the hue | the Sun
+right: Idrees
+Wrong: 
+Value: $800
+Number: 3
+CROSSWORD CLUES "D" | Permanently leaving the military without permission (9) | desertion
+right: Lindsey
+Wrong: 
+Value: $800
+Number: 16
+CRIME DETECTION | A forensic expert "dusting" a room is checking for these "digital" clues | fingerprints
+right: Lindsey
+Wrong: 
+Value: $1200
+Number: 9
+WINTER SPORTS | Snowboarders use a U-shaped structure called a half this to perform radical tricks | a pipe
+right: Lindsey
+Wrong: 
+Value: $1200
+Number: 25
+HOMECOMING KINGS & QUEENS | Chimham helped bring King David over the Jordan when he returned to this city after a rebellion | Jerusalem
+right: Lindsey
+Wrong: 
+Value: $1200
+Number: 15
+COUNTRIES' LOWEST POINTS | For Lithuania: This sea | the Baltic
+right: Idrees
+Wrong: 
+Value: $1200
+Number: 27
+RED THINGS | The red flyer is a large type of this marsupial | a kangaroo
+right: Idrees
+Wrong: 
+Value: $1200
+Number: 5
+CROSSWORD CLUES "D" | It goes on salads or on wounds (8) | dressing
+right: Lindsey
+Wrong: 
+Value: $1200
+Number: 17
+CRIME DETECTION | This word for a public official who investigates all non-natural deaths comes from the Latin for "crown" | a coroner
+right: Lindsey
+Wrong: 
+Value: $1600
+Number: 10
+WINTER SPORTS | Encyclopedia Britannica calls this sport "a game similar to lawn bowls but played on ice" | curling
+right: Idrees
+Wrong: 
+Value: $1600
+Number: 26
+HOMECOMING KINGS & QUEENS | In 1945, after the wartime years in England, Queen Wilhelmina crossed the North Sea & returned to this country | the Netherlands
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+COUNTRIES' LOWEST POINTS | For Ukraine: This sea | the Black Sea
+right: Idrees
+Wrong: 
+Value: $1600
+Number: 28
+RED THINGS | He was the father of Leif Eriksson | Erik the Red
+right: Idrees
+Wrong: 
+Value: $1600
+Number: 7
+CROSSWORD CLUES "D" | Any tyrannical ruler (6) | a despot
+right: Idrees
+Wrong: 
+Value: $1600
+Number: 18
+CRIME DETECTION | In a forensic lab, a hood eliminates fumes & prevents the intrusive process called "cross" this | cross-contamination
+right: Lindsey
+Wrong: 
+Value: $2000
+Number: 11
+WINTER SPORTS | Nordic combined events start with a ski jump & end with one of these long alliterative races | the cross-country race
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+HOMECOMING KINGS & QUEENS | In 1996 King Simeon returned to Bulgaria; he had fled in 1946 after a takeover by this very anti-king political party | the Communist Party
+right: Idrees
+Wrong: 
+Value: $2000
+Number: 21
+COUNTRIES' LOWEST POINTS | For Russia: This "sea" | the Caspian Sea
+right: Idrees
+Wrong: 
+Value: DD: $2,000
+Number: 29
+RED THINGS | In issues of French Vogue you read a lot about people on le tapis rouge, this | the red carpet
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 8
+CROSSWORD CLUES "D" | Pre-Christian Celtic priest (5) | a druid
+right: Idrees
+Wrong: 
+Value: DD: $3,000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Cosi: $4,400
+Idrees: $27,000
+Lindsey: $13,400
+
+Final Jeopardy! Round
+19th CENTURY NAMES | In an 1845 autobiography, he wrote, "You have seen how a man was made a slave; you shall see how a slave was made a man" | Frederick Douglass
+right: Cosi | Lindsey | Idrees
+Wrong: 
+Wagers: 
+Cosi: $3,399
+Lindsey: $2,001
+Idrees: $0
+Final scores:
+Cosi: $7,799 (3rd place: $5,000 if eliminated)
+Idrees: $27,000 (Automatic semifinalist)
+Lindsey: $15,401 (2nd place: $5,000 if eliminated)
+
+Coryat scores
+Cosi: $4,400 (9 R,1 W)
+Idrees: $25,000 (26 R(including 3 DDs),1 W)
+Lindsey: $13,400 (17 R,0 W)

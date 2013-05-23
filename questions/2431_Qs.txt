@@ -1,0 +1,347 @@
+5446 - Monday, April 21, 2008
+Contestants:
+Brett Kirwan: a naval officer originally from Avon Lake, Ohio
+Rosalind Jaffe: a bank manager from Onekama, Michigan
+Gabriel Schechter: a researcher from Cooperstown, New York (whose 1-day cash winnings total $19,600)
+First Jeopardy! Round: TRAVEL EUROPE, I "LIKE" THIS SONG, PRESIDENTIAL PASTIMES, RHYME QUEST, WHO'S FOR DESSERT?, TIME FOR LEFTOVERS
+TRAVEL EUROPE | "Wax" nostalgic (or is that nostalgique?) at Musee Grevin, this capital's answer to Madame Tussaud's | Paris
+right: Rosalind
+Wrong: 
+Value: $200
+Number: 3
+I "LIKE" THIS SONG | This Bob Seger song was used in ads for Chevy trucks | "Like A Rock"
+right: Brett
+Wrong: 
+Value: $200
+Number: 16
+PRESIDENTIAL PASTIMES | He spent time at his California ranch where he could ride horses, chop wood & play the part of a cowboy | Reagan
+right: Gabriel
+Wrong: 
+Value: $200
+Number: 8
+RHYME QUEST | A final, as in a final exam | a test
+right: Brett
+Wrong: 
+Value: $200
+Number: 13
+WHO'S FOR DESSERT? | In the South, the lemony cake named for this Civil War general is the perfect treat for his birthday, Jan. 19 | Robert E. Lee
+right: Brett
+Wrong: 
+Value: $200
+Number: 1
+TIME FOR LEFTOVERS | In the nursery rhyme, they're made up of "snips & snails & puppy dog tails" | little boys
+right: Rosalind
+Wrong: 
+Value: $200
+Number: 24
+TRAVEL EUROPE | The Barengraben, or bear pits, in this Swiss capital have entertained visitors for centuries | Bern
+right: Rosalind
+Wrong: 
+Value: $400
+Number: 4
+I "LIKE" THIS SONG | Duran Duran made its Top 40 debut with this song | "Hungry Like The Wolf"
+right: 
+Wrong: Triple Stumper
+Brett: What is "Hungry Like A Wolf"?
+Value: $400
+Number: 20
+PRESIDENTIAL PASTIMES | Warren Harding often had a full house drinking & playing this card game into the wee hours | poker
+right: Gabriel
+Wrong: 
+Value: $400
+Number: 9
+RHYME QUEST | Better than better | best
+right: Gabriel
+Wrong: 
+Value: $400
+Number: 14
+WHO'S FOR DESSERT? | Let's make the chocolate candies named for this First Lady who was born in Virginia in 1731 | Martha Washington
+right: Rosalind
+Wrong: 
+Value: $400
+Number: 2
+TIME FOR LEFTOVERS | John Harrington was flush with success in the 1590s with his invention of one of these that flushed | a toilet
+right: Gabriel
+Wrong: 
+Value: $400
+Number: 25
+TRAVEL EUROPE | Gripsholm Castle, on an island in Lake Malaren, was built by this country's King Gustav Vasa | Sweden
+right: Gabriel
+Wrong: 
+Value: $600
+Number: 5
+I "LIKE" THIS SONG | This 1965 song begins, "Once upon a time you dressed so fine" | "Like A Rolling Stone"
+right: Rosalind
+Wrong: 
+Value: $600
+Number: 21
+PRESIDENTIAL PASTIMES | As seen in the <http://www.j-archive.com/media/2008-04-21_J_10.jpg> picture, Franklin Roosevelt enjoyed stamp collecting, this nine-letter hobby | philately
+right: Brett
+Wrong: 
+Value: $600
+Number: 10
+RHYME QUEST | Repose | rest
+right: Rosalind
+Wrong: 
+Value: $600
+Number: 15
+WHO'S FOR DESSERT? | Feeling dramatic? Try the rich chocolate cake named for this very dramatic French actress of the 1800s | Sarah Bernhardt
+right: Gabriel
+Wrong: 
+Value: $600
+Number: 17
+TIME FOR LEFTOVERS | It's the term for a group of grapes, perhaps a "wild" one | a bunch
+right: Brett
+Wrong: 
+Value: $600
+Number: 26
+TRAVEL EUROPE | Some believe the best Greek sweet wine is mavrodaphne, a specialty of this peninsula in Greece | the Peloponnesian peninsula
+right: Brett
+Wrong: 
+Value: $800
+Number: 6
+I "LIKE" THIS SONG | The 2 Madonna No. 1 hits that fit the category | "Like A Virgin" & "Like A Prayer"
+right: Brett
+Wrong: 
+Value: $800
+Number: 22
+PRESIDENTIAL PASTIMES | He liked to box, wrestle & hunt & loved to play tennis; in fact, his group of advisers was known as the Tennis Cabinet | Teddy Roosevelt
+right: Rosalind
+Wrong: 
+Value: $800
+Number: 11
+RHYME QUEST | A soiree invitee (if he shows up) | a guest
+right: Brett
+Wrong: 
+Value: $800
+Number: 18
+WHO'S FOR DESSERT? | Pass the dessert that the French call Reine de Saba; we know it in English as this Biblical woman's cake | the Queen of Sheba
+right: Brett
+Wrong: 
+Value: DD: $800
+Number: 29
+TIME FOR LEFTOVERS | Fights broke out in U.S. stores in 1998 between shoppers trying to buy these talking, fuzzy Hasbro toys | Furbies
+right: 
+Wrong: Triple Stumper
+Rosalind: What is Tickle Me Elmo?
+Value: $800
+Number: 27
+TRAVEL EUROPE | (<http://www.j-archive.com/media/2008-04-21_J_07.jpg> Jon of the Clue Crew reports from the Imperial Palace in Vienna, Austria.) The Imperial Chapel is home to the Wiener Sangerknaben, this world-famous group that was formed in 1498 | the Vienna Boys' Choir
+right: Gabriel
+Wrong: 
+Value: $1000
+Number: 7
+I "LIKE" THIS SONG | This entertainment industry anthem was written for the Broadway musical "Annie Get Your Gun" | "There's No Business Like Show Business"
+right: Brett
+Wrong: 
+Value: $1000
+Number: 23
+PRESIDENTIAL PASTIMES | For exercise, this president seen <http://www.j-archive.com/media/2008-04-21_J_12.jpg> here liked to swing Indian clubs | Calvin Coolidge
+right: Rosalind
+Wrong: 
+Value: $1000
+Number: 12
+RHYME QUEST | Gusto | zest
+right: Brett
+Wrong: 
+Value: $1000
+Number: 19
+WHO'S FOR DESSERT? | (<http://www.j-archive.com/media/2008-04-21_J_30.jpg> Emeril Lagasse whips something up.) I'm beating egg whites to make a Down Under meringue dessert; Aussies so named the dessert because they were impressed with the floating grace of this early 20th century dancer | Pavlova
+right: Rosalind
+Wrong: 
+Value: $1000
+Number: 30
+TIME FOR LEFTOVERS | A quindecennial happens every this many years | 15
+right: 
+Wrong: Triple Stumper
+Gabriel: What is 500?
+Brett: What is 50?
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Gabriel: $2,600
+Rosalind: $3,400
+Brett: $1,800
+Scores at the end of the Jeopardy! Round:
+Gabriel: $2,600
+Rosalind: $4,400
+Brett: $5,600
+Second Jeopardy! Round: PHYSICS, THEATRE, TEXAS, BUSINESS TALK, MARINE LIFE, CROSSWORD CLUES "N"
+PHYSICS | This one of the 3 main states of matter has no fixed shape or volume | gas
+right: Gabriel
+Wrong: 
+Value: $400
+Number: 16
+THEATRE | Sean O'Casey's "Juno and the Paycock" takes place in a tenement house in this capital city | Dublin
+right: Rosalind
+Wrong: 
+Value: $400
+Number: 7
+TEXAS | This major league baseball team plays its home games in Arlington, Texas | the Rangers
+right: Brett
+Wrong: 
+Value: $400
+Number: 1
+BUSINESS TALK | Stockholm or Madrid, or the investment money put up to start a business | capital
+right: Brett
+Wrong: 
+Value: $400
+Number: 20
+MARINE LIFE | The green type of this reptile gained protection in the 20th century because of its popular use in soup | a turtle
+right: Rosalind
+Wrong: 
+Value: $400
+Number: 25
+CROSSWORD CLUES "N" | One is hit on the head (4) | a nail
+right: Rosalind
+Wrong: 
+Value: $400
+Number: 6
+PHYSICS | I shot an arrow into the air; if not for friction, it would have formed this plane curve, from the Greek for "to compare" | a parabola
+right: 
+Wrong: Triple Stumper
+Rosalind: What is an ellipse?
+Value: $800
+Number: 17
+THEATRE | "Kremlin Chimes" is the second play in Nikolai Pogodin's trilogy about this leader of the Russian Revolution | Lenin
+right: Gabriel
+Wrong: 
+Value: $800
+Number: 8
+TEXAS | Texas' only natural lake is Caddo Lake, shared with this state to the east | Louisiana
+right: Gabriel
+Wrong: 
+Value: $800
+Number: 2
+BUSINESS TALK | From the Latin for "holy", they're economic measures taken against a nation for violating international law | sanctions
+right: Brett
+Wrong: 
+Value: $800
+Number: 21
+MARINE LIFE | The black type of this fish with a woman's name is a striking addition to any aquarium | a molly
+right: Rosalind
+Wrong: 
+Value: $800
+Number: 27
+CROSSWORD CLUES "N" | About his jacket, critics pandit (5) | Nehru
+right: Gabriel
+Wrong: 
+Value: $800
+Number: 12
+PHYSICS | (<http://www.j-archive.com/media/2008-04-21_DJ_18.wmv> Jon of the Clue Crew shows himself on the monitor, swiveling around in a chair with dumbbells in his hands, extending and contracting his arms.)  When I draw my arms inward, my angular velocity increases because my angular mass decreases; the product of those two quantities is called angular this | momentum
+right: 
+Wrong: 
+Gabriel: [Sighs]
+Value: DD: $3,000
+Number: 18
+THEATRE | This "Electra"fying playwright gets the credit for adding a third actor to Greek tragedies | Sophocles
+right: Rosalind
+Wrong: 
+Value: $1200
+Number: 9
+TEXAS | Several states including Texas have this cooking-utensil feature: Oklahoma, Florida & Nebraska, for example | a panhandle
+right: Gabriel
+Wrong: 
+Value: DD: $3,400
+Number: 3
+BUSINESS TALK | It's the 3-word scam in which a customer is pressured to buy more expensive items than the ones advertised | bait and switch
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 22
+MARINE LIFE | Newly hatched octopi live among this group of microscopic plants & animals that float on the ocean's surface | plankton
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+CROSSWORD CLUES "N" | Nada (7) | nothing
+right: Gabriel
+Wrong: 
+Value: $1200
+Number: 13
+PHYSICS | The special theory of this says that the speed of light in a vacuum is a universal constant | relativity
+right: Brett
+Wrong: 
+Value: $1600
+Number: 19
+THEATRE | In 1990 this playwright won his second Pulitzer Prize, for "The Piano Lesson" | August Wilson
+right: Rosalind
+Wrong: 
+Brett: Who is Neil Simon?
+Value: $1600
+Number: 10
+TEXAS | Anson Jones was the last president of this entity, serving until 1845, when it joined the U.S. | the Republic of Texas
+right: Brett
+Wrong: 
+Value: $1600
+Number: 4
+BUSINESS TALK | From the Latin for "to roll together", it's a corporation of several companies involved in a variety of businesses | conglomerate
+right: Rosalind
+Wrong: 
+Value: $1600
+Number: 23
+MARINE LIFE | The savory silver salmon with its bright red flesh is also known by this 4-letter name | coho
+right: Gabriel
+Wrong: 
+Value: $1600
+Number: 29
+CROSSWORD CLUES "N" | Country music city (9) | Nashville
+right: Brett
+Wrong: 
+Value: $1600
+Number: 14
+PHYSICS | The 1963 Nobel Physics Prize went to the folks who found these have shells, with the outermost being the densest | atomic nuclei
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+THEATRE | This "diminuitive" Edward Albee play was first produced on Broadway in 1964 | Tiny Alice
+right: Gabriel
+Wrong: 
+Value: $2000
+Number: 11
+TEXAS | In 1976 this Texas congresswoman became the first black keynote speaker at a Dem. National Convention | Barbara Jordan
+right: Gabriel
+Wrong: 
+Brett: Who is Sheila Jackson Lee?
+Value: $2000
+Number: 5
+BUSINESS TALK | Abbreviated "MFN", it's the clause in an international trade agreement that grants signatory countries the same tariff rate | most favoured nation
+right: Rosalind
+Wrong: 
+Value: $2000
+Number: 24
+MARINE LIFE | Less than half an inch long, this tiny fish is found in the Indian Ocean, not in an Asian desert | the gobi
+right: Rosalind
+Wrong: 
+Value: $2000
+Number: 30
+CROSSWORD CLUES "N" | It falls daily (5) | night
+right: Gabriel
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Gabriel: $14,600
+Rosalind: $14,000
+Brett: $8,400
+
+Final Jeopardy! Round
+MILITARY MEN | In a 1944 speech, he said, "Battle is the most magnificent competition in which a human being can indulge" | George Patton
+right: Brett
+Wrong: 
+Rosalind: Who is MacArthur
+Gabriel: Who is Eisenhower?
+Wagers: 
+Brett: $8,399
+Rosalind: $3,000
+Gabriel: $13,401
+Final scores:
+Gabriel: $1,199 (3rd place: $1,000)
+Rosalind: $11,000 (2nd place: $2,000)
+Brett: $16,799 (New champion: $16,799)
+
+Coryat scores
+Gabriel: $15,400 (17 R(including 1 DD),2 W(including 1 DD))
+Rosalind: $14,000 (18 R,2 W)
+Brett: $8,400 (17 R(including 1 DD),4 W)

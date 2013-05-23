@@ -1,0 +1,337 @@
+3704 - Thursday, October 12, 2000
+Contestants:
+John Weiner: a systems analyst from New York City, New York
+Ginger Greenstein: a computer consultant from Freehold, New Jersey
+David Tepper: an attorney from Richmond, Virginia (whose 1-day cash winnings total $6,500)
+First Jeopardy! Round: THE COMMUNIST MANIFESTO, MOVIE ROLES, INSECTS, PLACES TO LIVE, THE ADAMS FAMILY, -GRAMS
+THE COMMUNIST MANIFESTO | These 2 authors were both in their 20s when they wrote the pamphlet | Karl Marx & Friedrich Engels
+right: Ginger
+Wrong: 
+Value: $100
+Number: 8
+MOVIE ROLES | In the movie "M*A*S*H", Robert Duvall played this priggish doctor; on TV it was Larry Linville | Major Frank Burns
+right: Ginger
+Wrong: 
+Value: $100
+Number: 1
+INSECTS | There may be thousands of ommatidia, light-sensitive units, in an insect's compound one of these | Eyes
+right: John
+Wrong: 
+Value: $100
+Number: 6
+PLACES TO LIVE | A day room is a recreational area in these quarters for soldiers | Barracks
+right: David
+Wrong: 
+Value: $100
+Number: 22
+THE ADAMS FAMILY | In 1767 his wife gave birth to a future U.S. president | John Adams
+right: John
+Wrong: 
+Value: $100
+Number: 17
+-GRAMS | Term for a 3D image you might see on your credit card | Hologram
+right: John
+Wrong: 
+Value: $100
+Number: 14
+THE COMMUNIST MANIFESTO | The proletarians "have nothing to lose but" these | Their chains
+right: Ginger
+Wrong: 
+Value: $200
+Number: 9
+MOVIE ROLES | [Hi, I'm Earl Brown]  Because we look so much alike, I was cast as Warren, this actress' brother in "There's Something About Mary" | Cameron Diaz
+right: David
+Wrong: 
+Value: $200
+Number: 2
+INSECTS | It's said that in Asia, people learned how to make this by watching wasps | Paper
+right: David
+Wrong: 
+Value: $200
+Number: 7
+PLACES TO LIVE | The name of this residence for ranch hands indicates its beds are stacked atop each other | Bunkhouse
+right: John
+Wrong: 
+Value: $200
+Number: 23
+THE ADAMS FAMILY | You'll have missed it by that much if you don't know this man played inept TV secret agent Maxwell Smart | Don Adams
+right: John
+Wrong: 
+Value: $200
+Number: 18
+-GRAMS | A trademarked delivery of sweets & a message | Candygram
+right: David
+Wrong: 
+Value: $200
+Number: 27
+THE COMMUNIST MANIFESTO | The pamphlet was first printed in this city in 1848 in German, not English | London
+right: David
+Wrong: 
+Value: $300
+Number: 10
+MOVIE ROLES | In 1996 she got to play Juliet opposite Leonardo DiCaprio as Romeo | Claire Danes
+right: John
+Wrong: 
+Value: $300
+Number: 3
+INSECTS | Scientists take an EAG, an electroantennogram, to measure how a moth's antennae nerves pick up these sex odors | Pheromones
+right: David
+Wrong: 
+Value: $300
+Number: 12
+PLACES TO LIVE | It's the French word for the type of Loire Valley home seen here; the region is famous for them | Chateau
+right: Ginger
+Wrong: 
+Value: $300
+Number: 24
+THE ADAMS FAMILY | This European politician seen here is often embroiled in controversy | Gerry Adams (of Sinn Fein)
+right: Ginger
+Wrong: 
+Value: $300
+Number: 19
+-GRAMS | A short, witty saying | Epigram
+right: John
+Wrong: 
+Value: $300
+Number: 28
+THE COMMUNIST MANIFESTO | One of the authors figured they'd do for history what this man did for biology | Charles Darwin
+right: John
+Wrong: 
+Value: $400
+Number: 11
+MOVIE ROLES | This actress spent "Six Days, Seven Nights" on an island with Harrison Ford | Anne Heche
+right: Ginger
+Wrong: 
+Value: $400
+Number: 4
+INSECTS | As most insects don't need to transport oxygen in their blood, they lack this protein that makes blood red | Hemoglobin
+right: Ginger
+Wrong: 
+Value: $400
+Number: 15
+PLACES TO LIVE | 2 residences with a common wall are called "semi" this | Detached
+right: David
+Wrong: 
+Value: $400
+Number: 25
+THE ADAMS FAMILY | A large bear named Ben was the best friend of this Dan Haggerty TV character | Grizzly Adams
+right: David
+Wrong: 
+Value: $400
+Number: 20
+-GRAMS | 35.28 ounces | Kilogram
+right: John
+Wrong: 
+Value: $400
+Number: 29
+THE COMMUNIST MANIFESTO | The manifesto applies this term, originally meaning "the inhabitants of cities", to the middle class | bourgeoisie
+right: David
+Wrong: 
+Value: DD: $500
+Number: 13
+MOVIE ROLES | (Hi, I'm Tisha Campbell-Martin.) I was Sidney in 3 installments of this series featuring Kid N' Play | House Party
+right: John
+Wrong: 
+Value: $500
+Number: 5
+INSECTS | The whirligig beetle is one of the fastest insects at this activity; it can go 40 inches per second | Swimming
+right: Ginger
+Wrong: 
+Value: $500
+Number: 16
+PLACES TO LIVE | Common term for a low-income development, like Detroit's Brewster one where the Supremes grew up | Project
+right: Ginger
+Wrong: 
+Value: $500
+Number: 26
+THE ADAMS FAMILY | Beginning in the mid-1930s, this wilderness photographer served as a director of the Sierra Club | Ansel Adams
+right: John
+Wrong: 
+Value: $500
+Number: 21
+-GRAMS | An X-ray of blood vessels | Angiogram
+right: David
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+David: $1,000
+Ginger: $800
+John: $1,000
+Scores at the end of the Jeopardy! Round:
+David: $2,600
+Ginger: $2,400
+John: $2,700
+Second Jeopardy! Round: NATIONAL NAMES, '70s SONGS, THEATRICAL QUOTES, FUR-BEARING CREATURES?, THE MAJORS, THE "MINOR"s
+NATIONAL NAMES | Slovenska Republika | Slovak Republic (Slovakia)
+right: Ginger
+Wrong: 
+Value: $200
+Number: 1
+'70s SONGS | The big hit off this group's 1973 album "Goats Head Soup" was "Angie" | The Rolling Stones
+right: John
+Wrong: 
+Value: $200
+Number: 3
+THEATRICAL QUOTES | This "Crucible" playwright suggested his epitaph should one day read "He worked awfully hard" | Arthur Miller
+right: Ginger
+Wrong: 
+Value: $200
+Number: 4
+FUR-BEARING CREATURES? | In 2000 he earned his stripes by becoming the first golfer since Ben Hogan to win 3 majors in 1 season | Tiger Woods
+right: Ginger
+Wrong: 
+Value: $200
+Number: 10
+THE MAJORS | Union major Robert Anderson was asked to surrender the federal garrison at this fort in April 1861 | Fort Sumter
+right: John
+Wrong: 
+Value: $200
+Number: 9
+THE "MINOR"s | The ancient city of Troy was on this peninsula | Asia Minor
+right: David
+Wrong: 
+Value: $200
+Number: 21
+NATIONAL NAMES | Kongeriket Norge | Norway
+right: John
+Wrong: 
+Value: $400
+Number: 2
+'70s SONGS | His "Two Tickets to Paradise" cashed out at No. 22 in 1978 | Eddie Money
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+THEATRICAL QUOTES | Thornton Wilder explained the stage directions for this play with "The less seen, the more heard" | "Our Town"
+right: David
+Wrong: 
+Value: $400
+Number: 7
+FUR-BEARING CREATURES? | Barking dogs dash around at Crufts & he dashed around with Crofts, Dash Crofts | Jim Seals
+right: John
+Wrong: 
+Value: $400
+Number: 11
+THE MAJORS | In 1893 this major was named curator of the Army Medical Museum in Washington, D.C. | Walter Reed
+right: David
+Wrong: 
+Value: $400
+Number: 19
+THE "MINOR"s | In the Bible they run alphabetically from Amos to Zephaniah | Minor Prophets
+right: Ginger
+Wrong: 
+Value: $400
+Number: 22
+NATIONAL NAMES | Yamaniyah | Yemen
+right: David
+Wrong: 
+Value: $600
+Number: 5
+'70s SONGS | [Hi, I'm Kari Wuhrer]  On my album "Shiny" I cover this 1970 Badfinger hit; it was featured in the film "The Magic Christian" | "Come and Get It"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+THEATRICAL QUOTES | [Hi, I'm Jon Lovitz]  While going through customs, this playwright proclaimed, "I have nothing to declare except my genius"  [I said that yesterday about myself!] | Oscar Wilde
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 12
+FUR-BEARING CREATURES? | Stumpy-tailed feline who gave us an unforgettable portrayal in "Shakes the Clown" | Bobcat Goldthwait
+right: David
+Wrong: 
+Value: $600
+Number: 16
+THE MAJORS | In 1906 he was restored to the French army with the rank of major | Alfred Dreyfus
+right: David
+Wrong: 
+Value: DD: $3,000
+Number: 20
+THE "MINOR"s | From 1965 to 1973 Gerald Ford held this post in the House | House Minority Leader
+right: John
+Wrong: 
+Value: $600
+Number: 23
+NATIONAL NAMES | Zhongghua | (Mainland) China
+right: David
+Wrong: 
+Value: $800
+Number: 8
+'70s SONGS | This Curtis Mayfield hit from 1972 was from "Superfly", not "Nightmare on Elm Street" | "Freddie's Dead"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+THEATRICAL QUOTES | Noel Coward quipped this Lerner & Loewe musical was "about as long as 'Parsifal', and not as funny" | "Camelot"
+right: 
+Wrong: 
+Value: DD: $1,500
+Number: 13
+FUR-BEARING CREATURES? | In 1876 he was made a deputy sheriff of the whole of Dodge City, belfries & all | Bat Masterson
+right: John
+Wrong: 
+Value: $800
+Number: 17
+THE MAJORS | Major Richard Bong of the U.S. Army Air Force did this 40 times during WWII, an American record | Shot down enemy planes
+right: David
+Wrong: 
+Value: $800
+Number: 26
+THE "MINOR"s | The sky wouldn't be bare without this constellation that contains the Little Dipper; there are 87 others | Ursa Minor
+right: John
+Wrong: 
+Value: $800
+Number: 24
+NATIONAL NAMES | Kypriaki Dimokratia | Cyprus
+right: John
+Wrong: 
+Value: $1000
+Number: 6
+'70s SONGS | In 1970 this lead singer of Paul Revere & the Raiders went solo & had 2 hits, "Arizona" & "Silver Bird" | Mark Lindsay
+right: Ginger
+Wrong: 
+Value: $1000
+Number: 30
+THEATRICAL QUOTES | George S. Kaufman defined this type of comedy as "What closes Saturday night" | Satire
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+FUR-BEARING CREATURES? | After the "Roman Empire", he might have tackled "The Decline and Fall of the Planet of the Apes" | Edward Gibbon
+right: John
+Wrong: 
+Value: $1000
+Number: 18
+THE MAJORS | This surgeon who discovered insulin with Charles Best served with the Canadian army as a major in WWII | Frederick Banting
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+THE "MINOR"s | It's the key of Beethoven's famous Fifth Symphony | C Minor
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+David: $8,400
+Ginger: $2,600
+John: $5,000
+
+Final Jeopardy! Round
+BRITISH WORD ORIGINS | These political party names began as negative terms for the 2 factions warring over the 1678 Meal-Tub Plot | Tories & Whigs
+right: Ginger | John | David
+Wrong: 
+Wagers: 
+Ginger: $2,500
+John: $201
+David: $1,601
+Final scores:
+David: $10,001 (2-day champion: $16,501)
+Ginger: $5,100 (3rd place: Samsung Cameras)
+John: $5,201 (2nd place: Trip to Tezcuco Plantation Home, Darrow, Louisiana)
+
+Coryat scores
+David: $6,000 (18 R(including 2 DDs),2 W)
+Ginger: $2,600 (14 R,3 W)
+John: $6,500 (20 R,6 W(including 1 DD))

@@ -1,0 +1,344 @@
+3841 - Monday, April 23, 2001
+Comments: New theme music.
+Contestants:
+Robin O'Brien: a project manager from New York City, New York
+Janet Torpy: an anesthesiologist from Rockford, Illinois
+Joe Collins: a stagehand from Lincolnwood, Illinois (whose 1-day cash winnings total $9,401)
+First Jeopardy! Round: PRISON SENTENCES, CEREMONIES, ROCK "G"ROUPS, WHAT A DOG!, IN THE MIDDLE OF THE STATE, JEOPARDY! PLACE
+PRISON SENTENCES | Alger Hiss got 5 years after his 1950 perjury trial, thanks to this CA. Congressman who had his own legal issues in '74 | Richard Nixon
+right: Robin
+Wrong: 
+Value: $100
+Number: 18
+CEREMONIES | In 1996 Dr. Samuel Harris cut a simulated strand of this to open the new Museum of Dentistry in Baltimore | Dental floss
+right: Robin
+Wrong: 
+Value: $100
+Number: 6
+ROCK "G"ROUPS | Slash & Axl Rose were members of this hard-rockin' L.A. band | Guns N' Roses
+right: Robin
+Wrong: 
+Value: $100
+Number: 1
+WHAT A DOG! | The basenji might not make the best guard dog since it can't do this, like other dogs | Bark
+right: Janet
+Wrong: 
+Value: $100
+Number: 10
+IN THE MIDDLE OF THE STATE | Colorado has a little "color" in its name, but this state has a "tan" | monTANa
+right: Joe
+Wrong: 
+Value: $100
+Number: 23
+JEOPARDY! PLACE | The snitch knows who bought the Claymore mine & he can get Jonas some AK-47s, first created in this country | Russia
+right: Janet
+Wrong: 
+Value: $100
+Number: 16
+PRISON SENTENCES | This Panamanian "strongman" learned he had 40 years to pump weights in the yard after his 1992 drug trial | Manuel Noriega
+right: Robin
+Wrong: 
+Value: $200
+Number: 19
+CEREMONIES | The Iroquois celebrate the annual "Rise of" this tree that's tapped for sap | Maple
+right: Janet
+Wrong: 
+Value: $200
+Number: 7
+ROCK "G"ROUPS | Albums from this group include "What A Long Strange Trip It's Been" & "Terrapin Station" | Grateful Dead
+right: Joe
+Wrong: 
+Value: $200
+Number: 2
+WHAT A DOG! | There are American & English types of this popular breed of dog seen here | cocker spaniel
+right: Janet
+Wrong: 
+Value: $200
+Number: 11
+IN THE MIDDLE OF THE STATE | No state has a "nip", but this one has a "tuck" | kenTUCKy
+right: Robin
+Wrong: 
+Value: $200
+Number: 24
+JEOPARDY! PLACE | Drake tells Trent he, like this book's Homer Wells, was taught medicine in an orphanage | "The Cider House Rules"
+right: Joe
+Wrong: 
+Value: $200
+Number: 17
+PRISON SENTENCES | This controversial comedian who died young received a 4-month stretch after his 1964 obscenity trial | Lenny Bruce
+right: Joe
+Wrong: 
+Value: $300
+Number: 20
+CEREMONIES | These ceremonies include the extinguishing of the Olympic flame | Closing ceremonies
+right: Joe
+Wrong: 
+Value: $300
+Number: 8
+ROCK "G"ROUPS | In 1970 Phil Collins became the drummer for this group after answering an ad in Melody Maker | Genesis
+right: Janet
+Wrong: 
+Value: $300
+Number: 3
+WHAT A DOG! | Breed of dog that became President Clinton's new "buddy" in 1997 | Chocolate lab
+right: Joe
+Wrong: 
+Robin: What is a black lab?
+Value: $300
+Number: 12
+IN THE MIDDLE OF THE STATE | A "bra" is supporting this state | neBRAska
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 25
+JEOPARDY! PLACE | As Dr. Malone tells her son he has 2 brothers & their father was last seen on this holiday knights 1st celebrated in 1882 | Labor Day
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+PRISON SENTENCES | This "Queen of Mean" hotelier found that "the little people" who did pay their taxes didn't get 4 years or $7 million fines | Leona Helmsley
+right: Robin
+Wrong: 
+Value: $400
+Number: 21
+CEREMONIES | The name of this English dance that began as a spring ritual is an alteration of "moorish" | Morris dance
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+ROCK "G"ROUPS | In 2000 the "original" lineup of this group went on tour -- they've still "got the beat" | The Go-Go's
+right: Joe
+Wrong: 
+Value: $400
+Number: 4
+WHAT A DOG! | Despite a vicious reputation, this German dog, named for its developer, has been used to guide the blind | Doberman pinscher
+right: Joe
+Wrong: 
+Value: $400
+Number: 13
+IN THE MIDDLE OF THE STATE | A small "gin" fizzes in this state | virGINia
+right: Robin
+Wrong: 
+Value: $400
+Number: 26
+JEOPARDY! PLACE | Malone hears his dad vanished the day Carson was killed & was wearing a raincoat named for this Scot | Macintosh
+right: Joe
+Wrong: 
+Value: $400
+Number: 29
+PRISON SENTENCES | Played by Mark Harmon in a movie, this serial killer received 1-15 years at a 1976 trial & a death sentence in '79 | Ted Bundy
+right: Janet
+Wrong: 
+Value: $500
+Number: 22
+CEREMONIES | In 1999 83-year-old Kirk Douglas celebrated his second of these, because 70 is a traditional life span | Bar Mitzvah
+right: Janet
+Wrong: 
+Value: DD: $500
+Number: 15
+ROCK "G"ROUPS | Shirley Manson's group got its name when one of the members commented that its music sounded like this | Garbage
+right: Janet
+Wrong: 
+Value: $500
+Number: 5
+WHAT A DOG! | The name of this English racing dog might remind you of a Devo song | Whippet
+right: Janet
+Wrong: 
+Value: $500
+Number: 14
+IN THE MIDDLE OF THE STATE | This state has a "sour" center | misSOURi
+right: Janet
+Wrong: 
+Value: $500
+Number: 27
+JEOPARDY! PLACE | Carson is alive!  He's being held by Benny, Teri's ex, one of these mercenaries, also a magazine title | Soldier of Fortune
+right: Joe
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Joe: $1,600
+Janet: $2,300
+Robin: -$500
+Scores at the end of the Jeopardy! Round:
+Joe: $3,100
+Janet: $3,400
+Robin: $500
+Second Jeopardy! Round: PRISONERS' SENTENCES, CINEMATIC TITLE PAIRS, JOG-RAPHY, CLOTHES-MINDED, HAIL TO THE CHIEF, BABY TALK
+PRISONERS' SENTENCES | He wrote "Mein Kampf" in Landsberg Prison in the 1920s | Adolf Hitler
+right: Robin
+Wrong: 
+Value: $200
+Number: 10
+CINEMATIC TITLE PAIRS | 1961: "....and Goliath" | David
+right: Janet
+Wrong: 
+Value: $200
+Number: 4
+JOG-RAPHY | With 50,000 runners, this city's Peachtree Road Race is the world's largest 10K | Atlanta
+right: Robin
+Wrong: 
+Value: $200
+Number: 1
+CLOTHES-MINDED | This 2-piece bathing suit has a tank top & a bikini bottom, hence the name | Tankini
+right: Joe
+Wrong: 
+Value: $200
+Number: 3
+HAIL TO THE CHIEF | In 1824 this famous son won a vote in the House of Representatives & became president | John Quincy Adams
+right: Joe
+Wrong: 
+Value: $200
+Number: 18
+BABY TALK | It's the part of a pair of overalls that is worn over the chest | Bib
+right: Janet
+Wrong: 
+Value: $200
+Number: 19
+PRISONERS' SENTENCES | This civil rights leader penned his "Letter From the Birmingham Jail" on April 16, 1963 | Dr. Martin Luther King Jr.
+right: Robin
+Wrong: 
+Value: $400
+Number: 11
+CINEMATIC TITLE PAIRS | 1992: "....and Natasha" | Boris
+right: Joe
+Wrong: 
+Value: $400
+Number: 6
+JOG-RAPHY | The title character of the book "Marathon Man" trains by circling this in Central Park | The reservoir
+right: Janet
+Wrong: 
+Value: $400
+Number: 2
+CLOTHES-MINDED | Named for the German doctor who created them, this brand of boots, seen here, turned 40 in 2000 | Doc/Dr. Martens
+right: Joe
+Wrong: 
+Value: $400
+Number: 5
+HAIL TO THE CHIEF | After losing the GOP nomination to Ford in 1976, he began his successful effort to snag the 1980 spot | Ronald Reagan
+right: Robin
+Wrong: 
+Value: $400
+Number: 24
+BABY TALK | A swimming stroke consisting of alternating overarm strokes & a flutter kick | Crawl
+right: Joe
+Wrong: 
+Janet: What is a butterfly?
+Value: $400
+Number: 20
+PRISONERS' SENTENCES | This Irish wit's "De Profundis" was inspired by his stay at Reading Gaol | Oscar Wilde
+right: Robin
+Wrong: 
+Value: $600
+Number: 12
+CINEMATIC TITLE PAIRS | 1977: "....and the Eye of the Tiger" | Sinbad
+right: Joe
+Wrong: 
+Value: $600
+Number: 7
+JOG-RAPHY | Popular Bay Area jogging sites include Lake Merced in San Francisco & Lake Merritt in this city | Oakland
+right: Robin
+Wrong: 
+Value: $600
+Number: 15
+CLOTHES-MINDED | 4-letter term for a fancy fabric woven with metallic threads popular for evening wear | lamé
+right: Joe
+Wrong: 
+Value: $600
+Number: 28
+HAIL TO THE CHIEF | With the ratification of the Treaty of Ghent, this president declared the War of 1812 over | James Madison
+right: Robin
+Wrong: 
+Value: $600
+Number: 25
+BABY TALK | The support for an object set horizontally, as for the receiver of a telephone | Cradle
+right: Joe
+Wrong: 
+Value: $600
+Number: 21
+PRISONERS' SENTENCES | His book "The Sixteenth Round: From Number 1 Contender to No. 45472" led the way to his release & a 1999 film | Rubin "Hurricane" Carter
+right: Joe
+Wrong: 
+Value: $800
+Number: 13
+CINEMATIC TITLE PAIRS | 1985: "....and the Snowman" | The Falcon
+right: Robin
+Wrong: 
+Value: $800
+Number: 8
+JOG-RAPHY | The name of the C&O Canal, one of Washington, D.C.'s popular running areas, stands for Cheaspeake & this | Ohio
+right: Robin
+Wrong: 
+Value: $800
+Number: 16
+CLOTHES-MINDED | He studied medicine & served in the Italian army before becoming a clothing designer & opening his Emporio shops | Giorgio Armani
+right: Janet
+Wrong: 
+Value: $800
+Number: 29
+HAIL TO THE CHIEF | John Brown made his most famous raid while this man was president | James Buchanan
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 26
+BABY TALK | One who appeases or mollifies | Pacifier
+right: 
+Wrong: 
+Joe: What is a coddler?
+Value: DD: $1,300
+Number: 22
+PRISONERS' SENTENCES | Later president of Sinn Fein, his "Cage Eleven" details his 1970's prison term | Gerry Adams
+right: Robin
+Wrong: 
+Value: $1000
+Number: 14
+CINEMATIC TITLE PAIRS | 1959: "....and the Little People" | Darby O'Gill
+right: Joe
+Wrong: 
+Value: $1000
+Number: 9
+JOG-RAPHY | Popular name of the tough section of the Boston Marathon course seen here | "Heartbreak Hill"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+CLOTHES-MINDED | To be authentic, this type of plaid must be registered & approved by the Lyon Court in Edinburgh | Tartan
+right: Janet
+Wrong: 
+Value: $1000
+Number: 30
+HAIL TO THE CHIEF | The first to hold regular press conferences, he began them 7 years before Helen Thomas was born | Woodrow Wilson
+right: 
+Wrong: Triple Stumper
+Janet: Who was Franklin Delano Roosevelt?
+Value: $1000
+Number: 27
+BABY TALK | To cover, like a layer of snow; or applying to all conditions, like some statements or insurance policies | Blanket
+right: Robin
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Joe: $7,000
+Janet: $4,600
+Robin: $5,900
+
+Final Jeopardy! Round
+BASEBALL HALL OF FAMERS | A Red Sox pitcher, later a Yankee, he held the World Series record for consecutive scoreless innings from 1918 to 1961 | Babe Ruth
+right: Robin
+Wrong: 
+Janet: Who is Ty Cobb
+Joe: Who is [Samuel Lee] Babe
+Wagers: 
+Janet: $100
+Robin: $3,301
+Joe: $2,201
+Final scores:
+Joe: $4,799 (2nd place: Princess Caribbean Cruise)
+Janet: $4,500 (3rd place: VocoPro Wanderer Karaoke System)
+Robin: $9,201 (New champion: $9,201)
+
+Coryat scores
+Joe: $8,300 (20 R,1 W(including 1 DD))
+Janet: $4,600 (15 R(including 1 DD),2 W)
+Robin: $6,900 (18 R,5 W(including 1 DD))

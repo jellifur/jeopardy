@@ -1,0 +1,340 @@
+6507 - Tuesday, December 25, 2012
+Contestants:
+Tom McGrath: an actor and photographer from Chicago, Illinois
+Beth Copenhaver: a software consultant from Johns Creek, Georgia
+Kris Hamilton: a computer technician from Dublin, Ohio (whose 1-day cash winnings total $16,200)
+First Jeopardy! Round: UNLIKELY PRESIDENTIAL SIBLINGS, THAT'S "CORN"Y, RELIGION & FLAGS, LET'S DUET, I'D LIKE A DRINK, IT'S THE COCKATIEL HOUR
+UNLIKELY PRESIDENTIAL SIBLINGS | "Father of his Country" & "American Gangster" actor | George Washington and Denzel Washington
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 12
+THAT'S "CORN"Y | Pipe type used by MacArthur & Frosty the Snowman | a corncob pipe
+right: Tom
+Wrong: 
+Value: $200
+Number: 14
+RELIGION & FLAGS | Bearing a symbol reaching back to antiquity, this nation's flag is seen <http://www.j-archive.com/media/2012-12-25_J_07.jpg> here | Israel
+right: Tom
+Wrong: 
+Value: $200
+Number: 7
+LET'S DUET | "I Knew You Were Waiting (For Me)": George Michael & this queen of soul | Aretha Franklin
+right: Kris
+Wrong: 
+Value: $200
+Number: 19
+I'D LIKE A DRINK | On your Kentucky veranda, you'll sip this bourbon, sugar & crushed ice drink that's garnished with an aromatic herb | a mint julep
+right: Tom
+Wrong: 
+Value: $200
+Number: 2
+IT'S THE COCKATIEL HOUR | Cockatiels are members of this large & raucous bird order | a parrot
+right: Beth
+Wrong: 
+Value: $200
+Number: 1
+UNLIKELY PRESIDENTIAL SIBLINGS | Monticello man & sitcom dry-cleaning magnate | Tom Jefferson and George Jefferson
+right: Beth
+Wrong: 
+Value: $400
+Number: 13
+THAT'S "CORN"Y | An oak tree wannabe | an acorn
+right: Beth
+Wrong: 
+Value: $400
+Number: 15
+RELIGION & FLAGS | The sun on Japan's flag represents Amaterasu, a deity of this religion | Shinto
+right: Kris
+Wrong: 
+Value: $400
+Number: 8
+LET'S DUET | "I'm Your Angel": R. Kelly & this woman from Quebec | Celine Dion
+right: Tom
+Wrong: 
+Value: $400
+Number: 20
+I'D LIKE A DRINK | This "worldly" drink consists of vodka, orange-flavored liqueur, cranberry juice & lime juice | a cosmopolitan
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+IT'S THE COCKATIEL HOUR | Discovered there around 1770, cockatiels are native to this continent | Australia
+right: 
+Wrong: Triple Stumper
+Kris: What is South America?
+Beth: What is Asia?
+Tom: What is Africa?
+Value: $400
+Number: 27
+UNLIKELY PRESIDENTIAL SIBLINGS | Man who was president for the passing of the 19th Amendment & Beach Boy who composed "Good Vibrations" | Woodrow and Brian Wilson
+right: Tom
+Wrong: 
+Value: $600
+Number: 24
+THAT'S "CORN"Y | This earth sign is ruled by Saturn | Capricorn
+right: Tom
+Wrong: 
+Value: $600
+Number: 16
+RELIGION & FLAGS | (<http://www.j-archive.com/media/2012-12-25_J_09.jpg> Jimmy of the Clue Crew shows us a portion of a flag.)  Emblems on the Mongolian flag include the Yin-Yang symbol, seen as an image of two of these creatures that represent watchfulness because they never close their eyes | fish
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 9
+LET'S DUET | "Don't Let The Sun Go Down On Me": George Michael & this man who co-wrote it | Elton John
+right: Kris
+Wrong: 
+Value: $600
+Number: 21
+I'D LIKE A DRINK | Served in a glass, not a bowl, a planter's punch is made with this main liquor | rum
+right: Kris
+Wrong: 
+Value: $600
+Number: 4
+IT'S THE COCKATIEL HOUR | The cockatiel has a distinctive erectile one of these on the top of its head | the crest
+right: Beth
+Wrong: 
+Value: $600
+Number: 28
+UNLIKELY PRESIDENTIAL SIBLINGS | Pt 109 POTUS & "Cool Hand Luke" Oscar honoree | John and George Kennedy
+right: Kris
+Wrong: 
+Value: $800
+Number: 25
+THAT'S "CORN"Y | John with this last name means booze personified | Barleycorn
+right: Beth
+Wrong: 
+Value: $800
+Number: 17
+RELIGION & FLAGS | The flag of Vatican City depicts a papal tiara & the crossed keys of this saint | St. Peter
+right: Tom
+Wrong: 
+Value: $800
+Number: 10
+LET'S DUET | "I Know What You Want": Busta Rhymes & this superstar known for her vocal range | Mariah Carey
+right: Kris
+Wrong: 
+Value: $800
+Number: 22
+I'D LIKE A DRINK | This cocktail of whiskey, sweet vermouth & a cherry sounds like Peter Minuit paid $24 for it & at a fancy bar, he might | the Manhattan
+right: Kris
+Wrong: 
+Value: $800
+Number: 5
+IT'S THE COCKATIEL HOUR | The difference between male & females becomes apparent after the first of these shedding periods at 6 months | molting
+right: Tom
+Wrong: 
+Value: $800
+Number: 29
+UNLIKELY PRESIDENTIAL SIBLINGS | Battle of New Orleans bigwig & Mace Windu portrayer | Andrew and Samuel L. Jackson
+right: Tom
+Wrong: 
+Value: $1000
+Number: 26
+THAT'S "CORN"Y | Despite that whole Yorktown debacle, he later fought in Asia & Ireland with great success | Cornwallis
+right: Beth
+Wrong: 
+Value: $1000
+Number: 18
+RELIGION & FLAGS | A wheel of moral law, or Dharma, is seen <http://www.j-archive.com/media/2012-12-25_J_11.jpg> here on this country's flag | India
+right: Tom
+Wrong: 
+Value: DD: $1,000
+Number: 11
+LET'S DUET | "Body and Soul": Tony Bennett & this late soulful singer | Amy Winehouse
+right: Kris
+Wrong: 
+Value: $1000
+Number: 23
+I'D LIKE A DRINK | Bourbon, bitters, Pernod, sugar & a twist gets you this Crescent City cocktail | a sazerac
+right: 
+Wrong: Triple Stumper
+Beth: What is a Pimm's cup?
+Value: $1000
+Number: 6
+IT'S THE COCKATIEL HOUR | Though cockatiels are mainly seed eaters, the hard internal shells of these squid relatives provide needed calcium | cuttlefish
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Kris: $1,800
+Beth: $0
+Tom: $2,400
+Scores at the end of the Jeopardy! Round:
+Kris: $4,800
+Beth: $2,000
+Tom: $5,400
+Second Jeopardy! Round: THAT'S SO LAST WEEK!, THE PILGRIMS, NOVEL "T"s, FILL IN THE FILM FRUIT, U.S. MOUNTAINS, SON OF...
+THAT'S SO LAST WEEK! | When something's not coming back, it's this "& done with" | over
+right: Tom
+Wrong: 
+Value: $400
+Number: 16
+THE PILGRIMS | A few years before headed to Plymouth, Stephen Hopkins spent time in this earlier American colony | Jamestown (Virginia accepted)
+right: Kris
+Wrong: 
+Value: $400
+Number: 11
+NOVEL "T"s | Don't overthink this--it's James Michener's historical novel about the "Lone Star State" | Texas
+right: Tom
+Wrong: 
+Value: $400
+Number: 21
+FILL IN THE FILM FRUIT | "Trading Places": "Here in N.Y. they trade everything: gold, silver...& of course, frozen concentrated ____ juice" | orange juice
+right: Tom
+Wrong: 
+Value: $400
+Number: 1
+U.S. MOUNTAINS | Larry Ellison can survey his domain from 3,370-foot Mount Lanaihale, the highest on this state's island of Lanai | Hawaii
+right: Tom
+Wrong: 
+Value: $400
+Number: 26
+SON OF... | It's a Gaelic prefix meaning "son of", or a short word for a raincoat | Mac
+right: Kris
+Wrong: 
+Value: $400
+Number: 2
+THAT'S SO LAST WEEK! | Logically "proquated" should mean in fashion, as this word means "out of fashion" | antiquated
+right: Kris
+Wrong: 
+Value: $800
+Number: 17
+THE PILGRIMS | His "courtship" with wife Rose ended soon after arrival in America; she died that first winter | Miles Standish
+right: Kris
+Wrong: 
+Value: $800
+Number: 12
+NOVEL "T"s | In "Gone with the Wind", it's the O'Haras' beloved plantation | Tara
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+FILL IN THE FILM FRUIT | "Beverly Hills Cop": "We're not gonna fall for a _____ in the tailpipe" | banana
+right: Tom
+Wrong: 
+Value: $800
+Number: 7
+U.S. MOUNTAINS | This state's highest point is Mount Marcy just south of Lake Placid | New York
+right: Tom
+Wrong: 
+Value: $800
+Number: 27
+SON OF... | The suffix -wicz means "son of" in this language, as with its great writer Witold Gombrowicz | Polish
+right: Tom
+Wrong: 
+Value: $800
+Number: 3
+THAT'S SO LAST WEEK! | The University of Bristol has a department of Classics & this, a 2-word phrase for the distant past | Ancient History
+right: Kris
+Wrong: 
+Tom: What is prehistory?
+Value: $1200
+Number: 18
+THE PILGRIMS | Edward Leister & Edward Doty fought a duel, but both signed this on November 11, 1620 | the Mayflower Compact
+right: Kris
+Wrong: 
+Value: $1200
+Number: 13
+NOVEL "T"s | Part I of this 1883 classic is titled "The Old Buccaneer" | Treasure Island
+right: Tom
+Wrong: 
+Value: $1200
+Number: 23
+FILL IN THE FILM FRUIT | "The Caine Mutiny": "Ahh, but the _____. That's--that's where I had them. They laughed at me & made jokes" | strawberries
+right: 
+Wrong: Triple Stumper
+Beth: What's the breadfruit?
+Value: $1200
+Number: 8
+U.S. MOUNTAINS | On August 18, 1873 this mountain near Death Valley was first ascended | Mount Whitney
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+SON OF... | In Arabic names "son of" can be ibn or this, as in the name of a bad man born in 1957 | bin
+right: Tom
+Wrong: 
+Value: $1200
+Number: 4
+THAT'S SO LAST WEEK! | Something that's not quite obsolete but well on its way is described with this adjective also starting with "obs" | obsolescent
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+THE PILGRIMS | The Mayflower's cooper (who made & repaired barrels); his descendants with wife Priscilla include Dan Quayle & John Adams | John Alden
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+NOVEL "T"s | The town of Haven begins to act strangely after an alien spacecraft is discovered in this Stephen King novel | The Tommyknockers
+right: Kris
+Wrong: 
+Value: $1600
+Number: 24
+FILL IN THE FILM FRUIT | "Good Will Hunting": "Do you like _____? Well, I got her number. How do you like them _____?" | apples
+right: Kris
+Wrong: 
+Value: $1600
+Number: 9
+U.S. MOUNTAINS | (<http://www.j-archive.com/media/2012-12-25_DJ_29.wmv> Alex gives the clue from the tracks of the Western Maryland Scenic Railroad.) On our trip on the Western Maryland Scenic Railroad, we're about to go through the U.S.A.'s first gateway to the west - a passage in the Allegheny Mountains, which are part of this longer chain | Appalachians
+right: Kris
+Wrong: 
+Value: $1600
+Number: 29
+SON OF... | This common Irish prefix comes from the French for "son" | Fitz
+right: 
+Wrong: 
+Tom: If it's wrong, I'm in trouble. What is Mc?
+Value: DD: $3,000
+Number: 5
+THAT'S SO LAST WEEK! | Last year's trend is said to be this, also a French grammatical tense | passé
+right: Beth
+Wrong: 
+Value: $2000
+Number: 20
+THE PILGRIMS | William & Susanna White gave the first English child born in New England this first name that can mean "pilgrim" | Peregrine
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+NOVEL "T"s | The preface to this mega-bestseller begins, "I'd never given much thought to how I would die" | Twilight
+right: 
+Wrong: 
+Kris: What is Tuesdays with Morrie?
+Value: DD: $2,000
+Number: 25
+FILL IN THE FILM FRUIT | "Sideways": "It's a hard _____ to grow" | a grape
+right: Tom
+Wrong: 
+Value: $2000
+Number: 10
+SON OF... | Spelling out this common Spanish patronymic suffix shouldn't be hard; just the opposite | ez
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Kris: $12,400
+Beth: $2,800
+Tom: $10,400
+
+Final Jeopardy! Round
+ART & ACTIVISM | Though being added to much more slowly than 20 years ago, it's now 1.3 million sq. ft., too big to display in one place | the AIDS quilt
+right: Beth | Tom | Kris
+Wrong: 
+Wagers: 
+Beth: $1,001
+Tom: $10,391
+Kris: $8,401
+Final scores:
+Kris: $20,801 (2-day champion: $37,001)
+Beth: $3,801 (3rd place: $1,000)
+Tom: $20,791 (2nd place: $2,000)
+
+Coryat scores
+Kris: $14,400 (17 R,2 W(including 1 DD))
+Beth: $2,800 (7 R,3 W)
+Tom: $13,400 (21 R(including 1 DD),3 W(including 1 DD))

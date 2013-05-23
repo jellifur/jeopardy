@@ -1,0 +1,338 @@
+3872 - Tuesday, June 5, 2001
+Comments: Jason Block game 2.
+Contestants:
+Bob Kennelly: an executive from Marlborough, New Hampshire
+Kathy Bubbeo: a freelance editor from East Meadow, New York
+Jason Block: an Internet researcher from Brooklyn, New York (whose 1-day cash winnings total $4,000)
+First Jeopardy! Round: PRICELINE, AMAZON, REAL AUDIO, I WON, THE ONION, "E" BAY
+PRICELINE | John Heywood's 16th century book of proverbs mentioned this price "for your thoughts" (What a cheapskate!) | A penny
+right: Bob
+Wrong: 
+Value: $100
+Number: 18
+AMAZON | Beginning in Peru, the Amazon flows over 4,000 miles to this ocean | Atlantic Ocean
+right: Kathy
+Wrong: 
+Value: $100
+Number: 13
+REAL AUDIO | His "Rock & Roll Music" includes "Maybellene" & "Roll Over Beethoven" | Chuck Berry
+right: Jason
+Wrong: 
+Value: $100
+Number: 6
+I WON | One of the few victories the Romans ever won against this Carthaginian general was at Zuma in 202 B.C. | Hannibal
+right: Jason
+Wrong: 
+Value: $100
+Number: 1
+THE ONION | Sulfuric compounds in onions induce these in humans who are slicing them | Tears
+right: Jason
+Wrong: 
+Value: $100
+Number: 25
+"E" BAY | An upright frame for displaying or supporting an artist's canvas | Easel
+right: Bob
+Wrong: 
+Value: $100
+Number: 8
+PRICELINE | In the 1960s this famous structure really was "falling down", so Robert McCulloch paid $2,460,000 & moved it to Arizona | London Bridge
+right: Jason
+Wrong: 
+Value: $200
+Number: 19
+AMAZON | Abundant in the Amazon River, this feared fish is also known as a caribe | Piranha
+right: Bob
+Wrong: 
+Value: $200
+Number: 14
+REAL AUDIO | "People" & "Back To Broadway" are No. 1 albums by this woman | Barbra Streisand
+right: Kathy
+Wrong: 
+Value: $200
+Number: 7
+I WON | As the Dixiecrat nominee, this South Carolina senator, then governor, won 39 electoral votes in 1948 | Strom Thurmond
+right: Jason
+Wrong: 
+Value: $200
+Number: 2
+THE ONION | These small onions often used in cream sauces bear the name of a gem | Pearl onions
+right: Jason
+Wrong: 
+Value: $200
+Number: 26
+"E" BAY | A crude figure or dummy representing a disliked person | Effigy
+right: Jason
+Wrong: 
+Value: $200
+Number: 9
+PRICELINE | These early movie theatres were so named because they charged only 5 cents admission | Nickelodeons
+right: Jason
+Wrong: 
+Value: $300
+Number: 20
+AMAZON | The upper Amazon is known as the Solimoes River until it reaches this nation's city of Manaus | Brazil
+right: Jason
+Wrong: 
+Value: $300
+Number: 23
+REAL AUDIO | Moby's version of "South Side" features Gwen Stefani, the lead singer of this group | No Doubt
+right: Jason
+Wrong: 
+Value: $300
+Number: 10
+I WON | The author of "A Beggar In Jerusalem", this concentration camp survivor won the Nobel Peace Prize in 1986 | Elie Wiesel
+right: Jason
+Wrong: 
+Value: $300
+Number: 3
+THE ONION | "I will not move my army without onions!" once declared this 18th U.S. president | Ulysses S. Grant
+right: Bob
+Wrong: 
+Value: $300
+Number: 27
+"E" BAY | 1981 Wimbledon winner seen here: | Chris Evert
+right: Jason
+Wrong: 
+Value: $300
+Number: 15
+PRICELINE | At a 1996 auction Jimmy Buffett paid $43,700 for a Jamie Wyeth lithograph of this president in a sailboat | John F. Kennedy
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+AMAZON | A 1542 attack by female warriors against explorers from this country led to the Amazon receiving its name | Spain
+right: Kathy
+Wrong: 
+Value: $400
+Number: 24
+REAL AUDIO | It's the instrument in the title of the following: [audio clue] | Saxophone
+right: Jason
+Wrong: 
+Value: $400
+Number: 11
+I WON | Pitted against Clarence Darrow, this man won his case on July 21, 1925 & then died 5 days later | William Jennings Bryan
+right: 
+Wrong: 
+Value: DD: $600
+Number: 4
+THE ONION | This onion relative is a national emblem of Wales | Leek
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 28
+"E" BAY | From the Latin for "inlaid design", it's an object or representation that functions as a symbol | Emblem
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+PRICELINE | Famous price of "Stella Delorme" & many other lurid novels by Ned Buntline | A dime
+right: Bob
+Wrong: 
+Value: $500
+Number: 22
+AMAZON | These water boas of the Amazon region can grow to over 200 pounds & over 20 feet | Anacondas
+right: Jason
+Wrong: 
+Value: $500
+Number: 30
+REAL AUDIO | "Summer Nights" helped this soundtrack dominate the No. 1 spot during the summer of 1978 | Grease
+right: Jason
+Wrong: 
+Value: $500
+Number: 12
+I WON | This "hazardous" naval officer won the decisive 1813 Battle of Lake Erie over the British | Oliver Hazard Perry
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+THE ONION | Grown on the slopes of Haleakala, this Hawaiian island's onions are among the world's tastiest | Maui onions
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 29
+"E" BAY | This nation west of Russia borders the Baltic | Estonia
+right: Jason
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Jason: $1,500
+Kathy: $300
+Bob: -$200
+Scores at the end of the Jeopardy! Round:
+Jason: $4,300
+Kathy: $700
+Bob: $300
+Second Jeopardy! Round: ARTISTS & THEIR WORKS, THE FILM VAULT, DEAR JOHN, AUTHOR! AUTHOR!, GREASY SPOON PHRASE BOOK, FILL 'ER UP?
+ARTISTS & THEIR WORKS | Graham Sutherland's 1949 portrait of this "Of Human Bondage" author is in the Tate Gallery | Somerset Maugham
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 15
+THE FILM VAULT | Cecil B. De Mille directed 2 versions of this Biblical epic, one in 1923 & one in 1956 | The Ten Commandments
+right: Jason
+Wrong: 
+Value: $200
+Number: 19
+DEAR JOHN | He was actress Drew's famous grandfather | John Barrymore
+right: Jason
+Wrong: 
+Value: $200
+Number: 7
+AUTHOR! AUTHOR! | "The Book of Daniel", "Ragtime" | E.L. Doctorow
+right: Jason
+Wrong: 
+Value: $200
+Number: 26
+GREASY SPOON PHRASE BOOK | Whether Arabica or robusta, order a cup of this & you'll hear "Draw One!" | Coffee
+right: Bob
+Wrong: 
+Value: $200
+Number: 1
+FILL 'ER UP? | "You can trust your car to the man who wears the star", the big, bright one of this station | Texaco
+right: Jason
+Wrong: 
+Value: $200
+Number: 5
+ARTISTS & THEIR WORKS | The Uffizi is home to Nicolas Froment's triptych "The Raising of" this Biblical man | Lazarus
+right: Kathy
+Wrong: 
+Value: $400
+Number: 16
+THE FILM VAULT | In 1963 Richard Burton played this Roman on the big screen | Mark Antony
+right: Jason
+Wrong: 
+Value: $400
+Number: 20
+DEAR JOHN | Though gold was found at his mill in 1848, by 1852 he was bankrupt | John Sutter
+right: Jason
+Wrong: 
+Value: $400
+Number: 11
+AUTHOR! AUTHOR! | "Marjorie Morningstar", "The Caine Mutiny" | Herman Wouk
+right: Jason
+Wrong: 
+Value: $400
+Number: 30
+GREASY SPOON PHRASE BOOK | Calling out "BLT, hold the mayo" gets you this kind of sandwich | Bacon. Lettuce & Tomato (without the mayonnaise)
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+FILL 'ER UP? | Esso stood for S.O., which stood for this | Standard Oil
+right: Kathy
+Wrong: 
+Value: $400
+Number: 6
+ARTISTS & THEIR WORKS | This artist famed for his mobiles created a miniature circus that's in the Whitney Museum of American Art | Alexander Calder
+right: Kathy
+Wrong: 
+Value: DD: $2,100
+Number: 17
+THE FILM VAULT | This 1955 James Dean classic was advertised with the tagline "Teenage Terror Torn from Today's Headlines" | Rebel Without A Cause
+right: Jason
+Wrong: 
+Value: $600
+Number: 21
+DEAR JOHN | He & Priscilla Mullens were among the first Pilgrim couples to marry in America | John Alden
+right: Kathy
+Wrong: 
+Value: $600
+Number: 12
+AUTHOR! AUTHOR! | "Amelie", "Tom Jones" | Henry Fielding
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 29
+GREASY SPOON PHRASE BOOK | Order "Adam & Eve on a Raft" & you'll get poached eggs on this | Toast
+right: Bob
+Wrong: 
+Value: $600
+Number: 3
+FILL 'ER UP? | Gulf Oil goes back to the famous oil find at Spindletop in this state in 1901 | Texas
+right: Jason
+Wrong: 
+Value: DD: $1,500
+Number: 8
+ARTISTS & THEIR WORKS | "The Disasters of War" is a grim series of etchings that this Spaniard began in 1810 | Francisco Goya
+right: Jason
+Wrong: 
+Value: $800
+Number: 18
+THE FILM VAULT | This Swedish actress made her breakthrough film in 1936, then later came to the U.S. to star in a 1939 English remake | Ingrid Bergman
+right: Kathy
+Wrong: 
+Value: $800
+Number: 22
+DEAR JOHN | While in prison, this "Pilgrim's Progress" author supported his family by making shoelaces | John Bunyan
+right: Kathy
+Wrong: 
+Value: $800
+Number: 13
+AUTHOR! AUTHOR! | "Of Love and Shadows", "The House of the Spirits" | Isabel Allende
+right: Kathy
+Wrong: 
+Value: $800
+Number: 28
+GREASY SPOON PHRASE BOOK | In a greasy spoon these paired seasonings are "Mike & Ike" | Salt & pepper
+right: Jason
+Wrong: 
+Value: $800
+Number: 4
+FILL 'ER UP? | East coast brand whose logo is seen here: | Sunoco
+right: Jason
+Wrong: 
+Value: $800
+Number: 9
+ARTISTS & THEIR WORKS | "The Laughing Cavalier", seen here, may be the most famous portrait by this Antwerp-born artist | Frans Hals
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+THE FILM VAULT | Frank Sinatra is "The Man" who fights to break his drug addiction in this screen version of an Algren novel | The Man With the Golden Arm
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 24
+DEAR JOHN | In 1821 the remains of this major, who conspired with Benedict Arnold, were moved to Westminster Abbey | John Andre
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+AUTHOR! AUTHOR! | "The House of Mirth", "Ethan Frome" | Edith Wharton
+right: Bob
+Wrong: 
+Value: $1000
+Number: 27
+GREASY SPOON PHRASE BOOK | A request for this style of cooked eggs makes the waitress yell out "Wreck 'em!" | Scrambled eggs
+right: Bob
+Wrong: 
+Value: $1000
+Number: 25
+FILL 'ER UP? | In the '40s this gas company used the slogan "Best in the long run"  (Get it? Long run) | Marathon Oil
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Jason: $8,600
+Kathy: $7,200
+Bob: $3,300
+
+Final Jeopardy! Round
+TELEVISION | Show inspired by an article saying about 30% of the people who married in 1965 had kids from a previous marriage | The Brady Bunch
+right: Bob | Kathy | Jason
+Wrong: 
+Wagers: 
+Bob: $2,700
+Kathy: $2,800
+Jason: $5,801
+Final scores:
+Jason: $14,401 (2-day champion: $18,401)
+Kathy: $10,000 (2nd place: Trip/Viking Cruise down European Rivers)
+Bob: $6,000 (3rd place: Panasonic Mini Digital Camcorder)
+
+Coryat scores
+Jason: $8,300 (29 R(including 1 DD),4 W(including 1 DD))
+Kathy: $5,700 (11 R(including 1 DD),1 W)
+Bob: $3,300 (10 R,3 W)

@@ -1,0 +1,347 @@
+uper Jeopardy! show #13 - Saturday, September 8, 1990
+Comments: <i>Super Jeopardy!</i> final game.  The conclusion of The $250,000 Challenge.
+Contestants:
+Dave Traini: a high school administrator from Medford Lakes, New Jersey
+Bruce Seymour: a writer from Piedmont, California
+Bob Verini: a playwright, actor, and director from New York City, New York
+First Jeopardy! Round: WORLD LEADERS, COLORS, 6-LETTER WORDS, INTERNATIONAL CUISINE, HIGHWAYS & BYWAYS, ART WORLD BLOCKBUSTERS
+WORLD LEADERS | Of Napoleon I, Napoleon II or Napoleon III, the one who never ruled France | Napoleon II
+right: Bruce
+Wrong: 
+Value: 200
+Number: 7
+COLORS | A person described as "hoary" has hair this color | white (or gray)
+right: Dave
+Wrong: 
+Value: 200
+Number: 12
+6-LETTER WORDS | The second book of the Old Testament & the event described there | Exodus
+right: Bob
+Wrong: 
+Value: 200
+Number: 20
+INTERNATIONAL CUISINE | Hungary is famous for this beef stew flavored with paprika | goulash
+right: Bob
+Wrong: 
+Value: 200
+Number: 24
+HIGHWAYS & BYWAYS | Traditionally, inaugural parades follow this street between the Capitol & the White House | Pennsylvania Avenue
+right: Bruce
+Wrong: 
+Value: 200
+Number: 16
+ART WORLD BLOCKBUSTERS | Assessed at $100 million in 1962, this da Vinci painting is believed to be the world's most valuable | the Mona Lisa
+right: Bruce
+Wrong: 
+Value: 200
+Number: 15
+WORLD LEADERS | This man who punished traitors in WWII was made Soviet Premier in 1958 | Khrushchev
+right: Bob
+Wrong: 
+Value: 400
+Number: 6
+COLORS | This nickname of Kentucky can refer to its landscape or its music | bluegrass
+right: Bob
+Wrong: 
+Value: 400
+Number: 8
+6-LETTER WORDS | Marilyn Quayle's profession, although she hasn't practiced in years | lawyer
+right: Bob
+Wrong: 
+Value: 400
+Number: 21
+INTERNATIONAL CUISINE | It's how you'd order rice with chicken in Spanish-speaking countries | arroz con pollo
+right: Bob
+Wrong: 
+Value: 400
+Number: 25
+HIGHWAYS & BYWAYS | The Overseas Highway starts at Key Largo & ends at this island | Key West
+right: Bob
+Wrong: 
+Value: 400
+Number: 17
+ART WORLD BLOCKBUSTERS | In 1980 one of this glassworker's lamps fetched the highest price ever for Art Nouveau | Louis Tiffany
+right: Bob
+Wrong: 
+Value: 400
+Number: 14
+WORLD LEADERS | Party to which French president Francois Mitterand belongs | the Socialist Party
+right: Bruce
+Wrong: 
+Value: 600
+Number: 1
+COLORS | Completes the lyric "For they're hangin' men & women there for the wearin' o'…" | green
+right: Bruce
+Wrong: 
+Value: 600
+Number: 9
+6-LETTER WORDS | To exhale, or to stop breathing entirely | expire
+right: Bob
+Wrong: 
+Value: 600
+Number: 22
+INTERNATIONAL CUISINE | The Italian dish Osso Buco is made with this type of meat | veal
+right: Bruce
+Wrong: 
+Value: 600
+Number: 26
+HIGHWAYS & BYWAYS | It's the route followed by the Joad family in "The Grapes of Wrath" | Route 66
+right: 
+Wrong: Triple Stumper
+Bob: What is the Chisholm Trail?
+Value: 600
+Number: 18
+ART WORLD BLOCKBUSTERS | Dutch-born U.S. abstract expressionist, his "Interchange" sold for $20.7 mil., a living artist's record | Willem de Kooning
+right: Bob
+Wrong: 
+Value: 600
+Number: 4
+WORLD LEADERS | In 1983 Yitzhak Shamir replaced this man as prime minister of Israel | Menachem Begin
+right: 
+Wrong: Triple Stumper
+Dave: Who is Rabin?
+Value: 800
+Number: 2
+COLORS | It's a shade of brown, a type of nut or a nutty housekeeper | hazel
+right: Dave
+Wrong: 
+Value: 800
+Number: 10
+6-LETTER WORDS | In "Clementine", the 2 places where the miner, 49er, was excavating for a mine | in a canyon, in a cavern
+right: Bob
+Wrong: 
+Value: 800
+Number: 23
+INTERNATIONAL CUISINE | The French will tell you cuisses de grenouille, which are these, taste a lot like chicken | frogs' legs
+right: Bruce
+Wrong: 
+Value: 800
+Number: 29
+HIGHWAYS & BYWAYS | This bridge links Michigan's Upper & Lower Peninsulas | Mackinac Bridge
+right: Bob
+Wrong: 
+Value: 800
+Number: 19
+ART WORLD BLOCKBUSTERS | A tiger, not a horse, fetched $35,200 in 1986, the highest price ever for a piece from 1 of these | a carousel (or a merry-go-round)
+right: 
+Wrong: 
+Bob: Uh...What is a Chinese cave?
+Value: DD: 600
+Number: 5
+WORLD LEADERS | On her death, James VI of Scotland moved to London & took over | Elizabeth I
+right: Bob
+Wrong: 
+Value: 1000
+Number: 3
+COLORS | It's another name for the Jolly Roger | the black flag
+right: 
+Wrong: Triple Stumper
+Bob: What is the Spanish…no...
+Value: 1000
+Number: 11
+6-LETTER WORDS | A bodice for women that ties behind the neck, or a device made of leather to restrain a horse | a halter
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 28
+INTERNATIONAL CUISINE | This popular Thai dish consists of sweet crispy noodles with chicken or shrimp | Mee Krob
+right: 
+Wrong: Triple Stumper
+Value: 1000
+Number: 30
+HIGHWAYS & BYWAYS | This city recently reconstructed its Dan Ryan Expressway at a cost of $250 million | Chicago
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 27
+ART WORLD BLOCKBUSTERS | Impressionist whose painting "Reading Le Figaro" in 1983 sold for more than any other woman's work | Mary Cassatt
+right: Bob
+Wrong: 
+Value: 1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Bob: 800
+Bruce: 1,400
+Dave: 200
+Scores at the end of the Jeopardy! Round:
+Bob: 5,400
+Bruce: 5,200
+Dave: 200
+Second Jeopardy! Round: EARLY AMERICA, BOOKS & AUTHORS, THEATER HISTORY, NEWSPAPERS, SPANISH CITIES, 17th CENTURY SCIENCE
+EARLY AMERICA | On Nov. 11, 1620, 41 men aboard this ship signed a famous compact | the Mayflower
+right: Dave
+Wrong: 
+Value: 500
+Number: 29
+BOOKS & AUTHORS | John Bunyan's dreamlike allegory of Christian's journey to the celestial city | Pilgrim's Progress
+right: Bob
+Wrong: 
+Value: 500
+Number: 16
+THEATER HISTORY | The village of Oberammergau in this country is the home of a passion play first performed in 1634 | West Germany
+right: Bruce
+Wrong: 
+Dave: What is Austria?
+Value: 500
+Number: 27
+NEWSPAPERS | Newspapers in Sacramento, Modesto & Fresno share the name of this insect | bee
+right: Bob
+Wrong: 
+Value: 500
+Number: 28
+SPANISH CITIES | The zero km. mark from which all Spanish roads are measured is in the Puerta del Sol in this city | Madrid
+right: Bob
+Wrong: 
+Value: 500
+Number: 26
+17th CENTURY SCIENCE | In 1611 Kepler published a paper on the 6-sided nature of these weather phenomena | snowflakes
+right: Dave
+Wrong: 
+Value: 500
+Number: 30
+EARLY AMERICA | Jean Nicolet, who arrived at Green Bay in 1634, was the first European to visit what is now this state | Wisconsin
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 25
+BOOKS & AUTHORS | "The Cancer Ward", in his novel of the same name, is thought to be an allegory of the Soviet state | Solzhenitsyn
+right: Bob
+Wrong: 
+Value: 1000
+Number: 18
+THEATER HISTORY | In Ancient Greece plays about these goat-legged men were performed after a trilogy of tragedies | satyrs
+right: Bob
+Wrong: 
+Value: 1000
+Number: 20
+NEWSPAPERS | This Boston-based newspaper is circulated in more than 100 countries | The Christian Science Monitor
+right: 
+Wrong: Triple Stumper
+Bruce: What is The Globe?
+Value: 1000
+Number: 24
+SPANISH CITIES | Catalan is the language of this second largest city in Spain | Barcelona
+right: Dave
+Wrong: 
+Value: 1000
+Number: 23
+17th CENTURY SCIENCE | About 1645 A. Kircher came up with this device that projects pictures on a wall | the magic lantern
+right: 
+Wrong: Triple Stumper
+Value: 1000
+Number: 22
+EARLY AMERICA | He was looking for China in 1609 when he sailed his ship, the Half Moon, into New York Harbor | Henry Hudson
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 11
+BOOKS & AUTHORS | Ambrose Bierce wrote "The Cynic's Word Book" which was later published under this title | The Devil's Dictionary
+right: Bruce
+Wrong: 
+Value: DD: 4,000
+Number: 10
+THEATER HISTORY | Maude Adams was known for starring in this author's plays, including "The Little Minister" & "Peter Pan" | (James) Barrie
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 14
+NEWSPAPERS | This capital city's 2 daily newspapers are The Deseret News & The Tribune | Salt Lake City
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 7
+SPANISH CITIES | A Roman aqueduct brings water to this city that shares its name with a guitarist | Segovia
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 4
+17th CENTURY SCIENCE | After John Napier discovered these, William Oughtred invented a slide rule to utilize them | logarithms
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 3
+EARLY AMERICA | In 1647, when it was still part of this colony, New Hampshire was required to develop a school system | Massachusetts
+right: Bob
+Wrong: 
+Value: 2000
+Number: 12
+BOOKS & AUTHORS | Some think his works, including "The Social Contract", inspired the French Revolution | Rousseau
+right: Bob
+Wrong: 
+Value: 2000
+Number: 19
+THEATER HISTORY | V. Nemirovich-Danchenko & K. Stanislavsky founded this theater company in 1898 | The Moscow Art Theatre
+right: Bob
+Wrong: 
+Value: 2000
+Number: 13
+NEWSPAPERS | International editions of this Miami daily are airlifted to Latin America | The Miami Herald
+right: Bob
+Wrong: 
+Value: 2000
+Number: 8
+SPANISH CITIES | This capital of the Visigothic kingdom in Spain is on the cutting edge of swordmaking | Toledo
+right: Bruce
+Wrong: 
+Value: 2000
+Number: 5
+17th CENTURY SCIENCE | In a 1665 book Robert Hooke described the cells of this plant he saw through his microscope | cork
+right: 
+Wrong: Triple Stumper
+Dave: What is wood, or a tree?
+Value: 2000
+Number: 2
+EARLY AMERICA | In 1790 John Carroll of this city became the 1st American appointed a Roman Catholic bishop | Baltimore
+right: Bruce
+Wrong: 
+Value: DD: 4,000
+Number: 15
+BOOKS & AUTHORS | If you've read his "A la recherche du temps perdu", then you know about the Madeleines | (Marcel) Proust
+right: Bruce
+Wrong: 
+Value: 2500
+Number: 17
+THEATER HISTORY | This Roman comic playwright made fun of the gods in "Amphitryon", one of his comedies of errors | Plautus
+right: Bruce
+Wrong: 
+Value: 2500
+Number: 9
+NEWSPAPERS | This Cleveland paper has the largest circulation in Ohio | The Plain Dealer
+right: Dave
+Wrong: 
+Value: 2500
+Number: 21
+SPANISH CITIES | This northern port in the Basque region is called the "Pittsburgh of Spain" | Bilbao
+right: 
+Wrong: Triple Stumper
+Dave: What is San Sebastian?
+Value: 2500
+Number: 6
+17th CENTURY SCIENCE | In 1675 this astronomer found at least 2 rings separated by a gap encircling Saturn | Cassini
+right: 
+Wrong: Triple Stumper
+Dave: Who is Galileo?
+Value: 2500
+Number: 1
+Scores at the end of the Double Jeopardy! Round:
+Bob: 16,900
+Bruce: 28,200
+Dave: -2,800
+
+Final Jeopardy! Round
+THE 20th CENTURY | He was vice president of the U.S. for just 82 days before becoming president | Harry Truman
+right: Bruce
+Wrong: 
+Bob: Who is [Ed Norton John T. crossed out] Tyler?
+Wagers: 
+Bob: 16,900
+Bruce: 5,601
+Final scores:
+Bob: 0 (1st runner-up: $50,000)
+Bruce: 33,801 (Super champion: $250,000)
+Dave: -2,800 (2nd runner-up: $25,000)
+
+Coryat scores
+Bob: 17,500 (23 R,3 W(including 1 DD))
+Bruce: 24,200 (21 R(including 2 DDs),1 W)
+Dave: -2,800 (6 R,5 W)

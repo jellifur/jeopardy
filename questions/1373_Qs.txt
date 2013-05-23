@@ -1,0 +1,337 @@
+2912 - Tuesday, April 8, 1997
+Contestants:
+Beth Coughlin: a librarian from Danvers, Massachusetts
+Darren Depuydt: a speech and language pathologist from Milwaukee, Wisconsin
+Steve Cook: a medical student from San Mateo, California (whose 3-day cash winnings total $34,401)
+First Jeopardy! Round: BRITISH CHILDREN'S AUTHORS, MUSEUMS, MUSICAL THEATRE, U.S. HISTORY, SWIMMING, POT LUCK
+BRITISH CHILDREN'S AUTHORS | He first wrote about Christopher Robin in the verse book "When We Were Very Young" | A.A. Milne
+right: Beth
+Wrong: 
+Value: $100
+Number: 7
+MUSEUMS | One of the world's largest equine museums is the Kentucky Derby Museum in this city | Louisville
+right: Steve
+Wrong: 
+Value: $100
+Number: 18
+MUSICAL THEATRE | In Paris this American musical is known as "La Petite Boutique Des Horreurs" | Little Shop of Horrors
+right: Darren
+Wrong: 
+Value: $100
+Number: 3
+U.S. HISTORY | Edmund Randolph's Virginia Plan was used as the basis for this important American document of 1787 | The Constitution
+right: Darren
+Wrong: 
+Value: $100
+Number: 10
+SWIMMING | Marty Hull invented Zoomers, a shorter, speedier type of this foot gear | Flippers/fins
+right: Steve
+Wrong: 
+Value: $100
+Number: 1
+POT LUCK | The largest of this university's 13 campuses are in Madison & Milwaukee | University of Wisconsin
+right: Steve
+Wrong: 
+Value: $100
+Number: 23
+BRITISH CHILDREN'S AUTHORS | He began his "Jabberwocky" poem, " 'Twas brillig, and the slithy toves..." | Lewis Carroll
+right: Steve
+Wrong: 
+Value: $200
+Number: 8
+MUSEUMS | This singing movie cowboy's Western Heritage Museum in Los Angeles has memorabilia from his films | Gene Autry
+right: Steve
+Wrong: 
+Value: $200
+Number: 19
+MUSICAL THEATRE | Treat Williams, Gary Sandy & Jim Belushi have all played the pirate king in this operetta | The Pirates of Penzance
+right: Darren
+Wrong: 
+Value: $200
+Number: 4
+U.S. HISTORY | Some of Wells Fargo's stagecoaches came from a factory in this New Hampshire capital | Concord
+right: Beth
+Wrong: 
+Value: $200
+Number: 12
+SWIMMING | In this stroke, not seen in competition, the head rests on the arm while the legs scissors-kick | Sidestroke
+right: Darren
+Wrong: 
+Value: $200
+Number: 2
+POT LUCK | Pistachio is a shade of this color | Green
+right: Darren
+Wrong: 
+Value: $200
+Number: 24
+BRITISH CHILDREN'S AUTHORS | Though written in 1906, her story of "The Sly Old Cat" wasn't published until 1971 | Beatrix Potter
+right: 
+Wrong: 
+Value: DD: $300
+Number: 9
+MUSEUMS | This city's art museum in Forest Park was the Palace of Fine Arts at the 1904 World's Fair | St. Louis
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 20
+MUSICAL THEATRE | Football star Joe Namath played baseball star Joe Hardy in a 1981 production of this musical | Damn Yankees
+right: Darren
+Wrong: 
+Value: $300
+Number: 5
+U.S. HISTORY | After the 1881 gunfight at the O.K. Corral, Virgil Earp lost his job as this city's marshall | Tombstone
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 14
+SWIMMING | It's the only major racing stroke where the swimmers start in the pool | Backstroke
+right: Steve
+Wrong: 
+Value: $300
+Number: 28
+POT LUCK | The gastrocnemius is the most prominent of the 7 muscles making up this back part of the lower leg | Calf
+right: Steve
+Wrong: 
+Value: $300
+Number: 25
+BRITISH CHILDREN'S AUTHORS | Richard Adams originally told this rabbit tale to amuse his young daughters | Watership Down
+right: Steve
+Wrong: 
+Value: $400
+Number: 11
+MUSEUMS | Displays at the Southern Museum of Flight in Birmingham, Ala. chronicle such pilots as this "Red Baron" | Manfred von Richthofen
+right: Steve
+Wrong: 
+Value: $400
+Number: 21
+MUSICAL THEATRE | Jack Cassidy & Carol Lawrence appeared in "Shangri-La", a 1956 musical based on this famous novel | Lost Horizon
+right: Beth
+Wrong: 
+Value: $400
+Number: 6
+U.S. HISTORY | In 1900 the Taft Commission supervised the transfer of military to civil govt. in these Pacific islands | Philippines
+right: Beth
+Wrong: 
+Value: $400
+Number: 15
+SWIMMING | Krisztina Egerszegi of this eastern European country has won gold at the last 3 Olympics | Hungary
+right: Steve
+Wrong: 
+Value: $400
+Number: 29
+POT LUCK | This creator of Ichabod Crane passed the bar exam in 1806 but never practiced much law | Washington Irving
+right: Beth
+Wrong: 
+Value: $400
+Number: 26
+BRITISH CHILDREN'S AUTHORS | This author famous for her Mary Poppins books passed away in 1996 | P.L. Travers
+right: Beth
+Wrong: 
+Value: $500
+Number: 13
+MUSEUMS | The National Civil Rights Museum in Memphis has an exhibit on this city's 1955 bus boycott | Montgomery, Alabama
+right: Beth
+Wrong: 
+Value: $500
+Number: 22
+MUSICAL THEATRE | This playwright adapted the 1993 musical "The Goodbye Girl" from his own screenplay of the 1977 film | Neil Simon
+right: Darren
+Wrong: 
+Value: $500
+Number: 17
+U.S. HISTORY | The first major engagement for U.S. troops in this 20th century war was the Battle of Belleau Wood | World War I
+right: Darren
+Wrong: 
+Value: $500
+Number: 16
+SWIMMING | It's the individual race in which 4 different strokes are used | Individual medley
+right: Steve
+Wrong: 
+Value: $500
+Number: 30
+POT LUCK | This city's Newberry Library, a top research library, is located at Dearborn & Oak | Chicago
+right: Darren
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Steve: $100
+Darren: $900
+Beth: $1,200
+Scores at the end of the Jeopardy! Round:
+Steve: $1,700
+Darren: $2,600
+Beth: $2,500
+Second Jeopardy! Round: POLITICS '96, CANADIAN CITIES, FILM DIRECTORS, CONTEMPORARIES, MYTHOLOGY, IN THE DICTIONARY
+POLITICS '96 | This Reform Party candidate sued to join the presidential debates & lost | H. Ross Perot
+right: Darren
+Wrong: 
+Value: $200
+Number: 17
+CANADIAN CITIES | Known for its stampede, this largest Alberta city is called Canada's oil & gas capital | Calgary
+right: Beth
+Wrong: 
+Value: $200
+Number: 1
+FILM DIRECTORS | Jonathan Frid of TV's "Dark Shadows" starred in this "Platoon" director's first film, "Seizure", in 1974 | Oliver Stone
+right: Steve
+Wrong: 
+Value: $200
+Number: 2
+CONTEMPORARIES | While Stradivari was making violins, this author was fiddling with "Robinson Crusoe" | Daniel Defoe
+right: Steve
+Wrong: 
+Value: $200
+Number: 12
+MYTHOLOGY | Like Noah's family in the Bible, the Greeks Deucalion & his wife were the only ones to survive this | Flood
+right: Steve
+Wrong: 
+Value: $200
+Number: 19
+IN THE DICTIONARY | As a verb, the word skirl means to play this Highland instrument | Bagpipes
+right: Darren
+Wrong: 
+Value: $200
+Number: 7
+POLITICS '96 | This cable network's '96 election coverage featured Tabitha Soren & the "Choose Or Lose" bus | MTV
+right: Beth
+Wrong: 
+Value: $400
+Number: 18
+CANADIAN CITIES | General Motors Place is the home of this city's Canucks hockey team | Vancouver
+right: Darren
+Wrong: 
+Value: $400
+Number: 3
+FILM DIRECTORS | As a child, this "Big" director performed with her mother's tap dance troupe on the "Original Amateur Hour" | Penny Marshall
+right: Beth
+Wrong: 
+Value: $400
+Number: 26
+CONTEMPORARIES | In 1547 Hernan Cortes died & this Medici became queen of France | Catherine
+right: Steve
+Wrong: 
+Value: $400
+Number: 13
+MYTHOLOGY | 5 rivers flow through Hades:  Acheron, Cocytus, Lethe, Phlegethon & this one | Styx
+right: Beth
+Wrong: 
+Value: $400
+Number: 21
+IN THE DICTIONARY | From the Latin word for "four", it's a poem or stanza of 4 lines | Quatrain
+right: Beth
+Wrong: 
+Value: $400
+Number: 8
+POLITICS '96 | At a Washington fundraiser, this Republican congressman sang his hit "The Beat Goes On" | Sonny Bono
+right: Beth
+Wrong: 
+Value: $600
+Number: 20
+CANADIAN CITIES | In North America this city's stock exchange is second in size only to the New York Stock Exchange | Toronto
+right: Steve
+Wrong: 
+Value: $600
+Number: 4
+FILM DIRECTORS | He earned his first Oscar nomination for his first film, "Who's Afraid of Virginia Woolf?" | Mike Nichols
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+CONTEMPORARIES | While Charles Babbage was trying to build a computer in the 1820s, this Scot invented what would be a "Mac" | Charles McIntosh
+right: Darren
+Wrong: 
+Value: $600
+Number: 14
+MYTHOLOGY | After killing the giant Pallas, this goddess flayed him & used his skin as armor | Athena
+right: Steve
+Wrong: 
+Value: $600
+Number: 22
+IN THE DICTIONARY | This word can mean a drop downward, or one's lineage | Descent
+right: Darren
+Wrong: 
+Value: $600
+Number: 9
+POLITICS '96 | High school teacher Victor Morales challenged this incumbent Texas senator | Phil Gramm
+right: Steve
+Wrong: 
+Value: $800
+Number: 24
+CANADIAN CITIES | Sites of interest in this city include the Old Market Square & the Manitoba legislative building | Winnipeg
+right: Steve
+Wrong: 
+Value: $800
+Number: 5
+FILM DIRECTORS | This playwright directed the 1990 film adaptation of his own play "Rosencrantz And Guildenstern Are Dead" | Tom Stoppard
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+CONTEMPORARIES | While Abelard was wooing Heloise in Europe, this Rubaiyat author was writing in the Mideast | Omar Khayyam
+right: Steve
+Wrong: 
+Value: $800
+Number: 15
+MYTHOLOGY | This god of the west wind fathered 2 immortal horses:  Xanthus & Balius | Zephyr
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+IN THE DICTIONARY | This alternate name for a werewolf is from the Greek for "wolf man" | Lycanthrope
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 10
+POLITICS '96 | The Democratic Convention's keynote address was given by Evan Bayh, the governor of this state | Indiana
+right: 
+Wrong: 
+Value: DD: $700
+Number: 25
+CANADIAN CITIES | Province House, Canada's oldest legislative building, was completed in 1818 in this Nova Scotia city | Halifax
+right: Darren
+Wrong: 
+Value: $1000
+Number: 6
+FILM DIRECTORS | This Italian, father of actress Isabella, directed the acclaimed Neorealist film "Open City" | Roberto Rossellini
+right: Beth
+Wrong: 
+Value: $1000
+Number: 29
+CONTEMPORARIES | While Gutenberg was setting his type, a duke in this family was setting his sights on Milan | Sforza
+right: Darren
+Wrong: 
+Value: $1000
+Number: 16
+MYTHOLOGY | Calliope, one of the Muses, was the mother of this masterful lyre player | Orpheus
+right: Beth
+Wrong: 
+Value: $1000
+Number: 30
+IN THE DICTIONARY | This synonym for clumsy is from an old Norse word meaning "turned the wrong way" | Awkward
+right: Darren
+Wrong: 
+Value: DD: $1,000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Steve: $5,600
+Darren: $6,800
+Beth: $6,900
+
+Final Jeopardy! Round
+MYSTERY NOVELS | The first line of dialogue in this 1930 novel is spoken to secretary Effie Perine, "Yes, sweetheart?" | The Maltese Falcon
+right: Steve | Darren | Beth
+Wrong: 
+Wagers: 
+Steve: $0
+Darren: $6,800
+Beth: $6,701
+Final scores:
+Steve: $5,600 (3rd place: Helbros 14 Karat Gold Masterpiece Watch)
+Darren: $13,600 (2nd place: Trip to the Colony Beach & Tennis Resort, Longboat Key, Florida)
+Beth: $13,601 (New champion: $13,601)
+
+Coryat scores
+Steve: $6,600 (20 R,5 W(including 2 DDs))
+Darren: $6,800 (17 R(including 1 DD),1 W)
+Beth: $6,900 (15 R,0 W)

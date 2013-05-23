@@ -1,0 +1,353 @@
+4996 - Monday, May 8, 2006
+Comments: 2006 Tournament of Champions quarterfinal game 1.
+Contestants:
+Maria Wenglinsky: a teacher from Brooklyn, New York
+Kermin Fleming: a student from Lexington, Kentucky
+Doug Dorst: a writer and professor from Austin, Texas
+First Jeopardy! Round: PICK THE MAMMAL, THE NEW YORK TIMES SPORTS, PAINT JOB, PROPER NAMES, LET US WORSHIP, LATIN LEXICON
+PICK THE MAMMAL | Prawn, fawn, satyricon | a fawn
+right: Maria
+Wrong: 
+Value: $200
+Number: 2
+THE NEW YORK TIMES SPORTS | This "most primal sport... has been condemned since Cain & Abel, but it's still here... on barges or in barrooms" | boxing
+right: Maria
+Wrong: 
+Value: $200
+Number: 1
+PAINT JOB | (<http://www.j-archive.com/media/2006-05-08_J_21.jpg> Kelly of the Clue Crew dabs some red paint on a fresh canvas.)  As it's water-based, <http://www.j-archive.com/media/2006-05-08_J_21a.jpg> this major type of artistic paint dries fast, so I have to get it right the first time | acrylic
+right: Maria
+Wrong: 
+Value: $200
+Number: 21
+PROPER NAMES | A small piece of butter, or something you get "on the back" | Pat
+right: Kermin
+Wrong: 
+Value: $200
+Number: 7
+LET US WORSHIP | Some Hollywood stars with big egos could be accused of autolatry, the worship of this | themselves
+right: Kermin
+Wrong: 
+Value: $200
+Number: 16
+LATIN LEXICON | Not a Chicago band member's kin, it means "and so forth" | et cetera
+right: Doug
+Wrong: 
+Value: $200
+Number: 26
+PICK THE MAMMAL | Civet, civray, cygnet | a civet
+right: Doug
+Wrong: 
+Value: $400
+Number: 3
+THE NEW YORK TIMES SPORTS | Dave Anderson lamented that Jerry Kramer, Rich Jackson & Charley Conerly were not inducted into this sport's Hall of Fame | professional football
+right: Doug
+Wrong: 
+Value: $400
+Number: 8
+PAINT JOB | Gloss & semigloss are this type of paint, also a decorative baked-on coating | enamel
+right: Maria
+Wrong: 
+Value: $400
+Number: 22
+PROPER NAMES | General term for a Christmas song or hymn | Carol
+right: Kermin
+Wrong: 
+Value: $400
+Number: 12
+LET US WORSHIP | You don't have to be from New Orleans to know that hagiolatry is the worship of or a deep reverence for these | the saints
+right: Maria
+Wrong: 
+Value: $400
+Number: 17
+LATIN LEXICON | An allowance for incidental costs, it means "for each day" | per diem
+right: Kermin
+Wrong: 
+Value: $400
+Number: 27
+PICK THE MAMMAL | Koi, bolshoi, borzoi, bok choy | a borzoi
+right: Doug
+Wrong: 
+Value: $600
+Number: 4
+THE NEW YORK TIMES SPORTS | On April 10, 2006 The New York Times said he "works magic for second Masters" | (Phil) Mickelson
+right: Kermin
+Wrong: 
+Value: $600
+Number: 9
+PAINT JOB | (<http://www.j-archive.com/media/2006-05-08_J_23.jpg> Jon of the Clue Crew rolls some green paint over a canvas.)  A type of paint that gives just a slight gloss is named for this slightly glossly product of the animal world | eggshell
+right: Maria
+Wrong: 
+Value: $600
+Number: 23
+PROPER NAMES | To play in water, or walk through it, like baseball player Boggs | Wade
+right: Maria
+Wrong: 
+Value: $600
+Number: 13
+LET US WORSHIP | Almost a cult with "Jeopardy!" writers & lexicographers, epeolatry is the worship of these | words
+right: 
+Wrong: Triple Stumper
+Maria: What is, uh, names, name origins?
+Value: $600
+Number: 18
+LATIN LEXICON | Innate knowledge not based on experience, its antonym is a posteriori | a priori
+right: Kermin
+Wrong: 
+Value: $600
+Number: 28
+PICK THE MAMMAL | Scarab, scallop, escolar, echidna | an echidna
+right: Maria
+Wrong: 
+Value: $800
+Number: 5
+THE NEW YORK TIMES SPORTS | Not typically thought of as a contact sport, it's "athletic ballet... a brutal sport played by large and powerful men" | basketball
+right: 
+Wrong: Triple Stumper
+Doug: What is ice hockey?
+Kermin: What is soccer?
+Maria: What is boxing?
+Value: $800
+Number: 10
+PAINT JOB | Traditionally, the finest oil paint brushes are made from the bristles of this animal, especially ones from Chungking | hogs
+right: 
+Wrong: Triple Stumper
+Maria: What is sable?
+Value: $800
+Number: 24
+PROPER NAMES | To honor, as with one's presence | Grace
+right: Maria
+Wrong: 
+Value: $800
+Number: 14
+LET US WORSHIP | Selenolatry is the worship of this object | the Moon
+right: Maria
+Wrong: 
+Value: DD: $3,000
+Number: 19
+LATIN LEXICON | A bishop's assurance that a book adheres to Catholic morals, this term now means approval in general | imprimatur
+right: Maria
+Wrong: 
+Value: $800
+Number: 29
+PICK THE MAMMAL | Newt, nutria, nucleolus, neufchatel | a nutria
+right: Maria
+Wrong: 
+Value: $1000
+Number: 6
+THE NEW YORK TIMES SPORTS | It's "a brief blur of colors between the pate and the brie" for fans attending the major event in this sport | the Tour de France
+right: Maria
+Wrong: 
+Value: $1000
+Number: 11
+PAINT JOB | (<http://www.j-archive.com/media/2006-05-08_J_25.jpg> Kelly of the Clue Crew shows a roughly-textured canvas.)  Just as it sounds, this Italian term refers to <http://www.j-archive.com/media/2006-05-08_J_25a.jpg> laying on paint with a paste-like thickness | impasto
+right: Doug
+Wrong: 
+Value: $1000
+Number: 25
+PROPER NAMES | A British nobleman ranking above a viscount & below a marquess | Earl
+right: Maria
+Wrong: 
+Value: $1000
+Number: 15
+LET US WORSHIP | An ignicolist is a worshipper of this vital force | fire
+right: Maria
+Wrong: 
+Value: $1000
+Number: 20
+LATIN LEXICON | Literally "into the middle of things", it's how you describe a story that begins in the middle of the action | in medias res
+right: Maria
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Doug: $600
+Kermin: $400
+Maria: $4,800
+Scores at the end of the Jeopardy! Round:
+Doug: $1,800
+Kermin: $1,600
+Maria: $10,800
+Second Jeopardy! Round: PLAYS & PLAYWRIGHTS, NO. 1 ALBUMS, FIRST LADIES, A WORLD OF FACTS, THEY SAID IT IN 2005, "C" FOOD
+PLAYS & PLAYWRIGHTS | The Federico Garcia Lorca play "Bodas de Sangre" is usually known in English as this "Wedding" | Blood Wedding
+right: Maria
+Wrong: 
+Value: $400
+Number: 10
+NO. 1 ALBUMS | 1973: This group's "Houses of the Holy" | Led Zeppelin
+right: Doug
+Wrong: 
+Value: $400
+Number: 23
+FIRST LADIES | She appeared with her husband in a 1961 episode of "General Electric Theater" titled "Money and the Minister" | Nancy Reagan
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+A WORLD OF FACTS | In 1805 in Milan's cathedral, this non-Italian was crowned King of Italy | Napoleon
+right: Maria
+Wrong: 
+Value: $400
+Number: 16
+THEY SAID IT IN 2005 | "Brownie, you're doing a heck of a job" | George Bush
+right: Doug
+Wrong: 
+Value: $400
+Number: 21
+"C" FOOD | If you crave Craisins you know that they're sweetened & dried these | cranberries
+right: Kermin
+Wrong: 
+Value: $400
+Number: 1
+PLAYS & PLAYWRIGHTS | He set his play "The Lady from the Sea" in a small town on a fjord | Ibsen
+right: Maria
+Wrong: 
+Value: $800
+Number: 12
+NO. 1 ALBUMS | 1990: "Please (this rapper) Don't Hurt 'Em" | Hammer
+right: Doug
+Wrong: 
+Value: $800
+Number: 24
+FIRST LADIES | She said a quiet husband wouldn't be hard to get used to after teaching at the Clarke Institute for the Deaf | Mrs. (Grace) Coolidge
+right: Maria
+Wrong: 
+Value: $800
+Number: 7
+A WORLD OF FACTS | Nestor Kirchner is the current president of this South American country | Argentina
+right: Maria
+Wrong: 
+Value: $800
+Number: 17
+THEY SAID IT IN 2005 | "To my fellow journalists... risking all and to each of you, courage" | Dan Rather
+right: Doug
+Wrong: 
+Value: DD: $2,000
+Number: 22
+"C" FOOD | "Fabric" name for a certain cake made with oil instead of solid shortening | chiffon cake
+right: 
+Wrong: Triple Stumper
+Doug: What is cotton?
+Maria: What is velvet cake?
+Value: $800
+Number: 2
+PLAYS & PLAYWRIGHTS | Sophocles' last play was entitled "Oedipus at" this village--coincidentally, Sophocles' birhplace | Colonus
+right: Maria
+Wrong: 
+Value: $1200
+Number: 13
+NO. 1 ALBUMS | 2006: The first TV movie soundtrack to ever hit No. 1, from this Disney Channel movie | High School Musical
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 25
+FIRST LADIES | In her early 20s, she studied dance under Martha Graham in NYC; she moved back home to Grand Rapids in 1941 | Mrs. (Betty) Ford
+right: Maria
+Wrong: 
+Value: $1200
+Number: 8
+A WORLD OF FACTS | This capital of Madhya Pradesh state was the site of a deadly industrial accident in 1984 | Bhopal
+right: Kermin
+Wrong: 
+Value: $1200
+Number: 18
+THEY SAID IT IN 2005 | "...Matt, Matt, Matt, you don't even--you're glib.  You don't even know what Ritalin is" | Tom Cruise
+right: Doug
+Wrong: 
+Value: $1200
+Number: 28
+"C" FOOD | This veggie is the main ingredient in the German dish Blumenkohlsalat | cauliflower
+right: 
+Wrong: Triple Stumper
+Maria: What is cabbage?
+Value: $1200
+Number: 3
+PLAYS & PLAYWRIGHTS | (<http://www.j-archive.com/media/2006-05-08_DJ_14.jpg> Edward Albee delivers the clue.)  The precarious equilibrium of a couple named Agnes & Tobias is central to this play I wrote in 1966 | A Delicate Balance
+right: 
+Wrong: Triple Stumper
+Maria: What is Who is Afraid of Virginia Woolf?--Who's Afraid of Virginia Woolf?
+Value: $1600
+Number: 14
+NO. 1 ALBUMS | 1976: He "Comes Alive!" | Frampton
+right: Doug
+Wrong: 
+Value: $1600
+Number: 26
+FIRST LADIES | In 1982 she founded her Wildflower Center in Austin, Texas to preserve native North American plants | Lady Bird Johnson
+right: Doug
+Wrong: 
+Kermin: Who is Barbara Bush?
+Maria: Who is Laura Bush?
+Value: $1600
+Number: 9
+A WORLD OF FACTS | This Asian river, the world's third longest, may be the world's deepest--490 feet in some spots | the Yangtze
+right: Kermin
+Wrong: 
+Value: $1600
+Number: 19
+THEY SAID IT IN 2005 | "I said I believed the information came from another source, whom I could not recall" | Judith Miller
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+"C" FOOD | A plant disease known in the U.S. as this smut creates a Mexican delicacy known as huitlacoche | corn
+right: Kermin
+Wrong: 
+Value: DD: $1,000
+Number: 4
+PLAYS & PLAYWRIGHTS | Jason Miller ended his play "Barrymore's Ghost" with these 4 words, the last that Hamlet speaks in "Hamlet" | The rest is silence
+right: 
+Wrong: Triple Stumper
+Kermin: What are "Good night sweet prince"?
+Value: $2000
+Number: 15
+NO. 1 ALBUMS | (Note the year!) 1958: His "Tchaikovsky: Piano Concerto No. 1" | Van Cliburn
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+FIRST LADIES | The woman born Sara Delano took her son on a 1904 cruise to quash the romance with this woman | Eleanor Roosevelt
+right: Kermin
+Wrong: 
+Value: $2000
+Number: 11
+A WORLD OF FACTS | Before independence in 1966, Botswana was a protectorate known as this | Bechuanaland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+THEY SAID IT IN 2005 | "I'm the guy they used to call Deep Throat" | Mark Felt
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+"C" FOOD | These are poached in a sweetened syrup to make marrons glaces | chestnuts
+right: Maria
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Doug: $9,000
+Kermin: $4,200
+Maria: $13,200
+
+Final Jeopardy! Round
+SCIENCE | The symbol of this element first isolated in 1783 comes from its German name | tungsten
+right: 
+Wrong: 
+Kermin: What Cobalt
+Doug: What is [Deuderium crossed out] Iron
+Maria: What is Nitrogen
+Wagers: 
+Kermin: $4,101
+Doug: $3,001
+Maria: $6,800
+Final scores:
+Doug: $5,999 (2nd place: $5,000 if eliminated)
+Kermin: $99 (3rd place: $5,000 if eliminated)
+Maria: $6,400 (Automatic semifinalist)
+
+Coryat scores
+Doug: $7,800 (12 R(including 1 DD),2 W)
+Kermin: $4,800 (11 R(including 1 DD),3 W)
+Maria: $11,000 (24 R(including 1 DD),7 W)

@@ -1,0 +1,345 @@
+5188 - Wednesday, March 14, 2007
+Contestants:
+Scott Weiss: a computer science professor from Walkersville, Maryland
+Sheryl Page: a sales representative from Lansing, Michigan
+Jennifer Gotcher: a homemaker from Costa Mesa, California (whose 2-day cash winnings total $68,401)
+First Jeopardy! Round: MYTHOLOGY, WHO'S THE MRS.?, IT HAPPENED IN TEXAS, BOOM GOES THE DYNAMITE!, A DATE WITH DENSITY, "TIME" FOR A CHANGE
+MYTHOLOGY | In Greek myth Hypnos was the god of sleep; his brother Thanatos was the god of this more permanent state | death
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 6
+WHO'S THE MRS.? | Mrs. Warren Beatty | Annette Bening
+right: Scott
+Wrong: 
+Value: $200
+Number: 1
+IT HAPPENED IN TEXAS | Founded as a Franciscan mission in 1718, Mission San Antonio de Valero became better-known in history under this name | the Alamo
+right: Sheryl
+Wrong: 
+Value: $200
+Number: 17
+BOOM GOES THE DYNAMITE! | From 1927 to 1931 dynamite blasts removed 450,000 tons of rock from this mountain & national memorial | Mount Rushmore
+right: Scott
+Wrong: 
+Value: $200
+Number: 11
+A DATE WITH DENSITY | This planet has a greater mean density than any of the others in our solar system | Earth
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+"TIME" FOR A CHANGE | In England, it's often betwen 3 & 5 p.m. & includes finger sandwiches & scones | teatime
+right: Scott
+Wrong: 
+Value: $200
+Number: 16
+MYTHOLOGY | Not a bad gig: Omacatl was the god of joy, festvity & happiness in the pantheon of these people | the Aztecs
+right: Scott
+Wrong: 
+Value: $400
+Number: 7
+WHO'S THE MRS.? | Mrs. Keith Urban | Nicole Kidman
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 2
+IT HAPPENED IN TEXAS | On Nov. 25, 1981, she gave birth to twins in Dallas | Laura Bush
+right: Sheryl
+Wrong: 
+Value: $400
+Number: 20
+BOOM GOES THE DYNAMITE! | In 1884 farmers whose alfalfa fields had been flooded dynamited one of these on the Humboldt River | a dam
+right: Scott
+Wrong: 
+Value: $400
+Number: 12
+A DATE WITH DENSITY | With more than 1,000 people per square mile, this East Coast state has the highest population density in the U.S. | New Jersey
+right: 
+Wrong: Triple Stumper
+Scott: What is Rhode Island?
+Value: $400
+Number: 27
+"TIME" FOR A CHANGE | Scott Joplin is a famous performer & composer of this musical style | ragtime
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 18
+MYTHOLOGY | In the title of an Ayn Rand novel, this mythological figure "Shrugged" | Atlas
+right: Sheryl
+Wrong: 
+Value: $600
+Number: 8
+WHO'S THE MRS.? | Mrs. David Arquette | Courteney Cox
+right: Sheryl
+Wrong: 
+Value: $600
+Number: 3
+IT HAPPENED IN TEXAS | He was deposed as Governor of Texas in 1861 because he wouldn't swear allegiance to the Confederacy | (Sam) Houston
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 21
+BOOM GOES THE DYNAMITE! | In 2000, 5800 separate explosions brought down the <http://www.j-archive.com/media/2007-03-14_J_13.wmv> Kingdome in this city | Seattle
+right: Sheryl
+Wrong: 
+Value: $600
+Number: 13
+A DATE WITH DENSITY | (<http://www.j-archive.com/media/2007-03-14_J_28.jpg> Cheryl of the Clue Crew demonstrates a scientific instrument.)  <http://www.j-archive.com/media/2007-03-14_J_28a.jpg> This device for measuring the density of liquids takes its name from the Greek for "water measure" | hydrometer
+right: Sheryl
+Wrong: 
+Jennifer: What's a hygrometer?
+Value: $600
+Number: 28
+"TIME" FOR A CHANGE | A pleasant means of amusement, like a game of cards or a backyard sport; we have a "national" one | a pastime
+right: Scott
+Wrong: 
+Value: $600
+Number: 19
+MYTHOLOGY | Sleipnir was this Norse god's 8-legged stallion | Odin
+right: Sheryl
+Wrong: 
+Scott: Who is Thor?
+Value: $800
+Number: 9
+WHO'S THE MRS.? | Mrs. Arnold Schwarzenegger | Maria Shriver
+right: Scott
+Wrong: 
+Value: $800
+Number: 4
+IT HAPPENED IN TEXAS | In March 1929 this pilot inaugurated the airmail service between Brownsville, Texas & Mexico | Charles Lindbergh
+right: Scott
+Wrong: 
+Value: $800
+Number: 22
+BOOM GOES THE DYNAMITE! | In 1867 this Swedish inventor found kieselguhr, a type of chalky earth, absorbed a lot of nitroglycerine | (Alfred) Nobel
+right: Scott
+Wrong: 
+Value: $800
+Number: 14
+A DATE WITH DENSITY | It's what the M & the V stand for in the equation to calculate density, d&nbsp;=&nbsp;m&nbsp;/&nbsp;v | mass & volume
+right: Scott
+Wrong: 
+Value: $800
+Number: 29
+"TIME" FOR A CHANGE | This adjective means "connected to the sea", like some Canadian provinces | maritime
+right: Scott
+Wrong: 
+Value: $800
+Number: 24
+MYTHOLOGY | As a constellation, this mythological princess is chained to a rock as a sacrifice to a sea monster | Andromeda
+right: Jennifer
+Wrong: 
+Value: $1000
+Number: 10
+WHO'S THE MRS.? | Mrs. Mike Nichols | Diane Sawyer
+right: Sheryl
+Wrong: 
+Value: $1000
+Number: 5
+IT HAPPENED IN TEXAS | Uh-oh!  In 1878 outlaw Sam Bass was betrayed by one of his own men to this group | the Texas Rangers
+right: Scott
+Wrong: 
+Value: DD: $1,000
+Number: 23
+BOOM GOES THE DYNAMITE! | City Hall in this Magic Kingdom City (East) is seen <http://www.j-archive.com/media/2007-03-14_J_15.wmv> here going down in 1991 | Orlando
+right: Jennifer
+Wrong: 
+Value: $1000
+Number: 15
+A DATE WITH DENSITY | HDLs, considered a good form of cholesterol, are short for high-density these | lipoproteins
+right: Jennifer
+Wrong: 
+Value: $1000
+Number: 30
+"TIME" FOR A CHANGE | For world clock-watchers, it's abbreviated GMT | Greenwich Mean Time
+right: Scott
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Jennifer: $2,600
+Sheryl: $3,600
+Scott: $2,000
+Scores at the end of the Jeopardy! Round:
+Jennifer: $4,000
+Sheryl: $4,800
+Scott: $6,800
+Second Jeopardy! Round: DESERTS, TV OF THE FUTURE, LITERARY QUOTES, FISH, BIRD OR MAMMAL, AMERICAN PAINTERS, EL "CID"
+DESERTS | The Karakum Desert, which means "black sand" in the Turkmen language, covers about 70% of this country | Turkmenistan
+right: Scott
+Wrong: 
+Value: $400
+Number: 3
+TV OF THE FUTURE | The 1987 miniseries "Amerika" was set in 1997 with the U.S. taken over by this foe--didn't work out that way | the Soviet Union
+right: Scott
+Wrong: 
+Value: $400
+Number: 26
+LITERARY QUOTES | In this 1847 work, Cathy Earnshaw says, "My love for Heathcliff resembles the eternal rocks beneath" | Wuthering Heights
+right: Scott
+Wrong: 
+Value: $400
+Number: 21
+FISH, BIRD OR MAMMAL | The kestrel | a bird
+right: Scott
+Wrong: 
+Value: $400
+Number: 16
+AMERICAN PAINTERS | The Feb. 13, 1960 Saturday Evening Post contained his cover story "My Adventures as an Illustrator" | Norman Rockwell
+right: Scott
+Wrong: 
+Value: $400
+Number: 9
+EL "CID" | Whack someone pulseless with a frying pan & you've committed this crime | homicide
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 1
+DESERTS | The Ordos Desert occupies an area inside the Great Northern Bend of this river in North Central China | the Yellow River (or Hwang-ho)
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+TV OF THE FUTURE | Moonbase Alpha was the lunar colony on the 1970s Martin Landau show "Space:" this year | 1999
+right: Scott
+Wrong: 
+Value: $800
+Number: 27
+LITERARY QUOTES | Pope wrote of those who "damn with faint" this, "assent with civil leer" | praise
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 22
+FISH, BIRD OR MAMMAL | The serval | a mammal
+right: Scott
+Wrong: 
+Value: $800
+Number: 17
+AMERICAN PAINTERS | In 1905 she & her husband bought a farm at Hoosick Falls, N.Y., where she stayed until her death in 1961 | Grandma Moses
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 10
+EL "CID" | Unexpected or unplanned, like Tyler's title "Tourist" | accidental
+right: Scott
+Wrong: 
+Value: $800
+Number: 2
+DESERTS | The highest temperature ever recorded was 136 degrees F. in 1922 at El Azizia near this Libyan capital in the Sahara | Tripoli
+right: Scott
+Wrong: 
+Value: $1200
+Number: 5
+TV OF THE FUTURE | In a series title, the name of this submarine was followed by "DSV", then by "2032" | seaQuest
+right: Scott
+Wrong: 
+Value: $1200
+Number: 28
+LITERARY QUOTES | In "The Tempest", Shakespeare wrote, "On" this mammal's "back I do fly after summer merrily" | a bat
+right: Scott
+Wrong: 
+Value: $1200
+Number: 23
+FISH, BIRD OR MAMMAL | The rail | a bird
+right: Jennifer
+Wrong: 
+Value: $1200
+Number: 18
+AMERICAN PAINTERS | Ben Shahn came to prominence in the early 1930s with his paintings of the murder trial of these 2 Italian anarchists | Sacco & Vanzetti
+right: Sheryl
+Wrong: 
+Value: $1200
+Number: 11
+EL "CID" | You happened to study "cid" words like this, defined as 2 events occuring at once by chance; that's a funny... | a coincidence
+right: Scott
+Wrong: 
+Value: $1200
+Number: 8
+DESERTS | The Chihuahuan Desert stretches from this river's valley in Southern New Mexico to just north of Mexico City | the Rio Grande
+right: Jennifer
+Wrong: 
+Value: $1600
+Number: 6
+TV OF THE FUTURE | (Star Trek) Deep Space 9 guarded one of these subspace bridges, or "tunnels in the sky" | a wormhole
+right: Scott
+Wrong: 
+Value: $1600
+Number: 29
+LITERARY QUOTES | She wrote, "A woman must have money and a room of her own if she is to write fiction" | Virginia Woolf
+right: Jennifer
+Wrong: 
+Value: $1600
+Number: 24
+FISH, BIRD OR MAMMAL | The mudskipper | a fish
+right: Scott
+Wrong: 
+Value: $1600
+Number: 19
+AMERICAN PAINTERS | He spent much of his later years doing seascaping in Prouts Neck, Maine | Winslow Homer
+right: 
+Wrong: 
+Sheryl: Who is Andrew Wyeth?
+Value: DD: $2,000
+Number: 12
+EL "CID" | George W. Bush: "I hear the voices & I read the front page and I know the speculation, but I'm the" this | decider
+right: Scott
+Wrong: 
+Value: $1600
+Number: 14
+DESERTS | The Empty Quarter, most of which is in this country, is the largest continuous body of sand in the world | Saudi Arabia
+right: 
+Wrong: 
+Jennifer: What is Egypt?
+Value: DD: $2,000
+Number: 7
+TV OF THE FUTURE | (<http://www.j-archive.com/media/2007-03-14_DJ_30.jpg> Hi, I'm Dana Delany, and) I'm glad 2007 hasn't turned out the way it looked in this 1993 miniseries I starred in, with a title out of Faulkner | Wild Palms
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+LITERARY QUOTES | In an epic poem, he wrote, "Long is the way And hard that out of hell leads up to light" | (John) Milton
+right: Scott
+Wrong: 
+Value: $2000
+Number: 25
+FISH, BIRD OR MAMMAL | The wanderoo | a mammal
+right: Jennifer
+Wrong: 
+Value: $2000
+Number: 20
+AMERICAN PAINTERS | John Sloane's "Women's Work" is an example of this "School" of down-to-earth art originally called "The Eight" | the Ashcan School
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+EL "CID" | Let's see if knowing this is what "RNA" is short for is in your RNA | ribonucleaic acid
+right: Scott
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Jennifer: $10,400
+Sheryl: $4,000
+Scott: $24,800
+
+Final Jeopardy! Round
+PRESIDENTIAL FAMILIES | The last 2 U.S. presidents to have only one child; both served in the 20th century | Clinton & Truman
+right: 
+Wrong: 
+Sheryl: Who are Truman + Coolidge
+Jennifer: Who are Clinton and Carter?
+Scott: Who are Clinton + Nixon?
+Wagers: 
+Sheryl: $4,000
+Jennifer: $0
+Scott: $200
+Final scores:
+Jennifer: $10,400 (2nd place: $2,000)
+Sheryl: $0 (3rd place: $1,000)
+Scott: $24,600 (New champion: $24,600)
+
+Coryat scores
+Jennifer: $12,400 (14 R,2 W(including 1 DD))
+Sheryl: $6,000 (9 R,1 W(including 1 DD))
+Scott: $24,800 (30 R(including 1 DD),2 W)

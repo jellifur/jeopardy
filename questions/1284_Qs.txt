@@ -1,0 +1,341 @@
+3875 - Friday, June 8, 2001
+Comments: Jason Block game 5.  Mark Eckard game 1.
+Contestants:
+Mark Eckard: a software engineer from Bedford, Massachusetts
+Scott Wetzel: a graduate student from Portland, Oregon
+Jason Block: an Internet researcher from Brooklyn, New York (whose 4-day cash winnings total $36,701)
+First Jeopardy! Round: LITERARY ANIMALS, CAR REPAIR 101, PRESIDENTIAL VPs, THE WOMEN OF BAYWATCH, DIFFERENT STROKES, "WILL" OF THE PEOPLE
+LITERARY ANIMALS | He told the hare, "You are much faster than I, but as you have seen, slow and steady wins the race" | the tortoise
+right: Mark
+Wrong: 
+Value: $100
+Number: 2
+CAR REPAIR 101 | This part helps start the engine; after that, it's the alternator's job to keep the juice flowing | the battery
+right: Mark
+Wrong: 
+Value: $100
+Number: 1
+PRESIDENTIAL VPs | George Bush | Ronald Reagan
+right: Jason
+Wrong: 
+Value: $100
+Number: 20
+THE WOMEN OF BAYWATCH | Gena Lee Nolin traded in her swimsuit for a loincloth & became this "Queen Of The Jungle" | Sheena
+right: Mark
+Wrong: 
+Value: $100
+Number: 10
+DIFFERENT STROKES | At the Olympics you won't see this "canine" race, where quick, short strokes keep the head above water | the dog paddle
+right: Mark
+Wrong: 
+Value: $100
+Number: 24
+"WILL" OF THE PEOPLE | Renaissance man who wrote several narrative poems, 154 sonnets & oh, yes, over 30 plays | William Shakespeare
+right: Jason
+Wrong: 
+Value: $100
+Number: 11
+LITERARY ANIMALS | Dan'l Webster was this Twain animal who was so full of quail shot that he couldn't jump | The "Celebrated Jumping Frog"
+right: Mark
+Wrong: 
+Value: $200
+Number: 3
+CAR REPAIR 101 | This part ignites the fuel within the engine | a spark plug
+right: Mark
+Wrong: 
+Value: $200
+Number: 5
+PRESIDENTIAL VPs | Richard Nixon | Dwight D. Eisenhower
+right: Scott
+Wrong: 
+Value: $200
+Number: 22
+THE WOMEN OF BAYWATCH | For the 2000-01 season, the show dipped back into the pages of this magazine & pulled out Miss April, Brande Roderick | Playboy
+right: Mark
+Wrong: 
+Value: $200
+Number: 12
+DIFFERENT STROKES | Look directly skyward as you swim this way?  That's just "Krayzelburg" enough to work | Backstroke
+right: Mark
+Wrong: 
+Value: $200
+Number: 27
+"WILL" OF THE PEOPLE | Swiss archer who broke a few child welfare laws around 1307 | William Tell
+right: Mark
+Wrong: 
+Value: $200
+Number: 13
+LITERARY ANIMALS | Felix Salten's fawn, first appearing in print in 1923 | Bambi
+right: Scott
+Wrong: 
+Mark: What is The Yearling?
+Value: $300
+Number: 4
+CAR REPAIR 101 | [video clue] | a muffler
+right: Mark
+Wrong: 
+Value: $300
+Number: 7
+PRESIDENTIAL VPs | Harry Truman | Franklin D. Roosevelt
+right: Jason
+Wrong: 
+Value: $300
+Number: 23
+THE WOMEN OF BAYWATCH | Lani in 1997, at the present time she may or may not be married to Dennis Rodman | Carmen Electra
+right: Jason
+Wrong: 
+Mark: Who is Yasmine Bleeth?
+Value: $300
+Number: 17
+DIFFERENT STROKES | Mike Barrowman won 200-meter Olympic gold by swimming this stroke that uses a frog kick | the breaststroke
+right: Mark
+Wrong: 
+Value: $300
+Number: 28
+"WILL" OF THE PEOPLE | You like apples?  Well, Matt Damon got Minnie Driver's number in this film....how'd you like them apples? | Good Will Hunting
+right: Mark
+Wrong: 
+Value: $300
+Number: 14
+LITERARY ANIMALS | Shere Khan, Mowgli's enemy in "The Jungle Book", was this type of feline | Tiger
+right: Jason
+Wrong: 
+Value: $400
+Number: 6
+CAR REPAIR 101 | Metal shavings & dirt can be cleaned from the engine's lubricant with this part | an oil filter
+right: Jason
+Wrong: 
+Value: $400
+Number: 9
+PRESIDENTIAL VPs | Thomas Jefferson | John Adams
+right: Scott
+Wrong: 
+Value: $400
+Number: 25
+THE WOMEN OF BAYWATCH | As C.J. Parker, she's been in the opening credits with several variations of her name | Pamela Anderson Lee
+right: Jason
+Wrong: 
+Value: $400
+Number: 18
+DIFFERENT STROKES | Croc Hunter Steve Irwin's nationality & the way his giant snakes move combine to form the name of this stroke | the Australian crawl
+right: Mark
+Wrong: 
+Value: $400
+Number: 29
+"WILL" OF THE PEOPLE | Last name of heavyweight champ Jess, or first name of the weatherman who'd wish him a happy 120th birthday | Willard
+right: Mark
+Wrong: 
+Value: $400
+Number: 15
+LITERARY ANIMALS | Gabilan is the equine given to young Jody Tiflin in this Steinbeck work consisting of 4 stories | The Red Pony
+right: Jason
+Wrong: 
+Value: $500
+Number: 8
+CAR REPAIR 101 | Detroit basketball fans will tell you expanding gas forces this part down the cylinder | a piston
+right: Scott
+Wrong: 
+Value: $500
+Number: 21
+PRESIDENTIAL VPs | Theodore Roosevelt | William McKinley
+right: Scott
+Wrong: 
+Value: $500
+Number: 26
+THE WOMEN OF BAYWATCH | Seen here, she played Caroline and has since appeared on "Nash Bridges" | Yasmine Bleeth
+right: Mark
+Wrong: 
+Value: $500
+Number: 19
+DIFFERENT STROKES | The name of this stroke is also a type of voting ballot that made some people's heads swim | the butterfly
+right: Mark
+Wrong: 
+Value: DD: $700
+Number: 30
+"WILL" OF THE PEOPLE | A memorial statue to him bears his famous line, "I never met a man I didn't like" | Will Rogers
+right: Jason
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Jason: $1,900
+Scott: $300
+Mark: $1,800
+Scores at the end of the Jeopardy! Round:
+Jason: $3,000
+Scott: $1,900
+Mark: $3,700
+Second Jeopardy! Round: KEMAL ATATURK, MAY FLOWERS, ITALIAN CITIES, FUN WITH COLORS, DIONNE WARWICK, PHONETICS
+KEMAL ATATURK | Kemal Ataturk was born in 1881 in the city of Thessaloniki in what is now this country | Greece
+right: Mark
+Wrong: 
+Value: $200
+Number: 11
+MAY FLOWERS | Held each May in Ottawa, the world's largest festival of this flower began with a gift from Dutch royalty | Tulips
+right: Scott
+Wrong: 
+Value: $200
+Number: 23
+ITALIAN CITIES | The locals call it Firenze | Florence
+right: Mark
+Wrong: 
+Value: $200
+Number: 6
+FUN WITH COLORS | Before they appear on shows like Letterman's, guests are sequestered in this waiting area | Green room
+right: Mark
+Wrong: 
+Value: $200
+Number: 1
+DIONNE WARWICK | While she sang of being "Born & raised in San Jose", Dionne's actually from East Orange in this state | New Jersey
+right: Mark
+Wrong: 
+Value: $200
+Number: 13
+PHONETICS | Speech sound formed by the active use of these is called labial | Lips
+right: Jason
+Wrong: 
+Value: $200
+Number: 18
+KEMAL ATATURK | In 1928 Ataturk removed a Turkish constitutional provision naming this as the state religion | Islam
+right: Jason
+Wrong: 
+Value: $400
+Number: 12
+MAY FLOWERS | On display in May is the spider type of this very popular ornamental flower, seen here | Orchid
+right: Scott
+Wrong: 
+Value: $400
+Number: 24
+ITALIAN CITIES | Mussolini founded the Fascist party in this city, but keep it under your hat | Milan
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+FUN WITH COLORS | This card game is also called twenty-one or vingt-et-un | Blackjack
+right: Jason
+Wrong: 
+Value: $400
+Number: 2
+DIONNE WARWICK | One of Dionne's most beloved songs, "I Say A Little Prayer", was repopularized by this Julia Roberts film | My Best Friend's Wedding
+right: Jason
+Wrong: 
+Value: $400
+Number: 14
+PHONETICS | Of the 2 basic categories of speech sounds, the one that earns you money on "Wheel" | Consonants
+right: Jason
+Wrong: 
+Value: $400
+Number: 19
+KEMAL ATATURK | It's the city of about 3 miilion where you'll find the Kemal Ataturk mausoleum | Ankara
+right: Scott
+Wrong: 
+Value: $600
+Number: 28
+MAY FLOWERS | It must have been May in "Stage Door" when Katharine Hepburn said these "Lilies are in bloom again" | Calla lilies
+right: Mark
+Wrong: 
+Value: $600
+Number: 25
+ITALIAN CITIES | Italy's motor city, it's gearing up to host the 2006 Winter Olympics | Turin
+right: Mark
+Wrong: 
+Value: $600
+Number: 8
+FUN WITH COLORS | A chocolate brown color, it shares its name with a coffee flavoring & a port in Yemen | Mocha
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+DIONNE WARWICK | With her first hit, "Don't Make Me Over", Dionne became the main "voice" for this songwriting team | Burt Bacharach & Hal David
+right: Mark
+Wrong: 
+Value: $600
+Number: 15
+PHONETICS | Put this on the wrong syllable in SYL-la-ble & you get syl-LA-ble | Accent
+right: Jason
+Wrong: 
+Value: $600
+Number: 20
+KEMAL ATATURK | From the Arabic for "ruler", it's the title held by the man overthrown by Ataturk in 1922 | Sultan
+right: Jason
+Wrong: 
+Value: $800
+Number: 29
+MAY FLOWERS | Mary, Mary quite contrary, how does your garden grow?  With these May blossoms, seen here | Silver bells
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+ITALIAN CITIES | Pass go & collect $800 if you can name this seaport city between Bari & Brindisi | Monopoli
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+FUN WITH COLORS | This 2-word term refers to wage earners whose jobs are performed in work clothes | Blue collar
+right: Mark
+Wrong: 
+Value: $800
+Number: 4
+DIONNE WARWICK | "Chances Are" you know he's the singer who duetted with Dionne on "Friends In Love" | Johnny Mathis
+right: Mark
+Wrong: 
+Value: $800
+Number: 16
+PHONETICS | It's a vowel sound that has a change in tone during a syllable; it also sounds like beachwear for a quick swim | Diphthong
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+KEMAL ATATURK | During WWI, Ataturk played a crucial military role in repelling the Allied invasion of this Turkish peninsula | Gallipoli
+right: Jason
+Wrong: 
+Value: DD: $3,300
+Number: 30
+MAY FLOWERS | This New England novelist died in May 1864, as the plant with the same-sounding name was blooming | Nathaniel Hawthorne
+right: Mark
+Wrong: 
+Value: DD: $1,200
+Number: 27
+ITALIAN CITIES | You'll find the International School of Violin Making in this city, once home to Amati & Stradivari | Cremona
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+FUN WITH COLORS | A small type of wasp, it normally builds its nest underground | Yellowjacket
+right: Mark
+Wrong: 
+Value: $1000
+Number: 5
+DIONNE WARWICK | From 1980 to '81 & again in the mid-'80s, Dionne hosted this TV pop show | Solid Gold
+right: Jason
+Wrong: 
+Value: $1000
+Number: 17
+PHONETICS | In the words "fricative" & "spirant", the 2 fricative or spirant letters | F & S
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Jason: $8,900
+Scott: $3,100
+Mark: $8,900
+
+Final Jeopardy! Round
+HEALTH & MEDICINE | The USA's leading chronic illness in children, it causes 10 million missed school days & 1 in 6 of all pediatric emergency visits | asthma
+right: Scott | Mark
+Wrong: 
+Jason: What is chicken pox?
+Wagers: 
+Scott: $842
+Mark: $8,900
+Jason: $8,900
+Final scores:
+Jason: $0 (3rd place: Fisher Soundstage 100-Watt Audio-Video Home Component Theater)
+Scott: $3,942 (2nd place: Trip To Shangri-La Resorts, Borneo, Malaysia)
+Mark: $17,800 (New champion: $17,800)
+
+Coryat scores
+Jason: $6,600 (18 R(including 1 DD),2 W)
+Scott: $3,100 (8 R,0 W)
+Mark: $8,500 (27 R(including 2 DDs),5 W)

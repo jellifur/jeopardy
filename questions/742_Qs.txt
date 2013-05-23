@@ -1,0 +1,343 @@
+1422 - Tuesday, November 6, 1990
+Comments: 1990 Tournament of Champions quarterfinal game 2.
+Contestants:
+Jamie Weiss: a high school senior and winner of last year's Teen Tournament from Fairfax, Virginia
+Jeff Bandman: an attorney from New York City, New York
+Larry McKnight: a computer analyst from Ventura, California
+First Jeopardy! Round: THE AMERICAN FLAG, QUOTES, TURKEY, ACTORS & THEIR ROLES, HANDICRAFTS, "TRANS" SCIENCE
+THE AMERICAN FLAG | 1st published in "The Youth's Companion" in 1892, since then, millions of kids have recited it | Pledge of Allegiance
+right: Jamie
+Wrong: 
+Value: $100
+Number: 6
+QUOTES | It was Edward Francis Albee who first said "Never give a sucker" one of these | An even break
+right: Jeff
+Wrong: 
+Value: $100
+Number: 11
+TURKEY | Turkey is situated on these two continents | Europe & Asia
+right: Jeff
+Wrong: 
+Value: $100
+Number: 20
+ACTORS & THEIR ROLES | After his 1960 Army discharge, this rock star was back in uniform playing a G.I. in "G.I. Blues" | Elvis Presley
+right: Jeff
+Wrong: 
+Value: $100
+Number: 25
+HANDICRAFTS | The layered needlework made at bees in early America | Quilting
+right: Larry
+Wrong: 
+Value: $100
+Number: 28
+"TRANS" SCIENCE | One can be used to step up or step down an alternating current | Transformer
+right: Larry
+Wrong: 
+Jeff: What is a transistor?
+Value: $100
+Number: 1
+THE AMERICAN FLAG | The American flag flies 24 hours a day over his grave in Paris' Pictus Cemetery | Marquis de Lafayette
+right: Larry
+Wrong: 
+Value: $200
+Number: 7
+QUOTES | Nicholas Murray Butler called an expert "One who knows more and more about" this | Less and less
+right: Jeff
+Wrong: 
+Value: $200
+Number: 15
+TURKEY | It's the official flower of Turkey, not the Netherlands | Tulip
+right: Jamie
+Wrong: 
+Value: $200
+Number: 19
+ACTORS & THEIR ROLES | This actor made his film debut in "On Her Majesty's Secret Service", his only outing as James Bond | George Lazenby
+right: Jeff
+Wrong: 
+Value: $200
+Number: 24
+HANDICRAFTS | The Japanese excel at this art of folding paper into decorative objects | Origami
+right: Jeff
+Wrong: 
+Value: $200
+Number: 29
+"TRANS" SCIENCE | The inventors of this tiny device won the 1956 Nobel Prize for Physics | Transistor
+right: Larry
+Wrong: 
+Value: $200
+Number: 2
+THE AMERICAN FLAG | Old Glory first flew at the North Pole when this Navy explorer planted it there | Robert Peary
+right: Larry
+Wrong: 
+Jamie: Who is Byrd?
+Value: $300
+Number: 8
+QUOTES | An 1855 book subtitled "The Economical Relations of Slavery" was titled this "Is King" | Cotton
+right: Jeff
+Wrong: 
+Value: DD: $500
+Number: 12
+TURKEY | Nearly all of its people are Muslims, and these two symbols are on its national flag | Crescent & the star
+right: Larry
+Wrong: 
+Value: $300
+Number: 18
+ACTORS & THEIR ROLES | This former NFL lineman first appeared onscreen as Mongo in "Blazing Saddles" | Alex Karras
+right: Jeff
+Wrong: 
+Value: $300
+Number: 23
+HANDICRAFTS | When the blowpipe was invented about 30 B.C., it ushered in the first golden age of this craft | Glassblowing
+right: Larry
+Wrong: 
+Value: $300
+Number: 30
+"TRANS" SCIENCE | It describes objects through which light can pass, but through which you can't see clearly | Translucent
+right: Larry
+Wrong: 
+Value: $300
+Number: 3
+THE AMERICAN FLAG | On June 24, 1912, an executive order by this president established the flag's design specifications | William Howard Taft
+right: Jeff
+Wrong: 
+Value: $400
+Number: 9
+QUOTES | In 1898 William Randolph Hearst cabled Frederic Remington, "You furnish the pictures & I'll furnish" this | The war
+right: Jeff
+Wrong: 
+Value: $400
+Number: 14
+TURKEY | The highest point in Turkey; Noah is said to have landed there | Mount Ararat
+right: Jeff
+Wrong: 
+Value: $400
+Number: 17
+ACTORS & THEIR ROLES | Frank Capra's favorite actress; she appeared in his "Mr. Deeds Goes to Town" & "Mr. Smith Goes to Washington" | Jean Arthur
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+HANDICRAFTS | The first workers who used this device to rotate wood & shape it with a fixed blade were called turners | Lathe
+right: Jamie
+Wrong: 
+Value: $400
+Number: 27
+"TRANS" SCIENCE | Some botanists believe this process in plants is equivalent to sweating in humans | Transpiration
+right: Larry
+Wrong: 
+Value: $400
+Number: 4
+THE AMERICAN FLAG | An editorial in this Hartford paper June 14, 1861 led to the first Flag Day observance in Connecticut that same day | The Hartford Courant
+right: Larry
+Wrong: 
+Value: $500
+Number: 10
+QUOTES | Leo Rosten said of him, "Anyone who hates babies & dogs can't be all bad" | W.C. Fields
+right: Jeff
+Wrong: 
+Value: $500
+Number: 13
+TURKEY | Regarding themselves as rulers of the Muslim world, Turkish sultans held this title until 1924 | Caliph
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+ACTORS & THEIR ROLES | Susan Hayward was nominated for an Oscar for her portrayal of this Broadway star in "I'll Cry Tomorrow" | Lilian Roth
+right: Larry
+Wrong: 
+Value: $500
+Number: 21
+HANDICRAFTS | From the French for "to cut out", it's the art of decorating furniture with varnished paper cutouts | Decoupage
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+"TRANS" SCIENCE | Any device that turns one kind of energy into another; a microphone is an example of one | Transducer
+right: Larry
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Larry: $2,500
+Jeff: $900
+Jamie: -$200
+Scores at the end of the Jeopardy! Round:
+Larry: $3,700
+Jeff: $3,300
+Jamie: $400
+Second Jeopardy! Round: EARLY ART, VICE PRESIDENTS, THEATRE, MOUNTAINS, AMERICAN LITERATURE, PHYSICIANS IN HISTORY
+EARLY ART | This animal that raised Romulus & Remus was the subject of one of the finest Etruscan sculptures | Wolf
+right: Larry
+Wrong: 
+Value: $200
+Number: 30
+VICE PRESIDENTS | John C. Calhoun was the first vice president to resign; he was the second | Spiro Agnew
+right: Jamie
+Wrong: 
+Value: $200
+Number: 10
+THEATRE | In Eugene O'Neill's play "Marco Millions", he marries a fat, commonplace Venetian | Marco Polo
+right: Jeff
+Wrong: 
+Value: $200
+Number: 25
+MOUNTAINS | 9 of the 10 highest peaks in the world are in this mountain range | Himalayas
+right: Jamie
+Wrong: 
+Value: $200
+Number: 11
+AMERICAN LITERATURE | "The House of the Seven Gables" is set in this New England town, about 150 years after the Witch Trials | Salem, Massachusetts
+right: Jamie
+Wrong: 
+Value: $200
+Number: 1
+PHYSICIANS IN HISTORY | Scottish doctor James Lind cured this vitamin deficiency disease among sailors by giving them citrus juice | Scurvy
+right: Jeff
+Wrong: 
+Value: $200
+Number: 16
+EARLY ART | The innermost of his 3 coffins discovered by Howard Carter is solid gold & painted in his likeness | King Tut
+right: Jeff
+Wrong: 
+Value: $400
+Number: 29
+VICE PRESIDENTS | Originally, to become vice president, you had to do this in the general election | Come in second
+right: Larry
+Wrong: 
+Value: $400
+Number: 9
+THEATRE | Edward Albee play in which George & Martha appear | "Who's Afraid of Virginia Woolf?"
+right: Larry
+Wrong: 
+Value: $400
+Number: 24
+MOUNTAINS | Ancient Greeks believed this mountain to be the center of the Earth | Mount Olympus
+right: Jamie
+Wrong: 
+Value: $400
+Number: 12
+AMERICAN LITERATURE | "The Mystery of Marie Roget" followed this Poe story, both featuring detective C. Auguste Dupin | "The Murders in the Rue Morgue"
+right: Larry
+Wrong: 
+Value: $400
+Number: 2
+PHYSICIANS IN HISTORY | Prior to his fame as a seer of the future, he treated plague victims in 16th C. France | Nostradamus
+right: Jeff
+Wrong: 
+Value: $400
+Number: 20
+EARLY ART | This art form of setting stones or glass into mortar was the main decorative art of the Byzantine Empire | Mosaic
+right: Larry
+Wrong: 
+Value: $600
+Number: 28
+VICE PRESIDENTS | After serving as Buchanan's vice president, John Breckenridge went on to be this president's Secretary of War | Jefferson Davis
+right: Larry
+Wrong: 
+Value: $600
+Number: 8
+THEATRE | In an Oscar Wilde comedy, this title character runs off with Lord Darlington | Lady Windemere
+right: Jeff
+Wrong: 
+Value: $600
+Number: 23
+MOUNTAINS | The American Indian name for this peak is Denali | Mount McKinley
+right: Jamie
+Wrong: 
+Value: $600
+Number: 13
+AMERICAN LITERATURE | This first "Mike Hammer" novel is Mickey Spillane's top-selling paperback book | "I, The Jury"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+PHYSICIANS IN HISTORY | Though little is known of his life, he did teach medicine at the school of Kos, the island on which he was born | Hippocrates
+right: Jamie
+Wrong: 
+Value: DD: $400
+Number: 19
+EARLY ART | "Winged Victory" is the common name of a statue of this Greek goddess whose name means "victory" | Nike
+right: Jamie
+Wrong: 
+Value: $800
+Number: 27
+VICE PRESIDENTS | Until this man was sworn in with F.D.R. in 1933, the vice president took the oath of office in the Senate | John Nance Garner
+right: Jeff
+Wrong: 
+Value: $800
+Number: 7
+THEATRE | This contemporary comedy by Tom Eyen is set in a womens' house of detention | "Women Behind Bars"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+MOUNTAINS | At 7,310 feet, Mount Kosciusko is the highest peak on this continent | Australia
+right: Jamie
+Wrong: 
+Value: $800
+Number: 14
+AMERICAN LITERATURE | This 1920 Sinclair Lewis novel told the story of Carol Milford & Dr. Will Kennicott | "Main Street"
+right: Larry
+Wrong: 
+Value: DD: $1,000
+Number: 4
+PHYSICIANS IN HISTORY | Van Leeuwenhoek figured out capillaries were the missing element in this man's theory of circulation | William Harvey
+right: Jamie
+Wrong: 
+Value: $800
+Number: 18
+EARLY ART | A religious work consisting of 3 hinged or folded panels often used as an altarpiece | triptych
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 26
+VICE PRESIDENTS | Co-winner of the 1925 Nobel Peace Prize for his plan re-scheduling German reparations | Charles Dawes
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 6
+THEATRE | This recent play by Neil Simon is considered to be his first out-and-out farce | "Rumors"
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 21
+MOUNTAINS | Few know that Mount Elbert in this state is the second-tallest in the lower 48 states | Colorado
+right: Larry
+Wrong: 
+Value: $1000
+Number: 15
+AMERICAN LITERATURE | Many consider his 1952 book "Invisible Man" the greatest post-war novel about black life in the U.S. | Ralph Ellison
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 5
+PHYSICIANS IN HISTORY | Physician at the court of Marcus Aurelius; his writings were used throughout the Middle Ages | Galen
+right: Larry
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Larry: $8,700
+Jeff: $9,900
+Jamie: $4,800
+
+Final Jeopardy! Round
+THE BIBLE | This Old Testament book opens "The words of the preacher, the son of David, King in Jerusalem" | Ecclesiastes
+right: 
+Wrong: 
+Jamie: What was Solomon?
+Larry: What is the Song of Solomon?
+Jeff: What is Proverbs?
+Wagers: 
+Jamie: $200
+Larry: $1,300
+Jeff: $1,898
+Final scores:
+Larry: $7,400 (2nd place: $1,000 if eliminated)
+Jeff: $8,002 (Automatic semifinalist)
+Jamie: $4,600 (3rd place: $1,000 if eliminated)
+
+Coryat scores
+Larry: $8,500 (21 R(including 1 DD),1 W)
+Jeff: $9,700 (22 R(including 1 DD),1 W)
+Jamie: $5,000 (12 R(including 1 DD),1 W)

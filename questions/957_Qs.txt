@@ -1,0 +1,331 @@
+3296 - Monday, December 28, 1998
+Contestants:
+Linda St. Clair-James: a registered nurse from Lake Charles, Louisiana
+Ron Mahla: a casino supervisor from Las Vegas, Nevada
+Will Thompson: a French professor from Memphis, Tennessee (whose 1-day cash winnings total $4,200)
+First Jeopardy! Round: BEVERLY HILLS, WHICH CAME FIRST?, HITS OF THE '40s, BLASTS FROM THE PAST, ETYMOLOGY, KWANZAA
+BEVERLY HILLS | Gucci, Louis Vuitton & Giorgio Armani are always in fashion on this chic shopping street | Rodeo Drive
+right: Linda
+Wrong: 
+Value: $100
+Number: 20
+WHICH CAME FIRST? | Paul Newman, Paul Anka, Paul Gauguin, Paul McCartney | Paul Gauguin
+right: Linda
+Wrong: 
+Value: $100
+Number: 10
+HITS OF THE '40s | Glenn Miller could have opened a jewelry store in 1942 with his "String of" these | "Pearls"
+right: Ron
+Wrong: 
+Value: $100
+Number: 5
+BLASTS FROM THE PAST | Praise the gods!  It's the city where you'll find the majestic ruins seen here (The Parthenon) | Athens
+right: Will
+Wrong: 
+Value: $100
+Number: 15
+ETYMOLOGY | This veggie's name is from the Italian for sprout, "brocco" | broccoli
+right: Will
+Wrong: 
+Value: $100
+Number: 1
+KWANZAA | The 1965 riots in this Los Angeles neighborhood inspired Prof. Maulana Karenga to create Kwanzaa in 1966 | Watts
+right: Will
+Wrong: 
+Value: $100
+Number: 26
+BEVERLY HILLS | This famous ZIP code reportedly has the largest number of bathrooms per household in the U.S. | 90210
+right: Will
+Wrong: 
+Ron: What is 8... 9... 8...?
+Value: $200
+Number: 21
+WHICH CAME FIRST? | The Rolling Stones, The Ink Spots, The Who, The The | The Ink Spots
+right: Ron
+Wrong: 
+Value: $200
+Number: 11
+HITS OF THE '40s | Completes the title "Beat Me Daddy..." | "Eight To The Bar"
+right: Ron
+Wrong: 
+Value: $200
+Number: 6
+BLASTS FROM THE PAST | A product of about 20,000 B.C., you'll find the art seen here in this country (cave drawings) | France
+right: Ron
+Wrong: 
+Value: $200
+Number: 16
+ETYMOLOGY | Roman numerals at first represented human fingers, hence this word for numbers 1-9 | digits
+right: Will
+Wrong: 
+Value: $200
+Number: 2
+KWANZAA | Kwanzaa's kinara holds 7 of these; a menorah holds 8 | candles
+right: Linda
+Wrong: 
+Will: What is a candelabra?
+Value: $200
+Number: 27
+BEVERLY HILLS | When it comes to fine dining, this chef has 2 Beverly Hills restaurants to choose from | Wolfgang Puck
+right: Ron
+Wrong: 
+Value: $300
+Number: 23
+WHICH CAME FIRST? | The Vulgate, The Koran, The Upanishads, The Book of Mormon | The Upanishads
+right: Ron
+Wrong: 
+Value: DD: $600
+Number: 12
+HITS OF THE '40s | The Beatles' "Anthology" includes a version of this '40s tune whose title is Spanish for "Kiss me much" | "Besame Mucho"
+right: Ron
+Wrong: 
+Value: $300
+Number: 7
+BLASTS FROM THE PAST | Many treasures have been excavated from this royal valley (in Egypt) | Valley of the Kings
+right: Will
+Wrong: 
+Value: $300
+Number: 17
+ETYMOLOGY | A Chinese farmer named Bing developed his own species of these in Oregon in 1875 | cherries
+right: Linda
+Wrong: 
+Value: $300
+Number: 3
+KWANZAA | Kwanzaa derives its name from a phrase meaning "first fruits" in this African language | Swahili
+right: Linda
+Wrong: 
+Value: $300
+Number: 28
+BEVERLY HILLS | Nicknamed the "Pink Palace", it's home to the world famous Polo Lounge -- check in & check it out | Beverly Hills Hotel
+right: Will
+Wrong: 
+Value: $400
+Number: 24
+WHICH CAME FIRST? | Seattle Seahawks, Miami Dolphins, Chicago Bears, Baltimore Ravens | Chicago Bears
+right: Linda
+Wrong: 
+Value: $400
+Number: 13
+HITS OF THE '40s | "You're nobody 'til somebody loves you" so do this | find yourself somebody to love
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+BLASTS FROM THE PAST | They're the ancient South American people who built the lost city seen here (Machu Picchu) | Incas
+right: Linda
+Wrong: 
+Value: $400
+Number: 18
+ETYMOLOGY | Jeremy Bentham coined the terms maximize & minimize as well as this 13-letter word meaning "of many countries" | international
+right: Will
+Wrong: 
+Value: $400
+Number: 4
+KWANZAA | The Kwanzaa feast table is decorated with one ear of corn for each of these in the household | children
+right: Ron
+Wrong: 
+Value: $400
+Number: 29
+BEVERLY HILLS | All kidding aside, this humorist was Beverly Hills' first honorary mayor in the 1920s | Will Rogers
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+WHICH CAME FIRST? | Castro, Stalin, Lenin, Tito | Lenin
+right: Ron
+Wrong: 
+Value: $500
+Number: 14
+HITS OF THE '40s | Duke Ellington took "The A-Train" in 1941 & Frankie Laine rode out the decade on this train in 1949 | "Mule Train"
+right: Ron
+Wrong: 
+Value: $500
+Number: 9
+BLASTS FROM THE PAST | Remants of this historic British fortification are seen here: | Hadrian's Wall
+right: Ron
+Wrong: 
+Value: $500
+Number: 19
+ETYMOLOGY | H.L. Mencken went to the Greek for "molting" to come up with this term for a stripteaser | ecdysiast
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+KWANZAA | Gifts are given on the last day of Kwanzaa, which falls on this public holiday | New Year's Day
+right: Will
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Will: $700
+Ron: $2,400
+Linda: $800
+Scores at the end of the Jeopardy! Round:
+Will: $2,100
+Ron: $3,600
+Linda: $1,800
+Second Jeopardy! Round: NORTH BY NORTHWEST, REBECCA, NOTORIOUS, THE BIRDS, SPELLBOUND, ALFRED HITCHCOCK
+NORTH BY NORTHWEST | Arthur St. Clair, known for his evacuation of Ticonderoga, was the first gov. of this area established in 1787 | Northwest Territory
+right: Linda
+Wrong: 
+Value: $200
+Number: 11
+REBECCA | The Biblical Rebecca bore twin sons: Jacob & this pottage-crazy hunter | Esau
+right: Ron
+Wrong: 
+Value: $200
+Number: 13
+NOTORIOUS | This mystic whose name means "debauched one" tried to keep Russia out of World War I | Rasputin
+right: Ron
+Wrong: 
+Value: $200
+Number: 23
+THE BIRDS | It's the bird seen <http://www.j-archive.com/media/1998-12-28_DJ_02.jpg> here stretching its legs: | flamingo
+right: Ron
+Wrong: 
+Value: $200
+Number: 2
+SPELLBOUND | It's what the "B" in FBI stands for | B-U-R-E-A-U
+right: Will
+Wrong: 
+Value: $200
+Number: 6
+ALFRED HITCHCOCK | In Hitchcock's third movie, "The Lodger", a landlady suspects that her tenant is this London killer | Jack the Ripper
+right: Will
+Wrong: 
+Value: $200
+Number: 14
+NORTH BY NORTHWEST | Janin is the northernmost major settlement in this formerly Jordanian area Israel occupied in 1967 | West Bank
+right: Ron
+Wrong: 
+Value: $400
+Number: 12
+REBECCA | This fictional rural girl charms a businessman into buying 300 cakes of soap | Rebecca of Sunnybrook Farm
+right: Ron
+Wrong: 
+Value: $400
+Number: 18
+NOTORIOUS | In 44 B.C. he was made a praetor of Rome & joined Cassius in a little plot | Brutus
+right: Linda
+Wrong: 
+Value: $400
+Number: 24
+THE BIRDS | The screech type of this bird is the only common small species with ear tufts | owl
+right: Linda
+Wrong: 
+Value: $400
+Number: 3
+SPELLBOUND | An executive of this brewery came up with the idea for the "Book of World Records" | G-U-I-N-N-E-S-S
+right: Will
+Wrong: 
+Linda: What is G-U-I-N-E-S-S?
+Value: $400
+Number: 7
+ALFRED HITCHCOCK | Hitch's movie that contains the line "No one ever comes here unless they've gotten off the main highway" | Psycho
+right: Ron
+Wrong: 
+Value: DD: $1,400
+Number: 19
+NORTH BY NORTHWEST | This "grand" island popular with tourists is found in the extreme north of the West Indies | Grand Bahama Island
+right: 
+Wrong: Triple Stumper
+Ron: What are the Bahamas?
+Value: $600
+Number: 15
+NOTORIOUS | The U.S. supplied the weapons that killed this country's dictator Raphael Trujillo in 1961 | Dominican Republic
+right: 
+Wrong: Triple Stumper
+Ron: What is Panama?
+Value: $600
+Number: 25
+THE BIRDS | Monkeys contributed to the demise of these "silly" birds by eating their eggs | dodos
+right: Will
+Wrong: 
+Value: $600
+Number: 1
+SPELLBOUND | It's the fifth book of the Old Testament | D-E-U-T-E-R-O-N-O-M-Y
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+ALFRED HITCHCOCK | This Swede who starred in 3 of Hitchcock's films called him "A gentleman farmer who raised goose flesh" | Ingrid Bergman
+right: Will
+Wrong: 
+Value: $600
+Number: 20
+NORTH BY NORTHWEST | Mafikeng, formerly Mafeking, is the capital of this country's province of North-West | South Africa
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+NOTORIOUS | Divers recently found cannons off North Carolina that they believe are from his ship, the Queen Anne's Revenge | Blackbeard
+right: Linda
+Wrong: 
+Value: $800
+Number: 26
+THE BIRDS | Named by the natives, moas were ostrichlike birds that once inhabited this country | New Zealand
+right: Linda
+Wrong: 
+Value: $800
+Number: 4
+SPELLBOUND | In a 1991 movie, a group of working-class Dubliners form a band that plays '60s soul music & take this name | C-O-M-M-I-T-M-E-N-T-S
+right: Will
+Wrong: 
+Linda: What is C-O-M-M-I-T-T-M-E-N-T-S?
+Value: $800
+Number: 9
+ALFRED HITCHCOCK | Hitchcock's daughter was in this 1951 film in which Robert Walker wanted to swap murders with Farley Granger | Strangers on a Train
+right: Ron
+Wrong: 
+Value: $800
+Number: 21
+NORTH BY NORTHWEST | Eighty Mile Beach, on the Indian Ocean, is part of this continent's northwest coast | Australia
+right: Will
+Wrong: 
+Value: $1000
+Number: 17
+NOTORIOUS | When he fled from Nicaragua to Miami in 1979, he didn't go empty handed, he took about $100 million | Anastasio Somoza
+right: 
+Wrong: 
+Linda: Who is Manuel Noriega?
+Value: DD: $3,000
+Number: 27
+THE BIRDS | It's the traveling bird seen <http://www.j-archive.com/media/1998-12-28_DJ_05.jpg> here: | albatross
+right: Will
+Wrong: 
+Value: $1000
+Number: 5
+SPELLBOUND | It's the adjective for a 150th anniversary celebration | S-E-S-Q-U-I-C-E-N-T-E-N-N-I-A-L
+right: Will
+Wrong: 
+Value: $1000
+Number: 10
+ALFRED HITCHCOCK | Hitchcock's name for a plot device; he said it "is actually nothing at all" | McGuffin
+right: Ron
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Will: $7,900
+Ron: $7,000
+Linda: $200
+
+Final Jeopardy! Round
+LITERARY SETTINGS | Zhongdian & Deqin, China both claim to be the inspiration for this imaginary place | Shangri-La
+right: Will
+Wrong: 
+Linda: What is ??
+Ron: What is Xanadu?
+Wagers: 
+Linda: $0
+Ron: $6,500
+Will: $6,200
+Final scores:
+Will: $14,100 (2-day champion: $18,300)
+Ron: $500 (2nd place: Trip to Stonefield Estate, St. Lucia)
+Linda: $200 (3rd place: Trip to St. Andrews, New Brunswick, Canada)
+
+Coryat scores
+Will: $7,900 (18 R,1 W)
+Ron: $5,700 (19 R(including 2 DDs),3 W)
+Linda: $3,200 (12 R,3 W(including 1 DD))

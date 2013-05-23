@@ -1,0 +1,339 @@
+3721 - Monday, November 6, 2000
+Contestants:
+Nicole Stouder: a systems developer from Sunnyside, New York
+Cathleen Warren: a marketing coordinator from Burlington, Vermont
+Bob Ryan: a certified public accountant from Gig Harbor, Washington
+First Jeopardy! Round: SCOTLAND, WHAT THEY ARE, NAME THE NOVEL, THE ADAM SANDLER STORY, THEY'RE IN CHARGE, I FEEL SHEEPISH
+SCOTLAND | When in Scotland, the queen often stays at the luxurious palace of Holyroodhouse in this city | Edinburgh
+right: Bob
+Wrong: 
+Value: $100
+Number: 1
+WHAT THEY ARE | Good goblets, flutes & snifters are made out of this | Glass/crystal
+right: Cathleen
+Wrong: 
+Value: $100
+Number: 6
+NAME THE NOVEL | 1852: "'This is God's curse on slavery! -- a bitter, bitter, most accursed thing!'" | "Uncle Tom's Cabin"
+right: Nicole
+Wrong: 
+Value: $100
+Number: 7
+THE ADAM SANDLER STORY | After Dennis Miller caught Adam's act at the Improv in L.A., he was invited to join this show in NYC | Saturday Night Live
+right: Bob
+Wrong: 
+Value: $100
+Number: 12
+THEY'RE IN CHARGE | In Asia: Prime Minister Yoshiro Mori | Japan
+right: Bob
+Wrong: 
+Value: $100
+Number: 13
+I FEEL SHEEPISH | An object that's genuine through & through is "dyed in" this | The wool
+right: Nicole
+Wrong: 
+Value: $100
+Number: 23
+SCOTLAND | These 4 letters precede "Fiddich" & "Livet" in the names of top-selling Scottish malt whiskies | Glen
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+WHAT THEY ARE | Bias, Pittacus & Solon were 3 of the 7 sages of this land | Greece
+right: Bob
+Wrong: 
+Value: $200
+Number: 19
+NAME THE NOVEL | 1873: "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens..." | Around the World in Eighty Days
+right: Bob
+Wrong: 
+Value: $200
+Number: 8
+THE ADAM SANDLER STORY | In 1998 Adam Sandler was Bobby Boucher, this title "boy" at a Lousiana university | The Waterboy
+right: Bob
+Wrong: 
+Value: $200
+Number: 15
+THEY'RE IN CHARGE | President Vladimir Putin | Russia
+right: Cathleen
+Wrong: 
+Value: $200
+Number: 14
+I FEEL SHEEPISH | In Revelation 12, Satan is overcome by the blood of this | The lamb
+right: Nicole
+Wrong: 
+Value: $200
+Number: 27
+SCOTLAND | While residing in Dumfries, he wrote "Auld Lang Syne" | Robert Burns
+right: Bob
+Wrong: 
+Value: $300
+Number: 3
+WHAT THEY ARE | Take one of these apart & you'll find cementum, dentin & a crown | Tooth
+right: Nicole
+Wrong: 
+Value: $300
+Number: 20
+NAME THE NOVEL | 1937: "Lennie spoke craftily, 'Tell me -- like you done before...about the rabbits.'" | "Of Mice and Men"
+right: Cathleen
+Wrong: 
+Value: $300
+Number: 9
+THE ADAM SANDLER STORY | Rob Schneider cavorted as a male gigolo in this 1999 release executive produced by Adam | Deuce Bigalow, Male Gigolo
+right: Cathleen
+Wrong: 
+Value: $300
+Number: 24
+THEY'RE IN CHARGE | In Africa: President Hosni Mubarak | Egypt
+right: Bob
+Wrong: 
+Value: $300
+Number: 16
+I FEEL SHEEPISH | This style of facial hair seen here is sadly, out of style | Mutton Chops
+right: Cathleen
+Wrong: 
+Value: $300
+Number: 28
+SCOTLAND | To Scots, a munro is a tall one of these; that makes Ben Nevis a munro | Mountain
+right: Bob
+Wrong: 
+Value: $400
+Number: 4
+WHAT THEY ARE | Pointers & setters are sporting dogs & St. Bernards & Siberian huskies are classified as these | Working dogs
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+NAME THE NOVEL | 1953: "It was a pleasure to burn" | "Fahrenheit 451"
+right: 
+Wrong: 
+Value: DD: $500
+Number: 10
+THE ADAM SANDLER STORY | In a 1998 comedy, Adam finds love with Drew Barrymore as this title ceremonial crooner | The Wedding Singer
+right: Nicole
+Wrong: 
+Value: $400
+Number: 25
+THEY'RE IN CHARGE | In Europe: Prime Minister Bertie Ahern | Ireland
+right: Bob
+Wrong: 
+Value: $400
+Number: 17
+I FEEL SHEEPISH | This verb can mean to gather in a crowd, or to coat wallpaper | Flocked
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+SCOTLAND | A steamer named for this "Lady of the Lake" author plies its trade on Loch Katrine | Sir Walter Scott
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+WHAT THEY ARE | Bobcats, Bears & Webelos are ranks of these | Cub Scouts
+right: Bob
+Wrong: 
+Value: $500
+Number: 22
+NAME THE NOVEL | 1903: "Buck did not read the newspapers, or he would have known that trouble was brewing..." | "Call of the Wild"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 11
+THE ADAM SANDLER STORY | Adam played Stick Pin Quinn & the Stud Boy on this hip, happening MTV game show | Remote Control
+right: Cathleen
+Wrong: 
+Value: $500
+Number: 26
+THEY'RE IN CHARGE | Southeast Asia's president Abdurrahman Wahid | Indonesia
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 18
+I FEEL SHEEPISH | To access the Internet, you need at least 16 megabytes of this acronym | RAM (random access memory)
+right: Bob
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Bob: $1,400
+Cathleen: -$100
+Nicole: -$200
+Scores at the end of the Jeopardy! Round:
+Bob: $2,700
+Cathleen: $1,200
+Nicole: $400
+Second Jeopardy! Round: "TWO", FORE!, SEX, ATE, 10, THE TWELVE
+"TWO" | It features Jefferson on the front & the signers of the Declaration on the back | Two-dollar bill
+right: Cathleen
+Wrong: 
+Value: $200
+Number: 4
+FORE! | A score of 3 over par on a hole is called a triple one of these | Bogey
+right: Bob
+Wrong: 
+Value: $200
+Number: 12
+SEX | Relaxin is a female sex one of these produced to aid in childbirth | Hormone
+right: Bob
+Wrong: 
+Value: $200
+Number: 1
+ATE | Idaho, Burbank, Round White & New are varieties of this vegetable | Potato
+right: Bob
+Wrong: 
+Value: $200
+Number: 21
+10 | She showed some "Basic Instinct" & became a mom in 2000 | Sharon Stone
+right: Bob
+Wrong: 
+Value: $200
+Number: 11
+THE TWELVE | In Leonardo's "Last Supper", he's just sitting there quietly, holding a purse | Judas
+right: Nicole
+Wrong: 
+Value: $200
+Number: 26
+"TWO" | A bicycle, as opposed to a unicycle | Two-wheeler
+right: Nicole
+Wrong: 
+Value: $400
+Number: 7
+FORE! | Begun in 1860, this major golf tournament is held annually in the U.K. | British Open
+right: Bob
+Wrong: 
+Value: $400
+Number: 13
+SEX | This surgery, cutting the vas deferens, makes a vast difference in male fertility | Vasectomy
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+ATE | To ripen & provide distinctive flavor, manufacturers of these dairy products sometimes add mold fungi | Cheeses
+right: Nicole
+Wrong: 
+Value: $400
+Number: 22
+10 | "Perfect Storm" star Diane Lane's mother posed for the October 1957 issue of this magazine | Playboy
+right: Bob
+Wrong: 
+Value: $400
+Number: 16
+THE TWELVE | Jesus asked apostle Philip if he knew where they could buy enough of this to feed, say 5,000? | Bread
+right: Cathleen
+Wrong: 
+Value: $400
+Number: 27
+"TWO" | Birds of a feather, or a low-value poker hand | Two of a kind
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+FORE! | His record 20 wins in the 6 major golf tournaments include 6 Masters titles | Jack Nicklaus
+right: Cathleen
+Wrong: 
+Value: $600
+Number: 14
+SEX | Change 1 letter in "mobile" to get this word used of sperm & spores | Motile
+right: Nicole
+Wrong: 
+Value: $600
+Number: 3
+ATE | This fast food chain kept its name even after adding Brazier burgers to its menu of soft ice cream | Dairy Queen
+right: Cathleen
+Wrong: 
+Value: $600
+Number: 23
+10 | As Hugh Grant's date, she made news at the "Four Weddings and a Funeral" premiere in a safety-pinned Versace | Elizabeth Hurley
+right: Nicole
+Wrong: 
+Value: $600
+Number: 18
+THE TWELVE | His brother became a bishop of Rome & he became the patron saint of Scotland | Andrew
+right: Nicole
+Wrong: 
+Value: $600
+Number: 28
+"TWO" | Thomas a Kempis said of these, "The lesser is always to be chosen" | Of two evils
+right: Cathleen
+Wrong: 
+Value: $800
+Number: 9
+FORE! | A ladies' golf tourney named for this entertainer is played at the Mission Hills Country Club in Rancho Mirage, CA. | Dinah Shore
+right: Cathleen
+Wrong: 
+Value: $800
+Number: 15
+SEX | It's any animal with both male & female sex organs, sometimes at different stages of life | Hermaphrodite
+right: Nicole
+Wrong: 
+Value: $800
+Number: 5
+ATE | As a byproduct of WWII food rationing, this U.S. state consumes more Spam per capita than any other | Hawaii
+right: 
+Wrong: 
+Value: DD: $400
+Number: 24
+10 | This "X-Men" star previously charmed Warren Beatty in "Bulworth" | Halle Berry
+right: Cathleen
+Wrong: 
+Value: $800
+Number: 19
+THE TWELVE | He should have done a book signing tour; he's credited with his own gospel, 3 epistles & Revelation | John
+right: Nicole
+Wrong: 
+Value: DD: $400
+Number: 29
+"TWO" | Slow down & appreciate this animal's Latin name Choloepus didactylus | Two-toed sloth
+right: Nicole
+Wrong: 
+Value: $1000
+Number: 10
+FORE! | In 1994 this Australian set a scoring record by averaging 68.81 per round for the year | Greg Norman
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+SEX | Breasts & beards are this type of sexual characteristic | Secondary sexual characteristics
+right: Nicole
+Wrong: 
+Value: $1000
+Number: 6
+ATE | This "hunter style" chicken is cooked with tomatoes, mushrooms & sometimes wine | Chicken Cacciatore
+right: Nicole
+Wrong: 
+Value: $1000
+Number: 25
+10 | This teenage tennis goddess is often escorted by older Russian hockey players | Anna Kournikova
+right: Cathleen
+Wrong: 
+Value: $1000
+Number: 20
+THE TWELVE | His name means "Son of Tholmai", & we don't know much about him | Bartholomew
+right: Bob
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Bob: $4,500
+Cathleen: $5,400
+Nicole: $6,400
+
+Final Jeopardy! Round
+WASHINGTON PEOPLE | This man in office since 1987 has a plaque in his office that reads, "The Buck Starts Here" | Alan Greenspan
+right: Bob
+Wrong: 
+Cathleen: Who is Jesse Helms?
+Nicole: Who is Rubin
+Wagers: 
+Bob: $4,000
+Cathleen: $400
+Nicole: $4,401
+Final scores:
+Bob: $8,500 (New champion: $8,500)
+Cathleen: $5,000 (2nd place: Trip to Switzerland courtesy of Priceline.com)
+Nicole: $1,999 (3rd place: Replay TV Hard Disk System)
+
+Coryat scores
+Bob: $4,500 (22 R,5 W)
+Cathleen: $6,300 (14 R,3 W(including 2 DDs))
+Nicole: $6,800 (16 R(including 1 DD),4 W)

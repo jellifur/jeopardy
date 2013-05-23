@@ -1,0 +1,333 @@
+571 - Monday, February 16, 1987
+Comments: 1987 Teen Tournament quarterfinal game 1.
+Contestants:
+Curt King: a junior at Eleanor McMain Magnet High School from New Orleans, Louisiana
+Dawn Marie Nolan: a senior at Fletcher Senior High School from Jacksonville Beach, Florida
+Paul Egendorf: a senior at Tustin High School from Tustin, California
+First Jeopardy! Round: BIRDS, THE LIBRARY, LEAD SINGERS, PLAYTIME, CURRENT EVENTS, CAR TALK
+BIRDS | The bat parrot probably got its name from sleeping in this position | upside-down
+right: Dawn
+Wrong: 
+Value: $100
+Number: 23
+THE LIBRARY | Defacing books or shouting or throwing spitballs at the other readers | three activities prohibited in the library
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 10
+LEAD SINGERS | Genesis | Phil Collins
+right: Paul
+Wrong: 
+Value: $100
+Number: 1
+PLAYTIME | To compete with "G.I. Joe", Coleco has created a line of soldiers inspired by this Stallone film | Rambo
+right: Dawn
+Wrong: 
+Value: $100
+Number: 4
+CURRENT EVENTS | Hamilton, Ohio recently added this punctuation mark to its name, like our show's always had | an exclamation mark
+right: Dawn
+Wrong: 
+Value: $100
+Number: 9
+CAR TALK | If you "boil the hides", it means your rear tires are producing this at the start of a drag race | smoke
+right: Paul
+Wrong: 
+Curt: What is... skid marks?
+Value: $100
+Number: 21
+BIRDS | Too "lei"zy to migrate, the geese in this tropical state stay year-round | Hawaii
+right: Curt
+Wrong: 
+Value: $200
+Number: 24
+THE LIBRARY | On most reference books in your local library, you'll find this letter above the call number | R
+right: Paul
+Wrong: 
+Dawn: What is the first letter of the last name of the author?
+Value: $200
+Number: 11
+LEAD SINGERS | The Police | Sting
+right: Dawn
+Wrong: 
+Value: $200
+Number: 2
+PLAYTIME | In 1977, Kenner sold gift certificates for toys based on this sci-fi film since the toys didn't exist yet | Star Wars
+right: Dawn
+Wrong: 
+Value: $200
+Number: 5
+CURRENT EVENTS | "Hands Across America" raised money for the hungry & homeless in this country | the United States of America
+right: Dawn
+Wrong: 
+Value: $200
+Number: 15
+CAR TALK | When fixing cars, "R & R" means remove & do this to an auto part | restore (or replace or repair)
+right: Dawn
+Wrong: 
+Value: $200
+Number: 22
+BIRDS | A bird waterproofs its feathers with oil from its "preen gland", located at the base of this | its tail
+right: 
+Wrong: Triple Stumper
+Dawn: What is its beak?
+Curt: What is its wing?
+Value: $300
+Number: 27
+THE LIBRARY | When a book has been checked out it's said to be "in" this | circulation
+right: Paul
+Wrong: 
+Value: $300
+Number: 12
+LEAD SINGERS | Wham! | George Michael
+right: Curt
+Wrong: 
+Value: $300
+Number: 3
+PLAYTIME | Christmas stockings in 1986 were filled with this Hungarian inventor's "Magic", as well as Santa's | Rubik
+right: Dawn
+Wrong: 
+Value: $300
+Number: 6
+CURRENT EVENTS | In October 1986, Reagan & Gorbachev went face to face in this cold capital | Reykjavik
+right: Paul
+Wrong: 
+Value: $300
+Number: 16
+CAR TALK | When your car is "on the hook", it's traveling this way | on a tow truck
+right: Paul
+Wrong: 
+Value: $300
+Number: 25
+THE LIBRARY | In this classification system, WWII, 940.54, comes before the Civil War, 973.7 | the Dewey Decimal system
+right: Dawn
+Wrong: 
+Value: $400
+Number: 13
+LEAD SINGERS | Eurythmics | Annie Lennox
+right: Curt
+Wrong: 
+Value: $400
+Number: 18
+PLAYTIME | Since 1949, this game manufacturer has sold about 1 million Candyland sets a year | Milton Bradley
+right: 
+Wrong: Triple Stumper
+Paul: Who is Kenner?
+Dawn: Who is Procter & Gamble?
+Value: $400
+Number: 7
+CURRENT EVENTS | Father Lawrence Jenco, the Reverend Benjamin Weir, & David Jacobsen | hostages that were released from Beirut
+right: Paul
+Wrong: 
+Value: DD: $200
+Number: 17
+CAR TALK | When a car has been "chopped", this part of it has been lowered | the top
+right: 
+Wrong: Triple Stumper
+Paul: What is the chassis?
+Dawn: What is the front end?
+Value: $400
+Number: 26
+THE LIBRARY | Shirley Jones played this part by the book in "The Music Man" | (Marion the) librarian
+right: Paul
+Wrong: 
+Value: $500
+Number: 14
+LEAD SINGERS | Talking Heads | David Byrne
+right: Curt
+Wrong: 
+Value: $500
+Number: 20
+PLAYTIME | A battle of the bands is ensuing between Barbie & The Rockers & this doll & The Holograms | Jem
+right: Curt
+Wrong: 
+Value: $500
+Number: 8
+CURRENT EVENTS | In 1986, for the 1st time ever, 2 women ran against each other for gov. in this plains state | Nebraska
+right: Paul
+Wrong: 
+Value: $500
+Number: 19
+Scores at the first commercial break (after clue 15)
+Paul: -$100
+Dawn: $300
+Curt: $800
+Scores at the end of the Jeopardy! Round:
+Paul: $1,700
+Dawn: $500
+Curt: $1,500
+Second Jeopardy! Round: LITERATURE, THE WORLD, TEEN QUEENS, QUOTES, AMERICAN HOLIDAYS, DESSERTS
+LITERATURE | Death of his son led him to write a "History of Spiritualism" before his last Sherlock Holmes book | (Sir Arthur Conan) Doyle
+right: Paul
+Wrong: 
+Value: $200
+Number: 1
+THE WORLD | On the 1st day of spring or fall, the Sun is directly over this imaginary line | the Equator
+right: Curt
+Wrong: 
+Value: $200
+Number: 15
+TEEN QUEENS | This teenage Egyptian ruler gave birth to a son she claimed was Julius Caesar's | Cleopatra
+right: Paul
+Wrong: 
+Value: $200
+Number: 8
+QUOTES | Ben Franklin said, "There was never a good war or a bad" 1 of these | peace
+right: Paul
+Wrong: 
+Curt: What is a woman?
+Value: $200
+Number: 20
+AMERICAN HOLIDAYS | Since 1941, Thanksgiving is observed on this Thursday in November | the fourth Thursday
+right: Dawn
+Wrong: 
+Paul: What is the third?
+Value: $200
+Number: 2
+DESSERTS | Sacher Torte originated in this Austrian capital | Vienna
+right: Paul
+Wrong: 
+Value: $200
+Number: 5
+LITERATURE | "A Christmas Carol" character who tells Scrooge, "I wear the chain I forged in life" | Jacob Marley
+right: Paul
+Wrong: 
+Value: $400
+Number: 4
+THE WORLD | Of about 10, 30, or 50%, percentage of Earth's surface covered by land | 30%
+right: Dawn
+Wrong: 
+Value: $400
+Number: 16
+TEEN QUEENS | Teen-aged Mary, Queen of Scots, also became queen of this country, because she'd married the Dauphin | France
+right: Curt
+Wrong: 
+Value: $400
+Number: 9
+QUOTES | It was way back in 1696 that Mary Manley wrote there's "no time like" this | the present
+right: Paul
+Wrong: 
+Value: $400
+Number: 21
+AMERICAN HOLIDAYS | "Shrove Tuesday", the day before Lent starts, is commonly called this in New Orleans | Mardi Gras
+right: Paul | Dawn
+Wrong: 
+Value: $400
+Number: 3
+DESSERTS | Like lemon pie, "Baked Alaska" is covered with this, then put in an oven to brown | meringue
+right: Dawn
+Wrong: 
+Value: $400
+Number: 6
+LITERATURE | Narrator of classic tales translated by Sir Richard Burton, or title of <http://www.j-archive.com/media/1987-02-16_DJ_07.mp3> this "suite" music | Scheherezade
+right: 
+Wrong: 
+Dawn: No answer.
+Value: DD: $500
+Number: 7
+THE WORLD | All of the peoples of the world belong to this single species | Homo sapiens
+right: Dawn
+Wrong: 
+Value: $600
+Number: 17
+TEEN QUEENS | At 15, she became the future Louis XVI's bride; at 18, she became queen | Marie Antoinette
+right: Paul
+Wrong: 
+Value: $600
+Number: 10
+QUOTES | Penguin's Modern Quotes lists "Supercalifragilistic- expialidocious" under his name | Disney
+right: Paul
+Wrong: 
+Value: DD: $1,000
+Number: 24
+AMERICAN HOLIDAYS | Supposedly a union president suggested date of this holiday to fill gap between July 4th & Thanksgiving | Labor Day
+right: Dawn
+Wrong: 
+Value: $600
+Number: 11
+DESSERTS | It's thought Saladin offered this fruity dessert, cousin to ice cream, to Richard I during Crusades | sherbet
+right: Paul
+Wrong: 
+Value: $600
+Number: 22
+LITERATURE | 19th c. feminist Catharine Beecher wrote "The American Woman's Home" with this more famous sister | Harriet Beecher Stowe
+right: Paul
+Wrong: 
+Value: $800
+Number: 13
+THE WORLD | Guinness says more people emigrate from this Latin country than any other in the world | Mexico
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+TEEN QUEENS | British monarch crowned in 1837, when she was barely 18 | Victoria
+right: Paul
+Wrong: 
+Value: $800
+Number: 25
+QUOTES | 17th century English diarist known for the phrase "and so to bed" | Samuel Pepys
+right: 
+Wrong: Triple Stumper
+Dawn: [*]? [spells last name]
+Value: $800
+Number: 28
+AMERICAN HOLIDAYS | Until June 1, 1954, this was officially called "Armistice Day" | Veterans Day
+right: Paul
+Wrong: 
+Value: $800
+Number: 12
+DESSERTS | A dessert that might be appropriate while repairing shoes | cobbler
+right: Paul
+Wrong: 
+Value: $800
+Number: 23
+LITERATURE | Subtitled "A Tale of Acadie", this Longfellow poem describes the tragic romance of an Acadian woman | Evangeline
+right: Dawn
+Wrong: 
+Value: $1000
+Number: 14
+THE WORLD | The term "second world" refers to this nation & its nearby allies | the Soviet Union
+right: Paul
+Wrong: 
+Value: $1000
+Number: 19
+TEEN QUEENS | Many claim that before Bloody Mary grabbed the throne, this "Lady" was Queen of England for 9 days | Lady Jane Grey
+right: Dawn
+Wrong: 
+Value: $1000
+Number: 26
+QUOTES | Bartlett's says she "coined" the phrase "equal pay for equal work" on March 18, 1869 | Susan B. Anthony
+right: Paul
+Wrong: 
+Value: $1000
+Number: 29
+AMERICAN HOLIDAYS | This memorialized president's birthday, April 13, was a legal holiday in Virginia from 1943 to 1967 | Thomas Jefferson
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Paul: $10,900
+Dawn: $3,800
+Curt: $1,900
+
+Final Jeopardy! Round
+BODIES OF WATER | Bordering on Mich. & N.Y., these 2 Great Lakes are the only ones to border on 1 state each | Lake Huron & Lake Ontario
+right: 
+Wrong: 
+Curt: What are <del>Superior</del> Huron & Erie
+Dawn: What are Lake <del>Erie</del> Sup + Lake Huron
+Paul: What are Erie & Ontario?
+Wagers: 
+Curt: $1,900
+Dawn: $3,500
+Paul: $100
+Final scores:
+Paul: $10,800 (Automatic semifinalist)
+Dawn: $300 (2nd place: $1,000 if eliminated)
+Curt: $0 (3rd place: $1,000 if eliminated)
+
+Coryat scores
+Paul: $10,700 (25 R(including 2 DDs),3 W)
+Dawn: $4,300 (17 R,6 W(including 1 DD))
+Curt: $1,900 (7 R,3 W)

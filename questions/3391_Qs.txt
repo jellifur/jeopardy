@@ -1,0 +1,345 @@
+5920 - Friday, May 14, 2010
+Comments: 2010 Tournament of Champions quarterfinal game 5.
+Contestants:
+Jason Zollinger: an engine assembler from South Dayton, New York
+Stefan Goodreau: a video game tester from Los Angeles, California
+Vijay Balse: a chemical engineer from Chatham, New Jersey
+First Jeopardy! Round: PRESIDENTS: THIS IS YOUR WIFE!, THEIR GIVEN FIRST NAMES, THE AGRICULTURAL HALL OF FAME, CONTEMPORARIES, GODS AMONG US, BOXING TERMS SANS BOXING
+PRESIDENTS: THIS IS YOUR WIFE! | Nancy Davis | Ronald Reagan
+right: Stefan
+Wrong: 
+Value: $200
+Number: 1
+THEIR GIVEN FIRST NAMES | Poet Ted Hughes | Edward
+right: Stefan
+Wrong: 
+Value: $200
+Number: 6
+THE AGRICULTURAL HALL OF FAME | Norman Borlaug sparked the green revolution by developing a dwarf strain of this cereal grass | wheat
+right: Vijay
+Wrong: 
+Jason: What is rice?
+Value: $200
+Number: 11
+CONTEMPORARIES | Picasso was in his rose period in 1905, this physicist's so-called miracle year | Einstein
+right: Jason
+Wrong: 
+Value: $200
+Number: 26
+GODS AMONG US | In the early 1960s NASA's Abe Silverstein gave the manned Moon program this name | Apollo
+right: Jason
+Wrong: 
+Value: $200
+Number: 12
+BOXING TERMS SANS BOXING | An enticement; hard to catch a fish without one | a hook
+right: 
+Wrong: Triple Stumper
+Vijay: What's a net?
+Value: $200
+Number: 13
+PRESIDENTS: THIS IS YOUR WIFE! | Betty Bloomer | Gerald Ford
+right: Stefan
+Wrong: 
+Value: $400
+Number: 2
+THEIR GIVEN FIRST NAMES | Ballplayer Ted Williams | Theodore
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+THE AGRICULTURAL HALL OF FAME | William Hoard was instrumental in founding the USA's first dairy school at the University of this state--where else? | Wisconsin
+right: Stefan
+Wrong: 
+Value: $400
+Number: 22
+CONTEMPORARIES | In the 1850s, while Gregor Mendel was playing with his peas, this American woman was writing the first of her 1,775 poems | (Emily) Dickinson
+right: Vijay
+Wrong: 
+Value: $400
+Number: 27
+GODS AMONG US | A goddess of flowers, or all of a region's flowers & other vegetation | Flora
+right: Vijay
+Wrong: 
+Jason: What is fauna?
+Value: $400
+Number: 18
+BOXING TERMS SANS BOXING | A circle in the trunk that reveals a tree's age | a ring
+right: Stefan
+Wrong: 
+Value: $400
+Number: 14
+PRESIDENTS: THIS IS YOUR WIFE! | Rachel Donelson Robards | Andrew Jackson
+right: Vijay
+Wrong: 
+Value: $600
+Number: 3
+THEIR GIVEN FIRST NAMES | Comedian Bobcat Goldthwait | Robert
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+THE AGRICULTURAL HALL OF FAME | In 1879 Carl de Laval invented a high-speed separator that separated this from whole milk | cream
+right: Jason
+Wrong: 
+Value: $600
+Number: 23
+CONTEMPORARIES | Samuel Johnson published his dictionary in 1755; 3 years later Voltaire wrote this philosophical fantasy | Candide
+right: Stefan
+Wrong: 
+Value: $600
+Number: 28
+GODS AMONG US | (<http://www.j-archive.com/media/2010-05-14_J_19.jpg> Sarah of the Clue Crew watches an emblem being applied to a California Highway Patrol car.)  The symbol of the highway patrol features the Great Seal of California & <http://www.j-archive.com/media/2010-05-14_J_19a.jpg> this Roman war goddess, whose Greek counterpart was Athena | Minerva
+right: Vijay
+Wrong: 
+Value: $600
+Number: 19
+BOXING TERMS SANS BOXING | Hey, ya palooka, I got you a lawyer... yeah, he's also known by this "oral" term | a mouthpiece
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 15
+PRESIDENTS: THIS IS YOUR WIFE! | Abigail Smith | John Adams
+right: Vijay
+Wrong: 
+Value: $800
+Number: 4
+THEIR GIVEN FIRST NAMES | Musician Ringo Starr | Richard
+right: Stefan
+Wrong: 
+Value: $800
+Number: 9
+THE AGRICULTURAL HALL OF FAME | A 2006 inductee, this former Kansas senator & presidential candidate helped develop the food stamp program | Bob Dole
+right: Jason
+Wrong: 
+Value: $800
+Number: 24
+CONTEMPORARIES | Susan B. Anthony pushed for women's rights while this woman was nursing British soldiers in the Crimean War | Florence Nightingale
+right: Jason
+Wrong: 
+Value: $800
+Number: 29
+GODS AMONG US | These nuclear missiles, first put on U. S. subs in 1970, preceded Trident missiles | Poseidon missiles
+right: 
+Wrong: 
+Vijay: What are Saturn?
+Value: DD: $2,400
+Number: 20
+BOXING TERMS SANS BOXING | Annoyed, or to pass from one side to the other | cross
+right: Jason
+Wrong: 
+Value: $800
+Number: 16
+PRESIDENTS: THIS IS YOUR WIFE! | Ida Saxton | William McKinley
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 5
+THEIR GIVEN FIRST NAMES | Gymnast Nastia Liukin, like a Russian grand duchess | Anastasia
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 10
+THE AGRICULTURAL HALL OF FAME | Oliver Kelley is in the Hall for creating this 19th century farmers' fraternal organization | the Grange
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+CONTEMPORARIES | Herbert Hoover was born Aug. 10, 1874 & this statesman Nov. 30, 1874 at Blenheim Palace; they died 3 months apart | (Winston) Churchill
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 30
+GODS AMONG US | It's a Florida beach town as well as a D-Day landing beach | Juno
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 21
+BOXING TERMS SANS BOXING | A strikingly attractive woman | a knockout
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the first commercial break (after clue 15)
+Vijay: $1,400
+Stefan: $4,000
+Jason: $800
+Scores at the end of the Jeopardy! Round:
+Vijay: $400
+Stefan: $8,000
+Jason: $2,800
+Second Jeopardy! Round: LIVING HEALTHY WITH DR. OZ, TOUGH CAPITAL CITIES, SPY NOVELS, TAKE A WELK ON THE WILD SIDE, FRIEND, FAUX
+LIVING HEALTHY WITH DR. OZ | (<http://www.j-archive.com/media/2010-05-14_DJ_30.jpg> Dr. Oz shows a plate of bananas, dates, strawberries, and other fruits.)  One way to control high blood pressure is to counteract high levels of sodium in the average diet by eating foods rich in magnesium & this element--symbol K | potassium
+right: Vijay
+Wrong: 
+Value: $400
+Number: 30
+TOUGH CAPITAL CITIES | In Asia: Kuala Lumpur | Malaysia
+right: Stefan
+Wrong: 
+Value: $400
+Number: 3
+SPY NOVELS | Robert Ludlum said that he created this character after suffering a bout of amnesia | (Jason) Bourne
+right: Vijay
+Wrong: 
+Value: $400
+Number: 1
+TAKE A WELK ON THE WILD SIDE | <http://www.j-archive.com/media/2010-05-14_DJ_04.mp3> This a-guy, he got me on my a-knees with his singin' on "Layla" & "Wunnerful Tonight" | Eric Clapton
+right: Jason
+Wrong: 
+Value: $400
+Number: 4
+FRIEND | Judge David Davis was responsible for getting this friend of his nominated by the 1860 Republican Convention | Lincoln
+right: Stefan
+Wrong: 
+Value: $400
+Number: 13
+FAUX | It can mean to shape by heating, as a blacksmith does, or to imitate someone's handwriting | forge
+right: Stefan
+Wrong: 
+Value: $400
+Number: 21
+LIVING HEALTHY WITH DR. OZ | (<http://www.j-archive.com/media/2010-05-14_DJ_29.wmv> Dr. Oz shows an anatomical animation on the monitor.)  Though often blamed on stress, these interior wounds to the stomach or duodenum are typically the result of a bacterial infection | an ulcer
+right: Jason
+Wrong: 
+Value: $800
+Number: 29
+TOUGH CAPITAL CITIES | North of Australia: Port Moresby | Papua New Guinea
+right: Jason
+Wrong: 
+Value: $800
+Number: 5
+SPY NOVELS | This author's 1821 novel "The Spy" was written before frontier tales like "The Pioneers" | James Fenimore Cooper
+right: Jason
+Wrong: 
+Value: $800
+Number: 2
+TAKE A WELK ON THE WILD SIDE | <http://www.j-archive.com/media/2010-05-14_DJ_07.mp3> On "The Wunner Years", this kid played Kevin; he also a-directed "Daddy Day Camp" | (Fred) Savage
+right: Vijay
+Wrong: 
+Value: $800
+Number: 7
+FRIEND | Billy the Kid was captured & later murdered by this one-time friend | Pat Garrett
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+FAUX | Nickname of Sam, leader of The Pharaohs, who sang "Wolly Bully" | "The Sham"
+right: Jason
+Wrong: 
+Value: $800
+Number: 22
+LIVING HEALTHY WITH DR. OZ | (<http://www.j-archive.com/media/2010-05-14_DJ_26.jpg> Dr. Oz holds a snack bowl.)  Eat a snack a half an hour before mealtime, so you're already feeling full & will eat less; you're reducing levels of the hunger-causing chemical ghrelin--one of these, like estrogen & insulin | a hormone
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 26
+TOUGH CAPITAL CITIES | In South America: Paramaribo | Suriname
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 6
+SPY NOVELS | Ian Fleming's "Thunderball" was the first to feature this villain often seen cuddling a fluffy white cat | Blofeld
+right: Vijay
+Wrong: 
+Value: $1200
+Number: 10
+TAKE A WELK ON THE WILD SIDE | <http://www.j-archive.com/media/2010-05-14_DJ_15.mp3> Cathy Lee Crosby was "Wunner Woman" in 1974; this wunnerful woman a-took over the role in 1975 | Lynda Carter
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 15
+FRIEND | Samoset befriended the Pilgrim settlers of this colony & introduced them to Squanto | Plymouth
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 17
+FAUX | This 11-letter word for a fake comes from the Latin for "against fact" | counterfeit
+right: Vijay
+Wrong: 
+Value: $1200
+Number: 23
+LIVING HEALTHY WITH DR. OZ | (<http://www.j-archive.com/media/2010-05-14_DJ_27.jpg> Dr. Oz stands and bends one leg up at the knee to stretch it.)  Stretching & strengthening the tendons & muscles in front of your leg can help you avoid this 2-word condition we docs call medial tibial stress syndrome | shin splints
+right: Jason
+Wrong: 
+Value: $1600
+Number: 27
+TOUGH CAPITAL CITIES | In an emirate: Doha | Qatar
+right: Vijay
+Wrong: 
+Value: $1600
+Number: 8
+SPY NOVELS | John Le Carre introduced British agent Alec Leamas in this 1963 novel | The Spy Who Came in from the Cold
+right: Vijay
+Wrong: 
+Value: DD: $2,000
+Number: 11
+TAKE A WELK ON THE WILD SIDE | <http://www.j-archive.com/media/2010-05-14_DJ_16.mp3> I a-dig that Stevie Wunner, who sang "Superstition" & a-phoned in this 1984 No. 1 hit | "I Just Called To Say I Love You"
+right: Jason
+Wrong: 
+Value: $1600
+Number: 16
+FRIEND | In Greek myth, this guy agreed to die in Pythias' place | Damon
+right: Vijay
+Wrong: 
+Value: $1600
+Number: 19
+FAUX | "Fiction" & "figment" have the same roots as this verb that means to invent a story or excuse, like illness | feign
+right: Jason
+Wrong: 
+Value: $1600
+Number: 24
+LIVING HEALTHY WITH DR. OZ | (<http://www.j-archive.com/media/2010-05-14_DJ_28.wmv> Dr. Oz shows an anatomical model on the monitor.)  From the Latin for "under chamber", this gland's health is vital as it influences your appetite, your sex drive & also maintains normal body temperature | the hypothalamus
+right: 
+Wrong: 
+Jason: What is pituitary?
+Value: DD: $2,000
+Number: 28
+TOUGH CAPITAL CITIES | In a Central Asian "stan": Bishkek | Kyrgyzstan
+right: Vijay
+Wrong: 
+Value: $2000
+Number: 9
+SPY NOVELS | This Ken Follett novel begins with German spy Henry Faber killing his landlady with a stiletto, or "die Nadel" | The Eye of the Needle
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+TAKE A WELK ON THE WILD SIDE | Adam West's co-star, this actor a-wrote "Boy Wunner: My Life In Tights", a tell-all memoir | Burt Ward
+right: Stefan
+Wrong: 
+Value: $2000
+Number: 18
+FRIEND | Friends Andre Derain, Maurice De Vlaminck & Henri Matisse were the leaders of this art movement in Paris in the early 1900s | fauvism
+right: Vijay
+Wrong: 
+Value: $2000
+Number: 20
+FAUX | Orlon is man-made, not natural, & is called this type of fiber | synthetic
+right: Vijay
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Vijay: $15,600
+Stefan: $14,800
+Jason: $9,200
+
+Final Jeopardy! Round
+THE 50 STATES | It's the only state from which rainwater flows to the Pacific, the Atlantic & Hudson Bay | Montana
+right: Jason
+Wrong: 
+Stefan: What is Ohio???
+Vijay: What is Idaho?
+Wagers: 
+Jason: $2,300
+Stefan: $1,225
+Vijay: $500
+Final scores:
+Vijay: $15,100 (Automatic semifinalist)
+Stefan: $13,575 (2nd place: $5,000 if eliminated)
+Jason: $11,500 (3rd place: $5,000 if eliminated)
+
+Coryat scores
+Vijay: $17,600 (17 R(including 1 DD),2 W(including 1 DD))
+Stefan: $14,800 (19 R,0 W)
+Jason: $11,200 (14 R,3 W(including 1 DD))

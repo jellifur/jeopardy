@@ -1,0 +1,337 @@
+3366 - Monday, April 5, 1999
+Comments: 1999 Celebrity <i>Jeopardy!</i> TV Personalities Night.
+Contestants:
+Greg Germann: an actor from Ally McBeal
+Jodi Applegate: a journalist and co-anchor from the Today show
+Scott Hamilton: an Olympic figure skater from Discover Stars on Ice
+First Jeopardy! Round: PRESIDENTIAL NICKNAMES, AN ACTOR'S LIFE, MR. MIKE, NURSERY RHYMES, FAMOUS PARTNERS, "HOP" TO IT
+PRESIDENTIAL NICKNAMES | "Uncle Abe" | Abraham Lincoln
+right: Jodi
+Wrong: 
+Value: $100
+Number: 4
+AN ACTOR'S LIFE | When an actor overacts, it's said that he's "chewing" this | the scenery
+right: Jodi
+Wrong: 
+Value: $100
+Number: 6
+MR. MIKE | On November 22, 1986 at age 20, he became the youngest world heavyweight boxing champion ever | Mike Tyson
+right: Jodi
+Wrong: 
+Value: $100
+Number: 1
+NURSERY RHYMES | This piper's son "learnt to play when he was young" | Tom
+right: 
+Wrong: Triple Stumper
+Greg: Who is Peter Piper?
+Value: $100
+Number: 26
+FAMOUS PARTNERS | In 1926 they were partnered by director Leo McCarey, & the rest is history; "a fine mess", but history | Laurel & Hardy
+right: Jodi
+Wrong: 
+Value: $100
+Number: 8
+"HOP" TO IT | This music style is influenced by rap & funk | Hip hop
+right: Jodi
+Wrong: 
+Value: $100
+Number: 2
+PRESIDENTIAL NICKNAMES | The "Sage of Monticello" | Thomas Jefferson
+right: Scott
+Wrong: 
+Value: $200
+Number: 5
+AN ACTOR'S LIFE | Ed Asner, Charlton Heston & Ronald Reagan have been president of this actors union | SAG (Screen Actors Guild)
+right: Scott
+Wrong: 
+Value: $200
+Number: 7
+MR. MIKE | He's been Lothar, Dieter, Wayne & Austin Powers | Mike Myers
+right: Jodi
+Wrong: 
+Value: $200
+Number: 20
+NURSERY RHYMES | Some believe that these 2 pail fetchers actually represent Cardinal Wolsey & Bishop Tarbes | Jack & Jill
+right: Scott
+Wrong: 
+Value: $200
+Number: 27
+FAMOUS PARTNERS | Meriwether Lewis & this man led the Corps of Discovery from 1804 to 1806 | William Clark
+right: Scott
+Wrong: 
+Value: $200
+Number: 9
+"HOP" TO IT | Success in this game requires good balance & skill at tossing a stone | hopscotch
+right: Scott
+Wrong: 
+Value: $200
+Number: 3
+PRESIDENTIAL NICKNAMES | He was the "Man from Missouri" & the "Man of Independence" | Harry S. Truman
+right: Greg
+Wrong: 
+Value: $300
+Number: 10
+AN ACTOR'S LIFE | An actor's "rep" (representation) may get him booked into "rep", one of these theater groups | repertory
+right: Jodi
+Wrong: 
+Value: $300
+Number: 15
+MR. MIKE | He became the lead vocalist of the Beach Boys in 1961 | Mike Love
+right: Jodi
+Wrong: 
+Value: $300
+Number: 23
+NURSERY RHYMES | "Betwixt them both, they lick'd the platter clean" | Jack Sprat & his wife
+right: Jodi
+Wrong: 
+Value: $300
+Number: 28
+FAMOUS PARTNERS | By their last names, it looks like the actors seen here, partnered in 1997, were actors under aliases | Tommy Lee Jones & Will Smith
+right: Scott
+Wrong: 
+Value: $300
+Number: 12
+"HOP" TO IT | If you're making a pub crawl, you're doing this | barhopping
+right: Greg
+Wrong: 
+Scott: What is drinking?
+Value: $300
+Number: 19
+PRESIDENTIAL NICKNAMES | "Union Safeguard" | Ulysses S. Grant
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+AN ACTOR'S LIFE | Pat Kingsley of PMK is one of the most famous of these people who keep actors' names in the news | publicist
+right: Jodi
+Wrong: 
+Value: $400
+Number: 16
+MR. MIKE | One of the senior journalists on U.S. television, he's been the leading host of "60 Minutes" since 1968 | Mike Wallace
+right: Greg
+Wrong: 
+Value: $400
+Number: 22
+FAMOUS PARTNERS | William Hewlett & this other engineer joined forces in the late 1930s | David Packard
+right: Scott
+Wrong: 
+Value: DD: $600
+Number: 13
+"HOP" TO IT | This 1950s Ray Anthony tune inspired a dance craze -- hop! hop! hop! | the bunny hop
+right: Scott
+Wrong: 
+Jodi: What is "Hoppin' at the Savoy?"
+Value: $400
+Number: 25
+PRESIDENTIAL NICKNAMES | The "Hero of Tippecanoe" | William Henry Harrison
+right: 
+Wrong: Triple Stumper
+Jodi: Who is John Tyler?
+Value: $500
+Number: 14
+AN ACTOR'S LIFE | When an actress is "treading" these, she's appearing on stage | the boards
+right: Greg
+Wrong: 
+Value: $500
+Number: 17
+MR. MIKE | A 3 time league MVP, this former Phillie hit a career total 548 home runs | Mike Schmidt
+right: Jodi
+Wrong: 
+Value: $500
+Number: 21
+FAMOUS PARTNERS | In 1853 he borrowed $60 from his friend Henry Lomb to help his optical goods shop | John Bausch
+right: Jodi
+Wrong: 
+Value: $500
+Number: 18
+"HOP" TO IT | Bumpkin farmers, or the heavy shoes they wear in the field | clodhoppers
+right: Scott
+Wrong: 
+Value: $500
+Number: 24
+Scores at the first commercial break (after clue 15)
+Scott: $1,700
+Jodi: $500
+Greg: $300
+Scores at the end of the Jeopardy! Round:
+Scott: $2,500
+Jodi: $2,100
+Greg: $1,400
+Second Jeopardy! Round: SECOND-LARGEST CITIES, HIT TUNES, ASTROLOGY FOR SKATERS, TOUGH TV, GIVE "UP", WE SURRENDER
+SECOND-LARGEST CITIES | Hamburg | Germany
+right: Jodi
+Wrong: 
+Scott: What is Frankfurt?
+Value: $200
+Number: 1
+HIT TUNES | The Spanish duo Los Del Rio unleashed this song & its accompanying dance on the world | the Macarena
+right: Scott
+Wrong: 
+Greg: What is the Lambada?
+Value: $200
+Number: 21
+ASTROLOGY FOR SKATERS | A warning to Scorpio skaters: don't pick a partner of this "lion-like" sign, you're not compatible | Leo
+right: Jodi
+Wrong: 
+Value: $200
+Number: 3
+TOUGH TV | First name of the character played by Faith Ford on "Murphy Brown" | Corky
+right: Scott
+Wrong: 
+Value: $200
+Number: 8
+GIVE "UP" | A boxing blow directed upward towards your opponent's chin | uppercut
+right: Jodi
+Wrong: 
+Value: $200
+Number: 16
+WE SURRENDER | This country officially surrendered on the deck of the U.S.S. Missouri on September 2, 1945 | Japan
+right: Jodi
+Wrong: 
+Value: $200
+Number: 26
+SECOND-LARGEST CITIES | Melbourne | Australia
+right: Scott
+Wrong: 
+Value: $400
+Number: 2
+HIT TUNES | Celine Dion's "Let's Talk About Love" & the "Titanic" soundtrack both feature this Oscar-winning gold single | "My Heart Will Go On"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+ASTROLOGY FOR SKATERS | This "virginal" sign represents perfectionists; nothing less than a gold medal will do | Virgo
+right: Scott
+Wrong: 
+Value: $400
+Number: 5
+TOUGH TV | Nickname of the character played by Chris Burke on "Life Goes On" | Corky
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+GIVE "UP" | The phrase about being "sent" here comes from the fact that Sing Sing Prison was north of NYC on the Hudson | up the river
+right: Scott
+Wrong: 
+Value: $400
+Number: 17
+WE SURRENDER | An important Confederate supply depot, this Georgia capital surrendered to Union troops September 2, 1864 | Atlanta
+right: Jodi
+Wrong: 
+Value: $400
+Number: 27
+SECOND-LARGEST CITIES | Rio de Janeiro | Brazil
+right: Greg
+Wrong: 
+Value: $600
+Number: 4
+HIT TUNES | It was "Hello Success", not loneliness for this duo with 1957's "Bye Bye Love", their first hit | the Everly Brothers
+right: Greg
+Wrong: 
+Value: $600
+Number: 23
+ASTROLOGY FOR SKATERS | If this "fishy" sign is yours, your famous feet may be your best feature | Pisces
+right: Greg
+Wrong: 
+Value: $600
+Number: 9
+TOUGH TV | Micky Dolenz was billed as Micky Braddock when he played this "Circus Guy" | Corky
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+GIVE "UP" | Home to fashionable shops & residences, it's the section of Manhattan E. of 5th Ave. & between 57th & 96th Streets | Upper East Side
+right: Jodi
+Wrong: 
+Value: $600
+Number: 18
+WE SURRENDER | Take a leap & name this leader whose surrender in 1886 ended the Apache Wars | Geronimo
+right: Jodi
+Wrong: 
+Value: DD: $3,000
+Number: 28
+SECOND-LARGEST CITIES | Rotterdam | The Netherlands (Holland)
+right: Scott
+Wrong: 
+Value: DD: $1,500
+Number: 6
+HIT TUNES | In 1980 this duo topped the charts one more time with "Do That to Me One More Time" | Captain & Tennille
+right: Jodi
+Wrong: 
+Value: $800
+Number: 24
+ASTROLOGY FOR SKATERS | Born under this horned sign?  You're likely to have weak knees, & we're not getting your "goat" | Capricorn
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 10
+TOUGH TV | Corin Nemec of "Parker Lewis Can't Lose" acted under this nickname when he was on "Webster" | Corky
+right: Jodi
+Wrong: 
+Value: $800
+Number: 14
+GIVE "UP" | He won a Pulitzer in 1982 for his novel "Rabbit is Rich" | John Updike
+right: Jodi
+Wrong: 
+Value: $800
+Number: 19
+WE SURRENDER | The Knights Hospitallers held Malta for over 250 years before surrendering it to this French emperor in 1798 | Napoleon
+right: Scott
+Wrong: 
+Jodi: Who is Louis XVI?
+Value: $800
+Number: 29
+SECOND-LARGEST CITIES | Alexandria | Egypt
+right: Greg
+Wrong: 
+Value: $1000
+Number: 7
+HIT TUNES | Billy Idol reached No. 1 in 1987 with a cover of this Tommy James & the Shondells song | "Mony Mony"
+right: 
+Wrong: Triple Stumper
+Jodi: What is "Money Money?"
+Value: $1000
+Number: 25
+ASTROLOGY FOR SKATERS | Skaters born under this sign of the scales strive for perfect balance, on the ice & off | Libra
+right: Jodi
+Wrong: 
+Value: $1000
+Number: 11
+TOUGH TV | Nickname of Mouseketeer Carl O'Brien | Cubby
+right: 
+Wrong: Triple Stumper
+Greg: What is Corky?
+Value: $1000
+Number: 15
+GIVE "UP" | This hit by the 5th Dimension won the 1967 Grammy for Song of the Year | "Up, Up and Away"
+right: Scott
+Wrong: 
+Value: $1000
+Number: 20
+WE SURRENDER | With their base overwhelmed on May 7, 1954, French forces surrendered to the Viet Minh at this village | Dien Bien Phu
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Scott: $7,200
+Jodi: $8,500
+Greg: $3,000
+
+Final Jeopardy! Round
+ANIMALS | There are only 3 of these animals in U.S. zoos: a 28-year-old in D.C.'s National Zoo & 2 younger ones in San Diego | pandas
+right: Greg | Scott | Jodi
+Wrong: 
+Wagers: 
+Greg: $3,000
+Scott: $7,200
+Jodi: $5,901
+Final scores:
+Scott: $14,400 (2nd place: $14,400 for the Make-a-Wish Foundation)
+Jodi: $14,401 (Winner: $15,000 for Sisters of St. Joseph)
+Greg: $6,000 (3rd place: $10,000 for the Ocean Park Community Center)
+
+Coryat scores
+Scott: $6,300 (17 R(including 2 DDs),2 W)
+Jodi: $6,100 (23 R(including 1 DD),4 W)
+Greg: $3,000 (8 R,3 W)

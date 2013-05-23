@@ -1,0 +1,349 @@
+6019 - Thursday, November 11, 2010
+Comments: 2010-B College Championship quarterfinal game 4.
+Contestants:
+Tim Relihan: a senior from the University of Nebraska from Stromsburg, Nebraska
+Steph Gagelin: a sophomore from the University of North Dakota from Grand Forks, North Dakota
+Marshall Flores: a senior from Arizona State University from Avondale, Arizona
+First Jeopardy! Round: VETERANS DAY, COLLEGE RADIO, BUTTERFLIES & MOTHS, MYSTERY MEAT, LOOK IN THE TRUNK, NUMERIC PHRASES
+VETERANS DAY | Veterans Day is celebrated on November 11, the anniversary of the day this war ended | World War I
+right: Marshall
+Wrong: 
+Value: $200
+Number: 21
+COLLEGE RADIO | Cal State Northridge's KCSN broadcasts an Americana music program called "Tangled" these plant parts | Roots
+right: 
+Wrong: Triple Stumper
+Marshall: What are Branches?
+Steph: What are Leaves?
+Tim: What are Vines?
+Value: $200
+Number: 2
+BUTTERFLIES & MOTHS | Some hawk moths hover just like these tiny birds for which they are sometimes mistaken | hummingbirds
+right: Steph
+Wrong: 
+Value: $200
+Number: 26
+MYSTERY MEAT | You get a grade "A" if you know USDA stands for this, which has been grading meat quality since 1923 | U.S. Department of Agriculture
+right: Steph
+Wrong: 
+Value: $200
+Number: 1
+LOOK IN THE TRUNK | Look, my <http://www.j-archive.com/media/2010-11-11_J_07.jpg> mask; I wore it years ago during this celebration, French for "fat Tuesday" | Mardi Gras
+right: Tim
+Wrong: 
+Value: $200
+Number: 7
+NUMERIC PHRASES | 13 items from your local bagel shop is sometimes called this | a baker's dozen
+right: Steph
+Wrong: 
+Value: $200
+Number: 16
+VETERANS DAY | Don't forget--in Canada, Veterans Day is known as this | Remembrance Day
+right: 
+Wrong: Triple Stumper
+Steph: What is Armistice Day?
+Value: $400
+Number: 22
+COLLEGE RADIO | You can talk Bears or Black Hawks on "The A.L.L. Sports Hour" on WHPK, from the University of this town | Chicago
+right: Steph
+Wrong: 
+Value: $400
+Number: 3
+BUTTERFLIES & MOTHS | The larva of this "royal" butterfly feeds only on leaves of the milkweed plant | the monarch butterfly
+right: Marshall
+Wrong: 
+Value: $400
+Number: 27
+MYSTERY MEAT | This poisoning usually picked up from bad canned meat takes its name from the Latin word for sausage | botulism
+right: Steph
+Wrong: 
+Value: $400
+Number: 12
+LOOK IN THE TRUNK | I must have tried half the 43 quintillion possible combinations on <http://www.j-archive.com/media/2010-11-11_J_08.jpg> this; more stuff in the trunk | a Rubik's Cube
+right: Tim
+Wrong: 
+Value: $400
+Number: 8
+NUMERIC PHRASES | This 3-word phrase means to decline to say any more; you can thank the Constitution | to plead the Fifth
+right: Steph
+Wrong: 
+Value: $400
+Number: 17
+VETERANS DAY | Each November 11 a color guard executes "present arms" at 11:00 A.M. at this Arlington National Cemetery location | the Tomb of the Unknown Soldier
+right: Tim
+Wrong: 
+Value: $600
+Number: 23
+COLLEGE RADIO | Catch some logger rhythms on KUPS, from the university named for this Washington body of water | Puget Sound
+right: Steph
+Wrong: 
+Value: $600
+Number: 4
+BUTTERFLIES & MOTHS | To avoid being eaten, some moths have a special organ to pick up high-frequency sounds made by these mammals | bats
+right: Tim
+Wrong: 
+Value: $600
+Number: 28
+MYSTERY MEAT | A specially trained butcher known as a shochet is required to prepare meat to this religious standard | kosher
+right: Steph
+Wrong: 
+Value: $600
+Number: 13
+LOOK IN THE TRUNK | It's my little red <http://www.j-archive.com/media/2010-11-11_J_09.jpg> mascot of this college team; sorry I had to banish you to the trunk after Tom Osborne left | the University of Nebraska
+right: Tim
+Wrong: 
+Value: $600
+Number: 9
+NUMERIC PHRASES | This brand of cat food is "finicky about nutrition" | 9Lives
+right: Steph
+Wrong: 
+Value: $600
+Number: 18
+VETERANS DAY | In 1954 this man signed legislation officially establishing the name Veterans Day | President Eisenhower
+right: Marshall
+Wrong: 
+Tim: Who is President Truman?
+Value: $800
+Number: 24
+COLLEGE RADIO | KRLX comes from C-A-R-leton College in this state | Minnesota
+right: Tim
+Wrong: 
+Value: $800
+Number: 5
+BUTTERFLIES & MOTHS | Due to its golden shimmer, the pupa is also called this, from the Greek for "gold" | a chrysalis
+right: 
+Wrong: 
+Tim: What is... the aura?
+Value: DD: $1,800
+Number: 29
+MYSTERY MEAT | John Montagu, Earl of this, popularized a dish that helped him eat meat while playing cards | Sandwich
+right: Tim
+Wrong: 
+Value: $800
+Number: 14
+LOOK IN THE TRUNK | Hey, it's my nickel-plated <http://www.j-archive.com/media/2010-11-11_J_10.jpg> this; it was very painful when I got my head stuck in it | a shark jaw
+right: Steph
+Wrong: 
+Value: $800
+Number: 10
+NUMERIC PHRASES | A new gust, or a renewed ability to continue | a second wind
+right: Steph
+Wrong: 
+Value: $800
+Number: 19
+VETERANS DAY | The tradition of wearing poppies on Veterans Day comes from this poem about an area in Belgium & France | "In Flanders Fields"
+right: Steph
+Wrong: 
+Value: $1000
+Number: 25
+COLLEGE RADIO | Loyola Marymount's KXLU has a show devoted to female musicians called "She" does this (not to the cradle) | Rocks
+right: Steph
+Wrong: 
+Value: $1000
+Number: 6
+BUTTERFLIES & MOTHS | Female moths & butterflies release these chemicals from special wing scales to attract males | pheromones
+right: Marshall
+Wrong: 
+Value: $1000
+Number: 30
+MYSTERY MEAT | Not to assume the wurst, but Braunschweiger is a smoked variety of this spreadable sausage | liverwurst
+right: Marshall
+Wrong: 
+Value: $1000
+Number: 15
+LOOK IN THE TRUNK | My monkey <http://www.j-archive.com/media/2010-11-11_J_11.jpg> friend carved out of this--I haven't seen you in years | a coconut
+right: Tim
+Wrong: 
+Steph: What is a gourd?
+Value: $1000
+Number: 11
+NUMERIC PHRASES | In politics, this subway term refers to a dangerous topic | the third rail
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Marshall: $800
+Steph: $2,800
+Tim: $3,600
+Scores at the end of the Jeopardy! Round:
+Marshall: $3,200
+Steph: $5,600
+Tim: $2,200
+Second Jeopardy! Round: LANDMARKS, DESCRIBING THE OLYMPIC SPORT, WRITERS ON THE MOVE, NAMED FOR PEOPLE, MISCELLANEOUS MEASURES, KEEPIN' IT "REAL"
+LANDMARKS | It's Paris' tallest landmark | the Eiffel Tower
+right: Steph
+Wrong: 
+Value: $400
+Number: 13
+DESCRIBING THE OLYMPIC SPORT | Synchronized springboard is one event in this sport | diving
+right: Marshall
+Wrong: 
+Value: $400
+Number: 1
+WRITERS ON THE MOVE | In 1790 William Wordsworth spent his summer vacation in this revolution-torn country | France
+right: Tim
+Wrong: 
+Value: $400
+Number: 7
+NAMED FOR PEOPLE | Ironically, this 18th century device bears the name of a French doctor who opposed the death penalty | the guillotine
+right: Tim
+Wrong: 
+Value: $400
+Number: 18
+MISCELLANEOUS MEASURES | It's the unit of weight for precious stones; the Hope diamond is 45.52 of them | a carat
+right: Marshall
+Wrong: 
+Value: $400
+Number: 22
+KEEPIN' IT "REAL" | Land held as property | real estate
+right: Tim
+Wrong: 
+Value: $400
+Number: 2
+LANDMARKS | Fittingly, a sculpture of this animal stands 67 feet tall at the Dallas Zoo | a giraffe
+right: Marshall
+Wrong: 
+Value: $800
+Number: 14
+DESCRIBING THE OLYMPIC SPORT | Stand 70 meters away from target that is 1.22 meters in diameter & let fly | archery
+right: Steph
+Wrong: 
+Value: $800
+Number: 9
+WRITERS ON THE MOVE | (<http://www.j-archive.com/media/2010-11-11_DJ_08.wmv> Kelly of the Clue Crew gives the clue from Galapagos Islands, Ecuador.) This American novelist, more associated with whales, visited the Galapagos & mused on the tortoise as a symbol of the two sides of existence, with its dark topside & bright underside | Herman Melville
+right: Tim
+Wrong: 
+Value: $800
+Number: 8
+NAMED FOR PEOPLE | This wheel was made for an 1893 expo by an engineer who specialized in steel structures | the Ferris wheel
+right: Tim
+Wrong: 
+Value: $800
+Number: 19
+MISCELLANEOUS MEASURES | 42 gallons of crude oil equals one of these units | a barrel
+right: Steph
+Wrong: 
+Value: $800
+Number: 23
+KEEPIN' IT "REAL" | To watch a 37-minute event in 37 minutes is to watch it in this | real time
+right: Steph
+Wrong: 
+Value: $800
+Number: 3
+LANDMARKS | The Holland one in New Jersey & New York is a National Historic Landmark | a tunnel
+right: Steph
+Wrong: 
+Value: $1200
+Number: 15
+DESCRIBING THE OLYMPIC SPORT | 3 disciplines: rhythmic, artistic & trampoline | gymnastics
+right: Steph
+Wrong: 
+Value: $1200
+Number: 10
+WRITERS ON THE MOVE | "A Cook's Tour" narrates the strange journeys & meals of this chef & TV personality | Anthony Bourdain
+right: Marshall
+Wrong: 
+Value: $1200
+Number: 28
+NAMED FOR PEOPLE | Now a floating hotel, this ship made her maiden voyage in May 1936 | the Queen Mary
+right: Marshall
+Wrong: 
+Value: $1200
+Number: 20
+MISCELLANEOUS MEASURES | Gauges measure shotgun bore diameters in mms; these measure gun bore diameters in hundredths of inches, like the .22 | caliber
+right: Tim
+Wrong: 
+Value: $1200
+Number: 24
+KEEPIN' IT "REAL" | It can mean "in the art style of Yves Tanguy", or just "weird & eerie" | surreal
+right: Marshall
+Wrong: 
+Steph: What is realism?
+Value: $1200
+Number: 4
+LANDMARKS | This structure follows Windsor, Balmoral or Montezuma | castle
+right: Marshall
+Wrong: 
+Value: $1600
+Number: 16
+DESCRIBING THE OLYMPIC SPORT | Categories in this sport include coxless pairs & single sculls | rowing
+right: Steph
+Wrong: 
+Value: DD: $1,000
+Number: 11
+WRITERS ON THE MOVE | In this country D.H. Lawrence started a novel called "Quetzalcoatl", later "The Plumed Serpent" | Mexico
+right: Marshall
+Wrong: 
+Value: DD: $1,000
+Number: 29
+NAMED FOR PEOPLE | A lab in Livermore, California is named for this inventor of the cyclotron | Ernest Lawrence
+right: 
+Wrong: Triple Stumper
+Steph: What is Salk?
+Value: $1600
+Number: 21
+MISCELLANEOUS MEASURES | This unit expresses the intensity of a sound wave; one is the smallest difference between sounds detectable by the human ear | a decibel
+right: Tim
+Wrong: 
+Value: $1600
+Number: 25
+KEEPIN' IT "REAL" | What Coke was, according to an old ad slogan | the real thing
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 5
+LANDMARKS | The <http://www.j-archive.com/media/2010-11-11_DJ_17.jpg> Bund symbolizes this Chinese city's trading history | Shanghai
+right: Tim
+Wrong: 
+Value: $2000
+Number: 17
+DESCRIBING THE OLYMPIC SPORT | This martial art is the only Olympic sport to originate in Korea | tae kwon do
+right: Marshall
+Wrong: 
+Value: $2000
+Number: 12
+WRITERS ON THE MOVE | Composer Rachmaninoff lent this Russian-born novelist the money to come to the U.S. in 1940 | Vladimir Nabokov
+right: 
+Wrong: Triple Stumper
+Tim: Who is Solzhenitsyn?
+Value: $2000
+Number: 30
+NAMED FOR PEOPLE | The 3 Senate office buildings are named for Senators Philip Hart, Richard Russell & Everett this | Senator Everett Dirksen
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+MISCELLANEOUS MEASURES | Sing out this term for 25 uniform sheets of paper | a quire
+right: 
+Wrong: Triple Stumper
+Steph: What is a ream?
+Value: $2000
+Number: 26
+KEEPIN' IT "REAL" | Time Inc. keeps things basic with this magazine | Real Simple
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Marshall: $13,000
+Steph: $7,000
+Tim: $7,800
+
+Final Jeopardy! Round
+THE 1930s | In April 1935 in Oklahoma, when blowing soil darkened the sky, a reporter coined this term for the region | the Dust Bowl
+right: Steph | Tim | Marshall
+Wrong: 
+Wagers: 
+Steph: $6,999
+Tim: $7,000
+Marshall: $2,601
+Final scores:
+Marshall: $15,601 (Automatic semifinalist)
+Steph: $13,999 (3rd place: $5,000 if eliminated)
+Tim: $14,800 (2nd place: $5,000 if eliminated)
+
+Coryat scores
+Marshall: $13,600 (14 R(including 1 DD),1 W)
+Steph: $7,600 (20 R(including 1 DD),6 W)
+Tim: $9,600 (16 R,4 W(including 1 DD))

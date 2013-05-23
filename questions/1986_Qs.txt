@@ -1,0 +1,348 @@
+5282 - Tuesday, July 24, 2007
+Comments: 2007 Teen Tournament Summer Games semifinal game 2.
+Contestants:
+Lisa Ackerman: a senior from Livermore, California
+Meryl Federman: a senior from Livingston, New Jersey
+Aiden Pink: a freshman from St. Louis Park, Minnesota
+First Jeopardy! Round: PRESIDENTIAL LIBRARIES, SPORTS LEGENDS, BALLET, CHECK OUT MY CRIB, MOUNTAINS, WORDS
+PRESIDENTIAL LIBRARIES | (<http://www.j-archive.com/media/2007-07-24_J_02.jpg> Jon of the Clue Crew presents from a staged office.)  A replica of this man's Oval Office desk includes gifts from the Georgia Democratic Party and from Hyman Rickover, his mentor in the Navy | Jimmy Carter
+right: Aiden
+Wrong: 
+Value: $200
+Number: 2
+SPORTS LEGENDS | Barry Bonds, among others, is currently trying to break this man's home run record of 755 | Hank Aaron
+right: Meryl
+Wrong: 
+Value: $200
+Number: 1
+BALLET | Cadets attend a dance at a girls' school in "Graduation Ball", a ballet set in this capital of Austria | Vienna
+right: Meryl
+Wrong: 
+Value: $200
+Number: 20
+CHECK OUT MY CRIB | A Black Molly or 2 would be perfect to keep this calming crib feature in your living room free from algae | an aquarium
+right: Meryl
+Wrong: 
+Value: $200
+Number: 23
+MOUNTAINS | The Hoosac Mountains are a range of these "colorful" mountains located in Vermont | the Green Mountains
+right: Lisa
+Wrong: 
+Value: $200
+Number: 4
+WORDS | Chat about this in your chat room: "chat" is merely a shortened form of this 7-letter word | chatter
+right: Lisa
+Wrong: 
+Value: $200
+Number: 5
+PRESIDENTIAL LIBRARIES | His presidential library is about 35 miles from the Kansas City, Missouri airport | Harry Truman
+right: Meryl
+Wrong: 
+Value: $400
+Number: 12
+SPORTS LEGENDS | This 7-time Tour de France champ said the 2006 NYC Marathon was the "hardest physical thing" he'd ever done | Lance Armstrong
+right: Meryl
+Wrong: 
+Value: $400
+Number: 3
+BALLET | The 2000 ballet "Todo Buenos Aires" features different interpretations of this sensual ballroom dance | the tango
+right: Aiden
+Wrong: 
+Meryl: What is the samba?
+Value: $400
+Number: 21
+CHECK OUT MY CRIB | Sit down in this chair with an X-shaped frame & a canvas seat, perfect for yelling, "Quiet on the set!" | a director's chair
+right: Meryl
+Wrong: 
+Value: $400
+Number: 25
+MOUNTAINS | Seen <http://www.j-archive.com/media/2007-07-24_J_17.jpg> here is Tenzing Norgay, standing on the summit of this mountain "because it's there" | Mount Everest
+right: Lisa
+Wrong: 
+Value: $400
+Number: 17
+WORDS | This name for a work of art that you may carve in art class comes from the Latin for "to carve" | sculpture
+right: Meryl
+Wrong: 
+Value: $400
+Number: 6
+PRESIDENTIAL LIBRARIES | (<http://www.j-archive.com/media/2007-07-24_J_13.jpg> Jon of the Clue Crew is at the wheel.)  In 1948, George H.W. Bush and <http://www.j-archive.com/media/2007-07-24_J_13a.jpg> this young wife of his packed their belongings into a Studebaker and drove west to Odessa, Texas | Barbara
+right: Aiden
+Wrong: 
+Value: $600
+Number: 13
+SPORTS LEGENDS | From 1984 to 1992, 2 of the 3 players who won all the NBA MVP awards | Magic Johnson & Larry Bird (& Michael Jordan)
+right: Aiden
+Wrong: 
+Value: $600
+Number: 10
+BALLET | I may say "neigh!" if you do a pas de cheval, a ballet step that imitates this animal | a horse
+right: Aiden
+Wrong: 
+Value: $600
+Number: 24
+CHECK OUT MY CRIB | Chandeliers look great but nowadays don't usually use these items from which their name is derived | candles
+right: Meryl
+Wrong: 
+Value: $600
+Number: 27
+MOUNTAINS | The Waianae Mountains in this U.S. state rise up to 4,025-foot Mt. Kaala | Hawaii
+right: Meryl
+Wrong: 
+Value: $600
+Number: 18
+WORDS | If you say, "I'm eating a hot dog with" this, you could mean a chopped pickle topping or just plain enjoyment | relish
+right: Lisa
+Wrong: 
+Value: $600
+Number: 7
+PRESIDENTIAL LIBRARIES | His library has a desk that's an exact replica of the one that his son was photographed under in 1963 | John F. Kennedy
+right: Aiden
+Wrong: 
+Value: $800
+Number: 15
+SPORTS LEGENDS | In 1904 he became the first pitcher in the American League to throw a perfect game; now an award is named for him | Cy Young
+right: Meryl
+Wrong: 
+Value: $800
+Number: 11
+BALLET | He designed sets & costumes for "Where the Wlid Things Are", a ballet based on his own beloved book | Maurice Sendak
+right: Aiden
+Wrong: 
+Value: $800
+Number: 26
+CHECK OUT MY CRIB | In the furniture sense, this synonym of "pride" is dressing table | vanity
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+MOUNTAINS | The Caucusus Mountains of Eastern Europe are predominantly found in this large country | Russia
+right: Meryl
+Wrong: 
+Aiden: What is Turkey?
+Value: $800
+Number: 19
+WORDS | Someone who sees a crime is an eyewitness; someone who experiences it aurally is this similar word | an earwitness
+right: Meryl
+Wrong: 
+Value: $800
+Number: 8
+PRESIDENTIAL LIBRARIES | (<http://www.j-archive.com/media/2007-07-24_J_16.jpg> Kelly of the Clue Crew reports from Austin, Texas.)  At the dedication in Austin in 1971, he said that of all the words in his presidential library, the two that best express his philosophy are "man can" | L.B.J.
+right: Aiden
+Wrong: 
+Value: $1000
+Number: 16
+SPORTS LEGENDS | This Czech-born woman who retired in 2006 won a record 9 Wimbledon Singles Championships | Martina Navratilova
+right: Aiden
+Wrong: 
+Value: $1000
+Number: 14
+BALLET | The Carolina Ballet debuted a 2006 work based on this stormy Shakespearean shipwreck saga | The Tempest
+right: Meryl
+Wrong: 
+Value: $1000
+Number: 29
+CHECK OUT MY CRIB | Wanna put your feet up? How about on one of these with a "Turkish" name | an ottoman
+right: Meryl
+Wrong: 
+Value: $1000
+Number: 30
+MOUNTAINS | Geological evidence shows that this 5,000-mile mountain chain may extend south into Antarctica | the Andes
+right: Aiden
+Wrong: 
+Value: DD: $4,800
+Number: 22
+WORDS | The name of these small towers often seen on castles comes from Old French for "small towers" | turrets
+right: Aiden
+Wrong: 
+Value: $1000
+Number: 9
+Scores at the first commercial break (after clue 15)
+Aiden: $4,200
+Meryl: $3,000
+Lisa: $1,000
+Scores at the end of the Jeopardy! Round:
+Aiden: $11,000
+Meryl: $7,400
+Lisa: $1,400
+Second Jeopardy! Round: JULY, WHAT'S ON TV?, LAW ENFORCEMENT, LITERATURE, COMPANIES YOUNGER THAN YOU, SYNONYMS
+JULY | William Booth founded this charitable "army" on July 5, 1865 in London | The Salvation Army
+right: Meryl
+Wrong: 
+Value: $400
+Number: 21
+WHAT'S ON TV? | This "American Idol" judge told one contestant, "you sounded like Cher after she's been to the dentist" | Simon Cowell
+right: Meryl
+Wrong: 
+Value: $400
+Number: 3
+LAW ENFORCEMENT | The truant officer may come after you if you fail to do this | go to school
+right: Aiden
+Wrong: 
+Value: $400
+Number: 12
+LITERATURE | In chapter 52 of this novel, a boisterous crowd is gathering for Fagin's execution | Oliver Twist
+right: Meryl
+Wrong: 
+Value: $400
+Number: 1
+COMPANIES YOUNGER THAN YOU | This commerce site founded in 1995 now also owns Skype, Paypal, & Shopping.com | eBay
+right: Aiden
+Wrong: 
+Value: $400
+Number: 26
+SYNONYMS | As a noun, it's a synonym for "flower", as a verb, it's to blossom or come into one's own | bloom
+right: Meryl
+Wrong: 
+Value: $400
+Number: 7
+JULY | On July 20, 1861 the Congress of the Confederate States began holding sessions in this Virginia city | Richmond
+right: Meryl
+Wrong: 
+Value: $800
+Number: 22
+WHAT'S ON TV? | This ABC series set at Mode magazine is based on the hit Columbian telenovela "Yo Soy Betty, La Fea" | Ugly Betty
+right: Meryl
+Wrong: 
+Value: $800
+Number: 13
+LAW ENFORCEMENT | It's the identification procedure that uses the kind of grid seen <http://www.j-archive.com/media/2007-07-24_DJ_14.jpg> here | a line-up
+right: Meryl
+Wrong: 
+Aiden: What is a height grid?
+Value: $800
+Number: 14
+LITERATURE | 19th c. author known for writing about a "venerable mansion" with "seven acutely peaked gables" | (Nathaniel) Hawthorne
+right: Aiden
+Wrong: 
+Value: $800
+Number: 2
+COMPANIES YOUNGER THAN YOU | The first name of this company's search engine was Backrub, as it analyzed the back links pointing to websites | Google
+right: Aiden
+Wrong: 
+Value: $800
+Number: 27
+SYNONYMS | Synonyms for "crowd" include throng, flock & this word that can also mean an infatuation | a crush
+right: 
+Wrong: 
+Meryl: I can't come up with it.
+Value: DD: $4,000
+Number: 8
+JULY | A July 17, 1917 royal proclamation changed the name of the British royal family to this, like a castle | Windsor
+right: Meryl
+Wrong: 
+Value: DD: $4,000
+Number: 23
+WHAT'S ON TV? | This Neil Patrick Harris sitcom is narrated through flashbacks from the future | How I Met Your Mother
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 16
+LAW ENFORCEMENT | This agency's criminal justice information services div. has the fingerprints of more than 47 million people | the FBI
+right: Aiden
+Wrong: 
+Value: $1200
+Number: 15
+LITERATURE | People from the past appear to a brother & sister in "Rewards and Fairies" by this author of "The Jungle Book" | Kipling
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 4
+COMPANIES YOUNGER THAN YOU | While a student at Northeastern, Shawn Fanning started this P2P music-sharing service that now gone legit | Napster
+right: Aiden
+Wrong: 
+Value: $1200
+Number: 28
+SYNONYMS | In court you won't hear a lawyer say "remonstrance!" but this synonym | objection
+right: Meryl
+Wrong: 
+Value: $1200
+Number: 9
+JULY | John Adams' dying words on this date in 1826 were that Thomas Jefferson still lived; John Adams was wrong | July 4
+right: Meryl
+Wrong: 
+Value: $1600
+Number: 24
+WHAT'S ON TV? | Penn Jillette hosts this NBC game show about first impressions | Identity
+right: Aiden
+Wrong: 
+Value: $1600
+Number: 17
+LAW ENFORCEMENT | A counter-terrorism program is called "NYPD" this, another term for a police badge | Shield
+right: 
+Wrong: Triple Stumper
+Lisa: What is blue?
+Value: $1600
+Number: 19
+LITERATURE | Modern novels with biblical titles include Jane Hamilton's "The Book of Ruth" & Toni Morrison's "Song of" him | Solomon
+right: Meryl
+Wrong: 
+Value: $1600
+Number: 5
+COMPANIES YOUNGER THAN YOU | After selling Broadcast.com to Yahoo! for more than $5 billion, this Dallas NBA team owner started HDNet | Mark Cuban
+right: Aiden
+Wrong: 
+Value: $1600
+Number: 29
+SYNONYMS | Back in the 19th century, ladies didn't faint but did this 5-letter synonym | swoon
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 10
+JULY | In July 1893 this president underwent a secret operation to remove part of his jaw due to cancer | Grover Cleveland
+right: 
+Wrong: Triple Stumper
+Aiden: Who is McKinley?
+Value: $2000
+Number: 25
+WHAT'S ON TV? | In its 1st episode, citizens of a Kansas town saw a mushroom cloud on the horizon & were cut off from the outside world | Jericho
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 18
+LAW ENFORCEMENT | Not just a remark like "the soup's too salty", it's a formal charge a victim can swear out, leading to an arrest | a complaint
+right: Meryl
+Wrong: 
+Aiden: What's an accusation?
+Value: $2000
+Number: 20
+LITERATURE | Even Grendel would love Seamus Heaney's new translation of the Anglo-Saxon epic about this title geat | Beowulf
+right: Meryl
+Wrong: 
+Value: $2000
+Number: 6
+COMPANIES YOUNGER THAN YOU | Started in 2001, Verasun Energy has now become the second-leading producer of this alternative fuel | ethanol
+right: Aiden
+Wrong: 
+Lisa: What is solar power?
+Value: $2000
+Number: 30
+SYNONYMS | This synonym for "to seclude" is also a word for part of a monastery or convent | cloister
+right: Meryl
+Wrong: 
+Value: $2000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Aiden: $16,200
+Meryl: $21,800
+Lisa: $3,800
+
+Final Jeopardy! Round
+ANIMALS | The genus of this Asian animal is Ailuropoda, & its species name, appropriately, is melanoleuca | the giant panda
+right: Lisa
+Wrong: 
+Aiden: What is the white elephant?
+Meryl: What is a black panda?
+Wagers: 
+Lisa: $3,799
+Aiden: $16,200
+Meryl: $10,601
+Final scores:
+Aiden: $0 (3rd place: $10,000)
+Meryl: $11,199 (Finalist)
+Lisa: $7,599 (2nd place: $10,000)
+
+Coryat scores
+Aiden: $12,400 (20 R(including 1 DD),4 W)
+Meryl: $23,000 (28 R(including 1 DD),2 W(including 1 DD))
+Lisa: $3,800 (8 R,2 W)

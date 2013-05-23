@@ -1,0 +1,346 @@
+2985 - Friday, July 18, 1997
+Comments: Dan Melia game 1.  Last game of Season 13 (1996-1997).
+Contestants:
+Brian Keliher: a museum educator from San Diego, California
+Dan Melia: a professor from San Francisco, California
+Patrick Friel: a teaching assistant originally from Philadelphia, Pennsylvania (whose 2-day cash winnings total $30,021)
+First Jeopardy! Round: SCIENCE, THE MOVIES, AMERICANA, THE 20th CENTURY, IN THE BACKYARD, ENDS IN "OUGH"
+SCIENCE | This fossilized resin from prehistoric pines can preserve an insect forever | amber
+right: Dan
+Wrong: 
+Value: $100
+Number: 2
+THE MOVIES | In "The Wizard of Oz", Billie Burke told Judy Garland, "Never let those" items "off your feet for a moment" | the Ruby Slippers
+right: Patrick
+Wrong: 
+Value: $100
+Number: 14
+AMERICANA | Shoppers, take note:  the Potomac Mills discount mall is this state's No. 1 tourist destination | Virginia
+right: Brian
+Wrong: 
+Value: $100
+Number: 7
+THE 20th CENTURY | On May 5, 1981, Irish nationalist Bobby Sands died after a 66-day-long one of these | a hunger strike
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+IN THE BACKYARD | One of these devices stocked with thistle seeds may attract goldfinches | a birdfeeder
+right: Dan
+Wrong: 
+Value: $100
+Number: 26
+ENDS IN "OUGH" | When it breaks, the cradle will fall | the bough
+right: Patrick
+Wrong: 
+Value: $100
+Number: 19
+SCIENCE | Most icebergs in the north Atlantic come from about 20 glaciers on this island's west coast | Greenland
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+THE MOVIES | This 1996 animated & live action sports film featured the songs "Fly Like an Eagle" and "I Believe I Can Fly" | Space Jam
+right: Patrick
+Wrong: 
+Value: $200
+Number: 15
+AMERICANA | Midwesterners know it's the "Sioux State", as well as the "Flickertail State" | North Dakota
+right: 
+Wrong: Triple Stumper
+Brian: What is South Dakota?
+Value: $200
+Number: 8
+THE 20th CENTURY | An order was given in October, 1961 to remove this man's body from Lenin's tomb | Josef Stalin
+right: Dan
+Wrong: 
+Value: $200
+Number: 10
+IN THE BACKYARD | It's a good idea to regularly test the pH & chlorine levels of the water in one of these | a swimming pool
+right: Dan
+Wrong: 
+Value: $200
+Number: 27
+ENDS IN "OUGH" | A goon, a bruiser, a heavy, or a thug | a tough
+right: Dan
+Wrong: 
+Brian: What is...
+Value: $200
+Number: 20
+SCIENCE | Around 1840 chemist John William Draper took the first photograph of this heavenly body | the moon
+right: Dan
+Wrong: 
+Value: $300
+Number: 4
+THE MOVIES | He not only directed "The Doors" & "JFK", he co-wrote the screenplays | Oliver Stone
+right: Brian
+Wrong: 
+Value: $300
+Number: 16
+AMERICANA | Known for its Victorian homes, Cape May in this state celebrates Victorian Week every October | New Jersey
+right: Patrick
+Wrong: 
+Value: $300
+Number: 9
+THE 20th CENTURY | 2 British destroyers were sunk during this 1982 war | Falkland Islands War
+right: Patrick
+Wrong: 
+Value: $300
+Number: 11
+IN THE BACKYARD | Children help spread this common lawn weed when they blow off its white, puffy seeds | dandelion
+right: Patrick
+Wrong: 
+Value: $300
+Number: 28
+ENDS IN "OUGH" | It's similar to batter, but it's too stiff to pour | dough
+right: Dan
+Wrong: 
+Value: $300
+Number: 21
+SCIENCE | Birds & bees perform this transfer of gametes from anthers to stigmas | pollination
+right: Patrick
+Wrong: 
+Value: $400
+Number: 5
+THE MOVIES | In movie titles, this pop artist's name precedes "Bad", "Dracula", & "Frankenstein" | Andy Warhol
+right: Patrick
+Wrong: 
+Value: $400
+Number: 17
+AMERICANA | Tahlequah, in this state, is the capital of the Cherokee nation, so it's home to the Cherokee national museum | Oklahoma
+right: Dan
+Wrong: 
+Value: $400
+Number: 23
+THE 20th CENTURY | This country withdrew from the League of Nations in 1933 after the league condemned its attacks on China | Japan
+right: Patrick
+Wrong: 
+Value: DD: $500
+Number: 12
+IN THE BACKYARD | A craze in the '50s, these bunkers were built in case of nuclear war | fallout shelters
+right: Dan
+Wrong: 
+Value: $400
+Number: 29
+ENDS IN "OUGH" | To truly eat like a pig, put your food in one of these | a trough
+right: Brian
+Wrong: 
+Value: $400
+Number: 22
+SCIENCE | Einstein said measurements of this depend on whether the observer is moving; it's not absolute | time
+right: 
+Wrong: Triple Stumper
+Patrick: What is velocity?
+Dan: What is the speed of light?
+Value: $500
+Number: 6
+THE MOVIES | This actor played a scarred ex-teacher in his directorial debut, "The Man Without a Face" | Mel Gibson
+right: Dan
+Wrong: 
+Value: $500
+Number: 18
+AMERICANA | The world's oldest Zydeco festival takes place annually in Plaisance, near Opelousas in this state | Louisiana
+right: Dan
+Wrong: 
+Value: $500
+Number: 24
+THE 20th CENTURY | A 1993 car bomb explosion in Florence, Italy damaged priceless works of art from this gallery | the Uffizi Gallery
+right: Patrick
+Wrong: 
+Value: $500
+Number: 13
+IN THE BACKYARD | This game played across a net became a medal sport at the 1992 Olympics | badminton
+right: Dan
+Wrong: 
+Value: $500
+Number: 30
+ENDS IN "OUGH" | It's a political division of New York City; Queens is one | a borough
+right: Patrick
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Patrick: $1,500
+Dan: $300
+Brian: -$100
+Scores at the end of the Jeopardy! Round:
+Patrick: $3,100
+Dan: $3,400
+Brian: $400
+Second Jeopardy! Round: WORLD CITIES, RELIGION, VOCABULARY, THEATRE, U.S. PRESIDENTS, THE BLUES
+WORLD CITIES | Until 1990 it was the capital of West Germany | Bonn
+right: Patrick
+Wrong: 
+Value: $200
+Number: 3
+RELIGION | This common Catholic prayer to Mary, the mother of Jesus, is often set to music | Hail Mary (or Ave Maria)
+right: Patrick
+Wrong: 
+Value: $200
+Number: 1
+VOCABULARY | This term for a powerful business leader comes from the Latin for "great"--magnus | magnate
+right: Patrick
+Wrong: 
+Value: $200
+Number: 17
+THEATRE | The Ritz-Carlton hotel in this Mass. capital is the setting for Moss Hart's comedy "Light Up the Sky" | Boston
+right: Patrick
+Wrong: 
+Value: $200
+Number: 11
+U.S. PRESIDENTS | During the Spanish-American War, his unit first saw action June 24, 1898 at Las Guasimas, Cuba | Theodore Roosevelt
+right: Dan
+Wrong: 
+Value: $200
+Number: 12
+THE BLUES | This region, the namesake of a blues style, is a plain hundreds of miles from the Mississippi's mouth | Delta
+right: Brian
+Wrong: 
+Value: $200
+Number: 24
+WORLD CITIES | Poland's third-largest city, its name can be spelled with 2 K's or with 2 C's | Krakow (or Cracow)
+right: Patrick
+Wrong: 
+Value: $400
+Number: 7
+RELIGION | In Hinduism the ashes of the dead are cast into this river to insure safe passage from this life | Ganges
+right: Dan
+Wrong: 
+Value: $400
+Number: 2
+VOCABULARY | A quint has at least this many siblings | 4
+right: Dan
+Wrong: 
+Value: $400
+Number: 20
+THEATRE | Female impersonator Charles Busch called his 1996 New York show "Flipping My" this | Wig
+right: Dan
+Wrong: 
+Value: $400
+Number: 13
+U.S. PRESIDENTS | Referring to his initials, classmates at West Point began calling him Uncle Sam | Ulysses S. Grant
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+THE BLUES | A famous 1914 composition by W.C. Handy or Missouri's professional hockey team | St. Louis Blues
+right: Patrick
+Wrong: 
+Value: $400
+Number: 30
+WORLD CITIES | 1 of only 2 Asian cities that hosted the Summer Olympics | Seoul (or Tokyo)
+right: Brian
+Wrong: 
+Value: $600
+Number: 8
+RELIGION | This term used to designate all monks in Tibetan Buddhism means "superior one" | Lama
+right: Patrick
+Wrong: 
+Value: $600
+Number: 4
+VOCABULARY | Synonyms for this adjective include evil, unlucky, & to the left | sinister
+right: Dan
+Wrong: 
+Value: DD: $1,000
+Number: 21
+THEATRE | James Earl Jones appeared as Lennie in a 1974 revival of this play based on a Steinbeck novel | Of Mice and Men
+right: Dan
+Wrong: 
+Value: $600
+Number: 14
+U.S. PRESIDENTS | He was the first president to serve 2 terms in office | George Washington
+right: Dan
+Wrong: 
+Value: $600
+Number: 19
+THE BLUES | In the 1960s this still-rocking British rock band took its name from a Muddy Waters blues classic | The Rolling Stones
+right: Brian
+Wrong: 
+Value: $600
+Number: 27
+WORLD CITIES | After Rhodesia became this country, Salisbury, its capital, became Harare | Zimbabwe
+right: Patrick
+Wrong: 
+Value: $800
+Number: 9
+RELIGION | One symbol of this Japanese religion is the Torii, a large gate traditionally made of wood | Shinto
+right: Patrick
+Wrong: 
+Value: $800
+Number: 5
+VOCABULARY | In 1907 humorist Gelett Burgess coined this word for the praising quotes on book jackets | blurb
+right: Dan
+Wrong: 
+Value: $800
+Number: 22
+THEATRE | Charlie Chaplin's son Sydney earned a Tony nomination for playing Nick Arenstein in this 1964 musical | Funny Girl
+right: Brian
+Wrong: 
+Value: $800
+Number: 15
+U.S. PRESIDENTS | In 1832 this president vetoed the recharter of the Second Bank of the United States | Andrew Jackson
+right: 
+Wrong: 
+Brian: Who was Monroe?
+Value: DD: $1,000
+Number: 25
+THE BLUES | With his band Double Trouble, this Texas guitar wizard led a blues revival until his death in 1990 | Stevie Ray Vaughan
+right: 
+Wrong: Triple Stumper
+Patrick: Who was Hooker?
+Value: $800
+Number: 28
+WORLD CITIES | A church in this Italian city contains the tomb of Saint Anthony | Padua
+right: Brian
+Wrong: 
+Value: $1000
+Number: 10
+RELIGION | On May 1, 1738, he & some friends began a "little society" that prefigured later Methodist societies | John Wesley
+right: Brian
+Wrong: 
+Value: $1000
+Number: 6
+VOCABULARY | It's a term or expression used in place of an indelicate or taboo term | euphemism
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 23
+THEATRE | His expressionistic 1922 play "The Hairy Ape" opens in the firemen's forecastle of an ocean liner | Eugene O'Neill
+right: Dan
+Wrong: 
+Value: $1000
+Number: 16
+U.S. PRESIDENTS | On March 4, 1853 this president gave his inauguration address from memory without notes | Franklin Pierce
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 26
+THE BLUES | Known as the "Empress of the Blues", this singer often recorded with jazz great Louis Armstrong | Bessie Smith
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Patrick: $9,100
+Dan: $8,800
+Brian: $3,600
+
+Final Jeopardy! Round
+DETECTIVE STORIES | The Murders in the Rue Morgue and The Mystery of Marie Roget are mentioned in the 1st paragraph of this 1845 story | "The Purloined Letter"
+right: Dan
+Wrong: 
+Brian: What is The Hound of Baskervilles?
+Patrick: What is The Pit and the Pendulum?
+Wagers: 
+Brian: $3,592
+Dan: $4,000
+Patrick: $8,501
+Final scores:
+Patrick: $599 (2nd place: Vacation to Tahiti)
+Dan: $12,800 (New champion: $12,800)
+Brian: $8 (3rd place: Motorola Star Tac Cellular Phone)
+
+Coryat scores
+Patrick: $9,000 (23 R(including 1 DD),2 W)
+Dan: $8,400 (23 R(including 1 DD),2 W)
+Brian: $4,600 (9 R,3 W(including 1 DD))

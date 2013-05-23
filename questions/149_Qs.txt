@@ -1,0 +1,345 @@
+4711 - Monday, February 14, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 1, game 4.
+Contestants:
+Janet Wong: a development officer for a museum from Hoboken, New Jersey
+Alan Bailey: a playwright and director from North Hills, California
+David Traini: a high school administrator from Moorestown, New Jersey
+First Jeopardy! Round: NAME THAT AUTHOR, HALL OF FAMER BY POSITION, STOCK SYMBOL SHOPPING, WHAT WOULD YOU LIKE TO DRINK?, PERHAPS SOME "TEA", A CUP OF KOFI
+NAME THAT AUTHOR | Mathew Brady took the photo seen here of <http://www.j-archive.com/media/2005-02-14_J_01.jpg> this author & West Point dropout | Edgar Allan Poe
+right: Alan
+Wrong: 
+Value: $200
+Number: 1
+HALL OF FAMER BY POSITION | Joe Namath, Joe Montana | quarterback
+right: Alan
+Wrong: 
+Value: $200
+Number: 21
+STOCK SYMBOL SHOPPING | For electronics: RSH | RadioShack
+right: Alan
+Wrong: 
+Value: $200
+Number: 22
+WHAT WOULD YOU LIKE TO DRINK? | This uncola originally had the name "Bib-Label Lithiated Lemon-Lime Soda" | 7 Up
+right: Alan
+Wrong: 
+Value: $200
+Number: 2
+PERHAPS SOME "TEA" | What Helen Keller called Anne Sullivan | Teacher
+right: Janet
+Wrong: 
+Value: $200
+Number: 6
+A CUP OF KOFI | Kofi Annan is the seventh person to hold this highest U.N. executive position | secretary-general
+right: Janet
+Wrong: 
+Value: $200
+Number: 5
+NAME THAT AUTHOR | Pioneering Nebraska novelist seen <http://www.j-archive.com/media/2005-02-14_J_07.jpg> here in 1915 | Willa Cather
+right: Alan
+Wrong: 
+Value: $400
+Number: 7
+HALL OF FAMER BY POSITION | Bill Russell, Bill Walton | center
+right: Alan
+Wrong: 
+Value: $400
+Number: 27
+STOCK SYMBOL SHOPPING | For kitchenware as well as sheets & towels: BBBY | Bed Bath & Beyond
+right: Alan
+Wrong: 
+Value: $400
+Number: 23
+WHAT WOULD YOU LIKE TO DRINK? | A kir is white wine & creme de cassis; a kir royale is this & creme de cassis | champagne
+right: Alan
+Wrong: 
+Value: $400
+Number: 3
+PERHAPS SOME "TEA" | Hold hair at ends, comb toward scalp; cracking gum optional | tease
+right: Alan
+Wrong: 
+Value: $400
+Number: 13
+A CUP OF KOFI | In 1991 Kofi Annan negotiated the release of U.N. workers held in this country during the Persian Gulf War | Iraq
+right: Alan
+Wrong: 
+Value: $400
+Number: 17
+NAME THAT AUTHOR | Called one of the greatest practitioners of the historical novel, <http://www.j-archive.com/media/2005-02-14_J_10.jpg> he was born in Edinburgh | Walter Scott
+right: Alan
+Wrong: 
+Value: $600
+Number: 10
+HALL OF FAMER BY POSITION | Bob Feller, Bob Lemon, Bob Gibson | pitcher
+right: Alan
+Wrong: 
+Value: $600
+Number: 28
+STOCK SYMBOL SHOPPING | For DVDs: BBI | Blockbuster
+right: 
+Wrong: Triple Stumper
+Alan: What is, uh, Best Buy?
+Value: $600
+Number: 24
+WHAT WOULD YOU LIKE TO DRINK? | It doesn't take breaking a world record to tell us this Irish brew is <http://www.j-archive.com/media/2005-02-14_J_04.mp3> "brilliant" | Guinness
+right: Janet
+Wrong: 
+Value: $600
+Number: 4
+PERHAPS SOME "TEA" | Daniel Tobin headed this union from 1907 to 1952, bringing its membership from 40,000 to more than a million | the Teamsters
+right: Alan
+Wrong: 
+Value: $600
+Number: 14
+A CUP OF KOFI | In June 2000 Kofi Annan was the commencement speaker at this university near Palo Alto, Calfornia | Stanford
+right: Janet
+Wrong: 
+Value: $600
+Number: 18
+NAME THAT AUTHOR | This British author seen <http://www.j-archive.com/media/2005-02-14_J_11.jpg> here first "Bloom"ed in 1882 | Virginia Woolf
+right: David
+Wrong: 
+Value: $800
+Number: 11
+HALL OF FAMER BY POSITION | Jack Lambert, Jack Ham | linebacker
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+STOCK SYMBOL SHOPPING | For auto parts: PBY | Pep Boys
+right: Alan
+Wrong: 
+Value: $800
+Number: 25
+WHAT WOULD YOU LIKE TO DRINK? | This beverage that can be "sweet" or "hard" is made from freshly pressed deciduous fruits | cider
+right: Alan
+Wrong: 
+Value: DD: $1,200
+Number: 8
+PERHAPS SOME "TEA" | It has about 40,000 people & it's right near Hackensack | Teaneck
+right: David
+Wrong: 
+Value: $800
+Number: 15
+A CUP OF KOFI | Kofi Annan's first job in the U.N. was in 1962 as an administrator & budget officer of this "organization" | the World Health Organization
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+NAME THAT AUTHOR | Seen <http://www.j-archive.com/media/2005-02-14_J_12.jpg> here in 1976, this playwright served prison time for his dissident views | (Vaclav) Havel
+right: Alan
+Wrong: 
+Value: $1000
+Number: 12
+HALL OF FAMER BY POSITION | Gump Worsley, Shrimp Worters, Rat Westwick | hockey goalie
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+STOCK SYMBOL SHOPPING | For fine furniture: ETH | Ethan Allen
+right: Janet
+Wrong: 
+Value: $1000
+Number: 26
+WHAT WOULD YOU LIKE TO DRINK? | Vodka, peach schnapps, cranberry juice & grapefruit juice make up one version of this "on the beach" | sex
+right: Janet
+Wrong: 
+Value: $1000
+Number: 9
+PERHAPS SOME "TEA" | This great trombonist was part of Louis Armstrong's band from 1947 to 1951 | Jack Teagarden
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+A CUP OF KOFI | The first U.N. head from Africa south of the Sahara, Kofi Annan was born in the city of Kumasi in this country in 1938 | Ghana
+right: David
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+David: $1,000
+Alan: $5,000
+Janet: $2,000
+Scores at the end of the Jeopardy! Round:
+David: $1,600
+Alan: $7,400
+Janet: $3,600
+Second Jeopardy! Round: PHILOSOPHY, MOVIE TAGLINES, AMERICAN HERSTORY, COUNTRY DISTINCTIONS, GEEK LETTER SOCIETIES, IT'S GREEK TO ME
+PHILOSOPHY | A 1751 book by David Hume in this area of philosophy argues that altruism is human nature | ethics
+right: David
+Wrong: 
+Value: $400
+Number: 1
+MOVIE TAGLINES | 1978: "You'll believe a man can fly" | Superman
+right: Alan
+Wrong: 
+Value: $400
+Number: 29
+AMERICAN HERSTORY | In March 1879 law school grad Belva Lockwood became the first woman allowed to argue here | before the Supreme Court
+right: Janet
+Wrong: 
+Value: $400
+Number: 20
+COUNTRY DISTINCTIONS | This Western Hemisphere country has the most Spanish speakers of any country in the world | Mexico
+right: David
+Wrong: 
+Value: $400
+Number: 11
+GEEK LETTER SOCIETIES | The U.S. Internet Industry Association posts an FBI-esque list of these, like worm netsky.p | viruses
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+IT'S GREEK TO ME | In English it's a figure of speech, like "a sea of troubles"; in Greek it refers to moving companies | a metaphor
+right: David
+Wrong: 
+Value: $400
+Number: 14
+PHILOSOPHY | Nominalism is so called from considering only objects real, & abstractions like "animal" & "circle" merely these | names
+right: Alan
+Wrong: 
+Value: $800
+Number: 2
+MOVIE TAGLINES | 1977: "We are not alone" | Close Encounters of the Third Kind
+right: Janet
+Wrong: 
+Value: $800
+Number: 30
+AMERICAN HERSTORY | As a girl in the 1830s she nursed her brother David through a 2-year illness (came in handy later) | Clara Barton
+right: 
+Wrong: 
+Janet: Uh, who is Florence Nightingale?
+Value: DD: $1,200
+Number: 21
+COUNTRY DISTINCTIONS | Holy cow!  There are more head of cattle in this nation than anywhere else | India
+right: David
+Wrong: 
+Value: $800
+Number: 19
+GEEK LETTER SOCIETIES | ACM, the Association for Computing Machinery, dates back to this decade when ENIAC came on line | the '40s
+right: David
+Wrong: 
+Alan: What are the '50s?
+Value: $800
+Number: 25
+IT'S GREEK TO ME | (<http://www.j-archive.com/media/2005-02-14_DJ_13.jpg> Cheryl of the Clue Crew stands by a small belfry overlooking the sea at Santorini, Greece.)  Historian Herodotus said the island of Santorini was once called <http://www.j-archive.com/media/2005-02-14_DJ_13a.jpg> "Kalliste" meaning the utmost in this quality | beauty
+right: David
+Wrong: 
+Value: $800
+Number: 13
+PHILOSOPHY | Separating mind from matter was a big step for this philosopher who died in 1650 | Rene Descartes
+right: David
+Wrong: 
+Value: $1200
+Number: 4
+MOVIE TAGLINES | 2002: "America was born in the streets" | Gangs of New York
+right: David
+Wrong: 
+Value: $1200
+Number: 3
+AMERICAN HERSTORY | Before she was the first black woman in Congress, she was the second in the New York State Assembly | Shirley Chisholm
+right: David
+Wrong: 
+Value: $1200
+Number: 22
+COUNTRY DISTINCTIONS | Golden opportunities await in this African country that leads the world in gold production | South Africa
+right: David
+Wrong: 
+Value: $1200
+Number: 16
+GEEK LETTER SOCIETIES | The ICGA website tells us Deep Fritz, this type of program, earned a draw with Vladimir Kramnik | chess
+right: Alan
+Wrong: 
+Value: $1200
+Number: 26
+IT'S GREEK TO ME | To get this word for a place to eat & drink in Greece, add "A" to a similar English word | taverna
+right: David
+Wrong: 
+Value: $1200
+Number: 12
+PHILOSOPHY | This idea that God & the universe are identical was powerfully stated by Spinoza in the 17th century | pantheism
+right: 
+Wrong: Triple Stumper
+David: What is deism?
+Value: $1600
+Number: 5
+MOVIE TAGLINES | 1960: "They trained him to kill for their pleasure... but they trained him a little too well..." | Spartacus
+right: 
+Wrong: 
+Alan: What is The Manchurian Candidate?
+Value: DD: $5,000
+Number: 9
+AMERICAN HERSTORY | The motto "semper paratus" game us this nautical acronym for the WWII Women's Coast Guard Reserve | SPAR
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 23
+COUNTRY DISTINCTIONS | This Asian country has the world's largest armed forces | China
+right: David
+Wrong: 
+Alan: What is Russia?
+Value: $1600
+Number: 17
+GEEK LETTER SOCIETIES | The AAAI, American Association for this, has only human members--we think | Artificial Intelligence
+right: Alan
+Wrong: 
+Value: $1600
+Number: 27
+IT'S GREEK TO ME | (<http://www.j-archive.com/media/2005-02-14_DJ_07.jpg> Cheryl of the Clue Crew stands by a stone wheel in Naxos, Greece.)  Related for the English "to bear", "pherein" gave us the name of <http://www.j-archive.com/media/2005-02-14_DJ_07a.jpg> this traditional container to bear oil | an amphora
+right: David
+Wrong: 
+Value: $1600
+Number: 7
+PHILOSOPHY | This was a real 4-letter word for Schopenhauer, as it urges us on to pointless desires & death | will
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+MOVIE TAGLINES | 2000: "Some memories are best forgotten" | Memento
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+AMERICAN HERSTORY | This alliterative-named woman who spied for Stonewall Jackson was not the most ladylike Southern belle | Belle Boyd
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 24
+COUNTRY DISTINCTIONS | People on this European island nation read more books per person annually than any other | Iceland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+GEEK LETTER SOCIETIES | The OSI is the "Initiative" to promote this, free access to software code | open source
+right: Janet
+Wrong: 
+Value: $2000
+Number: 28
+IT'S GREEK TO ME | Meaning "fighter" or "contestant" (as on "Jeopardy!"), it follows "Samson" in the title of a Milton work | agonistes
+right: Alan
+Wrong: 
+Value: $2000
+Number: 8
+Scores at the end of the Double Jeopardy! Round:
+David: $12,800
+Alan: $6,000
+Janet: $5,600
+
+Final Jeopardy! Round
+STATE SYMBOLS | In 1993 it became the first state to adopt an official flavor, which, incidentally, comes from its state tree | Vermont
+right: Janet | Alan
+Wrong: 
+David: What is Florida
+Wagers: 
+Janet: $400
+Alan: $6,000
+David: $0
+Final scores:
+David: $12,800 (Winner: $15,000 + an advance to UToC Round 2)
+Alan: $12,000 (2nd place: $5,000)
+Janet: $6,000 (3rd place: $5,000)
+
+Coryat scores
+David: $12,800 (16 R,3 W)
+Alan: $10,600 (21 R(including 1 DD),4 W(including 1 DD))
+Janet: $6,800 (9 R,1 W(including 1 DD))

@@ -1,0 +1,265 @@
+3496 - Monday, November 15, 1999
+Comments: 1999-B Celebrity <i>Jeopardy!</i> game 1.  From the Theater at Madison Square Garden, New York City.
+Contestants:
+Carol Burnett:  from the Broadway revue Putting It Together
+Noah Wyle:  from ER
+Rosie O'Donnell:  from The Rosie O'Donnell Show
+First Jeopardy! Round: NEW YORK CITY SONGS, BRIDGE OF SIZE, SPORTSTALK, PLAYBILL, YOU DO THE MATH, 3-LETTER WORDS
+NEW YORK CITY SONGS | A 1941 song asked, "I like New York in" this month, "how about you?" | June
+right: Noah
+Wrong: 
+Value: $100
+Number: 8
+SPORTSTALK | "Breakfast at Wimbledon" | Tennis
+right: Carol
+Wrong: 
+Value: $100
+Number: 19
+PLAYBILL | Your quest is to name this musical, not an "Impossible Dream" | Man of La Mancha
+right: Rosie
+Wrong: 
+Value: $100
+Number: 11
+3-LETTER WORDS | It can be a female hare as well as a female deer | Doe
+right: Rosie
+Wrong: 
+Value: $100
+Number: 20
+NEW YORK CITY SONGS | In "I Am...I Said", he sang, "I'm New York City born and raised" | Neil Diamond
+right: 
+Wrong: 
+Noah: Who is Barry Manilow?
+Value: DD: $1,000
+Number: 9
+SPORTSTALK | "Super Sunday" | Football
+right: Noah
+Wrong: 
+Value: $200
+Number: 7
+PLAYBILL | "There's No Business Like" this show | Annie Get Your Gun
+right: Rosie
+Wrong: 
+Value: $200
+Number: 10
+3-LETTER WORDS | From the Latin for "I", it's the self, distinct from others; hope you don't have a big one | Ego
+right: Rosie
+Wrong: 
+Value: $200
+Number: 18
+NEW YORK CITY SONGS | Simon & Garfunkel's "59th Street Bridge Song" is also known as this | "Feeling Groovy"
+right: 
+Wrong: Triple Stumper
+Noah: "Bridge Over Troubled Water?"
+Value: $300
+Number: 14
+SPORTSTALK | "The Masters at Augusta" | Golf
+right: Rosie
+Wrong: 
+Value: $300
+Number: 4
+PLAYBILL | "Madame Butterfly" is the basis for this musical | Miss Saigon
+right: Noah
+Wrong: 
+Value: $300
+Number: 6
+3-LETTER WORDS | A short written version of your life | Bio
+right: Carol
+Wrong: 
+Value: $300
+Number: 17
+NEW YORK CITY SONGS | "Come and meet those dancing feet on the avenue I'm taking you to..." this one | 42nd Street
+right: Carol
+Wrong: 
+Value: $400
+Number: 13
+BRIDGE OF SIZE | You'll cross over this bay when taking the Sunshine Skyway Bridge to St. Petersburg, Florida | Tampa Bay
+right: 
+Wrong: Triple Stumper
+Rosie: What is Key Largo?
+Value: $400
+Number: 22
+SPORTSTALK | "The Boys of Summer" | Baseball
+right: Noah
+Wrong: 
+Value: $400
+Number: 3
+PLAYBILL | A No. 1 song by Falco was influenced by this play about Mozart | Amadeus
+right: Rosie
+Wrong: 
+Value: $400
+Number: 5
+3-LETTER WORDS | It can be the fluffy fashion accessory seen here or the animal seen here | Boa
+right: Carol
+Wrong: 
+Value: $400
+Number: 16
+NEW YORK CITY SONGS | They're the first 4 words of the "Theme from 'New York, New York'" | "Start spreading the news..."
+right: Carol
+Wrong: 
+Value: $500
+Number: 12
+BRIDGE OF SIZE | One of the world's longest railroad bridges, the Huey P. Long Bridge, is found in Metairie in this U.S. state | Louisiana
+right: 
+Wrong: Triple Stumper
+Carol: [accidentally rings in] No, I didn't mean that, & it buzzed in!
+Value: $500
+Number: 21
+SPORTSTALK | "March Madness" | College basketball
+right: Noah
+Wrong: 
+Value: $500
+Number: 2
+PLAYBILL | No horsing around, it won the 1975 Tony for Best Play | Equus
+right: Noah
+Wrong: 
+Value: $500
+Number: 1
+3-LETTER WORDS | It can mean to find fault repeatedly, or an old, worn-out horse | Nag
+right: Noah
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Rosie: $1,000
+Noah: $1,000
+Carol: $0
+Scores at the end of the Jeopardy! Round:
+Rosie: $900
+Noah: $1,200
+Carol: $1,200
+Second Jeopardy! Round: OLD NEW YORK, THE TONY AWARDS, TOLSTOY'S WAR AND PEACE, WILD WOMEN IN HISTORY, CRYSTAL CLEAR, FOREIGN WORDS & PHRASES
+THE TONY AWARDS | Former Tony nominee Cathy Rigby wowed the audience in 1999 with a high-flying number fron this musical | Peter Pan
+right: Carol
+Wrong: 
+Value: $200
+Number: 11
+OLD NEW YORK | The transit system called the EL, which was short for this, was largely demolished in the 1940s | Elevated train
+right: Noah
+Wrong: 
+Value: $400
+Number: 15
+THE TONY AWARDS | (Jane Bodle sings part of a song from "Les Miserables")  The Tony-winning musical "Les Miserables" is set mainly in this city | Paris
+right: Carol
+Wrong: 
+Value: DD: $600
+Number: 8
+WILD WOMEN IN HISTORY | Messalina, empress of this, messed around so much her husband Claudius had her executed | Rome
+right: Carol
+Wrong: 
+Value: $400
+Number: 21
+FOREIGN WORDS & PHRASES | Verboten | Forbidden
+right: Rosie
+Wrong: 
+Carol: What is the truth?
+Value: $400
+Number: 10
+OLD NEW YORK | This newspaper that had a square named for it merged with the Tribune in 1924 | New York Herald
+right: Carol
+Wrong: 
+Value: $600
+Number: 14
+THE TONY AWARDS | Hot Dog!  Roger Bart won for playing this role in "You're A Good Man, Charlie Brown" | Snoopy
+right: Carol
+Wrong: 
+Value: $600
+Number: 7
+WILD WOMEN IN HISTORY | The Everleigh sisters (not to be confused with the Everly Brothers) ran the fanciest bordello in this Illinois city | Chicago
+right: Noah
+Wrong: 
+Value: $600
+Number: 17
+CRYSTAL CLEAR | Type of display displayed here | Liquid crystal
+right: 
+Wrong: Triple Stumper
+Rosie: What is crystal digital...?
+Value: $600
+Number: 19
+FOREIGN WORDS & PHRASES | Mano a mano | Hand-to-hand
+right: Carol
+Wrong: 
+Rosie: What is man-to-man?
+Value: $600
+Number: 9
+OLD NEW YORK | (Hi, I'm Vanna White at the Empire State Building)  The previous building that stood here was this hyphenated hotel | (Old) Waldorf-Astoria
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 13
+THE TONY AWARDS | He wasn't the "low man" on the totem pole: he won for playing Willy Loman in 1999 | Brian Dennehy
+right: Carol
+Wrong: 
+Value: $800
+Number: 5
+WILD WOMEN IN HISTORY | Upset by her public image, this partner of Clyde said she wanted folks to know she didn't really smoke cigars | Bonnie Parker
+right: Noah
+Wrong: 
+Value: $800
+Number: 16
+CRYSTAL CLEAR | This brand of bottled water from the Olancha Peak calls itself "Natural Alpine Spring Water" | Crystal Geyser
+right: Noah
+Wrong: 
+Rosie: What is Poland Spring?...I forgot the "crystal".
+Value: $800
+Number: 18
+FOREIGN WORDS & PHRASES | La dolce vita | The good life
+right: Rosie
+Wrong: 
+Value: $800
+Number: 4
+OLD NEW YORK | This Broadway hangout with delicious cheesecake was named for proprietor Leo Lindemann | Lindy's
+right: Carol
+Wrong: 
+Value: $1000
+Number: 12
+THE TONY AWARDS | This British actress followed up her "Shakespeare in Love" Oscar win with a Tony for "Amy's View" | Judi Dench
+right: Carol
+Wrong: 
+Noah: Who is Gwyneth Paltrow?
+Value: $1000
+Number: 1
+TOLSTOY'S WAR AND PEACE | As you probably read it in the original Russian, you know the title is "Voina I" this, like the space station | Mir
+right: Carol
+Wrong: 
+Noah: What is Sputnik?
+Value: $1000
+Number: 20
+WILD WOMEN IN HISTORY | She dumped her husband around 1902 & embarked on a life of lustful liaisons, nearly-nude dancing & spying | Mata Hari
+right: Noah
+Wrong: 
+Value: $1000
+Number: 2
+CRYSTAL CLEAR | Crystal deposits in the joints can cause gout or pseudogout, a type of this inflammatory condition | Arthritis
+right: Rosie
+Wrong: 
+Value: $1000
+Number: 6
+FOREIGN WORDS & PHRASES | Requiescat in pace (on a tombstone) | Rest in peace
+right: Carol
+Wrong: 
+Value: $1000
+Number: 3
+Scores at the end of the Double Jeopardy! Round:
+Rosie: $1,100
+Noah: $2,800
+Carol: $8,600
+
+Final Jeopardy! Round
+FAMOUS NAMES | On a Feb. 1995 shuttle mission, pilot Eileen Collins took along a scarf that had belonged to this woman | Amelia Earhart
+right: Carol
+Wrong: 
+Rosie: Who McCalla?
+Noah: Who is Susan B. Anthony
+Wagers: 
+Rosie: $1,100
+Noah: $2,800
+Carol: $1,000
+Final scores:
+Rosie: $0 (3rd place: $10,000 for CHARLEE (Children Have All Rights Legal, Emotional & Educational) Foundation of Miami)
+Noah: $0 (2nd place: $10,000 for Habitat for Humanity & Best Friends animal shelter reserve)
+Carol: $9,600 (Winner: $15,000 for Broadway Cares/Equity Fights AIDS)
+
+Coryat scores
+Rosie: $1,100 (9 R,4 W)
+Noah: $3,800 (12 R,4 W(including 1 DD))
+Carol: $8,400 (16 R(including 1 DD),2 W)

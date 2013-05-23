@@ -1,0 +1,350 @@
+4566 - Monday, June 14, 2004
+Comments: Ken Jennings game 9.
+Contestants:
+Joe Riley: a bartender from Reisterstown, Maryland
+Carla DenHartog: a technical writer from Burlington, Vermont
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 8-day cash winnings total $266,158)
+First Jeopardy! Round: WORLD WAR I, NAME THAT MOVIE, MIDDLE NAMES, SPOT THE KITTY, MEMORIALS, ADD A LETTER
+WORLD WAR I | On May 8, 1915 the New York Times headline read: This British liner "sunk by a submarine" | the Lusitania
+right: Ken
+Wrong: 
+Joe: What is the Louisitania [pronounced as loo-eese]?
+Value: $200
+Number: 22
+NAME THAT MOVIE | 1991: <http://www.j-archive.com/media/2004-06-14_J_06.mp3> "Well, Clarice, have the lambs stopped screaming?" | The Silence of the Lambs
+right: Joe
+Wrong: 
+Value: $200
+Number: 6
+MIDDLE NAMES | Actor Christopher Kutcher uses this middle name as his first | Ashton
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+SPOT THE KITTY | The Iranian, the Persian, the Zoroastrian | Persian
+right: Joe
+Wrong: 
+Value: $200
+Number: 21
+MEMORIALS | The U.S. Marine Corps War Memorial stands near the north gate of this Virginia site | Arlington National Cemetery
+right: Ken
+Wrong: 
+Joe: What is the Pentagon?
+Value: $200
+Number: 16
+ADD A LETTER | Add this letter to rim & it becomes the rim of a hat | B
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+WORLD WAR I | In 1918 the U.S. military revived this newspaper which originated in the Civil War | Stars & Stripes
+right: Ken
+Wrong: 
+Value: $400
+Number: 23
+NAME THAT MOVIE | 1961: "When you're a Jet, you're a Jet all the way" | West Side Story
+right: Joe
+Wrong: 
+Value: $400
+Number: 7
+MIDDLE NAMES | We should see a light bulb above your head if you know that this man's middle name was Alva | Thomas Edison
+right: Carla
+Wrong: 
+Value: $400
+Number: 2
+SPOT THE KITTY | The Wight, the Manx, the Orkney | Manx
+right: Carla
+Wrong: 
+Value: $400
+Number: 27
+MEMORIALS | Fort Caroline is a memorial to this country's 16th c. attempt to establish a permanent colony in what's now Fla. | France
+right: Carla
+Wrong: 
+Joe: What is Spain?
+Value: $400
+Number: 17
+ADD A LETTER | When is a surgeon like a fish? -- When you add this letter to it | T
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+WORLD WAR I | The Germans invaded this country on Aug. 4, 1914 & were soon accused of atrocities there | Belgium
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 24
+NAME THAT MOVIE | 2003: "If you are fighting, stop fighting. If you are marching, stop marching. Come back to me..." | Cold Mountain
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+MIDDLE NAMES | John F. Kennedy's middle name was Fitzgerald & Robert F. Kennedy's was this | Francis
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+SPOT THE KITTY | The Vietnamese, the Cambodian, the Burmese | Burmese
+right: Carla
+Wrong: 
+Value: $600
+Number: 28
+MEMORIALS | On April 15, 1962 memorials were held in remembrance of this tragic event's 50th anniversary | sinking of the Titanic
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+ADD A LETTER | Add this letter to crate & it becomes a big bowl-shaped depression | R
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+WORLD WAR I | In the Treaty of Brest-Litovsk, Russia gave up a lot of territory to Germany, including these 3 Baltic states | Estonia, Latvia, & Lithuania
+right: Carla
+Wrong: 
+Value: $800
+Number: 25
+NAME THAT MOVIE | "Hokey religions & ancient weapons are no match for a good blaster at your side, kid" | Star Wars
+right: Joe
+Wrong: 
+Value: $800
+Number: 9
+MIDDLE NAMES | This artist's middle names were Abbott McNeill; just ask his mother | James Whistler
+right: Carla
+Wrong: 
+Value: $800
+Number: 4
+SPOT THE KITTY | The Russian green, the Russian black, the Russian blue | Russian Blue
+right: Carla
+Wrong: 
+Value: $800
+Number: 29
+MEMORIALS | (<http://www.j-archive.com/media/2004-06-14_J_19.jpg> Cheryl of the Clue Crew provides the clue from Pearl Harbor in Hawaii.)  The Pearl Harbor Memorial I'm <http://www.j-archive.com/media/2004-06-14_J_19a.jpg> visiting spans the hull of this battleship that was sunk December 7, 1941 | the U.S.S. Arizona
+right: Carla
+Wrong: 
+Value: $800
+Number: 19
+ADD A LETTER | This letter turns a pony into a flower | E
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+WORLD WAR I | In Sept. 1914, in the Battle of this river near Paris, French reinforcements were sped to the front in taxicabs | the Marne
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+NAME THAT MOVIE | 1944: "You know how to whistle, don't you, Steve? Just put your lips together and blow" | To Have and Have Not
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+MIDDLE NAMES | It's what the middle initial "E" stood for in Robert E. Lee's name | Edward
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+SPOT THE KITTY | The Himalayan, the Caucasian, the Uralian | Himalayan
+right: Carla
+Wrong: 
+Value: $1000
+Number: 30
+MEMORIALS | The national memorial that commemorates this 1889 disaster preserves what's left of the South Fork Dam | the Johnstown flood
+right: 
+Wrong: 
+Carla: What is the Johnsontown flood?
+Value: DD: $1,000
+Number: 20
+ADD A LETTER | Add this letter to plant & it becomes easily bent | I
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $5,400
+Carla: $1,200
+Joe: $1,400
+Scores at the end of the Jeopardy! Round:
+Ken: $6,800
+Carla: $5,000
+Joe: $800
+Second Jeopardy! Round: PRESIDENTS, BROADWAY, WOMEN WRITERS, HEAVENS TO BETSY!, HITHER & YON, YOU'RE GOING TO "POT"
+PRESIDENTS | Though only 5'7", this founding father was called "The Colossus of Independence" | John Adams
+right: 
+Wrong: Triple Stumper
+Ken: Who is Madison?
+Carla: Who is Truman?
+Joe: Who is Jefferson?
+Value: $400
+Number: 11
+BROADWAY | With puppets like <http://www.j-archive.com/media/2004-06-14_DJ_01.jpg> Lucy the Vamp, the musical "Avenue Q" has been called "South Park" -meets-this show | Sesame Street
+right: Carla
+Wrong: 
+Value: $400
+Number: 1
+WOMEN WRITERS | A sonnet by this poet ends, "And, if God choose, I shall but love thee better after death" | Elizabeth Barrett Browning
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+HEAVENS TO BETSY! | If you can't visit her home at 239 Arch Street in Philadelphia, take a virtual tour of it on the web | Betsy Ross
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+HITHER & YON | Both in size & population it's by far the largest city in Iraq | Baghdad
+right: Joe
+Wrong: 
+Value: $400
+Number: 26
+YOU'RE GOING TO "POT" | Chinese dumpling steamed or fried | potstickers
+right: Ken
+Wrong: 
+Value: $400
+Number: 18
+PRESIDENTS | In 1921 this big wheel rode to his inauguration in a Packard Twin Six convertible | Warren G. Harding
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+BROADWAY | Dule Hill of "The West Wing" tapped his way into the original Broadway cast of this "noisy" Savion Glover show | Bring in 'Da Noise, Bring in 'Da Funk
+right: Joe
+Wrong: 
+Carla: What is Stomp?
+Value: $800
+Number: 2
+WOMEN WRITERS | "Welcome to the World, Baby Girl!" is a recent book by this Southern novelist & TV personality | Fannie Flagg
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+HEAVENS TO BETSY! | Betsy Blair was nominated for a 1955 Oscar for playing Ernest Borgnine's shy girlfriend in this film | Marty
+right: Joe
+Wrong: 
+Value: $800
+Number: 17
+HITHER & YON | This North American country's name may come from a word meaning "collection of huts" | Canada
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+YOU'RE GOING TO "POT" | It killed about one million Irish in the 1840s | the potato famine
+right: Joe
+Wrong: 
+Value: $800
+Number: 22
+PRESIDENTS | A special luncheon at the 1901 expo in Buffalo for this President's wife went on without her | William McKinley
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+BROADWAY | Fresh from his Oscar nomination for "The Cooler", he warmed up Broadway in "Twentieth Century" | Alec Baldwin
+right: Joe
+Wrong: 
+Value: $1200
+Number: 3
+WOMEN WRITERS | "The Window" & "Time Passes" are sections of her stream-of-consciousness novel "To the Lighthouse" | Virginia Woolf
+right: Ken
+Wrong: 
+Carla: Who is Rand?
+Value: $1200
+Number: 8
+HEAVENS TO BETSY! | In the film "The Betsy", the Betsy is one of these that Laurence Olivier names for his great-granddaughter | a car
+right: 
+Wrong: 
+Ken: What is a flower?
+Value: DD: $2,600
+Number: 19
+HITHER & YON | For the first time since the ice age, this country has been joined to Western Europe by a 10-mile bridge to Malmo | Sweden
+right: 
+Wrong: 
+Ken: What is Denmark?
+Value: DD: $1,800
+Number: 28
+YOU'RE GOING TO "POT" | Home furnishing store founded in 1949 that sounds like a good place to buy a 9th anniversary gift | Pottery  Barn
+right: Carla
+Wrong: 
+Value: $1200
+Number: 23
+PRESIDENTS | President in the 1850s, his name inspired a comic strip about a duck | Millard Fillmore
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+BROADWAY | This Rodgers & Hammerstein musical "bloomed" again on Broadway in 2002, with Lea Salonga as Mei-Li | Flower Drum Song
+right: Ken
+Wrong: 
+Value: $1600
+Number: 4
+WOMEN WRITERS | "Middlemarch" is one of her masterpieces | George Eliot
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+HEAVENS TO BETSY! | She was perhaps best-known as a game show panelist before she played Jason's mother in "Friday the 13th" | Betsy Palmer
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+HITHER & YON | Under British protection until 1971, it's an island Emirate in the Persian Gulf | Bahrain
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+YOU'RE GOING TO "POT" | Theodore Roosevelt Island is a 91-acre national wilderness park found in this river | Potomac
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+PRESIDENTS | 2004 is the bicentennial year of this President born in Hillsboro, New Hampshire | Franklin Pierce
+right: Carla
+Wrong: 
+Value: $2000
+Number: 15
+BROADWAY | Jane Krakowski is seen <http://www.j-archive.com/media/2004-06-14_DJ_05.jpg> here making a spectacular entrance in this show, based on Fellini's film, "8 1/2" | Nine
+right: Carla
+Wrong: 
+Value: $2000
+Number: 5
+WOMEN WRITERS | Her 1899 book "The Awakening" shocked critics with its frankness about women's emotional lives | Kate Chopin
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+HEAVENS TO BETSY! | A 19th century song tells the tale of this gal "who crossed the wide prairie with her lover Ike" | Betsy from Pike
+right: Ken
+Wrong: 
+Value: $2000
+Number: 21
+HITHER & YON | You'll find the Sea of Azov between these 2 countries, comrade | Russia & Ukraine
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+YOU'RE GOING TO "POT" | Its atomic number is 19 | Potassium
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ken: $22,000
+Carla: $8,200
+Joe: $4,400
+
+Final Jeopardy! Round
+ON EXHIBIT | The Chinese government, which controls all of these in the U.S., won't let a new one be named until it's 100 days old | giant pandas
+right: Carla | Ken
+Wrong: 
+Joe: What are ?
+Wagers: 
+Joe: $3,800
+Carla: $601
+Ken: $3,000
+Final scores:
+Ken: $25,000 (9-day champion: $291,158)
+Carla: $8,801 (2nd place: $2,000)
+Joe: $600 (3rd place: $1,000)
+
+Coryat scores
+Ken: $26,400 (29 R,3 W(including 2 DDs))
+Carla: $9,200 (13 R,4 W(including 1 DD))
+Joe: $4,400 (9 R,4 W)

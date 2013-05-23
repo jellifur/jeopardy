@@ -1,0 +1,351 @@
+3560 - Friday, February 11, 2000
+Comments: 2000-A College Championship quarterfinal game 5.
+Contestants:
+Molley Jesse: a senior at the University of Virginia from Columbia, South Carolina
+Greg Hodgin: a senior at Emory University from Columbia, South Carolina
+Gwyneth Connell: a senior at Amherst College from Great Barrington, Massachusetts
+First Jeopardy! Round: SAT: VERBAL, ARCHAEOLOGY, THE PRODUCE DEPT., NEW OLYMPIC SPORTS, U.S. PRESIDENTS, DROPOUTS
+SAT: VERBAL | Here's an analogy: Tuesday is to week as May is to this | Year
+right: Gwyneth
+Wrong: 
+Greg: What is month?
+Value: $100
+Number: 6
+ARCHAEOLOGY | This boy pharaoh's tomb was discovered in 1922; that of his wet nurse, in 1999 | King Tut
+right: Greg
+Wrong: 
+Value: $100
+Number: 21
+THE PRODUCE DEPT. | Yukon Gold & Russet | Potatoes
+right: Molley
+Wrong: 
+Value: $100
+Number: 1
+NEW OLYMPIC SPORTS | In 2000, women will compete for the first time in this sport that uses a pool, 2 nets & an inflatable ball | Water polo
+right: Greg
+Wrong: 
+Value: $100
+Number: 26
+U.S. PRESIDENTS | Bill Clinton's middle name, it's also the last name of another president | Jefferson
+right: Greg
+Wrong: 
+Value: $100
+Number: 11
+DROPOUTS | He abandoned his studies at Harvard after his junior year to co-found Microsoft & got filthy rich | Bill Gates
+right: Greg
+Wrong: 
+Value: $100
+Number: 2
+SAT: VERBAL | It can be a bum, an old abandoned ship, or an adjective meaning lacking a sense of duty | Derelict
+right: Gwyneth
+Wrong: 
+Value: $200
+Number: 7
+ARCHAEOLOGY | A fossil found in Portugal may have been the child of Neanderthals & these early modern humans | Cro-Magnon
+right: Greg
+Wrong: 
+Value: $200
+Number: 22
+THE PRODUCE DEPT. | Bing & Royal Ann | Cherries
+right: Gwyneth
+Wrong: 
+Value: $200
+Number: 17
+NEW OLYMPIC SPORTS | The devices used in this new Olympic sport can propel somersaulting gymnasts up to 30 feet in the air | Trampoline
+right: Greg
+Wrong: 
+Value: $200
+Number: 27
+U.S. PRESIDENTS | In 1927 this future president created the Georgia Warm Springs Foundation to help polio victims | Franklin D. Roosevelt
+right: Greg
+Wrong: 
+Gwyneth: Who is Carter?
+Value: $200
+Number: 12
+DROPOUTS | Ben Affleck left college for Hollywood; this co-screenwriter left Harvard just shy of graduation | Matt Damon
+right: Gwyneth
+Wrong: 
+Value: $200
+Number: 3
+SAT: VERBAL | A synonym for glinting, it's what the twilight is doing in "The Star-Spangled Banner" | Gleaming
+right: Greg
+Wrong: 
+Gwyneth: What is glaring?
+Value: $300
+Number: 8
+ARCHAEOLOGY | Otzi, a man found frozen in 1991, attempted to cross this European mountain chain 5,000 years ago | Alps
+right: Greg
+Wrong: 
+Value: $300
+Number: 23
+THE PRODUCE DEPT. | Fuji & Jonathan | Apples
+right: Greg
+Wrong: 
+Value: $300
+Number: 18
+NEW OLYMPIC SPORTS | The IOC recently granted provisional recognition to this ancient sport, one of Japan's most popular | Sumo wrestling
+right: Molley
+Wrong: 
+Value: $300
+Number: 28
+U.S. PRESIDENTS | Talk about a checkered past!  In 1952 he gave his famous "Checkers" speech | Richard Nixon
+right: Gwyneth
+Wrong: 
+Value: $300
+Number: 13
+DROPOUTS | He went to UCLA to study film but dropped out; he ended up directing & co-starring in "Reality Bites" & "The Cable Guy" | Ben Stiller
+right: 
+Wrong: Triple Stumper
+Greg: Who is Matthew Broderick?
+Value: $300
+Number: 4
+SAT: VERBAL | Of Laurel, Hardy, Rowan & Martin, the 2 that are trees | Laurel & Rowan
+right: Molley
+Wrong: 
+Value: $400
+Number: 9
+ARCHAEOLOGY | Italy is seeking a new caretaker for this historical site which, like Pompeii, was buried by Mount Vesuvius | Herculaneum
+right: Greg
+Wrong: 
+Value: $400
+Number: 24
+THE PRODUCE DEPT. | Shiitake & Portobello | Mushrooms
+right: Gwyneth
+Wrong: 
+Value: $400
+Number: 19
+NEW OLYMPIC SPORTS | At the 1998 Winter Olympics, the USA's Ross Powers won the bronze in the halfpipe event in this new Olympic sport | Snowboarding
+right: Gwyneth
+Wrong: 
+Value: $400
+Number: 29
+U.S. PRESIDENTS | Stephen was the real first name of this president who served 2 non-consecutive terms | Grover Cleveland
+right: Molley
+Wrong: 
+Value: $400
+Number: 14
+DROPOUTS | Left Temple University in the '60s to be a comic, was in one of the biggest '80s sitcoms & sold Jell-O | Bill Cosby
+right: Molley
+Wrong: 
+Value: $400
+Number: 5
+SAT: VERBAL | When given freedom of action or choice, you're given this type of line that encircles the world | Latitude
+right: Molley
+Wrong: 
+Gwyneth: What is meridian?
+Value: $500
+Number: 10
+ARCHAEOLOGY | Kennewick Man, discovered in 1996 in this state, has sparked a custody battle between Native Americans & scientists | Washington
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+THE PRODUCE DEPT. | Bosc & Seckel | Pears
+right: Gwyneth
+Wrong: 
+Value: $500
+Number: 20
+NEW OLYMPIC SPORTS | This new Olympic martial arts sport was founded in the 1950s by General Choi Hong Hi | Taekwondo
+right: Gwyneth
+Wrong: 
+Value: $500
+Number: 30
+U.S. PRESIDENTS | Seen here in his youth, he was a handsome Army officer, generally speaking: | Dwight D. Eisenhower
+right: Molley
+Wrong: 
+Value: DD: $700
+Number: 15
+DROPOUTS | In 1996, after winning his third U.S. Amateur title, he left Stanford to turn pro | Tiger Woods
+right: Molley
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Gwyneth: -$200
+Greg: $300
+Molley: $1,700
+Scores at the end of the Jeopardy! Round:
+Gwyneth: $1,800
+Greg: $1,900
+Molley: $2,100
+Second Jeopardy! Round: SAT: MATH, U.S. STATE NAMES, MUSIC CLASS, THIS OLD HAUNTED HOUSE, LITERARY TRILOGIES, FILE UNDER "L"
+SAT: MATH | 3 squared is 9; 1/3 squared is this | 1/9
+right: Greg
+Wrong: 
+Value: $200
+Number: 18
+U.S. STATE NAMES | Literally, this state's name means "Penn's Woods" | Pennsylvania
+right: Gwyneth
+Wrong: 
+Value: $200
+Number: 3
+MUSIC CLASS | In 1928 this American wrote his tone poem "An American in Paris" | George Gershwin
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+THIS OLD HAUNTED HOUSE | The Ward House in this Massachusetts city is haunted by the ghost of witchcraft victim Giles Cory | Salem
+right: Gwyneth
+Wrong: 
+Value: $200
+Number: 20
+LITERARY TRILOGIES | Trilogy consisting of "The Fellowship of the Ring", "The Two Towers" & "The Return of the King" | "Lord of the Rings"
+right: Greg
+Wrong: 
+Value: $200
+Number: 8
+FILE UNDER "L" | His gospel ends, "...and were continually in the temple, praising and blessing God.  Amen" | Luke
+right: Molley
+Wrong: 
+Value: $200
+Number: 13
+SAT: MATH | Hey, gimme this, the sum of the 2 smallest prime numbers | 5 (2 + 3)
+right: Molley
+Wrong: 
+Gwyneth: What is 2?
+Greg: What is 3?
+Value: $400
+Number: 19
+U.S. STATE NAMES | It's named for a Great Lake | Michigan
+right: Gwyneth
+Wrong: 
+Value: $400
+Number: 4
+MUSIC CLASS | This type of singing that alternates between a low voice & falsetto is popular in the Alps & with Jewel | Yodeling
+right: Molley
+Wrong: 
+Value: $400
+Number: 2
+THIS OLD HAUNTED HOUSE | A friendly ghost of a young woman haunts the current governor's mansion in this Virginia city | Richmond
+right: Gwyneth
+Wrong: 
+Value: $400
+Number: 21
+LITERARY TRILOGIES | "Palace of Desire" is the second novel in Naguib Mahfouz' trilogy about an Egyptian family in this capital city | Cairo
+right: Molley
+Wrong: 
+Value: $400
+Number: 9
+FILE UNDER "L" | A lake of this, not water, sometimes fills Kilauea | Lava
+right: Molley
+Wrong: 
+Value: $400
+Number: 14
+SAT: MATH | Rob & Larry agreed to split their profits (Rob 60%, Larry 40%); if they made $20 Rob would get this much | $12
+right: Greg
+Wrong: 
+Gwyneth: What is $8?
+Value: $600
+Number: 24
+U.S. STATE NAMES | This state's name is derived from an Indian word for "flat water", a reference to the Platte River | Nebraska
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 5
+MUSIC CLASS | Legato is the opposite of this direction that tells a pianist to play with abrupt breaks between notes | Staccato
+right: Greg
+Wrong: 
+Value: $600
+Number: 23
+THIS OLD HAUNTED HOUSE | Her home for a time, Hollywood's Roosevelt Hotel boasts the ghost of this sex symbol who died in 1962 | Marilyn Monroe
+right: Molley
+Wrong: 
+Value: $600
+Number: 22
+LITERARY TRILOGIES | The narrator of "The Unnamable", part of an odd prose trilogy by this "Waiting for Godot" author, lived in a jar | Samuel Beckett
+right: Molley
+Wrong: 
+Value: $600
+Number: 10
+FILE UNDER "L" | "Metropolis" filmmaker Fritz, or bluesman Jonny | Lang
+right: Molley
+Wrong: 
+Value: $600
+Number: 15
+SAT: MATH | If 100-pound Kathy steps on a scale holding 2 5-ounce bags of candy, the scale will read this many ounces | 1610
+right: Greg
+Wrong: 
+Gwyneth: What is 170?
+Value: $800
+Number: 25
+U.S. STATE NAMES | In 1629 Captain John Mason named it for his home county in England | New Hampshire
+right: Greg
+Wrong: 
+Value: $800
+Number: 6
+MUSIC CLASS | He composed the lively piano sonata heard here: | W.A. Mozart
+right: Molley
+Wrong: 
+Value: $800
+Number: 28
+THIS OLD HAUNTED HOUSE | This 19th C. man's ghost appears at Loudon Cottage, once owned by the woman who sat next to him when he was shot | Abraham Lincoln
+right: Gwyneth
+Wrong: 
+Value: $800
+Number: 27
+LITERARY TRILOGIES | Orestes is the hero of this tragic trilogy that was first performed in 458 B.C. | "The Oresteia"
+right: 
+Wrong: Triple Stumper
+Gwyneth: What is "The Flies?"
+Value: $800
+Number: 11
+FILE UNDER "L" | In California, car buyers know the Tanner Consumer Protection Act as this "fruity" law | "Lemon" law
+right: Molley
+Wrong: 
+Value: $800
+Number: 16
+SAT: MATH | In 90 minutes a minute hand will travel this many degrees | 540 (360 + 180)
+right: Greg
+Wrong: 
+Value: DD: $1,300
+Number: 26
+U.S. STATE NAMES | Rev. Allen Wright, a Choctaw Indian, was responsible for giving this state a Choctaw name meaning "red people" | Oklahoma
+right: Greg
+Wrong: 
+Value: $1000
+Number: 7
+MUSIC CLASS | Presented in 1692, "The Fairy Queen" by Purcell was the first opera based on this Shakespeare play | "A Midsummer Night's Dream"
+right: 
+Wrong: 
+Value: DD: $1,600
+Number: 29
+THIS OLD HAUNTED HOUSE | A British officer who drowned in the Thames River nearby haunts Eldon House in this Canadian province | Ontario
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+LITERARY TRILOGIES | "Number One" is actually the number two novel in a trilogy by this author of "U.S.A." | John Dos Passos
+right: Molley
+Wrong: 
+Value: $1000
+Number: 12
+FILE UNDER "L" | This British medical journal's October 30, 1999 issue was number 9189 | The Lancet
+right: Greg
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Gwyneth: $1,200
+Greg: $8,000
+Molley: $5,900
+
+Final Jeopardy! Round
+MAMMALS | The 2 mammals that live at the highest altitude on a permanent basis are the pika & this animal | Yak
+right: 
+Wrong: 
+Gwyneth: What is the mountain g
+Molley: What is the llama?
+Greg: What are llamas?
+Wagers: 
+Gwyneth: $1,200
+Molley: $2,100
+Greg: $0
+Final scores:
+Gwyneth: $0 (3rd place: $2,500 if eliminated)
+Greg: $8,000 (Automatic semifinalist)
+Molley: $3,800 (2nd place: $2,500 if eliminated)
+
+Coryat scores
+Gwyneth: $1,200 (14 R,7 W)
+Greg: $7,700 (20 R(including 1 DD),3 W)
+Molley: $7,300 (19 R(including 1 DD),6 W(including 1 DD))

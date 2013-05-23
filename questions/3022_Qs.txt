@@ -1,0 +1,298 @@
+2927 - Tuesday, April 29, 1997
+Comments: 1997 Celebrity <i>Jeopardy!</i> game 2.
+Contestants:
+Patrick Duffy: an actor from Step by Step
+Sharon Lawrence: an actress from Fired Up
+Chris Hardwick: a television personality from Singled Out
+First Jeopardy! Round: EASY HISTORY, KITCHEN UTENSILS, "M"TV, MOUNTAINS, SUPERSTITION, HOORAY FOR HOLLYWOOD
+EASY HISTORY | In 1993 this country split into Slovakia & the Czech Republic | Czechoslovakia
+right: Patrick
+Wrong: 
+Value: $100
+Number: 4
+KITCHEN UTENSILS | From an Old English word for "to load", it's the deep-bowled, long-handled spoon used for serving soup | ladle
+right: Chris
+Wrong: 
+Value: $100
+Number: 3
+"M"TV | This long-running series centered on the adventures of mystery author Jessica Fletcher | Murder, She Wrote
+right: Patrick
+Wrong: 
+Value: $100
+Number: 5
+MOUNTAINS | The Apennine range runs the length of this Mediterranean country's boot-shaped peninsula | Italy
+right: Patrick
+Wrong: 
+Value: $100
+Number: 6
+SUPERSTITION | On their wedding day, tradition says the bride & groom shouldn't do this before the ceremony | see each other
+right: Sharon
+Wrong: 
+Value: $100
+Number: 1
+HOORAY FOR HOLLYWOOD | A pizzeria, a souvenir shop, a candy factory & a defunct loan co, now stand at Hollywood Blvd. & this street | Vine
+right: Sharon
+Wrong: 
+Value: $100
+Number: 2
+EASY HISTORY | In 1869 the U.S. Transcontinental Railroad was completed & this canal opened in the Mideast | Suez Canal
+right: Patrick
+Wrong: 
+Value: $200
+Number: 7
+KITCHEN UTENSILS | One of these may be lemon, ginger or cheese, & it can be flat, curved or box shaped | grater
+right: Patrick
+Wrong: 
+Value: $200
+Number: 11
+"M"TV | The title character of this series is "F.Y.I."'s veteran star reporter | Murphy Brown
+right: Chris
+Wrong: 
+Value: $200
+Number: 16
+MOUNTAINS | This sacred Japanese volcano last erupted in 1707 | Mount Fuji
+right: Patrick
+Wrong: 
+Value: $200
+Number: 18
+SUPERSTITION | If you spill the salt, cancel the bad luck you're going to have by doing this | throw the salt over your shoulder
+right: Patrick
+Wrong: 
+Value: $200
+Number: 13
+EASY HISTORY | As of 1206 he formally wore the title "Great Khan of the Mongols" | Genghis Khan
+right: Patrick
+Wrong: 
+Value: $300
+Number: 8
+KITCHEN UTENSILS | Handy kitchen utensil used by the farmer's wife to perform a tailectomy on 3 blind mice | carving knife
+right: Chris
+Wrong: 
+Value: $300
+Number: 12
+"M"TV | On this '80s cop show, Det. Sonny Crockett shared his boat with a pet alligator named Elvis | Miami Vice
+right: Chris
+Wrong: 
+Value: $300
+Number: 17
+MOUNTAINS | The Incan ruins of Machu Picchu in this South American range are named for a nearby peak | the Andes
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 19
+SUPERSTITION | A ring around the moon means this weather condition will soon occur | snow
+right: Sharon
+Wrong: 
+Value: $300
+Number: 21
+EASY HISTORY | He resigned as head of China's government in 1959 but remained head of the Chinese Communists | Mao Tse-tung
+right: Patrick
+Wrong: 
+Value: $400
+Number: 9
+KITCHEN UTENSILS | What the Japanese call hashi, we call these eating utensils | chopsticks
+right: Sharon
+Wrong: 
+Value: $400
+Number: 14
+"M"TV | The 2 Paul Reiser sitcoms that fit the category | Mad About You
+right: Chris
+Wrong: 
+Value: $400
+Number: 20
+SUPERSTITION | The name of this lucky object is from the Irish for "little clover" | shamrock
+right: 
+Wrong: Triple Stumper
+Sharon: What is a klamath?
+Value: $400
+Number: 23
+EASY HISTORY | When this country won its independence from Great Britain in 1921, Ulster didn't go with it | Ireland
+right: Patrick
+Wrong: 
+Chris: What is India?
+Value: $500
+Number: 10
+KITCHEN UTENSILS | This device has a small receptacle in which to place the clove & a plunger to push down on it | garlic press
+right: Patrick
+Wrong: 
+Value: $500
+Number: 15
+"M"TV | In 1993 Russell Baker took over as host of this PBS anthology series | Masterpiece Theater
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Chris: -$100
+Sharon: $200
+Patrick: $1,900
+Scores at the end of the Jeopardy! Round:
+Chris: $800
+Sharon: $500
+Patrick: $2,800
+Second Jeopardy! Round: TOUGH HISTORY, NEWS MEDIA, MEDICAL KNOW-HOW, TRAVEL & TOURISM, FAMOUS WOMEN, LITERATURE
+TOUGH HISTORY | Just before the founding of the Plymouth colony in 1620, the Pilgrims signed a compact on this ship | the Mayflower
+right: Sharon
+Wrong: 
+Value: $200
+Number: 19
+NEWS MEDIA | The "Weekly World News" headline "Bigfoot Captured!" is typical of these supermarket newspapers | tabloids
+right: Patrick
+Wrong: 
+Value: $200
+Number: 6
+MEDICAL KNOW-HOW | This organ has a natural pacemaker, but if it goes bad an artificial one may be used | heart
+right: Patrick
+Wrong: 
+Value: $200
+Number: 2
+TRAVEL & TOURISM | This 4-storied amphitheater of central Rome has been consecrated as a monument to Christian martyrdom | the Colosseum
+right: Sharon
+Wrong: 
+Value: $200
+Number: 26
+FAMOUS WOMEN | This glamorous actress & close friend of Michael Jackson has been named godmother to Jackson's son | Elizabeth Taylor
+right: Chris
+Wrong: 
+Value: $200
+Number: 1
+LITERATURE | Roderick & Madeline are the doomed twins in his scary 1839 story "The Fall of the House of Usher" | Edgar Allan Poe
+right: Sharon
+Wrong: 
+Value: $200
+Number: 13
+TOUGH HISTORY | The 1494 Treaty of Tordesillas divided the New World between Portugal & this neighboring country | Spain
+right: Patrick
+Wrong: 
+Value: $400
+Number: 20
+NEWS MEDIA | His name was dropped from "The MacNeil-Lehrer Newshour" after his retirement in October 1995 | Robert MacNeil
+right: Sharon
+Wrong: 
+Patrick: Who is Lehrer?
+Value: $400
+Number: 7
+MEDICAL KNOW-HOW | Of 10, 20 or 30, the percentage experts say should be the maximum amount of fat in your diet | 30
+right: Chris
+Wrong: 
+Sharon: This is a tough one, what is 20%?
+Patrick: What is 10?
+Value: $400
+Number: 3
+TRAVEL & TOURISM | This resort island "26 Miles Across the Sea" from Los Angeles was once a haven for smugglers | Catalina Island
+right: Patrick
+Wrong: 
+Value: $400
+Number: 27
+FAMOUS WOMEN | Eleanor Gow is the real name of this supermodel seen here: | Elle Macpherson
+right: Chris
+Wrong: 
+Value: DD: $2,400
+Number: 12
+LITERATURE | "The Miller's Tale" is one of the bawdiest stories in this collection of Chaucer "Tales" | "The Canterbury Tales"
+right: Sharon
+Wrong: 
+Value: $400
+Number: 17
+TOUGH HISTORY | In 1823 the U.S. lacked the military power to back up this president's "Doctrine" | James Monroe
+right: Patrick
+Wrong: 
+Value: $600
+Number: 21
+NEWS MEDIA | This church produces "Monitor Radio" as well as a newspaper with "Monitor" in its name | Christian Science
+right: Sharon
+Wrong: 
+Value: $600
+Number: 8
+MEDICAL KNOW-HOW | Hundreds of hereditary diseases can be diagnosed by this fetal test using the fluid around the fetus | amniocentesis
+right: Patrick
+Wrong: 
+Value: $600
+Number: 4
+FAMOUS WOMEN | In her final years, this former first lady kept company with diamond trader Maurice Tempelsman | Jacqueline Kennedy Onassis
+right: Patrick
+Wrong: 
+Value: $600
+Number: 14
+LITERATURE | He published "Flappers and Philosophers", his first book of short stories, in 1920, the year he married Zelda | F. Scott Fitzgerald
+right: Sharon
+Wrong: 
+Value: DD: $2,500
+Number: 18
+TOUGH HISTORY | The Newark Star Eagle of May 7, 1937 had the "Death List of Zep" accompanying an article on this disaster | the Hindenburg
+right: Chris
+Wrong: 
+Value: $800
+Number: 22
+NEWS MEDIA | This newspaper for business people has the highest paid circulation of any daily in the U.S. | The Wall Street Journal
+right: Chris
+Wrong: 
+Value: $800
+Number: 9
+MEDICAL KNOW-HOW | Using a laser to reshape this eye part may correct myopia | cornea
+right: Sharon
+Wrong: 
+Chris: What is the retina?
+Patrick: What is the lens?
+Value: $800
+Number: 5
+FAMOUS WOMEN | This British woman is regarded as the world's foremost authority on chimpanzees | Jane Goodall
+right: Chris
+Wrong: 
+Value: $800
+Number: 15
+LITERATURE | "The Red Rover" is a sea novel by this author of "The Last of the Mohicans" | James Fenimore Cooper
+right: Patrick
+Wrong: 
+Value: $800
+Number: 24
+TOUGH HISTORY | The 1899 to 1902 South African War is also known as this from the Dutch word for farmer | the Boer War
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 23
+NEWS MEDIA | This D.C. newspaper was founded in 1877 as a voice of the Democratic Party | The Washington Post
+right: Chris
+Wrong: 
+Value: $1000
+Number: 11
+MEDICAL KNOW-HOW | In this procedure, an opening is made in a person's windpipe to relieve an obstruction | tracheotomy
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 10
+FAMOUS WOMEN | After leaving Rolling Stone magazine in 1983, she became a contributing photographer for Vanity Fair | Annie Leibovitz
+right: 
+Wrong: Triple Stumper
+Chris: Who is Annie Leibowitz?
+Value: $1000
+Number: 16
+LITERATURE | He said it took him "Five years to write 'In Cold Blood', and a year to recover" | Truman Capote
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Chris: $5,400
+Sharon: $5,400
+Patrick: $8,000
+
+Final Jeopardy! Round
+U.S. PRESIDENTS | His half-brother Lawrence served in the British navy under Admiral Edward Vernon | George Washington
+right: Chris
+Wrong: 
+Sharon: Who is James
+Patrick: Who is Eisenhower
+Wagers: 
+Sharon: $2,500
+Chris: $5,400
+Patrick: $8,000
+Final scores:
+Chris: $10,800 (Winner: $15,800 for the Hospice of the Treasure Coast in Fort Pierce, Florida)
+Sharon: $2,900 (2nd place: $10,000 for the Starlight Children's Foundation)
+Patrick: $0 (3rd place: $10,000 for the Pacific Northwest Museum)
+
+Coryat scores
+Chris: $3,400 (12 R(including 1 DD),3 W)
+Sharon: $3,500 (12 R(including 1 DD),2 W)
+Patrick: $8,000 (22 R,3 W)

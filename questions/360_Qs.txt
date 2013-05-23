@@ -1,0 +1,313 @@
+65 - Friday, December 7, 1984
+Comments: Ric Moser game 1.
+Contestants:
+Ric Moser: a printing broker from Raymore, Missouri
+Amy Phillips: a research student originally from Clifton, New Jersey
+Jay Mann: an animal control dispacher from Anaheim, California (whose 1-day cash winnings total $5,400)
+First Jeopardy! Round: U.S. STATES, STARTS WITH "B", THE BIBLE, TOYS & GAMES, WATER SPORTS, ALL THAT JAZZ
+U.S. STATES | The 2 states that don't border any others | Alaska and Hawaii
+right: Amy
+Wrong: 
+Value: $100
+Number: 6
+STARTS WITH "B" | Goodyear's gasbag | the blimp
+right: Amy
+Wrong: 
+Value: $100
+Number: 7
+THE BIBLE | The 2nd book of the Old Testament | Exodus
+right: 
+Wrong: Triple Stumper
+Jay: [no response]
+Value: $100
+Number: 13
+TOYS & GAMES | Parker Bros, has made balls, boomerangs & ping pong paddles out of this soft material | Nerf (or foam rubber)
+right: Jay
+Wrong: 
+Value: $100
+Number: 1
+WATER SPORTS | Cypress Gardens show done on water, not on snow | water skiing
+right: Ric
+Wrong: 
+Value: $100
+Number: 12
+ALL THAT JAZZ | What "Satchmo" played | the trumpet
+right: Amy
+Wrong: 
+Jay: What is a cornet?
+Value: $100
+Number: 20
+U.S. STATES | The Wolverine State, in 1847 became 1st to abolish capital punishment | Michigan
+right: Ric
+Wrong: 
+Value: $200
+Number: 14
+STARTS WITH "B" | Nickname of Gil Gerard's futuristic Capt. William Rogers | Buck
+right: Jay
+Wrong: 
+Value: $200
+Number: 8
+THE BIBLE | Image of worship built of old jewelry while Moses was on the mountain | the golden calf
+right: Jay
+Wrong: 
+Value: $200
+Number: 23
+TOYS & GAMES | As scissors beats paper, so paper beats this | rock (or a stone)
+right: Jay
+Wrong: 
+Value: $200
+Number: 2
+WATER SPORTS | Fishing from a moving boat | trolling
+right: Jay
+Wrong: 
+Value: $200
+Number: 18
+ALL THAT JAZZ | As Duke Ellington wrote, "It don't mean a thing if it ain't got" this | the swing
+right: Jay
+Wrong: 
+Value: $200
+Number: 24
+U.S. STATES | Region originally called Indian Territory, it now has no Fed. reservations | Oklahoma
+right: Ric
+Wrong: 
+Jay: What is, um, Colorado?
+Value: $300
+Number: 15
+STARTS WITH "B" | To give by will | bequeath
+right: Amy
+Wrong: 
+Value: $300
+Number: 9
+TOYS & GAMES | Total number of dots on the highest standard domino | 12
+right: Jay
+Wrong: 
+Value: $300
+Number: 3
+WATER SPORTS | What an unlucky surfer has just experienced in <http://www.j-archive.com/media/1984-12-07_J_19.mp3> this song | a wipeout
+right: Jay
+Wrong: 
+Value: DD: $400
+Number: 19
+U.S. STATES | Western neighbor of Tenn. & Miss.; it has only diamond field in N. America | Arkansas
+right: Ric
+Wrong: 
+Value: $400
+Number: 16
+STARTS WITH "B" | Quality of a Scot's brogue which makes the "R" r-r-r-oll | a burr
+right: 
+Wrong: Triple Stumper
+Jay: [no response]
+Value: $400
+Number: 10
+TOYS & GAMES | Thrown out by G.E. in 1949, this stretchy stuff became a national fad | Silly Putty
+right: Jay
+Wrong: 
+Value: $400
+Number: 4
+WATER SPORTS | Competitor in this sport was the model for nude male torso atop L.A.'s Olympic gate | water polo
+right: Ric
+Wrong: 
+Value: $400
+Number: 21
+U.S. STATES | Midwest state whose native sons include Marlon Brando, Nick Nolte & Henry Fonda | Nebraska
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 17
+STARTS WITH "B" | Australian bay named for the many plants growing on its shores | Botany Bay
+right: Amy
+Wrong: 
+Value: $500
+Number: 11
+TOYS & GAMES | Said to be a be a weapon in the Philippines, Duncan made them toys for the U.S. | a yo-yo
+right: Ric
+Wrong: 
+Value: $500
+Number: 5
+WATER SPORTS | Name of yacht immortalized after winning the 100-Guinea Cup away from England in 1851 | the America
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Jay: $800
+Amy: $1,000
+Ric: $500
+Scores at the end of the Jeopardy! Round:
+Jay: $1,300
+Amy: $1,100
+Ric: $1,900
+Second Jeopardy! Round: HISTORY, FAMOUS QUOTES, THE DESERT, ODD JOBS, SOUTH AMERICA, HUMAN VISION
+HISTORY | Omar Khayyam's ancient Iran | Persia
+right: Ric
+Wrong: 
+Value: $200
+Number: 2
+FAMOUS QUOTES | According to Reader's Digest, it's the best medicine | laughter
+right: Ric
+Wrong: 
+Value: $200
+Number: 9
+THE DESERT | Old-man, hedgehog & barrel | kinds of cacti
+right: Jay
+Wrong: 
+Value: $200
+Number: 11
+ODD JOBS | Lowest member of a movie crew whose job is to "go for" anything | a gofer (or a runner or a production assistant)
+right: Amy
+Wrong: 
+Value: $200
+Number: 16
+SOUTH AMERICA | Oceangoing boats can travel 2300 miles up this river to Iquitos, Peru | the Amazon
+right: Jay
+Wrong: 
+Value: $200
+Number: 22
+HUMAN VISION | People with this deficiency can't get mad and see red | colorblindness
+right: Ric
+Wrong: 
+Value: $200
+Number: 1
+HISTORY | Ancient Yucatan tribe that had no schools but were excellent astronomers | the Mayans
+right: Jay
+Wrong: 
+Amy: Who are the Incas?
+Value: $400
+Number: 3
+FAMOUS QUOTES | Alexander Pope said "it springs eternal in the human breast" | hope
+right: Amy
+Wrong: 
+Value: $400
+Number: 15
+THE DESERT | This "lowest point" figured in Ronald Reagan's career | Death Valley
+right: Jay
+Wrong: 
+Value: $400
+Number: 12
+ODD JOBS | For 10% of the bail, he'll spring you from jail | a bail bondsman
+right: Amy
+Wrong: 
+Value: $400
+Number: 17
+SOUTH AMERICA | Crazed by presence of blood, these carnivorous fresh-water fish even eat each other | piranha
+right: Amy
+Wrong: 
+Value: $400
+Number: 24
+HUMAN VISION | Snooty specs on a stick | a lorgnette
+right: Jay
+Wrong: 
+Ric: What are spectacles?
+Value: $400
+Number: 4
+HISTORY | In '38, the Munich Agreement allowed Germany to partition this country | Czechoslovakia
+right: Ric
+Wrong: 
+Amy: What is Austria?
+Value: $600
+Number: 7
+FAMOUS QUOTES | Stuffy British monarch who said when she saw herself imitated, "We are not amused" | Queen Victoria
+right: Amy
+Wrong: 
+Value: $600
+Number: 19
+THE DESERT | Greek for "fertile land", buildings are built around but not on these watering spots | oases
+right: Jay
+Wrong: 
+Value: $600
+Number: 13
+ODD JOBS | He raises penmanship to a fine art | a calligrapher
+right: Ric
+Wrong: 
+Value: $600
+Number: 18
+SOUTH AMERICA | Over 1/3 of its population lives in its capital, Montevideo | Uruguay
+right: Ric
+Wrong: 
+Value: $600
+Number: 27
+HUMAN VISION | Called hyperopia, it's the opposite of myopia | farsightedness
+right: Jay
+Wrong: 
+Value: $600
+Number: 5
+HISTORY | With the Angles & Jutes, they conquered 5th century England | the Saxons
+right: Jay
+Wrong: 
+Value: $800
+Number: 8
+FAMOUS QUOTES | In "Trees", he claimed that "poems are made by fools like me" | Joyce Kilmer
+right: Jay
+Wrong: 
+Ric: Who is James Joyce?
+Value: $800
+Number: 26
+THE DESERT | Artist famous for her paintings of the deserts of the American southwest | Georgia O'Keeffe
+right: 
+Wrong: 
+Jay: Who is DeLise?
+Value: DD: $900
+Number: 14
+ODD JOBS | Horse racing fixtures the British call "turf accountants" | bookies
+right: Jay
+Wrong: 
+Amy: [no response]
+Value: $800
+Number: 20
+HUMAN VISION | These were first made in 1887 by German physiologist A.E. Fick | contact lenses
+right: Ric
+Wrong: 
+Jay: What are bifocals?
+Value: $800
+Number: 6
+HISTORY | Many of them left France when Louis XIV revoked the Edict of Nantes | the Huguenots
+right: Ric
+Wrong: 
+Value: $1000
+Number: 10
+THE DESERT | Coldest, most northern desert in the world | the Gobi
+right: Ric
+Wrong: 
+Value: $1000
+Number: 25
+ODD JOBS | What a fletcher makes | arrows
+right: Jay
+Wrong: 
+Value: $1000
+Number: 21
+SOUTH AMERICA | Famous William Hudson novel set in South American jungle | Green Mansions
+right: Ric
+Wrong: 
+Jay: [no response]
+Value: $1000
+Number: 28
+HUMAN VISION | You have to keep an eye on this M.D. | an opthamologist
+right: Jay
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Jay: $5,800
+Amy: $1,300
+Ric: $6,900
+
+Final Jeopardy! Round
+TITLED HEADS | Queen of France 1559-60; Catholic Europe considered her the rightful queen of England | Mary, Queen of Scots
+right: 
+Wrong: 
+Amy: Who is Catherine?
+Jay: Who was Catherine?
+Ric: Who is Catherine of Aragon
+Wagers: 
+Amy: $1,200
+Jay: $4,800
+Ric: $4,900
+Final scores:
+Jay: $1,000 (2nd place: bedroom furniture and linens)
+Amy: $100 (3rd place: lamps)
+Ric: $2,000 (New champion: $2,000)
+
+Coryat scores
+Jay: $6,600 (21 R(including 1 DD),7 W(including 1 DD))
+Amy: $1,300 (10 R,3 W)
+Ric: $6,900 (16 R,2 W)

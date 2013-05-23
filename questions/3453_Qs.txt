@@ -1,0 +1,286 @@
+2341 - Monday, November 7, 1994
+Comments: 1994 Celebrity <i>Jeopardy!</i> game 1.
+Contestants:
+Tony Randall: an actor from the National Actors Theatre
+Stefanie Powers: an actress from Hart to Hart
+General H. Norman Schwarzkopf: a retired general from the U.S. Army
+First Jeopardy! Round: ANCIENT TIMES, ROCK SONGS, HOLIDAYS & OBSERVANCES, ENGLISH LIT., POTENT POTABLES, THE ELEMENTS
+ANCIENT TIMES | Nebuchadnezzar is sometimes credited with building the hanging gardens of this city | Babylon
+right: Norm
+Wrong: 
+Value: $100
+Number: 11
+ROCK SONGS | This Bill Haley number was only a minor hit until featured in the movie "Blackboard Jungle" | "Rock Around The Clock"
+right: Stefanie
+Wrong: 
+Value: $100
+Number: 26
+HOLIDAYS & OBSERVANCES | Jokingly, this May observance is said to fall nine months after Father's Night | Mother's Day
+right: Stefanie
+Wrong: 
+Value: $100
+Number: 21
+ENGLISH LIT. | Thomas Hardy, who gave us "The Return of the Native", also wrote of this girl "of the d'Urbervilles" | Tess
+right: Norm
+Wrong: 
+Value: $100
+Number: 6
+POTENT POTABLES | The name of this aromatic wine found in martinis comes from the German word for wormwood | vermouth
+right: Tony
+Wrong: 
+Value: $100
+Number: 1
+THE ELEMENTS | This metal, Al, used in beverage cans & food wrap was once considered a precious metals | aluminum
+right: Tony
+Wrong: 
+Value: $100
+Number: 16
+ANCIENT TIMES | The ancient Egyptians were a polytheistic people, meaning they had many of these | gods
+right: Tony
+Wrong: 
+Value: $200
+Number: 12
+HOLIDAYS & OBSERVANCES | It's the last federal holiday of the year | Christmas
+right: Norm
+Wrong: 
+Tony: What is Thanksgiving?
+Value: $200
+Number: 22
+ENGLISH LIT. | Last name shared by "Murder in the Cathedral" author T .S. & "Adam Bede" author George | Eliot
+right: Tony
+Wrong: 
+Value: $200
+Number: 7
+POTENT POTABLES | The sour mash type of this Kentucky whiskey is made by adding part of the old mash to new batches | bourbon
+right: Norm
+Wrong: 
+Value: $200
+Number: 2
+THE ELEMENTS | Selenium is sometimes added to this material during vulcanization to increase abrasion resistance | rubber
+right: Norm
+Wrong: 
+Tony: What are tires?
+Value: $200
+Number: 17
+ANCIENT TIMES | For the Persian Empire, Cyrus the Great set up a mail delivery system similar to this Old West one | the Pony Express
+right: Norm
+Wrong: 
+Value: $300
+Number: 13
+HOLIDAYS & OBSERVANCES | It's celebrated the evening before All Saints' Day | Halloween
+right: Tony
+Wrong: 
+Stefanie: Uh, what is All Souls' Day?
+Value: $300
+Number: 23
+ENGLISH LIT. | This Miss Marple creator was one of the 1st authors to be published in a Penguin paperback | Agatha Christie
+right: Tony
+Wrong: 
+Value: $300
+Number: 8
+POTENT POTABLES | It's the spirit found in a daiquiri cocktail | rum
+right: Stefanie
+Wrong: 
+Value: $300
+Number: 3
+THE ELEMENTS | This element, symbol He, is the most difficult of all gases to liquefy | helium
+right: Norm
+Wrong: 
+Value: $300
+Number: 18
+ANCIENT TIMES | About all that is accepted about this author is that he was blind & wrote the "Iliad" & the "Odyssey" | Homer
+right: Tony
+Wrong: 
+Value: $400
+Number: 14
+HOLIDAYS & OBSERVANCES | The name of this 8-day Jewish festival is Hebrew for "dedication" | Hannukah
+right: Stefanie
+Wrong: 
+Value: $400
+Number: 24
+ENGLISH LIT. | He's the legendary king in Tennyson's "Idylls of the King" | King Arthur
+right: Tony
+Wrong: 
+Value: DD: $1,100
+Number: 9
+POTENT POTABLES | This country produces a resinated wine called kokkineli in addition to the more famous retsina | Greece
+right: Stefanie
+Wrong: 
+Value: $400
+Number: 4
+THE ELEMENTS | This metal, aka quicksilver, becomes a solid at minus 40 degrees | mercury
+right: Norm
+Wrong: 
+Value: $400
+Number: 19
+ANCIENT TIMES | At his death in 323 B.C., Alexander the Great's empire covered parts of these 3 continents | Europe, Asia & Africa
+right: Norm
+Wrong: 
+Tony: What is the total known world?  Of the time?
+Value: $500
+Number: 15
+HOLIDAYS & OBSERVANCES | This French holiday that commemorates the storming of a prison is also known as la Fete Nationale | Bastille Day
+right: Norm
+Wrong: 
+Value: $500
+Number: 25
+ENGLISH LIT. | The final version of his "Paradise Lost" was published in 1674 | Milton
+right: Norm
+Wrong: 
+Value: $500
+Number: 10
+POTENT POTABLES | Zubrowka is a Polish form of this spirit with a bit of buffalo grass steeped in it | vodka
+right: Tony
+Wrong: 
+Value: $500
+Number: 5
+THE ELEMENTS | Betadine, used as a skin antiseptic, is a solution of povidone & this element symbolized I | iodine
+right: Norm
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Norm: $900
+Stefanie: $700
+Tony: $2,400
+Scores at the end of the Jeopardy! Round:
+Norm: $3,800
+Stefanie: $1,000
+Tony: $2,300
+Second Jeopardy! Round: FAMOUS AMERICANS, Mcs & Macs, ANATOMY, THE EMMYS, WORLD CAPITALS, POTPOURRI
+FAMOUS AMERICANS | In 1877 this inventor of the telephone married Mabel Hubbard, a deaf girl whom he had taught | (Alexander Graham) Bell
+right: Tony
+Wrong: 
+Value: $200
+Number: 2
+Mcs & Macs | Bergen's Charlie or communist-hunting senator Joseph | McCarthy
+right: Stefanie
+Wrong: 
+Value: $200
+Number: 21
+ANATOMY | The most important form of this hormone in women is estradiol | estrogen
+right: Stefanie
+Wrong: 
+Value: $200
+Number: 16
+WORLD CAPITALS | The Old Capitol Building in this Cuban capital resembles ours in Washington, D.C. | Havana
+right: Tony
+Wrong: 
+Value: $200
+Number: 1
+POTPOURRI | Kleptophobia is the fear of doing this; if you wanted to do it all the time you'd be a kleptomaniac | stealing
+right: Stefanie
+Wrong: 
+Value: $200
+Number: 11
+FAMOUS AMERICANS | While in law school, this current Supreme Court justice received the nickname "Ruthless Ruthie" | Justice Ginsberg
+right: Tony
+Wrong: 
+Stefanie: Who--Oh!  Pass.  Aye!
+Value: $400
+Number: 3
+Mcs & Macs | "Twentieth Century" playwright Charles or 20th century general Douglas | MacArthur
+right: Tony
+Wrong: 
+Value: $400
+Number: 22
+ANATOMY | The tongue's taste buds distinguish 4 basic tastes: salty, bitter, sweet & this one | sour
+right: Norm
+Wrong: 
+Value: $400
+Number: 17
+WORLD CAPITALS | A bullet train runs between this capital & Fukuoka | Tokyo
+right: Tony
+Wrong: 
+Value: $400
+Number: 7
+POTPOURRI | In 1803 this emperor's youngest brother, Jerome, married an American teenager in Baltimore | Napoléon
+right: Tony
+Wrong: 
+Value: $400
+Number: 12
+FAMOUS AMERICANS | As well as 325 products from peanuts, this black scientist developed several from soybeans & pecans | George Washington Carver
+right: Tony
+Wrong: 
+Value: $600
+Number: 4
+ANATOMY | This joint serves as a hinge for the femur & tibia | the knee
+right: Norm
+Wrong: 
+Value: $600
+Number: 18
+WORLD CAPITALS | In 1886 Freud set up a private practice in this capital | Vienna
+right: Norm
+Wrong: 
+Value: $600
+Number: 10
+POTPOURRI | Discoveryland is Euro Disney's equivalent of this futuristic land found in Disneyland & Disney World | Tomorrowland
+right: 
+Wrong: Triple Stumper
+Stefanie: Uh, yes please. Uh, uhm, EPCOT Center?  What is EPCOT Center?
+Tony: I don't know.
+Value: $600
+Number: 13
+FAMOUS AMERICANS | His criticisms of Aaron Burr's character led to their fatal 1804 duel | Alexander Hamilton
+right: Norm
+Wrong: 
+Value: $800
+Number: 5
+ANATOMY | During a person's lifetime, these organs will remove waste from more than 10 million gallons of blood | the kidneys
+right: Norm
+Wrong: 
+Value: $800
+Number: 19
+WORLD CAPITALS | The statue of Leif Ericson in this country's capital of Reykjavik was a gift from the U.S. | Iceland
+right: Tony
+Wrong: 
+Value: $800
+Number: 8
+POTPOURRI | The French call this musical instrument la petite flute | the piccolo
+right: Tony
+Wrong: 
+Value: $800
+Number: 14
+FAMOUS AMERICANS | In 1901 this Scottish-American sold his steel company to U.S. Steel for more than $250 million | Andrew Carnegie
+right: 
+Wrong: 
+Norm: Don't have it.
+Value: DD: $2,000
+Number: 6
+ANATOMY | The common bile duct is formed by the cystic duct from the gallbladder & the hepatic duct from this organ | the liver
+right: Norm
+Wrong: 
+Value: DD: $1,000
+Number: 20
+WORLD CAPITALS | In 1930 the name of its capital was changed from Angora to Ankara | Turkey
+right: Norm
+Wrong: 
+Value: $1000
+Number: 9
+POTPOURRI | "Museita's Waltz" is a highlight of this composer's 1896 opera "La boheme" | Giacomo Puccini
+right: Tony
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Norm: $7,000
+Stefanie: $600
+Tony: $6,900
+
+Final Jeopardy! Round
+U.S. LANDMARKS | James Hoban, who designed & built this, had to rebuild it after a fire in 1814 | the White House
+right: Stefanie | Tony | Norm
+Wrong: 
+Wagers: 
+Stefanie: $600
+Tony: $3,000
+Norm: $7,000
+Final scores:
+Norm: $14,000 (Winner: $14,000 to the Boggy Creek Gang)
+Stefanie: $1,200 (3rd place: $10,000 to the William Holden Wildlife Foundation)
+Tony: $9,900 (2nd place: $10,000 to the National Actors Theatre)
+
+Coryat scores
+Norm: $9,000 (19 R(including 1 DD),1 W(including 1 DD))
+Stefanie: $600 (8 R,3 W)
+Tony: $6,200 (19 R(including 1 DD),4 W)

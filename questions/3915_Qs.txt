@@ -1,0 +1,328 @@
+6396 - Monday, June 11, 2012
+Contestants:
+Dylan Hume: a musician and tutor from Sleepy Hollow, New York
+Elaine Moise: a business systems manager from Mountain View, California
+Aaron Cappocchi: a writer from Burbank, California (whose 1-day cash winnings total $28,800)
+First Jeopardy! Round: WHAT'S UP, DOC?, THE TEAM'S RETIRED NUMBERS, SEE-ATTLE, THE HELOISE WITH YOU, "PIPE" DREAMS, SPAIN KILLERS
+WHAT'S UP, DOC? | Whether it's from heredity or aging, it's a clear case of alopecia, a loss of this | hair
+right: Dylan
+Wrong: 
+Value: $200
+Number: 9
+THE TEAM'S RETIRED NUMBERS | Bob St. Clair's 79 & Joe Montana's 16 | the (San Francisco) 49ers
+right: Dylan
+Wrong: 
+Value: $200
+Number: 1
+SEE-ATTLE | A real high point of Seattle is this 1962 landmark where you can enjoy a meal along with a 360-degree view of the city | the Space Needle
+right: Aaron
+Wrong: 
+Value: $200
+Number: 26
+THE HELOISE WITH YOU | "The best place for" this yellow condiment "is on a frankfurter. if you get it anywhere else, (use) peroxide" | mustard
+right: Aaron
+Wrong: 
+Value: $200
+Number: 16
+"PIPE" DREAMS | It stretches from the larynx to the bronchi | the windpipe
+right: Aaron
+Wrong: 
+Value: $200
+Number: 4
+SPAIN KILLERS | In 1912 anarci;iist Manuel Pardinas gunned down premier Jose Canalejas in this Spanish capital | Madrid
+right: Elaine
+Wrong: 
+Value: $200
+Number: 21
+WHAT'S UP, DOC? | Food poisoning--the eggs in your Caesar dressing gave you this form, like a million others in the U.S. every year | salmonella
+right: Dylan
+Wrong: 
+Value: $400
+Number: 12
+THE TEAM'S RETIRED NUMBERS | Hakeem Olajuwon's 34 & Moses Malone's 24 | the Houston Rockets
+right: Dylan
+Wrong: 
+Value: $400
+Number: 2
+SEE-ATTLE | An architectural icon, Seattle's newest central one of <http://www.j-archive.com/media/2012-06-11_J_27.jpg> these opened in 2004--check it out | a library
+right: Aaron
+Wrong: 
+Value: $400
+Number: 27
+THE HELOISE WITH YOU | Heloise uses boric acid powder on ants & these pests some say could survive a nuclear war | cockroaches
+right: Elaine
+Wrong: 
+Value: $400
+Number: 17
+"PIPE" DREAMS | <http://www.j-archive.com/media/2012-06-11_J_05.jpg> This head covering is named for its shape | a stovepipe hat
+right: Dylan
+Wrong: 
+Value: $400
+Number: 5
+SPAIN KILLERS | Numerous Spanish officials have been assassinated by ETA, a group demanding a homeland for these people | the Basque
+right: Dylan
+Wrong: 
+Value: $400
+Number: 22
+WHAT'S UP, DOC? | Little Katie's barking cough is this 5-letter inflammation of the upper airways; a vaporizer might help | croup
+right: 
+Wrong: Triple Stumper
+Dylan: What is mumps?
+Value: $600
+Number: 13
+THE TEAM'S RETIRED NUMBERS | Ralph Kiner's 4 & Roberto Clemente's 21 | the Pittsburgh Pirates
+right: Elaine
+Wrong: 
+Value: $600
+Number: 3
+SEE-ATTLE | Grab some Joe at the original one of these, open since 1971 in the Pike Place market | Starbucks
+right: Elaine
+Wrong: 
+Value: $600
+Number: 28
+THE HELOISE WITH YOU | Save money! "using sandpaper...scrape both ends of" this energy item to prolong its life | a battery
+right: Aaron
+Wrong: 
+Value: $600
+Number: 18
+"PIPE" DREAMS | In 2006 & again in 2010 it was all golden for Shaun White in this Olympic event | the halfpipe
+right: Aaron
+Wrong: 
+Value: $600
+Number: 6
+SPAIN KILLERS | The 1936 assassination of Jose Calvo Sotelo was the final spark that set off this 3-year conflict | the Spanish Civil War
+right: Dylan
+Wrong: 
+Value: $600
+Number: 23
+WHAT'S UP, DOC? | Your redness & flushing are characteristic of this skin disease sometimes inaccurately called adult acne | rosacea
+right: Elaine
+Wrong: 
+Value: $800
+Number: 14
+THE TEAM'S RETIRED NUMBERS | Kevin McHale's 32 & Tom Heinsohn's 15 | the Boston Celtics
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 10
+SEE-ATTLE | A national historical park in the city examines Seattle's role in the Klondike one of these | gold rush
+right: Aaron
+Wrong: 
+Value: $800
+Number: 29
+THE HELOISE WITH YOU | String beads for necklaces, sew on buttons or cut cake layers with this (& use it to fight plaque the cake causes) | dental floss
+right: Elaine
+Wrong: 
+Value: $800
+Number: 19
+"PIPE" DREAMS | The yagua of the Peruvian Amazon are skilled in using these weapons to bring down game | a blowpipe
+right: Aaron
+Wrong: 
+Value: $800
+Number: 7
+SPAIN KILLERS | 1 barcelona-born Ramon Mercader killed this Soviet exile in Mexico City in 1940 | Leon Trotsky
+right: Dylan
+Wrong: 
+Value: DD: $2,000
+Number: 24
+WHAT'S UP, DOC? | It appears you have hyperthyroidism resulting from this serious-sounding disease, its most common cause | Graves' Disease
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+THE TEAM'S RETIRED NUMBERS | Lou Brock's 20 & Dizzy Dean's 17 | the St. Louis Cardinals
+right: Elaine
+Wrong: 
+Value: $1000
+Number: 11
+SEE-ATTLE | Appropriately, the building housing the EMP, short for this, looks like a smashed guitar | Experience Music Project
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 30
+THE HELOISE WITH YOU | "Instead of throwing away" this material when it's done wrapping food, "use it as a pot and pan scrubber" | aluminum foil
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 20
+"PIPE" DREAMS | Also known as a syrinx, this variety of flute is popular in the Pyrenees | a panpipe
+right: Elaine
+Wrong: 
+Value: $1000
+Number: 8
+SPAIN KILLERS | In 1974, 2 Spaniards convicted of killing policemen were the last to be executed via this strangulation device | a garrote
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Aaron: $1,600
+Elaine: $3,400
+Dylan: $1,000
+Scores at the end of the Jeopardy! Round:
+Aaron: $6,800
+Elaine: $5,400
+Dylan: $4,000
+Second Jeopardy! Round: GEOGRAPHY BY THE BOOK, SISTER GOLDENHAIR, I DON'T KNOW YOU FROM ADAMS, GO WIDE, WORDS OF LOVE, THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS
+GEOGRAPHY BY THE BOOK | Washington Irving told "The Legend of" this "sequestered glen" | Sleepy Hollow
+right: Aaron
+Wrong: 
+Value: $400
+Number: 7
+SISTER GOLDENHAIR | This blonde actress has a brother named Oliver Hudson who co-stars on "Rules of Engagement" | Kate Hudson
+right: Aaron
+Wrong: 
+Value: $400
+Number: 17
+I DON'T KNOW YOU FROM ADAMS | I was well aware of this third president without reading Henry Adams' history of his administration | Thomas Jefferson
+right: Aaron
+Wrong: 
+Value: $400
+Number: 1
+GO WIDE | A field 53 1/3 yards wide & 120 yards long is used in this U.S. pro sport | football
+right: Dylan
+Wrong: 
+Value: $400
+Number: 12
+WORDS OF LOVE | I've got one of these on you; it's also a verb meaning to squeeze hard | crush
+right: Aaron
+Wrong: 
+Value: $400
+Number: 24
+THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS | No. 1 is the inner coffin of Hornedjitef, an ancient priest of this kingdom, from the 3rd century B.C. | Egypt
+right: Elaine
+Wrong: 
+Value: $400
+Number: 2
+GEOGRAPHY BY THE BOOK | Betty Smith planted a story with "A Tree Grows In" this borough | Brooklyn
+right: Aaron
+Wrong: 
+Value: $800
+Number: 8
+SISTER GOLDENHAIR | After "Lizzie McGuire", she teamed up with sister Haylie for "Material Girls" | Hilary Duff
+right: Aaron
+Wrong: 
+Value: $800
+Number: 18
+I DON'T KNOW YOU FROM ADAMS | I read Julie Powell's foodie blog from day 1--didn't need to see Amy Adams play her in this movie | Julie & Julia
+right: Aaron
+Wrong: 
+Value: $800
+Number: 23
+GO WIDE | Genesis 6 reports that Noah's Ark was 50 of these units wide, about 75 feet | cubits
+right: Aaron
+Wrong: 
+Value: $800
+Number: 13
+WORDS OF LOVE | A guy who hitches horses, or one who's getting hitched himself | a groom
+right: Dylan
+Wrong: 
+Value: $800
+Number: 25
+THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS | The bronze head of <http://www.j-archive.com/media/2012-06-11_DJ_03.jpg> this first Roman emperor butted its way onto the list | Caesar Augustus
+right: Aaron
+Wrong: 
+Value: $800
+Number: 3
+GEOGRAPHY BY THE BOOK | Sherwood Anderson made his reputation with "Winesburg," this state | Ohio
+right: Elaine
+Wrong: 
+Value: $1200
+Number: 9
+SISTER GOLDENHAIR | In 2008 Elle of this family was Benjamin Button's friend Daisy & sis Dakota starred in "The Secret Life of Bees" | Fanning
+right: Dylan
+Wrong: 
+Value: $1200
+Number: 19
+I DON'T KNOW YOU FROM ADAMS | I knew of this U.S. physicist born in 1904 before John Adams wrote the opera "Doctor Atomic" about him | Robert Oppenheimer
+right: Elaine
+Wrong: 
+Value: $1200
+Number: 20
+GO WIDE | Near Winslow, Arizona, there's a crater nearly a mile wide & over 550 feet deep made by one of these objects | a meteorite
+right: Aaron
+Wrong: 
+Value: $1200
+Number: 14
+THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS | The 19th C. is represented by a chronometer from this ship that helped make scientific history in the 1830s | The Beagle
+right: Aaron
+Wrong: 
+Value: DD: $4,500
+Number: 4
+GEOGRAPHY BY THE BOOK | Jean Rhys called a novel this "Wide" sea, an area of the North Atlantic | Sargasso Sea
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 10
+I DON'T KNOW YOU FROM ADAMS | Ansel Adams' 1937 portrait of this painter told me nothing new about her | Georgia O'Keefe
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+GO WIDE | This giant dam stretches almost a mile & a half wide over the Yangtze River | the Three Gorges Dam
+right: 
+Wrong: Triple Stumper
+Dylan: What is the Three Rivers Dam?
+Value: $1600
+Number: 15
+WORDS OF LOVE | I pledge you my everlasting this, from Latin for "faith" | fidelity
+right: 
+Wrong: Triple Stumper
+Elaine: What is troth?
+Value: $1600
+Number: 27
+THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS | A recent artifact is a Sharia-compliant credit card issued in 2009 in this federation of states in the Middle East | the UAE (United Arab Emirates)
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 5
+GEOGRAPHY BY THE BOOK | Christopher Isherwood wrote "Goodbye to" this city & also penned its "Stories" | Berlin
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+I DON'T KNOW YOU FROM ADAMS | Cecil Adams wrote an interesting "Straight Dope" about this great songwriter only playing in one key, but I knew that | Irving Berlin
+right: Elaine
+Wrong: 
+Value: $2000
+Number: 22
+GO WIDE | The filtration technology produced at Israel's Kibbutz Amiad can handle municipal & industrial waste treatment down to two of these units, each .001 millimeters | a micron
+right: 
+Wrong: Triple Stumper
+Elaine: What is a nanometer?
+Dylan: What is a millimeter?
+Value: $2000
+Number: 16
+WORDS OF LOVE | The Gettysburg Address speaks of "the last full measure of" this committed emotion | devotion
+right: 
+Wrong: 
+Dylan: What is... uh... courage?
+Value: DD: $2,000
+Number: 26
+THE BRITISH MUSEUM'S HISTORY OF THE WORLD IN 100 OBJECTS | British pride added a <http://www.j-archive.com/media/2012-06-11_DJ_06.jpg> helmet from this site where an undisturbed 7th-century Anglo-Saxon burial ship was excavated | Sutton Hoo
+right: 
+Wrong: Triple Stumper
+Dylan: What is Stonehenge?
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Aaron: $21,300
+Elaine: $6,600
+Dylan: -$1,200
+
+Final Jeopardy! Round
+EVENTS IN THE BIBLE | Acts 1:13 says this event occurred in "an upper room" | the Last Supper (or Pentecost)
+right: Elaine | Aaron
+Wrong: 
+Wagers: 
+Elaine: $6,500
+Aaron: $6,001
+Final scores:
+Aaron: $27,301 (2-day champion: $56,101)
+Elaine: $13,100 (2nd place: $2,000)
+Dylan: -$1,200 (3rd place: $1,000)
+
+Coryat scores
+Aaron: $18,000 (24 R(including 1 DD),0 W)
+Elaine: $6,600 (12 R,2 W)
+Dylan: -$400 (11 R(including 1 DD),5 W(including 1 DD))

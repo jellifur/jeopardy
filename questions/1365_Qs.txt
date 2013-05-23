@@ -1,0 +1,272 @@
+5100 - Friday, November 10, 2006
+Comments: 2006 Celebrity <i>Jeopardy!</i> game 3.  From Radio City Music Hall in New York City.
+Contestants:
+Christopher Meloni: an Emmy-nominated actor from Law & Order: Special Victims Unit
+Kathryn Erbe: an actress from Law & Order: Criminal Intent
+Sam Waterston: an actor from Law & Order
+First Jeopardy! Round: MAN HATTIN', A TICKER-TAPE PARADE, CONVERT THE ROMAN NUMERAL, POP GOES THE MUSICAL, LAWN ORDER, SUV
+A TICKER-TAPE PARADE | This lady richly deserves her pedestal; the first ticker-tape parade was held for her 1886 dedication | the Statue of Liberty
+right: Sam
+Wrong: 
+Value: $200
+Number: 11
+CONVERT THE ROMAN NUMERAL | Will you still need me when I'm this Roman numeral? LXIV | 64
+right: Sam
+Wrong: 
+Value: $200
+Number: 1
+POP GOES THE MUSICAL | "Shout! The Mod Musical" takes us through this decade with songs like "Downtown" & "Goldfinger" | the '60s
+right: Christopher
+Wrong: 
+Value: $200
+Number: 23
+LAWN ORDER | During WWI, this president's wife used sheep to trim the White House lawn | Wilson
+right: Christopher
+Wrong: 
+Value: $200
+Number: 2
+SUV | This current SUV line began in 1935 as an 8-passenger, all-steel wagon built on a Chevy truck chassis | the Chevy Suburban
+right: Sam
+Wrong: 
+Value: $200
+Number: 5
+MAN HATTIN' | The Tam-o'-shanter & the Glengarry are popular men's hats from this U.K. country | Scotland
+right: Sam
+Wrong: 
+Christopher: What is England?
+Value: $400
+Number: 16
+A TICKER-TAPE PARADE | 2 NYC ticker-tape parades didn't gain the Shah popularity in this country where he was deposed in 1979 | Iran
+right: Christopher
+Wrong: 
+Value: $400
+Number: 12
+CONVERT THE ROMAN NUMERAL | Mentioned at Gettysburg: LXXXVII | 87
+right: Christopher
+Wrong: 
+Value: $400
+Number: 3
+POP GOES THE MUSICAL | (<http://www.j-archive.com/media/2006-11-10_J_24.wmv> Before the clue is given, Toni Award-nominated actress Carolee Carmello from the Broadway play Mamma Mia! helps with the clue.)  "Ooh-ooh-ooh-ooh  / You can dance / You can jive / Having the time of your life / Ooh-ooh-ooh, see that girl / Watch that scene / Dig in the dancing queen /"  "Dancing Queen" is one of many hit songs in "Mamma Mia!" that were originally made famous by this Swedish group | ABBA
+right: Christopher
+Wrong: 
+Value: DD: $1,000
+Number: 24
+LAWN ORDER | Karl Dahlman built a rotary-blade one of these machines that ran like a hovercraft, on a cushion of air | a lawn mower
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 4
+SUV | This former SUV model from Honda sounds like something you need when you travel abroad | a Passport
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 9
+MAN HATTIN' | The name of this high-crowned, very wide-brimmed men's hat from Mexico comes from the Spanish word for "shade" | a sombrero
+right: Sam
+Wrong: 
+Value: $600
+Number: 17
+A TICKER-TAPE PARADE | In 1927 he returned to a hero's welcome less than a month after leaving Long Island for Paris | Lindbergh
+right: Christopher
+Wrong: 
+Value: $600
+Number: 13
+CONVERT THE ROMAN NUMERAL | A positively revolutionary year: MDCCLXXVI | 1776
+right: Sam
+Wrong: 
+Value: $600
+Number: 20
+LAWN ORDER | Also known as finger grass, a creeping weed of the genus Digitaria is better known by this "grouchy" name | crabgrass
+right: Kathryn
+Wrong: 
+Value: $600
+Number: 6
+SUV | Subaru has a 7-passenger SUV named for this Manhattan neighborhood that's home to a film festival | Tribeca
+right: Christopher
+Wrong: 
+Sam: What is a SoHo?
+Value: $600
+Number: 10
+MAN HATTIN' | 18th century frontiersman Daniel Boone is often depicted wearing one of these hats made from an animal | a coonskin cap
+right: Christopher
+Wrong: 
+Value: $800
+Number: 18
+A TICKER-TAPE PARADE | In 1951 it was the turn of David Ben-Gurion, the first prime minister of this country | Israel
+right: Christopher
+Wrong: 
+Value: $800
+Number: 14
+CONVERT THE ROMAN NUMERAL | TV secret agent Maxwell Smart's beautiful agent wife: XCIX | 99
+right: Christopher
+Wrong: 
+Value: $800
+Number: 21
+LAWN ORDER | Keeping your lawn healthy might require adding a fertilizer that includes this chemical element, symbol N | nitrogen
+right: Christopher
+Wrong: 
+Value: $800
+Number: 7
+MAN HATTIN' | In the movies, this great fictional British detective often wore a hat called a deerstalker | Sherlock Holmes
+right: Christopher
+Wrong: 
+Value: $1000
+Number: 19
+A TICKER-TAPE PARADE | Unemployment started with a bang when this 5-star general got a parade after being fired by Truman in 1951 | MacArthur
+right: Sam
+Wrong: 
+Value: $1000
+Number: 15
+CONVERT THE ROMAN NUMERAL | Religious TV club: DCC | 700
+right: Sam
+Wrong: 
+Value: $1000
+Number: 22
+LAWN ORDER | Unlike a perennial, which will bloom year after year, this type of plant goes through its life cycle in one year | an annual
+right: Kathryn
+Wrong: 
+Value: $1000
+Number: 8
+Scores at the first commercial break (after clue 15)
+Sam: $0
+Kathryn: $2,400
+Christopher: $2,400
+Scores at the end of the Jeopardy! Round:
+Sam: $3,600
+Kathryn: $2,400
+Christopher: $7,200
+Second Jeopardy! Round: MOLECULAR BIOLOGY, TV COMEDY, SLAW & ORDER, BESTSELLERS, I FORGOT MY LINE!, WHAT'S MY "Q"?
+MOLECULAR BIOLOGY | In the early 1900s, William Bragg used this type of ray to try to photograph the structure of molecules | an X-ray
+right: Christopher
+Wrong: 
+Value: $400
+Number: 20
+TV COMEDY | Kramer, on this show: "I'm taping Canadian Parliament, you know, on C-SPAN" | Seinfeld
+right: Christopher
+Wrong: 
+Kathryn: What is Cheers?
+Value: $400
+Number: 6
+SLAW & ORDER | Brands of this condiment include Colman's, Gulden's & Plochman's | mustard
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 1
+BESTSELLERS | "Team of Rivals" by Doris Kearns Goodwin is about Lincoln's bringing political foes into this advisory body | the Cabinet
+right: Sam
+Wrong: 
+Value: $400
+Number: 8
+I FORGOT MY LINE! | When the Mad Hatter says, "No room!", you retort, "There's plenty of room!" as you're playing this title girl | Alice (in Wonderland)
+right: Christopher
+Wrong: 
+Value: $400
+Number: 14
+MOLECULAR BIOLOGY | An electron type of this optical scientific instrument is used to magnify molecules for study | a microscope
+right: Christopher
+Wrong: 
+Value: $800
+Number: 21
+TV COMEDY | Megan Mullally, as Karen on this show: "You say potato, I say vodka" | Will & Grace
+right: Christopher
+Wrong: 
+Value: $800
+Number: 7
+SLAW & ORDER | A Reuben sandwich is usually served with this fermented cabbage dish | sauerkraut
+right: Christopher
+Wrong: 
+Kathryn: Cole slaw--what is cole slaw?
+Value: $800
+Number: 2
+BESTSELLERS | This controversial bestseller by Dan Brown begins with a murder in the Louvre | The Da Vinci Code
+right: 
+Wrong: Triple Stumper
+Christopher: What is...[rubs eyes, moves around, ducks behind podium]
+Value: $800
+Number: 9
+I FORGOT MY LINE! | Try to look mysterious when you say, "I never drink... wine"--you're playing this spooky guy | (Count) Dracula
+right: Sam
+Wrong: 
+Christopher: Who is Bela Lugosi?
+Value: $800
+Number: 16
+MOLECULAR BIOLOGY | Gregor Mendel famously found a mathematical basis for inheritance by studying this legume, without the princess | the pea
+right: Christopher
+Wrong: 
+Value: $1200
+Number: 18
+TV COMEDY | David Hyde Pierce, on this NBC sitcom: "Her lips were saying 'No' but her eyes were saying 'Read my lips'" | Frasier
+right: Christopher
+Wrong: 
+Value: $1200
+Number: 3
+SLAW & ORDER | "Jewish Penicillin" | chicken soup
+right: Sam
+Wrong: 
+Value: $1200
+Number: 11
+BESTSELLERS | In the 1980s he was quite at home on the bestseller list with books like "Misery", "Cujo" & "Christine" | Stephen King
+right: Kathryn
+Wrong: 
+Value: $1200
+Number: 10
+I FORGOT MY LINE! | You're playing this saint, so you say, "I hear voices telling me what to do" | Joan of Arc
+right: Christopher
+Wrong: 
+Value: $1200
+Number: 17
+MOLECULAR BIOLOGY | Chromosomes carry these basic unis of heredity, not discovered by Levi Strauss | genes
+right: Christopher
+Wrong: 
+Value: DD: $3,600
+Number: 19
+TV COMEDY | "Women--can't live with 'em ...pass the beer nuts", said Norm on this show | Cheers
+right: Kathryn
+Wrong: 
+Value: $1600
+Number: 4
+SLAW & ORDER | It sounds like a "Taxi" character, but it's really a potato pancake | a latke
+right: Sam
+Wrong: 
+Value: $1600
+Number: 12
+BESTSELLERS | She wasn't portrayed as the dearest of moms in the 1978 memoir "Mommie Dearest" | Joan Crawford
+right: Kathryn
+Wrong: 
+Sam: Who is Cheryl Crawford?
+Value: $1600
+Number: 15
+TV COMEDY | An address label error led to a character on this show receiving a TV guide as "Ms. Chanandler Bong" | Friends
+right: Christopher
+Wrong: 
+Value: $2000
+Number: 5
+SLAW & ORDER | If you're having gravlax, the last 3 letters should tell you that you're eating this 6-letter fish | salmon
+right: Sam
+Wrong: 
+Value: $2000
+Number: 13
+Scores at the end of the Double Jeopardy! Round:
+Sam: $8,000
+Kathryn: $6,000
+Christopher: $18,400
+
+Final Jeopardy! Round
+ACTORS & PLAYS | Robert Armin played the role of the fool in "As You Like It", in "Twelfth Night" & in this tragedy 1st published in 1608 | King Lear
+right: Sam
+Wrong: 
+Kathryn: What
+Christopher: What is Macbeth
+Wagers: 
+Kathryn: $2,000
+Sam: $4,000
+Christopher: $2,000
+Final scores:
+Sam: $12,000 (2nd place: $25,000 to Refugees International & Oceana)
+Kathryn: $4,000 (3rd place: $25,000 to JusticeWorks Community & Planned Parenthood Federation of America)
+Christopher: $16,400 (Winner: $50,000 to the Big Apple Circus Clown Care Program & the Montefiore Advocacy Center)
+
+Coryat scores
+Sam: $8,000 (13 R,2 W)
+Kathryn: $6,000 (8 R,2 W)
+Christopher: $15,800 (23 R(including 2 DDs),3 W)

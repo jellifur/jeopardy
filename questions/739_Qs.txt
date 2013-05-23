@@ -1,0 +1,344 @@
+2964 - Thursday, June 19, 1997
+Contestants:
+Brian Nafziger: a graduate student from Urbana, Illinois
+Joy Luckabaugh: an index editor from Germantown, Maryland
+Chris Szymanski: a farmer from Marathon, Wisconsin (whose 1-day cash winnings total $12,600)
+First Jeopardy! Round: FLORIDA CITIES, TV STARS, ANNUAL EVENTS, SCIENCE, FURNITURE, CROSSWORD CLUES "L"
+FLORIDA CITIES | Tableware from the battleship Florida is a highlight of the governor's mansion in this city | Tallahassee
+right: Brian
+Wrong: 
+Value: $100
+Number: 4
+TV STARS | This "Good Morning America" hostess' "Healthy Cooking" cookbook was a 1996 bestseller | Joan Lunden
+right: Brian
+Wrong: 
+Value: $100
+Number: 9
+ANNUAL EVENTS | This Christian holiday can fall as early as March 22 or as late as April 25 | Easter
+right: Joy
+Wrong: 
+Value: $100
+Number: 19
+SCIENCE | An EEG records the electrical activity of this organ | Brain
+right: Joy
+Wrong: 
+Value: $100
+Number: 12
+FURNITURE | This oblong seat without a back holds baseball players | Bench
+right: Chris
+Wrong: 
+Value: $100
+Number: 20
+CROSSWORD CLUES "L" | They have breathing room             (5) | Lungs
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 1
+FLORIDA CITIES | This city, central Florida's largest, is one of the world's top tourist destinations | Orlando
+right: Joy
+Wrong: 
+Value: $200
+Number: 5
+TV STARS | "3rd Rock From The Sun" is this Oscar nominee's first sitcom | John Lithgow
+right: Brian
+Wrong: 
+Value: $200
+Number: 10
+ANNUAL EVENTS | Shelley, Idaho celebrates this tuber each September | Potato
+right: Chris
+Wrong: 
+Value: $200
+Number: 23
+SCIENCE | Human beings normally have 46 of these in most of their cells | Chromosomes
+right: Brian
+Wrong: 
+Value: $200
+Number: 13
+FURNITURE | Part of the house that precedes "clock", "chair" & "tree" | Hall
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 25
+CROSSWORD CLUES "L" | Paul Bunyan, for one            (10) | Lumberjack
+right: Joy
+Wrong: 
+Value: $200
+Number: 2
+FLORIDA CITIES | Miami is the seat of this county, which is entirely within Miami's metropolitan area | Dade County
+right: Brian
+Wrong: 
+Value: $300
+Number: 6
+TV STARS | This actor who plays Dr. Mark Greene on "ER" became the first cast member to direct an episode | Anthony Edwards
+right: Joy
+Wrong: 
+Value: $300
+Number: 11
+ANNUAL EVENTS | Each June Grand Rapids, Minnesota honors this "Wizard of Oz" star with a 4-day festival | Judy Garland
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 24
+SCIENCE | This second-lightest metal, symbol K, is so soft it can be cut with a knife | Potassium
+right: Brian
+Wrong: 
+Value: $300
+Number: 16
+FURNITURE | The Boston type of this chair has a spindle back & arms that match the curve of the seat, & sits on curved slats | Rocking chair
+right: Chris
+Wrong: 
+Value: $300
+Number: 26
+CROSSWORD CLUES "L" | Bagel topper           (3) | Lox
+right: Joy
+Wrong: 
+Value: $300
+Number: 3
+FLORIDA CITIES | John Ringling exerted major influence on the development of this city where he made his home in the 1920s | Sarasota
+right: Brian
+Wrong: 
+Value: $400
+Number: 7
+TV STARS | This former "Entertainment Tonight" co-host covered gymnastics for NBC at the 1996 Olympics | John Tesh
+right: Chris
+Wrong: 
+Value: $400
+Number: 14
+ANNUAL EVENTS | Jerry Lewis' annual Labor Day telethon raises money to fight this disease | Muscular Dystrophy
+right: Chris
+Wrong: 
+Value: $400
+Number: 29
+SCIENCE | He's been called the "Father of Modern Rocketry" | Robert Goddard
+right: Brian
+Wrong: 
+Value: $400
+Number: 18
+FURNITURE | Any "birdbrain" knows these are the small compartments for papers in a desk | Pigeonholes
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+CROSSWORD CLUES "L" | Tetanus woe           (7) | Lockjaw
+right: Joy
+Wrong: 
+Value: $400
+Number: 21
+FLORIDA CITIES | (VIDEO DAILY DOUBLE): Florida city in which the group seen here is headquartered: (Blue Angels) | Pensacola
+right: 
+Wrong: 
+Value: DD: $800
+Number: 8
+TV STARS | Caroline on "Baywatch", she was a Johnson & Johnson baby at age 6 months | Yasmine Bleeth
+right: Chris
+Wrong: 
+Value: $500
+Number: 17
+ANNUAL EVENTS | The Fiesta Bowl Parade & Prescott Bluegrass Festival are annual events in this state | Arizona
+right: Joy
+Wrong: 
+Value: $500
+Number: 30
+SCIENCE | According to his law, resistance in a DC circuit is the ratio of volts to amps | Georg Ohm
+right: Chris
+Wrong: 
+Value: $500
+Number: 15
+FURNITURE | This French term for a tall cupboard with doors goes back to what it originally held -- weapons | Armoire
+right: Joy
+Wrong: 
+Value: $500
+Number: 28
+CROSSWORD CLUES "L" | Dictionary compiler            (13) | Lexicographer
+right: Chris
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Chris: $900
+Joy: $700
+Brian: $500
+Scores at the end of the Jeopardy! Round:
+Chris: $2,900
+Joy: $1,800
+Brian: $1,100
+Second Jeopardy! Round: FIRST NOVELS, PEOPLE IN HISTORY, ARTISTS, WORLD GEOGRAPHY, FATS & OILS, SHAKESPEAREAN LAST SCENES
+FIRST NOVELS | This Dane's first novel "The Improviser", was published the same year as his first book of fairy tales | Hans Christian Andersen
+right: Joy
+Wrong: 
+Value: $200
+Number: 16
+PEOPLE IN HISTORY | Claiming he was innocent, Captain Kidd was hanged in 1701 in this English capital for murder & piracy | London
+right: Brian
+Wrong: 
+Value: $200
+Number: 11
+ARTISTS | A fine series of these paintings on fresh plaster in Assisi is tentatively attributed to Giotto | frescoes
+right: Chris
+Wrong: 
+Value: $200
+Number: 21
+WORLD GEOGRAPHY | If you're out in this European mountain range you may find the Inn Valley | the Alps
+right: Chris
+Wrong: 
+Value: $200
+Number: 1
+FATS & OILS | The inventor of this substitute named it after the Greek word for "pearly"--margarites | margarine
+right: Joy
+Wrong: 
+Value: $200
+Number: 25
+SHAKESPEAREAN LAST SCENES | Friar Lawrence urges her to join "a sisterhood of holy nuns" but she ignores him & kills herself | Juliet
+right: Joy
+Wrong: 
+Value: $200
+Number: 3
+FIRST NOVELS | In this first Tom Clancy novel, the captain of a Soviet sub decides to defect with his ship | The Hunt for Red October
+right: Chris
+Wrong: 
+Value: $400
+Number: 17
+PEOPLE IN HISTORY | This first prime minister of independent India was educated in England at Harrow & Cambridge | Jawaharlal Nehru
+right: Brian
+Wrong: 
+Joy: Who is Gandhi?
+Value: $400
+Number: 12
+ARTISTS | His father, Auguste Manet, worked for the Ministry of Justice & wanted him to become a lawyer | Edouard Manet
+right: Brian
+Wrong: 
+Value: $400
+Number: 22
+WORLD GEOGRAPHY | Bayern is the German name of this German state known for its beer | Bavaria
+right: Joy
+Wrong: 
+Value: $400
+Number: 7
+FATS & OILS | Ancient Greeks used this pressed oil from the fruit of the Olea Europaea for skin lotion & anointings | olive oil
+right: Chris
+Wrong: 
+Value: $400
+Number: 26
+SHAKESPEAREAN LAST SCENES | This comedy ends in Lucentio's house, not in Petruchio's | The Taming of the Shrew
+right: Chris
+Wrong: 
+Value: $400
+Number: 4
+FIRST NOVELS | Sherwood Anderson helped this Mississippian find a publisher for "Soldier's Pay", his first novel | William Faulkner
+right: Brian
+Wrong: 
+Value: $600
+Number: 18
+PEOPLE IN HISTORY | For health reasons, this founder of the Boy Scouts spent his last years in Kenya | Lord Robert Baden-Powell
+right: Brian
+Wrong: 
+Value: $600
+Number: 13
+ARTISTS | As an art student in Madrid he met director Luis Bunuel with whom he later made the film "An Andalusian Dog" | Salvador Dali
+right: Chris
+Wrong: 
+Value: $600
+Number: 23
+WORLD GEOGRAPHY | Though Bornholm is a Danish island, it's much closer to this Scandinavian country than to Denmark | Sweden
+right: Brian
+Wrong: 
+Value: $600
+Number: 8
+FATS & OILS | This type of fat found in plum pudding can be used to make tallow candles | suet
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+SHAKESPEAREAN LAST SCENES | The last scene of this tragedy takes place in a pavillion in Titus' garden in Rome | Titus Andronicus
+right: Chris
+Wrong: 
+Value: $600
+Number: 5
+FIRST NOVELS | He introduced intelligence agent George Smiley in 1961's "Call for the Dead" | John le Carré
+right: Brian
+Wrong: 
+Value: $800
+Number: 19
+PEOPLE IN HISTORY | King Haakon I of this country was killed in battle while fighting Erik Bloodax' sons | Norway
+right: Joy
+Wrong: 
+Value: $800
+Number: 14
+ARTISTS | He was 24 when he first painted Spain's Philip IV who became his patron | Diego Velasquez
+right: Chris
+Wrong: 
+Brian: Who was Goya?
+Value: $800
+Number: 24
+WORLD GEOGRAPHY | An island called the Calf of Man lies southwest of the Isle of Man in this sea | Irish Sea
+right: Chris
+Wrong: 
+Value: $800
+Number: 9
+FATS & OILS | The name of this oil was changed from "rapeseed oil" by the Canadian oil-seed industry | canola oil
+right: 
+Wrong: Triple Stumper
+Brian: What is linseed oil?
+Value: $800
+Number: 29
+SHAKESPEAREAN LAST SCENES | This prince of Tyre discovers the wife he believed was dead has become a priestess of Diana | Pericles
+right: Chris
+Wrong: 
+Joy: Who is Priam?
+Value: $800
+Number: 6
+FIRST NOVELS | Later a Bertolucci film, this first novel by Paul Bowles is considered a model of existential fiction | The Sheltering Sky
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+PEOPLE IN HISTORY | William H. Seward negotiated the Alaska Purchase during this president's administration | Andrew Johnson
+right: 
+Wrong: 
+Joy: Who is Theodore Roosevelt?
+Value: DD: $1,000
+Number: 15
+ARTISTS | In 1906 Rodin invited this Romanian sculptor to work in his studio, but he refused | Constantin Brancusi
+right: Brian
+Wrong: 
+Value: $1000
+Number: 27
+WORLD GEOGRAPHY | At 7,339 feet, Mount Orohena on this island is the highest point in the Society Islands | Tahiti
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+FATS & OILS | Found in fish, omega-3 oils are thought to lower the level of this bad cholesterol | LDL (low density lipoproteins)
+right: Chris
+Wrong: 
+Value: $1000
+Number: 30
+SHAKESPEAREAN LAST SCENES | Shortly before he dies this king laments, "And my poor fool is hang'd!" | King Lear
+right: Chris
+Wrong: 
+Value: DD: $3,100
+Number: 2
+Scores at the end of the Double Jeopardy! Round:
+Chris: $12,200
+Joy: $1,400
+Brian: $4,100
+
+Final Jeopardy! Round
+GOVERNMENT OFFICIALS | Last name of 2 brothers, one currently a cabinet secretary & one mayor of a city of several million | Daley (William M. & Richard M.)
+right: Brian
+Wrong: 
+Joy: What is Pena?
+Chris: What is Brown?  Hi D!
+Wagers: 
+Joy: $1,389
+Brian: $4,100
+Chris: $800
+Final scores:
+Chris: $11,400 (2-day champion: $24,000)
+Joy: $11 (3rd place: Panasonic 27-inch diagonal Superflat TV system)
+Brian: $8,200 (2nd place: Softub Portable Spa & Lloyd/Flanders Patio Furniture)
+
+Coryat scores
+Chris: $10,100 (20 R(including 1 DD),0 W)
+Joy: $2,400 (14 R,5 W(including 1 DD))
+Brian: $4,900 (16 R,4 W(including 1 DD))

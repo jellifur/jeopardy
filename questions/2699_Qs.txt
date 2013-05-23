@@ -1,0 +1,352 @@
+4582 - Tuesday, July 6, 2004
+Comments: Ken Jennings game 25.
+Contestants:
+Jenny Miller: a legislative assistant from Arlington, Virginia
+Tom Aquino: a lawyer from Boston, Massachusetts
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 24-day cash winnings total $774,960)
+First Jeopardy! Round: U.S. PRESIDENTIAL NICKNAMES, BALLPARK FIGURES, WEDDINGS, NOVEL QUOTES, THREE CHEERS!, GIVE ME AN "A"!
+U.S. PRESIDENTIAL NICKNAMES | "The Surveyor President" | George Washington
+right: Tom
+Wrong: 
+Ken: Uh, who is... Jefferson?
+Value: $200
+Number: 6
+BALLPARK FIGURES | In 2004 he published "My Prison Without Bars" | Pete Rose
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+WEDDINGS | It's the job of the lad seen <http://www.j-archive.com/media/2004-07-06_J_11.jpg> here | ringbearer
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+NOVEL QUOTES | (1937) "'It's me, Bilbo Baggins, companion of Thorin!'" | The Hobbit
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+THREE CHEERS! | It's the breakfast cereal pitched by the animated elves Snap, Crackle & Pop | Rice Krispies
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+GIVE ME AN "A"! | Wow!  In 2002 a "supercolony" of billions of these was discovered stretching across several countries in Europe | ants
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+U.S. PRESIDENTIAL NICKNAMES | "The Illinois Baboon" & "The Martyr President" | Abraham Lincoln
+right: Jenny
+Wrong: 
+Value: $400
+Number: 7
+BALLPARK FIGURES | With the Yankees from 1923 to 1939, his No. 4 was the first number retired in either league | Lou Gehrig
+right: Jenny
+Wrong: 
+Value: $400
+Number: 22
+WEDDINGS | In 2002 a hot pink frock worn by Robin Durr won the DeKuyper Contest for the worst of these | a bridesmaid's dress
+right: Jenny
+Wrong: 
+Ken: What's a wedding dress?
+Value: $400
+Number: 12
+NOVEL QUOTES | (1719) "I made him know his name should be Friday, which was the day I saved his life" | Robinson Crusoe
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+THREE CHEERS! | The 3 U.K. countries that make up the island of Great Britain | England, Scotland & Wales
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+GIVE ME AN "A"! | Robert Frost wondered "How many" of these "fell on Newton's head before he took the hint!" | apples
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+U.S. PRESIDENTIAL NICKNAMES | "Red Fox" & "The Scribe of the Revolution" | Thomas Jefferson
+right: Jenny
+Wrong: 
+Value: $600
+Number: 8
+BALLPARK FIGURES | Baseball's "Mr. October", he generated headlines for his cantankerous personality & his athletic prowess | Reggie Jackson
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+WEDDINGS | The traditional conclusion of the pre-vow line "If anyone can show just cause why they may not be joined together..." | "let him speak now or forever hold his peace"
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+NOVEL QUOTES | (1945) "All animals are equal, but some animals are more equal than others" | Animal Farm
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+THREE CHEERS! | The 4-legged Omaha made the record books in 1935 with this 3-feat | racing's Triple Crown
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+GIVE ME AN "A"! | In 2004 an Arctic Beauty wild hair contest became part of the famous Fur Rendezvous in this U.S. city | Anchorage
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+U.S. PRESIDENTIAL NICKNAMES | (<http://www.j-archive.com/media/2004-07-06_J_09.jpg> Sofia of the Clue Crew stands next to a bust of President Hoover at the Hoover Dam Visitor Center.)  Herbert Hoover, for whom <http://www.j-archive.com/media/2004-07-06_J_09.wmv> the dam is named, was known as "The Great" this, his prepolitics profession | Engineer
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+BALLPARK FIGURES | Famous nickname of Leon Goslin, who played in all 19 World Series games with the Washington Senators | "Goose"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+WEDDINGS | A Navy wedding features an arch of swords; an Army wedding, an arch of these heavy cavalry swords | sabres
+right: Ken
+Wrong: 
+Tom: What are cutlasses?
+Value: $800
+Number: 14
+NOVEL QUOTES | (1932) "Over the main entrance the words, Central London Hatchery and Conditioning Centre" | Brave New World
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+THREE CHEERS! | Since the 1979 incident at this location, no new nuclear reactors have been ordered in the U.S. | Three-Mile Island
+right: Jenny
+Wrong: 
+Value: $800
+Number: 29
+GIVE ME AN "A"! | (<http://www.j-archive.com/media/2004-07-06_J_19.wmv> Sarah of the Clue Crew reports from Cape Cod, MA.) In 1986, this vessel, named either for a chipmunk or Woods Hole scientist Alan Vine, reached the Titanic | the Alvin
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+U.S. PRESIDENTIAL NICKNAMES | "The Schoolmaster in Politics" | Woodrow Wilson
+right: Jenny
+Wrong: 
+Value: DD: $1,000
+Number: 10
+BALLPARK FIGURES | Sadly, this lefty pitcher who coined the Mets' battle cry "You gotta believe" died in 2004 | Tug McGraw
+right: Tom
+Wrong: 
+Value: $1000
+Number: 25
+WEDDINGS | It's the festive-sounding name for one who officiates at a wedding | the celebrant
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+NOVEL QUOTES | (1972) "Rabbits need dignity and above all the will to accept their fate" | Watership Down
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+THREE CHEERS! | Mythical monstrosity manifested <http://www.j-archive.com/media/2004-07-06_J_30.jpg> here | Cerberus
+right: Jenny
+Wrong: 
+Value: $1000
+Number: 30
+GIVE ME AN "A"! | The name Zog is not as much in vogue as it once was, when King Zog I ruled this European country | Albania
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ken: $3,200
+Tom: $200
+Jenny: $2,400
+Scores at the end of the Jeopardy! Round:
+Ken: $10,000
+Tom: $400
+Jenny: $4,600
+Second Jeopardy! Round: RUBY, THE EMERALD ISLE, PEARLS OF WISDOM, CORAL REEF LIFE, "DIAMOND"s IN THE ROUGH, WHAT A GEM!
+RUBY | In newspapers, Jack Ruby was invariably described as an "operator" of these joints | strip joints (or nightclubs)
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+THE EMERALD ISLE | It's the only Irish city with a population above 500,000 | Dublin
+right: Tom
+Wrong: 
+Value: $400
+Number: 1
+PEARLS OF WISDOM | An artist: "In the future, everyone will be world-famous for 15 minutes" | Andy Warhol
+right: Jenny
+Wrong: 
+Value: $400
+Number: 16
+CORAL REEF LIFE | Just off Australia, it's the largest chain of coral reefs in the world | the Great Barrier Reef
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+"DIAMOND"s IN THE ROUGH | Dangerous American pit viper | the diamondback
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+WHAT A GEM! | The largest deposits of this fossil tree resin are found in the sands along the shores of the Baltic Sea | amber
+right: Jenny
+Wrong: 
+Value: $400
+Number: 21
+RUBY | On Feb. 29, 2004 she won an Oscar for playing a woman named Ruby | Renée Zellweger
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+THE EMERALD ISLE | It's the one-word term for the traditional 6 counties known as Northern Ireland | Ulster
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+PEARLS OF WISDOM | A Founding Father: "There never was a good war or a bad peace" | Benjamin Franklin
+right: Jenny
+Wrong: 
+Value: $800
+Number: 17
+CORAL REEF LIFE | John Pennekamp Coral Reef State Park, the USA's first underwater park, is just off the coast of this Florida key | Key Largo
+right: Tom
+Wrong: 
+Ken: What's Key West?
+Value: $800
+Number: 27
+"DIAMOND"s IN THE ROUGH | Honolulu high spot | Diamond Head
+right: 
+Wrong: Triple Stumper
+Ken: Oh.  What is... Diamond Peak?
+Value: $800
+Number: 12
+WHAT A GEM! | This December birthstone is the state gem of Arizona & New Mexico | turquoise
+right: Ken
+Wrong: 
+Tom: What is aquamarine?
+Value: $800
+Number: 22
+RUBY | She was married to Al Jolson when she starred in those classic 1930s Busby Berkeley musicals | Ruby Keeler
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+THE EMERALD ISLE | This U.S. president visited his family's ancestral village of Ballyporeen in 1984 | Reagan
+right: Ken
+Wrong: 
+Jenny: Who is Clinton?
+Value: $1200
+Number: 3
+PEARLS OF WISDOM | A 17th century writer: "Angling can be said to be so like the mathematics, that it can never be fully learnt" | Izaak Walton
+right: 
+Wrong: 
+Jenny: Who is Mark Twain?
+Value: DD: $5,000
+Number: 18
+CORAL REEF LIFE | A species of these well-armed creatures known as the crown-of-thorns feasts on coral reefs | starfish
+right: 
+Wrong: Triple Stumper
+Ken: What are jellyfish?
+Jenny: What is "an eneme"?
+Value: $1200
+Number: 28
+"DIAMOND"s IN THE ROUGH | Carol Channing's Broadway ballad from "Gentlemen Prefer Blondes" | "Diamonds Are A Girl's Best Friend"
+right: Jenny
+Wrong: 
+Value: $1200
+Number: 13
+WHAT A GEM! | Cornflower blue is the most prized color of this gem | a sapphire
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+RUBY | Harry Ruby & Bert Kalmar wrote this classic song about "eight little letters which simply mean I love you" | "Three Little Words"
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+THE EMERALD ISLE | This Irish port city on the River Suir is world famous for its crystal | Waterford
+right: Jenny
+Wrong: 
+Value: $1600
+Number: 4
+PEARLS OF WISDOM | A playwright: "We are all born mad.  Some remain so." | Samuel Beckett
+right: 
+Wrong: Triple Stumper
+Jenny: Who is Oscar Wilde?
+Value: $1600
+Number: 19
+CORAL REEF LIFE | This coral reef dweller seen <http://www.j-archive.com/media/2004-07-06_DJ_30.jpg> here can be vicious & has been known to attack underwater divers | a moray eel
+right: Tom
+Wrong: 
+Value: $1600
+Number: 30
+"DIAMOND"s IN THE ROUGH | Arkansassy state park near Murfreesboro | Crater of Diamonds State Park
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+WHAT A GEM! | Mexico is known for its water & fire varieties of this gem | opal
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+RUBY | In a 1999 TV movie, she played Bessie, of the centenarian Delany sisters | Ruby Dee
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+THE EMERALD ISLE | At about 230 miles, it's not only the longest river in Ireland, it's the longest in the British Isles | the River Shannon
+right: 
+Wrong: 
+Jenny: What is... I can't remember.
+Value: DD: $2,000
+Number: 5
+PEARLS OF WISDOM | A philosopher: "Those who cannot remember the past are condemned to repeat it" | George Santayana
+right: 
+Wrong: Triple Stumper
+Tom: Who's Voltaire?
+Value: $2000
+Number: 20
+CORAL REEF LIFE | It's a ring-shaped coral island surrounding a lagoon, like Bikini or Eniwetok | an atoll
+right: Ken
+Wrong: 
+Value: $2000
+Number: 29
+"DIAMOND"s IN THE ROUGH | This lavish-living turn-of-the-century financier rose from a job as a bellhop | Diamond Jim Brady
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+WHAT A GEM! | In 1750 a Parisian jeweler found that heat turns this sherry-colored Brazilian gem pink | topaz
+right: Jenny
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ken: $22,000
+Tom: $400
+Jenny: $0
+
+Final Jeopardy! Round
+HISTORIC ENGLISHMEN | Ironically, he might have saved himself from death in 1779 if he had known how to swim | Captain Cook
+right: 
+Wrong: 
+Tom: Who is ?
+Ken: Who is George III?
+Wagers: 
+Tom: $0
+Ken: $8,000
+Final scores:
+Ken: $14,000 (25-day champion: $788,960)
+Tom: $400 (2nd place: $2,000)
+Jenny: $0 (3rd place: $1,000)
+
+Coryat scores
+Ken: $22,000 (32 R,5 W)
+Tom: $400 (5 R,3 W)
+Jenny: $7,000 (13 R(including 1 DD),5 W(including 2 DDs))

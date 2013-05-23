@@ -1,0 +1,329 @@
+6280 - Friday, December 30, 2011
+Comments: Dave Leach game 2.
+Contestants:
+Tom Vanderbilt: a writer from Brooklyn, New York
+Lisa Spardel-Krol: an educational marketer from Watertown, Massachusetts
+Dave Leach: a software analyst from Atlanta, Georgia (whose 1-day cash winnings total $15,599)
+First Jeopardy! Round: THE 1820s, COMPLETE THE MOVIE QUOTE, "A"NATOMY, THE MOST EXPENSIVE EVER, MUSEUMS OF GERMANY, SILENT LETTERS
+THE 1820s | In 1822 Friedrich Buschmann obtained a patent for this instrument also known as a squeezebox | an accordion
+right: Dave
+Wrong: 
+Value: $200
+Number: 21
+COMPLETE THE MOVIE QUOTE | "Sudden Impact": "Go ahead, ____ ____ ____" | make my day
+right: Dave
+Wrong: 
+Value: $200
+Number: 11
+"A"NATOMY | It's not an actual fruit but a bulge formed by the thyroid cartilage of the larynx | the Adam's apple
+right: Dave
+Wrong: 
+Value: $200
+Number: 1
+THE MOST EXPENSIVE EVER | The most expensive one of these kits is Keith Moon's Premier set, which sold at auction in 2004 for about $250,000 | drums
+right: Dave
+Wrong: 
+Value: $200
+Number: 16
+MUSEUMS OF GERMANY | Kids will love the hands-on Stone Age Workshop at the Mettmann Museum of this early man | Neanderthal
+right: Tom
+Wrong: 
+Value: $200
+Number: 22
+SILENT LETTERS | W: Gorgeous George was one of these "combatants" | a wrestler
+right: Lisa
+Wrong: 
+Value: $200
+Number: 6
+THE 1820s | In 1827 chemist John Walker "struck" gold by inventing the first friction ones of these; smokers really liked them | matches
+right: Dave
+Wrong: 
+Value: $400
+Number: 27
+COMPLETE THE MOVIE QUOTE | "Love Story": "Love means ____ ____ ____ ____ ____ ____" | never having to say you're sorry
+right: Dave
+Wrong: 
+Value: $400
+Number: 12
+"A"NATOMY | The gastrointestinal tract is also called this canal, Watson | the alimentary
+right: Tom
+Wrong: 
+Value: $400
+Number: 2
+THE MOST EXPENSIVE EVER | With a solid gold nib, the 1 million euro Aurora Diamond is the most expensive one of these ever | a fountain pen
+right: Tom
+Wrong: 
+Value: $400
+Number: 17
+MUSEUMS OF GERMANY | A Baden-Baden museum devoted to the works of this Russian imperial jeweler opened in 2009 | Fabergé
+right: Lisa
+Wrong: 
+Value: $400
+Number: 23
+SILENT LETTERS | H: An ecstatic expression, or an emotional musical composition | rhapsody
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+THE 1820s | He was about 70 when he published his "American Dictionary of the English Language" in 2 volumes in 1828 | (Noah) Webster
+right: Dave
+Wrong: 
+Value: $600
+Number: 28
+COMPLETE THE MOVIE QUOTE | "When Harry Met Sally":  "I'll have ____ ____ ____" | what she's having
+right: Dave
+Wrong: 
+Value: $600
+Number: 13
+"A"NATOMY | The 2 vertebral these perform the rather important function of supplying blood to the brain | arteries
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+THE MOST EXPENSIVE EVER | In 2010 sex.com was sold for $13 million, the most ever paid for the part of an Internet address called this "name" | a domain name
+right: Dave
+Wrong: 
+Value: $600
+Number: 18
+MUSEUMS OF GERMANY | The Egyptian Museum in Berlin has the world-famous painted bust of this queen & wife of Akhenaton | Nefertiti
+right: Lisa
+Wrong: 
+Value: $600
+Number: 24
+SILENT LETTERS | C-H: Named for a German botanist, this drooping flower seen <http://www.j-archive.com/media/2011-12-30_J_08.jpg> here lends its name to a vivid, purplish-red color | fuschia
+right: Dave
+Wrong: 
+Value: $600
+Number: 8
+THE 1820s | In 1822 French Egyptologist Jean Champollion published a paper on the translation of this artifact | the Rosetta Stone
+right: Dave
+Wrong: 
+Value: $800
+Number: 29
+COMPLETE THE MOVIE QUOTE | "Gone with the Wind": "As God is my witness... I'll never be ____ ____" | hungry again
+right: Dave
+Wrong: 
+Value: $800
+Number: 14
+"A"NATOMY | The name of this body section is Latin for "belly" | the abdomen
+right: Dave
+Wrong: 
+Value: $800
+Number: 4
+THE MOST EXPENSIVE EVER | The most expensive silent movie-era film ever made was this $4 million epic; did we mention the chariot race? | Ben-Hur
+right: Tom
+Wrong: 
+Value: $800
+Number: 19
+MUSEUMS OF GERMANY | A Mainz museum honoring this most famous son traces the history of printing & has a replica of his press on display | Gutenberg
+right: 
+Wrong: 
+Lisa: Uh, who is Nuremberg?
+Value: DD: $1,000
+Number: 25
+SILENT LETTERS | S: This title of nobility ranks just below earl | viscount
+right: 
+Wrong: Triple Stumper
+Dave: What is marquis?
+Value: $800
+Number: 9
+THE 1820s | The first issue of this "incisive" British medical journal was published on October 5, 1823 | The Lancet
+right: Dave
+Wrong: 
+Value: $1000
+Number: 30
+COMPLETE THE MOVIE QUOTE | "All About Eve": "Fasten your seat belts.  It's going to be a ____ ____" | bumpy night
+right: Dave
+Wrong: 
+Value: $1000
+Number: 15
+"A"NATOMY | Gas exchange occurs in these tiny, thin-walled sacs in the lungs | alveoli
+right: Dave
+Wrong: 
+Value: $1000
+Number: 5
+THE MOST EXPENSIVE EVER | The most expensive aircraft ever built is this alphanumerically named stealth bomber, at $2 billion apiece | the B-2
+right: Tom
+Wrong: 
+Value: $1000
+Number: 20
+MUSEUMS OF GERMANY | This city's Bavarian National Museum was created in 1855 by Maximilian II to preserve Bavaria's artistic treasures | Munich
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 26
+SILENT LETTERS | B: He's the Zap Comix artist whose distinctive satirical work is seen <http://www.j-archive.com/media/2011-12-30_J_10.jpg> here | Robert Crumb (or R. Crumb)
+right: Tom
+Wrong: 
+Lisa: Who is Harry Crumb?
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Dave: $5,400
+Lisa: -$800
+Tom: $1,400
+Scores at the end of the Jeopardy! Round:
+Dave: $9,200
+Lisa: $200
+Tom: $3,800
+Second Jeopardy! Round: NATIONAL PARKS OF THE WORLD, BRITISH NOVELS BY CHARACTERS, "RE"SEARCH, THINK OF THE CHILDREN!, AT BAT, ON DECK
+NATIONAL PARKS OF THE WORLD | New Zealand's smallest park is named for this Dutchman who became the first European to see the country | (Abel) Tasman
+right: Dave
+Wrong: 
+Value: $400
+Number: 3
+BRITISH NOVELS BY CHARACTERS | Charles Marlow & Mr. Kurtz | Heart of Darkness
+right: Tom
+Wrong: 
+Value: $400
+Number: 22
+"RE"SEARCH | You'll be a slug in your next life if you can't tell me this term for the soul coming back in a new form | reincarnation
+right: Dave
+Wrong: 
+Value: $400
+Number: 9
+THINK OF THE CHILDREN! | Victoria & Albert: Alice, Alfred, Arthur, Beatrice, Helena, Louise, Leopold, Victoria Adelaide & this king | Edward
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 1
+AT BAT | Mickey Mantle & Pete Rose were this kind of hitter who changes sides of the plate depending on the pitcher | a switch-hitter
+right: Tom
+Wrong: 
+Value: $400
+Number: 14
+ON DECK | Fractional term for part of a naval vessel usually reserved for officers | the quarterdeck
+right: 
+Wrong: Triple Stumper
+Dave: Ooh.  What is the command deck?
+Tom: Forequarters?  What is forequarters?
+Value: $400
+Number: 4
+NATIONAL PARKS OF THE WORLD | South Africa's Richtersveld National Park is partially located within a loop of this "colorful" river | the Orange River
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+BRITISH NOVELS BY CHARACTERS | Cedric the Saxon, Rebecca, Lady Rowena | Ivanhoe
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+"RE"SEARCH | On an invitation, the phrase these "only" means we assume you're coming, but let us know if you're not | regrets
+right: Dave
+Wrong: 
+Value: $800
+Number: 10
+THINK OF THE CHILDREN! | Abraham Lincoln & Mary Todd: Edward, Willie, Tad & this boy, the only one to survive to adulthood | Robert Todd Lincoln
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+AT BAT | Jim Rice was so powerful, he broke a bat without hitting the ball on one of these, a swing the batter tries to stop | a checked swing
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+ON DECK | The USS Nimitz carries 90 aircraft on this aptly named deck; its area takes up about 4.5 acres | the flight deck
+right: Tom
+Wrong: 
+Value: $800
+Number: 5
+NATIONAL PARKS OF THE WORLD | The largest national park lies on this island; at 375,000 square miles, it occupies about 45% of this island's area | Greenland
+right: Dave
+Wrong: 
+Value: DD: $3,000
+Number: 21
+BRITISH NOVELS BY CHARACTERS | Charles Ryder, Lord & Lady Marchmain | Brideshead Revisited
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 24
+"RE"SEARCH | In music production, "wet" & "dry" refer to sound with more or less of this effect--ect--ect | reverberation
+right: Dave
+Wrong: 
+Value: $1200
+Number: 11
+THINK OF THE CHILDREN! | Noah & an unnamed Biblical woman: Japheth & these 2 other fellas | Shem & Ham
+right: Dave
+Wrong: 
+Value: $1200
+Number: 19
+AT BAT | Many hitters try to gain an advantage by scratching the back line of this | the batter's box
+right: Dave
+Wrong: 
+Value: $1200
+Number: 16
+ON DECK | A type of walk, or an upper deck on a passenger ship where folks can stroll | the promenade deck
+right: 
+Wrong: 
+Tom: Uh, um... what is the lido deck?
+Value: DD: $4,200
+Number: 6
+"RE"SEARCH | The Civil War-era Henry was one of the first of this type of rifle that you didn't have to keep reloading | a repeater
+right: Tom
+Wrong: 
+Value: $1600
+Number: 12
+AT BAT | A 2004 at-bat by the tenacious Alex Cora went ball, strike, ball, 14 of these, home run | foul balls
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 17
+ON DECK | This term for a sailor's quarters near the bow can be said using either 2 or 3 syllables | forecastle (or fo'c'stle)
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 7
+NATIONAL PARKS OF THE WORLD | The 3 "lakes of" this Irish national park are Upper Lake, Muckross Lake & Lough Leane | Killarney National Park
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+BRITISH NOVELS BY CHARACTERS | Christian, Evangelist, Mr. Worldly Wiseman | Pilgrim's Progress
+right: 
+Wrong: Triple Stumper
+Dave: What is Vanity Fair?
+Value: $2000
+Number: 25
+"RE"SEARCH | It's the term for sums of money sent back to their homelands by immigrants in the U.S. | remittances
+right: Dave
+Wrong: 
+Value: $2000
+Number: 13
+AT BAT | At age 90, this Cardinal legend who hit safely over 3,600 times appeared at the 2011 World Series | Stan "The Man" Musial
+right: 
+Wrong: Triple Stumper
+Tom: Who is Ty Cobb?
+Value: $2000
+Number: 18
+ON DECK | As its name indicates, this 3-letter deck on old warships had cannons end to end | the gun deck
+right: Dave
+Wrong: 
+Value: $2000
+Number: 8
+Scores at the end of the Double Jeopardy! Round:
+Dave: $19,800
+Lisa: $1,800
+Tom: $400
+
+Final Jeopardy! Round
+ROCK ICONS | While he's had 12 top 10 hits on Billboard, including 7 from a 1984 album, he's never had a No. 1 single | Bruce Springsteen
+right: 
+Wrong: 
+Tom: Who is Jackson
+Lisa: Who is Prince?
+Dave: Who is Prince?
+Wagers: 
+Tom: $400
+Lisa: $10
+Dave: $716
+Final scores:
+Dave: $19,084 (2-day champion: $34,683)
+Lisa: $1,790 (2nd place: $2,000)
+Tom: $0 (3rd place: $1,000)
+
+Coryat scores
+Dave: $18,000 (27 R(including 1 DD),3 W)
+Lisa: $2,800 (5 R,2 W(including 1 DD))
+Tom: $4,600 (10 R,3 W(including 1 DD))

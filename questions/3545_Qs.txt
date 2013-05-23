@@ -1,0 +1,347 @@
+6060 - Friday, January 7, 2011
+Contestants:
+Gabe Perez-Giz: a graduate student of physics from New York, New York
+Dana Gresko: a marketing manager from Montpelier, Virginia
+Dan Jensen: a restaurant manager from Reston, Virginia (whose 1-day cash winnings total $21,001)
+First Jeopardy! Round: THE SPIRIT OF ST. LOUIS, TAKING STOCK, SYMBOLICALLY, ENDS IN "H", THE NATIONAL INVENTORS HALL OF FAME, INTERNATIONAL FOOD, POETS OF SONG
+THE SPIRIT OF ST. LOUIS | After viewing the city from the top of this landmark, make sure to visit the museum of westward expansion, below | the Gateway Arch
+right: Gabe
+Wrong: 
+Value: $200
+Number: 21
+TAKING STOCK, SYMBOLICALLY | Need some toner for that printer? Give HPQ, this company, a try | Hewlett-Packard
+right: Gabe
+Wrong: 
+Value: $200
+Number: 1
+ENDS IN "H" | As a verb it means to sit with an awkward, drooping posture; as a noun, it refers to an awkward, lazy person | a slouch
+right: Dana
+Wrong: 
+Value: $200
+Number: 6
+THE NATIONAL INVENTORS HALL OF FAME | For his revolver with interchangeable parts | Colt
+right: Dana
+Wrong: 
+Value: $200
+Number: 11
+INTERNATIONAL FOOD | Millet, this type of plant, is a West African staple | a grain
+right: Gabe
+Wrong: 
+Value: $200
+Number: 13
+POETS OF SONG | This Dylan song asked, "How many times must the cannonballs fly, before they're forever banned" | "Blowin' In The Wind"
+right: Gabe
+Wrong: 
+Value: $200
+Number: 26
+THE SPIRIT OF ST. LOUIS | This type of transport on St. Louis' official seal symbolizes the city's early growth | the steamboat
+right: Dana
+Wrong: 
+Value: $400
+Number: 22
+TAKING STOCK, SYMBOLICALLY | AA doesn't stand for aluminum, aluminum, but this company | Alcoa
+right: Dan
+Wrong: 
+Dana: What is American Airlines?
+Value: $400
+Number: 2
+ENDS IN "H" | This gate fastener consists of a bar that fits into a slot & is lifted by a lever | a latch
+right: Dana
+Wrong: 
+Value: $400
+Number: 7
+THE NATIONAL INVENTORS HALL OF FAME | For the disposable safety razor | Gillette
+right: Dan
+Wrong: 
+Value: $400
+Number: 12
+INTERNATIONAL FOOD | A Spaniard's flan is a Frenchman's alliterative dessert called creme this | caramel
+right: Dana
+Wrong: 
+Value: $400
+Number: 14
+POETS OF SONG | His song told of "People talking without speaking... people writing songs that voices never share" | Paul Simon
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+THE SPIRIT OF ST. LOUIS | A replica of his Spirit of St. Louis plane that was used in the 1957 movie is on display at the Missouri History Museum | Lindbergh
+right: Gabe
+Wrong: 
+Value: $600
+Number: 23
+TAKING STOCK, SYMBOLICALLY | This company, WMT, employs 2.1 million associates worldwide & is the largest private employer in Mexico | Walmart
+right: Gabe
+Wrong: 
+Value: $600
+Number: 3
+ENDS IN "H" | It's a space for a ship to anchor, or a space to sleep on that ship | a berth
+right: Gabe
+Wrong: 
+Value: $600
+Number: 8
+THE NATIONAL INVENTORS HALL OF FAME | For his ice rink resurfacing machine | (Frank) Zamboni
+right: Dana
+Wrong: 
+Value: $600
+Number: 18
+INTERNATIONAL FOOD | (<http://www.j-archive.com/media/2011-01-07_J_15.jpg> Jimmy of the Clue Crew holds a plate of hummus in Israel.)  On average, each Israeli eats 22 pounds a year of hummus, a spread made from these | garbonzo beans (or chick peas)
+right: Dan
+Wrong: 
+Value: $600
+Number: 15
+POETS OF SONG | This rock god wrote, "Am I sitting in a tin can? Far above the world, planet Earth is blue and there's nothing I can do" | David Bowie
+right: Gabe
+Wrong: 
+Value: $600
+Number: 28
+THE SPIRIT OF ST. LOUIS | In 1953 Sportsman's Park was renamed this, becoming the first of 3 ballparks to bear the name | Busch Stadium
+right: 
+Wrong: Triple Stumper
+Dan: What is Memorial Park?
+Dana: What is Veteran's Park?
+Value: $800
+Number: 24
+TAKING STOCK, SYMBOLICALLY | What's in your wallet? This financial company, COF, hopes it's their credit card | Capital One
+right: Gabe
+Wrong: 
+Value: $800
+Number: 4
+ENDS IN "H" | Savior, from the Aramaic for "anointed one" | messiah
+right: Gabe
+Wrong: 
+Value: $800
+Number: 9
+THE NATIONAL INVENTORS HALL OF FAME | For his noise reduction systems that revolutionized the audio industry | Dolby
+right: Dan
+Wrong: 
+Dana: Who is Bose?
+Value: $800
+Number: 19
+INTERNATIONAL FOOD | Raita, which cools the mouth after spicy Indian dishes, is made from this dairy product | yogurt
+right: Dan
+Wrong: 
+Gabe: What is goat's milk?
+Value: $800
+Number: 16
+POETS OF SONG | English major Lou Reed wrote lyrics like "Whiplash girlchild in the dark" for this 1960s band | the Velvet Underground
+right: Gabe
+Wrong: 
+Value: $800
+Number: 29
+THE SPIRIT OF ST. LOUIS | He was director of the St. Louis Zoo in 1962 when he began working on "Mutual of Omaha's Wild Kingdom" | Marlin Perkins
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+TAKING STOCK, SYMBOLICALLY | You probably have something made by this company, PFE, in your medicine cabinet | Pfizer
+right: Gabe
+Wrong: 
+Value: $1000
+Number: 5
+ENDS IN "H" | The only state capital ending in "H", it was named for an English soldier & courtier | Raleigh
+right: 
+Wrong: 
+Value: DD: $2,500
+Number: 10
+THE NATIONAL INVENTORS HALL OF FAME | For improvements in the condensing of milk | Borden
+right: 
+Wrong: Triple Stumper
+Dana: Who is Pasteur?
+Value: $1000
+Number: 20
+INTERNATIONAL FOOD | Japanese-Peruvians changed cubes to strips, making tiradito instead of this traditional marinated fish dish | ceviche
+right: Dan
+Wrong: 
+Value: $1000
+Number: 17
+POETS OF SONG | "Love is a Banquet on which we feed" is from "Because The Night", co-written by this poetess of punk | Patti Smith
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Dan: $1,400
+Dana: $800
+Gabe: $1,700
+Scores at the end of the Jeopardy! Round:
+Dan: $3,200
+Dana: -$800
+Gabe: $3,300
+Second Jeopardy! Round: SMART ALEX, TV TITLE REFERENCES, BORN TO RUN, NECKWEAR, NUMBERS 4 LETTERS, "SONG" OF POETS
+SMART ALEX | Ornithologist Alexander Wetmore was also secretary of this Washington, D.C. institution | the Smithsonian
+right: Gabe
+Wrong: 
+Value: $400
+Number: 1
+TV TITLE REFERENCES | Joel McHale & Chevy Chase attend Greendale, this type of college | a community college
+right: Dana
+Wrong: 
+Value: $400
+Number: 20
+BORN TO RUN | His dad was the second U.S. president; he was No. 6 | John Quincy Adams
+right: Gabe
+Wrong: 
+Value: $400
+Number: 4
+NECKWEAR | From the Hindi for "tie-dyeing", this cowboy accessory was often used as a dust mask while driving cattle | a bandanna
+right: Dana
+Wrong: 
+Value: $400
+Number: 13
+NUMBERS 4 LETTERS | A Canaanite god: 2-1-1-12 | 
+right: Dan
+Wrong: 
+Value: $400
+Number: 3
+"SONG" OF POETS | Sections of this 1855 poem include "The Peace Pipe", "The White-Man's Foot" & "Blessing The Corn Fields" | 
+right: Dana
+Wrong: 
+Gabe: What is Hiawatha?
+Value: $400
+Number: 26
+SMART ALEX | He won a Nobel Prize for his 1928 discovery of an early antibiotic | Alexander Fleming
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+TV TITLE REFERENCES | On a sitcom, Amy Poehler works for this department of the local government of Pawnee, Indiana | Parks & Recreation
+right: Dana
+Wrong: 
+Value: $800
+Number: 22
+BORN TO RUN | His grandpa was the ninth U.S. president; he was No. 23 | Benjamin Harrison
+right: Dan
+Wrong: 
+Value: $800
+Number: 6
+NECKWEAR | In Hawaii a maile one of these was once used to signify a peace treaty between opposing chiefs | a lei
+right: Dan
+Wrong: 
+Value: $800
+Number: 14
+NUMBERS 4 LETTERS | A metallic element: 26-9-14-3 | 
+right: Dana
+Wrong: 
+Value: $800
+Number: 5
+"SONG" OF POETS | Read during Passover, it's also referred to as the "Canticle Of Canticles" | The Song Of Songs
+right: Dana
+Wrong: 
+Value: $800
+Number: 27
+SMART ALEX | Only 4'6" tall, <http://www.j-archive.com/media/2011-01-07_DJ_10.jpg> this 18th century Dunciad poet was known as the Wasp of Twickenham | (Alexander) Pope
+right: Dan
+Wrong: 
+Value: $1200
+Number: 10
+TV TITLE REFERENCES | This comedy gets its title from the part of the U.S. (Orson, Indiana) where Patricia Heaton's family lives | the middle
+right: Dan
+Wrong: 
+Value: $1200
+Number: 23
+BORN TO RUN | Patrick of this illustrious family was first elected to Congress from Rhode Island in 1994 | the Kennedy family
+right: Dana
+Wrong: 
+Value: $1200
+Number: 7
+NECKWEAR | For formal wear there are 2 types of these ties: the bat wing & the thistle | a bowtie
+right: Dan
+Wrong: 
+Value: DD: $2,000
+Number: 15
+NUMBERS 4 LETTERS | It's ready for war: 1-18-13-25 | 
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 17
+"SONG" OF POETS | Before the 1881 edition, it was simply titled "Poem Of Walt Whitman, An American" | Song Of Myself
+right: Gabe
+Wrong: 
+Value: $1200
+Number: 28
+SMART ALEX | Enslaved in a war in Asia Minor, Alexander Polyhistor tutored a Patrician's kids & was made a citizen of this empire | the Roman Empire
+right: Dana
+Wrong: 
+Dan: What is the Ottoman Empire?
+Value: $1600
+Number: 11
+TV TITLE REFERENCES | On Bones, <http://www.j-archive.com/media/2011-01-07_DJ_24.wmv> Dr. Temperance Brennan has the title of forensic this, and is able to read clues left behind in bones | anthropologist
+right: Gabe
+Wrong: 
+Value: $1600
+Number: 24
+BORN TO RUN | This president's son & grandson were Ohio senators; a great-grandson, Ohio's governor | William Howard Taft
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 8
+NECKWEAR | This long tubular scarf was usually made of fur or feathers such as ostrich or marabou | a boa
+right: Gabe
+Wrong: 
+Value: $1600
+Number: 16
+NUMBERS 4 LETTERS | The thread of a long story:  25-1-18-14 | 
+right: Dan
+Wrong: 
+Value: $1600
+Number: 18
+"SONG" OF POETS | William Blake published this collection in 1789; "Experience" would come a few years later | Songs Of Innocence
+right: 
+Wrong: 
+Gabe: [taps on lectern] What is song of something?
+Value: DD: $1,500
+Number: 29
+SMART ALEX | A major Pacific Ocean current off the South American Coast is named for this Alex who measured it in 1802 | (Alexander) Von Humboldt
+right: Dan
+Wrong: 
+Value: $2000
+Number: 12
+TV TITLE REFERENCES | Nathan Fillion plays a mystery novelist with this last name; he helps a female NYC police detective solve crimes | Castle
+right: Gabe
+Wrong: 
+Value: $2000
+Number: 25
+BORN TO RUN | Members of this family dynasty have included 2 Phoenix mayors, a Secretary of the Interior & 3 U.S. senators | the Udalls
+right: 
+Wrong: Triple Stumper
+Gabe: Who is McCain?
+Value: $2000
+Number: 9
+NECKWEAR | In the 19th Century, it was not considered proper for men to wear this, a false shirt front with attached collar | a dickey
+right: Dana
+Wrong: 
+Value: $2000
+Number: 21
+NUMBERS 4 LETTERS | A shade of blue: 3-25-1-14 | 
+right: Gabe
+Wrong: 
+Value: $2000
+Number: 19
+"SONG" OF POETS | An insignificant battle between Charlemagne & the Basques at Roncesvalles is the basis for this French epic poem | The Song Of Rolland
+right: Dana
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Dan: $11,600
+Dana: $9,600
+Gabe: $8,600
+
+Final Jeopardy! Round
+WORLD LANGUAGES | Of all the countries with Spanish as an official language, this one is last alphabetically | Venezuela
+right: Gabe | Dana | Dan
+Wrong: 
+Wagers: 
+Gabe: $4,599
+Dana: $2,001
+Dan: $7,601
+Final scores:
+Dan: $19,201 (2-day champion: $40,202)
+Dana: $11,601 (3rd place: $1,000)
+Gabe: $13,199 (2nd place: $2,000)
+
+Coryat scores
+Dan: $10,800 (14 R(including 1 DD),2 W)
+Dana: $9,600 (16 R,4 W)
+Gabe: $12,600 (19 R,5 W(including 2 DDs))

@@ -1,0 +1,342 @@
+3948 - Wednesday, October 31, 2001
+Comments: 2001 Tournament of Champions semifinal game 3.
+Contestants:
+Larry Cloud: a computer consultant from Inglewood, California
+Mark Eckard: a software designer from Bedford, Massachusetts
+Brad Rutter: a network administrator from Lancaster, Pennsylvania
+First Jeopardy! Round: GOVERNMENT & POLITICS, TV OR NOT TV, STRAIT TO THE POINT, TORAH! TORAH! TORAH!, ELEMENTARY ADVICE, PREFIXES
+GOVERNMENT & POLITICS | The preamble states that the Constitution was established "in order to form a more perfect" one of these | a union
+right: Mark
+Wrong: 
+Value: $100
+Number: 1
+TV OR NOT TV | "M*A*S*H" role played by Elliot Gould on film & by Wayne Rogers on TV | Trapper John
+right: Larry
+Wrong: 
+Mark: Who is, uh, Hawkeye?
+Value: $100
+Number: 6
+STRAIT TO THE POINT | The English Channel connects to this sea via the Strait of Dover | the North Sea
+right: Mark
+Wrong: 
+Value: $100
+Number: 11
+TORAH! TORAH! TORAH! | The Torah is also known as the 5 books of this leader who, tradition says, wrote them down | Moses
+right: Mark
+Wrong: 
+Value: $100
+Number: 16
+ELEMENTARY ADVICE | Zn before you speak | zinc before you speak
+right: Larry
+Wrong: 
+Value: $100
+Number: 22
+PREFIXES | Meaning "first" or "earliest", it may precede "plasm" | proto-
+right: Mark
+Wrong: 
+Value: $100
+Number: 18
+GOVERNMENT & POLITICS | With 54, this state's electoral votes represent slightly more than 10% of the total 538 | California
+right: Brad
+Wrong: 
+Value: $200
+Number: 2
+TV OR NOT TV | Duuuuude, Ray Walston totally reprised his role as Mr. Hand, Spicoli's teacher, in the series based on this film | Fast Times at Ridgemont High
+right: Brad
+Wrong: 
+Value: $200
+Number: 7
+STRAIT TO THE POINT | This strait separates the fourth-largest nation of the world from the largest | the Bering Strait
+right: Mark
+Wrong: 
+Value: DD: $900
+Number: 12
+TORAH! TORAH! TORAH! | Leviticus 23 mentions the Day of Atonement as well as this "feast of unleavened bread" | Passover
+right: Brad
+Wrong: 
+Value: $200
+Number: 17
+ELEMENTARY ADVICE | Mind your own Bi | mind your own bismuth
+right: Brad
+Wrong: 
+Value: $200
+Number: 23
+PREFIXES | Syncrasy doesn't mean anything without this prefix signifying "personal or private" | idio-
+right: Brad
+Wrong: 
+Value: $200
+Number: 27
+GOVERNMENT & POLITICS | The annual term of the Supreme Court usually ends in June & begins on the second Monday in this month | October
+right: Larry
+Wrong: 
+Value: $300
+Number: 3
+TV OR NOT TV | "You want" this Debbie Allen show based on a 1980 film?  Well, it "costs, and right here is where you start payin'" | Fame
+right: Mark
+Wrong: 
+Value: $300
+Number: 8
+STRAIT TO THE POINT | The Bosporus strait is straddled by this city | Istanbul
+right: Mark
+Wrong: 
+Value: $300
+Number: 13
+TORAH! TORAH! TORAH! | It's the famous 4-word command uttered in Exodus 5:1 | "Let my people go!"
+right: Mark
+Wrong: 
+Value: $300
+Number: 19
+ELEMENTARY ADVICE | All the best parking places Ar | all the best parking places argon
+right: Larry
+Wrong: 
+Value: $300
+Number: 24
+PREFIXES | The name of this fish seen <http://www.j-archive.com/media/2001-10-31_J_28.jpg> here is the prefix meaning "four" in its old genus name | tetra-
+right: 
+Wrong: Triple Stumper
+Mark: What is quad-?
+Value: $300
+Number: 28
+GOVERNMENT & POLITICS | Bob Dole's running mate in 1996, he is co-director of Empower America | Jack Kemp
+right: Brad
+Wrong: 
+Value: $400
+Number: 4
+TV OR NOT TV | The sitcom based on this Tom Hanks-Jackie Gleason film lasted about 8 weeks | Nothing in Common
+right: 
+Wrong: Triple Stumper
+Larry: What is Dad?
+Value: $400
+Number: 9
+STRAIT TO THE POINT | This strait runs through the Pillars of Hercules | the Strait of Gibraltar
+right: Brad
+Wrong: 
+Value: $400
+Number: 14
+TORAH! TORAH! TORAH! | In Genesis it is said that he was "a just man and perfect in his generations" | Noah
+right: Mark
+Wrong: 
+Value: $400
+Number: 20
+ELEMENTARY ADVICE | Cs the day | cesium the day
+right: Larry
+Wrong: 
+Value: $400
+Number: 25
+PREFIXES | Wherefore art thou this prefix that means "similar" & precedes "stasis" | homeo-
+right: Brad
+Wrong: 
+Value: $400
+Number: 29
+GOVERNMENT & POLITICS | At age 84, this West Virginian is the second-oldest member of the U.S. Senate; Strom Thurmond is 15 years older | (Robert) Byrd
+right: Brad
+Wrong: 
+Value: $500
+Number: 5
+TV OR NOT TV | Prof. Charles Kingsfield made law students cry the old-fashioned way both on film & on CBS in this series | The Paper Chase
+right: Mark
+Wrong: 
+Value: $500
+Number: 10
+STRAIT TO THE POINT | The Gulf of Oman is connected to this gulf by the Strait of Hormuz | the Persian Gulf
+right: Mark
+Wrong: 
+Value: $500
+Number: 15
+TORAH! TORAH! TORAH! | The Torah ends with this book | Deuteronomy
+right: Larry
+Wrong: 
+Brad: What is Numbers?
+Value: $500
+Number: 21
+ELEMENTARY ADVICE | A foolish criminal will become a Si | a foolish criminal will become a silicon
+right: Larry
+Wrong: 
+Value: $500
+Number: 26
+PREFIXES | It's a 4-letter medical prefix meaning "within" | endo-
+right: Mark
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Brad: $1,300
+Mark: $2,100
+Larry: $0
+Scores at the end of the Jeopardy! Round:
+Brad: $2,200
+Mark: $3,700
+Larry: $1,800
+Second Jeopardy! Round: HISTORICAL TRICK OR TREAT, KINGS OF ENGLAND, SPELL THE LAST NAME, TRAVEL & TOURISM, INSPIRED CHARACTERS, ROBOT MANIA
+HISTORICAL TRICK OR TREAT | (<http://www.j-archive.com/media/2001-10-31_DJ_01.jpg> Ding dong!  But the trick's on Rootin' Tootin' Sofia of the Clue Crew.)  I'm dressed up as this performer in Buffalo Bill's Wild West Show, but, uh, Mom wouldn't buy me a rifle! | Annie Oakley
+right: Brad
+Wrong: 
+Value: $200
+Number: 1
+KINGS OF ENGLAND | Before the Norman Conquest, there were 3 kings of this name; since, there have been 8 | Edward
+right: Brad
+Wrong: 
+Value: $200
+Number: 2
+TRAVEL & TOURISM | Theme rooms (with jacuzzis!) are available at the Fantasyland Hotel & Resort in this capital of Alberta | Edmonton
+right: Brad
+Wrong: 
+Mark: What is... Winnipeg?
+Value: $200
+Number: 11
+INSPIRED CHARACTERS | This author of "Orlando" based her 1922 novel "Jacob's Room" on the life & death of her brother Thoby | Virginia Woolf
+right: Mark
+Wrong: 
+Value: $200
+Number: 21
+ROBOT MANIA | In this 1984 film a cyborg from the future travels back in time to kill Sarah Connor | The Terminator
+right: Larry
+Wrong: 
+Value: $200
+Number: 16
+HISTORICAL TRICK OR TREAT | (<http://www.j-archive.com/media/2001-10-31_DJ_07.jpg> Ding dong!  Sir Jimmy of the Clue Crew is at the door.)  I'm sworn to uphold this code whose name is an alteration of a word meaning "horseman" | chivalry
+right: Brad
+Wrong: 
+Value: $400
+Number: 7
+KINGS OF ENGLAND | King who's railing <http://www.j-archive.com/media/2001-10-31_DJ_03.wmv> here in the Thomas More biopic "A Man for All Seasons"  "Catherine's not my wife!  No priest can make her so!" | Henry VIII
+right: Brad
+Wrong: 
+Value: $400
+Number: 3
+SPELL THE LAST NAME | Solo aerial Atlantic crosser of 1927 | L-I-N-D-B-E-R-G-H
+right: Mark
+Wrong: 
+Value: $400
+Number: 29
+TRAVEL & TOURISM | You'll pass through the Beule Gate on your way up this Athenian hill on the way to the Parthenon | the Acropolis
+right: Mark
+Wrong: 
+Value: $400
+Number: 12
+INSPIRED CHARACTERS | Scythrop Glowry in the 1818 novel "Nightmare Abbey" is believed to be a spoof of this poet, Lord Byron's pal | Shelley
+right: Brad
+Wrong: 
+Value: $400
+Number: 22
+ROBOT MANIA | This astromech droid from Naboo met his best bud, a protocol droid, in a sandstorm on Tatooine | R2-D2
+right: Mark
+Wrong: 
+Value: $400
+Number: 17
+HISTORICAL TRICK OR TREAT | (<http://www.j-archive.com/media/2001-10-31_DJ_08.jpg> Ding dong!  Cheryl of the Clue Crew prompts you to asp the question.)  I'm Cleopatra, & Shakespeare said, "Age cannot wither me, nor custom fail my infinite" this | variety
+right: Larry
+Wrong: 
+Mark: What is beauty?
+Value: $600
+Number: 8
+KINGS OF ENGLAND | In 1952 this father of Elizabeth II died in his sleep at Sandringham | George VI
+right: Brad
+Wrong: 
+Mark: Who is King George?... the... Fifth?
+Value: $600
+Number: 4
+SPELL THE LAST NAME | Soldier, statesman & 34th president of the U.S. | E-I-S-E-N-H-O-W-E-R
+right: Mark
+Wrong: 
+Value: $600
+Number: 26
+TRAVEL & TOURISM | The Schuylkill River flows through this city just before it empties into the Delaware | Philadelphia
+right: Mark
+Wrong: 
+Value: $600
+Number: 13
+INSPIRED CHARACTERS | Some of her books feature her alter ego Ariadne Oliver, creator of a fictional Finnish detective | Agatha Christie
+right: Brad
+Wrong: 
+Value: DD: $1,000
+Number: 23
+ROBOT MANIA | (<http://www.j-archive.com/media/2001-10-31_DJ_18.jpg> Sarah of the Clue Crew gets down with a robot dog.)  A marvel of modern engineering, this Sony product is very interactive--let's dance! | AIBO
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+HISTORICAL TRICK OR TREAT | (<http://www.j-archive.com/media/2001-10-31_DJ_09.jpg> Ding dong!  Jimmy of the Clue Crew is back for more!  Does he want candy or bread and circuses?)  Hail, Caesar!  I'm a commander in the Roman army where a hundred men form a century and 60 centuries form this group | a legion
+right: Brad
+Wrong: 
+Value: $800
+Number: 9
+KINGS OF ENGLAND | From the Latin for "to rule", it's the term for 1811 to 1820, when the future George IV ruled in place of his crazy dad | the Regency
+right: Brad
+Wrong: 
+Value: DD: $1,600
+Number: 5
+SPELL THE LAST NAME | "Soap", "Benson" & "Sports Night" actor Robert... | G-U-I-L-L-A-U-M-E
+right: Brad
+Wrong: 
+Value: $800
+Number: 27
+TRAVEL & TOURISM | Head to this Hungarian town, the namesake of a sweet white wine, to check out the famed vineyards | Tokaj
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+INSPIRED CHARACTERS | Katherine Mansfield was supposedly the inspiration for Gudrun in his book "Women in Love" | D.H. Lawrence
+right: Mark
+Wrong: 
+Value: $800
+Number: 24
+ROBOT MANIA | In this Ira Levin novel, the husbands in a small town have replaced their spouses with robot versions | The Stepford Wives
+right: Mark
+Wrong: 
+Value: $800
+Number: 19
+HISTORICAL TRICK OR TREAT | (<http://www.j-archive.com/media/2001-10-31_DJ_10.jpg> Ding dong!  Don't wig out, it's just Sarah of the Clue Crew.)  I'm Marie Antoinette, but at my Revolutionary trial, I was simply known as "the Widow" this | Capet
+right: Brad
+Wrong: 
+Value: $1000
+Number: 10
+KINGS OF ENGLAND | He's the 11th century king being imitated <http://www.j-archive.com/media/2001-10-31_DJ_06.wmv> here  "Stop!  Stop!  I command you as your king!" | Canute
+right: Larry
+Wrong: 
+Value: $1000
+Number: 6
+SPELL THE LAST NAME | Maiden name of the author of "A Vindication of the Rights of Woman" | W-O-L-L-S-T-O-N-E-C-R-A-F-T
+right: Brad
+Wrong: 
+Value: $1000
+Number: 28
+TRAVEL & TOURISM | Just smaller than New Jersey, this republic consists of about 300 South Pacific islands, including the Yasawa group | Fiji
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+INSPIRED CHARACTERS | The quirky hero of "The Ordeal of Gilbert Pinfold" is a self-caricature by this man who took us on a visit to Brideshead | Evelyn Waugh
+right: Mark
+Wrong: 
+Value: $1000
+Number: 25
+ROBOT MANIA | Based on a story by Isaac Asimov, this Robin Williams robot film spans 200 years | Bicentennial Man
+right: Mark
+Wrong: 
+Larry: What is Millennium Man?
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Brad: $10,800
+Mark: $8,500
+Larry: $2,600
+
+Final Jeopardy! Round
+WORDS IN POETRY | The 2 "oo" 4-letter words in the poem inscribed in the base of the Statue of Liberty | poor & door
+right: Larry | Brad
+Wrong: 
+Mark: What is poor and look
+Wagers: 
+Larry: $2,200
+Mark: $2,400
+Brad: $6,201
+Final scores:
+Brad: $17,001 (Finalist)
+Mark: $6,100 (2nd place: $5,000)
+Larry: $4,800 (3rd place: $5,000)
+
+Coryat scores
+Brad: $9,600 (22 R(including 2 DDs),1 W)
+Mark: $7,800 (22 R(including 1 DD),5 W)
+Larry: $2,600 (10 R,2 W)

@@ -1,0 +1,324 @@
+351 - Monday, January 13, 1986
+Contestants:
+Gardner Stern: a marketing consultant originally from Chicago, Illinois
+Nancy Smith: a lawyer originally from Gainesville, Florida
+Steve Willis: a financial analyst from Lynwood, California (whose 3-day cash winnings total $31,000)
+First Jeopardy! Round: MOVIES, SOUTH AMERICA, LIGHTNING, CARDS, THE 1950s, KNOTS TO YOU
+MOVIES | Composer profiled in "Song Without End" and "Lisztomania" | Franz Liszt
+right: Steve
+Wrong: 
+Value: $100
+Number: 1
+SOUTH AMERICA | Ecuador derives its name from this geographical line | the equator
+right: Steve
+Wrong: 
+Value: $100
+Number: 3
+LIGHTNING | Lightning causes over 10,000 of these a year and Smokey the Bear is getting mad! | forest fires
+right: Nancy
+Wrong: 
+Value: $100
+Number: 20
+CARDS | Bridge term for a set of three games or what a hot rod lays when it takes off | rubber
+right: Gardner
+Wrong: 
+Value: $100
+Number: 12
+THE 1950s | 1951 saw the first electric power ever generated from this source | nuclear energy
+right: Nancy
+Wrong: 
+Value: $100
+Number: 14
+KNOTS TO YOU | Kind of knot that sounds like its tied by your mother's mother | a granny knot
+right: Steve
+Wrong: 
+Value: $100
+Number: 7
+MOVIES | In his first screen role since 1939, he won the 1975 Best Supporting Actor Oscar for "The Sunshine Boys" | George Burns
+right: Nancy
+Wrong: 
+Value: $200
+Number: 2
+SOUTH AMERICA | In the past, 12- to 14-year-old brides were not unusual in this Portuguese-speaking country | Brazil
+right: Steve
+Wrong: 
+Value: $200
+Number: 10
+LIGHTNING | In the 1931 film, he used lightning to bring his monster to life | Dr. Frankenstein
+right: Nancy
+Wrong: 
+Value: $200
+Number: 21
+CARDS | The appropriate goal in authors is to form these | books
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 13
+THE 1950s | Books in 1951 included "The Caine Mutiny", "From Here to Eternity", and this Salinger classic | The Catcher in the Rye
+right: Nancy
+Wrong: 
+Value: $200
+Number: 18
+KNOTS TO YOU | Term for a knot used to fasten a rope to an object or "your wagon to a star" | hitch
+right: Steve
+Wrong: 
+Value: $200
+Number: 8
+MOVIES | Director Norman Jewison's alliterative tale of a black infantry unit | A Soldier's Story
+right: Gardner
+Wrong: 
+Value: $300
+Number: 4
+SOUTH AMERICA | Up to 80% of the counterfeit dollars passed in the U.S. are from this coffee country | Colombia
+right: Nancy
+Wrong: 
+Value: $300
+Number: 15
+LIGHTNING | Of 25, 50, or 100 miles, the longest length lightning strokes can reach | 100 miles
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 22
+CARDS | A shutout in gin rummy, or Pat Harrington in "One Day at a Time" | Schneider
+right: 
+Wrong: Triple Stumper
+Steve: What is a super?
+Value: $300
+Number: 26
+THE 1950s | In the early 1950s, "Teddy Boys" first appeared in this country | England
+right: Steve
+Wrong: 
+Value: $300
+Number: 24
+KNOTS TO YOU | This geometric knot is one of the oldest in use | a square knot
+right: Nancy
+Wrong: 
+Value: $300
+Number: 9
+MOVIES | David Carradine was "Bound for Glory" playing this great folk singer | Woody Guthrie
+right: Gardner
+Wrong: 
+Value: $400
+Number: 5
+SOUTH AMERICA | An estimated 40% of the world's total copper supply is in three mines in this coastal country | Chile
+right: Nancy
+Wrong: 
+Value: $400
+Number: 16
+LIGHTNING | Aided by lightning each year, 100 million tons of this gas washes into the soil and becomes fertilizer | Nitrogen
+right: Gardner
+Wrong: 
+Value: $400
+Number: 23
+CARDS | About 30 years ago, this South American game created the biggest fad in card history | canasta
+right: Steve
+Wrong: 
+Value: DD: $400
+Number: 27
+THE 1950s | Listed as a billionaire in 1957, this American lived in a modest room in London | J. Paul Getty
+right: Gardner
+Wrong: 
+Value: $400
+Number: 29
+KNOTS TO YOU | Half a pair of pants, or the looseness in a knot | slack
+right: Gardner
+Wrong: 
+Value: $400
+Number: 11
+MOVIES | For this Kipling story, John Huston first thought of Gable and Bogart, not Michael Caine and Sean Connery | The Man Who Would Be King
+right: Steve
+Wrong: 
+Value: $500
+Number: 6
+SOUTH AMERICA | Once known as Upper Peru, it has had over twenty presidents since World War II | Bolivia
+right: Gardner
+Wrong: 
+Value: $500
+Number: 17
+LIGHTNING | Unpunished in the Maxwell Anderson play, Rhoda is roasted by lightning in this movie's finale | The Bad Seed
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+CARDS | Variation of poker where the worst hand wins | lo-ball
+right: Steve
+Wrong: 
+Value: $500
+Number: 28
+KNOTS TO YOU | Not tightness per se, but this kinetic force gives knots their holding power | friction
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 19
+Scores at the first commercial break (after clue 15)
+Steve: $1,200
+Nancy: $1,300
+Gardner: $1,700
+Scores at the end of the Jeopardy! Round:
+Steve: $2,100
+Nancy: $1,800
+Gardner: $2,500
+Second Jeopardy! Round: PLAYWRIGHTS, AUTOMOBILES, WINTER SPORTS, WEDDINGS, HISTORICAL TRIVIA, "BOOK"S
+PLAYWRIGHTS | As a young congressman, LBJ escorted this author of "Pygmalion" around Texas | George Bernard Shaw
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+AUTOMOBILES | In the 1890s, autos were so new and strange they were shown under the big top at these | circuses
+right: Nancy
+Wrong: 
+Value: $200
+Number: 16
+WINTER SPORTS | Contrary to popular legend, "mush!" isn't a command usually used in these races | dogsled races
+right: Steve
+Wrong: 
+Value: $200
+Number: 6
+WEDDINGS | According to Kodak, only 45% of these are taken by a professional | wedding pictures
+right: Gardner
+Wrong: 
+Value: $200
+Number: 23
+HISTORICAL TRIVIA | Year the first Pulitzer Prizes were awarded and the United States entered World War I | 1917
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+"BOOK"S | The insect kind eats binding, and the human kind devours pages | bookworms
+right: Nancy
+Wrong: 
+Value: $200
+Number: 7
+PLAYWRIGHTS | His "Volpone" played at Shakespeare's Globe Theater in 1605 | Ben Jonson
+right: Steve
+Wrong: 
+Value: $400
+Number: 18
+AUTOMOBILES | You could use a Mustang to round up this discontinued Ford horse | Pinto
+right: Steve
+Wrong: 
+Value: $400
+Number: 20
+WINTER SPORTS | In six of the first seven Winter Olympics, Canadian teams took the gold in this sport | ice hockey
+right: Gardner
+Wrong: 
+Value: $400
+Number: 12
+WEDDINGS | In a military wedding, an enlisted bride may wear a gown or this | a dress uniform
+right: Nancy
+Wrong: 
+Value: $400
+Number: 25
+HISTORICAL TRIVIA | Before he died in 1547, this Tudor king weighed over 400 pounds | Henry VIII
+right: Steve
+Wrong: 
+Value: $400
+Number: 2
+"BOOK"S | Common pharase that might follow "Call me!" | I'm in the book!
+right: Steve
+Wrong: 
+Value: $400
+Number: 8
+PLAYWRIGHTS | This playwright and actor portrayed Colonel Chuck Yeager, not Alan Shepard, in "The Right Stuff" | Sam Shepard
+right: Gardner
+Wrong: 
+Value: $600
+Number: 19
+AUTOMOBILES | This engine-driven band sounds like what a sports enthusiast might buckle | fan belt
+right: Nancy
+Wrong: 
+Value: $600
+Number: 24
+WINTER SPORTS | Participants can sail through this sport at speeds over 100 mph | ice sailing (or boating)
+right: Gardner
+Wrong: 
+Value: $600
+Number: 13
+WEDDINGS | Actual title of <http://www.j-archive.com/media/1986-01-13_DJ_28.mp3> this selection from Mendelssohn's music for "A Midsummer Night's Dream:" | "The Wedding March For Titania And Oberon"
+right: Nancy
+Wrong: 
+Value: DD: $2,000
+Number: 28
+HISTORICAL TRIVIA | A 6th-century monk originally established the first day of the Christian era not as January the 1st, but this holiday | Christmas
+right: Steve
+Wrong: 
+Value: DD: $500
+Number: 3
+"BOOK"S | Something set next to a volume, or something done according to the rules | by the book
+right: Nancy
+Wrong: 
+Value: $600
+Number: 9
+PLAYWRIGHTS | 17-year-old usher Sheila Delaney got a taste for theatre and went home one night to start this play | A Taste of Honey
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+WINTER SPORTS | The first artificial bobsled run was built in 1904 at this Swiss resort town | St. Moritz
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+WEDDINGS | The bride-price is the opposite of this | dowry
+right: Nancy
+Wrong: 
+Value: $800
+Number: 27
+HISTORICAL TRIVIA | This term first applied only to manners and conduct at royal courts | etiquette
+right: Nancy
+Wrong: 
+Value: $800
+Number: 4
+"BOOK"S | Samuel Pepys sometimes put one of these in both the front and the back of his books | a bookplate
+right: 
+Wrong: Triple Stumper
+Nancy: What is a table of contents?
+Value: $800
+Number: 10
+PLAYWRIGHTS | Oliver Goldsmith thrashed a publisher whose paper attacked this, his last play | She Stoops to Conquer
+right: Steve
+Wrong: 
+Value: $1000
+Number: 22
+WINTER SPORTS | A rink of players--it's the number of persons on a curling team | 4
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+WEDDINGS | By ancient law of this religion, one of three ways to get married was simply to consumate the union | Judaism
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+HISTORICAL TRIVIA | Once France's richest colony, this now-impoverished country was 2nd in the New World to gain independence | Haiti
+right: Gardner
+Wrong: 
+Value: $1000
+Number: 5
+"BOOK"S | Famous fooderie, found on 15th, for feasting on fish in Philly | Bookbinder's
+right: Gardner
+Wrong: 
+Value: $1000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Steve: $5,800
+Nancy: $6,600
+Gardner: $6,300
+
+Final Jeopardy! Round
+THE MILITARY | Foreign country in which the most American soldiers are stationed | Germany
+right: Steve | Gardner | Nancy
+Wrong: 
+Wagers: 
+Steve: $5,700
+Gardner: $6,300
+Nancy: $6,000
+Final scores:
+Steve: $11,500 (2nd place: Trip to Bluebeard's Castle Hotel, St. Thomas, U.S. Virgin Islands)
+Nancy: $12,600 (New co-champion: $12,600)
+Gardner: $12,600 (New co-champion: $12,600)
+
+Coryat scores
+Steve: $5,900 (18 R(including 2 DDs),1 W)
+Nancy: $5,200 (16 R(including 1 DD),1 W)
+Gardner: $6,300 (13 R,0 W)

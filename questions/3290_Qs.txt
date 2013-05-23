@@ -1,0 +1,334 @@
+5840 - Friday, January 22, 2010
+Contestants:
+Darryl Konter: a public relations executive from Dunwoody, Georgia
+Gila Stadler: a molecular epidemiologist from New York, New York
+Ted Ahern: a health care application consultant from Lafayette Hill, Pennsylvania (whose 1-day cash winnings total $15,801)
+First Jeopardy! Round: WYATT EARP, CLASSIC SITCOM EPISODES, "RACE" TO THE ANSWER, BIOGRAPHIES, SIGNS & SYMBOLS, POP QUIZ
+WYATT EARP | In 1878 Wyatt Earp was an assistant marshal in this city in Kansas; today, the city has a boulevard named for him | Dodge City
+right: Darryl
+Wrong: 
+Value: $200
+Number: 26
+CLASSIC SITCOM EPISODES | "Lucy & Ethel Buy the Same Dress" | I Love Lucy
+right: Gila
+Wrong: 
+Value: $200
+Number: 1
+"RACE" TO THE ANSWER | This jewelry item can be tennis or ankle | a bracelet
+right: Ted
+Wrong: 
+Value: $200
+Number: 16
+BIOGRAPHIES | A book about this author is called "The Far Side of Paradise", a reference to his 1920 novel | Fitzgerald
+right: Darryl
+Wrong: 
+Value: $200
+Number: 14
+SIGNS & SYMBOLS | Athena is a goddess of wisdom, as symbolized by this creature | an owl
+right: Ted
+Wrong: 
+Value: $200
+Number: 11
+POP QUIZ | This soda was introduced in 1886 & patented in 1887 | Coca-Cola
+right: Gila
+Wrong: 
+Value: $200
+Number: 6
+WYATT EARP | Wyatt was working as a railroad detective when John Shanssey introduced him to this sometime dentist | Doc Holliday
+right: Darryl
+Wrong: 
+Value: $400
+Number: 27
+CLASSIC SITCOM EPISODES | "There's No Witch Like an Old Witch" | Bewitched
+right: Ted
+Wrong: 
+Value: $400
+Number: 2
+"RACE" TO THE ANSWER | To clasp in one's arms, or to include | to embrace
+right: Ted
+Wrong: 
+Value: $400
+Number: 17
+BIOGRAPHIES | The cleverly titled "Milestones" is a biography of this jazz trumpeter | (Miles) Davis
+right: Ted
+Wrong: 
+Value: $400
+Number: 15
+SIGNS & SYMBOLS | The shofar is this animal's horn & is a reminder of the one that Abraham sacrificed instead of Isaac | a ram
+right: Darryl
+Wrong: 
+Value: $400
+Number: 12
+POP QUIZ | www.rootbeer.com is the website of this brand with initial success | A&W
+right: Gila
+Wrong: 
+Value: $400
+Number: 7
+WYATT EARP | Wyatt Earp worked as a guard for <http://www.j-archive.com/media/2010-01-22_J_28.jpg> this <http://www.j-archive.com/media/2010-01-22_J_28a.jpg> company that was founded to handle the banking business of the <http://www.j-archive.com/media/2010-01-22_J_28b.jpg> California gold rush | Wells Fargo
+right: Darryl
+Wrong: 
+Value: $600
+Number: 28
+CLASSIC SITCOM EPISODES | "They Call It Potsie Love" | Happy Days
+right: Ted
+Wrong: 
+Value: $600
+Number: 3
+"RACE" TO THE ANSWER | A bullet whose flight can be visually observed | a tracer
+right: Ted
+Wrong: 
+Value: $600
+Number: 18
+BIOGRAPHIES | Historian & senator Albert Beveridge wrote a 4-volume Pulitzer-winning bio of this fourth Chief Justice | John Marshall
+right: Darryl
+Wrong: 
+Value: $600
+Number: 23
+SIGNS & SYMBOLS | Because of its color, the ruby is associated symbolically with this planet | Mars
+right: Darryl
+Wrong: 
+Value: DD: $1,000
+Number: 13
+POP QUIZ | An early label for this soda showed a hillbilly shooting at a revenuer running from an outhouse | Mountain Dew
+right: Darryl
+Wrong: 
+Value: $600
+Number: 8
+WYATT EARP | A feud between the Earps & these brothers, Ike & Billy, resulted in the gunfight at the O.K. Corral | the Clantons
+right: Darryl
+Wrong: 
+Value: $800
+Number: 29
+CLASSIC SITCOM EPISODES | "The Rise & Fall of Sergeant Schultz" | Hogan's Heroes
+right: Darryl
+Wrong: 
+Value: $800
+Number: 4
+"RACE" TO THE ANSWER | Following a stormy trip aboard a ship at sea, Reverend John Newton wrote the words to <http://www.j-archive.com/media/2010-01-22_J_18.mp3> this popular hymn | "Amazing Grace"
+right: Ted
+Wrong: 
+Value: $800
+Number: 19
+BIOGRAPHIES | Sadly, in 1997 Andrew Morton had a new ending to add to his commemorative edition tell-all bio of her | Princess Diana
+right: Darryl
+Wrong: 
+Value: $800
+Number: 24
+SIGNS & SYMBOLS | Gabriel, angel of the Annunciation, is usually portrayed holding this flower, a Christian symbol of virginal love | a lily
+right: Gila
+Wrong: 
+Value: $800
+Number: 21
+POP QUIZ | In 1963 the U.S. fifth district court in Dallas ruled that this, with 23 flavors, was not a cola | Dr. Pepper
+right: Ted
+Wrong: 
+Value: $800
+Number: 9
+WYATT EARP | In the late 1870s Wyatt Earp headed for the gold rush in this mountain region in the Dakota Territory | the Black Hills
+right: Darryl
+Wrong: 
+Value: $1000
+Number: 30
+CLASSIC SITCOM EPISODES | "Granny's Spring Tonic" | The Beverly Hillbillies
+right: Ted
+Wrong: 
+Value: $1000
+Number: 5
+"RACE" TO THE ANSWER | Once part of the Ottoman Empire, this Greek island is where the "Winged Victory" statue was discovered | Samothrace
+right: 
+Wrong: Triple Stumper
+Gila: What is Thrace?
+Value: $1000
+Number: 20
+BIOGRAPHIES | This man who laid the groundwork for modern genetics is the subject of "The Monk in the Garden" | Gregor Mendel
+right: Darryl
+Wrong: 
+Value: $1000
+Number: 25
+SIGNS & SYMBOLS | (<http://www.j-archive.com/media/2010-01-22_J_22.jpg> Kelly of the Clue Crew reports from Santiago de Compostela in Spain.)  Pilgrims can find Santiago de Compostela by <http://www.j-archive.com/media/2010-01-22_J_22a.jpg> these shells, the symbol of St. James; one theory is that the converging lines represent pilgrims coming from all over | scallops
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+POP QUIZ | The logo of this ginger ale brand once featured the outline of North America | Canada Dry
+right: Ted
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Ted: $4,400
+Gila: $800
+Darryl: $3,000
+Scores at the end of the Jeopardy! Round:
+Ted: $6,400
+Gila: $600
+Darryl: $8,400
+Second Jeopardy! Round: THE WORLD ALMANAC AND BOOK OF FACTS, MELON-CHOLY, THE SCIENCE BUG, IT'S GEOGRAPHIC, OVERLAPPING WORDS, POP QUIZ
+THE WORLD ALMANAC AND BOOK OF FACTS | If you're in the South Pacific on July 11, you can get a good look at a total one of these | an eclipse
+right: Ted
+Wrong: 
+Value: $400
+Number: 3
+MELON-CHOLY | One food book says, "There are those who wouldn't trade a slice of" this "on a hot summer day for anything" | watermelon
+right: Darryl
+Wrong: 
+Value: $400
+Number: 9
+THE SCIENCE BUG | Karl von Frisch won a Nobel Prize for work on animal behavior patterns, largely using the "dance' of this insect | bees
+right: Gila
+Wrong: 
+Value: $400
+Number: 1
+IT'S GEOGRAPHIC | In Hungary this river is known as the Duna | the Danube
+right: Ted
+Wrong: 
+Value: $400
+Number: 13
+OVERLAPPING WORDS | <http://www.j-archive.com/media/2010-01-22_DJ_26.jpg> A large animal, as any of those "one for all and all for one" guys | a hippopotamusketeer
+right: Ted
+Wrong: 
+Value: $400
+Number: 26
+POP QUIZ | After a 5-year hiatus from touring, this Gwen Stafani band hit the road in 2009 on a summer tour | No Doubt
+right: Ted
+Wrong: 
+Value: $400
+Number: 19
+THE WORLD ALMANAC AND BOOK OF FACTS | The July 2009 sit-down among President Obama, a Harvard prof & a Cambridge cop was dubbed this sudsy summit | the Beer Summit
+right: Darryl
+Wrong: 
+Value: $800
+Number: 4
+MELON-CHOLY | Americans call an orange-fleshed melon with a netted rind this; charentais is a variety of the true one | a cantaloupe
+right: Darryl
+Wrong: 
+Value: $800
+Number: 12
+THE SCIENCE BUG | Charles Ellington tethered a moth to this type of tunnel to divine the mechanics of insect flight | a wind tunnel
+right: Darryl
+Wrong: 
+Value: $800
+Number: 2
+IT'S GEOGRAPHIC | Calexico, California lies opposite this aptly named Mexican city | Mexicali
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+OVERLAPPING WORDS | Balloon-filling element No. 2 rain protector | a heliumbrella
+right: Ted
+Wrong: 
+Value: $800
+Number: 27
+POP QUIZ | This band's official fan club is called Idiot Club (fans don't have to be American) | Green Day
+right: Ted
+Wrong: 
+Value: $800
+Number: 20
+THE WORLD ALMANAC AND BOOK OF FACTS | 160 square rods equals 1 of this square measure (that one was in the '09 book too) | an acre
+right: Gila
+Wrong: 
+Value: $1200
+Number: 5
+MELON-CHOLY | This melon that was prized by ancient Egyptians has a name that tells you how juicy & sweet it is | honeydew
+right: Ted
+Wrong: 
+Value: $1200
+Number: 18
+THE SCIENCE BUG | Researchers are basing robots' sensors on these compound organs on flies | eyes
+right: Gila
+Wrong: 
+Value: $1200
+Number: 6
+IT'S GEOGRAPHIC | Darien is both a mountain range & a province of this country; it's also the former name of the whole isthmus | Panama
+right: Ted
+Wrong: 
+Value: $1200
+Number: 15
+OVERLAPPING WORDS | <http://www.j-archive.com/media/2010-01-22_DJ_28.jpg> A famous European American born with the Apache name Goyathlay | Kissingeronimo
+right: Ted
+Wrong: 
+Value: $1200
+Number: 28
+POP QUIZ | Katy Perry sang "I Kissed A Girl"; this country guy sang "Kiss A Girl" (perhaps Nicole Kidman?) | Keith Urban
+right: Darryl
+Wrong: 
+Value: $1200
+Number: 21
+THE WORLD ALMANAC AND BOOK OF FACTS | This state is big, it's fiercely independent & it has the highest percentage of people without health insurance | Texas
+right: Darryl
+Wrong: 
+Gila: What is Alaska?
+Value: $1600
+Number: 10
+MELON-CHOLY | This melon with a yellow rind is named for a Turkish town | a casaba
+right: 
+Wrong: 
+Darryl: Don't have it.
+Value: DD: $2,000
+Number: 22
+THE SCIENCE BUG | Fossil beetles near the South Pole suggest that the Antarctic was once this type of flat area, cold but with life | a tundra
+right: Gila
+Wrong: 
+Value: $1600
+Number: 7
+IT'S GEOGRAPHIC | North America's deepest lake is this Canadian one with a servile-sounding name | the Great Slave Lake
+right: Gila
+Wrong: 
+Value: $1600
+Number: 16
+POP QUIZ | He performed "We Made You" at the 2009 MTV Movie Awards, but his encounter with Bruno was more memorable | Eminem
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+THE WORLD ALMANAC AND BOOK OF FACTS | With over 30 million tons, China leads the world in this, a 1-word equivalent of fish farming | aquaculture
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+MELON-CHOLY | A type of melon with a yellow skin has this name, like that of a finch | a canary melon
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+THE SCIENCE BUG | Ants sacrificing individual good for the group is what zoologists call this -ism, from the Latin for "other" | altruism
+right: 
+Wrong: 
+Gila: What is commensalism?
+Value: DD: $3,000
+Number: 8
+IT'S GEOGRAPHIC | Much of this tiny, "serene", landlocked nation stands on Mount Titano | San Marino
+right: 
+Wrong: Triple Stumper
+Darryl: What is Monaco?
+Value: $2000
+Number: 17
+POP QUIZ | In June 2009, listeners went crazy for this singer seen <http://www.j-archive.com/media/2010-01-22_DJ_25.jpg> here, putting 2 of her songs in the top 10 at the same time | Lady Gaga
+right: Darryl
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ted: $13,200
+Gila: $2,000
+Darryl: $12,000
+
+Final Jeopardy! Round
+THE CABINET | Created by the Continental Congress in 1775, this officer joined the Cabinet in 1829 but was removed from it in 1971 | the Postmaster General
+right: Gila
+Wrong: 
+Darryl: What was the Secretary of Health, Education & Welfare?
+Ted: What is the commander of the Navy?
+Wagers: 
+Gila: $1,000
+Darryl: $11,999
+Ted: $10,801
+Final scores:
+Ted: $2,399 (2nd place: $2,000)
+Gila: $3,000 (New champion: $3,000)
+Darryl: $1 (3rd place: $1,000)
+
+Coryat scores
+Ted: $13,200 (20 R,0 W)
+Gila: $5,000 (9 R,3 W(including 1 DD))
+Darryl: $13,600 (20 R(including 1 DD),2 W(including 1 DD))

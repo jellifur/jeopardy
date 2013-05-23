@@ -1,0 +1,350 @@
+6085 - Friday, February 11, 2011
+Comments: IBM Challenge promo: "The Television Event of the Decade"
+Contestants:
+Kate Rowland: a family doctor from Chicago, Illinois
+Sarah Monteith: a television development assistant originally from Sugar Land, Texas
+Paul Wampler: a web programmer from Knoxville, Tennessee (whose 4-day cash winnings total $72,002)
+First Jeopardy! Round: A YEAR ENDING IN 11, THEIR BETTER HALF, THE CITY'S OLDEST RESTAURANT, "WARE"-ING, EARHART, ON YOUR SLEEVE
+A YEAR ENDING IN 11 | Irving Berlin writes his first big hit, "Alexander's Ragtime Band" | 1911
+right: Sarah
+Wrong: 
+Value: $200
+Number: 4
+THEIR BETTER HALF | Melanie Griffith | Antonio Banderas
+right: Sarah
+Wrong: 
+Value: $200
+Number: 16
+THE CITY'S OLDEST RESTAURANT | Union Oyster House--a Massachusetts city | Boston
+right: Sarah
+Wrong: 
+Value: $200
+Number: 1
+"WARE"-ING | Tools, machinery & other implements for home & work bought at the store of the same name | hardware
+right: Sarah
+Wrong: 
+Value: $200
+Number: 12
+EARHART | In 1932 Amelia Earhart became the first woman to fly over it alone & the first person of any sex to cross it by air twice | the Atlantic Ocean
+right: Sarah
+Wrong: 
+Value: $200
+Number: 10
+ON YOUR SLEEVE | Actor Dwayne Johnson has a half sleeve type of this; musician Travis Barker has 2 full ones | tattoos
+right: Paul
+Wrong: 
+Value: $200
+Number: 22
+A YEAR ENDING IN 11 | General William Henry Harrison defeats the Shawnee Indians at the battle of Tippecanoe | 1811
+right: Sarah
+Wrong: 
+Value: $400
+Number: 5
+THEIR BETTER HALF | Warren Beatty | Annette Bening
+right: Sarah
+Wrong: 
+Value: $400
+Number: 17
+THE CITY'S OLDEST RESTAURANT | Dock's Oyster House--a New Jersey city | Atlantic City
+right: 
+Wrong: Triple Stumper
+Kate: What is Trenton?
+Value: $400
+Number: 2
+"WARE"-ING | When Alcatraz was a prison, these items with a metallic name were counted by officers after each meal | silverware
+right: Sarah
+Wrong: 
+Value: $400
+Number: 13
+EARHART | An aviator contemporary of Amelia's was dubbed "Lucky" this; Amelia was "Lady" this | Lindy
+right: Kate
+Wrong: 
+Value: $400
+Number: 27
+ON YOUR SLEEVE | Basketball sleeves contain this flexible segmented polyurethane fiber, an anagram of "expands" | spandex
+right: Paul
+Wrong: 
+Value: $400
+Number: 23
+A YEAR ENDING IN 11 | Explorer Henry Hudson is set adrift in his namesake bay by a mutinous crew & never seen again | 1611
+right: Kate
+Wrong: 
+Value: $600
+Number: 7
+THEIR BETTER HALF | Calista Flockhart | Harrison Ford
+right: Kate
+Wrong: 
+Value: $600
+Number: 18
+THE CITY'S OLDEST RESTAURANT | Antoine's, 713 rue St. Louis | New Orleans
+right: Kate
+Wrong: 
+Paul: What is Paris?
+Value: $600
+Number: 3
+"WARE"-ING | Malicious computer programs that are secretly installed on a computer to steal the user's private information | spyware
+right: Sarah
+Wrong: 
+Value: $600
+Number: 14
+EARHART | Amelia Earhart was born in Atchison in this state; a bridge & an airport there are named for her | Kansas
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+ON YOUR SLEEVE | This ornamental shoulder piece has an apostle in its name | epaulet
+right: Sarah
+Wrong: 
+Value: $600
+Number: 24
+A YEAR ENDING IN 11 | Oueen Anne of England establishes the Ascot horse races | 1711
+right: 
+Wrong: Triple Stumper
+Kate: What is 1511?
+Value: $800
+Number: 8
+THEIR BETTER HALF | Trisha Yearwood | Garth Brooks
+right: Sarah
+Wrong: 
+Value: $800
+Number: 19
+THE CITY'S OLDEST RESTAURANT | Yar, 32/2 Leningradsky Prospect | Moscow
+right: Paul
+Wrong: 
+Value: $800
+Number: 6
+"WARE"-ING | Caveat Emptor is usually translated as this 4-word English phrase | let the buyer beware
+right: Kate
+Wrong: 
+Value: $800
+Number: 15
+EARHART | Amelia once took this First Lady on a flight over Washington, D.C. while both were wearing evening gowns | Eleanor Roosevelt
+right: Kate
+Wrong: 
+Value: $800
+Number: 29
+ON YOUR SLEEVE | The French call this geographical feature "la Manche", which means "The Sleeve" | the English Channel
+right: Paul
+Wrong: 
+Value: $800
+Number: 25
+A YEAR ENDING IN 11 | In a warmup to his assault on Mexico, Cortes helps Velazquez conquer Cuba | 1511
+right: Kate
+Wrong: 
+Value: DD: $1,000
+Number: 9
+THEIR BETTER HALF | Javier Bardem | Penélope Cruz
+right: Sarah
+Wrong: 
+Value: $1000
+Number: 20
+THE CITY'S OLDEST RESTAURANT | Casa Botin, located on Calle de los Cuchilleros (made famous in a Hemingway novel) | Madrid
+right: Sarah
+Wrong: 
+Paul: What is Havana?
+Kate: What is Key West?
+Value: $1000
+Number: 11
+"WARE"-ING | Before it reaches Trenton, it skirts the Kittatinny Mountains & flows past Nockamixon Rocks | the Delaware
+right: Paul
+Wrong: 
+Value: $1000
+Number: 21
+EARHART | Amelia was the first woman to receive this award, the DFC | the Distinguished Flying Cross
+right: Paul
+Wrong: 
+Value: $1000
+Number: 30
+ON YOUR SLEEVE | You can use sleeves to protect these items used in both Magic: The Gathering & Pokemon | cards
+right: Kate
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Paul: -$800
+Sarah: $3,200
+Kate: $800
+Scores at the end of the Jeopardy! Round:
+Paul: $2,600
+Sarah: $6,200
+Kate: $3,600
+Second Jeopardy! Round: LAST OF THE COMPOSERS, MARK MARKS THE SPOT, DOWN SOUTH IN SOUTH GEORGIA, WHAT'S THE NAME OF YOUR UNION?, WRITING FUNNY, ACT YOUR "AGE"
+LAST OF THE COMPOSERS | Although he completed a few musical pieces afterward, "William Tell" was his 38th & final opera | (Gioachino) Rossini
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+MARK MARKS THE SPOT | He took a comedic turn in "The Other Guys" as Det. Terry Hoitz, who wants to "fly like a peacock" | (Mark) Wahlberg
+right: Paul
+Wrong: 
+Value: $400
+Number: 11
+DOWN SOUTH IN SOUTH GEORGIA | (<http://www.j-archive.com/media/2011-02-11_DJ_16.jpg> Lindblad Expeditions naturalist Tom Ritchie delivers the clue from South Georgia.) Unlike the larger emperor, this second biggest species of penguin prefers the sub-Antarctic islands, like South Georgia, better than ice for forming its vast colonies | king penguins
+right: Kate
+Wrong: 
+Value: $400
+Number: 16
+WHAT'S THE NAME OF YOUR UNION? | UPS drivers | the Teamsters
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+WRITING FUNNY | His website says, "Dave lives in Miami... he has a son... and a daughter... neither of whom thinks he's funny" | Dave Barry
+right: Sarah
+Wrong: 
+Value: $400
+Number: 1
+ACT YOUR "AGE" | Ace or tourniquet | a bandage
+right: Kate
+Wrong: 
+Value: $400
+Number: 6
+LAST OF THE COMPOSERS | His last work was "Parsifal", which premiered at Bayreuth in 1882 | (Richard) Wagner
+right: Paul
+Wrong: 
+Value: $800
+Number: 23
+MARK MARKS THE SPOT | "Don't Forget The Lyrics!" or this Sugar Ray frontman who started hosting that show in 2010 | (Mark) McGrath
+right: Sarah
+Wrong: 
+Value: $800
+Number: 12
+DOWN SOUTH IN SOUTH GEORGIA | (<http://www.j-archive.com/media/2011-02-11_DJ_24.wmv> Tom Ritchie of Lindblad Expeditions delivers the clue from South Georgia.) The island of South Georgia has no indigenous mammals, but reindeer were introduced here in 1911 to provide meat by Captain C.A. Larsen from this country | Norway
+right: Kate
+Wrong: 
+Value: $800
+Number: 24
+WHAT'S THE NAME OF YOUR UNION? | The men & women assembling Mustangs & Malibus | the United Auto Workers
+right: Kate
+Wrong: 
+Value: $800
+Number: 18
+WRITING FUNNY | Thomas B. Thorpe wrote these alliterative, exaggerated stories, like "The Big Bear of Arkansas" | tall tales
+right: Paul
+Wrong: 
+Value: $800
+Number: 2
+ACT YOUR "AGE" | The carrying capacity of a large ship is measured in this 7-letter word | tonnage
+right: Kate
+Wrong: 
+Sarah: What is steerage?
+Value: $800
+Number: 7
+LAST OF THE COMPOSERS | In 1751 he composed his last all-new composition, the oratorio "Jephtha" | Handel
+right: 
+Wrong: 
+Kate: Who is... Mozart?
+Value: DD: $600
+Number: 28
+MARK MARKS THE SPOT | Mark Boal won 2 Oscars for this 2009 film about bomb defusers in Iraq | The Hurt Locker
+right: Paul
+Wrong: 
+Value: $1200
+Number: 13
+DOWN SOUTH IN SOUTH GEORGIA | (<http://www.j-archive.com/media/2011-02-11_DJ_25.wmv> Tom Ritchie of Lindblad Expeditions delivers the clue from South Georgia.) South Georgia is the breeding ground for close to half the world's population of the largest pinniped--the Southern type of this seal now protected from hunting | elephant seals
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 25
+WHAT'S THE NAME OF YOUR UNION? | Approximately 2 million K-12 public school teachers in the U.S. | the National Education Association (NEA)
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 19
+WRITING FUNNY | Former Harvard Lampoon staffer Doug Kenney was the first editor of this magazine | National Lampoon
+right: 
+Wrong: Triple Stumper
+Paul: What is Mad?
+Value: $1200
+Number: 3
+ACT YOUR "AGE" | A heavy bombardment of artillery | a barrage
+right: Paul
+Wrong: 
+Value: $1200
+Number: 8
+LAST OF THE COMPOSERS | This Hungarian was just measures away from finishing his "Piano Concerto No. 3" when he died in New York in 1945 | Béla Bartók
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+MARK MARKS THE SPOT | Mark Mothersbaugh whipped it into shape as a member of this New Wave band | Devo
+right: Sarah
+Wrong: 
+Value: $1600
+Number: 14
+DOWN SOUTH IN SOUTH GEORGIA | The area around the island has some commercial fishing for the Patagonian this, aka Chilean sea bass | toothfish
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 26
+WHAT'S THE NAME OF YOUR UNION? | Dole berry pickers | the United Farm Workers
+right: Kate
+Wrong: 
+Value: $1600
+Number: 20
+WRITING FUNNY | Marrying Laura West made funny man S.J. Perelman brother-in-law to this author of 2 of Amer. lit's most depressing novels | Nathanael West
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+ACT YOUR "AGE" | From the French for "training", it's an equestrian event | dressage
+right: Kate
+Wrong: 
+Value: $1600
+Number: 9
+LAST OF THE COMPOSERS | Composed in 1795, his last symphony, No. 104 In D Major, is popularly known as "The London" | Franz Joseph Haydn
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+MARK MARKS THE SPOT | Seen <http://www.j-archive.com/media/2011-02-11_DJ_15.jpg> here, this actor is known for his work in indie films | (Mark) Ruffalo
+right: Paul
+Wrong: 
+Value: $2000
+Number: 15
+DOWN SOUTH IN SOUTH GEORGIA | (<http://www.j-archive.com/media/2011-02-11_DJ_27.jpg> Tom Ritchie of Lindblad Expeditions delivers the clue from South Georgia.)  South Georgia is the <http://www.j-archive.com/media/2011-02-11_DJ_27a.jpg> burial site for this explorer who made a grueling journey across the island after his ship, the Endurance, was trapped in pack ice | Sir Ernest Shackleton
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+WHAT'S THE NAME OF YOUR UNION? | Peyton Manning | the NFL Players Association
+right: Kate
+Wrong: 
+Paul: What is the NFL Players Union?  National Football League Players Union?
+Value: $2000
+Number: 21
+WRITING FUNNY | Peace be with you!  2009 was the 150th birthday of this great Yiddish comic writer | Sholom Aleichem
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+ACT YOUR "AGE" | Within a circuit, it's calculated by the amount of current flow of 1 coulomb per second past a given point | the amperage
+right: 
+Wrong: 
+Kate: What is voltage?
+Value: DD: $2,000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Paul: $5,800
+Sarah: $8,200
+Kate: $9,400
+
+Final Jeopardy! Round
+1930s FILMS | In this classic film, one of the characters tries to quote the Pythagorean theorem but gets it wrong | The Wizard of Oz
+right: Kate
+Wrong: 
+Paul: What is
+Sarah: What is Gone with the Wind
+Wagers: 
+Paul: $3,601
+Sarah: $8,200
+Kate: $7,001
+Final scores:
+Paul: $2,199 (2nd place: $2,000)
+Sarah: $0 (3rd place: $1,000)
+Kate: $16,401 (New champion: $16,401)
+
+Coryat scores
+Paul: $5,800 (12 R,4 W)
+Sarah: $8,200 (16 R,1 W)
+Kate: $12,000 (16 R(including 1 DD),5 W(including 2 DDs))

@@ -1,0 +1,298 @@
+3497 - Tuesday, November 16, 1999
+Comments: 1999-B Celebrity <i>Jeopardy!</i> game 2.  From the Theater at Madison Square Garden, New York City.
+Contestants:
+Andy Richter:  from NBC's Late Night With Conan O'Brien
+S. Epatha Merkerson:  from Law & Order
+Brian Dennehy:  from the play Death of a Salesman
+First Jeopardy! Round: LET'S GET BIBLICAL, LAST NAME'S THE SAME, AROUND NEW YORK STATE, WHILE YOU'RE ON HOLD, LET'S GO SHOPPING!, THAT'S SO CLICHE!
+LAST NAME'S THE SAME | Kurt, Rosalind, Nipsey | Russell
+right: Epatha
+Wrong: 
+Value: $100
+Number: 1
+AROUND NEW YORK STATE | Legend says that "The love of those who honeymoon here will last as long as the falls themselves" | Niagara Falls
+right: Brian
+Wrong: 
+Value: $100
+Number: 21
+WHILE YOU'RE ON HOLD | On hold with a dating service, you might hear this Sinatra classic | "Strangers in the Night"
+right: Epatha
+Wrong: 
+Value: $100
+Number: 16
+LET'S GO SHOPPING! | The Donald knows this "Tower" at 725 Fifth Avenue boasts a six-story shopping atrium | Trump Tower
+right: Andy
+Wrong: 
+Value: $100
+Number: 11
+THAT'S SO CLICHE! | Someone's in a bad way seriously ill if he has "one foot" here | In the grave
+right: Andy
+Wrong: 
+Value: $100
+Number: 6
+LAST NAME'S THE SAME | Eddie, Dinah, Pauly | Shore
+right: Brian
+Wrong: 
+Value: $200
+Number: 2
+AROUND NEW YORK STATE | Just 25 miles N. of Manhattan, this "Sleepy" village is the place "where the Headless Horseman rode" | Sleepy Hollow
+right: Andy
+Wrong: 
+Value: $200
+Number: 22
+WHILE YOU'RE ON HOLD | A bad gardener's hold music could be this song | "Where Have All the Flowers Gone?"
+right: Brian
+Wrong: 
+Value: $200
+Number: 17
+LET'S GO SHOPPING! | Murder Ink doesn't sell poison for your poison pen; it's this kind of store | Bookstore
+right: Epatha
+Wrong: 
+Value: $200
+Number: 12
+THAT'S SO CLICHE! | If you depart in defeat it's "with your tail" here | Between your legs
+right: Andy
+Wrong: 
+Value: $200
+Number: 7
+LAST NAME'S THE SAME | Glen, Naomi, Neve | Campbell
+right: Epatha
+Wrong: 
+Value: $300
+Number: 3
+AROUND NEW YORK STATE | It's believed that blazes lit to lure ships gave this resort island its name | Fire Island
+right: Andy
+Wrong: 
+Value: $300
+Number: 23
+WHILE YOU'RE ON HOLD | Worry if your cardiologist's hold music is this song | "Achy Breaky Heart"
+right: Andy
+Wrong: 
+Value: $300
+Number: 18
+LET'S GO SHOPPING! | The initials in the name of this world-famous toy store stand for Frederick August Otto | FAO Schwarz
+right: Andy
+Wrong: 
+Value: $300
+Number: 13
+THAT'S SO CLICHE! | You're consuming more than I can sustain if "you're eating me out of" these 2 things | House and home
+right: Andy
+Wrong: 
+Value: $300
+Number: 8
+LAST NAME'S THE SAME | Don, Abigail, Ansel | Adams
+right: Epatha
+Wrong: 
+Value: $400
+Number: 4
+AROUND NEW YORK STATE | The Bisons of baseball's International League play their home games in this city | Buffalo
+right: Andy
+Wrong: 
+Value: DD: $1,000
+Number: 24
+WHILE YOU'RE ON HOLD | Hearing this song while on hold might give you a mysterious itch | "Poison Ivy"
+right: Epatha
+Wrong: 
+Brian: What is....[time]?
+Value: $400
+Number: 19
+LET'S GO SHOPPING! | This famous food shop at Broadway & 80th Street is perfect for a file under "Z" category | Zabar's
+right: Andy
+Wrong: 
+Value: $400
+Number: 14
+THAT'S SO CLICHE! | Like a colt or calf, those who are innocent & naive are said to be "wet" here | Behind the ears
+right: Andy
+Wrong: 
+Value: $400
+Number: 9
+LAST NAME'S THE SAME | Michael, Cindy, Christina | Crawford
+right: Andy
+Wrong: 
+Value: $500
+Number: 5
+AROUND NEW YORK STATE | Now at Elmira College, this author's study was made to look like a Mississippi riverboat's pilothouse | Mark Twain
+right: Epatha
+Wrong: 
+Value: $500
+Number: 25
+WHILE YOU'RE ON HOLD | Maybe you'll hear this song if you call after business hours | "It's too Late Baby"
+right: Brian
+Wrong: 
+Epatha: What is "Well, It's too Late  Now?"
+Value: $500
+Number: 20
+LET'S GO SHOPPING! | This department store takes up an entire city block on 59th Street between Lexington & 3rd | Bloomingdale's
+right: Epatha
+Wrong: 
+Value: $500
+Number: 15
+THAT'S SO CLICHE! | If you match the desired of quality, you're "up to" this tobacco product | Snuff
+right: Andy
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Brian: $200
+Epatha: $1,500
+Andy: $2,800
+Scores at the end of the Jeopardy! Round:
+Brian: $600
+Epatha: $2,000
+Andy: $4,600
+Second Jeopardy! Round: LITERARY MANHATTAN, CRIMINAL NICKNAMES, WISH I'D SEEN THAT MUSICAL!, THE 900s A.D., POTPOURRI, "B" YOURSELF
+LITERARY MANHATTAN | This bard's plays are performed "In the Park" near a garden named for him | William Shakespeare
+right: Brian
+Wrong: 
+Value: $200
+Number: 1
+CRIMINAL NICKNAMES | Syndicate leader Charles Luciano | "Lucky"
+right: Brian
+Wrong: 
+Value: $200
+Number: 4
+POTPOURRI | A special flower for April, it can be oxeye or shasta | Daisy
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 16
+"B" YOURSELF | In 1944 Allied soldiers & some of their heavy friends fought "The Battle of" this type of protrusion | Bulge
+right: Andy
+Wrong: 
+Value: $200
+Number: 11
+LITERARY MANHATTAN | Hope you were invited to the famous Black & White Ball this "In Cold Blood" author gave at the Plaza Hotel | Truman Capote
+right: Epatha
+Wrong: 
+Value: $400
+Number: 2
+CRIMINAL NICKNAMES | 1930s bank robber George Kelly | "Machine Gun"
+right: Epatha
+Wrong: 
+Value: $400
+Number: 5
+THE 900s A.D. | It's the colorful nickname of the Viking Eric, who established a colony on Greenland in 985 | "the Red"
+right: Andy
+Wrong: 
+Value: $400
+Number: 22
+POTPOURRI | (<http://www.j-archive.com/media/1999-11-16_DJ_17.jpg> Hi, I'm Vanna White at Christian Dior in New York City.)  This actress was wearing a Dior gown when she won her first Oscar for "BUtterfield 8" | Elizabeth Taylor
+right: Andy
+Wrong: 
+Value: $400
+Number: 17
+"B" YOURSELF | (<http://www.j-archive.com/media/1999-11-16_DJ_12.wmv> Yo-Yo Ma performs a cello solo & gives the clue.)  Are you ready?  This "B" of classical music wrote the piece I'm about to perform | J.S. Bach
+right: 
+Wrong: 
+Andy: Who was Beethoven?
+Value: DD: $2,000
+Number: 12
+LITERARY MANHATTAN | This suicidal poet once stayed at the Barbizon, which she fictionalized as the Amazon in "The Bell Jar" | Sylvia Plath
+right: Andy
+Wrong: 
+Value: $600
+Number: 3
+CRIMINAL NICKNAMES | Public enemy Charles Floyd | "Pretty Boy"
+right: Epatha
+Wrong: 
+Value: $600
+Number: 10
+WISH I'D SEEN THAT MUSICAL! | This multi-talented entertainer wrote the songs for "Sophie", a musical bio of Sophie Tucker | Steve Allen
+right: Andy
+Wrong: 
+Value: $600
+Number: 25
+THE 900s A.D. | During the 900s the Chinese added these "key" devices to canals | Locks
+right: Epatha
+Wrong: 
+Value: $600
+Number: 23
+POTPOURRI | If your computer has this kind of "base", you should know it's the plural of "datum" | data
+right: Brian
+Wrong: 
+Value: $600
+Number: 18
+"B" YOURSELF | 11-letter word for one who supports a family, perhaps with whole wheat or sourdough | breadwinner
+right: Andy
+Wrong: 
+Value: $600
+Number: 13
+LITERARY MANHATTAN | This "Moby Dick" author wrote "Billy Budd" while living at 104 East 26th Street | Herman Melville
+right: Epatha
+Wrong: 
+Value: $800
+Number: 6
+CRIMINAL NICKNAMES | 1920s racketeer Jack Diamond | "Legs"
+right: Brian
+Wrong: 
+Value: $800
+Number: 9
+WISH I'D SEEN THAT MUSICAL! | Of Toad, Rat or Mole, the one Nathan Lane played in "Wind in the Willows" | Toad
+right: Brian
+Wrong: 
+Epatha: Who is Rat?
+Value: $800
+Number: 24
+THE 900s A.D. | Around 957 English king Edgar made the monk Dunstan bishop of London; in 959 he made him archbishop of this | Canterbury
+right: Andy
+Wrong: 
+Value: DD: $3,000
+Number: 26
+POTPOURRI | The original "Calamity" in her life may have been her parents' death while settling Salt Lake City | Calamity Jane
+right: Andy
+Wrong: 
+Value: $800
+Number: 19
+"B" YOURSELF | Georgiana Drew was the maiden name of the mother of John, Ethel & Lionel of this acting family | Barrymore
+right: Brian
+Wrong: 
+Value: $800
+Number: 14
+LITERARY MANHATTAN | This "Blithe Spirit" playwright is among the artistes who resided at the Hotel des Artistes | Noel Coward
+right: Epatha
+Wrong: 
+Value: $1000
+Number: 7
+CRIMINAL NICKNAMES | Underworld boss Arthur Flegenheimer (aka Schultz) | Dutch
+right: Andy
+Wrong: 
+Epatha: Oh... oh.
+Value: $1000
+Number: 8
+WISH I'D SEEN THAT MUSICAL! | This future first lady made her Broadway debut in 1946's "Lute Song" with Mary Martin | Nancy Reagan
+right: Andy
+Wrong: 
+Value: $1000
+Number: 21
+POTPOURRI | His Ninth Symphony includes the "Ode to Joy"; his opera "Fidelio" includes "O Nameless Joy" | Ludwig van Beethoven
+right: Brian
+Wrong: 
+Value: $1000
+Number: 20
+"B" YOURSELF | Tick-Licker was the favorite rifle of this 18th centiry Kentucky frontiersman | Daniel Boone
+right: Andy
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Brian: $5,000
+Epatha: $4,000
+Andy: $12,200
+
+Final Jeopardy! Round
+DIRECTORS | Appropriately, the 100th anniversary of this director's birth was on a Friday the 13th -- August 13, 1999 | Alfred Hitchcock
+right: Epatha | Brian | Andy
+Wrong: 
+Wagers: 
+Epatha: $3,500
+Brian: $5,000
+Andy: $12,200
+Final scores:
+Brian: $10,000 (2nd place: $10,000 for the New York Foundling Hospital)
+Epatha: $7,500 (3rd place: $10,000 for the Campaign for Tobacco-Free Kids)
+Andy: $24,400 (Winner: $24,400 for the Southern Poverty Law Center)
+
+Coryat scores
+Brian: $5,000 (11 R,1 W)
+Epatha: $4,000 (14 R,3 W)
+Andy: $11,400 (24 R(including 2 DDs),1 W(including 1 DD))

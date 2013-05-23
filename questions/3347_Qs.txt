@@ -1,0 +1,336 @@
+5880 - Friday, March 19, 2010
+Contestants:
+Kristian Zoerhoff: a computer engineer from Gilberts, Illinois
+Sarah Bright: a radiology resident from Metairie, Louisiana
+Jim Banks: a stockbroker and branch manager from Suffield, Connecticut (whose 1-day cash winnings total $19,599)
+First Jeopardy! Round: HISTORIC WOMEN, ALLITERATIVE ACTORS, AVOIDING A DISASTROUS TRIP TO EUROPE, JEOPARDY! DRINKING GAMES, SAFETY FIRST, FINISH THE PALINDROME
+HISTORIC WOMEN | She met Napoleon after her husband Alexandre de Beauharnais was guillotined in 1794 | Josephine
+right: Kristian
+Wrong: 
+Value: $200
+Number: 6
+ALLITERATIVE ACTORS | He went "Old School" as a "Wedding Crasher" | Vince Vaughn
+right: Kristian
+Wrong: 
+Value: $200
+Number: 1
+AVOIDING A DISASTROUS TRIP TO EUROPE | Try not to leave <http://www.j-archive.com/media/2010-03-19_J_16.jpg> this Greek landmark in any more of a shambles than it already is | the Parthenon
+right: Kristian
+Wrong: 
+Jim: What is the Acropolis?
+Value: $200
+Number: 16
+JEOPARDY! DRINKING GAMES | Like actress Sally, this last name of 19th century U.S. department store owner Marshall is singular; add an "S"--imbibe | Field
+right: Kristian
+Wrong: 
+Value: $200
+Number: 21
+SAFETY FIRST | The Boat U.S. foundation has a program at waterfronts to lend these & make sure they fit | lifejackets
+right: Sarah
+Wrong: 
+Value: $200
+Number: 11
+FINISH THE PALINDROME | "Dammit! I'm" this | mad
+right: Kristian
+Wrong: 
+Sarah: What is Adam?
+Value: $200
+Number: 26
+HISTORIC WOMEN | She was a teacher & administrator at St. Mary's High School in Calcutta for about 17 years until 1946 | Mother Theresa
+right: Sarah
+Wrong: 
+Value: $400
+Number: 7
+ALLITERATIVE ACTORS | This "X-Files" star went to grad school at Yale but didn't finish his thesis | David Duchovny
+right: Sarah
+Wrong: 
+Value: $400
+Number: 2
+AVOIDING A DISASTROUS TRIP TO EUROPE | Hitting Innsbruck or Salzburg in this country & saying "G'day, mate!" over & over will only confuse the locals | Austria
+right: Sarah
+Wrong: 
+Value: $400
+Number: 17
+JEOPARDY! DRINKING GAMES | When naming this member of the 2nd triumvirate, don't add an "H" to his last name or you're talking about J. Lo's hubby | Mark Antony
+right: Kristian
+Wrong: 
+Value: $400
+Number: 22
+SAFETY FIRST | BTSI technology makes you apply this when shifting out of park, so your 6-year-old can't drive off | the brakes
+right: Kristian
+Wrong: 
+Value: $400
+Number: 12
+FINISH THE PALINDROME | "Dennis and Edna" did this | sinned
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+HISTORIC WOMEN | In 1956 this future Israeli prime minister adopted a new last name that means "to burn brightly" in Hebrew | Golda Meir
+right: Sarah
+Wrong: 
+Value: $600
+Number: 8
+ALLITERATIVE ACTORS | We were "Enchanted" by her performance as Delysia in "Miss Pettigrew Lives for a Day" | Amy Adams
+right: Sarah
+Wrong: 
+Value: $600
+Number: 3
+AVOIDING A DISASTROUS TRIP TO EUROPE | If in Norway on July 18, don't inquire if it's a national holiday due to the birth of this traitor in 1887 | (Vidkund) Quisling
+right: Jim
+Wrong: 
+Value: $600
+Number: 18
+JEOPARDY! DRINKING GAMES | If you add the incorrect "S" to this last book of the Bible that tells of the opening of 6 seals, down a whole cup | Revelation
+right: Sarah
+Wrong: 
+Value: $600
+Number: 23
+SAFETY FIRST | You're a lumberjack & you won't be okay if this item lacks a hand guard & throttle interlock | chainsaw
+right: Sarah
+Wrong: 
+Value: $600
+Number: 13
+FINISH THE PALINDROME | "No lemon, no" this | melon
+right: Kristian
+Wrong: 
+Sarah: What is "elon"?
+Value: $600
+Number: 28
+HISTORIC WOMEN | In her will, this queen of Castile pleaded for just treatment of New World Indians | Isabella
+right: Kristian
+Wrong: 
+Value: $800
+Number: 9
+ALLITERATIVE ACTORS | This actor turned to directing & won an Oscar for his first effort--"Ordinary People" | Robert Redford
+right: Jim
+Wrong: 
+Value: $800
+Number: 4
+AVOIDING A DISASTROUS TRIP TO EUROPE | Don't sneeze & use one of the 2 extant "originals" of this 1215 document at the British Library to wipe your nose | the Magna Carta
+right: Kristian
+Wrong: 
+Value: $800
+Number: 19
+JEOPARDY! DRINKING GAMES | If you say the WCTU is the "Women's Christian" rather than the "Woman's Christian" this, take a non-alcoholic swig | Temperance Union
+right: Kristian
+Wrong: 
+Value: $800
+Number: 24
+SAFETY FIRST | Uvex specializes in protecting these, as with its innovative Astrospec line | eyes
+right: Sarah
+Wrong: 
+Value: $800
+Number: 14
+FINISH THE PALINDROME | "Lived on decaf, faced no" this | devil
+right: Kristian
+Wrong: 
+Value: $800
+Number: 29
+HISTORIC WOMEN | While attending Oxford in the 1940s, this Brit became president of the university Conservative Association | Margaret Thatcher
+right: Kristian
+Wrong: 
+Value: DD: $1,200
+Number: 10
+ALLITERATIVE ACTORS | Getting caught in the wheels of a machine makes him go berserk in 1936's "Modern Times" | Charlie Chaplin
+right: Sarah
+Wrong: 
+Value: $1000
+Number: 5
+AVOIDING A DISASTROUS TRIP TO EUROPE | Loudly demanding only ketchup & no mustard at your meals in this capital of Burgundy... bad idea | Dijon
+right: Jim
+Wrong: 
+Value: $1000
+Number: 20
+JEOPARDY! DRINKING GAMES | Drink up if you say (incorrectly) this African-American author wrote "The Invisible Man"; he penned "Invisible Man" | Ralph Ellison
+right: Jim
+Wrong: 
+Value: $1000
+Number: 25
+SAFETY FIRST | Respirators can help prevent coal workers' pneumoconiosis, better known as this | black lung disease
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 15
+FINISH THE PALINDROME | "Drab as a fool, aloof as a" this | bard
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Jim: $800
+Sarah: $4,600
+Kristian: $3,800
+Scores at the end of the Jeopardy! Round:
+Jim: $3,200
+Sarah: $4,800
+Kristian: $8,800
+Second Jeopardy! Round: BIBLICAL PAINTINGS, BERG-OPOLIS, CHARACTER ASSASSINATION, UNMANNED SPACE EXPLORATION, BUGS BUNNY, WHAT'S UP, "DOC"?
+BERG-OPOLIS | The 108th mayor of New York City, he is a graduate of Johns Hopkins & Harvard Business School | (Michael) Bloomberg
+right: Kristian
+Wrong: 
+Value: $400
+Number: 22
+CHARACTER ASSASSINATION | Weakened by scarlet fever, Beth March was sentenced to death by this author | (Louisa May) Alcott
+right: Sarah
+Wrong: 
+Value: $400
+Number: 1
+UNMANNED SPACE EXPLORATION | On March 6, 1986 Vega 1 became the first spacecraft to rendezvous with this comet | Halley's Comet
+right: Jim
+Wrong: 
+Value: $400
+Number: 16
+BUGS BUNNY | One of the world's most recognizable characters, Bugs Bunny is a mascot of this movie studio | Warner Brothers
+right: Sarah
+Wrong: 
+Value: $400
+Number: 6
+WHAT'S UP, "DOC"? | A nonfiction film about a factual event or person | a documentary
+right: Jim
+Wrong: 
+Value: $400
+Number: 11
+BERG-OPOLIS | He "saw the best minds of my generation destroyed by madness" | Allen Ginsberg
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+CHARACTER ASSASSINATION | This writer didn't flat out say, "Roderick Usher's own house fell on him", but the implication is clear | (Edgar Allan) Poe
+right: Jim
+Wrong: 
+Value: $800
+Number: 2
+UNMANNED SPACE EXPLORATION | In 1989 Magellan became the first probe launched from a Shuttle when Atlantis sent it on its way to this, Earth's twin | Venus
+right: Jim
+Wrong: 
+Value: $800
+Number: 17
+BUGS BUNNY | He voiced Bugs in almost 200 cartoons over a 50-year period | Mel Blanc
+right: Kristian
+Wrong: 
+Value: $800
+Number: 7
+WHAT'S UP, "DOC"? | A system of beliefs accepted as authoritative by a group's members | a doctrine
+right: Kristian
+Wrong: 
+Value: $800
+Number: 12
+BIBLICAL PAINTINGS | One of the most popular paintings at the National Gallery of Art is this surrealist's "The Sacrament of the Last Supper" | Dalí
+right: Sarah
+Wrong: 
+Value: $1200
+Number: 28
+BERG-OPOLIS | We're quite sure that this German physicist won a 1932 Nobel Prize | Heisenberg
+right: Kristian
+Wrong: 
+Value: $1200
+Number: 23
+CHARACTER ASSASSINATION | Air Force gunner Snowden catches some flak & dies in Yossarian's arms, courtesy of this author | (Joseph) Heller
+right: Jim
+Wrong: 
+Value: $1200
+Number: 3
+UNMANNED SPACE EXPLORATION | The most distant manmade object, this probe launched in 1977 may travel to interstellar space in 2020 | Voyager
+right: Jim
+Wrong: 
+Value: DD: $2,000
+Number: 18
+BUGS BUNNY | This gun-toting nebbish tries to match wits with Bugs in classics like "Wabbit Trouble" & "What's Opera, Doc?" | Elmer Fudd
+right: Kristian
+Wrong: 
+Sarah: Who is Yosemite Sam?
+Value: $1200
+Number: 8
+WHAT'S UP, "DOC"? | 8-letter word for a waterfront location where ships are built & repaired | a dockyard
+right: 
+Wrong: Triple Stumper
+Sarah: What is drydock? ... (Alex: What is [*]?  "Drydock" doesn't have quite enough letters.
+Value: $1200
+Number: 13
+BIBLICAL PAINTINGS | In a fresco at the Sistine Chapel, Pietro Perugino depicted "The Giving of the Keys" to him | Peter
+right: Kristian
+Wrong: 
+Value: DD: $500
+Number: 27
+BERG-OPOLIS | An Air Force base in California is named for this general, the second Air Force Chief of Staff | (Hoyt) Vandenberg
+right: Kristian
+Wrong: 
+Value: $1600
+Number: 24
+CHARACTER ASSASSINATION | This novelist had Bull Meecham, aka "The Great Santini", go out in a plane crash | (Pat) Conroy
+right: Sarah
+Wrong: 
+Value: $1600
+Number: 4
+UNMANNED SPACE EXPLORATION | In 2005 the Huygens Probe landed on this largest moon of Saturn, revealing a world that rains liquid methane | Titan
+right: Kristian
+Wrong: 
+Jim: What is Io?
+Value: $1600
+Number: 19
+BUGS BUNNY | Bugs Bunny officially debuted in the 1940 cartoon "A Wild" this | Hare
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+WHAT'S UP, "DOC"? | A summary of legal cases scheduled to be heard | a docket
+right: Jim
+Wrong: 
+Value: $1600
+Number: 14
+BIBLICAL PAINTINGS | (<http://www.j-archive.com/media/2010-03-19_DJ_26.jpg> Sarah of the Clue Crew shows a painting on the monitor.)  In a 17th-century painting, Isaac, now blind in his old age, is blessing <http://www.j-archive.com/media/2010-03-19_DJ_26a.jpg> Jacob, who, you'll notice, is wearing gloves to hide the fact that he isn't this hairier brother | Esau
+right: Kristian
+Wrong: 
+Value: $2000
+Number: 26
+BERG-OPOLIS | His works of the 1950s like <http://www.j-archive.com/media/2010-03-19_DJ_25.jpg> "Monogram" used found objects & bits of pop culture | Robert Rauschenberg
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+CHARACTER ASSASSINATION | He titled his book "Le Morte d'Arthur" for a reason; Art takes a sword to the "brain pan" | (Sir Thomas) Mallory
+right: Jim
+Wrong: 
+Value: $2000
+Number: 5
+UNMANNED SPACE EXPLORATION | In 1976, within 3 months, 2 U.S. spacecraft by this name soft-landed on the surface of Mars | Viking
+right: Kristian
+Wrong: 
+Value: $2000
+Number: 20
+BUGS BUNNY | To help him defeat the Monstars, Bugs recruited basketball legend Michael Jordan in this 1996 film | Space Jam
+right: Sarah
+Wrong: 
+Value: $2000
+Number: 10
+WHAT'S UP, "DOC"? | This disparaging word for an out-of-the-way place comes from the Tagalog for "mountain" | boondocks
+right: Kristian
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Jim: $10,800
+Sarah: $8,000
+Kristian: $21,700
+
+Final Jeopardy! Round
+1940s MUSIC HISTORY | While writing for Billboard, legendary producer Jerry Wexler coined this phrase to replace "race music" | rhythm & blues
+right: 
+Wrong: 
+Sarah: What is hip hop?
+Jim: What is Rock And Roll?
+Kristian: What is Jazz?
+Wagers: 
+Sarah: $0
+Jim: $10,799
+Kristian: $0
+Final scores:
+Jim: $1 (3rd place: $1,000)
+Sarah: $8,000 (2nd place: $2,000)
+Kristian: $21,700 (New champion: $21,700)
+
+Coryat scores
+Jim: $10,000 (12 R(including 1 DD),2 W)
+Sarah: $8,000 (15 R,4 W)
+Kristian: $22,600 (26 R(including 2 DDs),1 W)

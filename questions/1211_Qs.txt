@@ -1,0 +1,339 @@
+3182 - Tuesday, June 2, 1998
+Contestants:
+Pat Watson: a banking vice president from St. Louis, Missouri
+Jack Rowley: a software support specialist from Atlanta, Georgia
+Adele Odegard: a lieutenant colonel from Fort Belvoir, Virginia
+First Jeopardy! Round: 3-LETTER SCIENCE, WHOSE COW?, HOW POETIC, ACTING PRESIDENTS, WORLD TRAVEL, ODD WORDS
+3-LETTER SCIENCE | You're "wiser" if you know it's a small pointed structure on a stem that grows into a flower or a leaf | Bud
+right: Jack
+Wrong: 
+Value: $100
+Number: 2
+WHOSE COW? | Milky-White was the name of the cow that this kid sold for beans | Jack
+right: Pat
+Wrong: 
+Value: $100
+Number: 25
+HOW POETIC | The poet who penned the line, "I believe a leaf of grass is no less than the journey-work of the stars" | Walt Whitman
+right: Jack
+Wrong: 
+Value: $100
+Number: 15
+ACTING PRESIDENTS | James Gregory played this post-Civil War president on the classic TV series "The Wild Wild West" | Ulysses S. Grant
+right: Jack
+Wrong: 
+Value: $100
+Number: 1
+WORLD TRAVEL | Pharaonic Village, which recreates life in ancient times, is on an island in this river | Nile
+right: Adele
+Wrong: 
+Value: $100
+Number: 7
+ODD WORDS | People were "aurified" by King Midas; he turned them into this | Gold
+right: Jack
+Wrong: 
+Value: $100
+Number: 12
+3-LETTER SCIENCE | About 4.5 billion years old, it's the closest G2 type star to where you're standing | Sun
+right: Jack
+Wrong: 
+Value: $200
+Number: 3
+WHOSE COW? | This company's barn includes Elsie & Elmer | Borden
+right: Adele
+Wrong: 
+Value: $200
+Number: 26
+HOW POETIC | Wordsworth wrote, "My" this "leaps up when I behold a rainbow in the sky" | Heart
+right: Pat
+Wrong: 
+Value: $200
+Number: 21
+ACTING PRESIDENTS | Then-president John F. Kennedy chose this actor to play him in the 1963 film "PT 109" | Cliff Robertson
+right: Adele
+Wrong: 
+Value: $200
+Number: 18
+WORLD TRAVEL | Want to ride an elephant in this country?  Head for the Gokarna Safari Park east of Katmandu | Nepal
+right: Jack
+Wrong: 
+Value: $200
+Number: 8
+ODD WORDS | This insect stores pollen in a "corbicula", a little basket in its body | Bee
+right: Adele
+Wrong: 
+Value: $200
+Number: 13
+3-LETTER SCIENCE | You add this element to copper & zinc to get bronze | Tin
+right: Adele
+Wrong: 
+Value: $300
+Number: 4
+WHOSE COW? | This cable channel has renewed "Cow & Chicken" created by David Feiss, so there will be 52 episodes total | Cartoon Network
+right: Jack
+Wrong: 
+Value: $300
+Number: 27
+HOW POETIC | "Forever wilt thou love, and she be fair!" wrote this poet in his "Ode on a Grecian Urn" | John Keats
+right: Adele
+Wrong: 
+Value: $300
+Number: 22
+ACTING PRESIDENTS | (I'm Sam Waterston)  I starred in a 1988 miniseries based on Gore Vidal's book about this president | Abraham Lincoln
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 19
+WORLD TRAVEL | Portimao is one of the most visited fishing villages in this country's Algarve region | Portugal
+right: Jack
+Wrong: 
+Value: $300
+Number: 9
+ODD WORDS | A "woubit" is a hairy one of these, most often the one that becomes a tiger moth | Caterpillar
+right: Pat
+Wrong: 
+Value: $300
+Number: 14
+3-LETTER SCIENCE | A neutral atom will become one of these when it gains or loses an electron | Ion
+right: Jack
+Wrong: 
+Value: $400
+Number: 5
+WHOSE COW? | The very animated Clarabelle Cow belongs to this studio | Disney
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 28
+HOW POETIC | American poet who wrote the following: ("The fog comes on little cat feet. It sits looking over harbor and city on silent haunches and then moves on.") | Carl Sandburg
+right: Pat
+Wrong: 
+Value: $400
+Number: 23
+ACTING PRESIDENTS | Burgess Meredith could have sung "Hello, Dolley!" when he played this man in the film "Magnificent Doll" | James Madison
+right: Pat
+Wrong: 
+Value: $400
+Number: 20
+WORLD TRAVEL | The 625-foot-high Calgary Tower in this Canadian province features a revolving restaurant | Alberta
+right: Adele
+Wrong: 
+Value: $400
+Number: 10
+ODD WORDS | To "cantillate" is to do this (maybe to an old Gregorian one) | Chant
+right: Jack
+Wrong: 
+Value: $400
+Number: 16
+3-LETTER SCIENCE | Ir"resistable" German physicist with a law about the flow of an electric current | Ohm
+right: Adele
+Wrong: 
+Value: $500
+Number: 6
+WHOSE COW? | Ancient people whose goddess Hathor had the head of a cow | Egyptians
+right: Pat
+Wrong: 
+Value: $500
+Number: 29
+HOW POETIC | Her Poem No. 1333 tells us: "A little madness in the spring is wholesome even for the king" | Emily Dickinson
+right: Adele
+Wrong: 
+Value: $500
+Number: 24
+ACTING PRESIDENTS | Charlton Heston played this president in 2 films: "The Buccaneer" & "The President's Lady" | Andrew Jackson
+right: Pat
+Wrong: 
+Value: $500
+Number: 30
+WORLD TRAVEL | A lot of visitors to this country fly LOT, its national airline, to cities like Poznan & Szezecin | Poland
+right: Jack
+Wrong: 
+Value: $500
+Number: 11
+ODD WORDS | A "mako" is an apprentice one of these women who entertain men in Japan | Geisha
+right: Adele
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Adele: $1,500
+Jack: $2,000
+Pat: -$100
+Scores at the end of the Jeopardy! Round:
+Adele: $2,200
+Jack: $2,200
+Pat: $2,000
+Second Jeopardy! Round: BUSINESS FOUNDERS, AMERICAN ARTISTS, SPORTS, STATE FLAGS, "STRAIGHT" & "NARROW", PARTY ON!
+BUSINESS FOUNDERS | In the 19th C. he fled the German military draft & went on to brew beer in Golden, Colorado | Adolph Coors
+right: Jack
+Wrong: 
+Value: $200
+Number: 2
+AMERICAN ARTISTS | Before turning to painting in her 70s, she embroidered pictures on canvas | Grandma Moses
+right: Jack
+Wrong: 
+Value: $200
+Number: 1
+SPORTS | After 36 seasons in this stadium named for a U.S. senator, the Redskins moved to a new facility in Sept. 1997 | RFK (Robert F. Kennedy) Stadium
+right: Jack
+Wrong: 
+Value: $200
+Number: 12
+STATE FLAGS | Anti-smoking groups beware: this state's flag has a peace pipe on it | Oklahoma
+right: Jack
+Wrong: 
+Value: $200
+Number: 6
+"STRAIGHT" & "NARROW" | A poker hand consisting of the 6, 5, 4, 3, & 2 of clubs | a straight flush
+right: Adele
+Wrong: 
+Value: $200
+Number: 18
+PARTY ON! | It was the first film that teamed Frankie Avalon with Annette Funicello | Beach Party
+right: Pat
+Wrong: 
+Value: $200
+Number: 17
+BUSINESS FOUNDERS | Todd McFarlane's career drawing Spiderman for this comics line spawned his own private company | Marvel Comics
+right: Jack
+Wrong: 
+Value: $400
+Number: 3
+AMERICAN ARTISTS | In 1963 this "Christina's World" painter became the first artist to receive the Presidential Medal of Freedom | Andrew Wyeth
+right: Adele
+Wrong: 
+Value: $400
+Number: 8
+SPORTS | He was the NBA's Coach of the Year twice: once with the Lakers & once with the Knicks | Pat Riley
+right: Jack
+Wrong: 
+Value: $400
+Number: 27
+STATE FLAGS | On its flag a sunflower sits above the state seal | Kansas
+right: Pat
+Wrong: 
+Value: $400
+Number: 7
+"STRAIGHT" & "NARROW" | This adjective describes Archie Bunker & his opinions | Narrow-minded
+right: Adele
+Wrong: 
+Value: $400
+Number: 19
+PARTY ON! | Sherry drinking & flamenco dancing are highlights of the Cadiz Grape Harvest Festival in this country | Spain
+right: Pat
+Wrong: 
+Value: $400
+Number: 20
+BUSINESS FOUNDERS | In 1968 Robert Noyce & Gordon Moore founded this microchip company & soon brought Andrew Grove on board | Intel
+right: Jack
+Wrong: 
+Value: $600
+Number: 4
+AMERICAN ARTISTS | His portraits of George Washington include Athenaeum, Vaughan & Landsdowne types | Gilbert Stuart
+right: Adele
+Wrong: 
+Value: $600
+Number: 9
+SPORTS | (Hi, I'm Jim Lampley)  This Oakland A's first baseman in 1996 hit 52 home runs -- most in the A.L. since Roger Maris hit 61 in '61 | Mark McGwire
+right: Jack
+Wrong: 
+Value: DD: $200
+Number: 28
+STATE FLAGS | This object on the Indiana flag symbolizes liberty & enlightenment, like the big one in New York | Torch
+right: Adele
+Wrong: 
+Value: $600
+Number: 13
+"STRAIGHT" & "NARROW" | Gracie Allen was married to hers | Straight man (George Burns)
+right: Jack
+Wrong: 
+Value: $600
+Number: 21
+PARTY ON! | Act II of this musical opens with a festive masked ball at the Paris Opera House | "Phantom of the Opera"
+right: Pat
+Wrong: 
+Value: $600
+Number: 24
+BUSINESS FOUNDERS | The company founded by this man in 1876 developed insulin, many antibiotics & Prozac | Eli Lilly
+right: 
+Wrong: 
+Value: DD: $1,100
+Number: 5
+AMERICAN ARTISTS | Known for his watercolors, many of his famous seascapes were set at his home in Prout's Neck, Maine | Winslow Homer
+right: Adele
+Wrong: 
+Value: $800
+Number: 10
+SPORTS | On Aug. 5, 1997 this U.S. sprinter won his record third straight world 400-meter title in Athens | Michael Johnson
+right: Jack
+Wrong: 
+Value: $800
+Number: 29
+STATE FLAGS | Its state motto, "Virtue, LIberty and Independence" is on its flag; Ben Franklin would approve | Pennsylvania
+right: Pat
+Wrong: 
+Value: $800
+Number: 14
+"STRAIGHT" & "NARROW" | The restored Durango & Silverton Railroad in Colorado uses this type of track | Narrow gauge
+right: Jack
+Wrong: 
+Value: $800
+Number: 22
+PARTY ON! | This singer was just 17 when she had a No. 1 hit with the following: ("It's my party and I'll cry if I want to...") | Lesley Gore
+right: Jack
+Wrong: 
+Value: $800
+Number: 25
+BUSINESS FOUNDERS | "Uncle Herb" Kelleher founded this no-frills airline named for a quadrant of the U.S. | Southwest Airlines
+right: Jack
+Wrong: 
+Value: $1000
+Number: 15
+AMERICAN ARTISTS | In 1916 Alfred Stieglitz exhibited her paintings at 291, his NYC gallery; 8 years later he married her | Georgia O'Keeffe
+right: Adele
+Wrong: 
+Value: $1000
+Number: 11
+SPORTS | Abe Mitchell is the golfer depicted on top on this cup sought by teams from the U.S. & Europe | Ryder Cup
+right: Jack
+Wrong: 
+Value: $1000
+Number: 30
+STATE FLAGS | 1 of 3 animals on Michigan's flag (Hint: There are no wolverines) | Eagle, elk or moose
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+"STRAIGHT" & "NARROW" | Nat King Cole hit heard here: | "Straighten Up and Fly Right"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+PARTY ON! | The Earl of Leicester gave this Tudor queen a party that lasted 17 days | Queen Elizabeth I
+right: Adele
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Adele: $5,400
+Jack: $8,500
+Pat: $4,400
+
+Final Jeopardy! Round
+COMPOSERS | When "Fantasia" was released in 1940, he was the only one of its composers still alive to hear his music | Igor Stravinsky
+right: Adele
+Wrong: 
+Pat: Who was Shostokovich?
+Jack: Who is Strauss?
+Wagers: 
+Pat: $4,300
+Adele: $3,000
+Jack: $2,301
+Final scores:
+Adele: $8,400 (New champion: $8,400)
+Jack: $6,199 (2nd place: Trip to Atlantis Hotel & Casino, Paradise Island, Bahamas)
+Pat: $100 (3rd place: Motorola StarTac Cellular Phone)
+
+Coryat scores
+Adele: $6,400 (18 R,3 W(including 1 DD))
+Jack: $10,000 (25 R(including 1 DD),2 W(including 1 DD))
+Pat: $4,400 (12 R,1 W)

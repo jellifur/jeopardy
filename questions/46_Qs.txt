@@ -1,0 +1,339 @@
+4641 - Monday, November 8, 2004
+Comments: Ken Jennings game 69.
+Contestants:
+Jennifer Peebles: a newspaper editor from Madison, Tennessee
+Robert Kirkpatrick: an animator from Miami Beach, Florida
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 68-day cash winnings total $2,305,801)
+First Jeopardy! Round: THE TRUMAN LIBRARY, DO "TELL", BOTTOM OF THE NINTH, IF YOU GROW IT, THEY WILL EAT, CHAMPAGNE MUSIC, SHALL WE GDANSK?
+THE TRUMAN LIBRARY | One exhibit at the library covers the concert career of this Truman relative | Margaret Truman
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 16
+DO "TELL" | Give us your best Marlon Brando with this famous 1-word howl from a classic 1951 film | 
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+BOTTOM OF THE NINTH | He dedicated his ninth symphony to the King of Prussia | Beethoven
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+IF YOU GROW IT, THEY WILL EAT | Endive is a member of the same family as this flower, so "give me your answer, do" | daisy
+right: Ken
+Wrong: 
+Value: $200
+Number: 20
+CHAMPAGNE MUSIC | The Eagles mention amenities like champagne on ice & a flexible check-out time at this title place | the Hotel California
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+SHALL WE GDANSK? | The country where you'll find the city of Gdansk | Poland
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 11
+THE TRUMAN LIBRARY | See the satchel Truman took when he signed the charter for this organization on Jun 26, 1945, in San Francisco | the U.N.
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+DO "TELL" | Bootes, Orion & Gemini, to name a few | constellations
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+BOTTOM OF THE NINTH | It's the chemical element named for the ninth planet from the sun | plutonium
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+IF YOU GROW IT, THEY WILL EAT | While there are over 5,000 varieties of this fruit, you probably eat the Anjou or Bartlett | a pear
+right: Robert
+Wrong: 
+Value: $400
+Number: 22
+CHAMPAGNE MUSIC | He wrote the song that says, "I get no kick from champagne" | Cole Porter
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+SHALL WE GDANSK? | It's what the Germans called Gdansk when they controlled it | Danzig
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+THE TRUMAN LIBRARY | (<http://www.j-archive.com/media/2004-11-08_J_18.jpg> Sarah of the Clue Crew reports from the Truman Library in Independence, MO.)  Among the library's historic artifacts is the <http://www.j-archive.com/media/2004-11-08_J_18a.jpg> safety plug from the bomb dropped on this city on August 9, 1945 | Nagasaki
+right: Ken
+Wrong: 
+Jennifer: What is Hiroshima?
+Value: $600
+Number: 18
+DO "TELL" | It's the governmental organization headed by George H.W. Bush from 1976 to 1977 | the Central Intelligence Agency
+right: Robert
+Wrong: 
+Value: $600
+Number: 8
+BOTTOM OF THE NINTH | In 1966 this strongman gave Spain its ninth constitution since 1812 | Franco
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+IF YOU GROW IT, THEY WILL EAT | Though American in origin, the Cape Gooseberry got its name by being cultivated on this South African Cape | the Cape of Good Hope
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+CHAMPAGNE MUSIC | Ann-Margret sang a song called "Champagne" in the movie version of this rock opera | Tommy
+right: Robert
+Wrong: 
+Value: $600
+Number: 28
+SHALL WE GDANSK? | The body of water on which Gdansk is a major port | the Baltic
+right: Ken
+Wrong: 
+Value: DD: $2,000
+Number: 13
+THE TRUMAN LIBRARY | (<http://www.j-archive.com/media/2004-11-08_J_19.jpg> Sofia of the Clue Crew reports from the Truman Library in Independence, MO.)  <http://www.j-archive.com/media/2004-11-08_J_19a.jpg> "Family Squabble", a painting by this illustrator, shows how many families argued about the 1948 presidential election | (Norman) Rockwell
+right: Robert
+Wrong: 
+Value: $800
+Number: 19
+DO "TELL" | It's the flat, movable bone at the front of the knee | the patella
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+BOTTOM OF THE NINTH | He was our ninth president & his grandson was our twenty-third | William Henry Harrison
+right: Ken
+Wrong: 
+Robert: ...Adams--who's Adams?
+Value: $800
+Number: 4
+IF YOU GROW IT, THEY WILL EAT | One of the oldest plants cultivated by man, it produces 1 bunch of "hands" & then is cut down | bananas
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 24
+CHAMPAGNE MUSIC | This No. 1 hit with a "Spanglish" title says, "She never drinks the water, makes you order French champagne" | "Livin' La Vida Loca"
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+SHALL WE GDANSK? | The organization that administered Gdansk as a free city following World War I | the League of Nations
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 14
+THE TRUMAN LIBRARY | The library has the actual guns used by the men who tried to assassinate Pres. Truman at this residence in 1950 | Blair House
+right: Ken
+Wrong: 
+Value: $1000
+Number: 21
+DO "TELL" | Small rounds of meat-filled pasta that are shaped into rings & boiled | tortellini
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+BOTTOM OF THE NINTH | Hindus consider Buddha to be the ninth incarnation of this preserver god | Vishnu
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+IF YOU GROW IT, THEY WILL EAT | The California types of these are Mexican-Guatemalan hybrids & include the Hass | avocados
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+CHAMPAGNE MUSIC | In a tropical tune by this singer, a water shortage at the Gull Reef Club means "Champagne Si, Agua No" | Jimmy Buffett
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+SHALL WE GDANSK? | The river that runs from the Carpathian Mountains to its mouth near Gdansk | the Vistula
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $7,800
+Robert: -$200
+Jennifer: $1,000
+Scores at the end of the Jeopardy! Round:
+Ken: $13,000
+Robert: $1,600
+Jennifer: $1,400
+Second Jeopardy! Round: YOUR HITTITE PARADE, STAR WARS, GRAY'S ANATOMY, CALIFORNIA DREAMIN', PULITZER PRIZE-WINNING PLAYS, BEFORE & AFTER
+YOUR HITTITE PARADE | Not too far from this present-day Turkish capital you can see the site of the old Hittite capital, Hattusas | Ankara
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+STAR WARS | (<http://www.j-archive.com/media/2004-11-08_DJ_12.wmv> Mark Hamill reads.)  This villain was portrayed by three different actors: one did his voice, one did his physical acting, & one did his stunts | Darth Vader
+right: Robert
+Wrong: 
+Value: $400
+Number: 12
+GRAY'S ANATOMY | From the Latin for "to chew", Gray's calls this bone the strongest bone of the face | the mandible
+right: Robert
+Wrong: 
+Value: $400
+Number: 17
+CALIFORNIA DREAMIN' | California produces approximately 98% of the U.S. supply of these "green almond" nuts | pistachios
+right: Ken
+Wrong: 
+Value: $400
+Number: 20
+PULITZER PRIZE-WINNING PLAYS | Frank D. Gilroy: "The Subject Was..." | Roses
+right: Robert
+Wrong: 
+Ken: What is Murder?
+Value: $400
+Number: 2
+BEFORE & AFTER | Revolutionary War traitor who also told "True Lies" to film fans | Benedict Arnold Schwarzenegger
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 7
+STAR WARS | (<http://www.j-archive.com/media/2004-11-08_DJ_13.wmv> R2-D2 "reads".)  In "Star Wars", the term used for robots like C-3PO & myself is this 5-letter shortening of another word | droid
+right: Ken
+Wrong: 
+Value: $800
+Number: 13
+GRAY'S ANATOMY | Gray's describes this as the longest & largest bone in the arm | the humerus
+right: 
+Wrong: Triple Stumper
+Ken: What is the, uh, uh, radius?
+Value: $800
+Number: 18
+CALIFORNIA DREAMIN' | In 1848 this large migration began with a valuable discovery at Sutter's Mill | the Gold Rush
+right: Ken
+Wrong: 
+Value: $800
+Number: 23
+PULITZER PRIZE-WINNING PLAYS | Paul Zindel: "The Effect of Gamma Rays on..." | Man-in-the-Moon Marigolds
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+BEFORE & AFTER | "Rollin' On The River" CCR tune that founded Christian Science | Proud Mary Baker Eddy
+right: Ken
+Wrong: 
+Value: $800
+Number: 8
+YOUR HITTITE PARADE | The Chalybes of the Hittite Empire ushered in this "Age" with advancements like tempering & forging | the Iron Age
+right: 
+Wrong: 
+Ken: What is Bronze?
+Value: DD: $5,200
+Number: 27
+STAR WARS | (<http://www.j-archive.com/media/2004-11-08_DJ_14.wmv> A stormtrooper reads.)  Infiltrating the Death Star, these 2 characters dress up like storm troopers to rescue Princess Leia | Han & Luke
+right: Ken
+Wrong: 
+Value: $1200
+Number: 14
+GRAY'S ANATOMY | This artery is in the thigh, as its name indicates | the femoral artery
+right: 
+Wrong: 
+Robert: I don't know.
+Value: DD: $1,000
+Number: 19
+CALIFORNIA DREAMIN' | During the 1999 World Cup Soccer final in Pasadena, she did her famous victory strip | Brandi Chastain
+right: Ken
+Wrong: 
+Value: $1200
+Number: 24
+PULITZER PRIZE-WINNING PLAYS | John Patrick: "The Teahouse..." | of the August Moon
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+BEFORE & AFTER | Portly Yankee slugger who became a more svelte Supreme Court Justice | Babe Ruth Bader Ginsburg
+right: Ken
+Wrong: 
+Value: $1200
+Number: 9
+YOUR HITTITE PARADE | A great battle was fought at the Hittite stronghold of Kadesh against this Egyptian pharaoh, husband to Nefertari | Ramses the Great
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+STAR WARS | (<http://www.j-archive.com/media/2004-11-08_DJ_15.wmv> Chewbacca "reads".)  I am Chewbacca, this type of creature from the planet Kashyyyk | a Wookiee
+right: Ken
+Wrong: 
+Value: $1600
+Number: 15
+GRAY'S ANATOMY | Types of these in the foot include transverse, lateral, medial & fundamental longitudinal | arches
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+CALIFORNIA DREAMIN' | Yountville & St. Helena are towns in this Central California wine-producing county | Napa
+right: Ken
+Wrong: 
+Value: $1600
+Number: 25
+PULITZER PRIZE-WINNING PLAYS | William Inge: | Picnic
+right: 
+Wrong: Triple Stumper
+Ken: What is... Come Back, Little Sheba?
+Robert: What is Bus Stop?
+Value: $1600
+Number: 5
+BEFORE & AFTER | John Gray's "planetary" relationship book that won tennis' U.S. Open in 2001 | Men are from Mars, Women are from Venus Williams
+right: Ken
+Wrong: 
+Value: $1600
+Number: 10
+STAR WARS | (<http://www.j-archive.com/media/2004-11-08_DJ_16.wmv> I'm Anthony Daniels.)  I play C-3PO, a droid specializing in this political etiquette used at official ceremonies & occasions | protocol
+right: Ken
+Wrong: 
+Value: $2000
+Number: 16
+GRAY'S ANATOMY | Gray's says this largest ductless gland is "highly vascular" & "dark purple" | spleen
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 22
+CALIFORNIA DREAMIN' | The Dead Sea Scrolls might still be under wraps if this Ca. library hadn't leaked them to the public in 1991 | the Huntington Library
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+PULITZER PRIZE-WINNING PLAYS | Marsha Norman: "'Night,..." | Mother
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+BEFORE & AFTER | Horatio Alger's 1868 novel that became the current vice president | Ragged Dick Cheney
+right: Ken
+Wrong: 
+Value: $2000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Ken: $24,600
+Robert: $200
+Jennifer: $1,800
+
+Final Jeopardy! Round
+COMPANY ORIGINS | This Fortune 100 company got its name from what it bought from sailors & sold to natural history collectors | Shell Oil
+right: 
+Wrong: 
+Robert: What is ?
+Jennifer: What is Land's End?
+Ken: What is Fossil?
+Wagers: 
+Robert: $199
+Jennifer: $500
+Ken: $5,400
+Final scores:
+Ken: $19,200 (69-day champion: $2,325,001)
+Robert: $1 (3rd place: $1,000)
+Jennifer: $1,300 (2nd place: $2,000)
+
+Coryat scores
+Ken: $28,400 (36 R(including 1 DD),4 W(including 1 DD))
+Robert: $1,200 (7 R,3 W(including 1 DD))
+Jennifer: $1,800 (5 R,1 W)

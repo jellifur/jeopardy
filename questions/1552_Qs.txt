@@ -1,0 +1,344 @@
+4562 - Tuesday, June 8, 2004
+Comments: Ken Jennings game 5.
+Contestants:
+Paula Filson: a system programmer from Powell, Ohio
+Corey Halgren: a supplier quality engineer from Noblesville, Indiana
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 4-day cash winnings total $126,201)
+First Jeopardy! Round: NATIONAL ANTHEMS, TV-PODGE, COLORS OF THE RAINBOW, ALL THE PRESIDENTS' CHILDREN, "EXTRA" HELPINGS, I'M ON A DIET
+NATIONAL ANTHEMS | This Asian country's national anthem is "Kimigayo", "His Majesty's Reign" | Japan
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+TV-PODGE | It's the series that gave us the classic catch phrases "Yada, yada, yada" & "No soup for you!" | Seinfeld
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+COLORS OF THE RAINBOW | In a sad mood | blue
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+ALL THE PRESIDENTS' CHILDREN | In 2002 she edited a new book of essays: "Profiles in Courage for Our Time" | Caroline Kennedy
+right: Paula
+Wrong: 
+Value: $200
+Number: 21
+"EXTRA" HELPINGS | Not of this Earth | extraterrestrial
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+I'M ON A DIET | His "Diet Revolution" was first published in the 1970s | (Robert C.) Atkins
+right: Paula
+Wrong: 
+Value: $200
+Number: 26
+NATIONAL ANTHEMS | O, can you name this country whose anthem is heard <http://www.j-archive.com/media/2004-06-08_J_07.mp3> here | Canada
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+TV-PODGE | Moon Unit Zappa & Wallace Langham co-starred on the TV series "Fast Times", based on this classic of teen cinema | Fast Times at Ridgemont High
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+COLORS OF THE RAINBOW | The ink businesses try to avoid | red
+right: Paula
+Wrong: 
+Value: $400
+Number: 17
+ALL THE PRESIDENTS' CHILDREN | In 1835 Zachary Taylor's daughter Sarah married this future president of the Confederacy | Jefferson Davis
+right: Corey
+Wrong: 
+Value: $400
+Number: 22
+"EXTRA" HELPINGS | For many students, the yearbook, chess club & school newspaper fall under these "activities" | extracurricular
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+I'M ON A DIET | Created by Herman Tarnower, this diet bears the name of an upscale NYC suburb | the Scarsdale Diet
+right: Paula
+Wrong: 
+Value: $400
+Number: 27
+NATIONAL ANTHEMS | The melody of its anthem, "Land der Berge, Land am Strome", was incorrectly attributed to Mozart | Austria
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+TV-PODGE | Mel Blanc supplied the voice of Cosmo Spacely when this cartoon debuted in prime time in 1962 | The Jetsons
+right: Corey
+Wrong: 
+Value: $600
+Number: 3
+COLORS OF THE RAINBOW | Naive or inexperienced | green
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+ALL THE PRESIDENTS' CHILDREN | It was the 3-letter nickname of Lincoln's youngest son Thomas | Tad
+right: Corey
+Wrong: 
+Value: $600
+Number: 23
+"EXTRA" HELPINGS | The handing over of a criminal to another country or state | extradition
+right: Paula
+Wrong: 
+Value: $600
+Number: 13
+I'M ON A DIET | Blimey!  This former Royal is a spokeswoman for Weight Watchers | Sarah, Duchess of York
+right: Corey
+Wrong: 
+Value: $600
+Number: 28
+NATIONAL ANTHEMS | It's the only Central American country whose national anthem is sung in English | Belize
+right: Ken
+Wrong: 
+Value: DD: $1,800
+Number: 9
+TV-PODGE | (<http://www.j-archive.com/media/2004-06-08_J_04.jpg> Hi, I'm Will Estes.)  As "American Dreams" is based around "American Bandstand" in the 1960s, it's set in this city | Philadelphia
+right: Paula
+Wrong: 
+Value: $800
+Number: 4
+COLORS OF THE RAINBOW | Citrus sinensis | an orange
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+ALL THE PRESIDENTS' CHILDREN | His eldest son, Frederick, also graduated from West Point, & was later an aide to General Sheridan | (Ulysses) Grant
+right: Paula
+Wrong: 
+Value: $800
+Number: 24
+"EXTRA" HELPINGS | Characterized by good flavor, this type of olive oil has an acid level of less than 1 percent | extra virgin
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+I'M ON A DIET | Dr. Dean Ornish came up with the 4-word diet book title that promises you can do this & "Weigh Less" | eat more
+right: Corey
+Wrong: 
+Value: $800
+Number: 29
+NATIONAL ANTHEMS | The anthem heard <http://www.j-archive.com/media/2004-06-08_J_10.mp3> here was composed in this century | the 18th century
+right: Paula
+Wrong: 
+Ken: What is "The Marseillaise"?
+Value: $1000
+Number: 10
+TV-PODGE | Angus T. Jones, who plays Jake Harper, is the half-pint on this Charlie Sheen show | Two and a Half Men
+right: Corey
+Wrong: 
+Value: $1000
+Number: 5
+COLORS OF THE RAINBOW | Liz Taylor's eyes, in a "Doonesbury" book title | violet
+right: Corey
+Wrong: 
+Value: $1000
+Number: 20
+ALL THE PRESIDENTS' CHILDREN | "I can be President," Teddy Roosevelt said, "or I can control" this daughter, "I cannot possibly do both" | Alice
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+"EXTRA" HELPINGS | From the Italian for "more than usual wandering", it's a lavish entertainment or a spectacular display | an extravaganza
+right: Paula
+Wrong: 
+Value: $1000
+Number: 15
+I'M ON A DIET | This currently popular diet bears the name of a section of Miami | the South Beach Diet
+right: Corey
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Ken: $4,000
+Corey: $1,600
+Paula: $3,400
+Scores at the end of the Jeopardy! Round:
+Ken: $6,600
+Corey: $6,000
+Paula: $5,400
+Second Jeopardy! Round: OPERA, CELEBRITY SURNAME SPELLING, QUOTATIONS, "B" FOLKS, 1845, 4-LETTER WORDS
+OPERA | For the gift of youth, this philosopher & alchemist pledges his soul to Mephistopheles | Faust
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+CELEBRITY SURNAME SPELLING | Tha rapper Snoop | D-O-G-G
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+QUOTATIONS | Poet F.W. Bourdillon wrote, "The night has a thousand" of these, "and the day but one" | eyes
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+"B" FOLKS | He's the super-smooth singer seen <http://www.j-archive.com/media/2004-06-08_DJ_01.jpg> here | Tony Bennett
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+1845 | New baseball rules said you put a runner out this way instead of plugging him with the ball--sounds less fun | tagging him out
+right: Paula
+Wrong: 
+Value: $400
+Number: 8
+4-LETTER WORDS | By any means possible is "by" this "or by crook" | hook
+right: Corey
+Wrong: 
+Value: $400
+Number: 26
+OPERA | Act I of this opera opens at Pinkerton's house in Nagasaki | Madame Butterfly
+right: Ken
+Wrong: 
+Value: DD: $1,800
+Number: 18
+CELEBRITY SURNAME SPELLING | The actress who'll always be TV's Buffy Summers to us | G-E-L-L-A-R
+right: Paula
+Wrong: 
+Value: $800
+Number: 7
+QUOTATIONS | W.C. Fields said, these "are like elephants to me.  I like to look at them, but I wouldn't want to own one" | women
+right: Ken
+Wrong: 
+Value: $800
+Number: 21
+"B" FOLKS | In the 1930s he built a distillery in Clermont, Kentucky | Jim Beam
+right: Corey
+Wrong: 
+Value: $800
+Number: 2
+1845 | Also named James, this 11th president reinforced James Monroe with his own doctrine | Polk
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+4-LETTER WORDS | In "Take Me Out To The Ball Game", I do this, this, this "for the home team" | root
+right: Paula
+Wrong: 
+Value: $800
+Number: 27
+OPERA | This Beethoven opera was originally titled "Leonore" | Fidelio
+right: Ken
+Wrong: 
+Value: $1200
+Number: 19
+CELEBRITY SURNAME SPELLING | Comic hostess/fish-voicer seen <http://www.j-archive.com/media/2004-06-08_DJ_10.jpg> here | D-E-G-E-N-E-R-E-S
+right: Ken
+Wrong: 
+Value: $1200
+Number: 10
+QUOTATIONS | That wit Saki wrote, "I always say" this "is only sin deep" | beauty
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+"B" FOLKS | This American Jewish conductor & composer wrote "Jeremiah" & "Kaddish" symphonies | Leonard Bernstein
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+1845 | Over 300' long, the Great Britain set sail as the first large oceangoing ship with a hull made of this | iron
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+4-LETTER WORDS | From the Latin words for "no one" & "empty" come these 2 words that cancel a contract | null & void
+right: Paula
+Wrong: 
+Value: DD: $8,500
+Number: 28
+OPERA | Jacques Offenbach died on Oct. 5, 1880, 4 months before his "Tales of" this poet was first produced | Hoffmann
+right: Paula
+Wrong: 
+Value: $1600
+Number: 20
+CELEBRITY SURNAME SPELLING | Filmmakers Joel & Ethan | C-O-E-N
+right: Ken
+Wrong: 
+Value: $1600
+Number: 11
+QUOTATIONS | The London Times quoted her in 1987: "I don't mind how much my ministers talk--as long as they do what I say" | Thatcher
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+"B" FOLKS | (<http://www.j-archive.com/media/2004-06-08_DJ_04.jpg> Sofia of the Clue Crew reports from the Titanic artifact exhibit at the California Science Center.)  This man, who led the Titanic's discovery, found that the iceberg didn't cut into the hull, but <http://www.j-archive.com/media/2004-06-08_DJ_04a.jpg> pushed its rivets out | Dr. Robert Ballard
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+1845 | The poke type of this was popular for ladies, especially those having bad hair days | a bonnet
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+4-LETTER WORDS | (<http://www.j-archive.com/media/2004-06-08_DJ_29.jpg> Sarah admires art at the Bishop's House in Sitka, Alaska.)  St. Innocent of Irkutsk is represented here in <http://www.j-archive.com/media/2004-06-08_DJ_29a.jpg> this type of image, traditional in the Eastern Church | an icon
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+OPERA | In a Richard Wagner opera, this knight in shining armor arrives on a boat drawn by a swan | Lohengrin
+right: Ken
+Wrong: 
+Paula: Who is Tristan?
+Value: $2000
+Number: 22
+CELEBRITY SURNAME SPELLING | Spidey portrayer Tobey | M-A-G-U-I-R-E
+right: Ken
+Wrong: 
+Corey: What is M-A-C-G-U-I-R-E?
+Value: $2000
+Number: 12
+QUOTATIONS | In a 1970 book this author wrote, "The gull sees farthest who sees highest" | (Richard) Bach
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+"B" FOLKS | Her "Ernie Pook's Comeek" chronicles the troubled adolescence of Marlys & Maybonne | Lynda Barry
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+1845 | This future prime minister's novel "Sybil" was subtitled "or the Two Nations" | Disraeli
+right: Paula
+Wrong: 
+Value: $2000
+Number: 15
+4-LETTER WORDS | 1/10 of a dollar is a dime; 1/10 of a cent is this | a mill
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ken: $32,400
+Corey: $5,200
+Paula: $17,500
+
+Final Jeopardy! Round
+EUROPEAN ISLANDS | Gavdos, an islet administratively part of this larger island, is Europe's southernmost point | Crete
+right: 
+Wrong: 
+Corey: What is Sicily?
+Paula: What is Sardinia?
+Ken: What is Cyprus?
+Wagers: 
+Corey: $1,800
+Paula: $17,500
+Ken: $2,601
+Final scores:
+Ken: $29,799 (5-day champion: $156,000)
+Corey: $3,400 (2nd place: $2,000)
+Paula: $0 (3rd place: $1,000)
+
+Coryat scores
+Ken: $30,400 (33 R(including 2 DDs),1 W)
+Corey: $5,200 (10 R,1 W)
+Paula: $10,200 (15 R(including 1 DD),1 W)

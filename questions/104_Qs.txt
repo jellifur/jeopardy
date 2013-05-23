@@ -1,0 +1,341 @@
+4687 - Tuesday, January 11, 2005
+Contestants:
+Alex Rubington: a marketing communication coordinator from Natick, Massachusetts
+Jonathan Henke: a researcher from Berkeley, California
+Joshua Allen: a student from North Hollywood, California (whose 2-day cash winnings total $39,001)
+First Jeopardy! Round: THE THINGS OF NATURE, FILM CRITICISM, WHAT A DISH!, THE 2004 ELECTIONS, ADVERTISING MASCOTS, COCKNEY RHYMING SLANG
+THE THINGS OF NATURE | What little of this mammalian characteristic a hippopotamus has is mostly on its tail | hair
+right: Joshua
+Wrong: 
+Value: $200
+Number: 16
+FILM CRITICISM | In The New Yorker--"displays no trace of imagination, good taste or ingenuity... I say" this 1939 twister pic is "a stinkeroo" | The Wizard of Oz
+right: Joshua
+Wrong: 
+Value: $200
+Number: 11
+WHAT A DISH! | Care for an hors d'oeuvre?  How about this dish of raw, ground beef served with raw egg | steak tartare
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+THE 2004 ELECTIONS | On CNN's election map, it was the final color of Wyoming, Kansas & Alabama | red
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 1
+ADVERTISING MASCOTS | He's the giraffe mascot for Toys 'R Us | Geoffrey
+right: Joshua
+Wrong: 
+Value: $200
+Number: 6
+COCKNEY RHYMING SLANG | If some bugger sticks his "plates of meat" in your face, be prepared to peruse these appendages | feet
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 26
+THE THINGS OF NATURE | On many spiders, these respiratory organs have leaves like a book | lungs
+right: Joshua
+Wrong: 
+Value: $400
+Number: 17
+FILM CRITICISM | "Repetitious and aimless as to seem to beg for oblivion", said John Simon of this 1977 Woody Allen film | Annie Hall
+right: Alex
+Wrong: 
+Value: $400
+Number: 12
+WHAT A DISH! | The big difference between chop suey and this Chinese-American dish is that the latter is served with crispy noodles | chow mein
+right: Joshua
+Wrong: 
+Value: $400
+Number: 22
+THE 2004 ELECTIONS | In this key state, Kerry's edge in Trumbull County up North couldn't overcome Bush's lead in Warren down South | Ohio
+right: Joshua
+Wrong: 
+Value: $400
+Number: 2
+ADVERTISING MASCOTS | It's the animal that's represented one of the major TV networks since 1956 | a peacock
+right: Joshua
+Wrong: 
+Value: $400
+Number: 7
+COCKNEY RHYMING SLANG | Oi, mate, this meal is your "tommy tucker" | supper
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+THE THINGS OF NATURE | Owls and sloths are noted for their ability to rotate this 270 degrees | their heads
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 18
+FILM CRITICISM | John Simon, part deux: "O dull new world", this 1977 sci-fi blockbuster "is all as exciting as last year's weather reports" | Star Wars
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 13
+WHAT A DISH! | Spanish name for a breakfast dish of fried corn tortillas topped with fried eggs & a layer of salsa | huevos rancheros
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 23
+THE 2004 ELECTIONS | Voters okayed California's Prop 71, a bond measure to fund medical research using these | stem cells
+right: Joshua
+Wrong: 
+Value: $600
+Number: 3
+ADVERTISING MASCOTS | One of these critters is the mascot of the Hartford Insurance Company | an elk
+right: Alex
+Wrong: 
+Value: $600
+Number: 8
+COCKNEY RHYMING SLANG | Order a "pig's ear" if you want this beverage, old chap | a beer
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 28
+THE THINGS OF NATURE | Once fertilized, a female ant sheds these appendages | her wings
+right: 
+Wrong: Triple Stumper
+Joshua: What are her legs?
+Value: $800
+Number: 19
+FILM CRITICISM | Though one critic dubbed it "Lassie in science fiction drag", this 1982 flick fared well at the box office anyway | E.T.
+right: Joshua
+Wrong: 
+Value: $800
+Number: 14
+WHAT A DISH! | "Joy of Cooking" recipes for this cut of beef include sweet & sour & tzimmis with potato knaidle | a brisket
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+THE 2004 ELECTIONS | In South Dakota, John Thune unseated this Senate leader whom he accused of obstructionism | Tom Daschle
+right: Joshua
+Wrong: 
+Value: $800
+Number: 4
+ADVERTISING MASCOTS | Name of the bull terrier "party animal" who endorsed Budweiser | Spuds MacKenzie
+right: Alex
+Wrong: 
+Value: $800
+Number: 9
+COCKNEY RHYMING SLANG | If a holdup man demands your "sausage & mash" be prepared to give him this | your cash
+right: Joshua
+Wrong: 
+Value: $800
+Number: 29
+THE THINGS OF NATURE | The largest single living animal cell on Earth is the yolk of this creature's egg | an ostrich
+right: Jonathan
+Wrong: 
+Value: DD: $2,000
+Number: 20
+FILM CRITICISM | One reviewer said, like this 1967 title duo themselves, "The film rides off in all directions and ends up full of holes" | Bonnie and Clyde
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 15
+WHAT A DISH! | They're the red in red flannel hash | beets
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+THE 2004 ELECTIONS | Illinois made this self-described "skinny kid with a funny name" the fifth black senator ever elected | Barack Obama
+right: Jonathan
+Wrong: 
+Value: $1000
+Number: 5
+ADVERTISING MASCOTS | You can make a cup of Nesquik quick as one of these creatures--its mascot | a rabbit (or a bunny)
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 10
+COCKNEY RHYMING SLANG | If Prince Charles wants to put you in his "jam jar", don't worry; it's one of these | a car
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Joshua: $5,400
+Jonathan: $1,800
+Alex: $1,800
+Scores at the end of the Jeopardy! Round:
+Joshua: $7,400
+Jonathan: $5,800
+Alex: $1,000
+Second Jeopardy! Round: ARCHITECTURAL DIGEST, GUITAR PLAYER, WRITERS JOURNAL, COSMOPOLITAN, PARENTING, DAILY "BREAD"
+ARCHITECTURAL DIGEST | Paris's Ile de la Cite is home to this structure many consider the birthplace of Gothic architecture | Notre Dame
+right: Alex
+Wrong: 
+Value: $400
+Number: 26
+GUITAR PLAYER | Jack Bruce, Sid Vicious & John Entwistle are all famous for playing this instrument | the bass
+right: Alex
+Wrong: 
+Value: $400
+Number: 1
+WRITERS JOURNAL | While writing "Crime and Punishment", he quickly penned "The Gambler" to meet a publisher's obligation | Dostoevsky
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 6
+COSMOPOLITAN | This metropolis' first high rise was the 482-foot Mitsui Kasumigaseki, completed in 1968 | Tokyo
+right: Joshua
+Wrong: 
+Value: $400
+Number: 11
+PARENTING | A talking cricket warns him, "woe to boys who refuse to obey their parents and run away from home!" | Pinocchio
+right: Joshua
+Wrong: 
+Value: $400
+Number: 17
+DAILY "BREAD" | The principal money-earner in a family | the breadwinner
+right: Joshua
+Wrong: 
+Value: $400
+Number: 12
+ARCHITECTURAL DIGEST | Renzo Piano's Potsdamer Platz Project included a musical theatre near where this infamous structure stood | the Berlin Wall
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+GUITAR PLAYER | Eric Clapton may have gotten this nickname because it took him so long to change his guitar strings | Slowhand
+right: Alex
+Wrong: 
+Value: $800
+Number: 2
+WRITERS JOURNAL | Shortly after writing "Catriona", a sequel to "Kidnapped", he died on the island of Samoa | Robert Louis Stevenson
+right: Joshua
+Wrong: 
+Value: $800
+Number: 7
+COSMOPOLITAN | A granite cone called Sugar Loaf Mountain rises on a peninsula in Guanabara Bay in this cosmopolitan city | Rio de Janeiro
+right: Joshua
+Wrong: 
+Value: $800
+Number: 22
+PARENTING | Even though your child's been good, you still might want to attend meetings of the PTA, which stands for this | the Parent-Teacher Association
+right: Joshua
+Wrong: 
+Value: $800
+Number: 18
+DAILY "BREAD" | Hansel & Gretel dropped a trail of these to find their way home; didn't work! | bread crumbs
+right: Joshua
+Wrong: 
+Value: $800
+Number: 13
+ARCHITECTURAL DIGEST | This British architect's epitaph is "If you seek his monument, look around you" | Christopher Wren
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 28
+GUITAR PLAYER | This guitarist with his own band is heard <http://www.j-archive.com/media/2005-01-11_DJ_03.mp3> here playing lead on someone else's No. 1 hit | Eddie Van Halen
+right: Alex
+Wrong: 
+Value: $1200
+Number: 3
+WRITERS JOURNAL | In 1941, before taking her final dip, she wrote her sister Vanessa, "I am certain now that I am going mad again" | Virginia Woolf
+right: Joshua
+Wrong: 
+Value: $1200
+Number: 8
+COSMOPOLITAN | Its original Spanish name translates to "The Town of the Queen of the Angels" | Los Angeles
+right: Joshua
+Wrong: 
+Value: $1200
+Number: 23
+PARENTING | Irish wit who quipped, "to lose one parent... may be regarded as a misfortune; to lose both looks like carelessness" | Oscar Wilde
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 19
+DAILY "BREAD" | An important cereal-growing region of a nation | the breadbasket
+right: Joshua
+Wrong: 
+Value: $1200
+Number: 14
+ARCHITECTURAL DIGEST | (<http://www.j-archive.com/media/2005-01-11_DJ_29.jpg> Cheryl of the Clue Crew stands by an alcove with a fireplace in Oak Park, Chicago, IL.)  It's the word for a cozy fireside nook; Frank Lloyd Wright designed this one with an Arts-and-Crafts influence | the inglenook
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+GUITAR PLAYER | In 1976 this guitarist's album "Breezin'" was the first to simultaneously top the jazz, R&B & pop charts | George Benson
+right: Alex
+Wrong: 
+Value: $1600
+Number: 4
+WRITERS JOURNAL | Rejected in 1863 when  its autos & subways seemed too fantastic, his "Paris au XXIeme Siecle" was finally published in 1994 | Jules Verne
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 9
+COSMOPOLITAN | In this city you can walk a flight of 137 steps up to Trinita Dei Monti, a 15th C. French church built by Charles VIII | Rome
+right: Alex
+Wrong: 
+Value: $1600
+Number: 24
+PARENTING | This 1938 Nobel Literature Prize winner's parents were Presbyterian missionaries | Pearl Buck
+right: Jonathan
+Wrong: 
+Value: DD: $2,500
+Number: 20
+DAILY "BREAD" | According to the Latin satirist Juvenal, that which was provided to placate the masses | bread and circuses
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 15
+ARCHITECTURAL DIGEST | On architectural blueprints, "DD" refers to this type of "national" opening | a Dutch door
+right: Jonathan
+Wrong: 
+Value: $2000
+Number: 30
+GUITAR PLAYER | Last name of a famous Spanish classical guitarist born in 1893; it's also a province in Spain | Segovia
+right: Alex
+Wrong: 
+Value: $2000
+Number: 5
+WRITERS JOURNAL | His 1898 letter to the president of France accused "the War Office of having led a vile campaign in the press" | Emile Zola
+right: Alex
+Wrong: 
+Value: $2000
+Number: 10
+COSMOPOLITAN | This city's Hofburg is the residence of President Heinz Fischer & home to the famous Spanish Riding School | Vienna
+right: Alex
+Wrong: 
+Value: DD: $2,500
+Number: 25
+PARENTING | Chromosomes are inherited from both parents; only the father can provide the one designated by this letter | Y
+right: Joshua
+Wrong: 
+Value: $2000
+Number: 21
+DAILY "BREAD" | These thin-sliced pickles are flavored with mustard, celery seeds, cloves & turmeric | bread-and-butter pickles
+right: Jonathan
+Wrong: 
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Joshua: $17,400
+Jonathan: $18,300
+Alex: $13,500
+
+Final Jeopardy! Round
+ENGLISH ROYALTY | One of the 3 years in which 3 different kings reigned | (1 of) 1936, 1483, or 1066
+right: 
+Wrong: 
+Alex: What is 1789?
+Joshua: What is 1553?
+Jonathan: What is 1938?
+Wagers: 
+Alex: $6,700
+Joshua: $17,400
+Jonathan: $16,501
+Final scores:
+Joshua: $0 (3rd place: $1,000)
+Jonathan: $1,799 (2nd place: $2,000)
+Alex: $6,800 (New champion: $6,800)
+
+Coryat scores
+Joshua: $17,400 (25 R,1 W)
+Jonathan: $16,400 (16 R(including 2 DDs),0 W)
+Alex: $13,000 (12 R(including 1 DD),1 W)

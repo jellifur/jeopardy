@@ -1,0 +1,347 @@
+4318 - Wednesday, May 14, 2003
+Comments: 2003 Tournament of Champions semifinal game 3.
+Contestants:
+Eric Floyd: a college student from Calhoun, Georgia
+Travis Troyer: a software engineer from Hereford, Maryland
+Trevor Norris: a management analyst from Washington, D.C.
+First Jeopardy! Round: LITERARY FIRST LINES, GIRLS WITH GUITARS, FRUITS & VEGETABLES, PARIS SITES, TAKE MY "Y", PLEASE!, WHAT IS IT?
+LITERARY FIRST LINES | A satirical fable: "Mr. Jones, of the Manor Farm, had locked the hen-houses for the night..." | Animal Farm
+right: Travis
+Wrong: 
+Value: $200
+Number: 13
+GIRLS WITH GUITARS | In 1995 she won Grammys for Best New Artist, Pop Vocal, Female & Record of the Year for "All I Wanna Do" | Sheryl Crow
+right: Travis
+Wrong: 
+Value: $200
+Number: 8
+FRUITS & VEGETABLES | The egg-shaped plum variety of this makes a great spaghetti sauce | the tomato
+right: Travis
+Wrong: 
+Value: $200
+Number: 14
+PARIS SITES | The name of one of the buildings of the University of Paris, it's also popularly used to designate the entire university | the Sorbonne
+right: Trevor
+Wrong: 
+Value: $200
+Number: 21
+TAKE MY "Y", PLEASE! | Take this toy I use to "walk the dog"; I tried that "warp drive" trick, & now I'm in traction | a yo-yo
+right: Trevor
+Wrong: 
+Value: $200
+Number: 6
+WHAT IS IT? | A red hook & ladder | a fire truck
+right: Trevor
+Wrong: 
+Value: $200
+Number: 1
+LITERARY FIRST LINES | 1813: "It is a truth universally acknowledged, that a single man in possession of a ...fortune must be in want of a wife" | Pride and Prejudice
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+GIRLS WITH GUITARS | This writer of "Both Sides Now" taught herself to play guitar from an instruction book | Joni Mitchell
+right: Travis
+Wrong: 
+Value: $400
+Number: 9
+FRUITS & VEGETABLES | Many dieters eat helf of one of these, like the Star Ruby or Rio Red, before every meal | the grapefruit
+right: Travis
+Wrong: 
+Value: $400
+Number: 15
+PARIS SITES | The main tree-lined avenue of Paris, it runs through Rond Point to the Place Charles de Gaulle | the Champs-Élysées
+right: Eric
+Wrong: 
+Value: $400
+Number: 22
+TAKE MY "Y", PLEASE! | Take this crossbar with 2 u-shaped pieces; my oxen are on strike, & they refuse to wear it | a yoke
+right: Travis
+Wrong: 
+Value: $400
+Number: 7
+WHAT IS IT? | ENIAC | a computer
+right: Trevor
+Wrong: 
+Value: $400
+Number: 2
+LITERARY FIRST LINES | The absurd: "Mother died today. Or, maybe, yesterday; I can't be sure" | The Stranger (L'Étranger)
+right: Eric
+Wrong: 
+Value: $600
+Number: 18
+GIRLS WITH GUITARS | She got her start performing with her parents in Alaskan Eskimo villages | Jewel
+right: Trevor
+Wrong: 
+Value: $600
+Number: 10
+FRUITS & VEGETABLES | What the French call epinard we call this | spinach
+right: Eric
+Wrong: 
+Value: $600
+Number: 16
+PARIS SITES | 12 avenues radiate from this Paris structure completed in 1835 | Arc de Triomphe
+right: Travis
+Wrong: 
+Value: $600
+Number: 23
+TAKE MY "Y", PLEASE! | Take this chocolate soft drink, because now I'm buying the "Lite" version (so I can drink twice as much!) | Yoo-hoo
+right: Trevor
+Wrong: 
+Value: $600
+Number: 24
+WHAT IS IT? | A Fokker E-III | an airplane
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+LITERARY FIRST LINES | By E.M. Forster: "'The signora had no business to do it," said Miss Bartlett, '...she promised us south rooms...'" | A Room with a View
+right: Eric
+Wrong: 
+Value: DD: $800
+Number: 19
+GIRLS WITH GUITARS | In 2002 she teamed up with Santana, singing lead on "The Game Of Love" | Michelle Branch
+right: Trevor
+Wrong: 
+Value: $800
+Number: 11
+FRUITS & VEGETABLES | For cooking, popular ones of these include the Gravenstein & the Greening | apples
+right: 
+Wrong: Triple Stumper
+Eric: What is a pear?
+Value: $800
+Number: 29
+PARIS SITES | Seen here, it's located in the Hôtel des Invalides and considered one of France's foremost shrines | Napoleon's Tomb
+right: Trevor
+Wrong: 
+Value: $800
+Number: 26
+TAKE MY "Y", PLEASE! | Please take my "Learn to" do this CD; if I hear "Alpine Honeymoon" one more time I'll go bananas | yodel
+right: Eric
+Wrong: 
+Value: $800
+Number: 25
+WHAT IS IT? | The Tappan Zee cantilever | a bridge
+right: Travis
+Wrong: 
+Value: $800
+Number: 4
+LITERARY FIRST LINES | About an Irish Catholic Youth: "Once upon a time and a very good time it was there was a moocow..." | Portrait of the Artist as a Young Man
+right: 
+Wrong: Triple Stumper
+Eric: What is Ulysses?
+Value: $1000
+Number: 20
+GIRLS WITH GUITARS | (<http://www.j-archive.com/media/2003-05-14_J_12.jpg> I'm Wynonna.) One of my favorite songs is "I Can't Make You Love Me" by this sassy singer-guitar player | Bonnie Raitt
+right: Eric
+Wrong: 
+Value: $1000
+Number: 12
+FRUITS & VEGETABLES | Also called a Mexican potato, this crunchy vegetable can be baked, boiled or fried, or served raw in salads | jicama
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+PARIS SITES | The 2 islands in the heart of Paris are the Ile Saint-Louis & this one on which Notre Dame stands | Île de la Cité
+right: Eric
+Wrong: 
+Value: $1000
+Number: 27
+TAKE MY "Y", PLEASE! | Take this role in "Fiddler on the Roof"; I wanted to play it, but Bea Arthur's old Broadway costume doesn't fit me | Yenta
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+WHAT IS IT? | Creels, panniers & scuttles | baskets
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Trevor: $2,200
+Travis: $2,600
+Eric: $1,000
+Scores at the end of the Jeopardy! Round:
+Trevor: $3,800
+Travis: $3,200
+Eric: $3,400
+Second Jeopardy! Round: CLASSICAL COMPOSERS, MODELING, DOWN TO EARTH, NEW YORK IN THE MOVIES, HISTORIC BATTLES, 5-SYLLABLE WORDS
+CLASSICAL COMPOSERS | His "1812 Overture" commemorates Napoleon's 1812 defeat in Russia | Pyotr Tchaikovsky
+right: Trevor
+Wrong: 
+Value: $400
+Number: 16
+MODELING | Janice Dickinson says she was the first to put this word in front of "model" to describe herself in the 1970s | super
+right: Trevor
+Wrong: 
+Value: $400
+Number: 26
+DOWN TO EARTH | 100 million years ago this continent was connected to Antarctica; in 50 million more years, it'll hit Asia | Australia
+right: Eric
+Wrong: 
+Value: $400
+Number: 18
+NEW YORK IN THE MOVIES | (Cheryl of the Clue Crew in front of New York's Rockefeller Center)  Kevin & his mom were reunited here at Rockefeller Center in a sequel to this Macaulay Culkin film | Home Alone
+right: Travis
+Wrong: 
+Value: $400
+Number: 11
+HISTORIC BATTLES | Once called Tsaritsyn, this city resisted a bloody 6-month siege by the Germans during World War II | Stalingrad
+right: 
+Wrong: Triple Stumper
+Trevor: What is Moscow?
+Travis: What is St. Petersburg?
+Value: $400
+Number: 6
+5-SYLLABLE WORDS | Adjective for food you can "nuke" | microwaveable
+right: Trevor
+Wrong: 
+Value: $400
+Number: 1
+CLASSICAL COMPOSERS | Vivaldi's Opus 8 contains a cycle of violin concerti collectively called this | "The Four Seasons"
+right: Travis
+Wrong: 
+Value: $800
+Number: 17
+MODELING | It's the term for the structure seen here; look down; 707s take off on a larger one of the same name | runway
+right: Trevor
+Wrong: 
+Value: $800
+Number: 27
+DOWN TO EARTH | Metamorphic rocks are divided into 2 main types depending on how they were formed: by heat or by this | pressure
+right: Eric
+Wrong: 
+Value: $800
+Number: 22
+NEW YORK IN THE MOVIES | Director Merian Cooper disliked the noisy EL trains, so he had this beast tear one down in 1933 | King Kong
+right: Travis
+Wrong: 
+Value: $800
+Number: 12
+HISTORIC BATTLES | During an 1884-85 revolt, an entire garrison led by Charles George Gordon was massacred in this capital city | Khartoum
+right: Eric
+Wrong: 
+Value: $800
+Number: 7
+5-SYLLABLE WORDS | A pro athlete who's had a great year often asks to do this with his long-term contract | renegotiate
+right: Trevor
+Wrong: 
+Value: $800
+Number: 2
+CLASSICAL COMPOSERS | His "Pagliacci" was based on an incident that had taken place in a Calabrian village | Ruggero Leoncavallo
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 19
+MODELING | Linda Rose, seen in Palmolive commercials, is best known for this specific job | hand modeling
+right: Trevor
+Wrong: 
+Value: $1200
+Number: 28
+DOWN TO EARTH | A bergschrund is a crevasse in one of these | glacier
+right: Trevor
+Wrong: 
+Value: $1200
+Number: 23
+NEW YORK IN THE MOVIES | (Jimmy of the Clue Crew in New York's Times Square)  Times Square looked pretty seedy when Jon Voight hung out here in this 1969 film | Midnight Cowboy
+right: Trevor
+Wrong: 
+Value: $1200
+Number: 13
+HISTORIC BATTLES | A stunning victory in the Oct. 1415 Battle of this village opened the way for Henry V's reconquest of Normandy | Agincourt
+right: Eric
+Wrong: 
+Value: $1200
+Number: 8
+5-SYLLABLE WORDS | Besides "Killjoy" & "Gloomy Gus", it's a term for one who wants to outlaw alcoholic beverages | a prohibitionist
+right: Trevor
+Wrong: 
+Travis: What is a teetotaler?
+Value: $1200
+Number: 3
+CLASSICAL COMPOSERS | Frederick Beale was the first to use "recital" to mean a piano concert referring to one by this Hungarian | Franz Liszt
+right: Eric
+Wrong: 
+Value: DD: $2,000
+Number: 20
+MODELING | Bogie & Bergman could tell you he founded the Elite Model Agency & his name's now on modeling schools | John Casablancas
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+DOWN TO EARTH | The noctilucent type of these form at about 50 miles up & only between dusk & dawn | clouds (luminous)
+right: Travis
+Wrong: 
+Value: $1600
+Number: 24
+NEW YORK IN THE MOVIES | It begins with a voice over: "Chapter One.  He adored New York City.  He idolized it all out of proportion" | Manhattan
+right: 
+Wrong: 
+Trevor: What is "Goodfellas?"
+Value: DD: $2,000
+Number: 14
+HISTORIC BATTLES | Shattering the myth of Japanese invincibility, U.S. Marines stormed this island in the Solomons on August 7, 1942 | Guadalcanal
+right: Eric
+Wrong: 
+Trevor: What is Iwo Jima?
+Value: $1600
+Number: 9
+5-SYLLABLE WORDS | San Francisco's mission district has undergone this process often signaled by the opening of a Starbucks | gentrification
+right: Trevor
+Wrong: 
+Value: $1600
+Number: 4
+CLASSICAL COMPOSERS | In 1897 he became the music director of the Vienna Court Opera & a Catholic (he converted from Judaism) | Gustav Mahler
+right: Eric
+Wrong: 
+Value: $2000
+Number: 21
+MODELING | Photographer Bruce Weber was an early fan of this Polo model seen here | Tyson Beckford
+right: Trevor
+Wrong: 
+Value: $2000
+Number: 30
+DOWN TO EARTH | Convection currents in this layer of the Earth generate the Earth's magnetic field | core
+right: 
+Wrong: Triple Stumper
+Eric: What is the mantle?
+Value: $2000
+Number: 25
+NEW YORK IN THE MOVIES | (Sarah of the Clue Crew in New York's Central Park)  Fred Astaire & Cyd Charisse visit Central Park in this transportation-named movie musical | The Bandwagon
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+HISTORIC BATTLES | Site of a decisive Sept. 1863 battle, this Georgia river takes its name from an Indian word meaning "river of death" | Chickamauga
+right: Trevor
+Wrong: 
+Value: $2000
+Number: 10
+5-SYLLABLE WORDS | A mosquito bite can cause the St. Louis type of this brain imflammation | encephalitis
+right: Trevor
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Trevor: $15,000
+Travis: $5,200
+Eric: $10,200
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | Heads of state Jiang Zemin & Jorge Sampaio were on hand when this territory changed hands in Dec. 1999 | Macau
+right: Travis | Eric
+Wrong: 
+Trevor: What is Hong Kong
+Wagers: 
+Travis: $5,100
+Eric: $10,100
+Trevor: $5,401
+Final scores:
+Trevor: $9,599 (3rd place: $10,000)
+Travis: $10,300 (2nd place: $10,000)
+Eric: $20,300 (Finalist)
+
+Coryat scores
+Trevor: $17,000 (21 R,3 W(including 1 DD))
+Travis: $5,200 (12 R,2 W)
+Eric: $9,800 (14 R(including 2 DDs),3 W)

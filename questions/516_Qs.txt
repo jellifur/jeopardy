@@ -1,0 +1,339 @@
+1302 - Tuesday, April 10, 1990
+Contestants:
+Joel Silverman: a children's theater actor from Denver, Colorado
+Kerry Noonan: an administrative assistant from Los Angeles, California
+Ed Borasky: a supercomputer programmer from Aloha, Oregon (whose 2-day cash winnings total $27,249)
+First Jeopardy! Round: FAMOUS NAMES, ADVERTISING SLOGANS, THE BIBLE, WEATHER, 4-LETTER WORDS, PRESIDENTIAL ASTROLOGY
+FAMOUS NAMES | This star of "Kojak" admits he shaves his head every morning | Telly Savalas
+right: Joel
+Wrong: 
+Value: $100
+Number: 19
+ADVERTISING SLOGANS | "When you care enough to send the very best", send one of these | Hallmark Card
+right: Kerry
+Wrong: 
+Value: $100
+Number: 3
+THE BIBLE | Among these tales told by Jesus were those "of the net", "of the mustard seed" & "of the hidden treasures" | Parables
+right: Kerry
+Wrong: 
+Value: $100
+Number: 4
+WEATHER | Airplanes can trigger bolts of this when traveling through electrified clouds | Lightning
+right: Ed
+Wrong: 
+Value: $100
+Number: 11
+4-LETTER WORDS | This word commonly follows cuff or missing | Link
+right: Joel
+Wrong: 
+Value: $100
+Number: 16
+PRESIDENTIAL ASTROLOGY | Gerald Ford was the last president born under this "crab"by sign | Cancer
+right: Ed
+Wrong: 
+Value: $100
+Number: 1
+FAMOUS NAMES | Creator of "The Cisco Kid", William Sidney Porter was better known by this name | O. Henry
+right: Ed
+Wrong: 
+Value: $200
+Number: 21
+ADVERTISING SLOGANS | "Wouldn't you really rather have" one of these cars | Buick
+right: Kerry
+Wrong: 
+Value: $200
+Number: 7
+THE BIBLE | I Corinthians 7:9 states, "It is better to marry than to" do this | Burn
+right: Kerry
+Wrong: 
+Value: $200
+Number: 5
+WEATHER | Air is described as supersaturated when the relative humidity is higher than this percent | 100%
+right: Ed
+Wrong: 
+Value: $200
+Number: 12
+4-LETTER WORDS | From the Greek word for "deep sleep", it's a deep, prolonged unconsciousness | Coma
+right: Joel
+Wrong: 
+Value: $200
+Number: 22
+PRESIDENTIAL ASTROLOGY | It's Jimmy Carter's sign, so don't tip his scales | Libra
+right: Joel
+Wrong: 
+Value: $200
+Number: 2
+FAMOUS NAMES | "The First Time Ever" she had a No. 1 album was "First Take" in 1972 | Roberta Flack
+right: Ed
+Wrong: 
+Value: $300
+Number: 27
+ADVERTISING SLOGANS | "I like" this lemon-lime soda "in you" | Sprite
+right: Ed
+Wrong: 
+Value: $300
+Number: 8
+THE BIBLE | It was like coriander seed, white; & the taste of it was like wafers made with honey | Manna
+right: Ed
+Wrong: 
+Value: $300
+Number: 6
+WEATHER | Tornadoes that develop over water are called these | Waterspouts
+right: Ed
+Wrong: 
+Value: $300
+Number: 13
+4-LETTER WORDS | It can be part of your foot, your shoe, your stocking or your loaf of bread | Heel
+right: Ed
+Wrong: 
+Value: $300
+Number: 23
+PRESIDENTIAL ASTROLOGY | Appropriately, we've had 2 presidents born under this sign, Bush & Kennedy | Gemini
+right: Kerry
+Wrong: 
+Value: $300
+Number: 17
+FAMOUS NAMES | George Bush pardoned this 91-year-old industrialist for his illegal contributions to Nixon's campaign | Armand Hammer
+right: Ed
+Wrong: 
+Value: $400
+Number: 28
+ADVERTISING SLOGANS | "Tan, don't burn use" this | Coppertone
+right: Kerry
+Wrong: 
+Value: $400
+Number: 9
+THE BIBLE | Things saved from this city were the gold & silver, the iron & brass vessels & Rahab & her family | Jericho
+right: 
+Wrong: 
+Value: DD: $400
+Number: 18
+WEATHER | Season of the year when Arizona has its "monsoons" | Summer
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+4-LETTER WORDS | A roue, or his garden implement | Rake
+right: Ed
+Wrong: 
+Value: $400
+Number: 24
+PRESIDENTIAL ASTROLOGY | Our last Sagittarian pres.; his last name sounds like something Sagittarius' arrows could do | (Franklin) Pierce
+right: Ed
+Wrong: 
+Value: $400
+Number: 25
+FAMOUS NAMES | Ines de la Fressange was a Chanel model when she was chosen to represent this French symbol | Marianne
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 29
+ADVERTISING SLOGANS | This maker of pre-school toys says, "Our work is child's play" | Fisher-Price
+right: Ed
+Wrong: 
+Value: $500
+Number: 10
+THE BIBLE | While carting this, Uzza touched it to right it after the oxen stumbled, & the Lord smote him | The Ark of the Covenant
+right: Kerry
+Wrong: 
+Value: $500
+Number: 20
+WEATHER | An increase in air temperature at higher altitudes is unusual & is called this | Inversion
+right: Ed
+Wrong: 
+Value: $500
+Number: 15
+4-LETTER WORDS | A raisin can be called by this other fruit's name when it's added to a pudding or a cake | Plum
+right: Ed
+Wrong: 
+Value: $500
+Number: 30
+PRESIDENTIAL ASTROLOGY | With the exception of R. Reagan, all the presidents born under this sign died in office | Aquarius (W.H. Harrison, Lincoln, McKinley & FDR were the presidents who died in office)
+right: Kerry
+Wrong: 
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Ed: $1,900
+Kerry: $500
+Joel: -$100
+Scores at the end of the Jeopardy! Round:
+Ed: $4,400
+Kerry: $1,500
+Joel: $200
+Second Jeopardy! Round: SCIENCE & NATURE, WORLD GEOGRAPHY, PIRATE MOVIES, AUTHORS, AMERICAN HISTORY, WINE
+SCIENCE & NATURE | The iris is a flower & the ibis is one of these | Bird
+right: Ed
+Wrong: 
+Value: $200
+Number: 2
+WORLD GEOGRAPHY | This country is named after the town of Oporto | Portugal
+right: Ed
+Wrong: 
+Value: $200
+Number: 19
+PIRATE MOVIES | In this 1935 film that made him a star, Errol Flynn was Dr. Peter Blood, a physician who turns to piracy | "Captain Blood"
+right: Ed
+Wrong: 
+Value: $200
+Number: 1
+AUTHORS | He wrote a non-baby book called "Decent And Indecent: Our Personal And Political Behavior" | Dr. Benjamin Spock
+right: Joel
+Wrong: 
+Value: $200
+Number: 7
+AMERICAN HISTORY | It became a U.S. territory in 1900 & a state 59 years later | Hawaii
+right: Ed
+Wrong: 
+Value: $200
+Number: 15
+WINE | Malaga is a sweet dessert wine that originated in this country | Spain
+right: Kerry
+Wrong: 
+Value: $200
+Number: 10
+SCIENCE & NATURE | In a healthy mouth, this line separates the crown from the root of a tooth | Gum Line
+right: Ed
+Wrong: 
+Value: $400
+Number: 3
+WORLD GEOGRAPHY | The Sea of Galilee is just a broad basin of this river | The River Jordan
+right: Joel
+Wrong: 
+Value: $400
+Number: 20
+PIRATE MOVIES | Anthony Quinn was a pirate stuck with stowaway children in the film "A High Wind In" this place | Jamaica
+right: Ed
+Wrong: 
+Value: $400
+Number: 8
+AUTHORS | This author's home where he wrote "To Have And Have Not" is now a nat'l landmark in Key West, Fla. | Ernest Hemingway
+right: Ed
+Wrong: 
+Value: $400
+Number: 9
+AMERICAN HISTORY | Susan B. Anthony was arrested in 1872 for doing this | Voting
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+WINE | On wine labels, this word which means "estate" precedes Lafite & Mouton-Rothschild | Chateau
+right: Joel
+Wrong: 
+Value: $400
+Number: 17
+SCIENCE & NATURE | Every summer thousands of these animals go to the Pribilof Islands in the north Pacific to breed | Seals
+right: Ed
+Wrong: 
+Value: $600
+Number: 4
+WORLD GEOGRAPHY | The surface of this lake in Siberia is about 1,490 ft. above sea level, the bottom over 5,300 ft. below | Lake Baikal
+right: Ed
+Wrong: 
+Value: $600
+Number: 21
+PIRATE MOVIES | Silent screen swashbuckler; his film "The Black Pirate" has been called "a definitive pirate movie" | Douglas Fairbanks, Sr.
+right: Kerry
+Wrong: 
+Value: $600
+Number: 12
+AUTHORS | Oscar Wilde's only novel | "The Picture Of Dorian Gray"
+right: 
+Wrong: 
+Value: DD: $700
+Number: 11
+AMERICAN HISTORY | In 1949 Henry H. Arnold became the first general of this branch of the armed forces | Air Force
+right: Ed
+Wrong: 
+Value: $600
+Number: 18
+WINE | "Anatomical" term for a wine's bouquet | Nose
+right: Ed
+Wrong: 
+Value: $600
+Number: 23
+SCIENCE & NATURE | Man-made metal 1st positively identified in 1958 & named for a Swedish inventor; it has no known use | Nobelium
+right: Ed
+Wrong: 
+Value: $800
+Number: 5
+WORLD GEOGRAPHY | Papua New Guinea is just off this country's Cape York Peninsula | Australia
+right: Ed
+Wrong: 
+Value: $800
+Number: 22
+PIRATE MOVIES | Robert Newton played this pirate before Peter Ustinov played his ghost in a Disney film | Blackbeard
+right: Kerry
+Wrong: 
+Value: $800
+Number: 13
+AUTHORS | An eye ailment contracted at Eton School ended his plans to study biology, like his brother Julian | Aldous Huxley
+right: Ed
+Wrong: 
+Value: $800
+Number: 24
+AMERICAN HISTORY | In April 1984 this U.S. government agency admitted its role in the mining of Nicaraguan harbors | CIA
+right: Ed
+Wrong: 
+Value: $800
+Number: 25
+WINE | The term for pouring wine into another container before serving; it helps clear it of sediments | Decanting
+right: Kerry
+Wrong: 
+Value: $800
+Number: 26
+SCIENCE & NATURE | Take the fibrinogen out of blood plasma & you're left with a fluid called this | Serum
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+WORLD GEOGRAPHY | 1 of the 2 Central American countries with only 1 sea coast | Belize & El Salvador
+right: 
+Wrong: 
+Value: DD: $800
+Number: 28
+PIRATE MOVIES | Ingrid Bergman's husband in "Casablanca", he played a pirate captain in "Pirates Of Tripoli" | Paul Henreid
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+AUTHORS | A member of the Algonquin Round Table, this petite brunette wrote a story called "Big Blonde" | Dorothy Parker
+right: Kerry
+Wrong: 
+Value: $1000
+Number: 27
+AMERICAN HISTORY | John Hancock held this political position from 1780-85 & from 1787-93 | Governor of Massachusetts
+right: Joel
+Wrong: 
+Value: $1000
+Number: 29
+WINE | The famous Moselle wines come from this country | Germany
+right: Ed
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ed: $11,800
+Kerry: $3,000
+Joel: $200
+
+Final Jeopardy! Round
+CABLE TELEVISION | The name of this channel can be traced back to a movie theater that opened in 1905 in McKeesport, Pa. | Nickelodeon
+right: Joel
+Wrong: 
+Kerry: What is Cinemax?
+Ed: What is Home Box Office?
+Wagers: 
+Joel: $199
+Kerry: $2,500
+Ed: $1,024
+Final scores:
+Ed: $10,776 (3-day champion: $38,025)
+Kerry: $500 (2nd place: Trip to Bahamas)
+Joel: $399 (3rd place: Ricoh Mirai Zoom Camera)
+
+Coryat scores
+Ed: $11,800 (31 R,3 W)
+Kerry: $4,900 (13 R,5 W(including 3 DDs))
+Joel: $200 (8 R,4 W)

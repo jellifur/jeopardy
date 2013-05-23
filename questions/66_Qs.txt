@@ -1,0 +1,349 @@
+4661 - Monday, December 6, 2004
+Contestants:
+Andy Zimdars: a graduate student from Menlo Park, California
+Dennis Grace: an engineer from West Bloomfield, Michigan
+Pete DeBalli: an anesthesiologist from Titusville, Florida (whose 1-day cash winnings total $16,200)
+First Jeopardy! Round: THE WAR BETWEEN THE STATES, BASEBALL MVPs BY DECADE, DWAT DAT WABBIT!, QUOTH THE RAVEN?, REPORTING THE NEWS, "C" ME
+THE WAR BETWEEN THE STATES | John Surratt's plan to end the war was to kidnap this man; a co-conspirator came up with another plan... | Lincoln
+right: Dennis
+Wrong: 
+Andy: Who is John Wilkes Booth?
+Value: $200
+Number: 1
+BASEBALL MVPs BY DECADE | Oakland's Rickey Henderson, "Slammin'" Sammy Sosa | the '90s
+right: Dennis
+Wrong: 
+Value: $200
+Number: 19
+DWAT DAT WABBIT! | At U. Penn in the '30s, long before PETA, Maurice Friedman devised the "rabbit test" to check for this | pregnancy
+right: Pete
+Wrong: 
+Value: $200
+Number: 16
+QUOTH THE RAVEN? | What word to follow?  This ship from a Gilbert & Sullivan operetta, minus the H.M.S., of course, quoth the raven... | Pinafore
+right: Pete
+Wrong: 
+Value: $200
+Number: 6
+REPORTING THE NEWS | On April 19, 2004 NBC announced that this anchor would be away after December 1 | Tom Brokaw
+right: Andy
+Wrong: 
+Value: $200
+Number: 5
+"C" ME | In 1875 opera star Celestine Galli-Marie became the first to play this seductress from Seville | Carmen
+right: Andy
+Wrong: 
+Value: $200
+Number: 4
+THE WAR BETWEEN THE STATES | The regulation color for Confederate coats was cadet this | gray
+right: Andy
+Wrong: 
+Value: $400
+Number: 2
+BASEBALL MVPs BY DECADE | Orioles third baseman Brooks Robinson, L.A. Dodger Sandy Koufax | the '60s
+right: Dennis
+Wrong: 
+Value: $400
+Number: 20
+DWAT DAT WABBIT! | "Joy of Cooking" says rabbit can be substituted for this "in almost any dish" by using "the saddle as the breast meat" | chicken
+right: Dennis
+Wrong: 
+Value: $400
+Number: 17
+QUOTH THE RAVEN? | I've got it!  Hamlet's dad's castle wherein he was rottenly killed by Claudius; quoth the raven... | Elsinore
+right: Andy
+Wrong: 
+Value: $400
+Number: 7
+REPORTING THE NEWS | This Torontonian was just 26 when he first anchored ABC's nightly news in 1965, & some thought he looked too young | Peter Jennings
+right: Dennis
+Wrong: 
+Value: $400
+Number: 13
+"C" ME | The only state whose nickname includes the name of an important historic document | Connecticut
+right: Pete
+Wrong: 
+Value: $400
+Number: 10
+THE WAR BETWEEN THE STATES | This "Ben-Hur" author was removed from command and reinstated twice | Lew Wallace
+right: Dennis
+Wrong: 
+Value: $600
+Number: 3
+BASEBALL MVPs BY DECADE | N.Y. Giants pitcher Carl Hubbell, "Iron Horse" Lou Gehrig | the 1930s
+right: Dennis
+Wrong: 
+Value: $600
+Number: 21
+DWAT DAT WABBIT! | The Holy Hand Grenade of Antioch wipes out a killer bunny in this classic 1974 comedy | Monty Python and the Holy Grail
+right: Pete
+Wrong: 
+Value: $600
+Number: 8
+QUOTH THE RAVEN? | This island city-state at the tip of the Malay Peninsula sounds almost right; quoth the raven... | Singapore
+right: Dennis
+Wrong: 
+Value: $600
+Number: 9
+REPORTING THE NEWS | (<http://www.j-archive.com/media/2004-12-06_J_15.jpg> Hi.  I'm Tim Russert of NBC's Meet the Press.)  An interview I did in 2000 with this senator & former P.O.W. won an excellence in TV journalism award | John McCain
+right: Dennis
+Wrong: 
+Value: $600
+Number: 15
+"C" ME | Among his many TV credits is original host of "The Price is Right" | Bill Cullen
+right: Dennis
+Wrong: 
+Value: $600
+Number: 11
+THE WAR BETWEEN THE STATES | This capital of the confederacy was just 100 miles from Washington, D.C. | Richmond, Virginia
+right: Pete
+Wrong: 
+Value: $800
+Number: 23
+BASEBALL MVPs BY DECADE | Stan "The Man" Musial, "Splendid Splinter" Ted Williams | the 1940s
+right: Pete
+Wrong: 
+Value: $800
+Number: 22
+DWAT DAT WABBIT! | Kids "won't be... fond of seeing... rabbits with blood gushing from their furry bodies" was said of this 1978 film | Watership Down
+right: Andy
+Wrong: 
+Value: $800
+Number: 18
+QUOTH THE RAVEN? | Why not this defunct title for a commissioned naval officer above Captain & Rear Admiral; quoth the raven... | Commodore
+right: Pete
+Wrong: 
+Value: $800
+Number: 25
+REPORTING THE NEWS | CNN says she was the last reporter to interview King Hussein & the first to interview his successor, King Abdullah | Christiane Amanpour
+right: Andy
+Wrong: 
+Value: $800
+Number: 27
+"C" ME | (<http://www.j-archive.com/media/2004-12-06_J_12.jpg> Jimmy of the Clue Crew demonstrates with three green balls lined up on a table before him.)  The three-ball routine is a classic example of this type of magic that shares its name with a camera shot | close-up
+right: Andy
+Wrong: 
+Value: $800
+Number: 12
+THE WAR BETWEEN THE STATES | The 1862 battle called "Fair" these trees, was a fair fight, 42,000 soldiers a side were engaged | oaks
+right: Andy
+Wrong: 
+Value: $1000
+Number: 24
+BASEBALL MVPs BY DECADE | Cincinnati Reds catcher Johnny Bench, 4,000-hit club member Pete Rose | the '70s
+right: Andy
+Wrong: 
+Value: $1000
+Number: 30
+DWAT DAT WABBIT! | In 1990 this author put Rabbit Angstrom to rest | John Updike
+right: Pete
+Wrong: 
+Value: $1000
+Number: 29
+QUOTH THE RAVEN? | The birds in a song "Dream A Little Dream Of Me" sing in one of these trees, but would our bird?  Quoth the raven... | sycamore
+right: Andy
+Wrong: 
+Value: $1000
+Number: 26
+REPORTING THE NEWS | (<http://www.j-archive.com/media/2004-12-06_J_28.jpg> Hi.  I'm Anderson Cooper of CNN.)  I covered this former priest's return to power in 1994, & interviewed him again just before he fell from grace again | Jean-Bertrand Aristide
+right: Andy
+Wrong: 
+Value: DD: $3,000
+Number: 28
+"C" ME | This Christian church is headed by The Patriarch of Alexandria, Egypt | the Coptic Church
+right: Pete
+Wrong: 
+Value: $1000
+Number: 14
+Scores at the first commercial break (after clue 15)
+Pete: $2,200
+Dennis: $3,000
+Andy: $1,800
+Scores at the end of the Jeopardy! Round:
+Pete: $5,800
+Dennis: $4,600
+Andy: $9,400
+Second Jeopardy! Round: GENERAL SCIENCE, OIL!, A LITERARY TOUR, MUSICAL INSTRUMENTS, 2-LETTER WORDS, SEA ME
+GENERAL SCIENCE | Perseus is one of these configurations: it lies between Cassiopeia & Taurus | a constellation
+right: Andy
+Wrong: 
+Value: $400
+Number: 1
+OIL! | During the 1920s this South American nation's production went from 1 million to 137 million barrels a year | Venezuela
+right: Andy
+Wrong: 
+Value: $400
+Number: 2
+A LITERARY TOUR | Great Scott! Lady Stair's house in this Scottish capital boasts exhibits on great Scottish authors | Edinburgh
+right: Dennis
+Wrong: 
+Value: $400
+Number: 22
+MUSICAL INSTRUMENTS | No, it's true! A crwth is a Welsh version of this ancient stringed instrument | a lyre
+right: Andy
+Wrong: 
+Dennis: What is a harp?
+Value: $400
+Number: 15
+2-LETTER WORDS | It's a key linking word in many similes | as
+right: Dennis
+Wrong: 
+Andy: What is like?
+Value: $400
+Number: 10
+SEA ME | The shoreline of this sea is about 1,300 feet below sea level | the Dead Sea
+right: Dennis
+Wrong: 
+Value: $400
+Number: 17
+GENERAL SCIENCE | Lovelace wrote that they don't make a cage; in the 1820s, William Sturgeon made electromagnets out of them | iron bars
+right: Andy
+Wrong: 
+Dennis: What are wires?
+Value: $800
+Number: 7
+OIL! | The planned Baku-Tbilisi-Ceyhan one will run 1100 miles from the Caspian to the Mediterranean | a pipeline
+right: Andy
+Wrong: 
+Value: $800
+Number: 3
+A LITERARY TOUR | A museum devoted to this author is inside a charming replica of his birthplace in Alcala de Henares, Spain | Cervantes
+right: Andy
+Wrong: 
+Value: $800
+Number: 23
+MUSICAL INSTRUMENTS | The name of these paired concussion instruments is from the Spanish for "chestnut" | castanets
+right: Dennis
+Wrong: 
+Andy: What are bongos?
+Value: $800
+Number: 16
+2-LETTER WORDS | According to lyrics in "West Side Story", it's whom "There's a place for" | us
+right: Andy
+Wrong: 
+Value: $800
+Number: 11
+SEA ME | It's bounded on the east by Alaska & on the west by Siberia & the Kamchatka Peninsula | the Bering Sea
+right: Andy
+Wrong: 
+Value: $800
+Number: 18
+GENERAL SCIENCE | Light that bounces off a flat surface is reflected; light bent in a transparent medium is this | refracted
+right: Pete
+Wrong: 
+Value: $1200
+Number: 8
+OIL! | The sudden release of oil from a well under pressure; it can also mean a lively party or lopsided victory | a blow out
+right: Andy
+Wrong: 
+Dennis: What is an...
+Value: $1200
+Number: 4
+A LITERARY TOUR | If you're truly a "Blithe Spirit", rent this author's Blue Harbour Estate in Jamaica for a mere $3500 a week | Noel Coward
+right: Pete
+Wrong: 
+Value: $1200
+Number: 24
+MUSICAL INSTRUMENTS | An old word for this wind instrument is spelled  H-A-U-T-B-O-Y | an oboe
+right: Andy
+Wrong: 
+Value: DD: $3,000
+Number: 26
+2-LETTER WORDS | When it's a noun, it can mean a party, or the new haircut you get for it | do
+right: Dennis
+Wrong: 
+Value: $1200
+Number: 12
+SEA ME | The Thames River flows eastward past London before emptying into this sea | the North Sea
+right: Andy
+Wrong: 
+Pete: What is the Salton Sea?
+Value: $1200
+Number: 19
+GENERAL SCIENCE | (<http://www.j-archive.com/media/2004-12-06_DJ_09.jpg> Jimmy of the Clue Crew reads from inside the Cirque du Soleil with performers on the stage.)  From the type of simple machine a teeter board is, it's the 8-letter term for what's throwing them up in the air | leverage
+right: Dennis
+Wrong: 
+Pete: What is momentum?
+Andy: What is a catapult?
+Value: $1600
+Number: 9
+OIL! | In 1954 the Anglo-Iranian (formerly Anglo-Persian) Oil Company renamed itself this | British Petroleum
+right: Pete
+Wrong: 
+Value: $1600
+Number: 5
+A LITERARY TOUR | A plaque on 5 Bank Street in New York City notes that she wrote "My Antonia" there | Willa Cather
+right: Andy
+Wrong: 
+Value: $1600
+Number: 25
+MUSICAL INSTRUMENTS | (<http://www.j-archive.com/media/2004-12-06_DJ_27.jpg> Cheryl of the Clue Crew holds a musical instrument.)  Here at Mammoth Mountain, the staff of the yodeler lodge sounds this instrument each day to bring folks in from the slopes | an Alpine horn
+right: Andy
+Wrong: 
+Value: $1600
+Number: 27
+2-LETTER WORDS | It's used to attract attention to something sighted on a ship, like land or a sail | ho
+right: Andy
+Wrong: 
+Value: $1600
+Number: 13
+SEA ME | The Korea Strait connects this "colorful" sea with the Sea of Japan | the Yellow Sea
+right: Dennis
+Wrong: 
+Value: $1600
+Number: 20
+GENERAL SCIENCE | This new field of science whose name in part means "billionth" constructs superminiature devices | nanotechnology
+right: Pete
+Wrong: 
+Value: $2000
+Number: 30
+OIL! | A World War II gasoline shortage made this product the basis of jet fuel, which it remains | kerosene
+right: Andy
+Wrong: 
+Pete: What is alcohol?
+Value: $2000
+Number: 6
+A LITERARY TOUR | Attention, owls & pussycats: the Seymour St. home of this nonsense poet is now a no-nonsense hotel in London | (Edward) Lear
+right: Dennis
+Wrong: 
+Value: $2000
+Number: 29
+MUSICAL INSTRUMENTS | A lively jig once popular with sailors got its name from this folk instrument that accompanied the dance | horn pipe
+right: Pete
+Wrong: 
+Value: $2000
+Number: 28
+2-LETTER WORDS | A special connection; you may have one with a powerful person | in
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 14
+SEA ME | No big surprise, the Great Barrier Reef lies in this sea | the Coral Sea
+right: Dennis
+Wrong: 
+Value: DD: $2,800
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Pete: $9,000
+Dennis: $13,400
+Andy: $24,000
+
+Final Jeopardy! Round
+CHILDREN'S STORIES | In German, this classic story is called "Die Kleine Seejungfrau" | "The Little Mermaid"
+right: Dennis
+Wrong: 
+Pete: What is "Little Red Riding Hood"?
+Andy: What is "Little Red Riding Hood"?
+Wagers: 
+Pete: $8,900
+Dennis: $11,600
+Andy: $2,801
+Final scores:
+Pete: $100 (3rd place: $1,000)
+Dennis: $25,000 (New champion: $25,000)
+Andy: $21,199 (2nd place: $2,000)
+
+Coryat scores
+Pete: $9,000 (14 R,3 W)
+Dennis: $12,600 (19 R(including 1 DD),3 W)
+Andy: $20,200 (26 R(including 2 DDs),4 W)

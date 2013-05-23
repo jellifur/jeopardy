@@ -1,0 +1,308 @@
+5876 - Monday, March 15, 2010
+Comments: First show consolation prizes appeared in lectern score displays at the conclusion of the game.
+Contestants:
+Nick Gorski: a journalist from Charlottesville, Virginia
+Rachel Pildis: a software developer from Oak Park, Illinois
+Robert Knecht Schmidt: a patent agent from Cleveland, Ohio (whose 1-day cash winnings total $12,799)
+First Jeopardy! Round: STORY PROBLEMS, A PIECE OF HISTORY, LINENS & THINGS, MOVIES' ALTERNATE ENDINGS, HYBRIDS, JIM RHYME
+STORY PROBLEMS | The problem in this 1902 story is for Sherlock to find the beast (or man) that's been killing folks on the Devonshire moors | The Hound of the Baskervilles
+right: Rachel
+Wrong: 
+Value: $200
+Number: 1
+A PIECE OF HISTORY | The Huntington Library has some jewels--a manuscript of "The Canterbury Tales" (c. 1410) & one of his Bibles (c. 1455) | Gutenberg
+right: Robert
+Wrong: 
+Value: $200
+Number: 16
+LINENS & THINGS | A flat piece of absorbent material on which you wipe your feet before entering a house | a doormat
+right: Robert
+Wrong: 
+Value: $200
+Number: 6
+MOVIES' ALTERNATE ENDINGS | This Spielberg film featured a longer ending in which Richard Dreyfuss explores the mother ship | Close Encounters of the Third Kind
+right: Robert
+Wrong: 
+Value: $200
+Number: 18
+HYBRIDS | Grapple | a grape & an apple
+right: Nick
+Wrong: 
+Value: $200
+Number: 27
+JIM RHYME | The outward projection of a hat | a brim
+right: Robert
+Wrong: 
+Value: $200
+Number: 11
+STORY PROBLEMS | In this story Bilbo & the dwarves have to get a pile of treasure out from under a dragon | The Hobbit
+right: Nick
+Wrong: 
+Value: $400
+Number: 2
+A PIECE OF HISTORY | Hebrew university has his archives--digitized, too, so you can see his notes on relativity in his hand | Einstein
+right: Nick
+Wrong: 
+Value: $400
+Number: 17
+LINENS & THINGS | This basic type of sheet has elastic edges tailored to grip a mattress; can somebodv help me fold it? | a fitted sheet
+right: Robert
+Wrong: 
+Value: $400
+Number: 7
+MOVIES' ALTERNATE ENDINGS | A blood-craving Audrey II "branches" out & takes over NYC in Frank Oz' ending that never was to this film | Little Shop of Horrors
+right: Rachel
+Wrong: 
+Value: $400
+Number: 22
+HYBRIDS | Stagflation | stagnation & inflation
+right: Robert
+Wrong: 
+Value: $400
+Number: 28
+JIM RHYME | Filled with gloom, like a certain reaper | grim
+right: Rachel
+Wrong: 
+Value: $400
+Number: 12
+STORY PROBLEMS | Sydney Carton solves the problem of saving Charles Darnay's neck (literally) in this work | A Tale of Two Cities
+right: Rachel
+Wrong: 
+Value: $600
+Number: 3
+A PIECE OF HISTORY | Apollo astronauts collected 841 pounds of these (most are stored at Johnson space center) | Moon rocks
+right: Robert
+Wrong: 
+Value: $600
+Number: 23
+LINENS & THINGS | From the Greek for heavy fabric, <http://www.j-archive.com/media/2010-03-15_J_08.jpg> it's the type of thick wall covering seen <http://www.j-archive.com/media/2010-03-15_J_08a.jpg> here | a tapestry
+right: Nick
+Wrong: 
+Value: $600
+Number: 8
+MOVIES' ALTERNATE ENDINGS | An alternate ending for this movie has Will Smith alive & a reunion of vampire lovers | I Am Legend
+right: Nick
+Wrong: 
+Value: $600
+Number: 19
+HYBRIDS | Pixel | picture element
+right: Robert
+Wrong: 
+Value: DD: $1,200
+Number: 29
+JIM RHYME | Dainty & refined partner of proper | prim
+right: Robert
+Wrong: 
+Value: $600
+Number: 13
+STORY PROBLEMS | In this 1980 Ludlum thriller, an amnesiac is faced with the problem of reconstructing his past while dodging killers | The Bourne Identity
+right: Robert
+Wrong: 
+Value: $800
+Number: 4
+A PIECE OF HISTORY | A 17-ton piece of its hull was recovered from its wreckage site, 450 miles off the coast of Newfoundland | the Titanic
+right: Robert
+Wrong: 
+Value: $800
+Number: 24
+LINENS & THINGS | Named for an 18th century London draper, it's a small, lacy, ornamental cloth | a doily
+right: Rachel
+Wrong: 
+Value: $800
+Number: 9
+MOVIES' ALTERNATE ENDINGS | Dante got shot while minding the convenience store in the original end of this Kevin Smith comedy | Clerks
+right: Nick
+Wrong: 
+Value: $800
+Number: 20
+HYBRIDS | Tangelo | a tangerine & a pomelo
+right: Rachel
+Wrong: 
+Robert: What is a tangerine and an orange?
+Value: $800
+Number: 25
+JIM RHYME | A sudden, capricious desire or act | whim
+right: Nick
+Wrong: 
+Value: $800
+Number: 14
+STORY PROBLEMS | Porfiry's problem in this story is to get Raskolnikov to confess | Crime and Punishment
+right: Nick
+Wrong: 
+Value: $1000
+Number: 5
+A PIECE OF HISTORY | The oldest artifact in D.C.'s Newseum is a 3,200-year-old Sumerian brick that spread the news using this writing system | cuneiform
+right: Robert
+Wrong: 
+Value: $1000
+Number: 26
+LINENS & THINGS | It's not something false, it's a decorative covering for a pillow | a sham
+right: Rachel
+Wrong: 
+Value: $1000
+Number: 10
+MOVIES' ALTERNATE ENDINGS | The original script for this Jamie Foxx film set in Saudi Arabia had his FBI team getting blown up | The Kingdom
+right: 
+Wrong: Triple Stumper
+Robert: ...What is Miami Vice? [Shakes head]
+Rachel: ...I'm sorry.
+Value: $1000
+Number: 21
+HYBRIDS | Cyborg | cybernetic organism
+right: Robert
+Wrong: 
+Value: $1000
+Number: 30
+JIM RHYME | What one does during natation | swim
+right: Rachel
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Robert: $2,200
+Rachel: $4,000
+Nick: $2,800
+Scores at the end of the Jeopardy! Round:
+Robert: $5,800
+Rachel: $4,200
+Nick: $4,800
+Second Jeopardy! Round: STORY PROBLEMS, ATHLETES' COUNTRIES OF BIRTH, CLASSICAL TV THEMES, KENTUCKY IS JUST DUCKY, FROM THE DUTCH, THE CALIFORNIA HIGHWAY PATROL
+STORY PROBLEMS | 12 hens each lay a half dozen eggs, but 2 get broken; then a hen lays one more, leaving this many unbroken eggs | 71
+right: Rachel
+Wrong: 
+Nick: What is 5?
+Value: $400
+Number: 2
+CLASSICAL TV THEMES | The 18th c. fanfare heard <http://www.j-archive.com/media/2010-03-15_DJ_07.mp3> here is the theme for this PBS show that's brought class & drama to American TV | Masterpiece Theatre
+right: Robert
+Wrong: 
+Value: $400
+Number: 7
+KENTUCKY IS JUST DUCKY | Until 1792 Kentucky was a part of this state | Virginia
+right: Rachel
+Wrong: 
+Value: $400
+Number: 12
+FROM THE DUTCH | From the Dutch for "to cross", it's a pleasure trip taken aboard ship | a cruise
+right: Nick
+Wrong: 
+Value: $400
+Number: 1
+THE CALIFORNIA HIGHWAY PATROL | (<http://www.j-archive.com/media/2010-03-15_DJ_17.jpg> Jimmy of the Clue Crew reports from the California Highway Patrol Academy in Sacramento, CA.)  Though they've ridden Harleys & Kawasakis, the CHP has been riding motorcycles made by this Munich-based company since the 1990s | BMW
+right: Rachel
+Wrong: 
+Value: $400
+Number: 17
+STORY PROBLEMS | If a lepidopterist spots 4 butterflies, each with 3 black spots & 5 yellow spots, he spots this many spots | 32
+right: Robert
+Wrong: 
+Rachel: What is 60?
+Value: $800
+Number: 3
+CLASSICAL TV THEMES | The evening newscast by Chet Huntley & this partner used Beethoven's 9th for its theme | (David) Brinkley
+right: Robert
+Wrong: 
+Value: $800
+Number: 8
+KENTUCKY IS JUST DUCKY | Reflecting the state nickname, the International Museum for this genre of music is in Owensboro | bluegrass
+right: Robert
+Wrong: 
+Value: $800
+Number: 13
+THE CALIFORNIA HIGHWAY PATROL | (<http://www.j-archive.com/media/2010-03-15_DJ_18.jpg> Jimmy of the Clue Crew reports from the California Highway Patrol Academy in Sacramento, CA.)  The Breathalyzer will test to see if I'm over this blood alcohol content; its enactment as the limit in all 50 states has saved many lives | .08
+right: Nick
+Wrong: 
+Value: $800
+Number: 18
+STORY PROBLEMS | The "Jeopardy!" writers drank 72 beers after work yesterday: 20 in the 1st round, 26 in the 2nd & this many at last call | 26
+right: Rachel
+Wrong: 
+Value: $1200
+Number: 4
+CLASSICAL TV THEMES | Appropriately, the series titled this director "Presents" used a <http://www.j-archive.com/media/2010-03-15_DJ_09.mp3> funeral march by Gounod as its theme | Hitchcock
+right: Robert
+Wrong: 
+Value: $1200
+Number: 9
+KENTUCKY IS JUST DUCKY | This racetrack is home to the Kentucky Derby | Churchill Downs
+right: Robert
+Wrong: 
+Value: $1200
+Number: 14
+STORY PROBLEMS | A widget costs 64 cents & you pay with a dollar; you get 4 coins in change, these | a penny, a quarter & two nickels
+right: Nick
+Wrong: 
+Robert: What is a penny and three dimes?
+Rachel: What is a penny, a dime, a nickel and a quarter?
+Value: $1600
+Number: 5
+CLASSICAL TV THEMES | In 1829, though he didn't know it, he composed the theme music for "The Lone Ranger" | Gioachino Rossini
+right: 
+Wrong: 
+Robert: No, no, no...
+Value: DD: $2,000
+Number: 10
+KENTUCKY IS JUST DUCKY | The first of these restaurants was opened by Colonel Harland Sanders in Corbin, Kentucky | KFC (Kentucky Fried Chicken)
+right: Nick
+Wrong: 
+Value: $1600
+Number: 15
+FROM THE DUTCH | A medical charlatan, it's from a longer Dutch word meaning one who applies a phony cure-all ointment | a quack
+right: Rachel
+Wrong: 
+Value: $1600
+Number: 22
+STORY PROBLEMS | A scout troop hikes 3 miles due north, 4 miles due east & straight back this far to their starting point | 5
+right: Nick
+Wrong: 
+Value: DD: $4,000
+Number: 6
+ATHLETES' COUNTRIES OF BIRTH | Eric Lindros, Eric Gagne | Canada
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 21
+CLASSICAL TV THEMES | The <http://www.j-archive.com/media/2010-03-15_DJ_11.mp3> overture to Reznicek's "Donna Diana" introduced this TV mountie "of the Yukon" | Sergeant Preston
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+KENTUCKY IS JUST DUCKY | Not Calhoun but this John C. from Kentucky was U.S. VP from 1857 to 1861 & then Sec. of War for the Confederacy | John C. Breckinridge
+right: 
+Wrong: Triple Stumper
+Robert: Who is John C. Frémont?
+Value: $2000
+Number: 16
+FROM THE DUTCH | This term for a leave of absence granted to a member of the military is from a Dutch word for "permission" | furlough
+right: Nick
+Wrong: 
+Value: $2000
+Number: 20
+THE CALIFORNIA HIGHWAY PATROL | (<http://www.j-archive.com/media/2010-03-15_DJ_19.jpg> Jimmy of the Clue Crew reports from the California Highway Patrol Academy in Sacramento, CA.)  Named for a slain nine-year-old girl, these alerts issued by the CHP are an attempt to galvanize a community into looking for a missing child | an Amber alert
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Robert: $5,400
+Rachel: $9,800
+Nick: $14,800
+
+Final Jeopardy! Round
+RELIGION | In 1875 she wrote, "Jesus of Nazareth was the most scientific man that ever trod the globe" | Mary Baker Eddy
+right: Robert | Rachel
+Wrong: 
+Nick: Who is Mary Reddon?
+Wagers: 
+Robert: $0
+Rachel: $2,200
+Nick: $4,801
+Final scores:
+Robert: $5,400 (3rd place: $1,000)
+Rachel: $12,000 (New champion: $12,000)
+Nick: $9,999 (2nd place: $2,000)
+
+Coryat scores
+Robert: $6,800 (19 R(including 1 DD),5 W(including 1 DD))
+Rachel: $9,800 (15 R,3 W)
+Nick: $12,800 (14 R(including 1 DD),1 W)

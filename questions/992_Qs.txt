@@ -1,0 +1,334 @@
+3930 - Friday, October 5, 2001
+Contestants:
+David Mitchell: a recent college graduate from Seattle, Washington
+Cheryl Howard: a computer scientist and mother of two from Falls Church, Virginia
+Rod Sanders: a master control operator from Corpus Christi, Texas (whose 2-day cash winnings total $17,200)
+First Jeopardy! Round: AFRICAN-AMERICAN FIRSTS, BRIT SPEAK, WORLD SKYLINE TOURS, THE COMEDY STYLINGS OF..., MONOTREMES, THAT'S A CRIME!
+AFRICAN-AMERICAN FIRSTS | In 1989, aboard Discovery, Frederick D. Gregory became the first black commander of one of these missions | a Space Shuttle mission
+right: David
+Wrong: 
+Value: $100
+Number: 13
+BRIT SPEAK | This word, which we sometimes use for TV, is Brit speak for the subway | the tube
+right: Rod
+Wrong: 
+Value: $100
+Number: 23
+WORLD SKYLINE TOURS | <http://www.j-archive.com/media/2001-10-05_J_05.jpg> This city has been a port since the Roman period | London
+right: Cheryl
+Wrong: 
+Value: $100
+Number: 5
+THE COMEDY STYLINGS OF... | His "Top Ten Rejected Batman Villains" included "The Ticketmaster", "Lactose Intolerant Man" & "Incontinento" | David Letterman
+right: Cheryl
+Wrong: 
+Value: $100
+Number: 1
+MONOTREMES | Unlike the live births of other mammals, the platypus reproduces by laying these | eggs
+right: David
+Wrong: 
+Value: $100
+Number: 15
+THAT'S A CRIME! | In a '90s NBC series title, this crime preceded "Life on the Streets" | Homicide
+right: Rod
+Wrong: 
+Value: $100
+Number: 16
+AFRICAN-AMERICAN FIRSTS | For his role in "Lilies of the Field", he was the first African-American to win a Best Actor Oscar | Sidney Poitier
+right: David
+Wrong: 
+Value: $200
+Number: 3
+BRIT SPEAK | In England, it covers a car's engine; in America, it cover's a baby's head | a bonnet
+right: Rod
+Wrong: 
+Value: $200
+Number: 22
+WORLD SKYLINE TOURS | <http://www.j-archive.com/media/2001-10-05_J_06.jpg> This city has one of the world's largest single-span bridges across its harbor | Sydney, Australia
+right: David
+Wrong: 
+Value: $200
+Number: 6
+THE COMEDY STYLINGS OF... | A listing for a '95 Pontiac "loaded with feathers" was among this late night host's "Headlines" | Jay Leno
+right: David
+Wrong: 
+Cheryl: Who is Jon Stewart?
+Value: $200
+Number: 2
+MONOTREMES | The country that's home to the earliest dated monotreme fossils, it's also home to the platypus | Australia
+right: Rod
+Wrong: 
+Value: $200
+Number: 27
+THAT'S A CRIME! | A jury is the group you're tried before; this is lying under oath to them | perjury
+right: Cheryl
+Wrong: 
+Value: $200
+Number: 17
+AFRICAN-AMERICAN FIRSTS | "On My Honor" from 1975 to 1978 Gloria Randle Scott served as the first black president of this organization | Girl Scouts of America
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 4
+BRIT SPEAK | To do some repairs around your house, you might hire a sparky, one of these people | an electrician
+right: David
+Wrong: 
+Value: $300
+Number: 24
+WORLD SKYLINE TOURS | <http://www.j-archive.com/media/2001-10-05_J_07.jpg> This city was nearly destroyed twice in the 20th century by an earthquake & then by bombing | Tokyo
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 7
+THE COMEDY STYLINGS OF... | "In the Year 2000", according to this host, Kathie Lee will convert & "annoy the world with her annual Ramadan special" | Conan O'Brien
+right: Rod
+Wrong: 
+Value: $300
+Number: 10
+MONOTREMES | Facial feature mentioned in the longer version of the platypus' name | a duck bill
+right: Rod
+Wrong: 
+Value: $300
+Number: 28
+THAT'S A CRIME! | This taking of a human life may be classified as "voluntary" or "involuntary" | manslaughter
+right: Rod
+Wrong: 
+Value: $300
+Number: 18
+AFRICAN-AMERICAN FIRSTS | Robert Weaver, the first black Cabinet member, made himself at "home" in this department in 1966 | Housing and Urban Development (HUD)
+right: 
+Wrong: 
+David: What is the Secretary of the Interior?
+Value: DD: $700
+Number: 14
+BRIT SPEAK | The British don't normally eat these with gravy; they're cookies | biscuits
+right: David
+Wrong: 
+Value: $400
+Number: 25
+WORLD SKYLINE TOURS | The first mayor of <http://www.j-archive.com/media/2001-10-05_J_08.jpg> this city led a rebellion against the Canadian governor after being unseated in Parliament | Toronto
+right: Rod
+Wrong: 
+Value: $400
+Number: 8
+THE COMEDY STYLINGS OF... | This deadpan comic asked, "If you were going to shoot a mime, would you use a silencer?" | Steven Wright
+right: Rod
+Wrong: 
+Value: $400
+Number: 11
+MONOTREMES | The name platypus comes from the Greek for "broad" this body part | a foot
+right: 
+Wrong: Triple Stumper
+Rod: What is a tail?
+Value: $400
+Number: 29
+THAT'S A CRIME! | It's extortion by threat--like you'll send the photos to the newspaper if you don't receive $2 million | blackmail
+right: Cheryl
+Wrong: 
+Value: $400
+Number: 19
+AFRICAN-AMERICAN FIRSTS | In 1950 this U.N. mediator became the first African-American to win the Nobel Peace Prize | Dr. Ralph Bunche
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 21
+BRIT SPEAK | Common term for a doctor's office; it's where he "operates" from | a surgery
+right: Cheryl
+Wrong: 
+David: What is a theater?
+Value: $500
+Number: 26
+WORLD SKYLINE TOURS | <http://www.j-archive.com/media/2001-10-05_J_09.jpg> This South American city's name comes from early explorers who thought the bay was a river | Rio de Janeiro
+right: Rod
+Wrong: 
+Value: $500
+Number: 9
+THE COMEDY STYLINGS OF... | "If a bouncer gets drunk, who throws him out?" he wrote in his book "Brain Droppings" | George Carlin
+right: Rod
+Wrong: 
+Value: $500
+Number: 12
+MONOTREMES | (<http://www.j-archive.com/media/2001-10-05_J_30.jpg> Sarah of the Clue Crew reports from a zoo.)  The platypus has a big old beaver-like tail, as opposed to <http://www.j-archive.com/media/2001-10-05_J_30a.jpg> this virtually tailless monotreme | an echidna
+right: Rod
+Wrong: 
+Value: $500
+Number: 30
+THAT'S A CRIME! | Peculation is taking funds entrusted to you bit by bit through this fraudulent process | embezzlement
+right: David
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Rod: $2,100
+Cheryl: $0
+David: $0
+Scores at the end of the Jeopardy! Round:
+Rod: $3,400
+Cheryl: $1,100
+David: $800
+Second Jeopardy! Round: FRENCH ART & ARTISTS, LAST COMPLETE NOVEL, WACKY MATH, ERAS & AGES, STEPHEN HAWKING, A BRIEF HISTORY OF RHYME
+FRENCH ART & ARTISTS | The famous Gustave Caillebotte painting seen <http://www.j-archive.com/media/2001-10-05_DJ_02.jpg> here depicts this city on a rainy day | Paris
+right: Cheryl
+Wrong: 
+Value: $200
+Number: 2
+LAST COMPLETE NOVEL | "Glinda of Oz" (1920) | L. Frank Baum
+right: Rod
+Wrong: 
+Value: $200
+Number: 21
+WACKY MATH | Strings on a standard guitar times the Oscars won by Pauly Shore | 0
+right: Rod
+Wrong: 
+Value: $200
+Number: 1
+ERAS & AGES | Kicked off by the Russians in October 1957, it's also an adjective meaning "shiny & modern" | the Space Age
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 9
+STEPHEN HAWKING | Stephen has been called "the greatest theoretical physicist since" this physicist born in 1879 | Albert Einstein
+right: Rod
+Wrong: 
+Value: $200
+Number: 26
+A BRIEF HISTORY OF RHYME | Egyptian boy pharaoh's innards | Tut's guts
+right: Rod
+Wrong: 
+Value: $200
+Number: 17
+FRENCH ART & ARTISTS | Seen <http://www.j-archive.com/media/2001-10-05_DJ_03.jpg> here in a self-portrait, Madame Vigee Lebrun was painter to this queen before fleeing France in 1789 | Marie Antoinette
+right: Cheryl
+Wrong: 
+Value: $400
+Number: 3
+LAST COMPLETE NOVEL | "Finnegans Wake" (1939) | James Joyce
+right: Cheryl
+Wrong: 
+Value: $400
+Number: 22
+WACKY MATH | Number of "golden rings" in a Christmas song plus the number of rings in Ringling's circus | 8 (5 + 3)
+right: David
+Wrong: 
+Value: $400
+Number: 7
+ERAS & AGES | An era in American movies is named for these, like Paramount & MGM, when they controlled the theaters | the studios
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+STEPHEN HAWKING | Stephen received his Ph.D. from this prestigious British university in 1966 | Cambridge
+right: Cheryl
+Wrong: 
+Value: $400
+Number: 27
+A BRIEF HISTORY OF RHYME | "Fiddling" Roman emperor's admired people | Nero's heroes
+right: David
+Wrong: 
+Value: $400
+Number: 18
+FRENCH ART & ARTISTS | (<http://www.j-archive.com/media/2001-10-05_DJ_04.jpg> The entire Clue Crew lounges about on the grass, picnic-style, with Cheryl reading.)  It's what we're having right now, or the title of a scandalous 1863 Manet <http://www.j-archive.com/media/2001-10-05_DJ_04a.jpg> painting | Luncheon on the Grass
+right: 
+Wrong: Triple Stumper
+Rod: What is A Picnic?
+Cheryl: What is The Picnic?
+David: What is Picnic in the Park?
+Value: $600
+Number: 4
+LAST COMPLETE NOVEL | "The Thin Man" (1934) | Dashiell Hammett
+right: 
+Wrong: 
+Cheryl: Who is Conrad?
+Value: DD: $1,400
+Number: 23
+WACKY MATH | Days in a leap year minus the title "route" number of a TV show starring Martin Milner | 300 (366 - 66)
+right: Rod
+Wrong: 
+David: What is 298?
+Value: $600
+Number: 8
+ERAS & AGES | The Durant's "Story of Civilization" includes "The Age of" this longest-reigning French king | Louis XIV
+right: 
+Wrong: 
+David: Who is Charlemagne?
+Value: DD: $1,000
+Number: 13
+A BRIEF HISTORY OF RHYME | Carthaginian general's man-eaters | Hannibal's cannibals
+right: Rod
+Wrong: 
+Value: $600
+Number: 14
+FRENCH ART & ARTISTS | His 1888 portrait of Ellen Barre, seen <http://www.j-archive.com/media/2001-10-05_DJ_05.jpg> here, is much more subdued than his nightlife paintings | Toulouse-Lautrec
+right: 
+Wrong: Triple Stumper
+Rod: Who is Monet?
+David: Who is Manet?
+Value: $800
+Number: 5
+LAST COMPLETE NOVEL | "Persuasion" (1818) | Jane Austen
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+WACKY MATH | Joe Namath's Jet uniform No. divided by the title number of a TV police car driven by Martin Milner | 1 (12/Adam 12
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+ERAS & AGES | Mark Twain wrote for the journal The Golden Era before co-writing the 1873 novel titled this "Age" | The Gilded Age
+right: Cheryl
+Wrong: 
+Value: $800
+Number: 15
+A BRIEF HISTORY OF RHYME | First Israelite king's gun-totin' girlfriends | Saul's molls
+right: Rod
+Wrong: 
+Value: $800
+Number: 19
+FRENCH ART & ARTISTS | This impressionist painted his wife Camille in a kimono in the 1870s portrait seen <http://www.j-archive.com/media/2001-10-05_DJ_06.jpg> here | Monet
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+LAST COMPLETE NOVEL | "Ice Palace" (1958) | Edna Ferber
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+WACKY MATH | No. of "islands" in a mayo-based salad dressing plus a "baker's dozen" of cookies made by Martin Milner | 1,013
+right: David
+Wrong: 
+Value: $1000
+Number: 12
+ERAS & AGES | An age of Roman literature is named for this emperor, formerly Octavian | Augustus
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+A BRIEF HISTORY OF RHYME | "Great" Persian king's parasitic microscopic organisms | Cyrus's viruses
+right: Cheryl
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Rod: $4,800
+Cheryl: $2,300
+David: -$400
+
+Final Jeopardy! Round
+20th CENTURY WOMEN | Ushers at her 2001 funeral included Bill Gates, Barbara Walters, Jim Lehrer & Bob Woodward | Katharine Graham (publisher of The Washington Post
+right: Cheryl
+Wrong: 
+Rod: Who is Mead?
+Wagers: 
+Cheryl: $2,299
+Rod: $100
+Final scores:
+Rod: $4,700 (3-day champion: $21,900)
+Cheryl: $4,599 (2nd place: a trip to Spice Islands Beach Resort, Grenada)
+David: -$400 (3rd place: a golfing trip to Myrtle Beach, South Carolina)
+
+Coryat scores
+Rod: $4,800 (19 R,3 W)
+Cheryl: $3,700 (11 R,3 W(including 1 DD))
+David: $1,300 (11 R,6 W(including 2 DDs))

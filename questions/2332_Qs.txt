@@ -1,0 +1,343 @@
+3363 - Wednesday, March 31, 1999
+Contestants:
+Mike Lenahan: a cargo handler from Arlington Heights, Illinois
+Amy McEntee: an attorney from Durham, North Carolina
+Ajuan Mance: an English professor from Eugene, Oregon (whose 3-day cash winnings total $15,100)
+First Jeopardy! Round: U.S. PRESIDENTS, RADIO STARS, TOP O' THE STATE, COCKNEY RHYMING SLANG, GANGSTERS, YOU NEED TO BE PUNISHED
+U.S. PRESIDENTS | In 1985 he said that freedom was "The universal right of all God's children" | Ronald Reagan
+right: Ajuan
+Wrong: 
+Value: $100
+Number: 10
+RADIO STARS | This conservative icon describes himself as having "talent on loan from God" | Rush Limbaugh
+right: Amy
+Wrong: 
+Value: $100
+Number: 11
+TOP O' THE STATE | Pu'u Wekiu on Mauna Kea | Hawaii
+right: Mike
+Wrong: 
+Value: $100
+Number: 23
+COCKNEY RHYMING SLANG | It's a dickory dock, whether or not a mouse runs up it | Clock
+right: Amy
+Wrong: 
+Value: $100
+Number: 20
+GANGSTERS | He's quoted as saying, "They've hung everything on me but the Chicago Fire" | Al Capone
+right: Mike
+Wrong: 
+Value: $100
+Number: 2
+YOU NEED TO BE PUNISHED | Get your comeuppance & you get your "just" these, not ice cream & cake | Desserts
+right: Mike
+Wrong: 
+Value: $100
+Number: 1
+U.S. PRESIDENTS | His grandfather Kindred was the first of his family to settle in Georgia | Jimmy Carter
+right: Ajuan
+Wrong: 
+Value: $200
+Number: 16
+RADIO STARS | He took over from Red Barber & has been the voice of the Dodgers for almost 50 years | Vin Scully
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 12
+TOP O' THE STATE | Mount McKinley | Alaska
+right: Mike
+Wrong: 
+Value: $200
+Number: 24
+COCKNEY RHYMING SLANG | Ask a Cockney barber for a dig in the grave & he should give you one of these | Shave
+right: Amy
+Wrong: 
+Value: $200
+Number: 21
+GANGSTERS | Arnold "The Brain" Rothstein was accused of masterminding the big fix of this in 1919; it wasn't proved | World Series
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 3
+YOU NEED TO BE PUNISHED | In "Hanky Panky" Madonna sings "I don't want you to thank me, you can just" do this | Spank me
+right: Amy
+Wrong: 
+Value: $200
+Number: 5
+U.S. PRESIDENTS | In 1965 he became the first sitting president to meet a pope in the U.S. when he met Paul VI | Lyndon Johnson
+right: Ajuan
+Wrong: 
+Value: $300
+Number: 17
+RADIO STARS | Kyle Cantrell, operations manager at Nashville's WSM-AM, is the Saturday night announcer for this show | Grand Ole Opry
+right: Ajuan
+Wrong: 
+Value: $300
+Number: 13
+TOP O' THE STATE | Mount Whitney | California
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 25
+COCKNEY RHYMING SLANG | It's what a Mother Hubbard is; hers was bare by the way | cupboard
+right: Mike
+Wrong: 
+Value: $300
+Number: 22
+GANGSTERS | His brother Buck was part of his gang, as was his moll Bonnie | Clyde Barrow
+right: Mike
+Wrong: 
+Ajuan: Who is Clyde?
+Amy: Who is Clyde Berringer?
+Value: $300
+Number: 4
+YOU NEED TO BE PUNISHED | A caustic verbal attack when done with a tongue or a more painful one done with a whip | Lashing
+right: Ajuan
+Wrong: 
+Value: $300
+Number: 6
+U.S. PRESIDENTS | On July 9, 1850 this president died in office; Millard Fillmore was sworn in the following day | Zachary Taylor
+right: Ajuan
+Wrong: 
+Value: DD: $200
+Number: 18
+RADIO STARS | Heard here, he's been the voice of the U.S. heartland for decades ("Now you know the rest of the story") | Paul Harvey
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 14
+TOP O' THE STATE | Mount Hood | Oregon
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 26
+COCKNEY RHYMING SLANG | We bet Camus knew this kind of person is a Glasgow Ranger | Stranger
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 28
+GANGSTERS | His fateful July 22, 1934 night at Chicago's Biograph Theater might be featured on "Biography" | John Dillinger
+right: Mike
+Wrong: 
+Value: $400
+Number: 7
+YOU NEED TO BE PUNISHED | A verb meaning to give permission, or a penalty, economic or otherwise | Sanction
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+U.S. PRESIDENTS | Teddy Roosevelt quipped that this successor "meant well but meant well feebly" | William Howard Taft
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 19
+RADIO STARS | This shock jock rival of Howard Stern is heard "in the Morning" on about 100 stations | Don Imus
+right: Amy
+Wrong: 
+Value: $500
+Number: 15
+TOP O' THE STATE | Mount Elbert | Colorado
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+COCKNEY RHYMING SLANG | Cockneys use the name of this Dickens title character as rhyming slang for a judge | Barnaby Rudge
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 29
+GANGSTERS | Bribes from Big Bill Dwyer turned members of this armed service into rum-runners | Coast Guard
+right: Mike
+Wrong: 
+Value: $500
+Number: 8
+YOU NEED TO BE PUNISHED | Literally, it means drawing a person under a ship from side to side or from bow to stern | Keelhaul
+right: Amy
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Ajuan: $800
+Amy: $0
+Mike: $1,400
+Scores at the end of the Jeopardy! Round:
+Ajuan: $2,300
+Amy: $1,300
+Mike: $2,000
+Second Jeopardy! Round: REMEMBRANCE OF THINGS PROUST, OLYMPIC MASCOTS, PEOPLE, RUSSIAN "T" ROOM, MUSICAL MUSICALS, FIRST & LAST
+REMEMBRANCE OF THINGS PROUST | At the age of 9 Proust had his first wheezing attack of this disease that plagued him the rest of his life | Asthma
+right: Mike
+Wrong: 
+Value: $200
+Number: 1
+OLYMPIC MASCOTS | The 1976 Winter Games' mascot was Olympiamandl, one of these frosty guys | Snowman
+right: Mike
+Wrong: 
+Value: $200
+Number: 2
+PEOPLE | The leader of rock & roll's Family Stone | Sly
+right: Mike
+Wrong: 
+Value: $200
+Number: 24
+RUSSIAN "T" ROOM | His writing career began with the short novel "Detstvo" in 1852; the much longer pieces came later | Leo Tolstoy
+right: Mike
+Wrong: 
+Value: $200
+Number: 5
+MUSICAL MUSICALS | This song from "The Music Man" is Harold Hill's paean to the glory of a marching band | "Seventy-six Trombones"
+right: Mike
+Wrong: 
+Value: $200
+Number: 17
+FIRST & LAST | A 1961 home run king, 5 letters: M---s | (Roger) Maris
+right: Amy
+Wrong: 
+Value: $200
+Number: 10
+REMEMBRANCE OF THINGS PROUST | One of Marcel's chums at the Lycee Condorcet was Jacques, son of this "Carmen" composer | Georges Bizet
+right: Amy
+Wrong: 
+Value: $400
+Number: 20
+OLYMPIC MASCOTS | The 1988 Winter Games in Calgary & the 1980 Summer Games in Moscow had species of these as mascots | Bears
+right: Mike
+Wrong: 
+Value: DD: $1,200
+Number: 3
+PEOPLE | The collective big screen name of brothers Arthur, Herbert, Julius & Leonard | The Marx Brothers
+right: Mike
+Wrong: 
+Value: $400
+Number: 25
+RUSSIAN "T" ROOM | The taiga is the forest land of Russia & this is its nearly treeless northern belt | Tundra
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 6
+MUSICAL MUSICALS | I hear "Do I Hear A Waltz?" had lyrics by Stephen Sondheim & music by this Hammerstein collaborator | Richard Rodgers
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 18
+FIRST & LAST | A "Snow White" dwarf, 7 letters: B-----l | Bashful
+right: Ajuan
+Wrong: 
+Value: $400
+Number: 11
+REMEMBRANCE OF THINGS PROUST | One of the first critiques in English of Proust's work was by this "Godot" playwright in 1931 | Samuel Beckett
+right: Amy
+Wrong: 
+Value: $600
+Number: 21
+OLYMPIC MASCOTS | Olly the Kookaburra, Syd the Platypus & Millie the Echidna will represent the games held in this year | 2000 (Summer Games in Sydney, Australia)
+right: Ajuan
+Wrong: 
+Value: $600
+Number: 4
+PEOPLE | This man was in the news in 1978 (Guyana) | Rev. Jim Jones
+right: Ajuan
+Wrong: 
+Value: $600
+Number: 26
+RUSSIAN "T" ROOM | In 1919 he & Lenin founded the Third International to bring together comrades from around the world | Leon Trotsky
+right: Ajuan
+Wrong: 
+Value: $600
+Number: 7
+MUSICAL MUSICALS | It featured the songs "Sunrise, Sunset" & "Matchmaker, Matchmaker" | Fiddler on the Roof
+right: Amy
+Wrong: 
+Value: $600
+Number: 19
+FIRST & LAST | A constellation, 9 letters: A-------a | Andromeda
+right: Ajuan
+Wrong: 
+Value: $600
+Number: 12
+REMEMBRANCE OF THINGS PROUST | In the 1890s Proust helped organize petitions on behalf of this Jewish army captain | Alfred Dreyfus
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+OLYMPIC MASCOTS | One of the symbols used at the 1968 games in this city was a red jaguar | Mexico City
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+PEOPLE | This 11-year-old girl won an Oscar for a 1993 film | Anna Paquin
+right: Mike
+Wrong: 
+Value: $800
+Number: 29
+RUSSIAN "T" ROOM | A group of 3 in power, or a vehicle drawn by 3 horses abreast | Troika
+right: 
+Wrong: Triple Stumper
+Amy: What is a triumvirate?
+Value: $800
+Number: 8
+MUSICAL MUSICALS | Bessie Smith's music is heard in the sultry revue of this style "in the Night" | Blues
+right: Ajuan
+Wrong: 
+Value: $800
+Number: 27
+FIRST & LAST | A world capital, 10 letters: M--------o | Montevideo (Uruguay)
+right: 
+Wrong: Triple Stumper
+Amy: What is Montenegro?
+Value: $800
+Number: 13
+REMEMBRANCE OF THINGS PROUST | In "Remembrance of Things Past", Proust immortalized this shell-shaped cake that prompted a flood of memories | Madeleines
+right: Amy
+Wrong: 
+Value: $1000
+Number: 23
+OLYMPIC MASCOTS | The computer-generated "Whatizit" that symbolized the '96 games in Atlanta was called this for short | Izzy
+right: 
+Wrong: Triple Stumper
+Ajuan: Whatszit?
+Value: $1000
+Number: 16
+PEOPLE | This former head of the Urban League & of Bill Clinton's transition team testified on tape Feb. 2, 1999 | Vernon Jordan
+right: Ajuan
+Wrong: 
+Value: $1000
+Number: 30
+RUSSIAN "T" ROOM | In 1992 this news agency added ITAR to its name, for the Information-Telegraph Agency of Russia | TASS
+right: Mike
+Wrong: 
+Value: $1000
+Number: 9
+MUSICAL MUSICALS | The title of this '50s show refers to the phone calls taken by Sue Summers' answering service | Bells Are Ringing
+right: 
+Wrong: 
+Ajuan: What is "Telephone?"
+Value: DD: $500
+Number: 28
+FIRST & LAST | An 1881 assassin, 7 letters: G-----u | (Charles) Guiteau
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+Ajuan: $6,200
+Amy: $2,500
+Mike: $6,400
+
+Final Jeopardy! Round
+IN THE NEWS | In use from January 1, 1999, it's represented by the symbol seen here | the Euro
+right: Amy | Ajuan | Mike
+Wrong: 
+Wagers: 
+Amy: $0
+Ajuan: $1,199
+Mike: $6,001
+Final scores:
+Ajuan: $7,399 (2nd place: Panasonic 32" TV & Broyhill Entertainment Center)
+Amy: $2,500 (3rd place: Pair of Croton Watches)
+Mike: $12,401 (New champion: $12,401)
+
+Coryat scores
+Ajuan: $6,900 (18 R(including 1 DD),3 W(including 1 DD))
+Amy: $2,500 (11 R,3 W)
+Mike: $5,600 (17 R(including 1 DD),0 W)

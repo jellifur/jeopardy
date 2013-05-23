@@ -1,0 +1,265 @@
+2809 - Thursday, November 14, 1996
+Comments: 1996 Celebrity <i>Jeopardy!</i> game 4.
+Contestants:
+Eartha Kitt: an actress and singer from New York City
+Buzz Aldrin: a retired astronaut and author from the book Encounter with Tiber
+Brett Butler: an actress from Grace Under Fire
+First Jeopardy! Round: BEETHOVEN, SCHOOLS, BOOKS BY THE NUMBERS, FIRST AID, NATURE, THEY USED TO BE TRUCK DRIVERS
+BEETHOVEN | In English, this first name of Beethoven would be Lewis | Ludwig
+right: Eartha
+Wrong: 
+Value: $100
+Number: 14
+SCHOOLS | This university near South Bend, Indiana awards the Laetare Medal to a leading Roman Catholic | Notre Dame
+right: Buzz
+Wrong: 
+Value: $100
+Number: 4
+BOOKS BY THE NUMBERS | The number of Snow White's dwarfs or T.E. Lawrence's "Pillars of Wisdom" | 7
+right: Brett
+Wrong: 
+Value: $100
+Number: 13
+NATURE | Most insects have 2 pairs of these attached to their backs | wings
+right: Buzz
+Wrong: 
+Value: $100
+Number: 3
+THEY USED TO BE TRUCK DRIVERS | He was a Marine, a truck driver & a soda jerk before he starred in "The French Connection" | Gene Hackman
+right: Brett
+Wrong: 
+Eartha: Who is Stallone?
+Value: $100
+Number: 1
+BEETHOVEN | World Book says Beethoven was somewhat odd before he lost this sense & irritable after | hearing
+right: Brett
+Wrong: 
+Value: $200
+Number: 22
+SCHOOLS | Father Flanagan High School is operated by this facility just west of Omaha | Boys Town
+right: Buzz
+Wrong: 
+Value: $200
+Number: 7
+BOOKS BY THE NUMBERS | In this George Orwell classic, Big Brother is the dictator of Oceania | "1984"
+right: Brett
+Wrong: 
+Value: $200
+Number: 18
+NATURE | Eagles usually kill their prey with these body parts | talons
+right: Brett
+Wrong: 
+Value: $200
+Number: 11
+THEY USED TO BE TRUCK DRIVERS | This handsome leading man was a truck driver before he shared "Pillow Talk" with Doris Day | Rock Hudson
+right: Buzz
+Wrong: 
+Value: $200
+Number: 2
+SCHOOLS | At this Washington, D.C. college, Bill Clinton served as class president in his freshman & sophomore years | Georgetown
+right: Eartha
+Wrong: 
+Value: $300
+Number: 6
+BOOKS BY THE NUMBERS | This 1844 Dumas novel relates the adventures of Athos, Porthos, Aramis & D'Artagnan | "The Three Musketeers"
+right: Brett
+Wrong: 
+Value: $300
+Number: 19
+NATURE | A lack of this green pigment is one thing that separates fungi from other plants | chlorophyll
+right: Buzz
+Wrong: 
+Value: $300
+Number: 5
+THEY USED TO BE TRUCK DRIVERS | This current monarch drove a 3-ton truck & serviced motor engines during WWII 1992 is not a year on which I shall look back with undiluted pleasure. Whereas, one of my more sympathetic correspondents, it has turned out to be an Annus horribilis | Queen Elizabeth II
+right: Brett
+Wrong: 
+Value: DD: $500
+Number: 9
+SCHOOLS | Douglass College, the USA's largest women's college, is affiliated with this state university of New Jersey | Rutgers
+right: Buzz
+Wrong: 
+Value: $400
+Number: 15
+BOOKS BY THE NUMBERS | The title of this Joseph Heller novel has come to mean an impossible situation | "Catch-22"
+right: Brett
+Wrong: 
+Value: $400
+Number: 20
+NATURE | A chameleon can use this organ, almost as long as its body, to catch birds | tongue
+right: Brett
+Wrong: 
+Value: $400
+Number: 8
+THEY USED TO BE TRUCK DRIVERS | He drove a truck for an oil company long before he starred in "To Kill A Mockingbird" | Gregory Peck
+right: Buzz
+Wrong: 
+Value: $400
+Number: 10
+SCHOOLS | Laszlo Moholy-Nagy founded the Chicago Institute of Design on the principles of this Berlin design school | the Bauhaus
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+BOOKS BY THE NUMBERS | The "firemen" in this Ray Bradbury work don't put out fires, they set them by burning books | "Fahrenheit 451"
+right: Brett
+Wrong: 
+Value: $500
+Number: 21
+NATURE | The beak-to-tail measurement of the leatherback species of this sea creature can run about 7 feet | turtle
+right: Buzz
+Wrong: 
+Value: $500
+Number: 17
+THEY USED TO BE TRUCK DRIVERS | This British star of "Who Framed Roger Rabbit?" was formerly a truck driver, a steeplejack & a fire eater | Bob Hoskins
+right: Brett
+Wrong: 
+Value: $500
+Number: 12
+Scores at the first commercial break (after clue 15)
+Brett: $1,000
+Buzz: $900
+Eartha: $200
+Scores at the end of the Jeopardy! Round:
+Brett: $3,400
+Buzz: $2,200
+Eartha: $300
+Second Jeopardy! Round: U.S. HISTORY, AWARDS, LANGUAGES, MUSICAL THEATRE, BODIES OF WATER, POTPOURRI
+BODIES OF WATER | This largest ocean supplies about half of the world's yearly supply of fish & shellfish | the Pacific Ocean
+right: Brett
+Wrong: 
+Value: $200
+Number: 18
+U.S. HISTORY | The "New Frontier" was the domestic program of his 1961-63 administration | John F. Kennedy
+right: Brett
+Wrong: 
+Value: $400
+Number: 9
+BODIES OF WATER | Chief ports on this gulf include Kuwait City & Al Basrah, Iraq | the Persian Gulf
+right: Buzz
+Wrong: 
+Value: $400
+Number: 17
+U.S. HISTORY | In 1898, as a result of this war, the U.S. paid $20 million for the Philippines | the Spanish-American War
+right: 
+Wrong: 
+Brett: [no response]
+Value: DD: $4,400
+Number: 2
+AWARDS | In 1994 this "Far Side" creator won a Reuben Award as Best Cartoonist of the Year | Gary Larson
+right: Brett
+Wrong: 
+Value: $600
+Number: 19
+LANGUAGES | Of Hindi, Hungarian or Hebrew, the one spoken by more than 350 million people | Hindi
+right: Brett
+Wrong: 
+Value: $600
+Number: 3
+MUSICAL THEATRE | Act one of this show features the songs "Belle", "Be Our Guest" & "If I Can't Love Her" | Beauty and the Beast
+right: 
+Wrong: 
+Brett: What is "Showboat?"
+Value: DD: $3,200
+Number: 21
+BODIES OF WATER | The Chicago Sanitary & Ship Canal connects this Great Lake with the Mississippi River | Lake Michigan
+right: Brett
+Wrong: 
+Value: $600
+Number: 5
+POTPOURRI | At the 1996 burial of Larry LaPrise, this song's author, we guess they put his right foot in, put his right foot out... | the Hokey Pokey
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 20
+U.S. HISTORY | On April 19, 1993 the Branch Davidian compound near this Texas city burned to the ground after a 51-day siege | Waco
+right: Buzz
+Wrong: 
+Value: $800
+Number: 4
+AWARDS | In 1993 Frederik W. De Klerk & Nelson Mandela shared this award | Nobel Peace Prize
+right: Brett
+Wrong: 
+Value: $800
+Number: 13
+LANGUAGES | It was Greta Garbo's native language | Swedish
+right: Buzz
+Wrong: 
+Value: $800
+Number: 16
+MUSICAL THEATRE | Emily Loesser sang the part of Sarah Brown in a recent recording of this musical written by her father | Guys and Dolls
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+BODIES OF WATER | The German name for this lake on the border of Switzerland & France is Genfersee | Lake Geneva
+right: Brett
+Wrong: 
+Value: $800
+Number: 8
+POTPOURRI | He joined the Boston Symphony as a violinist in 1915 & began conducting in the '20s | Arthur Fiedler
+right: 
+Wrong: Triple Stumper
+Brett: Who is Arturo Toscanini?
+Eartha: Who is Yehudi Menuhin?
+Value: $800
+Number: 14
+U.S. HISTORY | In January 1946 this former first lady was the only woman on the U.S. delegation to the U.N. | Eleanor Roosevelt
+right: Buzz
+Wrong: 
+Value: $1000
+Number: 6
+AWARDS | In 1993 this retired black Supreme Court justice received a posthumous Presidential Medal of Freedom | Thurgood Marshall
+right: Brett
+Wrong: 
+Value: $1000
+Number: 10
+LANGUAGES | The Khoisan languages of this continent are noted for their clicking sounds | Africa
+right: 
+Wrong: Triple Stumper
+Brett: What is Southeast Asia?
+Buzz: What is Australia?
+Eartha: What is the Swahili language?
+Value: $1000
+Number: 11
+MUSICAL THEATRE | This Tony-winning 1992 musical starring Chita Rivera is based on a book by Manuel Puig | Kiss of the Spider Woman
+right: Brett
+Wrong: 
+Value: $1000
+Number: 12
+BODIES OF WATER | Relax, have a rum & enjoy the sun on Walter Fletcher Beach on this Jamaican bay | Montego Bay
+right: 
+Wrong: Triple Stumper
+Brett: What is Negril Beach?
+Eartha: What is Jamaica?
+Value: $1000
+Number: 7
+POTPOURRI | New ones of these in 1996 include 847 for Illinois & 330 for Ohio | area codes
+right: Brett
+Wrong: 
+Value: $1000
+Number: 1
+Scores at the end of the Double Jeopardy! Round:
+Brett: $0
+Buzz: $4,200
+Eartha: -$2,500
+
+Final Jeopardy! Round
+HISTORIC NAMES | In a 1935 poem this leader wrote, "The Red Army fears not the trials of the Long March" | Mao Tse-tung
+right: Brett
+Wrong: 
+Eartha: Who is
+Buzz: Who is Napoleon
+Wagers: 
+Eartha: $1,000
+Brett: $1,000
+Buzz: $3,000
+Final scores:
+Brett: $2,000 (Winner: $10,000 to charity)
+Buzz: $1,200 (2nd place: $10,000 to charity)
+Eartha: $0 (3rd place: $10,000 to the March of Dimes)
+
+Coryat scores
+Brett: $7,400 (21 R(including 1 DD),5 W(including 2 DDs))
+Buzz: $4,200 (12 R,1 W)
+Eartha: -$2,500 (2 R,4 W)

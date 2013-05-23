@@ -1,0 +1,338 @@
+3815 - Friday, March 16, 2001
+Contestants:
+Anne Volk: a boarding school teacher from LaPorte, Indiana
+Steve Deitsch: a network administrator from Boca Raton, Florida
+Raj Choudhary: a customer care manager from Houston, Texas (whose 3-day cash winnings total $26,800)
+First Jeopardy! Round: AYE!  IT'S IRELAND, PRESIDENTS IN THE CABINET, TV CASTS, GRAVE MATTERS, ARTISTS & THEIR WORKS, CELEBRITY RHYME TIME
+AYE!  IT'S IRELAND | Also called Trinity College, the university of this capital was founded in 1592 | Dublin
+right: Steve
+Wrong: 
+Value: $100
+Number: 25
+PRESIDENTS IN THE CABINET | While Secretary of State from 1811 to 1817, he might have been asked, "What's up, doctrine?" | James Monroe
+right: Steve
+Wrong: 
+Value: $100
+Number: 6
+TV CASTS | On "Spin City" Michael J. Fox played Mike; this actor who replaced him plays Charlie | Charlie Sheen
+right: Anne
+Wrong: 
+Value: $100
+Number: 1
+GRAVE MATTERS | In 1995 these married physicists were laid to rest (again), this time at the Pantheon in Paris | Pierre & Marie Curie
+right: Steve
+Wrong: 
+Value: $100
+Number: 11
+ARTISTS & THEIR WORKS | Robert Delaunay is known for his colorful series of Cubist paintings of this French tower | Eiffel Tower
+right: Anne
+Wrong: 
+Value: $100
+Number: 16
+CELEBRITY RHYME TIME | Aykroyd's blueprints | Dan's plans
+right: Anne
+Wrong: 
+Value: $100
+Number: 13
+AYE!  IT'S IRELAND | Held each year in County Kildare, the Irish Derby is a famous event in this sport | Horse racing
+right: Anne
+Wrong: 
+Value: $200
+Number: 26
+PRESIDENTS IN THE CABINET | While Secretary of State from 1801 to 1809, he was president from 1809 to 1817 | James Madison
+right: Raj
+Wrong: 
+Value: $200
+Number: 7
+TV CASTS | In 2000 this Oscar nominee joined the cast of "Ally McBeal" as a lawyer | Robert Downey, Jr.
+right: Anne
+Wrong: 
+Value: $200
+Number: 2
+GRAVE MATTERS | In 2000, 25 years after his death, this country's last emperor Haile Selassie was laid to rest in a crypt in Addis Ababa | Ethiopia
+right: Anne
+Wrong: 
+Value: $200
+Number: 12
+ARTISTS & THEIR WORKS | Oh oh!  Chauncey B. Ives depicted this mythological woman seen here on the verge of opening a box | Pandora
+right: Raj
+Wrong: 
+Value: $200
+Number: 19
+CELEBRITY RHYME TIME | Sajak's Stetsons & sombreros | Pat's hats
+right: Steve
+Wrong: 
+Value: $200
+Number: 14
+AYE!  IT'S IRELAND | Reflecting its lush, beautiful countryside. it's Ireland's gem of a nickname | "The Emerald Isle"
+right: Raj
+Wrong: 
+Value: $300
+Number: 27
+PRESIDENTS IN THE CABINET | Through skillful negotiation, Secretary of State Martin Van Buren got the U.S. this trade status with Turkey | Most favored nation
+right: Raj
+Wrong: 
+Value: $300
+Number: 8
+TV CASTS | Aliens abducted Mulder on "The X-Files", so Scully got partnered with this "Terminator 2" actor | Robert Patrick
+right: Raj
+Wrong: 
+Value: $300
+Number: 3
+GRAVE MATTERS | It was no laughing matter when this silent film legend's body was stolen from a Swiss cemetery in 1978 | Charlie Chaplin
+right: Anne
+Wrong: 
+Value: $300
+Number: 22
+ARTISTS & THEIR WORKS | Marcel Duchamp coined this term to describe Alexander Calder's moving sculptures | Mobiles
+right: Raj
+Wrong: 
+Value: $300
+Number: 20
+CELEBRITY RHYME TIME | The vistas seen from Ms. Barrymore's home | Drew's views
+right: Steve
+Wrong: 
+Value: $300
+Number: 15
+AYE!  IT'S IRELAND | One of Ireland's most important exports, it's also Ireland's most popular brand of stout beer | Guinness
+right: Raj
+Wrong: 
+Value: $400
+Number: 28
+PRESIDENTS IN THE CABINET | As Secretary of State, John Quincy Adams told this country to govern Florida better or cede it to the U.S. | Spain
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+TV CASTS | This tap dancer has a recurring role on "Will & Grace" as Eric McCormack's boss | Gregory Hines
+right: Anne
+Wrong: 
+Value: $400
+Number: 4
+GRAVE MATTERS | Wayne Newton hopes to find the remains of this tribal ancestor in Britain & bring them home to her native Virginia | Pocahontas
+right: Anne
+Wrong: 
+Value: $400
+Number: 23
+ARTISTS & THEIR WORKS | Conrad Witz depicted this wealthy queen with King Solomon in the 15th C. work seen here | Queen of Sheba
+right: Anne
+Wrong: 
+Value: $400
+Number: 21
+CELEBRITY RHYME TIME | Harrelson's yummies | Woody's goodies
+right: Steve
+Wrong: 
+Value: $400
+Number: 17
+AYE!  IT'S IRELAND | Ireland's national coat of arms features this traditional Irish musical instrument | Harp
+right: Anne
+Wrong: 
+Value: $500
+Number: 29
+PRESIDENTS IN THE CABINET | He wasn't a Secretary of State, he was Andrew Johnson's Secretary of War in 1867 & 1868 | Ulysses S. Grant
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 10
+TV CASTS | In 2000 this rapper-turned-actor joined the cast of "Law & Order:  Special Victims Unit" as Richard Belzer's partner | Ice-T
+right: Steve
+Wrong: 
+Value: $500
+Number: 5
+GRAVE MATTERS | Thomas Crawford's best-known work, "Armed Liberty", is the bronze atop the dome of this American landmark | U.S. Capitol Building
+right: Raj
+Wrong: 
+Value: $500
+Number: 30
+ARTISTS & THEIR WORKS | In Salzburg you can visit the graves of his parents & his wife Constanze; his own location is uncertain | W.A. Mozart
+right: Anne
+Wrong: 
+Value: $500
+Number: 24
+CELEBRITY RHYME TIME | Hairdresser Vidal's woodwinds | Sassoon's bassoons
+right: Steve
+Wrong: 
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Raj: $800
+Steve: $600
+Anne: $1,000
+Scores at the end of the Jeopardy! Round:
+Raj: $1,600
+Steve: $1,200
+Anne: $2,900
+Second Jeopardy! Round: "GREEN" THINGS, LITERARY CHARACTERS, AVIARY, NUTRITION, MOVIE SONGS, OXYMORONS
+"GREEN" THINGS | It's the body part you're said to have if you've a knack for growing plants easily | a green thumb
+right: Anne
+Wrong: 
+Value: $200
+Number: 1
+LITERARY CHARACTERS | He said, "My mother was an ape, and of course she couldn't tell me much about it" | Tarzan
+right: Steve
+Wrong: 
+Anne: Who is King Kong?
+Value: $200
+Number: 2
+AVIARY | Perhaps "imitating" Florida, in 1929 Arkansas chose this as its state bird | mockingbird
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 25
+NUTRITION | For an active woman, 20 to 25 percent of her total calorie intake should be from this; don't go all Jack Sprat | fat
+right: Anne
+Wrong: 
+Value: $200
+Number: 23
+MOVIE SONGS | 1996: "Don't Cry For Me, Argentina" | Evita
+right: Raj
+Wrong: 
+Value: $200
+Number: 14
+OXYMORONS | The "double" version of this card game for one requires 2 players | solitaire
+right: Steve
+Wrong: 
+Value: $200
+Number: 6
+"GREEN" THINGS | After protecting this territory during WWII, the U.S. offered to buy it, but Denmark refused | Greenland
+right: Raj
+Wrong: 
+Value: $400
+Number: 9
+LITERARY CHARACTERS | In "A Connecticut Yankee in King Arthur's Court", his character puts Hank Morgan to sleep for 1,300 years | Merlin
+right: Steve
+Wrong: 
+Value: DD: $1,000
+Number: 3
+AVIARY | Bob Hope claimed his mother saw his nose & cried that the doctor took the baby & left this bird | stork
+right: Steve
+Wrong: 
+Anne: What is a pelican?
+Value: $400
+Number: 26
+NUTRITION | It's good to break a little this between friends--it supplies carbs & fiber | bread
+right: Steve
+Wrong: 
+Value: $400
+Number: 22
+MOVIE SONGS | 1995: "Exhale (Shoop Shoop)" | Waiting to Exhale
+right: Anne
+Wrong: 
+Value: $400
+Number: 15
+OXYMORONS | In November 1996 Roy Jones, Jr. knocked down Mike McCallum & won the WBC title in this division | light-heavyweight
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+"GREEN" THINGS | A political party organized after the Civil War, or a piece of U.S. currency | Greenback
+right: Steve
+Wrong: 
+Value: $600
+Number: 10
+LITERARY CHARACTERS | He tells his 10-year-old sister Phoebe that he wants to be a "catcher in the rye" | Holden Caulfield
+right: Anne
+Wrong: 
+Value: $600
+Number: 4
+AVIARY | Unit of Random House whose logo is seen <http://www.j-archive.com/media/2001-03-16_DJ_27.jpg> here: | Bantam Books
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+NUTRITION | People with hypertension should diet & limit their intake of alcohol & this chemical element | sodium
+right: Raj
+Wrong: 
+Value: $600
+Number: 19
+MOVIE SONGS | 1991: "(Everything I Do) I Do It For You" | Robin Hood: Prince of Thieves
+right: Raj
+Wrong: 
+Value: $600
+Number: 16
+OXYMORONS | The American Academy of Pediatrics called smoking "The leading cause of" this oxymoron in the U.S. | preventable death
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+"GREEN" THINGS | Oh yes, this North Carolina city was the birthplace of O. Henry | Greensboro
+right: Raj
+Wrong: 
+Value: $800
+Number: 11
+LITERARY CHARACTERS | Emma is the first name of this title character of an 1857 Gustave Flaubert novel | Madame Bovary
+right: Raj
+Wrong: 
+Value: $800
+Number: 5
+AVIARY | The "sky" type of this songbird, of which Shelley wrote, may be gone from Britain by 2009 | skylark
+right: Anne
+Wrong: 
+Steve: What is a mockingbird?
+Value: $800
+Number: 28
+NUTRITION | The flavonoids in this may help prevent heart disease, so a "kiss" a day may keep the cardiologist away | chocolate
+right: 
+Wrong: 
+Raj: What is lipstick?
+Value: DD: $2,000
+Number: 20
+MOVIE SONGS | 1969: "Everybody's Talkin'" | Midnight Cowboy
+right: Raj
+Wrong: 
+Value: $800
+Number: 17
+OXYMORONS | Roberto Benigni's film "Life Is Beautiful" is a beautiful example of this oxymoronic genre | tragic comedy
+right: 
+Wrong: Triple Stumper
+Steve: What is a dramedy?
+Value: $800
+Number: 24
+"GREEN" THINGS | A precocious redhaired little girl is the heroine of this 1908 children's book by Lucy Maud Montgomery | Anne of Green Gables
+right: 
+Wrong: Triple Stumper
+Steve: What is How Green Was My Valley?
+Anne: What is Green Mansions?
+Value: $1000
+Number: 12
+LITERARY CHARACTERS | This Sinclair Lewis real estate broker is a member of the Zenith civic booster club | George Babbitt
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 8
+NUTRITION | An ounce of cheddar cheese has 200 milligrams of this, crucial to healthy bones | calcium
+right: Raj
+Wrong: 
+Value: $1000
+Number: 21
+MOVIE SONGS | 1985: "We Don't Need Another Hero" | Mad Max Beyond Thunderdome
+right: 
+Wrong: Triple Stumper
+Raj: What is Mad Max?
+Anne: What is Beyond Thunderdome?
+Value: $1000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Raj: $3,800
+Steve: $1,400
+Anne: $2,500
+
+Final Jeopardy! Round
+SPORTS NAME ORIGINS | This racket sport takes its name from the country home of the 19th century Duke of Beaufort | Badminton
+right: Steve
+Wrong: 
+Anne: What is [badmint] la crosse
+Raj: What is squash
+Wagers: 
+Steve: $1,000
+Anne: $500
+Raj: $1,200
+Final scores:
+Raj: $2,600 (4-day champion: $29,400)
+Steve: $2,400 (2nd place: a trip to London courtesy of Priceline.com)
+Anne: $2,000 (3rd place: a Fisher home entertainment system)
+
+Coryat scores
+Raj: $5,800 (16 R,4 W(including 1 DD))
+Steve: $1,800 (15 R(including 1 DD),5 W(including 1 DD))
+Anne: $2,500 (17 R,5 W)

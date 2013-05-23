@@ -1,0 +1,352 @@
+4606 - Monday, September 20, 2004
+Comments: 2004 Tournament of Champions quarterfinal game 1.
+Contestants:
+Keith Williams: a college student from Manchester, Vermont
+Sam Ott: a graduate student from Los Angeles, California
+Arthur Gandolfi: a commercial real estate executive from Pleasantville, New York
+First Jeopardy! Round: IMAGINARY RACES, CHAMPIONSHIP MOVIES, NAMED FOR A FRENCH KING'S MISTRESS, ALSO A CURRENT SUPREME COURT JUSTICE, ADD A "PIN"CH, FOR GOOD MEASURE
+IMAGINARY RACES | We're not sure what race this monster & his mom were, but they both sure gave Beowulf a run for his money | Grendel
+right: Arthur
+Wrong: 
+Value: $200
+Number: 21
+CHAMPIONSHIP MOVIES | This Gene Hackman hoop movie was called "Best Shot" in Europe due to fears that no one would understand the U.S. Title | Hoosiers
+right: Arthur
+Wrong: 
+Value: $200
+Number: 1
+NAMED FOR A FRENCH KING'S MISTRESS | The lavaliere, a type of pendant, is named for the Duchesse de la Valliere, who romanced this "sun king" | Louis XIV
+right: Arthur
+Wrong: 
+Value: $200
+Number: 16
+ALSO A CURRENT SUPREME COURT JUSTICE | A homophone of a man trying to convince a woman to marry him | Souter
+right: Sam
+Wrong: 
+Value: $200
+Number: 6
+ADD A "PIN"CH | This leafy green vegetable originated in Southwest Asia & was considered a medicine by Persians | spinach
+right: Arthur
+Wrong: 
+Value: $200
+Number: 11
+FOR GOOD MEASURE | 640 acres equal a square this | a mile
+right: Arthur
+Wrong: 
+Value: $200
+Number: 26
+IMAGINARY RACES | Hesiod mentions 3 of these fearsome creatures: Stheno, Euryale & Medusa | Gorgons
+right: Keith
+Wrong: 
+Value: $400
+Number: 22
+CHAMPIONSHIP MOVIES | Mickey Rooney played an English rider in this 1944 film that jockeys Liz Taylor into position for the Grand National | National Velvet
+right: Sam
+Wrong: 
+Value: $400
+Number: 2
+NAMED FOR A FRENCH KING'S MISTRESS | This king may have called Madame de Pompadour his little lamb chop; a tasty lamb dish is named for her | Louis XV
+right: Arthur
+Wrong: 
+Value: $400
+Number: 17
+ALSO A CURRENT SUPREME COURT JUSTICE | Name on the award received by Lauren Bacall & Jessye Norman in December 1997 in Washington, D.C. | Kennedy
+right: Sam
+Wrong: 
+Value: $400
+Number: 7
+ADD A "PIN"CH | The type of bowling done on the PBA circuit, or one of the objects you'd aim your ball at | tenpin
+right: Keith
+Wrong: 
+Value: $400
+Number: 12
+FOR GOOD MEASURE | 604,800 seconds equal one of these | a week
+right: Arthur
+Wrong: 
+Sam: What is a year?
+Keith: What is a day?
+Value: $400
+Number: 27
+IMAGINARY RACES | Meaning "old man of the desert", Shai-Halud is the term for the giant worms of Arrakis in this novel & its sequels | Dune
+right: Sam
+Wrong: 
+Value: $600
+Number: 23
+CHAMPIONSHIP MOVIES | Dennis Christopher battled Italians & locals en route to Indiana's little 500 cycling championship in this 1979 film | Breaking Away
+right: Arthur
+Wrong: 
+Value: $600
+Number: 3
+NAMED FOR A FRENCH KING'S MISTRESS | A Fontange is a lace-&-ribbon headdress named for the Duchesse de Fontanges, a paramour of this long-reigning king | Louis XIV
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+ALSO A CURRENT SUPREME COURT JUSTICE | Sounds like the last name of a sitcom witch | Stevens
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+ADD A "PIN"CH | In order to remain independent, this 17th C. Dutch philosopher declined a professorship & a pension | Spinoza
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+FOR GOOD MEASURE | It can be a few drops or exactly 1/16 of a teaspoon | a dash
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+IMAGINARY RACES | The aliens in this Mandy Patinkin movie that later became a TV series were called Newcomers | Alien Nation
+right: Sam
+Wrong: 
+Value: $800
+Number: 24
+CHAMPIONSHIP MOVIES | On the night of a big boxing championship Nicolas Cage gets caught up in an assassination plot in this movie | Snake Eyes
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+NAMED FOR A FRENCH KING'S MISTRESS | An elegant silver pattern was named for Madame du Barry, famed for her liaison with this king | Louis XV
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+ALSO A CURRENT SUPREME COURT JUSTICE | Founder of an ice cream company in 1866 | Breyer
+right: 
+Wrong: 
+Sam: Who is Robbins?
+Value: DD: $500
+Number: 9
+ADD A "PIN"CH | A green woodpecker or a vain, pretentious chatterbox | popinjay
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+FOR GOOD MEASURE | 33.8 fluid ounces equal one of these | a liter
+right: Keith
+Wrong: 
+Value: $800
+Number: 29
+IMAGINARY RACES | Doozers were builders & Gorgs were giants, 7 times bigger than these furry beings created for TV by Jim Henson | Fraggles
+right: Sam
+Wrong: 
+Value: $1000
+Number: 25
+CHAMPIONSHIP MOVIES | Jane Fonda tries to become a dance marathon champ in this Depression-era depresser that got 9 Oscar noms | They Shoot Horses, Don't They
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+NAMED FOR A FRENCH KING'S MISTRESS | A fancy sleeve style was named for the Marquise de Montespan, who began dallying with this King around 1667 | Louis XIV
+right: Arthur
+Wrong: 
+Keith: Who was Louis XVI?
+Value: $1000
+Number: 20
+ALSO A CURRENT SUPREME COURT JUSTICE | Mr. Hobbes or Mr. Malthus | Thomas
+right: Keith
+Wrong: 
+Value: $1000
+Number: 10
+ADD A "PIN"CH | It's a pair of glasses kept on the face by a spring that grips the nose | pince-nez
+right: Arthur
+Wrong: 
+Value: $1000
+Number: 15
+FOR GOOD MEASURE | It takes 1,055 joules to equal 1 "British" one | a British Thermal Unit
+right: Arthur
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Arthur: $2,000
+Sam: $500
+Keith: $1,400
+Scores at the end of the Jeopardy! Round:
+Arthur: $5,400
+Sam: $2,500
+Keith: $1,200
+Second Jeopardy! Round: LET'S VISIT BOTSWANA, TV TITLE PAIRS, BIRTHIN' BABIES, BUSINESS, POLITICIANS, "TOC"
+LET'S VISIT BOTSWANA | The shield on Botswana's coat of arms is supported by 2 of these equines | zebras
+right: Arthur
+Wrong: 
+Value: $400
+Number: 24
+TV TITLE PAIRS | Paul Michael Glaser & David Soul | Starsky & Hutch
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 1
+BIRTHIN' BABIES | To an expectant mom, PROM stands for premature rupture of these & it means you should get to the hospital, quick! | a membrane
+right: Arthur
+Wrong: 
+Value: $400
+Number: 6
+BUSINESS | (<http://www.j-archive.com/media/2004-09-20_DJ_14.jpg> Hi, I'm Bill Rancic of The Apprentice.)  My prize involves helming the work of Mr. Trump's new Chicago hotel, planned for the site of this newspaper's old building | the Sun-Times
+right: Arthur
+Wrong: 
+Keith: What is the Tribune?
+Value: $400
+Number: 14
+POLITICIANS | Congressman Richard A. Gephardt represents this state's third Congressional district | Missouri
+right: Arthur
+Wrong: 
+Value: $400
+Number: 7
+"TOC" | Noun meaning the customs of diplomatic etiquette or formality | protocol
+right: Arthur
+Wrong: 
+Value: $400
+Number: 19
+LET'S VISIT BOTSWANA | The 2 most commonly used languages in Botswana are Setswana & this official one | English
+right: Arthur
+Wrong: 
+Keith: What is Swahili?
+Value: $800
+Number: 25
+TV TITLE PAIRS | Faith Ford & Kelly Ripa | Hope & Faith
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+BIRTHIN' BABIES | The Apgar score rates 5 features of a newborn: heart rate, breathing, muscle tone, reflex irritability & this | color of the skin
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+BUSINESS | Founded in 1930, Publix is the largest & fastest-growing employee-owned chain of this kind of store | a supermarket
+right: Keith
+Wrong: 
+Value: $800
+Number: 15
+POLITICIANS | 1 of 3 Texans to serve as Speaker of the House | Sam Rayburn (or Jim Wright or John Gardner)
+right: Arthur
+Wrong: 
+Keith: Who is Newt Gingrich?
+Value: $800
+Number: 8
+"TOC" | A composition for a keyboard instrument generally characterized by running passages | toccata
+right: Keith
+Wrong: 
+Value: $800
+Number: 20
+LET'S VISIT BOTSWANA | The inhabitants of Botswana called the San are also known by this name that could apply to Cheney & Ashcroft | Bushmen
+right: 
+Wrong: Triple Stumper
+Sam: Uh, what are Dick?
+Value: $1200
+Number: 26
+TV TITLE PAIRS | Jameson Parker & Gerald McRaney | Simon & Simon
+right: 
+Wrong: Triple Stumper
+Sam: What is Coach?
+Value: $1200
+Number: 3
+BIRTHIN' BABIES | From the Greek for "out of place", it's the term for a pregnancy that develops in the Fallopian tube | ectopic
+right: Arthur
+Wrong: 
+Value: $1200
+Number: 13
+BUSINESS | GEICO insurance & Fruit of the Loom are among the many subsidiaries of this Warren Buffett holding company | Berkshire Hathaway
+right: Arthur
+Wrong: 
+Value: $1200
+Number: 16
+POLITICIANS | The USA's lowest-paid governor, Mike Johanns, earns $65,000 in Lincoln as chief executive of this state | Nebraska
+right: Keith
+Wrong: 
+Value: $1200
+Number: 9
+"TOC" | Sociologist Michael Young coined this term for a system that rewards the talented | meritocracy
+right: Arthur
+Wrong: 
+Value: $1200
+Number: 21
+LET'S VISIT BOTSWANA | Botswana's economy is closely tied to this country with which it shares its longest border | South Africa
+right: Arthur
+Wrong: 
+Value: DD: $600
+Number: 27
+TV TITLE PAIRS | Brian Keith & Daniel Hugh-Kelly | Hardcastle & McCormick
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+BIRTHIN' BABIES | This forerunner to breast milk produced in late pregnancy has less sugar & more protein than mature milk | colostrum
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+BUSINESS | A broken printer ribbon on a holiday weekend compelled Tom Stemberg to found this office supply superstore | Staples
+right: Sam
+Wrong: 
+Value: $1600
+Number: 17
+POLITICIANS | Currently, this senator from New England is the only declared independent in the U.S. Senate | Jim Jeffords
+right: Keith
+Wrong: 
+Value: $1600
+Number: 10
+"TOC" | An organelle in the cytoplasm of cells that functions in energy production | mitochondria
+right: Keith
+Wrong: 
+Value: $1600
+Number: 22
+LET'S VISIT BOTSWANA | In 1965 Botswana's seat of government was transferred from Mafeking to this city | Gaborone
+right: Keith
+Wrong: 
+Value: $2000
+Number: 30
+TV TITLE PAIRS | Juliet Mills & Richard Long | Nanny and the Professor
+right: 
+Wrong: Triple Stumper
+Sam: What is McMillan and Wife?
+Value: $2000
+Number: 5
+BIRTHIN' BABIES | This American obstetrician's natural childbirth method brought the father into the delivery room as a labor coach | Robert Bradley
+right: 
+Wrong: 
+Arthur: What is Lamaze?
+Value: DD: $1,000
+Number: 29
+BUSINESS | An audio oscillator was the first product from this company, founded by 2 Stanford classmates in 1939 | Hewlett-Packard
+right: Arthur
+Wrong: 
+Value: $2000
+Number: 18
+POLITICIANS | On December 9, 2003 he won a run-off election against Matt Gonzalez to become mayor of San Francisco | Gavin Newsom
+right: Sam
+Wrong: 
+Value: $2000
+Number: 11
+"TOC" | A bell used to sound an alarm or signal | a tocsin
+right: Arthur
+Wrong: 
+Value: $2000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Arthur: $16,200
+Sam: $1,700
+Keith: $7,200
+
+Final Jeopardy! Round
+ART SUBJECTS | Seen in sculpture, Eustache de St. Pierre & 5 other wealthy men made themselves hostages to free this city | Calais (from Rodin's The Burghers of Calais
+right: 
+Wrong: 
+Sam: What is Paris?
+Keith: What is Berlin?
+Arthur: What is Bruges?
+Wagers: 
+Sam: $1,700
+Keith: $3,700
+Arthur: $0
+Final scores:
+Arthur: $16,200 (Automatic semifinalist)
+Sam: $0 (3rd place: $5,000)
+Keith: $3,500 (2nd place: $5,000)
+
+Coryat scores
+Arthur: $18,200 (24 R(including 1 DD),1 W(including 1 DD))
+Sam: $2,200 (8 R,5 W(including 1 DD))
+Keith: $7,200 (10 R,5 W)

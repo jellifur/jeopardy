@@ -1,0 +1,345 @@
+1424 - Thursday, November 8, 1990
+Comments: 1990 Tournament of Champions quarterfinal game 4.
+Contestants:
+Lisa Guay: a homemaker from Champlain, New York
+Erik Larsen: a graduate student from Ann Arbor, Michigan
+Richard Neale: a taxpayers' service representative from Concord, California
+First Jeopardy! Round: "M" TV, WORLD HISTORY, WEATHER, LANGUAGES, GEMS, FRIENDLY PHRASES
+"M" TV | The novel it was derived from was written by a doctor who'd actually served in the Korean War | M*A*S*H
+right: Richard
+Wrong: 
+Value: $100
+Number: 11
+WORLD HISTORY | Peter the Great abolished the aristocratic Boyar class in this country | Russia
+right: Lisa
+Wrong: 
+Value: $100
+Number: 1
+WEATHER | An anemometer is an instrument used to measure the speed of this | wind
+right: Richard
+Wrong: 
+Value: $100
+Number: 12
+LANGUAGES | More people in county Galway speak this language than in any other county | Irish Gaelic
+right: Erik
+Wrong: 
+Value: $100
+Number: 3
+GEMS | The name of this gemstone came from the Greek "Smaragdos", which probably meant any green stone | the emerald
+right: Richard
+Wrong: 
+Value: $100
+Number: 17
+FRIENDLY PHRASES | He is "a friend indeed" | a friend in need
+right: Richard
+Wrong: 
+Value: $100
+Number: 18
+"M" TV | In a 1987 show, Matt Frewer played a dual role, Edison Carter & this title character | Max Headroom
+right: Richard
+Wrong: 
+Value: $200
+Number: 27
+WORLD HISTORY | Alessandro, the first Duke of Florence, was an illegitimate member of this family | the Medicis
+right: Erik
+Wrong: 
+Value: $200
+Number: 2
+WEATHER | The THI, it tells you exactly how miserable you are on a hot summer day | the temperature-humidity index
+right: Richard
+Wrong: 
+Value: $200
+Number: 13
+LANGUAGES | Gullah is still spoken by some blacks in this country | the United States
+right: Erik
+Wrong: 
+Value: $200
+Number: 4
+GEMS | The 787-carat Great Mogul Diamond was the largest found in this country | India
+right: Erik
+Wrong: 
+Value: $200
+Number: 23
+FRIENDLY PHRASES | Finishes the saying, "Friendship is a plant which must be often..." | watered
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+"M" TV | Edith Bunker's caustic cousin | Maude
+right: Lisa
+Wrong: 
+Value: $300
+Number: 28
+WORLD HISTORY | During the Napoleonic Wars, the royal family of Portugal fled to this colony | Brazil
+right: Erik
+Wrong: 
+Value: DD: $300
+Number: 8
+WEATHER | Word used to describe rain, snow or fog with a pH value of less than 5.6 | acid rain
+right: Richard
+Wrong: 
+Value: $300
+Number: 14
+LANGUAGES | The Ciceronian Age followed by the Augustan Age created the Golden Age of literature in this language | Latin
+right: Erik
+Wrong: 
+Value: $300
+Number: 5
+GEMS | Many of the red stones are classified as the "fire" variety of this fiery gem come from Mexico | opals
+right: Erik
+Wrong: 
+Value: $300
+Number: 24
+FRIENDLY PHRASES | Christ said, "Greater love hath no man" than to do this "for his friends" | to give up his life (or to lay down his life)
+right: Lisa
+Wrong: 
+Value: $300
+Number: 20
+"M" TV | In 1970-71 this show about an M.D. became the first ABC series to rank No. 1 for a full season | Marcus Welby, M.D.
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+WORLD HISTORY | This German-born archaeologist made a fortune in the Crimean War, which allowed him to look for Troy | (Heinrich) Schliemann
+right: Richard
+Wrong: 
+Value: $400
+Number: 9
+WEATHER | The Rocky Mountain equivalent of the Alpine wind called a foehn | the chinook
+right: Richard
+Wrong: 
+Value: $400
+Number: 15
+LANGUAGES | R. Tagore, who won the Nobel Prize in literature, wrote in this language of Bangladesh | Bengali
+right: 
+Wrong: Triple Stumper
+Richard: What is Punjabi?
+Value: $400
+Number: 6
+GEMS | Rubies are a form of this stone, the hardest in the world after diamond | corundum
+right: Erik
+Wrong: 
+Value: $400
+Number: 25
+FRIENDLY PHRASES | "Prosperity makes friends" but this "tries them" | adversity
+right: Richard
+Wrong: 
+Value: $400
+Number: 21
+"M" TV | This show's first season included a 12-part presentation of "The First Churchills" | Masterpiece Theatre
+right: Erik
+Wrong: 
+Value: $500
+Number: 30
+WORLD HISTORY | More than 1 million turned out for his funeral procession in the Philippines August 31, 1983 | Benigno Aquino
+right: Lisa
+Wrong: 
+Value: $500
+Number: 10
+WEATHER | The Humboldt Current is also called this, for the S. American country off the coast it's found | Peru (current)
+right: Richard
+Wrong: 
+Value: $500
+Number: 16
+LANGUAGES | Hausa, Yoruba & Ibo are the principal African languages spoken in this country | Nigeria
+right: Erik
+Wrong: 
+Value: $500
+Number: 7
+GEMS | According to Britannica, this August birthstone is also called precious olivine | peridot
+right: Lisa
+Wrong: 
+Richard: What is ruby?
+Value: $500
+Number: 26
+FRIENDLY PHRASES | Friends are "the thieves" of this | time
+right: Richard
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Richard: $400
+Erik: $1,600
+Lisa: $600
+Scores at the end of the Jeopardy! Round:
+Richard: $2,600
+Erik: $3,000
+Lisa: $1,700
+Second Jeopardy! Round: POETRY, FAMOUS GERMANS, FOOD, REPUBLICANS, ISLANDS, MUSICAL THEATER
+POETRY | Poe wrote, "They tinkle, tinkle, tinkle, in the icy air of night!" | the bells
+right: Richard
+Wrong: 
+Value: $200
+Number: 24
+FAMOUS GERMANS | Jacob was born into this family in 1785 & his brother Wilhelm in 1786 & we're not telling tales | Grimm
+right: Richard
+Wrong: 
+Value: $200
+Number: 13
+FOOD | When spaghetti is cooked "al dente", it means it's firm to this body part | the teeth
+right: Erik
+Wrong: 
+Value: $200
+Number: 3
+REPUBLICANS | He was the first man in Indiana history to get more than 60% of the votes for senator, in 1986 | Dan Quayle
+right: Erik
+Wrong: 
+Value: $200
+Number: 5
+ISLANDS | This barren Italian island became famous after a fictional "Count" uncovered a treasure there | Monte Cristo
+right: Erik
+Wrong: 
+Value: $200
+Number: 7
+MUSICAL THEATER | In 1967 Pearl Bailey led an all-black cast in this musical | Hello, Dolly!
+right: Lisa
+Wrong: 
+Value: $200
+Number: 1
+POETRY | This Illinois poet wrote what many consider to be the definitive biography of Abraham Lincoln | Carl Sandburg
+right: Richard
+Wrong: 
+Value: $400
+Number: 27
+FAMOUS GERMANS | Her sister-in-law Anett Potzsch is also an Olympic gold medalist in figure skating | Katarina Witt
+right: Richard
+Wrong: 
+Value: $400
+Number: 14
+FOOD | Pumpernickel bread is made primarily of this grain | rye
+right: Richard
+Wrong: 
+Value: $400
+Number: 4
+REPUBLICANS | Christian Herter succeeded this man as Eisenhower's Secretary of State | John Foster Dulles
+right: Richard
+Wrong: 
+Value: $400
+Number: 22
+ISLANDS | Once called Oyster Island, it became part of the Statue of Liberty nat'l monument in 1965 | Ellis Island
+right: Richard
+Wrong: 
+Value: $400
+Number: 18
+MUSICAL THEATER | In this musical based on a Roger Corman film, no one heeds the musical warning, "Don't feed the plants!" | Little Shop of Horrors
+right: Erik
+Wrong: 
+Value: $400
+Number: 2
+POETRY | He wrote, "Home is the place where, when you have to go there, they have to take you in" | Robert Frost
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+FAMOUS GERMANS | German who designed the Me-262, the first jet plane used in war | Willy Messerschmitt
+right: Richard
+Wrong: 
+Value: $600
+Number: 15
+FOOD | It's the culinary term for burnt sugar or a candy made from browned sugar | caramel
+right: Richard
+Wrong: 
+Value: $600
+Number: 6
+REPUBLICANS | The grandson of this longtime Philadelphia A's manager has been Florida's junior senator since 1989 | Connie Mack
+right: Erik
+Wrong: 
+Value: $600
+Number: 23
+ISLANDS | One of Iowa's quad cities & a railroad bear the name of this island | Rock Island
+right: Erik
+Wrong: 
+Value: $600
+Number: 19
+MUSICAL THEATER | In 1990 this ex-TV cop won a Tony for her Broadway role as Gypsy's mom | Tyne Daly
+right: Lisa
+Wrong: 
+Value: $600
+Number: 10
+POETRY | This 1928 poem by Stephen Vincent Benet includes lines from the song "Dixie" | "John Brown's Body"
+right: Richard
+Wrong: 
+Value: DD: $900
+Number: 29
+FAMOUS GERMANS | German director Wim Wenders cast her in her 1st film, "The Wrong Move", & used her again in "Paris, Texas" | Nastassja Kinski
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+FOOD | Halal meat is slaughtered according to the laws of this religion | Islam
+right: Erik
+Wrong: 
+Value: $800
+Number: 8
+REPUBLICANS | Nixon's running mate in 1960, he was ambassador to South Vietnam under JFK & LBJ | (Henry Cabot) Lodge
+right: Richard
+Wrong: 
+Value: $800
+Number: 25
+ISLANDS | 3 of the 4 islands that make up the Greater Antilles | (3 of) Cuba, Jamaica, Hispaniola, Puerto Rico
+right: Erik
+Wrong: 
+Value: DD: $1,500
+Number: 20
+MUSICAL THEATER | As the witch, P. Rashad went "Into the Woods" on Broadway to sing this composer's ditties | (Stephen) Sondheim
+right: Erik
+Wrong: 
+Value: $800
+Number: 11
+POETRY | While in prison he wrote, "I could not love thee, dear, so much, loved I not honor more" | Richard Lovelace
+right: 
+Wrong: Triple Stumper
+Erik: Who was Oscar Wilde?
+Lisa: Who was Milton?
+Value: $1000
+Number: 30
+FAMOUS GERMANS | 19th century German whose name is synonymous with guidebook | Baedeker
+right: Richard
+Wrong: 
+Value: $1000
+Number: 17
+FOOD | The herb also called Chinese parsley or fresh coriander is called this in Mexican cooking | cilantro
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 9
+REPUBLICANS | In 1984, the year after he switched to the G.O.P., he was elected a senator from Texas | Phil Gramm
+right: Erik
+Wrong: 
+Value: $1000
+Number: 26
+ISLANDS | Named for a fire god, Surtsey emerged from the Atlantic in '63 & became part of this country | Iceland
+right: Richard
+Wrong: 
+Value: $1000
+Number: 21
+MUSICAL THEATER | This actress, who originated the role of Anna in "The King & I", died during its run in 1952 | Gertrude Lawrence
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Richard: $9,900
+Erik: $8,300
+Lisa: $2,500
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | This country contains South America's highest & lowest points | Argentina
+right: 
+Wrong: 
+Lisa: What is Chile?
+Erik: What is Chile?
+Richard: What is Chile?
+Wagers: 
+Lisa: $2,500
+Erik: $700
+Richard: $7,000
+Final scores:
+Richard: $2,900 (2nd place: $1,000 if eliminated)
+Erik: $7,600 (Automatic semifinalist)
+Lisa: $0 (3rd place: $1,000 if eliminated)
+
+Coryat scores
+Richard: $9,800 (26 R(including 1 DD),2 W)
+Erik: $7,600 (20 R(including 2 DDs),1 W)
+Lisa: $2,500 (8 R,1 W)

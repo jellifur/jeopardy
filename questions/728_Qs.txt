@@ -1,0 +1,344 @@
+1427 - Tuesday, November 13, 1990
+Comments: 1990 Tournament of Champions semifinal game 2.
+Contestants:
+Larry McKnight: a computer analyst from Ventura, California
+Erik Larsen: a graduate student from Ann Arbor, Michigan
+Frank Spangenberg: a police officer from Flushing, New York
+First Jeopardy! Round: FAMOUS TEACHERS, U.S. CITIES, BUSINESS & INDUSTRY, TELEVISION, GOLD, "SILVER"
+FAMOUS TEACHERS | Prof. of math at Cambridge 1669-1701; for every A on his curve there was an equal & opposite F | Isaac Newton
+right: Erik
+Wrong: 
+Value: $100
+Number: 1
+U.S. CITIES | Explorer Jean-Baptiste Le Moyne named this Ala. city after the Maubila Indian tribe | Mobile
+right: Erik
+Wrong: 
+Value: $100
+Number: 2
+BUSINESS & INDUSTRY | This rubber company spends over $7 million a year just to maintain & operate its blimps | Goodyear
+right: Erik
+Wrong: 
+Value: $100
+Number: 21
+TELEVISION | This city was the first in the U.S. to have more than 1 TV station in operation | New York
+right: Erik
+Wrong: 
+Value: $100
+Number: 11
+GOLD | The world's largest gold field, the Witwatersrand, is in this country | South Africa
+right: Frank
+Wrong: 
+Value: $100
+Number: 16
+"SILVER" | Nostalgic name for the movies or the motion picture industry | the silver screen
+right: Frank
+Wrong: 
+Value: $100
+Number: 22
+FAMOUS TEACHERS | Bertoldo di Giovanni studied under Donatello & taught this great Sistine artist | Michelangelo
+right: Erik
+Wrong: 
+Value: $200
+Number: 7
+U.S. CITIES | New Mexico city that got its name from the crosses on the graves of ambushed travelers | Las Cruces
+right: Frank
+Wrong: 
+Value: $200
+Number: 3
+BUSINESS & INDUSTRY | After marrying its president, Joan Crawford became a spokesperson for this beverage co. | Pepsi-Cola
+right: Frank
+Wrong: 
+Value: $200
+Number: 25
+TELEVISION | Gary David Goldberg & Alan Uger won 1987 Emmys for writing this series' "My Name Is Alex" episode | Family Ties
+right: Larry
+Wrong: 
+Value: $200
+Number: 12
+GOLD | This form of gold, beaten thinner than paper, is used for gilding & lettering | gold leaf
+right: Frank
+Wrong: 
+Value: $200
+Number: 17
+"SILVER" | When the going gets rough, remember that "Every cloud has" one of these | a silver lining
+right: Frank
+Wrong: 
+Value: $200
+Number: 23
+FAMOUS TEACHERS | She married Harvard teacher John Macy on condition that Helen came first in their household | Anne Sullivan
+right: Frank
+Wrong: 
+Value: $300
+Number: 8
+U.S. CITIES | Eisenhower was nominated for his second term as president in the Cow Palace in this city | San Francisco
+right: Larry
+Wrong: 
+Value: $300
+Number: 4
+BUSINESS & INDUSTRY | After 42 years, this French co. has ceased making its turtle-shaped car, the Deux Chevaux | Citroen
+right: Larry
+Wrong: 
+Value: $300
+Number: 28
+TELEVISION | This skinflint comedian played Ralph & Alice Kramden's landlord on 1 episode of "The Honeymooners" | Jack Benny
+right: Erik
+Wrong: 
+Value: $300
+Number: 13
+GOLD | Derived from the metal's Latin name, it's the chemical symbol for gold | Au
+right: Larry
+Wrong: 
+Value: $300
+Number: 18
+"SILVER" | To produce rain, clouds are sometimes seeded with this chemical compound | silver iodide
+right: Larry
+Wrong: 
+Value: $300
+Number: 24
+FAMOUS TEACHERS | Educational psychologist who developed a series of dictionaries with Clarence Barnhart | (Edward) Thorndike
+right: Erik
+Wrong: 
+Value: $400
+Number: 9
+U.S. CITIES | This 2nd largest Oregon city is named for 1 of its settlers, a certain Mr. Skinner | Eugene
+right: Larry
+Wrong: 
+Value: DD: $500
+Number: 5
+BUSINESS & INDUSTRY | Whirlpool makes a line of products under this brand name for Sears, Roebuck | Kenmore
+right: Larry
+Wrong: 
+Erik: What is Amana?
+Value: $400
+Number: 29
+TELEVISION | From 1947 to 1975, Lawrence Spivak was a panelist or moderator on this NBC public affairs program | Meet the Press
+right: Erik
+Wrong: 
+Value: $400
+Number: 14
+GOLD | Pure gold is this many karats | 24
+right: Erik
+Wrong: 
+Value: $400
+Number: 19
+"SILVER" | This band has backed up Bob Seger on hits like "Night Moves" & "Still The Same" | The Silver Bullet Band
+right: Erik
+Wrong: 
+Value: $400
+Number: 26
+FAMOUS TEACHERS | East L.A. teacher famous for helping his kids pass the Advanced Placement calculus test | (Jaime) Escalante
+right: Erik
+Wrong: 
+Value: $500
+Number: 10
+U.S. CITIES | The graves of O. Henry & Thomas Wolfe are in this N.C. city where Wolfe was born | Asheville
+right: Larry
+Wrong: 
+Value: $500
+Number: 6
+BUSINESS & INDUSTRY | It was first incorporated in 1911 as the Computing-Tabulating-Recording Co. | IBM
+right: Frank
+Wrong: 
+Value: $500
+Number: 30
+TELEVISION | The announcer called it "The crossword game you've played all your life, but never quite like this" | Scrabble
+right: Frank
+Wrong: 
+Value: $500
+Number: 15
+GOLD | In the 1500s many Spanish explorers went to South America searching for this legendary gold kingdom | El Dorado
+right: Larry
+Wrong: 
+Value: $500
+Number: 20
+"SILVER" | The U.S. government first issued this paper currency in 1878 | silver certificates
+right: Frank
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Frank: $1,100
+Erik: $2,100
+Larry: $1,500
+Scores at the end of the Jeopardy! Round:
+Frank: $2,800
+Erik: $2,600
+Larry: $3,300
+Second Jeopardy! Round: STATE FLAGS, ENGLISH LITERATURE, BIRDS, AMERICAN INDIANS, PHILOSOPHY, DESPOTS & DICTATORS
+STATE FLAGS | Number of stars on the Texas state flag | 1
+right: Larry
+Wrong: 
+Value: $200
+Number: 1
+ENGLISH LITERATURE | Society is divided between Eloi & Morlocks in this futuristic H.G. Wells work | The Time Machine
+right: Erik
+Wrong: 
+Value: $200
+Number: 16
+BIRDS | The willow ptarmigan, which makes its home in Arctic areas, is this state's official bird | Alaska
+right: Erik
+Wrong: 
+Value: $200
+Number: 21
+AMERICAN INDIANS | From 1881-86 he led the Chiricahua Apaches in the last major Indian stand | Geronimo
+right: Larry
+Wrong: 
+Value: $200
+Number: 28
+PHILOSOPHY | Empedocles said there are two basic emotions, these | love & hate
+right: Erik
+Wrong: 
+Value: $200
+Number: 6
+DESPOTS & DICTATORS | He attended the Allies' meetings at Tehran, Yalta & Potsdam as the Soviet Union's representative | Stalin
+right: Frank
+Wrong: 
+Value: $200
+Number: 11
+STATE FLAGS | This state's flag was designed by Miss Willie Hocker of the Pine Bluff chapter of the D.A.R. | Arkansas
+right: Larry
+Wrong: 
+Value: $400
+Number: 2
+ENGLISH LITERATURE | The hero of this Old English poem dies killing a dragon that attacked his people, the Geats | Beowulf
+right: Erik
+Wrong: 
+Value: $400
+Number: 17
+BIRDS | Sapsuckers are the only members of this bird family to habitually injure trees | woodpeckers
+right: Erik
+Wrong: 
+Value: $400
+Number: 22
+AMERICAN INDIANS | Coinciding with the '84 Olympics in L.A. was a memorial powwow & games honoring this athlete | Jim Thorpe
+right: Erik
+Wrong: 
+Value: $400
+Number: 29
+PHILOSOPHY | He developed his own method of inquiry, but as he didn't write it down we mostly know of it from Plato | Socrates
+right: Erik
+Wrong: 
+Value: $400
+Number: 7
+DESPOTS & DICTATORS | We don't know what his 1st wife did, but his 2nd, Eva, was an actress, & his 3rd, Isabel, a dancer | (Juan) Perón
+right: Erik
+Wrong: 
+Value: $400
+Number: 12
+STATE FLAGS | Kentucky's flag indicates it's one of these | a commonwealth
+right: Larry
+Wrong: 
+Value: DD: $1,000
+Number: 3
+ENGLISH LITERATURE | British philosopher & mathematician who won the 1950 Nobel Prize for Literature | Bertrand Russell
+right: Larry
+Wrong: 
+Value: $600
+Number: 18
+BIRDS | This relative of the crow is prominent in folklore as a bad-luck sign or omen of death | the raven
+right: Erik
+Wrong: 
+Value: $600
+Number: 23
+AMERICAN INDIANS | This 6-nation group has not accepted U.S. citizenship & considers itself a separate nation | the Iroquois
+right: Frank
+Wrong: 
+Value: $600
+Number: 30
+PHILOSOPHY | Thomism, a doctrine of the Catholic Church, was based on the ideas of this man | Aquinas
+right: Erik
+Wrong: 
+Value: $600
+Number: 8
+DESPOTS & DICTATORS | After his reelection in 1961, this Haitian leader named himself president for life | Duvalier
+right: Erik
+Wrong: 
+Value: $600
+Number: 13
+STATE FLAGS | The flag of this 13th state has 13 gold stars & the word "Hope" | Rhode Island
+right: Erik
+Wrong: 
+Value: $800
+Number: 4
+ENGLISH LITERATURE | "Goodbye to All That" is the autobiography of this "I, Claudius" author | (Robert) Graves
+right: Frank
+Wrong: 
+Value: $800
+Number: 19
+BIRDS | These small English birds were first brought to the U.S. in 1850 to eliminate tree worms in Brooklyn | sparrows
+right: Larry
+Wrong: 
+Value: $800
+Number: 24
+AMERICAN INDIANS | They call themselves the Dine; since their language has no "V", they found this name unpronounceable | the Navajo
+right: Erik
+Wrong: 
+Value: $800
+Number: 27
+PHILOSOPHY | 17th c. French philosopher who wrote, "All the sciences are conjoined with one another and interdependent" | (Rene) Descartes
+right: Larry
+Wrong: 
+Value: $800
+Number: 9
+DESPOTS & DICTATORS | Nicknamed "The Incorruptible", he was arrested, tried & guillotined in July 1794 | Robespierre
+right: Erik
+Wrong: 
+Value: $800
+Number: 14
+STATE FLAGS | It's the only state whose flag features the British Union Jack | Hawaii
+right: Erik
+Wrong: 
+Value: $1000
+Number: 5
+ENGLISH LITERATURE | He became a Roman Catholic 14 years before publishing "The Power and the Glory" | Graham Greene
+right: Frank
+Wrong: 
+Larry: Who is... uhh.
+Value: $1000
+Number: 20
+BIRDS | In 1848 this bird saved the crops of Utah by eating swarms of grasshoppers | seagulls
+right: Larry
+Wrong: 
+Value: DD: $1,000
+Number: 25
+AMERICAN INDIANS | Among tribes this Spanish explorer met & alienated were the Cherokee, Creek & Choctaw | de Sotò
+right: 
+Wrong: Triple Stumper
+Frank: Who is Coronado?
+Larry: Who is Cortés?
+Value: $1000
+Number: 26
+PHILOSOPHY | Opposing Hegel, this Danish philosopher said man does have free will | Kierkegaard
+right: Frank
+Wrong: 
+Value: $1000
+Number: 10
+DESPOTS & DICTATORS | It took a revolution in 1911 to unseat this Mexican pres. who'd held power for more than 3 decades | Porfirio Díaz
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Frank: $5,400
+Erik: $10,400
+Larry: $6,300
+
+Final Jeopardy! Round
+WORLD HISTORY | The 2 countries that became independent on Aug. 14 & 15, 1947 | Pakistan & India
+right: Larry
+Wrong: 
+Frank: What are E. & W. Germany?
+Erik: What are N. and S. Vietnam
+Wagers: 
+Frank: $5,299
+Larry: $6,300
+Erik: $2,201
+Final scores:
+Frank: $101 (3rd place: $5,000)
+Erik: $8,199 (2nd place: $5,000)
+Larry: $12,600 (Finalist)
+
+Coryat scores
+Frank: $5,400 (15 R,1 W)
+Erik: $10,400 (26 R,1 W)
+Larry: $5,800 (17 R(including 3 DDs),2 W)

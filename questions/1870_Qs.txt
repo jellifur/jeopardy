@@ -1,0 +1,348 @@
+5238 - Wednesday, May 23, 2007
+Contestants:
+Joe Pozzuoli: a lawyer from Mount Vernon, New York
+Susan Wessells: a writer from Greensboro, North Carolina
+James Clark: a graduate assistant from Monroeville, Pennsylvania (whose 1-day cash winnings total $25,199)
+First Jeopardy! Round: LOOK!, UP IN THE SKY!, IT'S A BIRD!, IT'S A PLANE!, SUPERMAN, THE MAN OF STEEL
+LOOK! | It's time for you to name <http://www.j-archive.com/media/2007-05-23_J_02.jpg> this timepiece, squire | Big Ben
+right: Susan
+Wrong: 
+Value: $200
+Number: 2
+UP IN THE SKY! | Ye, gods, it's this outer planet seen <http://www.j-archive.com/media/2007-05-23_J_15.jpg> here | Neptune
+right: Joe
+Wrong: 
+Value: $200
+Number: 15
+IT'S A BIRD! | On New Zealand's Stewart Island you'll find tuis, pipits, kakas & shags, but it's "the home of" this national bird | a kiwi
+right: Joe
+Wrong: 
+Value: $200
+Number: 21
+IT'S A PLANE! | In a numerical sense, naught, zip, nada | zero
+right: Susan
+Wrong: 
+Value: $200
+Number: 1
+SUPERMAN | He played Jesse James in 1943's "The Kansan" before donning the cape of Superman on TV in the 1950s | George Reeves
+right: Susan
+Wrong: 
+Value: $200
+Number: 5
+THE MAN OF STEEL | In 1942 Philip Murray became the first President of the U.S.A., this labor union | United Steelworkers of America
+right: James
+Wrong: 
+Value: $200
+Number: 4
+LOOK! | The life and music of <http://www.j-archive.com/media/2007-05-23_J_03.jpg> this legend continue to shine | Ray Charles
+right: James
+Wrong: 
+Value: $400
+Number: 3
+UP IN THE SKY! | Something to reflect on--it runs on batteries, is about the size of a bus & circles the Earth every 97 minutes | the Hubble Space Telescope
+right: Joe
+Wrong: 
+Value: $400
+Number: 16
+IT'S A BIRD! | For the blue-backed manakin, this ritual begins with a duet sung by 2 birds--a dominant male & his wingman | a mating ritual
+right: Susan
+Wrong: 
+Value: $400
+Number: 24
+IT'S A PLANE! | 2-syllable social wasp of the family Vespidae | hornet
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+SUPERMAN | (<http://www.j-archive.com/media/2007-05-23_J_06.jpg> Hi, I'm Michael McKean.) My guest appearance as Perry White made this show successful; my wife, Annette O'Toole, may also have helped | Smallville
+right: Susan
+Wrong: 
+James: What is Lois and Clark?
+Value: $400
+Number: 6
+THE MAN OF STEEL | Harry Brearly developed this steel after noticing the anti-corrosion properties of high chromium steel | stainless steel
+right: Susan
+Wrong: 
+Value: $400
+Number: 10
+LOOK! | Middle name of the mug-shot man seen <http://www.j-archive.com/media/2007-05-23_J_22.jpg> here | Harvey
+right: James
+Wrong: 
+Value: $600
+Number: 22
+UP IN THE SKY! | In September 2006 it was reduced to a number--number 134340 in the catalog of minor planets | Pluto
+right: James
+Wrong: 
+Value: $600
+Number: 17
+IT'S A BIRD! | If you see the rock species of this urban bird on a ledge, don't try to talk it down; it may just be building a nest | a pigeon
+right: Joe
+Wrong: 
+Value: $600
+Number: 25
+IT'S A PLANE! | Songs by this band include "Vertigo" & "I Still Haven't Found What I'm Looking For" | U2
+right: James
+Wrong: 
+Value: $600
+Number: 18
+SUPERMAN | In "Superman III" this comedian uses the "Salami Technique" to steal tiny sums of money from many bank accounts | Richard Pryor
+right: James
+Wrong: 
+Value: $600
+Number: 7
+THE MAN OF STEEL | Anarchist Alexander Berkman tried to kill this steel magnate for whom a NYC museum is now named | Henry Clay Frick
+right: 
+Wrong: Triple Stumper
+Susan: Who is Getty? Alex: No. ... Alex: The man is [*],  hence the Frick Museum...
+Joe: Who is Carnegie? Alex: No.  Susan. Susan: Who is Getty? Alex: No. ... Alex: The man is [*],  hence the Frick Museum...
+Value: $600
+Number: 11
+LOOK! | The legend seen <http://www.j-archive.com/media/2007-05-23_J_23.jpg> here most famously played this sport | soccer
+right: James
+Wrong: 
+Value: $800
+Number: 23
+UP IN THE SKY! | The 2 brightest stars in this constellation are Castor & Pollux | Gemini
+right: 
+Wrong: 
+Joe: What is Orion?
+Value: DD: $1,000
+Number: 27
+IT'S A BIRD! | Like a type of shark, the bird seen <http://www.j-archive.com/media/2007-05-23_J_29.jpg> here is named for its resemblance to this tool | a hammer
+right: Joe
+Wrong: 
+Value: $800
+Number: 29
+IT'S A PLANE! | The French know that this optical phenomenon can be seen not only in the desert but also at sea | a mirage
+right: James
+Wrong: 
+Value: $800
+Number: 19
+SUPERMAN | Kate Bosworth was Lois Lane in this 2006 man of steel movie | Superman Returns
+right: James
+Wrong: 
+Value: $800
+Number: 8
+THE MAN OF STEEL | This Brit's steel-making "process" was a result of his interest in improving gun construction | Bessemer
+right: James
+Wrong: 
+Value: $800
+Number: 12
+LOOK! | The vast reaches of this country encompass desert lands as well as rain forests | Sudan
+right: 
+Wrong: Triple Stumper
+James: What is Kenya? Alex: No.  Joe or Susan? ... Alex: That would be the [*] in Africa, of course...
+Value: $1000
+Number: 26
+UP IN THE SKY! | Usually reaching its peak on August 12, it's been called the "Old Faithful" of meteor showers | a perseid
+right: Susan
+Wrong: 
+Value: $1000
+Number: 28
+IT'S A BIRD! | The tawny species of this bird can see prey by the light of one candle 500 yards away | the owl
+right: Susan
+Wrong: 
+Value: $1000
+Number: 30
+IT'S A PLANE! | Not necessarily a "menace", it's a specter or ghost, or something illusory | a phantom
+right: Susan
+Wrong: 
+Value: $1000
+Number: 20
+SUPERMAN | 1978's "Superman" was scripted by this New York author famous for mafia tomes | Mario Puzo
+right: Susan
+Wrong: 
+Value: $1000
+Number: 9
+THE MAN OF STEEL | In 1901 this Chicago lawyer for whom a nearby Indiana city is named helped organize the U.S. Steel Corporation | (Elbert) Gary
+right: James
+Wrong: 
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+James: $3,400
+Susan: $1,800
+Joe: -$400
+Scores at the end of the Jeopardy! Round:
+James: $5,800
+Susan: $5,200
+Joe: $600
+Second Jeopardy! Round: AUTHORS, WHO'S THE MRS.?, CIRCUS TALK, GHANA IN 60 SECONDS, AMERICAN POLITICAL IDOL, "WORD" PLAY
+AUTHORS | Before writing his classic novel, he spent 2 years with a group of Oklahoma farmers journeying to California | Steinbeck
+right: James
+Wrong: 
+Value: $400
+Number: 15
+WHO'S THE MRS.? | Mrs. Ashton Kutcher | Demi Moore
+right: James
+Wrong: 
+Value: $400
+Number: 21
+CIRCUS TALK | (<http://www.j-archive.com/media/2007-05-23_DJ_14.jpg> Jimmy of the Clue Crew clowns around.) Clowns are masters of this look of reaction for the benefit of the audience; especially a <http://www.j-archive.com/media/2007-05-23_DJ_14a.jpg> double one | a double take
+right: Susan
+Wrong: 
+Value: $400
+Number: 14
+GHANA IN 60 SECONDS | President Ford named this former child star the U.S. Ambassador to Ghana in 1974 | (Shirley) Temple (Black)
+right: James
+Wrong: 
+Value: $400
+Number: 8
+AMERICAN POLITICAL IDOL | In 1804 this guy killed a political foe with one shot in New Jersey...You're the V.P., not Tony Soprano! Act like it! | Aaron Burr
+right: Susan
+Wrong: 
+Value: $400
+Number: 1
+"WORD" PLAY | At the turn of the 19th century, he penned the sonnet "The World Is Too Much With Us" | (William) Wordsworth
+right: Joe
+Wrong: 
+Value: $400
+Number: 2
+AUTHORS | This author's work as a private detective with Pinkerton lent authenticity to "The Maltese Falcon" | (Dashiell) Hammett
+right: James
+Wrong: 
+Value: $800
+Number: 16
+WHO'S THE MRS.? | Mrs. Garth Brooks | (Trisha) Yearwood
+right: James
+Wrong: 
+Value: $800
+Number: 22
+CIRCUS TALK | (<http://www.j-archive.com/media/2007-05-23_DJ_20.jpg> Sarah of the Clue Crew has stands next to a juggler) Because of the way the balls go up the middle and down the side, a common juggling pattern has this watery name that reminds us of a Northwest mountain range | cascade
+right: James
+Wrong: 
+Value: $800
+Number: 20
+GHANA IN 60 SECONDS | This is Ghana's official language | English
+right: 
+Wrong: Triple Stumper
+Susan: What is French?
+Value: $800
+Number: 9
+AMERICAN POLITICAL IDOL | As a 19th century "boss" he plundered NYC of sums estimated at between $30-200 million...what a dreadful performance | (Boss) Tweed
+right: Susan
+Wrong: 
+Value: $800
+Number: 3
+"WORD" PLAY | A concluding section or statement at the end of a book that's separate from the main text | the afterword
+right: Susan
+Wrong: 
+Value: $800
+Number: 4
+AUTHORS | He wrote comic book stories for "Captain America" & "Captain Marvel" before hitting it big with "I, the Jury" | Mickey Spillane
+right: Joe
+Wrong: 
+Value: $1200
+Number: 17
+WHO'S THE MRS.? | Mrs. Antonio Banderas | (Melanie) Griffith
+right: James
+Wrong: 
+Value: $1200
+Number: 23
+CIRCUS TALK | (<http://www.j-archive.com/media/2007-05-23_DJ_26.jpg> Jimmy watches the juggler play.) To us it's a structure at the end of an animal's limb; to a juggler it's a downward movement to catch an object | a claw
+right: 
+Wrong: Triple Stumper
+Susan: What's a paw?
+Value: $1200
+Number: 26
+GHANA IN 60 SECONDS | So far, he's the only U.N. Secretary-General from Ghana | (Kofi) Annan
+right: James
+Wrong: 
+Value: $1200
+Number: 10
+AMERICAN POLITICAL IDOL | That March 4, 1841 inaugural address in cold drizzle took about 2 hours; mark my words, it'll be the death of him | William Henry Harrison
+right: Joe
+Wrong: 
+Value: $1200
+Number: 6
+"WORD" PLAY | Hyphenated term for the process by which rumors & informal movie reviews are spread | word-of-mouth
+right: Joe
+Wrong: 
+Susan: What's the rumor mill?
+Value: $1200
+Number: 5
+AUTHORS | Her major works, including "The Age of Innocence", were written while living in France, where she moved in 1907 | Edith Wharton
+right: Susan
+Wrong: 
+Value: $1600
+Number: 18
+WHO'S THE MRS.? | Mrs. David Duchovny | (Téa) Leoni
+right: James
+Wrong: 
+Value: $1600
+Number: 24
+CIRCUS TALK | (<http://www.j-archive.com/media/2007-05-23_DJ_27.jpg> Sarah watches people hanging around.) As the trapeze was invented in France, the catcher is sometimes called "porteur" and this person in a <http://www.j-archive.com/media/2007-05-23_DJ_27a.jpg> trick is called "voltigeur" | the flyer
+right: 
+Wrong: Triple Stumper
+Joe: Who is the, um, thrower?
+Value: $1600
+Number: 27
+GHANA IN 60 SECONDS | One of the 3 African countries that Ghana borders | (1 of) Ivory Coast, Burkina Faso and Togo
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 11
+AMERICAN POLITICAL IDOL | I have the 1860 election results...this Ill. Democrat & orator who ran against Lincoln...you're going home tonight | (Stephen) Douglas
+right: James
+Wrong: 
+Value: $1600
+Number: 7
+"WORD" PLAY | A word that leads you to useful results in an Internet search | the keyword
+right: Joe
+Wrong: 
+Value: $1600
+Number: 29
+AUTHORS | In the 1930s this author of "Marjorie Morningstar" was a writer for comedian Fred Allen | (Herman) Wouk
+right: James
+Wrong: 
+Value: $2000
+Number: 19
+WHO'S THE MRS.? | Mrs. Christopher Guest | Jamie Lee Curtis
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+CIRCUS TALK | (<http://www.j-archive.com/media/2007-05-23_DJ_28.jpg> Jimmy watches a balancing act.) Wire walking includes the highwire, the tightrope, and this one that many people think is most difficult, because any shaking is magnified | slackrope walking
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+GHANA IN 60 SECONDS | Ghana is located in West Africa on this gulf that bears the name of another African country | Gulf of Guinea
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+AMERICAN POLITICAL IDOL | The Whiskey Ring scandal & William Belknap, his Sec. of War, impeached? No wonder this Republican didn't get a third term! | Ulysses Grant
+right: 
+Wrong: 
+James: Who is...who is Teddy Roosevelt?
+Value: DD: $1,500
+Number: 12
+"WORD" PLAY | Psychological "test" of verbal stimuli given to induce revelatory verbal responses | word association
+right: Joe
+Wrong: 
+Value: DD: $4,000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+James: $15,500
+Susan: $6,000
+Joe: $8,600
+
+Final Jeopardy! Round
+MNEMONIC DEVICES | A traditional mnemonic device for remembering these begins, "Willie, Willie, Harry, Stee, Harry, Dick, John, Harry Three" | English monarchs
+right: Joe | James
+Wrong: 
+Susan: What are the elemenl
+Wagers: 
+Susan: $6,000
+Joe: $6,000
+James: $1,702
+Final scores:
+James: $17,202 (2-day champion: $42,401)
+Susan: $0 (3rd place: $1,000)
+Joe: $14,600 (2nd place: $2,000)
+
+Coryat scores
+James: $17,000 (22 R,3 W(including 1 DD))
+Susan: $6,000 (15 R,4 W)
+Joe: $7,600 (11 R(including 1 DD),3 W(including 1 DD))

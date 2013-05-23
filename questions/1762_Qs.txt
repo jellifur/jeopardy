@@ -1,0 +1,336 @@
+5176 - Monday, February 26, 2007
+Contestants:
+Marc Spraragen: a graduate student from Los Angeles, California
+Chuck Newell: an English teacher from Chattanooga, Tennessee
+Sri Narayanan: a pediatric resident from Cleveland Heights, Ohio (whose 2-day cash winnings total $60,000)
+First Jeopardy! Round: LITERARY LONDON, HERE'S WALDO, FINISH THE REALLY LOOSE RHYME, THIS MEANS WAR!, AT THE DRUGSTORE, THET IZN'T SPELED RITE
+LITERARY LONDON | (<http://www.j-archive.com/media/2007-02-26_J_06.jpg> Cheryl of the Clue Crew has a new review from the zoo--the London Zoo in Regent's Park, London.)  At the zoo in Regent's Park this character first discovers his unusual powers when he talks to the snakes | Harry Potter
+right: Chuck
+Wrong: 
+Value: $200
+Number: 6
+HERE'S WALDO | Waldo was the nephew of this nearsighted cartoon character & helped keep him out of trouble | Mr. Magoo
+right: Marc
+Wrong: 
+Value: $200
+Number: 11
+FINISH THE REALLY LOOSE RHYME | <http://www.j-archive.com/media/2007-02-26_J_16.jpg> This man doesn't strike me as a guy whose life is fun-filled / Especially since he lost his job; farewell to Mr.... | Rumsfeld
+right: Chuck
+Wrong: 
+Value: $200
+Number: 16
+THIS MEANS WAR! | With 22 enemy planes shot down, Eddie Rickenbacker was the USA's No.1 flying ace during this war | World War I
+right: Marc
+Wrong: 
+Value: $200
+Number: 26
+AT THE DRUGSTORE | It seems your doctor has prescribed Lunesta; you must have trouble doing this | sleeping
+right: Marc
+Wrong: 
+Value: $200
+Number: 21
+THET IZN'T SPELED RITE | Moraine, ordain, champain | champagne
+right: Sri
+Wrong: 
+Value: $200
+Number: 1
+LITERARY LONDON | (<http://www.j-archive.com/media/2007-02-26_J_07.jpg> Jimmy of the Clue Crew reads from Temple Church in London.)  In this novel, Langdon's first London stop in his search for the holy grail is <http://www.j-archive.com/media/2007-02-26_J_07a.jpg> here at Temple Church | The Da Vinci Code
+right: Chuck
+Wrong: 
+Value: $400
+Number: 7
+HERE'S WALDO | Named after the screenwriter of "Midnight Cowboy", the Waldo Salt award is given by this Park City, Utah film fest | Sundance
+right: Sri
+Wrong: 
+Value: $400
+Number: 12
+FINISH THE REALLY LOOSE RHYME | He spent 5 months in Vietnam / Writing about the war / Made the leap, he was the veep / We know him as... | Al Gore
+right: Chuck
+Wrong: 
+Value: $400
+Number: 17
+THIS MEANS WAR! | "Troilus and Cressida" & "The Iliad" recount the events of this ancient conflict | the Trojan War
+right: Chuck
+Wrong: 
+Value: $400
+Number: 27
+AT THE DRUGSTORE | There's good news from Gillette on aisle 3; there's also Daisy & CustomPlus, all disposable ones of these | razors
+right: Sri
+Wrong: 
+Value: $400
+Number: 22
+THET IZN'T SPELED RITE | Merthful, pitiful, deceitful | mirthful
+right: Marc
+Wrong: 
+Value: $400
+Number: 2
+LITERARY LONDON | (<http://www.j-archive.com/media/2007-02-26_J_08.jpg> Kelly of the Clue Crew reports from the canal in Regent's Park, London.)  In this pioneering science fiction novel about an attack on London the protagonist finds Regent's Canal a spongy mass of dark red vegetation | War of the Worlds
+right: Sri
+Wrong: 
+Value: $600
+Number: 8
+HERE'S WALDO | On the quirky TV series "Twin Peaks", a pet bird named Waldo of this talkative species ends up mysteriously dead | a myna bird
+right: Marc
+Wrong: 
+Chuck: What is a parrot?
+Value: $600
+Number: 13
+FINISH THE REALLY LOOSE RHYME | Seen <http://www.j-archive.com/media/2007-02-26_J_18.jpg> here is this lady, not Tom or Dick Smothers / She's been on our show; it's... | Joyce Brothers
+right: Chuck
+Wrong: 
+Value: $600
+Number: 18
+THIS MEANS WAR! | The French Revolution inspired a similar one in this Caribbean country in 1791 | Haiti
+right: Chuck
+Wrong: 
+Value: DD: $2,000
+Number: 28
+AT THE DRUGSTORE | When it comes to cotton swabs, it's the No. 1 brand; there are even antibacterial ones | Q-tips
+right: Marc
+Wrong: 
+Value: $600
+Number: 23
+THET IZN'T SPELED RITE | Obstreperous, outragious, obnoxious | outrageous
+right: Chuck
+Wrong: 
+Value: $600
+Number: 3
+LITERARY LONDON | (<http://www.j-archive.com/media/2007-02-26_J_09.jpg> Kelly of the Clue Crew seeks a clue in Hyde Park, London.)  This poet's first wife, Harriet, drowned herself in the Serpentine Lake in early December 1816; by New Years he'd married Mary | Percy Shelley
+right: Marc
+Wrong: 
+Value: $800
+Number: 9
+HERE'S WALDO | In a 1975 film this actor was just great as "The Great Waldo Pepper" | Robert Redford
+right: Chuck
+Wrong: 
+Value: $800
+Number: 14
+FINISH THE REALLY LOOSE RHYME | Hey, Machu Picchu / Incas lived in this country / Wait, that was haiku | Peru
+right: Marc
+Wrong: 
+Value: $800
+Number: 19
+THIS MEANS WAR! | It's the war that took place on the Iberian Peninsula from 1936 to 1939 | the Spanish Civil War
+right: Marc
+Wrong: 
+Value: $800
+Number: 29
+AT THE DRUGSTORE | Named for the "father of antiseptic surgery", it was once available only to doctors & dentists | Listerine
+right: Marc
+Wrong: 
+Value: $800
+Number: 24
+THET IZN'T SPELED RITE | Abismal, bisque, plebiscite | abysmal
+right: Marc
+Wrong: 
+Value: $800
+Number: 4
+LITERARY LONDON | (<http://www.j-archive.com/media/2007-02-26_J_10.jpg> Kelly of the Clue Crew is with some blooms in Bloomsbury, London.)  In Defoe's tale about this plucky title lass, she visits her secret lover's Bloomsbury home after learning of his illness | Moll Flanders
+right: Marc
+Wrong: 
+Value: $1000
+Number: 10
+HERE'S WALDO | This tough-guy actor's last film role was as Police Commissioner Waldo in 1981's "Ragtime" | (James) Cagney
+right: Marc
+Wrong: 
+Value: $1000
+Number: 15
+FINISH THE REALLY LOOSE RHYME | This critter seen <http://www.j-archive.com/media/2007-02-26_J_20.jpg> here isn't poisonous, heck no! / Look & you'll see, <http://www.j-archive.com/media/2007-02-26_J_20a.jpg> as plain as can be, your garden variety... | gecko
+right: Sri
+Wrong: 
+Value: $1000
+Number: 20
+THIS MEANS WAR! | Frederick the Great's invasion of Silesia in 1740 launched the war of this country's succession | Austria
+right: 
+Wrong: Triple Stumper
+Marc: What is Spain?
+Value: $1000
+Number: 30
+AT THE DRUGSTORE | Prilosec & Prevacid are 2 of the medications available for treating GERD, or gastroesophageal this disease | reflux
+right: Marc
+Wrong: 
+Value: $1000
+Number: 25
+THET IZN'T SPELED RITE | Fought, overrought, besought | overwrought
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Sri: $1,200
+Chuck: $2,400
+Marc: $4,800
+Scores at the end of the Jeopardy! Round:
+Sri: $2,600
+Chuck: $6,000
+Marc: $8,200
+Second Jeopardy! Round: OPERA, BEST PICTURES IN OTHER WORDS, MEDITERRANEAN ISLANDS, EDUCATION, THAT'S GONNA COST YOU, AN "ARM" OR A "LEG"
+OPERA | The title libertine of this 1787 Mozart opera seduces women in 17th century Seville | Don Giovanni
+right: Marc
+Wrong: 
+Value: $400
+Number: 26
+BEST PICTURES IN OTHER WORDS | 1997: "Colossal" | Titanic
+right: Marc
+Wrong: 
+Value: $400
+Number: 6
+MEDITERRANEAN ISLANDS | In 1814 & 1815 this island 6 miles off Tuscany was a sovereign state ruled by Napoleon | Elba
+right: 
+Wrong: Triple Stumper
+Sri: What is Sicily?
+Chuck: What is Sardinia?
+Marc: What is Corsica?
+Value: $400
+Number: 13
+EDUCATION | In 1971 the Supreme Court ruled that schools could desegregate by doing this to transport kids to other districts | bussing
+right: Chuck
+Wrong: 
+Value: $400
+Number: 11
+THAT'S GONNA COST YOU | In 1917 the U.S. ponied up 25 million bucks for these Caribbean islands & bought them from Denmark | the Virgin Islands
+right: Sri
+Wrong: 
+Value: $400
+Number: 21
+AN "ARM" OR A "LEG" | 4-word term for Gen. McClellan's Union forces that guarded D.C. against invasion across a certain river | Army of the Potomac
+right: Sri
+Wrong: 
+Value: $400
+Number: 1
+OPERA | The title of this Puccini opera deals with a painter (Marcello), a poet (Rodolfo) & a philosopher (Colline) | La bohème
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+BEST PICTURES IN OTHER WORDS | 1963: "'It's Not Unusual' Singer" | Tom Jones
+right: Marc
+Wrong: 
+Value: $800
+Number: 7
+MEDITERRANEAN ISLANDS | Mementos of the life & work of Nikos Kazantzakis can be found at the Museum in Iraklion on this largest Greek Island | Crete
+right: Chuck
+Wrong: 
+Value: $800
+Number: 14
+EDUCATION | On June 1, 1987 Father Theodore Hesburgh stepped down as president of this university after 35 years in that capacity | Notre Dame
+right: Sri
+Wrong: 
+Value: $800
+Number: 12
+THAT'S GONNA COST YOU | Between 1853 & 1856, commissioners purchased the NYC site for what became this 843-acre location | Central Park
+right: Chuck
+Wrong: 
+Value: $800
+Number: 22
+AN "ARM" OR A "LEG" | Assembled in the 1580s, it was commanded by Medina Sidonia | the Spanish Armada
+right: Sri
+Wrong: 
+Value: $800
+Number: 2
+OPERA | The Franco-Prussian war delayed this Verdi opera's premiere: scenery couldn't leave besieged Paris for Cairo | Aida
+right: Marc
+Wrong: 
+Value: DD: $2,000
+Number: 28
+BEST PICTURES IN OTHER WORDS | 1950: "Everything Concerning Adam's Wife" | All About Eve
+right: Chuck
+Wrong: 
+Value: $1200
+Number: 8
+MEDITERRANEAN ISLANDS | Chopin wrote some of his finest mazurkas at Valldemosa Monastery on this largest of Spain's Balearic Islands | Majorca
+right: Marc
+Wrong: 
+Value: $1200
+Number: 16
+EDUCATION | (<http://www.j-archive.com/media/2007-02-26_DJ_15.jpg> I'm U.S. Secretary of Education Margaret Spellings.)  Before becoming its own cabinet department, Education was part of this 3-pronged department | Health, Education & Welfare
+right: Marc
+Wrong: 
+Value: $1200
+Number: 15
+THAT'S GONNA COST YOU | The 1902 Spooner Act authorized the purchase of this strategic zone from Colombia | the Panama Canal
+right: Marc
+Wrong: 
+Value: $1200
+Number: 23
+AN "ARM" OR A "LEG" | He's known for one-man shows like "Mambo Mouth" & for film roles like Chi Chi in "To Wong Foo..." | John Leguizamo
+right: Sri
+Wrong: 
+Value: $1200
+Number: 3
+BEST PICTURES IN OTHER WORDS | 1945: "Saturday & Sunday Gone Astray" | Lost Weekend
+right: Chuck
+Wrong: 
+Value: DD: $2,300
+Number: 9
+MEDITERRANEAN ISLANDS | This northernmost African nation's Djerba Island was the filming site for Mos Eisley Spaceport in "Star Wars" | Tunisia
+right: Sri
+Wrong: 
+Value: $1600
+Number: 19
+EDUCATION | This union founded in 1916 also includes school custodians as well as the people in its name | American Federation of Teachers (AFT)
+right: 
+Wrong: Triple Stumper
+Marc: What is Cooper Union?
+Value: $1600
+Number: 17
+THAT'S GONNA COST YOU | This man purchased the site of Providence, Rhode Island from the Narragansett Indians | (Roger) Williams
+right: Chuck
+Wrong: 
+Value: $1600
+Number: 24
+AN "ARM" OR A "LEG" | In 1913 a major exhibit of modern art was held at NYC's 69th Regiment one of these | an armory
+right: Sri
+Wrong: 
+Value: $1600
+Number: 4
+BEST PICTURES IN OTHER WORDS | 1937: "A Biography Concerning Alfred Dreyfus' Defender" | The Life of Emile Zola
+right: Marc
+Wrong: 
+Value: $2000
+Number: 10
+MEDITERRANEAN ISLANDS | Although French is the official language of this large island, the native tongue of the residents is a dialect of Italian | Corsica
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+EDUCATION | In the early 20th c. these traveling groups named for a N.Y. lake went from town to town giving lectures in tents | Chautauqua
+right: Marc
+Wrong: 
+Value: $2000
+Number: 18
+THAT'S GONNA COST YOU | The U.S. paid $10 million for the territory south of the Gila River in this 1854 purchase | the Gadsden
+right: Sri
+Wrong: 
+Value: $2000
+Number: 25
+AN "ARM" OR A "LEG" | Chaps are a type of these protective outer garments | leggings
+right: Sri
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Sri: $13,000
+Chuck: $12,700
+Marc: $17,400
+
+Final Jeopardy! Round
+AMERICANA | In a February 22, 1936 reenactment, retired star pitcher Walter Johnson threw this across the Rappahannock | a silver dollar
+right: 
+Wrong: 
+Chuck: What is a baseball?
+Sri: What is a cannonball?
+Marc: What is a cannonball
+Wagers: 
+Chuck: $4,800
+Sri: $12,800
+Marc: $8,601
+Final scores:
+Sri: $200 (3rd place: $1,000)
+Chuck: $7,900 (2nd place: $2,000)
+Marc: $8,799 (New champion: $8,799)
+
+Coryat scores
+Sri: $13,000 (14 R,1 W)
+Chuck: $10,600 (16 R(including 2 DDs),2 W)
+Marc: $16,600 (23 R(including 1 DD),3 W)

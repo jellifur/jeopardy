@@ -1,0 +1,301 @@
+3185 - Friday, June 5, 1998
+Comments: 1998 Celebrity <i>Jeopardy!</i> Olympians Night.
+Contestants:
+Rebecca Lobo: a basketball player from the New York Liberty
+Summer Sanders: a TV personality and former Olympic swimmer from Figure It Out
+Dot Richardson: a physician and Olympic softball player from Orlando, Florida
+First Jeopardy! Round: WOMEN RULE!, BAD HAIR DAYS, NONPOTENT POTABLES, 4-LETTER ANATOMY, TV THEME SONGS, LADIES' LOCKER ROOM
+WOMEN RULE! | She was just 25 when she became queen of England 46 years ago | Queen Elizabeth II
+right: Dot
+Wrong: 
+Value: $100
+Number: 6
+BAD HAIR DAYS | It was hair today, gone tomorrow for this Biblical hero when he fell asleep on Delilah's knees | Samson
+right: Dot
+Wrong: 
+Value: $100
+Number: 4
+4-LETTER ANATOMY | Cyrano's was really long, but Rudolph's was famous in a Christmas song | nose
+right: Dot
+Wrong: 
+Value: $100
+Number: 1
+TV THEME SONGS | [audio clue] | I Dream of Jeannie
+right: Summer
+Wrong: 
+Value: $100
+Number: 9
+LADIES' LOCKER ROOM | Amy Feng, Wei Weng & Lily Yip made up the 1996 U.S. Olympic team in this sport, also known as ping pong | table tennis
+right: Dot
+Wrong: 
+Value: $100
+Number: 14
+WOMEN RULE! | Mark Antony's "marriage" to her wasn't exactly legal; he already had a wife in Rome | Cleopatra
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 19
+BAD HAIR DAYS | When this fairy tale maiden let down her hair, a handsome prince climbed up it -- must have hurt! | Rapunzel
+right: Summer
+Wrong: 
+Value: $200
+Number: 5
+4-LETTER ANATOMY | The covering that's all about, to keep your innards from falling out | skin
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 2
+TV THEME SONGS | [audio clue] | All in the Family
+right: Dot
+Wrong: 
+Value: $200
+Number: 10
+LADIES' LOCKER ROOM | This sister-in-law of Jackie Joyner-Kersee set world records in the 100 & 200 meter dashes in 1988 | Florence Griffith-Joyner ("Flo-Jo")
+right: Summer
+Wrong: 
+Value: $200
+Number: 15
+WOMEN RULE! | If this queen hadn't approved Columbus' voyage to America, we might not be here today | Isabella
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 20
+BAD HAIR DAYS | We loved this Little Rascal, even though he never had a good hair day in his life | Alfalfa
+right: Summer
+Wrong: 
+Value: $300
+Number: 23
+4-LETTER ANATOMY | Cooked most certainly is your goose, when this is surrounded by a noose | neck
+right: Summer
+Wrong: 
+Value: $300
+Number: 3
+TV THEME SONGS | [audio clue] | Seinfeld
+right: Dot
+Wrong: 
+Value: $300
+Number: 11
+LADIES' LOCKER ROOM | Born in Mannheim, Germany in 1969, she's one of only 5 tennis players in history to win a Grand Slam | Steffi Graf
+right: Summer
+Wrong: 
+Value: DD: $500
+Number: 16
+WOMEN RULE! | This queen of Scotland got the ax -- literally -- at Fotheringhay Castle in 1587 | Mary, Queen of Scots (Mary Stuart)
+right: 
+Wrong: Triple Stumper
+Dot: Who was Marie Antoinette?
+Value: $400
+Number: 21
+BAD HAIR DAYS | In a 1903 opera, this queen strangles herself with her own hair after she's caught with Lancelot | Guinevere
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+4-LETTER ANATOMY | Be careful when you do a flip, that one of these back parts doesn't slip | disc
+right: Rebecca
+Wrong: 
+Summer: [looks to Dot for help] What is....[time] a disc?
+Value: $400
+Number: 7
+TV THEME SONGS | [audio clue] | The Partridge Family
+right: Dot
+Wrong: 
+Value: $400
+Number: 12
+LADIES' LOCKER ROOM | This name for the WNBA team from Los Angeles should light your fire | the Sparks
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 17
+WOMEN RULE! | Queen Beatrix reigns over this European country | the Netherlands (Holland)
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+BAD HAIR DAYS | This Irish singer had more than a bad hair day when she tore the pope's picture on "Saturday Night Live" | Sinead O'Connor
+right: Rebecca
+Wrong: 
+Value: $500
+Number: 25
+4-LETTER ANATOMY | Ballerinas & night watchmen, are both alert when they stay on them | toes
+right: Summer
+Wrong: 
+Dot: What is a watch?
+Value: $500
+Number: 8
+TV THEME SONGS | [audio clue] | Sanford and Son
+right: Rebecca
+Wrong: 
+Dot: What is "Samson and Son?"
+Summer: What is "Good Times?"
+Value: $500
+Number: 13
+LADIES' LOCKER ROOM | Fore!  This Mexican-American woman won a record 5 golf tournaments in a row in 1978 | Nancy Lopez
+right: 
+Wrong: Triple Stumper
+Dot: Who is Martinez?
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Dot: $200
+Summer: $200
+Rebecca: $1,100
+Scores at the end of the Jeopardy! Round:
+Dot: -$600
+Summer: $1,200
+Rebecca: $2,500
+Second Jeopardy! Round: CITY NICKNAMES, SHOES, CHICK FLICKS, SCARY BOOKS, HOW'S THE WEATHER UP THERE?, DOROTHYS, REBECCAS & SUMMERS
+CITY NICKNAMES | Start spreading the news, Ol' Blue Eyes is off to this "Big Apple" | New York City
+right: Dot
+Wrong: 
+Value: $200
+Number: 8
+SHOES | Harley-Davidson markets these vehicles & the boots to wear while riding them | motorcycles
+right: Dot
+Wrong: 
+Value: $200
+Number: 17
+CHICK FLICKS | Geena Davis & Susan Sarandon take the ultimate road trip & meet Brad Pitt in this 1991 movie | Thelma & Louise
+right: Summer
+Wrong: 
+Value: $200
+Number: 1
+SCARY BOOKS | He wrote "Christine", about a scary car, & "Cujo", about a scary dog | Stephen King
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 16
+HOW'S THE WEATHER UP THERE? | Affecting the weather in the U.S., this Pacific Ocean current's name is Spanish for "the child" | El Nino
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 6
+DOROTHYS, REBECCAS & SUMMERS | Dorothy followed this colorful road in Oz to get to the wizard | the Yellow Brick Road
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 13
+CITY NICKNAMES | Make some room, this Midwest metropolis is the "City of the Big Shoulders" | Chicago
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+SHOES | Basketball shoes from this company include Air Swoopes Zooms & Air Pennys | Nike
+right: Dot
+Wrong: 
+Value: $400
+Number: 20
+CHICK FLICKS | This actress tries to win Dermot Mulroney & put a stop to "My Best Friend's Wedding" | Julia Roberts
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 2
+SCARY BOOKS | The title beast in "Meg" is a 60 foot ancestor of this creature seen in "Jaws" | shark
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 26
+HOW'S THE WEATHER UP THERE? | Of a basketball, a volleyball or a softball, the one closest in size to the USA's largest hailstone | softball
+right: Dot
+Wrong: 
+Value: $400
+Number: 7
+DOROTHYS, REBECCAS & SUMMERS | "Rebecca of" this "Farm" is a popular children's book by Kate Douglas Wiggin | Sunnybrook Farm
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 14
+CITY NICKNAMES | You may have left your heart in this "Baghdad by the Bay" city | San Francisco
+right: Dot
+Wrong: 
+Value: $600
+Number: 10
+SHOES | This actress seen here is famous for wearing sneakers to awards shows | Cybill Shepherd
+right: Summer
+Wrong: 
+Value: $600
+Number: 21
+CHICK FLICKS | Bette Midler, Diane Keaton & Goldie Hawn were a trio of spurned spouses in this 1996 movie | The First Wives Club
+right: Summer
+Wrong: 
+Value: $600
+Number: 3
+HOW'S THE WEATHER UP THERE? | The National Weather Service issues tornado watches during storms & these when a tornado is spotted | tornado warnings
+right: Dot
+Wrong: 
+Value: $600
+Number: 24
+DOROTHYS, REBECCAS & SUMMERS | This Indian woman, who saved John Smith, changed her name to Rebecca when she became Christian | Pocahontas
+right: Dot
+Wrong: 
+Value: $600
+Number: 15
+CITY NICKNAMES | It's the "City Without Clocks" that's west of the Mississippi | Las Vegas
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+SHOES | These shoes are advertised with the slogan, "Looks Like a Pump, Feels Like a Sneaker!" | Easy Spirit
+right: Rebecca
+Wrong: 
+Value: $800
+Number: 22
+CHICK FLICKS | Title of the 1993 tearjerker seen here: | Sleepless in Seattle
+right: Summer
+Wrong: 
+Value: DD: $1,000
+Number: 4
+HOW'S THE WEATHER UP THERE? | It lags behind a stroke of lightning at a rate of about 5 seconds per mile | thunder
+right: Dot
+Wrong: 
+Value: DD: $1,000
+Number: 25
+DOROTHYS, REBECCAS & SUMMERS | Steamy '70s singer heard here: | Donna Summer
+right: Dot
+Wrong: 
+Value: $800
+Number: 18
+CITY NICKNAMES | With its history, this Mass. city deserves its nickname as "America's Hometown", Pilgrim | Plymouth
+right: 
+Wrong: Triple Stumper
+Dot: What is Boston?
+Rebecca: What is Sturbridge?
+Value: $1000
+Number: 12
+SHOES | Converse All-Stars are also known by this old-time basketball player's name | Chuck Taylor(s)
+right: Rebecca
+Wrong: 
+Value: $1000
+Number: 23
+CHICK FLICKS | Secretary Melanie Griffith becomes an executive & wins Harrison Ford in this 1988 office comedy | Working Girl
+right: Summer
+Wrong: 
+Value: $1000
+Number: 5
+DOROTHYS, REBECCAS & SUMMERS | Usually wearing very little, this famous Dorothy appeared in all the "Road" movies with Bob Hope & Bing Crosby | Dorothy Lamour
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Dot: $3,200
+Summer: $4,600
+Rebecca: $5,100
+
+Final Jeopardy! Round
+ANCIENT GREECE | The Greeks had 4 national festivals: the Nemean Games, the Pythian Games, the Isthmian Games & these | the Olympic Games
+right: Dot | Summer | Rebecca
+Wrong: 
+Wagers: 
+Dot: $3,200
+Summer: $4,600
+Rebecca: $4,101
+Final scores:
+Dot: $6,400 (3rd place: $10,000 for the Altamonte Youth Club)
+Summer: $9,200 (2nd place: $10,000 for UNICEF)
+Rebecca: $9,201 (Winner: $15,000 for the Children's Miracle Network)
+
+Coryat scores
+Dot: $3,000 (16 R(including 1 DD),5 W)
+Summer: $4,200 (12 R(including 2 DDs),2 W)
+Rebecca: $5,100 (15 R,1 W)

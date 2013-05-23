@@ -1,0 +1,335 @@
+4671 - Monday, December 20, 2004
+Contestants:
+Lyle Brenner: a college professor from Gainesville, Florida
+Michael Kalk: a retired programmer from Austin, Texas
+Grayson Holmes: a legal assistant from Washington, D.C. (whose 2-day cash winnings total $44,411)
+First Jeopardy! Round: FRANK LLOYD WRIGHT, WORLD ATHLETES, BEHOLD THE POWER OF CHEESE, LET'S GO TO THE PARK, STOCK ANSWERS, POINTS OF "LIGHT"
+FRANK LLOYD WRIGHT | (<http://www.j-archive.com/media/2004-12-20_J_11.jpg> Sarah of the Clue Crew stands by a table with architectural drawings on it in the Frank Lloyd Wright home in Oak Park.)  A colleague said Wright maneuvered his T-square with beautiful dexterity in this activity for which this room is named | drafting
+right: Lyle
+Wrong: 
+Value: $200
+Number: 11
+WORLD ATHLETES | This team's Ichiro Suzuki was named 2001 American League Rookie of the Year & MVP | Seattle Mariners
+right: Lyle
+Wrong: 
+Value: $200
+Number: 16
+BEHOLD THE POWER OF CHEESE | "On top of spaghetti, all covered with cheese, I lost my poor meatball, when" this happened | somebody sneezed
+right: Grayson
+Wrong: 
+Value: $200
+Number: 21
+LET'S GO TO THE PARK | Exuma Cays land & sea park lies just south of Nassau in this country in the West Indies | the Bahamas
+right: Lyle
+Wrong: 
+Value: $200
+Number: 26
+STOCK ANSWERS | In October 1999 Fortune Magazine reported that this auction website's stock value had soared to $18 billion | eBay
+right: Lyle
+Wrong: 
+Value: $200
+Number: 5
+POINTS OF "LIGHT" | Pennsylvania must be all aglow with this state insect, also called a firefly | a lightning bug
+right: Grayson
+Wrong: 
+Value: $200
+Number: 1
+FRANK LLOYD WRIGHT | The Taliesin West Center is located in Arizona; Taliesin is in this Midwest state where Wright was born | Wisconsin
+right: Lyle
+Wrong: 
+Grayson: What is Illinois?
+Value: $400
+Number: 12
+WORLD ATHLETES | In 2003 this Fijian-born golfer displaced Tiger Woods as No. 1 | Vijay Singh
+right: Michael
+Wrong: 
+Value: $400
+Number: 17
+BEHOLD THE POWER OF CHEESE | Things concocted in 1915 include Corning's Pyrex & this company's processed cheese | Kraft
+right: Michael
+Wrong: 
+Value: $400
+Number: 22
+LET'S GO TO THE PARK | This 4,000-acre Los Angeles park is named for a mining tycoon, not for film director D.W. | Griffith Park
+right: Lyle
+Wrong: 
+Value: $400
+Number: 27
+STOCK ANSWERS | The Hang Seng Index is a measure of this city's stock exchange | Hong Kong
+right: Michael
+Wrong: 
+Grayson: What is Tokyo?
+Value: $400
+Number: 6
+POINTS OF "LIGHT" | It's 186,000 miles per second | the speed of light
+right: Lyle
+Wrong: 
+Value: $400
+Number: 2
+FRANK LLOYD WRIGHT | (<http://www.j-archive.com/media/2004-12-20_J_13.jpg> Cheryl of the Clue Crew stands in front of Wright's Robie House in Chicago, IL.)  Wright's Robie House is from this school of architecture whose horizontal lines imitate Midwestern terrain | the Prairie School
+right: Grayson
+Wrong: 
+Value: $600
+Number: 13
+WORLD ATHLETES | In 2004 this British-born heavyweight champ retired with a career record of 41 wins, 2 losses & 1 tie | Lennox Lewis
+right: Lyle
+Wrong: 
+Value: $600
+Number: 18
+BEHOLD THE POWER OF CHEESE | Bearing the name of a Belgian province, it's a cheese with a really strong aroma | Limburger
+right: Lyle
+Wrong: 
+Value: $600
+Number: 23
+LET'S GO TO THE PARK | This Philadelphia national historical park contains the site of Benjamin Franklin's home | Independence Park
+right: Grayson
+Wrong: 
+Value: $600
+Number: 28
+STOCK ANSWERS | BGG is the stock symbol of this big name in small gas engines | Briggs & Stratton
+right: Lyle
+Wrong: 
+Value: $600
+Number: 7
+POINTS OF "LIGHT" | In 1879 the government officially named Ida Lewis of Rhode Island to this lonely job | lighthouse keeper
+right: Lyle
+Wrong: 
+Value: DD: $1,000
+Number: 3
+FRANK LLOYD WRIGHT | Wright's interiors show his aim to eliminate what he called "the room as" this 3-letter word | a box
+right: Michael
+Wrong: 
+Value: $800
+Number: 14
+WORLD ATHLETES | Nicknamed "The Rocket" in 1945 he became the first player in NHL history to score 50 goals in a season | (Maurice) Richard
+right: Grayson
+Wrong: 
+Value: $800
+Number: 19
+BEHOLD THE POWER OF CHEESE | It's wonderful to do this to cheese, reducing it to fragments by rubbing it against an abrasive surface | grating (shredding later accepted)
+right: Michael | Lyle
+Wrong: 
+Value: $800
+Number: 24
+LET'S GO TO THE PARK | Whipsnade Park is the country branch of this great urban zoo | the London Zoo
+right: 
+Wrong: Triple Stumper
+Grayson: What is the Bronx Zoo?
+Value: $800
+Number: 29
+STOCK ANSWERS | 2-word term for an automatic trading halt during selling frenzies, or for an electrical safety device | a circuit breaker
+right: Michael
+Wrong: 
+Value: $800
+Number: 8
+POINTS OF "LIGHT" | This Tennyson Poem contains the line, "Theirs not to reason why, theirs but to do and die" | The Charge of the Light Brigade
+right: Michael
+Wrong: 
+Value: $800
+Number: 4
+FRANK LLOYD WRIGHT | (<http://www.j-archive.com/media/2004-12-20_J_15.jpg> Cheryl of the Clue Crew stands outside the Robie House in Chicago, IL with a view featuring a broad roof overhang.)  Steel beams let Wright build a daring example of this type of roof that extends beyond its supporting wall | a cantilever
+right: Michael
+Wrong: 
+Value: $1000
+Number: 15
+WORLD ATHLETES | In 2004 this Siberian-born 17-year-old defeated Serena Williams to take the women's title at Wimbledon | (Maria) Sharapova
+right: Lyle
+Wrong: 
+Value: $1000
+Number: 20
+BEHOLD THE POWER OF CHEESE | Salata is the dense processed form of this "recooked" Italian cheese | ricotta
+right: Grayson
+Wrong: 
+Value: $1000
+Number: 25
+LET'S GO TO THE PARK | The USA's largest military park is Chickamauga & Chattanooga, which covers over 9,000 acres in these 2 states | Tennessee & Georgia
+right: Lyle
+Wrong: 
+Value: $1000
+Number: 30
+STOCK ANSWERS | In 1958 this "I Love Lucy" production company went public & its stock rose from $10 to $29 a share | Desilu
+right: Lyle
+Wrong: 
+Value: $1000
+Number: 9
+POINTS OF "LIGHT" | Popular through the Middle East, this candy is called rahat loukoum ("rest for the throat") | Turkish delight
+right: Lyle
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Grayson: $0
+Michael: $3,800
+Lyle: $4,800
+Scores at the end of the Jeopardy! Round:
+Grayson: $1,800
+Michael: $5,400
+Lyle: $9,600
+Second Jeopardy! Round: ANCIENT TIMES, YOURS FOR A SONG, FICTIONAL CHARACTERS, STICK OUT YOUR MOTHER TONGUE, COMMON BONDS, OH "HOLY" NIGHT
+ANCIENT TIMES | This "Apostle to the Gentiles" was a special guest at the Council of Jerusalem around 49 A.D. | Paul
+right: Grayson
+Wrong: 
+Value: $400
+Number: 11
+YOURS FOR A SONG | Bing Crosby (with the Andrews Sisters) & Bruce Springsteen have recorded popular versions of <http://www.j-archive.com/media/2004-12-20_DJ_06.mp3> this favorite | "Santa Claus Is Coming To Town"
+right: Grayson
+Wrong: 
+Value: $400
+Number: 6
+FICTIONAL CHARACTERS | Major Major Major is a major character in this book | Catch-22
+right: Grayson
+Wrong: 
+Value: $400
+Number: 1
+STICK OUT YOUR MOTHER TONGUE | This language with 175 million speakers developed in the ancient Galician region in northwest Spain | Portuguese
+right: 
+Wrong: Triple Stumper
+Grayson: What is French?
+Michael: What is Spanish?
+Lyle: What is Catalan?
+Value: $400
+Number: 16
+COMMON BONDS | Giant pandas;  the movie "Citizen Kane";  a clear-cut issue | things that are black and white
+right: Grayson
+Wrong: 
+Lyle: What are great things?
+Value: $400
+Number: 21
+OH "HOLY" NIGHT | Parsifal sought it | the Holy Grail
+right: Lyle
+Wrong: 
+Value: $400
+Number: 26
+ANCIENT TIMES | Aristotle said this man's "Oedipus Rex" was the greatest play ever; lucky it was one of his few to survive in full | Sophocles
+right: Lyle
+Wrong: 
+Michael: Who is Euripides?
+Value: $800
+Number: 12
+YOURS FOR A SONG | "Suds" lovers might know <http://www.j-archive.com/media/2004-12-20_DJ_07.mp3> this song's original title was "Unrequited Love" | "The Beer Barrel Polka" ("Roll Out The Barrel" also accepted)
+right: Lyle
+Wrong: 
+Value: $800
+Number: 7
+FICTIONAL CHARACTERS | Floral first name of Henry James' Miller & F. Scott Fitzgerald's Buchanan | Daisy
+right: Lyle
+Wrong: 
+Value: $800
+Number: 2
+STICK OUT YOUR MOTHER TONGUE | "The Barber of Seville" premiered in this language February 20, 1816 | Italian
+right: Lyle
+Wrong: 
+Value: $800
+Number: 17
+COMMON BONDS | A bride's rock; the core of a pencil; briquets | things that are made from carbon
+right: Grayson
+Wrong: 
+Value: $800
+Number: 22
+OH "HOLY" NIGHT | It's another name for the Eucharist ceremony | Holy Communion
+right: 
+Wrong: Triple Stumper
+Grayson: What is the Holy Ghost?
+Value: $800
+Number: 27
+ANCIENT TIMES | This ancient city was also known as Ilium | Troy
+right: Lyle
+Wrong: 
+Value: DD: $2,500
+Number: 13
+YOURS FOR A SONG | Classic song heard <http://www.j-archive.com/media/2004-12-20_DJ_08.mp3> here that Sir Isaac Newton might have liked  | "Don't Sit Under The Apple Tree"
+right: Michael
+Wrong: 
+Value: $1200
+Number: 8
+FICTIONAL CHARACTERS | Benjamin Suddlechop & Sweeney Todd operated barber shops on this street | Fleet (Street)
+right: Grayson
+Wrong: 
+Value: $1200
+Number: 3
+STICK OUT YOUR MOTHER TONGUE | "Ransack" comes from Rannsaka, in the language called "Old" this, also a group known for ransacking | Norse
+right: Michael
+Wrong: 
+Value: $1200
+Number: 18
+COMMON BONDS | "The queen"; "the brave"; "for thee" | last words of national anthems
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+ANCIENT TIMES | The name of this Central American people who predated the Mayans means "The Rubber People" | the Olmecs
+right: Michael
+Wrong: 
+Lyle: Who are the Aztecs?
+Value: $1600
+Number: 14
+YOURS FOR A SONG | It's the patriotic march heard <http://www.j-archive.com/media/2004-12-20_DJ_09.mp3> here | "The Liberty Bell March"
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 9
+FICTIONAL CHARACTERS | This title James Hilton character taught classics at Brookfield School | Mr. Chips
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 4
+STICK OUT YOUR MOTHER TONGUE | The dialects of Dutch spoken in Belgium are usually called this language | Flemish
+right: Lyle
+Wrong: 
+Value: $1600
+Number: 19
+COMMON BONDS | David's stone; hash; a hammock | things that are slung
+right: Grayson
+Wrong: 
+Value: DD: $2,800
+Number: 24
+ANCIENT TIMES | Cicero dubbed this man the "Father of History" | Herodotus
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 15
+YOURS FOR A SONG | The title of <http://www.j-archive.com/media/2004-12-20_DJ_10.mp3> the following is an alternation of a French word meaning this | wake up
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 10
+FICTIONAL CHARACTERS | Zenobia Pierce is the wife & cousin of this Edith Wharton title character | Ethan Frome
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+STICK OUT YOUR MOTHER TONGUE | Part of the Baltic group is Lettish, which is also called this | Latvian
+right: Michael
+Wrong: 
+Value: $2000
+Number: 20
+COMMON BONDS | A dagger; South America; a rambling speaker (at last) | things that come to a point
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Grayson: $16,200
+Michael: $10,200
+Lyle: $14,900
+
+Final Jeopardy! Round
+THE ACADEMY AWARDS | Last names of the 2 famous families in which 3 generations have won Oscars | Huston and Coppola
+right: 
+Wrong: 
+Michael: What are Douglas and Barrymore?
+Lyle: What are Fonda and Barrymore?
+Grayson: What are Huston and [unreadable]?
+Wagers: 
+Michael: $10,200
+Lyle: $6,100
+Grayson: $13,700
+Final scores:
+Grayson: $2,500 (2nd place: $2,000)
+Michael: $0 (3rd place: $1,000)
+Lyle: $8,800 (New champion: $8,800)
+
+Coryat scores
+Grayson: $15,000 (18 R(including 1 DD),5 W)
+Michael: $10,200 (12 R,2 W)
+Lyle: $13,200 (23 R(including 2 DDs),3 W)

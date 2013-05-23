@@ -1,0 +1,351 @@
+6247 - Tuesday, November 15, 2011
+Comments: 2011 Tournament of Champions final game 2.
+Contestants:
+Buddy Wright: an operations engineer from Fort Worth, Texas (subtotal of $6,000)
+Tom Nissley: a writer from Seattle, Washington (subtotal of $18,800)
+Roger Craig: a computer scientist from Newark, Delaware (subtotal of $50,000)
+First Jeopardy! Round: USDA FOREST SERVICE, YOU MUST REMEMBER CASABLANCA, ANCIENT WISDOM, NAME THE CITY, FOREIGN WORDS & PHRASES, MELTING POTPOURRI
+USDA FOREST SERVICE | This threatened national symbol is thriving in areas protected by the Forest Service, like Washington's Skagit River | bald eagle
+right: Roger
+Wrong: 
+Value: $200
+Number: 1
+YOU MUST REMEMBER CASABLANCA | This 5-word line from the film was voted the fifth-greatest movie quote of all time by the American Film Institute | "Here's looking at you, kid"
+right: Buddy
+Wrong: 
+Value: $200
+Number: 25
+ANCIENT WISDOM | "The Frog and the Ox" by this fabulist says, "Self-conceit may lead to self-destruction" | Aesop
+right: Tom
+Wrong: 
+Value: $200
+Number: 19
+NAME THE CITY | Roger Williams National Memorial | Providence
+right: Roger
+Wrong: 
+Value: $200
+Number: 14
+FOREIGN WORDS & PHRASES | This, a collective settlement, usually agricultural, is from the modern Hebrew for "gathering" | kibbutz
+right: Buddy
+Wrong: 
+Value: $200
+Number: 6
+MELTING POTPOURRI | "Our actors", says Prospero, "were all spirits, and are melted into" this, "into thin" this | air
+right: Roger
+Wrong: 
+Value: $200
+Number: 26
+USDA FOREST SERVICE | In 1971 Woodsy Owl became a Forest Service spokesman urging Americans, "Give a hoot, don't" do this | pollute
+right: Roger
+Wrong: 
+Value: $400
+Number: 2
+YOU MUST REMEMBER CASABLANCA | It's this character's "Cafe Americain" where much of the action takes place | Rick
+right: Roger
+Wrong: 
+Value: $400
+Number: 24
+ANCIENT WISDOM | "Bartlett's" quotes Chinese scientist Chang Heng: "Heaven is like an egg, and the earth is like" this part "of the egg" | the yolk
+right: Buddy
+Wrong: 
+Value: $400
+Number: 20
+NAME THE CITY | Marie Laveau's House of Voodoo | New Orleans
+right: Buddy
+Wrong: 
+Value: $400
+Number: 15
+FOREIGN WORDS & PHRASES | This 5-letter Latin word meaning "about" or "around" is used of approximate dates | circa
+right: Buddy
+Wrong: 
+Value: $400
+Number: 7
+MELTING POTPOURRI | This artist created the melting 1931 work seen <http://www.j-archive.com/media/2011-11-15_J_27.jpg> here | Dalí
+right: Roger
+Wrong: 
+Value: $400
+Number: 27
+USDA FOREST SERVICE | The <http://www.j-archive.com/media/2011-11-15_J_03.jpg> shape of the Union Pacific Railroad logo was used, & <http://www.j-archive.com/media/2011-11-15_J_03a.jpg> this tree in the <http://www.j-archive.com/media/2011-11-15_J_03b.jpg> pine family was added to create the Forest Service logo | fir
+right: 
+Wrong: Triple Stumper
+Roger: What is Ponderosa?
+Value: $600
+Number: 3
+YOU MUST REMEMBER CASABLANCA | After Nazi Major Strasser has been shot, the command goes out to "round up" this group, the title of another film | usual suspects
+right: Roger
+Wrong: 
+Value: DD: $3,200
+Number: 11
+ANCIENT WISDOM | "The direction in which education starts a man will determine his future life" is a saying from his "Republic" | Plato
+right: Buddy
+Wrong: 
+Value: $600
+Number: 21
+NAME THE CITY | The South by Southwest festival | Austin
+right: Roger
+Wrong: 
+Value: $600
+Number: 16
+FOREIGN WORDS & PHRASES | Arabic gives us the names of both a plant & <http://www.j-archive.com/media/2011-11-15_J_08.jpg> this bath sponge made from that plant | luffah
+right: Roger
+Wrong: 
+Value: $600
+Number: 8
+MELTING POTPOURRI | Add melted cheese & chile peppers to tortilla chips & you get this Mexican-American appetizer | nachos
+right: Tom
+Wrong: 
+Buddy: What is queso dip?
+Value: $600
+Number: 28
+USDA FOREST SERVICE | The Transfer Act of 1905 transferred U.S. forest reserves to the Department of Agriculture from this cabinet dept. | Interior
+right: Roger
+Wrong: 
+Value: $800
+Number: 4
+YOU MUST REMEMBER CASABLANCA | Central to the plot are stolen "letters of" this that will allow anyone to travel unopposed | transit
+right: 
+Wrong: Triple Stumper
+Roger: What is... mark?
+Tom: What are passage?
+Value: $800
+Number: 12
+ANCIENT WISDOM | Socrates once declared, "I am not" this "or a Greek, but a citizen of the world" | Athenian
+right: Roger
+Wrong: 
+Value: $800
+Number: 22
+NAME THE CITY | The Beat Museum in North Beach | San Francisco
+right: Tom
+Wrong: 
+Value: $800
+Number: 17
+FOREIGN WORDS & PHRASES | This Italian term describes music that has no instrumental accompaniment | a cappella
+right: Roger
+Wrong: 
+Value: $800
+Number: 9
+MELTING POTPOURRI | In 1979 equipment & human failures led to a partial meltdown of the No. 2 reactor at this U.S. site | Three Mile Island
+right: Roger
+Wrong: 
+Value: $800
+Number: 29
+USDA FOREST SERVICE | During the Depression this New Deal agency renewed our decimated forests by <http://www.j-archive.com/media/2011-11-15_J_05.wmv> planting about 3 billion trees | the Civilian Conservation Corps (the CCC)
+right: Tom
+Wrong: 
+Value: $1000
+Number: 5
+YOU MUST REMEMBER CASABLANCA | Bogie delivers the film's last line to Claude Rains, who played this corrupt but honorable Frenchman | Louis (Renault)
+right: Roger
+Wrong: 
+Value: $1000
+Number: 13
+ANCIENT WISDOM | This playwright observed in "Clouds" that "Old men are children for a second time" | Aristophanes
+right: Tom
+Wrong: 
+Value: $1000
+Number: 23
+NAME THE CITY | The American Swedish Institute | Minneapolis
+right: Roger
+Wrong: 
+Value: $1000
+Number: 18
+FOREIGN WORDS & PHRASES | German for "shape" gives us this name of a school of psychology | Gestalt
+right: Roger
+Wrong: 
+Value: $1000
+Number: 10
+MELTING POTPOURRI | Melting copper & zinc together is the traditional recipe for this alloy used since Neolithic times | brass
+right: Tom
+Wrong: 
+Roger: What is bronze?
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Roger: $6,800
+Tom: $200
+Buddy: $1,000
+Scores at the end of the Jeopardy! Round:
+Roger: $10,000
+Tom: $3,800
+Buddy: $1,600
+Second Jeopardy! Round: TOUGH BODIES OF WATER, I MARRIED THIS SPORTS STAR, GOOD MIGRATIONS, 20th CENTURY AMERICANS, HAVE YOU HEARD THE "NEWS"?, 17-LETTER WORDS
+TOUGH BODIES OF WATER | Maori rock carvings on the cliffs of Mine Bay in this country's Lake Taupo are accessible only by boat | New Zealand
+right: Roger
+Wrong: 
+Value: $400
+Number: 30
+I MARRIED THIS SPORTS STAR | Gisele Bundchen, in 2009 | Tom Brady
+right: Buddy
+Wrong: 
+Value: $400
+Number: 1
+GOOD MIGRATIONS | (<http://www.j-archive.com/media/2011-11-15_DJ_28.wmv> Jimmy of the Clue Crew shows us a map of North America and the Pacific Ocean.) Following a 5,000 mile migration route, the gray species of this creature travels from the Arctic to warm Mexican waters, where it mates & gives birth | a whale
+right: Tom
+Wrong: 
+Value: $400
+Number: 28
+20th CENTURY AMERICANS | His 1948 report on "Sexual Behavior in the Human Male" was based on over 5,000 case histories | Kinsey
+right: Roger
+Wrong: 
+Value: $400
+Number: 6
+HAVE YOU HEARD THE "NEWS"? | Full name of the organization for which the man seen <http://www.j-archive.com/media/2011-11-15_DJ_26.jpg> here has plied his trade since 2001 | Cable News Network
+right: Buddy
+Wrong: 
+Value: $400
+Number: 26
+17-LETTER WORDS | The introduction of power-driven machinery in the early 1800s was a big factor in this process | industrialization
+right: Tom
+Wrong: 
+Value: $400
+Number: 20
+TOUGH BODIES OF WATER | Half a mile long, in the 1840s it inspired an American literary classic | Walden Pond
+right: Roger
+Wrong: 
+Buddy: Oh.  No.
+Value: $800
+Number: 29
+I MARRIED THIS SPORTS STAR | Kim Kardashian, in 2011 | Kris Humphries
+right: Tom
+Wrong: 
+Value: $800
+Number: 2
+GOOD MIGRATIONS | Long ago, 4-million-strong herds of these humped ungulates migrated regularly through the great plains | bison
+right: Buddy
+Wrong: 
+Value: $800
+Number: 27
+20th CENTURY AMERICANS | In 1966 she helped found the National Organization for Women & became its first president | (Betty) Friedan
+right: Tom
+Wrong: 
+Value: $800
+Number: 21
+HAVE YOU HEARD THE "NEWS"? | Known for its college rankings, it was created by the 1948 merger of 2 magazines | U.S. News and World Report
+right: Roger
+Wrong: 
+Value: $800
+Number: 25
+17-LETTER WORDS | Judicial review tests congressional legislation for this, conformity with a certain U.S. document | constitutionality
+right: Tom
+Wrong: 
+Value: $800
+Number: 19
+TOUGH BODIES OF WATER | This river, Africa's third longest, rises in the highlands of southern Guinea near its border with Sierra Leone | Niger
+right: Roger
+Wrong: 
+Value: $1200
+Number: 9
+I MARRIED THIS SPORTS STAR | Nomar Garciaparra, in 2003 | Mia Hamm
+right: Tom
+Wrong: 
+Value: $1200
+Number: 3
+GOOD MIGRATIONS | (<http://www.j-archive.com/media/2011-11-15_DJ_15.jpg> Jimmy of the Clue Crew shows us a map of southeast Africa, with Tanzania and the Indian Ocean labeled.) In Africa, the only place where vast animal migrations occur is in this large Tanzanian national park, where herds move in a circular route to find water and grazeable land | Serengeti
+right: Roger
+Wrong: 
+Value: $1200
+Number: 15
+20th CENTURY AMERICANS | In 1945 in Newport, Arkansas, he opened his first store, a Ben Franklin variety store | Sam Walton
+right: Buddy
+Wrong: 
+Value: $1200
+Number: 11
+HAVE YOU HEARD THE "NEWS"? | It's been "the Bible of Baseball" since 1886 | The Sporting News
+right: Tom
+Wrong: 
+Value: $1200
+Number: 22
+17-LETTER WORDS | This adjective means "thwarting an intended goal", like living on credit while trying to save money | counterproductive
+right: 
+Wrong: 
+Buddy: I'm not sure I have a lot to lose, let's bet it all.
+Value: DD: $4,800
+Number: 17
+TOUGH BODIES OF WATER | The Amana Colonies were settled on this "stately" river in the 1850s | Iowa
+right: 
+Wrong: Triple Stumper
+Roger: What is Tennessee?
+Value: $1600
+Number: 7
+I MARRIED THIS SPORTS STAR | Ashley Judd, in 2001 | Dario Franchitti
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+GOOD MIGRATIONS | Insects, like some locusts, migrate to areas where they do this, from the Latin for "winter" | hibernate
+right: Tom
+Wrong: 
+Value: $1600
+Number: 13
+20th CENTURY AMERICANS | <http://www.j-archive.com/media/2011-11-15_DJ_10.jpg> This <http://www.j-archive.com/media/2011-11-15_DJ_10a.jpg> Olympian was named to the National Track & Field Hall of Fame in 1974 | Wilma Rudolph
+right: Tom
+Wrong: 
+Value: $1600
+Number: 10
+HAVE YOU HEARD THE "NEWS"? | A 2011 scandal ended the 168-year run of this British scandal sheet | News of the World
+right: Buddy
+Wrong: 
+Value: $1600
+Number: 23
+17-LETTER WORDS | A cosmetic treatment that gently sands the skin | microdermabrasion
+right: Buddy
+Wrong: 
+Roger: What is... dermabrasion?
+Value: $1600
+Number: 16
+TOUGH BODIES OF WATER | Finland's Aland Islands lie at the southern edge of this gulf | the Gulf of Bothnia
+right: Tom
+Wrong: 
+Value: $2000
+Number: 8
+I MARRIED THIS SPORTS STAR | Carrie Underwood, in 2010 | Mike Fisher
+right: 
+Wrong: Triple Stumper
+Roger: Who is... Romo?
+Value: $2000
+Number: 5
+GOOD MIGRATIONS | (<http://www.j-archive.com/media/2011-11-15_DJ_14.jpg> Kelly of the Clue Crew shows us a map of North & South America.)  Separated by up to 1500 miles at the start of their annual migration, flocks of the scarlet type of <http://www.j-archive.com/media/2011-11-15_DJ_14a.jpg> this bird come closer together as they move down to South America | tanager
+right: Roger
+Wrong: 
+Value: $2000
+Number: 14
+20th CENTURY AMERICANS | This Pittsburgh-born financier & art collector was Secretary of the Treasury under Harding, Coolidge & Hoover | (Andrew) Mellon
+right: Roger
+Wrong: 
+Value: $2000
+Number: 12
+HAVE YOU HEARD THE "NEWS"? | Its Nov. 22, 1963 front-page headline read: "Storm of Political Controversy Swirls Around Kennedy on Visit" | The Dallas Morning News
+right: Buddy
+Wrong: 
+Value: DD: $600
+Number: 24
+17-LETTER WORDS | In politics, really, really traditional & right wing | ultraconservative
+right: Roger | Buddy
+Wrong: 
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Roger: $15,600
+Tom: $14,600
+Buddy: $4,600
+
+Final Jeopardy! Round
+19th CENTURY POETRY | He wrote, "He looked upon the garish day With such a wistful eye; The man had killed the thing he loved, & so he had to die" | Oscar Wilde
+right: 
+Wrong: 
+Buddy: Who is Shelley?
+Tom: Who is Coleridge?
+Roger: Who is P. Shelley?
+Wagers: 
+Buddy: $0
+Tom: $14,600
+Roger: $14,400
+Final scores:
+Roger: $1,200 (Tournament champion: $250,000)
+Tom: $0 (1st runner-up: $100,000)
+Buddy: $4,600 (2nd runner-up: $50,000)
+
+Coryat scores
+Roger: $13,000 (25 R(including 1 DD),6 W)
+Tom: $14,600 (16 R,1 W)
+Buddy: $10,800 (14 R(including 1 DD),3 W(including 1 DD))

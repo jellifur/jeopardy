@@ -1,0 +1,330 @@
+2932 - Tuesday, May 6, 1997
+Comments: 1997 International Tournament semifinal game 2.    From Stockholm, Sweden.
+Contestants:
+Murat Sen: an aviation manager from Turkey
+Eva Holmberg: a high school teacher from Gothenburg, Sweden
+Michael Daunt: an accountant from Canada
+First Jeopardy! Round: NAME THE AUTHOR, INTERNATIONAL FOOD & DRINK, DISCOVERIES, BALLET, COLLEGES & UNIVERSITIES, ENDS WITH "IST"
+NAME THE AUTHOR | The "Iliad", The "Odyssey" | Homer
+right: Eva
+Wrong: 
+Value: $100
+Number: 2
+INTERNATIONAL FOOD & DRINK | Sushi, which is most associated with this country, is often flavored with rice vinegar | Japan
+right: Murat
+Wrong: 
+Value: $100
+Number: 21
+DISCOVERIES | In 1947 a Bedouin discovered important scrolls in a cave on the shore of this sea | Dead Sea
+right: Eva
+Wrong: 
+Value: $100
+Number: 1
+BALLET | The Royal Danish Ballet has been based in this capital city for more than 200 years | Copenhagen
+right: Eva
+Wrong: 
+Value: $100
+Number: 26
+COLLEGES & UNIVERSITIES | Founded in 1348, Charles University in this Czech capital is the oldest university in central Europe | Prague
+right: Michael
+Wrong: 
+Value: $100
+Number: 16
+ENDS WITH "IST" | At the grocery store, one of these can help you remember what to buy | (shopping) List
+right: Eva
+Wrong: 
+Value: $100
+Number: 11
+NAME THE AUTHOR | "The Andromeda Strain", "Jurassic Park" | Michael Crichton
+right: Michael
+Wrong: 
+Value: $200
+Number: 3
+INTERNATIONAL FOOD & DRINK | Swedish for "bread & butter table", it's a Swedish buffet featuring an assortment of taste treats | Smorgasbord
+right: Eva
+Wrong: 
+Value: $200
+Number: 22
+DISCOVERIES | "Sir Humphry Davy/ Abominated gravy/ He lived in the odium/ of having discovered" this rhyming element | Sodium
+right: Eva
+Wrong: 
+Value: $200
+Number: 4
+BALLET | Part I of the ballet "Jewels" is named for these green gems; Part II is called "Rubies" | Emeralds
+right: Eva
+Wrong: 
+Value: $200
+Number: 27
+COLLEGES & UNIVERSITIES | Opened around 1257, it's now a part of the universities of Paris | The Sorbonne
+right: Eva
+Wrong: 
+Value: $200
+Number: 17
+ENDS WITH "IST" | It connects the hand & the forearm | Wrist
+right: Murat
+Wrong: 
+Value: $200
+Number: 12
+NAME THE AUTHOR | "The Idiot", "Crime and Punishment" | Fyodor Dostoevsky
+right: Michael
+Wrong: 
+Value: $300
+Number: 5
+INTERNATIONAL FOOD & DRINK | Many hot, spicy dishes such as Szechwan shrimp originated in this country's Szechwan province | China
+right: Michael
+Wrong: 
+Value: $300
+Number: 23
+DISCOVERIES | The 1820 discovery of this continent is claimed by both sailors & sealers | Antarctica
+right: Michael
+Wrong: 
+Value: $300
+Number: 8
+BALLET | "Noblissima Visione" is a dramatic, stylized ballet about this saint of Assisi | Saint Francis of Assisi
+right: Michael
+Wrong: 
+Value: $300
+Number: 28
+COLLEGES & UNIVERSITIES | From 1902 to 1938, Sigmund Freud served as a professor of neuropathology at this university | University of Vienna
+right: Michael
+Wrong: 
+Value: $300
+Number: 18
+ENDS WITH "IST" | It's like fog but doesn't reduce visibility as much | Mist
+right: Murat
+Wrong: 
+Value: $300
+Number: 13
+NAME THE AUTHOR | "The Tin Drum", "Dog Years" | Gunter Grass
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+INTERNATIONAL FOOD & DRINK | Jerk chicken is a specialty of this Caribbean island, the home of reggae music | Jamaica
+right: Eva
+Wrong: 
+Murat: What is Barbados?
+Value: $400
+Number: 24
+DISCOVERIES | It was the first subatomic particle discovered 100 years ago by J.J. Thomson | Electron
+right: Michael
+Wrong: 
+Value: $400
+Number: 9
+COLLEGES & UNIVERSITIES | The Radcliffe Camera, a domed building at this British university, is a reading room for the Bodleian Library | Oxford
+right: Eva
+Wrong: 
+Value: $400
+Number: 19
+ENDS WITH "IST" | It's a person who travels for fun | Tourist
+right: Michael
+Wrong: 
+Value: $400
+Number: 14
+NAME THE AUTHOR | "The Stranger", "The Plague" | Albert Camus
+right: Michael
+Wrong: 
+Value: $500
+Number: 7
+INTERNATIONAL FOOD & DRINK | The Rioja region of this European country is noted for its wines | Spain
+right: Murat
+Wrong: 
+Value: $500
+Number: 25
+DISCOVERIES | Unexplained movements by Uranus led to the discovery of this planet in the 1840s | Neptune
+right: Michael
+Wrong: 
+Value: DD: $1,000
+Number: 10
+COLLEGES & UNIVERSITIES | Monrovia is home to the university of this African country | Liberia
+right: Michael
+Wrong: 
+Value: $500
+Number: 20
+ENDS WITH "IST" | Performer who can put you in a trancelike state that leaves you open to suggestion | Hypnotist
+right: Michael
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Michael: $3,700
+Eva: $500
+Murat: $500
+Scores at the end of the Jeopardy! Round:
+Michael: $5,100
+Eva: $2,000
+Murat: $700
+Second Jeopardy! Round: HISTORIC EUROPEAN LEADERS, COMIC ACTORS, WORLD GEOGRAPHY, POTPOURRI, PLAYS & PLAYWRIGHTS, PARDONNEZ MON FRANCAIS
+HISTORIC EUROPEAN LEADERS | He was Soviet president at the time the Berlin Wall came down | Mikhail Gorbachev
+right: Murat
+Wrong: 
+Value: $200
+Number: 6
+COMIC ACTORS | He was a star in British Vaudeville before creating the "Little Tramp" onscreen | Charlie Chaplin
+right: Eva
+Wrong: 
+Value: $200
+Number: 1
+WORLD GEOGRAPHY | This country's Lake Balaton, just southwest of Budapest, is central Europe's largest lake | Hungary
+right: Michael
+Wrong: 
+Value: $200
+Number: 21
+POTPOURRI | Ganymede & Callisto are the largest moons of this largest planet | Jupiter
+right: Michael
+Wrong: 
+Value: $200
+Number: 11
+PLAYS & PLAYWRIGHTS | "Protest" is a semi-autobiographical play by this president of the Czech Republic | Vaclav Havel
+right: Eva
+Wrong: 
+Value: $200
+Number: 14
+PARDONNEZ MON FRANCAIS | Raising his glass, a Frenchman might say, "A votre sante", which means this | To your health
+right: Michael
+Wrong: 
+Value: $200
+Number: 26
+HISTORIC EUROPEAN LEADERS | When she died in 1504, the rule of Castille was passed on to her mad daughter Juana | Isabella
+right: Michael
+Wrong: 
+Value: $400
+Number: 7
+COMIC ACTORS | His title roles have included "Ace Ventura" & half of "Dumb & Dumber" | Jim Carrey
+right: Michael
+Wrong: 
+Value: $400
+Number: 2
+WORLD GEOGRAPHY | Peru's highest peaks, Huascaran & Yerupaja, lie in this range | Andes
+right: Eva
+Wrong: 
+Value: $400
+Number: 22
+POTPOURRI | The dromedary type of this mammal has 1 hump; the Bactrian has 2 | Camel
+right: Michael
+Wrong: 
+Value: $400
+Number: 12
+PLAYS & PLAYWRIGHTS | Scene VI of George Bernard Shaw's play about this female saint is set in Rouen in 1431 | Joan of Arc
+right: Eva
+Wrong: 
+Value: $400
+Number: 15
+PARDONNEZ MON FRANCAIS | A pas de trois is a dance for this many people | 3
+right: Michael
+Wrong: 
+Value: $400
+Number: 28
+HISTORIC EUROPEAN LEADERS | In 1963 he was made Yugoslavia's president for life; he lived until 1980 | Marshal Josip Broz Tito
+right: Eva
+Wrong: 
+Value: $600
+Number: 8
+COMIC ACTORS | Martin Short, John Candy & Dan Aykroyd were all born in this country | Canada
+right: Michael
+Wrong: 
+Value: $600
+Number: 3
+WORLD GEOGRAPHY | Bhopal is the capital of this country's Madhya Pradesh state | India
+right: Murat
+Wrong: 
+Value: $600
+Number: 23
+POTPOURRI | This airline was founded in 1920 as the Queensland & Northern Territory Aerial Services Ltd. | Qantas
+right: Eva
+Wrong: 
+Value: $600
+Number: 13
+PLAYS & PLAYWRIGHTS | A count's daughter seduces a servant in this Swede's 1880s drama "Miss Julie" | August Strindberg
+right: Michael
+Wrong: 
+Value: $600
+Number: 16
+PARDONNEZ MON FRANCAIS | At Le Bureau de Poste, you may buy les timbres, these | Stamps
+right: Eva
+Wrong: 
+Value: $600
+Number: 29
+HISTORIC EUROPEAN LEADERS | Succeeding his brother Richard the Lionhearted as king, he also succeeded in alienating everyone he knew | John Lackland
+right: Eva
+Wrong: 
+Value: $800
+Number: 9
+COMIC ACTORS | 20 years after playing Woody Allen's "Annie Hall", she's become a respected film director | Diane Keaton
+right: Michael
+Wrong: 
+Value: $800
+Number: 4
+WORLD GEOGRAPHY | In 1991, after years of construction, the new city of Abuja replaced Lagos as this country's capital | Nigeria
+right: Michael
+Wrong: 
+Value: $800
+Number: 24
+POTPOURRI | In 1783 these brothers demonstrated their hot air balloon to Louis XVI & Marie Antoinette | the Montgolfier brothers
+right: Murat
+Wrong: 
+Value: $800
+Number: 19
+PLAYS & PLAYWRIGHTS | "La Cantatrice Chauve", or "The Bald Soprano", is an Absurdist play by this author of "Rhinoceros" | Eugene Ionesco
+right: Michael
+Wrong: 
+Value: $800
+Number: 17
+PARDONNEZ MON FRANCAIS | To play vingt-et-un, you need these items | Deck of cards
+right: Eva
+Wrong: 
+Value: $800
+Number: 30
+HISTORIC EUROPEAN LEADERS | The patron saint of Bohemia is this "good king" | Wenceslas
+right: Michael
+Wrong: 
+Value: $1000
+Number: 10
+COMIC ACTORS | Seen in "Evita", this sex symbol from Malaga gained fame in the offbeat comic films of Pedro Almodovar | Antonio Banderas
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+WORLD GEOGRAPHY | This island group also claimed by Argentina was named by the British for a treasurer of the British navy | Falkland (or Malvinas) Islands
+right: Eva
+Wrong: 
+Value: $1000
+Number: 25
+POTPOURRI | In mythology Laius & Oedipus both reigned over this Greek city | Thebes
+right: Michael
+Wrong: 
+Value: $1000
+Number: 20
+PLAYS & PLAYWRIGHTS | This American won a 1928 Pulitzer Prize for his very long, 9-act drama "Strange Interlude" | Eugene O'Neill
+right: Michael
+Wrong: 
+Value: DD: $1,000
+Number: 18
+PARDONNEZ MON FRANCAIS | Beaumarchais title character you might visit for "une coupe de cheveux" | Figaro ("The Barber of Seville")
+right: Michael
+Wrong: 
+Value: DD: $1,500
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Michael: $15,400
+Eva: $7,600
+Murat: $2,300
+
+Final Jeopardy! Round
+THE 7 ANCIENT WONDERS | These 2 oldest wonders were built by non-Greek civilizations | Hanging Gardens of Babylon & the Pyramids of Egypt
+right: Murat | Michael
+Wrong: 
+Eva: What are the pyramids & the light
+Wagers: 
+Murat: $2,300
+Eva: $7,599
+Michael: $0
+Final scores:
+Michael: $15,400 (Finalist)
+Eva: $1 (3rd place: $5,000)
+Murat: $4,600 (2nd place: $5,000)
+
+Coryat scores
+Michael: $14,400 (29 R(including 3 DDs),0 W)
+Eva: $7,600 (20 R,0 W)
+Murat: $2,300 (7 R,1 W)

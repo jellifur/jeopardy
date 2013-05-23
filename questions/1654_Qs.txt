@@ -1,0 +1,355 @@
+3580 - Friday, March 10, 2000
+Contestants:
+Maggie Harris: a program coordinator from Sautee, Georgia
+John Mollenkamp: an attorney from Jefferson City, Missouri
+Charles Hubert: a developer from Tucker, Georgia (whose 1-day cash winnings total $6,399)
+First Jeopardy! Round: SCIENCE, THE CINEMA, NON-RELIGIOUS HOLIDAYS, ISLANDS, NAME THE DECADE, DIRTY 4-LETTER WORDS
+SCIENCE | In biology it's a finger; in math, a figure like 1 | a digit
+right: John
+Wrong: 
+Charles: What is an integer?
+Value: $100
+Number: 6
+THE CINEMA | Minnie Driver provided the voice of Jane in this 1999 Disney blockbuster | Tarzan
+right: Maggie
+Wrong: 
+Value: $100
+Number: 14
+NON-RELIGIOUS HOLIDAYS | Joan Crawford died on May 10, the date of this holiday in many countries other than the U.S. | Mother's Day
+right: John
+Wrong: 
+Maggie: What is Memorial Day?
+Value: $100
+Number: 11
+ISLANDS | An island named for the animal seen <http://www.j-archive.com/media/2000-03-10_J_01.jpg> here belongs to this country [kangaroo] | Australia
+right: Charles
+Wrong: 
+John: What is Kangaroo Island?
+Value: $100
+Number: 1
+NAME THE DECADE | Elizabeth II became Queen of England | the 1950s
+right: John
+Wrong: 
+Charles: What is the 16th century?
+Value: $100
+Number: 26
+DIRTY 4-LETTER WORDS | It's the filmy covering soap may leave | scum
+right: Charles
+Wrong: 
+Value: $100
+Number: 21
+SCIENCE | A free-falling body accelerates at a rate of about 1 g, g coming from this word | gravity
+right: Maggie
+Wrong: 
+Value: $200
+Number: 7
+THE CINEMA | This Eddie Murphy remake of a Jerry Lewis film was the biggest-grossing comedy of the summer in 1996 | The Nutty Professor
+right: Maggie
+Wrong: 
+Value: $200
+Number: 15
+NON-RELIGIOUS HOLIDAYS | Islamic Republic Day in Iran is celebrated on this date, no foolin' | April 1
+right: Charles
+Wrong: 
+Value: $200
+Number: 12
+ISLANDS | This "Valley Island" is found between the islands of Molokai & Hawaii | Maui
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 2
+NAME THE DECADE | The American Revolution began | the 1770s
+right: Charles
+Wrong: 
+Maggie: What is the 1760s?
+Value: $200
+Number: 27
+DIRTY 4-LETTER WORDS | On iron, it's mainly hydrated ferric oxide | rust
+right: Maggie
+Wrong: 
+Value: $200
+Number: 22
+SCIENCE | Pre-Y1K scientists figured this organ gave out light; they were, of course, wrong | eye
+right: John
+Wrong: 
+Value: $300
+Number: 8
+THE CINEMA | She co-starred with Arnold Schwarzenegger in "Eraser" & sang its theme, "Where Do We Go From Here" | Vanessa Williams
+right: 
+Wrong: Triple Stumper
+Maggie: What is Eraser?
+Value: $300
+Number: 16
+NON-RELIGIOUS HOLIDAYS | It was first celebrated in the U.S. in February 1866 as a memorial service | Lincoln's Birthday
+right: 
+Wrong: 
+Charles: What is President's Day?
+Value: DD: $400
+Number: 13
+ISLANDS | The healthful climate of this south Atlantic island didn't help Napoleon; he died there | St. Helena
+right: Charles
+Wrong: 
+John: What is Alba?
+Value: $300
+Number: 3
+NAME THE DECADE | The Pilgrims landed at Plymouth Rock | the 1620s
+right: John
+Wrong: 
+Value: $300
+Number: 28
+DIRTY 4-LETTER WORDS | An adjective for a vile smell, or a noun that pairs with file | rank
+right: Charles
+Wrong: 
+Value: $300
+Number: 23
+SCIENCE | These in the skies of Albuquerque on October 3, 1999 were a fine example of Charles' Law in action | hot air balloons
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+THE CINEMA | In this 1999 film, Clint Eastwood plays a reporter out to prove the guilt or innocence of a condemned murderer | True Crime
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+NON-RELIGIOUS HOLIDAYS | Discovery Day in the Bahamas is observed on this date | October 12
+right: Charles
+Wrong: 
+Value: $400
+Number: 19
+ISLANDS | It's the largest island in the Malay Archipelago & the second largest in the world | New Guinea
+right: 
+Wrong: Triple Stumper
+Charles: What is Borneo?
+Value: $400
+Number: 4
+NAME THE DECADE | Picasso painted "Guernica" | the 1930s
+right: Charles
+Wrong: 
+Value: $400
+Number: 29
+DIRTY 4-LETTER WORDS | This term for a sticky, greasy substance came from the brand name of a cleaning solvent | gunk
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+SCIENCE | The 5-kingdom system is made up of animals, bacteria, plants, protists & these | fungi
+right: 
+Wrong: Triple Stumper
+Charles: What are...
+John: What are monera?
+Maggie: What are viruses?
+Value: $500
+Number: 10
+THE CINEMA | This dancer introduced "Something's Gotta Give" in his 1955 film "Daddy Long Legs" | Fred Astaire
+right: Charles
+Wrong: 
+Value: $500
+Number: 18
+NON-RELIGIOUS HOLIDAYS | On this British holiday, service people like postmen & trash collectors get gifts | Boxing Day (December 26)
+right: Charles
+Wrong: 
+Value: $500
+Number: 20
+ISLANDS | Sounds hypothetical, but it's the real-life island prison in "The Count of Monte Cristo" | Chateau d'If
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+NAME THE DECADE | Santa Anna led his assault on the Alamo | the 1830s
+right: Charles
+Wrong: 
+Value: $500
+Number: 30
+DIRTY 4-LETTER WORDS | An anagram of whey's partner is this term for a crusty deposit | crud
+right: John
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Charles: -$800
+John: -$400
+Maggie: -$400
+Scores at the end of the Jeopardy! Round:
+Charles: $2,000
+John: $500
+Maggie: -$400
+Second Jeopardy! Round: LIONS, MASONS, THE ROTARY CLUB, ODD FELLOWS, OPTIMISTS, THE "Y"
+LIONS | The Barbary lion, now essentially extinct, is best known for eating early members of this group in the Coliseum | Christians
+right: John
+Wrong: 
+Value: $200
+Number: 1
+MASONS | This 1858 invention was John Mason's contribution to the art of canning | Mason jar
+right: Charles
+Wrong: 
+Value: $200
+Number: 2
+THE ROTARY CLUB | After testing, this technology began to replace the rotary dial in November 1963 | touch-tone
+right: Maggie
+Wrong: 
+Value: $200
+Number: 3
+ODD FELLOWS | He comes upon some odd fellows playing ninepins, gets ripped on their liquor & falls asleep for 20 years | Rip Van Winkle
+right: Charles
+Wrong: 
+Value: $200
+Number: 7
+OPTIMISTS | On Oct. 25 of this year, the New York Journal headlined, "Experts Predict Rising Market"--oops | 1929
+right: Maggie
+Wrong: 
+John: What is 1987?
+Value: $200
+Number: 13
+THE "Y" | You're in balance if you know it's the complement of "yang" | yin
+right: Maggie
+Wrong: 
+Value: $200
+Number: 27
+LIONS | As well as these on their paws, lions have a patch of rough skin on their tails called the same thing | claw
+right: 
+Wrong: Triple Stumper
+Maggie: What is a pad?
+Value: $400
+Number: 4
+MASONS | This comedian was born with the name Yacov Moshe Maza | Jackie Mason
+right: Charles
+Wrong: 
+Value: $400
+Number: 18
+THE ROTARY CLUB | On an airplane they're "fixed"; on a helicopter they're actually "rotary" | wings
+right: Maggie
+Wrong: 
+Value: $400
+Number: 22
+ODD FELLOWS | Jed Shaner set a Guinness record in 1991 by covering himself with some 343,000 of these insects | bees
+right: Maggie
+Wrong: 
+Value: $400
+Number: 8
+OPTIMISTS | Optimistic 4-word phrase spoken by the title object seen <http://www.j-archive.com/media/2000-03-10_DJ_14.jpg> here: | "I think I can"
+right: Maggie
+Wrong: 
+Value: DD: $500
+Number: 14
+THE "Y" | This single-celled fungus can ferment sugars & carbohydrates | yeast
+right: Charles
+Wrong: 
+Value: $400
+Number: 28
+LIONS | (<http://www.j-archive.com/media/2000-03-10_DJ_05.jpg> I'm Chris Claiborne of the Detroit Lions.)  In the wild, lions' favorite prey are antelopes & this member of the horse family | zebra
+right: Maggie
+Wrong: 
+Value: $600
+Number: 5
+MASONS | He led the cast of the 1959 film "Journey to the Center of the Earth", seen <http://www.j-archive.com/media/2000-03-10_DJ_19.wmv> here: | James Mason
+right: Charles
+Wrong: 
+Value: $600
+Number: 19
+THE ROTARY CLUB | The rotary or rotator cuff is part of this joint | shoulder
+right: John
+Wrong: 
+Value: $600
+Number: 23
+ODD FELLOWS | This legendary lumberjack was so huge that when he was a baby it took 5 storks to deliver him | Paul Bunyan
+right: John
+Wrong: 
+Value: $600
+Number: 10
+OPTIMISTS | On May 25, 1961 JFK called for the U.S. to achieve this goal by decade's end | to put a man on the Moon
+right: Charles
+Wrong: 
+Value: $600
+Number: 15
+THE "Y" | In 1485 the Tudor family of rulers replaced this Plantaganet house | York
+right: Maggie
+Wrong: 
+Value: $600
+Number: 29
+LIONS | The highly developed carnassial teeth shear these cords that connect muscle to bone | Tendons
+right: Charles
+Wrong: 
+Value: $800
+Number: 6
+MASONS | This actress received 3 of her 4 Academy Award nominations for films written by Neil Simon | Marsha Mason
+right: Charles
+Wrong: 
+Value: $800
+Number: 20
+THE ROTARY CLUB | The Philadelphia Public Ledger in the 1840s was the first to use this invention by Richard Hoe | a rotary press
+right: John
+Wrong: 
+Value: $800
+Number: 25
+ODD FELLOWS | Commodus, emperor of this, enjoyed dressing up like Hercules (he thought he was Hercules reincarnated) | Rome
+right: Maggie
+Wrong: 
+Value: $800
+Number: 11
+OPTIMISTS | Norman Vincent Peale's best-known work is "The Power of" this | Positive Thinking
+right: Maggie
+Wrong: 
+Value: $800
+Number: 16
+THE "Y" | Expanded from the tetragrammaton, it's a Hebrew name for God | Yahweh
+right: John
+Wrong: 
+Value: $800
+Number: 30
+LIONS | The lion's genus & species is sometimes given by this 3-letter word repeated | Leo
+right: 
+Wrong: 
+Maggie: What is cat?
+Value: DD: $600
+Number: 9
+MASONS | In 1987 this guitarist recorded a new version of "Classical Gas" with Mannheim Steamroller | Mason Williams
+right: Charles
+Wrong: 
+Value: $1000
+Number: 21
+THE ROTARY CLUB | This German made his name with his 1956 epitrochoidal or rotary engine | Felix Wankel
+right: Charles
+Wrong: 
+Value: $1000
+Number: 24
+ODD FELLOWS | Ike Snopes falls in love with a cow in this novelist's Snopes Trilogy | William Faulkner
+right: Charles
+Wrong: 
+Value: $1000
+Number: 12
+OPTIMISTS | In 1989 scientists raised energy hopes when they claimed this nuclear reaction at room temperature | cold/nuclear fusion
+right: Maggie
+Wrong: 
+Value: $1000
+Number: 17
+THE "Y" | This bright-winged type of woodpecker is the state bird of Alabama | the yellowhammer
+right: Charles
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Charles: $10,000
+John: $3,300
+Maggie: $4,300
+
+Final Jeopardy! Round
+FICTIONAL CHARACTERS | In a 1963 book this character found out his family motto in Latin would be "Orbis Non Sufficit" | James Bond ("The World Is Not Enough")
+right: 
+Wrong: 
+John: Who is Rabbit?
+Maggie: Who
+Charles: Who is Garp
+Wagers: 
+John: $2,000
+Maggie: $4,000
+Charles: $1,399
+Final scores:
+Charles: $8,601 (2-day champion: $15,000)
+John: $1,300 (2nd place: a JVC home theater system + a DirecTV satellite system)
+Maggie: $300 (3rd place: an Epson Photo PC750Z camera)
+
+Coryat scores
+Charles: $10,400 (23 R,5 W(including 1 DD))
+John: $3,300 (11 R,4 W)
+Maggie: $4,800 (15 R(including 1 DD),6 W(including 1 DD))

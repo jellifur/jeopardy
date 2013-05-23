@@ -1,0 +1,339 @@
+2925 - Friday, April 25, 1997
+Contestants:
+Courtney Conrad: a business owner from Orlando, Florida
+Doug Antoniazzi: a test systems analyst from Hyde Park, Massachusetts
+Roger Bauman: a financial analyst from St. Paul, Minnesota (whose 2-day cash winnings total $19,999)
+First Jeopardy! Round: SHAKESPEARE, FEMALE SINGERS, CINCO DE MAYO, PEOPLE & PLACES, TEAM SPORTS, NOUNS OR VERBS
+SHAKESPEARE | Friar Lawrence laments that this pair's "stol'n marriage day was Tybalt's doomsday" | Romeo and Juliet
+right: Doug
+Wrong: 
+Value: $100
+Number: 8
+FEMALE SINGERS | This "Material Girl" was paid $100 to appear in "A Certain Sacrifice", her film debut | Madonna
+right: Roger
+Wrong: 
+Value: $100
+Number: 22
+CINCO DE MAYO | The first robbery of one of these occurred May 5, 1865; first the crooks derailed it | Train
+right: Roger
+Wrong: 
+Value: $100
+Number: 6
+PEOPLE & PLACES | A Gothamite is a resident of this U.S. city | New York City
+right: Doug
+Wrong: 
+Value: $100
+Number: 16
+TEAM SPORTS | In football's shotgun formation, this player stands several yards behind the center to take the snap | Quarterback
+right: Roger
+Wrong: 
+Value: $100
+Number: 1
+NOUNS OR VERBS | A cod, or to catch a cod | Fish
+right: Courtney
+Wrong: 
+Value: $100
+Number: 21
+SHAKESPEARE | "She has light by her continually, 'tis her command", & she sleepwalks carrying a taper | Lady Macbeth
+right: Courtney
+Wrong: 
+Value: $200
+Number: 9
+FEMALE SINGERS | Her 1996 album "Stardust" features another duet with her late dad on "When I Fall In Love" | Natalie Cole
+right: Courtney
+Wrong: 
+Value: $200
+Number: 23
+CINCO DE MAYO | Signed into law May 5, 1961, the Fair Labor Standards Act raised this to $1.15 | Minimum wage
+right: Courtney
+Wrong: 
+Value: $200
+Number: 7
+PEOPLE & PLACES | The Mbuti of Zaire's Ituri Forest may be the best known of these people noted for their short stature | Pygmies
+right: Doug
+Wrong: 
+Value: $200
+Number: 17
+TEAM SPORTS | In this sport it may be a foul to hold either the ball or an opponent's head underwater | Water polo
+right: Roger
+Wrong: 
+Value: $200
+Number: 2
+NOUNS OR VERBS | What belongs to the victor, or what food does when left out | Spoils
+right: Roger | Doug
+Wrong: 
+Value: $200
+Number: 27
+SHAKESPEARE | Some scholars think this bawdy comedy was based on a ballad, "A Merry Jest of a Shrewd and Curst Wife..." | "The Taming of the Shrew"
+right: 
+Wrong: 
+Value: DD: $700
+Number: 10
+FEMALE SINGERS | A few months after her October 4, 1970 death, "Me And Bobbie McGee" topped the charts | Janis Joplin
+right: Courtney
+Wrong: 
+Value: $300
+Number: 24
+CINCO DE MAYO | Tchaikovsky conducted this New York City landmark's opening concert May 5, 1891 | Carnegie Hall
+right: Roger
+Wrong: 
+Value: $300
+Number: 13
+PEOPLE & PLACES | The name of these Eastenders comes from a middle English word that meant "cock's egg" | Cockneys
+right: Roger
+Wrong: 
+Value: $300
+Number: 18
+TEAM SPORTS | It's said this game using little padding originated when a schoolboy grabbed a soccer ball & ran | Rugby
+right: Courtney
+Wrong: 
+Value: $300
+Number: 3
+NOUNS OR VERBS | A jester, or to hoodwink | Fool
+right: Courtney
+Wrong: 
+Value: $300
+Number: 28
+SHAKESPEARE | Act I, scene 1 of this play is set in front of Priam's palace in Troy | "Troilus and Cressida"
+right: Doug
+Wrong: 
+Value: $400
+Number: 11
+FEMALE SINGERS | This gospel artist hit No. 1 on the pop charts in 1991 with "Baby Baby" | Amy Grant
+right: Courtney
+Wrong: 
+Value: $400
+Number: 25
+CINCO DE MAYO | Founded in the 13th century by the Kirghiz, it adopted its constitution May 5, 1993 | Kyrgyzstan
+right: Roger
+Wrong: 
+Value: $400
+Number: 14
+PEOPLE & PLACES | The 2 Scandinavian countries with the largest population of Lapps | Norway & Sweden
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+TEAM SPORTS | Hockey's Colorado Avalanche once played for this city, birthplace of their star Patrick Roy | Quebec City
+right: Roger
+Wrong: 
+Value: $400
+Number: 4
+NOUNS OR VERBS | A jewelry setting, or to get on a horse | Mount
+right: Roger
+Wrong: 
+Value: $400
+Number: 29
+SHAKESPEARE | After stabbing him, Hamlet cries, "This incestuous, murderous, damned Dane...follow my mother" | Claudius
+right: Doug
+Wrong: 
+Value: $500
+Number: 12
+FEMALE SINGERS | "Love Is", her duet with Brian McKnight, was featured on the "Beverly Hills 90210" soundtrack | Vanessa Williams
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+CINCO DE MAYO | Italian forces took this African capital city May 5, 1936 | Addis Ababa
+right: Doug
+Wrong: 
+Value: $500
+Number: 15
+PEOPLE & PLACES | Some people in St. Barthelemy, an island in this sea, still speak the Norman dialect of their ancestors | Caribbean Sea
+right: Doug
+Wrong: 
+Value: $500
+Number: 20
+TEAM SPORTS | Using a frisbee & combining football & other games, it's the "last" word in team sports | Ultimate frisbee
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+NOUNS OR VERBS | Home to a smithy, or to make counterfeit bills | Forge
+right: Courtney
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Roger: $1,500
+Doug: $1,300
+Courtney: $0
+Scores at the end of the Jeopardy! Round:
+Roger: $2,100
+Doug: $1,900
+Courtney: $1,400
+Second Jeopardy! Round: SCIENCE, INTERNATIONAL CUISINE, PHOTOGRAPHY, HISTORIC AMERICANS, SILENT MOVIES, AUTHORS' NICKNAMES
+SCIENCE | Proxima Centauri is the second-closest star to the Earth; this is the closest | The sun
+right: Roger
+Wrong: 
+Value: $200
+Number: 12
+INTERNATIONAL CUISINE | This bright green fruit is featured in pavlova, a dessert from New Zealand | Kiwi fruit
+right: Courtney
+Wrong: 
+Value: $200
+Number: 20
+PHOTOGRAPHY | When selling its box camera, this company used the slogan, "You Press the Button, We Do the Rest" | Kodak
+right: Courtney
+Wrong: 
+Value: $200
+Number: 11
+HISTORIC AMERICANS | At the Smithsonian's National Portrait Gallery, you can see this Indian princess as she really appeared | Pocahontas
+right: Roger
+Wrong: 
+Value: $200
+Number: 1
+SILENT MOVIES | Lon Chaney wore a 70-pound rubber hump & harness for this 1923 film | The Hunchback of Notre Dame
+right: Doug
+Wrong: 
+Value: $200
+Number: 2
+AUTHORS' NICKNAMES | "The Pilgrim From Hannibal" | Mark Twain
+right: Courtney
+Wrong: 
+Value: $200
+Number: 15
+SCIENCE | The constellation Taurus, not Cancer, contains this famous nebula | Crab Nebula
+right: Courtney
+Wrong: 
+Value: $400
+Number: 13
+INTERNATIONAL CUISINE | One cookbook says "There are as many varieties of" this Hungarian stew "as there are cooks in Hungary" | Goulash
+right: Doug
+Wrong: 
+Value: $400
+Number: 21
+PHOTOGRAPHY | At the outbreak of the Civil War, he hired a staff of about 20 photographers to cover every phase of the conflict | Mathew Brady
+right: Courtney
+Wrong: 
+Value: $400
+Number: 23
+HISTORIC AMERICANS | This leader of the Green Mountain Boys  was born in Litchfield, Connecticut | Ethan Allen
+right: Doug
+Wrong: 
+Value: $400
+Number: 7
+SILENT MOVIES | This 1925 film set in the Klondike was Charlie Chaplin's first starring vehicle for United Artists | The Gold Rush
+right: Doug
+Wrong: 
+Value: $400
+Number: 3
+AUTHORS' NICKNAMES | "The Fourth Musketeer" | Alexandre Dumas (pere)
+right: Courtney
+Wrong: 
+Value: $400
+Number: 16
+SCIENCE | Arteries branch off into arterioles & these join to form veins | Venuoles
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 14
+INTERNATIONAL CUISINE | A famous dish from Germany is this peppery rabbit stew | Hassenpfeffer
+right: Roger
+Wrong: 
+Value: $600
+Number: 22
+PHOTOGRAPHY | Aperture size is measured in these numbers which usually range from 2 to 16 | F-stops
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+HISTORIC AMERICANS | He was sworn in as vice president December 19, 1974 | Nelson Rockefeller
+right: Doug
+Wrong: 
+Value: DD: $2,000
+Number: 8
+SILENT MOVIES | William Wellman, who directed this first Oscar winner, about WWI, was a veteran of aerial combat | Wings
+right: Roger
+Wrong: 
+Value: $600
+Number: 4
+AUTHORS' NICKNAMES | "The Chronicler of Main Street" | Sinclair Lewis
+right: Roger
+Wrong: 
+Value: $600
+Number: 17
+SCIENCE | Often quite expensive, it's considered the strongest natural fiber | Silk
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 18
+INTERNATIONAL CUISINE | A popular Chinese dish, it consists of stir fried shredded meat & vegetables served in thin pancakes | Mu Shu Pork
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+PHOTOGRAPHY | In this type of photography, auras are seen surrounding the photographic subject | Kirlian photography
+right: Courtney
+Wrong: 
+Value: $800
+Number: 29
+HISTORIC AMERICANS | This founder of the Mormon church was murdered by a mob in 1844 | Joseph Smith
+right: Courtney
+Wrong: 
+Value: $800
+Number: 9
+SILENT MOVIES | In 1926 John Barrymore romanced Mary Astor as this swashbuckling Spanish lover | Don Juan
+right: Roger
+Wrong: 
+Value: $800
+Number: 5
+AUTHORS' NICKNAMES | "The Father of English Poetry" | Geoffrey Chaucer
+right: Doug
+Wrong: 
+Value: $800
+Number: 25
+SCIENCE | This gray metal is used in spark plugs & x-ray tubes as well as filaments | Tungsten
+right: Courtney
+Wrong: 
+Value: $1000
+Number: 19
+INTERNATIONAL CUISINE | This salad of bulgur wheat, onions, tomatoes, parsley & mint is a classic dish of the Middle East | Tabbouleh
+right: Courtney
+Wrong: 
+Value: $1000
+Number: 27
+PHOTOGRAPHY | This photographer & her husband Erskine Caldwell published the 1937 work "You Have Seen Their Faces" | Margaret Bourke-White
+right: Courtney
+Wrong: 
+Value: $1000
+Number: 30
+HISTORIC AMERICANS | At 80 she stepped down as president of the National American Woman Suffrage Association in 1900 | Susan B. Anthony
+right: Doug
+Wrong: 
+Value: $1000
+Number: 10
+SILENT MOVIES | "The Torrent", released in 1926, was this Swedish actress' first American film | Greta Garbo
+right: Courtney
+Wrong: 
+Value: $1000
+Number: 6
+AUTHORS' NICKNAMES | Italy's "Poet of the Damned" | Dante Alighieri
+right: Courtney
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Roger: $2,100
+Doug: $6,500
+Courtney: $9,800
+
+Final Jeopardy! Round
+U.S. PRESIDENTS | 2 of the 5 presidents in the 20th century who were former U.S. senators | (2 of) Warren Harding, Harry Truman, John Kennedy, Lyndon Johnson & Richard Nixon
+right: Doug
+Wrong: 
+Roger: Who were Kennedy & Taft
+Courtney: Who are Kennedy & Bush
+Wagers: 
+Roger: $2,000
+Doug: $6,499
+Courtney: $3,301
+Final scores:
+Roger: $100 (3rd place: Motorola StarTac Cellular Phone)
+Doug: $12,999 (New champion: $12,999)
+Courtney: $6,499 (2nd place: Temptress Adventures Trip/Cruise in Costa Rica)
+
+Coryat scores
+Roger: $4,100 (16 R,3 W(including 1 DD))
+Doug: $5,100 (15 R(including 1 DD),3 W)
+Courtney: $10,500 (22 R,2 W(including 1 DD))

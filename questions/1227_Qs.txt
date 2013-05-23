@@ -1,0 +1,344 @@
+3067 - Tuesday, December 23, 1997
+Contestants:
+Jeff Kinstler: a trial lawyer from Reisterstown, Maryland
+Elizabeth Haines: a data conversion operator from Richmond, Michigan
+Larry Thompson: an actor from Smyrna, Georgia (whose 1-day cash winnings total $6,800)
+First Jeopardy! Round: AWARDS, IN THE BOOKSTORE, INCREDIBLE EDIBLES, A CHRISTMAS SONGBOOK, ASTRONOMY, THE "BUCK" STOPS HERE
+AWARDS | In 1949 this aviator who flew the Atlantic solo in 1927 received the Wright Brothers Trophy from the N.A.A. | Charles Lindbergh
+right: Elizabeth
+Wrong: 
+Value: $100
+Number: 16
+IN THE BOOKSTORE | We hope his medical thriller "Chromosome 6", following "Coma" & "Contagion", won't spoil the broth | Robin Cook
+right: Elizabeth
+Wrong: 
+Value: $100
+Number: 21
+INCREDIBLE EDIBLES | The green & the mute types of this amphibian are the ones the French prize for their legs | frog
+right: Jeff
+Wrong: 
+Value: $100
+Number: 30
+A CHRISTMAS SONGBOOK | Originally, this carol was known by its Latin name, "Adeste Fideles" | "O Come All Ye Faithful"
+right: Larry
+Wrong: 
+Value: $100
+Number: 1
+ASTRONOMY | 2 stars in the bowl of the Big Dipper, called The Pointers, point to this star | the North Star
+right: Elizabeth
+Wrong: 
+Value: $100
+Number: 6
+THE "BUCK" STOPS HERE | A 10-dollar bill | a sawbuck
+right: Larry
+Wrong: 
+Value: $100
+Number: 10
+AWARDS | In 1907 the War Department authorized a campaign medal for this war -- 42 years after it ended | the Civil War
+right: Larry
+Wrong: 
+Jeff: What is the Spanish-American War?
+Value: $200
+Number: 17
+IN THE BOOKSTORE | This Chicago Bulls coach explains his use of Zen Buddhism in "Sacred Hoops" | Phil Jackson
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 22
+INCREDIBLE EDIBLES | Charlemagne was so fond of these "proud" birds that he served them at a banquet | peacocks
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 27
+A CHRISTMAS SONGBOOK | Location where "I Saw Mommy Kissing Santa Claus" last night | underneath the mistletoe
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 2
+ASTRONOMY | Some scientists say thousands of these, known as "dirty snowballs", strike our atmosphere every day | comets
+right: Larry
+Wrong: 
+Jeff: What are meteorites?
+Value: $200
+Number: 7
+THE "BUCK" STOPS HERE | In commercials the Crash Test Dummies urge us to do this -- don't be a dummy! | "Buckle Up!"
+right: Larry
+Wrong: 
+Value: $200
+Number: 12
+AWARDS | This school's Hasty Pudding Club has been presenting its Woman of the Year Award since 1951 | Harvard
+right: Larry
+Wrong: 
+Value: $300
+Number: 18
+IN THE BOOKSTORE | "The Senator's Daughter" is a crime novel by Victoria, daughter of this finally-convicted "Teflon Don" | John Gotti
+right: Larry
+Wrong: 
+Value: $300
+Number: 23
+INCREDIBLE EDIBLES | If this U.S. marsupial is really dead & not just "playing", you can roast it like pork | possum
+right: Larry
+Wrong: 
+Value: $300
+Number: 28
+A CHRISTMAS SONGBOOK | Singer performing the holiday classic heard <http://www.j-archive.com/media/1997-12-23_J_03.mp3> here:  "Rockin' around the Christmas tree at the Christmas party hop..." | Brenda Lee
+right: 
+Wrong: 
+Elizabeth: Who is Patsy Cline?
+Value: DD: $500
+Number: 3
+ASTRONOMY | Unlike the spiral type, like ours, the elliptical type of this system has little gas & rather dim stars | a galaxy
+right: Elizabeth
+Wrong: 
+Value: $300
+Number: 8
+THE "BUCK" STOPS HERE | It's slang for a bronco-busting cowboy | buckaroo
+right: Elizabeth
+Wrong: 
+Value: $300
+Number: 13
+AWARDS | In 1957 this Danish physicist received the first Atoms for Peace Award | Niels Bohr
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 19
+IN THE BOOKSTORE | In 1996's "Born to Rebel", Frank Sulloway puts this type of "rivalry" at the center of history | sibling rivalry
+right: Larry
+Wrong: 
+Value: $400
+Number: 24
+INCREDIBLE EDIBLES | Eating seaweed helps certain swifts form these structures found in a famous Chinese soup | bird's nest
+right: Larry
+Wrong: 
+Value: $400
+Number: 29
+A CHRISTMAS SONGBOOK | Judy Garland debuted "Have Yourself A Merry Little Christmas" in this 1944 film set at the 1904 World's Fair | Meet Me in St. Louis
+right: Larry
+Wrong: 
+Value: $400
+Number: 4
+ASTRONOMY | Most of these minor planets revolve around the sun in a "belt" between the orbits of Mars & Jupiter | asteroids
+right: Jeff
+Wrong: 
+Value: $400
+Number: 9
+THE "BUCK" STOPS HERE | This member of Fleetwood Mac had his own solo Top 10 hit in 1981 with "Trouble" | Lindsey Buckingham
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 14
+AWARDS | Traditionally, Nobel Prize winners are presented their awards on the tenth of this month | December
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+IN THE BOOKSTORE | In "Leaving a Doll's House", Claire Bloom has some "complaint"s about her life with this novelist | Philip Roth (Portnoy's Complaint
+right: 
+Wrong: Triple Stumper
+Larry: Who is Ibsen?
+Value: $500
+Number: 25
+INCREDIBLE EDIBLES | The eggs of this shelled reptile are sometimes hard-boiled & the flippers may be braised in wine sauce | the turtle
+right: Elizabeth
+Wrong: 
+Value: $500
+Number: 26
+A CHRISTMAS SONGBOOK | In "Deck The Halls", we "troll" this, "Fa la la la la la la la la" | the ancient Christmas carol (or the ancient Yuletide carol)
+right: Larry
+Wrong: 
+Value: $500
+Number: 5
+ASTRONOMY | Titan is the largest moon of this planet; Calypso & Telesto are among the smallest | Saturn
+right: Larry
+Wrong: 
+Value: $500
+Number: 11
+THE "BUCK" STOPS HERE | It's plain to "see", it's also known as a horse chestnut | a buckeye
+right: Larry
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Larry: $2,500
+Elizabeth: $800
+Jeff: $200
+Scores at the end of the Jeopardy! Round:
+Larry: $3,900
+Elizabeth: $2,100
+Jeff: $100
+Second Jeopardy! Round: MUSEUMS, BETHLEHEM, '60s FLICKS, PHARMACOLOGY, NATIVE AMERICAN FOLKLORE, "V"ERBS
+MUSEUMS | This Dublin brewery's 19th C. hop store has been converted into a museum detailing its history....Cheers! | Guinness
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+BETHLEHEM | The grotto of Jesus' birth is now inside a church called this, after Jesus' birth | Church of the Nativity
+right: Larry
+Wrong: 
+Value: $200
+Number: 16
+'60s FLICKS | "The Love Bug" was this type of car | Volkswagen Beetle
+right: Jeff
+Wrong: 
+Value: $200
+Number: 6
+PHARMACOLOGY | 2 basic drug categories are depressants & these, which include caffeine | Stimulants
+right: Jeff
+Wrong: 
+Value: $200
+Number: 19
+NATIVE AMERICAN FOLKLORE | From the Ojibwa word "ototeman", it's the animal or plant a family group associates with its ancestry | Totem
+right: Larry
+Wrong: 
+Value: $200
+Number: 30
+"V"ERBS | It comes from the Latin for "to sell" | Vend
+right: Larry
+Wrong: 
+Value: $200
+Number: 1
+MUSEUMS | Hang ten & head on over to a real lighthouse in Santa Cruz, Calif., home to a museum devoted to this sport | Surfing
+right: Larry
+Wrong: 
+Value: $400
+Number: 12
+BETHLEHEM | If there's no room in the inns, you may have to sleep in this central square, named for baby Jesus' first crib | Manger Square
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 17
+'60s FLICKS | A top-grossing animated film of 1961, a live-action remake was released in 1996 | 101 Dalmatians
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 7
+PHARMACOLOGY | The art & science of preparing & dispensing drugs, or a store where it's practiced | Pharmacy
+right: Larry
+Wrong: 
+Value: $400
+Number: 20
+NATIVE AMERICAN FOLKLORE | Accoridng to the Hopi, this wild canine related to the wolf was around before there were people | Coyote
+right: Larry
+Wrong: 
+Value: $400
+Number: 29
+"V"ERBS | For potatoes it means "to grow", for couch potatoes it means "to stay inactive" | Vegetate
+right: Larry
+Wrong: 
+Value: $400
+Number: 2
+MUSEUMS | At his Pittsburgh museum, you can buy reproductions of his works, including "Happy Bug Day" & "Soup Can" | Andy Warhol
+right: 
+Wrong: 
+Value: DD: $2,500
+Number: 13
+BETHLEHEM | Bethlehem tourism was hurt by this Palestinian uprising  that began in 1987 | Intifada
+right: Jeff
+Wrong: 
+Value: $600
+Number: 18
+'60s FLICKS | In 1968 this title pair was played by Leonard Whiting & Olivia Hussey | Romeo & Juliet
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 9
+PHARMACOLOGY | This annual pharmaceutical guide for doctors is abbreviated PDR | Physician's Desk Reference
+right: Jeff
+Wrong: 
+Value: $600
+Number: 23
+NATIVE AMERICAN FOLKLORE | By simply displaying this item, also called a calumet, one could call a truce between some tribes | Peace pipe
+right: Larry
+Wrong: 
+Value: $600
+Number: 26
+"V"ERBS | To conquer | Vanquish
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 3
+MUSEUMS | This team's hall of fame museum has Stan Musial trophies & film of the team dating back to 1926 | St. Louis Cardinals
+right: Larry
+Wrong: 
+Value: $800
+Number: 14
+BETHLEHEM | In Arabic the city's name means "House of Meat"; in Hebrew, "House of" this staple | Bread
+right: Jeff
+Wrong: 
+Value: $800
+Number: 21
+'60s FLICKS | One book abbreviated this 1969 film "B&C&T&A" | Bob & Carol & Ted & Alice
+right: Larry
+Wrong: 
+Value: $800
+Number: 8
+PHARMACOLOGY | Among pharmacology's sub-fields, this -ology deals with the effects & treatment of poisons | Toxicology
+right: Elizabeth
+Wrong: 
+Value: $800
+Number: 24
+NATIVE AMERICAN FOLKLORE | This title of an Algonquian medicine man now refers to popular tribal gatherings | Pow-wow
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+"V"ERBS | Both vibrate & this word are synonyms of oscillate | Vacillate
+right: Larry
+Wrong: 
+Value: $800
+Number: 4
+MUSEUMS | 1 of the 2 museums mentioned in the lyrics of Cole Porter's "You're The Top" | The Louvre or the National Gallery
+right: Elizabeth
+Wrong: 
+Value: $1000
+Number: 15
+BETHLEHEM | Israelis often refer to the West Bank, which includes Bethlehem, as this "and Samaria" | Judea
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+'60s FLICKS | He played Henry II to Richard Burton's Becket | Peter O' Toole
+right: Larry
+Wrong: 
+Value: $1000
+Number: 10
+PHARMACOLOGY | Claude Bernard pioneered the field with his 19th C. study of this poison used by Amazon natives | Curare
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 25
+NATIVE AMERICAN FOLKLORE | These giant mythical birds were frequently at war with water monsters | Thunderbirds
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+"V"ERBS | Petty annoyances can do this to the most patient of people | Vex
+right: Elizabeth
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Larry: $6,800
+Elizabeth: $6,500
+Jeff: $2,700
+
+Final Jeopardy! Round
+FOREIGN AIRLINES | In terms of number of passengers, it's the busiest foreign carrier operating at LAX | Mexicana Airlines
+right: 
+Wrong: 
+Jeff: What is Japan Air?
+Elizabeth: What is Quantas?
+Larry: What Korean Air
+Wagers: 
+Jeff: $2,700
+Elizabeth: $6,500
+Larry: $6,700
+Final scores:
+Larry: $100 (2-day champion: $6,900)
+Elizabeth: $0 (2nd place: Trip to Eden Roc Resort & Spa, Miami Beach, Florida)
+Jeff: $0 (3rd place: Pair of Wiitnauer International Watches)
+
+Coryat scores
+Larry: $9,300 (26 R,3 W(including 1 DD))
+Elizabeth: $7,000 (16 R,1 W(including 1 DD))
+Jeff: $3,700 (9 R,3 W(including 1 DD))

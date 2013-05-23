@@ -1,0 +1,312 @@
+3893 - Wednesday, July 4, 2001
+Contestants:
+Raymon Colbert: a production artist from Tarzana, California
+Ellen Carson: an attorney & physician from Brooklyn, New York
+Sharon Rozines: a solutions support engineer from Natick, Massachusetts
+First Jeopardy! Round: I'LL TAKE MANHATTAN, IT'S THE LAW, PRESIDENTIAL LIFE SPANS, PUBLISHERS, RECENT FILMS, WORD PUZZLES
+I'LL TAKE MANHATTAN | This square has become world-famous for the lighted ball that drops down at midnight on New Year's Eve | Times Square
+right: Ellen
+Wrong: 
+Value: $100
+Number: 14
+IT'S THE LAW | In this state it's against the law to sleep in the kitchen at Spago, Chez Panisse or Pacific Dining Car | California
+right: Sharon
+Wrong: 
+Value: $100
+Number: 8
+PRESIDENTIAL LIFE SPANS | 1917-1963 | John F. Kennedy
+right: Sharon
+Wrong: 
+Value: $100
+Number: 27
+PUBLISHERS | He not only founded Time, he founded Life magazine as well | Henry Luce
+right: Sharon
+Wrong: 
+Value: $100
+Number: 21
+RECENT FILMS | It was Disney's sequel to "101 Dalmatians" | 102 Dalmatians
+right: Raymon
+Wrong: 
+Value: $100
+Number: 1
+WORD PUZZLES | Said of someone who is very special: ---------------------------------- millONEion | One in a million
+right: Raymon
+Wrong: 
+Value: $100
+Number: 6
+I'LL TAKE MANHATTAN | An exhibit inside the base of this statue includes a full-scale replica of one of its enormous feet | Statue of Liberty
+right: Raymon
+Wrong: 
+Value: $200
+Number: 15
+IT'S THE LAW | Restaurants cannot serve colored margarine in this "Constitution State" unless a notice is posted | Connecticut
+right: Ellen
+Wrong: 
+Value: $200
+Number: 9
+PUBLISHERS | This publisher was portrayed by Natalie Wood in the 1964 film "Sex and the Single Girl" | Helen Gurley Brown
+right: Raymon
+Wrong: 
+Value: $200
+Number: 22
+RECENT FILMS | In this summer 2000 release, wheelchair-bound telepath Charles Xavier runs a school for mutants | X-Men
+right: Ellen
+Wrong: 
+Value: $200
+Number: 2
+WORD PUZZLES | Better wear your parka when it's this cold: ----------------------------------               0          _______           DEGREE          DEGREE          DEGREE | Three degrees below zero
+right: Ellen
+Wrong: 
+Value: $200
+Number: 7
+I'LL TAKE MANHATTAN | "A chorus line of goddess figurines with birdlike faces" adorns this huge 5th Ave. art museum's new Cypriot Galleries | Metropolitan Museum of Art
+right: Sharon
+Wrong: 
+Value: $300
+Number: 18
+IT'S THE LAW | Shawnee, in this Boomer state, does not allow dogs to meet on private property without the owner's consent | Oklahoma
+right: Raymon
+Wrong: 
+Value: $300
+Number: 10
+PRESIDENTIAL LIFE SPANS | 1809-1865 | Abraham Lincoln
+right: Ellen
+Wrong: 
+Value: $300
+Number: 26
+PUBLISHERS | This Chicago map & atlas maker has also sold airplane tickets & baggage tags | Rand McNally
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+RECENT FILMS | This title Stone Age family was "In Viva Rock Vegas" | The Flintstones
+right: Sharon
+Wrong: 
+Value: $300
+Number: 3
+WORD PUZZLES | When things are still undecided, they're here: ----------------------------------        theUPair | Up in the air
+right: Ellen
+Wrong: 
+Value: $300
+Number: 13
+I'LL TAKE MANHATTAN | When dining at this Oscar-winning actor's Tribeca Grill, look for the artworks by his father, Robert, senior | Robert De Niro
+right: Ellen
+Wrong: 
+Value: $400
+Number: 19
+IT'S THE LAW | Across this state, from Westwego to Thibodaux, you cannot legally gargle in public | Louisiana
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+PUBLISHERS | Richard Simon, co-founder of Simon & Schuster, was once the father-in-law of this singer | James Taylor
+right: 
+Wrong: 
+Value: DD: $800
+Number: 24
+RECENT FILMS | In this film Sean Connery plays a reclusive writer who won the Pulitzer Prize for his only novel | Finding Forrester
+right: Raymon
+Wrong: 
+Value: $400
+Number: 4
+WORD PUZZLES | It's where Judy Garland wanted to go: ---------------------------------- SOMEWHERE THE RAINBOW | Somewhere over the rainbow
+right: Sharon
+Wrong: 
+Value: $400
+Number: 16
+I'LL TAKE MANHATTAN | In the 1920s this author's wife Zelda was famous for jumping into the fountain in front of the Plaza Hotel | F. Scott Fitzgerald
+right: Sharon
+Wrong: 
+Value: $500
+Number: 20
+IT'S THE LAW | It's illegal to pawn your wooden leg in this second-smallest state | Delaware
+right: Sharon
+Wrong: 
+Value: $500
+Number: 12
+PUBLISHERS | His father, once a U.S. Senator, gave him the S.F. Examiner; he himself served in the House, 1903-1907 | William Randolph Hearst
+right: Sharon
+Wrong: 
+Value: $500
+Number: 25
+RECENT FILMS | As in the TV series, this actor provided the voice of Charlie, the Angels' unseen boss, in "Charlie's Angels" | John Forsythe
+right: Sharon
+Wrong: 
+Value: $500
+Number: 5
+WORD PUZZLES | It's the clothing article I have on right now: ---------------------------------- WEAR POLKA DOT | Polka dot underwear
+right: Sharon
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Sharon: $800
+Ellen: $1,000
+Raymon: $1,100
+Scores at the end of the Jeopardy! Round:
+Sharon: $3,200
+Ellen: $1,400
+Raymon: $500
+Second Jeopardy! Round: THE 4th, PICK "NIC", THE FLAG, READ, BETTY WHITE, BLUE
+THE 4th | Alphabetically, the 4th of the 50 states is this Razorback home | Arkansas
+right: Raymon
+Wrong: 
+Value: $200
+Number: 26
+PICK "NIC" | It was first issued in 1866; before that, people talked about plugged quarters | Nickels
+right: Sharon
+Wrong: 
+Value: $200
+Number: 21
+THE FLAG | The black one of these, a symbol of Western Australia, is seen here on that state's flag | Swan
+right: Raymon
+Wrong: 
+Value: $200
+Number: 16
+READ | Word in common in Frank Herbert titles of 1965, 1969, 1976, 1981 & 1985 | Dune
+right: Ellen
+Wrong: 
+Value: $200
+Number: 2
+BETTY WHITE | Betty turned down being Helen Hunt's mom in this film, not liking how Nicholson's character treated the dog | As Good As it Gets
+right: Sharon
+Wrong: 
+Value: $200
+Number: 1
+BLUE | In 1982 these 2 major national health care organizations merged | Blue Cross & Blue Shield
+right: Ellen
+Wrong: 
+Value: $200
+Number: 11
+PICK "NIC" | Nickelodeon launched it in 1985 to target adults nostalgic for the terrible TV shows of their youth | Nick at Nite
+right: Sharon
+Wrong: 
+Value: $400
+Number: 22
+THE FLAG | The former French colonies of Ivory Coast & Mali each have flags of this many colors | 3
+right: Sharon
+Wrong: 
+Value: $400
+Number: 17
+READ | Dante would have loved this Hawthorne character, Rappaccini's daughter | Beatrice
+right: Sharon
+Wrong: 
+Value: $400
+Number: 3
+BETTY WHITE | When this man hosted "The Tonight Show" from 1957 to 1962, Betty White was a regular guest | Jack Paar
+right: Ellen
+Wrong: 
+Value: $400
+Number: 7
+BLUE | It's the only "blue" book Dr. Seuss published | "One Fish, Two Fish, Red Fish, Blue Fish"
+right: Ellen
+Wrong: 
+Value: $400
+Number: 12
+PICK "NIC" | A real prince of a guy, Machiavelli would surely let you call him by this first name | Niccolo
+right: Raymon
+Wrong: 
+Value: $600
+Number: 23
+THE FLAG | The flag seen here is of this Baltic republic, that calls itself "Eesti Vabariik" | Estonia
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+READ | Completes the title of the Terry McMillan book "A Day Late and..." | A Dollar Short
+right: Ellen
+Wrong: 
+Value: $600
+Number: 4
+BETTY WHITE | Sitcom in which Betty played Ellen Harper, the daughter of Vicki Lawrence's character | Mama's Family
+right: Raymon
+Wrong: 
+Value: $600
+Number: 8
+BLUE | One of these can grow to about 100 feet long & weigh up to 150 tons | Blue whale
+right: Sharon
+Wrong: 
+Value: $600
+Number: 13
+THE 4th | The 4th monarch of England in the 20th century, he died in 1972 | Edward VIII
+right: 
+Wrong: 
+Value: DD: $3,000
+Number: 28
+PICK "NIC" | Similar in function to the Berlin Wall, the Green Line divides this Mediterranean island city | Nicosia, Cyprus
+right: 
+Wrong: 
+Value: DD: $600
+Number: 24
+THE FLAG | In 2001 this U.S. state adopted a new flag incorporating 5 old flags & a tiny Confederate battle emblem | Georgia
+right: Sharon
+Wrong: 
+Value: $800
+Number: 19
+READ | In 1970 he delivered his first novel, "Deliverance" | James Dickey
+right: Ellen
+Wrong: 
+Value: $800
+Number: 5
+BETTY WHITE | Name of the show hosted by Betty's character Sue Ann Nivens, on "The Mary Tyler Moore Show" | "The Happy Homemaker"
+right: Ellen
+Wrong: 
+Value: $800
+Number: 9
+BLUE | A's owner Charlie Finley wanted this pitcher to change his first name to "True" | Vida Blue
+right: Raymon
+Wrong: 
+Value: $800
+Number: 14
+THE 4th | The 4th Nobel Prize winner for Physiology/Medicine this Russian won in 1904 for work in the physiology of digestion | Ivan Pavlov
+right: Sharon
+Wrong: 
+Value: $1000
+Number: 27
+PICK "NIC" | The gospel according to John tells of this Pharisee who secretly followed Jesus | Nicodemus
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 25
+THE FLAG | The flag seen here represents the president of this country: [harp in the middle] | Ireland
+right: Sharon
+Wrong: 
+Value: $1000
+Number: 20
+READ | "The Red White and Blue" was a 1987 novel by this husband of Joan Didion | John Gregory Dunne
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+BETTY WHITE | One of Betty's many Emmys was for being a game show host on "Just" this | Just Men!
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+BLUE | In Ethiopia, it's known as the Abbai | Blue Nile
+right: Sharon
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Sharon: $5,200
+Ellen: $5,600
+Raymon: $500
+
+Final Jeopardy! Round
+AMERICAN PLAYWRIGHTS | Around 1912, while recovering in a sanatorium, this former seaman decided to become a playwright | Eugene O' Neill
+right: Raymon | Sharon | Ellen
+Wrong: 
+Wagers: 
+Raymon: $100
+Sharon: $398
+Ellen: $2,000
+Final scores:
+Sharon: $5,598 (2nd place: Trip to Beaches Resort, Negril, Jamaica)
+Ellen: $7,600 (New champion: $7,600)
+Raymon: $600 (3rd place: Meade ETX90 Telescope)
+
+Coryat scores
+Sharon: $8,200 (21 R,5 W(including 1 DD))
+Ellen: $5,600 (15 R,2 W)
+Raymon: $1,900 (11 R,5 W(including 2 DDs))

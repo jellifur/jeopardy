@@ -1,0 +1,341 @@
+4583 - Wednesday, July 7, 2004
+Comments: Ken Jennings game 26.  <br />
+Contestants:
+Vanessa Osborne: a graduate student from Woodland Hills, California
+Michael Vance: an information security analyst from Fishers, Indiana
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 25-day cash winnings total $788,960)
+First Jeopardy! Round: PRESIDENTIAL LIBRARIES, INDEPENDENT FILMS, MEXICAN FOOD & DRINK, WHAT'S THE NEXT LINE?, SMART CHOICES, BROWN
+PRESIDENTIAL LIBRARIES | Dedicated on June 30, 1941, his presidential library was the first planned while a president was still in office | FDR
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+INDEPENDENT FILMS | This Coen Brothers tale from 1996 is "A homespun murder story" | Fargo
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+MEXICAN FOOD & DRINK | (<http://www.j-archive.com/media/2004-07-07_J_11.jpg> Sarah of the Clue Crew sits down to a meal in the Yucatan Peninsula, Mexico.)  Here in the Yucatan, <http://www.j-archive.com/media/2004-07-07_J_11a.jpg> this tasty bundle is wrapped & cooked in banana leaves rather than the usual corn husks | a tamale
+right: Michael
+Wrong: 
+Value: $200
+Number: 11
+WHAT'S THE NEXT LINE? | "Oh my darling, oh my darling..." | "...oh my darling Clementine"
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+SMART CHOICES | After hitting .202 in the minors in '94, he went back to his day job of all-universe NBA star | (Michael) Jordan
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+BROWN | Usual meal you're headed to when "brown bagging" it | lunch
+right: Michael
+Wrong: 
+Value: $200
+Number: 26
+PRESIDENTIAL LIBRARIES | His recently won Nobel Peace Prize is now on display at his presidential library | Jimmy Carter
+right: Michael
+Wrong: 
+Ken: Who is Clinton?
+Value: $400
+Number: 22
+INDEPENDENT FILMS | Reverse in told was film Nolan Christopher 2001 this | Memento
+right: Michael
+Wrong: 
+Value: $400
+Number: 2
+MEXICAN FOOD & DRINK | Top a crisp tortilla with refried beans, meat, lettuce, tomatoes & cheese & you've got this Mexican salad | a tostada
+right: Michael
+Wrong: 
+Value: $400
+Number: 12
+WHAT'S THE NEXT LINE? | "Pack up your troubles in your old kit bag..." | "...and smile, smile, smile"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+SMART CHOICES | When God told him to get a-buildin' in Genesis 6:14, he was smart enough to say yes | Noah
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+BROWN | The Rolling Stones asked, "How come you taste so good?" | Brown Sugar
+right: Vanessa
+Wrong: 
+Value: $400
+Number: 27
+PRESIDENTIAL LIBRARIES | His library is located on the Columbia Point Promontory in Boston | JFK
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+INDEPENDENT FILMS | Robert Duvall wrote, directed & played a preacher in this 1997 film | The Apostle
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+MEXICAN FOOD & DRINK | (<http://www.j-archive.com/media/2004-07-07_J_13.jpg> Sarah of the Clue Crew follows her meal with a chaser in the Yucatan Peninsula, Mexico.)  By Mexican law, <http://www.j-archive.com/media/2004-07-07_J_13a.jpg> this potent potable must be made with at least 51% agave; the rest is often sugar cane | tequila
+right: Michael
+Wrong: 
+Value: $600
+Number: 13
+WHAT'S THE NEXT LINE? | "Roll out the barrel..." | "...and we'll have a barrel of fun"
+right: Michael
+Wrong: 
+Value: $600
+Number: 8
+SMART CHOICES | In 1989 the people at Kohlberg, Kravis, Roberts were smart cookies to acquire RJR this | Nabisco
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+BROWN | Rudbeckia triloba is this "Brown-Eyed" plant, less well known than the Black-Eyed one | Susan
+right: Michael
+Wrong: 
+Value: $600
+Number: 28
+PRESIDENTIAL LIBRARIES | The complex of buildings at this library in Abilene, Kansas includes a nondenominational chapel where the president is buried | Eisenhower
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+INDEPENDENT FILMS | Title job of Dante & Randal in a 1994 Kevin Smith film | clerks
+right: Vanessa
+Wrong: 
+Value: $800
+Number: 4
+MEXICAN FOOD & DRINK | Translated as "little meats", it's shredded pork eaten with salsa or used as a filling for tacos | carnitas
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+WHAT'S THE NEXT LINE? | "Yes we have no bananas..." | "...We have no bananas today"
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+SMART CHOICES | He married Catherine Zeta-Jones | Michael Douglas
+right: Michael
+Wrong: 
+Value: $800
+Number: 19
+BROWN | The Brown Hornet was the favorite superhero of this 1970s animated TV group of pals | Fat Albert & the Cosby Kids
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+PRESIDENTIAL LIBRARIES | Along with his papers, his library contains a large mural by Thomas Hart Benton | Harry Truman
+right: Ken
+Wrong: 
+Value: DD: $1,800
+Number: 25
+INDEPENDENT FILMS | An Independent Spirit Award for Best Feature went to this '50s-style melodrama with Julianne Moore & Dennis Quaid | Far from Heaven
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+MEXICAN FOOD & DRINK | (<http://www.j-archive.com/media/2004-07-07_J_15.jpg> Sarah of the Clue Crew has seconds at Yucatan Peninsula, Mexico.)  One of my favorite Mexican dishes is <http://www.j-archive.com/media/2004-07-07_J_15.jpg> this one--raw seafood marinated in lime juice, garnished with onions & tomatoes | ceviche
+right: Vanessa
+Wrong: 
+Value: $1000
+Number: 15
+WHAT'S THE NEXT LINE? | "Go tell it on the mountain..." | "...over the hills and everywhere"
+right: Michael
+Wrong: 
+Value: $1000
+Number: 10
+SMART CHOICES | In a prudent move, he ran for the vice presidency & his Senate seat in 2000 | Joe Lieberman
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+BROWN | Because of the way she was conceived, Louise Brown is known as this alliterative type of baby | test tube
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Ken: $3,600
+Michael: $3,200
+Vanessa: $1,800
+Scores at the end of the Jeopardy! Round:
+Ken: $9,800
+Michael: $5,200
+Vanessa: $2,200
+Second Jeopardy! Round: THE VICTORIANS, MARVEL COMICS HEROES, SUBWAY STOPS, PHARM TEAM, MILITARY MATTERS, 5 IN A "ROW"
+THE VICTORIANS | The Queen is <http://www.j-archive.com/media/2004-07-07_DJ_12.jpg> pictured <http://www.j-archive.com/media/2004-07-07_DJ_12a.jpg> here in the elaborate Mausoleum built for this man | (Prince) Albert
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+MARVEL COMICS HEROES | "The Incredible" | the Hulk
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+SUBWAY STOPS | Get off at Sportivnaya in this city to see the venue for much of the 1980 Summer Olympics | Moscow
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+PHARM TEAM | An Internet site about this product from Bayer can be found at wonderdrug.com | aspirin
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+MILITARY MATTERS | During China's Sung Dynasty tea was cultivated & this powder was first used militarily | gunpowder
+right: Michael
+Wrong: 
+Value: $400
+Number: 26
+5 IN A "ROW" | It's a narrow groove made in the ground by a plow, or a deep wrinkle on the face | a furrow
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+THE VICTORIANS | By its etymology, this Victorian room seen <http://www.j-archive.com/media/2004-07-07_DJ_13.jpg> here was an early chat room | a parlor
+right: Ken
+Wrong: 
+Value: DD: $7,200
+Number: 13
+MARVEL COMICS HEROES | "The Amazing" | Spider-Man
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+SUBWAY STOPS | This word follows "Oxford" & "Piccadilly" in tube stop names | Circus
+right: Vanessa
+Wrong: 
+Value: $800
+Number: 18
+PHARM TEAM | Brands of these self-administered tests include Clearblue Easy & First Response | pregnancy tests
+right: Michael
+Wrong: 
+Value: $800
+Number: 22
+MILITARY MATTERS | Seen <http://www.j-archive.com/media/2004-07-07_DJ_27.jpg> here, it's awarded by the U.S. military for meritorious achievement in ground combat | a Bronze Star
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+5 IN A "ROW" | The Book of Proverbs tells us that this person "is servant to the lender" | the borrower
+right: Ken
+Wrong: 
+Value: $800
+Number: 8
+THE VICTORIANS | In 1877, long before Margaret Sanger, Annie Besant was prosecuted for a pamphlet on this | birth control
+right: Ken
+Wrong: 
+Value: $1200
+Number: 14
+MARVEL COMICS HEROES | "The Uncanny" | the X-Men
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+SUBWAY STOPS | If you're on NYC's A train, get off at Howard Beach in this borough to go to JFK Airport | Queens
+right: Michael
+Wrong: 
+Value: $1200
+Number: 19
+PHARM TEAM | Sadly, in a Chinese pharmacy, this bile-producing organ from a brown bear can fetch as much as $150 | the gall bladder
+right: Michael
+Wrong: 
+Ken: What is the liver?
+Value: $1200
+Number: 23
+MILITARY MATTERS | A popular German hit song during WWII was these tanks "Are Rolling In Africa" | Panzers
+right: Ken
+Wrong: 
+Value: DD: $600
+Number: 28
+5 IN A "ROW" | After agreeing to purchase a home, funds go "into" this, until all the conditions of the sale are met | escrow
+right: Michael
+Wrong: 
+Value: $1200
+Number: 9
+THE VICTORIANS | In this 1850s war, Roger Fenton took the first extensive war photos, though he spared viewers the gore | the Crimean War
+right: Ken
+Wrong: 
+Value: $1600
+Number: 15
+MARVEL COMICS HEROES | "The Man Without Fear" | Daredevil
+right: Ken
+Wrong: 
+Value: $1600
+Number: 5
+SUBWAY STOPS | The Metro stop for Montreal's Olympic stadium is Pie-IX, named for this 19th century religious figure | Pope Pius IX
+right: Ken
+Wrong: 
+Value: $1600
+Number: 20
+PHARM TEAM | Ulcer sufferers at the end of their ropes go to the end of the alphabet for this, aka ranitidine hydrochloride | Zantac
+right: Michael
+Wrong: 
+Value: $1600
+Number: 24
+MILITARY MATTERS | In the 1920s Marine Corps General Smedley Butler turned this temporary camp in Virginia into a permanent base | Quantico
+right: Michael
+Wrong: 
+Value: $1600
+Number: 29
+5 IN A "ROW" | Alumni of this school include Winston Churchill, Sir Robert Peel & Lord Byron | Harrow
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 10
+THE VICTORIANS | <http://www.j-archive.com/media/2004-07-07_DJ_16.jpg> "Merlin" is by this 1890s artist, some of whose work was too graphic for the Victorians (or our viewers) | Aubrey Beardsley
+right: Vanessa
+Wrong: 
+Value: $2000
+Number: 16
+MARVEL COMICS HEROES | "The Invincible" | Iron Man
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+SUBWAY STOPS | The major hub of the Washington Metro is the stop named for this French planner | (Pierre Charles) L'Enfant
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+PHARM TEAM | A chemical found in a Norwegian fungus became this immuno-suppressant drug that made organ transplants safer | cyclosporine
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+MILITARY MATTERS | This medieval order of knights was aka "the Poor Fellow-Soldiers of Christ & the Temple of Solomon" | the Knights Templar
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+5 IN A "ROW" | A descendant of Alfred the Great, she ends up marrying Ivanhoe | (the Lady) Rowena
+right: Ken
+Wrong: 
+Value: $2000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Ken: $34,000
+Michael: $13,200
+Vanessa: $5,000
+
+Final Jeopardy! Round
+WRITERS | Born in 1564, he was employed by Elizabeth I's Secretary of State to uncover Catholic plots against her reign | Christopher Marlowe
+right: Michael | Ken
+Wrong: 
+Vanessa: Who was John Donne
+Wagers: 
+Vanessa: $4,700
+Michael: $3,199
+Ken: $6,000
+Final scores:
+Ken: $40,000 (26-day champion: $828,960)
+Michael: $16,399 (2nd place: $2,000)
+Vanessa: $300 (3rd place: $1,000)
+
+Coryat scores
+Ken: $27,400 (33 R(including 3 DDs),2 W)
+Michael: $13,200 (17 R,0 W)
+Vanessa: $5,000 (5 R,0 W)

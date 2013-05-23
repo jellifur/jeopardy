@@ -1,0 +1,333 @@
+3655 - Friday, June 23, 2000
+Contestants:
+Sandi Rosenfeld: an attorney and executive recruiter from Queens, New York
+Rick Robertson: an environmental consultant from Carrollton, Texas
+Michele Harvey: a software engineer from Centreville, Virginia (whose 2-day cash winnings total $16,200)
+First Jeopardy! Round: THE SOPRANOS, EUROPEAN RIVERS, MARSHMALLOW CUISINE, FISHY WORDS, REMEMBER 1999?, THAT'S HISTORY
+THE SOPRANOS | New Jersey native James Gandolfini plays mobster Tony Soprano on this network's "The Sopranos" | HBO
+right: Rick
+Wrong: 
+Value: $100
+Number: 1
+EUROPEAN RIVERS | It's London's chief water supply | Thames River
+right: Rick
+Wrong: 
+Value: $100
+Number: 26
+MARSHMALLOW CUISINE | The treats made with margarine, marshmallows & this "talking" Kellogg's cereal have only 3 grams of fat per serving | Rice Krispies
+right: Rick
+Wrong: 
+Value: $100
+Number: 21
+FISHY WORDS | To complain about minor issues | Carp
+right: Michele
+Wrong: 
+Value: $100
+Number: 16
+REMEMBER 1999? | 100 million stamps incorrectly placing this big landmark in Colorado instead of Arizona won't be released | Grand Canyon
+right: Michele
+Wrong: 
+Value: $100
+Number: 10
+THAT'S HISTORY | In 1925 Reza Pahlavi deposed the last of the Kajars & took over as Shah of this country | Iran
+right: Michele
+Wrong: 
+Value: $100
+Number: 6
+THE SOPRANOS | When Dr. Melfi put Tony on this brand of antidepressant, it had some side effects on his married life | Prozac
+right: Michele
+Wrong: 
+Value: $200
+Number: 2
+EUROPEAN RIVERS | In Paris the banks of this river have been designated a UNESCO World Heritage Site | Seine
+right: Sandi
+Wrong: 
+Value: $200
+Number: 27
+MARSHMALLOW CUISINE | You always want another of these campfire treats, marshmallows, chocolate & graham crackers (hence their name) | Smores
+right: Michele
+Wrong: 
+Value: $200
+Number: 22
+FISHY WORDS | It's a place for a bird to roost or for a person to sit | Perch
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 17
+REMEMBER 1999? | Bank of America was taken to task for its employee-adopt-one-of-these machines-&-keep-them-clean program | ATM
+right: Michele
+Wrong: 
+Value: $200
+Number: 12
+THAT'S HISTORY | This rebel group in Nicaragua was named for an anti-American rebel of the 1920s | Sandinistas
+right: Sandi
+Wrong: 
+Value: $200
+Number: 7
+THE SOPRANOS | This famous son, the "Choirboy of the Board", played himself & joined the richest poker game in Jersey | Frank Sinatra, Jr.
+right: Michele
+Wrong: 
+Value: $300
+Number: 3
+EUROPEAN RIVERS | In 1992 Slovaks altered this river's course on the border of Slovakia & Hungary to improve navigation | Danube
+right: Sandi
+Wrong: 
+Value: $300
+Number: 28
+MARSHMALLOW CUISINE | This marshmallow sandwich from the Chattanooga Bakery, a favorite in the South with RC Cola, has been around since 1917 | MoonPie
+right: Michele
+Wrong: 
+Value: $300
+Number: 23
+FISHY WORDS | A small quantity you might pat on with a finger | Dab
+right: Michele
+Wrong: 
+Value: $300
+Number: 18
+REMEMBER 1999? | He got a new car, the Lancia Jubilee, seen here with some of his Guards: | Pope John Paul II
+right: Sandi
+Wrong: 
+Value: $300
+Number: 13
+THAT'S HISTORY | In 1976 Spain ceded Spanish Sahara to Mauritania & this country | Morocco
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 8
+THE SOPRANOS | Before she played Tony's mom, Nancy Marchand won 4 Emmys as Ed Asner's publisher boss on this show | Lou Grant
+right: Michele
+Wrong: 
+Value: $400
+Number: 4
+EUROPEAN RIVERS | In 1937 this Russian river's first hydroelectric project was completed at Ivankovo | Volga
+right: Michele
+Wrong: 
+Value: $400
+Number: 29
+MARSHMALLOW CUISINE | Trademark name of the marshmallow treats seen here; they're Easter favorites: | Peeps
+right: Michele
+Wrong: 
+Value: $400
+Number: 24
+FISHY WORDS | Since 1777 this ale has been brewed in Burton on Trent, England, a town with exceptional well water | Bass
+right: 
+Wrong: 
+Value: DD: $500
+Number: 19
+REMEMBER 1999? | E-mails flew as moves were made to name Saint Isidore of Seville the patron saint of this global system | Internet
+right: Michele
+Wrong: 
+Value: $400
+Number: 14
+THAT'S HISTORY | When the Tuscaroras joined, the Iroquois League updated its name to this | League of Six Nations
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+THE SOPRANOS | Once rock & roll's Little Steven & Miami Steve, he plays Soprano lieutenant Silvio Dante | Steven Van Zandt
+right: Michele
+Wrong: 
+Value: $500
+Number: 5
+EUROPEAN RIVERS | This country's longest river, the Gudena, winds 98 miles through the Jutland Peninsula | Denmark
+right: Michele
+Wrong: 
+Value: $500
+Number: 30
+MARSHMALLOW CUISINE | Adding almonds & marshmallows to chocolate ice cream, this "grand" ice cream company created Rocky Road | Dreyer's
+right: Michele
+Wrong: 
+Value: $500
+Number: 25
+FISHY WORDS | In Spanish it can mean "pretty" as well as a tuna-like fish | Bonito
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+REMEMBER 1999? | This craft that had its 15 minutes of fame in 1961 was recovered from the ocean floor in 1999 | Liberty Bell (Gus Grissom's capsule)
+right: Rick
+Wrong: 
+Value: $500
+Number: 15
+THAT'S HISTORY | This Alexandrian added latitude & longitude lines to his maps around 151 A.D. | Ptolemy
+right: Michele
+Wrong: 
+Value: $500
+Number: 11
+Scores at the first commercial break (after clue 15)
+Michele: $2,700
+Rick: $600
+Sandi: $500
+Scores at the end of the Jeopardy! Round:
+Michele: $4,900
+Rick: $600
+Sandi: $500
+Second Jeopardy! Round: THE SOPRANOS, HEY, ARNOLD!, FUN FACTS ABOUT STATES & CAPITALS, WORMS, PRO WRESTLING, HIGH "IQ"
+THE SOPRANOS | Luisa Tetrazzini was famed for her ability to hit these; we hope she ended her career on one | High note
+right: Michele
+Wrong: 
+Value: $200
+Number: 8
+HEY, ARNOLD! | Eggsactly!  He led the capture of Fort Ticonderoga from the Brits in 1775 | Benedict Arnold
+right: Rick
+Wrong: 
+Value: $200
+Number: 6
+FUN FACTS ABOUT STATES & CAPITALS | The only state capital whose name ends in 3 vowels, it's also the northernmost | Juneau, Alaska
+right: Sandi
+Wrong: 
+Value: $200
+Number: 1
+WORMS | This former NBA rebounding champ is nicknamed "The Worm" | Dennis Rodman
+right: Michele
+Wrong: 
+Value: $200
+Number: 24
+PRO WRESTLING | In the '80s Bobby Eaton & Stan Lane were called Midnight Express, among the greatest of these "teams" | Tag teams
+right: Sandi
+Wrong: 
+Value: $200
+Number: 21
+HIGH "IQ" | It's a small shop specializing in fashionable & often expensive clothing | Boutique
+right: Michele
+Wrong: 
+Value: $200
+Number: 16
+THE SOPRANOS | Lillian Russell made her debut in this duo's "H.M.S. Pinafore" & later became a star of burlesque | Gilbert & Sullivan
+right: Rick
+Wrong: 
+Value: $400
+Number: 9
+HEY, ARNOLD! | He clubbed & sliced his way to victory in the 1960 U.S. Open | Arnold Palmer
+right: Michele
+Wrong: 
+Value: $400
+Number: 7
+FUN FACTS ABOUT STATES & CAPITALS | The only state whose name ends in 3 vowels | Hawaii
+right: Sandi
+Wrong: 
+Value: $400
+Number: 2
+WORMS | This man, already pronounced a heretic, was formally declared an outlaw by 1521's Edict of Worms | Martin Luther
+right: Sandi
+Wrong: 
+Value: $400
+Number: 25
+PRO WRESTLING | This '50s wrestler whose name advertised his good looks used to toss bobby pins to his fans | Gorgeous George
+right: Rick
+Wrong: 
+Value: $400
+Number: 22
+HIGH "IQ" | Don't take it personally, it's just a detailed analysis of a subject or literary work | Critique
+right: Michele
+Wrong: 
+Value: $400
+Number: 17
+THE SOPRANOS | Amelita Galli-Curci brightened up opera as this type of soprano, Italian for "coloring" | Coloratura
+right: Michele
+Wrong: 
+Value: $600
+Number: 10
+HEY, ARNOLD! | If you've looked over copies of "Dover Beach", you know he penned it | Matthew Arnold
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+FUN FACTS ABOUT STATES & CAPITALS | One of the original 13, it's the only state whose name ends in 3 consonants | Massachusetts
+right: Michele
+Wrong: 
+Value: $600
+Number: 3
+WORMS | According to a proverb about how much abuse one will tolerate, "Even a worm will" do this | Turn
+right: Michele
+Wrong: 
+Value: $600
+Number: 27
+PRO WRESTLING | Wrestler Captain Lou Albano played her dad in the video for "Girls Just Want to Have Fun" | Cyndi Lauper
+right: Michele
+Wrong: 
+Value: $600
+Number: 23
+HIGH "IQ" | "Everything Must Go" at this type of sale held by a company that's "all washed up" | Liquidation sale
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+THE SOPRANOS | Singer Rosa Ponselle's parents hopefully gave her this middle name, the last name of singer Dame Nellie | Melba
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+HEY, ARNOLD! | This "Study of History" author saw history as a succession of civilizations, not political entities | Arnold Toynbee
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+FUN FACTS ABOUT STATES & CAPITALS | The only state capital whose name ends in 3 consonants, namely R, C & K | Bismarck, North Dakota
+right: 
+Wrong: 
+Value: DD: $800
+Number: 4
+WORMS | Seen here, this classic singing group had a No. 1 hit in 1952 with the "Glow Worm" | The Mills Brothers
+right: Michele
+Wrong: 
+Value: $800
+Number: 28
+PRO WRESTLING | Steve Austin got this nickname when his then wife insisted he drink his tea while it was still hot | "Stone Cold"
+right: Michele
+Wrong: 
+Value: $800
+Number: 26
+HIGH "IQ" | This No. 1 song from 1963 was written & performed by Sister Luc-Gabrielle | "Dominique"
+right: Rick
+Wrong: 
+Value: $800
+Number: 19
+THE SOPRANOS | In 1976 Gwyneth Jones sang Brunhilde in the centenary performances of this Richard Wagner tetralogy | The "Ring" Cycle
+right: Sandi
+Wrong: 
+Value: $1000
+Number: 12
+HEY, ARNOLD! | The 12-tone system of musical composition was created by this self-taught Austrian | Arnold Schoenberg
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+FUN FACTS ABOUT STATES & CAPITALS | It's the only state whose name begins with 2 vowels | Iowa
+right: Rick
+Wrong: 
+Value: $1000
+Number: 5
+WORMS | This adjective that means "worm-shaped" is used to describe the human appendix | Vermiform
+right: 
+Wrong: 
+Value: DD: $500
+Number: 29
+HIGH "IQ" | Maputo is its capital | Mozambique
+right: Rick
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Michele: $8,800
+Rick: $4,400
+Sandi: $2,700
+
+Final Jeopardy! Round
+CHILDREN'S LITERATURE | "Max et les Maximonstres" is the French title of this children's classic | "Where the Wild Things Are"
+right: Rick | Michele
+Wrong: 
+Sandi: What is the Big Mon
+Wagers: 
+Sandi: $2,000
+Rick: $4,400
+Michele: $0
+Final scores:
+Michele: $8,800 (3-day co-champion: $25,000)
+Rick: $8,800 (New co-champion: $8,800)
+Sandi: $700 (2nd place: Trip to Dollywood, Sevierville, Tennessee)
+
+Coryat scores
+Michele: $10,600 (28 R,4 W(including 3 DDs))
+Rick: $4,400 (10 R,1 W)
+Sandi: $2,700 (9 R,1 W)

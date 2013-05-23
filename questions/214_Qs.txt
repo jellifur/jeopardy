@@ -1,0 +1,322 @@
+3130 - Friday, March 20, 1998
+Contestants:
+Carol Tierney: a program manager originally from Cambridge, Massachusetts
+Boze Hadleigh: a writer from Beverly Hills, California
+Jeff Chrzanowski: a computer engineer originally from Marlton, New Jersey (whose 1-day cash winnings total $3,199)
+First Jeopardy! Round: "TOMORROW", SATURDAY MORNING CARTOONS, SATURDAY AFTERNOON AT THE MOVIES, THE SATURDAY EVENING POST, SATURDAY NIGHT ON THE TOWN, THE SEVENTH-DAY ADVENTISTS
+"TOMORROW" | Space Mountain & Star Tours are among its attractions | (Disneyland's) Tomorrowland
+right: Jeff
+Wrong: 
+Value: $100
+Number: 2
+SATURDAY MORNING CARTOONS | This title dog's real first name is Scoobert | Scooby-Doo
+right: Boze
+Wrong: 
+Value: $100
+Number: 1
+SATURDAY AFTERNOON AT THE MOVIES | George Lucas is planning a 3-part prequel to this 1977 film | Star Wars
+right: Carol
+Wrong: 
+Value: $100
+Number: 10
+THE SATURDAY EVENING POST | Pre-"Peanuts", he sold some of his cartoons to the Saturday Evening Post | Charles Schulz
+right: Jeff
+Wrong: 
+Value: $100
+Number: 20
+THE SEVENTH-DAY ADVENTISTS | Members observe Saturday Sabbath because of Genesis 2:3, which says God did this on the seventh day | He rested
+right: Carol
+Wrong: 
+Value: $100
+Number: 14
+"TOMORROW" | In 1960 the Shirelles asked this musical question | Will you still love me tomorrow?
+right: Jeff
+Wrong: 
+Value: $200
+Number: 3
+SATURDAY MORNING CARTOONS | Mush Mouth & Dumb Donald were some of the Cosby kids on the show whose title featured this one | Fat Albert
+right: Jeff
+Wrong: 
+Value: $200
+Number: 4
+SATURDAY AFTERNOON AT THE MOVIES | He played Cameron Poe, an almost-paroled convict thwarting an escape attempt in "Con Air" | Nicolas Cage
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+THE SATURDAY EVENING POST | In the March 17, 1956 issue, Gary Cooper said, "In Westerns you were permitted to kiss" this "but never your girl" | your horse
+right: Carol
+Wrong: 
+Value: $200
+Number: 21
+THE SEVENTH-DAY ADVENTISTS | Like Jews, many Adventists follow Leviticus 11:7 in abstaining from this meat | pork
+right: Jeff
+Wrong: 
+Value: $200
+Number: 15
+"TOMORROW" | In the novel "Gone with the Wind", it follows "I'll think of some way to get him back" | Tomorrow is another day
+right: Boze
+Wrong: 
+Value: $300
+Number: 16
+SATURDAY MORNING CARTOONS | "The Immature Radioactive Samurai Slugs" on "Tiny Toons" were a parody of this cartoon group | the Teenage Mutant Ninja Turtles
+right: Jeff
+Wrong: 
+Value: $300
+Number: 5
+SATURDAY AFTERNOON AT THE MOVIES | In the same film, Mike Myers played Dr. Evil & this international man of mystery, baby | Austin Powers
+right: Carol
+Wrong: 
+Value: $300
+Number: 12
+THE SATURDAY EVENING POST | Born in NYC in 1894, he painted 317 covers for the Post over 47 years | Norman Rockwell
+right: Carol
+Wrong: 
+Value: $300
+Number: 23
+THE SEVENTH-DAY ADVENTISTS | The church funds worldwide good works by this contribution of 10% of members' incomes | a tithe
+right: Carol
+Wrong: 
+Value: $300
+Number: 22
+"TOMORROW" | Annie told us you could "bet your bottom dollar that" this would happen | the sun will come out tomorrow
+right: Boze
+Wrong: 
+Value: $400
+Number: 7
+SATURDAY MORNING CARTOONS | In 1985 an animated version of this Soleil Moon Frye sitcom character made the scene | Punky Brewster
+right: Boze
+Wrong: 
+Value: $400
+Number: 6
+SATURDAY AFTERNOON AT THE MOVIES | In serials from the '30s & '40s, Charles Middleton played this evil emperor seen <http://www.j-archive.com/media/1998-03-20_J_13.wmv> here:  "The expedition must be destroyed, with two exceptions: Zarkov and Flash Gordon.  As a prisoner, Zarkov will be of great use to me in my conquest of the universe." | Ming the Merciless
+right: 
+Wrong: 
+Carol: Who is Fu Manchu?
+Value: DD: $500
+Number: 13
+THE SATURDAY EVENING POST | The Post's history goes back to The Pennsylvania Gazette founded by this man | Benjamin Franklin
+right: Jeff
+Wrong: 
+Value: $400
+Number: 24
+SATURDAY NIGHT ON THE TOWN | Beer lovers head for the beer halls of this Bavarian city, the birthplace of Oktoberfest | Munich
+right: Jeff
+Wrong: 
+Value: $400
+Number: 27
+THE SEVENTH-DAY ADVENTISTS | Heard <http://www.j-archive.com/media/1998-03-20_J_17.mp3> here, he left rock 'n' roll in 1957 to be ordained a Seventh-Day Adventist minister:  "Womp-bomp-a-loom-op-a-womp-bomp-bomp!  Tutti frutti, all rooty!  Tutti frutti, all rooty!" | Little Richard
+right: Boze
+Wrong: 
+Carol: Who is Jerry Lee Lewis?
+Value: $400
+Number: 17
+"TOMORROW" | This advice on procrastination is credited to a 1749 letter written by Lord Chesterfield to his son | never put off till tomorrow what you can do today
+right: Boze
+Wrong: 
+Value: $500
+Number: 8
+SATURDAY MORNING CARTOONS | This ape was the white elephant that pet store owner Mr. Peebles couldn't get rid of | Magilla Gorilla
+right: Boze
+Wrong: 
+Value: $500
+Number: 9
+SATURDAY AFTERNOON AT THE MOVIES | This sailor hero's adventures include "The Golden Voyage" & "The Eye of the Tiger" | Sinbad
+right: Jeff
+Wrong: 
+Value: $500
+Number: 19
+THE SATURDAY EVENING POST | The 6 Earl Derr Biggers novels about this Chinese-American detective were first serialized in the Post | Charlie Chan
+right: Boze
+Wrong: 
+Carol: Who is Mr. Moto?
+Value: $500
+Number: 25
+SATURDAY NIGHT ON THE TOWN | Guacara Taina in this capital of the Dominican Republic may be the world's only disco-in-a-cave | Santo Domingo
+right: Carol
+Wrong: 
+Value: $500
+Number: 26
+THE SEVENTH-DAY ADVENTISTS | This group named for a king of Israel split from the church in 1934, a "branch" of it became notorious in 1993 | the Davidians
+right: Jeff
+Wrong: 
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Jeff: $1,000
+Boze: $1,900
+Carol: -$100
+Scores at the end of the Jeopardy! Round:
+Jeff: $3,100
+Boze: $3,100
+Carol: $400
+Second Jeopardy! Round: PHYSICS 101, THE 19th CENTURY, CALIFORNIA HERE I COME FILMS, CITY FOLK, THEY'RE NOT IN KANSAS ANY MORE, AIN'T THAT "GRAND"
+PHYSICS 101 | The area of physics divided into statics & dynamics or the guys replacing your head gasket | mechanics
+right: Carol
+Wrong: 
+Value: $200
+Number: 1
+THE 19th CENTURY | Opened in 1869, part of it follows the route of a canal dug 12 centuries earlier | the Suez Canal
+right: Boze
+Wrong: 
+Jeff: What is the Erie Canal?
+Value: $200
+Number: 7
+CITY FOLK | Hamburgers | residents of Hamburg
+right: Carol
+Wrong: 
+Value: $200
+Number: 6
+THEY'RE NOT IN KANSAS ANY MORE | This Kansan made her last known take-off from New Guinea; if you find out where she is, let us know | Amelia Earhart
+right: Carol
+Wrong: 
+Value: $200
+Number: 22
+AIN'T THAT "GRAND" | This name for a railroad terminal at Park & 42nd is a synonym for frenzied activity | Grand Central Station
+right: Boze
+Wrong: 
+Value: $200
+Number: 9
+PHYSICS 101 | Term for one end of a bar magnet, or for one of the discoverers of radium | a pole
+right: Carol
+Wrong: 
+Value: $400
+Number: 2
+THE 19th CENTURY | One of the 3 large empires of 19th century Eastern Europe was this "Sick Man" | the Ottoman Empire
+right: Boze
+Wrong: 
+Value: $400
+Number: 13
+CALIFORNIA HERE I COME FILMS | In this 1981 Burt Reynolds film, the first race car to reach California won | The Cannonball Run
+right: Jeff
+Wrong: 
+Value: $400
+Number: 28
+CITY FOLK | Palermitans | Palermo residents
+right: Jeff
+Wrong: 
+Value: $400
+Number: 16
+AIN'T THAT "GRAND" | The Republicans had been around less than 30 years when they were dubbed this | the Grand Old Party
+right: Jeff
+Wrong: 
+Value: $400
+Number: 8
+PHYSICS 101 | By definition, liquids & gases do this under stress, solids don't | they flow
+right: 
+Wrong: Triple Stumper
+Jeff: What is compress?
+Carol: Um, what is... [no response].
+Value: $600
+Number: 3
+THE 19th CENTURY | In 1880 this Lincoln county sheriff captured Billy the Kid | Pat Garrett
+right: Boze
+Wrong: 
+Value: $600
+Number: 20
+CALIFORNIA HERE I COME FILMS | Family that's California bound in the clip seen <http://www.j-archive.com/media/1998-03-20_DJ_27.wmv> here:  "Think it'll hold?" | the Joad Family
+right: Boze
+Wrong: 
+Value: DD: $3,000
+Number: 27
+CITY FOLK | Madrilenos | residents of Madrid
+right: Jeff
+Wrong: 
+Value: $600
+Number: 15
+THEY'RE NOT IN KANSAS ANY MORE | He's the most famous man we know from Russell, Kansas | Bob Dole
+right: Carol
+Wrong: 
+Value: $600
+Number: 19
+AIN'T THAT "GRAND" | Term for an extended visit to Europe, once an essential part of a British gent's upbringing | the Grand Tour
+right: Carol
+Wrong: 
+Value: $600
+Number: 11
+PHYSICS 101 | In the 19th C. Rudolf Clausius coined this word for measuring increasing disorder in a system | entropy
+right: Carol
+Wrong: 
+Value: $800
+Number: 4
+THE 19th CENTURY | On sale May 1, 1840, the first postage stamp with adhesive on the back had this person on the front | Queen Victoria
+right: 
+Wrong: 
+Boze: Who was George Washington?
+Value: DD: $1,900
+Number: 14
+CALIFORNIA HERE I COME FILMS | In this 1995 film, Whoopi, Mary-Louise & Drew head to San Diego | Boys on the Side
+right: Boze
+Wrong: 
+Value: $800
+Number: 26
+CITY FOLK | Damascenes | Damascus residents
+right: Jeff
+Wrong: 
+Value: $800
+Number: 17
+THEY'RE NOT IN KANSAS ANY MORE | This Wild West town might still be wild if native son Dennis Hopper still lived there | Dodge City
+right: Carol
+Wrong: 
+Value: $800
+Number: 23
+AIN'T THAT "GRAND" | A 1085-mile waterway in China & a 2.5 mile waterway in Venice are both called this | the Grand Canal
+right: Jeff
+Wrong: 
+Value: $800
+Number: 10
+PHYSICS 101 | Silicon is a semiconducting material; this is the term for nonconductors like plastics | an insulator
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 5
+THE 19th CENTURY | 1853 purchase that brought the contiguous U.S. about up to its present area | the Gadsden Purchase
+right: Jeff
+Wrong: 
+Boze: What is the Louisiana Purchase?
+Value: $1000
+Number: 21
+CALIFORNIA HERE I COME FILMS | In "Calendar Girl" Jason Priestley heads to L.A. to meet this movie star | Marilyn Monroe
+right: Boze
+Wrong: 
+Value: $1000
+Number: 25
+CITY FOLK | Varsovians | residents of Warsaw
+right: Boze
+Wrong: 
+Value: $1000
+Number: 18
+THEY'RE NOT IN KANSAS ANY MORE | This author of the "Guys & Dolls" stories really was from Manhattan--Manhattan, Kansas, that is | Damon Runyon
+right: Boze
+Wrong: 
+Value: $1000
+Number: 24
+AIN'T THAT "GRAND" | At 15 in 1991, Judit Polgar became the youngest person & one of the few women to attain this rank | a grandmaster (in chess)
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Jeff: $8,700
+Boze: $8,400
+Carol: $3,600
+
+Final Jeopardy! Round
+FINANCE HISTORY | In the 19th c., selling stock you didn't yet own, hoping it would fall, was called selling this animal's skin | a bear
+right: Boze
+Wrong: 
+Carol: What is buffalo?
+Jeff: What is sheep?
+Wagers: 
+Carol: $3,000
+Boze: $8,000
+Jeff: $8,101
+Final scores:
+Jeff: $599 (3rd place: Ellesse Swiss-crafted sports watch)
+Boze: $16,400 (New champion: $16,400)
+Carol: $600 (2nd place: Intel Create & Share Camera Pack software, Intel 300 MHz P2 PC, and Bush telescoping desk)
+
+Coryat scores
+Jeff: $8,700 (20 R,2 W)
+Boze: $7,900 (17 R(including 1 DD),2 W(including 1 DD))
+Carol: $4,100 (15 R,4 W(including 1 DD))

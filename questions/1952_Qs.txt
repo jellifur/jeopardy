@@ -1,0 +1,339 @@
+3199 - Thursday, June 25, 1998
+Contestants:
+Kathleen Hale: a lawyer and homemaker from Chagrin Falls, Ohio
+John Bunnell: an attorney from Newport, Tennessee
+Dan Kennedy: a systems analyst from Alberta, New York (whose 1-day cash winnings total $14,900)
+First Jeopardy! Round: U.S. HISTORY, FOOD, I LEARNED IT AT THE MOVIES, ANATOMIC QUOTES, 20th CENTURY WOMEN, "DEAD" TO THE WORLD
+U.S. HISTORY | The political ring led by this man stole as much as $200 million from NYC before it was ousted in 1871 | Boss Tweed
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+FOOD | The Spaniards called it pina de Indes from its resemblance to a pine cone | Pineapple
+right: Dan
+Wrong: 
+Value: $100
+Number: 5
+I LEARNED IT AT THE MOVIES | It was built in 1889 & in the movies it's visible from every window in every building in Paris | Eiffel Tower
+right: Dan
+Wrong: 
+Value: $100
+Number: 7
+ANATOMIC QUOTES | Edmond Rostand work that includes the line "Enorme, mon nez!" -- "My nose is huge!" | "Cyrano de Bergerac"
+right: Kathleen
+Wrong: 
+Value: $100
+Number: 15
+20th CENTURY WOMEN | She practiced tax law after giving up chemistry & in 1979 became prime minister of Great Britain | Margaret Thatcher
+right: Dan
+Wrong: 
+Value: $100
+Number: 26
+"DEAD" TO THE WORLD | This type of street might have a sign that reads "No Outlet" | Dead-end street
+right: Dan
+Wrong: 
+Value: $100
+Number: 21
+U.S. HISTORY | John Adams appointed this John chief justice | John Marshall
+right: John
+Wrong: 
+Value: $200
+Number: 2
+FOOD | In England & Scandinavia this is the traditional bird for the Christmas feast, not the turkey | Goose
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 6
+I LEARNED IT AT THE MOVIES | On film, unlike in nature, these 2 atmospheric events are seen & heard simultaneously | Thunder & lightning
+right: Dan
+Wrong: 
+Value: $200
+Number: 11
+ANATOMIC QUOTES | The Latin proverb "Ubi amor, ibi oculus" is translated as "Where love is, there" this "wanders" | Eye
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 17
+20th CENTURY WOMEN | 20th century "fox" seen here: (David Copperfield's fiance) | Claudia Schiffer
+right: Dan
+Wrong: 
+Value: $200
+Number: 27
+"DEAD" TO THE WORLD | It's a type of lock that has no spring | Deadbolt
+right: John
+Wrong: 
+Value: $200
+Number: 22
+U.S. HISTORY | President who signed the Alaskan Pipeline Act during the energy crisis | Richard Nixon
+right: John
+Wrong: 
+Value: $300
+Number: 3
+FOOD | Its history shows the French taking an Austrian crescent roll & making it with puff pastry, not bread dough | Croissant
+right: Kathleen
+Wrong: 
+Value: $300
+Number: 8
+I LEARNED IT AT THE MOVIES | It always sounds just as a teacher finishes making an important point | Bell
+right: Dan
+Wrong: 
+Value: $300
+Number: 12
+ANATOMIC QUOTES | Ben Franklin advised, "Keep your mouth wet" & these "dry" | Feet
+right: Kathleen
+Wrong: 
+Value: $300
+Number: 18
+20th CENTURY WOMEN | In 1997 Pope John Paul II called this late nun "The unforgettable mother of the poor" | Mother Teresa
+right: Kathleen
+Wrong: 
+Value: $300
+Number: 28
+"DEAD" TO THE WORLD | One who gets into a concert for free, a fan of the Grateful Dead, or both | Deadhead
+right: Kathleen
+Wrong: 
+Value: $300
+Number: 23
+U.S. HISTORY | The Glass-Steagall Banking Act of 1933 created this agency that guarantees bank accounts | FDIC (Federal Deposit Insurance Corporation)
+right: Dan
+Wrong: 
+Value: $400
+Number: 4
+FOOD | In 1938 Herman Warden Lay started selling these under his own brand name | Potato chips
+right: Dan
+Wrong: 
+Value: $400
+Number: 9
+I LEARNED IT AT THE MOVIES | Luckily, these weapons have color-coded internal wires that allow easy disarming | Bombs
+right: Dan
+Wrong: 
+Value: $400
+Number: 13
+ANATOMIC QUOTES | Jonathan Swift wrote, "I am as old as my tongue, and a little older than" these | Teeth
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+20th CENTURY WOMEN | In 1996 she married fellow speed skater David Cruikshank | Bonnie Blair
+right: John
+Wrong: 
+Value: $400
+Number: 29
+"DEAD" TO THE WORLD | Comedy style associated with Buster Keaton | Deadpan
+right: John
+Wrong: 
+Value: $400
+Number: 24
+U.S. HISTORY | This state's constitution of 1849 led married women retain control of their own property | California
+right: Dan
+Wrong: 
+Value: $500
+Number: 16
+FOOD | NYC restaurateur famous for his namesake: grilled corned beef, Swiss & sauerkraut on rye | Arnold Reuben (Reuben sandwich)
+right: Dan
+Wrong: 
+Value: DD: $500
+Number: 10
+I LEARNED IT AT THE MOVIES | In Hollywood films, most phone numbers begin with these 3 digits | 555
+right: Dan
+Wrong: 
+Value: $500
+Number: 14
+ANATOMIC QUOTES | Shelley penned, "Worse than a bloody hand is a hard" one of these | Heart
+right: Dan
+Wrong: 
+Value: $500
+Number: 20
+20th CENTURY WOMEN | In 1982 this former First Lady founded the National Wildflower Research Center in Austin, Texas | Lady Bird Johnson
+right: Kathleen
+Wrong: 
+Value: $500
+Number: 30
+"DEAD" TO THE WORLD | It's the term for mail the Postal Service can't deliver | Dead letter
+right: Dan
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Dan: $3,000
+John: $500
+Kathleen: $300
+Scores at the end of the Jeopardy! Round:
+Dan: $4,900
+John: $1,000
+Kathleen: $1,500
+Second Jeopardy! Round: THE SOUND OF "MUSIC", SOUTH PACIFIC, THE KING AND I, OKLAHOMA, FLOWER, DRUM SONG
+THE SOUND OF "MUSIC" | 10 kids, 9 seats, 1 piano & you're ready to play this | Musical chairs
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+SOUTH PACIFIC | Recent fad inspired by the land divers of Pentecost Island, who use it as a rite of passage for young boys | Bungee jumping
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 2
+THE KING AND I | Macduff calls him a "coward" & a "hell-hound" & then cuts his head off -- mercifully, offstage | Macbeth
+right: John
+Wrong: 
+Value: $200
+Number: 14
+OKLAHOMA | Oklahoma's is the scissor-tailed flycatcher | State bird
+right: John
+Wrong: 
+Value: $200
+Number: 21
+FLOWER | There's no need to keep mum about it, mum is short for this flower | Chrysanthemum
+right: Kathleen
+Wrong: 
+Value: $200
+Number: 19
+DRUM SONG | Ex-E Street Band drummer Max Weinberg leads the house band for this current "Late Show" host | Conan O"Brien
+right: Dan
+Wrong: 
+Value: $200
+Number: 8
+THE SOUND OF "MUSIC" | To stand up to the results of your actions, or to stand like an orchestra conductor | Face the music
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 4
+SOUTH PACIFIC | Vailima, this author's mansion in western Samoa, has now been "Kidnapped" by the country's head of state | Robert Louis Stevenson
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 13
+THE KING AND I | This Magna Carta king tells his son, "I am a scribbled form, drawn with a pen upon a parchment" | John
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 15
+OKLAHOMA | In 1909 John Mitchell reportedly organized the first American troop of these boys, in Pawhuska | Boy Scouts
+right: Dan
+Wrong: 
+Value: $400
+Number: 26
+FLOWER | The opium variety of this flower yields a powerful narcotic, & non-narcotic seeds used in baking | Poppy
+right: Dan
+Wrong: 
+Value: $400
+Number: 20
+DRUM SONG | This heavy metal band bears the last name of drummer Alex as well as his brother Eddie | Van Halen
+right: John
+Wrong: 
+Value: $400
+Number: 9
+THE SOUND OF "MUSIC" | A 1787 Mozart serenade, or a 1973 Sondheim show | "A Little Night Music"
+right: Dan
+Wrong: 
+Value: $600
+Number: 5
+SOUTH PACIFIC | You can order carved wooden models of the HMS Bounty from this island's web site | Pitcairn Island
+right: Kathleen
+Wrong: 
+Value: $600
+Number: 30
+THE KING AND I | This title prince of Tyre taunts King Antiochus: "Great king, few love to hear the sins they love to act" | Pericles
+right: John
+Wrong: 
+Value: $600
+Number: 16
+OKLAHOMA | At the turn of the century, the area was divided into 2 territories: Oklahoma & this | Indian Territory
+right: John
+Wrong: 
+Value: $600
+Number: 29
+FLOWER | Blue Moon & Dainty Bess are hybrid tea varieties of this flower | Rose
+right: John
+Wrong: 
+Value: $600
+Number: 23
+DRUM SONG | "Rumours" have it this band that sang "Go Your Own Way" was named for its drummer | Fleetwood Mac
+right: John
+Wrong: 
+Value: $600
+Number: 10
+THE SOUND OF "MUSIC" | These first 3 words of a famous quote are useful when you need "to soothe a savage breast" | Music hath charms
+right: Dan
+Wrong: 
+Value: $800
+Number: 6
+SOUTH PACIFIC | The Cook Islands use the currency of this island nation as well as its own, including a $2 triangular coin | New Zealand
+right: Dan
+Wrong: 
+Value: $800
+Number: 28
+THE KING AND I | His fool calls him a fool, saying, "All thy other titles thou hast given away; that thou wast born with" | King Lear
+right: John
+Wrong: 
+Value: DD: $3,100
+Number: 17
+OKLAHOMA | Oklahoma once competed annually with Georgia to see who could make the biggest pie out of these nuts | Pecans
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 22
+FLOWER | The story on these flowers, seen here, is that they open for only a few hours each day: | Morning Glory
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 24
+DRUM SONG | This jazz legend who died in 1987 waged epic drum battles with Gene Krupa | Buddy Rich
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+THE SOUND OF "MUSIC" | According to Pythagoras, it was harmonious, made by the planets & inaudible on Earth | Music of the Spheres
+right: Dan
+Wrong: 
+Value: $1000
+Number: 7
+SOUTH PACIFIC | The south Pacific's last remaining kingdom, its name means "South" in many Polynesian languages | Tonga
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+THE KING AND I | Fed up with this fairy king, Titania vows, "I have forsworn his bed and company" | Oberon
+right: Kathleen
+Wrong: 
+Value: $1000
+Number: 18
+OKLAHOMA | Like Florida's capital, this 2nd-largest Oklahoma city got its name from the Creek for "old town" | Tulsa
+right: John
+Wrong: 
+Value: DD: $1,000
+Number: 1
+FLOWER | Butterflies are especially fond of these flowers whose name sounds like you just can't wait for them to grow | Impatiens
+right: Kathleen
+Wrong: 
+Value: $1000
+Number: 25
+DRUM SONG | Since the breakup of his band, heard here, this drummer has become a noted film composer: | Stewart Copeland
+right: Dan
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Dan: $9,300
+John: $6,700
+Kathleen: $7,300
+
+Final Jeopardy! Round
+AMERICAN AUTHORS | This author born in 1904 grew up near Mulberry Street in Springfield, Massachusetts | Dr. Seuss (Theodor Geisel)
+right: John
+Wrong: 
+Kathleen: Who Mother Cabrini
+Dan: Who is Kerouac?
+Wagers: 
+John: $6,700
+Kathleen: $5,000
+Dan: $5,301
+Final scores:
+Dan: $3,999 (2nd place: Trip to Sheraton Princess Kalulani Hotel, Hawaii)
+John: $13,400 (New champion: $13,400)
+Kathleen: $2,300 (3rd place: Sony Power Cinema Package)
+
+Coryat scores
+Dan: $9,300 (25 R(including 1 DD),2 W)
+John: $4,400 (14 R(including 2 DDs),4 W)
+Kathleen: $7,300 (18 R,2 W)

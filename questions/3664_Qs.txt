@@ -1,0 +1,332 @@
+6170 - Friday, June 10, 2011
+Contestants:
+Ben Sack: an Internet entrepreneur from Boston, Massachusetts
+Amy Larimer: a fish and wildlife technician from Corpus Christi, Texas
+Mary Anna Martell: a graduate student in library science from Waterford, Connecticut (whose 1-day cash winnings total $16,800)
+First Jeopardy! Round: NONFICTION, 1923 TIME COVERS, WHAT KIND OF ANIMAL MASCOT?, IT'S THE "PIT"S, OFFICIAL STATE STUFF, NYSE
+NONFICTION | In a book subtitled "A Biography of the World's Most Famous Equation", the equation is this | E = mc
+right: Mary Anna
+Wrong: 
+Value: $200
+Number: 4
+1923 TIME COVERS | The very first Time cover, in March 1923, featured Joe Cannon, who had held this job currently held by John Boehner | Speaker of the House
+right: Mary Anna
+Wrong: 
+Value: $200
+Number: 27
+WHAT KIND OF ANIMAL MASCOT? | GEICO | a gecko
+right: Ben
+Wrong: 
+Value: $200
+Number: 2
+IT'S THE "PIT"S | This person supervises the gambling in a casino | a pit boss
+right: Amy
+Wrong: 
+Value: $200
+Number: 7
+OFFICIAL STATE STUFF | Appropriately, Kentucky's official state music is this type of country music that favors the banjo | bluegrass
+right: Mary Anna
+Wrong: 
+Value: $200
+Number: 21
+NYSE | (<http://www.j-archive.com/media/2011-06-10_J_23.jpg> Sarah of the Clue Crew reports from outside the New York Stock Exchange.)  The <http://www.j-archive.com/media/2011-06-10_J_23a.jpg> pediment above the New York City Stock Exchange entrance is titled "Integrity Protecting the Works of Man"; presiding over images of industry, science & agriculture, the figure of <http://www.j-archive.com/media/2011-06-10_J_23b.jpg> Integrity wears the winged hat representing & associated with this Roman god of commerce | Mercury
+right: Mary Anna
+Wrong: 
+Value: $200
+Number: 23
+NONFICTION | It holds the record in its own record book as the bestselling copyrighted nonfiction book of all time | the Guinness Book of World Records
+right: Ben
+Wrong: 
+Value: $400
+Number: 5
+1923 TIME COVERS | July 23's cover showed Roy Asa Haynes, the U.S. commissioner of this unpopular program repealed in 1933 | Prohibition
+right: Ben
+Wrong: 
+Value: $400
+Number: 25
+WHAT KIND OF ANIMAL MASCOT? | Aflac | a duck
+right: Amy
+Wrong: 
+Value: $400
+Number: 1
+IT'S THE "PIT"S | This pea-sized gland is also called the hypophysis | pitutary
+right: Ben
+Wrong: 
+Value: $400
+Number: 12
+OFFICIAL STATE STUFF | The Western hemlock, Washington's state tree, is this type, also found in the state's official nickname | evergreen
+right: Amy
+Wrong: 
+Value: $400
+Number: 20
+NYSE | (<http://www.j-archive.com/media/2011-06-10_J_24.jpg> Jimmy of the Clue Crew reports from inside the New York Stock Exchange.)  Share prices on the Big Board have been listed in <http://www.j-archive.com/media/2011-06-10_J_24.wmv> decimals since 2001, when the 200-year-old practice of trading in these numerical units was finally ended | fractions
+right: Ben
+Wrong: 
+Value: $400
+Number: 24
+NONFICTION | "Have A Little Faith: A True Story" was a 2009 bestseller by this "Tuesdays with Morrie" author | (Mitch) Albom
+right: Ben
+Wrong: 
+Value: $600
+Number: 6
+1923 TIME COVERS | Late in the year, Time showcased this fading former U.S. president who died the following year | (Woodrow) Wilson
+right: Ben
+Wrong: 
+Value: $600
+Number: 22
+WHAT KIND OF ANIMAL MASCOT? | NBC (since the 1950s) | a peacock
+right: Ben
+Wrong: 
+Value: $600
+Number: 8
+IT'S THE "PIT"S | In baseball, it's a ball purposely thrown wide of the plate to help the catcher nab a base stealer | a pitchout
+right: Amy
+Wrong: 
+Value: $600
+Number: 13
+OFFICIAL STATE STUFF | Maryland's state dog is this retriever with a body of water in its name | a Chesepeake Bay retriever
+right: Mary Anna
+Wrong: 
+Value: $600
+Number: 19
+NYSE | (<http://www.j-archive.com/media/2011-06-10_J_28.jpg> Jimmy of the Clue Crew reports from inside the New York Stock Exchange.)  When world events disrupt markets, even the bustling New York Stock Exchange can undergo an emergency closure; the longest such shutdown began July 31st of this year, with war in Europe just days away | 1914
+right: Amy
+Wrong: 
+Ben: What is 1939?
+Value: $600
+Number: 28
+NONFICTION | "Against All Odds" is this current Massachusetts senator's tale of overcoming a childhood of beatings & worse | Scott Brown
+right: Amy
+Wrong: 
+Value: $800
+Number: 3
+1923 TIME COVERS | At the end of 1923, this Irish author graced Time's cover & inside discussed his new play about Joan of Arc | (George Bernard) Shaw
+right: Ben
+Wrong: 
+Value: $800
+Number: 10
+WHAT KIND OF ANIMAL MASCOT? | Klondike bar | a polar bear
+right: Mary Anna
+Wrong: 
+Value: $800
+Number: 14
+IT'S THE "PIT"S | This term for a meager monetary wage originally referred to the allowance of food given to a monk | a pittance
+right: Ben
+Wrong: 
+Value: $800
+Number: 9
+OFFICIAL STATE STUFF | Virginia's official nickname is "Old" this, a reference to its status as England's oldest colony in the Americas | Dominion
+right: Ben
+Wrong: 
+Value: DD: $1,500
+Number: 11
+NYSE | (<http://www.j-archive.com/media/2011-06-10_J_29.jpg> Sarah of the Clue Crew reports from the floor of the New York Stock Exchange.)  In 1979, the New York Stock Exchange formed a new exchange for trading in these forward-looking securities; right now I can buy 33.2 ounces of gold for delivery next January | futures
+right: Amy
+Wrong: 
+Value: $800
+Number: 29
+NONFICTION | Published posthumously in 1977, "American Hunger" is a continuation of his "Black Boy" autobiography | (Richard) Wright
+right: Mary Anna
+Wrong: 
+Value: $1000
+Number: 16
+1923 TIME COVERS | The fourth issue in 1923 featured the founder of modern Turkey, Mustafa Kemal Pasha, who's better known by this name | Ataturk
+right: Amy
+Wrong: 
+Value: $1000
+Number: 26
+WHAT KIND OF ANIMAL MASCOT? | Elmer's glue | a bull
+right: Mary Anna
+Wrong: 
+Ben: What is a bear?
+Value: $1000
+Number: 15
+IT'S THE "PIT"S | Adamstown is the only settlement on this tiny British dependency in the South Pacific | Pitcairn Island
+right: Mary Anna
+Wrong: 
+Value: $1000
+Number: 17
+OFFICIAL STATE STUFF | The diatonic or Cajun type of this is Louisiana's state musical instrument | an accordion
+right: Amy
+Wrong: 
+Value: $1000
+Number: 18
+NYSE | (<http://www.j-archive.com/media/2011-06-10_J_30.jpg> Sarah of the Clue Crew reports from inside the New York Stock Exchange.)  If the Dow Jones Industrial Average declines more than 10% in a day, trading is halted to prevent a market slide; it's a safety feature called this 2-word term, also a device that protects homes from electrical overloads | circuit breaker
+right: Ben
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Mary Anna: $2,000
+Amy: $2,000
+Ben: $4,300
+Scores at the end of the Jeopardy! Round:
+Mary Anna: $3,800
+Amy: $5,800
+Ben: $6,100
+Second Jeopardy! Round: ARTISTS, I'VE WON AN OSCAR & AN EMMY, WORDS IN THE PREAMBLE, THE HERO WITH..., A THOUSAND, FACES
+ARTISTS | Like Whistler, this "American Gothic" artist painted his own mother, in "Woman With Plants" | (Grant) Wood
+right: Ben
+Wrong: 
+Value: $400
+Number: 7
+I'VE WON AN OSCAR & AN EMMY | "Ghost" (Oscar) & "The View" (Emmy) | (Whoopi) Goldberg
+right: Ben
+Wrong: 
+Value: $400
+Number: 24
+THE HERO WITH... | A tank; in an effort to escape his notoriety, this hero joined the Royal Tank Corps in 1923 as T.E. Shaw | Lawrence (of Arabia)
+right: Mary Anna
+Wrong: 
+Value: $400
+Number: 1
+ARTISTS | In 1949 Life magazine asked if this drip artist was "the greatest living painter in the United States" | Jackson Pollock
+right: Mary Anna
+Wrong: 
+Value: $800
+Number: 6
+I'VE WON AN OSCAR & AN EMMY | "Kramer vs. Kramer" (Oscar) & "Holocaust" (Emmy) | Meryl Streep
+right: Amy
+Wrong: 
+Value: $800
+Number: 23
+WORDS IN THE PREAMBLE | Yes, Lady, the founders hoped to "secure the blessings of" this | liberty
+right: Ben
+Wrong: 
+Value: $800
+Number: 19
+THE HERO WITH... | The Golden Apples of the Hesperides | Hercules
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+A THOUSAND | Numeric title for an Arabian folktale collection that originated in the 9th century | 1,001 Nights
+right: Ben
+Wrong: 
+Value: $800
+Number: 25
+FACES | <http://www.j-archive.com/media/2011-06-10_DJ_12.jpg> This Chicago businessman looks like he might be taking in a ballgame | (William) Wrigley
+right: Ben
+Wrong: 
+Value: $800
+Number: 12
+ARTISTS | He modeled the 2 seated men in his "Nighthawks" after himself & the lone woman at the diner after his wife Jo | (Edward) Hopper
+right: Amy
+Wrong: 
+Ben: Who is Wood?
+Value: $1200
+Number: 5
+I'VE WON AN OSCAR & AN EMMY | "The Fugitive" (Oscar) & "The Executioner's Song" (Emmy) | Tommy Lee Jones
+right: Amy
+Wrong: 
+Value: $1200
+Number: 22
+WORDS IN THE PREAMBLE | The preamble mentions this peaceful state; there's a sea of it on the Moon | tranquility
+right: Amy
+Wrong: 
+Value: $1200
+Number: 18
+THE HERO WITH... | A horn named Olifant, which was sounded too late to help his Frankish forces | Roland
+right: Ben
+Wrong: 
+Value: $1200
+Number: 3
+A THOUSAND | A volcanic region within Alaska's Katmai National Park is designated "The Valley of Ten Thousand" these | Smokes
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 11
+FACES | Once a part of the original trio, <http://www.j-archive.com/media/2011-06-10_DJ_27.jpg> he rejoined the troupe after a short solo career | Shemp
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 27
+ARTISTS | This "Whaam!" artist said that "paintings are Rorschach ink blots.  They are what you want them to be" | Roy Lichtenstein
+right: 
+Wrong: Triple Stumper
+Ben: Who is Pollock?
+Value: $1600
+Number: 4
+I'VE WON AN OSCAR & AN EMMY | "Tender Mercies" (Oscar) & "Broken Trail" (Emmy) | Robert Duvall
+right: Amy
+Wrong: 
+Value: $1600
+Number: 21
+WORDS IN THE PREAMBLE | One goal is to "promote the general" this, also a term for government aid to the needy | welfare
+right: Amy
+Wrong: 
+Value: $1600
+Number: 17
+THE HERO WITH... | A sword named Gram, which he used to kill Fafnir | Siegfried
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 16
+A THOUSAND | Before the Soviet tankis rolled in, a manifesto called the "Two Thousand Words" urged protest in this country in 1968 | Czechoslovakia
+right: 
+Wrong: 
+Ben: What is Prague?  What is Prague, [*]?
+Value: DD: $1,600
+Number: 9
+FACES | <http://www.j-archive.com/media/2011-06-10_DJ_26.jpg> This precocious <http://www.j-archive.com/media/2011-06-10_DJ_26a.jpg> little girl first appeared in the comics in 1933 as the niece of an aunt named Fritzi | Nancy
+right: 
+Wrong: Triple Stumper
+Ben: Who is Orphan Annie--Little Orphan Annie?
+Value: $1600
+Number: 26
+ARTISTS | After visits to this country in the 1850s, Frederic Church painted its <http://www.j-archive.com/media/2011-06-10_DJ_08.jpg> Cotopaxi volcano | Ecuador
+right: 
+Wrong: Triple Stumper
+Amy: What is Mexico?
+Value: $2000
+Number: 8
+I'VE WON AN OSCAR & AN EMMY | "The Miracle Worker" (Oscar) & "The Miracle Worker" (Emmy) | Patty Duke
+right: Amy
+Wrong: 
+Value: $2000
+Number: 20
+WORDS IN THE PREAMBLE | We want this to be "more perfect"; not the best English, but let's go with it | union
+right: Mary Anna
+Wrong: 
+Value: $2000
+Number: 15
+THE HERO WITH... | The hero with a seat at the 2011 S.O.T.U. was named Daniel Hernandez, who helped when this Arizona rep. was attacked | (Gabrielle) Giffords
+right: Ben
+Wrong: 
+Value: $2000
+Number: 14
+A THOUSAND | This thinker published the bestsellers "The Hero with a Thousand Faces" & "The Power of Myth" | (Joseph) Campbell
+right: Mary Anna
+Wrong: 
+Value: $2000
+Number: 10
+FACES | <http://www.j-archive.com/media/2011-06-10_DJ_13.jpg> This late brother-in-law of JFK was the first director of the Peace Corps & later ran the war on poverty | Sargent Shriver
+right: Ben
+Wrong: 
+Value: DD: $1,000
+Number: 13
+Scores at the end of the Double Jeopardy! Round:
+Mary Anna: $6,200
+Amy: $13,400
+Ben: $7,500
+
+Final Jeopardy! Round
+FRANCE | With about 340,000 people today, it's the most populous French city that came under Italian occupation in World War II | Nice
+right: 
+Wrong: 
+Mary Anna: What is Marseilles?
+Ben: What is Mars <del>Marseille</del> <del>Nice</del>
+Amy: What is Marseilles?
+Wagers: 
+Mary Anna: $5,600
+Ben: $7,490
+Amy: $1,601
+Final scores:
+Mary Anna: $600 (2nd place: $2,000)
+Amy: $11,799 (New champion: $11,799)
+Ben: $10 (3rd place: $1,000)
+
+Coryat scores
+Mary Anna: $6,200 (13 R,4 W)
+Amy: $13,400 (16 R,1 W)
+Ben: $9,400 (20 R(including 2 DDs),6 W(including 1 DD))

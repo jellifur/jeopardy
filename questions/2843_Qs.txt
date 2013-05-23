@@ -1,0 +1,344 @@
+4244 - Thursday, January 30, 2003
+Comments: Jackie Harrison game 3.
+Contestants:
+Kevin Mallory: a library assistant from Knoxville, Tennessee
+Brian Hayes: an attorney from Minneapolis, Minnesota
+Jackie Harrison: a surgeon from Chicago, Illinois (whose 2-day cash winnings total $35,601)
+First Jeopardy! Round: U.S. GOVT. ABBREV., PERSONAL PRODUCTS, THAT '70s SONG, THE NORMAN INVASION, WHERE AM I?, "C" FOR YOURSELF
+U.S. GOVT. ABBREV. | Tune in to this, the VOA | Voice of America
+right: Kevin
+Wrong: 
+Value: $200
+Number: 26
+PERSONAL PRODUCTS | This company introduced its baby powder in 1893, its baby oil in 1935 & its baby shampoo in 1954 | Johnson & Johnson
+right: Jackie
+Wrong: 
+Value: $200
+Number: 6
+THAT '70s SONG | This Carpenters classic begins, "Why do birds suddenly appear every time you are near" | "Close to You"
+right: Jackie
+Wrong: 
+Value: $200
+Number: 1
+THE NORMAN INVASION | According to this homicidal film character, "A boy's best friend is his mother" | Norman Bates
+right: Jackie
+Wrong: 
+Value: $200
+Number: 12
+WHERE AM I? | (Jimmy of the Clue Crew)  I'm in this city, at the very first of thousands of Starbucks stores | Seattle
+right: Brian
+Wrong: 
+Value: $200
+Number: 11
+"C" FOR YOURSELF | A staff or support used by the physically injured when walking | crutch
+right: Kevin
+Wrong: 
+Value: $200
+Number: 15
+U.S. GOVT. ABBREV. | The DCI (Director of Central Intelligence) is a member of this group, the NSC | National Security Council
+right: Brian
+Wrong: 
+Value: $400
+Number: 27
+PERSONAL PRODUCTS | Though its logo originally said "Since 1850", this brand of casual wear was introduced by Levi's in 1986 | Dockers
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+THAT '70s SONG | This 1972 song heard here became an anthem for many | "I Am Woman" (by Helen Reddy)
+right: Jackie
+Wrong: 
+Value: $400
+Number: 2
+THE NORMAN INVASION | He won his second Pulitzer Prize for "The Executioner's Song" | Norman Mailer
+right: Jackie
+Wrong: 
+Value: $400
+Number: 22
+WHERE AM I? | (Sarah of the Clue Crew)  I'm at the historic Chinatown gate, which only dates from 1970, at the corner of Grant & Bush in this city | San Francisco
+right: Kevin
+Wrong: 
+Value: $400
+Number: 13
+"C" FOR YOURSELF | A trial by military personnel | court-martial
+right: Jackie
+Wrong: 
+Value: $400
+Number: 17
+U.S. GOVT. ABBREV. | It's the "beastly" government entity known as the FWS | Fish and Wildlife Service
+right: Kevin
+Wrong: 
+Brian: What is the Federal Wildlife Service?
+Value: $600
+Number: 28
+PERSONAL PRODUCTS | The Ace bandage got its name in a contest: the winning entry used it as an acronym for "All Cotton" this | Elastic
+right: Jackie
+Wrong: 
+Value: DD: $2,000
+Number: 8
+THAT '70s SONG | Beelzebub, Bismillah & Scaramouch are all mentioned in the lyrics to this nearly 6-minute-long song | "Bohemian Rhapsody"
+right: Jackie
+Wrong: 
+Brian: What is "The Devil Went Down to Georgia?"
+Value: $600
+Number: 3
+THE NORMAN INVASION | In 1977 this illustrator received the Presidential Medal of Freedom | Norman Rockwell
+right: Jackie
+Wrong: 
+Value: $600
+Number: 23
+WHERE AM I? | (Cheryl of the Clue Crew)  I'm at historic Ebenezer Baptist Church in this city | Atlanta
+right: Jackie
+Wrong: 
+Value: $600
+Number: 14
+"C" FOR YOURSELF | The History Channel calls this job America's one original contribution to mythology | cowboy
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+U.S. GOVT. ABBREV. | Map out your response about this government unit, the USGS | United States Geological Survey
+right: Kevin
+Wrong: 
+Brian: What is the United States Geographic Service?
+Value: $800
+Number: 29
+PERSONAL PRODUCTS | This clothes line introduced by Garan Inc. in 1972 had kids matching hippos & other creatures to make outfits | Garanimals
+right: Kevin
+Wrong: 
+Value: $800
+Number: 9
+THAT '70s SONG | In 1975 & again in 1977 Judy Collins made the Top 40 with this song from "A Little Night Music" | "Send in the Clowns"
+right: Jackie
+Wrong: 
+Value: $800
+Number: 4
+THE NORMAN INVASION | He created & produced "All in the Family", & then there was "Maude" | Norman Lear
+right: Jackie
+Wrong: 
+Value: $800
+Number: 24
+WHERE AM I? | (Sofia of the Clue Crew)  I'm in this state overlooking the Mississippi just upriver from where it joins the St. Croix | Minnesota
+right: Jackie
+Wrong: 
+Value: $800
+Number: 16
+"C" FOR YOURSELF | This Puerto Rican-born Pittsburgh Pirate was the first Hispanic elected to pro baseball's hall of fame | Roberto Clemente
+right: Jackie
+Wrong: 
+Value: $800
+Number: 19
+U.S. GOVT. ABBREV. | Take a look at this selfless group, VISTA | Volunteers in Service to America
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 30
+PERSONAL PRODUCTS | In 1989 this underwear maker put Michael Jordan under contract | Hanes
+right: Jackie
+Wrong: 
+Value: $1000
+Number: 10
+THAT '70s SONG | This 1971 hit from Bread would fit in a 2-letter words category | "If"
+right: Jackie
+Wrong: 
+Value: $1000
+Number: 5
+THE NORMAN INVASION | We're positive that he had a 1952 bestseller with "The Power of Positive Thinking" | Norman Vincent Peale
+right: Jackie
+Wrong: 
+Value: $1000
+Number: 25
+WHERE AM I? | (Sofia of the Clue Crew)  I'm at this Southwestern city, home of the world's largest balloon fiesta | Albuquerque
+right: Jackie
+Wrong: 
+Value: $1000
+Number: 21
+"C" FOR YOURSELF | The Hudson River School of landscape painters loved the scenic beauty of these New York mountains | Catskills
+right: Jackie
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Jackie: $7,000
+Brian: -$400
+Kevin: $1,400
+Scores at the end of the Jeopardy! Round:
+Jackie: $13,800
+Brian: -$1,400
+Kevin: $4,000
+Second Jeopardy! Round: HISTORY, ORGANIZATIONS, THE DIARY OF, OSCAR, "M.E.", TOE-KNEE
+HISTORY | Stone tools were first used during this period known as the "Old Stone Age" | Paleolithic
+right: Kevin
+Wrong: 
+Brian: What is Mesolithic?
+Value: $400
+Number: 5
+ORGANIZATIONS | In September 2002, Jerry Lewis' telethon raised a record $58.3 million for this association | Muscular Dystrophy Association
+right: Jackie
+Wrong: 
+Value: $400
+Number: 6
+OSCAR | For 1948's "Hamlet", he was nominated for both Best Director & Best Actor | Sir Laurence Olivier
+right: Jackie
+Wrong: 
+Value: $400
+Number: 17
+"M.E." | On TV, Jack Klugman's Quincy was an M.E., standing for this | medical examiner
+right: Jackie
+Wrong: 
+Value: $400
+Number: 7
+TOE-KNEE | This condition, the failure of an arch to form, will only keep you out of the army if it's extreme or causes other symptoms | flat feet
+right: Kevin
+Wrong: 
+Value: $400
+Number: 28
+HISTORY | In 1533, at age 3, he became grand prince of Moscow; 14 years later he was crowned Russia's first czar | Ivan the Terrible
+right: Brian
+Wrong: 
+Value: $800
+Number: 4
+ORGANIZATIONS | In February 1995 Myrlie Evers-Williams, widow of Medgar, was elected this organization's chairperson | NAACP
+right: Brian
+Wrong: 
+Value: $800
+Number: 12
+THE DIARY OF | "Last Flight", published by her husband George Putnam in 1937, was composed mainly of her diary entries | Amelia Earhart
+right: Kevin
+Wrong: 
+Value: $800
+Number: 29
+OSCAR | Starting with "The Deer Hunter", this actress received Oscar nominations in all but 4 years from 1979 through 1991 | Meryl Streep
+right: Jackie
+Wrong: 
+Value: $800
+Number: 18
+"M.E." | For the L.A. Times, it's Dean Baquet | managing editor
+right: 
+Wrong: Triple Stumper
+Kevin: What is metro editor?
+Value: $800
+Number: 8
+TOE-KNEE | It comes before "knee" to indicate inward leg curvature such that the knees touch | knock-knee
+right: Jackie
+Wrong: 
+Value: $800
+Number: 27
+HISTORY | In 1497 John Cabot visited the area of this Newfoundland capital & named it for a beheaded saint | St. John's
+right: 
+Wrong: Triple Stumper
+Jackie: What is St. George?
+Kevin: What is St. John?
+Value: $1200
+Number: 3
+ORGANIZATIONS | Its slogan is "When You Can't Breathe, Nothing Else Matters" | American Lung Association
+right: 
+Wrong: 
+Brian: What is Greenpeace?
+Value: DD: $2,300
+Number: 13
+THE DIARY OF | The diary this Englishman kept from 1660 to 1669 was deciphered & published in 1825 | Samuel Pepys
+right: Jackie
+Wrong: 
+Value: $1200
+Number: 16
+OSCAR | Hal Wallis was nominated for producing an amazing 19 times, but won only once -- for this 1942 Bogart classic | Casablanca
+right: Kevin
+Wrong: 
+Value: $1200
+Number: 19
+"M.E." | Otitis media is an inflammation of this | middle ear
+right: Jackie
+Wrong: 
+Value: $1200
+Number: 9
+TOE-KNEE | Inflammation of this tendon that pulls up the heel is common; rupture is a lot more serious | Achilles tendon
+right: Jackie
+Wrong: 
+Value: $1200
+Number: 22
+HISTORY | In January 1793 France's national convention voted 387 to 334 to have him guillotined | Louis XVI
+right: Brian
+Wrong: 
+Value: $1600
+Number: 1
+ORGANIZATIONS | Assassinated in 1990, Rabbi Meir Kahane was the founder of this organization, also known as the JDL | Jewish Defense League
+right: Brian
+Wrong: 
+Value: $1600
+Number: 14
+THE DIARY OF | Erasures & alterations in his 1926 diary have thrown doubt on his claim to be first to fly over the North Pole | Richard Byrd
+right: Kevin
+Wrong: 
+Value: $1600
+Number: 20
+OSCAR | Prior to winning his Best Director Oscar for "Platoon", he won for Best Adapted Screenplay for "Midnight Express" | Oliver Stone
+right: Jackie
+Wrong: 
+Value: $1600
+Number: 23
+"M.E." | This field deals with the design & production of machinery | mechanical engineering
+right: Brian
+Wrong: 
+Value: $1600
+Number: 10
+TOE-KNEE | This term, also a riding accessory, refers to a bony growth often found on the heel | spur
+right: Kevin
+Wrong: 
+Value: $1600
+Number: 24
+HISTORY | On June 28, 1914 this 18-year-old Serb assassinated Archduke Francis Ferdinand, leading to World War I | Gavrilo Princip
+right: Brian
+Wrong: 
+Value: $2000
+Number: 2
+ORGANIZATIONS | Its library & H.Q. in Plymouth, Massachusetts is on property once belonging to Pilgrim descendant Edward Winslow | The Mayflower Society
+right: 
+Wrong: Triple Stumper
+Jackie: What is the Mayflower Association?
+Value: $2000
+Number: 15
+THE DIARY OF | Her correspondence with Henry Miller sparked interest in her published 7-volume diary | Anais Nin
+right: Kevin
+Wrong: 
+Value: $2000
+Number: 21
+OSCAR | This actress was not an official nominee for 1934's "Of Human Bondage", but she finished third in a write-in campaign | Bette Davis
+right: 
+Wrong: Triple Stumper
+Jackie: Who is Marlene Dietrich?
+Value: $2000
+Number: 26
+"M.E." | This literary form combines a grand style with a trivial subject, as seen in Pope's "Rape of the Lock" | mock epic
+right: 
+Wrong: 
+Brian: Sorry.
+Value: DD: $2,700
+Number: 11
+TOE-KNEE | It's the inner & larger of the 2 main bones between the knee & the ankle | tibia
+right: Jackie
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Jackie: $18,600
+Brian: $1,600
+Kevin: $10,000
+
+Final Jeopardy! Round
+FICTIONAL CHARACTERS | A Nagasaki geisha who had a child with a man named Glover was the model for this title character | Madame Butterfly
+right: Brian | Kevin | Jackie
+Wrong: 
+Wagers: 
+Brian: $1,600
+Kevin: $10,000
+Jackie: $1,401
+Final scores:
+Jackie: $20,001 (3-day champion: $55,602)
+Brian: $3,200 (3rd place: $1,000)
+Kevin: $20,000 (2nd place: $2,000)
+
+Coryat scores
+Jackie: $17,200 (29 R(including 1 DD),3 W)
+Brian: $6,600 (8 R,6 W(including 2 DDs))
+Kevin: $10,000 (14 R,2 W)

@@ -1,0 +1,344 @@
+4933 - Wednesday, February 8, 2006
+Comments: 2006 Teen Tournament quarterfinal game 3.
+Contestants:
+Iddoshe Hirpa: a junior from Louisville, Kentucky
+Joseph Graumann: a junior from Mays Landing, New Jersey
+Camille Bullock: a senior from New Orleans, Louisiana
+First Jeopardy! Round: WORLD GEOGRAPHY, ALL IN THE CELEBRITY FAMILY, MATH, STOCK SYMBOL PRIMER, COOKING CLASS, WORD ORIGINS
+WORLD GEOGRAPHY | One of the two lands seen <http://www.j-archive.com/media/2006-02-08_J_01.jpg> here | Greenland (or Iceland)
+right: Iddoshe
+Wrong: 
+Value: $200
+Number: 1
+ALL IN THE CELEBRITY FAMILY | Ben & Casey | Affleck
+right: Camille
+Wrong: 
+Value: $200
+Number: 6
+MATH | This line segment that passes through the center of a circle is twice the radius | the diameter
+right: Camille
+Wrong: 
+Value: $200
+Number: 8
+STOCK SYMBOL PRIMER | AMZN: They have a river of reading material | Amazon.com
+right: Camille
+Wrong: 
+Value: $200
+Number: 26
+COOKING CLASS | Decorate the pointy type of these ice cream holders with candy & chocolate to make wacky wizard hats | cones
+right: Joseph
+Wrong: 
+Value: $200
+Number: 10
+WORD ORIGINS | This lawn weed's name comes from the old French for "tooth of the lion", referring to its sharply indented leaves | a dandelion
+right: Joseph
+Wrong: 
+Value: $200
+Number: 20
+WORLD GEOGRAPHY | A controversial war was fought by the U.S. in the '60s & '70s in this country once divided into north & south halves | Vietnam
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 2
+ALL IN THE CELEBRITY FAMILY | Elizabeth, Jake, Trent, Ashley, Taylor, Mary-Kate | Olsen
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 7
+MATH | Next number in the sequence 1, 1, 2, 4, 8... | 16
+right: 
+Wrong: Triple Stumper
+Joseph: What is 64?
+Value: $400
+Number: 11
+STOCK SYMBOL PRIMER | HSY: They make candy | Hershey's
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 27
+COOKING CLASS | Dip bread in an egg mixture to make this "French" breakfast item that French people serve for dessert | toast
+right: Camille
+Wrong: 
+Value: $400
+Number: 12
+WORD ORIGINS | This word for a self-service restaurant evolved from the Spanish for "coffee shop" | a cafeteria
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 22
+WORLD GEOGRAPHY | This Asian nation seen <http://www.j-archive.com/media/2006-02-08_J_03.jpg> here on the map has one of the world's largest populations | India
+right: Camille
+Wrong: 
+Value: $600
+Number: 3
+ALL IN THE CELEBRITY FAMILY | Serena & Venus--& don't forget Papa Richard | Williams
+right: Iddoshe
+Wrong: 
+Value: $600
+Number: 9
+MATH | The longest side of a right triangle, it's opposite the right angle | the hypotenuse
+right: Camille
+Wrong: 
+Value: $600
+Number: 18
+STOCK SYMBOL PRIMER | GM: Some of their models are Monte Carlo & Malibu | General Motors
+right: Iddoshe
+Wrong: 
+Value: $600
+Number: 28
+COOKING CLASS | Have some of these mashed items left over?  They're the traditional topping for Shepherd's pie | potatoes
+right: Joseph
+Wrong: 
+Value: $600
+Number: 13
+WORD ORIGINS | Latin for "within the walls", it refers to athletic contests among students within a school | intramural
+right: Camille
+Wrong: 
+Value: $600
+Number: 23
+WORLD GEOGRAPHY | You can get to this northwesternmost African nation by crossing the Strait of Gibraltar | Morocco
+right: Camille
+Wrong: 
+Value: $800
+Number: 4
+ALL IN THE CELEBRITY FAMILY | Christian & Kirsten | the Dunsts
+right: Camille
+Wrong: 
+Value: $800
+Number: 16
+MATH | Usually symbolized by a letter, a changing quantity in algebra is called this | a variable
+right: Iddoshe
+Wrong: 
+Value: $800
+Number: 19
+STOCK SYMBOL PRIMER | HLT: You can stay in one in Paris, we hear | Hilton
+right: Iddoshe
+Wrong: 
+Value: $800
+Number: 29
+COOKING CLASS | The "key" type of this citrus fruit can be small; you may need a dozen to yield a half cup of juice | limes
+right: Iddoshe
+Wrong: 
+Value: $800
+Number: 14
+WORD ORIGINS | Originally one who kept legal records for the crown, now it's a public officer who investigates deaths | a coroner
+right: Camille
+Wrong: 
+Value: DD: $1,800
+Number: 24
+WORLD GEOGRAPHY | Hobart is the capital city of this island state of Australia | Tasmania
+right: Camille
+Wrong: 
+Value: $1000
+Number: 5
+ALL IN THE CELEBRITY FAMILY | Christian, Rory, Kieran, Quinn, Shane, Dakota & Macaulay | the Culkins
+right: Camille
+Wrong: 
+Value: $1000
+Number: 17
+MATH | (<http://www.j-archive.com/media/2006-02-08_J_21.jpg> Kelly of the Clue Crew shows a Venn diagram on a monitor.)  An intersection contains elements common to two sets; this set, symbolized <http://www.j-archive.com/media/2006-02-08_J_21a.jpg> here, contains all the elements in either set | the union
+right: Iddoshe
+Wrong: 
+Value: $1000
+Number: 21
+STOCK SYMBOL PRIMER | SIRI: They use satellites to bring you your tunes | Sirius (Satellite Radio)
+right: Joseph
+Wrong: 
+Value: $1000
+Number: 30
+COOKING CLASS | "Joy of Cooking" tells how to make relish & scones with this bog fruit, so let's all give thanks | a cranberry
+right: Camille
+Wrong: 
+Value: $1000
+Number: 15
+WORD ORIGINS | The name of this foamy volcanic rock is an alteration of the Latin word meaning "foam" | pumice
+right: Iddoshe
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Camille: $4,200
+Joseph: $400
+Iddoshe: $2,400
+Scores at the end of the Jeopardy! Round:
+Camille: $9,200
+Joseph: $1,600
+Iddoshe: $7,400
+Second Jeopardy! Round: THE AMERICAN REVOLUTION, NEVER TOO OLD FOR CARTOONS, THE SCHOOL PLAY: ROMEO AND JULIET, GET INVOLVED, COLLEGE OF LETTERS, ALPHABETICALLY FIRST
+THE AMERICAN REVOLUTION | In June 1781 British troops nearly captured this future president in Virginia, his home state | Jefferson
+right: Joseph
+Wrong: 
+Iddoshe: Who is Washington?
+Value: $400
+Number: 17
+NEVER TOO OLD FOR CARTOONS | This show's episodes include "Cartman's Funny Hate Crime 2000" | South Park
+right: Camille
+Wrong: 
+Value: $400
+Number: 12
+THE SCHOOL PLAY: ROMEO AND JULIET | Those not cast in individual roles at least got to be part of this group that says the play's first lines | the chorus
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 1
+GET INVOLVED | You can help train intellectually disabled athletes for these games founded in 1968 | the Special Olympics
+right: Camille
+Wrong: 
+Joseph: What is Buddy Ball?
+Value: $400
+Number: 2
+COLLEGE OF LETTERS | Founded in what is now Provo in 1875: A BIG HUG, MYRON | Brigham Young
+right: Iddoshe
+Wrong: 
+Value: $400
+Number: 7
+ALPHABETICALLY FIRST | Of the 7 continents | Africa
+right: Camille
+Wrong: 
+Joseph: What is Antarctica?
+Value: $400
+Number: 26
+THE AMERICAN REVOLUTION | A scout during the war, John Greenwood is more famous as one of these; Washington was a patient | a dentist
+right: Joseph
+Wrong: 
+Value: DD: $4,000
+Number: 21
+NEVER TOO OLD FOR CARTOONS | The dad on this show fought for the heavyweight title, won a Grammy & nearly caused a nuclear reactor explosion | The Simpsons
+right: Camille
+Wrong: 
+Value: $800
+Number: 13
+THE SCHOOL PLAY: ROMEO AND JULIET | Romeo's parents sobbed in the audience as he ended his life with this method | poison
+right: Camille
+Wrong: 
+Value: $800
+Number: 18
+GET INVOLVED | Schedule a blood drive for this organization whose "junior" branch was founded in 1917 | the American Red Cross
+right: Joseph
+Wrong: 
+Value: $800
+Number: 3
+COLLEGE OF LETTERS | A "regal" university in Jersey: CREPT IN ON | Princeton
+right: Camille
+Wrong: 
+Value: $800
+Number: 8
+ALPHABETICALLY FIRST | Of Snow White's 7 dwarfs | Bashful
+right: Iddoshe
+Wrong: 
+Value: $800
+Number: 27
+THE AMERICAN REVOLUTION | With Cornwallis' surrender here, the British lost an entire army for the second time during the war | Yorktown
+right: Iddoshe
+Wrong: 
+Value: $1200
+Number: 22
+NEVER TOO OLD FOR CARTOONS | Offered dessert, this show's baby Stewie replied, <http://www.j-archive.com/media/2006-02-08_DJ_14.mp3> "But no sprinkles.  And for every sprinkle I find, I shall kill you" | Family Guy
+right: Iddoshe
+Wrong: 
+Value: $1200
+Number: 14
+THE SCHOOL PLAY: ROMEO AND JULIET | As the cast party broke up, the director quoted, "Good night, good night!  Parting is such" this | sweet sorrow
+right: Camille
+Wrong: 
+Value: DD: $3,600
+Number: 19
+GET INVOLVED | Explore, enjoy & protect the planet in this club, whose logo is seen <http://www.j-archive.com/media/2006-02-08_DJ_04.jpg> here | the Sierra Club
+right: Joseph
+Wrong: 
+Value: $1200
+Number: 4
+COLLEGE OF LETTERS | You could say it's full of Gaelic puglisits: RENAMED TO | Notre Dame
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 9
+ALPHABETICALLY FIRST | Of the 12 months of the year | April
+right: Camille
+Wrong: 
+Value: $1200
+Number: 28
+THE AMERICAN REVOLUTION | Ann Bates, a British spy, acted as a go-between between Benedict Arnold & this major | John André
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+NEVER TOO OLD FOR CARTOONS | If you don't know he's trapped in the future by the evil shape-shifting wizard Aku, then you don't know this guy | Samurai Jack
+right: Iddoshe
+Wrong: 
+Value: $1600
+Number: 15
+THE SCHOOL PLAY: ROMEO AND JULIET | Juliet kept giggling through this line in Act II, scene 2 where she says her lover's name 3 times | "Romeo, Romeo, wherefore art thou, Romeo?"
+right: Joseph
+Wrong: 
+Value: $1600
+Number: 20
+GET INVOLVED | The name of this hospital volunteer comes from the red- & white-striped uniform | a Candy Striper
+right: Iddoshe
+Wrong: 
+Value: $1600
+Number: 5
+COLLEGE OF LETTERS | We hear they can make you a boiler: RUDE UP | Purdue
+right: Iddoshe
+Wrong: 
+Value: $1600
+Number: 10
+ALPHABETICALLY FIRST | Of our solar system's 9 planets | Earth
+right: Camille
+Wrong: 
+Value: $1600
+Number: 29
+THE AMERICAN REVOLUTION | Formerly Fort Carillon, it was captured by Ethan Allen & others May 10, 1775 | Fort Ticonderoga
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+NEVER TOO OLD FOR CARTOONS | Let's see if you've stayed up late to see Frylock, Meatwad & Master Shake, 3 of this Cartoon Network group | Aqua Teen Hunger Force
+right: 
+Wrong: Triple Stumper
+Camille: What is Adult Swim?
+Value: $2000
+Number: 16
+THE SCHOOL PLAY: ROMEO AND JULIET | The kid playing the old head of this family of Juliet's couldn't get his beard to stay on | the Capulets
+right: Camille
+Wrong: 
+Value: $2000
+Number: 23
+GET INVOLVED | Help other kids or adults become literate with RIF, this organization | Reading Is Fundamental
+right: Iddoshe
+Wrong: 
+Value: $2000
+Number: 6
+COLLEGE OF LETTERS | In the Volunteer state: ADVERB LINT | Vanderbilt
+right: Iddoshe
+Wrong: 
+Value: $2000
+Number: 11
+ALPHABETICALLY FIRST | Of the countries of mainland South America | Argentina
+right: 
+Wrong: Triple Stumper
+Camille: What is Bolivia?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Camille: $17,200
+Joseph: $8,800
+Iddoshe: $19,800
+
+Final Jeopardy! Round
+MILESTONES | In 1994, 25 years after this event, 1 participant said, "For one crowning moment, we were creatures of the cosmic ocean" | the Apollo 11 landing on the Moon
+right: Joseph | Camille | Iddoshe
+Wrong: 
+Wagers: 
+Joseph: $2,200
+Camille: $3,800
+Iddoshe: $6,200
+Final scores:
+Camille: $21,000 (2nd place: $5,000 if eliminated)
+Joseph: $11,000 (3rd place: $5,000 if eliminated)
+Iddoshe: $26,000 (Automatic semifinalist)
+
+Coryat scores
+Camille: $13,800 (23 R(including 2 DDs),2 W)
+Joseph: $5,600 (9 R(including 1 DD),3 W)
+Iddoshe: $19,800 (22 R,1 W)

@@ -1,0 +1,339 @@
+3633 - Wednesday, May 24, 2000
+Contestants:
+Lauren Cercone: a consumer new products developer originally from Boston, Massachusetts
+Jason Wejnert: an engineer from Gilbert, Arizona
+Mike Andrews: a writer originally from Detroit, Michigan (whose 1-day cash winnings total $5,901)
+First Jeopardy! Round: AROUND THE USA, CONTAINERS, TV CATCHPHRASES, LITERARY QUOTES, TAKE THE KIDS!, FIELD OF "DREAM"s
+AROUND THE USA | The first skyscraper in the U.S. was built in 1885 in this city, now home to the USA's tallest | Chicago
+right: Jason
+Wrong: 
+Value: $100
+Number: 17
+CONTAINERS | This "chest" holds the clothing & linens of a woman holding on to the chance she'll someday be married | Hope chest
+right: Mike
+Wrong: 
+Value: $100
+Number: 11
+TV CATCHPHRASES | "Yabba Dabba Do!" | The Flintstones
+right: Mike
+Wrong: 
+Value: $100
+Number: 6
+LITERARY QUOTES | Novel in which you'd find the line "I made him know his name should be Friday, which was the day I saved his life" | Robinson Crusoe
+right: Mike
+Wrong: 
+Value: $100
+Number: 1
+TAKE THE KIDS! | Toon Lagoon at Universal Studios Florida boasts a white-knuckle raft ride named for Bluto & this sailor | Popeye
+right: Mike
+Wrong: 
+Value: $100
+Number: 26
+FIELD OF "DREAM"s | Someone considered very good-looking is said to be one of these "ships" | Dreamboat
+right: Mike
+Wrong: 
+Value: $100
+Number: 12
+AROUND THE USA | The Portland Headlight Lighthouse is in this state, the first one to see the morning sun | Maine
+right: Mike
+Wrong: 
+Value: $200
+Number: 18
+CONTAINERS | The genie Aladdin found was in a lamp; the ones Sinbad & Tony Nelson found were in these | Bottles
+right: Lauren
+Wrong: 
+Value: $200
+Number: 22
+TV CATCHPHRASES | "Don't Have A Cow, Man!" | The Simpsons
+right: Lauren
+Wrong: 
+Value: $200
+Number: 7
+LITERARY QUOTES | He "Appeared on the sidewalk with a bucket of whitewash and a long-handled brush" | Tom Sawyer
+right: Lauren
+Wrong: 
+Value: $200
+Number: 2
+TAKE THE KIDS! | At Nepal's Royal Chitwan National Park, watch out for the marsh-mugger type of this gator relative | Crocodile
+right: Mike
+Wrong: 
+Value: $200
+Number: 27
+FIELD OF "DREAM"s | Collective name for the 1992 U.S. men's Olympic basketball squad | "The Dream Team"
+right: Lauren
+Wrong: 
+Value: $200
+Number: 13
+AROUND THE USA | Minute Man National Historic Park is on Liberty Street in this city | Concord, Massachusetts
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 19
+CONTAINERS | In the sky, hot-air balloon passengers ride in one; around the house, wastepaper goes in it | Basket
+right: Jason
+Wrong: 
+Value: $300
+Number: 23
+TV CATCHPHRASES | "The Truth Is Out There" | The X-Files
+right: Lauren
+Wrong: 
+Value: $300
+Number: 8
+LITERARY QUOTES | "Okie use' ta mean you was from Oklahoma.  Now it means...you're scum" is a line from this novel | The Grapes of Wrath
+right: Lauren
+Wrong: 
+Value: $300
+Number: 3
+TAKE THE KIDS! | Kids love to klomp around in klompen, like the ones seen here at a market in this country | Holland (The Netherlands)
+right: Lauren
+Wrong: 
+Value: $300
+Number: 28
+FIELD OF "DREAM"s | In 1983 Eurythmics hit No. 1 on the U.S. pop charts with this song | "Sweet Dreams"
+right: Mike
+Wrong: 
+Value: $300
+Number: 14
+AROUND THE USA | Oregon is home to the 5,700-foot-deep Hells Canyon & this 1,922-foot-deep lake | Crater Lake
+right: Jason
+Wrong: 
+Value: $400
+Number: 20
+CONTAINERS | Container into which the White Rabbit & Mad Hatter try to stuff the Dormouse | Teapot
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+TV CATCHPHRASES | "Sorry About That, Chief" | Get Smart
+right: Lauren
+Wrong: 
+Value: $400
+Number: 9
+LITERARY QUOTES | She "Stood on the scaffold of the pillory, an infant on her arm, and the letter A, in scarlet...upon her bosom" | Hester Prynne
+right: Mike
+Wrong: 
+Value: $400
+Number: 4
+TAKE THE KIDS! | The Polynesian Cultural Center on the north shore of this island is famous for canoe pageants & luaus | Oahu
+right: Mike
+Wrong: 
+Value: $400
+Number: 29
+FIELD OF "DREAM"s | This popular musical was supposedly based in part on the lives & careers of the Supremes | Dreamgirls
+right: Mike
+Wrong: 
+Value: $400
+Number: 15
+AROUND THE USA | State that's home to the most wild horses; it was also home to the Mustang Ranch | Nevada
+right: Jason
+Wrong: 
+Value: $500
+Number: 21
+CONTAINERS | It was once the cask containing the drinking water on a ship; today it means gossip or rumors | Scuttlebutt
+right: Jason
+Wrong: 
+Value: DD: $900
+Number: 25
+TV CATCHPHRASES | "What you talkin' 'bout, Willis?" | Diff'rent Strokes
+right: Jason
+Wrong: 
+Value: $500
+Number: 10
+LITERARY QUOTES | For this 1938 story Hemingway wrote, "No one has explained what the leopard was seeking at that altitude" | The Snows of Kilimanjaro
+right: Mike
+Wrong: 
+Value: $500
+Number: 5
+TAKE THE KIDS! | Several times a day, a pirate ship battles a British frigate in front of this "novel" Las Vegas hotel | Treasure Island
+right: Mike
+Wrong: 
+Value: $500
+Number: 30
+FIELD OF "DREAM"s | Freud published this landmark study in 1899 | The Interpretation Of Dreams
+right: Jason
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Mike: $2,000
+Jason: $1,000
+Lauren: $1,600
+Scores at the end of the Jeopardy! Round:
+Mike: $2,800
+Jason: $2,500
+Lauren: $1,400
+Second Jeopardy! Round: THE 1490s, CAPITOL RECORDS, SHAKESPEAREAN ACTORS, VIDEO POTPOURRI, COUNTRY NAME ORIGINS, EDIBLE RESPONSES
+THE 1490s | In 1497 John Cabot explored the coast of this continent, possibly including Cape Breton | North America
+right: Lauren
+Wrong: 
+Value: $200
+Number: 8
+CAPITOL RECORDS | In early 2000 this legendary band released "Is Anybody Out There?  The Wall Live" | Pink Floyd
+right: Lauren
+Wrong: 
+Value: $200
+Number: 19
+SHAKESPEAREAN ACTORS | In 1998 Alec Baldwin & Angela Bassett co-starred on the New York stage as this pair of Scottish schemers | Macbeth & Lady Macbeth
+right: Mike
+Wrong: 
+Value: $200
+Number: 3
+VIDEO POTPOURRI | A German tax collector developed this dog breed to have protection while on his rounds: | Doberman pinscher
+right: Lauren
+Wrong: 
+Value: $200
+Number: 22
+COUNTRY NAME ORIGINS | An ancient Scandinavian name meaning "Kingdom of the Svears" may have given this country its name | Sweden
+right: Mike
+Wrong: 
+Value: $200
+Number: 14
+EDIBLE RESPONSES | Nationality of author Hans Christian Andersen | Danish
+right: Lauren
+Wrong: 
+Value: $200
+Number: 1
+THE 1490s | The 1496 book "Treatyse Of Fysshynge With An Angle" describes these stiil-used artificial "insect" lures | Flies
+right: Jason
+Wrong: 
+Value: $400
+Number: 9
+CAPITOL RECORDS | This Beatle's rockin' new Capitol release is titled "Run Devil Run" | Paul McCartney
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+SHAKESPEAREAN ACTORS | Hal Holbrook portrayed this malevolent moneylender in a 1999 production of "The Merchant Of Venice" | Shylock
+right: Mike
+Wrong: 
+Value: $400
+Number: 4
+VIDEO POTPOURRI | Suitable for early-evening parties, it's the "beverage" dress seen here: | Cocktail dress
+right: Mike
+Wrong: 
+Value: $400
+Number: 23
+COUNTRY NAME ORIGINS | For the abundance of the metal found there, this South American country's name is from the Latin for "silver" | Argentina
+right: Mike
+Wrong: 
+Value: $400
+Number: 15
+EDIBLE RESPONSES | Dr. Scholl has a "Cushlin Gel" pad to relieve you from the pain of one of these | Corn
+right: Mike
+Wrong: 
+Value: $400
+Number: 2
+THE 1490s | In 1492 Spain took Grenada, the last kingdom of these people in Spain | Moors
+right: Mike
+Wrong: 
+Value: $600
+Number: 10
+CAPITOL RECORDS | "Shake Your Rump" & "Fight For Your Right" are on "The Sounds Of Science", a 1999 anthology by these "Boys" | Beastie Boys
+right: Mike
+Wrong: 
+Value: $600
+Number: 25
+SHAKESPEAREAN ACTORS | 1989 was a good year for this actor:  he starred in "Hamlet" onstage & "My Left Foot" on film | Daniel Day-Lewis
+right: Mike
+Wrong: 
+Value: $600
+Number: 5
+VIDEO POTPOURRI | Classified by taste, one of the two main varieties of the nut seen here: | Bitter or sweet almond
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 29
+COUNTRY NAME ORIGINS | Citizens of this mountainous nation of the Balkans refer to it as Shqiperia or "Land of the Eagles" | Albania
+right: Jason
+Wrong: 
+Value: $600
+Number: 16
+EDIBLE RESPONSES | Actor most associated with the 6 Degrees of Separation game | Kevin Bacon
+right: Mike
+Wrong: 
+Value: $600
+Number: 13
+THE 1490s | His fleet left Lisbon in 1497 & sailed around the Cape of Good Hope to India in under a year | Vasco da Gama
+right: Mike
+Wrong: 
+Value: $800
+Number: 11
+CAPITOL RECORDS | This singer's album "The Ego Has Landed" is conquering the U.K. & USA with hits like "Angels" & "Millennium" | Robbie Williams
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+SHAKESPEAREAN ACTORS | In 1966 Jon Voight was onstage in San Diego playing this airy sprite in "The Tempest" | Ariel
+right: Mike
+Wrong: 
+Value: $800
+Number: 6
+VIDEO POTPOURRI | A great view of Earth is achieved during this activity seen here: | Spacewalk/Extra-Vehicular Activity
+right: Mike
+Wrong: 
+Value: $800
+Number: 30
+COUNTRY NAME ORIGINS | Never wider than 200 miles, this long South American nation's name may come from an indigenous word meaning "snow" | Chile
+right: Mike
+Wrong: 
+Value: $800
+Number: 17
+EDIBLE RESPONSES | Dolores O' Riordan became the lead singer of this band via a referral from the old lead singer | Cranberries
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+THE 1490s | This "Magnificent" tyrant of Florence & patron of the arts died in April 1492 | Lorenzo de Medici
+right: Lauren
+Wrong: 
+Value: $1000
+Number: 12
+CAPITOL RECORDS | This singer's 1999 album "Deconstruction" follows her 1997 smash "Blurring The Edges" | Meredith Brooks
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+SHAKESPEAREAN ACTORS | Katharine Hepburn played Beatrice to Alfred Drake's Benedick in a 1957 staging of this "ado"rable comedy | Much Ado About Nothing
+right: Jason
+Wrong: 
+Value: $1000
+Number: 7
+VIDEO POTPOURRI | This English-speaking country whose flag is seen here south of Cuba in the Caribbean Sea: | Jamaica
+right: Mike
+Wrong: 
+Value: $1000
+Number: 28
+COUNTRY NAME ORIGINS | The name of this country of the West Indies means "bearded" | Barbados
+right: Mike
+Wrong: 
+Value: DD: $2,600
+Number: 18
+EDIBLE RESPONSES | Among politicians, it means to speak or write equivocally on an important issue | Waffle
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Mike: $13,400
+Jason: $4,500
+Lauren: $600
+
+Final Jeopardy! Round
+BOOKS & AUTHORS | Famous profession of the woman who wrote the 1999 inspirational book "The Long Program" | Ice/Figure Skater (book written by Peggy Fleming)
+right: Jason
+Wrong: 
+Lauren: What is ?
+Mike: What is TV producer
+Wagers: 
+Lauren: $500
+Jason: $3,000
+Mike: $3,400
+Final scores:
+Mike: $10,000 (2-day champion: $15,901)
+Jason: $7,500 (2nd place: Trip to Quail Lodge Resort & Golf Club, Carmel, California)
+Lauren: $100 (3rd place: 1-800-GIFT-CERTIFICATE Gift Certificate)
+
+Coryat scores
+Mike: $11,800 (29 R(including 1 DD),3 W)
+Jason: $4,100 (10 R(including 1 DD),2 W)
+Lauren: $2,600 (13 R,4 W(including 1 DD))

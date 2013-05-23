@@ -1,0 +1,346 @@
+4591 - Monday, July 19, 2004
+Comments: Ken Jennings game 34.
+Contestants:
+Tim Crockett: a casino worker from Las Vegas, Nevada
+Beverly Herter: a freelance editor, writer and reporter from Portsmouth, Rhode Island
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 33-day cash winnings total $1,100,460)
+First Jeopardy! Round: DUDE, WHERE'S MY CZAR?, LONI, DONNY OR YANNI, NAMED AFTER JFK, WHAT 4, LOOK OUT!, THE "SKY" IS FALLING
+DUDE, WHERE'S MY CZAR? | Czar means "emperor", & is derived from this Latin word, the formal title of several Roman rulers | Caesar
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+LONI, DONNY OR YANNI | Once married to Burt Reynolds | Loni Anderson
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+NAMED AFTER JFK | Opened in 1971, the JFK Center for the Performing Arts stretches along this river | the Potomac River
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+WHAT 4 | It's the 5-sided base among a baseball field's 4 | home plate
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+LOOK OUT! | In one of these dangerous events, the dry, powdery snow is traveling at 100 mph straight downhill toward you | an avalanche
+right: Beverly
+Wrong: 
+Value: $200
+Number: 24
+THE "SKY" IS FALLING | Jumping out of a perfectly good airplane | skydiving
+right: Tim
+Wrong: 
+Value: $200
+Number: 11
+DUDE, WHERE'S MY CZAR? | One of those who killed this "mad monk" was a cousin of Nicholas II, Grand Duke Dmitri Pavlovich | Rasputin
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+LONI, DONNY OR YANNI | Hit No. 1 on the charts with "Go Away Little Girl" | Donny Osmond
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+NAMED AFTER JFK | The John F. Kennedy National Historic Site, JFK's birthplace, is in Brookline, a suburb of this city | Boston
+right: Tim
+Wrong: 
+Value: $400
+Number: 2
+WHAT 4 | His third wife, Jiang Qing, was a member of the Gang of Four | Mao (Zedong)
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+LOOK OUT! | Your sortie's getting dangerous --here comes some antiaircraft fire, better known by this 4-letter name | flak
+right: Tim
+Wrong: 
+Value: $400
+Number: 30
+THE "SKY" IS FALLING | America's first space station | Skylab
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+DUDE, WHERE'S MY CZAR? | The first Russian to hold the title Czar, he was proclaimed Grand Prince of Moscow in 1533 | Ivan the Terrible
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+LONI, DONNY OR YANNI | Wowed 'em at the Acropolis in September 1993 | Yanni
+right: Tim
+Wrong: 
+Value: $600
+Number: 23
+NAMED AFTER JFK | There is a John F. Kennedy prep school in this world capital where JFK made a famous visit in 1963 | Berlin
+right: Tim
+Wrong: 
+Value: DD: $1,000
+Number: 3
+WHAT 4 | Of FDR's 4 inaugural addresses, the one which included the "fear itself" bit | the first one
+right: Tim
+Wrong: 
+Value: $600
+Number: 8
+LOOK OUT! | The 16-ton weight featured in this '70s comedy series is poised above somebody & ready to... | Monty Python's Flying Circus
+right: 
+Wrong: Triple Stumper
+Tim: What is The Gong Show?
+Value: $600
+Number: 25
+THE "SKY" IS FALLING | A private VIP room at a sports stadium | skybox
+right: Tim
+Wrong: 
+Value: $600
+Number: 13
+DUDE, WHERE'S MY CZAR? | Maximilian Schell starred in an Emmy-winning 1986 mini-series about this reformist czar | Peter the Great
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+LONI, DONNY OR YANNI | Receptionist for "WKRP in Cincinnati" | Loni Anderson
+right: Ken
+Wrong: 
+Value: $800
+Number: 28
+NAMED AFTER JFK | Located in Queens, it first opened to commercial traffic in July 1948 | JFK Airport
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+WHAT 4 | Leonard Bernstein's recording of this Vivaldi work begins with "Spring: Allegro" | The Four Seasons
+right: Tim
+Wrong: 
+Value: $800
+Number: 9
+LOOK OUT! | Pilot error! Your flight path has you too close to a caravan turboprop from this Kansas company | Cessna
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+THE "SKY" IS FALLING | European high flyer seen <http://www.j-archive.com/media/2004-07-19_J_14.jpg> here | a Skylark
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+DUDE, WHERE'S MY CZAR? | Michael was the czar who ruled Russia from 1613 to 1645 & founded this dynasty | the Romanov
+right: Beverly
+Wrong: 
+Value: $1000
+Number: 20
+LONI, DONNY OR YANNI | Born in Kalamata in 1954 | Yanni
+right: Ken
+Wrong: 
+Value: $1000
+Number: 29
+NAMED AFTER JFK | The Florida promontory now called this was named after JFK from 1963 to 1973 | Cape Canaveral
+right: Tim
+Wrong: 
+Value: $1000
+Number: 5
+WHAT 4 | The tetragrammaton JHVH, the Hebrew name for God, gives us this word | Jehovah
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+LOOK OUT! | A herd of these animals, loxodonta africana, is stampeding your way in a wall of gray | elephants
+right: Beverly
+Wrong: 
+Tim: What are rhinoceros?
+Value: $1000
+Number: 27
+THE "SKY" IS FALLING | Home to the Blue Jays & Argonauts | the Toronto Skydome
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $4,000
+Beverly: $0
+Tim: $4,600
+Scores at the end of the Jeopardy! Round:
+Ken: $8,400
+Beverly: $2,200
+Tim: $4,000
+Second Jeopardy! Round: THE STAMP ACT, ALL SPORTS, COMPUTER PROGRAMS, CROSSWORD CLUES "M", GREAT MOMENTS IN TRAVEL, MAPS
+THE STAMP ACT | The third Looney Tunes stamp featured this avian rival of the first Looney Tunes stamp | Daffy Duck
+right: Beverly
+Wrong: 
+Value: $400
+Number: 6
+ALL SPORTS | In golf, next in line: double eagle, eagle... | a birdie
+right: Tim
+Wrong: 
+Value: $400
+Number: 1
+COMPUTER PROGRAMS | Word & Powerpoint are part of the Microsoft system named for this place | Office
+right: Tim
+Wrong: 
+Value: $400
+Number: 8
+CROSSWORD CLUES "M" | Late-night hunger pangs (8) | munchies
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+GREAT MOMENTS IN TRAVEL | Johannes Badrutt, a St. Moritz hotel keeper, first convinced summer guests you could visit this country in winter, too | Switzerland
+right: Ken
+Wrong: 
+Value: $400
+Number: 30
+MAPS | In about 150 A.D. this Greek astronomer in Egypt published "Geography", an 8-volume guide to mapmaking | Ptolemy
+right: Ken
+Wrong: 
+Value: $400
+Number: 28
+THE STAMP ACT | The 4 sports featured in the "Xtreme Sports" stamps series were skateboarding, BMX biking, in-line skating & this one | snowboarding
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+ALL SPORTS | A rock climber would know schist; a person in this sport would know schuss | skiing
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+COMPUTER PROGRAMS | Filemaker Pro is used for this type of application that stores & organizes information (like "Jeopardy!" clues) | database
+right: Ken
+Wrong: 
+Beverly: Uh, what is data... oh...  processing?
+Value: $800
+Number: 9
+CROSSWORD CLUES "M" | Mr. Magoo's malady (6) | myopia
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+GREAT MOMENTS IN TRAVEL | In the 1840s Ida Pfeiffer made this trip in 2 1/2 years; in 1889 Nellie Bly did it in 72 days | Around The World
+right: Beverly
+Wrong: 
+Value: $800
+Number: 29
+MAPS | On topographic maps, contour lines are used to show this | elevation
+right: Beverly
+Wrong: 
+Value: $800
+Number: 27
+THE STAMP ACT | The centenary of the Graz opera in this country was celebrated with a 1999 stamp | Austria
+right: 
+Wrong: Triple Stumper
+Tim: What is Poland?
+Value: $1200
+Number: 13
+ALL SPORTS | Delivering a ball to a batsman in cricket isn't called "pitching", it's called this | bowling
+right: Beverly
+Wrong: 
+Value: $1200
+Number: 3
+COMPUTER PROGRAMS | One type of this keeps flames from spreading; another keeps snoops out of a computer network | a firewall
+right: Beverly
+Wrong: 
+Value: $1200
+Number: 10
+CROSSWORD CLUES "M" | Tiny organism (7) | microbe
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+GREAT MOMENTS IN TRAVEL | The word "posh" may have come from a ship's cabin designation: port out, this side home | starboard
+right: Tim
+Wrong: 
+Value: $1200
+Number: 21
+MAPS | In-vehicle navigation systems create maps using GPS, which stands for this | global positioning system
+right: Ken
+Wrong: 
+Value: $1200
+Number: 22
+THE STAMP ACT | Issued in England in 1840, the <http://www.j-archive.com/media/2004-07-19_DJ_14.jpg> first postage stamp ever has this colorful nickname | penny black
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+ALL SPORTS | A Veronica is a movement done in this sport, popular in Mexico | bullfighting
+right: Tim
+Wrong: 
+Value: $1600
+Number: 4
+COMPUTER PROGRAMS | (<http://www.j-archive.com/media/2004-07-19_DJ_11.wmv> Cheryl of the Clue Crew drags a mustache back onto Alex.)  <http://www.j-archive.com/media/2004-07-19_DJ_11.jpg> Introduced in 1990, it's the <http://www.j-archive.com/media/2004-07-19_DJ_11a.jpg> program I'm using to create an <http://www.j-archive.com/media/2004-07-19_DJ_11b.jpg> unusual image | Photoshop
+right: Ken
+Wrong: 
+Value: $1600
+Number: 11
+CROSSWORD CLUES "M" | Palindromic form of address (4) | ma'am
+right: Tim
+Wrong: 
+Value: $1600
+Number: 19
+GREAT MOMENTS IN TRAVEL | The USA's first of these places for rambling young people to stay in opened in Northfield, Mass. in 1934 | a hostel
+right: Ken
+Wrong: 
+Value: $1600
+Number: 23
+MAPS | This table that accompanies a map explains what the symbols & colors represent | the legend
+right: Ken
+Wrong: 
+Value: DD: $6,800
+Number: 24
+THE STAMP ACT | A series of Bulgarian stamps featuring types of these had one with a penny-farthing on it | bicycles
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+ALL SPORTS | (<http://www.j-archive.com/media/2004-07-19_DJ_05.wmv> Jimmy of the Clue Crew clutches higher up on a bat.)  In <http://www.j-archive.com/media/2004-07-19_DJ_05.jpg> baseball, you don't want to do this in the clutch, but it's okay to <http://www.j-archive.com/media/2004-07-19_DJ_05a.jpg> do it up on the bat | choke
+right: Beverly
+Wrong: 
+Value: $2000
+Number: 5
+COMPUTER PROGRAMS | As a sort of e-mail post office, this program from Qualcomm is named for the author of "Why I Live at the P.O." | Eudora
+right: Ken
+Wrong: 
+Value: $2000
+Number: 12
+CROSSWORD CLUES "M" | Nero: my fault! (3, 5) | mea culpa
+right: Tim
+Wrong: 
+Value: $2000
+Number: 20
+GREAT MOMENTS IN TRAVEL | In the 1840s, this Englishman began running inexpensive "tours" by getting bulk discounts from railways | Thomas Cook
+right: 
+Wrong: 
+Ken: At this point, I can bet a little less. I'll bet $5,000.
+Value: DD: $5,000
+Number: 25
+MAPS | Not only can you buy maps of the Earth from the USGS, which stands for this, you can buy maps of Mars as well | United States Geological Survey
+right: Ken
+Wrong: 
+Tim: What is the United States Geologic Survey?
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Ken: $27,800
+Beverly: $7,800
+Tim: $8,000
+
+Final Jeopardy! Round
+OPERA | The libretto for "William Tell" was in this language, the native tongue of neither the composer, Rossini, nor the subject | French
+right: Ken
+Wrong: 
+Beverly: What is German?
+Tim: What is Russian?
+Wagers: 
+Beverly: $1,000
+Tim: $100
+Ken: $7,200
+Final scores:
+Ken: $35,000 (34-day champion: $1,135,460)
+Beverly: $6,800 (3rd place: $1,000)
+Tim: $7,900 (2nd place: $2,000)
+
+Coryat scores
+Ken: $27,600 (31 R(including 1 DD),1 W(including 1 DD))
+Beverly: $7,800 (9 R,1 W)
+Tim: $7,600 (15 R(including 1 DD),4 W)

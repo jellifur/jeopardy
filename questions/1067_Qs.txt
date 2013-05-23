@@ -1,0 +1,339 @@
+3316 - Monday, January 25, 1999
+Contestants:
+Happy Aston: a program assistant from La Jolla, California
+Zach Biggs: a market researcher from Eugene, Oregon
+Mark Whittinghill: a computer technician and musician from Fayetteville, Arkansas (whose 2-day cash winnings total $23,398)
+First Jeopardy! Round: STATE FACTS, TOM HANKS FILMS, THE FINE PRINT, GEOGRAPHIC PHRASES, SO THAT'S THE STORY, IN A NUTSHELL
+STATE FACTS | "Got" this drink?  It's Pennsylvania's state beverage | Milk
+right: Zach
+Wrong: 
+Value: $100
+Number: 8
+TOM HANKS FILMS | Tom went through boot camp-style training for his role as Captain Miller in this WWII epic | Saving Private Ryan
+right: Happy
+Wrong: 
+Value: $100
+Number: 6
+THE FINE PRINT | Offers for these money substitutes must include a disclosure statement & quote the APR | Credit cards
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 9
+GEOGRAPHIC PHRASES | Its board is a 6-pointed star, on which each player starts with 10 marbles | Chinese checkers
+right: Zach
+Wrong: 
+Value: $100
+Number: 1
+SO THAT'S THE STORY | Rich Harvard kid falls for Radcliffe boho; they get hitched; she dies; he cries | Love Story
+right: Happy
+Wrong: 
+Value: $100
+Number: 18
+IN A NUTSHELL | They make a tasty poultry stuffing & in a Christmas song, they're "roasting on an open fire" | Chestnuts
+right: Happy
+Wrong: 
+Value: $100
+Number: 26
+STATE FACTS | In 1893 the world's first alligator farm was established in St. Augustine in this state | Florida
+right: Mark
+Wrong: 
+Value: $200
+Number: 14
+TOM HANKS FILMS | Tom fell head over tail for a mermaid played by Daryl Hannah in this film | Splash
+right: Mark
+Wrong: 
+Value: $200
+Number: 7
+THE FINE PRINT | Filing under Chapter 7 of this code, you'll lose most of your nonexempt assets | Bankruptcy
+right: Mark
+Wrong: 
+Value: $200
+Number: 10
+GEOGRAPHIC PHRASES | This breed is a popular hunting & show dog | Irish setter
+right: Happy
+Wrong: 
+Value: $200
+Number: 2
+SO THAT'S THE STORY | Fish chows down on visitors at Long Island resort; gets harpooned; eats pursuer | Jaws
+right: Mark
+Wrong: 
+Value: $200
+Number: 22
+IN A NUTSHELL | These large nuts from the Amazon River Valley can be used in cooking much the same way as coconut | Brazil nuts
+right: Mark
+Wrong: 
+Value: $200
+Number: 27
+STATE FACTS | Although this state is only 48 miles long & 37 miles wide, it has 384 miles of shoreline | Rhode Island
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 15
+TOM HANKS FILMS | Just the facts...it's the film in which Tom played Dan Aykroyd's police partner Pep Streebek | Dragnet
+right: Mark
+Wrong: 
+Value: $300
+Number: 19
+THE FINE PRINT | When signed the day before a wedding, this agreement may be invalidated as signed under duress | Pre-nuptial agreement
+right: Happy
+Wrong: 
+Value: $300
+Number: 11
+GEOGRAPHIC PHRASES | Beatles song that includes the line "And when I awoke I was alone, this bird had flown" | Norwegian Wood
+right: Happy
+Wrong: 
+Value: $300
+Number: 3
+SO THAT'S THE STORY | Photographer stops to ask directions of an Iowa farm wife; gets 4 days of passionate lovemaking; leaves | The Bridges Of Madison County
+right: Zach
+Wrong: 
+Value: $300
+Number: 23
+IN A NUTSHELL | To make a traditional pesto sauce, you need these nuts | Pine nuts
+right: Happy
+Wrong: 
+Value: $300
+Number: 28
+STATE FACTS | Most of North Dakota's border with this state is provided by the Red River of the North | Minnesota
+right: Mark
+Wrong: 
+Value: $400
+Number: 16
+TOM HANKS FILMS | 1954 Oscar winner seen here with Tom in 1986's "Nothing In Common":  "You have no idea what it was like since you moved away, David" | Eva Marie Saint
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 20
+THE FINE PRINT | It's the part of your homeowner's insurance that covers accidental damage to another's property | Liability
+right: Mark
+Wrong: 
+Value: $400
+Number: 12
+GEOGRAPHIC PHRASES | (VIDEO DAILY DOUBLE): "(Hi, I'm Janet Leigh)  I romanced Frank Sinatra in this 1962 film about brainwashing, Communism & assassination" | The Manchurian Candidate
+right: Happy
+Wrong: 
+Value: DD: $500
+Number: 4
+SO THAT'S THE STORY | Family spends winter in isolated Colorado hotel; bushes move; Dad goes nuts | The Shining
+right: Zach
+Wrong: 
+Value: $400
+Number: 24
+IN A NUTSHELL | The Mauna Loa Corporation is the world's leading grower, processor & marketer of these nuts | Macadamia nuts
+right: Happy
+Wrong: 
+Value: $400
+Number: 29
+STATE FACTS | This state lies at about the same latitude as Hong Kong | Hawaii
+right: Zach
+Wrong: 
+Value: $500
+Number: 17
+TOM HANKS FILMS | Tom inherited a slobbering dog, his only witness in a murder case, in this 1989 film | Turner And Hooch
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 21
+THE FINE PRINT | Not putting down at least 20% of a home's purchase price may force you to pay PMI, this | Private mortgage insurance
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 13
+GEOGRAPHIC PHRASES | In Chrysler ads, Ricardo Montalban extolled this rich upholstery material | "Rich Corinthian Leather"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+SO THAT'S THE STORY | Fresh out of law school, Mitch gets great job in Memphis; turns out not so great | The Firm
+right: Happy
+Wrong: 
+Value: $500
+Number: 25
+IN A NUTSHELL | These bright green nuts are said to have been a favorite of the Queen of Sheba | Pistachios
+right: Zach
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Mark: $700
+Zach: $200
+Happy: $900
+Scores at the end of the Jeopardy! Round:
+Mark: $1,700
+Zach: $1,600
+Happy: $2,300
+Second Jeopardy! Round: FAMOUS AMERICANS, RODS, POTPOURRI, A MANILA FOLDER, NAME THE MUSICAL, ENDS IN "TH"
+FAMOUS AMERICANS | His 1947 doctrine offered aid to Greece, which was threatened by a Communist insurrection | Harry S. Truman
+right: Mark
+Wrong: 
+Value: $200
+Number: 2
+RODS | These thin metal rods are the reason for the existence of the United States Twirling Association | Batons
+right: Zach
+Wrong: 
+Value: $200
+Number: 21
+POTPOURRI | The portrait on the U.S. $5 bill is from a photograph taken at this man's studio | Mathew Brady
+right: Mark
+Wrong: 
+Value: $200
+Number: 12
+A MANILA FOLDER | This corncob pipe-smoking resident of the Manila Hotel left the Philippines in 1942; he returned in 1944 | Douglas MacArthur
+right: Happy
+Wrong: 
+Value: $200
+Number: 7
+NAME THE MUSICAL | "America", "Tonight" | West Side Story
+right: Mark
+Wrong: 
+Value: $200
+Number: 26
+ENDS IN "TH" | "Too many cooks spoil" this | Broth
+right: Mark
+Wrong: 
+Value: $200
+Number: 1
+FAMOUS AMERICANS | In 1938 he developed a way to electronically measure the size of a radio show's audience | Arthur Nielsen
+right: Mark
+Wrong: 
+Value: DD: $1,200
+Number: 3
+RODS | In the Bible, his rod swallowed up the rods of Pharaoh's magicians | Aaron
+right: Happy
+Wrong: 
+Value: $400
+Number: 22
+POTPOURRI | A device named for this woman drove around Mars | Sojourner Truth
+right: Happy
+Wrong: 
+Value: $400
+Number: 13
+A MANILA FOLDER | Manila has been called this gem "Of The Orient", & the gem appears on the city's seal | Pearl
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+NAME THE MUSICAL | "You Are Love", "Ol' Man River" | Showboat
+right: Zach
+Wrong: 
+Value: $400
+Number: 27
+ENDS IN "TH" | In the 1930s & '40s, Johnny Weissmuller donned this skimpy garment to play Tarzan in 12 films | Loin cloth
+right: Mark
+Wrong: 
+Value: $400
+Number: 14
+FAMOUS AMERICANS | Nickname of New York City saloonkeeper & restauranteur Bernard Shor | "Toots"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+RODS | In a gas engine the connecting rods transfer the motion of these to the crankshaft | Pistons
+right: Happy
+Wrong: 
+Value: $600
+Number: 23
+POTPOURRI | In this sport a long basket called a cesta is worn on one hand | jai alai
+right: Zach
+Wrong: 
+Value: $600
+Number: 15
+A MANILA FOLDER | If this Polanski thriller had been set in Manila, we'd have heard "Forget it, Jake -- it's Binondo" | Chinatown
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 9
+NAME THE MUSICAL | "Shoeless Joe From Hannibal, MO", "What Ever Lola Wants (Lola Gets)" | Damn Yankees
+right: Zach
+Wrong: 
+Value: $600
+Number: 28
+ENDS IN "TH" | It can be a built-in bed or bunk on a ship, or the space for a ship to dock | Berth
+right: Zach
+Wrong: 
+Value: $600
+Number: 18
+FAMOUS AMERICANS | W. Atlee sowed the seeds of this family's business with lettuce, & son David developed a new nasturtium | Burpee Seeds
+right: Mark
+Wrong: 
+Value: $800
+Number: 5
+RODS | Rods & cones are light-sensitive cells in this part of the eye | Retina
+right: Zach
+Wrong: 
+Value: $800
+Number: 24
+POTPOURRI | December 1997 saw the 2 millionth one of these in California:  "THINICE" | Vanity/personalized license plate
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+A MANILA FOLDER | Manila's International Airport is named for this man called "Ninoy", Cory's husband | Benigno Aquino
+right: Mark
+Wrong: 
+Value: $800
+Number: 10
+NAME THE MUSICAL | "I Enjoy Being A Girl", "A Hundred Million Miracles" | Flower Drum Song
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+ENDS IN "TH" | This ornamental bulb flower is grown in Holland for export | Hyacinth
+right: Zach
+Wrong: 
+Value: $800
+Number: 19
+FAMOUS AMERICANS | The first woman to break the sound barrier, she also had her own cosmetics firm | Jacqueline Cochran
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+RODS | He was the first player to win the Grand Slam of tennis twice | Rod Laver
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+POTPOURRI | Washington thought of this general, in him "The spark of daring might flame into rashness" | Mad Anthony Wayne
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+A MANILA FOLDER | A severe offense against moral law, or the title & last name of Jaime, Archbishop of Manila | Cardinal Sin
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+NAME THE MUSICAL | "I've Come To Wive It Wealthily In Padua", "I Hate Men" | Kiss Me, Kate
+right: Zach
+Wrong: 
+Value: DD: $800
+Number: 30
+ENDS IN "TH" | The book of Job says this large animal's "bones are like bars of iron" | Behemoth
+right: Mark
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Mark: $5,700
+Zach: $4,600
+Happy: $2,900
+
+Final Jeopardy! Round
+CRIME WRITERS | 1 of the 2 female crime writers who were in the British House of Lords in 1998 | P.D. James or Ruth Rendell
+right: Zach
+Wrong: 
+Happy: Who is Clarke?
+Mark: Who is Malloy
+Wagers: 
+Happy: $2,899
+Zach: $4,590
+Mark: $5,600
+Final scores:
+Mark: $100 (2nd place: Trip to Sandals Royal Bahamian Resort & Spa)
+Zach: $9,190 (New champion: $9,190)
+Happy: $1 (3rd place: Hobie Pedal-Driven Kayaks)
+
+Coryat scores
+Mark: $4,900 (17 R(including 1 DD),3 W)
+Zach: $4,800 (14 R(including 1 DD),4 W)
+Happy: $2,800 (14 R(including 1 DD),2 W)

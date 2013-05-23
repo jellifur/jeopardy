@@ -1,0 +1,337 @@
+5835 - Friday, January 15, 2010
+Comments: Jason Zollinger game 4.
+Contestants:
+Joan Radell: a market researcher from Clarks Summit, Pennsylvania
+Roddy Arz: an attorney from Brooklyn, New York
+Jason Zollinger: an engine assembler from South Dayton, New York (whose 3-day cash winnings total $61,203)
+First Jeopardy! Round: NATURE, GRISLY DISNEY, WANTED BY THE FBI, ____ THE ____, PASS-IVE, "AGG"-RESSIVE
+NATURE | The hoary species of this mammal has a wingspan of about 16 inches & is one of the largest of its kind in North America | bat
+right: Roddy
+Wrong: 
+Value: $200
+Number: 1
+GRISLY DISNEY | Oh, Scar, you ol' backstabber, say hello to your hyena friends; they want to chew the fat with you in this film | The Lion King
+right: Jason
+Wrong: 
+Value: $200
+Number: 24
+WANTED BY THE FBI | Hen Ben Haim is accused of running more than 500 fraudulent auctions on this website | eBay
+right: Joan
+Wrong: 
+Value: $200
+Number: 4
+____ THE ____ | In Matthew chapter 3, he preached, "Repent ye: for the kingdom of heaven is at hand" | John the Baptist
+right: Joan
+Wrong: 
+Value: $200
+Number: 11
+PASS-IVE | Used since the 13th century, St. Gotthard pass in Switzerland is in these mountains | the Alps
+right: Jason
+Wrong: 
+Value: $200
+Number: 21
+"AGG"-RESSIVE | An adjective for long, disheveled hair, or Scooby Doo's best buddy | shaggy
+right: Jason
+Wrong: 
+Value: $200
+Number: 16
+NATURE | The fisher, a type of weasel, avoids this rodent's quills by attacking its face & flipping it over on its back | a porcupine
+right: Joan
+Wrong: 
+Value: $400
+Number: 2
+GRISLY DISNEY | (<http://www.j-archive.com/media/2010-01-15_J_27.jpg> Hi, I'm Elizabeth Perkins.)  I was the voice of Coral the clownfish in this film; sadly, I didn't survive the barracuda attack | Finding Nemo
+right: Roddy
+Wrong: 
+Value: $400
+Number: 27
+WANTED BY THE FBI | Wanted for bank robbery, brown-eyed Jonathan Davis goes by the last name of this man, "Ol' Blue Eyes" | Sinatra
+right: Jason
+Wrong: 
+Value: $400
+Number: 7
+____ THE ____ | This stormin' Norman spent more than a third of his English reign out of the country & in fact died in Rouen in 1087 | William the Conqueror
+right: Jason
+Wrong: 
+Value: $400
+Number: 12
+PASS-IVE | This strategically important pass lies on the border of Pakistan & Afghanistan | the Khyber Pass
+right: Joan
+Wrong: 
+Value: $400
+Number: 22
+"AGG"-RESSIVE | To wrangle with a merchant over the price of an item | haggle
+right: Jason
+Wrong: 
+Value: $400
+Number: 17
+NATURE | Fish that are anadromous migrate from the sea to freshwater rivers to do this | spawn
+right: Jason
+Wrong: 
+Value: $600
+Number: 3
+GRISLY DISNEY | After getting a glowing trident, Ursula grows big enough to get rammed by prince Eric's ship in this 1989 film | The Little Mermaid
+right: Roddy
+Wrong: 
+Value: $600
+Number: 28
+WANTED BY THE FBI | His FBI listing says he's wanted for 1998 bombings of U.S. embassies & is "a suspect in other terrorist attacks" | Osama bin Laden
+right: Jason
+Wrong: 
+Joan: ...I don't have it.
+Value: $600
+Number: 8
+____ THE ____ | Obama told this Ohio blue-collar guy spreading the wealth was good; he became part of the McCain campaign | Joe the Plumber
+right: Roddy
+Wrong: 
+Value: $600
+Number: 13
+PASS-IVE | The Uspallata Pass in these mountains is home to a giant bronze statue of Christ | Andes
+right: 
+Wrong: Triple Stumper
+Roddy: What is the Pyrenees?
+Value: $600
+Number: 23
+"AGG"-RESSIVE | All your suitcases, or all your repressed psychological issues | baggage
+right: Roddy
+Wrong: 
+Value: $600
+Number: 18
+NATURE | (<http://www.j-archive.com/media/2010-01-15_J_05.jpg> Kelly of the Clue Crew shows two similar-looking snakes on the monitor.) The common mnemonic "Red touch black, friend of jack; red touch yellow, kill a fellow" helps distinguish a harmless <http://www.j-archive.com/media/2010-01-15_J_05a.jpg> scarlet king snake from <http://www.j-archive.com/media/2010-01-15_J_05b.jpg> this extremely poisonous snake | a coral snake
+right: Joan
+Wrong: 
+Value: DD: $600
+Number: 5
+WANTED BY THE FBI | The FBI wants Glen Stewart Godwin for both murder & a 1987 escape from this Calif. prison where Johnny Cash had the "Blues" | Folsom Prison
+right: Roddy
+Wrong: 
+Value: $800
+Number: 9
+____ THE ____ | This spokesbovine for Borden began extolling the virtues of milk back in the 1930s | Elsie the Cow
+right: Joan
+Wrong: 
+Value: $800
+Number: 14
+PASS-IVE | Daniel Boone led settlers into Kentucky through this pass that wasn't discovered by white Americans until 1750 | the Cumberland Gap (the Cumberland Pass accepted)
+right: Jason
+Wrong: 
+Value: $800
+Number: 25
+"AGG"-RESSIVE | The act of making something out to be more important than it really is | exaggeration (aggrandizement accepted)
+right: Jason
+Wrong: 
+Value: $800
+Number: 19
+NATURE | The world's largest butterfly, Queen Alexandra's birdwing, inhabits the rainforest of this island nation, PNG | Papua New Guinea
+right: Jason
+Wrong: 
+Value: $1000
+Number: 6
+WANTED BY THE FBI | The FBI wants this African country's Odowa Okuomose for bilking victims who were told they had to pay fees to claim big prizes | Nigeria
+right: Jason
+Wrong: 
+Value: $1000
+Number: 10
+____ THE ____ | In "Portrait of a Killer", Patricia Cornwell contends that this killer was actor & artist Walter Sickert | Jack the Ripper
+right: Jason
+Wrong: 
+Value: $1000
+Number: 15
+PASS-IVE | Accessible in winter only by snowmobiles, the Charlotte Pass is found in this country's Snowy Mountains | Australia
+right: 
+Wrong: Triple Stumper
+Joan: What is Canada?
+Value: $1000
+Number: 26
+"AGG"-RESSIVE | A proud, stiff, pompous gait | swagger
+right: Joan
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Jason: $4,000
+Roddy: $1,600
+Joan: $1,600
+Scores at the end of the Jeopardy! Round:
+Jason: $7,600
+Roddy: $2,600
+Joan: $2,000
+Second Jeopardy! Round: THE IMPRESSIONISTS, BALLPARK NICKNAMES, HELL, MAGAZINES ON THE WEB, WE GO WAY BACK, "N" GAME
+THE IMPRESSIONISTS | A few years after serving as a captain in the Franco-Prussian War, he painted "Dancer with a Fan" | Degas
+right: Joan
+Wrong: 
+Value: $400
+Number: 21
+BALLPARK NICKNAMES | "The House that Ruth Built" | Yankee Stadium
+right: Roddy
+Wrong: 
+Value: $400
+Number: 8
+HELL | A land of mist & cold, Niflheim was the lowest region of hell in this 5-letter mythology | Norse
+right: Roddy
+Wrong: 
+Value: $400
+Number: 6
+MAGAZINES ON THE WEB | Links at this magazine's site include "Rock the Rabbit", "The Girls Next Door" & "The Hef Pages" | Playboy
+right: Roddy
+Wrong: 
+Value: $400
+Number: 26
+WE GO WAY BACK | Between 770 & 476 B.C., a time of struggle is called the Spring & Autumn Period in this Asian country's history | China
+right: Roddy
+Wrong: 
+Joan: What is Japan?
+Value: $400
+Number: 16
+"N" GAME | An aerie is an eagle's one of these | a nest
+right: Joan
+Wrong: 
+Value: $400
+Number: 1
+THE IMPRESSIONISTS | Camille Pissarro called this U.S.-born painter of "Arrangements" the only artist "of whom America can be justly proud" | Whistler
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+BALLPARK NICKNAMES | "Chavez Ravine" | Dodger Stadium
+right: Jason
+Wrong: 
+Value: $800
+Number: 12
+HELL | From the Latin for "hell", this adjective can refer to anything annoying, as in "Stop that ____ noise!" | infernal
+right: Jason
+Wrong: 
+Value: $800
+Number: 7
+MAGAZINES ON THE WEB | "Color-a-Room" & leaf through the "Plant Encyclopedia" at bhg.com, this magazine's online home | Better Homes and Gardens
+right: Joan
+Wrong: 
+Value: $800
+Number: 27
+WE GO WAY BACK | Athens put larger Greek interests first & joined other cities to defeat this nation in the 480 B.C. battle of Salamis | Persia
+right: Jason
+Wrong: 
+Value: $800
+Number: 17
+"N" GAME | From the Latin for "nine", it's actually the 11th in the Gregorian system | November
+right: 
+Wrong: Triple Stumper
+Joan: What's... uh... [shakes head]
+Value: $800
+Number: 2
+THE IMPRESSIONISTS | The creator of Pointillism, he preferred the term Divisionism for the technique | Seurat
+right: Roddy
+Wrong: 
+Value: $1200
+Number: 23
+BALLPARK NICKNAMES | "The Eighth Wonder of the World" | the Houston Astrodome
+right: Jason
+Wrong: 
+Value: $1200
+Number: 13
+HELL | It's his hellish portal from 1880 seen <http://www.j-archive.com/media/2010-01-15_DJ_09.jpg> here | Auguste Rodin
+right: 
+Wrong: Triple Stumper
+Joan: Who is Michelangelo?
+Value: $1200
+Number: 9
+MAGAZINES ON THE WEB | This mag's .com quizzes include "Do you know how to attract a guy" & "Are you TMI all the time?" | Cosmo
+right: Jason
+Wrong: 
+Value: $1200
+Number: 28
+WE GO WAY BACK | In the 280s a renegade Roman officer named Carausius set himself up as ruler of part of Gaul & this island | Great Britain
+right: Roddy
+Wrong: 
+Value: $1200
+Number: 18
+"N" GAME | The "Blizzard of '93" was one of these storms that move up the Atlantic Coast along the Gulf Stream | a nor'easter
+right: Roddy
+Wrong: 
+Value: $1200
+Number: 3
+THE IMPRESSIONISTS | Finding Impressionism her cup of tea, this American first exhibited with the group in 1879 with "The Cup of Tea" | (Mary) Cassatt
+right: Roddy
+Wrong: 
+Value: DD: $3,600
+Number: 24
+BALLPARK NICKNAMES | "The Friendly Confines" | Wrigley Field
+right: Jason
+Wrong: 
+Value: $1600
+Number: 14
+HELL | Ulysses met up again with Agamemnon & Ajax in a place ruled by this god | Hades
+right: Roddy
+Wrong: 
+Value: $1600
+Number: 10
+MAGAZINES ON THE WEB | Let's map a way to this magazine's website where you can utilize its "Atlas Explorer" | National Geographic
+right: Jason
+Wrong: 
+Value: $1600
+Number: 29
+WE GO WAY BACK | Islam's Sunni/Shi'a split goes back to the question of Ali Abi ibn Talib's right to hold this post, leader of the Muslim world | caliph
+right: Roddy
+Wrong: 
+Value: $1600
+Number: 19
+"N" GAME | Mr. Magoo could tell you myopia is the medical term for this condition | nearsightedness
+right: Joan
+Wrong: 
+Value: $1600
+Number: 4
+THE IMPRESSIONISTS | Pierre-Auguste Renoir was born in this city known for its porcelain & even apprenticed as a china painter at age 13 | Limoges
+right: Joan
+Wrong: 
+Value: $2000
+Number: 25
+BALLPARK NICKNAMES | Municipal Stadium in this Ohio city was not so affectionately known as "The Mistake by the Lake" | Cleveland
+right: Joan
+Wrong: 
+Value: $2000
+Number: 15
+HELL | Hellish delivery man <http://www.j-archive.com/media/2010-01-15_DJ_11.jpg> depicted <http://www.j-archive.com/media/2010-01-15_DJ_11a.jpg> here | Charon
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+MAGAZINES ON THE WEB | The website for this defunct mag has the "most amazing collection of professional photography on the Web" | Life
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 30
+WE GO WAY BACK | In the 8th century this empire based in what's now Istanbul began its policy of iconoclasm, or "idol smashing" | the Byzantine Empire
+right: Jason
+Wrong: 
+Value: $2000
+Number: 20
+"N" GAME | The hamlets of Igluligaarjuk, Qamani'tuaq & Ikaluktutiak are in this newest Canadian territory | Nunavut
+right: Joan
+Wrong: 
+Jason: What is Nunuvatu?
+Roddy: What is... Nanut?
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Jason: $14,600
+Roddy: $12,600
+Joan: $8,800
+
+Final Jeopardy! Round
+BUSINESS | On April 17, 1973 this company began operations with the launch of 14 small aircraft from Memphis International Airport | Federal Express
+right: Roddy | Jason
+Wrong: 
+Joan: What is Air Express?
+Wagers: 
+Joan: $8,798
+Roddy: $12,599
+Jason: $10,601
+Final scores:
+Jason: $25,201 (4-day champion: $86,404)
+Roddy: $25,199 (2nd place: $2,000)
+Joan: $2 (3rd place: $1,000)
+
+Coryat scores
+Jason: $15,600 (21 R,2 W(including 1 DD))
+Roddy: $10,600 (16 R(including 1 DD),2 W)
+Joan: $9,000 (14 R(including 1 DD),5 W)

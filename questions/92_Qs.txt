@@ -1,0 +1,348 @@
+735 - Friday, November 13, 1987
+Comments: 1987 Tournament of Champions quarterfinal game 5.  All Jeopardy! Round categories begin with an "A" and all Double Jeopardy! Round categories begin with a "T" as a tribute to Alex Trebek.
+Contestants:
+Roger Storm: a teacher from Fairview Park, Ohio
+Doug Molitor: a writer from Brentwood, California
+John Ryan: an economist from Santa Barbara, California
+First Jeopardy! Round: ANIMALS, ARTS AND CRAFTS, ADVERTISING, AMERICAN MOUNTAINS, AUTO SHOP, "APRIL"  SONGS
+ANIMALS | A mosquito's hum is actually the sound made by these | its wings
+right: Doug
+Wrong: 
+Value: $100
+Number: 6
+ARTS AND CRAFTS | From Greek "kola", or glue, its a picture made by gluing various objects onto a surface | a collage
+right: Roger
+Wrong: 
+Value: $100
+Number: 13
+ADVERTISING | Over the years, this company has described its products as "Mm! Mm! Good!" | Campbell's Soup
+right: Roger
+Wrong: 
+Value: $100
+Number: 12
+AMERICAN MOUNTAINS | While there are green mountains in Vermont, there are white mountains in this neighboring state | New Hampshire
+right: Roger
+Wrong: 
+Value: $100
+Number: 1
+AUTO SHOP | What the "U" in U-joint stands for | universal
+right: Roger
+Wrong: 
+Value: $100
+Number: 25
+"APRIL"  SONGS | A 1957 No. 1 song says, "It's for the very young" | "April Love"
+right: Doug
+Wrong: 
+Value: $100
+Number: 7
+ANIMALS | Though its name means "Flemish cowherd", a bouvier des flandres is a breed of this | dog
+right: Doug
+Wrong: 
+Value: $200
+Number: 2
+ARTS AND CRAFTS | To fire clay, you don't give it a pink slip, but put it in this | kiln
+right: Doug
+Wrong: 
+Value: $200
+Number: 14
+ADVERTISING | This Coca-Cola song promoting "The Real Thing", was turned into a Top 20 hit | "I'd Like To Teach The World To Sing"
+right: Doug
+Wrong: 
+Value: $200
+Number: 29
+AMERICAN MOUNTAINS | 1931 completion of the Bagnell Dam created a beautiful lake in these Missouri mountains | the Ozarks
+right: John
+Wrong: 
+Value: $200
+Number: 17
+AUTO SHOP | Of very hot, very cold, or rainy, the weather condition in which vaporlock usually occurs | very hot
+right: Doug
+Wrong: 
+Value: $200
+Number: 26
+"APRIL"  SONGS | Bing Crosby said, "It is the song of the immortal Jolson" | "April Showers"
+right: Doug
+Wrong: 
+Value: $200
+Number: 8
+ANIMALS | The only African bird of prey with terrestrial habits; it can't type or take dictation | the secretary bird
+right: Roger
+Wrong: 
+Value: $300
+Number: 3
+ARTS AND CRAFTS | Process in which you bind a piece of clothing, so that only certain parts of the article absorb color | tie-dye
+right: Doug
+Wrong: 
+Value: $300
+Number: 15
+ADVERTISING | In his first commercials ever, George C. Scott became spokesman for this car | Renault
+right: Roger
+Wrong: 
+Value: $300
+Number: 16
+AMERICAN MOUNTAINS | Until the Soviets completed a bigger one in 1974, the world's largest telescope was here | Mt. Palomar
+right: John
+Wrong: 
+Value: $300
+Number: 18
+AUTO SHOP | Macpherson struts are not dance steps, but types of these | shock absorbers
+right: Roger
+Wrong: 
+Value: $300
+Number: 27
+"APRIL"  SONGS | The title of this song might describe a European spring vacation | "April In Portugal"
+right: 
+Wrong: 
+Doug: What is "April In Paris?"
+Value: DD: $500
+Number: 9
+ANIMALS | The number of toes on the foot of a hippopotamus; especially the ones in Disney's "Fantasia" | four
+right: Doug
+Wrong: 
+Roger: What is three?
+Value: $400
+Number: 4
+ARTS AND CRAFTS | Twining, coiling, and weaving are the three basic methods of making these | baskets
+right: 
+Wrong: Triple Stumper
+John: What is cloth?
+Roger: What is rope/twine?
+Value: $400
+Number: 24
+ADVERTISING | On television, the Heinz entry always lost this contest | the ketchup pouring contest
+right: Doug
+Wrong: 
+Value: $400
+Number: 22
+AMERICAN MOUNTAINS | The continuation of California's Sierra Nevada into Washington and Oregon is called this | the Cascades
+right: John
+Wrong: 
+Value: $400
+Number: 19
+AUTO SHOP | Part that is capped after putting in points and a condenser | the distributor
+right: Doug
+Wrong: 
+Value: $400
+Number: 28
+"APRIL"  SONGS | Title song of the 1969 movie starring Jack Lemmon and Catherine Denueve | "The April Fools"
+right: Doug
+Wrong: 
+Value: $400
+Number: 10
+ANIMALS | Types of this aquatic creature include chimney, sheep's wool, and common bath | the sponge
+right: Roger
+Wrong: 
+Value: $500
+Number: 5
+ARTS AND CRAFTS | From Latin "to close", this process closes off colored enamels from each other with thin metal strips | cloisonné
+right: Doug
+Wrong: 
+Value: $500
+Number: 23
+ADVERTISING | Slogan created in 1921 when a pal of an R.J. Reynolds adman ran out of cigarettes on a golf course | "I'd walk a mile for a Camel"
+right: John
+Wrong: 
+Value: $500
+Number: 21
+AMERICAN MOUNTAINS | In the Washington Irving story, Rip Van Winkle fell asleep in these mountains | the Catskills
+right: Doug
+Wrong: 
+Value: $500
+Number: 20
+AUTO SHOP | It changes exhaust hydrocarbons and carbon monoxide into carbon dioxide and water | a catalytic converter
+right: Roger
+Wrong: 
+John: What is the emission control device?
+Value: $500
+Number: 30
+"APRIL"  SONGS | 1973 hit by Three Dog Night that could be the result of  blowing up the month | "Pieces Of April"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 11
+Scores at the first commercial break (after clue 15)
+John: $0
+Doug: $900
+Roger: $500
+Scores at the end of the Jeopardy! Round:
+John: $500
+Doug: $3,600
+Roger: $1,500
+Second Jeopardy! Round: TRAVEL AND TOURISM, TWAIN, THE TROJAN WAR, TAXES, TEXAS, TOUGH DISNEY
+TRAVEL AND TOURISM | Visiting the New York transit exhibit in Brooklyn, you can pay the admission fee with one of these | a subway token
+right: John
+Wrong: 
+Value: $200
+Number: 19
+TWAIN | Twain said, "The art of frying" this fowl "cannot be learned north of the line of Mason and Dixon" | chicken
+right: John
+Wrong: 
+Value: $200
+Number: 17
+THE TROJAN WAR | In "The Iliad", he's described as a huge, slow-witted warrior, not a foaming cleanser | Ajax
+right: John
+Wrong: 
+Value: $200
+Number: 10
+TAXES | It was in 1943 that the Federal Government began having this done to workers' paychecks | withholding
+right: John
+Wrong: 
+Value: $200
+Number: 1
+TEXAS | When the United States became a nation in 1776, Texas was ruled by this country | Spain
+right: Doug
+Wrong: 
+John: What is Mexico?
+Value: $200
+Number: 5
+TOUGH DISNEY | Both Disneyland and Walt Disney World's Magic Kingdom are located in counties with this name | Orange County
+right: John
+Wrong: 
+Value: $200
+Number: 3
+TRAVEL AND TOURISM | The Boston Tea Party ship and museum allows visitors to engage in this unique activity | throwing tea overboard
+right: Roger
+Wrong: 
+Value: $400
+Number: 20
+TWAIN | Character who refers to "The Adventures of Tom Sawyer" in the first line of his book | Huckleberry Finn
+right: Roger
+Wrong: 
+Value: $400
+Number: 18
+THE TROJAN WAR | Menolaus, husband of Helen, was king of this city, later the historic rival of Athens | Sparta
+right: John
+Wrong: 
+Value: $400
+Number: 13
+TAXES | The IRS estimates that for fiscal 1987, this will happen to one of every 68 tax returns | auditing
+right: Doug
+Wrong: 
+Value: $400
+Number: 2
+TEXAS | It's said the line between the East and the West lies between these two large neighboring cities | Dallas and Fort Worth
+right: John
+Wrong: 
+Value: $400
+Number: 27
+TOUGH DISNEY | Technical reason the third Mickey Mouse cartoon, "Steamboat Willie", was released first on November 18, 1928 | because it had sound
+right: Doug
+Wrong: 
+Value: DD: $1,000
+Number: 6
+TRAVEL AND TOURISM | This city's World's Fair held in 1967 is perpetuated each summer under the title "Man and His World" | Montreal
+right: John
+Wrong: 
+Doug: What is Seattle?
+Value: $600
+Number: 23
+TWAIN | On their first date, Twain took his future wife to a reading given by this English author in 1867 | Charles Dickens
+right: Doug
+Wrong: 
+Value: $600
+Number: 21
+THE TROJAN WAR | Some say it was this wandering warrior from Ithaca who suggested the Trojan Horse | Odysseus
+right: Doug
+Wrong: 
+Value: $600
+Number: 14
+TAXES | At 7 1/2%, Connecticut has the highest statewide tax of this kind | sales tax
+right: Roger
+Wrong: 
+Value: $600
+Number: 4
+TEXAS | The largest lake entirely in Texas is named for this long-time Speaker of the House | Sam Rayburn
+right: John
+Wrong: 
+Roger:  Lake Rayburn?
+Value: $600
+Number: 28
+TOUGH DISNEY | For "Pinocchio", he was painted with 27 colors; for the "Mickey Mouse Club", they used only nine | Jiminy Cricket
+right: Doug
+Wrong: 
+Value: $600
+Number: 7
+TRAVEL AND TOURISM | Located three miles outside town, it's Hodgenville, Kentucky's most famous tourist attraction | Lincoln's birthplace
+right: Roger
+Wrong: 
+Value: $800
+Number: 24
+TWAIN | His actual middle name | Langhorne
+right: John
+Wrong: 
+Value: $800
+Number: 22
+THE TROJAN WAR | He killed Hector, then Paris killed him | Achilles
+right: Doug
+Wrong: 
+Value: $800
+Number: 15
+TAXES | The Tax Foundation says that in 1930, it was February 13th , but in 1987, it was May 4th | Tax Freedom Day
+right: John
+Wrong: 
+Value: DD: $1,000
+Number: 11
+TEXAS | Each year from 1932 to 1986, up to 100,000 attended this annual event sponsored by the Texas Department of Corrections | Texas Prison Rodeo
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+TOUGH DISNEY | According to the 1953 cartoon, these four sounds are "where the music comes from" | a toot, a whistle, a plunk, and a boom
+right: Doug
+Wrong: 
+Value: $800
+Number: 8
+TRAVEL AND TOURISM | You can visit the infamous Andersonville Civil War prison, a national historic site, in this state | Georgia
+right: Roger
+Wrong: 
+Value: $1000
+Number: 26
+TWAIN | According to the title, it's what Twain was following in his last travel book | the equator
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+THE TROJAN WAR | Virgil says this man escaped the fall of Troy along with a few followers and later founded Rome | Aeneas
+right: John
+Wrong: 
+Value: $1000
+Number: 16
+TAXES | Chief Justice John Marshall said "The power to tax involves the power to" do this | destroy
+right: Doug
+Wrong: 
+Value: $1000
+Number: 12
+TEXAS | A national seashore covers much of this 100-mile long island named for Father Nicholas Valle, a Spanish priest | Padre Island
+right: Roger
+Wrong: 
+Value: $1000
+Number: 30
+TOUGH DISNEY | The title character of this 1961 live-action hit was named Ned Brainard | The Absent-Minded Professor
+right: Doug
+Wrong: 
+Roger: Who is The Nutty Professor?
+Value: $1000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+John: $6,100
+Doug: $10,000
+Roger: $4,100
+
+Final Jeopardy! Round
+THE CABINET | One of two Cabinet department heads who have held their position for the entire Reagan administration thus far | (one of) Caspar Weinberger or Samuel Pierce of HUD
+right: Roger | John
+Wrong: 
+Doug: Who was the Secretary of Education?
+Wagers: 
+Roger: $4,000
+John: $6,100
+Doug: $0
+Final scores:
+John: $12,200 (Automatic semifinalist)
+Doug: $10,000 (2nd place: $1,000 if eliminated)
+Roger: $8,100 (3rd place: $1,000 if eliminated)
+
+Coryat scores
+John: $5,900 (16 R(including 1 DD),3 W)
+Doug: $9,900 (24 R(including 1 DD),2 W(including 1 DD))
+Roger: $4,100 (15 R,4 W)

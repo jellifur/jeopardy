@@ -1,0 +1,355 @@
+1984 - Thursday, April 1, 1993
+Comments: David Juliano game 1.
+Contestants:
+Barbara Craig-Nichols: an elementary schoolteacher from Riverside, California
+David Juliano: a casino dealer from Las Vegas, Nevada
+Doug Ralls: a franchise business manager from Laguna Niguel, California (whose 1-day cash winnings total $15,700)
+First Jeopardy! Round: GENERAL SCIENCE, FIRST AID, STATE MOTTOES, INTERNATIONAL CUISINE, THE ROLLING STONES, PAINT IT "BLACK"
+GENERAL SCIENCE | Anthracite, the highest grade of coal, is composed almost entirely of this element | carbon
+right: Doug
+Wrong: 
+Value: $100
+Number: 1
+FIRST AID | A closed fracture is also called a simple fracture; an open fracture is better known as this | a compound fracture
+right: Doug
+Wrong: 
+Value: $100
+Number: 15
+STATE MOTTOES | Bill Clinton could tell you its state motto is "The people rule" | Arkansas
+right: Barbara
+Wrong: 
+Value: $100
+Number: 5
+INTERNATIONAL CUISINE | Traditionally, pizza napoletana is topped with these little fish | anchovies
+right: Doug
+Wrong: 
+Value: $100
+Number: 6
+THE ROLLING STONES | In 1971 Mick Jagger married this Nicaraguan socialite in St. Tropez; they divorced 8 years later | Bianca Jagger
+right: Doug
+Wrong: 
+Value: $100
+Number: 12
+PAINT IT "BLACK" | In casinos it's another name for the card game twenty-one | blackjack
+right: Doug
+Wrong: 
+Value: $100
+Number: 21
+GENERAL SCIENCE | Scientists once tried to estimate the Earth's age by measuring the level of this substance in the ocean | salt
+right: Doug
+Wrong: 
+Value: $200
+Number: 2
+FIRST AID | A person who feels like he's going to do this should lie down or sit with his head between his knees | faint
+right: David
+Wrong: 
+Value: $200
+Number: 16
+STATE MOTTOES | This phrase not only serves as Florida's state motto, it's the U.S. motto as well | "In God we trust"
+right: Barbara
+Wrong: 
+Value: $200
+Number: 18
+INTERNATIONAL CUISINE | Ghee, a type of clarified butter used in curry paste, originated in this country | India
+right: Barbara
+Wrong: 
+Value: $200
+Number: 8
+THE ROLLING STONES | Mick Jagger & Keith Richards were among those singing in the chorus on this group's "All You Need Is Love" | The Beatles
+right: Barbara
+Wrong: 
+Value: $200
+Number: 13
+PAINT IT "BLACK" | It's a place or method for selling goods illegally | the black market
+right: Doug
+Wrong: 
+Value: $200
+Number: 22
+GENERAL SCIENCE | Aircraft often use the "gyro" type of this instrument, as it's unaffected by local magnetic fields | a compass
+right: Doug
+Wrong: 
+David: What is the gyroscope?
+Value: $300
+Number: 3
+FIRST AID | If this is not severe, it can often be controlled by direct pressure | bleeding
+right: Doug
+Wrong: 
+Value: $300
+Number: 17
+STATE MOTTOES | This state motto of Virginia translates to "Thus always to tyrants" | Sic semper tyrannis
+right: David
+Wrong: 
+Value: $300
+Number: 24
+INTERNATIONAL CUISINE | To make a simple quesadilla, start by folding one of these around a cheese filling | a tortilla
+right: Doug
+Wrong: 
+Value: $300
+Number: 9
+THE ROLLING STONES | A cleaned-up version of "Let's Spend The Night Together" was sung on this TV variety show in 1967 | The Ed Sullivan Show
+right: Doug
+Wrong: 
+Value: $300
+Number: 14
+PAINT IT "BLACK" | It means to exclude socially, or a vote against a candidate | blackball
+right: David
+Wrong: 
+Barbara: What is to blackbar?
+Value: $300
+Number: 23
+GENERAL SCIENCE | About 70% of this pungent gas produced is converted into fertilizer | ammonia
+right: David
+Wrong: 
+Doug: What is methane?
+Barbara: [No response]
+Value: $400
+Number: 4
+FIRST AID | To help a drowning victim start breathing, use the mouth-to-mouth or mouth-to-nose method of this | artificial resuscitation
+right: David
+Wrong: 
+Value: $400
+Number: 27
+STATE MOTTOES | "The Star of the North" is not Alaska's motto but the motto of this northernmost of the lower 48 states | Minnesota
+right: David
+Wrong: 
+Value: DD: $700
+Number: 25
+INTERNATIONAL CUISINE | Kaasdopen, a cheese fondue dish from this country, is made with Gouda & served with bread | the Netherlands
+right: Doug
+Wrong: 
+Value: $400
+Number: 10
+THE ROLLING STONES | This Stones drummer took the photos in the 1984 book "Chagall's World" | Charlie Watts
+right: David
+Wrong: 
+Value: $400
+Number: 19
+PAINT IT "BLACK" | It's military slang for coffee, or a thick, dark molasses | blackstrap
+right: 
+Wrong: Triple Stumper
+David: What is java?
+Value: $400
+Number: 28
+GENERAL SCIENCE | Nearly all of the Earth's weather occurs in this layer of the atmosphere below the stratosphere | the troposphere
+right: 
+Wrong: Triple Stumper
+David: What is the geosphere?
+Barbara: What is the ionosphere?
+Value: $500
+Number: 7
+FIRST AID | A paste made with this cooking ingredient is recommended to soothe the pain of an insect sting | baking soda
+right: Doug
+Wrong: 
+Barbara: What is flour?
+Value: $500
+Number: 30
+STATE MOTTOES | Its motto is "Live free or die" | New Hampshire
+right: David
+Wrong: 
+Barbara: Um, what is Wisconsin?
+Value: $500
+Number: 26
+INTERNATIONAL CUISINE | Tunisians like to eat this ubiquitous North African semolina dish with spicy harissa sauce | couscous
+right: Doug
+Wrong: 
+Value: $500
+Number: 11
+THE ROLLING STONES | Footage from a 1969 concert at this speedway was released in 1970 as the documentary "Gimme Shelter" | Altamont
+right: David
+Wrong: 
+Value: $500
+Number: 20
+PAINT IT "BLACK" | During the War of 1812, this Sauk Indian chief & about 500 of his warriors fought for the British | Black Hawk
+right: David
+Wrong: 
+Value: $500
+Number: 29
+Scores at the first commercial break (after clue 15)
+Doug: $2,000
+David: -$400
+Barbara: -$400
+Scores at the end of the Jeopardy! Round:
+Doug: $3,100
+David: $3,000
+Barbara: -$1,500
+Second Jeopardy! Round: WORLD HISTORY, OPERETTAS, ART, POLITICIANS, ARCHAEOLOGY, LITERARY TRIVIA
+WORLD HISTORY | In 1981 Wojciech Jaruzelski established martial law in this country & outlawed Solidarity | Poland
+right: Doug
+Wrong: 
+Value: $200
+Number: 4
+OPERETTAS | Strangely, Man Friday is a mezzo-soprano in this Offenbach work based on a Daniel Defoe book | Robinson Crusoe
+right: Doug
+Wrong: 
+Value: $200
+Number: 25
+ART | In 1888 he painted his "House at Arles", his "Bedroom at Arles" & several still lifes of sunflowers | (Vincent) van Gogh
+right: Barbara
+Wrong: 
+Value: $200
+Number: 1
+POLITICIANS | Joseph P. Kennedy II represents this state's 8th district in the U.S. House | Massachusetts
+right: Doug
+Wrong: 
+Value: $200
+Number: 9
+ARCHAEOLOGY | Similar artifacts found in Siberia & off Alaska indicate that a land bridge once existed across this strait | the Bering Strait
+right: Barbara
+Wrong: 
+Value: $200
+Number: 15
+LITERARY TRIVIA | The expression "to grow like topsy" comes from this 1852 novel | Uncle Tom's Cabin
+right: Doug
+Wrong: 
+David: Uh, what is Topsy-Turvy?
+Value: $200
+Number: 14
+WORLD HISTORY | Great Britain was twice rejected for membership in this economic union; it became a member in 1973 | the Common Market
+right: Doug
+Wrong: 
+Barbara: What is the Commonwealth?
+Value: $400
+Number: 5
+OPERETTAS | This British playwright of "Private Lives" wrote the twice-filmed operetta "Bitter Sweet" | Noël Coward
+right: Barbara
+Wrong: 
+Value: $400
+Number: 26
+ART | At a 1989 auction, this pop artist's "Shot Red Marilyn" sold for $4.07 million | Andy Warhol
+right: Barbara
+Wrong: 
+Value: $400
+Number: 2
+POLITICIANS | He taught business law at Huntington College in 1975, before becoming vice president | Dan Quayle
+right: David
+Wrong: 
+Doug: Uh...
+Value: $400
+Number: 10
+ARCHAEOLOGY | Bones dating from Mesolithic times indicate that this wolf relative was the first domesticated animal | the dog
+right: Doug
+Wrong: 
+Value: $400
+Number: 20
+LITERARY TRIVIA | Dew-of-june, an Indian heroine, appears in his novel "The Pathfinder" | James Fenimore Cooper
+right: David
+Wrong: 
+Doug: Who is Hawthorne?
+Value: $400
+Number: 18
+WORLD HISTORY | The middle class that arose in medieval society was called burgesses in England & this in France | the bourgeoisie
+right: Doug
+Wrong: 
+Value: $600
+Number: 6
+OPERETTAS | This composers "Die Fledermaus" was first performed in Vienna in 1874 | Johann Strauss
+right: 
+Wrong: Triple Stumper
+Doug: Who is Mozart?
+Value: $600
+Number: 27
+ART | Of winter, spring, summer or fall, the alternate title of Botticelli's painting "Primavera" | Spring
+right: Doug
+Wrong: 
+Value: $600
+Number: 3
+POLITICIANS | His father, Thomas Dodd, also represented Connecticut in the U.S. Senate | Christopher Dodd
+right: Doug
+Wrong: 
+Value: $600
+Number: 11
+ARCHAEOLOGY | In the early 1970s it was reported that the Gran Grifon, flagship of this fleet, was found in Scottish waters | the Spanish Armada
+right: David
+Wrong: 
+Value: $600
+Number: 21
+LITERARY TRIVIA | The Italian type of this 14-line poem is also known as the Petrarchan | a sonnet
+right: Doug
+Wrong: 
+Value: $600
+Number: 19
+WORLD HISTORY | Americans fought in the Abraham Lincoln Battalion in this 1936-39 conflict | the Spanish Civil War
+right: Doug
+Wrong: 
+Value: $800
+Number: 7
+OPERETTAS | The German title of this Lehar operetta is "Die Lustige Witwe" | The Merry Widow
+right: 
+Wrong: 
+Barbara: Uh... no idea.
+Value: DD: $700
+Number: 29
+ART | Noted Rubens works include the "Raising of" & "Descent from" this religious symbol | the Cross
+right: Barbara
+Wrong: 
+Value: $800
+Number: 16
+POLITICIANS | Vice president under Truman, he represented Kentucky in Congress before & after his term as veep | (Alben W.) Barkley
+right: Doug
+Wrong: 
+Value: $800
+Number: 12
+ARCHAEOLOGY | Early in WWII fossils of this "Man" were lost in an attempt to smuggle them out of China | Peking Man
+right: Barbara
+Wrong: 
+Value: $800
+Number: 22
+LITERARY TRIVIA | Famous price of the novels written by Ned Buntline | dime
+right: David
+Wrong: 
+Value: $800
+Number: 23
+WORLD HISTORY | Around 1400 Tsong-kha-pa founded the Yellow Hat order of this Tibetan form of Buddhism | Lamaism
+right: 
+Wrong: Triple Stumper
+David: What is Shaolin?
+Barbara: What is Zen?
+Value: $1000
+Number: 8
+ART | Like most of his works, this American sculptor's "The Diner" features figures cast from living models | George Segal
+right: 
+Wrong: Triple Stumper
+Doug: Who is Homer?
+David: Who is Hawks?
+Value: $1000
+Number: 17
+POLITICIANS | The Whig candidate of 1852, he held the rank of general in 3 wars | Winfield Scott
+right: David
+Wrong: 
+Doug: Who is Taylor?
+Value: $1000
+Number: 13
+ARCHAEOLOGY | In 1977 an archaeologist uncovered the possible burial site of this king, Alexander the Great's father | Philip (of Macedon)
+right: Barbara
+Wrong: 
+Value: DD: $800
+Number: 28
+LITERARY TRIVIA | Time magazine called this "Working" author "the tape recorder's best friend" | Studs Terkel
+right: Barbara
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Doug: $5,300
+David: $4,000
+Barbara: $1,000
+
+Final Jeopardy! Round
+EXPLORERS | This contemporary of Columbus established the concept of a New World in his 1504 letter "Mundus Novus" | Amerigo Vespucci
+right: David
+Wrong: 
+Barbara: Who is Vasco de Gama
+Doug: Who was Magellin
+Wagers: 
+Barbara: $0
+David: $4,000
+Doug: $2,701
+Final scores:
+Doug: $2,599 (2nd place: Singer 18th-century dining room set + Wallace silver candelabra + + either the Jeopardy! 25th anniversary computer game or the Jeopardy! '92 home game)
+David: $8,000 (New champion: $8,000 + either the Jeopardy! 25th anniversary computer game or the Jeopardy! '92 home game)
+Barbara: $1,000 (3rd place: Vortex contemporary sculpture by Artisan House + either the Jeopardy! 25th anniversary computer game or the Jeopardy! '92 home game)
+
+Coryat scores
+Doug: $5,300 (26 R,6 W)
+David: $3,700 (15 R(including 1 DD),6 W)
+Barbara: $1,900 (12 R(including 1 DD),8 W(including 1 DD))

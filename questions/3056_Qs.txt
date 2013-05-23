@@ -1,0 +1,307 @@
+3788 - Wednesday, February 7, 2001
+Comments: 2001 Celebrity <i>Jeopardy!</i> game 3.  From the Las Vegas Hilton.
+Contestants:
+Eric Idle: an actor and comedian from Monty Python's Flying Circus
+Dana Delany: an actress from China Beach
+Wayne Brady: an actor and comedian from Whose Line Is It Anyway?
+First Jeopardy! Round: MAMMALS, THE CHAIRMAN OF THE BOARD, MUSEUMS OF LAS VEGAS?!, THE BOD SQUAD, HODGEPODGE, ABBREVIATED S
+MAMMALS | "Leave It to" this semi-aquatic rodent to cut down a tree over 100 feet tall | beaver
+right: Dana
+Wrong: 
+Value: $100
+Number: 1
+THE CHAIRMAN OF THE BOARD | All eyes were on Sinatra when he sang the song heard here | "Jeepers Creepers"
+right: Eric
+Wrong: 
+Value: $100
+Number: 13
+MUSEUMS OF LAS VEGAS?! | At the "World" of these chocolate candies you'll learn about the rigorous training they endure to earn their letters | M&M's
+right: Wayne
+Wrong: 
+Value: $100
+Number: 2
+THE BOD SQUAD | The sclera, cornea & iris are parts of this | the eye
+right: Wayne
+Wrong: 
+Value: $100
+Number: 3
+HODGEPODGE | Superstition says don't point at this colorful arch or you may see even wetter weather | rainbow
+right: Wayne
+Wrong: 
+Value: $100
+Number: 15
+ABBREVIATED S | On a compass | south
+right: Dana
+Wrong: 
+Value: $100
+Number: 27
+MAMMALS | "Here Comes" this common species of rabbit named for the fluffy white fur found at one end | cottontail
+right: Wayne
+Wrong: 
+Value: $200
+Number: 6
+THE CHAIRMAN OF THE BOARD | Appropriately, in 1969 the Apollo 11 crew listened to this Sinatra song, first titled "In Other Words" | "Fly Me to the Moon"
+right: Eric
+Wrong: 
+Value: $200
+Number: 19
+THE BOD SQUAD | The Achilles tendon is in this part of the foot, the only spot where the hero Achilles was vulnerable | the heel
+right: Dana
+Wrong: 
+Value: $200
+Number: 4
+HODGEPODGE | (Alex: To help us out with that clue, we have some very special guests)  These are members of a wildly popular show created by this man | Michael Flatley
+right: Dana
+Wrong: 
+Value: $200
+Number: 8
+ABBREVIATED S | On a clothing size tag | small
+right: Eric
+Wrong: 
+Value: $200
+Number: 26
+MAMMALS | Common in Dixie, a razorback is a wild one of these | boar (hog)
+right: Wayne
+Wrong: 
+Value: DD: $300
+Number: 7
+THE CHAIRMAN OF THE BOARD | It's the Sinatra classic heard here | "The Lady is a Tramp"
+right: Wayne
+Wrong: 
+Value: $300
+Number: 14
+THE BOD SQUAD | When you swallow wrong, food can enter this tube, your airway | trachea (windpipe)
+right: Wayne
+Wrong: 
+Value: $300
+Number: 5
+HODGEPODGE | A symbol of wisdom, this bird was associated with the goddess Athena | owl
+right: Wayne
+Wrong: 
+Value: $300
+Number: 16
+ABBREVIATED S | On a report card | satisfactory
+right: Wayne
+Wrong: 
+Value: $300
+Number: 22
+MAMMALS | In French this curly-haired dog is called a caniche | poodle
+right: Eric
+Wrong: 
+Value: $400
+Number: 11
+THE CHAIRMAN OF THE BOARD | Singing partners including Bono & Barbra Streisand helped make this 1993 album Frank's biggest success in years | "Duets"
+right: Wayne
+Wrong: 
+Value: $400
+Number: 20
+THE BOD SQUAD | Joseph Murray performed the first successful human organ transplant, of this paired internal organ | kidneys
+right: Eric
+Wrong: 
+Wayne: What is the liver?
+Dana: What are the lungs?
+Value: $400
+Number: 9
+HODGEPODGE | Pop classic that includes the line "Drove my Chevy to the levee but the levee was dry" | "American Pie"
+right: Wayne
+Wrong: 
+Value: $400
+Number: 17
+ABBREVIATED S | As part of a price in '60s London | shilling
+right: 
+Wrong: Triple Stumper
+Dana: What is sterling?
+Eric: What is swinging?
+Value: $400
+Number: 23
+MAMMALS | The fellow seen here is native to this continent | Africa
+right: Wayne
+Wrong: 
+Value: $500
+Number: 12
+THE CHAIRMAN OF THE BOARD | In the movie "Young at Heart", Sinatra sang this Gershwin gem heard here | "Someone to Watch Over Me"
+right: Wayne
+Wrong: 
+Value: $500
+Number: 21
+MUSEUMS OF LAS VEGAS?! | Art lover Steve Wynn was once chairman of this Italian-themed hotel which still boasts a grand art gallery | the Bellagio
+right: Dana
+Wrong: 
+Value: $500
+Number: 24
+THE BOD SQUAD | Atelectasis is a doctor's term for the collapse of this organ | lungs
+right: Wayne
+Wrong: 
+Value: $500
+Number: 10
+HODGEPODGE | Like gumbo, a stew called burgoo is traditionally thickened with this vegetable | okra
+right: Dana
+Wrong: 
+Value: $500
+Number: 18
+ABBREVIATED S | As a vocal range in opera | soprano
+right: Dana
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Wayne: $600
+Dana: $100
+Eric: $400
+Scores at the end of the Jeopardy! Round:
+Wayne: $3,900
+Dana: $1,300
+Eric: $900
+Second Jeopardy! Round: HISTORIC TABLOID HEADLINES, AL OR GEORGE, WE LEARNED IT FROM SHAKESPEARE, VAUDEVILLE, TRAVEL, LUCKY "SEVEN"
+AL OR GEORGE | This star of "Donnie Brasco", "Heat" & "Carlito's Way" made a film in nearly every year of the 1990s | Al Pacino
+right: Wayne
+Wrong: 
+Value: $200
+Number: 23
+WE LEARNED IT FROM SHAKESPEARE | If you want to impress a guy like Mark Antony, barge in on a barge, like this queen | Cleopatra
+right: Wayne
+Wrong: 
+Value: $200
+Number: 5
+VAUDEVILLE | Audiences loved the dialect comedy team of Weber & this man (first name Lew, not W.C.) | Fields
+right: Eric
+Wrong: 
+Value: $200
+Number: 21
+TRAVEL | If you've flown to this world capital you most likely landed at Orly or Charles de Gaulle Airport | Paris
+right: Eric
+Wrong: 
+Value: $200
+Number: 10
+LUCKY "SEVEN" | Only a real-life Grumpy wouldn't like this 1937 animated feature from Walt Disney | Snow White and the Seven Dwarfs
+right: Eric
+Wrong: 
+Value: $200
+Number: 6
+HISTORIC TABLOID HEADLINES | Her 1536 demise was covered in "Anne Affair to Remember: Queen Loses Head Over Her Brother!" | Anne Boleyn
+right: Eric
+Wrong: 
+Value: DD: $2,300
+Number: 8
+AL OR GEORGE | In his first 17 seasons as owner of the Yankees, he changed managers 17 times | George Steinbrenner
+right: Dana
+Wrong: 
+Value: $400
+Number: 24
+WE LEARNED IT FROM SHAKESPEARE | If you see a cute chick on a balcony, ignore her; you might end up taking poison, like this hero | Romeo
+right: Eric
+Wrong: 
+Value: $400
+Number: 4
+VAUDEVILLE | The billing of Julian Eltinge, seen here, was "The most beautiful woman in the world is really" this | a man
+right: Dana
+Wrong: 
+Value: $400
+Number: 15
+TRAVEL | In Tokyo you can see guys throw their weight around at the Kokugikan, a stadium for this type of wrestling | sumo wrestling
+right: Dana
+Wrong: 
+Value: $400
+Number: 18
+LUCKY "SEVEN" | A 16th century Japanese village is the main setting for this 1954 foreign film classic | The Seven Samurai
+right: Wayne
+Wrong: 
+Value: $400
+Number: 14
+HISTORIC TABLOID HEADLINES | She's the subject of the 17th century headline seen here: "LOCA POCA!!  Saves Boy Toy From Fatal Clubbing" | Pocahontas
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 7
+AL OR GEORGE | In the original "Jazz Singer", he uttered that famous line "You ain't heard nothin' yet!" | Al Jolson
+right: Wayne
+Wrong: 
+Value: $600
+Number: 25
+WE LEARNED IT FROM SHAKESPEARE | Danish guys look really great in tights; we learned it from this play | Hamlet
+right: Wayne
+Wrong: 
+Value: $600
+Number: 1
+VAUDEVILLE | Completes Gracie Allen's tag line "Oh George, I bet you say that to..." | all the girls
+right: Wayne
+Wrong: 
+Value: $600
+Number: 22
+TRAVEL | The Sony Entertainment Center in Berlin offers a virtual reality "fun ride" on this Beatles vehicle | Yellow Submarine
+right: Eric
+Wrong: 
+Value: DD: $1,000
+Number: 11
+LUCKY "SEVEN" | Tom Ewell fantasizes about Marilyn Monroe in this 1955 film | The Seven Year Itch
+right: Wayne
+Wrong: 
+Value: $600
+Number: 13
+HISTORIC TABLOID HEADLINES | The picture here appeared in 1656 with the headline "Dutch Treat: This Painter's Model Mistress Tells All!" | Rembrandt
+right: Dana
+Wrong: 
+Value: $800
+Number: 9
+AL OR GEORGE | In 1997 this charismatic minister & civil rights leader made a bid to become mayor of New York City | Al Sharpton
+right: Wayne
+Wrong: 
+Value: $800
+Number: 26
+WE LEARNED IT FROM SHAKESPEARE | Richard III knew this London fortress was a great place to hide those pesky nephews | Tower of London
+right: Eric
+Wrong: 
+Value: $800
+Number: 2
+TRAVEL | For some chic shopping & great beaches, visit Mykonos, an island of this country | Greece
+right: Wayne
+Wrong: 
+Value: $800
+Number: 12
+LUCKY "SEVEN" | Rod Serling wrote this 1964 drama about a military scheme to overthrow the U.S. government | Seven Days in May
+right: Dana
+Wrong: 
+Value: $800
+Number: 16
+HISTORIC TABLOID HEADLINES | Perhaps from a tabloid tablet comes "City-Founding Boys Nursed by Wolf!", about Romulus & this brother | Remus
+right: Wayne
+Wrong: 
+Value: $1000
+Number: 20
+WE LEARNED IT FROM SHAKESPEARE | It's not polite to murder your guest, & it might turn your wife into a sleepwalker, like this "Lady" | Lady Macbeth
+right: Dana
+Wrong: 
+Value: $1000
+Number: 3
+TRAVEL | England's most famous square, it's where you'll find Nelson's Column & the National Gallery | Trafalgar Square
+right: Eric
+Wrong: 
+Value: $1000
+Number: 19
+LUCKY "SEVEN" | A disillusioned knight plays chess with death in this Ingmar Bergman masterpiece | The Seventh Seal
+right: Dana
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Wayne: $9,700
+Dana: $6,100
+Eric: $7,000
+
+Final Jeopardy! Round
+SPACE EXPLORATION | In October 1998 this man went into space as the oldest U.S. astronaut ever | John Glenn
+right: Dana | Eric | Wayne
+Wrong: 
+Wagers: 
+Dana: $6,000
+Eric: $7,000
+Wayne: $2,000
+Final scores:
+Wayne: $11,700 (3rd place: $10,000 for Avon Breast Cancer Crusade)
+Dana: $12,100 (2nd place: $10,000 for Scleroderma Research Foundation)
+Eric: $14,000 (Winner: $15,000 for Friends of the Los Angeles Free Clinic)
+
+Coryat scores
+Wayne: $9,700 (24 R(including 1 DD),1 W)
+Dana: $6,100 (14 R,2 W)
+Eric: $4,700 (13 R(including 2 DDs),1 W)

@@ -1,0 +1,345 @@
+1887 - Tuesday, November 17, 1992
+Comments: 1992 Tournament of Champions semifinal game 2.
+Contestants:
+Leonard Schmidt: an optometrist and 1992 Seniors Tournament champion from Pittsburgh, Pennsylvania
+Robert Slaven: an office automation specialist from Yellowknife, Northwest Territories, Canada
+Jerome Vered: a writer from Studio City, California
+First Jeopardy! Round: HISTORY, MYSTERIES, CHAMPIONS, POLITICAL TERMS, SAMS & SAMUELS, EPONYMS
+HISTORY | On Sept. 9, 1087, this English king died at Rouyn in Normandy after falling from his horse | William the Conqueror
+right: Jerome
+Wrong: 
+Value: $100
+Number: 1
+MYSTERIES | Mary Higgins Clark called her 1980 bestseller "The Cradle Will" do this | Fall
+right: Leonard
+Wrong: 
+Value: $100
+Number: 26
+CHAMPIONS | Their 1991 NBA championship was the first in the club's 25-year history | Chicago Bulls
+right: Robert
+Wrong: 
+Value: $100
+Number: 6
+POLITICAL TERMS | On January 8, 1918, he outlined his "Fourteen Points" to the U.S. Congress | Woodrow Wilson
+right: Robert
+Wrong: 
+Value: $100
+Number: 11
+SAMS & SAMUELS | In 1871 U.S. telegraphers honored him with a bronze statue in NYC's Central Park | Samuel Morse
+right: Leonard
+Wrong: 
+Value: $100
+Number: 21
+EPONYMS | From the name of its U.S. developer, it's a screwdriver with a cross-shaped tip | Phillips Screwdriver
+right: Robert
+Wrong: 
+Value: $100
+Number: 16
+HISTORY | The first 18 years of this French king's reign were managed by Cardinal Mazarin | Louis XIV
+right: Jerome
+Wrong: 
+Value: $200
+Number: 2
+MYSTERIES | It's the last name of Tom, the psychopath Patricia Highsmith created in 1955:  believe it or not! | Ripley
+right: Jerome
+Wrong: 
+Value: $200
+Number: 27
+CHAMPIONS | In 1992 he became the first American to win the men's title at Wimbledon since McEnroe in 1984 | Andre Agassi
+right: Leonard
+Wrong: 
+Robert: Who is Courier?
+Value: $200
+Number: 7
+POLITICAL TERMS | Jacobites supported the cause of this royal house after the abdication of James II | The Stuarts
+right: Jerome
+Wrong: 
+Value: $200
+Number: 12
+SAMS & SAMUELS | This playwright starred with girlfriend Jessica Lange in the movies "Country" & "Frances" | Sam Shepard
+right: Robert
+Wrong: 
+Value: $200
+Number: 22
+EPONYMS | An inflatable lifejacket introduced during World War II was named for this shapely actress | Mae West
+right: Robert
+Wrong: 
+Value: $200
+Number: 17
+HISTORY | As a child, Roman emperor Gaius Julius Caesar Germanicus was nicknamed this, meaning "little boot" | Caligula
+right: Jerome
+Wrong: 
+Value: $300
+Number: 3
+MYSTERIES | Her book, "The Murder of Roger Ackroyd", was inspired partly by a suggestion from Lord Mountbatten | Agatha Christie
+right: Leonard
+Wrong: 
+Value: $300
+Number: 28
+CHAMPIONS | This Triple Crown-winning steed holds the record times for the Kentucky Derby & the Belmont Stakes | Secretariat
+right: Leonard
+Wrong: 
+Jerome: Who is Seattle Slew?
+Value: $300
+Number: 8
+POLITICAL TERMS | France calls its capability to use this type of weapon its "Force de Frappe" | nuclear weapons
+right: Jerome
+Wrong: 
+Value: $300
+Number: 13
+SAMS & SAMUELS | He wrote "The Rime of the Ancient Mariner" for a book of poetry co-written with William Wordsworth | Samuel Taylor Coleridge
+right: Leonard
+Wrong: 
+Value: $300
+Number: 23
+EPONYMS | Named & fit for a Babylonian king, it's a wine bottle that holds about 20 quarts | Nebuchadnezzar
+right: Robert
+Wrong: 
+Leonard: What's a jeroboam?
+Value: $300
+Number: 18
+HISTORY | In 1524 this Florentine navigator became the first European to visit the New York area | Giovanni da Verrazzano
+right: Jerome
+Wrong: 
+Value: $400
+Number: 4
+MYSTERIES | This Dickens title character disappears after breaking off his engagement with Rosa Budd | Edwin Drood
+right: 
+Wrong: 
+Leonard: Who is Martin Chuzzlewit?
+Value: DD: $1,000
+Number: 29
+CHAMPIONS | This current world chess champion is scheduled to defend his crown again in 1993 | Garry Kasparov
+right: Robert
+Wrong: 
+Value: $400
+Number: 9
+POLITICAL TERMS | This term for a member of the British Conservative party comes from Irish for "pursuer" | Tory
+right: Robert
+Wrong: 
+Value: $400
+Number: 14
+SAMS & SAMUELS | The main goal of Paul Revere's ride was to warn John Hancock & this patriot that the British were out to capture them | Samuel Adams
+right: Jerome
+Wrong: 
+Value: $400
+Number: 24
+EPONYMS | George Joseph Camel, a Moravian Jesuit missionary, gave his name to this flowery shrub | Camellia
+right: Jerome
+Wrong: 
+Value: $400
+Number: 19
+HISTORY | This territory, known for its coal mines, voted to become part of Germany in 1935 | The Saar
+right: Robert
+Wrong: 
+Value: $500
+Number: 5
+MYSTERIES | "Your Royal Hostage" is a mystery novel by this noted biographer who's married to Harold Pinter | Lady Antonia Fraser
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+CHAMPIONS | Yokozuna, or Grand Champion, is the highest rank in this sport | Sumo Wrestling
+right: Robert
+Wrong: 
+Value: $500
+Number: 10
+POLITICAL TERMS | This numerical term for secret enemy sympathizers comes from the Spanish Civil War | Fifth Column
+right: Jerome
+Wrong: 
+Value: $500
+Number: 15
+SAMS & SAMUELS | He's Georgia's senior senator | Sam Nunn
+right: Robert
+Wrong: 
+Value: $500
+Number: 25
+EPONYMS | The term "bobby", for a British policeman, is from the name of this Bobby who reorganized London's force | Robert Peel
+right: Leonard
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Jerome: $1,700
+Robert: $1,800
+Leonard: $500
+Scores at the end of the Jeopardy! Round:
+Jerome: $2,700
+Robert: $3,100
+Leonard: $500
+Second Jeopardy! Round: COLONIAL AMERICA, HEALTH & MEDICINE, WORLD CAPITALS, EDUCATION, DRAMA, RUSSIAN RULERS
+COLONIAL AMERICA | Bought by the Dutch in 1626, this island is named for the Indian tribe who lived there | Manhattan
+right: Jerome
+Wrong: 
+Value: $200
+Number: 24
+HEALTH & MEDICINE | Crawford W. Long is credited with being the first to use this for surgical anesthesia | Ether
+right: Leonard
+Wrong: 
+Value: $200
+Number: 1
+WORLD CAPITALS | Although in a predominantly Flemish region, most of this city's inhabitants speak French | Brussels
+right: Jerome
+Wrong: 
+Value: $200
+Number: 6
+EDUCATION | America's first public high school was opened in 1821 in this New England capital | Boston
+right: Jerome
+Wrong: 
+Value: $200
+Number: 14
+DRAMA | This 1973 Peter Schaeffer play became a ballet in 1980; a horse opera would have made more sense | "Equus"
+right: Leonard
+Wrong: 
+Value: $200
+Number: 11
+RUSSIAN RULERS | Alexander II was called "Czar Liberator" for freeing these Russian peasants in 1861 | Serfs
+right: Jerome
+Wrong: 
+Value: $200
+Number: 18
+COLONIAL AMERICA | New Haven Colony merged with this colony in 1664 | Connecticut
+right: Jerome
+Wrong: 
+Value: $400
+Number: 27
+HEALTH & MEDICINE | The EPA has called for a 94% reduction of this mineral fiber, a cause of lung disease, by 1997 | Asbestos
+right: Jerome
+Wrong: 
+Value: $400
+Number: 2
+WORLD CAPITALS | This South American capital lies only 7 miles inland from the Caribbean Sea | Caracas, Venezuela
+right: Robert
+Wrong: 
+Value: $400
+Number: 7
+EDUCATION | The oldest of these 2-year colleges opened in 1901 in Joliet, Illinois | Junior/Community Colleges
+right: Jerome
+Wrong: 
+Value: $400
+Number: 15
+DRAMA | The Antrobuses of Excelsior, New Jersey are an "ice age" family in his "The Skin of Our Teeth" | Thornton Wilder
+right: Jerome
+Wrong: 
+Value: $400
+Number: 12
+RUSSIAN RULERS | The empress Elizabeth founded Russia's first university in this city in the 18th century | Moscow
+right: Jerome
+Wrong: 
+Leonard: What is St. Petersburg?
+Value: $400
+Number: 19
+COLONIAL AMERICA | The 1649 Toleration Act gave religious freedom to Catholics as well as to Protestants in this colony | Maryland
+right: Jerome
+Wrong: 
+Value: $600
+Number: 28
+HEALTH & MEDICINE | Due to successful vaccines, this viral disease was finally declared extinct in 1980 | Smallpox
+right: Jerome
+Wrong: 
+Value: DD: $1,500
+Number: 3
+WORLD CAPITALS | In ancient times this Libyan capital was known as Oea | Tripoli
+right: Leonard
+Wrong: 
+Jerome: What is Benghazi?
+Value: $600
+Number: 8
+EDUCATION | In 5th century B.C. India, only the people of this caste were able to get a complete education | Brahmins
+right: Leonard
+Wrong: 
+Value: $600
+Number: 23
+DRAMA | The Crown Guide to Plays says this Lawrence & Lee play was known in Norway as "Min Fantastika Tante" | Mame
+right: Robert
+Wrong: 
+Value: $600
+Number: 13
+RUSSIAN RULERS | Czar from 1613-1645, Michael founded this dynasty that ruled until 1917 | Romanov
+right: Jerome
+Wrong: 
+Value: $600
+Number: 20
+COLONIAL AMERICA | As Pennsylvania had no coast, William Penn was given land in 1682 that later became this small state | Delaware
+right: Robert
+Wrong: 
+Value: $800
+Number: 29
+HEALTH & MEDICINE | In 1851 Hermann von Helmholtz invented this instrument for examining the eye's interior | ophthalmoscope
+right: Leonard
+Wrong: 
+Value: $800
+Number: 4
+WORLD CAPITALS | It controls the main approaches thru the Khyber Pass to Pakistan & India | Kabul
+right: Robert
+Wrong: 
+Value: $800
+Number: 9
+EDUCATION | In 1922 she became a government inspector of schools in Italy | Maria Montessori
+right: Jerome
+Wrong: 
+Value: $800
+Number: 25
+DRAMA | The name of this 1933 Eugene O' Neill comedy ends in an exclamation point, and it isn't a musical | "Ah, Wilderness!"
+right: Jerome
+Wrong: 
+Value: $800
+Number: 16
+RUSSIAN RULERS | In Russian she is called "Ekaterina Velikaya" | Catherine the Great
+right: Robert
+Wrong: 
+Value: $800
+Number: 21
+COLONIAL AMERICA | Between 1631 & 1648, he was chosen governor of Massachusetts Bay Colony twelve times | John Winthrop
+right: Leonard
+Wrong: 
+Value: $1000
+Number: 30
+HEALTH & MEDICINE | Used especially in diagnosing brain disorders, CAT, as in CAT scan, stands for "computerized" this | axial tomography
+right: Robert
+Wrong: 
+Value: $1000
+Number: 5
+WORLD CAPITALS | The name of this capital is probably from Sinhalese for "port" or "ferry" | Colombo
+right: Jerome
+Wrong: 
+Value: $1000
+Number: 10
+EDUCATION | Kids are taught to play musical instruments at an early age in this method named for a Japanese violinist | Suzuki Method
+right: Robert
+Wrong: 
+Value: $1000
+Number: 26
+DRAMA | To end a war, this Aristophanes title character gets the women to stop sleeping with the men | "Lysistrata"
+right: Jerome
+Wrong: 
+Value: DD: $2,000
+Number: 17
+RUSSIAN RULERS | Alexander I entered this foreign capital city in triumph in March, 1814 | Paris
+right: Jerome
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Jerome: $13,200
+Robert: $8,500
+Leonard: $3,500
+
+Final Jeopardy! Round
+NEWSPAPERS | It was first published between 1861 and 1865; it was revived in 1918; stopped in 1919, and revived again in 1942 | Stars and Stripes
+right: Robert | Jerome
+Wrong: 
+Leonard: What is The Atlanta Constitution?
+Wagers: 
+Leonard: $3,500
+Robert: $8,500
+Jerome: $3,801
+Final scores:
+Jerome: $17,001 (Finalist)
+Robert: $17,000 (2nd place: $5,000 + Jeopardy!/Wheel of Fortune video games for Super NES/Sega Genesis + Jeopardy! Challenge book)
+Leonard: $0 (3rd place: $5,000 + Jeopardy!/Wheel of Fortune video games for Super NES/Sega Genesis + Jeopardy! Challenge book)
+
+Coryat scores
+Jerome: $11,300 (27 R(including 2 DDs),2 W)
+Robert: $8,500 (18 R,1 W)
+Leonard: $4,500 (13 R,3 W(including 1 DD))

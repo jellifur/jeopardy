@@ -1,0 +1,341 @@
+5503 - Wednesday, July 9, 2008
+Comments: Aaron Schroeder game 4.
+Contestants:
+Liz Basile: a client services manager from Englewood, New Jersey
+Greg Bell: an infantryman from San Gabriel, California
+Aaron Schroeder: a graduate student originally from Washington, D.C. (whose 3-day cash winnings total $79,101)
+First Jeopardy! Round: INFECTIOUS DISEASES, PLANES, TRAINS OR AUTOMOBILES, BOOKS FOR THE TRAVELER, ART FOR ART'S SAKE, ____OFF!, RELAX, WE'RE STILL RATED G
+INFECTIOUS DISEASES | Isolated in 1983, the virus that causes AIDS is known today by this acronym | HIV
+right: Aaron
+Wrong: 
+Value: $200
+Number: 1
+PLANES, TRAINS OR AUTOMOBILES | Gown parts | trains
+right: Aaron
+Wrong: 
+Value: $200
+Number: 16
+BOOKS FOR THE TRAVELER | Ventriloquists' pals must love the books called "Boston For" these, "RV Vacations For" these, etc. | Dummies
+right: Liz
+Wrong: 
+Value: $200
+Number: 6
+ART FOR ART'S SAKE | Salvador Dali once planned to build a table made entirely of these hard-boiled items "so that it could be eaten" | eggs
+right: Aaron
+Wrong: 
+Value: $200
+Number: 21
+____OFF! | "The Jeffersons" was "moving on up" as one of these from "All In The Family" | a spin-off
+right: Greg
+Wrong: 
+Value: $200
+Number: 11
+RELAX, WE'RE STILL RATED G | Paul Angelis voiced the chief Blue Meanie & some dude named Ringo in this 1968 film | Yellow Submarine
+right: Aaron
+Wrong: 
+Value: $200
+Number: 26
+INFECTIOUS DISEASES | Severe cases of this fever can cause jaundice, which gave the disease its name | yellow fever
+right: Aaron
+Wrong: 
+Greg: What is hepatitis?
+Value: $400
+Number: 2
+PLANES, TRAINS OR AUTOMOBILES | Encarta says in 1900 NYC, Chicago & Boston, 1,170 of these were powered by steam, 800 by electricity & 400 by gas | automobiles
+right: Aaron
+Wrong: 
+Value: $400
+Number: 17
+BOOKS FOR THE TRAVELER | Learn how to get the best deals in "The Travel Detective" by Peter Greenberg, travel editor of this NBC morning show | Today
+right: Liz
+Wrong: 
+Value: $400
+Number: 7
+ART FOR ART'S SAKE | A Sarasota, Florida company specializes in giant sculptures in <http://www.j-archive.com/media/2008-07-09_J_22.jpg> this medium; it's not just for castles anymore | sand
+right: Liz
+Wrong: 
+Value: $400
+Number: 22
+____OFF! | A theft, cheat or swindle; what a.,. | a rip-off
+right: Liz
+Wrong: 
+Value: $400
+Number: 12
+RELAX, WE'RE STILL RATED G | The piscine lead in this '03 film: "If this is some kind of practical joke, it's not funny, & I know funny, I'm a clownfish" | Finding Nemo
+right: Aaron
+Wrong: 
+Value: $400
+Number: 27
+INFECTIOUS DISEASES | It's the B form of this inflammation of the liver that's spread by some kinds of personal contact | hepatitis
+right: Liz
+Wrong: 
+Value: $600
+Number: 3
+PLANES, TRAINS OR AUTOMOBILES | Smoothers | planes
+right: 
+Wrong: Triple Stumper
+Greg: What are trains?
+Value: $600
+Number: 18
+BOOKS FOR THE TRAVELER | Whether you're browsing or buying, you'll love Suzy Gershman's series of books called "Born To" do this | Shop
+right: Aaron
+Wrong: 
+Value: $600
+Number: 8
+ART FOR ART'S SAKE | Chef Alain Roby set a Guinness record in 2006 by sculpting a 20-foot 8-inch skyscraper from this sweet | chocolate
+right: Aaron
+Wrong: 
+Value: $600
+Number: 23
+____OFF! | 8-letter term for an unlicensed copy of fashion clothing or purses | a knockoff
+right: Greg
+Wrong: 
+Value: $600
+Number: 13
+RELAX, WE'RE STILL RATED G | For a category on G-rated films, that'll do, this 1995 title porker. That'll do | Babe
+right: Aaron
+Wrong: 
+Value: $600
+Number: 28
+INFECTIOUS DISEASES | Mary Mallon was the first known carrier of this disease in the U.S. | typhoid
+right: Liz
+Wrong: 
+Value: $800
+Number: 4
+PLANES, TRAINS OR AUTOMOBILES | Charles & Frank Duryea are credited with producing the first of these for consumer sale in the U.S. | automobiles
+right: Greg
+Wrong: 
+Value: $800
+Number: 19
+BOOKS FOR THE TRAVELER | The series known as "Lonely" this published a special 448-page book covering "every country in the world" | Lonely Planet
+right: Greg
+Wrong: 
+Value: $800
+Number: 9
+ART FOR ART'S SAKE | Lana Shuttleworth transforms these roadwork markers into art, as in the 7 foot by 10 foot landscape seen <http://www.j-archive.com/media/2008-07-09_J_24.jpg> here | pylons or traffic cones
+right: Aaron
+Wrong: 
+Value: $800
+Number: 24
+____OFF! | A cancellation from accountants as a loss | a write-off
+right: Aaron
+Wrong: 
+Value: $800
+Number: 14
+RELAX, WE'RE STILL RATED G | Tom Hanks says, "That wasn't flying. That was...falling with style" in this 1995 animated movie | Toy Story
+right: Aaron
+Wrong: 
+Greg: What is [*]...2?
+Value: $800
+Number: 29
+INFECTIOUS DISEASES | Deadly outbreaks of cholera struck British, French & Russian soldiers equally in this 1853-56 war | the Crimean War
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 5
+PLANES, TRAINS OR AUTOMOBILES | In France they have some called Grande Vitesse; in Japan, they have Shinkansen | trains
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 20
+BOOKS FOR THE TRAVELER | If you've just bought the book "Discovering Denali", you must be planning a trip to this state | Alaska
+right: Greg
+Wrong: 
+Value: DD: $1,000
+Number: 10
+ART FOR ART'S SAKE | Jim Victor made parmesan ships with pizza dough sails & spaghetti rigging for a 2005 parade honoring this holiday | Columbus Day
+right: Greg
+Wrong: 
+Value: $1000
+Number: 25
+____OFF! | Rain flowing from land into a stream, or a final contest between 2 first-place contestants | a runoff
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 15
+RELAX, WE'RE STILL RATED G | In 2005 this title duo investigated "The Curse of the Were-Rabbit" | Wallace & Gromit
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Aaron: $4,000
+Greg: $2,200
+Liz: $2,400
+Scores at the end of the Jeopardy! Round:
+Aaron: $10,200
+Greg: $2,600
+Liz: $2,800
+Second Jeopardy! Round: FICTIONAL CHARACTERS, TV WOMEN, ASIA, OLYMPIC MASCOTS, HE WAS PRESIDENT WHEN..., "C" SHARP
+FICTIONAL CHARACTERS | In a play, Blanche DuBois visits this sister in New Orleans | Stella
+right: Greg
+Wrong: 
+Value: $400
+Number: 6
+TV WOMEN | This perky future anchorwoman did the last interview with JFK Jr. | Katie Couric
+right: Greg
+Wrong: 
+Value: $400
+Number: 1
+ASIA | For its many canals, this Thai capital is known as the "Venice of the East" | Bangkok
+right: Greg
+Wrong: 
+Value: $400
+Number: 14
+OLYMPIC MASCOTS | The mascots for the 2008 Olympics in Beijing include Yingying, an antelope, & Jingjing, this animal | a panda
+right: Aaron
+Wrong: 
+Value: $400
+Number: 8
+HE WAS PRESIDENT WHEN... | A jury convicted Oliver North of obstruction of Congress | Reagan
+right: Aaron
+Wrong: 
+Value: $400
+Number: 19
+"C" SHARP | Underage drinkers in the northeast fear getting "proofed"; elsewhere, they fear they'll be this | carded
+right: Aaron
+Wrong: 
+Value: $400
+Number: 26
+FICTIONAL CHARACTERS | Scout's brother in "To Kill a Mockingbird" is Jeremy, better known by this nickname | Jem
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+TV WOMEN | Starting in 1988, this comedienne played the not-always-lovable mom of Becky, Darlene & D.J. Conner | Rosanne Barr
+right: Aaron
+Wrong: 
+Value: $800
+Number: 2
+ASIA | Biratnagar is the second-biggest city in this mountainous country between China & India | Nepal
+right: Aaron
+Wrong: 
+Value: $800
+Number: 15
+OLYMPIC MASCOTS | A Little tiger named Hodori was the mascot of the Summer Games held in this world capital in 1988 | Seoul
+right: Aaron
+Wrong: 
+Value: $800
+Number: 9
+HE WAS PRESIDENT WHEN... | McKinley assassin Leon Czolgosz was executed | Theodore Roosevelt
+right: Aaron
+Wrong: 
+Value: $800
+Number: 20
+"C" SHARP | A hurricane is a tropical one | a cyclone
+right: Greg
+Wrong: 
+Value: $800
+Number: 27
+FICTIONAL CHARACTERS | Title nickname of Harry Angstrom, a character in several of John Updike's novels | Rabbit
+right: Aaron
+Wrong: 
+Value: $1200
+Number: 13
+TV WOMEN | A Fox show "Chronicles" the Adventures of this "Terminator" character | Sarah Connor
+right: Aaron
+Wrong: 
+Value: $1200
+Number: 3
+ASIA | In 2007 the U.N. made Ibrahim Gambari its envoy to this country where monks battled the junta | Myanmar or Burma
+right: Aaron
+Wrong: 
+Value: $1200
+Number: 16
+OLYMPIC MASCOTS | A dachshund named Waldi was the mascot of the Summer Games in this city in 1972 | Munich
+right: Greg
+Wrong: 
+Value: $1200
+Number: 10
+HE WAS PRESIDENT WHEN... | The Teapot Dome Scandal hit | (Warren G.) Harding
+right: Aaron
+Wrong: 
+Value: DD: $1,200
+Number: 21
+"C" SHARP | "Body" of work for an M.E. | a corpse
+right: Greg
+Wrong: 
+Value: $1200
+Number: 28
+FICTIONAL CHARACTERS | The title of this Dumas novel, the last adventure of the 3 Musketeers, refers to a mysterious Bastille prisoner | the Man in the Iron Mask
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 24
+TV WOMEN | Lauren & she stopped speaking after she moved in with Spencer--on MTV's "The Hills", duh | Heidi
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 4
+ASIA | During WWII this city whose name means "rule the East" was the main Pacific port for supplies the U.S. sent to Russia | Vladivostok
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 17
+OLYMPIC MASCOTS | Haakon & Kristin, 2 folk-character children, were the mascots of the 1994 Winter Games in this town | Lillehammer
+right: Greg
+Wrong: 
+Value: DD: $3,000
+Number: 11
+HE WAS PRESIDENT WHEN... | Earl Warren became Chief Justice of the U.S. | Eisenhower
+right: Liz
+Wrong: 
+Value: $1600
+Number: 22
+"C" SHARP | To bend or fold sheet metal edges together | crimp
+right: Greg
+Wrong: 
+Value: $1600
+Number: 29
+FICTIONAL CHARACTERS | Created by Charles Portis, this U.S. Marshal helps 14-year-old Mattie Ross track her father's killer | Rooster Cogburn
+right: Liz
+Wrong: 
+Value: $2000
+Number: 25
+TV WOMEN | Take your Coricidin & name <http://www.j-archive.com/media/2008-07-09_DJ_05.jpg> this long-time "Law & Order" actress | S. Epatha Merkerson
+right: Liz
+Wrong: 
+Value: $2000
+Number: 5
+ASIA | People in this Iranian town can wave to tankers passing through the strait of the same name | Hormuz
+right: Aaron
+Wrong: 
+Value: $2000
+Number: 18
+OLYMPIC MASCOTS | This cute, cuddly bear who shares a nickname with Baryshnikov was the mascot of the 1980 Moscow games | Misha
+right: Liz
+Wrong: 
+Value: $2000
+Number: 12
+HE WAS PRESIDENT WHEN... | Congress approved the War of 1812 | James Madison
+right: Liz
+Wrong: 
+Value: $2000
+Number: 23
+"C" SHARP | 9-letter term for an agreement between a sovereign state & the Pope | a concordat
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Aaron: $24,600
+Greg: $11,600
+Liz: $12,400
+
+Final Jeopardy! Round
+CHILDREN'S LITERATURE | Her illustrations for 1890's "A Happy Pair" included elegantly dressed rabbits | Beatrix Potter
+right: Greg | Liz | Aaron
+Wrong: 
+Wagers: 
+Greg: $11,599
+Liz: $12,300
+Aaron: $201
+Final scores:
+Aaron: $24,801 (4-day champion: $103,902)
+Greg: $23,199 (3rd place: $1,000)
+Liz: $24,700 (2nd place: $2,000)
+
+Coryat scores
+Aaron: $24,600 (31 R(including 1 DD),0 W)
+Greg: $10,200 (14 R(including 2 DDs),3 W)
+Liz: $12,400 (11 R,0 W)

@@ -1,0 +1,329 @@
+1300 - Friday, April 6, 1990
+Contestants:
+Ed Borasky: a supercomputer programmer from Aloha, Oregon
+Anne King: a public relations director from Cambridge, Maryland
+Joel Goldberg: a CPA and financial officer from Fort Lee, New Jersey (whose 4-day cash winnings total $33,001)
+First Jeopardy! Round: U.S. GEOGRAPHY, ODD JOBS, ANIMALS, QUOTES, FOOD & DRINK, NICKNAMES
+U.S. GEOGRAPHY | Longer than the Mississippi, this river wasn't made navigable until the 20th century | Missouri River
+right: Ed
+Wrong: 
+Value: $100
+Number: 19
+ODD JOBS | One-word title for the person who operated the device developed by Samuel F.B. Morse | Telegrapher
+right: Ed
+Wrong: 
+Value: $100
+Number: 26
+ANIMALS | In the Middle Ages this insect was dedicated to the Virgin & called "The Beetle Of Our Lady" | Ladybug/Ladybird Beetle
+right: Ed
+Wrong: 
+Value: $100
+Number: 15
+QUOTES | Robert Frost wrote, "To" do this "is human, not to, animal" | Err
+right: Joel
+Wrong: 
+Value: $100
+Number: 11
+FOOD & DRINK | Tofu has been prepared on this continent for over 1,000 years | Asia
+right: Ed
+Wrong: 
+Value: $100
+Number: 6
+NICKNAMES | Baseball player Jay Hanna Dean was known by this giddy moniker | Dizzy Dean
+right: Joel
+Wrong: 
+Value: $100
+Number: 1
+U.S. GEOGRAPHY | This 10-state region isn't flat; it rises from 2,000 ft. near Omaha to 6,000 ft. at Cheyenne | Great Plains
+right: Joel
+Wrong: 
+Value: $200
+Number: 20
+ODD JOBS | From the Greek for "know beforehand", it's someone who predicts things, like the weather | Prognosticator
+right: Joel
+Wrong: 
+Value: $200
+Number: 27
+ANIMALS | Smaller forms of these birds are usually called doves | Pigeons
+right: Ed
+Wrong: 
+Value: $200
+Number: 16
+QUOTES | In "An Essay On Man" Pope wrote this "springs eternal in the human breast" | Hope
+right: Ed
+Wrong: 
+Value: $200
+Number: 12
+FOOD & DRINK | Planted chiefly in Hawaii, the most widely grown variety of this fruit is the smooth cayenne | Pineapple
+right: Joel
+Wrong: 
+Value: $200
+Number: 7
+NICKNAMES | Bewhiskered western sidekick George Hayes went by this "talkative" nickname | Gabby Hayes
+right: Anne
+Wrong: 
+Value: $200
+Number: 2
+U.S. GEOGRAPHY | The only state with areas that have a Mediterranean climate | California
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 21
+ODD JOBS | A cryptographer doesn't break into tombs but breaks these | Codes
+right: Anne
+Wrong: 
+Value: $300
+Number: 28
+ANIMALS | The largest members of this phylum are the giant squids & the smallest are snails | Mollusks
+right: Ed
+Wrong: 
+Value: $300
+Number: 17
+QUOTES | Advised not to be a lawyer, as the profession was overcrowded, D. Webster said, "There is always room" here | At the top
+right: 
+Wrong: 
+Value: DD: $900
+Number: 13
+FOOD & DRINK | This French word describes the very driest champagnes | Brut
+right: Ed
+Wrong: 
+Value: $300
+Number: 8
+NICKNAMES | He's been called "The World's Oldest Living Teenager" | Dick Clark
+right: Anne
+Wrong: 
+Value: $300
+Number: 3
+U.S. GEOGRAPHY | The lower valley of the Susquehanna & its tributaries have created this large Atlantic bay | Chesapeake Bay
+right: Joel
+Wrong: 
+Value: $400
+Number: 22
+ODD JOBS | The job of a sommelier in a restaurant is to serve this | Wine
+right: Joel
+Wrong: 
+Value: $400
+Number: 29
+ANIMALS | These arachnids differ from true spiders by the extreme length & thinness of their legs | Daddy Longlegs
+right: Joel
+Wrong: 
+Value: $400
+Number: 18
+QUOTES | Carl Sandburg wrote, "Sometime they'll give" one of these "and nobody will come" | War
+right: Ed
+Wrong: 
+Value: $400
+Number: 14
+FOOD & DRINK | This mixture of apples, nuts, celery & mayonnaise was named for a hotel | Waldorf Salad
+right: Ed
+Wrong: 
+Value: $400
+Number: 9
+NICKNAMES | He earned the nickname "Hero of Mobile Bay" in the Civil War | Admiral David Farragut
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+U.S. GEOGRAPHY | This western branch of the Appalachians runs from north central Penn. through MD., VA. & W. VA. | Alleghenies
+right: Anne
+Wrong: 
+Value: $500
+Number: 23
+ODD JOBS | If you hired an expert in drayage, you needed this done | Having something moved (or hauled by cart in the old days)
+right: Ed
+Wrong: 
+Value: $500
+Number: 30
+ANIMALS | Surprisingly, the white, or beluga, species of this mammal can be found in the St. Lawrence River | Whale
+right: Ed
+Wrong: 
+Value: $500
+Number: 25
+QUOTES | Kipling said, "He travels the fastest who travels" this way | Alone
+right: Ed
+Wrong: 
+Value: $500
+Number: 24
+FOOD & DRINK | The "Court" variety of this is a stock in which fish are poached & can contain herbs & vegetables | Boullion
+right: Ed
+Wrong: 
+Value: $500
+Number: 10
+NICKNAMES | This producer of "Hello, Dolly!" has been called "The Barnum of Broadway Producers" | David Merrick
+right: Ed
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Joel: $400
+Anne: $500
+Ed: $1,300
+Scores at the end of the Jeopardy! Round:
+Joel: $1,700
+Anne: $1,300
+Ed: $3,100
+Second Jeopardy! Round: BOOKS OF THE '80S, SWITZERLAND, THE AMERICAN REVOLUTION, CINEMA, MYTHS & LEGENDS, ART & DESIGN
+BOOKS OF THE '80S | Wess Roberts called his 1989 guide to success "Leadership Secrets Of" this Hun | Attila
+right: Ed
+Wrong: 
+Value: $200
+Number: 1
+SWITZERLAND | Although Switzerland has 4 national languages, 70% of the population speaks this one | German
+right: Ed
+Wrong: 
+Value: $200
+Number: 2
+THE AMERICAN REVOLUTION | The tea thrown overboard into Boston harbor in 1773 belonged to this British company | East India Comapny
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 3
+CINEMA | 1 of the 2 Bogart  movies with "Sierra" in their titles | 
+right: Joel
+Wrong: 
+Value: $200
+Number: 4
+MYTHS & LEGENDS | According to Collier's Encyclopedia, this son of Cronus had more than 3 dozen kids | Zeus
+right: Ed
+Wrong: 
+Value: $200
+Number: 9
+ART & DESIGN | This "new" art style was popular in France just before Art Deco | Art Nouveau
+right: Ed
+Wrong: 
+Value: $200
+Number: 18
+BOOKS OF THE '80S | John Gregory Dunne's '89 memoir, "Harp", details his search for his ancestral roots in this country | Ireland
+right: Anne
+Wrong: 
+Value: DD: $1,000
+Number: 14
+SWITZERLAND | This is compulsory for all men between the ages of 20 & 50 | Military Service
+right: Ed
+Wrong: 
+Value: $400
+Number: 22
+THE AMERICAN REVOLUTION | In 1776, while encamped with Washington's troops, he wrote, "These are the times that try men's souls" | Thomas Paine
+right: Ed
+Wrong: 
+Value: $400
+Number: 21
+CINEMA | This '84 film about the horrors of the Khmer Rouge was finally shown in a Cambodian theater in 1989 | "The Killing Fields"
+right: Joel
+Wrong: 
+Value: $400
+Number: 5
+MYTHS & LEGENDS | This Greek god lived with his wife, Amphitrite, in a golden palace at the bottom of the sea | Poseidon
+right: Joel
+Wrong: 
+Value: $400
+Number: 10
+ART & DESIGN | A walkway or porch with a roof supported by columns, it's featured in Greek architecture | Portico
+right: Anne
+Wrong: 
+Value: $400
+Number: 19
+BOOKS OF THE '80S | Robert D. Parker's "Poodle Springs" is based on this author's unfinished Philip Marlowe novel | Raymond Chandler
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 15
+SWITZERLAND | This white star-shaped flower is Switzerland's national flower | Edelweiss
+right: Ed
+Wrong: 
+Value: DD: $1,000
+Number: 23
+THE AMERICAN REVOLUTION | In 1780 & '81 this general commanded Britain's forces in the southern colonies | Lord Cornwallis
+right: Joel
+Wrong: 
+Value: $600
+Number: 24
+CINEMA | The Horse of a Different Color in this film was actually 6 different horses colored with Jell-O powder | "The Wizard of Oz"
+right: Ed
+Wrong: 
+Value: $600
+Number: 6
+MYTHS & LEGENDS | Born from the blood of Uranus, they punish those who escape punishment | The Furies
+right: Ed
+Wrong: 
+Value: $600
+Number: 11
+ART & DESIGN | This name refers to any depiction of the Virgin holding the dead Christ, not just Michelangelo's sculpture | Pieta
+right: Ed
+Wrong: 
+Value: $600
+Number: 20
+BOOKS OF THE '80S | Tom Wolfe has described this book of his as "A 'Vanity Fair' written 150 years later" | "Bonfire of the Vanities"
+right: Anne
+Wrong: 
+Value: $800
+Number: 16
+THE AMERICAN REVOLUTION | On the night of April 18, 1775, he & Paul Revere rode the countryside warning of the Redcoats' advance | William Dawes
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 25
+CINEMA | In "The Road to Utopia", Bob Hope acted macho by saying, "I'll take lemonade - - in" one of these | A Dirty Glass
+right: Ed
+Wrong: 
+Value: $800
+Number: 7
+MYTHS & LEGENDS | Among Hercules' teachers were these twins who taught him horsemanship & boxing | Castor & Pollux
+right: Anne
+Wrong: 
+Value: $800
+Number: 12
+ART & DESIGN | A praying desk with a knee bench, its name means "Pray God" | Prie-Dieu
+right: Anne
+Wrong: 
+Value: $800
+Number: 27
+BOOKS OF THE '80S | "The Noose of Laurels" concludes that neither of these rivals reached the North Pole | Frederic Cook & Robert Peary
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+THE AMERICAN REVOLUTION | In 1774 the 1st Continental Congress convened at this Philadelphia building, not Independence Hall | Carpenters' Hall
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+CINEMA | Near the end of this 1959 Hitchcock film, Martin Landau falls off Mount Rushmore | "North By Northwest"
+right: Joel
+Wrong: 
+Value: $1000
+Number: 8
+MYTHS & LEGENDS | The Romans worshipped this huntress in a grove south of Rome | Diana
+right: Anne
+Wrong: 
+Value: $1000
+Number: 13
+ART & DESIGN | Ludwig Mies Van Der Rohe & Philip Johnson designed this NYC skyscraper named for a liquor company | Seagram's Building/Tower
+right: Ed
+Wrong: 
+Value: $1000
+Number: 28
+Scores at the end of the Double Jeopardy! Round:
+Joel: $3,700
+Anne: $5,700
+Ed: $7,700
+
+Final Jeopardy! Round
+MONEY | Country whose basic monetary unit is the Balboa | Panama
+right: Ed
+Wrong: 
+Joel: What is Portugal
+Anne: What is Phil....
+Wagers: 
+Joel: $3,700
+Anne: $5,700
+Ed: $3,701
+Final scores:
+Joel: $0 (3rd place: Fredrick Ramond Lamp)
+Anne: $0 (2nd place: Keller Bedroom Furniture)
+Ed: $11,401 (New champion: $11,401)
+
+Coryat scores
+Joel: $3,700 (13 R,2 W)
+Anne: $5,100 (10 R(including 1 DD),1 W)
+Ed: $8,200 (27 R(including 1 DD),7 W(including 1 DD))

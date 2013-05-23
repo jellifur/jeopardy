@@ -1,0 +1,308 @@
+1333 - Wednesday, May 23, 1990
+Comments: Richard Neale game 2.
+Contestants:
+Kent Rasmussen: an editor and writer originally from Berkeley, California
+Barbara Murray: a chief operations officer from Cardiff, California
+Richard Neale: a taxpayer service representative from Concord, California (whose 1-day cash winnings total $10,000)
+First Jeopardy! Round: HOLIDAYS & OBSERVANCES, QUEBEC, BROADWAY LYRICS, TOYS & GAMES, THE CRUSADES, NAME'S THE SAME
+HOLIDAYS & OBSERVANCES | This holiday is also known as Discovery Day | Columbus Day
+right: Barbara
+Wrong: 
+Value: $100
+Number: 12
+QUEBEC | Quebec is the only province whose civil law is based on the Code Civile of this European country | France
+right: Barbara
+Wrong: 
+Value: $100
+Number: 1
+BROADWAY LYRICS | This song from "The Sound of Music" ends with "Bless my homeland forever" | "Edelweiss"
+right: Richard
+Wrong: 
+Value: $100
+Number: 11
+TOYS & GAMES | If you want to be a wizard on this machine, use a lot of body English & be careful not to tilt | Pinball
+right: Richard
+Wrong: 
+Value: $100
+Number: 4
+THE CRUSADES | At the Council of Clermont in 1095 Urban II proclaimed the 1st Crusade against this group of infidels | Saracens//Muslims
+right: Kent
+Wrong: 
+Value: $100
+Number: 7
+NAME'S THE SAME | The ornithologist who wrote "Birds of the West Indies", or the character Ian Fleming named after him | James Bond
+right: Richard
+Wrong: 
+Value: $100
+Number: 8
+HOLIDAYS & OBSERVANCES | December 21st, Forefathers' Day, commemorates the 1620 landing here | Plymouth
+right: Richard
+Wrong: 
+Value: $200
+Number: 18
+QUEBEC | You can see Canadian soldiers in British uniforms march to French music in this city's Citadel | Quebec City
+right: Richard
+Wrong: 
+Value: $200
+Number: 2
+BROADWAY LYRICS | "Holding one note was" his "ace" | Johnny One Note
+right: Richard
+Wrong: 
+Value: $200
+Number: 21
+TOYS & GAMES | Board game with 225 spaces & 100 tiles | Scrabble
+right: Richard
+Wrong: 
+Value: $200
+Number: 10
+THE CRUSADES | This king of England was a leader of the Third Crusade | Richard I (Richard the Lionhearted)
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 9
+NAME'S THE SAME | The actor who starred in "Rear Window", or the real name of actor Stewart Granger | James Stewart
+right: Kent
+Wrong: 
+Value: $200
+Number: 14
+HOLIDAYS & OBSERVANCES | The only 2 months in which Ash Wednesday can occur | February & March
+right: Richard
+Wrong: 
+Value: $300
+Number: 19
+QUEBEC | 2-week event held in February that includes costume balls, dog-sled & ice-canoe races & parades | Winter Carnival
+right: Barbara
+Wrong: 
+Value: $300
+Number: 3
+BROADWAY LYRICS | "The sweetest sounds I'll ever hear are still inside" this part of me | Head
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 22
+TOYS & GAMES | At the start of a game of checkers, each player has this many pieces | 12
+right: Kent
+Wrong: 
+Value: $300
+Number: 13
+THE CRUSADES | The deadly rivals of the Hospitalers, these knights lent their name to a fictional "saint" | Knights Templar
+right: Barbara
+Wrong: 
+Value: $300
+Number: 25
+NAME'S THE SAME | Latin American pop music style, or a sauce used in Mexican cuisine | Salsa
+right: Richard
+Wrong: 
+Value: $300
+Number: 15
+HOLIDAYS & OBSERVANCES | National Hospital Week honors the birthday of this founder of modern nursing | Florence Nightingale
+right: Kent
+Wrong: 
+Value: $400
+Number: 20
+QUEBEC | Unlike most provinces, Quebec has a separate one of these, La Surete Provinciale Du Quebec | Provincial/State Police
+right: Richard
+Wrong: 
+Value: $400
+Number: 5
+BROADWAY LYRICS | "How are things in" this place?  "Is that willow tree still weeping there?" | Glockamora
+right: Richard
+Wrong: 
+Value: $400
+Number: 23
+THE CRUSADES | In the Fourth Crusade the crusaders plundered this Byzantine capital, a Christian city | Constantinople
+right: Richard
+Wrong: 
+Value: $400
+Number: 26
+NAME'S THE SAME | Actor who played opposite many lovelies in the silents, or actor who has played solo -- Han Solo, that is | Harrison Ford
+right: Kent
+Wrong: 
+Value: $400
+Number: 16
+QUEBEC | This explorer landed on what is now the Gaspe Peninsula in 1534 & claimed it for the French king | Jacques Cartier
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 6
+BROADWAY LYRICS | "It's surely not his brain that makes me thrill, I love him because he's just" this man | My Bill
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+THE CRUSADES | Walter the Penniless & this Peter led early groups of poor peasants into the fray | Peter the Hermit
+right: Richard
+Wrong: 
+Value: $500
+Number: 27
+NAME'S THE SAME | The third largest city in Missouri & Massachusetts | Springfield
+right: Kent
+Wrong: 
+Value: DD: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Richard: $600
+Barbara: $500
+Kent: $200
+Scores at the end of the Jeopardy! Round:
+Richard: $2,400
+Barbara: $500
+Kent: $1,700
+Second Jeopardy! Round: 1960, CLASSICAL MUSIC, THE HUMAN BODY, LITERATURE, WORLD CAPITALS, BETTE DAVIS
+CLASSICAL MUSIC | His Symphony in B Minor wasn't his only unfinished composition -- just the most famous | Franz Schubert
+right: Richard
+Wrong: 
+Value: $200
+Number: 20
+THE HUMAN BODY | The pointed upper teeth near the front of the mouth that are also called "eyeteeth" | Canines
+right: Richard
+Wrong: 
+Value: $200
+Number: 1
+LITERATURE | Ole E. Rolvaag wrote a "Saga Of" it & Laura Ingalls Wilder set a "Little House" on it | The Prairie
+right: Richard
+Wrong: 
+Value: $200
+Number: 14
+WORLD CAPITALS | Simon Bolivar is buried in the National Pantheon in this capital of Venezuela | Caracas
+right: Richard
+Wrong: 
+Value: $200
+Number: 6
+BETTE DAVIS | She was the first woman president of this organization which gives out the Oscars | AMPAS (Academy of Motion Picture Arts & Sciences)
+right: Richard
+Wrong: 
+Value: $200
+Number: 11
+CLASSICAL MUSIC | In 1928 Ida Rubinstein commissioned him to write a ballet, so he created "Bolero" | Maurice Ravel
+right: Richard
+Wrong: 
+Value: $400
+Number: 21
+THE HUMAN BODY | "Gray matter" refers to the brain's nerve cells while its nerve fibers are called "matter" of this color | White
+right: Richard
+Wrong: 
+Value: $400
+Number: 2
+LITERATURE | He wrote about the auto industry in "Wheels" & the airline industry in "Airport" | Arthur Hailey
+right: Richard
+Wrong: 
+Value: $400
+Number: 15
+WORLD CAPITALS | Almost 1/3 of New Zealand's population lives within 100 miles of this city, the nation's first capital | Auckland
+right: Richard
+Wrong: 
+Value: $400
+Number: 7
+BETTE DAVIS | In "Jezebel", Davis shocked New Orleans society by wearing a dress of this color to a ball | Red
+right: Richard
+Wrong: 
+Value: $400
+Number: 12
+1960 | On Jan. 23, 1960 the bathyscaphe Trieste made a record dive to the bottom of this trench | the Marianas Trench
+right: Richard
+Wrong: 
+Value: $600
+Number: 27
+CLASSICAL MUSIC | Early in his career he was the musical director of La Scala; he later led the NBC Symphony | Arturo Toscanini
+right: Richard
+Wrong: 
+Value: $600
+Number: 22
+THE HUMAN BODY | The smallest human muscle is found in these organs | Ears
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+LITERATURE | "Dubliners" is a collection of short stories by this Irish author | James Joyce
+right: Kent
+Wrong: 
+Value: $600
+Number: 16
+WORLD CAPITALS | This Central American capital was destroyed by earthquakes in 1931 & 1972 | Managua, Nicaragua
+right: Richard
+Wrong: 
+Value: DD: $3,400
+Number: 8
+BETTE DAVIS | "All About Eve" was the film in which Davis warned, "Fasten your seatbelts, it's going to be" one of these | "A Bumpy Night"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+1960 | For the 2nd year in a row, Mrs. Aileen Saunders won this trans-continental air race for women | Powder Puff Derby
+right: Richard
+Wrong: 
+Value: $800
+Number: 26
+CLASSICAL MUSIC | Modern composer who was called the world's outstanding specialist on Hungarian folk music | Bela Bartok
+right: 
+Wrong: 
+Value: DD: $4,600
+Number: 23
+THE HUMAN BODY | A natural pain-killer, this "oxygenous morphine" is released by the brain during body stress | Endorphin
+right: Barbara
+Wrong: 
+Value: $800
+Number: 4
+LITERATURE | In an 1854 poem Tennyson asked her to "Come Into The Garden" | Maud
+right: Richard
+Wrong: 
+Value: $800
+Number: 17
+WORLD CAPITALS | This suburb of Manila was the official capital of the Philippines from 1948-1976 | Quezon City
+right: Richard
+Wrong: 
+Value: $800
+Number: 9
+BETTE DAVIS | The scary 1962 film in which Davis sang, "I've written a letter to Daddy" | Whatever Happened to Baby Jane?
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+1960 | Naturalist John C. Lilly said in June 1960 that this mammal may have a higher IQ than man | Dolphin
+right: Kent
+Wrong: 
+Value: $1000
+Number: 25
+CLASSICAL MUSIC | The Vale Giulia, The Tritone, The Trevi & one at the Villa Medici were his "Fountains of Rome" | Otto Resphighi
+right: Richard
+Wrong: 
+Value: $1000
+Number: 24
+THE HUMAN BODY | From the Latin word for "fat", it's the technical term for fat tissue | Adipose Tissue
+right: Richard
+Wrong: 
+Value: $1000
+Number: 5
+LITERATURE | This Mississippian, known for her love of the South, won a Pulitzer Prize for "The Optimist's Daughter" | Eudora Welty
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+WORLD CAPITALS | This troubled capital lies 5,890 feet above sea level in the Hindu Kush mountains | Kabul, Afghanistan
+right: Richard
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Richard: $10,200
+Barbara: $700
+Kent: $2,500
+
+Final Jeopardy! Round
+BRITISH HISTORY | The 14th Earl of this was prime minister in 1852; the 12th Earl of this had a race named for him | Earl of Derby
+right: Barbara | Kent | Richard
+Wrong: 
+Wagers: 
+Barbara: $700
+Kent: $1
+Richard: $4,800
+Final scores:
+Richard: $15,000 (2-day champion: $25,000)
+Barbara: $1,400 (3rd place: "Violets" Lithograph)
+Kent: $2,501 (2nd place: Head Start 3 Desktop Computer)
+
+Coryat scores
+Richard: $12,000 (32 R(including 1 DD),4 W(including 1 DD))
+Barbara: $700 (5 R,2 W)
+Kent: $2,500 (8 R(including 1 DD),2 W)

@@ -1,0 +1,331 @@
+6051 - Monday, December 27, 2010
+Contestants:
+Ryan Vogt: a video game reviewer originally from San Antonio, Texas
+Andrea Barnes: a stay-at-home mom from Johnstown, Pennsylvania
+Marissa Goldsmith: a web developer from Springfield, Virginia (whose 1-day cash winnings total $6,000)
+First Jeopardy! Round: ALL ABOUT STEVE, ELVIS, NEBRASKA, A BIT CONSERVATIVE, CIVIL WAR DIARY, "POWER" LIFTING
+ALL ABOUT STEVE | During a 6-month leave of absence from Apple in 2009, he underwent a liver transplant | Steve Jobs
+right: Andrea
+Wrong: 
+Value: $200
+Number: 1
+ELVIS | In 1962 the Everly Brothers were "Crying In The Rain" & 3 years later Elvis was "Crying" here | "Crying In The Chapel"
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 15
+NEBRASKA | Made famous by "The Sound of Music", in the '50s this family of singers performed often at Omaha's Duchesne Academy | the von Trapps
+right: Ryan
+Wrong: 
+Value: $200
+Number: 26
+A BIT CONSERVATIVE | In most Orthodox synagogues these are separated; in Conservative synagogues they are not | men and women
+right: Marissa
+Wrong: 
+Value: $200
+Number: 6
+CIVIL WAR DIARY | Dec. 20, 1860: Privy to a special convention in this state. Looks like they're gonna be the first to secede | South Carolina
+right: Ryan
+Wrong: 
+Value: $200
+Number: 11
+"POWER" LIFTING | The ability to refrain from eating that big slice of chocolate cake while on a diet | willpower
+right: Andrea
+Wrong: 
+Value: $200
+Number: 21
+ALL ABOUT STEVE | In "The Joker" he sang, "Some people call me Maurice, 'cause I speak of the pompatus of love" | Steve Miller
+right: Ryan
+Wrong: 
+Value: $400
+Number: 2
+ELVIS | Elvis' 1956 gig at the New Frontier hotel in this city was badly received & cut short; it was a different story in 1969 | Las Vegas
+right: Marissa
+Wrong: 
+Value: $400
+Number: 16
+NEBRASKA | Central City hosts a competition in this harvesting activity, which harkens back to pioneer farming methods | cornhusking
+right: 
+Wrong: Triple Stumper
+Ryan: What is quilting?
+Value: $400
+Number: 27
+A BIT CONSERVATIVE | Appropriately, this prez was the first inductee into the National Wildlife Federation's Conservation Hall of Fame | Teddy Roosevelt
+right: Marissa
+Wrong: 
+Value: $400
+Number: 7
+CIVIL WAR DIARY | Feb. 18, 1861: Dear Diary: At Montgomery for his inaugural. Ate some mighty fine hush puppies... | Jeff Davis
+right: Marissa
+Wrong: 
+Value: $400
+Number: 12
+"POWER" LIFTING | A nation with the ability to exert its influence worldwide; some say the U.S. is the only one now | a superpower
+right: Andrea
+Wrong: 
+Marissa: What is a world power?
+Value: $400
+Number: 22
+ALL ABOUT STEVE | This quarterback was NFL MVP in 1992 & 1994 | Steve Young
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+ELVIS | Affer his army discharge in 1960, Elvis appeared on this crooner's TV special along with the crooner's daughter Nancy | Frank Sinatra
+right: Marissa
+Wrong: 
+Value: $600
+Number: 18
+NEBRASKA | In 1882 this Dublin-born wit was paid a whopping $250 to give a speech in Omaha | Oscar Wilde
+right: Andrea
+Wrong: 
+Value: $600
+Number: 28
+A BIT CONSERVATIVE | This 2-word term for political conservatives comes from where they sat in the French Parliament in 1789 | right wing
+right: Marissa
+Wrong: 
+Value: DD: $1,200
+Number: 8
+CIVIL WAR DIARY | June 28, 1863: Heard Meade is the latest in a long line of heads of the army of this river. I'd love some mead... | the army of the Potomac
+right: Marissa
+Wrong: 
+Value: $600
+Number: 13
+"POWER" LIFTING | Popular business presentation program from Microsoft | Power Point
+right: Ryan
+Wrong: 
+Value: $600
+Number: 23
+ALL ABOUT STEVE | He's editor-in-chief of the USA's leading business magazine & also writes a column for it called "Fact and Comment" | Forbes
+right: Marissa
+Wrong: 
+Value: $800
+Number: 4
+ELVIS | Elvis made his 1956 screen test singing this Carl Perkins hit & performing a scene from "The Rainmaker" | "Blue Suede Shoes"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+A BIT CONSERVATIVE | Man-made Lake Powell on this river is named for early conservationist John Wesley Powell | the Colorado River
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+CIVIL WAR DIARY | July 1, 1863: Good news, get to keep leg; bad news, I'm going to Cemetery Ridge for this Penn. battle | Gettysburg
+right: Andrea
+Wrong: 
+Value: $800
+Number: 14
+"POWER" LIFTING | 2-word name for the heavy metal staple heard here; rock on! | power chord
+right: 
+Wrong: Triple Stumper
+Ryan: What is power metal
+Value: $800
+Number: 24
+ALL ABOUT STEVE | In 2005 he became the first person to fly solo around the world in an airplane without stopping to refuel | Steve Fossett
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+ELVIS | Elvis' first film, it co-starred Debra Paget & Richard Egan & was the only film in which he did not receive top billing | Love Me Tender
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+A BIT CONSERVATIVE | This term for a member of Britain's Conservative Party comes from the old Irish for "outlaw" | a Tory
+right: Marissa
+Wrong: 
+Value: $1000
+Number: 10
+CIVIL WAR DIARY | Aug. 5, 1864: At the battle of this city's bay, I heard a Union admiral curse torpedoes. He sounded mad | Mobile (Bay)
+right: Andrea
+Wrong: 
+Value: $1000
+Number: 17
+"POWER" LIFTING | This document allows one person to act as the legal representative of another | power of attorney
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Marissa: $4,600
+Andrea: $1,000
+Ryan: $600
+Scores at the end of the Jeopardy! Round:
+Marissa: $5,200
+Andrea: $3,200
+Ryan: $1,200
+Second Jeopardy! Round: PLACES IN THE BIBLE, MOVIE NAMES, THE RAT PACK, PLAY PENNERS, 5-LETTER WORDS, THE NATIONAL MUSEUM OF THE AMERICAN INDIAN
+PLACES IN THE BIBLE | In Genesis 13 Lot chose this city as his residence; his wife would come to regret that real estate choice | Sodom
+right: Ryan
+Wrong: 
+Value: $400
+Number: 1
+MOVIE NAMES | Madonna in the title role: "Desperately Seeking ____" | Susan
+right: Marissa
+Wrong: 
+Value: $400
+Number: 6
+THE RAT PACK | Cloud rats, including the Luzon bushy-tailed species, are found only in this country's forests | The Philippines
+right: Marissa
+Wrong: 
+Ryan: What is Brazil?
+Value: $400
+Number: 11
+PLAY PENNERS | In 1956 this "Crucible" writer refused to name names before HUAC & was convicted of contempt; he appealed & won | Arthur Miller
+right: Marissa
+Wrong: 
+Value: $400
+Number: 19
+5-LETTER WORDS | Fortuitous, like Mr. Luciano | Lucky
+right: Marissa
+Wrong: 
+Value: $400
+Number: 21
+THE NATIONAL MUSEUM OF THE AMERICAN INDIAN | (<http://www.j-archive.com/media/2010-12-27_DJ_29.jpg> Sarah of the Clue Crew stands near a sculpture)  Washington holds a wampum belt in this work honoring the Oneida who traveled 400 miles in the winter of 1777-78 to bring food to the starving men at this site | Valley Forge
+right: Andrea
+Wrong: 
+Value: $400
+Number: 29
+PLACES IN THE BIBLE | John 1:46 asks whether any good thing can come out of this town in Galilee in northern Israel; we can think of 1 | Nazareth
+right: Ryan
+Wrong: 
+Value: $800
+Number: 2
+MOVIE NAMES | Co-starring Tina Turner: "Mad ____ Beyond Thunderdome" | Mad Max
+right: Marissa
+Wrong: 
+Value: $800
+Number: 7
+THE RAT PACK | "Marsupial" name of North American desert rats distinguished by short forelimbs & very long hind legs | kangaroo
+right: Marissa
+Wrong: 
+Value: $800
+Number: 12
+PLAY PENNERS | His 1977 play "Vieux Carre" dealt with down-&-outs in New Orleans; sound familiar? | Tennessee Williams
+right: Marissa
+Wrong: 
+Value: $800
+Number: 18
+5-LETTER WORDS | 1570's "Epitome of the Theatre of the World" was an early one of these books | an atlas
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+THE NATIONAL MUSEUM OF THE AMERICAN INDIAN | (<http://www.j-archive.com/media/2010-12-27_DJ_27.jpg> Sarah of the Clue Crew stands by a bas-relief)  The figures in the middle of this sculpture acknowledge life in all directions, while the tribal dancers on either end pray for this, which is essential for life | water
+right: Marissa
+Wrong: 
+Value: $800
+Number: 27
+PLACES IN THE BIBLE | (<http://www.j-archive.com/media/2010-12-27_DJ_03.jpg> Alex overlooks Jerusalem from a hillside) This Mount, overlooking Jerusalem, appears often in the Bible, as in the end of days in Zachariah, when the Lord fights against the nations, and his feet shall stand upon it | the Mount of Olives
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+MOVIE NAMES | Morgan Freeman is God (2003): "____ Almighty" | Bruce
+right: Andrea
+Wrong: 
+Marissa: What is Evan?
+Value: $1200
+Number: 8
+THE RAT PACK | The short-limbed chinchilla rat is native to this continent | South America
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 13
+PLAY PENNERS | No meddlesome priest, he wrote "Endgame" in 1957; don't keep me waiting | Samuel Beckett
+right: Ryan
+Wrong: 
+Value: $1200
+Number: 16
+5-LETTER WORDS | A column of smoke, or a feather | a plume
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 23
+THE NATIONAL MUSEUM OF THE AMERICAN INDIAN | (<http://www.j-archive.com/media/2010-12-27_DJ_26.jpg> Sarah of the Clue Crew stands by a sculpture)  In a Native American origin story of this fish, two animals steal a baby of the Sockeye people. The Sockeye find the baby in a river, which becomes their home | salmon
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 26
+PLACES IN THE BIBLE | "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of" this place | Ararat
+right: Andrea
+Wrong: 
+Value: $1600
+Number: 4
+MOVIE NAMES | A Tom Hanks/ Meg Ryan pairing: "____ Versus the Volcano" | Joe
+right: Andrea
+Wrong: 
+Value: $1600
+Number: 9
+THE RAT PACK | With eyes hidden beneath its fur, the burrowing Zokor of Asia is known as this rat, after another "blind" animal | a mole
+right: Ryan
+Wrong: 
+Marissa: What is a bat?
+Value: $1600
+Number: 14
+PLAY PENNERS | This Irishman wrote 5 novels but none was successful; the over 50 plays during his career turned out better | George Bernard Shaw
+right: 
+Wrong: 
+Ryan: Who is ... Thornton Wilder?
+Value: DD: $4,000
+Number: 17
+5-LETTER WORDS | To cut up into small parts, or to walk with small, dainty steps | mince
+right: Andrea
+Wrong: 
+Value: $1600
+Number: 24
+THE NATIONAL MUSEUM OF THE AMERICAN INDIAN | (<http://www.j-archive.com/media/2010-12-27_DJ_28.jpg> Sarah of the Clue Crew stands under a sculpture)  The raven steals the sun and escapes through a sooty smokehole to get his characteristic color. Those shenanigans are typical of this crafty folklore archetype | a trickster
+right: Andrea
+Wrong: 
+Value: $1600
+Number: 28
+PLACES IN THE BIBLE | Hiel loses 2 sons in 1 Kings, fulfilling the curse Joshua laid on anyone who re-established this walled city | Jericho
+right: Andrea
+Wrong: 
+Value: DD: $400
+Number: 5
+MOVIE NAMES | Josh Duhamel plays the title movie star: "Win a Date with ____ ____!" | Tad Hamilton
+right: Marissa
+Wrong: 
+Value: $2000
+Number: 10
+THE RAT PACK | African cane rats, which can weigh 15 pounds, are serious pests of this root crop from which tapioca is made | cassava
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+PLAY PENNERS | This playwright with a "monthly" name is the only Af.-Amer, dramatist to have a Broadway theatre named in his honor | August Wilson
+right: Andrea
+Wrong: 
+Value: $2000
+Number: 20
+5-LETTER WORDS | Those little prongs on your fork | tines
+right: Marissa
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Marissa: $14,800
+Andrea: $13,600
+Ryan: $800
+
+Final Jeopardy! Round
+LANGUAGES OF EUROPE | A mixture of English & Spanish, Llanito is the language of this territory's 30,000 residents | Gibraltar
+right: Marissa
+Wrong: 
+Ryan: What is #$&#915;
+Andrea: What is Andorra?
+Wagers: 
+Ryan: $792
+Andrea: $1,201
+Marissa: $12,500
+Final scores:
+Marissa: $27,300 (2-day champion: $33,300)
+Andrea: $12,399 (2nd place: $2,000)
+Ryan: $8 (3rd place: $1,000)
+
+Coryat scores
+Marissa: $14,200 (22 R(including 1 DD),3 W)
+Andrea: $15,200 (14 R(including 1 DD),0 W)
+Ryan: $4,800 (9 R,4 W(including 1 DD))

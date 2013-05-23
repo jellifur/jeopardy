@@ -1,0 +1,333 @@
+4321 - Monday, May 19, 2003
+Contestants:
+Jonathan Auyoung: a receiving clerk from Benicia, California
+Mary Boehm: a speech and language pathologist from Albuquerque, New Mexico
+Kay Reimann: an attorney from Pebble Beach, California (whose 1-day cash winnings total $25,000)
+First Jeopardy! Round: THAT'S MY ATTORNEY GENERAL, MERCURIAL, LITERARY LINES, SHATTERING ALLUSIONS, EARNINGS FROM THE CRYPT, HOW ODD!
+THAT'S MY ATTORNEY GENERAL | John Ashcroft | George W. Bush
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 1
+MERCURIAL | The Mercury News bills itself as "The Newspaper of" this California tech area | Silicon Valley
+right: Kay
+Wrong: 
+Mary: What is San Jose?
+Value: $200
+Number: 19
+LITERARY LINES | "This is a story of how a Baggins had an adventure" is a line from Chapter 1 of this novel | "The Hobbit"
+right: Kay
+Wrong: 
+Value: $200
+Number: 14
+SHATTERING ALLUSIONS | A person who can get out of tight situations is one of these, the name of a '20s escape artist | a Houdini
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 24
+EARNINGS FROM THE CRYPT | With $37 million in 1 year, the "King" of the world's top-earning late celebrities is this man | Elvis Presley
+right: Kay
+Wrong: 
+Value: $200
+Number: 7
+HOW ODD! | To make the film "The Sound of Music" shorter, a theater manager in Seoul, South Korea cut all of these out of it | the songs
+right: Kay
+Wrong: 
+Value: $200
+Number: 2
+THAT'S MY ATTORNEY GENERAL | Janet Reno | Bill Clinton
+right: Kay
+Wrong: 
+Value: $400
+Number: 8
+MERCURIAL | In the early '60s this man known as Q became a vice president at Mercury Records | Quincy Jones
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 20
+LITERARY LINES | Completes the concluding line from "Gone With The Wind": "After all..." | "Tomorrow is another day"
+right: Mary
+Wrong: 
+Kay: What is "I still have Tara?"
+Value: $400
+Number: 15
+SHATTERING ALLUSIONS | 2 feuding families can be the Montagues & the Capulets or the Hatfields & these | the McCoys
+right: Mary
+Wrong: 
+Value: $400
+Number: 25
+EARNINGS FROM THE CRYPT | Of the 2 Beatles who qualify for the Forbes list, this man made more with a total of $20 million | John Lennon
+right: Mary
+Wrong: 
+Value: $400
+Number: 10
+HOW ODD! | Reportedly, when Henry Ford built his first automobile, he forgot to put in one of these gears | reverse
+right: Mary
+Wrong: 
+Value: $400
+Number: 3
+THAT'S MY ATTORNEY GENERAL | Robert Kennedy (2 presidents, please) | John F. Kennedy & Lyndon B. Johnson
+right: Mary
+Wrong: 
+Value: $600
+Number: 9
+MERCURIAL | The Mercury is the WNBA team in this city in which the mercury has hit 122 | Phoenix
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 21
+LITERARY LINES | 1954 novel that contains the lines "This is our island.  It's a good island.  Until the grown-ups come to fetch us we'll have fun" | "Lord of the Flies"
+right: Mary
+Wrong: 
+Value: DD: $4,200
+Number: 16
+SHATTERING ALLUSIONS | You may be "read" this; England passed the original one back in 1715 to deal with noisy protests | the riot act
+right: Kay
+Wrong: 
+Value: $600
+Number: 26
+EARNINGS FROM THE CRYPT | The highest-earning late female celebrity is this sex symbol who pulled in $7 million | Marilyn Monroe
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 11
+HOW ODD! | It's the only precious gem composed of only one element | diamond (carbon)
+right: Mary
+Wrong: 
+Value: $600
+Number: 4
+THAT'S MY ATTORNEY GENERAL | Edwin Meese III | Ronald Reagan
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 29
+MERCURIAL | This Mercury astronaut didn't make it into orbit when launched May 5, 1961 | Alan Shepard
+right: Kay
+Wrong: 
+Value: $800
+Number: 22
+LITERARY LINES | "1984" begins, "It was a bright cold day in April, and the clocks were striking" this odd hour | 13
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 17
+SHATTERING ALLUSIONS | The double whammy goes back to Evil-Eye Fleegle, a character in this Al Capp strip | Li'l Abner
+right: Kay
+Wrong: 
+Value: $800
+Number: 27
+EARNINGS FROM THE CRYPT | With $28 million, the number 2-earning late celebrity in the world is this cartoonist | Charles Schulz
+right: Kay
+Wrong: 
+Jonathan: Who is Walt Disney?
+Value: $800
+Number: 12
+HOW ODD! | This insect, the Musca domestica, can become a great-grandmother in only 60 days | common housefly
+right: Mary
+Wrong: 
+Value: $800
+Number: 5
+THAT'S MY ATTORNEY GENERAL | Elliot Richardson | Richard Nixon
+right: Kay
+Wrong: 
+Value: $1000
+Number: 30
+MERCURIAL | The most famous broadcast of "The Mercury Theater on the Air" was this tale about Mars, broadcast October 30, 1938 | "War of the Worlds"
+right: Mary
+Wrong: 
+Value: $1000
+Number: 23
+LITERARY LINES | This 1934 novel begins "Monsieur Van Gogh!  It's time to wake up!" | "Lust for Life"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+SHATTERING ALLUSIONS | Being in the middle of things puts you at this, the point on the surface above the focus of an earthquake | epicenter
+right: Jonathan
+Wrong: 
+Value: $1000
+Number: 28
+EARNINGS FROM THE CRYPT | At $10 million made in a year, this man is certainly the highest-earning late Jamaican on the list | Bob Marley
+right: Kay
+Wrong: 
+Value: $1000
+Number: 13
+HOW ODD! | His name may be erased from your head, but he directed odd movies like "Eraserhead" & "Mulholland Drive" | David Lynch
+right: Mary
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Kay: $2,400
+Mary: $8,400
+Jonathan: $0
+Scores at the end of the Jeopardy! Round:
+Kay: $5,800
+Mary: $9,600
+Jonathan: $3,800
+Second Jeopardy! Round: PHYSICAL SCIENCE, POND CROSSERS, GUINNESS RECORDS, AFRICAN COUNTRIES BY CITIES, SKI YOU AT THE MOVIES, "RH" FACTOR
+PHYSICAL SCIENCE | If a recipe told you to bring carbon to this point, you'd need to raise its temperature to 8,720 degrees | boiling point
+right: Mary
+Wrong: 
+Value: $400
+Number: 7
+POND CROSSERS | Once NYC's chief engineer, Marc Brunel later spent 19 years digging the first tunnel under this British river | Thames
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 6
+GUINNESS RECORDS | Tish, one of these won by a British couple at a fair in 1956, swam happily in its bowl for a record 43 years | goldfish
+right: Mary
+Wrong: 
+Value: $400
+Number: 13
+AFRICAN COUNTRIES BY CITIES | Zagazig,  Memphis, Aswan | Egypt
+right: Kay
+Wrong: 
+Value: $400
+Number: 23
+SKI YOU AT THE MOVIES | This actor who owns his own ski resort did much of his own skiing in the 1969 film "Downhill Racer" | Robert Redford
+right: Kay
+Wrong: 
+Value: $400
+Number: 16
+"RH" FACTOR | The African species of this mammal are either hook-lipped or square-lipped | rhinoceros
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 1
+PHYSICAL SCIENCE | A 1992 experiment using surface tension on polished silicon got water to defy physics by doing this | to go up
+right: Kay
+Wrong: 
+Value: $800
+Number: 8
+POND CROSSERS | In the 1820s American publishers ignored his bird drawings, so he took them to England | John James Audubon
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 9
+GUINNESS RECORDS | Though its name is only 3 letters long, it's the biggest retail fashion chain | Gap
+right: Kay
+Wrong: 
+Value: $800
+Number: 14
+AFRICAN COUNTRIES BY CITIES | Kimberley, Humansdorp, Soweto | South Africa
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 24
+SKI YOU AT THE MOVIES | Peter Sellers "Clouseaus" in on jewel thief David Niven at a ski resort in this 1964 film | The Pink Panther
+right: Mary
+Wrong: 
+Value: $800
+Number: 17
+"RH" FACTOR | This island 12 miles off the coast of Turkey was the site of one of the 7 Wonders of the Ancient World | Rhodes (the Colossus)
+right: Mary
+Wrong: 
+Value: $800
+Number: 2
+PHYSICAL SCIENCE | This field is measured in nanoteslas -- it's about 60,000 nanoteslas at the poles & 30,000 at the equator | Earth's magnetic field
+right: Jonathan
+Wrong: 
+Value: DD: $5,000
+Number: 10
+GUINNESS RECORDS | In this 1996 film Madonna went through a record 85 costume changes | Evita
+right: Kay
+Wrong: 
+Value: DD: $7,400
+Number: 15
+AFRICAN COUNTRIES BY CITIES | Tangier, Meknes, Casablanca | Morocco
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 25
+SKI YOU AT THE MOVIES | An Oscar-winning documentary profiled Yuichiro Miura, "The Man Who Skied Down" this mountain | Mount Everest
+right: Kay
+Wrong: 
+Mary: What is Mount Fuji?
+Value: $1200
+Number: 18
+"RH" FACTOR | From the Greek for "orator", it's the art of using language effectively & persuasively | rhetoric
+right: Mary
+Wrong: 
+Value: $1200
+Number: 3
+PHYSICAL SCIENCE | In 1925 Wolfgang Pauli stated his exclusion principle -- no 2 of these particles in an atom can be in the same state | electrons
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 11
+GUINNESS RECORDS | Guinness lists this product line as the most successful portable music system | Sony Walkman
+right: Mary
+Wrong: 
+Value: $1600
+Number: 21
+AFRICAN COUNTRIES BY CITIES | Malindi, Machakos, Mombasa | Kenya
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 26
+SKI YOU AT THE MOVIES | In a 1969 film, Dean Martin's daughter Claudia & this star of "Adam-12" got "Ski Fever" | Martin Milner
+right: Kay
+Wrong: 
+Value: $1600
+Number: 19
+"RH" FACTOR | In 1910 this future South Korean president became the first Korean to earn a Ph.D. from an American university | Syngman Rhee
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 4
+PHYSICAL SCIENCE | Its formula is H2S & it smells like rotten eggs | hydrogen sulfide
+right: 
+Wrong: Triple Stumper
+Mary: What is sulfur hydroxide?
+Value: $2000
+Number: 12
+POND CROSSERS | This last name of British lord Jeffrey, who captured Montreal, is on a Massachusetts college | Amherst
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+GUINNESS RECORDS | Alan Whitworth figures when he's done in 2007, his sketch of this fortification in England will be 73 miles long | Hadrian's Wall
+right: Kay
+Wrong: 
+Value: $2000
+Number: 22
+AFRICAN COUNTRIES BY CITIES | Tobruk, Benghazi, As-Sidrah | Libya
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+SKI YOU AT THE MOVIES | (Sarah of the Clue Crew at a ski resort in Colorado)  I've wanted to go skiing ever since I saw Audrey Hepburn meet Cary Grant at a ski resort in this classic 1963 caper | Charade
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+"RH" FACTOR | Irises have this horizontal, underground stem which produces shoots & roots of a new plant | rhizome
+right: Mary
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Kay: $20,400
+Mary: $13,600
+Jonathan: $15,600
+
+Final Jeopardy! Round
+AWARDS | The organization that sponsored the Stage Door Canteens during WWII is now known for these annual awards | Tony Awards
+right: Jonathan | Kay
+Wrong: 
+Mary: What are Bob Hope Humanitarian
+Wagers: 
+Mary: $13,599
+Jonathan: $13,600
+Kay: $10,801
+Final scores:
+Kay: $31,201 (2-day champion: $56,201)
+Mary: $1 (3rd place: $1,000)
+Jonathan: $29,200 (2nd place: $2,000)
+
+Coryat scores
+Kay: $14,200 (19 R(including 1 DD),1 W)
+Mary: $10,000 (17 R(including 1 DD),3 W)
+Jonathan: $11,800 (16 R(including 1 DD),1 W)

@@ -1,0 +1,346 @@
+4490 - Friday, February 27, 2004
+Contestants:
+Gay Hammond: a college instructor from Gainesville, Georgia
+Jeff Trumbower: a college professor from Jericho, Vermont
+Patrick Macaraeg: a software engineer from Largo, Florida (whose 1-day cash winnings total $24,600)
+First Jeopardy! Round: U.S. BODIES OF WATER, "M"USIC, GARDENING, FAREWELL TO THE CHIEF, PAUL OF FAME, DON'T LOSE YOUR TRAIN OF THOUGHT
+U.S. BODIES OF WATER | Green Bay in Wisconsin is the largest arm of this Great Lake | Lake Michigan
+right: Patrick
+Wrong: 
+Value: $200
+Number: 13
+"M"USIC | In 2003 she released her tenth studio album, "American Life" | Madonna
+right: Patrick
+Wrong: 
+Value: $200
+Number: 3
+GARDENING | It's a small area of ground planted with flowers, but one may also hold oysters or sleepers | bed
+right: Patrick
+Wrong: 
+Value: $200
+Number: 26
+FAREWELL TO THE CHIEF | December 14, 1799 at his home in Virginia | (George) Washington
+right: Patrick
+Wrong: 
+Value: $200
+Number: 1
+PAUL OF FAME | In April 1990 he played live to a world record 184,000 people at Rio de Janeiro's Maracana Stadium | Paul McCartney
+right: Jeff
+Wrong: 
+Gay: Who is Paul Simon?
+Value: $200
+Number: 8
+DON'T LOSE YOUR TRAIN OF THOUGHT | Platfprm 9 3/4 at King's Cross Station in this city is the place where Harry Potter boards the train to Hogwarts | London
+right: Jeff
+Wrong: 
+Value: $200
+Number: 21
+U.S. BODIES OF WATER | Now hear this -- Washington state's Whidbey Island is one of many in this inlet | Puget Sound
+right: Patrick
+Wrong: 
+Value: $400
+Number: 14
+"M"USIC | (Hi, I'm Pam Tillis)  Maybe it was this Tennessee city that was mentioned in the title of my 1992 hit; in fact I'm sure of it | Memphis
+right: Patrick
+Wrong: 
+Value: $400
+Number: 7
+GARDENING | You propagate this pungent plant by dividing the compound bulbs into individual cloves | garlic
+right: Jeff
+Wrong: 
+Value: $400
+Number: 27
+FAREWELL TO THE CHIEF | July 4, 1826 | John Adams or Thomas Jefferson
+right: Gay
+Wrong: 
+Value: $400
+Number: 2
+PAUL OF FAME | This over 140-year-old winery promised, "We Will Sell No Wine Before Its Time" | Paul Masson
+right: Jeff
+Wrong: 
+Value: $400
+Number: 9
+DON'T LOSE YOUR TRAIN OF THOUGHT | The Grand Traverse Dinner Train specializes in tours of this duration, so let's invite Gilligan | 3 hours
+right: Patrick
+Wrong: 
+Value: $400
+Number: 22
+U.S. BODIES OF WATER | The south shore of this lake forms the northern boundary of New Orleans | Lake Pontchartrain
+right: Jeff
+Wrong: 
+Value: $600
+Number: 15
+"M"USIC | It's the last name of horn-playing brothers Branford & Wynton | Marsalis
+right: Patrick
+Wrong: 
+Value: $600
+Number: 18
+GARDENING | A wise tip from the "Wise Garden Encyclopedia" is: never prune evergreens during this season | winter
+right: Jeff
+Wrong: 
+Value: $600
+Number: 28
+FAREWELL TO THE CHIEF | December 26, 1972 in Kansas City, Missouri | (Harry) Truman
+right: Patrick
+Wrong: 
+Value: $600
+Number: 4
+PAUL OF FAME | The 1966 Bardahl Eagle, seen here, was used in the auto racing movie "Winning", starring this man | Paul Newman
+right: Patrick
+Wrong: 
+Value: $600
+Number: 10
+DON'T LOSE YOUR TRAIN OF THOUGHT | The Lookout Mountain Incline Railway, one of the world's steepest, starts in this "Choo Choo" city | Chattanooga
+right: Jeff
+Wrong: 
+Value: $600
+Number: 23
+U.S. BODIES OF WATER | This river that flows into Boston Harbor is the longest river entirely within Massachusetts | the Charles
+right: Patrick
+Wrong: 
+Value: $800
+Number: 16
+"M"USIC | Go a little crazy with this band heard here | Madness
+right: Patrick
+Wrong: 
+Value: $800
+Number: 19
+GARDENING | The Popilla japonica or Japanese this eats the roots of plants as a grub & the flowers as an adult | beetle
+right: Gay
+Wrong: 
+Value: $800
+Number: 29
+FAREWELL TO THE CHIEF | August 2, 1923 in San Francisco, California | (Warren G.) Harding
+right: Patrick
+Wrong: 
+Value: $800
+Number: 5
+PAUL OF FAME | This U.S. senator from Illinois had a penchant for bowties | Paul Simon
+right: Jeff
+Wrong: 
+Value: $800
+Number: 11
+DON'T LOSE YOUR TRAIN OF THOUGHT | In 1912 Henry Flagler rode the first train that linked the U.S. mainland to this, the southernmost city in Florida | Key West
+right: Patrick
+Wrong: 
+Value: $800
+Number: 24
+U.S. BODIES OF WATER | This 2- to 10-mile-wide bay separates Miami from Miami Beach | Biscayne Bay
+right: Patrick
+Wrong: 
+Value: DD: $1,000
+Number: 17
+"M"USIC | This group that sang about the "Boy From New York City" is named for a John Dos Passos novel | the Manhattan Transfer
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 20
+GARDENING | The maidenhair fern reproduces by these, not seeds | spores
+right: Gay
+Wrong: 
+Value: $1000
+Number: 30
+FAREWELL TO THE CHIEF | His ride ended on January 6, 1919 in Oyster Bay, New York | Teddy Roosevelt
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 6
+PAUL OF FAME | A work by this influential Frenchman is seen here | Paul Cezanne
+right: Jeff
+Wrong: 
+Gay: Who is Paul Gauguin?
+Value: $1000
+Number: 12
+DON'T LOSE YOUR TRAIN OF THOUGHT | After touring the Coors Brewing Company, you may want to visit the Colorado Railroad Museum in this city | Golden
+right: Patrick
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Patrick: $3,400
+Jeff: $4,000
+Gay: -$800
+Scores at the end of the Jeopardy! Round:
+Patrick: $10,000
+Jeff: $5,800
+Gay: $1,000
+Second Jeopardy! Round: GEOLOGY, THEIR FIRST FEATURE FILMS, A MATTER OF TASTE, OTHER SIDE OF THE WORLD LEADERS, WHAT A TOOL, IT'S A ZOO IN HERE!
+GEOLOGY | Around 132 A.D. Chinese scientist Chang Heng invented an early form of this earthquake detector | seismograph
+right: Patrick
+Wrong: 
+Value: $400
+Number: 26
+THEIR FIRST FEATURE FILMS | June Lockhart debuted as a Cratchit child in this 1938 film, with her real parents playing Mr. & Mrs. Bob Cratchit | A Christmas Carol
+right: Jeff
+Wrong: 
+Value: $400
+Number: 1
+A MATTER OF TASTE | The item seen here, or the taste it might have if made with lemons | tart
+right: Gay
+Wrong: 
+Value: $400
+Number: 13
+OTHER SIDE OF THE WORLD LEADERS | In 1899 future South Africa P.M. Louis Botha & his forces took this future British P.M., then a journalist, as prisoner | Winston Churchill
+right: Jeff
+Wrong: 
+Value: $400
+Number: 2
+WHAT A TOOL | Its splayed prongs at the end of a long handle make piling up leaves a snap | rake
+right: Jeff
+Wrong: 
+Value: $400
+Number: 21
+IT'S A ZOO IN HERE! | Prior to meaning a football, it was slang for a saddle | pigskin
+right: Patrick
+Wrong: 
+Value: $400
+Number: 8
+GEOLOGY | One of the world's busiest geyser areas lies in a lava field near this Icelandic capital | Reykjavik
+right: Patrick
+Wrong: 
+Value: $800
+Number: 27
+THEIR FIRST FEATURE FILMS | This "American Beauty" star stole into films as the guy who robs Meryl Streep's therapy group in "Heartburn" | Kevin Spacey
+right: Gay
+Wrong: 
+Value: $800
+Number: 4
+A MATTER OF TASTE | Cacao beans, the source of chocolate, aren't sweet -- they contain this bitter, popular stimulant | caffeine
+right: Patrick
+Wrong: 
+Value: $800
+Number: 14
+OTHER SIDE OF THE WORLD LEADERS | Ptolemy I's improvements to this city included a library, a museum & a lighthouse | Alexandria
+right: Patrick
+Wrong: 
+Value: $800
+Number: 3
+WHAT A TOOL | It's the type of screwdriver with a cross-shaped tip | Phillips
+right: Patrick
+Wrong: 
+Value: $800
+Number: 22
+IT'S A ZOO IN HERE! | Watt fixed this unit of measure to indicate the strength of his steam engine | horsepower
+right: Patrick
+Wrong: 
+Value: DD: $800
+Number: 9
+GEOLOGY | In the science of geology, petrographers are concerned with classifying these | rocks
+right: 
+Wrong: Triple Stumper
+Jeff: What are writings...petroglyphs?
+Value: $1200
+Number: 28
+THEIR FIRST FEATURE FILMS | Tommy Lee Jones, who played football at Harvard, debuted as a Harvard pal of Ryan O'Neal's in this film | Love Story
+right: Patrick
+Wrong: 
+Value: $1200
+Number: 5
+A MATTER OF TASTE | 1 of the 3 zesty ingredients of the original Tabasco brand sauce | (1 of 3) aged red peppers, Avery Island salt or vinegar
+right: 
+Wrong: Triple Stumper
+Jeff: What are jalapenos...jalapeno peppers?
+Value: $1200
+Number: 18
+OTHER SIDE OF THE WORLD LEADERS | That Great Wall thing didn't work; this warrior's forces crossed it & went on to sack Peking in 1215 | Genghis Khan
+right: Patrick
+Wrong: 
+Value: DD: $1,200
+Number: 15
+WHAT A TOOL | Used for shaping wood surfaces, it has a steel edge that extends through its flat bottom | the plane
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+IT'S A ZOO IN HERE! | It's a pit dug on a battlefield that's only big enough to hold a couple of soldiers | foxhole
+right: Gay
+Wrong: 
+Value: $1200
+Number: 10
+GEOLOGY | In 2003 it was located at 82 degrees north latitude, 112 degrees west longitude near Ellef Ringness Island | the Magnetic North Pole
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+THEIR FIRST FEATURE FILMS | Ann Jillian played Bo Peep in her debut, this Disney movie musical based on a Victor Herbert operetta | Babes in Toyland
+right: Gay
+Wrong: 
+Value: $1600
+Number: 6
+A MATTER OF TASTE | Despite the name of this brand of spread, chef Anthony Bourdain says, "I can" | I Can't Believe It's Not Butter
+right: Jeff
+Wrong: 
+Gay: What is I Can't Believe It's Butter?
+Value: $1600
+Number: 19
+OTHER SIDE OF THE WORLD LEADERS | In 1928 the empress Zauditu crowned this man king of Ethiopia | Haile Selassie
+right: Jeff
+Wrong: 
+Value: $1600
+Number: 16
+WHAT A TOOL | From the Old English nafogar, it's a boring tool | auger
+right: 
+Wrong: Triple Stumper
+Jeff: What is an awl?
+Value: $1600
+Number: 24
+IT'S A ZOO IN HERE! | It's a bovine term for a sharp bend in a river | ox-bow
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 11
+GEOLOGY | (Sarah of the Clue Crew)  The glaciers here in Alaska are remnants of the last Ice Age, which ended about 11,500 years ago during this epoch | the Pleistocene
+right: Jeff
+Wrong: 
+Value: $2000
+Number: 30
+THEIR FIRST FEATURE FILMS | Audiences have had "A Fine Romance" with this British dame since she debuted in "The Third Secret" | Judi Dench
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 7
+A MATTER OF TASTE | Wine-tasting term for the final impression left on the palate -- it's supposed to be "long" | the finish
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+OTHER SIDE OF THE WORLD LEADERS | This great ruler of the Persian Empire got the job in part by exposing an imposter claiming to be Smerdis | Darius
+right: Jeff
+Wrong: 
+Gay: Who is Alexander?
+Value: $2000
+Number: 17
+WHAT A TOOL | (Jimmy of the Clue Crew in Alaska)  Use an axe to fell a tree, but to carve a totem pole, you need this tool that also starts with "A" | adze
+right: Jeff
+Wrong: 
+Value: $2000
+Number: 25
+IT'S A ZOO IN HERE! | To treat someone like a celebrity (it sounds like an Eagles hit) | lionize
+right: 
+Wrong: Triple Stumper
+Jeff: What is to fawn?
+Value: $2000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Patrick: $17,200
+Jeff: $10,200
+Gay: $1,400
+
+Final Jeopardy! Round
+AMERICAN SLANG | This term for a small, out-of-the-way town is also the name of a long-gone Algonquian Indian tribe | Podunk
+right: Jeff | Patrick
+Wrong: 
+Gay: What is Boondock
+Wagers: 
+Gay: $1,300
+Jeff: $10,200
+Patrick: $3,201
+Final scores:
+Patrick: $20,401 (2-day champion: $45,001)
+Jeff: $20,400 (2nd place: $2,000)
+Gay: $100 (3rd place: $1,000)
+
+Coryat scores
+Patrick: $17,200 (26 R(including 3 DDs),0 W)
+Jeff: $10,200 (18 R,4 W)
+Gay: $1,400 (7 R,4 W)

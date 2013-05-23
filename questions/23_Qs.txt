@@ -1,0 +1,344 @@
+4618 - Wednesday, October 6, 2004
+Comments: Ken Jennings game 51.
+Contestants:
+Bill Carter: a personal fitness trainer from New York, New York
+Kathryn Dorminey: an evaluations analyst from Arlington, Virginia
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 50-day cash winnings total $1,699,700)
+First Jeopardy! Round: GEOGRAPHY "B", TV WEAPONS, A YEN FOR JAPAN, FAMILY MEMBERS, THE CHURCH LADY, ISN'T THAT SPATIAL?
+GEOGRAPHY "B" | The Verrazano-Narrows Bridge links this borough & Staten Island | Brooklyn
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+TV WEAPONS | On "Star Trek" the Bat'leth is a traditional combat sword used by these aliens | Klingons
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+A YEN FOR JAPAN | It's the Japanese version of horseradish | wasabi
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+FAMILY MEMBERS | The family rosaceae includes roses & these fruits, such as Jonathans | apples
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+THE CHURCH LADY | Major General Lorraine Potter was the Air Force's first female one of these religious counselors | chaplains
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+ISN'T THAT SPATIAL? | A multi-unit structure in which the whole building is jointly owned by all the residents | a co-op
+right: Ken
+Wrong: 
+Value: $200
+Number: 30
+GEOGRAPHY "B" | This Missouri city is "the live music show capital of the world" | Branson
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+TV WEAPONS | Agents of this criminal group would laugh at Agent 86 whenever he pulled out his gun shaped like a finger | KAOS
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+A YEN FOR JAPAN | Gichin Funakoshi, an Okinawan master, popularized this martial art in Japan early in the 20th century | karate
+right: Bill
+Wrong: 
+Value: $400
+Number: 7
+FAMILY MEMBERS | It's the scientific name of the only extant species of the primate family Hominidae | Homo sapiens
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+THE CHURCH LADY | The Gnostic Gospels depict this woman as a companion of Jesus & a leader of his disciples | Mary Magdalene
+right: Bill
+Wrong: 
+Value: $400
+Number: 2
+ISN'T THAT SPATIAL? | A set of buildings housing soldiers in a garrison | a barracks
+right: Bill
+Wrong: 
+Value: $400
+Number: 29
+GEOGRAPHY "B" | Zugspitze is the highest point in this mountain range | the Bavarian Alps
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+TV WEAPONS | Because his boss wouldn't let him carry a loaded gun, this bumbling '60s deputy kept one bullet in his shirt pocket | Barney Fife
+right: Ken
+Wrong: 
+Bill: Who is Barney Gumble?
+Value: $600
+Number: 23
+A YEN FOR JAPAN | Japanese warriors believed this, the hara, was the locus of life & character, hence harakiri | the belly (or the stomach)
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+FAMILY MEMBERS | If you're looking at a marimba, you probably can figure out it's in this family of musical instruments | percussion
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+THE CHURCH LADY | Seen <http://www.j-archive.com/media/2004-10-06_J_03.jpg> here, this minister & entertainer helped build the three largest Christian TV networks in the world | Tammy Faye Baker
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+ISN'T THAT SPATIAL? | A single residence divided into 3 units | a triplex
+right: Ken
+Wrong: 
+Value: $600
+Number: 26
+GEOGRAPHY "B" | The Rhodope Mountains & the city of Sofia are in this country | Bulgaria
+right: Kathryn
+Wrong: 
+Value: $800
+Number: 14
+TV WEAPONS | One of the large metal-ringed Chakrams that this title female used could kill a god | Xena (Warrior Princess)
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+A YEN FOR JAPAN | On December 7, 1941 the Japanese also attacked this Marianas island that Spain ceded to the U.S. in 1898 | Guam
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+FAMILY MEMBERS | Portuguese & Catalan are part of this Indo-European language family | the Romance languages
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+THE CHURCH LADY | Known as Sister Aimee, this female evangelist founded L.A.'s Angelus Temple in 1923 | Aimee Semple McPherson
+right: Bill
+Wrong: 
+Value: $800
+Number: 4
+ISN'T THAT SPATIAL? | Especially in the form of a tower with several stories, it's a Buddhist temple with upwardly curving roofs | a pagoda
+right: Ken
+Wrong: 
+Value: DD: $3,600
+Number: 27
+GEOGRAPHY "B" | This sea off the coast of North America is named for Rear Admiral Francis | the Beaufort Sea
+right: 
+Wrong: Triple Stumper
+Kathryn: What is Byrd?
+Value: $1000
+Number: 15
+TV WEAPONS | Yancy Butler as Sara Pezzini wielded this title sword that's a mystical, shape-shifting talisman of power | Witchblade
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+A YEN FOR JAPAN | Japan's top honor is to be awarded "The Order of" this flower | the chrysanthemum
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+FAMILY MEMBERS | Safer antibiotics & penicillin have largely replaced this family of drugs first used in the 1930s | sulfas
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+THE CHURCH LADY | Judges 4 & 5 tell us that this woman was the chief preacher, evangelist & leader of Israel for 40 years | Deborah
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+ISN'T THAT SPATIAL? | Literally French for "house", it often goes into the name of a restaurant | maison
+right: 
+Wrong: Triple Stumper
+Ken: What is chez?
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Ken: $4,800
+Kathryn: -$200
+Bill: $1,600
+Scores at the end of the Jeopardy! Round:
+Ken: $14,200
+Kathryn: -$200
+Bill: $1,400
+Second Jeopardy! Round: WORLD HISTORY, SONG LYRICS, LITERARY PAIRS, FROM A TO E, ART APPRECIATION, OTHER USES FOR ANIMALS
+WORLD HISTORY | In the first Punic War, Rome conquered Corsica, Sardinia & this largest island of the Mediterranean | Sicily
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+SONG LYRICS | "Cheer up Sleepy Jean, oh what can it mean to a daydream believer and..." this | a homecoming queen
+right: Bill
+Wrong: 
+Value: $400
+Number: 5
+LITERARY PAIRS | They "dined on mince and slices of quince which they ate with a runcible spoon" | the Owl & the Pussycat
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+FROM A TO E | When it opened in 1965, it was the world's first completely enclosed sports stadium | the Astrodome
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+ART APPRECIATION | In the 1970s this frizzy-haired singer appeared in the Mike Nichols films "Catch-22" & "Carnal Knowledge" | Art Garfunkel
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 16
+OTHER USES FOR ANIMALS | Join the club, the cricket club, where you swing one of these | a bat
+right: Bill
+Wrong: 
+Value: $400
+Number: 21
+WORLD HISTORY | At a 1943 meeting in this N. African city, FDR & Churchill agreed to an invasion of "the soft underbelly of the Axis" | Casablanca
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+SONG LYRICS | A hit from 1964 suggests that "If you want to know if he loves you so" it's here | in his kiss
+right: Ken
+Wrong: 
+Value: $800
+Number: 6
+LITERARY PAIRS | Introduced by 18th century poet John Byrom, this pair was popularized by Lewis Carroll | Tweedledee & Tweedledum
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+FROM A TO E | It's an amusing yarn or reminiscence; in fact, did I ever tell you about the time... | an anecdote
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+ART APPRECIATION | Some of his famous science-fiction novels include "Rendezvous with Rama" & "Childhood's End" | Arthur C. Clarke
+right: Bill
+Wrong: 
+Value: $800
+Number: 17
+OTHER USES FOR ANIMALS | You can't beat this 9-tailed whip, or maybe you can | a cat-o'-nine-tails
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+WORLD HISTORY | On August 1, 1798 Admiral Nelson delivered a fatal blow to the French fleet near the Rosetta mouth of this river | the Nile
+right: Ken
+Wrong: 
+Value: DD: $4,600
+Number: 3
+SONG LYRICS | This classic from 1969 says, "I feel that ice is slowly melting" | "Here Comes The Sun"
+right: Ken
+Wrong: 
+Value: $1200
+Number: 7
+LITERARY PAIRS | Absurdly enough, Tom Stoppard re-dramatized this Shakespearean duo, old school chums of Hamlet turned spies | Rosencrantz & Guildenstern
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+FROM A TO E | Then there was this time I had to take one of these remedies to counteract a poison | an antidote
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+ART APPRECIATION | In 1953 he had 3 TV shows on air with his name in the titles & in 2001 he was inducted into the Ukulele Hall of Fame | Arthur Godfrey
+right: 
+Wrong: Triple Stumper
+Ken: Who is Art Linkletter?
+Value: $1200
+Number: 18
+OTHER USES FOR ANIMALS | Some find this nut on a violin bow--ribbeting | a frog
+right: Kathryn
+Wrong: 
+Value: $1200
+Number: 23
+WORLD HISTORY | In 1961 this Asian country invaded the small colonies of Daman, Diu & Goa, & defeated the Portuguese | India
+right: Bill
+Wrong: 
+Value: $1600
+Number: 4
+SONG LYRICS | This Alice Cooper tune cheers, "No more pencils, no more books, no more teacher's dirty looks" | "School's Out"
+right: Ken
+Wrong: 
+Value: $1600
+Number: 8
+LITERARY PAIRS | The film title "Eternal Sunshine of the Spotless Mind" comes from a poem about these ill-fated medieval lovers | Heloise & Abelard
+right: Ken
+Wrong: 
+Value: DD: $12,000
+Number: 14
+FROM A TO E | Like the opening in a camera, the main opening in the shell of a mollusk is called this | the aperture
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+ART APPRECIATION | This French poet's stormy friendship with Paul Verlaine almost cost him his life as Verlaine took a shot at him | (Arthur) Rimbaud
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+OTHER USES FOR ANIMALS | Fasten securely to prevent leaking | a seal
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+WORLD HISTORY | In 1530 a statement of faith, or "confession", was issued from this German city named for a Roman Emperor | Augsburg
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+SONG LYRICS | Who could forget this Duran Duran song that begins, "Telegram force and ready, I knew this was a big mistake" | "Union Of The Snake"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 9
+LITERARY PAIRS | These 2 "Royal" characters from "Huck Finn" end up tarred & feathered after their cons go awry | the Duke & the King
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+FROM A TO E | Krazy Glue advises if fingers get stuck together soak them in this solvent, or a nail polish remover that contains it | acetone
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+ART APPRECIATION | In 1917 this man sent a telegram to the German minister in Mexico, with a means for Mexico to reclaim lost Texas lands | (Arthur) Zimmerman
+right: Kathryn
+Wrong: 
+Value: $2000
+Number: 20
+OTHER USES FOR ANIMALS | A hit with the fist or one swallow of liquor | a slug
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ken: $49,200
+Kathryn: $3,400
+Bill: $4,600
+
+Final Jeopardy! Round
+2004 | On Monday, December 13, 3 people designated these will meet in Cheyenne, Wyoming to help decide the world's future | electors
+right: Kathryn
+Wrong: 
+Bill: What ambassadors
+Ken: What are the 3 Stooges
+Wagers: 
+Kathryn: $3,399
+Bill: $2,380
+Ken: $10,800
+Final scores:
+Ken: $38,400 (51-day champion: $1,738,100)
+Kathryn: $6,799 (2nd place: $2,000)
+Bill: $2,220 (3rd place: $1,000)
+
+Coryat scores
+Ken: $32,600 (41 R(including 3 DDs),2 W)
+Kathryn: $3,400 (4 R,1 W)
+Bill: $4,600 (8 R,1 W)

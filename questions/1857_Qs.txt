@@ -1,0 +1,335 @@
+3713 - Wednesday, October 25, 2000
+Contestants:
+Rebecca Fisher: a librarian from Ardencroft, Delaware
+Ken Boulton: a high school teacher from Imperial Beach, California
+Kirsten Edwards: a college student from Chicago, Illinois (whose 2-day cash winnings total $7,500)
+First Jeopardy! Round: THE "MALL", POTTERY BARN, BANANA REPUBLIC, VICTORIA'S SECRETS, MILLERS OUTPOST, THE FOOD COURT
+THE "MALL" | They strike croquet & polo balls | Mallets
+right: Ken
+Wrong: 
+Value: $100
+Number: 1
+POTTERY BARN | It's an oven or a furnace in which pottery is fired | Kiln
+right: Kirsten
+Wrong: 
+Value: $100
+Number: 11
+BANANA REPUBLIC | In 1998 the Cincinnati Enquirer apologized for stealing voice mails from this giant U.S. banana company | Chiquita
+right: Kirsten
+Wrong: 
+Ken: What is Dole?
+Value: $100
+Number: 16
+VICTORIA'S SECRETS | We enjoy our cups of this more when servant John Brown adds whisky to them | Tea
+right: Ken
+Wrong: 
+Value: $100
+Number: 21
+MILLERS OUTPOST | For pioneering work in finance theory, Merton Miller won this prize in Economic Science for 1990 | Nobel Prize
+right: Ken
+Wrong: 
+Value: $100
+Number: 26
+THE FOOD COURT | For lunch, how 'bout a Hawaiian pizza, topped with ham or Canadian bacon & this fruit | Pineapple
+right: Kirsten
+Wrong: 
+Value: $100
+Number: 6
+THE "MALL" | It's the creature seen here [type of duck] | Mallard
+right: Kirsten
+Wrong: 
+Value: $200
+Number: 2
+POTTERY BARN | Majolica, a type of Italian pottery, is named for this Spanish island | Majorca
+right: Kirsten
+Wrong: 
+Value: $200
+Number: 12
+BANANA REPUBLIC | In this country the Chapare region east of La Paz is fertile banana terrain | Bolivia
+right: Ken
+Wrong: 
+Value: $200
+Number: 17
+VICTORIA'S SECRETS | When this London residence is freezing, we'd like to return it to the dukes for whom it's named | Buckingham Palace
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 22
+MILLERS OUTPOST | 18th C. English comedian Josias Miller won lasting comic fame as first gravedigger in this play by Shakespeare | "Hamlet"
+right: Kirsten
+Wrong: 
+Value: $200
+Number: 27
+THE FOOD COURT | If you're in the mood for Mexican fast food, try a gordita or chalupa from this chain | Taco Bell
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 7
+THE "MALL" | Candice Bergen was married to this French director of "Pretty Baby" & "Atlantic City" | Louis Malle
+right: Ken
+Wrong: 
+Value: $300
+Number: 3
+POTTERY BARN | The name of this type of earthenware means "baked earth" in Italian | Terra cotta
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 13
+BANANA REPUBLIC | Bananas are a culinary mainstay in Bahia, an Atlantic coast state in this South American country | Brazil
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 18
+VICTORIA'S SECRETS | We can't forgive our son Edward for his follies that helped kill this man, our husband | Prince Albert
+right: Rebecca
+Wrong: 
+Value: $300
+Number: 23
+MILLERS OUTPOST | Born in Cromarty in this U.K. country in 1802, Hugh Miller did much to arouse public interest in geology | Scotland
+right: Ken
+Wrong: 
+Value: $300
+Number: 28
+THE FOOD COURT | Treat yourself & stop by one of the stores named for the woman seen here [cookie mogul] | Mrs. Fields
+right: Ken
+Wrong: 
+Value: $300
+Number: 8
+THE "MALL" | From the Latin for "hammer", it means flexible or pliable | Malleable
+right: Ken
+Wrong: 
+Value: $400
+Number: 4
+POTTERY BARN | Named for founder Josiah, it's the pottery seen here | Wedgwood
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 14
+BANANA REPUBLIC | Don't confuse this banana-producing nation whose name means "Sunday" with the country on Hispaniola | Dominica
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 19
+VICTORIA'S SECRETS | This country that we fought in the Crimean War deserves a good beating & if we were a man we'd go give it to them | Russia
+right: 
+Wrong: Triple Stumper
+Ken: What is Turkey?
+Value: $400
+Number: 24
+MILLERS OUTPOST | One of the most popular musical comedy actresses of the 1920s, Marilyn Miller appeared in these "follies" in 1918 | Ziegfeld Follies
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 29
+THE FOOD COURT | Stay as long as you want & check out this salad made with apples, celery, walnuts & mayo | Waldorf salad
+right: Kirsten
+Wrong: 
+Value: $400
+Number: 9
+THE "MALL" | This late mountaineer's most famous quote is "Because it is there" | George Mallory
+right: Kirsten
+Wrong: 
+Value: $500
+Number: 5
+POTTERY BARN | Named for founder Josiah, it's the potttery seen here | Spode
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+BANANA REPUBLIC | This country bordering Kenya, Tanzania, Congo & Sudan is one of Africa's leading banana producers | Uganda
+right: 
+Wrong: Triple Stumper
+Ken: What is Ethiopia?
+Value: $500
+Number: 20
+VICTORIA'S SECRETS | When this prime minister kisses our hand, we don't care about his Jewish origins | Benjamin Disraeli
+right: Rebecca
+Wrong: 
+Value: $500
+Number: 25
+MILLERS OUTPOST | In 1919 American lawyer David Hunter Miller helped compose the charter of this international organization | League of Nations
+right: Ken
+Wrong: 
+Value: $500
+Number: 30
+THE FOOD COURT | It may be Greek to you, but it's minced lamb meat, served in a pita & topped with a cucumber-yogurt sauce | Gyro
+right: Kirsten
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Kirsten: $2,000
+Ken: $1,100
+Rebecca: $900
+Scores at the end of the Jeopardy! Round:
+Kirsten: $2,300
+Ken: $1,300
+Rebecca: $1,600
+Second Jeopardy! Round: U.S. CITIES, SOCIAL SCIENCE, SPORTS STATS, HAWTHORNE IN YOUR SIDE, MUSEUMS, MYTHOLOGICAL RHYME TIME
+U.S. CITIES | This city that's home to the Naval Academy was capital of the U.S. in 1783 & 1784 | Annapolis, Maryland
+right: Ken
+Wrong: 
+Value: $200
+Number: 18
+SOCIAL SCIENCE | To Supreme Court watchers, strict construction isn't a building code but a narrow interpretation of this document | Constitution
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 1
+SPORTS STATS | In 1999 Tom Rouen led the NFL with a 46.5-yard average on these | Punts
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+HAWTHORNE IN YOUR SIDE | In this 1850 novel the Reverend Arthur Dimmesdale reveals himself to be the father of Hester Prynne's child, then dies | "The Scarlet Letter"
+right: Kirsten
+Wrong: 
+Value: $200
+Number: 23
+MUSEUMS | In 1903 the Museum of Islamic Art was created from museum displays in this Egyptian city | Cairo
+right: Rebecca
+Wrong: 
+Value: $200
+Number: 6
+U.S. CITIES | Located at the southern tip of San Francisco Bay, it was named by Spanish colonists for St. Joseph | San Jose
+right: Ken
+Wrong: 
+Value: $400
+Number: 19
+SOCIAL SCIENCE | Subjects in the Milgram obedience experiment obediently agreed to administer these to others, who simulated pain | Electric shocks
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 2
+SPORTS STATS | (Hi, I'm Jayson Williams of the NBA.) In '97-'98 I was second in the NBA overall in this category, but first in the offensive type | rebounds
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+HAWTHORNE IN YOUR SIDE | "In token of my appreciation for his genius," Melville wrote, this book "is inscribed to Nathaniel Hawthorne" | "Moby Dick"
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+MUSEUMS | The National Postal Museum of the Smithsonian has exhibits on U.S. stamp history & this service that ran in 1860 & '61 | Pony Express
+right: Rebecca
+Wrong: 
+Value: $400
+Number: 7
+MYTHOLOGICAL RHYME TIME | Jupiter's aromatic spices | Jove's cloves
+right: Kirsten
+Wrong: 
+Value: $400
+Number: 27
+U.S. CITIES | It's the state capital where you can cruise Garth Brooks Blvd., or stroll through Will Rogers Park | Oklahoma City
+right: Ken
+Wrong: 
+Value: DD: $1,500
+Number: 17
+SOCIAL SCIENCE | The 1992 book "Reinventing" this inspired Al Gore to try to do just that | Government
+right: Rebecca
+Wrong: 
+Ken: What is himself?
+Value: $600
+Number: 3
+SPORTS STATS | Robin Roberts has the dubious distinction of allowing more of these, 505, than any other Major League pitcher | Home runs
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+HAWTHORNE IN YOUR SIDE | This novel begins, "Half-way down a by-street of one of our New England towns, stands a rusty wooden house..." | "The House of the Seven Gables"
+right: Ken
+Wrong: 
+Value: DD: $1,500
+Number: 16
+MUSEUMS | This country's Transvaal Museum is noted for such fossilized remains as Australopithecus Africanus | South Africa
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+MYTHOLOGICAL RHYME TIME | Sound repeater's small tropical lizards | Echo's geckos
+right: Kirsten
+Wrong: 
+Value: $600
+Number: 26
+U.S. CITIES | "Health, History, Horses" is the motto of this city in upstate New York | Saratoga Springs
+right: Rebecca
+Wrong: 
+Value: $800
+Number: 20
+SOCIAL SCIENCE | Linguists call the hypothetical ancestor of the Germanic & Romance languages P.I.E., Proto-this | Indo-European
+right: Rebecca
+Wrong: 
+Value: $800
+Number: 4
+SPORTS STATS | In 1938 Sam Snead was the PGA's money leader with $20,000; in 1998 it was this alliterative golfer with $2.6 million | David Duval
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+MUSEUMS | The Grande Galerie is the main picture gallery of this museum which is housed is one of the world's largest palaces | The Louvre
+right: 
+Wrong: Triple Stumper
+Kirsten: What is the Hermitage?
+Ken: What are the Tuileries?
+Value: $800
+Number: 9
+MYTHOLOGICAL RHYME TIME | Rainbow goddess' disease-spreading particles | Iris's viruses
+right: Rebecca
+Wrong: 
+Value: $800
+Number: 25
+U.S. CITIES | (Hi, I'm Kristoff St. John of "The Young and the Restless") For many years, this Connecticut city where I grew up was the winter headquarters for the Barnum & Bailey Circus | Bridgeport
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+SOCIAL SCIENCE | 17-letter word for one whose studies may cover the Scottish bagpipes & the Indian tabla | Ethnomusicologist
+right: Rebecca
+Wrong: 
+Value: $1000
+Number: 5
+SPORTS STATS | In 1999 Pete Sampras tied this Aussie's record of 12 Grand Slam singles titles | Roy Emerson
+right: 
+Wrong: Triple Stumper
+Kirsten: Who is Agassi?
+Ken: Who is Newcombe?
+Value: $1000
+Number: 15
+HAWTHORNE IN YOUR SIDE | The central metaphor of this 1860 novel is a sculpture of a deity (not a young deer) | "The Marble Faun"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+MUSEUMS | The International Museum of the Horse is raising funds for a life-size statue of this 1973 Triple Crown winner | Secretariat
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+MYTHOLOGICAL RHYME TIME | Pollux' twin's hunger strikers | Castor's fasters
+right: Kirsten
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Kirsten: $2,700
+Ken: $5,700
+Rebecca: $6,400
+
+Final Jeopardy! Round
+RECENT FILMS | This movie was dedicated to the 10,000 Gloucester fishermen who have lost their lives since 1623 | The Perfect Storm
+right: Kirsten | Ken | Rebecca
+Wrong: 
+Wagers: 
+Kirsten: $2,700
+Ken: $5,700
+Rebecca: $700
+Final scores:
+Kirsten: $5,400 (3rd place: MyPoints.com Gift Certificate)
+Ken: $11,400 (New champion: $11,400)
+Rebecca: $7,100 (2nd place: Trip to Switzerland courtesy of Priceline.com)
+
+Coryat scores
+Kirsten: $2,700 (13 R,2 W)
+Ken: $3,900 (19 R(including 2 DDs),6 W)
+Rebecca: $7,400 (17 R,2 W(including 1 DD))

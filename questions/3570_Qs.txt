@@ -1,0 +1,316 @@
+6082 - Tuesday, February 8, 2011
+Comments: IBM Challenge mini-documentary: "Watson After Jeopardy!"
+Contestants:
+Keagan Baker: a bank teller and substitute teacher from La Porte, Texas
+Rachel LeCroy: a customer service representative originally from Raleigh, North Carolina
+Paul Wampler: a web programmer from Knoxville, Tennessee (whose 1-day cash winnings total $16,001)
+First Jeopardy! Round: MOLLUSKS, POPULAR NAMES FOR BOYS & GIRLS, GEOGRAPHIC TITLES, "OPEN" & "SHUT", DIAMONDS ARE FOREVER, ...FAME IS NOT
+MOLLUSKS | This drink created in 1969 is basically a Bloody Mary mix with a tiny bit of mollusk broth in the recipe | Clamato
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 14
+POPULAR NAMES FOR BOYS & GIRLS | Colonial Americans invented this girls' name by combining Sam from Samuel with the Greek for flower | Samantha
+right: Rachel
+Wrong: 
+Value: $200
+Number: 18
+GEOGRAPHIC TITLES | "Death in ____" & "The Merchant of ___" | Venice
+right: Rachel
+Wrong: 
+Value: $200
+Number: 1
+"OPEN" & "SHUT" | A public showing of a residence that's for sale | an open house
+right: Paul
+Wrong: 
+Value: $200
+Number: 4
+DIAMONDS ARE FOREVER | Though guiltless, this French queen fell even more out of favor after the 1785 Affair of the Diamond Necklace | Marie Antoinette
+right: Rachel
+Wrong: 
+Value: $200
+Number: 20
+...FAME IS NOT | Andrew Ridgeley of this "Careless Whisper" '80 duo makes surfing goods & lives with a member of Bananarama | Wham!
+right: Paul
+Wrong: 
+Value: $200
+Number: 9
+MOLLUSKS | This "chambered" mollusk begins life with about 4 chambers & develops around 30 by adulthood | a nautilus
+right: Keagan
+Wrong: 
+Value: $400
+Number: 15
+POPULAR NAMES FOR BOYS & GIRLS | This Irish form of Katherine is currently one of the 100 most popular names for girls | Katelyn
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+GEOGRAPHIC TITLES | "Shogun: A Novel of ____" | Japan
+right: Paul
+Wrong: 
+Value: $400
+Number: 2
+"OPEN" & "SHUT" | Someone who's stuck indoors | a shut-in
+right: Keagan
+Wrong: 
+Value: $400
+Number: 5
+DIAMONDS ARE FOREVER | A 16.37-carat gem is the largest ever discovered by a visitor to this state's Crater of Diamonds State Park | Arkansas
+right: Keagan
+Wrong: 
+Value: $400
+Number: 21
+...FAME IS NOT | Pam Dawber, the "Mindy" of "Mork &..." has been married to this "NCIS" lead actor since 1987 | Mark Harmon
+right: Rachel
+Wrong: 
+Value: $400
+Number: 10
+POPULAR NAMES FOR BOYS & GIRLS | Mr. Frome might know it's from the Hebrew for "solid" or "firm" | Ethan
+right: Paul
+Wrong: 
+Value: $600
+Number: 25
+GEOGRAPHIC TITLES | JFK's thesis, the bestseller: "Why ____ Slept" | England
+right: 
+Wrong: Triple Stumper
+Paul: What is Russia?
+Value: $600
+Number: 3
+"OPEN" & "SHUT" | 9 innings, 6 hits, no runs | a shutout
+right: Paul
+Wrong: 
+Keagan: What is a no-hitter?
+Value: $600
+Number: 6
+DIAMONDS ARE FOREVER | Under intense heat & in the presence of oxygen, a diamond will burn &  form this gas | carbon dioxide
+right: Keagan
+Wrong: 
+Value: DD: $700
+Number: 22
+...FAME IS NOT | He led "The News" to 3 No. 1 hits in the '80s & in 2010 played Johnny Revere on "Hot in Cleveland" | Huey Lewis
+right: Rachel
+Wrong: 
+Value: $600
+Number: 11
+POPULAR NAMES FOR BOYS & GIRLS | Leon means "lion" & this name means "lion bold" | Leonardo
+right: Keagan
+Wrong: 
+Value: $800
+Number: 26
+GEOGRAPHIC TITLES | "Karma's Embrace: A Novel of ____" & "A Passage to ____" | India
+right: Rachel
+Wrong: 
+Value: $800
+Number: 16
+"OPEN" & "SHUT" | A test where you're allowed to use notes | an open book test
+right: Rachel
+Wrong: 
+Value: $800
+Number: 7
+DIAMONDS ARE FOREVER | Acquired by the House of Winston the day before Halloween, a 5.54-carat vivid orange diamond was dubbed this | the Pumpkin Diamond
+right: Paul
+Wrong: 
+Value: $800
+Number: 23
+...FAME IS NOT | Philip Michael Thomas--Tubbs on this '80s cop show--voiced Lance Vance on "Grand Theft Auto:  Vice City Stories" | Miami Vice
+right: Paul
+Wrong: 
+Value: $800
+Number: 12
+POPULAR NAMES FOR BOYS & GIRLS | It's from the Old Norse for "ruler", whether he has red hair or not | Eric
+right: Rachel
+Wrong: 
+Value: $1000
+Number: 27
+GEOGRAPHIC TITLES | Taken from a question Hitler asked:  "Is ____ Burning?" | Paris
+right: Rachel
+Wrong: 
+Keagan: What is Berlin?
+Value: $1000
+Number: 17
+"OPEN" & "SHUT" | Public domain land in the 1800s where the buffalo & cattle roamed before the homesteaders fenced them in | open range
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 8
+DIAMONDS ARE FOREVER | (<http://www.j-archive.com/media/2011-02-08_J_24.wmv> Jimmy of the Clue Crew shows a diamond diagram on the monitor.)  In a cut diamond, the band around the widest part is the girdle, the upper part is the crown, & the bottom area that reflects light is called this, like an exhibition building from the French for "butterfly" | pavillion
+right: Paul
+Wrong: 
+Value: $1000
+Number: 24
+...FAME IS NOT | "Only In My Dreams" would this '80s teen queen of music play Emma in 2009's "Mega Shark vs. Giant Octopus" | Deborah Gibson
+right: Paul
+Wrong: 
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Paul: $2,600
+Rachel: $2,000
+Keagan: $200
+Scores at the end of the Jeopardy! Round:
+Paul: $5,000
+Rachel: $5,200
+Keagan: $1,100
+Second Jeopardy! Round: CONGRESS IS ALL A-TWITTER, MUSICAL TITLE LETTER DROP, A PLACE CALLED CARSON, POPE-POURRI, STATE UNIVERSITY BY ALUMS, "I" SAY
+CONGRESS IS ALL A-TWITTER | This senator tweeted: "Payson, AZ now holds the record for my longest town hall meeting - 2:32 mins!" | (John) McCain
+right: Paul
+Wrong: 
+Value: $400
+Number: 19
+MUSICAL TITLE LETTER DROP | Good luck when you ask the singers "What I Did For Love"; they never tell the truth in this musical | A Chorus Lie
+right: Paul
+Wrong: 
+Value: $400
+Number: 11
+A PLACE CALLED CARSON | Carson, California is home base for "Spirit of America", one of this company's blimps | Goodyear
+right: Paul
+Wrong: 
+Value: $400
+Number: 25
+POPE-POURRI | Pope Benedict XVI is the first pope of this nationality in nearly 1,000 years | German
+right: Keagan
+Wrong: 
+Value: $400
+Number: 6
+STATE UNIVERSITY BY ALUMS | Laura Bush, Michael Dell, Moon walker Alan Bean | (University of) Texas
+right: Paul
+Wrong: 
+Value: $400
+Number: 1
+"I" SAY | People often remark, "I hate to say" this phrase meaning "you were warned" (but they still say it) | I told you so
+right: Paul
+Wrong: 
+Value: $400
+Number: 16
+CONGRESS IS ALL A-TWITTER | He tweets under his own name & @GOPLeader | John Boehner
+right: 
+Wrong: Triple Stumper
+Paul: Who is... McConnell?
+Keagan: Who is Steele?
+Value: $800
+Number: 20
+MUSICAL TITLE LETTER DROP | NASA astronaut Mr. Grissom gets to gamble, sing & dance as Nathan Detroit in this updated version | Gus and Dolls
+right: Paul
+Wrong: 
+Value: $800
+Number: 12
+A PLACE CALLED CARSON | Carson, Wash. is just above the Columbia River, less than a mile from a highway named for these explorers | Lewis & Clark
+right: Rachel
+Wrong: 
+Value: $800
+Number: 26
+POPE-POURRI | His 34-day reign in 1978 was one of the shortest in papal history | Pope John Paul I
+right: 
+Wrong: Triple Stumper
+Keagan: Who is John VI?
+Value: $800
+Number: 7
+STATE UNIVERSITY BY ALUMS | Walter Reed, Edgar Allan Poe, George F. Allen (who later was governor & a U.S. senator) | Virginia
+right: Paul
+Wrong: 
+Value: $800
+Number: 2
+"I" SAY | This 1972 feminist anthem was a No. 1 hit for Helen Reddy | I Am Woman
+right: Paul
+Wrong: 
+Value: $800
+Number: 17
+CONGRESS IS ALL A-TWITTER | This House speaker was "Very joyful court ruled against Prop. 8, it is a stain upon the CA Constitution" | (Nancy) Pelosi
+right: Paul
+Wrong: 
+Value: $1200
+Number: 21
+MUSICAL TITLE LETTER DROP | "Ol' Man River" sung by pigs!  Count me in! | Sowboat
+right: Rachel
+Wrong: 
+Value: $1200
+Number: 13
+A PLACE CALLED CARSON | Kit Carson Peak is one of this mountainous state's many 14ers | Colorado
+right: Keagan
+Wrong: 
+Value: $1200
+Number: 27
+POPE-POURRI | During the reign of Alexander III, it was established that the pope would be elected exclusively by this body | the College of Cardinals
+right: Keagan
+Wrong: 
+Value: $1200
+Number: 8
+STATE UNIVERSITY BY ALUMS | Bob Dylan, man of the heart Dr. Christiaan Barnard, Alan Page (for law school) | The University of Minnesota
+right: Keagan
+Wrong: 
+Value: $1200
+Number: 3
+"I" SAY | First title "Poem of the Body", this "charged" Walt Whitman poem got its present 5-word title in 1857 | "I Sing the Body Electric"
+right: Paul
+Wrong: 
+Value: DD: $2,200
+Number: 18
+CONGRESS IS ALL A-TWITTER | This state's Sen. Claire McCaskill talked sports with "Congrats to Chiefs for surprising Denver today" | Missouri
+right: Rachel
+Wrong: 
+Value: $1600
+Number: 22
+MUSICAL TITLE LETTER DROP | Embrace the atoms as Simba & company lose & gain electrons en masse in this production | The Ion King
+right: Keagan
+Wrong: 
+Value: $1600
+Number: 14
+POPE-POURRI | There have been 12 popes with this devout name, the first during the second century, the last from 1939 to 1958 | Pius
+right: Rachel
+Wrong: 
+Value: $1600
+Number: 9
+STATE UNIVERSITY BY ALUMS | James Carville, Donna Brazile, Pete Maravich (but only one averaged 44.2 points per game there) | Louisiana State University (LSU)
+right: Paul
+Wrong: 
+Value: $1600
+Number: 4
+"I" SAY | Will Rogers is famous for this sentence of goodwill about all those he encountered | I never met a man I didn't like
+right: Paul
+Wrong: 
+Value: $1600
+Number: 24
+CONGRESS IS ALL A-TWITTER | Referring to his wife, this Ohio rep urged, "Please vote for Elizabeth in Week 2 of Cleveland Dancing show" | Dennis Kucinich
+right: 
+Wrong: Triple Stumper
+Rachel: Oh shoot... who is Bob Dole?
+Value: $2000
+Number: 23
+MUSICAL TITLE LETTER DROP | Drop an "L" from a Rodgers & Hammerstein roundabout & you get to do this, drunkenly revel | Carouse
+right: Paul
+Wrong: 
+Value: $2000
+Number: 15
+POPE-POURRI | Clement VII, born into this powerful family, was raised by his uncle Lorenzo the Magnificent | the de' Medicis
+right: 
+Wrong: 
+Rachel: Who... what is the Borgias?
+Value: DD: $1,000
+Number: 10
+STATE UNIVERSITY BY ALUMS | Phil Knight (of Nike fame), Bill Bowerman (of Nike fame), Steve Prefontaine (of Nike fame) | Oregon
+right: Keagan
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Paul: $17,200
+Rachel: $7,400
+Keagan: $7,100
+
+Final Jeopardy! Round
+ANCIENT QUOTES | He said, "to leave this stream uncrossed will breed manifold distress for me; to cross it, for all mankind" | Julius Caesar
+right: Keagan | Rachel | Paul
+Wrong: 
+Wagers: 
+Keagan: $7,100
+Rachel: $305
+Paul: $200
+Final scores:
+Paul: $17,400 (2-day champion: $33,401)
+Rachel: $7,705 (3rd place: $1,000)
+Keagan: $14,200 (2nd place: $2,000)
+
+Coryat scores
+Paul: $16,200 (22 R(including 1 DD),2 W)
+Rachel: $8,400 (13 R,2 W(including 1 DD))
+Keagan: $7,000 (11 R(including 1 DD),4 W)

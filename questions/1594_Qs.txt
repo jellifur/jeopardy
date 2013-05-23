@@ -1,0 +1,344 @@
+4565 - Friday, June 11, 2004
+Comments: Ken Jennings game 8.
+Contestants:
+Ethan Culbreth: an orchid specialist from Hollywood, California
+Al Arsenault: a computer security engineer from Ellicott City, Maryland
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 7-day cash winnings total $231,000)
+First Jeopardy! Round: '60s POTPOURRI, COLLEGE BASKETBALL, FOR THE KID IN YOU, MEDICAL ABBREV., CULINARY QUOTES, "TOUCH" ME
+'60s POTPOURRI | This "funny girl" was just 19 when she made her Broadway debut in "I Can Get It for You Wholesale" in 1962 | Barbra Streisand
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+COLLEGE BASKETBALL | (<http://www.j-archive.com/media/2004-06-11_J_05.jpg> Hi, I'm James Worthy.)  In 1982 I led this school, the Tar Heels, to the NCAA title & was named MVP of the Final Four | the University of North Carolina
+right: Al
+Wrong: 
+Value: $200
+Number: 5
+FOR THE KID IN YOU | At Six Flags Over Texas, you must be 3'6" to ride in these, 4'6" to drive one | bumper cars
+right: Ken
+Wrong: 
+Value: $200
+Number: 8
+MEDICAL ABBREV. | It occurs during sleep: REM | rapid eye movement
+right: Ethan
+Wrong: 
+Value: $200
+Number: 26
+CULINARY QUOTES | Fran Lebowitz jokingly said, "My favorite animal is" this, but she didn't specify Porterhouse or T-bone | steak
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+"TOUCH" ME | A landing made by an aircraft or a space vehicle | a touchdown
+right: Ken
+Wrong: 
+Al: What is a touch and go?
+Value: $200
+Number: 16
+'60s POTPOURRI | Sleep-eze mogul (& movie fan) Allen Parkinson founded this state's Movieland Wax Museum in 1962 | California
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+COLLEGE BASKETBALL | The dames from this Indiana university won the women's NCAA basketball title in 2001 | Notre Dame
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+FOR THE KID IN YOU | The laser type of this game was inspired by "Star Wars" & popularized in the 1980s | tag
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+MEDICAL ABBREV. | Pertaining to childbirth: L&D | labor & delivery
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+CULINARY QUOTES | This breakfast goody has been described as "an unsweetened doughnut with rigor mortis" | a bagel
+right: Ken
+Wrong: 
+Ethan: What is a Cheerio?
+Value: $400
+Number: 22
+"TOUCH" ME | Eliot Ness' team of lawmen | the Untouchables
+right: Al
+Wrong: 
+Value: $400
+Number: 17
+'60s POTPOURRI | In 1969 this surrealist created the logo for Chupa Chups, a Spanish brand of lollipops | Salvador Dalí
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+COLLEGE BASKETBALL | (<http://www.j-archive.com/media/2004-06-11_J_12.jpg> Hi, I'm Sue Bird.)  Before joining the WNBA, I led this university's Huskies to the NCAA championships in 2000 & 2002 | the University of Connecticut
+right: Al
+Wrong: 
+Value: $600
+Number: 12
+FOR THE KID IN YOU | Nabisco says that consumers chose the koala as the newest member of this menagerie | animal crackers
+right: Ken
+Wrong: 
+Value: $600
+Number: 10
+MEDICAL ABBREV. | Referring to the stomach & part of the digestive tract: GI | gastrointestinal
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+CULINARY QUOTES | Mark Twain said that cauliflower "is nothing but" this vegetable "with a college education" | cabbage
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+"TOUCH" ME | Named for a Phrygian king, someone has this if he's got the ability to make lots of money with little effort | the Midas touch
+right: Al
+Wrong: 
+Value: $600
+Number: 18
+'60s POTPOURRI | (<http://www.j-archive.com/media/2004-06-11_J_04.wmv> Cheryl of the Clue Crew walks through a TV room times three at Graceland in Memphis, TN.)  Elvis probably got the idea to put 3 TVs in a row from this president, who was famous for watching 3 news shows at once | Lyndon Johnson
+right: Al
+Wrong: 
+Value: $800
+Number: 4
+COLLEGE BASKETBALL | Later a coach, she was the first basketball player at USC to have a jersey number retired | Cheryl Miller
+right: Al
+Wrong: 
+Value: $800
+Number: 13
+FOR THE KID IN YOU | A party here, "Where a kid can be a kid", goes: playtime--pizza--performance--cake--open gifts--90 minutes are up | Chuck E. Cheese's
+right: Al
+Wrong: 
+Value: $800
+Number: 11
+MEDICAL ABBREV. | Cardiac operation: OHS | open heart surgery
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+CULINARY QUOTES | Woody Allen says he won't eat this shellfish because "I want my food dead, not sick, not wounded, dead" | oysters
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+"TOUCH" ME | The ability to appeal to the interests & sensibilities of the ordinary person | the common touch
+right: Ken | Ethan
+Wrong: 
+Value: $800
+Number: 19
+'60s POTPOURRI | Claude Brown called his autobiographical 1965 novel about growing up in Harlem "Manchild in" this place | The Promised Land
+right: Ken
+Wrong: 
+Value: $1000
+Number: 7
+COLLEGE BASKETBALL | (<http://www.j-archive.com/media/2004-06-11_J_14.jpg> I'm Jalen Rose of the NBA.)  I was part of this school's "Fab Five" that played in 2 NCAA finals in the '90s | the University of Michigan
+right: Al
+Wrong: 
+Value: $1000
+Number: 14
+FOR THE KID IN YOU | In stories by Laura Lee Hope, it's the last name of twins Bert & Nan & Freddie & Flossie | Bobbsey
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+MEDICAL ABBREV. | A component of the blood: Hb | hemoglobin
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+CULINARY QUOTES | Thackeray's "Ballad of" this dish calls it "A sort of soup or broth... or hotchpotch of all sorts of fishes" | bouillabaisse
+right: Ken
+Wrong: 
+Value: DD: $1,200
+Number: 25
+"TOUCH" ME | An Orson Welles thriller | Touch of Evil
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ken: $4,800
+Al: $4,200
+Ethan: $0
+Scores at the end of the Jeopardy! Round:
+Ken: $12,800
+Al: $5,000
+Ethan: $600
+Second Jeopardy! Round: AFRICAN-AMERICAN PLAYWRIGHTS, LEADING MEN, SEATTLE'S SISTER CITIES, PUMP AND CIRCUMSTANCE, ART "C", FIX THE SIMILE
+AFRICAN-AMERICAN PLAYWRIGHTS | Playwright Langston Hughes formed the Suitcase Theater in Harlem & the New Negro Theater in this Calif. city | Los Angeles
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+LEADING MEN | The A&E "Biography" show on the man seen <http://www.j-archive.com/media/2004-06-11_DJ_01.jpg> here includes his stint as mayor of this city | Carmel-by-the-Sea, California
+right: Al
+Wrong: 
+Value: $400
+Number: 1
+SEATTLE'S SISTER CITIES | In 1987 Seattle gave a sea otter to its oldest sister city, Kobe in this country | Japan
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+PUMP AND CIRCUMSTANCE | Ride over a nail & you might need Schwinn's Airdriver, one of these | a tire pump
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+ART "C" | This printer & lithographer joined forces with James Ives in the 1850s | Currier
+right: Al
+Wrong: 
+Value: $400
+Number: 21
+FIX THE SIMILE | Pit as a piddle | fit as a fiddle
+right: Ken
+Wrong: 
+Value: $400
+Number: 15
+AFRICAN-AMERICAN PLAYWRIGHTS | With its strong political message, Amiri Baraka's play "Dutchman" won one of these off-Broadway awards in 1964 | an OBIE
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+LEADING MEN | He plays Inman, who struggles to get home to Cold Mountain | Jude Law
+right: Ethan
+Wrong: 
+Value: $800
+Number: 7
+SEATTLE'S SISTER CITIES | With Seattle's coffee & this from sister city Perugia, Italy, they can make mocha | chocolate
+right: Ken
+Wrong: 
+Ethan: What is milk?
+Value: $800
+Number: 12
+PUMP AND CIRCUMSTANCE | If you're lucky & this is gushing in your back yard, call for one of Lufkin Industries' pumping units | oil
+right: Al
+Wrong: 
+Value: $800
+Number: 27
+ART "C" | Some consider the painting <http://www.j-archive.com/media/2004-06-11_DJ_22.jpg> seen <http://www.j-archive.com/media/2004-06-11_DJ_22a.jpg> here to be the first in this modern style | Cubism
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+FIX THE SIMILE | Call as a cree | tall as a tree
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+AFRICAN-AMERICAN PLAYWRIGHTS | This play about a family moving to the suburbs was the first Broadway play written & directed by African Americans | A Raisin in the Sun
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+LEADING MEN | The first syllable of <http://www.j-archive.com/media/2004-06-11_DJ_08.jpg> his last name rhymes with "mood", not "mud" | Billy Crudup
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+SEATTLE'S SISTER CITIES | Seattle can flaunt the fact, or maybe flute the fact, it's a sister to this Irish city | Galway
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+PUMP AND CIRCUMSTANCE | Light bulb makers use a special pump to create this inside the bulb | a vacuum
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+ART "C" | Degas portrayed this American woman & fellow Impressionist in several of his works | Mary Cassatt
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+FIX THE SIMILE | Lad as a larch hare | mad as a March hare
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+AFRICAN-AMERICAN PLAYWRIGHTS | James Baldwin loosely based his play "Blues for Mister Charlie" on the '55 murder of Emmitt Till in this southern state | Mississippi
+right: Al
+Wrong: 
+Value: $1600
+Number: 5
+LEADING MEN | This romantic actor appeared in "Marriage Italian Style", "Divorce Italian Style" & "Ghosts Italian Style" | Marcello Mastroianni
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+SEATTLE'S SISTER CITIES | This Norwegian sister city should be a favorite of Murphy Brown | Bergen
+right: Al
+Wrong: 
+Ethan: What is Avery?
+Value: $1600
+Number: 14
+PUMP AND CIRCUMSTANCE | To lift water, try this basic type of pump, a cylinder with a piston inside | a suction [or reciprocating] pump
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+ART "C" | This 19th century British landscape artist painted "Cloud Studies" & "The Haywain" | John Constable
+right: Ken
+Wrong: 
+Value: DD: $3,600
+Number: 24
+FIX THE SIMILE | Rod as a boot | red as a beet
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+AFRICAN-AMERICAN PLAYWRIGHTS | This playwright of "Fences" & "Ma Rainey's Black Bottom" founded Pittsburgh's Black Horizon Theatre Company | August Wilson
+right: Ethan
+Wrong: 
+Value: $2000
+Number: 6
+LEADING MEN | Seen <http://www.j-archive.com/media/2004-06-11_DJ_10.wmv> here near the end of his career, his last name is a synonym for "strength"  "I want only the strong, who can row 1500 miles to Africa and walk ashore alive!" | Tyrone Power
+right: Ken
+Wrong: 
+Value: DD: $3,000
+Number: 10
+SEATTLE'S SISTER CITIES | A port city, Seattle is a sister to this port city of Kenya | Mombasa
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+PUMP AND CIRCUMSTANCE | It's a pit or well where water collects; the pump named for it gets the water out | sump
+right: Al
+Wrong: 
+Value: $2000
+Number: 30
+ART "C" | This Italian term meaning the balance of light & shade is often used of Rembrandt's paintings | chiaroscuro
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+FIX THE SIMILE | Gold as grass | bold as brass
+right: Ken
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Ken: $38,600
+Al: $11,800
+Ethan: $1,000
+
+Final Jeopardy! Round
+UNITED NATIONS HISTORY | In 1960 this new national leader made the longest speech in United Nations history, 4 hours & 29 minutes | Fidel Castro
+right: Al
+Wrong: 
+Ethan: Who is U Thant?
+Ken: Who is Khruschev?
+Wagers: 
+Ethan: $0
+Al: $8,200
+Ken: $3,442
+Final scores:
+Ken: $35,158 (8-day champion: $266,158)
+Al: $20,000 (2nd place: $2,000)
+Ethan: $1,000 (3rd place: $1,000)
+
+Coryat scores
+Ken: $35,400 (41 R(including 3 DDs),0 W)
+Al: $11,800 (14 R,1 W)
+Ethan: $1,000 (4 R,3 W)

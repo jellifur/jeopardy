@@ -1,0 +1,341 @@
+3102 - Tuesday, February 10, 1998
+Comments: 1998 Tournament of Champions semifinal game 2.  "Bonus" category in the Double Jeopardy! Round.
+Contestants:
+Bob Harris: a political humorist originally from Cleveland, Ohio
+Peter Scott: an advertising manager from Washington, D.C.
+Lyn Payne: a librarian from Orlando, Florida
+First Jeopardy! Round: MUSEUMS, DON'T QUIT YOUR DAY JOB, THE LAW, REEL MOTHERS, COMMON BONDS, SOMETHING'S A "FOOT"
+MUSEUMS | This building in Philadelphia houses the inkstand used by the Declaration signers | Independence Hall
+right: Bob
+Wrong: 
+Value: $100
+Number: 10
+DON'T QUIT YOUR DAY JOB | He played outfield for the Birmingham Barons before returning to the Bulls | Michael Jordan
+right: Bob
+Wrong: 
+Value: $100
+Number: 29
+THE LAW | During the Civil War, Lincoln suspended this right not to be held in prison without court consent | Habeas corpus
+right: Lyn
+Wrong: 
+Value: $100
+Number: 26
+REEL MOTHERS | Kathleen Turner is a psychopathic housewife on a killing spree in this 1994 John Waters comedy | Serial Mom
+right: Bob
+Wrong: 
+Value: $100
+Number: 27
+COMMON BONDS | Some chairs, A toy horse, The cradle when the wind blows | Things that rock
+right: Lyn
+Wrong: 
+Value: $100
+Number: 30
+SOMETHING'S A "FOOT" | 12 inches of hot dog | Foot long
+right: Bob
+Wrong: 
+Value: $100
+Number: 23
+MUSEUMS | The Whizstreet "Up In Smoke" Museum is a web site exhibiting the art of these colorful cigar items | Cigar bands
+right: Bob
+Wrong: 
+Value: $200
+Number: 9
+DON'T QUIT YOUR DAY JOB | This TV actor heard here is not really known for his singing:  "Picture yourself...in a boat...on a river..." | William Shatner
+right: Bob
+Wrong: 
+Value: $200
+Number: 28
+THE LAW | From the Latin "to refer", it's the way by which laws proposed by a legislature are put to popular vote | Referendum
+right: Bob
+Wrong: 
+Value: $200
+Number: 25
+REEL MOTHERS | Billy Crystal is meant to kill Danny DeVito's mother according to DeVito's plan in this 1987 comedy | Throw Momma From The Train
+right: Lyn
+Wrong: 
+Value: $200
+Number: 19
+COMMON BONDS | Thunder, Ol' Man River, White House Easter Eggs | Things that are rolled
+right: Lyn
+Wrong: 
+Value: $200
+Number: 17
+SOMETHING'S A "FOOT" | To pick up a check | Foot the bill
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+MUSEUMS | Barry Goldwater donated his Kachina doll collection to the Heard Museum in this state capital | Phoenix
+right: Bob
+Wrong: 
+Value: $300
+Number: 8
+DON'T QUIT YOUR DAY JOB | This supermodel starred with William Baldwin in the film "Fair Game", which was fair game for critics | Cindy Crawford
+right: Bob
+Wrong: 
+Value: $300
+Number: 5
+THE LAW | The first of these "colorful" laws was enacted in 1619 to punish failure to attend church | Blue laws
+right: Lyn
+Wrong: 
+Value: $300
+Number: 24
+REEL MOTHERS | Title of the 1981 biopic about the woman seen here:  "I wouldn't turn against you if it meant my life.  You are my life." | Mommie Dearest
+right: Bob
+Wrong: 
+Value: DD: $700
+Number: 11
+COMMON BONDS | Coconuts, Udders, Canaan | Things that give milk
+right: Lyn
+Wrong: 
+Value: $300
+Number: 14
+SOMETHING'S A "FOOT" | It's a small trunk kept at the foot of a soldier's bunk | Footlocker
+right: Peter
+Wrong: 
+Value: $300
+Number: 18
+MUSEUMS | The Eisenhower Center in this Kansas town houses numerous mementos of the president's life & career | Abilene
+right: Bob
+Wrong: 
+Value: $400
+Number: 3
+DON'T QUIT YOUR DAY JOB | He quit as the Beatles' bass player to become a painter in 1961 | Stuart Sutcliffe
+right: Bob
+Wrong: 
+Value: $400
+Number: 6
+THE LAW | Failure to pay a building contractor  may result in his leaning on you with this type of lien | Mechanic's lien
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+REEL MOTHERS | According to the theme song, this cat "is a bad mother" -- shut your mouth | Shaft
+right: Bob
+Wrong: 
+Value: $400
+Number: 12
+COMMON BONDS | A beaten wrestler, A frat brother's girlfriend, A dead butterfly | Things that are pinned
+right: Bob
+Wrong: 
+Value: $400
+Number: 15
+SOMETHING'S A "FOOT" | In tennis, it happens when the server steps over the baseline before hitting the ball | Foot fault
+right: Bob
+Wrong: 
+Value: $400
+Number: 20
+MUSEUMS | A Brussels art & history museum has a giant statue from this Chilean island on exhibit | Easter Island
+right: Bob
+Wrong: 
+Value: $500
+Number: 4
+DON'T QUIT YOUR DAY JOB | He gave up his cushy European royalty job to become emperor of Mexico, & was executed there in 1867 | Maximillian
+right: Lyn
+Wrong: 
+Value: $500
+Number: 7
+THE LAW | Now a body of lawyers, it once referred to a rail separating spectators from courtroom proceedings | Bar
+right: Lyn
+Wrong: 
+Value: $500
+Number: 1
+REEL MOTHERS | Bill Cosby, Raquel Welch & Harvey Keitel play this title trio in a movie about an ambulance service | Mother, Jugs & Speed
+right: Bob
+Wrong: 
+Value: $500
+Number: 13
+COMMON BONDS | Hair, Punch, A volleyball | Things that are spiked
+right: Lyn
+Wrong: 
+Value: $500
+Number: 16
+SOMETHING'S A "FOOT" | A person near death is said to have one | One foot in the grave
+right: Bob
+Wrong: 
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Lyn: $1,300
+Peter: -$400
+Bob: $4,200
+Scores at the end of the Jeopardy! Round:
+Lyn: $2,700
+Peter: -$100
+Bob: $6,000
+Second Jeopardy! Round: HARRY GUYS, WE'RE MALAYSIA-BOUND, FETAL ATTRACTION, TOP 40 BONUS, FROM THE JAWS OF VICTORY, POETS' RHYME TIME
+HARRY GUYS | There's no doubt about it, he was born Harry, but we know him as "Bing" | (Harry Lillis) "Bing" Crosby
+right: Bob
+Wrong: 
+Value: $200
+Number: 19
+WE'RE MALAYSIA-BOUND | This capital whose name means "muddy estuary" was named for the 2 rivers that wind through it | Kuala Lumpur
+right: Peter
+Wrong: 
+Value: $200
+Number: 20
+FETAL ATTRACTION | For the first 8 weeks after fertilization, an unborn child is called this, from the Greek for "full" | Embryo
+right: Peter
+Wrong: 
+Value: $200
+Number: 22
+TOP 40 BONUS | "Proud Mary" | Creedence Clearwater Revival & Ike & Tina Turner
+right: Peter
+Wrong: 
+Value: $400
+Number: 11
+FROM THE JAWS OF VICTORY | In the Aesop fable, he's so far ahead he takes a nap; what a loser! | Hare
+right: Bob
+Wrong: 
+Value: $200
+Number: 29
+POETS' RHYME TIME | Sylvia's tub times | Plath's baths
+right: Peter
+Wrong: 
+Value: $200
+Number: 10
+HARRY GUYS | Nickname of Robert E. Lee's dad | "Lighthorse" Harry Lee
+right: Bob
+Wrong: 
+Value: $400
+Number: 18
+WE'RE MALAYSIA-BOUND | Endau-Rompin Park is one of the last homes of the Sumatran species of this horned mammal | Rhinoceros
+right: Peter
+Wrong: 
+Value: $400
+Number: 24
+FETAL ATTRACTION | Named for the sac surrounding the fetus, this fluid cushions the fetus from injury | Amniotic fluid
+right: Bob
+Wrong: 
+Value: $400
+Number: 27
+TOP 40 BONUS | "Live And Let Die" | Wings & Guns N' Roses
+right: 
+Wrong: Triple Stumper
+Lyn: Who is Wings?
+Value: $400
+Number: 5
+FROM THE JAWS OF VICTORY | He was the Democratic presidential frontrunner in 1987 until his "Monkey Business" did him in | Gary Hart
+right: Lyn
+Wrong: 
+Value: $400
+Number: 30
+POETS' RHYME TIME | Ezra's Afghans | Pound's hounds
+right: Lyn
+Wrong: 
+Value: $400
+Number: 9
+HARRY GUYS | He's the Harry heard here:  "Dayyy...." | Harry Belafonte
+right: Bob
+Wrong: 
+Value: $600
+Number: 17
+WE'RE MALAYSIA-BOUND | Of proton, electron or neutron, with "Saga", it's Malaysia's national car | Proton
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+FETAL ATTRACTION | Pre-natal process that created the images seen here: | Ultrasound
+right: Lyn
+Wrong: 
+Value: $600
+Number: 26
+TOP 40 BONUS | "California Girls" | The Beach Boys & David Lee Roth
+right: Bob
+Wrong: 
+Value: $1200
+Number: 4
+FROM THE JAWS OF VICTORY | By allowing rebel forces to escape after Gettysburg, this Union general may have prolonged the war 2 more years | George Meade
+right: Peter
+Wrong: 
+Value: $600
+Number: 25
+POETS' RHYME TIME | Alexander's expectations | Pope's hopes
+right: Lyn
+Wrong: 
+Value: $600
+Number: 8
+HARRY GUYS | Watergate-era chief of staff, his initial "H" stood for Harry | HR Haldeman
+right: 
+Wrong: 
+Value: DD: $700
+Number: 14
+WE'RE MALAYSIA-BOUND | The states of Sarawak & Sabah on this island make up about 6% of Malaysia's land area | Borneo
+right: Bob
+Wrong: 
+Value: $800
+Number: 23
+FETAL ATTRACTION | From the Greek for "flat cake", this uterine wall organ connects to the fetus via the umbilical cord | Placenta
+right: Bob
+Wrong: 
+Value: $800
+Number: 21
+TOP 40 BONUS | "Blue Bayou" | Linda Ronstadt & Roy Orbison
+right: Lyn | Peter
+Wrong: 
+Value: $800
+Number: 3
+FROM THE JAWS OF VICTORY | She became Texas' governor in 1990 when her frontrunner opponent kept blundering in interviews | Ann Richards
+right: Lyn
+Wrong: 
+Value: $800
+Number: 12
+POETS' RHYME TIME | William's anacondas | Blake's snakes
+right: Lyn
+Wrong: 
+Value: $800
+Number: 7
+HARRY GUYS | This trumpet-playing band-leader helped Sinatra get started, & lost him to the Tommy Dorsey band | Harry James
+right: Lyn
+Wrong: 
+Value: $1000
+Number: 16
+WE'RE MALAYSIA-BOUND | Go "strait" to this port & visit St. Paul's Church where St. Francis Xavier's body was held until moved to India | Malacca
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 2
+FETAL ATTRACTION | Even at birth the skull isn't fully fused, leaving these, also called "soft spots" | Fontenelles
+right: Peter
+Wrong: 
+Value: $1000
+Number: 15
+TOP 40 BONUS | "Soul Man" | The Blues Brothers & Sam & Dave
+right: Peter | Bob
+Wrong: 
+Lyn: Who is James Brown?
+Value: $1000
+Number: 1
+FROM THE JAWS OF VICTORY | Heavy armor & heavy rains defeated the large French army as much as Henry V's men at this 1415 battle | Agincourt
+right: Lyn
+Wrong: 
+Value: DD: $4,000
+Number: 13
+POETS' RHYME TIME | Sir Philip's renal organs | Sidney's kidneys
+right: Bob
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Lyn: $10,000
+Peter: $3,900
+Bob: $12,400
+
+Final Jeopardy! Round
+ENGLISH LITERATURE | The 5th edition of this work, published in 1676, included a section on fly fishing by Charles Cotton | The Compleat Angler
+right: Lyn | Bob
+Wrong: 
+Peter: What is The Encyclopedia Brittanica?
+Wagers: 
+Peter: $2,999
+Lyn: $10,000
+Bob: $7,601
+Final scores:
+Lyn: $20,000 (2nd place: $5,000)
+Peter: $901 (3rd place: $5,000)
+Bob: $20,001 (Finalist)
+
+Coryat scores
+Lyn: $7,700 (18 R(including 1 DD),3 W(including 1 DD))
+Peter: $3,900 (10 R,2 W)
+Bob: $12,000 (29 R(including 1 DD),1 W)

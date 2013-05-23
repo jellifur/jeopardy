@@ -1,0 +1,349 @@
+6241 - Monday, November 7, 2011
+Comments: 2011 Tournament of Champions quarterfinal game 4.
+Contestants:
+Buddy Wright: an operations engineer from Fort Worth, Texas
+Erin McLean: a junior at Boston University from Danvers, Massachusetts
+Paul Kursky: an online marketing producer from San Francisco, California
+First Jeopardy! Round: ON A U.S. POSTAGE STAMP, SPORTS NUMBERS, HOMOPHONIC PAIRS, PLANET OF THE CORGIS, THE CARIBBEAN, SCIENCE "K"LASS
+ON A U.S. POSTAGE STAMP | Ray Harroun driving No. 32, his Marmon Wasp, to commemorate the centennial of this race | the Indianapolis 500
+right: Buddy
+Wrong: 
+Value: $200
+Number: 9
+SPORTS NUMBERS | Points for a touchdown plus a 2-point conversion | 8
+right: Paul
+Wrong: 
+Value: $200
+Number: 12
+HOMOPHONIC PAIRS | Ongoing TV drama about Cap'n Crunch or Cheerios | cereal serial
+right: Buddy
+Wrong: 
+Paul: What is a cereal... drama?
+Value: $200
+Number: 17
+PLANET OF THE CORGIS | People in Cardiff know that the 2 types of corgi each have this nationality in their names | Welsh
+right: Paul
+Wrong: 
+Value: $200
+Number: 11
+THE CARIBBEAN | These areas not for the shy include parts of Jamaica's Seven Mile Beach & of course Booby Cay, just offshore | nudist beaches
+right: Buddy
+Wrong: 
+Value: $200
+Number: 1
+SCIENCE "K"LASS | Almost exactly equal to the mass of 1,000 cubic centimeters of water, it's a base unit in the metric system | kilogram
+right: Buddy
+Wrong: 
+Paul: What's a liter?
+Erin: What's a kilometer?
+Value: $200
+Number: 2
+ON A U.S. POSTAGE STAMP | This ovine critter seen <http://www.j-archive.com/media/2011-11-07_J_10.jpg> here on a 17-cent stamp | a bighorn sheep
+right: Erin
+Wrong: 
+Value: $400
+Number: 10
+SPORTS NUMBERS | Number of RBIs credited to a batter who hits a grand slam | 4
+right: Erin
+Wrong: 
+Value: $400
+Number: 13
+HOMOPHONIC PAIRS | Adam & Eve's competent son | able Abel
+right: Buddy
+Wrong: 
+Value: $400
+Number: 18
+PLANET OF THE CORGIS | This author who wrote about a rabid St. Bernard owns corgis & featured one in his novel "Under the Dome" | (Stephen) King
+right: Paul
+Wrong: 
+Value: $400
+Number: 24
+THE CARIBBEAN | The Island of St. Eustatius has a holiday on Nov. 16, the date in this year it gave the 1st official salute to a U.S. ship | 1776
+right: Buddy
+Wrong: 
+Value: $400
+Number: 7
+SCIENCE "K"LASS | Just add 273.15 to your Celsius reading to get this | kelvin
+right: Buddy
+Wrong: 
+Value: $400
+Number: 3
+ON A U.S. POSTAGE STAMP | Oveta Culp Hobby, who helped form this, WAC for short | the Women's Army Corps
+right: 
+Wrong: Triple Stumper
+Buddy: What is the Women's Air Corps?
+Value: $600
+Number: 22
+SPORTS NUMBERS | Number of seconds in a full NBA shot clock | 24
+right: Buddy
+Wrong: 
+Value: $600
+Number: 14
+HOMOPHONIC PAIRS | Bad-smelling chicken or turkey | foul fowl
+right: Buddy
+Wrong: 
+Value: $600
+Number: 19
+PLANET OF THE CORGIS | <http://www.j-archive.com/media/2011-11-07_J_26.jpg> Here's our friend the corgi taking <http://www.j-archive.com/media/2011-11-07_J_26a.jpg> this future world leader for a walk in Hyde Park around 1940 | Queen Elizabeth II
+right: Erin
+Wrong: 
+Paul: Who is Roosevelt?  <em class="correct_response">Queen Elizabeth II</em>  <table width="100%"><tr><td class="wrong">Paul</td><td class="right">Erin</td></tr></table>'
+Value: $600
+Number: 26
+THE CARIBBEAN | The Casals Festival in this Puerto Rican city is one of the Caribbean's best-known cultural events | San Juan
+right: Paul
+Wrong: 
+Value: $600
+Number: 8
+SCIENCE "K"LASS | This noble gas used in high-speed photography lamps takes its name from the Greek for "hidden" | krypton
+right: Buddy
+Wrong: 
+Value: DD: $1,000
+Number: 4
+ON A U.S. POSTAGE STAMP | The dinnerware <http://www.j-archive.com/media/2011-11-07_J_23.jpg> seen <http://www.j-archive.com/media/2011-11-07_J_23a.jpg> here, with this Spanish name | Fiesta ware
+right: Erin
+Wrong: 
+Value: $800
+Number: 23
+SPORTS NUMBERS | An NHL team killing a penalty normally has this many guys on the ice | 5
+right: Buddy
+Wrong: 
+Paul: What is 4?  Nope!
+Value: $800
+Number: 15
+HOMOPHONIC PAIRS | Monetary gain for a person who speaks for God | prophet profit
+right: Buddy
+Wrong: 
+Value: $800
+Number: 20
+PLANET OF THE CORGIS | The dorgi is a dog produced when a corgi mates with this similar-looking breed | a dachshund
+right: Erin
+Wrong: 
+Value: $800
+Number: 27
+THE CARIBBEAN | The boulders seen <http://www.j-archive.com/media/2011-11-07_J_29.jpg> here, known as "the Baths", are an attraction in this group, known as the BVI | the British Virgin Islands
+right: Buddy
+Wrong: 
+Value: $800
+Number: 29
+SCIENCE "K"LASS | A substance to start a fire, or the point that's the lowest temperature at which something will autoignite | the kindling point
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+ON A U.S. POSTAGE STAMP | This herb, Salvia officinalis | sage
+right: Paul
+Wrong: 
+Value: $1000
+Number: 25
+SPORTS NUMBERS | If you win the first point of a tennis game, you have this number as your score | 15
+right: Buddy
+Wrong: 
+Value: $1000
+Number: 16
+HOMOPHONIC PAIRS | A mixture of 2 languages spoken by a plentiful city bird | pigeon pidgin
+right: Buddy
+Wrong: 
+Value: $1000
+Number: 21
+PLANET OF THE CORGIS | Once members of the AKC's working group, corgis are now classified in this group, as they were bred to handle cattle | herding dogs
+right: Erin
+Wrong: 
+Value: $1000
+Number: 28
+THE CARIBBEAN | You might see Oscar de la Renta around Punta Cana, on the eastern tip of Hispaniola in this country | the Dominican Republic
+right: Erin
+Wrong: 
+Value: $1000
+Number: 30
+SCIENCE "K"LASS | Macrocystis, this type of seaweed, can be 200 feet long | kelp
+right: Paul
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Paul: $1,000
+Erin: $600
+Buddy: $3,800
+Scores at the end of the Jeopardy! Round:
+Paul: $1,600
+Erin: $4,800
+Buddy: $8,000
+Second Jeopardy! Round: VERSE CASE SCENARIO, CHARACTERS FROM MOVIES, WHAT'D YOU CATCH?, 9-LETTER WORDS, NOTABLE WOMEN, TREASURES OF THE NEW-YORK HISTORICAL SOCIETY
+VERSE CASE SCENARIO | This 2-letter word is the title & first word of Kipling's poem that ends, "you'll be a man, my son!" | if
+right: Erin
+Wrong: 
+Value: $400
+Number: 9
+CHARACTERS FROM MOVIES | 1987: Inigo Montoya, Prince Humperdinck, Fezzik | The Princess Bride
+right: Buddy
+Wrong: 
+Value: $400
+Number: 6
+WHAT'D YOU CATCH? | A bullhead type of this, genus Ameiurus | a catfish
+right: Paul
+Wrong: 
+Value: $400
+Number: 1
+9-LETTER WORDS | To pump, fade or hang ten, you'll need this piece of equipment | a surfboard
+right: Buddy
+Wrong: 
+Value: $400
+Number: 13
+NOTABLE WOMEN | This first woman on the Supreme Court left the court in 2006 | Sandra Day O'Connor
+right: Erin
+Wrong: 
+Value: $400
+Number: 21
+TREASURES OF THE NEW-YORK HISTORICAL SOCIETY | This man slept <http://www.j-archive.com/media/2011-11-07_DJ_26.jpg> here--no, really--during the Revolutionary War | Washington
+right: Paul
+Wrong: 
+Value: $400
+Number: 26
+VERSE CASE SCENARIO | She wrote, "Dying is an art, like everything else.  I do it exceptionally well.  I do it so it feels like hell" | Sylvia Plath
+right: Buddy
+Wrong: 
+Value: $800
+Number: 10
+CHARACTERS FROM MOVIES | 2008: Kirk Lazarus, Tugg Speedman | Tropic Thunder
+right: Erin
+Wrong: 
+Value: $800
+Number: 7
+WHAT'D YOU CATCH? | After a struggle, not a fish, but an Eagle GT tire from this maker | Goodyear
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+9-LETTER WORDS | Chemical weedkiller | an herbicide
+right: Buddy
+Wrong: 
+Value: $800
+Number: 14
+NOTABLE WOMEN | Her grave marker in Africa says, "No one loved gorillas more" | (Dian) Fossey
+right: Paul
+Wrong: 
+Value: $800
+Number: 22
+TREASURES OF THE NEW-YORK HISTORICAL SOCIETY | John J. Audubon never made it to California; he painted <http://www.j-archive.com/media/2011-11-07_DJ_27.jpg> this <http://www.j-archive.com/media/2011-11-07_DJ_27a.jpg> vulture species from a dead specimen | a California condor
+right: Paul
+Wrong: 
+Value: $800
+Number: 27
+VERSE CASE SCENARIO | This Chilean poet wrote, "I crave your mouth, your voice, your hair" | (Pablo) Neruda
+right: Erin
+Wrong: 
+Value: $1200
+Number: 18
+CHARACTERS FROM MOVIES | 1978: Dean Vernon Wormer, Doug Neidermeyer | National Lampoon's Animal House
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+WHAT'D YOU CATCH? | Not a starfish, but <http://www.j-archive.com/media/2011-11-07_DJ_03.jpg> this heavenly one | a sunfish
+right: Paul
+Wrong: 
+Erin: What is an angelfish?
+Value: $1200
+Number: 3
+9-LETTER WORDS | This removable footway connects a ship with a pier | a gangplank
+right: Paul
+Wrong: 
+Value: $1200
+Number: 15
+NOTABLE WOMEN | Isak Dinesen wrote in both English & this, her native language | Danish
+right: Erin
+Wrong: 
+Value: $1200
+Number: 23
+TREASURES OF THE NEW-YORK HISTORICAL SOCIETY | John Jay's <http://www.j-archive.com/media/2011-11-07_DJ_28.jpg> "In Relation to Foreign Nations" is one of just four extant <http://www.j-archive.com/media/2011-11-07_DJ_28a.jpg> manuscripts in the series known as these "Papers" | the Federalist Papers
+right: Erin
+Wrong: 
+Value: $1200
+Number: 28
+VERSE CASE SCENARIO | She began a poem, "What lips my lips have kissed, and where, and why, I have forgotten" | Edna St. Vincent Millay
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+CHARACTERS FROM MOVIES | 1989: Lloyd Dobler, Diane Court | Say Anything...
+right: 
+Wrong: Triple Stumper
+Paul: What is Better Off Dead?
+Value: $1600
+Number: 11
+WHAT'D YOU CATCH? | A cold, while fishing nearly 200-square-mile Flathead Lake in this northern state | Montana
+right: 
+Wrong: Triple Stumper
+Paul: What's Minnesota?
+Value: $1600
+Number: 4
+9-LETTER WORDS | This type of computer program is available for free on a trial basis; then a fee is paid for continued usage | shareware
+right: Buddy
+Wrong: 
+Value: $1600
+Number: 16
+NOTABLE WOMEN | <http://www.j-archive.com/media/2011-11-07_DJ_24.jpg> This Italian-born woman was famous for her educational methods | (Maria) Montessori
+right: Buddy
+Wrong: 
+Value: $1600
+Number: 24
+TREASURES OF THE NEW-YORK HISTORICAL SOCIETY | New York City is the <http://www.j-archive.com/media/2011-11-07_DJ_29.jpg> finish line of the 73-step <http://www.j-archive.com/media/2011-11-07_DJ_29a.jpg> board game called "Round the World with" <http://www.j-archive.com/media/2011-11-07_DJ_29b.jpg> this adventuress | Nellie Bly
+right: Buddy
+Wrong: 
+Value: $1600
+Number: 29
+VERSE CASE SCENARIO | Longfellow: "Behind the clouds is the sun still shining; thy fate is the common fate of all, into each life" these four words | "some rain must fall"
+right: 
+Wrong: 
+Erin: What is "the sun also rises"?
+Value: DD: $2,200
+Number: 20
+CHARACTERS FROM MOVIES | 1982: King Kaiser, Alan Swann | My Favorite Year
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+WHAT'D YOU CATCH? | This fish with a beach city just south of Boca Raton named for it | a pompano
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+9-LETTER WORDS | (<http://www.j-archive.com/media/2011-11-07_DJ_17.wmv> Sarah of the Clue Crew rubs her finger on a glass.)  Rubbing your finger on the rim causes the glass to vibrate; the sound's pitch is due to this 9-letter term, the number of vibrations per second | frequency
+right: Erin
+Wrong: 
+Paul: What is resonance?
+Value: $2000
+Number: 17
+NOTABLE WOMEN | Piloting Vostok 6, she orbited the Earth 48 times during her trip into space in 1963 | (Valentina) Tereshkova
+right: Buddy
+Wrong: 
+Value: DD: $1,600
+Number: 25
+TREASURES OF THE NEW-YORK HISTORICAL SOCIETY | In November of 1776 more than 700 New Yorkers loyal to Britain <http://www.j-archive.com/media/2011-11-07_DJ_30.jpg> signed what's known as the "Declaration of" <http://www.j-archive.com/media/2011-11-07_DJ_30a.jpg> this | Dependence
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Paul: $1,200
+Erin: $8,600
+Buddy: $16,800
+
+Final Jeopardy! Round
+FROM THE GREEK | The word for a song element you won't find in instrumentals comes from the name of this instrument | a lyre
+right: Paul | Erin | Buddy
+Wrong: 
+Wagers: 
+Paul: $1,200
+Erin: $7,403
+Buddy: $401
+Final scores:
+Paul: $2,400 (3rd place: $5,000 if eliminated)
+Erin: $16,003 (2nd place: $5,000 if eliminated)
+Buddy: $17,201 (Automatic semifinalist)
+
+Coryat scores
+Paul: $1,200 (12 R,7 W)
+Erin: $10,800 (14 R,3 W(including 1 DD))
+Buddy: $16,800 (23 R(including 2 DDs),1 W)

@@ -1,0 +1,339 @@
+3325 - Friday, February 5, 1999
+Comments: 1999 Celebrity <i>Jeopardy!</i> Leading Men Night.
+Contestants:
+David James Elliott:  from JAG
+Stephen Collins:  from 7th Heaven
+Thomas Gibson:  from Dharma & Greg
+First Jeopardy! Round: NAME THAT STATE, FAMOUS BEAUTIES, DRIVING DON'TS, MOVIE QUOTES, A COWBOY'S DICTIONARY, NUMBER, PLEASE
+NAME THAT STATE | Knott's Berry Farm, Napa Valley, Yosemite National Park | California
+right: Stephen
+Wrong: 
+Value: $100
+Number: 8
+FAMOUS BEAUTIES | This international supermodel is a former host of MTV's "House Of Style" | Cindy Crawford
+right: David
+Wrong: 
+Value: $100
+Number: 6
+DRIVING DON'TS | "Piggish" term for an aggressive driver who invades the lanes of other drivers | "Road Hog"
+right: Thomas
+Wrong: 
+Value: $100
+Number: 16
+MOVIE QUOTES | "Food Fight!" & "Toga! Toga!" | Animal House
+right: Stephen
+Wrong: 
+Value: $100
+Number: 1
+A COWBOY'S DICTIONARY | Adapted from the Spanish word juzgado (court), it was an Old West jail where many a cowboy did time | Hoosegow
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 21
+NUMBER, PLEASE | It's the number of winks or thieves | 40
+right: David
+Wrong: 
+Value: $100
+Number: 26
+NAME THAT STATE | EPCOT Center, The Everglades, The Kennedy Space Center | Florida
+right: Thomas
+Wrong: 
+Value: $200
+Number: 9
+FAMOUS BEAUTIES | She's the superstar seen here in an early "cheesecake" shot | Marilyn Monroe
+right: Stephen
+Wrong: 
+Value: $200
+Number: 7
+DRIVING DON'TS | This phrase describes an accident in which the driver flees the scene | Hit-and-run
+right: David
+Wrong: 
+Value: $200
+Number: 17
+MOVIE QUOTES | "Help me, Obi-Wan Kenobi.  You're my only hope" | Star Wars
+right: David
+Wrong: 
+Value: $200
+Number: 2
+A COWBOY'S DICTIONARY | Every open-range cowboy feared these uncontrolled runaway herds of cattle | Stampede
+right: David
+Wrong: 
+Value: $200
+Number: 22
+NUMBER, PLEASE | Number of the century that will begin January 1, 2001 | 21st
+right: Stephen
+Wrong: 
+Value: $200
+Number: 27
+NAME THAT STATE | The Sears Tower, The McDonald's Museum, Abe Lincoln's Tomb | Illinois
+right: Thomas
+Wrong: 
+Value: DD: $600
+Number: 10
+FAMOUS BEAUTIES | This movie star reminded the World War II troops what they were fighting for | Betty Grable
+right: Stephen
+Wrong: 
+Value: $300
+Number: 13
+DRIVING DON'TS | Don't gun the engine & pop this pedal | Clutch
+right: Stephen
+Wrong: 
+Value: $300
+Number: 18
+MOVIE QUOTES | "I'll have Sam play 'As Time Goes By'.  I believe that's your favorite tune" | Casablanca
+right: David
+Wrong: 
+Value: $300
+Number: 3
+A COWBOY'S DICTIONARY | Due to the commonplace amputation of limbs, a doctor or surgeon was often called this tool nickname | Sawbones
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+NUMBER, PLEASE | According to World Book, it's considered the IQ of the average person | 100
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+NAME THAT STATE | The Astrodome, The Cowgirl Hall of Fame, The Lyndon B. Johnson Library | Texas
+right: David
+Wrong: 
+Value: $400
+Number: 11
+FAMOUS BEAUTIES | Pulses & sales went way up when she graced the cover of Sports Illustrated | Tyra Banks
+right: Stephen
+Wrong: 
+Value: $400
+Number: 14
+DRIVING DON'TS | To make your tires squeak & leave blackmarks is called "burning" this | Rubber
+right: Stephen
+Wrong: 
+Value: $400
+Number: 19
+MOVIE QUOTES | "I'm not bad.  I'm just drawn that way" | Who Framed Roger Rabbit
+right: Thomas
+Wrong: 
+Value: $400
+Number: 4
+A COWBOY'S DICTIONARY | It's someone who claimed rights to land by occupying it | Squatter
+right: David
+Wrong: 
+Value: $400
+Number: 24
+NUMBER, PLEASE | According to the rhyme, number of whacks Lizzie gave her father | 41
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+NAME THAT STATE | Graceland, The Grand Ole Opry, David Crockett State Park | Tennessee
+right: Thomas
+Wrong: 
+Value: $500
+Number: 12
+FAMOUS BEAUTIES | In 1995 she joined Naomi, Claudia & Elle in the Fashion Cafe business | Christy Turlington
+right: Thomas
+Wrong: 
+Value: $500
+Number: 15
+DRIVING DON'TS | It's the term for what you're doing if you can read an "If you can read this you're too close" bumper sticker | Tailgating
+right: Thomas
+Wrong: 
+Value: $500
+Number: 20
+MOVIE QUOTES | "Good morning! And in case I don't see you, good afternoon, good evening, and good night!" | The Truman Show
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+A COWBOY'S DICTIONARY | In cowboy talk,to drink whiskey was to "paint" these internal throat parts | Tonsils
+right: David
+Wrong: 
+Value: $500
+Number: 25
+NUMBER, PLEASE | The Bible says the normal life span of man is threescore and ten, this many years | 70
+right: Stephen
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Thomas: $2,200
+Stephen: $600
+David: $500
+Scores at the end of the Jeopardy! Round:
+Thomas: $2,500
+Stephen: $1,300
+David: $1,200
+Second Jeopardy! Round: FINISH THE LINE, SPORTS, QUEEN ELIZABETH II, THE GOOD LIFE, FACTS & FIGURES, BEASTLY EXPRESSIONS
+FINISH THE LINE | Francis Scott Key: "Oh! Say, can you see..." | By the dawn's early light
+right: Stephen
+Wrong: 
+Value: $200
+Number: 16
+SPORTS | This major league's web site gives each player's ice time (not his Miller Time) | NHL (National Hockey League)
+right: Stephen
+Wrong: 
+Value: $200
+Number: 11
+QUEEN ELIZABETH II | It's the Queen's royal family name & the name of one of her castles | Windsor
+right: Stephen
+Wrong: 
+Value: $200
+Number: 26
+THE GOOD LIFE | To play this sport indoors, you only need a 100-yard instead of a 300-yard field, & fewer ponies | Polo
+right: Stephen
+Wrong: 
+Value: $200
+Number: 21
+FACTS & FIGURES | This Austrian can pump you up; he's been a 3-time Mr. Universe, and a 7-time Mr. Olympia | Arnold Schwarzenegger
+right: Stephen
+Wrong: 
+Value: $200
+Number: 6
+BEASTLY EXPRESSIONS | It's the term for a town so small & unexciting it has but a single equine | One-horse town
+right: Thomas
+Wrong: 
+Value: $200
+Number: 1
+FINISH THE LINE | A practicing typist: "The quick brown fox..." | Jumped over the lazy dog
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+SPORTS | The complicated rating system for this position includes percentage of interceptions per attempt | Quarterback
+right: Stephen
+Wrong: 
+Value: $400
+Number: 12
+QUEEN ELIZABETH II | It's really April 21, but this event is officially celebrated each year on the third Saturday in June | The Queen's Birthday
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+THE GOOD LIFE | 6-letter word for a beauty treatment that covers the area from forehead to chin | Facial
+right: David
+Wrong: 
+Value: $400
+Number: 22
+FACTS & FIGURES | A survey for Hebrew National found that at 68%, this is the top hot dog topping | Mustard
+right: Thomas
+Wrong: 
+Value: $400
+Number: 7
+BEASTLY EXPRESSIONS | In this weather phrase, felines represent precipitation & canines symbolize wind & storm | Raining cats & dogs
+right: Stephen
+Wrong: 
+Value: $400
+Number: 2
+FINISH THE LINE | The Beatles: "I think I'm gonna be sad..." | I think it's today
+right: David
+Wrong: 
+Value: $600
+Number: 18
+SPORTS | In 1998 Mike Piazza set a short-lived record in this category:  7 years, 91 million | Salary
+right: Thomas
+Wrong: 
+Value: $600
+Number: 13
+QUEEN ELIZABETH II | It's Queen Elizabeth's official London residence | Buckingham Palace
+right: David
+Wrong: 
+Value: $600
+Number: 28
+THE GOOD LIFE | Arturo Fuente & Macanudo aren't Latin singing sensations, they're fine brands of these | Cigars
+right: Thomas
+Wrong: 
+Value: $600
+Number: 23
+FACTS & FIGURES | We heard a rumor this group's "Rumours" has sold over 17 million copies | Fleetwood Mac
+right: Thomas
+Wrong: 
+Value: $600
+Number: 8
+BEASTLY EXPRESSIONS | In other words, it's a grizzly embrace | Bear hug
+right: David
+Wrong: 
+Value: $600
+Number: 3
+FINISH THE LINE | Genesis 1:1: "In the beginning...." | God created heaven and Earth
+right: 
+Wrong: Triple Stumper
+Stephen: What is the Word?
+Value: $800
+Number: 19
+SPORTS | At Wimbledon in 1976, John Feaver set a record with 42 of these against John Newcombe but lost | Aces
+right: Thomas
+Wrong: 
+Value: DD: $2,000
+Number: 14
+QUEEN ELIZABETH II | On June 2, 1953 Elizabeth was crowned in this religious buliding | Westminster Abbey
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 29
+THE GOOD LIFE | Connoisseurs know that the Franc variety of this grape is less full-bodied than the Sauvignon | Cabernet
+right: Thomas
+Wrong: 
+Value: $800
+Number: 24
+FACTS & FIGURES | Cow's milk contains about 50% of this sugar; human milk is slightly sweeter | Lactose
+right: Stephen
+Wrong: 
+Value: $800
+Number: 9
+BEASTLY EXPRESSIONS | If you expose yourself to great danger, you're "placing your head in" this animal's "mouth" | The lion's mouth
+right: Stephen
+Wrong: 
+Value: $800
+Number: 4
+FINISH THE LINE | Groucho: "I never forget a face, but in your case...." | I'll make an exception
+right: David
+Wrong: 
+Value: $1000
+Number: 20
+SPORTS | In 1997-98 Shaq led the NBA in field goal percentage with 58.4 & Chris Mullin led in this percentage with 93.9 | Free throw
+right: Thomas
+Wrong: 
+Value: $1000
+Number: 15
+QUEEN ELIZABETH II | The Queen has 4 children:  3 sons & this daughter | Princess Anne
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+THE GOOD LIFE | Beaten egg whites make this French-named dish light & airy whether it's with chocolate or salmon | Mousse
+right: Stephen | David
+Wrong: 
+Value: $1000
+Number: 25
+FACTS & FIGURES | On January 10, 1911 the temperature at Rapid City in this state fell over 45 degrees in 15 minutes | South Dakota
+right: Stephen
+Wrong: 
+Value: $1000
+Number: 10
+BEASTLY EXPRESSIONS | When you anger or annoy someone, you "get his" this | Goat
+right: Thomas
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Thomas: $9,700
+Stephen: $5,900
+David: $4,400
+
+Final Jeopardy! Round
+AMERICAN LITERATURE | The book of Jonah is quoted before Chapter One of this 1851 novel | Moby-Dick
+right: David | Stephen | Thomas
+Wrong: 
+Wagers: 
+David: $4,400
+Stephen: $5,900
+Thomas: $9,700
+Final scores:
+Thomas: $19,400 (Winner: $19,400 for the American Society of the Prevention of Cruelty to Animals)
+Stephen: $11,800 (2nd place: $11,800 for Habitat for Humanity & The Christopher Reeve Foundation)
+David: $8,800 (3rd place: $10,000 for The Dream Foundation)
+
+Coryat scores
+Thomas: $8,200 (16 R(including 2 DDs),1 W)
+Stephen: $5,900 (20 R,4 W)
+David: $5,400 (15 R,4 W(including 1 DD))

@@ -1,0 +1,334 @@
+6234 - Thursday, October 27, 2011
+Contestants:
+Alex Johnson: an actor and theater intern originally from Danvers, Massachusetts
+Sunny Stalter: an English professor from Auburn, Alabama
+Gabor Vari: a psychiatrist from Los Angeles, California (whose 2-day cash winnings total $58,402)
+First Jeopardy! Round: ADDRESS ME, FILL IN THE ANIMAL, THE EMPIRE STRIKES PLAQUE, THE "BEST" OF EVERYTHING, MOST POPULAR BABY NAMES BY YEAR, MYTHBUSTERS
+ADDRESS ME | This family lives at 742 Evergreen Terrace, Springfield, somewhere in the United States | the Simpsons
+right: Gabor
+Wrong: 
+Value: $200
+Number: 1
+FILL IN THE ANIMAL | A game from Rovio:  Angry ____ | Birds
+right: Gabor
+Wrong: 
+Value: $200
+Number: 7
+THE EMPIRE STRIKES PLAQUE | The British Dental Association says that most adults in the U.K. suffer from periodontal, aka this, disease | gum
+right: Alex
+Wrong: 
+Value: $200
+Number: 28
+THE "BEST" OF EVERYTHING | Traditionally he gives the first toast to the bride & groom at the reception | the best man
+right: Alex
+Wrong: 
+Value: $200
+Number: 6
+MOST POPULAR BABY NAMES BY YEAR | 1971, boys:  An archangel | Michael
+right: Alex
+Wrong: 
+Gabor: Who is Gabriel?
+Value: $200
+Number: 17
+MYTHBUSTERS | (<http://www.j-archive.com/media/2011-10-27_J_18.wmv> The Mythbusters deliver the clue.)  The idiom "going down like a lead balloon" implies that lead balloons can't fly but by constructing a balloon & filling it with enough of this inert gas, we achieved lift-off, myth busted! | helium
+right: Gabor
+Wrong: 
+Value: $200
+Number: 18
+ADDRESS ME | This rather animated guy lives at 124 Conch Street | SpongeBob
+right: Gabor
+Wrong: 
+Value: $400
+Number: 2
+FILL IN THE ANIMAL | A magazine for teens:  ____ Beat | Tiger
+right: Gabor
+Wrong: 
+Value: $400
+Number: 10
+THE EMPIRE STRIKES PLAQUE | U.K. dentists recommend no less than 1,000 ppm of this in your 3-year-old's toothpaste | fluoride
+right: Gabor
+Wrong: 
+Value: $400
+Number: 20
+THE "BEST" OF EVERYTHING | Put this body part "forward" to create a favorable initial impression | your best foot
+right: Gabor
+Wrong: 
+Value: $400
+Number: 8
+MOST POPULAR BABY NAMES BY YEAR | 1998, girls: One of the Bronte sisters | Emily
+right: Sunny
+Wrong: 
+Value: DD: $1,600
+Number: 24
+MYTHBUSTERS | (<http://www.j-archive.com/media/2011-10-27_J_19.wmv> The Mythbusters deliver the clue.)  In the 15th century, Leonardo da Vinci designed a cannon powered by the rapid expansion of this; he thought it would fire projectiles 3,000 feet, but our test showed that the idea was mostly hot air | steam
+right: Gabor
+Wrong: 
+Value: $400
+Number: 19
+ADDRESS ME | On "Everybody Loves Raymond", Ray & Debra lived at 320 Fowler; these people, across the street at 319 | Ray's parents
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+FILL IN THE ANIMAL | A Mac operating system:  Snow ____ | Leopard
+right: Sunny
+Wrong: 
+Value: $600
+Number: 14
+THE EMPIRE STRIKES PLAQUE | British dentistry has advanced since medieval barbers performed this procedure using a tool called the pelican | an extraction
+right: Sunny
+Wrong: 
+Gabor: What is a root canal?
+Value: $600
+Number: 13
+THE "BEST" OF EVERYTHING | Male or female, it's the main assistant to the chief electrician on a movie | the best boy
+right: Sunny
+Wrong: 
+Value: $600
+Number: 9
+MOST POPULAR BABY NAMES BY YEAR | 1914, boys:  A gospel writer | John
+right: Sunny
+Wrong: 
+Alex: Uh, who is Mark?
+Value: $600
+Number: 16
+MYTHBUSTERS | (<http://www.j-archive.com/media/2011-10-27_J_27.wmv> The Mythbusters deliver the clue.)  We tested a story of unlikely survival using a parachutist hitting a see-saw to launch a girl several stories up but she'd be subjected to 42 of these units, exerted on an object by changes in speed, so a safe landing is unlikely indeed | a g
+right: Gabor
+Wrong: 
+Value: $600
+Number: 27
+ADDRESS ME | Holly Robinson & Peter DeLuise were youthful cops on the show named for this address | 21 Jump Street
+right: Sunny
+Wrong: 
+Value: $800
+Number: 4
+FILL IN THE ANIMAL | The fruit of the baobab: ____ bread | monkey
+right: Gabor
+Wrong: 
+Value: $800
+Number: 15
+THE EMPIRE STRIKES PLAQUE | The British Dental Association says there is little danger from this element that's always present in amalgams | mercury
+right: Gabor
+Wrong: 
+Sunny: What is lead?
+Value: $800
+Number: 12
+THE "BEST" OF EVERYTHING | With more than 4,000 hotels, this chain claims to be the world's largest | Best Western
+right: Gabor
+Wrong: 
+Value: $800
+Number: 11
+MOST POPULAR BABY NAMES BY YEAR | 1930, boys: Like Goddard or Benchley | Robert
+right: Sunny
+Wrong: 
+Gabor: What is Peter?
+Value: $800
+Number: 25
+MYTHBUSTERS | (<http://www.j-archive.com/media/2011-10-27_J_29.wmv> The Mythbusters deliver the clue.)  500 mirrors reflected the sun's rays on a ship's sail which got hot, but failed to catch fire; at President Obama's request we were testing a method invented by this ancient Greek mathematician | Archimedes
+right: Alex
+Wrong: 
+Sunny: Who is Pythagoras?
+Value: $800
+Number: 29
+ADDRESS ME | 1020 Palm Drive, Cocoa Beach, Florida was home to all the magical fun on this classic sitcom | I Dream of Jeannie
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 5
+FILL IN THE ANIMAL | A selfish person: ____ in the manger | dog
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 22
+THE EMPIRE STRIKES PLAQUE | Missing a molar in Manchester?  Contact the NHS, short for this, & get a list of hospitals with a dentist on call | the National Health Service
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 21
+THE "BEST" OF EVERYTHING | 3 returning veterans from World War II readjust to civilian life in this Oscar-winning 1946 film | The Best Years of Our Lives
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 23
+MOST POPULAR BABY NAMES BY YEAR | 1950, girls: "Pretty" en español | Linda
+right: Gabor
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Gabor: $2,600
+Sunny: $2,800
+Alex: $200
+Scores at the end of the Jeopardy! Round:
+Gabor: $5,000
+Sunny: $8,000
+Alex: $800
+Second Jeopardy! Round: ADDRESS ME, THE TONY AWARD FOR BEST PLAY, CERAMICS, MY "K"OUNTRY, POSTHUMOUS POP HITS, MAKING WORDS
+ADDRESS ME | This speech ends, "government of the people, by the people, for the people, shall not perish from the earth" | the Gettysburg Address
+right: Alex
+Wrong: 
+Value: $400
+Number: 17
+THE TONY AWARD FOR BEST PLAY | 1988: This story based on an opera set in Asia | M. Butterfly
+right: 
+Wrong: Triple Stumper
+Gabor: What is Miss Saigon?
+Value: $400
+Number: 1
+CERAMICS | From the Latin for "stove", this brick-lined oven is used to harden & glaze ceramics | kiln
+right: Gabor
+Wrong: 
+Value: $400
+Number: 26
+MY "K"OUNTRY | It's the larger of the 2 "K" stans | Kazakhstan
+right: Alex
+Wrong: 
+Value: $400
+Number: 9
+POSTHUMOUS POP HITS | 1968:  "(Sittin' On) The Dock Of The Bay" | (Otis) Redding
+right: Gabor
+Wrong: 
+Value: $400
+Number: 15
+MAKING WORDS | H<sub>2</sub>O  +  small storage structure=  this turning point | watershed
+right: Gabor
+Wrong: 
+Value: $400
+Number: 11
+ADDRESS ME | Patrick Henry gave his rousing "Give me liberty or give me death" address in this pre-revolutionary year | 1775
+right: Gabor
+Wrong: 
+Value: $800
+Number: 22
+THE TONY AWARD FOR BEST PLAY | 2005: This drama of nuns, priests & uncertainity | Doubt
+right: Alex
+Wrong: 
+Value: DD: $2,000
+Number: 2
+CERAMICS | Jasperware, introduced by Josiah Wedgwood in 1774, is most commonly made in a pale shade of this color | blue
+right: Sunny
+Wrong: 
+Value: $800
+Number: 27
+MY "K"OUNTRY | It's the smaller of the 2 "K" stans | Kyrgyzstan
+right: Alex
+Wrong: 
+Value: $800
+Number: 8
+POSTHUMOUS POP HITS | 1973:  "Time In A Bottle" | Jim Croce
+right: Sunny
+Wrong: 
+Value: $800
+Number: 18
+MAKING WORDS | Shakespearean second-person singular pronoun + fine quartz debris=  this 4-digit number | thousand
+right: Gabor
+Wrong: 
+Value: $800
+Number: 12
+ADDRESS ME | In a 1951 farewell address after he was fired, he lamented, "Old soldiers never die; they just fade away" | MacArthur
+right: Alex
+Wrong: 
+Value: $1200
+Number: 23
+THE TONY AWARD FOR BEST PLAY | 1979: Despite this title, he was not an animal | The Elephant Man
+right: Alex
+Wrong: 
+Value: $1200
+Number: 3
+CERAMICS | Porcelain is basically made from a mixture of 2 ingredients: petuntse & kaolin, a pure white type of this | clay
+right: 
+Wrong: Triple Stumper
+Gabor: What is glass?
+Sunny: What is chalk?
+Value: $1200
+Number: 28
+MY "K"OUNTRY | Pristina is the capital of this self-declared independent country of the Balkans | Kosovo
+right: Gabor
+Wrong: 
+Value: $1200
+Number: 5
+POSTHUMOUS POP HITS | 1981:  "Watching The Wheels" | John Lennon
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 19
+MAKING WORDS | Perpetrate, like a crime  +  pointy golf ball aid=  this appointed group | commitee
+right: Gabor
+Wrong: 
+Value: $1200
+Number: 13
+ADDRESS ME | About to become prime minister of a new country, he ended his 1947 "Tryst with Destiny" speech "jai hind" | Nehru
+right: Sunny
+Wrong: 
+Gabor: Who is Gandhi?
+Value: $1600
+Number: 24
+THE TONY AWARD FOR BEST PLAY | 1985: This Neil Simon story of basic training | Biloxi Blues
+right: Gabor
+Wrong: 
+Value: $1600
+Number: 4
+MY "K"OUNTRY | This Eastern African country is on the Indian Ocean | Kenya
+right: Gabor
+Wrong: 
+Value: DD: $5,600
+Number: 6
+POSTHUMOUS POP HITS | 1989:  "You Got It" | Roy Orbison
+right: Sunny
+Wrong: 
+Value: $1600
+Number: 20
+MAKING WORDS | Automobile  +  absent=  this aromatic cooking seed | caraway
+right: Sunny
+Wrong: 
+Gabor: What is cardamom?
+Value: $1600
+Number: 14
+ADDRESS ME | In his second inaugural, FDR said this fraction of the U.S. was "ill-housed, ill-clad, ill-nourished" | one-third
+right: Sunny
+Wrong: 
+Value: $2000
+Number: 25
+THE TONY AWARD FOR BEST PLAY | 2011: This, also a term for a play that gets trotted out over & over | War Horse
+right: 
+Wrong: Triple Stumper
+Alex: What is, uh, Next to Normal?
+Value: $2000
+Number: 10
+MY "K"OUNTRY | Though split in two by the international date line, this Pacific republic has all its islands on the same day | Kiribati
+right: Gabor
+Wrong: 
+Value: $2000
+Number: 7
+POSTHUMOUS POP HITS | 1995:  "I Could Fall In Love" | Selena
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+MAKING WORDS | Big river structure +  long period of time=  this injurious consequence | damage
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Gabor: $14,600
+Sunny: $15,200
+Alex: $4,800
+
+Final Jeopardy! Round
+MOVIES | The villain's visage in this movie series was partly chosen due to its likeness to an 1893 work by a Norwegian artist | Scream
+right: Alex | Gabor | Sunny
+Wrong: 
+Wagers: 
+Alex: $4,800
+Gabor: $4,999
+Sunny: $14,000
+Final scores:
+Gabor: $19,599 (2nd place: $2,000)
+Sunny: $29,200 (New champion: $29,200)
+Alex: $9,600 (3rd place: $1,000)
+
+Coryat scores
+Gabor: $10,600 (23 R(including 1 DD),7 W)
+Sunny: $14,000 (17 R(including 1 DD),3 W)
+Alex: $3,600 (10 R(including 1 DD),2 W)

@@ -1,0 +1,338 @@
+3653 - Wednesday, June 21, 2000
+Contestants:
+Michele Harvey: a software engineer from Centreville, Virginia
+David Mersault: an actor originally from Bismarck, North Dakota
+Glen Stevens: an assistant principal from Cottage Grove, Minnesota (whose 1-day cash winnings total $2,300)
+First Jeopardy! Round: JOHN QUINCY ADAMS, '90s MOVIES, THE NORTHERNMOST CAPITAL CITY, STUPID ANSWERS, DUKES & EARLS, ENDS IN "WIG"
+JOHN QUINCY ADAMS | When John Quincy passed the bar in 1790, his father had this job | Vice president
+right: Michele
+Wrong: 
+Value: $100
+Number: 6
+'90s MOVIES | John Malkovich was Cyrus "The Virus" Grissom, the leader of a group of criminals who hijack a plane in this 1997 thriller | Con Air
+right: David
+Wrong: 
+Value: $100
+Number: 1
+THE NORTHERNMOST CAPITAL CITY | Lagos, Algiers, Mogadishu | Algiers
+right: Glen
+Wrong: 
+Value: $100
+Number: 14
+STUPID ANSWERS | It's the collective 2-word name for the extinct bears who lived in caves 1,000,000 years ago | Cave bears
+right: Michele
+Wrong: 
+Value: $100
+Number: 7
+DUKES & EARLS | Charles Duke, Jr. got to go into space only once, but he did get to go here! | Moon
+right: Michele
+Wrong: 
+Value: $100
+Number: 12
+ENDS IN "WIG" | It's a quantity of drink taken at one time | Swig
+right: Michele
+Wrong: 
+Value: $100
+Number: 22
+JOHN QUINCY ADAMS | At age 63 John left the White House & began to serve in this house, where he was called "Old Man Eloquent" | House of Representatives
+right: Glen
+Wrong: 
+Value: $200
+Number: 27
+'90s MOVIES | This film seen here rounded up big crowds in the summer of '91: | City Slickers
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 2
+THE NORTHERNMOST CAPITAL CITY | Montevideo, Buenos Aires, Bogota | Bogota
+right: Michele
+Wrong: 
+Value: $200
+Number: 15
+STUPID ANSWERS | This Englishman born August 19, 1939 was the drummer in "Ginger Baker's Air Force" | Ginger Baker
+right: Michele
+Wrong: 
+Value: $200
+Number: 8
+DUKES & EARLS | As Earl of this, James Brudenell had a sweater named for him | Cardigan
+right: David
+Wrong: 
+Value: $200
+Number: 13
+ENDS IN "WIG" | An important person, like a politician or an executive producer | Big-wig
+right: David
+Wrong: 
+Value: $200
+Number: 23
+JOHN QUINCY ADAMS | John refused to attend the presidential inauguration of this man, his successor | Andrew Jackson
+right: David
+Wrong: 
+Value: $300
+Number: 28
+'90s MOVIES | Rob Lowe played the leader of a conservative religious group in this 1997 sci-fi film starring Jodie Foster | Contact
+right: Michele
+Wrong: 
+Value: $300
+Number: 3
+THE NORTHERNMOST CAPITAL CITY | Cairo, Damascus, Amman | Damascus
+right: David
+Wrong: 
+Value: $300
+Number: 19
+STUPID ANSWERS | It's the name given the nearly 1-week-long military conflict between Israel & several Arab neighbors in 1967 | Six-Day War
+right: David
+Wrong: 
+Value: $300
+Number: 9
+DUKES & EARLS | "As I walk through this world, nothing can stop this" 1962 Gene Chandler No. 1 hit | "Duke of Earl"
+right: David
+Wrong: 
+Value: $300
+Number: 16
+ENDS IN "WIG" | A small piece of a tree; as a verb it means "to understand" | Twig
+right: Glen
+Wrong: 
+Value: $300
+Number: 24
+JOHN QUINCY ADAMS | Little John & his mom were witnesses to this June 17, 1775 battle | Bunker Hill
+right: David
+Wrong: 
+Value: $400
+Number: 29
+'90s MOVIES | Clint Eastwood's dialogue in this 1995 romance meant it was "time to harvest the corn", according to People magazine | The Bridges of Madison County
+right: Michele
+Wrong: 
+Value: $400
+Number: 4
+THE NORTHERNMOST CAPITAL CITY | Managua, San Salvador, Guatemala City | Guatemala City
+right: Michele
+Wrong: 
+Value: $400
+Number: 20
+STUPID ANSWERS | 3-letter word that begins the titles of all 3 Best Picture winners of 1930, 1949 & 1950 | All
+right: Glen
+Wrong: 
+Value: $400
+Number: 10
+DUKES & EARLS | It's a bergamot-flavored brew | Earl Grey tea
+right: David
+Wrong: 
+Value: $400
+Number: 17
+ENDS IN "WIG" | First name of von Drake, Donald Duck's uncle from the European side of the family | Ludwig
+right: Michele
+Wrong: 
+Value: $400
+Number: 25
+JOHN QUINCY ADAMS | In 1811 Madison appointed him to this body; the Senate approved it, but John turned it down | Supreme Court
+right: Glen
+Wrong: 
+Value: $500
+Number: 30
+'90s MOVIES | Whitney Houston played the spouse of a New York pastor in this 1996 film | The Preacher's Wife
+right: David
+Wrong: 
+Value: $500
+Number: 5
+THE NORTHERNMOST CAPITAL CITY | Oslo, Helsinki, Stockholm | Helsinki
+right: Michele
+Wrong: 
+Value: DD: $500
+Number: 21
+STUPID ANSWERS | This great Hindu hero's story is told in the "Ramayana" | Rama
+right: Michele
+Wrong: 
+Value: $500
+Number: 11
+DUKES & EARLS | In the 1940s this man whose first name was Earl invented the type of container seen here: | Tupper
+right: Glen
+Wrong: 
+Value: $500
+Number: 18
+ENDS IN "WIG" | Eek!  Kill it!  Kill it!...it's the insect seen here: | Earwig
+right: David
+Wrong: 
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Glen: -$200
+David: $600
+Michele: $1,500
+Scores at the end of the Jeopardy! Round:
+Glen: $1,300
+David: $2,800
+Michele: $2,700
+Second Jeopardy! Round: THE 20th CENTURY, THAT WAS ENTERTAINMENT!, MUSEUMS, BASEBALL LIT, CABINET MINISTERS, RHYME TIME
+THE 20th CENTURY | On April 18, 1960 this Democratic presidential candidate said, "I don't think that my religion is anyone's business" | John F. Kennedy
+right: Michele
+Wrong: 
+Value: $200
+Number: 6
+THAT WAS ENTERTAINMENT! | Clown Dan Rice, who sported the beard of this national symbol, was so popular he ran for president in 1868 | Uncle Sam
+right: Michele
+Wrong: 
+Value: $200
+Number: 7
+MUSEUMS | In 2000 Jackson, Tennessee's Railroad Museum celebrates the centennial of this engineer's heroic deed | Casey Jones
+right: Michele
+Wrong: 
+Value: $200
+Number: 12
+BASEBALL LIT | David Halberstam looks back on a great World Series in the book titled this month, "1964" | October
+right: Glen
+Wrong: 
+Value: $200
+Number: 1
+CABINET MINISTERS | In 1986 this country saw its first cabinet minister dismissed in 33 years, education head Masayuki Fujio | Japan
+right: David
+Wrong: 
+Value: $200
+Number: 15
+RHYME TIME | A faux filet mignon | Fake steak
+right: Michele
+Wrong: 
+Value: $200
+Number: 13
+THE 20th CENTURY | The 1901 oil discovery at Spindletop near Beaumont launched the oil industry in this state | Texas
+right: David
+Wrong: 
+Value: $400
+Number: 23
+THAT WAS ENTERTAINMENT! | Silent film star portrayed in the 1951 film seen here: | Rudolph Valentino
+right: Michele
+Wrong: 
+Value: $400
+Number: 8
+MUSEUMS | From the Greek for "through and view", it's the type of museum display seen here: | Diorama
+right: Michele
+Wrong: 
+Value: $400
+Number: 30
+BASEBALL LIT | "The Bingo Long Traveling All-Stars and Motor Kings" is set in the segregated leagues called these | Negro Leagues
+right: David
+Wrong: 
+Value: $400
+Number: 2
+CABINET MINISTERS | This island nation's minister of culture & education, Bjorn Bjarnason, is the son of a former prime minister | Iceland
+right: Michele
+Wrong: 
+Value: $400
+Number: 16
+RHYME TIME | An amphibian avenue | Toad road
+right: David
+Wrong: 
+Value: $400
+Number: 14
+THE 20th CENTURY | On May 11, 1950 President Truman traveled to Washington state to dedicate this dam northwest of Spokane | Grand Coulee Dam
+right: David
+Wrong: 
+Value: $600
+Number: 24
+THAT WAS ENTERTAINMENT! | In 1922 this trumpeter joined the Creole Jazz Band led by King Oliver, who became his mentor | Louis Armstrong
+right: Michele
+Wrong: 
+Value: $600
+Number: 9
+MUSEUMS | Prince Edward Island's museum of these displays Canada's own Shepody variety as well as the russet Burbank | Potatoes
+right: Michele
+Wrong: 
+Value: $600
+Number: 29
+BASEBALL LIT | Douglass Wallop's "The Year the Yankees Lost the Pennant" was the basis for this musical | "Damn Yankees"
+right: David
+Wrong: 
+Value: DD: $1,600
+Number: 3
+CABINET MINISTERS | From 1956 to 1966 she was Israel's minister of foreign affairs | Golda Meir
+right: Michele
+Wrong: 
+Value: $600
+Number: 18
+RHYME TIME | A small bird from New Zealand | Peewee kiwi
+right: David
+Wrong: 
+Value: $600
+Number: 17
+THE 20th CENTURY | This WWII portable military shelter was first built at the Rhode Island naval air station for which it was named | Quonset hut
+right: Michele
+Wrong: 
+Value: $800
+Number: 25
+THAT WAS ENTERTAINMENT! | For 5 years Tony Charmoli's dancers brought their charm to her televised "Chevy Show" | Dinah Shore
+right: Michele
+Wrong: 
+Value: $800
+Number: 10
+MUSEUMS | This famed American architect designed Bilbao, Spain's new Guggenheim, seen here: | Frank Gehry
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+BASEBALL LIT | Roger Angell's classic baseball articles include a profile of this Hall of Fame Cardinals pitcher of the '60s | Bob Gibson
+right: David
+Wrong: 
+Value: $800
+Number: 4
+CABINET MINISTERS | This former minister of agriculture & rural development became president of France in 1995 | Jacques Chirac
+right: David
+Wrong: 
+Value: $800
+Number: 21
+RHYME TIME | An oarsman who's not as quick as the rest | Slower rower
+right: Michele
+Wrong: 
+Value: $800
+Number: 19
+THE 20th CENTURY | In 1989 this space probe flew by Neptune, discovering geyser-like eruptions on its moon Triton | Voyager
+right: Michele
+Wrong: 
+Value: $1000
+Number: 26
+THAT WAS ENTERTAINMENT! | Long before Chuck Barris, radio's Major Bowes gonged out performers on this "hour" | Original Amateur Hour
+right: Glen
+Wrong: 
+Value: $1000
+Number: 11
+MUSEUMS | Assembled from European religious structures, it's the medieval art branch of the Museum of Modern Art | The Cloisters
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+BASEBALL LIT | In 1999 Stephen King published "The Girl Who Loved" this Red Sox relief pitcher | Tom Gordon
+right: David
+Wrong: 
+Value: $1000
+Number: 5
+CABINET MINISTERS | In 1967 this minister of justice began his campaign to become prime minister of Canada | Pierre Elliott Trudeau
+right: David
+Wrong: 
+Value: DD: $1,200
+Number: 22
+RHYME TIME | A less vibrant hue | Duller color
+right: Michele
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Glen: -$100
+David: $10,800
+Michele: $10,900
+
+Final Jeopardy! Round
+SCIENCE WORD ORIGINS | Coined by the chemist J.B. van Helmont, the word gas comes from this Greek word meaning "unformed mass" | chaos
+right: 
+Wrong: 
+David: What is (Regis) nebula
+Michele: What is ?
+Wagers: 
+David: $102
+Michele: $100
+Final scores:
+Glen: -$100 (3rd place: Samsung Hi-Fi Stereo Multiregional VCR)
+David: $10,698 (2nd place: Trip to New York City to see "Cabaret")
+Michele: $10,800 (New champion: $10,800)
+
+Coryat scores
+Glen: -$100 (8 R,6 W)
+David: $9,600 (22 R(including 2 DDs),3 W)
+Michele: $10,900 (27 R(including 1 DD),2 W)

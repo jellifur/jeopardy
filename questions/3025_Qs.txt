@@ -1,0 +1,348 @@
+2929 - Thursday, May 1, 1997
+Comments: 1997 Celebrity <i>Jeopardy!</i> game 4.  <br />
+Contestants:
+Benjamin Bratt: an actor from Law & Order
+Carey Lowell: an actress from Law & Order
+Sam Waterston: an actor from Law & Order
+First Jeopardy! Round: TV ATTORNEYS, U.S. GEOGRAPHY, FASHION STATEMENTS, WORLD LEADERS, LAW, ORDER
+TV ATTORNEYS | Many women were smitten with him when he played Victor Sifuentes on "L.A. Law" | Jimmy Smits
+right: Ben
+Wrong: 
+Value: $100
+Number: 5
+U.S. GEOGRAPHY | Galveston, Texas & Sarasota, Florida lie on this famous gulf | Gulf of Mexico
+right: Carey
+Wrong: 
+Value: $100
+Number: 8
+FASHION STATEMENTS | Symbolically, a person who starts out poor & becomes wealthy goes "from" these "to riches" | rags
+right: Sam
+Wrong: 
+Value: $100
+Number: 11
+WORLD LEADERS | She's the sovereign of Bermuda, Belize & Canada | Queen Elizabeth II
+right: Carey
+Wrong: 
+Value: $100
+Number: 2
+LAW | It's the 7-letter term for any decision reached by a jury | verdict
+right: Sam
+Wrong: 
+Value: $100
+Number: 1
+ORDER | He's first in order of succession to the British throne | Prince Charles
+right: Carey
+Wrong: 
+Sam: Who is William?
+Value: $100
+Number: 3
+TV ATTORNEYS | Not all TV lawyers do nude scenes, but this Hemingway did on the "Grin and Bare It" episode of "Civil Wars" | Mariel Hemingway
+right: Ben
+Wrong: 
+Value: $200
+Number: 6
+U.S. GEOGRAPHY | NYC's Brooklyn Bridge spans the East River between Brooklyn & this island borough | Manhattan
+right: Sam
+Wrong: 
+Value: $200
+Number: 9
+FASHION STATEMENTS | When someone starts to get riled, he's told to "keep" this garment "on" | shirt
+right: Carey
+Wrong: 
+Ben: What is lid?
+Value: $200
+Number: 12
+WORLD LEADERS | In December 1996 Kofi Annan of Ghana was elected secretary-general of this organization | United Nations
+right: Carey
+Wrong: 
+Value: $200
+Number: 27
+LAW | Number of the Constitutional amendment that states you can't be forced to be a witness against yourself | 5th
+right: Carey
+Wrong: 
+Value: $200
+Number: 19
+ORDER | In batting order, this number is the "cleanup" position | 4th
+right: Ben
+Wrong: 
+Value: $200
+Number: 4
+TV ATTORNEYS | He played sleazy lawyer Marty Lang on the 1985 sitcom "Sara", & he's still "Politically Incorrect" | Bill Maher
+right: Carey
+Wrong: 
+Value: $300
+Number: 7
+U.S. GEOGRAPHY | Name shared by Chicago's Great Lake & one of Chicago's major avenues | Michigan
+right: Carey
+Wrong: 
+Sam: Superior...What is Superior?
+Value: $300
+Number: 10
+FASHION STATEMENTS | When you avoid a topic by going around the edge of it, you do this to "the issue" | skirt
+right: Sam
+Wrong: 
+Value: $300
+Number: 13
+WORLD LEADERS | Now serving as president, this world leader spent 27 years in South African jails | Nelson Mandela
+right: Ben
+Wrong: 
+Value: $300
+Number: 28
+LAW | This legal term for murder may be "justifiable" or "excusable" when in self defense | homicide
+right: Sam
+Wrong: 
+Value: $300
+Number: 20
+ORDER | It's the third in order of the "Star Wars" movies | Return of the Jedi
+right: Carey
+Wrong: 
+Value: $300
+Number: 18
+TV ATTORNEYS | He played E.G. Marshall's lawyer son on "The Defenders" before he played dad to "The Brady Bunch" | Robert Reed
+right: 
+Wrong: Triple Stumper
+Ben: Who is Stephen Collins?
+Value: $400
+Number: 25
+U.S. GEOGRAPHY | In area, this New England state roughly equals Vermont, N.H., Connecticut & Massachusetts combined | Maine
+right: Sam
+Wrong: 
+Value: $400
+Number: 14
+FASHION STATEMENTS | Murderous phrase for someone who's all dolled up | dressed to kill
+right: Sam
+Wrong: 
+Value: $400
+Number: 15
+WORLD LEADERS | This "Paramount Leader" of China died February 19, 1997 at age 92 | Deng Xiaoping
+right: Sam
+Wrong: 
+Value: $400
+Number: 29
+LAW | It's the document that goes through probate | a will
+right: Sam
+Wrong: 
+Value: $400
+Number: 21
+ORDER | In order of admission to the union, this state is last | Hawaii
+right: Ben
+Wrong: 
+Value: $400
+Number: 22
+TV ATTORNEYS | This fictional lawyer, whose theme is heard here, won his first case on TV Sept. 21, 1957: | Perry Mason
+right: Ben
+Wrong: 
+Value: DD: $800
+Number: 26
+U.S. GEOGRAPHY | Jefferson City is Missouri's capital & this "City" where the Royals play is Missouri's largest | Kansas City
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+FASHION STATEMENTS | People who are closely associated for nefarious reasons are said to be "hand in" this | glove
+right: Sam
+Wrong: 
+Value: $500
+Number: 17
+WORLD LEADERS | This German chancellor led West Germany before unification in 1990 | Helmut Kohl
+right: Ben
+Wrong: 
+Carey: Who is Helmut Schmidt?
+Value: $500
+Number: 30
+LAW | It's the fee clients pay in advance to an attorney to act on their behalf | retainer
+right: Ben
+Wrong: 
+Value: $500
+Number: 24
+ORDER | A USDA inspector uses this grading level for meat between select & prime | choice
+right: Sam
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Sam: $700
+Carey: $1,100
+Ben: $300
+Scores at the end of the Jeopardy! Round:
+Sam: $3,200
+Carey: $1,300
+Ben: $2,400
+Second Jeopardy! Round: BOOK TITLE OBJECTS, EUROPEAN HISTORY, FOOD & DRINK, BOND...JAMES BOND, MONEY, OPERATIC DEMISES
+BOOK TITLE OBJECTS | Cathedral in the title of Victor Hugo's novel about Quasimodo | Notre Dame
+right: Carey
+Wrong: 
+Value: $200
+Number: 17
+EUROPEAN HISTORY | In May 1486, he was received by Queen Isabella, to whom he explained his plan to sail west to Asia | Christopher Columbus
+right: Carey
+Wrong: 
+Value: $200
+Number: 3
+FOOD & DRINK | Varieties of this citrus fruit include the blood, Jaffa & Valencia | orange
+right: Ben
+Wrong: 
+Value: $200
+Number: 12
+BOND...JAMES BOND | 12 years after "Diamonds Are Forever", he was back as Bond in 1983's "Never Say Never Again" | Sean Connery
+right: Carey
+Wrong: 
+Value: $200
+Number: 1
+MONEY | America's first of these opened in 1652 to make coins for the Massachusetts Bay colony | mint
+right: Carey
+Wrong: 
+Value: $200
+Number: 22
+OPERATIC DEMISES | Tosca leaps to her death from the parapet of the Castel Sant'Angelo in this Italian capital | Rome
+right: Ben
+Wrong: 
+Value: $200
+Number: 8
+BOOK TITLE OBJECTS | A house in the title of an 1851 Nathaniel Hawthorne novel featured 7 of these structures | gables
+right: Carey
+Wrong: 
+Value: $400
+Number: 18
+EUROPEAN HISTORY | In 1830 this country declared itself independent from the Netherlands with Brussels as its capital | Belgium
+right: Sam
+Wrong: 
+Value: $400
+Number: 4
+FOOD & DRINK | The Jose Cuervo brand of this liquor dates back to 1758 | tequila
+right: Ben
+Wrong: 
+Value: $400
+Number: 13
+BOND...JAMES BOND | This author used some of his plots for a proposed late '50s Bond TV series in his book "For Your Eyes Only" | Ian Fleming
+right: Sam
+Wrong: 
+Value: $400
+Number: 2
+MONEY | A fin is slang for this bill | $5
+right: Sam
+Wrong: 
+Value: $400
+Number: 23
+OPERATIC DEMISES | The hero of "Fra Gherardo" is charged with heresy & executed this way, like Joan of Arc | burned at the stake
+right: Sam
+Wrong: 
+Value: $400
+Number: 27
+BOOK TITLE OBJECTS | In an H.G. Wells novel, a man uses this title object to spend 8 days in the future | the time machine
+right: Ben
+Wrong: 
+Value: $600
+Number: 19
+EUROPEAN HISTORY | Thomas Paine's "The Rights of Man" is a defense of this European country's 1789 revolution | France
+right: Sam
+Wrong: 
+Value: $600
+Number: 5
+FOOD & DRINK | This rather large steak contains both the T-bone & part of the tenderloin | Porterhouse
+right: Ben
+Wrong: 
+Sam: What is a New York?
+Value: $600
+Number: 14
+BOND...JAMES BOND | 1 of the 2 women in "On Her Majesty's Secret Service" who were also TV "Avenger"s | (1 of 2) Diana Rigg or Joanna Lumley
+right: Carey
+Wrong: 
+Value: $600
+Number: 9
+MONEY | In 1971 President Nixon ended the convertibility of U.S. currency into this metal | gold
+right: Sam
+Wrong: 
+Value: $600
+Number: 24
+OPERATIC DEMISES | In a Bizet opera, this fickle femme fatale is stabbed outside a bull ring, & that's no bull | Carmen
+right: Sam
+Wrong: 
+Value: $600
+Number: 28
+BOOK TITLE OBJECTS | Whitney Otto's "How to Make an American" one of these includes sewing tips | Quilt
+right: Carey
+Wrong: 
+Value: $800
+Number: 20
+EUROPEAN HISTORY | In order to kill this "Mad Monk", Russian conservatives had to poison, shoot & drown him | Rasputin
+right: Sam
+Wrong: 
+Value: $800
+Number: 6
+FOOD & DRINK | In 1992 Coors introduced zomething new & different, this clear malt beverage | Zima
+right: 
+Wrong: Triple Stumper
+Carey: What is Ice?
+Ben: What is light beer?
+Value: $800
+Number: 15
+BOND...JAMES BOND | 1 of the 3 villains to have their name in a film title | (1 of 3) Dr. No
+right: Carey
+Wrong: 
+Value: DD: $1,000
+Number: 10
+MONEY | Some banks now have ALMs to let you get one of these for a car 24 hours a day | loan
+right: Sam
+Wrong: 
+Value: $800
+Number: 25
+OPERATIC DEMISES | Distraught that Lt. Pinkerton abandoned her, this Puccini heroine commits hara-kiri | Madame Butterfly
+right: Sam
+Wrong: 
+Value: $800
+Number: 29
+BOOK TITLE OBJECTS | According to the title of an E.M. Forster novel, Lucy Honeychurch wants this from a hotel in Italy | A Room with a View
+right: Carey
+Wrong: 
+Value: $1000
+Number: 21
+EUROPEAN HISTORY | In 1939 Poland was divided almost equally between Germany & this country | Soviet Union
+right: Sam
+Wrong: 
+Value: DD: $1,000
+Number: 7
+FOOD & DRINK | Indonesia is famous for this variety of coffee that's often blended with mocha | Java
+right: Ben
+Wrong: 
+Value: $1000
+Number: 16
+BOND...JAMES BOND | In his first appearance as Bond in "Live and Let Die", he took on Mr. Big | Roger Moore
+right: Ben
+Wrong: 
+Value: $1000
+Number: 11
+MONEY | When he left Disney after just over a year as president, his severance was reportedly over $50 million | Michael Ovitz
+right: Carey
+Wrong: 
+Ben: Who is Jeffrey Katzenberg?
+Value: $1000
+Number: 26
+OPERATIC DEMISES | In a Donizetti opera, this vengeful female Borgia treats a roomful of dinner guests to poisoned wine | Lucrezia Borgia
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Sam: $9,400
+Carey: $6,100
+Ben: $4,600
+
+Final Jeopardy! Round
+QUOTATIONS ABOUT LAWYERS | Playwright who penned the famous line, "The first thing we do, let's kill all the lawyers" | William Shakespeare
+right: Ben | Sam
+Wrong: 
+Carey: Who was Tennessee Williams?
+Wagers: 
+Ben: $4,600
+Carey: $5,900
+Sam: $9,400
+Final scores:
+Sam: $18,800 (Winner: $23,800 for Refugees International)
+Carey: $200 (3rd place: $10,000 for the Pediatric AIDS Foundation)
+Ben: $9,200 (2nd place: $10,000 for the American Indian Friendship House of San Francisco)
+
+Coryat scores
+Sam: $9,400 (22 R(including 1 DD),3 W)
+Carey: $5,900 (19 R(including 1 DD),2 W)
+Ben: $4,300 (15 R(including 1 DD),4 W)

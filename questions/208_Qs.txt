@@ -1,0 +1,344 @@
+4732 - Tuesday, March 15, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 1, game 25.
+Contestants:
+Doug Lach: a marketing manager from Columbus, Ohio
+Leah Greenwald: an architect from Cambridge, Massachusetts
+Matt Morris: a financial analyst originally from Louisville, Kentucky
+First Jeopardy! Round: THE NEWSPAPER, THE SPORTS PAGE, THE BOOK REVIEW, THE FOOD SECTION, THE PERSONALS, THE "C"ROSSWORD PUZZLE
+THE NEWSPAPER | Stop the presses!  In 1982 it became America's first national, general interest newspaper | USA Today
+right: Leah
+Wrong: 
+Value: $200
+Number: 14
+THE SPORTS PAGE | Yankee manager Billy Martin nearly came to blows in the dugout with this "Mr. October" slugger in 1977 | Reggie Jackson
+right: Matt
+Wrong: 
+Value: $200
+Number: 24
+THE BOOK REVIEW | "American Soldier" is a memoir by this general who led American & Coalition forces in Iraq | Tommy Franks
+right: Matt
+Wrong: 
+Value: $200
+Number: 5
+THE FOOD SECTION | For Japanese New Year, feast on mochi, pounded cakes made from this grain | rice
+right: Leah
+Wrong: 
+Value: $200
+Number: 13
+THE PERSONALS | 330 B.C.: At 26, I've conquered Persia... Can you conquer my heart? | Alexander the Great
+right: Doug
+Wrong: 
+Value: $200
+Number: 16
+THE "C"ROSSWORD PUZZLE | 1986 disaster city in Ukraine (9) | Chernobyl
+right: Matt
+Wrong: 
+Value: $200
+Number: 26
+THE NEWSPAPER | When it hit the streets in 1831, Michigan Intelligencer was part of its name | The Detroit Free Press
+right: Doug
+Wrong: 
+Value: $400
+Number: 15
+THE SPORTS PAGE | This Packer QB's first NFL completion was to himself, a deflected pass for -7 yards on Sept. 13, 1992 | Brett Favre
+right: Matt
+Wrong: 
+Value: $400
+Number: 1
+THE BOOK REVIEW | This comedian is pictured on the cover of "America (The Book): A Citizen's Guide to Democracy Inaction" | Jon Stewart
+right: Leah
+Wrong: 
+Value: $400
+Number: 6
+THE FOOD SECTION | No Passover would be complete without plates of this appetizer, ground fish with egg & matzo meal | gefilte fish
+right: Doug
+Wrong: 
+Value: $400
+Number: 12
+THE PERSONALS | Dec. 14, 1809: Divorced today!  Ex-empress, 46, Malmaison-bound, desires tall man for a change | Josephine
+right: Doug
+Wrong: 
+Value: $400
+Number: 17
+THE "C"ROSSWORD PUZZLE | Premium California red winegrape (8) | cabernet
+right: Doug
+Wrong: 
+Value: $400
+Number: 27
+THE NEWSPAPER | This city's Observer serves 40 counties in North & South Carolina | Charlotte
+right: Matt
+Wrong: 
+Value: $600
+Number: 21
+THE SPORTS PAGE | "All of my books are thought-provoking", said this NBA analyst seen <http://www.j-archive.com/media/2005-03-15_J_02.jpg> here | Charles Barkley
+right: Matt
+Wrong: 
+Value: $600
+Number: 2
+THE BOOK REVIEW | A book about this ever-popular sweet substance is subtitled "The Nature of Indulgence" | chocolate
+right: Matt
+Wrong: 
+Value: $600
+Number: 10
+THE FOOD SECTION | The Russian paskha sweet cheese mold for this holiday has the initials XB on it, meaning "Christ is risen" | Easter
+right: Leah
+Wrong: 
+Value: $600
+Number: 7
+THE PERSONALS | 450 A.D.: "Scourge of God" demands sister of emperor of West Roman Empire as bride--now! | Attila the Hun
+right: Doug
+Wrong: 
+Value: $600
+Number: 18
+THE "C"ROSSWORD PUZZLE | Michigan city, or DeVille maker (8) | Cadillac
+right: Doug
+Wrong: 
+Value: $600
+Number: 28
+THE NEWSPAPER | This paper rises each morning from its headquarters at Calvert & Centre Streets | The Baltimore Sun
+right: 
+Wrong: Triple Stumper
+Matt: What is The Wall Street Journal?
+Value: $800
+Number: 22
+THE SPORTS PAGE | At the 2000 Las Vegas invitational, Jerry Kelly happily tied a PGA record with 8 of these in a row | birdies
+right: Doug
+Wrong: 
+Value: $800
+Number: 3
+THE BOOK REVIEW | The 6-word title of this bestselling dating guide offers "The No-Excuses Truth to Understanding Guys" | He's Just Not That Into You
+right: Leah
+Wrong: 
+Matt: What is He's Not That Into You?
+Value: $800
+Number: 11
+THE FOOD SECTION | Pan de muerto, an egg-rich bread, is a favorite in Mexico on this aptly named 4-word holiday | Day of the Dead
+right: Doug
+Wrong: 
+Value: $800
+Number: 9
+THE PERSONALS | 1944: Radio actress, mid-20s, desires Argentinean VP for relationship | Eva Peron
+right: Matt
+Wrong: 
+Value: $800
+Number: 19
+THE "C"ROSSWORD PUZZLE | A yellowish green, or a liqueur (10) | chartreuse
+right: Leah
+Wrong: 
+Value: $800
+Number: 29
+THE NEWSPAPER | At the request of its founder, this Boston paper runs 1 religious article each day in its home forum section | The Christian Science Monitor
+right: Doug
+Wrong: 
+Value: $1000
+Number: 23
+THE SPORTS PAGE | One of this league's biggest newsmakers in 2004-'05 was Commissioner Gary Bettman | the National Hockey League
+right: Doug
+Wrong: 
+Value: DD: $1,000
+Number: 4
+THE BOOK REVIEW | "How to Talk to a Liberal (if You Must)" is subtitled "The World According to" her | Anne Coulter
+right: Doug
+Wrong: 
+Value: $1000
+Number: 25
+THE FOOD SECTION | A sweet called shira is made with this spice from the seed seen <http://www.j-archive.com/media/2005-03-15_J_08.jpg> here | cardamom
+right: Doug
+Wrong: 
+Value: $1000
+Number: 8
+THE PERSONALS | 37 A.D.: Let's have Italian!  "Little Boot" emperor seeks hot companion shoe for stylish fit | Caligula
+right: Leah
+Wrong: 
+Value: $1000
+Number: 20
+THE "C"ROSSWORD PUZZLE | Used in atomic clocks, it melts at 83.3 degrees F. (6) | cesium
+right: Doug
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Matt: $1,000
+Leah: $2,200
+Doug: $4,400
+Scores at the end of the Jeopardy! Round:
+Matt: $2,000
+Leah: $4,000
+Doug: $9,600
+Second Jeopardy! Round: MUSIC, FIVE EASY PISCES, CHAPLIN, FROM THE CIA WORLD FACTBOOK, THE STATE OF EDUCATION, 15-LETTER WORDS
+MUSIC | Pernambuco or brazilwood is frequently used to make this accessory for string players | bows
+right: Doug
+Wrong: 
+Value: $400
+Number: 19
+FIVE EASY PISCES | Perhaps inspired by his zodiac symbol, he wrote "One Fish Two Fish Red Fish Blue Fish" | Dr. Seuss
+right: Doug
+Wrong: 
+Value: $400
+Number: 21
+CHAPLIN | Charlie Chaplin said that in creating his Tramp character he added this to make him look older | a mustache
+right: Doug
+Wrong: 
+Value: $400
+Number: 10
+FROM THE CIA WORLD FACTBOOK | The IDF, this country's defense force, based at Keflavik, is manned by Americans | Iceland
+right: Doug
+Wrong: 
+Value: $400
+Number: 11
+THE STATE OF EDUCATION | The University of Puget Sound, Gonzaga University | Washington State
+right: Doug
+Wrong: 
+Value: $400
+Number: 2
+15-LETTER WORDS | Film industry position of the person who oversees the camerawork & the lighting | cinematographer
+right: Leah
+Wrong: 
+Value: $400
+Number: 27
+MUSIC | (<http://www.j-archive.com/media/2005-03-15_DJ_18.jpg> Cheryl of the Clue Crew reports from a chalkboard.)  In the treble clef, the lines of the staff are E-G-B-D-F, so the spaces are known by this anatomical acronym | FACE
+right: Leah
+Wrong: 
+Value: DD: $5,000
+Number: 18
+FIVE EASY PISCES | He's the Pisces born March 6, 1475 who said, "I saw the angel in the marble and carved until I set him free" | Michelangelo
+right: Leah
+Wrong: 
+Value: $800
+Number: 22
+CHAPLIN | In "Benny & Joon" this actor performed Chaplin's dancing roll scene from "The Gold Rush" | Johnny Depp
+right: Leah
+Wrong: 
+Value: $800
+Number: 7
+FROM THE CIA WORLD FACTBOOK | The center of power of an empire until 1918, this country is a bit smaller than Maine | Austria
+right: Doug
+Wrong: 
+Value: DD: $4,000
+Number: 12
+THE STATE OF EDUCATION | Stillman College, Auburn University | Alabama
+right: Doug
+Wrong: 
+Value: $800
+Number: 1
+15-LETTER WORDS | It's the illegal conduct being identified <http://www.j-archive.com/media/2005-03-15_DJ_28.jpg> here | unsportsmanlike conduct
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+MUSIC | The keynote of a major or minor scale also has this drinkable name | tonic
+right: Leah
+Wrong: 
+Value: $1200
+Number: 15
+FIVE EASY PISCES | "When we met first and loved..." begins one of the famous sonnets by this "Portuguese" Pisces | Elizabeth Barrett Browning
+right: Doug
+Wrong: 
+Leah: Uh, who is Browning?  Robert Browning?
+Value: $1200
+Number: 23
+CHAPLIN | Chaplin was born April 16, 1889 in England & died Christmas day in 1977 in this country | Switzerland
+right: Leah
+Wrong: 
+Doug: What is France?
+Value: $1200
+Number: 6
+FROM THE CIA WORLD FACTBOOK | Nepal's regime is threatened by this type of movement, named for a Chinese leader | Maoists
+right: Doug
+Wrong: 
+Value: $1200
+Number: 13
+THE STATE OF EDUCATION | Tougaloo College, Jackson State University | Mississippi
+right: Doug
+Wrong: 
+Value: $1200
+Number: 3
+15-LETTER WORDS | It's a refusal to obey orders or submit to authority in the military | insubordination
+right: Doug
+Wrong: 
+Value: $1200
+Number: 29
+MUSIC | (<http://www.j-archive.com/media/2005-03-15_DJ_16.wmv> Cheryl of the Clue Crew blows into a saxophone.)  From the French for "mouth", it's the way you form your lips & teeth around a horn's mouthpiece | the embouchure
+right: Doug
+Wrong: 
+Value: $1600
+Number: 16
+FIVE EASY PISCES | Elizabeth Taylor is a Pisces & so was this man--the explorer, not her husband of the same name | Richard Burton
+right: Doug
+Wrong: 
+Value: $1600
+Number: 24
+CHAPLIN | In 1914, this Keystone Studios head was the last person other than Chaplin to direct him in a film | (Mack) Sennett
+right: Leah
+Wrong: 
+Value: $1600
+Number: 8
+FROM THE CIA WORLD FACTBOOK | Frequent recent invasions haven't hurt this Asian country's opium crop, the world's largest | Afghanistan
+right: Leah
+Wrong: 
+Value: $1600
+Number: 14
+THE STATE OF EDUCATION | Bowling Green State University, Case Western Reserve University | Ohio
+right: Doug
+Wrong: 
+Value: $1600
+Number: 4
+15-LETTER WORDS | Specifically, the person in an organization who enforces Robert's Rules of Order | the parliamentarian
+right: Doug
+Wrong: 
+Value: $1600
+Number: 26
+MUSIC | From the Italian for "big", it's a concerto for an orchestra & a group of instrumental soloists | (concerto) grosso
+right: Leah
+Wrong: 
+Value: $2000
+Number: 17
+FIVE EASY PISCES | Since Pisces is a water sign, it's not surprising that he composed "Water Music" in 1717 | Handel
+right: Matt
+Wrong: 
+Value: $2000
+Number: 25
+CHAPLIN | In "Limelight" Chaplin cast as his partner this other great comic of the silent screen | Buster Keaton
+right: Leah
+Wrong: 
+Value: $2000
+Number: 9
+FROM THE CIA WORLD FACTBOOK | Though illegal, the Muslim Brotherhood is the main opposition to this African in power since 1981 | Hosni Mubarak
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+THE STATE OF EDUCATION | Suffolk University, Brandeis University | Massachusetts
+right: Leah
+Wrong: 
+Value: $2000
+Number: 5
+15-LETTER WORDS | In the armed forces, it's what the NC stands for in NCO | noncommissioned
+right: Leah
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Matt: $4,000
+Leah: $23,400
+Doug: $26,400
+
+Final Jeopardy! Round
+ARTISTIC MASTERPIECES | "Shouldn't the shining dots of the sky be as accessible as the black dots on the map of France?" the artist wrote of this work | The Starry Night
+right: Leah
+Wrong: 
+Matt: What is Sunday Afternoon on the Island of L gr J
+Doug: What is Starry Nights
+Wagers: 
+Matt: $4,000
+Leah: $23,400
+Doug: $24,000
+Final scores:
+Matt: $0 (3rd place: $5,000)
+Leah: $46,800 (Winner: $46,800 + an advance to UToC Round 2)
+Doug: $2,400 (2nd place: $5,000)
+
+Coryat scores
+Matt: $4,000 (9 R,2 W)
+Leah: $19,200 (19 R(including 1 DD),1 W)
+Doug: $23,200 (29 R(including 2 DDs),1 W)

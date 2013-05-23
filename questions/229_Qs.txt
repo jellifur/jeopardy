@@ -1,0 +1,338 @@
+3136 - Monday, March 30, 1998
+Contestants:
+Kim Lynn: a program manager from Warner Robins, Georgia
+Ken Costa: a newspaper editor from San Mateo, California
+Bradley Goodwill: an actor from New York City, New York (whose 1-day cash winnings total $15,000)
+First Jeopardy! Round: THE FOUR SEASONS, VALLEYS, SHERRY, DECEMBER 1963, "WALK", LIKE A MAN
+THE FOUR SEASONS | The fall guy in the Teapot Dome scandal, Albert Fall, was born November 26, 1861 in this season | the fall
+right: Bradley
+Wrong: 
+Value: $100
+Number: 11
+VALLEYS | A fungal infection common in this state's San Joaquin valley is now called Valley fever | California
+right: Bradley
+Wrong: 
+Value: $100
+Number: 12
+SHERRY | Unusually, the Palomino type of this, from which sherry is made, is also tasty to eat | grapes
+right: Bradley
+Wrong: 
+Value: $100
+Number: 21
+DECEMBER 1963 | On December 7, he said his primary task was to "establish a continuity in government" | LBJ
+right: Kim
+Wrong: 
+Ken: Who is Kennedy?
+Value: $100
+Number: 3
+"WALK" | This pirate punishment is more fiction than reality | walking the plank
+right: Bradley
+Wrong: 
+Value: $100
+Number: 1
+LIKE A MAN | In 1997 scientists extracted this genetic material from a Neanderthal's arm bone | DNA
+right: Bradley
+Wrong: 
+Value: $100
+Number: 23
+THE FOUR SEASONS | According to "You've Got A Friend", it's when you can call your "friend" James Taylor | winter, spring, summer, or fall
+right: Kim
+Wrong: 
+Value: $200
+Number: 17
+VALLEYS | This poet called a valley outside Balaklava "The Valley of Death" | Alfred, Lord Tennyson
+right: 
+Wrong: Triple Stumper
+Ken: Who is Kipling?
+Value: $200
+Number: 13
+SHERRY | Term for wine, like sherry or port, that has spirits added to boost its potency | fortified
+right: Ken
+Wrong: 
+Value: $200
+Number: 22
+DECEMBER 1963 | On December 4, the American Cancer Society released a study linking this with early death | smoking
+right: Bradley
+Wrong: 
+Value: $200
+Number: 7
+"WALK" | The U.S. Army Signal Corps developed this portable 2-way radio set in 1933.  Over. | a walkie-talkie
+right: Ken
+Wrong: 
+Value: $200
+Number: 2
+LIKE A MAN | In 1978 Mary Leakey noticed these, left by hominids 3 million years ago in volcanic ash | footprints
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 27
+THE FOUR SEASONS | According to the old song, it's when "she's your tootsey wootsey" | the good old summertime
+right: Kim
+Wrong: 
+Value: $300
+Number: 18
+VALLEYS | Come & sit by my side if you know this valley straddles the border of Texas & Oklahoma | the Red River Valley
+right: Kim
+Wrong: 
+Value: $300
+Number: 14
+SHERRY | Flor, a white film type of this fermenting agent, gives some sherries a distinctive tang | yeast
+right: Kim
+Wrong: 
+Value: $300
+Number: 24
+DECEMBER 1963 | In Dec. 1963, The 4 Seasons split with their record label, signed with a new one & had a hit with <http://www.j-archive.com/media/1998-03-30_J_08.mp3> this song:  "Think!  Think!  Oh the places you'll see / Now think what the future would be / With a poor boy like me..." | "Dawn"
+right: 
+Wrong: 
+Bradley: Uh, what is "Sherry"?
+Value: DD: $500
+Number: 8
+"WALK" | This Bangles hit was aided by a "King Tut" video, & was later certified gold | "Walk Like An Egyptian"
+right: Ken
+Wrong: 
+Value: $300
+Number: 4
+LIKE A MAN | Found in China's Cho-K'ou-Tien caves in the 1920s, the fossils of this "man" disappeared in WWII | Peking Man
+right: Ken
+Wrong: 
+Value: $300
+Number: 28
+THE FOUR SEASONS | The University of Cambridge's Michaelmas term takes place in this season | the fall
+right: 
+Wrong: Triple Stumper
+Ken: What is winter?
+Value: $400
+Number: 19
+VALLEYS | This "Great" valley runs from the Valley of the Jordan to Southern Africa | the Great Rift Valley
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+SHERRY | Don't sit on your response; identify this sherry barrel holding over 100 gallons | a butt
+right: Bradley
+Wrong: 
+Value: $400
+Number: 25
+DECEMBER 1963 | Kenya gained its independence from Britain on December 12, & this man became its first prime minister | (Jomo) Kenyatta
+right: Kim
+Wrong: 
+Value: $400
+Number: 9
+"WALK" | If you've been fired, you've received these | your walking papers
+right: Ken
+Wrong: 
+Value: $400
+Number: 5
+THE FOUR SEASONS | In this 1973 film Joanne Woodward obsesses on her childhood | Summer Wishes, Winter Dreams
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+VALLEYS | In 1997 thousands left this river valley in Germany & Poland to avoid extensive floods | the Oder
+right: 
+Wrong: Triple Stumper
+Bradley: What is the Vistula?
+Ken: What is the Ruhr River Valley?
+Value: $500
+Number: 16
+SHERRY | The cream sherry of this Bristol, England firm is perhaps the world's best-known brand | Harveys
+right: Bradley
+Wrong: 
+Value: $500
+Number: 26
+DECEMBER 1963 | On December 4, this coach at Northwestern signed a 4-year contract to coach football at Notre Dame | Ara Parseghian
+right: Ken
+Wrong: 
+Kim: Who is Lou Holtz?
+Value: $500
+Number: 10
+"WALK" | In the 1960s this tropical fish which comes out of the water at night was introduced into Florida | the walking catfish
+right: Kim
+Wrong: 
+Value: $500
+Number: 6
+Scores at the first commercial break (after clue 15)
+Bradley: -$400
+Ken: $1,100
+Kim: $500
+Scores at the end of the Jeopardy! Round:
+Bradley: $200
+Ken: $700
+Kim: $1,600
+Second Jeopardy! Round: 19th CENTURY LIT, CLOTHES MAKE THE PERSON, BIBLICAL ZOO, HOCKEY, "LO" MEN, THE TOTEM POLE
+19th CENTURY LIT | The urbane Brazilian author Machado de Assis set most of his works among the wealthy of this city | Rio
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+CLOTHES MAKE THE PERSON | Working men wear blue ones, businessmen wear white ones & clergymen wear reversed ones | collars
+right: Bradley
+Wrong: 
+Value: $200
+Number: 7
+BIBLICAL ZOO | Shades of Davy Crockett, David killed him one of these when he was a lad; it was attacking his sheep | a bear
+right: Bradley
+Wrong: 
+Value: $200
+Number: 12
+HOCKEY | A depiction of Long Island appears on the logo of this NHL team | the Islanders
+right: Bradley
+Wrong: 
+Value: $200
+Number: 2
+"LO" MEN | Julia Roberts' ex-husband, he's toured & recorded with his "Large Band" | Lyle Lovett
+right: Bradley
+Wrong: 
+Value: $200
+Number: 16
+THE TOTEM POLE | Totem poles were once raised as a part of the potlatch feast of tribes living on the coast of this ocean | the Pacific
+right: Bradley
+Wrong: 
+Value: $200
+Number: 26
+19th CENTURY LIT | This chronicler of boys rising from poverty never wrote the major novel he planned | Horatio Alger
+right: Bradley
+Wrong: 
+Value: $400
+Number: 3
+CLOTHES MAKE THE PERSON | By sneaking around in rubber soles, some detectives acquired this sobriquet | a gumshoe
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+BIBLICAL ZOO | According to 1 Kings 10, Solomon imported apes & these eye-tailed birds | peacocks
+right: Ken
+Wrong: 
+Value: $400
+Number: 13
+HOCKEY | A starting lineup consists of 2 defensemen, 3 forwards & this player, the only one allowed to hold the puck | a goalie
+right: Ken
+Wrong: 
+Value: $400
+Number: 8
+"LO" MEN | In 1924 he teamed up with Nathan Leopold to commit a highly imperfect crime | (Richard) Loeb
+right: 
+Wrong: Triple Stumper
+Bradley: Who is Lowe?
+Value: $400
+Number: 17
+THE TOTEM POLE | Totem poles are traditionally carved in the fragrant wood of this tree also popular for chests | cedar
+right: Bradley
+Wrong: 
+Value: $400
+Number: 27
+19th CENTURY LIT | H.C. Andersen & this existentialist philosopher were contemporaries in 19th century Copenhagen | Kirkegaard
+right: Bradley
+Wrong: 
+Value: $600
+Number: 4
+CLOTHES MAKE THE PERSON | This term for a shapely young woman was Lana Turner's nickname in her pinup days | sweater girl
+right: Ken
+Wrong: 
+Value: $600
+Number: 22
+BIBLICAL ZOO | The Pharaoh gave Abraham's wife some asses & some of these desert draft animals | camels
+right: Bradley
+Wrong: 
+Value: $600
+Number: 14
+HOCKEY | Most shots in hockey are wrist shots, or these in which a full backswing is used to gain more force | a slapshot
+right: Bradley
+Wrong: 
+Value: $600
+Number: 9
+"LO" MEN | In "The Maltese Falcon", he calls Sydney Greenstreet "You bloated idiot!  You stupid fathead!" | Peter Lorre
+right: Ken
+Wrong: 
+Bradley: Uh, who is Marlowe?
+Value: $600
+Number: 18
+THE TOTEM POLE | This feature on a thunderbird's face is often carved separately & attached to the pole | the beak
+right: Kim
+Wrong: 
+Value: $600
+Number: 28
+19th CENTURY LIT | The 1867 stage melodrama "Under the Gaslight" featured a dramatic rescue from an oncoming one of these | a train
+right: Bradley
+Wrong: 
+Value: $800
+Number: 5
+CLOTHES MAKE THE PERSON | The office attire of business-minded entertainment executives gives them this name | the suits
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+BIBLICAL ZOO | According to Deuteronomy, you can't do this to a bat, even if it's been batter-dipped | eat it
+right: Ken
+Wrong: 
+Value: $800
+Number: 15
+HOCKEY | In 1924 this Boston team became the first from the U.S. to join the NHL | the Bruins
+right: Ken
+Wrong: 
+Value: $800
+Number: 10
+"LO" MEN | This Medici to whom Machiavelli addressed "The Prince" was less magnificent than his same-named grandfather | Lorenzo
+right: Bradley
+Wrong: 
+Value: $800
+Number: 19
+THE TOTEM POLE | Also known for its tree carving ability, it's the rodent depicted <http://www.j-archive.com/media/1998-03-30_DJ_29.jpg> here: | the beaver
+right: Kim
+Wrong: 
+Value: DD: $1,200
+Number: 29
+19th CENTURY LIT | Felicia Dorothea Hemans' best-remembered poem tells of the brave boy who "stood on" this | the burning deck
+right: Kim
+Wrong: 
+Value: $1000
+Number: 6
+CLOTHES MAKE THE PERSON | A college athlete sitting out a year of games, preserving his or her eligibility | a redshirt
+right: Kim
+Wrong: 
+Value: $1000
+Number: 24
+BIBLICAL ZOO | The eighth plague on Egypt not only came down like a plague of these, it was a plague of these | locusts
+right: Bradley
+Wrong: 
+Value: $1000
+Number: 20
+HOCKEY | The game of cricket gave us this term for 3 or more goals scored by a player in a game | a hat trick
+right: Bradley
+Wrong: 
+Value: $1000
+Number: 11
+"LO" MEN | This politician married Teddy Roosevelt's daughter Alice, who outlived him by 49 years | (Nicholas) Longworth
+right: Kim
+Wrong: 
+Value: DD: $2,000
+Number: 25
+THE TOTEM POLE | The figures on a pole often represent these societal units within tribes | families
+right: Kim
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Bradley: $6,400
+Ken: $4,900
+Kim: $8,400
+
+Final Jeopardy! Round
+WORD ORIGINS | This type of establishment gets its name from the Latin for "to restore" | a restaurant
+right: Bradley
+Wrong: 
+Ken: What is ?
+Kim: What is a
+Wagers: 
+Ken: $3,800
+Bradley: $6,400
+Kim: $4,401
+Final scores:
+Bradley: $12,800 (2-day champion: $27,800)
+Ken: $1,100 (3rd place: assorted CDs from Warner Brothers)
+Kim: $3,999 (2nd place: a week-long trip to Jamaica at Beaches on Air Jamaica)
+
+Coryat scores
+Bradley: $6,900 (22 R,5 W(including 1 DD))
+Ken: $4,900 (14 R,4 W)
+Kim: $7,000 (13 R(including 2 DDs),1 W)

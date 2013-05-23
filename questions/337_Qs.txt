@@ -1,0 +1,334 @@
+4785 - Friday, May 27, 2005
+Contestants:
+Tim Schwab: an ISO coordinator from Cheektowaga, New York
+Charlie Kahn: a middle-school math teacher from Versailles, Kentucky
+Bob Shore: an attorney from Los Angeles, California (whose 2-day cash winnings total $47,602)
+First Jeopardy! Round: MEDICINE, BROADWAY DEBUTS, QUOTES FROM THE BATTLE OF THE SEXES, ALL SAINTS, "SMOKE", MIRRORS
+MEDICINE | Of cowpox, cat scratch fever, or kangarosis, the one you can't get | kangarosis
+right: Bob
+Wrong: 
+Tim: What is cat scratch fever?
+Value: $200
+Number: 1
+BROADWAY DEBUTS | His first Broadway show was "Never Live Over a Pretzel Factory"; now he lives in the White House (at least on TV) | (Martin) Sheen
+right: Bob
+Wrong: 
+Value: $200
+Number: 3
+QUOTES FROM THE BATTLE OF THE SEXES | Asked who wore the trousers, this British prime minister's husband responded, "I do, and I also wash and iron them" | Margaret Thatcher
+right: Tim
+Wrong: 
+Value: $200
+Number: 17
+ALL SAINTS | St. Gerasimus, like Androcles, is credited with befriending one of these by pulling a thorn from its paw | a lion
+right: Tim
+Wrong: 
+Value: $200
+Number: 25
+"SMOKE" | A building used for curing meat | a smokehouse
+right: Bob
+Wrong: 
+Value: $200
+Number: 7
+MIRRORS | Minimum number of mirrors needed to make a kaleidoscope | 2
+right: Charlie
+Wrong: 
+Tim: What is 1?
+Value: $200
+Number: 12
+MEDICINE | A few almonds might help a headache; they contain salicylic acid, found in this drug synthesized in 1853 | aspirin
+right: Tim
+Wrong: 
+Value: $400
+Number: 2
+BROADWAY DEBUTS | <http://www.j-archive.com/media/2005-05-27_J_18.jpg> This Goodfella finally hit Broadway in the 2004 play "Match" | Ray Liotta
+right: Tim
+Wrong: 
+Value: $400
+Number: 18
+QUOTES FROM THE BATTLE OF THE SEXES | Despite 30 years of research, this psychoanalyst famously pondered, "What does a woman want?" | (Sigmund) Freud
+right: Tim
+Wrong: 
+Value: $400
+Number: 22
+ALL SAINTS | Patrons of France include Denis & this one who became Bishop of Tours around 370 | St. Martin
+right: 
+Wrong: Triple Stumper
+Bob: Who is St. Louis?
+Value: $400
+Number: 26
+"SMOKE" | Lox | smoked salmon
+right: Charlie
+Wrong: 
+Value: $400
+Number: 8
+MIRRORS | In 1668 Newton placed a mirror in one of these devices to create a much better image | a telescope
+right: Bob
+Wrong: 
+Value: $400
+Number: 13
+MEDICINE | A doctor in her first year out of med school; when you add "ist" you get a specialist | an intern (internist accepted)
+right: Tim
+Wrong: 
+Value: $600
+Number: 4
+BROADWAY DEBUTS | Half a century ago, this "60 Minutes" icon was starring on Broadway in the 1954 comedy "Reclining Figure" | Mike Wallace
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 19
+QUOTES FROM THE BATTLE OF THE SEXES | In a 1601 play, he wrote, "Many a good hanging prevents a bad marriage" | (William) Shakespeare
+right: Tim
+Wrong: 
+Value: $600
+Number: 23
+ALL SAINTS | Exiled abroad a couple of times, the well-traveled Anselm has this as his emblem | a ship
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+"SMOKE" | Industrial chimney attached to a factory | a smokestack
+right: Bob
+Wrong: 
+Value: $600
+Number: 9
+MIRRORS | Before the advent of this device in the 1911 Indy 500, passengers called riding mechanics watched for cars coming up behind | a rear-view mirror
+right: Charlie
+Wrong: 
+Value: $600
+Number: 14
+MEDICINE | In an ancient Indian treatise, Susruta noted the relationship between mosquitos & this "bad air" disease | malaria
+right: Tim
+Wrong: 
+Value: $800
+Number: 5
+BROADWAY DEBUTS | <http://www.j-archive.com/media/2005-05-27_J_20.jpg> This star of "Whose Line Is It Anyway?" had to learn some new lines to play Billy Flynn in "Chicago" in 2004 | Wayne Brady
+right: Tim
+Wrong: 
+Value: $800
+Number: 20
+QUOTES FROM THE BATTLE OF THE SEXES | In the song "A Hymn To Him" from "My Fair Lady", this character asks, "Why can't a woman be more like a man?" | (Henry) Higgins
+right: Bob
+Wrong: 
+Value: $800
+Number: 24
+ALL SAINTS | Name shared by saints of Antioch & Laconi & a society founder | St. Ignatius
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+"SMOKE" | Proverbial location where political deals are struck away from the eyes of the public | a smoke-filled room
+right: Bob
+Wrong: 
+Value: $800
+Number: 10
+MIRRORS | There is evidence that Precolumbian Mesoamericans used this black volcanic rock with a Roman name to make mirrors | obsidian
+right: Charlie
+Wrong: 
+Bob: What is pumice?
+Tim: What is basalt?
+Value: $800
+Number: 15
+MEDICINE | 19th century physiologist Claude Bernard found how this organ converts sugar to glycogen & stores it | the liver
+right: Bob
+Wrong: 
+Value: $1000
+Number: 6
+BROADWAY DEBUTS | Wonder if this ex-Spice Girl had stage fright when she took over the role of Mimi in "Rent" in 2004 | Scary Spice (Melanie Brown)
+right: 
+Wrong: Triple Stumper
+Charlie: Who is Beckham?
+Value: $1000
+Number: 21
+QUOTES FROM THE BATTLE OF THE SEXES | This TV Charlie's Angel observed, "femininity... used properly... easily jumbles the brain of any man I've ever met" | Farrah Fawcett
+right: 
+Wrong: Triple Stumper
+Charlie: Who is Kate Jackson?
+Value: $1000
+Number: 30
+ALL SAINTS | Monica was the sainted mother of this bishop of Hippo | St. Augustine
+right: Tim
+Wrong: 
+Value: DD: $1,200
+Number: 28
+"SMOKE" | A parachuting firefighter | a smoke jumper
+right: Charlie
+Wrong: 
+Value: $1000
+Number: 11
+MIRRORS | On June 28, 1919, this was signed in the Hall of Mirrors | the Treaty of Versailles
+right: Charlie
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Bob: $2,600
+Charlie: $4,000
+Tim: $600
+Scores at the end of the Jeopardy! Round:
+Bob: $3,000
+Charlie: $2,000
+Tim: $4,400
+Second Jeopardy! Round: A VISIT TO ANCIENT EGYPT, THE NFL, SO, WHATCHA COMPOSIN'?, HAVE SOME LEFTOVERS!, BRITISH MONARCHS, PALINDROMIC WORDS
+A VISIT TO ANCIENT EGYPT | (<http://www.j-archive.com/media/2005-05-27_DJ_11.jpg> Sarah of the Clue Crew reports from Luxor, Egypt.) Around 1500 B.C., after expelling Hyksos invaders, proud Egyptian rulers began the vast tomb area that we now call this | the Valley of the Kings
+right: Bob
+Wrong: 
+Value: $400
+Number: 11
+THE NFL | This team's Chuck Noll is the winningest Super Bowl coach with 4 victories | Pittsburgh
+right: Bob
+Wrong: 
+Value: $400
+Number: 12
+SO, WHATCHA COMPOSIN'? | 1905, while on holiday at the seashore: "La Mer" | Claude Debussy
+right: Charlie
+Wrong: 
+Value: $400
+Number: 6
+HAVE SOME LEFTOVERS! | The label on our leftover caviar says "malossol", which means it was prepared with just a little of this seasoning | salt
+right: Charlie
+Wrong: 
+Value: $400
+Number: 19
+PALINDROMIC WORDS | If others are unaware of your merits, it might be time to do this to your own horn | toot
+right: Charlie
+Wrong: 
+Value: $400
+Number: 1
+A VISIT TO ANCIENT EGYPT | (<http://www.j-archive.com/media/2005-05-27_DJ_17.jpg> Sarah of the Clue Crew reports from an exhibit in Cairo.) This <http://www.j-archive.com/media/2005-05-27_DJ_17a.jpg> mask is from Tut's tomb, which this British archaeologist found in 1922, saying everywhere the glint of gold | (Howard) Carter
+right: Charlie
+Wrong: 
+Value: $800
+Number: 17
+THE NFL | This National Football League team's offices are located at 1000 Football Dr. in Lake Forest, Illinois | Bears
+right: Bob
+Wrong: 
+Value: $800
+Number: 13
+SO, WHATCHA COMPOSIN'? | 1931: "Second Rhapsody" | George Gershwin
+right: Charlie
+Wrong: 
+Value: DD: $2,400
+Number: 7
+HAVE SOME LEFTOVERS! | This "national"-named pot o' mutton, onions & potatoes has been in the fridge since St. Patrick's Day | Irish stew
+right: Bob
+Wrong: 
+Value: $800
+Number: 25
+PALINDROMIC WORDS | In 1836 Congress adopted the first of these "rules" stopping itself from debating slavery | gag
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+A VISIT TO ANCIENT EGYPT | (<http://www.j-archive.com/media/2005-05-27_DJ_18.jpg> Jimmy of the Clue Crew reports from Giza.)  This great pharaoh left his mark on Egypt in the form of temples and colossal statues of himself, like <http://www.j-archive.com/media/2005-05-27_DJ_18a.jpg>  this fallen one | Ramses II (or Ramses the Great)
+right: Tim
+Wrong: 
+Bob: Who is Ramses?
+Value: $1200
+Number: 18
+THE NFL | Linebacker Lawrence Taylor spent his entire 13-year career with this team | the Giants
+right: Bob
+Wrong: 
+Value: $1200
+Number: 14
+SO, WHATCHA COMPOSIN'? | 1802: What's that you say?  I said, whatcha composin'?  Oh, the "Kreutzer" sonata | Beethoven
+right: Tim
+Wrong: 
+Value: $1200
+Number: 8
+HAVE SOME LEFTOVERS! | Have some of this Japanese dish of stir-fried meat & vegetables while we hum the 1963 song of the same name | sukiyaki
+right: Charlie
+Wrong: 
+Value: $1200
+Number: 22
+PALINDROMIC WORDS | It means to barely survive when used before "out a living" | eke
+right: Tim
+Wrong: 
+Value: $1200
+Number: 3
+A VISIT TO ANCIENT EGYPT | (<http://www.j-archive.com/media/2005-05-27_DJ_20.jpg> Jimmy of the Clue Crew reports from in front of a pyramid at Giza.) The King's Chamber in the tallest of the Great Pyramids still contains the sarcophagus of this ruler | Cheops (or Khufu)
+right: Charlie
+Wrong: 
+Value: $1600
+Number: 20
+THE NFL | 2 years before becoming the Rams' starting QB in 1999, he was playing in the Arena Football League | (Kurt) Warner
+right: Bob
+Wrong: 
+Value: $1600
+Number: 15
+SO, WHATCHA COMPOSIN'? | In the 1870s he could have said, "Czech out" the <http://www.j-archive.com/media/2005-05-27_DJ_09.mp3> following | Bedrich Smetana
+right: 
+Wrong: Triple Stumper
+Bob: Who is Dvorák?
+Value: $1600
+Number: 9
+HAVE SOME LEFTOVERS! | Save room for the aubergines a l'Egyptienne-- these veggies stuffed with onions & served with tomatoes | eggplants
+right: Tim
+Wrong: 
+Value: $1600
+Number: 23
+BRITISH MONARCHS | She had extensive hair loss by the age of 31 | Elizabeth I
+right: Tim
+Wrong: 
+Value: $1600
+Number: 27
+PALINDROMIC WORDS | This word for a dolt was the first name of Rube Goldberg's comic strip hero McNutt | boob
+right: Charlie
+Wrong: 
+Value: $1600
+Number: 4
+A VISIT TO ANCIENT EGYPT | (<http://www.j-archive.com/media/2005-05-27_DJ_21.jpg> Jimmy of the Clue Crew reports from in front of the Sphinx.) Created as a royal image, <http://www.j-archive.com/media/2005-05-27_DJ_21a.jpg> the Sphinx was was associated by the Greeks with a monster who riddles this tragic king | Oedipus
+right: Bob
+Wrong: 
+Value: $2000
+Number: 21
+THE NFL | Daunte Culpepper has thrown more touchdown passes to this man than to any other Minnesota Viking receiver | (Randy) Moss
+right: Bob
+Wrong: 
+Value: $2000
+Number: 16
+SO, WHATCHA COMPOSIN'? | The 1850s in France: A little number called "Ave Maria" | (Charlie) Gounod
+right: Charlie
+Wrong: 
+Value: $2000
+Number: 10
+HAVE SOME LEFTOVERS! | Yum!  Those carciofi alla Romana still look good; they're these thistle-like items, cooked with mint | artichokes
+right: Charlie
+Wrong: 
+Value: $2000
+Number: 24
+BRITISH MONARCHS | He was crowned twice, once in exile, once in London | Charles II
+right: Tim
+Wrong: 
+Value: $2000
+Number: 26
+PALINDROMIC WORDS | After recovering from paralysis around 1660, Mary Margaret Alacoque became a famous one of these | a nun
+right: 
+Wrong: Triple Stumper
+Charlie: What is a seer?
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Bob: $9,400
+Charlie: $12,800
+Tim: $13,200
+
+Final Jeopardy! Round
+BODIES OF WATER | The Latin name of this waterway is Fretum Herculeum | the Strait of Gibraltar
+right: Charlie
+Wrong: 
+Bob: What is Arno River?
+Tim: What is Sea of Galilea
+Wagers: 
+Bob: $3,801
+Charlie: $12,800
+Tim: $12,800
+Final scores:
+Bob: $5,599 (2nd place: $2,000)
+Charlie: $25,600 (New champion: $25,600)
+Tim: $400 (3rd place: $1,000)
+
+Coryat scores
+Bob: $9,400 (16 R,4 W)
+Charlie: $11,200 (16 R(including 1 DD),3 W)
+Tim: $13,000 (16 R(including 1 DD),3 W)

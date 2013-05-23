@@ -1,0 +1,325 @@
+3541 - Monday, January 17, 2000
+Contestants:
+Kara McDermott: an Internet content editor from Newton, Massachusetts
+Wes Borucki: a doctoral candidate originally from Bloomfield Township, Michigan
+Lewis Targownik: a resident physician from Winnipeg, Manitoba (whose 2-day cash winnings total $27,601)
+First Jeopardy! Round: THE ACADEMY AWARDS, DEUTERONOMY, ROYAL NICKNAMES, BEIN' GREEN, GRAVE MATTERS, LITERARY QUOTES
+THE ACADEMY AWARDS | In 1973 Bob Fosse beat out this director with "Cabaret"; in 1975 Fosse lost to his "Godfather II" | Francis Ford Coppola
+right: Kara
+Wrong: 
+Value: $100
+Number: 6
+DEUTERONOMY | You're not allowed to do this to the sun, moon, stars or graven images | Worship
+right: Lewis
+Wrong: 
+Value: $100
+Number: 1
+ROYAL NICKNAMES | According to a TV theme song, it's Davy Crockett's royal nickname | "King of the Wild Frontier"
+right: Wes
+Wrong: 
+Value: $100
+Number: 8
+BEIN' GREEN | The shape left when it leaves is a "polygon": | Parrot
+right: Lewis
+Wrong: 
+Value: $100
+Number: 21
+GRAVE MATTERS | This comic had the last laugh; the epitaph on his Miami grave reads: "And Away We Go" | Jackie Gleason
+right: Wes
+Wrong: 
+Value: $100
+Number: 12
+LITERARY QUOTES | This captain offers gold to whomever "raises me a white-headed whale with a wrinkled brow" | Captain Ahab
+right: Kara
+Wrong: 
+Value: $100
+Number: 26
+THE ACADEMY AWARDS | Daughter of supporting player Paul, she won the 1995 Supporting Actress Oscar for "Mighty Aphrodite" | Mira Sorvino
+right: Lewis
+Wrong: 
+Value: $200
+Number: 7
+DEUTERONOMY | In 4:22 he reveals, "I must die in this land, I must not go over Jordan" | Moses
+right: Lewis
+Wrong: 
+Value: $200
+Number: 2
+ROYAL NICKNAMES | Michael Jackson bestowed this royal nickname upon himself, but many agree it is accurate | "King of Pop"
+right: Wes
+Wrong: 
+Value: $200
+Number: 13
+BEIN' GREEN | A mini matador may take it on: | Bullfrog
+right: Wes
+Wrong: 
+Value: $200
+Number: 22
+GRAVE MATTERS | Hap Arnold, Omar Bradley & Admiral Halsey are among the notables buried here | Arlington National Cemetery
+right: Lewis
+Wrong: 
+Value: $200
+Number: 15
+LITERARY QUOTES | "I meant what I said and I said what I meant...an elephant's faithful" this much | 100 percent
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 27
+THE ACADEMY AWARDS | "Priscilla, Queen of the Desert" is among the few movies set in the present day to win this award | Costume Design
+right: 
+Wrong: 
+Value: DD: $400
+Number: 9
+DEUTERONOMY | The wilderness was terrible, there were fiery serpents, scorpions & you had to get this out of a rock! | Water
+right: Lewis
+Wrong: 
+Value: $300
+Number: 3
+ROYAL NICKNAMES | Nickname of the jazzman portrayed here by Al Hirschfeld: (Benny Goodman) | "King of Swing"
+right: Kara
+Wrong: 
+Value: $300
+Number: 14
+BEIN' GREEN | Watch it "snatch the pebble from my hand": | Grasshopper
+right: Wes
+Wrong: 
+Value: $300
+Number: 23
+GRAVE MATTERS | A giant bust of his head & the epitaph "Workers of All Lands Unite" are found on his London tombstone | Karl Marx
+right: Lewis
+Wrong: 
+Value: $300
+Number: 16
+LITERARY QUOTES | "Heaven has no rage like love to hatred turned, nor hell a fury like" this | A woman scorned
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+THE ACADEMY AWARDS | Actress seen here in her Oscar-winning 1950 performance: | Judy Holliday
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+DEUTERONOMY | Chapter 7 says love God & he will love ye & bless the increase of your kine, these | Cattle
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+ROYAL NICKNAMES | Aretha Franklin is the Queen of Soul, Donna Summer is this | "Queen of Disco"
+right: Kara
+Wrong: 
+Value: $400
+Number: 19
+BEIN' GREEN | If one of these rides up on you at your wedding, have the bridegroom throw it away: | Garter snake
+right: Lewis
+Wrong: 
+Value: $400
+Number: 24
+GRAVE MATTERS | In 1840 his body was moved from St. Helena to Paris & entombed in the Church of the Dome | Napoleon
+right: Lewis
+Wrong: 
+Value: $400
+Number: 17
+LITERARY QUOTES | This 1943 Ayn Rand novel opens with the line "Howard Roark laughed" | "The Fountainhead"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+THE ACADEMY AWARDS | Robert Wise & choreographer Jerome Robbins shared the Best Director Oscar for this 1961 musical | West Side Story
+right: Kara
+Wrong: 
+Value: $500
+Number: 11
+DEUTERONOMY | The tribe of Levi got to carry this carrying case | Ark of the Covenant
+right: Kara
+Wrong: 
+Value: $500
+Number: 5
+ROYAL NICKNAMES | George M. Cohan reigned as the Prince of the American Theater, but was the king of this place | Broadway
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+BEIN' GREEN | This lizard's not just happy to meet you, he's this: | "Frilled" to meet you
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+GRAVE MATTERS | In July 1998, 80 years after their execution, several members of this royal family were reinterred in St. Petersburg | Romanovs
+right: Wes
+Wrong: 
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Lewis: $400
+Wes: -$700
+Kara: $1,100
+Scores at the end of the Jeopardy! Round:
+Lewis: $1,800
+Wes: -$100
+Kara: $1,900
+Second Jeopardy! Round: THE WORDS OF MARTIN LUTHER KING, WORLD HISTORY, OKLAHOMIES, ODE TO ENGLAND, THE INSTRUMENT PLAYED, BEFORE & AFTER
+THE WORDS OF MARTIN LUTHER KING | Dr. King said it's what we must let ring "from every village and every hamlet, from every state and every city" | Freedom
+right: Lewis
+Wrong: 
+Value: $200
+Number: 6
+WORLD HISTORY | Martin Behaim made the world's first known globe in this year when some say the world was proved round | 1492
+right: Lewis
+Wrong: 
+Value: $200
+Number: 1
+OKLAHOMIES | Born in Oklahoma, this Hall of Fame catcher for the Cincinnati Reds is part Choctaw Indian | Johnny Bench
+right: Lewis
+Wrong: 
+Value: $200
+Number: 24
+ODE TO ENGLAND | North Bank area known for its bun, or a presidential daughter (not a son) | Chelsea
+right: Lewis
+Wrong: 
+Value: $200
+Number: 7
+THE INSTRUMENT PLAYED | Keith Moon | Drums
+right: Lewis
+Wrong: 
+Value: $200
+Number: 10
+BEFORE & AFTER | Popular TV game show about the USA's top performing companies | Wheel of Fortune 500
+right: Wes
+Wrong: 
+Value: $200
+Number: 20
+THE WORDS OF MARTIN LUTHER KING | King preached this "is the greatest form of government...ever conceived", but "we have never touched it" | Democracy
+right: Wes
+Wrong: 
+Value: $400
+Number: 15
+WORLD HISTORY | An 1888 treaty said this canal was neutral & would remain open even during a war | Suez Canal
+right: Wes
+Wrong: 
+Value: $400
+Number: 2
+OKLAHOMIES | In his youth, this evangelist & university founder was healed of tuberculosis at a revival meeting | Oral Roberts
+right: Wes
+Wrong: 
+Value: $400
+Number: 27
+ODE TO ENGLAND | Prime Minister from '57 to '63, publishing was in his family | Harold Macmillan
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+THE INSTRUMENT PLAYED | Yo-Yo Ma | Cello
+right: Lewis
+Wrong: 
+Value: $400
+Number: 11
+BEFORE & AFTER | This oldest California prison makes movies like "Reservoir Dogs" & "Pulp Fiction" | San Quentin Tarantino
+right: Kara
+Wrong: 
+Value: $400
+Number: 21
+THE WORDS OF MARTIN LUTHER KING | This peaceful practice "is not sterile passivity, but a powerful moral force" | Nonviolence
+right: Kara
+Wrong: 
+Value: $600
+Number: 16
+WORLD HISTORY | The day America declared its independence, this person was on the throne of Russia | Catherine the Great
+right: 
+Wrong: 
+Value: DD: $700
+Number: 3
+OKLAHOMIES | "Worlds Apart" & "Don't Let Our Love Start Slippin' Away" are hits by this Oklahoma boy seen here: | Vince Gill
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+ODE TO ENGLAND | People are stompin' at this D'Oyly Carte hotel -- built next to his theatre, it really is swell | Savoy
+right: Kara
+Wrong: 
+Value: $600
+Number: 9
+THE INSTRUMENT PLAYED | Van Cliburn | Piano
+right: Lewis
+Wrong: 
+Value: $600
+Number: 12
+BEFORE & AFTER | Reduced-calorie sugar substitute that was a 1975 Top 10 hit for the band War | Sweet & Low Rider
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+THE WORDS OF MARTIN LUTHER KING | From jail King wrote, "We will reach...freedom in" this city 'because the goal of America is freedom" | Birmingham
+right: Wes
+Wrong: 
+Value: $800
+Number: 18
+WORLD HISTORY | Sostratus of Cnidus built this city's famous lighthouse in the early 3rd century B.C. | Alexandria
+right: Lewis
+Wrong: 
+Value: $800
+Number: 4
+ODE TO ENGLAND | Known for a cycle race & a cat, this Irish Sea isle is where it's at | Isle of Man
+right: Wes
+Wrong: 
+Value: $800
+Number: 13
+THE INSTRUMENT PLAYED | Andres Segovia | Classical guitar
+right: Wes
+Wrong: 
+Value: $800
+Number: 17
+BEFORE & AFTER | The actor who portrayed Gomez Addams on film masters the art of French Cooking | Raul Julia Child
+right: Kara
+Wrong: 
+Value: $800
+Number: 25
+THE WORDS OF MARTIN LUTHER KING | This 1954 "decision...will long be stenciled on the mental sheets of succeeding generations" | Brown v. Board of Education
+right: Wes
+Wrong: 
+Value: $1000
+Number: 19
+WORLD HISTORY | This monk who died in 735 got the info for his history of England through correspondence | Venerable Bede
+right: Wes
+Wrong: 
+Value: $1000
+Number: 5
+ODE TO ENGLAND | In 1811 this group smashed & mangled lots of machinery of things newfangled | Luddites
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+THE INSTRUMENT PLAYED | Zamfir | Pan flute
+right: Wes
+Wrong: 
+Value: $1000
+Number: 22
+BEFORE & AFTER | Feared former Cleveland slugger, now an Oriole, who is the most popular girl at the dance | Albert Belle of the ball
+right: Lewis
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Lewis: $4,200
+Wes: $4,600
+Kara: $4,300
+
+Final Jeopardy! Round
+U.S. STAMPS | FDR's in 1982 was the last stamp to show 1 of these; they were removed from photos of Jackson Pollock & Edward R. Murrow | Cigarette
+right: 
+Wrong: 
+Lewis: What is a smile?
+Kara: What is a wheelchair?
+Wes: What is a wheelchair?
+Wagers: 
+Lewis: $4,200
+Kara: $301
+Wes: $4,001
+Final scores:
+Lewis: $0 (3rd place: Polaroid PhotoMax Digital Camera Creative Kit)
+Wes: $599 (2nd place: Kaypro 2100 Personal Desktop Computer & DK Publishing Books & CD-ROMs)
+Kara: $3,999 (New champion: $3,999)
+
+Coryat scores
+Lewis: $4,200 (18 R,3 W)
+Wes: $5,700 (16 R,7 W(including 2 DDs))
+Kara: $4,300 (10 R,0 W)

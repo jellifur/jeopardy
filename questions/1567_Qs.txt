@@ -1,0 +1,339 @@
+3880 - Friday, June 15, 2001
+Contestants:
+Kara Miller: a graduate student from Carlisle, Massachusetts
+Sam Meyer: a video editor from Atlanta, Georgia
+Liam Healy: an attorney from Needham, Massachusetts
+First Jeopardy! Round: FACES IN HISTORY, MOTTOES & SLOGANS, THE OLD WEST, CANDY NAMES, NETWORKING, IT'S ALL "HOO" YOU KNOW
+FACES IN HISTORY | Depicted here, he was the first vice president who never became president | Aaron Burr
+right: Kara
+Wrong: 
+Value: $100
+Number: 10
+MOTTOES & SLOGANS | Service that completes "The Few.  The Proud..." | The Marines
+right: Sam
+Wrong: 
+Value: $100
+Number: 1
+THE OLD WEST | In 1862 he succeeded his brother Virgil as marshal of Tombstone | Wyatt Earp
+right: Sam
+Wrong: 
+Value: $100
+Number: 15
+CANDY NAMES | In a '77 film Diane Keaton was looking for him | Mr. Goodbar
+right: Sam
+Wrong: 
+Value: $100
+Number: 5
+NETWORKING | "Teletubbies", "Sesame Street", "Charlie Rose" | PBS
+right: Sam
+Wrong: 
+Value: $100
+Number: 24
+IT'S ALL "HOO" YOU KNOW | It can be people who utter owl noises or the name of a popular chain of restaurants | Hooters
+right: Sam
+Wrong: 
+Value: $100
+Number: 7
+FACES IN HISTORY | "Little Lady" depicted here who wrote the bestselling American novel of the 1850s | Harriet Beecher Stowe ("Uncle Tom's Cabin")
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+MOTTOES & SLOGANS | Dirigo, meaning "I" do this, is the motto of Maine, not of James Cameron or Oliver Stone | Direct
+right: Liam
+Wrong: 
+Value: $200
+Number: 2
+THE OLD WEST | In 1876 he led the Indian attack at Little Bighorn; a year later he was killed by a soldier at Fort Robinson, Neb. | Crazy Horse
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 16
+CANDY NAMES | Dumas work serialized in Le Siecle in 1844 | "The Three Musketeers"
+right: Kara
+Wrong: 
+Value: $200
+Number: 19
+NETWORKING | "Melting Pot",  "Iron Chef", "Ready...Set...Cook!" | The Food Network
+right: Kara
+Wrong: 
+Value: $200
+Number: 25
+IT'S ALL "HOO" YOU KNOW | An informal performance by folksingers & dancers | Hootenanny
+right: Liam
+Wrong: 
+Value: $200
+Number: 8
+FACES IN HISTORY | A senator before he was vice president, he ran for the top job a few years later | Walter Mondale
+right: Liam
+Wrong: 
+Value: $300
+Number: 12
+MOTTOES & SLOGANS | The slogan associated with the girl seen here has been used since 1914 | "When it Rains, it Pours"
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 3
+THE OLD WEST | In 1861 this "Wild" gunslinger killed David McCanles & 2 others near Fairbury, Neb.; pulp novels upped the account to 30 | Wild Bill Hickok
+right: Sam
+Wrong: 
+Value: $300
+Number: 17
+CANDY NAMES | Laughs disrepectfully | Snickers
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+NETWORKING | "The Spin Room", "Moneyline", "Capital Gang" | CNN
+right: Liam
+Wrong: 
+Value: $300
+Number: 28
+IT'S ALL "HOO" YOU KNOW | You're "in" this when in a secret partnership with someone | Cahoots
+right: Kara
+Wrong: 
+Value: $300
+Number: 9
+FACES IN HISTORY | This environmentally-minded  Arizona Democrat's strongest run for the presidency came in 1976 | Morris Udall
+right: Kara
+Wrong: 
+Value: $400
+Number: 20
+MOTTOES & SLOGANS | The Jesuits' motto "Ad Majorem Dei Gloriam" translates as "To the Greater" this phrase | the "Glory of God"
+right: 
+Wrong: 
+Value: DD: $500
+Number: 4
+THE OLD WEST | In 1885 this Sioux leader was allowed to leave the reservation to tour with Buffalo Bill's Wild West Show | Sitting Bull
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+CANDY NAMES | The time during the week when wages are given | Pay Day
+right: Liam
+Wrong: 
+Value: $400
+Number: 30
+NETWORKING | "The Daily Show", "Absolutely Fabulous", "The Man Show" | Comedy Central
+right: Kara
+Wrong: 
+Value: $400
+Number: 27
+IT'S ALL "HOO" YOU KNOW | A long full article of clothing belled out with circular supports | Hoop skirt
+right: Sam
+Wrong: 
+Value: $400
+Number: 13
+FACES IN HISTORY | Towns & counties across America are named for this patriotic Pole | Casimir Pulaski
+right: Sam
+Wrong: 
+Value: $500
+Number: 21
+MOTTOES & SLOGANS | An infamous slogan from concentration camp gates stated that this "will set you free" | Work (arbeit)
+right: Sam
+Wrong: 
+Value: $500
+Number: 6
+THE OLD WEST | In 1860 this Chiricahua Apache was falsely accused of kidnapping a boy in Arizona, which led to a brief war | Cochise
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+CANDY NAMES | A spiral galaxy | Milky Way
+right: Liam
+Wrong: 
+Value: $500
+Number: 29
+NETWORKING | "Acme Hour", "Dexter's Laboratory", "The Powerpuff Girls" | Cartoon Network
+right: Sam
+Wrong: 
+Value: $500
+Number: 26
+IT'S ALL "HOO" YOU KNOW | Also known as a "Hubble Bubble", it's the eastern smoking device seen here | Hookah
+right: Sam
+Wrong: 
+Value: $500
+Number: 14
+Scores at the first commercial break (after clue 15)
+Liam: -$800
+Sam: $1,800
+Kara: $200
+Scores at the end of the Jeopardy! Round:
+Liam: $100
+Sam: $3,200
+Kara: $700
+Second Jeopardy! Round: AFRICAN WILDLIFE, STATELY FIRST NAMES, IT'S A LONG STORY, BIG SCREEN BIOGRAPHIES, "P"LACES, HELP ME WITH THIS CROSSWORD!
+AFRICAN WILDLIFE | This largest pachyderm has no sweat glands, so it cools off by rolling in ponds & streams | Elephant
+right: Sam
+Wrong: 
+Value: $200
+Number: 16
+STATELY FIRST NAMES | This author created Ichabod Crane & Rip Van Winkle | Washington Irving
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+IT'S A LONG STORY | A 1968 film based on this Russian novel was released in a shortened 6-hour 13-minute version | War And Peace
+right: Kara
+Wrong: 
+Value: $200
+Number: 24
+BIG SCREEN BIOGRAPHIES | 1993: Angela Bassett as this singer | Tina Turner
+right: Kara
+Wrong: 
+Value: $200
+Number: 6
+"P"LACES | W.C. Fields joked that his epitaph should read, "On the whole, I'd rather be in" this city | Philadelphia
+right: Liam
+Wrong: 
+Value: $200
+Number: 1
+HELP ME WITH THIS CROSSWORD! | It's where you hope not to be led to: [21 Across: _ _ O_] | Doom
+right: Liam
+Wrong: 
+Value: $200
+Number: 26
+AFRICAN WILDLIFE | This fastest feline is now endangered with an estimated 13,000 remaining in the wild | Cheetah
+right: Liam
+Wrong: 
+Value: $400
+Number: 17
+STATELY FIRST NAMES | Sean Connery played this character's dad, Henry, in a 1989 film | Indiana Jones
+right: Sam
+Wrong: 
+Value: $400
+Number: 12
+IT'S A LONG STORY | Dorothy Dunnett's 6-volume Lymond Chronicles begin in this U.K. country in the aftermath of war with England | Scotland
+right: Sam
+Wrong: 
+Value: $400
+Number: 21
+BIG SCREEN BIOGRAPHIES | 1953: Tony Curtis as this magician | Harry Houdini
+right: Liam
+Wrong: 
+Value: $400
+Number: 7
+"P"LACES | Located in northwest India, this state is bordered on the north by Jammu & Kashmir | Punjab
+right: Liam
+Wrong: 
+Value: $400
+Number: 2
+HELP ME WITH THIS CROSSWORD! | Aluminum silicate mineral: [6 Across: F E _ D S P A _] | Feldspar
+right: Sam
+Wrong: 
+Value: $400
+Number: 27
+AFRICAN WILDLIFE | Also known by this 3-letter name, the wildebeest comes in 2 species: black & blue | Gnu
+right: Liam
+Wrong: 
+Value: $600
+Number: 18
+STATELY FIRST NAMES | Cathy reveals that "Suddenly, Last Summer" cousin Sebastian was cannibalized in a play by this man | Tennessee Williams
+right: Sam
+Wrong: 
+Value: $600
+Number: 13
+IT'S A LONG STORY | This 4-word phrase begins the title of Sergio Leone's epic films set "In The West" & "In America" | Once upon a time
+right: Sam
+Wrong: 
+Value: $600
+Number: 22
+BIG SCREEN BIOGRAPHIES | 2000: Ed Harris as this painter | Jackson Pollock
+right: Kara
+Wrong: 
+Value: $600
+Number: 8
+"P"LACES | This capital was virtually deserted during the reign of the Khmer Rouge | Phnom Penh
+right: Liam
+Wrong: 
+Value: DD: $600
+Number: 3
+HELP ME WITH THIS CROSSWORD! | Type of dance or button: [45 Across: _ _ _ _ Y] | Belly
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+AFRICAN WILDLIFE | Most of these flightless birds are found in or near Antarctica, but the jackass species is found off South Africa | Penguins
+right: Liam
+Wrong: 
+Value: $800
+Number: 19
+STATELY FIRST NAMES | "Fast" Eddie Felson challenges this "stately" pool player in "The Hustler" | Minnesota Fats
+right: Liam
+Wrong: 
+Value: $800
+Number: 14
+IT'S A LONG STORY | This "Little" Dickens novel of 1857 runs about 900 pages | "Little Dorrit"
+right: Liam
+Wrong: 
+Value: $800
+Number: 23
+BIG SCREEN BIOGRAPHIES | 1992: Gerard Depardieu as this explorer | Christopher Columbus
+right: Kara
+Wrong: 
+Value: $800
+Number: 9
+"P"LACES | More than half the population of this country perished in an 1864-1870 war with Argentina, Brazil & Uruguay | Paraguay
+right: Kara
+Wrong: 
+Value: $800
+Number: 4
+HELP ME WITH THIS CROSSWORD! | "Hectoring" father: [12 Across: P R _ _ M] | Priam
+right: Sam
+Wrong: 
+Value: $800
+Number: 29
+AFRICAN WILDLIFE | Unlike anteaters, this ant-eating "earth pig" has 20 cylindrical, rootless teeth | Aardvark
+right: Sam
+Wrong: 
+Value: $1000
+Number: 20
+STATELY FIRST NAMES | Like her contemporary James Joyce, this author of "To The Lighthouse" used stream of consciousness | Virginia Woolf
+right: Liam
+Wrong: 
+Value: DD: $700
+Number: 15
+IT'S A LONG STORY | After "Pamela", Samuel Richardson wrote a million-word novel about this heroine | Clarissa
+right: Kara
+Wrong: 
+Value: $1000
+Number: 25
+BIG SCREEN BIOGRAPHIES | 1951: Burt Lancaster as this athlete | Jim Thorpe
+right: Liam
+Wrong: 
+Value: $1000
+Number: 10
+"P"LACES | Peter Mayle wrote "A Year In" this French region | Provence
+right: Sam
+Wrong: 
+Value: $1000
+Number: 5
+HELP ME WITH THIS CROSSWORD! | Shiver, in Cherbourg: [17 Across: F _ _ _ _ O N] | Frisson
+right: Sam
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Liam: $7,000
+Sam: $9,600
+Kara: $4,100
+
+Final Jeopardy! Round
+NAMES IN THE NEWS | On December 16, 2000, the day after his graduation, LSU retired his No. 33 jersey | Shaquille O' Neal
+right: Kara
+Wrong: 
+Liam: Who is Larry Bird?
+Sam: Who is Manning?
+Wagers: 
+Kara: $4,000
+Liam: $7,000
+Sam: $4,401
+Final scores:
+Liam: $0 (3rd place: Skagen Denmark Shopping Spree)
+Sam: $5,199 (2nd place: Trip to Bal Harbour, Florida)
+Kara: $8,100 (New champion: $8,100)
+
+Coryat scores
+Liam: $7,800 (18 R(including 2 DDs),5 W(including 1 DD))
+Sam: $9,600 (21 R,0 W)
+Kara: $4,100 (12 R,4 W)

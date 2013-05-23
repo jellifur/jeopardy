@@ -1,0 +1,316 @@
+3008 - Wednesday, October 1, 1997
+Contestants:
+Brooks Vault: a networking engineer from Gaithersburg, Maryland
+Helen Sporher: a business owner from St. George Island, Florida
+Jason Russell: a history student from Cleveland, Tennessee (whose 1-day cash winnings total $9,400)
+First Jeopardy! Round: "D" IN SCIENCE, TELEVISED HISTORY, CONNECTIONS, DOUBLE TALK, HITTITE HODGEPODGE, CHILDREN'S LIT
+"D" IN SCIENCE | The material left behind by a retreating glacier or the slow movement of the continents | Drift
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 11
+TELEVISED HISTORY | Video tape of this space shuttle's destruction aired repeatedly on January 28, 1986 | Challenger
+right: Jason
+Wrong: 
+Value: $100
+Number: 16
+CONNECTIONS | He's the husband "shared" by Connie Stevens, Liz Taylor & Debbie Reynolds | Eddie Fisher
+right: Helen
+Wrong: 
+Value: $100
+Number: 21
+DOUBLE TALK | In the 1920s Donald Duncan introduced this child's toy to America & it's had its ups & downs ever since | Yo-Yo
+right: Brooks
+Wrong: 
+Value: $100
+Number: 26
+HITTITE HODGEPODGE | In Hittite myth, one of these insects is sent to find a missing god; sort of a game of "Hive And Seek" | Bee
+right: Jason
+Wrong: 
+Value: $100
+Number: 6
+CHILDREN'S LIT | Of all his works, the "Just So Stories" was reportedly his favorite | Rudyard Kipling
+right: Jason
+Wrong: 
+Value: $100
+Number: 1
+"D" IN SCIENCE | How loud you're playing your Aerosmith album is indicated by this number | Decibel
+right: Brooks
+Wrong: 
+Value: $200
+Number: 12
+TELEVISED HISTORY | Little was found in 1986 when Geraldo Rivera opened a vault linked to this crime boss on live TV | Al Capone
+right: Jason
+Wrong: 
+Value: $200
+Number: 17
+CONNECTIONS | It's the element shared by water & carbon dioxide | Oxygen
+right: Jason
+Wrong: 
+Value: $200
+Number: 22
+DOUBLE TALK | It's Orkan for "hello" | "Na-Nu Na-Nu"
+right: Jason
+Wrong: 
+Value: $200
+Number: 27
+HITTITE HODGEPODGE | After a 16-year war, a treaty was signed with this country & its king, Ramses II, married a Hittite princess | Egypt
+right: Jason
+Wrong: 
+Value: $200
+Number: 7
+CHILDREN'S LIT | "If You Give A Moose A Muffin" is the tasty sequel to "If You Give A Mouse" this | A cookie
+right: Jason
+Wrong: 
+Value: $200
+Number: 2
+"D" IN SCIENCE | In 1837 this French theatrical designer invented a new type of photography | Louis Daguerre
+right: Helen
+Wrong: 
+Value: $300
+Number: 13
+TELEVISED HISTORY | The whole world was watching the protests at the 1968 Democratic Convention in this city | Chicago
+right: Jason
+Wrong: 
+Value: $300
+Number: 18
+CONNECTIONS | First name shared by composer Stravinsky, helicopter maker Sikorsky & "Young Frankenstein"'s assistant | Igor
+right: Jason
+Wrong: 
+Value: $300
+Number: 23
+DOUBLE TALK | This Mamas & Papas hit was "All I hoped it would be" | Monday, Monday
+right: Brooks
+Wrong: 
+Value: $300
+Number: 28
+HITTITE HODGEPODGE | The army had 3-man crews & an elaborate system of horse training for these vehicles | Chariots
+right: Jason
+Wrong: 
+Value: $300
+Number: 8
+CHILDREN'S LIT | She came to fame with her 1970 book "Are You There, God?  It's Me, Margaret" | Judy Blume
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 3
+"D" IN SCIENCE | Sailing ships may experience days of calm in this ocean region near the Equator | Doldrums
+right: Jason
+Wrong: 
+Value: $400
+Number: 14
+TELEVISED HISTORY | TV cameramen were just 20 feet away when he shot Ronald Reagan on March 30, 1981 | John Hinckley
+right: Jason
+Wrong: 
+Value: $400
+Number: 19
+CONNECTIONS | River that connects Lake Powell in Utah with the Gulf of California | Colorado River
+right: Jason
+Wrong: 
+Value: DD: $2,500
+Number: 24
+DOUBLE TALK | During World War II this English "lord" broadcast propaganda for the Germans, & it wasn't funny | Lord Haw-Haw
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+HITTITE HODGEPODGE | Following the Bronze Age, the Hittites helped initiate this metal's age | Iron Age
+right: Jason
+Wrong: 
+Value: $400
+Number: 9
+CHILDREN'S LIT | C.S. Lewis chronicled this fantasy world in 7 books, beginning with "The Lion, The Witch And The Wardrobe" | Narnia
+right: Jason
+Wrong: 
+Value: $400
+Number: 4
+"D" IN SCIENCE | Hey, man! - that's heavy hydrogen | Deuterium
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+TELEVISED HISTORY | This ABC sportscaster won an Emmy for his coverage of the terrorism in Munich in 1972 | Jim McKay
+right: Jason
+Wrong: 
+Value: $500
+Number: 20
+CONNECTIONS | It's the capital city shared by the Ottoman & the Byzantine Empires | Constantinople (Istanbul)
+right: Jason
+Wrong: 
+Value: $500
+Number: 25
+DOUBLE TALK | This Washington city whose name means "many waters" was known as Steptoeville until 1859 | Walla Walla
+right: Brooks
+Wrong: 
+Value: $500
+Number: 30
+HITTITE HODGEPODGE | The Hittite language was written in this wedge-shaped system | Cuneiform
+right: Brooks
+Wrong: 
+Value: $500
+Number: 10
+CHILDREN'S LIT | Scott O' Dell is perhaps best known for his Newberry Medal-winning novel "Island Of" these creatures | The Blue Dolphins
+right: Jason
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Jason: $2,600
+Helen: $300
+Brooks: $200
+Scores at the end of the Jeopardy! Round:
+Jason: $7,800
+Helen: $400
+Brooks: $1,100
+Second Jeopardy! Round: CLASSICAL MUSICIANS, BEFORE & AFTER, FOODS THAT BEGIN WITH THE LETTER "Q", DIRECTORS & THEIR FILMS, FAMOUS MOUSTACHES, AFRICAN GEOGRAPHY
+CLASSICAL MUSICIANS | This conductor, later seen on television, gained fame substituting on a 1943 New York Philharmonic radio broadcast | Leonard Bernstein
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+BEFORE & AFTER | "Pillow Talk" star's preschool | Doris Day Care Center
+right: Helen
+Wrong: 
+Value: $200
+Number: 13
+FOODS THAT BEGIN WITH THE LETTER "Q" | This member of the pheasant family can be roasted, broiled or fried | Quail
+right: Jason
+Wrong: 
+Value: $200
+Number: 14
+DIRECTORS & THEIR FILMS | Robert Zemeckis directed this 1988 Disney hit, undoubtely the biggest bunny film of the decade | Who Framed Roger Rabbit
+right: Jason
+Wrong: 
+Value: $200
+Number: 6
+AFRICAN GEOGRAPHY | M'zab, Tanezrouft & Suf are regions of this desert in Algeria | Sahara Desert
+right: Jason
+Wrong: 
+Value: $200
+Number: 1
+CLASSICAL MUSICIANS | A New York City-based conductorless chamber orchestra is named for this mythic musician, Eurydice's mate | Orpheus
+right: Brooks
+Wrong: 
+Value: $400
+Number: 12
+FOODS THAT BEGIN WITH THE LETTER "Q" | It's a tortilla that's been filled, folded & fried | Quesadilla
+right: Brooks
+Wrong: 
+Value: $400
+Number: 15
+DIRECTORS & THEIR FILMS | He wrote of the nearly 20 years it took to bring "Gandhi" to the screen in his 1982 book "In Search of Gandhi" | Sir Richard Attenborough
+right: Jason
+Wrong: 
+Value: $400
+Number: 7
+AFRICAN GEOGRAPHY | The exit at the base of these falls is known as the Boiling Pot | Victoria Falls
+right: Jason
+Wrong: 
+Value: $400
+Number: 2
+CLASSICAL MUSICIANS | Marilyn Horne revived many obscure roles for this vocal range just below true soprano | Mezzo-soprano
+right: Jason
+Wrong: 
+Value: $600
+Number: 24
+BEFORE & AFTER | Mortuary where the deer & the antelope lie in state | The Funeral Home On The Range
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+FOODS THAT BEGIN WITH THE LETTER "Q" | This savory pie can have bacon bits added to the custard filling | Quiche
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 16
+DIRECTORS & THEIR FILMS | He won 1967's Best Director Oscar for "The Graduate", which was only his second film | Mike Nichols
+right: Helen
+Wrong: 
+Value: $600
+Number: 8
+FAMOUS MOUSTACHES | This TV comic known for his moustache & cigars was also known for characters such as Percy Dovetonsils | Ernie Kovacs
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 19
+AFRICAN GEOGRAPHY | This mountain system in NW Africa is actually an extension of Europe's Alpine system | Atlas Mountains
+right: Jason
+Wrong: 
+Value: $600
+Number: 3
+CLASSICAL MUSICIANS | (AUDIO DAILY DOUBLE): Heinz Holliger, heard here playing Bach, is the most famous modern performer on this instrument | the oboe
+right: 
+Wrong: 
+Jason: What is the clarinet?
+Value: DD: $1,000
+Number: 25
+BEFORE & AFTER | The first black Congresswoman along the route on which cattle were driven from Texas to Kansas | Shirley Chisholm Trail
+right: Brooks
+Wrong: 
+Value: $800
+Number: 23
+FOODS THAT BEGIN WITH THE LETTER "Q" | This yellow-skinned fruit has been used for centuries in jams & jellies | Quince
+right: Brooks
+Wrong: 
+Value: $800
+Number: 17
+DIRECTORS & THEIR FILMS | This jury drama was the first feature Sidney Lumet directed; Henry Fonda, its producer & star, hired him | 12 Angry Men
+right: Jason
+Wrong: 
+Value: $800
+Number: 9
+FAMOUS MOUSTACHES | (VIDEO DAILY DOUBLE): These 2 men, born 4 days apart in 1889, sported the similar moustaches seen here | Adolf Hitler & Charlie Chaplin
+right: Helen
+Wrong: 
+Value: DD: $2,500
+Number: 20
+AFRICAN GEOGRAPHY | This Congolese capital was named for the explorer who in 1880 claimed the area | Brazzaville
+right: Helen
+Wrong: 
+Value: $800
+Number: 4
+FOODS THAT BEGIN WITH THE LETTER "Q" | Most biscuits are an example of these baked items that require little or no kneading | Quick breads
+right: Helen
+Wrong: 
+Value: $1000
+Number: 18
+DIRECTORS & THEIR FILMS | This star of TV's "Jake And The Fatman" directed the 1965 Joey Heatherton thriller "My Blood Runs Cold" | William Conrad
+right: Jason
+Wrong: 
+Value: $1000
+Number: 10
+FAMOUS MOUSTACHES | In his revision of "The Elements Of Style", E.B. White recalled the carefully edged moustache of this co-author | William Strunk, Jr.
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+AFRICAN GEOGRAPHY | This Nigerian city is built on several islands including Ikoyi & Edo | Lagos
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Jason: $9,200
+Helen: $5,500
+Brooks: $2,900
+
+Final Jeopardy! Round
+AMERICANA | The first 24-hour 7-Eleven opened in 1963 in this city | Las Vegas
+right: 
+Wrong: 
+Brooks: What is Dallas?  Hi, Solomon!
+Helen: What is Chicago?  Hi Mom, Jeff & John!
+Jason: What is Los Angeles?
+Wagers: 
+Brooks: $2,800
+Helen: $5,500
+Jason: $1,801
+Final scores:
+Jason: $7,399 (2-day champion: $16,799)
+Helen: $0 (3rd place: Ducane 2004-SS Gas Grill)
+Brooks: $100 (2nd place: Magnavox 25" Stereo Color Monitor Receiver & Hooker Furniture Entertainment Center)
+
+Coryat scores
+Jason: $8,100 (28 R(including 1 DD),4 W(including 1 DD))
+Helen: $3,800 (7 R(including 1 DD),0 W)
+Brooks: $2,900 (9 R,2 W)

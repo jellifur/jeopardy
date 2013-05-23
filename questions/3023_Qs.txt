@@ -1,0 +1,332 @@
+2928 - Wednesday, April 30, 1997
+Comments: 1997 Celebrity <i>Jeopardy!</i> game 3.
+Contestants:
+Benjamin Salisbury: an actor from The Nanny
+Kirsten Dunst: an actress from Jumanji
+Joey Gordon-Levitt: an actor from 3rd Rock from the Sun
+First Jeopardy! Round: WHEN THEY WERE TEENAGERS, WORLD CAPITALS, POP MUSIC, NOVELS, HOLIDAYS & OBSERVANCES, CROSSWORD CLUES "K"
+WHEN THEY WERE TEENAGERS | In his early teens, this "E.T." director won a contest with his short war movie "Escape to Nowhere" | Steven Spielberg
+right: Joey
+Wrong: 
+Value: $100
+Number: 10
+WORLD CAPITALS | It's no longer forbidden to visit the Forbidden City in this capital of China | Beijing
+right: Benjamin
+Wrong: 
+Value: $100
+Number: 24
+POP MUSIC | This leader of the Heartbreakers backed Stevie Nicks on her 1981 solo album "Bella Donna" | Tom Petty
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 2
+NOVELS | Sea creature that's the title character of an 1851 Herman Melville novel | "Moby Dick"
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 1
+HOLIDAYS & OBSERVANCES | Bears, badgers & this mammal have been known to predict the weather on Candlemas, February 2 | groundhog
+right: Benjamin
+Wrong: 
+Value: $100
+Number: 9
+CROSSWORD CLUES "K" | Barbie's beau (3) | Ken
+right: Joey
+Wrong: 
+Value: $100
+Number: 8
+WHEN THEY WERE TEENAGERS | She may have honed her vampire-interviewing skills while working on her Texas high school paper | Anne Rice
+right: Benjamin
+Wrong: 
+Joey: Who is Kirsten Dunst?
+Value: $200
+Number: 11
+POP MUSIC | Selections from this Irish group's "Pop" CD were available on the internet prior to its March 1997 release | U2
+right: 
+Wrong: Triple Stumper
+Benjamin: Who is Pearl Jam?
+Value: $200
+Number: 3
+NOVELS | Margaret Mitchell novel in which Sally Fontaine changes Paul Revere's cry to "The Yankees are coming!" | "Gone with the Wind"
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 7
+HOLIDAYS & OBSERVANCES | Every December, Bostonians put on disguises & reenact this 1773 act of defiance | Boston Tea Party
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 21
+CROSSWORD CLUES "K" | Christmas Kriss (7) | Kringle
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 12
+WHEN THEY WERE TEENAGERS | This leading lady of "The Bridges of Madison County" was homecoming queen at her New Jersey high school | Meryl Streep
+right: Benjamin
+Wrong: 
+Value: $300
+Number: 18
+POP MUSIC | He won a 1996 Grammy for Best Male Rock Performance for "Where It's At" from his "Odelay" CD | Beck
+right: Joey
+Wrong: 
+Value: $300
+Number: 4
+NOVELS | Profession of the heroes of Steve Martini's "Prime Witness" & John Grisham's "The Firm" | lawyers/attorneys
+right: Benjamin
+Wrong: 
+Value: $300
+Number: 15
+CROSSWORD CLUES "K" | Smooch synonym (4) | kiss
+right: Benjamin
+Wrong: 
+Value: $300
+Number: 13
+WHEN THEY WERE TEENAGERS | This Microsoft mogul was just 17 when he became president of his first company, Traf-O-Data | Bill Gates
+right: Joey
+Wrong: 
+Value: $400
+Number: 19
+POP MUSIC | This group won a 1996 Grammy for Best Hard Rock Performance for "Bullet With Butterfly Wings" | the Smashing Pumpkins
+right: Joey
+Wrong: 
+Value: $400
+Number: 5
+NOVELS | Holden Caulfield, the hero of this Salinger novel, hates movies, phonies & his classmate Ernest Morrow | "Catcher in the Rye"
+right: Joey
+Wrong: 
+Value: $400
+Number: 17
+HOLIDAYS & OBSERVANCES | This Jewish holiday that celebrates the new year occurs in the fall before Yom Kippur | Rosh Hashanah
+right: Benjamin
+Wrong: 
+Value: $400
+Number: 25
+CROSSWORD CLUES "K" | A bride & groom tie it (4) | knot
+right: Joey
+Wrong: 
+Value: $400
+Number: 14
+WHEN THEY WERE TEENAGERS | This magician was still in high school when he taught a magic course at NYU in 1972 | David Copperfield
+right: Kirsten
+Wrong: 
+Value: $500
+Number: 23
+POP MUSIC | Her self-titled debut album, which included the hit "Vision of Love", reached the top of the charts in 1990 | Mariah Carey
+right: 
+Wrong: Triple Stumper
+Joey: Who is Celine Dion?
+Value: $500
+Number: 6
+NOVELS | In sequels to this novel, Lucy Maud Montgomery's first, Anne grows to be a woman & a mother | "Anne of Green Gables"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+HOLIDAYS & OBSERVANCES | On March 26, this state honors Prince Jonah Kuhio, who became a delegate to Congress | Hawaii
+right: Benjamin
+Wrong: 
+Value: DD: $200
+Number: 22
+CROSSWORD CLUES "K" | Geisha garment (6) | kimono
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Joey: $200
+Kirsten: $0
+Benjamin: $300
+Scores at the end of the Jeopardy! Round:
+Joey: $1,400
+Kirsten: $500
+Benjamin: $2,300
+Second Jeopardy! Round: BEFORE YOU WERE BORN, COLORS, U.S. PRESIDENTS, YOUNG STARS, GENERAL SCIENCE, HODGEPODGE
+BEFORE YOU WERE BORN | This war that began in the 1950s was widely protested in the 1960s & 1970s | the Vietnam War
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 24
+COLORS | In a famous Gainsborough portrait, Jonathan Buttall wears this color associated with baby boys | blue
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 2
+U.S. PRESIDENTS | The teddy bear was named in his honor | Teddy Roosevelt
+right: Benjamin
+Wrong: 
+Value: $200
+Number: 15
+YOUNG STARS | Jonathan Taylor Thomas of "Home Improvement" supplied the voice of the young Simba in this film | The Lion King
+right: Joey
+Wrong: 
+Value: $200
+Number: 1
+GENERAL SCIENCE | This 3-letter substance that carries the genetic code directs the production of RNA | DNA
+right: Joey
+Wrong: 
+Value: $200
+Number: 8
+HODGEPODGE | One of the first cable cars from 1873 sits on a pedestal in this California city's Cable Car Museum | San Francisco
+right: Joey
+Wrong: 
+Value: $200
+Number: 7
+BEFORE YOU WERE BORN | In 1955 2 of the largest labor organizations in the U.S. merged, the AFL & this one | CIO
+right: 
+Wrong: Triple Stumper
+Benjamin: Who are the Teamsters?
+Value: $400
+Number: 27
+COLORS | From the French for "brown", this term for a person with brown hair is almost always applied to women | brunette
+right: Kirsten
+Wrong: 
+Joey: What is brun?
+Value: $400
+Number: 21
+U.S. PRESIDENTS | As head of the Union Army, this future president accepted Lee's surrender at Appomattox | Ulysses S. Grant
+right: 
+Wrong: Triple Stumper
+Benjamin: Who is Jackson?
+Value: $400
+Number: 18
+YOUNG STARS | Twins Tia & Tamera Mowry play this title pair, pair | Sister, Sister
+right: Benjamin
+Wrong: 
+Value: $400
+Number: 5
+GENERAL SCIENCE | This tiny center region of an atom consists of protons & neutrons | nucleus
+right: Joey
+Wrong: 
+Value: $400
+Number: 9
+HODGEPODGE | The name of this certificate conferring a degree is from the Greek for "folded paper" | diploma
+right: Benjamin
+Wrong: 
+Joey: What is Ph.D.?
+Value: $400
+Number: 13
+BEFORE YOU WERE BORN | This made headlines when it crashed October 29, 1929; ask your broker, it's healthier now | the Stock Market
+right: Benjamin
+Wrong: 
+Value: $600
+Number: 19
+COLORS | Orange, a secondary color, is a mixture of red & yellow, 2 colors classified as this type | primary colors
+right: Joey
+Wrong: 
+Value: $600
+Number: 22
+U.S. PRESIDENTS | Living to the age of 90, this president was able to see his son become president as well | John Adams
+right: 
+Wrong: Triple Stumper
+Joey: Who is Kennedy?
+Benjamin: Who is Wilson?
+Value: $600
+Number: 26
+YOUNG STARS | If you don't know Haley Joel Osment survived this sitcom's move from ABC to NBC, you might be a redneck | The Jeff Foxworthy Show
+right: Benjamin
+Wrong: 
+Value: $600
+Number: 6
+GENERAL SCIENCE | The science of acoustics studies how these waves are created, transmitted & received | sound waves
+right: Joey
+Wrong: 
+Value: $600
+Number: 10
+HODGEPODGE | During a Q & A session on this cable network in 1994, Bill Clinton revealed that he usually wears briefs | MTV
+right: Joey
+Wrong: 
+Value: $600
+Number: 14
+BEFORE YOU WERE BORN | In 1967 Thurgood Marshall became the first black American appointed to this legal body | the Supreme Court
+right: Benjamin
+Wrong: 
+Value: $800
+Number: 25
+COLORS | The Latin word talpa, meaning "mole", gave us this word for a shade of brownish gray | taupe
+right: 
+Wrong: Triple Stumper
+Kirsten: What is beige?
+Benjamin: What is mauve?
+Value: $800
+Number: 23
+U.S. PRESIDENTS | He was president during WWI | Woodrow Wilson
+right: 
+Wrong: 
+Benjamin: Who was Roosevelt?
+Value: DD: $800
+Number: 29
+YOUNG STARS | "All My Children" star Sarah Michelle Gellar has a stake in this title TV role based on a Kristy Swanson film | Buffy the Vampire Slayer
+right: Benjamin
+Wrong: 
+Value: $800
+Number: 3
+GENERAL SCIENCE | Of Venus, Mars or Saturn, the planet whose mean distance from the sun is 67,230,000 miles | Venus
+right: Joey
+Wrong: 
+Kirsten: What is Pluto?
+Benjamin: What is Saturn?
+Value: $800
+Number: 11
+HODGEPODGE | The USA's largest independent maker of upholstered furniture, its name is synonymous with recliner | La-Z-Boy
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+BEFORE YOU WERE BORN | In 1972 this scandal named for a Washington, D.C. hotel was in the news | Watergate
+right: Joey
+Wrong: 
+Value: $1000
+Number: 20
+COLORS | The color of someone with a deep tan is often compared to this metal alloy | bronze
+right: Joey
+Wrong: 
+Benjamin: What is copper?
+Value: $1000
+Number: 30
+U.S. PRESIDENTS | His library in Independence, Missouri opened to the public in 1957 | Harry S. Truman
+right: 
+Wrong: Triple Stumper
+Joey: Who is Thomas Jefferson?
+Value: $1000
+Number: 28
+YOUNG STARS | Actress seen here in the close-ups only; she never left the ground during filming | Anna Paquin
+right: Benjamin
+Wrong: 
+Value: DD: $1,300
+Number: 4
+GENERAL SCIENCE | In the chemical formula for propane, C3H8, the H stands for hydrogen & the C stands for this element | carbon
+right: Benjamin
+Wrong: 
+Value: $1000
+Number: 12
+HODGEPODGE | Nickname of the team that won the 1997 NCAA men's basketball title | Wildcats
+right: Benjamin
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Joey: $4,600
+Kirsten: -$700
+Benjamin: $5,000
+
+Final Jeopardy! Round
+THE INSECT WORLD | The ancient Romans gave it its name, which means "hairy cat" | caterpillar
+right: 
+Wrong: 
+Kirsten: What is a tirantula?
+Joey: What is Beetle?
+Benjamin: What is Mosquito?  Hi Haley :) !
+Wagers: 
+Kirsten: $1,000
+Joey: $4,600
+Benjamin: $4,999
+Final scores:
+Joey: $0 (2nd place: $10,000 for Zero Population Growth)
+Kirsten: $0 (3rd place: $10,000 for the Pediatric AIDS Foundation)
+Benjamin: $1 (Winner: $15,000 for the Alzheimer's Association)
+
+Coryat scores
+Joey: $4,600 (17 R,6 W)
+Kirsten: -$700 (2 R,2 W)
+Benjamin: $5,800 (23 R(including 2 DDs),8 W(including 1 DD))

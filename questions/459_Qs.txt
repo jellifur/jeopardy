@@ -1,0 +1,345 @@
+4825 - Friday, July 22, 2005
+Comments: David Madden game 14.  Last game of Season 21.
+Contestants:
+Maya Kobersy: an attorney originally from Sterling Heights, Michigan
+Dan Tick: a technical support manager from Escondido, California
+David Madden: a student originally from Ridgewood, New Jersey (whose 13-day cash winnings total $305,101)
+First Jeopardy! Round: PHYSICS, CLASSIC AMERICAN SONGS, CLUB HOPPIN', HERO SANDWICH, FOOD & DRINK BRANDS, CROSSWORD CLUES "R"
+PHYSICS | In 1938 Otto Hahn & Fritz Strassman discovered nuclear fission by splitting atoms of this element | uranium
+right: David
+Wrong: 
+Maya: What is hydrogen?
+Value: $200
+Number: 19
+CLASSIC AMERICAN SONGS | <http://www.j-archive.com/media/2005-07-22_J_18.mp3> This song could be John Henry's reply to the question "Where ya been?" | "I've Been Workin' On The Railroad"
+right: Maya
+Wrong: 
+Value: $200
+Number: 18
+CLUB HOPPIN' | Are you ready to rumba?  Head for the rumba room at this California theme park's Citywalk | Universal Studios
+right: Dan
+Wrong: 
+Value: $200
+Number: 26
+HERO SANDWICH | This hero of WWII was the "Lion of Luzon", but on Bataan he was known as "Dugout Doug" | MacArthur
+right: David
+Wrong: 
+Value: $200
+Number: 14
+FOOD & DRINK BRANDS | In 1999 this General Mills cereal came out with Millenios, featuring 2s as well as the usual Os | Cheerios
+right: David
+Wrong: 
+Value: $200
+Number: 21
+CROSSWORD CLUES "R" | Sidewinder or diamondback (11) | rattlesnake
+right: Maya
+Wrong: 
+Value: $200
+Number: 2
+PHYSICS | Sublimation is the process by which a solid changes into a gas without going through this stage | liquid
+right: Maya
+Wrong: 
+Value: $400
+Number: 20
+CLASSIC AMERICAN SONGS | <http://www.j-archive.com/media/2005-07-22_J_10.mp3> This song is popular during a certain NFL team's introductions | "When The Saints Go Marching In"
+right: Maya
+Wrong: 
+Dan: What are the New Orleans Saints?
+Value: $400
+Number: 10
+CLUB HOPPIN' | Tongues are wagging that Tongue & Groove on Peachtree Rd. is one of this city's top nightspots | Atlanta
+right: Maya
+Wrong: 
+Value: $400
+Number: 27
+HERO SANDWICH | For his leadership that resulted in final victory, General Ulysses S. Grant was known as "The Hero of" this location | Appomattox
+right: David
+Wrong: 
+Value: $400
+Number: 15
+FOOD & DRINK BRANDS | In the '70s they called a "blended flavored (cherry & other flavorings) carbonated beverage" Mr. this | Mr. Pibb
+right: Maya
+Wrong: 
+Value: $400
+Number: 23
+CROSSWORD CLUES "R" | Cosmetic that makes you blush (5) | rouge
+right: Dan
+Wrong: 
+Value: $400
+Number: 3
+PHYSICS | Term first used by James Watt for a unit equivalent to 550 foot-pounds of work per second | horsepower
+right: David
+Wrong: 
+Value: DD: $200
+Number: 9
+CLASSIC AMERICAN SONGS | Numerical phrase for the time when you normally hear <http://www.j-archive.com/media/2005-07-22_J_11.mp3> the following | the seventh-inning stretch
+right: Maya
+Wrong: 
+Value: $600
+Number: 11
+CLUB HOPPIN' | For years you could find Pete Fountain playing the clarinet at his own club on Poydras St. in this Southern city | New Orleans
+right: Maya
+Wrong: 
+Value: $600
+Number: 28
+HERO SANDWICH | The parents of this mythological hero were told he'd live to a ripe old age as long as he never looked at himself | Narcissus
+right: David
+Wrong: 
+Value: $600
+Number: 8
+FOOD & DRINK BRANDS | Calistoga mineral water is from this California valley that's famous for its vineyards | Napa
+right: David
+Wrong: 
+Value: $600
+Number: 16
+CROSSWORD CLUES "R" | "Buyer's" guilt (7) | remorse
+right: Maya
+Wrong: 
+Value: $600
+Number: 4
+PHYSICS | This branch of physics deals with heat & includes cryogenics, which deals with extremely low temperatures | thermodynamics
+right: Maya
+Wrong: 
+Value: $800
+Number: 24
+CLASSIC AMERICAN SONGS | Jimmy Cagney could tell you the name of <http://www.j-archive.com/media/2005-07-22_J_12.mp3> this up-tempo foot stomper | "Yankee Doodle Dandy"
+right: Maya
+Wrong: 
+Value: $800
+Number: 12
+CLUB HOPPIN' | Perhaps because of its wall of fire, Rumjungle in this "Bay" hotel has been called "the hottest club in Vegas" | Mandalay Bay
+right: Dan
+Wrong: 
+Value: $800
+Number: 29
+HERO SANDWICH | This title swashbuckling hero rescues aristocrats during the French Revolution in an Orczy work | the Scarlet Pimpernel
+right: Maya
+Wrong: 
+Value: $800
+Number: 1
+FOOD & DRINK BRANDS | This marshmallow brand is named for the manufacturing process that infuses air into the marshmallows | Jet-Puffed
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+CROSSWORD CLUES "R" | Like a lizard (9) | reptilian
+right: David
+Wrong: 
+Value: $800
+Number: 5
+PHYSICS | Theodore Maiman used this gem in producing the world's first laser in 1960 | a ruby
+right: Dan
+Wrong: 
+Maya: What is a diamond?
+Value: $1000
+Number: 25
+CLASSIC AMERICAN SONGS | Sir Edmund Hillary might enjoy <http://www.j-archive.com/media/2005-07-22_J_13.mp3> this spiritually inspired favorite | "Go Tell It On The Mountain"
+right: Maya
+Wrong: 
+Value: $1000
+Number: 13
+CLUB HOPPIN' | "Praise the Lord and pass the biscuits" at a Sunday gospel brunch at one of these clubs nicknamed HOB | the House of Blues
+right: Dan
+Wrong: 
+Value: $1000
+Number: 30
+HERO SANDWICH | A 15th century poem by a guy known as Blind Harry is the main source for the life of this Scottish hero | William Wallace
+right: David
+Wrong: 
+Maya: Who is Rob Roy?
+Value: $1000
+Number: 7
+FOOD & DRINK BRANDS | Mr. T was featured in Busta Rhymes' 2002 video "Pass" this Napoleonic cognac | courvoisier
+right: Maya
+Wrong: 
+Value: $1000
+Number: 17
+CROSSWORD CLUES "R" | Garibaldi's gang (9) | redshirts
+right: David
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+David: $4,200
+Dan: $0
+Maya: $3,400
+Scores at the end of the Jeopardy! Round:
+David: $5,200
+Dan: $3,000
+Maya: $6,000
+Second Jeopardy! Round: 20th CENTURY AMERICANA, CELEBRITY LIVES, LAKES & RIVERS, LESSER-KNOWN NAMES, LITERARY BUNNIES, "FAN" CLUB
+20th CENTURY AMERICANA | The first Dairy Queen opened in Illinois, & the first McDonald's opened in this state | California
+right: David
+Wrong: 
+Value: $400
+Number: 1
+CELEBRITY LIVES | "Dark Lover" by Emily Leider is the first fully documented biography of this early Hollywood heartthrob | Valentino
+right: David
+Wrong: 
+Value: $400
+Number: 29
+LAKES & RIVERS | In Hinduism, a shortcut to paradise is to die in this 1,560-mile river | the Ganges
+right: David
+Wrong: 
+Value: $400
+Number: 11
+LESSER-KNOWN NAMES | Tenor Heinrich Vogl created the roles of Loge in "Das Rheingold" & Siegmund in "Die Walkure" by this composer | Wagner
+right: David
+Wrong: 
+Value: $400
+Number: 30
+LITERARY BUNNIES | In Chapter 1 of this book, Mole says, "Onion-sauce! Onion-sauce!" to a group of rabbits who have no satisfactory reply | The Wind in the Willows
+right: David
+Wrong: 
+Value: $400
+Number: 6
+"FAN" CLUB | Try to remember this musical that features the song "Try To Remember" | The Fantasticks
+right: Dan
+Wrong: 
+Value: $400
+Number: 27
+20th CENTURY AMERICANA | (<http://www.j-archive.com/media/2005-07-22_DJ_12.jpg> Cheryl of the Clue Crew reports from Chicago's Adler Planetarium.)  In celebration of his 500th birthday, a statue of <http://www.j-archive.com/media/2005-07-22_DJ_12a.jpg> this Polish astronomer was dedicated outside the Adler Planetarium in 1973 | Copernicus
+right: Dan
+Wrong: 
+Value: $800
+Number: 12
+CELEBRITY LIVES | In a 2003 bestseller, A. Scott Berg "Remembered" this legendary actress who passed away at age 96 | Katharine Hepburn
+right: David
+Wrong: 
+Value: $800
+Number: 18
+LAKES & RIVERS | In chapter 3 of the Biblical book named for him, Joshua leads the Israelites across this river | the Jordan
+right: Maya
+Wrong: 
+Value: $800
+Number: 5
+LESSER-KNOWN NAMES | In 1902 Clifford Berryman drew a famous editorial cartoon of this man refusing to shoot a bear cub | Teddy Roosevelt
+right: Maya
+Wrong: 
+Value: $800
+Number: 26
+LITERARY BUNNIES | The power-mad Gen. Woundwort makes life miserable for the other bunnies in this 1972 novel by Richard Adams | Watership Down
+right: Maya
+Wrong: 
+Value: $800
+Number: 28
+"FAN" CLUB | Gosh darn it, it's cursing & swearing | profanity
+right: David
+Wrong: 
+Value: $800
+Number: 25
+20th CENTURY AMERICANA | These caramel candies debuted in 1935, long before Ann Miller's Broadway musical of the same name | Sugar Babies
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 13
+CELEBRITY LIVES | (<http://www.j-archive.com/media/2005-07-22_DJ_17.jpg> Hi, I'm Bob Woodward.) In my book "Wired", I wrote about "the short life & fast times" of this comedian | John Belushi
+right: Dan
+Wrong: 
+Value: $1200
+Number: 17
+LAKES & RIVERS | It's estimated that more than 20% of the world's unfrozen fresh water is in this Siberian lake | Lake Baikal
+right: David
+Wrong: 
+Value: $1200
+Number: 4
+LESSER-KNOWN NAMES | War correspondent Martha Gellhorn was married to this author from 1940 to 1945 | Hemingway
+right: David
+Wrong: 
+Value: $1200
+Number: 21
+LITERARY BUNNIES | Mammy-Bammy Big-Money is the witch rabbit who lives in a swamp in this man's Uncle Remus stories | (Joel Chandler) Harris
+right: David
+Wrong: 
+Value: $1200
+Number: 24
+"FAN" CLUB | This American grape that makes a fine wine has been traced back to an Italian variety known as primitivo | zinfandel
+right: David
+Wrong: 
+Value: $1200
+Number: 8
+20th CENTURY AMERICANA | Art Linkletter was on the $100,000 bill in the 1960 edition of Milton Bradley's Game of this | Life
+right: David
+Wrong: 
+Value: DD: $1,200
+Number: 7
+CELEBRITY LIVES | "Natasha" tells of her tumultuous life, her many loves and her mysterious death in 1981 | Natalie Wood
+right: Maya
+Wrong: 
+Value: $1600
+Number: 16
+LAKES & RIVERS | The Tipitapa River connects Lake Nicaragua with this other large lake to the north | Lake Managua
+right: David
+Wrong: 
+Value: $1600
+Number: 2
+LESSER-KNOWN NAMES | Self-destructive poet Delmore Schwartz inspired this author's novel "Humboldt's Gift" | (Saul) Bellow
+right: Maya
+Wrong: 
+Value: $1600
+Number: 22
+LITERARY BUNNIES | In Beatrix Potter's "Tale of the Flopsy Bunnies", Flopsy marries this bunny | Benjamin
+right: 
+Wrong: Triple Stumper
+Maya: Who is Peter Rabbit?
+Value: $1600
+Number: 20
+"FAN" CLUB | To remove the canine teeth | defang
+right: David
+Wrong: 
+Value: $1600
+Number: 9
+20th CENTURY AMERICANA | What a turn-on! "Energy Turns On the World" was the theme of the 1982 World's Fair in this Tennessee city | Knoxville
+right: Maya
+Wrong: 
+Value: $2000
+Number: 14
+CELEBRITY LIVES | "Mercy, Mercy Me", a biography of this singer, was published in 2004 to coincide with the 20th anniv. of his death | Marvin Gaye
+right: Maya
+Wrong: 
+Value: $2000
+Number: 15
+LAKES & RIVERS | Perhaps Enya could tell you that part of this 1,600-mile-long river flows along the Venezuela-Colombia border | the Orinoco
+right: David
+Wrong: 
+Value: $2000
+Number: 3
+LESSER-KNOWN NAMES | In 1929 Hugo Eckener commanded this famous airship wath a 2-word name on a flight around the world | the Graf Zeppelin
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+LITERARY BUNNIES | Howard R. Garis wrote a book about this avuncular rabbit "and the Runaway Cheese" | Uncle Wiggily
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 19
+"FAN" CLUB | Boston merchant & "hall" monitor | (Peter) Faneuil
+right: David
+Wrong: 
+Value: DD: $1,200
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+David: $21,200
+Dan: $5,400
+Maya: $14,000
+
+Final Jeopardy! Round
+LEADING MEN OF THE MOVIES | This actor who turned down the role of Dirty Harry played 142 leading roles, a Guinness record | John Wayne
+right: David
+Wrong: 
+Dan: Who is Kirk Douglas?
+Maya: Who is Jack Nicholson?
+Wagers: 
+Dan: $5,000
+Maya: $14,000
+David: $7,000
+Final scores:
+David: $28,200 (14-day champion: $333,301)
+Dan: $400 (2nd place: $2,000)
+Maya: $0 (3rd place: $1,000)
+
+Coryat scores
+David: $22,800 (26 R(including 3 DDs),0 W)
+Dan: $5,400 (8 R,1 W)
+Maya: $14,000 (21 R,4 W)

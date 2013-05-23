@@ -1,0 +1,346 @@
+4152 - Tuesday, September 24, 2002
+Contestants:
+Richard Bonny: a software engineer from Kirkland, Washington
+Lisa Flehinger: a puzzle editor from West Norriton, Pennsylvania
+Tom Kelso: a credit analyst from Chicago, Illinois (whose 3-day cash winnings total $83,402)
+First Jeopardy! Round: THE U.S., FOOD FOR THOUGHT, WHO PLAYED 'EM?, INVENTED FIRST, COME TOGETHER, RHYME TIME
+THE U.S. | The highest & northernmost points in the U.S. are in this state | Alaska
+right: Lisa
+Wrong: 
+Value: $200
+Number: 2
+FOOD FOR THOUGHT | These snack "nuts" bear the name of a vegetable that also grows in a pod | peanuts
+right: Richard
+Wrong: 
+Tom: What are corn nuts?
+Value: $200
+Number: 14
+WHO PLAYED 'EM? | Diarist Bridget Jones | Renee Zellweger
+right: Richard
+Wrong: 
+Value: $200
+Number: 1
+INVENTED FIRST | Stereoscope, bifocal lens, x-ray tube | bifocal lens
+right: Richard
+Wrong: 
+Value: $200
+Number: 10
+COME TOGETHER | It's a meeting with the pope, or a group of people attending a TV show taping | audience
+right: Tom
+Wrong: 
+Value: $200
+Number: 15
+RHYME TIME | Society of Friends member who works as a bread cook | Quaker baker
+right: Tom
+Wrong: 
+Value: $200
+Number: 20
+THE U.S. | With water covering about 40% of this state's 96,000 square miles of total area, it must have some great lakes | Michigan
+right: Tom
+Wrong: 
+Value: $400
+Number: 3
+FOOD FOR THOUGHT | (Cheryl of the Clue Crew reports from the Atlanta Zoo)  The wristbones of the giant panda are elongated & act as thumbs for holding stalks of this food, its primary diet | bamboo
+right: Tom
+Wrong: 
+Value: $400
+Number: 25
+WHO PLAYED 'EM? | Hack screenwriter Joe Gillis, who ends up living & dying on Sunset Blvd. | William Holden
+right: Tom
+Wrong: 
+Value: $400
+Number: 4
+INVENTED FIRST | Microwave oven, fiberglass, frozen food | frozen food
+right: Richard
+Wrong: 
+Lisa: What is the microwave oven?
+Value: $400
+Number: 11
+COME TOGETHER | From the French for "sitting", it's a "medium-sized" gathering for communicating with the dead | seance
+right: Richard
+Wrong: 
+Value: $400
+Number: 16
+RHYME TIME | A frightening milk production facility | scary dairy
+right: Lisa
+Wrong: 
+Value: $400
+Number: 21
+THE U.S. | Between 1990 & 2000 this state's population increased 66.3% | Nevada
+right: 
+Wrong: 
+Lisa: What is Texas?
+Value: DD: $1,000
+Number: 6
+FOOD FOR THOUGHT | This bacterial product was dubbed "milk of eternal life" when it rejuvenated French king Francis I | yogurt
+right: Lisa
+Wrong: 
+Value: $600
+Number: 26
+WHO PLAYED 'EM? | Ex-Secret Service agent turned bodyguard Frank Farmer | Kevin Costner
+right: Lisa
+Wrong: 
+Tom: Who is Clint Eastwood?
+Value: $600
+Number: 5
+INVENTED FIRST | Gyroscope, stethoscope, telescope | telescope
+right: Lisa
+Wrong: 
+Value: $600
+Number: 13
+COME TOGETHER | It's the famous presidential retreat where Carter, Begin & Sadat got together in 1978 | Camp David
+right: Richard
+Wrong: 
+Value: $600
+Number: 17
+RHYME TIME | An overloaded Corvette | heavy Chevy
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+THE U.S. | You'll find the country's lowest ratio of men to women in the Sarasota metro area of this state | Florida
+right: Tom
+Wrong: 
+Value: $800
+Number: 7
+FOOD FOR THOUGHT | Upton Sinclair's "The Jungle" influenced Teddy Roosevelt to help pass this act abbreviated the PFDA | Pure Food and Drug Act
+right: Tom
+Wrong: 
+Value: $800
+Number: 27
+WHO PLAYED 'EM? | Dying Radcliffe music major Jenny Cavilleri | Ali MacGraw
+right: Tom
+Wrong: 
+Value: $800
+Number: 8
+INVENTED FIRST | Linoleum, bakelite, aspartame | linoleum (around 1860)
+right: Richard
+Wrong: 
+Tom: What is bakelite?
+Value: $800
+Number: 29
+COME TOGETHER | It's the small hammer used to quiet disturbances at parliamentary functions | gavel
+right: Lisa
+Wrong: 
+Value: $800
+Number: 18
+RHYME TIME | Someone who gorges himself on sheep meat | mutton glutton
+right: Lisa
+Wrong: 
+Value: $800
+Number: 23
+THE U.S. | This state has 2 of the Top 10 busiest airports in the world | California (San Francisco & LAX)
+right: Tom
+Wrong: 
+Richard: What is New York?
+Value: $1000
+Number: 12
+FOOD FOR THOUGHT | Breeding female Antarctic fur seals rely almost totally on these shrimplike crustaceans for food | krill
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 28
+WHO PLAYED 'EM? | Lt. Chris Burnett, a Navy pilot shot down "Behind Enemy Lines" | Owen Wilson
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 9
+INVENTED FIRST | Bunsen burner, Geiger counter, Leyden jar | Leyden jar (1745)
+right: Tom
+Wrong: 
+Value: $1000
+Number: 30
+COME TOGETHER | A gathering of famous historical people, "Meeting of Minds" was an Emmy-winning creation of this comedian | Steve Allen
+right: Richard
+Wrong: 
+Value: $1000
+Number: 19
+RHYME TIME | A defeated Minoan | beaten Cretan
+right: Tom
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the first commercial break (after clue 15)
+Tom: $2,800
+Lisa: $0
+Richard: $0
+Scores at the end of the Jeopardy! Round:
+Tom: $5,400
+Lisa: $3,600
+Richard: $2,800
+Second Jeopardy! Round: THE "US", LESSER-KNOWN POEMS, NAME THE OLYMPIC CITY, REPUBLICANS, PICK YOUR POISON, OSCAR NIGHT FASHION
+THE "US" | Step on a rusty nail & you better hope you've had your booster shot for this | tetanus
+right: Tom
+Wrong: 
+Value: $400
+Number: 1
+LESSER-KNOWN POEMS | This poet's "La Vita Nuova" was just a warmup for his "Divine Comedy" | Dante
+right: Tom
+Wrong: 
+Value: $400
+Number: 21
+NAME THE OLYMPIC CITY | 1896 summer games (an obvious choice) | Athens
+right: Tom
+Wrong: 
+Value: $400
+Number: 2
+REPUBLICANS | The book "Before the Storm" argues that this man's failed 1964 campaign led to victory for his ideas | Barry Goldwater
+right: Tom
+Wrong: 
+Value: $400
+Number: 11
+PICK YOUR POISON | The death cup & destroying angels are poisonous ones of these | mushrooms
+right: Richard
+Wrong: 
+Value: $400
+Number: 16
+OSCAR NIGHT FASHION | Her see-through outfit the night she won for "Funny Girl" inspired a few "On A Clear Day..." jokes | Barbra Streisand
+right: Richard
+Wrong: 
+Value: $400
+Number: 26
+THE "US" | In ancient times, it was an elaborate stone coffin fit for a king | sarcophagus
+right: Tom
+Wrong: 
+Value: $800
+Number: 5
+LESSER-KNOWN POEMS | One of Whittier's many works attacking this begins, "Our fellow-countrymen in chains!" | slavery
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+NAME THE OLYMPIC CITY | 1936 summer games (Marty Glickman was pulled from the U.S. team) | Berlin
+right: Tom
+Wrong: 
+Value: $800
+Number: 3
+REPUBLICANS | Nevada governor Kenny Guinn is fighting plans to make this mountain a nuclear waste repository | Yucca Mountain
+right: Tom
+Wrong: 
+Value: DD: $3,000
+Number: 12
+PICK YOUR POISON | Fatal to Socrates, this foul-smelling plant now grows in the U.S. & can be seen along roadsides | hemlock
+right: Tom
+Wrong: 
+Value: $800
+Number: 17
+OSCAR NIGHT FASHION | In 2001 this Icelandic singer appeared in a much talked-about swan dress | Bjork
+right: Tom
+Wrong: 
+Value: $800
+Number: 27
+THE "US" | The Sutlej & Ravi are major tributaries of this river | Indus
+right: Richard
+Wrong: 
+Value: DD: $3,000
+Number: 8
+LESSER-KNOWN POEMS | George Herbert's pattern poem about this religious structure is seen here | altar
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+NAME THE OLYMPIC CITY | 1984 winter games (a war zone in the 1990s) | Sarajevo
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 4
+REPUBLICANS | His website says being GOP leader is important but he's first & foremost a senator from Mississippi | Trent Lott
+right: Tom
+Wrong: 
+Value: $1200
+Number: 13
+PICK YOUR POISON | The nonpoisonous tomato & the poisonous belladonna both belong to this family of plants | nightshade
+right: Tom
+Wrong: 
+Value: $1200
+Number: 18
+OSCAR NIGHT FASHION | In 1968 Sammy Davis Jr. was swinging in love beads & this "Indian"-style jacket | Nehru jacket
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 28
+THE "US" | Based partly on Plutarch's "Lives", it's Shakespeare's one-word-title tragedy about an ancient Roman warrior | Coriolanus
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 9
+LESSER-KNOWN POEMS | In a poem on this Italiah city, Wordsworth wrote, "She must espouse the everlasting sea" | Venice
+right: Richard
+Wrong: 
+Value: $1600
+Number: 24
+NAME THE OLYMPIC CITY | 1952 summer games (kayakers Wires & Hietanen win homeland gold) | Helsinki
+right: Richard
+Wrong: 
+Value: $1600
+Number: 6
+REPUBLICANS | This current Kentucky senator pitched a perfect game for the Phillies in 1964 | Jim Bunning
+right: Tom
+Wrong: 
+Value: $1600
+Number: 14
+PICK YOUR POISON | The leaves of the purple species of this plant contain a powerful poison used to make digitalis | foxglove
+right: Richard
+Wrong: 
+Value: $1600
+Number: 19
+OSCAR NIGHT FASHION | "Boys Don't Cry" star seen here in Versace, in 2001 | Hilary Swank
+right: Tom
+Wrong: 
+Value: $1600
+Number: 29
+THE "US" | Remember the Titans?  They were cast into this region below Hades by Zeus | Tartarus
+right: Tom
+Wrong: 
+Value: $2000
+Number: 10
+LESSER-KNOWN POEMS | At 21, Shelley wrote a poem about this queen, the subject of a speech in "Romeo and Juliet" | Queen Mab
+right: Tom
+Wrong: 
+Value: $2000
+Number: 25
+NAME THE OLYMPIC CITY | 1980 winter games (southeast of St. Regis Falls) | Lake Placid, New York
+right: Richard
+Wrong: 
+Value: $2000
+Number: 7
+REPUBLICANS | This early 20th century movie star was named for 19th century GOP leader Roscoe Conkling | Roscoe "Fatty" Arbuckle
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+PICK YOUR POISON | This weed with poisonous juices gets its name from the first permanent English settlement in North America | Jimsonweed (Jamestown weed)
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+OSCAR NIGHT FASHION | "Boys Don't Cry" co-star seen here in Yves Saint Laurent, in 2000 | Chloe Sevigny
+right: 
+Wrong: Triple Stumper
+Tom: Who is Angelina Jolie?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Tom: $21,600
+Lisa: $7,600
+Richard: $13,400
+
+Final Jeopardy! Round
+WORLD NATIONS | Of the world nations whose English names contain "land", this nation has the most people, 60 million | Thailand
+right: Richard
+Wrong: 
+Lisa: What is the Netherlands?
+Tom: What is the Netherlands?
+Wagers: 
+Lisa: $0
+Richard: $13,300
+Tom: $5,201
+Final scores:
+Tom: $16,399 (2nd place: $2,000)
+Lisa: $7,600 (3rd place: $1,000)
+Richard: $26,700 (New champion: $26,700)
+
+Coryat scores
+Tom: $19,400 (27 R(including 1 DD),4 W)
+Lisa: $8,600 (11 R,2 W(including 1 DD))
+Richard: $11,600 (15 R(including 1 DD),1 W)

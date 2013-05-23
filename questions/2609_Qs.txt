@@ -1,0 +1,344 @@
+4165 - Friday, October 11, 2002
+Contestants:
+Meredith Allen: a recent college graduate from Peterborough, New Hampshire
+Rafi Kam: a web programmer from Danbury, Connecticut
+Tanya Tyler: a writer and editor from Lexington, Kentucky (whose 1-day cash winnings total $20,000)
+First Jeopardy! Round: U.S. ENDANGERED SPECIES, WORLD SERIES HOMERS, NUMB WITH NUMBERS, PRESIDENTIAL NICKNAMES, WE'VE GOT COMPANY, STATELY REBUSES
+U.S. ENDANGERED SPECIES | Corynorhinus townsendii ingens is the Ozark big-eared one of these cave dwellers | bat
+right: Tanya
+Wrong: 
+Value: $200
+Number: 13
+WORLD SERIES HOMERS | Game 5 of the 1920 Series featured a triple play & the first World Series one of these bases-loaded clouts | grand slam
+right: Meredith
+Wrong: 
+Value: $200
+Number: 12
+NUMB WITH NUMBERS | Number of bits in a byte or number of Liz Taylor's marriages | 8
+right: Rafi
+Wrong: 
+Value: $200
+Number: 16
+PRESIDENTIAL NICKNAMES | "Lyss" | Ulysses S. Grant
+right: Tanya
+Wrong: 
+Value: $200
+Number: 6
+WE'VE GOT COMPANY | This company made the "Zoomer" before making the "Pilot" | Palm
+right: Rafi
+Wrong: 
+Value: $200
+Number: 11
+STATELY REBUSES | Thelma's movie partner goes to the "Talk Soup" network to speak with actress Paquin | Louisiana
+right: Tanya
+Wrong: 
+Value: $200
+Number: 1
+U.S. ENDANGERED SPECIES | It's not only the chinook; the sockeye species of this fish is endangered also | salmon
+right: Meredith
+Wrong: 
+Value: $400
+Number: 27
+WORLD SERIES HOMERS | Seen here, he hit his first of a record 18 Series homers against the Dodgers in 1952 | Mickey Mantle
+right: Rafi
+Wrong: 
+Value: $400
+Number: 14
+NUMB WITH NUMBERS | Number of words in this clue when you consider this part of it also | 14
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+PRESIDENTIAL NICKNAMES | "Elegant Arthur" | Chester A. Arthur
+right: Meredith
+Wrong: 
+Value: $400
+Number: 7
+WE'VE GOT COMPANY | This worldwide record store chain began with one store in Sacramento in 1960 | Tower Records
+right: Rafi
+Wrong: 
+Value: $400
+Number: 23
+STATELY REBUSES | The vehicle Noah traveled in together with the tool he used to cut word to make it | Arkansas
+right: Meredith
+Wrong: 
+Value: $400
+Number: 2
+U.S. ENDANGERED SPECIES | Still listed as endangered as of 2002, the ivory-billed species of this bird may be extinct | woodpecker
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+WORLD SERIES HOMERS | One "Amazing" moment in this team's 1969 Series win was a homer by Al Weis, who hit 7 in his whole career | New York Mets
+right: Tanya
+Wrong: 
+Value: $600
+Number: 15
+NUMB WITH NUMBERS | (Cheryl of the Clue Crew standing in front of a blackboard)  The number of zeroes in the product of a billion & a million | 15 (9 + 6)
+right: Rafi
+Wrong: 
+Value: $600
+Number: 20
+PRESIDENTIAL NICKNAMES | The "Kinderhook Fox" | Martin Van Buren
+right: Tanya
+Wrong: 
+Value: $600
+Number: 8
+WE'VE GOT COMPANY | The nation's second-largest Internet service provider; its logo is seen <http://www.j-archive.com/media/2002-10-11_J_24.jpg> here | EarthLink
+right: Meredith
+Wrong: 
+Value: $600
+Number: 24
+STATELY REBUSES | A smaller than regular-sized carbonated soft drink | Minnesota
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+U.S. ENDANGERED SPECIES | Over half of the insects listed as endangered in the U.S. are types of these, & many of them are blue | butterflies
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+WORLD SERIES HOMERS | (Sofia of the Clue Crew standing in front of Wrigley Field in Chicago)  Bobby Thomson hit the "Shot Heard Round the World" in New York; Babe Ruth hit this 1932 World Series home run in Wrigley Field | the "Called Shot"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+NUMB WITH NUMBERS | In a 1976 song, the number of crew members who perished in "The Wreck of the Edmund Fitzgerald" | 29
+right: Tanya
+Wrong: 
+Value: $800
+Number: 21
+PRESIDENTIAL NICKNAMES | The 4 often called "The Virginia Dynasty" | Washington, Jefferson, Madison & Monroe
+right: 
+Wrong: 
+Tanya: Who are Jefferson, Washington, Adams and Lee?
+Value: DD: $1,000
+Number: 9
+WE'VE GOT COMPANY | Founded in 1934 as Telegraph Delivery Service, it's a competitor of FTD | Teleflora
+right: Tanya
+Wrong: 
+Value: $800
+Number: 25
+STATELY REBUSES | The astral glow around your body has vanished | Oregon
+right: Meredith
+Wrong: 
+Value: $800
+Number: 4
+U.S. ENDANGERED SPECIES | To everything there is a season, including these endangered birds: the least, roseate & California least | terns
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+WORLD SERIES HOMERS | At Yankee Stadium this man hit 3 first-pitch home runs in the final game of the 1977 World Series | Reggie Jackson
+right: Tanya
+Wrong: 
+Value: $1000
+Number: 18
+NUMB WITH NUMBERS | It's the number of years in a French president's term of office; in 2000 it was reduced from 7 | 5
+right: Rafi
+Wrong: 
+Value: $1000
+Number: 22
+PRESIDENTIAL NICKNAMES | "Ten-Cent Jimmy", as well as "Old Buck" | James Buchanan
+right: Tanya
+Wrong: 
+Value: $1000
+Number: 10
+WE'VE GOT COMPANY | Adams makes the Tight Lies series of these | golf clubs
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+STATELY REBUSES | What the Beastie Boys album gives you "License to" & what it does to your mom when you crank it up | Illinois
+right: Rafi
+Wrong: 
+Tanya: What is Killinois?
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Tanya: $800
+Rafi: $1,600
+Meredith: $1,800
+Scores at the end of the Jeopardy! Round:
+Tanya: $3,400
+Rafi: $3,800
+Meredith: $2,800
+Second Jeopardy! Round: A NATIONAL ENQUIRER, ROLE PLAYING, LAST LINES, THE COURAGE TO "B", DAY TIME, KNIGHT TIME
+A NATIONAL ENQUIRER | This Middle Eastern country borders Saudi Arabia, Turkey & of course Kuwait | Iraq
+right: Rafi
+Wrong: 
+Value: $400
+Number: 1
+ROLE PLAYING | "Mrs. Doubtfire" (1993) | Robin Williams
+right: Tanya
+Wrong: 
+Value: $400
+Number: 7
+LAST LINES | In a 1914 book he says, "My mother was an ape...she couldn't tell me much about it.  I never knew who my father was" | Tarzan
+right: Rafi
+Wrong: 
+Value: $400
+Number: 5
+THE COURAGE TO "B" | He's the friendly purple & green dinosaur who has his own TV show on PBS | Barney
+right: Meredith
+Wrong: 
+Value: $400
+Number: 15
+DAY TIME | In 2002 Earth Day fell on this day, what the Italians call Lunedi, after the moon | Monday
+right: Tanya
+Wrong: 
+Value: $400
+Number: 20
+KNIGHT TIME | The first knights in England were just French soldiers trained to fight on these | horses
+right: Tanya
+Wrong: 
+Value: $400
+Number: 25
+A NATIONAL ENQUIRER | The chancellor of this nation is a longtime member of the Social Democratic Party | Germany
+right: Meredith
+Wrong: 
+Value: $800
+Number: 2
+ROLE PLAYING | "American Gigolo" (1980) | Richard Gere
+right: Tanya
+Wrong: 
+Value: $800
+Number: 8
+LAST LINES | Thomas Mann work that ends, "A shocked and respectful world received the news of his decease" | "Death in Venice"
+right: 
+Wrong: Triple Stumper
+Rafi: What is "Magic Mountain?"
+Value: $800
+Number: 6
+THE COURAGE TO "B" | The scientific name of this playful species of dolphin is Tursiops truncatus | bottlenose
+right: Meredith
+Wrong: 
+Value: $800
+Number: 16
+DAY TIME | "Hump Day" was named for this Norse god | Odin
+right: Rafi
+Wrong: 
+Meredith: What is Wednesday?
+Value: $800
+Number: 21
+KNIGHT TIME | After a knight was totally covered in armor you could still identify him by this on his shield or surcoat | coat of arms
+right: Rafi
+Wrong: 
+Value: $800
+Number: 26
+A NATIONAL ENQUIRER | King Umberto II, son of Victor Emmanuel III, was this country's last monarch in 1946 | Italy
+right: Tanya
+Wrong: 
+Value: $1200
+Number: 3
+ROLE PLAYING | "Mr. Saturday Night" (1992) | Billy Crystal
+right: Rafi
+Wrong: 
+Value: $1200
+Number: 9
+LAST LINES | Set in medieval times, this modern novel ends in Latin: "Stat rosa pristina nomine.  Nomina nuda tenemus" | "The Name of the Rose"
+right: Tanya
+Wrong: 
+Value: DD: $2,000
+Number: 11
+THE COURAGE TO "B" | Paul could tell you it's defined as a swelling of the joint between the big toe & the first metatarsal | bunion
+right: Tanya
+Wrong: 
+Value: $1200
+Number: 17
+DAY TIME | Anagram "inverse" to get this day of the week in Spain | Viernes
+right: 
+Wrong: Triple Stumper
+Rafi: What is Friday...[time] Viernes?
+Value: $1200
+Number: 22
+KNIGHT TIME | In this jousting event, the object was to unseat the knight coming at you on the other side of the railing | tilting
+right: 
+Wrong: Triple Stumper
+Meredith: [No response]
+Value: $1200
+Number: 27
+A NATIONAL ENQUIRER | In February 1952 this "Union" vetoed Italy's attempt to join the United Nations | Union of Soviet Socialist Republics
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+ROLE PLAYING | "Mr. & Mrs. Bridge" (1990) | Paul Newman & Joanne Woodward
+right: Tanya
+Wrong: 
+Value: $1600
+Number: 10
+LAST LINES | In this book, Jesus cries, "'It is accomplished!' and it was as though he had said: 'Everything has begun'" | "The Last Temptation of Christ"
+right: Rafi
+Wrong: 
+Value: $1600
+Number: 12
+THE COURAGE TO "B" | If you've got a deficiency of vitamin B1, you've got the disease with this double-talk name | beriberi
+right: Tanya
+Wrong: 
+Value: $1600
+Number: 18
+DAY TIME | In French this day should "gras" on you; it's a red planet letter day | Mardi
+right: Tanya
+Wrong: 
+Value: $1600
+Number: 23
+KNIGHT TIME | Hey 13th century knight, you've got this flexible armor made of interlinked metal rings | chain mail
+right: Meredith
+Wrong: 
+Value: $1600
+Number: 28
+A NATIONAL ENQUIRER | From 1569 to the late 1700s, Poland & this Baltic nation it borders were united under a single parliament | Lithuania
+right: 
+Wrong: Triple Stumper
+Rafi: What is Hungary?
+Value: $2000
+Number: 30
+ROLE PLAYING | "Tom Jones" (1963) | Albert Finney
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 14
+LAST LINES | This Laurence Sterne novel's last line says you've been reading a story about "A cock and a bull" | "Tristram Shandy"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+THE COURAGE TO "B" | A former kingdom in the western Czech Republic | Bohemia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 19
+DAY TIME | By the sound of it, on this German day, you should kick back, relax & read "The Volcano Lovers" | Sontag
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 24
+KNIGHT TIME | By the 15th century knights just weren't that important anymore due to the introduction of this from China | gunpowder
+right: Meredith
+Wrong: 
+Value: DD: $3,000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Tanya: $14,600
+Rafi: $5,000
+Meredith: $7,400
+
+Final Jeopardy! Round
+FAMOUS AMERICANS | In 1785 he wrote that "After fifty years' service in public affairs", he wanted to "make plenty of experiments" | Benjamin Franklin
+right: Rafi | Meredith | Tanya
+Wrong: 
+Wagers: 
+Rafi: $2,500
+Meredith: $4,500
+Tanya: $1,000
+Final scores:
+Tanya: $15,600 (2-day champion: $35,600)
+Rafi: $7,500 (3rd place: $1,000)
+Meredith: $11,900 (2nd place: $2,000)
+
+Coryat scores
+Tanya: $14,800 (19 R(including 1 DD),2 W(including 1 DD))
+Rafi: $5,000 (13 R,3 W)
+Meredith: $6,400 (11 R(including 1 DD),2 W)

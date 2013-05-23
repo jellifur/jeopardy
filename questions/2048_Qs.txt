@@ -1,0 +1,339 @@
+3588 - Wednesday, March 22, 2000
+Contestants:
+Ron Josephson: an environmental engineer from Silver Spring, Maryland
+Sara Winterer: an actress originally from Bala Cynwyd, Pennsylvania
+Andrew Burke: a technical writer from Atlanta, Georgia (whose 1-day cash winnings total $11,401)
+First Jeopardy! Round: PRESIDENTIAL FATHER'S DAY, PARTS OF A BUILDING, THE 7 WONDERS OF THE ANCIENT WORLD, BIG SCREEN TIME TRAVEL, BEAR FEAT, "RH" FACTOR
+PRESIDENTIAL FATHER'S DAY | Sam Ealy Johnson, Jr. | Lyndon B. Johnson
+right: Andrew
+Wrong: 
+Value: $100
+Number: 8
+PARTS OF A BUILDING | The dormer type of this is placed vertically in a gable in a sloping roof | Window
+right: Andrew
+Wrong: 
+Value: $100
+Number: 21
+THE 7 WONDERS OF THE ANCIENT WORLD | They were ancient even before the other 6 wonders were built | Pyramids
+right: Andrew
+Wrong: 
+Value: $100
+Number: 1
+BIG SCREEN TIME TRAVEL | In 1949 Bing Crosby played this title New Englander who travels back to a time of knights & ladies | A Connecticut Yankee in King Arthur's Court
+right: Andrew
+Wrong: 
+Value: $100
+Number: 6
+BEAR FEAT | At about 9 feet & 1,700 pounds, this large bear shares its name with an Alaskan island | Kodiak
+right: Ron
+Wrong: 
+Value: $100
+Number: 26
+"RH" FACTOR | A lot of exaggerated hip swinging is used in this complex Cuban dance | Rhumba
+right: Andrew
+Wrong: 
+Value: $100
+Number: 16
+PRESIDENTIAL FATHER'S DAY | Theodore Roosevelt | Teddy Roosevelt
+right: Andrew
+Wrong: 
+Value: $200
+Number: 9
+PARTS OF A BUILDING | Home is where this floor of the fireplace is | Hearth
+right: Andrew
+Wrong: 
+Value: $200
+Number: 22
+THE 7 WONDERS OF THE ANCIENT WORLD | Its flowers & trees were irrigated by slaves turning screws to lift water from the Euphrates River | Hanging Gardens of Babylon
+right: Ron
+Wrong: 
+Value: $200
+Number: 2
+BIG SCREEN TIME TRAVEL | When this duo traveled through time in a souped-up phone booth, everything was "Excellent" | Bill & Ted
+right: Ron
+Wrong: 
+Value: $200
+Number: 7
+BEAR FEAT | The Asiatic black bear also bears the beary nice name of these Indian mountains where it dwells | Himalayas
+right: Ron
+Wrong: 
+Value: $200
+Number: 27
+"RH" FACTOR | Glen Campbell was this kind of "Cowboy" in a 1975 No. 1 hit | "Rhinestone Cowboy"
+right: Ron
+Wrong: 
+Value: $200
+Number: 17
+PRESIDENTIAL FATHER'S DAY | Benjamin Harrison V | William Henry Harrison
+right: Andrew
+Wrong: 
+Value: $300
+Number: 10
+PARTS OF A BUILDING | It's a tastier-sounding synonym for a doorcheck or doorpost | Door jamb
+right: Sara
+Wrong: 
+Value: $300
+Number: 23
+THE 7 WONDERS OF THE ANCIENT WORLD | This ancient wonder is said to have worn a sun-ray crown & stand beside, not over, a harbor | Colossus of Rhodes
+right: Ron
+Wrong: 
+Value: $300
+Number: 3
+BIG SCREEN TIME TRAVEL | The fourth installment of this film series involved 2 time-traveling whales | Star Trek
+right: Andrew
+Wrong: 
+Value: $300
+Number: 13
+BEAR FEAT | Often named Bruin, this species is the most likely to be found in children's stories of Europe & Asia | Brown bear
+right: Ron
+Wrong: 
+Value: $300
+Number: 28
+"RH" FACTOR | It can be a serious quarrel or a red-stalked vegetable used in cooking | Rhubarb
+right: Sara
+Wrong: 
+Value: $300
+Number: 18
+PRESIDENTIAL FATHER'S DAY | Leslie Lynch King | Gerald Ford
+right: Ron
+Wrong: 
+Value: $400
+Number: 11
+PARTS OF A BUILDING | An unsolicited book manuscript is submitted "over" this, a crosspiece above a door | Transom
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+THE 7 WONDERS OF THE ANCIENT WORLD | Its light was created by fires of wood or oil intensified by several metal mirrors | Lighthouse of Alexandria
+right: Andrew
+Wrong: 
+Value: $400
+Number: 4
+BIG SCREEN TIME TRAVEL | As this author, Malcolm McDowell chases Jack the Ripper across time in the 1979 thriller "Time After Time" | H.G. Wells
+right: Andrew
+Wrong: 
+Value: DD: $700
+Number: 14
+BEAR FEAT | This smallest bear species bears the name of a heavenly object | Sun bear
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+"RH" FACTOR | This critter seen here shares its name with a wife of the ancient Greek god Cronus: | Rhea
+right: Andrew
+Wrong: 
+Value: $400
+Number: 19
+PRESIDENTIAL FATHER'S DAY | William Jefferson Blythe III | Bill Clinton
+right: Andrew
+Wrong: 
+Value: $500
+Number: 12
+PARTS OF A BUILDING | L-E-N-T-I-L spells a legume; rearranged & spelled this way, you get a supporting piece | L-I-N-T-E-L
+right: Ron
+Wrong: 
+Value: $500
+Number: 25
+THE 7 WONDERS OF THE ANCIENT WORLD | In the 4th century, this ancient wonder was transported from Olympia to Constantinople | Statue of Zeus at Olympia
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+BIG SCREEN TIME TRAVEL | A military "Experiment" sends sailor Michael Pare over 40 years into the future in this film | The Philadelphia Experiment
+right: Andrew
+Wrong: 
+Value: $500
+Number: 15
+BEAR FEAT | Spectacled bears are the only species found on this continent | South America
+right: Andrew
+Wrong: 
+Value: $500
+Number: 30
+"RH" FACTOR | It's a term for a free-form musical composition emotional in effect & improvisational in nature | Rhapsody
+right: Ron
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Andrew: $2,700
+Sara: -$200
+Ron: $800
+Scores at the end of the Jeopardy! Round:
+Andrew: $4,100
+Sara: -$100
+Ron: $2,600
+Second Jeopardy! Round: COUNTIES OF ENGLAND, ACTRESSES, THE BRONTE BEAT, OSCAR-WINNING SONGS, AYE AYE, ADMIRAL, ISMs
+COUNTIES OF ENGLAND | With 1 T it's an English county; with 2 Ts, Heisman Trophy winner Tony | Dorset/Dorsett
+right: Sara
+Wrong: 
+Value: $200
+Number: 2
+ACTRESSES | This star who plays TV's Dharma is a classically trained ballerina | Jenna Elfman
+right: Ron
+Wrong: 
+Value: $200
+Number: 1
+THE BRONTE BEAT | This Emily Bronte novel opens with Mr. Lockwood telling of a visit with his landlord, Mr. Heathcliff | "Wuthering Heights"
+right: Ron
+Wrong: 
+Value: $200
+Number: 10
+OSCAR-WINNING SONGS | "When You Wish Upon A Star" | Pinocchio
+right: Andrew
+Wrong: 
+Value: $200
+Number: 16
+AYE AYE, ADMIRAL | In 1805, in memory of this admiral, his brother William was made an Earl of Trafalgar | Lord Nelson
+right: Ron
+Wrong: 
+Value: $200
+Number: 25
+ISMs | By definition, it's the ism practiced by a peeping Tom | Voyeurism
+right: Andrew
+Wrong: 
+Value: $200
+Number: 11
+COUNTIES OF ENGLAND | Sussex was named for the south Saxons; this county was named for the east Saxons | Essex
+right: Sara
+Wrong: 
+Value: $400
+Number: 7
+ACTRESSES | Movies like "The River" & "Crimes of the Heart" have earned her 5 Oscar nominations for Best Actress | Sissy Spacek
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+THE BRONTE BEAT | Charlotte's experience at boarding school formed the basis for Lowood in this 1847 novel | "Jane Eyre"
+right: Sara
+Wrong: 
+Value: $400
+Number: 12
+OSCAR-WINNING SONGS | "Take My Breath Away" | Top Gun
+right: Andrew
+Wrong: 
+Value: $400
+Number: 17
+AYE AYE, ADMIRAL | He died a vice admiral in 1817, that little 1789 mutiny behind him | William Bligh
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 27
+ISMs | This "rate" tells how many criminals leave prison & relapse into bad behavior | Recidivism
+right: Ron
+Wrong: 
+Value: $400
+Number: 21
+COUNTIES OF ENGLAND | Its name means "Southern district with the fringe on top" (okay, we lied about the fringe part) | Surrey
+right: Andrew
+Wrong: 
+Value: $600
+Number: 8
+ACTRESSES | She revealed that after making "The Heartbreak Kid" she had a fling with Elvis Presley | Cybill Shepherd
+right: Sara
+Wrong: 
+Value: $600
+Number: 4
+THE BRONTE BEAT | Like the title character of Anne's "Agnes Grey", Anne & Charlotte both worked as these | Governesses
+right: Sara
+Wrong: 
+Value: $600
+Number: 13
+OSCAR-WINNING SONGS | "You Must Love Me" | Evita
+right: Sara
+Wrong: 
+Value: $600
+Number: 18
+AYE AYE, ADMIRAL | In less than a day, May 1, 1898, his fleet demolished the Spanish fleet in Manila Bay | George Dewey
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+ISMs | Max Weber's best-known work is "The Protestant Ethic and the Spirit of" this economic system | Capitalism
+right: Ron
+Wrong: 
+Value: DD: $2,000
+Number: 22
+COUNTIES OF ENGLAND | Becket was killed in this county, home to Canterbury | Kent
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+ACTRESSES | (Hi, I'm Melody Thomas Scott from "The Young and the Restless")  In my film debut at age 8, I stole the show playing this Alfred Hitchcock thief as a young girl | Marnie
+right: Sara
+Wrong: 
+Value: $800
+Number: 5
+THE BRONTE BEAT | The book of poetry Charlotte, Emily & Anne published under this pseudonymous last name sold only 2 copies | Bell (Currer, Ellis & Acton)
+right: Sara
+Wrong: 
+Value: $800
+Number: 14
+OSCAR-WINNING SONGS | "I'm Easy" | Nashville
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+AYE AYE, ADMIRAL | At the National Security Council Ollie North reported to this vice admiral | John Poindexter
+right: Ron
+Wrong: 
+Value: $800
+Number: 29
+ISMs | From Greek for "The Inhabited World", it refers to the movement toward Christian unity | Ecumenism
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+COUNTIES OF ENGLAND | The westernmost county of England, or what the eldest son of the monarch is duke of | Cornwall
+right: Ron
+Wrong: 
+Value: $1000
+Number: 26
+ACTRESSES | This French actress played a seductress in "Damage" before nursing "The English Patient" | Juliette Binoche
+right: Ron
+Wrong: 
+Value: $1000
+Number: 6
+THE BRONTE BEAT | The portrait of the Brontes seen here was painted by this man, their brother: | Patrick Branwell Bronte
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+OSCAR-WINNING SONGS | "Sooner or Later (I Always Get My Man)" | Dick Tracy
+right: Sara
+Wrong: 
+Value: $1000
+Number: 20
+AYE AYE, ADMIRAL | He supervised the planning & construction of the first U.S. nuclear-powered sub, the Nautilus | Hyman Rickover
+right: Ron
+Wrong: 
+Value: $1000
+Number: 30
+ISMs | As part of this Renaissance movement, Montaigne & Erasmus advocated individual reason | Humanism
+right: Ron
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Andrew: $5,100
+Sara: $4,900
+Ron: $9,200
+
+Final Jeopardy! Round
+HISTORIC PEOPLE | After his 1955 death, his papers were given to Jerusalem's Hebrew Univ. & his violin was left to his grandson | Albert Einstein
+right: Ron
+Wrong: 
+Sara: Who is Jascha Heifitz (Isaac Stern)
+Andrew: Who is Benny?
+Wagers: 
+Sara: $4,800
+Andrew: $3,100
+Ron: $1,001
+Final scores:
+Andrew: $2,000 (2nd place: Fisher Soundstage Home Theater System & Blockbuster Gift Cards)
+Sara: $100 (3rd place: Epson Digital Photography Package)
+Ron: $10,201 (New champion: $10,201)
+
+Coryat scores
+Andrew: $4,800 (19 R(including 1 DD),2 W)
+Sara: $4,900 (11 R,3 W)
+Ron: $8,800 (20 R(including 1 DD),3 W(including 1 DD))

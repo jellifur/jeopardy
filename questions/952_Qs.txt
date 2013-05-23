@@ -1,0 +1,298 @@
+3295 - Friday, December 25, 1998
+Contestants:
+Will Thompson: a French professor from Memphis, Tennessee
+Scott Speer: a loan officer from West Columbia, South Carolina
+Dave Argentar: an attorney from Chicago, Illinois (whose 1-day cash winnings total $16,199)
+First Jeopardy! Round: FIRST LADIES, 10-DIFFERENT-LETTER WORDS, WORLD OF CHRISTMAS, RUDOLPH, THE RED-NOSED, REINDEER
+FIRST LADIES | She was the second first lady | Abigail Adams
+right: Scott
+Wrong: 
+Value: $100
+Number: 1
+10-DIFFERENT-LETTER WORDS | Honest, Abe was the first person run by this party to be elected U.S. president | Republican
+right: Will
+Wrong: 
+Value: $100
+Number: 10
+WORLD OF CHRISTMAS | For 9 days before Christmas, Latin American children try to break open these colorful paper figures containing candy | Pinatas
+right: Dave
+Wrong: 
+Value: $100
+Number: 15
+RUDOLPH | This grandson of Italian immigrants was elected the 107th mayor of New York City on November 2, 1993 | Rudolph Giuliani
+right: Dave
+Wrong: 
+Value: $100
+Number: 20
+THE RED-NOSED | Leo Rosten said of this hard-drinking comic, "Any man who hates small dogs & children can't be all bad" | W.C. Fields
+right: Dave
+Wrong: 
+Value: $100
+Number: 6
+REINDEER | Unlike other deer, both male & female reindeer grow these | Antlers
+right: Will
+Wrong: 
+Value: $100
+Number: 25
+FIRST LADIES | In her memoirs, Julia Grant talked about the black Friday when Fisk & Gould tried to corner the market in this | Gold
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 2
+10-DIFFERENT-LETTER WORDS | It's any word that's spelled the same forwards & backwards | Palindrome
+right: Will
+Wrong: 
+Value: $200
+Number: 11
+WORLD OF CHRISTMAS | In the Low Countries, St. Nicholas arrives to deliver presents on a boat from this Iberian country | Spain
+right: Dave
+Wrong: 
+Value: $200
+Number: 16
+RUDOLPH | Shortly after his death, eerie stories told of this actor's ghost haunting "Falcon Lair", his Hollywood home | Rudolph Valentino
+right: Will
+Wrong: 
+Value: $200
+Number: 21
+THE RED-NOSED | Much of the boozing persona of this Matt Helm of the movies may have been just for the cameras | Dean Martin
+right: Dave
+Wrong: 
+Value: $200
+Number: 7
+REINDEER | A group of reindeer cows gathered together by a reindeer bull is callled one of these, like a sultan's | Harem
+right: Dave
+Wrong: 
+Value: $200
+Number: 26
+FIRST LADIES | His ailing wife Anna sent her daughter-in-law Jane with him to Washington, but he only served a month | William Henry Harrison
+right: Scott
+Wrong: 
+Value: $300
+Number: 3
+10-DIFFERENT-LETTER WORDS | In a movie it's the kind of music heard behind a scene | Background (music)
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 12
+WORLD OF CHRISTMAS | In Great Britain, this woman gives a special Christmas Day message on TV | The Queen
+right: Dave
+Wrong: 
+Value: $300
+Number: 17
+RUDOLPH | You'll find this body of water in the eastern part of Kenya's Rift Valley | Lake Rudolph
+right: Will
+Wrong: 
+Value: $300
+Number: 22
+THE RED-NOSED | Not sure if it's from his drinking or not, but he's the Disney chipmunk with a red nose | Dale
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 8
+REINDEER | Reindeer & reindeer products are very useful to these nomadic people of northern Scandinavia | Lapps
+right: Will
+Wrong: 
+Value: $300
+Number: 27
+FIRST LADIES | The widow Sarah Polk was linked for a while in the press to this bachelor president | James Buchanan
+right: 
+Wrong: 
+Value: DD: $500
+Number: 4
+10-DIFFERENT-LETTER WORDS | In this field of study, scientists have rocks in their heads, or ore | Mineralogy
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 13
+WORLD OF CHRISTMAS | Rather than stockings, French children put these in front of the fireplace so "Pere Noel" can fill them with gifts | Shoes
+right: Will
+Wrong: 
+Value: $400
+Number: 18
+RUDOLPH | The award-winning Rudolph seen here (holding 2 Olympic medals) | Wilma Rudolph
+right: Will
+Wrong: 
+Value: $400
+Number: 23
+THE RED-NOSED | This bearded standup comedian is billed as "The Lovable Lush" | Foster Brooks
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+FIRST LADIES | These 2 Roosevelt first ladies were known for their strong personalities | Edith & Eleanor
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+10-DIFFERENT-LETTER WORDS | 1 less than a cinquefoil | Quadrefoil
+right: Will
+Wrong: 
+Value: $500
+Number: 14
+WORLD OF CHRISTMAS | In Sweden the Christmas season begins on December 13, this saint's day | St. Lucia
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 19
+RUDOLPH | Bravo!  This man was the general manager of the Metropolitan Opera from 1950 to 1972 | Sir Rudolph Bing
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+Scores at the first commercial break (after clue 15)
+Dave: -$300
+Scott: -$300
+Will: -$200
+Scores at the end of the Jeopardy! Round:
+Dave: $300
+Scott: -$700
+Will: $2,200
+Second Jeopardy! Round: AFRICA, SPEAKING CONSERVATIVELY, NEXT LINE, PLEASE, PERFORMANCE ART, GETTING A PATENT, BEFORE & AFTER
+AFRICA | In 1992 Boutros Boutros-Ghali of this country became the first African secretary-general of the U.N. | Egypt
+right: Dave
+Wrong: 
+Value: $200
+Number: 3
+SPEAKING CONSERVATIVELY | In 1992 Vice President Quayle attacked the values displayed by this TV sitcom character | Murphy Brown
+right: Scott
+Wrong: 
+Value: $200
+Number: 15
+NEXT LINE, PLEASE | Donne: "Never send to know for whom the bell tolls..." | "It tolls for thee"
+right: Will
+Wrong: 
+Value: $200
+Number: 1
+PERFORMANCE ART | This melted sweet from the cacao is a well-known stage prop for Karen Finley | Chocolate
+right: Dave
+Wrong: 
+Value: $200
+Number: 8
+BEFORE & AFTER | Largest of the "Cosby Kids" who's currently serving as vice president | "Fat Albert" Gore
+right: Dave
+Wrong: 
+Value: $200
+Number: 17
+AFRICA | Robert Mugabe is president of this country that was formerly known as Rhodesia | Zimbabwe
+right: Dave
+Wrong: 
+Value: $400
+Number: 4
+NEXT LINE, PLEASE | Kipling: "Oh, east is east & west is west, and...." | "Never the twain shall meet"
+right: Dave
+Wrong: 
+Value: $400
+Number: 2
+PERFORMANCE ART | Kurt Schwitters probably heard "Gesundheit" a lot during his "Niesscherzo" piece consisting of this action | Sneezing
+right: Scott
+Wrong: 
+Value: $400
+Number: 9
+BEFORE & AFTER | Culture Club singer who penned "1984" | Boy George Orwell
+right: Dave
+Wrong: 
+Value: $400
+Number: 18
+AFRICA | In 1847 it became Africa's first modern independent republic | Liberia
+right: Dave
+Wrong: 
+Value: DD: $700
+Number: 5
+SPEAKING CONSERVATIVELY | In 1980 William F. Buckley told off students at this Poughkeepsie school who disinvited him to commencement | Vassar
+right: Will
+Wrong: 
+Value: $600
+Number: 14
+NEXT LINE, PLEASE | Carroll: "Twas brillig, and the slithy toves..." | "Did gyre and gimble in the wabe"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 12
+BEFORE & AFTER | Yesss!  He's the sports announcer who theorized about relativity | Marv Albert Einstein
+right: Will
+Wrong: 
+Value: $600
+Number: 16
+AFRICA | Mount Kilimanjaro, this country's highest point, is also the continent's highest point | Tanzania
+right: Will
+Wrong: 
+Value: $800
+Number: 6
+SPEAKING CONSERVATIVELY | In a 1997 essay this "Book of Virtues" author & ex-cabinet officer asked, "What good is government?" | William Bennett
+right: Dave
+Wrong: 
+Value: $800
+Number: 13
+NEXT LINE, PLEASE | Lovelace: "Stone walls do not a prison make..." | "Nor iron bars a cage"
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 10
+PERFORMANCE ART | "What's" this?  It's a term for a performance art event coined by Allan Kaprow in 1959 | Happening
+right: Will
+Wrong: 
+Value: $800
+Number: 25
+GETTING A PATENT | In the U.S., a standard patent is good for this many years; for a design patent, it's only 14 | 17
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+BEFORE & AFTER | Longtime "Tonight Show" host whose "Heart Is A Lonely Hunter" | Johnny Carson McCullers
+right: Scott
+Wrong: 
+Value: $800
+Number: 19
+AFRICA | In 1998 Nelson Mandela married Graca Machel, widow of a former president of this country | Mozambique
+right: Will
+Wrong: 
+Value: $1000
+Number: 7
+SPEAKING CONSERVATIVELY | 1790's "Reflections on the Revolution in France" is a major work by this British statesman & thinker | Edmund Burke
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+NEXT LINE, PLEASE | Coleridge: "In Xanadu did Kubla Khan..." | "A stately pleasure-dome decree"
+right: Scott
+Wrong: 
+Value: $1000
+Number: 11
+PERFORMANCE ART | These creations named by Karel Capek rampage through performances by Survival Research Laboratories | Robots
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+GETTING A PATENT | The name of the agency to which inventors make applications is the "Patent And" this "Office" | Trademark
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 24
+BEFORE & AFTER | 1517's "Theses" author known for developing new varieties of fruits & vegetables | Martin Luther Burbank
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Dave: $1,600
+Scott: -$900
+Will: $5,200
+
+Final Jeopardy! Round
+NAME'S THE SAME | Name shared by any Englishman & a composer credited with England's national anthem "God Save The Queen" | John Bull
+right: 
+Wrong: 
+Dave: What is a Brit?
+Will: What is Brit??
+Wagers: 
+Dave: $1,599
+Will: $1,000
+Final scores:
+Dave: $1 (2nd place: Trip/Tour to Israel)
+Scott: -$900 (3rd place: Trip/Tour to Quebec City)
+Will: $4,200 (New champion: $4,200)
+
+Coryat scores
+Dave: $1,500 (15 R(including 1 DD),5 W)
+Scott: $600 (6 R,6 W(including 2 DDs))
+Will: $5,200 (15 R,3 W)

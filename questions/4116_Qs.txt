@@ -1,0 +1,349 @@
+6567 - Tuesday, March 19, 2013
+Contestants:
+Lars Medley: a non-profit program coordinator from Salt Lake City, Utah
+Lauren Girard: a museum guest relations manager from Los Angeles, California
+Rob Groves: a classics lecturer from Los Angeles, California (whose 2-day cash winnings total $41,701)
+First Jeopardy! Round: AUTHORS, WHICH U.S. CABINET DEPARTMENT?, RETIRED, REAL NAMES OF FAKE CHARACTERS, WATER TRANSPORTATION, THE KING'S ENGLISH
+AUTHORS | Walt Whitman began his best-known poem, "I celebrate" this person, "and sing" him too | myself
+right: Rob
+Wrong: 
+Value: $200
+Number: 16
+WHICH U.S. CABINET DEPARTMENT? | The Transportation Security Administration | The Department of Homeland Security
+right: 
+Wrong: Triple Stumper
+Rob: What is the Interior?
+Lars: What is the TSA?
+Value: $200
+Number: 21
+RETIRED | Good grief! By the time he retired in 2000, he had drawn some 18,000 comic strips | (Charles) Schulz
+right: Rob
+Wrong: 
+Value: $200
+Number: 26
+REAL NAMES OF FAKE CHARACTERS | Milburn Pennybags is the mascot of this game; if you do not respond, you do not collect $200 | Monopoly
+right: Lars
+Wrong: 
+Value: $200
+Number: 7
+WATER TRANSPORTATION | Monroe, Louisiana took its name to honor the arrival of one of these, named for the president, up the Ouachita river | a steamboat
+right: Lauren
+Wrong: 
+Rob: What is a canal?
+Value: $200
+Number: 6
+THE KING'S ENGLISH | Get on the blower & ask the queen if she knows a blower is this in the States | a telephone
+right: Lars
+Wrong: 
+Value: $200
+Number: 1
+AUTHORS | It's no fairy tale: the town of Kassel, Germany has a museum devoted to these brothers | the Grimm brothers
+right: Rob
+Wrong: 
+Value: $400
+Number: 17
+WHICH U.S. CABINET DEPARTMENT? | The Fish & Wildlife service | the Interior
+right: Rob
+Wrong: 
+Value: $400
+Number: 22
+RETIRED | In 2012 this American ended his pro tennis career at the U.S. Open, which he'd won in 2003 | Andy Roddick
+right: Lauren
+Wrong: 
+Lars: Who is Sampras?
+Value: $400
+Number: 27
+REAL NAMES OF FAKE CHARACTERS | This toy's real full name is Barbara Millicent Roberts; her on/off boyfriend's last name is Carson | Barbie
+right: Lars
+Wrong: 
+Value: $400
+Number: 8
+WATER TRANSPORTATION | In February 2009 a British nuclear-armed one of these collided in the Atlantic with a French one, but everything's fine | submarines
+right: Lars
+Wrong: 
+Value: $400
+Number: 12
+THE KING'S ENGLISH | Jacket potato isn't the latest British boy band sensation, it's this item in a British restaurant | a baked potato
+right: Lauren
+Wrong: 
+Lars: What is a stuffed potato?
+Value: $400
+Number: 2
+AUTHORS | Mo Willems is the author of the kids' books about this bird--don't let it drive the bus! | the pigeon
+right: 
+Wrong: Triple Stumper
+Rob: What is the duck?
+Value: $600
+Number: 18
+WHICH U.S. CABINET DEPARTMENT? | The U.S. Parole Commission | the Justice Department
+right: Lars
+Wrong: 
+Value: $600
+Number: 23
+RETIRED | 2012 was not "My Favorite Year" once it brought the retirement of this British acting legend at age 79 | Peter O'Toole
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+REAL NAMES OF FAKE CHARACTERS | Poppin' Fresh, aka this, hung out with 2 kids, Popper & Bun Bun | the Pillsbury Dough Boy
+right: Lars
+Wrong: 
+Value: $600
+Number: 9
+WATER TRANSPORTATION | Alexander Graham Bell gave the first <http://www.j-archive.com/media/2013-03-19_J_13.jpg> airboat its name; he said "we have named her" this "and hope she will turn out to be a swan" | the Ugly Duckling
+right: Rob
+Wrong: 
+Value: $600
+Number: 13
+THE KING'S ENGLISH | If you're out of cash in the pub, you can always use your Chip & PIN, one of these | a credit card or ATM card
+right: Lauren
+Wrong: 
+Value: $600
+Number: 3
+AUTHORS | "I Know Why the Caged Bird Sings" is the first volume of her autobiography | Maya Angelou
+right: Rob
+Wrong: 
+Value: $800
+Number: 19
+WHICH U.S. CABINET DEPARTMENT? | The Food Safety and Inspection Service | the Department of Agriculture
+right: 
+Wrong: 
+Lars: What is the Department of Health?
+Value: DD: $1,400
+Number: 24
+RETIRED | After <http://www.j-archive.com/media/2013-03-19_J_29.jpg> his 1973 heroics he was retired to stud, siring more than 40 stakes winners | Secretariat
+right: Rob
+Wrong: 
+Value: $800
+Number: 29
+REAL NAMES OF FAKE CHARACTERS | "Bibendum" doesn't exactly sing, so we know the roly-poly tire mascot better by this alliterative name | the Michelin Man
+right: Lauren
+Wrong: 
+Value: $800
+Number: 10
+WATER TRANSPORTATION | It sounds like a word for a helicopter, but it refers to an air cushion vehicle | a hovercraft
+right: Rob
+Wrong: 
+Value: $800
+Number: 14
+THE KING'S ENGLISH | Someone on the dole in England isn't eating up your pineapple, he's on this American equivalent | welfare
+right: Lars
+Wrong: 
+Value: $800
+Number: 4
+AUTHORS | This author's losing entry in a 1948 literary contest became the basis for the movie "2001" | (Arthur C.) Clarke
+right: Lars
+Wrong: 
+Value: $1000
+Number: 20
+WHICH U.S. CABINET DEPARTMENT? | The National Nuclear Security Administration | the Department of Energy
+right: Rob
+Wrong: 
+Value: $1000
+Number: 25
+RETIRED | Senate partisanship was the reason this Maine Republican said she was quitting in 2012 | (Olympia) Snowe
+right: Rob
+Wrong: 
+Value: $1000
+Number: 30
+REAL NAMES OF FAKE CHARACTERS | On "Night Court", hulking bailiff Nostradamus Shannon was better known by this nickname | Bull
+right: Lauren
+Wrong: 
+Value: $1000
+Number: 11
+WATER TRANSPORTATION | The name of <http://www.j-archive.com/media/2013-03-19_J_15.jpg> this vessel is from the Cantonese word sam, or three; they were once a very basic boat, made from three boards | a sampan
+right: 
+Wrong: Triple Stumper
+Lars: What is a junk?
+Value: $1000
+Number: 15
+THE KING'S ENGLISH | "To earth" is the term British electricians use in place of this verb | to ground
+right: Rob
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Rob: $2,200
+Lauren: $3,000
+Lars: $1,200
+Scores at the end of the Jeopardy! Round:
+Rob: $6,200
+Lauren: $3,400
+Lars: $800
+Second Jeopardy! Round: AROUND THE ARCTIC CIRCLE, BIBLICAL JEALOUSY, MUSIC LEGENDS: BORN & DIED, STARTS & ENDS WITH "A", 1801-1810, THE QUEENS ENGLISH
+AROUND THE ARCTIC CIRCLE | This nation has the greatest amount of land territory within the Arctic circle | Russia
+right: Lauren
+Wrong: 
+Rob: What is Canada?
+Value: $400
+Number: 22
+BIBLICAL JEALOUSY | The Philistines were jealous of the wealth of this son of Abraham, so they filled his wells with earth | Isaac
+right: Rob
+Wrong: 
+Value: $400
+Number: 1
+MUSIC LEGENDS: BORN & DIED | Born 1958 in Gary, Indiana; died 2009 in Los Angeles | Michael Jackson
+right: Lauren
+Wrong: 
+Rob: Who is Whitney Houston?
+Value: $400
+Number: 6
+STARTS & ENDS WITH "A" | This Peruvian grazing animal thrives at heights from 12,000 to 16,000 feet | an alpaca
+right: Rob
+Wrong: 
+Value: $400
+Number: 11
+1801-1810 | On March 16, 1802 congress established a military academy at this New York site; it opened on the 4th of July | West Point
+right: Rob
+Wrong: 
+Value: $400
+Number: 21
+THE QUEENS ENGLISH | This airport in Queens used to be called Idlewild | JFK
+right: Lauren
+Wrong: 
+Value: $400
+Number: 20
+AROUND THE ARCTIC CIRCLE | 2/3 of this island, or more than 550,000 square miles, lies in the Arctic | Greenland
+right: Lars
+Wrong: 
+Value: $800
+Number: 23
+BIBLICAL JEALOUSY | This guy with a colorful coat was hated by his brothers, who "could not speak peaceably unto him" | Joseph
+right: Rob
+Wrong: 
+Value: $800
+Number: 2
+MUSIC LEGENDS: BORN & DIED | Born 1945 in St. Ann, Jamaica; died 1981 in Miami | Bob Marley
+right: Lars
+Wrong: 
+Value: $800
+Number: 7
+STARTS & ENDS WITH "A" | This organism can vary in size from about 1/100 inch to 1/10 inch across | an amoeba
+right: Lauren
+Wrong: 
+Value: $800
+Number: 12
+1801-1810 | On March 23, 1806 this pair & their men left Fort Clatsop for St. Louis, arriving exactly 6 months later | Lewis & Clark
+right: Lars
+Wrong: 
+Value: $800
+Number: 27
+THE QUEENS ENGLISH | Dis guy, dis guy grew up in Queens and won de big event in de borough four times | John McEnroe
+right: Lauren
+Wrong: 
+Value: $800
+Number: 19
+AROUND THE ARCTIC CIRCLE | Named for a 17th century British explorer, this country's Baffin Island is about the size of Spain | Canada
+right: Rob
+Wrong: 
+Value: $1200
+Number: 24
+BIBLICAL JEALOUSY | Jewish leaders from Antioch persuaded the people to expel this apostle & Barnabas from the city | Paul
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+MUSIC LEGENDS: BORN & DIED | Born 1943 in Liverpool; died 2001 in Los Angeles | George Harrison
+right: Lauren
+Wrong: 
+Value: $1200
+Number: 8
+STARTS & ENDS WITH "A" | The chief marketplace of Athens; hope you don't have a phobia about it | the agora
+right: Rob
+Wrong: 
+Value: $1200
+Number: 13
+1801-1810 | Jesse Fell of Pennsylvania invented a great grate to permit the home burning of this hard coal | anthracite
+right: 
+Wrong: Triple Stumper
+Rob: What is bituminous?
+Value: $1200
+Number: 28
+THE QUEENS ENGLISH | It's a little weird to say, but Queens is bounded on the west by this river | the East River
+right: Lars
+Wrong: 
+Value: $1200
+Number: 18
+AROUND THE ARCTIC CIRCLE | Arctic territory under the red, white & blue includes this northernmost "Point" of Alaska & the United States | Point Barrow
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 25
+BIBLICAL JEALOUSY | King Saul was displeased when the women of Israel praised this man's battlefield prowess over his own | King David
+right: Rob
+Wrong: 
+Value: DD: $2,000
+Number: 4
+MUSIC LEGENDS: BORN & DIED | Born 1967 in Hoquiam, Washington; died 1994 in Seattle | Kurt Cobain
+right: Lauren
+Wrong: 
+Value: DD: $3,000
+Number: 9
+STARTS & ENDS WITH "A" | This gas is made up of one part nitrogen & 3 parts hydrogen | ammonia
+right: Rob
+Wrong: 
+Value: $1600
+Number: 14
+1801-1810 | On April 27, 1805 a force of Marines & Arabs captured the port of Derna on the shores of this place | Tripoli
+right: Lars
+Wrong: 
+Value: $1600
+Number: 29
+THE QUEENS ENGLISH | The Vander Ende-Onderdonk house is on a land grant from this Dutch Colonial governor | (Peter) Stuyvesant
+right: Lars
+Wrong: 
+Value: $1600
+Number: 17
+AROUND THE ARCTIC CIRCLE | This country's Urho Kekkonen national park is located in its Arctic Lapland region | Finland
+right: Rob
+Wrong: 
+Value: $2000
+Number: 26
+BIBLICAL JEALOUSY | Martha was jealous that this sister got to listen to Jesus while Martha made preparations | Mary
+right: Lars
+Wrong: 
+Value: $2000
+Number: 5
+MUSIC LEGENDS: BORN & DIED | Born 1942 in Seattle; died 1970 in London | Jimi Hendrix
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+STARTS & ENDS WITH "A" | A thing detested or loathed, as in the subject is this to the man | anathema
+right: Lauren
+Wrong: 
+Value: $2000
+Number: 15
+1801-1810 | Unnamed when it steamed up the Hudson in 1807, it was later named for the estate of Robert Fulton's backer | the Clermont
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+THE QUEENS ENGLISH | It ain't no Waldorf, but this neighborhood has lots of Greeks, & Telly's Taverna--to die for | Astoria
+right: Lauren
+Wrong: 
+Rob: What is Queens?
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Rob: $12,200
+Lauren: $14,400
+Lars: $9,600
+
+Final Jeopardy! Round
+LITERARY TITLE PLACES | An 1831 novel says that Charlemagne laid the first stone of this title place, "old queen of our cathedrals" | Notre Dame
+right: Lars | Rob | Lauren
+Wrong: 
+Wagers: 
+Lars: $6,401
+Rob: $7,001
+Lauren: $10,000
+Final scores:
+Rob: $19,201 (2nd place: $2,000)
+Lauren: $24,400 (New champion: $24,400)
+Lars: $16,001 (3rd place: $1,000)
+
+Coryat scores
+Rob: $11,800 (20 R(including 1 DD),7 W)
+Lauren: $13,000 (15 R(including 1 DD),0 W)
+Lars: $11,000 (15 R,5 W(including 1 DD))

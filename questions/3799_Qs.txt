@@ -1,0 +1,333 @@
+6283 - Wednesday, January 4, 2012
+Comments: Dave Leach game 5.
+Contestants:
+Jaldhar Vyas: a software developer and Hindu priest from Jersey City, New Jersey
+Nicholas Campiz: a graduate student in geography from Gainesville, Florida (whose 1-day cash winnings total $12,200)
+Dave Leach: a software analyst from Atlanta, Georgia (whose 4-day cash winnings total $60,884)
+First Jeopardy! Round: OLD KING COAL, SCRIPT DOCTORS, NAMETH THE BIBLE BOOK, ODDITIES, THE MAIN ALCOHOLIC INGREDIENT, BEASTLY EXPRESSIONS
+OLD KING COAL | This European adventurer reported that coal was widely used in the 13th century Far East | Marco Polo
+right: Dave
+Wrong: 
+Value: $200
+Number: 6
+SCRIPT DOCTORS | 1965: Omar Sharif as this sensitive-yet-philandering Russian doctor | Doctor Zhivago
+right: Jaldhar
+Wrong: 
+Value: $200
+Number: 21
+NAMETH THE BIBLE BOOK | "Then Pharaoh called for Moses and Aaron in haste" | Exodus
+right: Dave
+Wrong: 
+Jaldhar: What is Genesis?
+Value: $200
+Number: 26
+ODDITIES | A 2004 contest saw "Brain Freeze" beat out "Growling Stomach" & "Tennis Elbow" to be added to this electric game | Operation
+right: Dave
+Wrong: 
+Value: $200
+Number: 16
+THE MAIN ALCOHOLIC INGREDIENT | ...in a screwdriver | vodka
+right: Dave
+Wrong: 
+Value: $200
+Number: 11
+BEASTLY EXPRESSIONS | "The straw that broke" this creature's "back" | the camel
+right: Dave
+Wrong: 
+Value: $200
+Number: 1
+OLD KING COAL | Coal mining was made safer by the 19th c. invention of the safety this, which wouldn't ignite methane | a lantern (or lamp)
+right: Dave
+Wrong: 
+Value: $400
+Number: 7
+SCRIPT DOCTORS | 2004: Alfred Molina as this heavily armed enemy of Spider-Man | Doctor Octopus
+right: Jaldhar
+Wrong: 
+Value: $400
+Number: 22
+NAMETH THE BIBLE BOOK | "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake" | Revelation
+right: Dave
+Wrong: 
+Value: $400
+Number: 27
+ODDITIES | Raise a glass to Angela Mount, who had her olfactory system insured for 10 million pounds while working evaluating this | wine
+right: Jaldhar
+Wrong: 
+Value: $400
+Number: 17
+THE MAIN ALCOHOLIC INGREDIENT | ...in a boilermaker, along with beer (rye works fine) | whiskey
+right: Dave
+Wrong: 
+Value: $400
+Number: 12
+BEASTLY EXPRESSIONS | "A fine kettle of" these | fish
+right: Jaldhar
+Wrong: 
+Value: $400
+Number: 2
+OLD KING COAL | In the 13th century a duty of one farthing was assessed on coal unloaded at Billingsgate in this city | London
+right: Jaldhar
+Wrong: 
+Value: $600
+Number: 8
+SCRIPT DOCTORS | 1964: Peter Sellers as this German scientist who helped us love the bomb | Dr. Strangelove
+right: Dave
+Wrong: 
+Value: $600
+Number: 23
+NAMETH THE BIBLE BOOK | "Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne" (in First this) | Kings
+right: Jaldhar
+Wrong: 
+Value: $600
+Number: 28
+ODDITIES | In 1986 a judge told the Library of Congress to resume producing pictureless Braille editions of this magazine | Playboy
+right: Dave
+Wrong: 
+Value: $600
+Number: 18
+THE MAIN ALCOHOLIC INGREDIENT | ...in a Tom Collins: the dry type of this | gin
+right: Dave
+Wrong: 
+Jaldhar: What is vermouth?
+Value: $600
+Number: 13
+BEASTLY EXPRESSIONS | "Mad as a wet" this bird | a hen
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+OLD KING COAL | Britannica says coal "was the basic energy source that fueled the" this "of the 18th and 19th centuries" | the Industrial Revolution
+right: Jaldhar
+Wrong: 
+Value: $800
+Number: 9
+SCRIPT DOCTORS | 1974: Gene Wilder as this doctor trying to live down the family name | Dr. Frankenstein
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+NAMETH THE BIBLE BOOK | "They bemoaned him, and comforted him over all the evil that the Lord had brought upon him" | Job
+right: Jaldhar
+Wrong: 
+Value: DD: $2,600
+Number: 29
+ODDITIES | Its nose is missing, but part of the beard of this ancient statue is in the British Museum | the Sphinx (the Great Sphinx of Giza)
+right: Dave
+Wrong: 
+Value: $800
+Number: 19
+THE MAIN ALCOHOLIC INGREDIENT | ...in a Gauguin | rum
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+BEASTLY EXPRESSIONS | "A" this "of a different color" | a horse
+right: Dave | Nicholas
+Wrong: 
+Value: $800
+Number: 4
+OLD KING COAL | In the 1300s the Southwest Indian tribes named for these dwellings used coal in pottery making | pueblos
+right: Nicholas
+Wrong: 
+Value: $1000
+Number: 10
+SCRIPT DOCTORS | 2005 & 2007: Julian McMahon as this comic book doctor who was struck by cosmic waves | Doctor Doom
+right: 
+Wrong: Triple Stumper
+Jaldhar: Who is Doctor Strange?
+Value: $1000
+Number: 25
+NAMETH THE BIBLE BOOK | "The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction" | Proverbs
+right: Dave
+Wrong: 
+Value: $1000
+Number: 30
+ODDITIES | From 2007 to 2011 the president, V.P. & prime minister all had the same family name in this country of Indochina | Vietnam
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+THE MAIN ALCOHOLIC INGREDIENT | ...in a Rob Roy; vermouth's along for the ride, too | scotch
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+BEASTLY EXPRESSIONS | "Killing the fatted" one | a calf
+right: Jaldhar
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Dave: $3,400
+Nicholas: $1,800
+Jaldhar: $2,200
+Scores at the end of the Jeopardy! Round:
+Dave: $7,200
+Nicholas: $1,800
+Jaldhar: $5,200
+Second Jeopardy! Round: GREAT ARTS, 19th CENTURY CONGRESSMEN, "G-P-S", ISLANDS IN THE STREAM, SEA OR OCEAN, COLLECTIONS, PULL A MUSCLE
+GREAT ARTS | He & Paul Simon had their first hit under the names Tom & Jerry | (Art) Garfunkel
+right: Dave
+Wrong: 
+Value: $400
+Number: 4
+19th CENTURY CONGRESSMEN | It wasn't "The Devil and" him repping Massachusetts in the House from 1823 to 1827--it was just him | (Daniel) Webster
+right: Dave
+Wrong: 
+Value: $400
+Number: 25
+"G-P-S" | During adolescence, you might feel these in your limbs, also the title of an '80s sitcom | growing pains
+right: Jaldhar
+Wrong: 
+Value: $400
+Number: 2
+ISLANDS IN THE STREAM, SEA OR OCEAN | Koror & Guadalcanal | the Pacific Ocean
+right: Dave
+Wrong: 
+Value: $400
+Number: 1
+COLLECTIONS | Doug Arbittier's collection of medical antiques in York, Pa. includes colorful jars that held these bloodsuckers | leeches
+right: Dave
+Wrong: 
+Value: $400
+Number: 13
+PULL A MUSCLE | You don't have to be self-absorbed to do the endless crunches needed to develop these | abs (in self-
+right: Jaldhar
+Wrong: 
+Value: $400
+Number: 19
+GREAT ARTS | Hey, hey, Ralphie boy--he was up to his knees in the sewers as Ed Norton on "The Honeymooners" | (Art) Carney
+right: Dave
+Wrong: 
+Value: $800
+Number: 9
+19th CENTURY CONGRESSMEN | No debate--this Illinois man, "The Little Giant", was elected to the House in 1843 & the Senate in 1847 | (Stephen) Douglas
+right: Dave
+Wrong: 
+Value: $800
+Number: 26
+"G-P-S" | These trousers are modeled after those worn by South American cowboys | gaucho pants
+right: Jaldhar
+Wrong: 
+Value: $800
+Number: 3
+ISLANDS IN THE STREAM, SEA OR OCEAN | Majorca & Malta | the Mediterranean Sea
+right: Jaldhar
+Wrong: 
+Value: $800
+Number: 8
+COLLECTIONS | This talk show host's car collection ranges from a 1906 Stanley Steamer to a 2006 Corvette | Leno
+right: Dave
+Wrong: 
+Value: $800
+Number: 14
+PULL A MUSCLE | When you dealt that card I acted as if this type of muscle, one of the body's 3 main types, had stopped working | cardiac (in 
+right: Dave
+Wrong: 
+Value: $800
+Number: 22
+GREAT ARTS | This big band leader was married 8 times, including nuptials with hotties Lana Turner & Ava Gardner | Artie Shaw
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 10
+19th CENTURY CONGRESSMEN | In his diary, he wrote "My election as president... was not half so gratifying" as his later election to Congress in 1830 | John Quincy Adams
+right: 
+Wrong: 
+Dave: Who is Van Buren?
+Value: DD: $2,000
+Number: 27
+"G-P-S" | Horripilation is the medical term for this skin condition | goose bumps (goose pimples accepted)
+right: Dave
+Wrong: 
+Value: DD: $3,500
+Number: 5
+ISLANDS IN THE STREAM, SEA OR OCEAN | Mahe & Sri Lanka | the Indian Ocean
+right: Dave
+Wrong: 
+Value: $1200
+Number: 18
+COLLECTIONS | A chrome pop-up one from the 1950s was the first in Jens Veerbeck's collection of about 600 of these kitchen appliances | toasters
+right: Dave
+Wrong: 
+Value: $1200
+Number: 15
+PULL A MUSCLE | Her boyfriend is a NYC lawyer--a Gotham stringbean who never stretches out this leg muscle | hamstring (in Got
+right: Dave
+Wrong: 
+Value: $1200
+Number: 23
+GREAT ARTS | This "holy" Washington Redskins wide receiver was inducted into the Hall of Fame in 2008 | (Art) Monk
+right: Nicholas
+Wrong: 
+Value: $1600
+Number: 11
+"G-P-S" | This navigational device continuously indicates true north | a gyrocompass
+right: 
+Wrong: Triple Stumper
+Jaldhar: What is a compass?
+Value: $1600
+Number: 6
+ISLANDS IN THE STREAM, SEA OR OCEAN | Gotland & Bornholm | the Baltic Sea
+right: Nicholas
+Wrong: 
+Value: $1600
+Number: 20
+COLLECTIONS | Ralph Isham was more interested in his mss. than his mrs.--his passion was collecting these, including James Boswell's | manuscripts
+right: Jaldhar
+Wrong: 
+Value: $1600
+Number: 16
+PULL A MUSCLE | The anatomy prof brought in a human model to identify this shoulder muscle | the deltoid (in mo
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+GREAT ARTS | This stop-motion animator created Gumby & Pokey | (Art) Clokey
+right: Dave
+Wrong: 
+Value: $2000
+Number: 12
+"G-P-S" | Oceanography & volcanology are part of this branch of geology | geophysics
+right: Nicholas
+Wrong: 
+Value: $2000
+Number: 7
+ISLANDS IN THE STREAM, SEA OR OCEAN | New York State's Grand Island & Three Sisters Islands | the Niagara River
+right: 
+Wrong: Triple Stumper
+Nicholas: What is Lake Erie?
+Jaldhar: What is the St. Lawrence River?
+Value: $2000
+Number: 21
+COLLECTIONS | This editor of Famous Monsters of Filmland turned his L.A. mansion into a museum of sci-fi memorabilia | Forrest Ackerman
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Dave: $19,100
+Nicholas: $5,000
+Jaldhar: $5,600
+
+Final Jeopardy! Round
+1930s NOVELS | An audio version of this anti-war novel by a once blacklisted author has introductions from Cindy Sheehan & Ron Kovic | Johnny Got His Gun
+right: 
+Wrong: 
+Nicholas: What is All Is Quiet on the Western Fron
+Jaldhar: What is All quiet on the Western <del>front</del> front
+Dave: What is All Quiet on the Western Front?
+Wagers: 
+Nicholas: $1,000
+Jaldhar: $4,400
+Dave: $1,930
+Final scores:
+Dave: $17,170 (5-day champion: $78,054)
+Nicholas: $4,000 (2nd place: $2,000)
+Jaldhar: $1,200 (3rd place: $1,000)
+
+Coryat scores
+Dave: $18,800 (28 R(including 1 DD),1 W(including 1 DD))
+Nicholas: $5,000 (5 R,1 W)
+Jaldhar: $3,800 (14 R(including 1 DD),5 W)

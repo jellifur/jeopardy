@@ -1,0 +1,342 @@
+736 - Monday, November 16, 1987
+Comments: 1987 Tournament of Champions semifinal game 1.
+Contestants:
+Roger Storm: a teacher from Fairview Park, Ohio
+Dave Traini: a teacher from Medford Lakes, New Jersey
+Richard Cordray: a judicial clerk from Grove City, Ohio
+First Jeopardy! Round: 20th CENTURY POETRY, ARKANSAS, BIOLOGY, MONEY, SPORTS STADIUMS, AKA
+20th CENTURY POETRY | Frank O' Hara's "The Day Lady Died" is a tribute to this black singer | Billie Holiday
+right: Dave
+Wrong: 
+Value: $100
+Number: 27
+ARKANSAS | This amusement park near Harrison is named for famous Al Capp comic strip community | Dogpatch USA
+right: Dave
+Wrong: 
+Value: $100
+Number: 28
+BIOLOGY | Mycology is the branch of biology that studies mushrooms, yeasts, molds, and other types of these | fungi
+right: Dave
+Wrong: 
+Value: $100
+Number: 2
+MONEY | The name of this monetary unit of the Netherlands is from the Dutch for golden | the guilder
+right: Richard
+Wrong: 
+Value: $100
+Number: 29
+SPORTS STADIUMS | This Detroit stadium was formerly called Bennett Park, then Navin Field, then Briggs Stadium | Tiger Stadium
+right: Roger
+Wrong: 
+Value: $100
+Number: 18
+AKA | Until he was six, his name was Michael Luther King, Jr. | Martin Luther King, Jr.
+right: Dave
+Wrong: 
+Value: $100
+Number: 30
+20th CENTURY POETRY | In Robert Frost's "The Road Not Taken", it's the color of the wood two roads diverged in | yellow
+right: Richard
+Wrong: 
+Value: $200
+Number: 20
+ARKANSAS | Though not noted for its Chinese restaurants, Arkansas produces more of this grain than any other state | rice
+right: Richard
+Wrong: 
+Value: $200
+Number: 21
+BIOLOGY | Fibrogen is a protein material that helps the blood in doing this | clotting
+right: Dave
+Wrong: 
+Value: $200
+Number: 13
+MONEY | No. of groschen in an Austrian shilling or no. of centime in a French franc | 100
+right: Richard
+Wrong: 
+Value: $200
+Number: 25
+SPORTS STADIUMS | In 1976, the name of this university's stadium was changed from Denny to Bryant-Denny | Alabama
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+AKA | Frank Paul Lovecchio; he rode a "Mule Train" to fame | Frankie Laine
+right: Roger
+Wrong: 
+Value: $200
+Number: 14
+20th CENTURY POETRY | It's the first name of Edwin Arlington Robinson's morose Mr. Cheevy | Miniver
+right: Roger
+Wrong: 
+Value: $300
+Number: 1
+ARKANSAS | The state's only national park; it's famous as a health resort | Hot Springs
+right: Richard
+Wrong: 
+Value: $300
+Number: 8
+BIOLOGY | Common term for a female gamete | egg
+right: Roger
+Wrong: 
+Value: $300
+Number: 15
+MONEY | Canada has issued a series of ten sterling coins marking this 1988 event in Calgary | Winter Olympic Games
+right: Dave
+Wrong: 
+Value: $300
+Number: 24
+SPORTS STADIUMS | Major League Baseball's oldest stadium is this one in Chicago | Comiskey Park
+right: Richard
+Wrong: 
+Value: $300
+Number: 26
+AKA | Helen Louise Leonard got this stage name from Tony Pastor and her diamonds, we assume, from Jim Brady | Lillian Russell
+right: 
+Wrong: Triple Stumper
+Richard: Who is Diamond Lil Langtry?
+Roger: Who is Diamond Lil?
+Value: $300
+Number: 12
+20th CENTURY POETRY | "I saw the best minds of my generation destroyed by madness", he "howled" | Allen Ginsberg
+right: Richard
+Wrong: 
+Value: $400
+Number: 3
+ARKANSAS | The 2 states that border Arkansas across the Mississippi River | Tennessee & Mississippi
+right: Dave
+Wrong: 
+Value: $400
+Number: 7
+BIOLOGY | People usually refer to adipose tissue as this | fat
+right: Roger
+Wrong: 
+Value: $400
+Number: 16
+MONEY | You'd use bills in this monetary unit to buy a tuba in Cuba or magazines in the Philippines | the peso
+right: Dave
+Wrong: 
+Value: $400
+Number: 23
+SPORTS STADIUMS | While Huskie Stadium (-skie) belongs to Northern Illinois University, Husky Stadium (-sky) is this school's home field | Washington
+right: Richard
+Wrong: 
+Value: $400
+Number: 6
+AKA | Born Edith Mariner in Brooklyn, she was nominated for Oscars five times and won for "I Want to Live" | Susan Hayward
+right: Dave
+Wrong: 
+Value: $400
+Number: 11
+20th CENTURY POETRY | He went from laboring in a Siberian camp to becoming a US citizen to winning the 1987 Nobel Literature Prize | Josef Brodsky
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+ARKANSAS | In 1967 he became the first Republican governor of the state since the Reconstruction days | Winthrop Rockefeller
+right: 
+Wrong: Triple Stumper
+Richard: Who is Happy Rockefeller?
+Value: $500
+Number: 4
+BIOLOGY | In any vertebrate, the occiput is the posterior part of this | the skull
+right: Roger
+Wrong: 
+Value: $500
+Number: 17
+MONEY | It's the monetary unit of Greenland | the krona
+right: Dave
+Wrong: 
+Value: $500
+Number: 22
+SPORTS STADIUMS | 1 of 4 Major League ballparks named for the counties they're in | the Atlanta-Fulton County Stadium (or the Kingdome, Milwaukee County Stadium, or the Oakland-Alameda County Coliseum)
+right: Richard
+Wrong: 
+Value: DD: $600
+Number: 9
+AKA | The famous alias of Doroteo Arango, the Mexican revolutionary who was killed in 1923 | Pancho Villa
+right: Dave
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Richard: $1,200
+Dave: $500
+Roger: $300
+Scores at the end of the Jeopardy! Round:
+Richard: $2,100
+Dave: $3,100
+Roger: $1,500
+Second Jeopardy! Round: CORPORATE AMERICA, DEMOCRATS, HISTORICAL DRAMAS, ISLANDS, GEMS, 13-LETTER WORDS
+CORPORATE AMERICA | First successful 5 & 10; from August '82 to August of '87, it outperformed all other stocks on the Dow Jones Industrial Average | Woolworth's
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+DEMOCRATS | 1960's Vice-President who called his autobiography "The Education of a Public Man" | Hubert Humphrey
+right: Richard
+Wrong: 
+Value: $200
+Number: 29
+ISLANDS | The Florida Keys stretch some 150 miles from Virginia Key, near Miami Beach, to this one | Key West
+right: Roger
+Wrong: 
+Value: $200
+Number: 6
+GEMS | Varieties of it have included the fire, the white, the black, but not the Buick | opal
+right: Roger
+Wrong: 
+Dave: What is a sapphire?
+Value: $200
+Number: 1
+13-LETTER WORDS | A "dynamite" medicine for hearts | nitroglycerin
+right: Roger
+Wrong: 
+Value: $200
+Number: 12
+CORPORATE AMERICA | This largest US hot dog maker also makes sauerkraut and pickles which can go with the hot dogs | Oscar Mayer
+right: Dave
+Wrong: 
+Value: $400
+Number: 28
+DEMOCRATS | Both sons of Methodist ministers, they were the party's Presidential nominees in 1972 and 1984 | George McGovern & Walter Mondale
+right: Richard
+Wrong: 
+Value: DD: $3,300
+Number: 25
+HISTORICAL DRAMAS | This man's Viennese office is the setting for "A Far Country" | Sigmund Freud
+right: Richard
+Wrong: 
+Value: $400
+Number: 22
+ISLANDS | According to Guinness, the greatest explosion in the past 3,000 years occured August 27, 1883, on this island | Krakatoa
+right: Dave
+Wrong: 
+Value: $400
+Number: 7
+GEMS | Color of a peridot | green
+right: Roger
+Wrong: 
+Value: $400
+Number: 2
+13-LETTER WORDS | To set the record straight, Thucydides wrote a history of this war | the Peloponnesian War
+right: Dave
+Wrong: 
+Value: $400
+Number: 13
+CORPORATE AMERICA | 1 of the 7 regional phone companies listed on the New York Stock Exchange and commonly called the "Baby Bells" | (1 of) Ameritech, Bell Atlantic, Bell South, NYNEX, Southwestern Bell, Pacific Telesis, or US West
+right: 
+Wrong: Triple Stumper
+Richard: What is Ohio Bell?
+Dave: What is New Jersey Bell?
+Value: $600
+Number: 27
+DEMOCRATS | At the start of his Presidential campaign, he said "I'm not from Washington and I'm not a lawyer" | Jimmy Carter
+right: Richard
+Wrong: 
+Value: $600
+Number: 24
+HISTORICAL DRAMAS | "Becket" opens with this monarch saying, "Well, Thomas Becket, are you satisfied?  I am naked at your tomb" | Henry II
+right: Roger
+Wrong: 
+Value: $600
+Number: 11
+ISLANDS | Most of this Scandinavian country's people live on islands | Denmark
+right: Dave
+Wrong: 
+Value: $600
+Number: 8
+GEMS | The name of this gemstone is from the Persian "zargun" meaning gold-colored | zircon
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+13-LETTER WORDS | As Jack Buchanan, Oscar Levant, Fred Astaire & Nanette Fabray could tell you, "That's" it | entertainment
+right: Roger
+Wrong: 
+Value: $600
+Number: 14
+CORPORATE AMERICA | On August 19, 1987, the AFL-CIO ended its 10-year old boycott of this Colorado-based company | Coors
+right: Dave
+Wrong: 
+Value: $800
+Number: 26
+DEMOCRATS | Missouri congressman who's making some countries' trade practices a major issue in his Presidential campaign | Richard Gephardt
+right: Dave
+Wrong: 
+Value: $800
+Number: 23
+HISTORICAL DRAMAS | 193 years after the events it portrayed, this 1969 musical featured the <http://www.j-archive.com/media/1987-11-16_DJ_17.mp3> following:  "For I am yet happy, the first family, in the southern colony of Virginia..." | 1776
+right: Dave
+Wrong: 
+Value: DD: $1,183
+Number: 17
+ISLANDS | Only independent island nation in the Persian Gulf | Bahrain
+right: Dave
+Wrong: 
+Value: $800
+Number: 9
+GEMS | The largest blue diamond and the largest pearl have been given this name | Hope
+right: Roger
+Wrong: 
+Value: $800
+Number: 4
+13-LETTER WORDS | A sin, for example | transgression
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+CORPORATE AMERICA | After creating the US Steel corporation, he went on to head the Bethlehem Steel corporation | Charles Schwab
+right: 
+Wrong: Triple Stumper
+Dave: Who is Carnegie?
+Value: $1000
+Number: 21
+DEMOCRATS | Currently ambassador to Japan under Reagan, he was formerly Senate majority leader | Mike Mansfield
+right: Dave
+Wrong: 
+Value: $1000
+Number: 20
+HISTORICAL DRAMAS | The familiar shortened title of the Peter Weiss drama set at the Asylum of Charenton | Marat/Sade
+right: Roger
+Wrong: 
+Value: $1000
+Number: 18
+ISLANDS | After Britain relocated all the inhabitants, the US built a naval base on this Indian Ocean island | Diego Garcia
+right: Dave
+Wrong: 
+Value: $1000
+Number: 10
+GEMS | The two gem names that end in the letters   -nyx | onyx and sardonyx
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+13-LETTER WORDS | Only state that fits the category | Massachusetts
+right: 
+Wrong: Triple Stumper
+Roger: What is Mississippi?
+Value: $1000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Richard: $6,200
+Dave: $10,083
+Roger: $4,500
+
+Final Jeopardy! Round
+WORLD GEOGRAPHY | This former British colony, which gained independence in 1960, is the most populous country in Africa | Nigeria
+right: Richard | Dave
+Wrong: 
+Roger: What is Kenya?
+Wagers: 
+Roger: $3,300
+Richard: $6,200
+Dave: $3,000
+Final scores:
+Richard: $12,400 (2nd place: $5,000)
+Dave: $13,083 (Finalist)
+Roger: $1,200 (3rd place: $5,000)
+
+Coryat scores
+Richard: $3,200 (15 R(including 2 DDs),3 W)
+Dave: $9,700 (23 R(including 1 DD),3 W)
+Roger: $4,500 (14 R,2 W)

@@ -1,0 +1,324 @@
+4651 - Monday, November 22, 2004
+Comments: 2004 College Championship final game 1.
+Contestants:
+Ari Schoenholtz: a senior at Williams College from Bethesda, Maryland
+Rachel McCool: a sophomore at Dickinson College from Pittsburgh, Pennsylvania
+Kermin Fleming: a junior at Carnegie Mellon University from Lexington, Kentucky
+First Jeopardy! Round: PLACES FOR ANIMALS, STUPID ANSWERS, ROAD TRIPPING, UNITS OF MEASURE, WORD ORIGINS, PITTSBURGH STEELERS, PIRATES & PENGUINS
+PLACES FOR ANIMALS | It can precede "anemone" or "cow" | sea
+right: Kermin
+Wrong: 
+Value: $200
+Number: 2
+STUPID ANSWERS | In 2002 Melissa Gilbert was reelected president of this guild formed by actors of the silver screen | the Screen Actors Guild
+right: Rachel
+Wrong: 
+Value: $200
+Number: 9
+ROAD TRIPPING | Just west of Davenport, the Iowa-80, one of these refuges for big rigs, features a dentist & barber shop | a truck stop
+right: Kermin
+Wrong: 
+Value: $200
+Number: 29
+UNITS OF MEASURE | To convert pints into these metric units of liquid measure, multiply by .47 | a liter
+right: Kermin
+Wrong: 
+Value: $200
+Number: 30
+WORD ORIGINS | This light wood gets its name from the Spanish for "raft" because people in the tropics have used its logs for rafts | balsa
+right: Kermin
+Wrong: 
+Value: $200
+Number: 4
+PITTSBURGH STEELERS, PIRATES & PENGUINS | This Puerto Rican Hall of Fame outfielder won 12 consecutive Gold Gloves during his 18-year career | (Roberto) Clemente
+right: Ari
+Wrong: 
+Value: $200
+Number: 1
+PLACES FOR ANIMALS | This leopard lives at nearly 20,000 feet in Central Asia | a snow leopard
+right: Kermin
+Wrong: 
+Value: $400
+Number: 6
+STUPID ANSWERS | The flag of the Organization of American States has 35 different ones of these on it | flags
+right: Ari
+Wrong: 
+Value: $400
+Number: 10
+ROAD TRIPPING | Going west from Fargo, it's a 193-mile straight shot (about as straight as it gets) on I-94 to this state capital | Bismarck
+right: Kermin
+Wrong: 
+Value: $400
+Number: 28
+UNITS OF MEASURE | This unit of weight used for gemstones equals 200 milligrams | carat
+right: Kermin
+Wrong: 
+Value: $400
+Number: 24
+WORD ORIGINS | The gigantic statue at Rhodes, one of the 7 ancient wonders, gave us this adjective meaning gigantic | colossal
+right: Rachel
+Wrong: 
+Value: $400
+Number: 20
+PITTSBURGH STEELERS, PIRATES & PENGUINS | A 10-time Pro Bowl defensive tackle, he wasn't so "Mean" when he tossed a kid his jersey in a Coke ad | Joe Green
+right: Rachel
+Wrong: 
+Value: $400
+Number: 3
+PLACES FOR ANIMALS | Over 1,500 species of worm are named for this habitat | the earth
+right: Kermin
+Wrong: 
+Value: $600
+Number: 14
+STUPID ANSWERS | The great-grandson of a slave, he was the first black mayor of Washington, D.C. | Walter Washington
+right: 
+Wrong: Triple Stumper
+Kermin: Who is Dinkins?
+Rachel: Who is Marion Berry?
+Value: $600
+Number: 11
+ROAD TRIPPING | In Santa Fe, visit the USA's only art museum of international stature devoted to a single woman: her | Georgia O'Keeffe
+right: Kermin
+Wrong: 
+Value: $600
+Number: 25
+UNITS OF MEASURE | Ths unit for measuring type size was invented in 1737 by Pierre Simon Fournier | point
+right: Kermin
+Wrong: 
+Value: $600
+Number: 15
+WORD ORIGINS | Originally used to designate an errand boy, it was introduced into Scotland by golfer Mary, Queen of Scots | a caddy
+right: Kermin
+Wrong: 
+Value: $600
+Number: 21
+PITTSBURGH STEELERS, PIRATES & PENGUINS | This "Miracle on Ice" coach was the Penguin's head man in 1999 & 2000 | (Herb) Brooks
+right: Ari
+Wrong: 
+Value: $600
+Number: 5
+PLACES FOR ANIMALS | Grassy field that joins with "lark" | meadow
+right: Rachel
+Wrong: 
+Value: $800
+Number: 18
+STUPID ANSWERS | The very farthest west you can drive in the Florida Keys is to this island | Key West
+right: Rachel
+Wrong: 
+Value: $800
+Number: 12
+ROAD TRIPPING | There's a hang-gliding school named for this 2-word North Carolina town that became famous in 1903 | Kitty Hawk
+right: Kermin
+Wrong: 
+Value: DD: $2,000
+Number: 26
+UNITS OF MEASURE | Both the ounce & this unit of measure get their names from the Latin uncia, "twelfth part" | the inch
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+WORD ORIGINS | The Greek word "iota" gave us this 3-letter word that means to write down hastily | jot
+right: Kermin
+Wrong: 
+Value: $800
+Number: 22
+PITTSBURGH STEELERS, PIRATES & PENGUINS | Thomas Henderson said this Steeler QB "couldn't spell cat if you spotted him the C & the A", but he still won 4 Super Bowls | Terry Bradshaw
+right: Kermin
+Wrong: 
+Value: $800
+Number: 7
+PLACES FOR ANIMALS | This word refers to extreme opposites or a type of bear | polar
+right: Rachel
+Wrong: 
+Value: $1000
+Number: 19
+STUPID ANSWERS | (<http://www.j-archive.com/media/2004-11-22_J_13.jpg> Cheryl and Sofia of the Clue Crew shoot some skeet.)  "Pull!"  You should know the name of the person who releases the target in trap shooting | the puller
+right: Rachel
+Wrong: 
+Kermin: What is the trappist?
+Value: $1000
+Number: 13
+ROAD TRIPPING | You can camp at Mazam Village when visiting this Northwestern body of water seen <http://www.j-archive.com/media/2004-11-22_J_27.jpg> here | Crater Lake
+right: Kermin
+Wrong: 
+Value: $1000
+Number: 27
+UNITS OF MEASURE | By pedaling with all your might for a few minutes you can generate 250 watts, or barely one-third of this unit | horsepower
+right: Kermin
+Wrong: 
+Value: $1000
+Number: 17
+WORD ORIGINS | They got their name from the wooden sandals worn by the French court to protect shoes on rainy days | galoshes
+right: Kermin
+Wrong: 
+Value: $1000
+Number: 23
+PITTSBURGH STEELERS, PIRATES & PENGUINS | You might see why this coach, seen <http://www.j-archive.com/media/2004-11-22_J_08.jpg> here, tends to lead with this chin | Bill Cowher
+right: Rachel
+Wrong: 
+Value: $1000
+Number: 8
+Scores at the first commercial break (after clue 15)
+Kermin: $1,200
+Rachel: $2,800
+Ari: $1,200
+Scores at the end of the Jeopardy! Round:
+Kermin: $9,400
+Rachel: $5,000
+Ari: $1,200
+Second Jeopardy! Round: CLIFFS NOTES, I HEAR YOU CALLING, ROYAL SCANDALS, A REAL RHODES SCHOLAR, X GAMES, STEELERS, PIRATES & PENGUINS
+CLIFFS NOTES | The poet & his buddy Virgil spend some time in Hell, a fate you avoided by buying our version of this classic | The Divine Comedy
+right: Rachel
+Wrong: 
+Value: $400
+Number: 10
+I HEAR YOU CALLING | When this singer <http://www.j-archive.com/media/2004-11-22_DJ_21.mp3> rings, it means she needs a partner for her Kabbalah class | Madonna
+right: Kermin
+Wrong: 
+Value: $400
+Number: 21
+ROYAL SCANDALS | "Drool Brittania" might have been a better anthem for this English king who went insane & also lost the American colonies | George III
+right: Ari
+Wrong: 
+Value: $400
+Number: 2
+A REAL RHODES SCHOLAR | A Rhodes Scholar, Howard Florey, led a research team at Oxford that discovered a way to mass-produce this antibiotic | penicillin
+right: Kermin
+Wrong: 
+Value: $400
+Number: 15
+STEELERS, PIRATES & PENGUINS | A "Steel-drivin' Man" who helped dig the Big Bend tunnel in the 1870s is said to be the basis of this folklore legend | John Henry
+right: Rachel
+Wrong: 
+Value: $400
+Number: 1
+CLIFFS NOTES | John Bunyan classic that we suspect has sold more "Cliffs Notes" copies than the real thing | Pilgrim's Progress
+right: Ari
+Wrong: 
+Value: $800
+Number: 11
+ROYAL SCANDALS | This French dictator's sister Pauline was so scandalous, you might say her specialty was "Foreign Affairs" | Napoleon
+right: Kermin
+Wrong: 
+Value: $800
+Number: 3
+A REAL RHODES SCHOLAR | Robert Reich met this man on the voyage to Oxford, where both were Rhodes Scholars, & later served as his Secretary of Labor | Bill Clinton
+right: Ari
+Wrong: 
+Value: $800
+Number: 16
+X GAMES | In Britain, if you need these well-placed friends to land a job, they'd be spelled with an X instead of the CT | connections
+right: Rachel
+Wrong: 
+Value: $800
+Number: 24
+STEELERS, PIRATES & PENGUINS | In 1718 the British Navy took a little too much off the top of this pirate, captain of the Queen Anne's Revenge | Blackbeard
+right: Kermin
+Wrong: 
+Ari: Who is Jenkins?
+Value: $800
+Number: 4
+CLIFFS NOTES | Any 1 of the 3 Moliere plays which--admit it--you've only read in "Cliffs Notes" | (1 of) The Misanthrope
+right: Ari
+Wrong: 
+Kermin: What are The Misanthropes?
+Value: $1200
+Number: 14
+I HEAR YOU CALLING | It's "The Long Road" back to Canada when this band <http://www.j-archive.com/media/2004-11-22_DJ_25.mp3> calls | Nickelback
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 25
+ROYAL SCANDALS | Julia, the daughter of this first Roman emperor, was so outrageous he had her banished from Rome | Augustus
+right: Rachel
+Wrong: 
+Value: $1200
+Number: 7
+A REAL RHODES SCHOLAR | This 2004 presidential hopeful graduated first in his class at West Point and was a Rhodes Scholar | Gen. Clark
+right: Ari
+Wrong: 
+Value: $1200
+Number: 18
+X GAMES | Add an X to a word meaning "a system of laws" to get this term for an early type of book | a codex
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 22
+STEELERS, PIRATES & PENGUINS | Maxing out at about 4 feet tall, this largest type of penguin can weigh 100 pounds | an emperor penguin
+right: Kermin
+Wrong: 
+Value: $1200
+Number: 5
+CLIFFS NOTES | Unlike Pangloss, this title character finally wises up, like you did when you got our version of this classic | Candide
+right: Rachel
+Wrong: 
+Value: $1600
+Number: 13
+ROYAL SCANDALS | Called "The Merry Monarch", this English king had 14 children by mistresses, but failed to sire a legal heir | Charles II
+right: 
+Wrong: Triple Stumper
+Rachel: Who is Charles I?
+Value: $1600
+Number: 8
+A REAL RHODES SCHOLAR | This American astronomer for whom a telescope is named studied law as a Rhodes Scholar | Hubble
+right: Kermin
+Wrong: 
+Value: $1600
+Number: 19
+X GAMES | In Roman numerals, one-fifth of CL is this saucy-looking result | XXX
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 23
+STEELERS, PIRATES & PENGUINS | Set in a coastal town in Cornwall, this Gilbert and Sullivan operetta premiered in 1879 | The Pirates of Penzance
+right: Kermin
+Wrong: 
+Value: DD: $2,000
+Number: 6
+CLIFFS NOTES | Joyce classic about the Earwicker family... uh, maybe... okay, we admit it; we haven't read it either | Finnegan's Wake
+right: Ari
+Wrong: 
+Rachel: What is Ulysses?
+Value: $2000
+Number: 12
+ROYAL SCANDALS | This Hungarian piano virtuoso was scandalously involved with the married princess Carolyn Sayn-Wittgenstein | Franz Liszt
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 9
+A REAL RHODES SCHOLAR | This International Exchange Scholarship is named for the U.S. Senator, a Rhodes Scholar, who sponsored it | the Fulbright Scholarship
+right: Kermin
+Wrong: 
+Rachel: What is the Marshall Scholarship?
+Value: $2000
+Number: 17
+STEELERS, PIRATES & PENGUINS | In 1901, merging with this steeler, J.P. Morgan said, "I congratulate you on being the richest man in the world" | Andrew Carnegie
+right: Ari
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Kermin: $17,400
+Rachel: $5,800
+Ari: $8,800
+
+Final Jeopardy! Round
+20th CENTURY AMERICANS | At the dedication of a fountain at Radcliffe College in 1960, she began her speech with the single word "Water" | Helen Keller
+right: 
+Wrong: 
+Rachel: Who is Rachel Carson?
+Ari: Who is Carson?
+Kermin: Who is Rachel Carson?
+Wagers: 
+Rachel: $3,800
+Ari: $6,200
+Kermin: $3,600
+Final scores:
+Kermin: $13,800 ()
+Rachel: $2,000 ()
+Ari: $2,600 ()
+
+Coryat scores
+Kermin: $15,800 (25 R(including 2 DDs),3 W)
+Rachel: $5,800 (14 R,4 W)
+Ari: $8,800 (10 R,1 W)

@@ -1,0 +1,354 @@
+4961 - Monday, March 20, 2006
+Contestants:
+Kate Miller: a human resources assistant from Oxnard, California
+Eric Heaton: a software engineer originally from St. Cloud, Minnesota
+James Washick: a professor from Greenville, South Carolina (whose 1-day cash winnings total $20,801)
+First Jeopardy! Round: HOT TRAVEL SPOTS, SNOW BUSINESS LIKE SHOW BUSINESS, FROZEN FOOD, HAIL OF BULLETS, PARTLY CLOUDY, CHANCE OF RAIN, HERE COMES THE "SUN"
+HOT TRAVEL SPOTS | If you want to climb the tallest mountain in North Africa, go to Jebel Toubkal near Marrakech in this country | Morocco
+right: Eric
+Wrong: 
+Value: $200
+Number: 26
+SNOW BUSINESS LIKE SHOW BUSINESS | A newsman's stuck in a snowy Penn. town in this 1993 film.  A newsman's stuck in a snowy Penn. town in this 1993 film | Groundhog Day
+right: Eric
+Wrong: 
+James: What is Groundhog's Day?
+Value: $200
+Number: 1
+FROZEN FOOD | In 1953 Ore-Ida introduced these alliterative hash brown babies | Tater Tots
+right: Eric
+Wrong: 
+Value: $200
+Number: 6
+HAIL OF BULLETS | On Oct. 26, 1881 Ike Clanton & Billy Claiborne escaped the hail of bullets at this site by fleeing to a photo studio | the O.K. Corral
+right: Kate
+Wrong: 
+Value: $200
+Number: 21
+PARTLY CLOUDY, CHANCE OF RAIN | This island state has the wettest point on Earth, with an average of 460" of rain a year | Hawaii
+right: James
+Wrong: 
+Value: $200
+Number: 16
+HERE COMES THE "SUN" | This medical term is also known as insolation or thermic fever | sunstroke
+right: James
+Wrong: 
+Kate: What is sunspots?
+Value: $200
+Number: 11
+HOT TRAVEL SPOTS | Tourism in tropic Seychelles has become a major employer since the opening of the 1st major one of these, SEZ, in 1971 | airport
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+SNOW BUSINESS LIKE SHOW BUSINESS | Heeeeere's Johnny!  Jack Nicholson has crazy fun in a snow maze in this 1980 thriller | The Shining
+right: Kate
+Wrong: 
+Value: $400
+Number: 2
+FROZEN FOOD | This brand introduced the frozen TV dinner in 1953 | Swanson
+right: Eric
+Wrong: 
+Kate: What is Birds Eye?
+Value: $400
+Number: 7
+HAIL OF BULLETS | In May 1934 this bank-robbing duo died in a hail of bullets in Louisiana; her body had 23 slugs, his had 25 | Bonnie & Clyde
+right: James
+Wrong: 
+Value: $400
+Number: 22
+PARTLY CLOUDY, CHANCE OF RAIN | Latin for "heap" or "mass" & typically in puffs or mounds, this type of cloud may reach up to 43,000 feet | cumulus
+right: James
+Wrong: 
+Value: $400
+Number: 17
+HERE COMES THE "SUN" | This interjection is literally German for "health" | Gesundheit
+right: Kate
+Wrong: 
+Value: $400
+Number: 12
+HOT TRAVEL SPOTS | Cut a rug with locals on this island retreat found between Java & Lombok in Southern Indonesia | Bali
+right: 
+Wrong: Triple Stumper
+Kate: What is Jakarta?
+Value: $600
+Number: 28
+SNOW BUSINESS LIKE SHOW BUSINESS | A man runs through the snowy streets of Bedford Falls shouting, "Merry Christmas!" in this 1946 classic | It's a Wonderful Life
+right: Kate
+Wrong: 
+Value: $600
+Number: 3
+FROZEN FOOD | This brand of frozen food is named for Clarence, born in Brooklyn in 1886 | Birds Eye
+right: Kate
+Wrong: 
+Value: $600
+Number: 8
+HAIL OF BULLETS | Gangster George Nelson, nicknamed this, survived a hail of bullets from 2 FBI agents but was found dead the next day | "Baby Face"
+right: Eric
+Wrong: 
+Value: $600
+Number: 23
+PARTLY CLOUDY, CHANCE OF RAIN | Usually found below 8,000 feet, this 7-letter cloud class has a gray, horizontal layer & produces drizzle | stratus
+right: James
+Wrong: 
+Value: $600
+Number: 18
+HERE COMES THE "SUN" | Describes an egg fried without breaking the yolk or being turned over | sunny side up
+right: Kate
+Wrong: 
+Value: $600
+Number: 13
+HOT TRAVEL SPOTS | Formerly Britain's colony, this archipelago in the NW West Indies once sheltered Blackbeard & Henry Morgan | the Bahamas
+right: Kate
+Wrong: 
+Value: $800
+Number: 29
+SNOW BUSINESS LIKE SHOW BUSINESS | <http://www.j-archive.com/media/2006-03-20_J_04.mp3> Oh dontcha know, Sheriff Marge Gunderson checks out a body in da snow in this 1996 film | Fargo
+right: James
+Wrong: 
+Value: $800
+Number: 4
+FROZEN FOOD | "It's not delivery... it's" this frozen pizza brand | DiGiorno
+right: Kate
+Wrong: 
+Value: $800
+Number: 9
+HAIL OF BULLETS | In 1911, these two men <http://www.j-archive.com/media/2006-03-20_J_24.jpg> highlighted <http://www.j-archive.com/media/2006-03-20_J_24a.jpg> here reportedly died in a hail of bullets in Bolivia | Butch Cassidy & the Sundance Kid
+right: Kate
+Wrong: 
+Value: $800
+Number: 24
+PARTLY CLOUDY, CHANCE OF RAIN | .03" a year of rain falls on Arica in this South American country whose name sounds like a weather condition | Chile
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+HERE COMES THE "SUN" | From the Middle English for "apart", this term tends to follow the words ripped or torn | asunder
+right: Kate
+Wrong: 
+Value: DD: $1,800
+Number: 14
+HOT TRAVEL SPOTS | Fancy dress & gaudy floats are the order of the day at a carnival in Valletta, this island nation's capital | Malta
+right: Eric
+Wrong: 
+Value: $1000
+Number: 30
+SNOW BUSINESS LIKE SHOW BUSINESS | "Why can't they call me the adorable snowman or the agreeable snowman... I'm a nice guy" is said in this 2001 Pixar film | Monsters, Inc.
+right: James
+Wrong: 
+Value: $1000
+Number: 5
+FROZEN FOOD | The name of this frozen food brand means "A lavish meal or feast" | Banquet
+right: James
+Wrong: 
+Value: $1000
+Number: 10
+HAIL OF BULLETS | A hail of bullets from citizens of this Minn. town killed 2 members of the James-Younger gang in an 1876 bank raid | Northfield
+right: Kate
+Wrong: 
+Value: $1000
+Number: 25
+PARTLY CLOUDY, CHANCE OF RAIN | In botany, it's a tendril; it's also this class of cloud noted for its thin white filaments & ice crystals | cirrus
+right: James
+Wrong: 
+Eric: What is nimbus?
+Value: $1000
+Number: 20
+HERE COMES THE "SUN" | In tan-speak, it's what SPF stands for | sun protection factor
+right: Eric
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+James: $2,800
+Eric: $1,800
+Kate: $4,600
+Scores at the end of the Jeopardy! Round:
+James: $5,400
+Eric: $2,600
+Kate: $6,800
+Second Jeopardy! Round: THE MIDDLE AGES, WOMEN ATHLETES, NURSERY RHYMES, CITIES WITH HOSPITAL-ITY, CLOSING THE BOOK, "PP"-POURRI
+THE MIDDLE AGES | Charlemagne standardized coinage to 12 pennies in a shilling & 20 shillings in this | a pound
+right: 
+Wrong: Triple Stumper
+Eric: What is a franc?
+Kate: What is a farthing?
+Value: $400
+Number: 27
+WOMEN ATHLETES | This Californian known for her exquisitie artistry skated off with a silver medal at the 2006 Olympics | Sasha Cohen
+right: Eric
+Wrong: 
+Value: $400
+Number: 1
+NURSERY RHYMES | "Pudding and Pie" follows the name of this nursery rhyme boy who kisses & runs | Georgie Porgie
+right: James
+Wrong: 
+Value: $400
+Number: 15
+CITIES WITH HOSPITAL-ITY | Mass General, as it's known | Boston
+right: Kate
+Wrong: 
+Value: $400
+Number: 10
+CLOSING THE BOOK | Alcott: "Oh, my girls, however long you may live, I never can wish you a greater happiness than this!" | Little Women
+right: Kate
+Wrong: 
+Value: $400
+Number: 12
+"PP"-POURRI | Any young woman of the 1920s who showed disdain for conventional dress & behaviour | a flapper
+right: James
+Wrong: 
+Value: $400
+Number: 23
+THE MIDDLE AGES | One way to judge guilt was "trial by" this 6-letter word, like putting the accused's arm in boiling water | ordeal
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+WOMEN ATHLETES | Olympic medalist Mary Ellen Clark was hampered in this sport by vertigo--a problem when you're 10 meters up | diving
+right: Kate
+Wrong: 
+Eric: What is pole vault?
+Value: $800
+Number: 2
+NURSERY RHYMES | He asked the pieman, "Let me taste your ware" | Simple Simon
+right: Eric
+Wrong: 
+Value: $800
+Number: 5
+CITIES WITH HOSPITAL-ITY | With Southern hospital-ity: Emory University Hospital | Atlanta
+right: James
+Wrong: 
+Value: $800
+Number: 11
+CLOSING THE BOOK | Heller: "Yossarian jumped... the knife came down, missing him by inches, and he took off" | Catch-22
+right: James
+Wrong: 
+Value: $800
+Number: 13
+"PP"-POURRI | A change in frequency because of motion is named for this Austrian mathematician who first explained it | Doppler
+right: Kate
+Wrong: 
+Value: $800
+Number: 21
+THE MIDDLE AGES | Of the 4 major Crusades, the one in which the Christians actually captured Jerusalem | the First Crusade
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+WOMEN ATHLETES | Nancy Lopez & Beth Daniel are in this organization's Hall of Fame, founded in 1967 | LPGA
+right: Kate
+Wrong: 
+Value: $1200
+Number: 3
+NURSERY RHYMES | First name of the little Flinders girl "who sat among the cinders warming her pretty little toes" | Polly
+right: 
+Wrong: Triple Stumper
+James: Who is Ella?
+Value: $1200
+Number: 7
+CITIES WITH HOSPITAL-ITY | In Maryland: National Naval Medical Center | Bethesda
+right: Kate
+Wrong: 
+Eric: What is Annapolis?
+Value: $1200
+Number: 18
+CLOSING THE BOOK | Fitzgerald: "So we beat on, boats against the current, borne back ceaslessly into the past" | The Great Gatsby
+right: Eric
+Wrong: 
+Value: $1200
+Number: 14
+"PP"-POURRI | Garibaldi or Verdi | Giuseppe
+right: Eric
+Wrong: 
+Value: $1200
+Number: 22
+THE MIDDLE AGES | The pope hoped Pepin  & his Franks would protect him against these Germanic people (not the Gables) led by Aistulf | the Lombards
+right: 
+Wrong: Triple Stumper
+Eric: Who are the Clarks?
+Value: $1600
+Number: 29
+WOMEN ATHLETES | She's the American Wimbeldon & U.S. Open champ seen <http://www.j-archive.com/media/2006-03-20_DJ_04.jpg> here | (Lindsay) Davenport
+right: James
+Wrong: 
+Value: $1600
+Number: 4
+NURSERY RHYMES | (<http://www.j-archive.com/media/2006-03-20_DJ_08.jpg> Jimmy of the Clue Crew delivers the shoe clue from Old World Wisconsin.)  A nursery rhyme says, this person, this person, "mend my shoe; get it done by half past two" | cobbler
+right: Kate
+Wrong: 
+Value: $1600
+Number: 8
+CITIES WITH HOSPITAL-ITY | Since 1962: St. Jude's Children's Research Hospital | Memphis
+right: 
+Wrong: Triple Stumper
+James: What is Minneapolis?
+Kate: What is Nashville?
+Value: $1600
+Number: 19
+CLOSING THE BOOK | Steinbeck: "And Carlson said, 'Now what the hell ya suppose is eatin' them two guys?'" | Of Mice and Men
+right: James
+Wrong: 
+Value: DD: $3,000
+Number: 16
+"PP"-POURRI | Slip a dollar bill to this furniture designer whose name is synonymous with the British Rococo style | Chippendale
+right: James
+Wrong: 
+Value: $1600
+Number: 24
+THE MIDDLE AGES | Sir Henry Percy, nicknamed this for his military aggressiveness, of course was slain in battle in 1403 | "Hotspur"
+right: 
+Wrong: 
+Kate: Who was "The Giant"?
+Value: DD: $1,200
+Number: 30
+WOMEN ATHLETES | In 1984 Carl Lewis' 4 Olympic golds in track & field were matched by Romania's Ecaterina Szabo in this sport | gymnastics
+right: Kate
+Wrong: 
+Value: $2000
+Number: 6
+NURSERY RHYMES | "Goosey, goosey, gander" says, "there I met an old man who wouldn't" do this | say his prayers
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 9
+CITIES WITH HOSPITAL-ITY | A part of history: Parkland | Dallas, Texas
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+CLOSING THE BOOK | Ayn Rand: "(Galt) raised his hand and over the desolate earth he traced in space the sign of the dollar" | Atlas Shrugged
+right: Eric
+Wrong: 
+Kate: What is The Fountainhead?
+Value: $2000
+Number: 17
+"PP"-POURRI | It can be a poisonous reddish-brown snake or a Yankee supporter of the South during the Civil War | a copperhead
+right: Kate
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+James: $11,200
+Eric: $4,200
+Kate: $12,000
+
+Final Jeopardy! Round
+THE TECHNOLOGY SECTOR | If you'd invested $84 for 4 shares of this company at its March 13, 1986 IPO, you'd have 1,152 shares & $30,124.80 as of Jan. 1, 2006 | Microsoft
+right: Eric
+Wrong: 
+James: What is IBM?
+Kate: What is Amgen?
+Wagers: 
+Eric: $4,195
+James: $2,599
+Kate: $2,500
+Final scores:
+James: $8,601 (2nd place: $2,000)
+Eric: $8,395 (3rd place: $1,000)
+Kate: $9,500 (New champion: $9,500)
+
+Coryat scores
+James: $9,800 (16 R(including 1 DD),3 W)
+Eric: $4,200 (12 R,5 W)
+Kate: $12,200 (20 R(including 1 DD),7 W(including 1 DD))

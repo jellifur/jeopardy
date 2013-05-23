@@ -1,0 +1,331 @@
+6510 - Friday, December 28, 2012
+Contestants:
+Sandip Amin: a finance manager originally from Madison, Illinois
+Paula Menasche: a high school social studies teacher from Coral Gables, Florida
+Nichole Mancone: a college registrar from Providence, Rhode Island (whose 1-day cash winnings total $21,100)
+First Jeopardy! Round: HOLIDAYS & OBSERVANCES, LETTERS, WE GET LETTERS, SELF-HELP BOOKS, ACTORS & THEIR ROLES, TRANS "PO" TATION, U.S. CITIES
+HOLIDAYS & OBSERVANCES | The week after this holiday is National Egg Salad Week | Easter
+right: Sandip
+Wrong: 
+Value: $200
+Number: 16
+LETTERS, WE GET LETTERS | At the start of a word, this can be silent when it's right before S & it creates an "F" sound when it precedes H | P
+right: Paula
+Wrong: 
+Value: $200
+Number: 21
+SELF-HELP BOOKS | Helping you overcome misery, Penelope Russianoff's self-helper is titled "When Am I Going To Be" this | Happy
+right: Sandip
+Wrong: 
+Value: $200
+Number: 26
+ACTORS & THEIR ROLES | Evelyn Salt & Lara Croft | Angelina Jolie
+right: Paula
+Wrong: 
+Value: $200
+Number: 1
+TRANS "PO" TATION | In the U.K. "panda car" is slang for one of these autos | a police car
+right: Sandip
+Wrong: 
+Value: $200
+Number: 11
+U.S. CITIES | We're livin' on the air in this city, home to the 49-story Carew Tower, on the north bank of the Ohio River | Cincinnati
+right: Nichole
+Wrong: 
+Value: $200
+Number: 7
+HOLIDAYS & OBSERVANCES | In 1954 Congress changed the name of Armistice Day to this | Veterans Day
+right: Sandip
+Wrong: 
+Paula: What is Memorial Day?
+Value: $400
+Number: 17
+LETTERS, WE GET LETTERS | The 11th letter, it's rarely used in languages that developed from Latin | K
+right: Nichole
+Wrong: 
+Sandip: What is H?
+Value: $400
+Number: 22
+SELF-HELP BOOKS | Misquoting Robert Frost didn't stop this M. Scott Peck book from spending years on the bestseller lists | The Road Less Travelled
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+ACTORS & THEIR ROLES | Ichabod Crane & Barnabas Collins | Johnny Depp
+right: Sandip
+Wrong: 
+Value: $400
+Number: 2
+TRANS "PO" TATION | On April 3, 1860 a ride carrying 49 letters & 5 telegrams got this service started | the Pony Express
+right: Sandip
+Wrong: 
+Value: $400
+Number: 12
+U.S. CITIES | This Southern city was the site of the 2012 Republican National Convention | Tampa
+right: Nichole
+Wrong: 
+Value: $400
+Number: 3
+HOLIDAYS & OBSERVANCES | "Sevivon, Sov, Sov, Sov", or "Dreidel, Spin, Spin, Spin", is traditionally sung during this Jewish holiday | Hanukkah
+right: Nichole
+Wrong: 
+Value: $600
+Number: 18
+LETTERS, WE GET LETTERS | A hieroglyph of waves of water is the origin not of W but of this consonant | M
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+SELF-HELP BOOKS | Q: Why is that guy so slow to ask me out? A: This title of a Greg Behrendt-Liz Tuccillo book | He's Just Not That Into You
+right: Nichole
+Wrong: 
+Paula: What are Men Are from Mars, Women Are from Venus?
+Value: $600
+Number: 28
+ACTORS & THEIR ROLES | Galadriel & Katharine Hepburn | Cate Blanchett
+right: Nichole
+Wrong: 
+Value: $600
+Number: 4
+TRANS "PO" TATION | The Solstice & the Torrent were fine rides from this GM brand | Pontiac
+right: Nichole
+Wrong: 
+Value: $600
+Number: 13
+U.S. CITIES | This city's metro area includes Lorain, Lake & Cuyahoga; visit 'em all! | Cleveland
+right: Nichole
+Wrong: 
+Sandip: What is Pittsburgh?
+Value: $600
+Number: 8
+HOLIDAYS & OBSERVANCES | At the beginning of each term, Supreme Court justices work one week, then get Monday off for this | Columbus Day
+right: Nichole
+Wrong: 
+Value: DD: $2,000
+Number: 19
+LETTERS, WE GET LETTERS | At the beginning of a word, this other letter nearly always represents the "Z" sound | X
+right: Nichole
+Wrong: 
+Value: $800
+Number: 24
+SELF-HELP BOOKS | He hit the "Jack" pot cooking up "Chicken Soup for the Soul" & now tells you how to achieve "Maximum Confidence" | Jack Canfield
+right: 
+Wrong: Triple Stumper
+Nichole: Who is Jack Hansen?
+Value: $800
+Number: 29
+ACTORS & THEIR ROLES | Les Grossman & Ethan Hunt | Tom Cruise
+right: Nichole
+Wrong: 
+Value: $800
+Number: 5
+TRANS "PO" TATION | It's the method of overland transport seen <http://www.j-archive.com/media/2012-12-28_J_14.jpg> here | portage
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+U.S. CITIES | The Art Deco-style Union Depot & Phillips Oil "Philcade" suit this city in Oklahoma to a "T" | Tulsa
+right: Paula
+Wrong: 
+Value: $800
+Number: 9
+HOLIDAYS & OBSERVANCES | November 29 is Nellie Tayloe Ross Day in this state where she served as governor | Wyoming
+right: Paula
+Wrong: 
+Value: $1000
+Number: 20
+LETTERS, WE GET LETTERS | The combination of this consonant followed by G makes a "J" sound | D
+right: Nichole
+Wrong: 
+Value: $1000
+Number: 25
+SELF-HELP BOOKS | He's followed up his self-help bestseller "The Power of Now" with "A New Earth" | (Eckhart) Tolle
+right: Nichole
+Wrong: 
+Value: $1000
+Number: 30
+ACTORS & THEIR ROLES | Stephanie Plum & Alison Scott, who got "Knocked Up" | Katherine Heigl
+right: Nichole
+Wrong: 
+Value: $1000
+Number: 6
+TRANS "PO" TATION | In 1952 Ambrose Weeres put a wooden platform on top of steel barrels to create the first of these boats | a pontoon
+right: Nichole
+Wrong: 
+Value: $1000
+Number: 15
+U.S. CITIES | Orange you glad to know this city in Central New York supplied most of the salt needs of the U.S. until 1870 | Syracuse
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Nichole: $5,200
+Paula: $1,000
+Sandip: $400
+Scores at the end of the Jeopardy! Round:
+Nichole: $10,800
+Paula: $1,200
+Sandip: $800
+Second Jeopardy! Round: I LOVE "L.A.", ITALIAN HISTORY, SOUND THE TRUMPET, WHAT DEGREE DID THEY GET?, VAN GOGH, STARRY NIGHT
+I LOVE "L.A." | Literature, history & philosophy are included in this type of modern college curriculum | the Liberal Arts
+right: Sandip
+Wrong: 
+Value: $400
+Number: 7
+SOUND THE TRUMPET | On Aug. 8, 1922 he played a New Orleans jazz funeral & took a train north to become a world-famous trumpeter | Louis Armstrong
+right: Nichole
+Wrong: 
+Value: $400
+Number: 18
+WHAT DEGREE DID THEY GET? | 1929: Columbia delivers Benjamin Spock | a medical degree
+right: Nichole
+Wrong: 
+Value: $400
+Number: 13
+VAN GOGH | In an 1889 letter to his brother, Van Gogh said he hoped to "one day prove that I have not impoverished the family" | Theo
+right: Paula
+Wrong: 
+Value: $400
+Number: 1
+STARRY NIGHT | Alpheratz in the great square of this winged equine actually belongs to the constellation Andromeda | Pegasus
+right: Sandip
+Wrong: 
+Value: $400
+Number: 22
+I LOVE "L.A." | During strenuous exercise, the muscles produce this, C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>; it's also abundant in sour milk | lactic acid
+right: Sandip
+Wrong: 
+Value: $800
+Number: 6
+SOUND THE TRUMPET | In 1981 he & his brother Branford both played in Art Blakey's Jazz Messengers | Wynton Marsalis
+right: Paula
+Wrong: 
+Value: $800
+Number: 19
+WHAT DEGREE DID THEY GET? | 1966, then it was off to Salomon Brothers: Michael Bloomberg | an MBA
+right: Nichole
+Wrong: 
+Sandip: What is finance?
+Value: $800
+Number: 14
+VAN GOGH | Van Gogh's painting of these violet-colored flowers was begun within his first week at the Saint-Remy Asylum | irises
+right: Paula
+Wrong: 
+Value: $800
+Number: 2
+STARRY NIGHT | The closest star to our sun aside from the Alpha Centauri System, Barnard's Star is a red this, 1/5 the size of Sol | a red dwarf
+right: Paula
+Wrong: 
+Value: $800
+Number: 23
+I LOVE "L.A." | The motto of this New York society is "making the case for humanity" | the Legal Aid Society
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+SOUND THE TRUMPET | His albums include "Miles Ahead" & "Star People", which included a tribute to his wife Cicely Tyson | Miles Davis
+right: Nichole
+Wrong: 
+Value: $1200
+Number: 20
+WHAT DEGREE DID THEY GET? | 1986: Elena Kagan gets no argument from Harvard | a J.D.
+right: Nichole
+Wrong: 
+Value: $1200
+Number: 15
+VAN GOGH | (<http://www.j-archive.com/media/2012-12-28_DJ_03.jpg> Kelly of the Clue Crew shows a painting on a monitor.)  Van Gogh's "The Yellow House" depicts the home where he stayed in Arrel; the <http://www.j-archive.com/media/2012-12-28_DJ_03a.jpg> window on the left was Van Gogh's bedroom; the one on the right was the guest room where this artist stayed for 9 weeks in 1888 | Paul Gauguin
+right: 
+Wrong: Triple Stumper
+Nichole: Who is Monet?
+Value: $1200
+Number: 3
+STARRY NIGHT | Other than the Sun, the 1st star surface directly photographed was Betelgeuse, the shoulder of this constellation | Orion
+right: Paula
+Wrong: 
+Value: DD: $1,000
+Number: 24
+I LOVE "L.A." | The gibbon is this type of primate | a lesser ape
+right: Paula
+Wrong: 
+Value: $1600
+Number: 11
+ITALIAN HISTORY | The Etruscans' territory extended roughly south to this river, where the hero Horatius stopped them at the bridge | the Tiber
+right: 
+Wrong: 
+Sandip: What is the Rubicon?
+Value: DD: $3,600
+Number: 9
+SOUND THE TRUMPET | This bebop pioneer was famous for his angled trumpet, which was bent upward, & his puffy cheeks when he played it | Dizzy Gillespie
+right: Sandip
+Wrong: 
+Value: $1600
+Number: 21
+WHAT DEGREE DID THEY GET? | 1935: The first college degree of James Van Allen of "belt" fame | Bachelor of Sciences
+right: 
+Wrong: Triple Stumper
+Sandip: What is astronomy?
+Value: $1600
+Number: 16
+VAN GOGH | This plant on the table in "Portrait of Dr. Gachet" might indicate Van Gogh was being treated with digitalis | foxglove
+right: Sandip
+Wrong: 
+Value: $1600
+Number: 4
+STARRY NIGHT | Meaning "changing", it's a type of star whose brightness changes; it's also a word for an unknown in math | a variable
+right: Nichole
+Wrong: 
+Value: $1600
+Number: 25
+I LOVE "L.A." | You might need this service in the emergency heard <http://www.j-archive.com/media/2012-12-28_DJ_12.mp3> here  "I've fallen and I can't get up!" | Life Alert
+right: Paula
+Wrong: 
+Value: $2000
+Number: 12
+ITALIAN HISTORY | This city-state & republic on the Ligurian Sea lasted from the 11th century until 1797 | Genoa
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+SOUND THE TRUMPET | In 1964 this legendary New Orleans trumpet player reached the Top 10 with "Java" | Al Hirt
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+WHAT DEGREE DID THEY GET? | 1994: Billy Crudup's artistry is recognized | an MFA (Master of Fine Arts)
+right: Nichole
+Wrong: 
+Value: $2000
+Number: 17
+VAN GOGH | Van Gogh wrote that this 1885 painting of 5 peasants having dinner "is the best of all my work" | The Potato Eaters
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+STARRY NIGHT | Deneb, from Arabic for "tail", is one of the brightest stars in the sky & is located at the tail of this bird | Cygnus the Swan
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Nichole: $17,200
+Paula: $8,600
+Sandip: -$400
+
+Final Jeopardy! Round
+AMERICAN AUTHORS | In 1886 he wrote, "My books are water; those of the great geniuses is wine.  Everybody drinks water" | Mark Twain
+right: Paula
+Wrong: 
+Nichole: Who is Thoreau
+Wagers: 
+Paula: $8,600
+Nichole: $5,000
+Final scores:
+Nichole: $12,200 (2nd place: $2,000)
+Paula: $17,200 (New champion: $17,200)
+Sandip: -$400 (3rd place: $1,000)
+
+Coryat scores
+Nichole: $16,000 (22 R(including 1 DD),2 W)
+Paula: $8,800 (11 R(including 1 DD),2 W)
+Sandip: $3,200 (11 R,5 W(including 1 DD))

@@ -1,0 +1,339 @@
+3626 - Monday, May 15, 2000
+Comments: 2000 Tournament of Champions semifinal game 1.  From the Atlanta Civic Center.
+Contestants:
+Robin Carroll: a research assistant from Marietta, Georgia
+Mike Blumenfeld: a network administrator from Minneapolis, Minnesota
+Terry Currin: a systems analyst and pharmacist from White Lake, Michigan
+First Jeopardy! Round: EUROPEAN HISTORY, GOLFERS, GONE FISSION, AIRLINE TRAVEL, YOU-PHEMISMS, KUDZU CUISINE
+EUROPEAN HISTORY | Thousands of these Protestants were killed by pro-Catholic forces in the Massacre of Saint Bartholomew's Day | Huguenots
+right: Robin
+Wrong: 
+Value: $100
+Number: 6
+GOLFERS | Bobby Jones' Grand Slam didn't include this Augusta, Georgia tournament he later co-founded | The Masters
+right: Terry
+Wrong: 
+Value: $100
+Number: 1
+GONE FISSION | The energy released during fission can be calculated using this famous calculation | E=MC2 (squared)
+right: Robin
+Wrong: 
+Value: $100
+Number: 26
+AIRLINE TRAVEL | The head of a union of these workers calls them the only mainly female transportation work force | Flight attendants
+right: Robin
+Wrong: 
+Value: $100
+Number: 11
+YOU-PHEMISMS | 2-letter word that means "you" in Julius Caesar's dying words | Tu
+right: Robin
+Wrong: 
+Value: $100
+Number: 12
+KUDZU CUISINE | In Japan, a type of this curd normally made with soy beans is made with kudzu | Tofu
+right: Mike
+Wrong: 
+Value: $100
+Number: 25
+EUROPEAN HISTORY | In 1709 Sweden was defeated by this Russian czar in the Battle of Poltava, losing its dominance in the Baltic area | Peter the Great
+right: Robin
+Wrong: 
+Value: $200
+Number: 7
+GOLFERS | In 1999 Justin Leonard's putt capped the dramatic U.S. comeback to help win this trophy | Ryder Cup
+right: Terry
+Wrong: 
+Value: $200
+Number: 2
+GONE FISSION | In 1938 2 Germans bombarded this element, No. 92, with neutrons, but didn't realize they'd induced a fission reaction | Uranium
+right: Mike
+Wrong: 
+Value: $200
+Number: 27
+AIRLINE TRAVEL | By federal regulation, you have to be told that federal law bars "tampering with, disabling, or destroying" this | Smoke detector
+right: Robin
+Wrong: 
+Value: $200
+Number: 17
+YOU-PHEMISMS | "You" is defined as the pronoun of this "person", singular or plural | Second person
+right: Mike
+Wrong: 
+Value: $200
+Number: 13
+KUDZU CUISINE | Like ginseng, kudzu finds its way into medicinal & herbal varieties of this beverage | Tea
+right: Robin
+Wrong: 
+Value: $200
+Number: 24
+EUROPEAN HISTORY | In 1996 Emil Constantinescu defeated Ion Iliescu in a runoff election for president of this country | Romania
+right: Robin
+Wrong: 
+Value: $300
+Number: 8
+GOLFERS | Seen here, he learned his game working as a greenskeeper in Texas | Lee Trevino
+right: Terry
+Wrong: 
+Value: $300
+Number: 3
+GONE FISSION | In 1942 this Italian-born physicist & his team produced the first controlled self-sustaining fission reaction | Enrico Fermi
+right: Robin
+Wrong: 
+Value: $300
+Number: 28
+AIRLINE TRAVEL | This airline term for "to get off an aircraft" sounds like Tattoo's line on "Fantasy Island" | Deplane
+right: Mike
+Wrong: 
+Value: $300
+Number: 18
+YOU-PHEMISMS | A little-used plural of "thou", it comes before "of little faith" | Ye
+right: Terry
+Wrong: 
+Value: $300
+Number: 14
+KUDZU CUISINE | Kudzu leaves can be dipped in a light batter & cooked this way until crispy like a potato chip | Deep-fried
+right: Robin
+Wrong: 
+Value: $300
+Number: 23
+EUROPEAN HISTORY | In 1905 journalist Arthur Griffith founded this political party, urging the Irish to not pay taxes to the British | Sinn Fein
+right: Robin
+Wrong: 
+Value: $400
+Number: 9
+GOLFERS | Now married to Ray Knight, she joined the LPGA Hall of Fame in 1987, the year she turned 30 | Nancy Lopez
+right: Mike
+Wrong: 
+Value: $400
+Number: 4
+GONE FISSION | It was named for a district of the U.S. Army Corps of Engineers, first assigned because early work was done at Columbia | The Manhattan Project
+right: 
+Wrong: 
+Value: DD: $1,800
+Number: 29
+AIRLINE TRAVEL | The "type II" version of the fluid for this winter process is good for about 30 minutes | Deicing
+right: Robin
+Wrong: 
+Value: $400
+Number: 19
+YOU-PHEMISMS | This Brooklynese plural of "you" is a homophone of a word meaning "multiple female sheep" | Youze
+right: Terry
+Wrong: 
+Value: $400
+Number: 15
+KUDZU CUISINE | This purplish part of the kudzu plant can be turned into a jelly | Flower
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+EUROPEAN HISTORY | In 1928 this finance minister grabbed power & began his 40-year rule as dictator of Portugal | Antonio Salazar
+right: Mike
+Wrong: 
+Value: $500
+Number: 10
+GOLFERS | In 2000 Tiger Woods' winning streak brought new attention to this man's record 11 straight wins in 1945 | Byron Nelson
+right: Mike
+Wrong: 
+Value: $500
+Number: 5
+GONE FISSION | The director of the Los Alamos lab, he owned a cabin near Santa Fe called "Perro Caliente" ("Hot Dog") | J. Robert Oppenheimer
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+AIRLINE TRAVEL | This cable outfit's airport network is now seen at over 1,500 gate areas in the U.S. | CNN (Cable News Network)
+right: Robin
+Wrong: 
+Value: $500
+Number: 20
+YOU-PHEMISMS | This Southern plural of "you" is a homophone of a word meaning "a two-masted sailing vessel" | Y'all
+right: Terry
+Wrong: 
+Value: $500
+Number: 16
+KUDZU CUISINE | A powder made from this part of the plant is used as a starchy thickener for soups | Roots
+right: Robin
+Wrong: 
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Terry: $1,800
+Mike: $1,600
+Robin: $1,200
+Scores at the end of the Jeopardy! Round:
+Terry: $1,800
+Mike: $1,800
+Robin: $1,400
+Second Jeopardy! Round: A PLAGUE ON YOU!, IT'S TIME FOR TIME, "BLACK" & "WHITE" FILMS, STATE MOTTOES, AMERICAN AUTHORS, WORDPLAY
+A PLAGUE ON YOU! | The 14th century "Black Death" that swept Europe was this type of plague, from the Greek for "groin" | Bubonic
+right: Robin
+Wrong: 
+Value: $200
+Number: 16
+IT'S TIME FOR TIME | This ancient time-measuring device must be designed for its specific location on Earth | Sundial
+right: Terry
+Wrong: 
+Value: $200
+Number: 21
+"BLACK" & "WHITE" FILMS | Woody Harrelson hustled basketball games while Rosie Perez won big on "Jeopardy!" in this comedy | White Men Can't Jump
+right: Robin
+Wrong: 
+Value: $200
+Number: 6
+STATE MOTTOES | "Sic Semper Tyrannis" | Virginia
+right: Robin
+Wrong: 
+Value: $200
+Number: 30
+AMERICAN AUTHORS | In the 1930s she wrote biographies of her father & mother, who were Presbyterian missionaries to China | Pearl S. Buck
+right: Terry
+Wrong: 
+Value: $200
+Number: 1
+WORDPLAY | Paronomasia, from the Greek for "A play on words", is the rhetorical term for this 3-letter word | Pun
+right: Robin
+Wrong: 
+Value: $200
+Number: 11
+A PLAGUE ON YOU! | The first of these was the Nile turning to blood | 10 plagues of Egypt
+right: Robin
+Wrong: 
+Value: $400
+Number: 17
+IT'S TIME FOR TIME | Of dog days, halcyon days or salad days, the one that's the most weather-related | Dog days
+right: Robin
+Wrong: 
+Value: $400
+Number: 22
+"BLACK" & "WHITE" FILMS | It's the "monster" hit seen here: [video clue] | The Creature From The Black Lagoon
+right: Mike
+Wrong: 
+Value: $400
+Number: 7
+STATE MOTTOES | "If You Seek A Pleasant Peninsula, Look About You" | Michigan
+right: Terry
+Wrong: 
+Value: $400
+Number: 29
+AMERICAN AUTHORS | In his 1841 essay "Self-Reliance", he wrote, "Nothing is at last sacred but the integrity of your own mind" | Ralph Waldo Emerson
+right: Robin
+Wrong: 
+Value: $400
+Number: 2
+WORDPLAY | An example of antanaclasis is Ben Franklin's "We must all hang together, or....we shall all" do this | Hang separately
+right: Terry
+Wrong: 
+Value: $400
+Number: 12
+A PLAGUE ON YOU! | This physician & seer of the "centuries" treated plague victims in 16th century France | Nostradamus
+right: Terry
+Wrong: 
+Value: $600
+Number: 18
+IT'S TIME FOR TIME | You don't have to check your watch, you know it's this time if you see mad dogs & Englishmen | Midday
+right: Terry
+Wrong: 
+Value: $600
+Number: 23
+"BLACK" & "WHITE" FILMS | A terrorist group plots to blow up the Super Bowl in this 1977 flick | Black Sunday
+right: Robin
+Wrong: 
+Value: $600
+Number: 8
+STATE MOTTOES | "Excelsior" | New York
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 26
+AMERICAN AUTHORS | His 2 middle names were Scott & Key | F. Scott Fitzgerald
+right: Robin
+Wrong: 
+Value: $600
+Number: 3
+WORDPLAY | A correct response on  seeing  these initial characters | Acrostic
+right: Mike
+Wrong: 
+Value: $600
+Number: 13
+A PLAGUE ON YOU! | He published "The Plague" in 1947 | Albert Camus
+right: Robin
+Wrong: 
+Value: $800
+Number: 19
+IT'S TIME FOR TIME | Brazil is celebrating its qunicentennial, this many years since its discovery by the Portuguese | 500
+right: Mike
+Wrong: 
+Value: $800
+Number: 24
+"BLACK" & "WHITE" FILMS | Jennifer Jason Leigh played the roommate from hell in this 1992 thriller | Single White Female
+right: Robin
+Wrong: 
+Value: $800
+Number: 9
+STATE MOTTOES | "Crossroads of America" | Indiana
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+AMERICAN AUTHORS | From 1944 to 1946 he served as a naval historian in the south Pacific | James Michener
+right: Robin
+Wrong: 
+Value: DD: $2,400
+Number: 4
+WORDPLAY | Character who gave his name to lines like, " 'The prisoner's coming down,' he said condescendingly" | Tom Swift
+right: Robin
+Wrong: 
+Value: $800
+Number: 14
+A PLAGUE ON YOU! | In his diary, Samuel Pepys recounted the "Great Plague" sweeping through London in this decade | 1660s
+right: Robin
+Wrong: 
+Value: $1000
+Number: 20
+IT'S TIME FOR TIME | From the Latin for "grape-gathering", it's the time for gathering grapes for wine | Vintage
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+"BLACK" & "WHITE" FILMS | Cops Michael Douglas & Andy Garcia tangle with the Japanese mafia in this 1989 film | Black Rain
+right: Mike
+Wrong: 
+Value: $1000
+Number: 10
+STATE MOTTOES | "Equal Rights" | Wyoming
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 28
+AMERICAN AUTHORS | This author & his loose lifestyle were the subject of Tom Wolfe's "The Electric Kool-Aid Acid Test" | Ken Kesey
+right: Robin
+Wrong: 
+Value: $1000
+Number: 5
+WORDPLAY | A contronym can mean 2 opposite things, like this word meaning "to adhere" & "to divide" | Cleave
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Terry: $3,400
+Mike: $1,400
+Robin: $9,200
+
+Final Jeopardy! Round
+19th CENTURY PERSONALITIES | Known to many as The Colossus, this man was elected to the Cape Colony Assembly in 1881 | Cecil Rhodes
+right: Terry | Robin
+Wrong: 
+Mike: Who is Joe Kennedy?
+Wagers: 
+Mike: $22
+Terry: $600
+Robin: $800
+Final scores:
+Terry: $4,000 (2nd place: $5,000)
+Mike: $1,378 (3rd place: $5,000)
+Robin: $10,000 (Finalist)
+
+Coryat scores
+Terry: $3,400 (12 R,1 W)
+Mike: $3,400 (11 R,4 W(including 1 DD))
+Robin: $9,400 (29 R(including 1 DD),6 W(including 1 DD))

@@ -1,0 +1,337 @@
+4638 - Thursday, November 4, 2004
+Comments: Ken Jennings game 66.
+Contestants:
+Jennifer Knapp: a documentation manager from Norfolk, Virginia
+Jerry Taggart: a billing administrator from Holiday, Florida
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 65-day cash winnings total $2,197,000)
+First Jeopardy! Round: GUNSMOKE, LEAVE IT TO BEAVER, YOU BET YOUR "LIFE", WHAT'S MY LINE, FATHER KNOWS BEST, '50s TV
+GUNSMOKE | Horace Smith produced the first cartridge revolver pistol with this business partner | Wesson
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 23
+LEAVE IT TO BEAVER | Reportedly, the largest of these beaver constructions was over 2,000 feet long & 12 feet high | a dam
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+YOU BET YOUR "LIFE" | A beach of pool attendant trained in rescue techniques | a lifeguard
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+WHAT'S MY LINE | "I will honor Christmas in my heart, and try to keep it all the year" | (Ebenezer) Scrooge
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+FATHER KNOWS BEST | In 1894 Nicholas II succeeded his father, Alexander III, as the ruler of this country | Russia
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+'50s TV | In 1953 Edward R. Murrow gave a TV tour of this network's new West Coast facility, Television City | CBS
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+GUNSMOKE | At noon on July 4, U.S. Army posts fire a salute of this many guns | 50
+right: Jennifer
+Wrong: 
+Jerry: What is 21 guns?
+Value: $400
+Number: 24
+LEAVE IT TO BEAVER | It should gnaw at you that beavers are members of this largest order of mammals | rodents
+right: Jerry
+Wrong: 
+Value: $400
+Number: 22
+YOU BET YOUR "LIFE" | This TV cable network for women celebrated its 20th anniversary in 2004 | Lifetime
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+WHAT'S MY LINE | "I want to be a lady in a flower shop stead of sellin at the corner of Tottenham Court Road" | Eliza Doolittle
+right: Jerry
+Wrong: 
+Value: $400
+Number: 2
+FATHER KNOWS BEST | During this Jewish ceremony, a father thanks God for being freed of legal responsibility for his son's actions | a bar mitzvah
+right: Jerry
+Wrong: 
+Value: $400
+Number: 17
+'50s TV | A building here at Sony Pictures Studios is named for this actor, Jim Anderson on "Father Knows Best" | Robert Young
+right: Jerry
+Wrong: 
+Value: $400
+Number: 12
+GUNSMOKE | The pistol used to kill this man is displayed by the Buffalo & Erie County Historical Society | William McKinley
+right: Ken
+Wrong: 
+Value: $600
+Number: 25
+LEAVE IT TO BEAVER | In April 1999 several beavers were captured after munching on this city's prized cherry trees | Washington, D.C.
+right: Ken
+Wrong: 
+Value: $600
+Number: 26
+YOU BET YOUR "LIFE" | It's paid to your beneficiaries after your death | life insurance
+right: Jerry
+Wrong: 
+Value: $600
+Number: 8
+WHAT'S MY LINE | "Chief among these motives was the overwhelming idea of the great whale himself" | Ishmael
+right: Ken
+Wrong: 
+Jerry: ...Oh!
+Value: $600
+Number: 3
+FATHER KNOWS BEST | The Encarta Dictionary defines this as "one of the members of the convention that drafted the U.S. Constitution" | a Founding Father
+right: Jerry
+Wrong: 
+Value: $600
+Number: 18
+'50s TV | During the 1955-56 season, its episodes included "Alice and the Blonde" & "Bensonhurst Bomber" | The Honeymooners
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+GUNSMOKE | This U.S. state's official seal shows a man holding a gun & standing on a peninsula | Michigan
+right: 
+Wrong: Triple Stumper
+Jerry: What is Kentucky?
+Jennifer: What is Massachusetts?
+Value: $800
+Number: 29
+LEAVE IT TO BEAVER | This country put a beaver on its coat of arms & on its 5-cent piece | Canada
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+YOU BET YOUR "LIFE" | One-word term for your manner of living | your lifestyle
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+WHAT'S MY LINE | "How all occasions do inform against me and spur my dull revenge!" | Hamlet
+right: Jerry
+Wrong: 
+Value: $800
+Number: 4
+FATHER KNOWS BEST | The anthem of this country between France & Spain begins, "The great Charlemagne, my father" | Andorra
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+'50s TV | In 1950 this comedian brought his radio program to TV along with Rochester & announcer Don Wilson | Jack Benny
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+GUNSMOKE | In 1974 this man told the U.N. General Assembly he bore "an olive branch and a freedom fighter's gun" | Yasser Arafat
+right: 
+Wrong: Triple Stumper
+Ken: Who is Castro?
+Value: $1000
+Number: 30
+LEAVE IT TO BEAVER | Like baby foxes, the offspring of beavers are known by this term | kits
+right: Ken
+Wrong: 
+Value: $1000
+Number: 28
+YOU BET YOUR "LIFE" | A plaster cast made of a person's face | a life mask
+right: Ken
+Wrong: 
+Jerry: What is a life mold?
+Value: $1000
+Number: 10
+WHAT'S MY LINE | "When you have eliminated the impossible, whatever remains, however improbable, must be the truth" | Sherlock Holmes
+right: Jerry
+Wrong: 
+Value: DD: $1,000
+Number: 5
+FATHER KNOWS BEST | Soren Kierkegaard is considered "the father of" this philosophical movement | existentialism
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+'50s TV | A few years before playing John Robinson in "Lost in Space", Guy Williams played this swashbuckler | Zorro
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $5,800
+Jerry: $1,600
+Jennifer: $0
+Scores at the end of the Jeopardy! Round:
+Ken: $10,000
+Jerry: $1,800
+Jennifer: -$200
+Second Jeopardy! Round: KNIGHTS & KNIGHTHOOD, TOP OF THE CHARTS, MA!, "I" LADS, COUNTRY MATTERS, BIBLICAL NAME'S THE SAME, 5-LETTER WORDS
+KNIGHTS & KNIGHTHOOD | A well-equipped knight had several of these, including a palfrey for travel & a fast courser for battle | a horse
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+TOP OF THE CHARTS, MA! | This singer of the No. 1 hit "Let's Get It On" was inducted into the Rock & Roll Hall of Fame in 1987 | Marvin Gaye
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+"I" LADS | It was the name of 13 popes & one antipope | Innocent
+right: Ken
+Wrong: 
+Jerry: What is Ignatius?
+Value: $400
+Number: 13
+COUNTRY MATTERS | On April 25, 1898 the U.S. declared war on this country | Spain
+right: Ken
+Wrong: 
+Value: $400
+Number: 19
+BIBLICAL NAME'S THE SAME | West, Smith, Sandler | Adam
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+5-LETTER WORDS | Samuel Johnson defined it as "the unctuous or oily part of milk" | cream
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+TOP OF THE CHARTS, MA! | A No. 1 song says, "Did you ever know that you're my hero... I can fly higher than an eagle, for you are" this | "The Wind Beneath My Wings"
+right: Ken
+Wrong: 
+Value: $800
+Number: 18
+"I" LADS | Popular "Peer Gynt" playwright | Ibsen
+right: Jerry
+Wrong: 
+Value: $800
+Number: 14
+COUNTRY MATTERS | Formed by the Nan, Ping, Wang & Yom, the Chao Phraya is this country's main river | Thailand
+right: Jerry
+Wrong: 
+Value: $800
+Number: 20
+BIBLICAL NAME'S THE SAME | Prudhomme, Gauguin, Klee | Paul
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+5-LETTER WORDS | You give a "wide" one to something you're afraid of, or to a fat man in a sleeping car | berth
+right: Jerry
+Wrong: 
+Value: $800
+Number: 8
+TOP OF THE CHARTS, MA! | Soloists on this 1985 song include Lionel Richie, Stevie Wonder, Willie Nelson, Bob Dylan & Cyndi Lauper | "We Are The World"
+right: Jerry
+Wrong: 
+Value: $1200
+Number: 24
+"I" LADS | Born in Romania in 1912, this absurdist playwright died in 1994 | Ionesco
+right: Ken
+Wrong: 
+Value: $1200
+Number: 15
+COUNTRY MATTERS | This African nation is made up of one big island & several smaller ones including Sainte Marie | Madagascar
+right: Ken
+Wrong: 
+Value: $1200
+Number: 21
+BIBLICAL NAME'S THE SAME | Stewart, Graham, Grimes | Martha
+right: Ken | Jerry
+Wrong: 
+Value: $1200
+Number: 4
+5-LETTER WORDS | It means in a particular area; put a hyphen in the middle & it helps you lose weight | local
+right: Ken
+Wrong: 
+Value: DD: $7,800
+Number: 10
+KNIGHTS & KNIGHTHOOD | From the French col, meaning "neck", it was a tap on the shoulder during the knighthood ceremony | an accolade
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+TOP OF THE CHARTS, MA! | In a No. 1 R&B hit this group wondered, "Say, do you remember... dancing in September" | Earth, Wind & Fire
+right: Jerry
+Wrong: 
+Value: $1600
+Number: 25
+"I" LADS | His pen names included Launcelot Wagstaffe, Geoffrey Crayon & Diedrich Knickerbocker | Washington Irving
+right: Ken
+Wrong: 
+Value: $1600
+Number: 16
+COUNTRY MATTERS | When the War of the Pacific ended in 1884, this now landlocked country lost its only coastal territory to Chile | Bolivia
+right: Ken
+Wrong: 
+Value: DD: $7,800
+Number: 22
+BIBLICAL NAME'S THE SAME | Baker, LeBon, Wiesenthal | Simon
+right: Ken
+Wrong: 
+Value: $1600
+Number: 5
+5-LETTER WORDS | Because a false one is used as a disguise, it came to mean someone who's a decoy to divert suspicion | beard
+right: Ken
+Wrong: 
+Value: $1600
+Number: 11
+KNIGHTS & KNIGHTHOOD | The last grand master of the Knights Templar, he was burned as a heretic by Philip IV in March 1314 | Jacques de Molay
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+TOP OF THE CHARTS, MA! | This Eagles song promises, "Somebody's gonna hurt someone before the night is through" | "Heartache Tonight"
+right: 
+Wrong: Triple Stumper
+Ken: What is... "One Of These Nights"?
+Value: $2000
+Number: 26
+"I" LADS | In his teens this Neoclassical French artist joined the studio of Jacques-Louis David | Ingres
+right: Jerry
+Wrong: 
+Value: $2000
+Number: 17
+COUNTRY MATTERS | Less than 12,000 square miles, this country is completely surrounded by South Africa | Lesotho
+right: Ken
+Wrong: 
+Value: $2000
+Number: 23
+BIBLICAL NAME'S THE SAME | Meeker, Cornell, Pound | Ezra
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+5-LETTER WORDS | A hidden provision in a deal, or an attractive marital partner | catch
+right: 
+Wrong: Triple Stumper
+Jennifer: What's a spouse?
+Value: $2000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Ken: $40,000
+Jerry: $9,800
+Jennifer: -$2,200
+
+Final Jeopardy! Round
+U.S. TRAVEL AND TOURISM | Souvenirs sold at this attraction include 1962 World's Fair glassware & mugs boasting "I made it to the top" | the Space Needle
+right: Ken
+Wrong: 
+Jerry: What is the ?
+Wagers: 
+Jerry: $9,799
+Ken: $10,000
+Final scores:
+Ken: $50,000 (66-day champion: $2,247,000)
+Jerry: $1 (2nd place: $2,000)
+Jennifer: -$2,200 (3rd place: $1,000)
+
+Coryat scores
+Ken: $27,200 (36 R(including 2 DDs),2 W)
+Jerry: $9,800 (15 R(including 1 DD),5 W)
+Jennifer: -$2,200 (2 R,2 W)

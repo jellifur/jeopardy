@@ -1,0 +1,315 @@
+4306 - Monday, April 28, 2003
+Comments: 2003 Celebrity <i>Jeopardy!</i> game 1.
+Contestants:
+Paige Davis: a host and actress from Trading Spaces
+Hal Sparks: a comedian and actor from Queer as Folk
+Julie Bowen: an actress from Ed
+First Jeopardy! Round: EDS, YOU SHOULD KNOW THIS STUFF, GEORGIAN ON MY MIND, SCIENCE, TRADING SPACES, HAVE A CONTINENTAL BREAKFAST
+EDS | Shooting down 22 planes in 1918, Eddie Rickenbacker was the USA's No. 1 flying ace in this war | World War I
+right: Hal
+Wrong: 
+Value: $200
+Number: 17
+YOU SHOULD KNOW THIS STUFF | The Lord's Prayer says, "And lead us not into temptation, but deliver us from" this | evil
+right: Julie
+Wrong: 
+Value: $200
+Number: 4
+GEORGIAN ON MY MIND | This "Pretty Woman" was born in Smyrna, Georgia on Oct. 28, 1967 | Julia Roberts
+right: Paige
+Wrong: 
+Value: $200
+Number: 1
+SCIENCE | These electromagnetic rays used to take pictures of your insides were originally known as Roentgen rays | X-rays
+right: Hal
+Wrong: 
+Value: $200
+Number: 9
+TRADING SPACES | 4-letter synonym for "trade"; the Rose Bowl has a meet where it's done | swap
+right: Julie
+Wrong: 
+Value: $200
+Number: 2
+HAVE A CONTINENTAL BREAKFAST | G'Day Mate!  Room service hopped in with kangaroo-tail soup, your breakfast from this continent | Australia
+right: Hal
+Wrong: 
+Value: $200
+Number: 24
+EDS | He hosted a phenomenally successful prime-time variety show for 24 years | Ed Sullivan
+right: Hal
+Wrong: 
+Value: $400
+Number: 18
+YOU SHOULD KNOW THIS STUFF | In the '30s she starred in "The Little Princess", "The Little Colonel" & "Little Miss Marker" | Shirley Temple
+right: Paige
+Wrong: 
+Value: $400
+Number: 5
+GEORGIAN ON MY MIND | Dinah Shore, Sally Field & Loni Anderson were longtime loves of this hunk from Waycross | Burt Reynolds
+right: Julie
+Wrong: 
+Value: $400
+Number: 22
+SCIENCE | This German-born American physicist won the 1921 Nobel Prize for Physics | Albert Einstein
+right: Hal
+Wrong: 
+Value: $400
+Number: 10
+TRADING SPACES | This Illinois city's Board of Trade deals in futures, so less than 5% of what's traded there gets delivered | Chicago
+right: Hal
+Wrong: 
+Value: $400
+Number: 3
+EDS | He earned an Oscar nomination for his supporting role in "The Hours" | Ed Harris
+right: Julie
+Wrong: 
+Value: $600
+Number: 19
+YOU SHOULD KNOW THIS STUFF | Bird similes include "Spry as a spring chicken" & "Proud as" one of these | peacock
+right: Hal
+Wrong: 
+Value: $600
+Number: 6
+GEORGIAN ON MY MIND | This fiery actress from Conyers starred in "Miss Firecracker", "Raising Arizona" & "Broadcast News" | Holly Hunter
+right: Paige
+Wrong: 
+Value: $600
+Number: 23
+SCIENCE | When combined with oxygen, this lightest chemical element makes water | hydrogen
+right: Hal
+Wrong: 
+Value: DD: $600
+Number: 11
+TRADING SPACES | Dealers seal transactions with a handshake in the 47th Street "district" for these gems | diamonds
+right: Hal
+Wrong: 
+Value: $600
+Number: 12
+EDS | In order to marry a twice-divorced American woman, King Edward VIII of this country abdicated the throne in 1936 | England
+right: Julie
+Wrong: 
+Value: $800
+Number: 20
+YOU SHOULD KNOW THIS STUFF | If a Maori showed you a tiki, you'd be looking at one of these | statue
+right: Julie
+Wrong: 
+Value: $800
+Number: 7
+GEORGIAN ON MY MIND | Born in Athens, Georgia, she starred in "9 1/2 Weeks" & played Eminem's mom in "8 Mile" | Kim Basinger
+right: Hal
+Wrong: 
+Value: $800
+Number: 25
+SCIENCE | Also a term for someone from Warsaw, it's one of the 2 strongest points in a magnetic field | Pole
+right: Julie
+Wrong: 
+Value: $800
+Number: 13
+TRADING SPACES | Muriel Siebert was the first woman to hold a seat on this Wall Street body founded in 1792 | the New York Stock Exchange
+right: Julie
+Wrong: 
+Value: $800
+Number: 14
+EDS | In 1994 Johnny Depp played this wacky director of such classic films as "Plan 9 from Outer Space" & "Necromania" | Ed Wood
+right: Hal
+Wrong: 
+Value: $1000
+Number: 21
+YOU SHOULD KNOW THIS STUFF | Non-potent potable for which your first set of teeth is named | milk teeth
+right: 
+Wrong: Triple Stumper
+Julie: What is...a tease?
+Hal: What is a baby?
+Value: $1000
+Number: 8
+SCIENCE | The symbol of this radioactive element is Pu & it sounds like it's named after Mickey Mouse's dog | plutonium
+right: Paige
+Wrong: 
+Value: $1000
+Number: 16
+TRADING SPACES | You must take tea before bargaining for a rug at Istanbul's "Grand" one of these trading spaces | bazaar
+right: 
+Wrong: Triple Stumper
+Hal: What is a market?
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Julie: $200
+Hal: $1,200
+Paige: $600
+Scores at the end of the Jeopardy! Round:
+Julie: $3,600
+Hal: $3,400
+Paige: $2,200
+Second Jeopardy! Round: BOOKS & AUTHORS, OSCAR NIGHT 2003, ART & ARTISTS, FIRST NAME'S THE SAME, STATE: THE OBVIOUS, OH MY GOD!  YOU'VE GOT 3 "I"s
+BOOKS & AUTHORS | Margaret Mitchell began this book, "Scarlett O'Hara was not beautiful, but men seldom realized it..." | "Gone with the Wind"
+right: Paige
+Wrong: 
+Value: $400
+Number: 18
+OSCAR NIGHT 2003 | With 6 Academy Awards total, this adapted musical was the big winner on Oscar Night 2003 | Chicago
+right: Julie
+Wrong: 
+Value: $400
+Number: 11
+ART & ARTISTS | Upon completing the ceiling of the Sistine Chapel in 1512, he wrote to his father, "The pope is well satisfied" | Michelangelo
+right: Paige
+Wrong: 
+Value: $400
+Number: 6
+FIRST NAME'S THE SAME | Giuliani, Valentino, the Red-Nosed Reindeer | Rudolph
+right: Julie
+Wrong: 
+Value: $400
+Number: 1
+STATE: THE OBVIOUS | At last count, this state had about 2 1/2 times as many cars as Texas or New York | California
+right: Hal
+Wrong: 
+Value: $400
+Number: 14
+OH MY GOD!  YOU'VE GOT 3 "I"s | After the taping, what say we cool off with a frozen banana one of these | daiquiri
+right: Hal
+Wrong: 
+Value: $400
+Number: 19
+BOOKS & AUTHORS | In 1990 he reissued "The Stand" with nearly 500 more pages than the original | Stephen King
+right: Paige
+Wrong: 
+Value: $800
+Number: 27
+OSCAR NIGHT 2003 | This Best Actress Winner said that Russell Crowe told her not to cry...but she did anyway | Nicole Kidman
+right: Julie
+Wrong: 
+Value: $800
+Number: 12
+ART & ARTISTS | This pop artist's studio was known as "The Factory" | Andy Warhol
+right: Paige
+Wrong: 
+Value: $800
+Number: 7
+FIRST NAME'S THE SAME | Ashcroft, Belushi, Barleycorn | John
+right: Hal
+Wrong: 
+Value: $800
+Number: 2
+STATE: THE OBVIOUS | Florida's in the southeast corner of the 48 contiguous states; this state is in the northwest corner | Washington
+right: Julie
+Wrong: 
+Value: $800
+Number: 15
+OH MY GOD!  YOU'VE GOT 3 "I"s | Type of doctor who's most likely to give a patient a lollipop | pediatrician
+right: Paige
+Wrong: 
+Value: $800
+Number: 23
+BOOKS & AUTHORS | President Reagan called this man's first novel "The Hunt for Red October" the "perfect yarn" | Tom Clancy
+right: Hal
+Wrong: 
+Value: $1200
+Number: 28
+OSCAR NIGHT 2003 | Seen here, the Chub Chubs won the Oscar in this category | Animated Short
+right: Paige
+Wrong: 
+Value: $1200
+Number: 13
+ART & ARTISTS | In 1963 this "Christina's World" artist became the first painter to receive the Presidential Medal of Freedom | Andrew Wyeth
+right: Julie
+Wrong: 
+Value: $1200
+Number: 8
+FIRST NAME'S THE SAME | Lewis, Tarkanian, Springer | Jerry
+right: Hal
+Wrong: 
+Value: $1200
+Number: 3
+STATE: THE OBVIOUS | The Mississippi River begins at Lake Itasca in this "M" state (not Mississippi) | Minnesota
+right: 
+Wrong: Triple Stumper
+Paige: What is Missouri?
+Value: $1200
+Number: 20
+OH MY GOD!  YOU'VE GOT 3 "I"s | (Sofia of the Clue Crew in Oahu, Hawaii)  I'm overlooking this Oahu beach that attracts about 65,000 visitors a day | Waikiki
+right: Hal
+Wrong: 
+Value: $1200
+Number: 24
+BOOKS & AUTHORS | This 1939 Steinbeck classic featured a lot of Joads including Ma, Pa & Tom | "The Grapes of Wrath"
+right: Julie
+Wrong: 
+Value: $1600
+Number: 29
+OSCAR NIGHT 2003 | For "Talk to Her", he became the first man in over 30 years to win with a screenplay in a foreign language | Pedro Almodovar
+right: Julie
+Wrong: 
+Value: $1600
+Number: 16
+ART & ARTISTS | He painted "Tahitian Women" shortly after arriving on that island in 1891 | Paul Gauguin
+right: Julie
+Wrong: 
+Value: $1600
+Number: 9
+FIRST NAME'S THE SAME | Henson, Morrison, Lehrer | Jim
+right: Julie
+Wrong: 
+Hal: What is John?
+Value: $1600
+Number: 4
+STATE: THE OBVIOUS | It's the state whose shape is seen here | Nevada
+right: Paige
+Wrong: 
+Value: $1600
+Number: 21
+OH MY GOD!  YOU'VE GOT 3 "I"s | Sports Illustrated's 1997 Swimsuit Issue (the Tyra Banks cover) featured "Nothing but" these | Bikinis
+right: Hal
+Wrong: 
+Value: DD: $7,000
+Number: 25
+OSCAR NIGHT 2003 | Chris Cooper won his Best Supporting Actor Oscar for his work in this film seen here | Adaptation
+right: Julie
+Wrong: 
+Value: $2000
+Number: 17
+ART & ARTISTS | On September 29, 1910, this painter known for his seascapes died in his studio in Prouts Neck, Maine | Winslow Homer
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+FIRST NAME'S THE SAME | Hamilton, Calder, Haig | Alexander
+right: Hal
+Wrong: 
+Value: $2000
+Number: 5
+STATE: THE OBVIOUS | This state's name includes the name of the country that was the top destination for U.S. tourists in 2001 | New Mexico
+right: 
+Wrong: 
+Paige: What is Washington?
+Value: DD: $5,400
+Number: 22
+OH MY GOD!  YOU'VE GOT 3 "I"s | Fran Lebowitz called this type of pasta with clam sauce "mankind's crowning achievement" | linguini
+right: Julie
+Wrong: 
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Julie: $17,600
+Hal: $16,000
+Paige: $1,600
+
+Final Jeopardy! Round
+TRANSPORTATION | On December 11, 1967 it was removed from the British registry & turned over to the city of Long Beach, California | the Queen Mary
+right: Hal | Julie
+Wrong: 
+Paige: What is that plane
+Wagers: 
+Paige: $1
+Hal: $16,000
+Julie: $10,000
+Final scores:
+Julie: $27,600 (2nd place: $27,600 for Christopher and Dana Reeve Foundation)
+Hal: $32,000 (Winner: $50,000 for Doctors Without Borders)
+Paige: $1,599 (3rd place: $20,000 for Broadway Cares/Equity Fights AIDS)
+
+Coryat scores
+Julie: $17,600 (19 R,1 W)
+Hal: $10,600 (19 R(including 2 DDs),3 W)
+Paige: $7,000 (11 R,2 W(including 1 DD))

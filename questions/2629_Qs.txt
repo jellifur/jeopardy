@@ -1,0 +1,350 @@
+4179 - Thursday, October 31, 2002
+Contestants:
+Ian Foutz: a computer programmer from Garland, Texas
+Mark Jurecki: a retired engineer from Carlsbad, California
+Phillip Steele: a security officer from Los Angeles, California (whose 4-day cash winnings total $38,898)
+First Jeopardy! Round: SCULPTURE, BEATLES LYRICS, JAPANESE FOOD, FRIENDS IN HISTORY, MEDICAL ABBREV., ENDS IN "X"
+SCULPTURE | In 1928 this cubist & Julio Gonzalez pioneered in welded sculpture: 1950's "She-Goat" is a famous example | Pablo Picasso
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+BEATLES LYRICS | "Suddenly I'm not half the man I used to be" | "Yesterday"
+right: Phillip
+Wrong: 
+Value: $200
+Number: 26
+JAPANESE FOOD | Surimi, meaning "formed fish", turns up in packages labeled this type of "crabmeat" & "lobster" | imitation
+right: Phillip
+Wrong: 
+Value: $200
+Number: 1
+FRIENDS IN HISTORY | Chandler helps Peary & Henson discover this on April 6, 1909 after he asks, "Could it be any more cold?" | North Pole
+right: Mark
+Wrong: 
+Ian: What is the South Pole?
+Value: $200
+Number: 5
+MEDICAL ABBREV. | Where surgery is performed: OR | operating room
+right: Phillip
+Wrong: 
+Value: $200
+Number: 16
+ENDS IN "X" | This salty smoked salmon tastes great on a bagel | lox
+right: Mark
+Wrong: 
+Value: $200
+Number: 11
+SCULPTURE | Both Rodin & Brancusi (who once worked for Rodin) did sculptures of an embracing couple titled this | "The Kiss"
+right: Phillip
+Wrong: 
+Mark: What is "Adam and Eve?"
+Value: $400
+Number: 22
+BEATLES LYRICS | "Say you don't need no diamond ring and I'll be satisfied" | "Can't Buy Me Love"
+right: Ian
+Wrong: 
+Mark: What is "I Don't Care Too Much For Money?"
+Value: $400
+Number: 27
+JAPANESE FOOD | Umeboshi are plums that are pickled, not tickled, this color | pink
+right: Phillip
+Wrong: 
+Value: $400
+Number: 2
+FRIENDS IN HISTORY | Thinking she's dressed as an Indian for a costume party on Dec. 16, 1773, Phoebe attends this Mass. event | Boston Tea Party
+right: Phillip
+Wrong: 
+Value: $400
+Number: 6
+MEDICAL ABBREV. | A doctor: GP | general practitioner
+right: Phillip
+Wrong: 
+Value: $400
+Number: 17
+ENDS IN "X" | Dating from around 2500 B.C., it's 240 feet long, 66 feet tall & its face was modeled after the pharaoh Khafre | the Sphinx
+right: Phillip
+Wrong: 
+Value: $400
+Number: 12
+SCULPTURE | His suspended abstract sculptures were given the name "mobiles" by Marcel Duchamp | Alexander Calder
+right: Phillip
+Wrong: 
+Value: $600
+Number: 23
+BEATLES LYRICS | "Take these broken wings and learn to fly" | "Blackbird"
+right: Mark
+Wrong: 
+Value: $600
+Number: 28
+JAPANESE FOOD | Dashi-no-moto is the instant version of dashi; add water & you'll have this | soup
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+FRIENDS IN HISTORY | Joey says, "How you doin'" to this actor on April 14, 1865 but has no idea what "Sic Semper Tyrannis" means | John Wilkes Booth
+right: Mark
+Wrong: 
+Value: $600
+Number: 7
+MEDICAL ABBREV. | Common antibiotic: PCN | penicillin
+right: Phillip
+Wrong: 
+Value: $600
+Number: 18
+ENDS IN "X" | A 3-letter word for "to veto", or a German water sprite | nix
+right: Mark
+Wrong: 
+Value: $600
+Number: 13
+SCULPTURE | This Edvard Erikson sculpture guards Copenhagen Harbor | "The Little Mermaid"
+right: Mark
+Wrong: 
+Value: $800
+Number: 24
+BEATLES LYRICS | "The girl that's driving me mad is going away" | "Ticket to Ride"
+right: Phillip
+Wrong: 
+Value: $800
+Number: 29
+JAPANESE FOOD | Before each bite of sukiyaki, some dip it into this, beaten & raw | eggs
+right: Ian
+Wrong: 
+Value: $800
+Number: 4
+FRIENDS IN HISTORY | In 1540 Rachel says sorry, she hasn't had much luck with marriage, so this king marries Anne of Cleves instead | Henry VIII
+right: Mark
+Wrong: 
+Value: $800
+Number: 8
+MEDICAL ABBREV. | Painful disorder of the joints: RA | rheumatoid arthritis
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 19
+ENDS IN "X" | During an 1878 epidemic of this disease, Calamity Jane helped care for the victims | smallpox
+right: Ian
+Wrong: 
+Value: $800
+Number: 14
+SCULPTURE | In a colossal bronze by Cellini, Perseus is holding the head of this gorgon | Medusa
+right: Mark
+Wrong: 
+Value: $1000
+Number: 25
+BEATLES LYRICS | "Jojo left his home in Tucson, Arizona for some California grass" | "Get Back"
+right: Ian
+Wrong: 
+Value: $1000
+Number: 30
+JAPANESE FOOD | The Japanese name for this flavor enhancer, also popular in Chinese cooking, is Aji-No-Moto | MSG (monosodium glutamate)
+right: Ian
+Wrong: 
+Value: $1000
+Number: 10
+FRIENDS IN HISTORY | Monica ends up in France on July 14, 1789 & freaks out at the mess Parisians make storming this prison | the Bastille
+right: Phillip
+Wrong: 
+Value: $1000
+Number: 9
+MEDICAL ABBREV. | Useful lab test which can detect infections, anemia, etc.: CBC | complete blood count
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+ENDS IN "X" | A whirling mass of air or water | vortex
+right: Ian
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Phillip: $2,400
+Mark: $2,400
+Ian: $3,400
+Scores at the end of the Jeopardy! Round:
+Phillip: $4,600
+Mark: $4,000
+Ian: $4,800
+Second Jeopardy! Round: SCIENCE & NATURE, DESIGN, STAIR-ING AT THE SCREEN, GEORGE, WASHINGTON, "D.C."
+SCIENCE & NATURE | Its return about every 76 years has been documented back to 239 B.C. | Halley's Comet
+right: Ian
+Wrong: 
+Value: $400
+Number: 1
+DESIGN | His work at Alfred A. Knopf made Chip Kidd a superstar in designing these | book covers/jackets
+right: Phillip
+Wrong: 
+Value: $400
+Number: 6
+STAIR-ING AT THE SCREEN | Yo, as part of his morning workout, this title movie boxer runs up the steps of the Philadelphia Museum of Art | Rocky
+right: Mark
+Wrong: 
+Value: $400
+Number: 11
+GEORGE | His "Last Stand" came at the hands of the Cheyenne & the Sioux | George Custer
+right: Mark
+Wrong: 
+Value: $400
+Number: 16
+WASHINGTON | It's the Canadian province that borders the state of Washington, eh | British Columbia
+right: Ian
+Wrong: 
+Mark: What is Vancouver?
+Value: $400
+Number: 26
+"D.C." | You can find Boot Hill Museum on Wyatt Earp Blvd. in this Kansas community | Dodge City
+right: Ian
+Wrong: 
+Mark: What is Deadwood?
+Value: $400
+Number: 21
+SCIENCE & NATURE | The Puerto Rico Trench has the Atlantic's deepest point; this trench has the Pacific's | Marianas Trench
+right: Mark
+Wrong: 
+Value: $800
+Number: 2
+DESIGN | [Sofia of the Clue Crew at the Civic Opera House in Chicago] | Art Deco
+right: Phillip
+Wrong: 
+Value: $800
+Number: 7
+STAIR-ING AT THE SCREEN | After getting a nice motherly stab, Martin Balsam careens backwards down the stairs in this Hitchcock classic | Psycho
+right: Mark
+Wrong: 
+Value: $800
+Number: 12
+GEORGE | This 18th century man composed the music heard here: (Cheryl of the Clue Crew singing the following)  Behold a virgin shall conceive and bear a son and shall call his name... | George Frideric Handel
+right: Mark
+Wrong: 
+Value: $800
+Number: 17
+WASHINGTON | Washington State University was closed for a few days in May 1980 because of the eruption of this nearby volcano | Mount St. Helens
+right: Mark
+Wrong: 
+Value: $800
+Number: 27
+"D.C." | This team plays its home games in Texas Stadium | Dallas Cowboys
+right: Ian
+Wrong: 
+Value: $800
+Number: 22
+SCIENCE & NATURE | Divided into 3 parts as its name implies, this period came right before the Jurassic | Triassic
+right: 
+Wrong: 
+Mark: What is the Cenozoic?
+Value: DD: $1,800
+Number: 3
+DESIGN | The luxo, with springs to tilt it at the correct angle, is a favorite desktop one of these | lamp
+right: Phillip
+Wrong: 
+Value: $1200
+Number: 8
+STAIR-ING AT THE SCREEN | (Sarah of the Clue Crew in Washington, D.C.)  The steps leading from Prospect Street to M Street, seen here, were featured in this 1973 thriller | The Exorcist
+right: 
+Wrong: 
+Mark: Don't know.
+Value: DD: $4,600
+Number: 13
+GEORGE | At a speech given at Harvard in 1947, this man laid out his namesake plan for European economic recovery | George C. Marshall
+right: Phillip
+Wrong: 
+Value: $1200
+Number: 18
+WASHINGTON | The highest summit in Washington state was given this name by George Vancouver in 1792 | Mount Rainier
+right: 
+Wrong: Triple Stumper
+Ian: What is Mount Hood?
+Value: $1200
+Number: 28
+"D.C." | Pullman's Delmonico became the first of these railroad carriages in 1868 | dining car
+right: Phillip
+Wrong: 
+Value: $1200
+Number: 23
+SCIENCE & NATURE | Suffering from premature ignition?  You may want a gas where this indicator number is greater | octane
+right: Ian
+Wrong: 
+Value: $1600
+Number: 4
+DESIGN | Type of design that's the title of a work by Raymond Loewy, who designed bottles, cars & refrigerators | industrial design
+right: 
+Wrong: Triple Stumper
+Phillip: What is gugge?
+Mark: What is streamline?
+Value: $1600
+Number: 9
+STAIR-ING AT THE SCREEN | A baby buggy careens down steps in a famous scene from this Russian film | Battleship Potemkin
+right: Mark
+Wrong: 
+Value: $1600
+Number: 14
+GEORGE | Asked why he wanted to climb Mount Everest, he famously responded, "Because it is there" | George Mallory
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+WASHINGTON | Nicknamed "Scoop", he represented Washington in the U.S. Senate for 30 years | Henry Jackson
+right: Mark
+Wrong: 
+Value: $1600
+Number: 29
+"D.C." | This cable outlet airs TV shows like "Blue Planet" & "Walking With Prehistoric Beasts" | Discovery Channel
+right: Phillip
+Wrong: 
+Value: $1600
+Number: 24
+SCIENCE & NATURE | Symbolized D & called heavy hydrogen, it won a Nobel Prize for its discoverers | deuterium
+right: Mark
+Wrong: 
+Value: $2000
+Number: 5
+DESIGN | Softened by steam, it's the type of wood used to make the 19th century chair seen here | bentwood
+right: Phillip
+Wrong: 
+Value: $2000
+Number: 10
+STAIR-ING AT THE SCREEN | Robert Preston & Angela Lansbury starred in the film version of this 1957 William Inge play | The Dark at the Top of the Stairs
+right: Mark
+Wrong: 
+Value: $2000
+Number: 15
+GEORGE | Nicknamed "The Iceman", this basketball legend was inducted into the NBA Hall of Fame in 1996 | George Gervin
+right: Ian
+Wrong: 
+Value: $2000
+Number: 20
+WASHINGTON | President Truman visited Washington state in May 1950 to rededicate this large dam | Grand Coulee Dam
+right: 
+Wrong: Triple Stumper
+Ian: What is the Columbia Dam?
+Value: $2000
+Number: 30
+"D.C." | He wrote "Public Speaking and Influencing Men in Business" several years before his more famous book | Dale Carnegie
+right: Ian
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Phillip: $11,400
+Mark: $6,400
+Ian: $9,200
+
+Final Jeopardy! Round
+HISTORIC CONGRESSMEN | Armed Services Committee head Carl Vinson was the first living American for whom the government named 1 of these | ship/aircraft carrier
+right: Mark
+Wrong: 
+Ian: What is a battleship?
+Phillip: What is a battleship
+Wagers: 
+Mark: $6,000
+Ian: $3,800
+Phillip: $4,600
+Final scores:
+Phillip: $6,800 (2nd place: $2,000)
+Mark: $12,400 (New champion: $12,400)
+Ian: $5,400 (3rd place: $1,000)
+
+Coryat scores
+Phillip: $12,400 (19 R,2 W(including 1 DD))
+Mark: $12,800 (18 R,7 W(including 2 DDs))
+Ian: $9,200 (13 R,3 W)

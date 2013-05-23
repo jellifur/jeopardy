@@ -1,0 +1,336 @@
+1531 - Monday, April 8, 1991
+Contestants:
+James Hyder: a systems manager from Columbia, Maryland
+Lynda Burkett: a special projects assistant from Alexandria, Virginia
+Richard Shildt: an elementary school principal from Cyclone, Pennsylvania
+First Jeopardy! Round: BOOKS & AUTHORS, POLAR ANIMALS, LATIN PHRASES, MOVIE SONGS, DESIGN, 1891
+BOOKS & AUTHORS | A group of 19th c. authors is called the Knickerbocker Group after his pen name | Washington Irving
+right: 
+Wrong: Triple Stumper
+Richard: Who is Nathaniel Hawthorne?
+Value: $100
+Number: 16
+POLAR ANIMALS | This ursine likes to eat seals as well as fish | a polar bear
+right: Richard
+Wrong: 
+Value: $100
+Number: 1
+LATIN PHRASES | Latin for “before noon”, it’s what A.M. stands for | antemeridian
+right: James
+Wrong: 
+Value: $100
+Number: 6
+MOVIE SONGS | Cher sings “The Shoop Shoop Song” over this 1990 film’s closing credits | Mermaids
+right: James
+Wrong: 
+Lynda: What is The Mermaid?
+Value: $100
+Number: 17
+DESIGN | Charles Rennie Mackintosh of this country was 1 of the most innovative Art Nouveau architects | Scotland
+right: James
+Wrong: 
+Value: $100
+Number: 22
+1891 | One of his patents that year was for a motion-picture projector, the kinetoscope | Thomas Edison
+right: Richard
+Wrong: 
+Value: $100
+Number: 11
+BOOKS & AUTHORS | Poet & editor Wm. C. Bryant is known for his 1870-71 translations of these 2 Homeric works | the Iliad
+right: James
+Wrong: 
+Value: $200
+Number: 27
+POLAR ANIMALS | The emperor is the largest variety of this bird | a penguin
+right: Lynda
+Wrong: 
+Value: $200
+Number: 2
+LATIN PHRASES | Spoken or sung at the end of Latin masses, Deo gratias means this | thanks to God
+right: James
+Wrong: 
+Value: $200
+Number: 7
+MOVIE SONGS | In 1968 Hugo Montenegro took <http://www.j-archive.com/media/1991-04-08_J_18.mp3> this title tune to No. 2 on the pop charts: | "The Good, The Bad, And The Ugly"
+right: James
+Wrong: 
+Value: DD: $700
+Number: 18
+DESIGN | Not surprisingly, the French town of Chantilly is known for this type of fabric | lace
+right: Lynda
+Wrong: 
+Value: $200
+Number: 23
+1891 | 900,000 acres of land in this state were opened for settlement on Sept. 22 though some went sooner | Oklahoma
+right: Richard
+Wrong: 
+Value: $200
+Number: 12
+POLAR ANIMALS | The bellow of this tusked sea animal can be heard from half a mile away | a walrus
+right: Richard
+Wrong: 
+Value: $300
+Number: 3
+LATIN PHRASES | Seneca said “Ars longa, vita brevis", which means this | art is long, life is short
+right: James
+Wrong: 
+Value: $300
+Number: 8
+MOVIE SONGS | “Clang, clang, clang, went the trolley, Ding, ding, ding, went the bell, Zing, zing, zing, went” these | my heartstrings
+right: James
+Wrong: 
+Value: $300
+Number: 19
+DESIGN | The “slipper” type of this lustrous fabric can be used to make slippers or draperies | satin
+right: Lynda
+Wrong: 
+Value: $300
+Number: 24
+1891 | An attack on American sailors in Valparaiso brought the U.S. to the brink of war with this country | Chile
+right: 
+Wrong: Triple Stumper
+Richard: What is Spain?
+James: What is Cuba?
+Value: $300
+Number: 13
+POLAR ANIMALS | This ox, one of the northernmost hoofed animals, is named for the odor it emits | a musk ox
+right: James
+Wrong: 
+Value: $400
+Number: 4
+LATIN PHRASES | Someone who is primus inter pares is first among these people | equals
+right: Richard
+Wrong: 
+Value: $400
+Number: 9
+MOVIE SONGS | Pat Boone sang that this “is for the very young, Ev’ry star’s a wishing star that shines for you” | "April Love"
+right: 
+Wrong: Triple Stumper
+Richard: What is love?
+Value: $400
+Number: 20
+DESIGN | Edward Kemeys designed the lions that guard the entrance to the Art Institute of this city | Chicago
+right: 
+Wrong: Triple Stumper
+Lynda: What is the Metropolitan Museum?
+James: What is New York City?
+Value: $400
+Number: 25
+1891 | George Hale’s spectroheliograph made it possible to photograph this using one w.l. of light | the sun
+right: James
+Wrong: 
+Value: $400
+Number: 14
+POLAR ANIMALS | When these rodents drown during their migrations, it’s an accident, not suicide | lemmings
+right: Richard
+Wrong: 
+Value: $500
+Number: 5
+LATIN PHRASES | The abbreviation q.v. which stands for quod vide, literally means this | which see
+right: 
+Wrong: Triple Stumper
+James: What is see this?
+Value: $500
+Number: 10
+MOVIE SONGS | Pop songstress who won an Oscar in 1989 for “Let The River Run” from “Working Girl” | Carly Simon
+right: James
+Wrong: 
+Value: $500
+Number: 21
+DESIGN | The back of a Salem rocker is usually lower than the back of this other rocker named for a Mass. city | Boston
+right: 
+Wrong: Triple Stumper
+Lynda: What is Cape Cod?
+Value: $500
+Number: 26
+1891 | James Naismith invented basketball in this Massachusetts town in December | Springfield
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Richard: $1,300
+Lynda: -$200
+James: $600
+Scores at the end of the Jeopardy! Round:
+Richard: $800
+Lynda: -$700
+James: $2,100
+Second Jeopardy! Round: ISLANDS, OLD TESTAMENT, FOOD, SHAKESPEARE, COLUMNISTS, 1791
+ISLANDS | Merged island countries include Sao Tome & Principe and Trinidad & this | Tobago
+right: Lynda
+Wrong: 
+Value: $200
+Number: 9
+OLD TESTAMENT | Shortly after promoting him, Darius had him cast into a lion’s den | Daniel
+right: Richard
+Wrong: 
+Value: $200
+Number: 2
+FOOD | The manzanillo is the most widely grown type in Calif.; almost all are eaten, not pressed for oil | olives
+right: Richard
+Wrong: 
+Value: $200
+Number: 1
+SHAKESPEARE | Cobweb is a fairy, not a spider, in this comedy | A Midsummer Night's Dream
+right: Lynda
+Wrong: 
+Value: $200
+Number: 12
+COLUMNISTS | A column of “Hints” has been written under this name shared by a mother & the daughter who succeeded her | Heloise
+right: Richard
+Wrong: 
+Value: $200
+Number: 26
+1791 | In March, Congress passed an excise tax on this, provoking a rebellion in 1794 | whiskey
+right: Richard
+Wrong: 
+Value: $200
+Number: 21
+ISLANDS | Its capital, largest city & chief port is Palermo | Sicily
+right: James
+Wrong: 
+Value: $400
+Number: 10
+OLD TESTAMENT | According to II Chronicles 2, over 153,000 people worked on its construction in Jerusalem | the First Temple (Solomon's Temple)
+right: Lynda
+Wrong: 
+Value: $400
+Number: 3
+FOOD | Hawkeye Pierce could tell you that kimchi is pickled vegetables common in this country | Korea
+right: James
+Wrong: 
+Value: $400
+Number: 5
+SHAKESPEARE | Hamlet gives his “Alas, poor Yorick!” soliloquy in this location | a graveyard
+right: James
+Wrong: 
+Value: $400
+Number: 13
+COLUMNISTS | Columnist whose 1922 “Etiquette: The Blue Book of Social Usage” sold over half a million copies | Emily Post
+right: Richard
+Wrong: 
+Value: $400
+Number: 27
+1791 | His opera “Die Zauberflote” premiered in Vienna on Sept. 30 | Mozart
+right: James
+Wrong: 
+Value: $400
+Number: 22
+ISLANDS | Capital of French Guiana & the name of the island it’s on, it gave its name to a kind of pepper | Cayenne
+right: James
+Wrong: 
+Value: $600
+Number: 15
+OLD TESTAMENT | The Lord told Satan, “There is none like him in the Earth, a perfect and an upright man” | Job
+right: Lynda
+Wrong: 
+Value: DD: $500
+Number: 4
+FOOD | Lactobacillus bulgaricus is added to milk to make this thick semi-solid dairy product | yogurt
+right: Richard
+Wrong: 
+Value: $600
+Number: 6
+SHAKESPEARE | After Emilia is stabbed in this tragedy, she says, “I will play the swan” & sings before she dies | Othello
+right: Richard
+Wrong: 
+Value: $600
+Number: 14
+COLUMNISTS | Last name of brothers Stuart & Joseph who together wrote the “Matter of Fact” column | Alsop
+right: James
+Wrong: 
+Value: $600
+Number: 28
+1791 | He published the first part of “The Rights of Man” in England & was later charged with treason | Thomas Paine
+right: 
+Wrong: Triple Stumper
+Richard: Who is Adam Smith?
+Value: $600
+Number: 23
+ISLANDS | Tanzania’s capital was founded by the sultan of this island that’s now part of the country | Zanzibar
+right: 
+Wrong: Triple Stumper
+Richard: What is Madagascar?
+James: What is Brunei?
+Value: $800
+Number: 19
+OLD TESTAMENT | Ahasuerus liked her better than all the other virgins so he made her queen in place of Vashti | Esther
+right: Richard
+Wrong: 
+Value: $800
+Number: 7
+FOOD | “The Joy of Cooking” says these liquor-soaked cakes have been enjoyed 25 years after baking | fruitcakes
+right: James
+Wrong: 
+Value: $800
+Number: 11
+SHAKESPEARE | Shakespeare wrote, “When in disgrace with” this “and men’s eyes, I all alone beweep my outcast state” | Fortune
+right: James
+Wrong: 
+Value: $800
+Number: 16
+COLUMNISTS | As financial reporter for the N.Y. Post she used initials for her byline to pass for a man | Sylvia Porter
+right: 
+Wrong: Triple Stumper
+Richard: Who is Nellie Bly?
+Value: $800
+Number: 29
+1791 | Born in Cove Gap, Penn. on April 23, he later became the 15th U.S. president | James Buchanan
+right: Richard
+Wrong: 
+Value: $800
+Number: 24
+ISLANDS | Though they sound Egyptian, these islands in the N. Atlantic are part of Denmark | the Faroe Islands
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+OLD TESTAMENT | Korah was killed for rebelling against Moses but his descendants wrote some of the 150 of these | Psalms
+right: Richard
+Wrong: 
+Value: $1000
+Number: 8
+FOOD | The name of these little snacks is Cantonese for “heart’s delight” | dim sum
+right: Lynda
+Wrong: 
+Value: $1000
+Number: 18
+SHAKESPEARE | This young woman lives on an island with her father, a magician | Miranda
+right: 
+Wrong: 
+James: Who is Ariel?
+Value: DD: $2,000
+Number: 17
+COLUMNISTS | Columnist for N.Y.’s Newsday who wrote the novel “The Gang that Couldn’t Shoot Straight” | Jimmy Breslin
+right: James
+Wrong: 
+Value: $1000
+Number: 30
+1791 | This Italian announced that electricity applied to frogs’ legs caused them to twitch | (Luigi) Galvani
+right: James
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Richard: $3,600
+Lynda: $1,600
+James: $5,700
+
+Final Jeopardy! Round
+U.S. GOVERNMENT | Connecticut was the last of the original 13 states to ratify this & didn’t do it until 1939 | the Bill of Rights
+right: Lynda | Richard | James
+Wrong: 
+Wagers: 
+Lynda: $1,600
+Richard: $3,590
+James: $1,501
+Final scores:
+Richard: $7,190 (2nd place: Broyhill solid cherry entertainment center + Samsung color TV & VCR)
+Lynda: $3,200 (3rd place: Konica ZF-80 RC + a Nintendo Entertainment System + games)
+James: $7,201 (New champion: $7,201)
+
+Coryat scores
+Richard: $3,600 (16 R,6 W)
+Lynda: $1,700 (8 R(including 1 DD),4 W)
+James: $7,200 (21 R(including 1 DD),5 W(including 1 DD))

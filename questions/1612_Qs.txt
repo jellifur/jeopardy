@@ -1,0 +1,348 @@
+4568 - Wednesday, June 16, 2004
+Comments: Ken Jennings game 11.
+Contestants:
+Josh Thorpe: an attorney from Atlanta, Georgia
+Patricia Davis: a writer and editor from Encinitas, California
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 10-day cash winnings total $341,158)
+First Jeopardy! Round: AFTER THE WHITE HOUSE, WHO'S YOUR DADDY?, MIAMI NICE, FRUIT, CHARADES, "BO"-POURRI
+AFTER THE WHITE HOUSE | Just weeks after leaving office, he & son Kermit left on a year-long African hunting expedition | Theodore Roosevelt
+right: Josh
+Wrong: 
+Value: $200
+Number: 6
+WHO'S YOUR DADDY? | TV & film star Kiefer | Donald Sutherland
+right: Josh
+Wrong: 
+Value: $200
+Number: 1
+MIAMI NICE | It's the nickname of the sports teams at the University of Miami | Hurricanes
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+FRUIT | Harwich, Mass. celebrates the harvest of this berry about 2 months before it's needed at Thanksgiving | the cranberry
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+CHARADES | (<http://www.j-archive.com/media/2004-06-16_J_16.jpg> Cheryl for the Clue Crew makes a small "C" with her fingers.)  The gesture here means "small word", like this word followed by "the Good Old Summertime" | in
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+"BO"-POURRI | In a nursery rhyme, she loses her sheep | Little Bo Peep
+right: Ken
+Wrong: 
+Value: $200
+Number: 8
+AFTER THE WHITE HOUSE | In July 2003 he returned to the White House for a special dinner in honor of his 90th birthday | Gerald Ford
+right: 
+Wrong: Triple Stumper
+Ken: Who is Ronald Reagan?
+Value: $400
+Number: 7
+WHO'S YOUR DADDY? | Latin heartthrob singer Enrique | Julio Iglesias
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+MIAMI NICE | A '60s TV variety show filmed in Miami featured skits using characters from this Jackie Gleason sitcom | the Honeymooners
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+FRUIT | Gala & Cortland are types of this | apples
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+CHARADES | (<http://www.j-archive.com/media/2004-06-16_J_17.jpg> Cheryl of the Clue Crew tugs on her ear lobe.)  If you're stuck with a word you can't act out, you may want to resort to this sign | sounds like
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+"BO"-POURRI | One of the few condemned English royals not axe-cuted, in 1536 she was done in with a sword | Anne Boleyn
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+AFTER THE WHITE HOUSE | Though not in the best of health, in 1840 he went to New Orleans to celebrate his battle victory's 25th anniversary | Andrew Jackson
+right: Ken
+Wrong: 
+Value: $600
+Number: 9
+WHO'S YOUR DADDY? | Oscar-winning screenwriter Sofia | Francis Ford Coppola
+right: Patricia
+Wrong: 
+Value: $600
+Number: 3
+MIAMI NICE | It began as SIN, the Spanish Int'l. Network, & its production facilities are headquartered in Miami | Univision
+right: Josh
+Wrong: 
+Ken: What is Telemundo?
+Value: $600
+Number: 28
+FRUIT | Its name refers to the resemblance of its blossom end to a human umbilicus | navel orange
+right: Ken
+Wrong: 
+Value: DD: $1,400
+Number: 23
+CHARADES | (<http://www.j-archive.com/media/2004-06-16_J_18.wmv> Cheryl of the Clue Crew holds up seven fingers.)  If it's an Indiana Jones movie, it has to be this big screen adventure | Indiana Jones and the Temple of Doom
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+"BO"-POURRI | Capital city situated on a plateau in the eastern Andes | Bogota
+right: Josh
+Wrong: 
+Value: $600
+Number: 13
+AFTER THE WHITE HOUSE | On his 80th birthday, May 8, 1964, he became the first former President to address a regular Senate session | Harry Truman
+right: 
+Wrong: Triple Stumper
+Ken: Who is Herbert Hoover?
+Value: $800
+Number: 10
+WHO'S YOUR DADDY? | "Lord of the Rings" co-star Liv | Steven Tyler
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+MIAMI NICE | Called "America's Riviera", Miami's South Beach is home to 800 buildings built in this early 20th century style | Art Deco
+right: Patricia
+Wrong: 
+Value: $800
+Number: 29
+FRUIT | Ribier & Thompson Seedless are among the bestselling kinds of these | grapes
+right: Josh
+Wrong: 
+Value: $800
+Number: 24
+CHARADES | (<http://www.j-archive.com/media/2004-06-16_J_19.wmv> Cheryl of the Clue Crew makes a streching motion with her fingers.)  Someone guessed "dark", so I'm trying to get them to this word in an Arthur Koestler title | darkness
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+"BO"-POURRI | Sherlock Holmes faced "A Scandal in" this former central European kingdom | Bohemia
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+AFTER THE WHITE HOUSE | In February 1930 illness forced him to resign as U.S. Chief Justice; he died a month later | William Howard Taft
+right: Josh
+Wrong: 
+Value: $1000
+Number: 11
+WHO'S YOUR DADDY? | Jewelry designer Paloma | Pablo Picasso
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+MIAMI NICE | The Fontainebleau Hotel was the HQ for this political event that took place in Miami in early August 1968 | the Republican National Convention
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+FRUIT | A symbol of fertility in mythology, it's been called "Nature's most labor-intensive fruit" | the pomegranate
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+CHARADES | (<http://www.j-archive.com/media/2004-06-16_J_20.wmv> Cheryl of the Clue Crew makes "air quotes".)  Next, I'll act out one of these, from the Latin for "word"--maybe "Murder will out" or "All rivers run into the sea" | a proverb
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+"BO"-POURRI | Ancient British queen who fought the Romans | Boadicea
+right: Patricia
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $3,000
+Patricia: $1,600
+Josh: $2,000
+Scores at the end of the Jeopardy! Round:
+Ken: $10,000
+Patricia: $1,400
+Josh: $3,400
+Second Jeopardy! Round: THE 60s, COOL PLACES TO GO, FOLK MUSIC, PETER, POLL, MARRIED
+THE 60s | It's the oldest age you can be & still be a sexagenarian | 69
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+COOL PLACES TO GO | An American seal hunter named John Davis is believed to be the first person to set foot on this continent | Antarctica
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+FOLK MUSIC | In 1961 the Highwaymen urged him to "row the boat ashore, hallelujah" | Michael
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+PETER | Now making news in the lower 48, at age 9 he was the host of his own Canadian radio show | Peter Jennings
+right: Patricia
+Wrong: 
+Value: $400
+Number: 1
+POLL | In a 2003 CNN poll, this former First Lady was voted "The Most Admired Woman in America" | Hillary Clinton
+right: Josh
+Wrong: 
+Ken: Who is Barbara Bush?
+Value: $400
+Number: 16
+MARRIED | "He that is unmarried careth ... how he may please the Lord; but he that is married careth ... how he may please" her | his wife
+right: Ken
+Wrong: 
+Josh: Who is the lady?
+Value: $400
+Number: 21
+THE 60s | Mark McGwire's Sept. 8, 1998 homer, this record number for the season, went a paltry 341 feet | 62
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+COOL PLACES TO GO | Related to Old Norse, Islenska is the official language of this island country | Iceland
+right: Josh
+Wrong: 
+Value: $800
+Number: 12
+FOLK MUSIC | Bob Dylan's first LP had 2 original songs: "Talking New York" & "Song to Woody", a tribute to this folk singer | Woody Guthrie
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+PETER | Peter Shaffer's play "The Royal Hunt of the Sun" concerns Pizarro's conquest of this South American empire | the Incas
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+POLL | Using faulty poll figures, Literary Digest predicted his defeat for President in 1936; the Digest folded in 1937 | Franklin D. Roosevelt
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+MARRIED | 19th c. humorist Artemus Ward called this Utahan "dreadfully married ... the most married man I ever saw" | Brigham Young
+right: Ken
+Wrong: 
+Value: DD: $3,800
+Number: 22
+THE 60s | A TV anthology series was based on the book "What Really Happened to the Class of" this | '65
+right: 
+Wrong: Triple Stumper
+Josh: What is '64?
+Value: $1200
+Number: 8
+COOL PLACES TO GO | With temperatures as low as -94 F., Oymyakon in this large region is the world's coldest inhabited place | Siberia
+right: Josh
+Wrong: 
+Value: DD: $1,200
+Number: 13
+FOLK MUSIC | In 1968 she reached the top 10 for the first & only time with "Both Sides Now", a song written by Joni Mitchell | Judy Collins
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+PETER | After retiring from medicine in 1840, he began work on his thesaurus in London | Peter Roget
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+POLL | A recent "Youth Wired" poll by this online service revealed that nearly 20% of American kids go online every day | AOL
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+MARRIED | William Congreve wrote, "Grief still treads upon the heels of pleasure; married in haste, we may" do this | repent at leisure
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+THE 60s | Number of years in Queen Victoria's record reign or number of yards in Tom Dempsey's record NFL field goal kick | 63
+right: 
+Wrong: Triple Stumper
+Ken: What is 68?
+Josh: What is 69?
+Value: $1600
+Number: 9
+COOL PLACES TO GO | he "Freeze Yer Gizzard Blizzard Run" is an annual event held in International Falls in this U.S. state | Minnesota
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+FOLK MUSIC | This Calypso singer won 3 folk Grammys in the 1960s, including one for his 1965 album with Miriam Makeba | Harry Belafonte
+right: Patricia
+Wrong: 
+Value: $1600
+Number: 29
+PETER | In 1725 Peter the Great sent this Dane to explore the Pacific coast | Vitus Bering
+right: Patricia
+Wrong: 
+Value: $1600
+Number: 4
+POLL | The first of these held in the U.S. was in 1790 & revealed a total population of nearly 4 million | the (national) census
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+MARRIED | In "The Rainbow", he wrote, "If I am to become an angel, it'll be my married soul, and not my single soul" | D.H. Lawrence
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+THE 60s | In music, it's also known as a hemidemisemiquaver | a 64th note
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+COOL PLACES TO GO | The Gulf of Finland, which freezes over for several months during winter, is the easternmost arm of this sea | the Baltic
+right: Josh
+Wrong: 
+Value: $2000
+Number: 15
+FOLK MUSIC | Glenn Yarbrough, formerly with the Limeliters, had his only top 40 hit with this title song of a 1965 Steve McQueen film | Baby, the Rain Must Fall
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+PETER | <http://www.j-archive.com/media/2004-06-16_DJ_05.jpg> Seen <http://www.j-archive.com/media/2004-06-16_DJ_05a.jpg> here is "The Garden of Love" by this Flemish Old Master | Peter Paul Rubens
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+POLL | A 2004 Gallup poll showed this East Asian country has the highest negative rating among Americans -- 83% | North Korea
+right: Josh
+Wrong: 
+Value: $2000
+Number: 20
+MARRIED | Shakespearean character speaking <http://www.j-archive.com/media/2004-06-16_DJ_25.mp3> here  "...the world must be peopled.  When I said I would die a bachelor, I did not think I should live till I were married.  Ah, here comes Beatrice.  By this day, she's a fair lady!" | Benedick
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ken: $32,200
+Patricia: $5,000
+Josh: $6,600
+
+Final Jeopardy! Round
+FAMOUS PRODUCTS | First designed as a surgical disinfectant, in 1895 it was available to dentists & by 1914 was sold OTC | Listerine
+right: Ken
+Wrong: 
+Patricia: What is same as Ken's answer?
+Josh: What is windex?
+Wagers: 
+Patricia: $1,700
+Josh: $3,401
+Ken: $2,800
+Final scores:
+Ken: $35,000 (11-day champion: $376,158)
+Patricia: $3,300 (2nd place: $2,000)
+Josh: $3,199 (3rd place: $1,000)
+
+Coryat scores
+Ken: $28,400 (38 R(including 2 DDs),5 W)
+Patricia: $5,000 (6 R,1 W)
+Josh: $6,600 (11 R(including 1 DD),3 W)

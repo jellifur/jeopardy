@@ -1,0 +1,334 @@
+1307 - Tuesday, April 17, 1990
+Contestants:
+Jim George: a history teacher from Hazleton, Pennsylvania
+Liz Barnea: a librarian from Billings, Montana
+Steve Mueller: an agency manager from Milwaukee, Wisconsin (whose 1-day cash winnings total $15,000)
+First Jeopardy! Round: "BLUE" MOVIES, MEDICINE, SUPERSTITIONS, PROVERBS, MEAT, POTATOES
+"BLUE" MOVIES | 1980 film in which 2 shipwrecked kids grow up to be Brooke Shields & Christopher Atkins | "The Blue Lagoon"
+right: Jim
+Wrong: 
+Value: $100
+Number: 1
+MEDICINE | This test for cervical cancer was devised by & named for Dr. George Papanicolaou | Pap Smear
+right: Jim
+Wrong: 
+Value: $100
+Number: 26
+SUPERSTITIONS | According to one superstition, a gift of a purse or wallet should always contain some of this | Money
+right: Jim
+Wrong: 
+Value: $100
+Number: 2
+PROVERBS | Completes the proverb "Living well is the best..." | Revenge
+right: Jim
+Wrong: 
+Value: $100
+Number: 20
+MEAT | The front part of a hindquarter with the flank removed, it may be "tender" | Loin
+right: Jim
+Wrong: 
+Value: $100
+Number: 21
+POTATOES | In England french fries are called this | Chips
+right: Jim
+Wrong: 
+Value: $100
+Number: 7
+"BLUE" MOVIES | In this 1930 film Marlene Dietrich played Lola-Lola, a sultry cabaret singer | "The Blue Angel"
+right: Jim
+Wrong: 
+Value: $200
+Number: 12
+MEDICINE | Queen Victoria passed this hereditary blood disease to many of her royal descendants | Hemophilia
+right: Steve
+Wrong: 
+Value: $200
+Number: 27
+SUPERSTITIONS | Wedding custom that is supposed to ensure the marriage will produce many children | throwing rice
+right: Jim
+Wrong: 
+Value: $200
+Number: 3
+PROVERBS | These "that have honey in their mouths have stings in their tails." | Bees
+right: Jim
+Wrong: 
+Value: $200
+Number: 16
+MEAT | It's the term for a young pig that's fattened for its meat | Porker
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 22
+POTATOES | About 10 days before harvest farmers do this to the vines | Cut them down
+right: Steve
+Wrong: 
+Value: $200
+Number: 8
+"BLUE" MOVIES | George Gershwin's songs were featured in this 1945 biographical film | "Rhapsody In Blue"
+right: Jim
+Wrong: 
+Value: $300
+Number: 9
+MEDICINE | A disease that comes & goes quickly is "acute", while this describes a disease of long duration | Chronic
+right: Liz
+Wrong: 
+Value: $300
+Number: 28
+SUPERSTITIONS | 4 is an unlucky number in this country because "shi", the word for 4, sounds like the word for death | Japan
+right: Jim
+Wrong: 
+Value: $300
+Number: 4
+PROVERBS | "Better the foot slip than" this | Tongue
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 17
+MEAT | This country is the world's largest exporter of mutton | Australia
+right: Steve
+Wrong: 
+Value: $300
+Number: 23
+POTATOES | To distinguish a potato from the unrelated sweet potato, it's usually called "Irish" or this color | White
+right: Jim
+Wrong: 
+Value: $300
+Number: 13
+"BLUE" MOVIES | 1 of the 2 Elvis Presley films that fit the category | "Blue Hawaii" & "G.I. Blues"
+right: Jim
+Wrong: 
+Value: $400
+Number: 10
+MEDICINE | Rickets is caused by inadequate exposure to sunlight or a lack of this vitamin in the diet | vitamin D
+right: Liz
+Wrong: 
+Value: DD: $500
+Number: 29
+SUPERSTITIONS | Term for the symbols seen on barns in Pennsylvania Dutch country | Hex signs
+right: Jim
+Wrong: 
+Value: $400
+Number: 5
+PROVERBS | "The mouse that has but one" of these "is quickly taken." | Hole
+right: Jim
+Wrong: 
+Value: $400
+Number: 18
+MEAT | This variety meat is the thymus gland, usually taken from a calf, but occasionally a lamb | Sweetbreads
+right: Steve
+Wrong: 
+Value: $400
+Number: 24
+POTATOES | This country leads the world in production of potatoes | Soviet Union
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+"BLUE" MOVIES | Isabella Rossellini sang the title song, an old Bobby Vinton hit, in this 1986 film | "Blue Velvet"
+right: Steve
+Wrong: 
+Value: $500
+Number: 11
+SUPERSTITIONS | In the South it was thought a sin to do this, as in the title of a Harper Lee novel | "To Kill A Mockingbird"
+right: Liz
+Wrong: 
+Value: $500
+Number: 6
+PROVERBS | Line that pairs with "See a pin and let it lie, you'll want a pin before you die." | "See a pin and pick it up, and all the day you shall have good luck."
+right: Jim
+Wrong: 
+Value: $500
+Number: 19
+MEAT | Spelling that completes the jingle "Oscar Mayer has a way with...." | B-O-L-O-G-N-A
+right: Jim
+Wrong: 
+Value: $500
+Number: 25
+POTATOES | It's the primary variety of potato grown in the U.S. | Russet/Burbank
+right: Steve
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Steve: $800
+Liz: $500
+Jim: $1,500
+Scores at the end of the Jeopardy! Round:
+Steve: $1,400
+Liz: $1,300
+Jim: $2,900
+Second Jeopardy! Round: THE 4 SEASONS, U.S. STATES, FICTIONAL SERVANTS, WORLD HISTORY, TRANSPORTATION, IRVING BERLIN
+THE 4 SEASONS | The 2 Olympics are distinguished by these seasonal names | Summer & Winter
+right: Steve
+Wrong: 
+Value: $200
+Number: 18
+U.S. STATES | Mt. Waialeale, the wettest spot in the world, is located in this state | Hawaii
+right: Liz
+Wrong: 
+Value: $200
+Number: 1
+FICTIONAL SERVANTS | She says to Juliet, "O Romeo, Romeo!  Who ever would have thought it?  Romeo!" | Juliet's Nurse
+right: Steve
+Wrong: 
+Value: $200
+Number: 30
+WORLD HISTORY | King Victor Emmanuel III appionted him prime minister of Italy in 1922 | Benito Mussolini
+right: Jim
+Wrong: 
+Value: $200
+Number: 13
+TRANSPORTATION | During WWI the British called them "limps", the most common being the "B" type | Blimps
+right: Jim
+Wrong: 
+Value: $200
+Number: 25
+IRVING BERLIN | "Come on and hear, come on and hear", this song, Berlin's first big hit, which he wrote in 1911 | "Alexander's Ragtime Band"
+right: Steve
+Wrong: 
+Value: $200
+Number: 11
+THE 4 SEASONS | If you're old you're not this type of chicken | Spring Chicken
+right: Steve
+Wrong: 
+Value: $400
+Number: 20
+U.S. STATES | The capital of this state was named for Pierre Chouteau, a French fur trader | South Dakota
+right: Liz
+Wrong: 
+Value: $400
+Number: 2
+FICTIONAL SERVANTS | She was nanny to little Londoners Jane & Michael Banks | Mary Poppins
+right: Steve
+Wrong: 
+Value: $400
+Number: 10
+WORLD HISTORY | This Parisian school was founded as a college of theology in 1253 | The Sorbonne
+right: Jim
+Wrong: 
+Value: $400
+Number: 14
+TRANSPORTATION | It's said these are "manned" in an emergency, but they're usually womened & childrened first | Lifeboats
+right: Steve
+Wrong: 
+Value: $400
+Number: 26
+IRVING BERLIN | This Irving Berlin song has been called "The Nation's Unofficial Second National Anthem" | "God Bless America"
+right: Liz
+Wrong: 
+Value: $400
+Number: 8
+THE 4 SEASONS | The 2 seasons that begin on an equinox | Spring & Fall
+right: Liz
+Wrong: 
+Value: $600
+Number: 22
+U.S. STATES | The Hawkeyes of this "Hawkeye State" must read a lot -- they have the highest literacy rate in the U.S. | Iowa
+right: Steve
+Wrong: 
+Value: $600
+Number: 3
+FICTIONAL SERVANTS | What Mrs. Bridges did "downstairs" for the Bellamy famliy, who lived "upstairs" | Cook
+right: Jim
+Wrong: 
+Value: $600
+Number: 12
+WORLD HISTORY | This N. European country was a grand duchy ruled by Russia before gaining its independence in 1917 | Finland
+right: Liz
+Wrong: 
+Value: $600
+Number: 15
+TRANSPORTATION | A San Franciscan can tell you BART stands for this | Bay Area Rapid Transit
+right: Steve
+Wrong: 
+Value: $600
+Number: 27
+IRVING BERLIN | (AUDIO DAILY DOUBLE): In 1927 A. Jolson sang this Berlin tune in "The Jazz Singer"; Willie Nelson had a hit with it 50 years later: | "Blue Skies"
+right: Steve
+Wrong: 
+Value: DD: $1,800
+Number: 4
+THE 4 SEASONS | In a sonnet Shakespeare asked, "Shall I compare thee" to a "day" in this season | Summer
+right: Steve
+Wrong: 
+Value: $800
+Number: 23
+U.S. STATES | Canyonlands National Park & Arches National Park are tourist attractions in this state | Utah
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+FICTIONAL SERVANTS | P.G. Wodehouse first introduced this gentleman's gentleman in "Extricating Young Gussie" | Jeeves
+right: Jim
+Wrong: 
+Value: $800
+Number: 19
+WORLD HISTORY | A reported attack on 2 U.S. destroyers in this gulf led to the passage of the 1964 resolution named for it | Gulf of Tonkin
+right: Jim
+Wrong: 
+Value: $800
+Number: 16
+TRANSPORTATION | It's what "powered" the first B&O passenger train back in 1830 | Horses
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+IRVING BERLIN | Berlin's 1946 Broadway hit, it featured the songs "The Girl That I Marry" & "I'm An Indian Too!" | "Annie Get Your Gun"
+right: Liz
+Wrong: 
+Value: $800
+Number: 5
+THE 4 SEASONS | The 2 seasons used to distinguish types of wheat | Winter & Spring
+right: Liz
+Wrong: 
+Value: $1000
+Number: 24
+U.S. STATES | This state ceded Tennessee to the U.S. in 1784, then reclaimed it & ceded it again in 1789 | North Carolina
+right: Liz
+Wrong: 
+Value: $1000
+Number: 7
+FICTIONAL SERVANTS | Jean Genet play in which 2 sisters attempt to poison their mistress | "The Maids"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+WORLD HISTORY | A 1795 partition ended its existence as a separate state in E. Europe; in 1918 it was back as a republic | Poland
+right: Jim
+Wrong: 
+Value: $1000
+Number: 17
+TRANSPORTATION | The Goodspeed, Sarah Constant & Discovery brought the first people to this settlement | Jamestown
+right: 
+Wrong: 
+Value: DD: $300
+Number: 29
+IRVING BERLIN | Complete's Jerome Kern's quote "Irving Berlin has no place in American music..." | "Irving Berlin Is American Music"
+right: Steve
+Wrong: 
+Value: $1000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+Steve: $5,900
+Liz: $5,500
+Jim: $5,500
+
+Final Jeopardy! Round
+MAGAZINES | The 2 major literary monthlies founded in the 1850s that survive today | The Atlantic Monthly & Harpers
+right: Liz
+Wrong: 
+Jim: What are Scrivner's & The Atlantic?
+Steve: What are the Atlantic Monthly & Redbook?
+Wagers: 
+Jim: $5,500
+Liz: $5,500
+Steve: $5,200
+Final scores:
+Steve: $700 (2nd place: Ashley Bedroom Group)
+Liz: $11,000 (New champion: $11,000)
+Jim: $0 (3rd place: Smith Corona PWP 7000 "Laptop" Word Processor)
+
+Coryat scores
+Steve: $5,000 (17 R(including 1 DD),5 W(including 1 DD))
+Liz: $5,400 (11 R(including 1 DD),1 W)
+Jim: $5,500 (24 R,6 W)

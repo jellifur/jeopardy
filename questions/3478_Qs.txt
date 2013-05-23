@@ -1,0 +1,345 @@
+5996 - Monday, October 11, 2010
+Contestants:
+Carol Denny: a writer for a non-profit environmental foundation from Arnold, Maryland
+Dylan Payne: a psychiatrist from New York, New York
+Mike Hodel: a bartender from Bellingham, Washington (whose 2-day cash winnings total $20,200)
+First Jeopardy! Round: STATES' FORMER CAPITALS, NBA HALL OF FAMERS, SECRET MENUS, DIED ON THE SAME DAY, LET'S CALL TRIPLE "A", STRING THEORY 101
+STATES' FORMER CAPITALS | New Haven | Connecticut
+right: Mike
+Wrong: 
+Value: $200
+Number: 26
+NBA HALL OF FAMERS | He won an NBA title ring in 1973 as a reserve forward with the Knicks & coached the Bulls to 6 titles in the '90s | Phil Jackson
+right: Dylan
+Wrong: 
+Value: $200
+Number: 1
+SECRET MENUS | A move to healthy eating got the Pizza Sub nixed from this chain, but we hear if you ask nicely some stores will make it | Subway
+right: Mike
+Wrong: 
+Value: $200
+Number: 11
+DIED ON THE SAME DAY | C.S. Lewis & Aldous Huxley's deaths on Nov. 22, 1963 were overshadowed by this man's death in Dallas | John Kennedy
+right: Dylan
+Wrong: 
+Value: $200
+Number: 21
+LET'S CALL TRIPLE "A" | From the Italian for "bad air", this disease kills more than one million people each year | malaria
+right: Carol
+Wrong: 
+Value: $200
+Number: 5
+STRING THEORY 101 | String puppets are often called these, affer a certain virgin | marionettes
+right: Dylan
+Wrong: 
+Value: $200
+Number: 16
+STATES' FORMER CAPITALS | Knoxville | Tennessee
+right: Dylan
+Wrong: 
+Value: $400
+Number: 27
+NBA HALL OF FAMERS | In 2000 this former Celtics player coached the Indiana Pacers to the NBA finals | Larry Bird
+right: Mike
+Wrong: 
+Value: $400
+Number: 2
+SECRET MENUS | Wendy's will make you a grand slam burger with this many patties, but don't tell everyone | four
+right: Carol
+Wrong: 
+Value: $400
+Number: 12
+DIED ON THE SAME DAY | Just hours before Michael Jackson's death, Hollywood lost this TV "Angel" | Farrah Fawcett
+right: Mike
+Wrong: 
+Value: $400
+Number: 22
+LET'S CALL TRIPLE "A" | In 1775 this island in San Francisco Bay was called "Island of the Pelicans" | Alcatraz
+right: Carol
+Wrong: 
+Value: $400
+Number: 6
+STRING THEORY 101 | If you're emotionally dependent on mom, you're "tied to" these "strings" | apron strings
+right: Dylan
+Wrong: 
+Value: $400
+Number: 17
+STATES' FORMER CAPITALS | Wheeling | West Virginia
+right: Carol
+Wrong: 
+Value: $600
+Number: 28
+NBA HALL OF FAMERS | Abe Saperstein is in the Hall of Fame, as is this team he promoted & coached for decades | The Harlem Globetrotters
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+SECRET MENUS | Have it your way at this chain & order a Mustard Whopper, which substitutes the yellow stuff for mayo | Burger King
+right: Mike
+Wrong: 
+Value: $600
+Number: 13
+DIED ON THE SAME DAY | On April 25, 1995 first "Jeopardy!" host Art Fleming passed away & the dance was over for this partner of Fred | Ginger Rogers
+right: Dylan
+Wrong: 
+Value: $600
+Number: 23
+LET'S CALL TRIPLE "A" | God requires adult Muslims to fast during this month so they may cultivate piety | Ramadan
+right: Mike
+Wrong: 
+Value: $600
+Number: 7
+STRING THEORY 101 | A 1942 big band hit was entitled "String Of" these | "String Of Pearls"
+right: Carol
+Wrong: 
+Value: $600
+Number: 18
+STATES' FORMER CAPITALS | Huntsville | Alabama
+right: Dylan
+Wrong: 
+Value: $800
+Number: 29
+NBA HALL OF FAMERS | As a rookie in the 1980 NBA finals, this Michigan State alum played all 5 positions & scored 42 points in the final game | Magic Johnson
+right: Carol
+Wrong: 
+Value: $800
+Number: 4
+SECRET MENUS | Fatburger offers a "Hypocrite Burger" featuring this type of patty with slabs of bacon | veggie patty
+right: Dylan
+Wrong: 
+Mike: What is a tofu patty?
+Value: $800
+Number: 14
+DIED ON THE SAME DAY | This famed aviator outlived his brother by 35 years, passing away in 1948 on the same day Gandhi was assassinated | Orville Wright
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+LET'S CALL TRIPLE "A" | The university environment | academia
+right: Mike
+Wrong: 
+Value: DD: $800
+Number: 8
+STRING THEORY 101 | In the U.S. string cheese is usually a type of this cheese | mozzarella
+right: Dylan
+Wrong: 
+Value: $800
+Number: 19
+STATES' FORMER CAPITALS | Guthrie | Oklahoma
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+NBA HALL OF FAMERS | This Nigeria-born Rockets player holds the NBA record for career blocked shots with 3,830 | Hakeem Olajuwon
+right: Dylan
+Wrong: 
+Value: $1000
+Number: 10
+SECRET MENUS | Ask this chain that's inspired by a fictional pirate for a "side of crumbs", & you'll get some fried batter bits | Long John Silver's
+right: Dylan
+Wrong: 
+Value: $1000
+Number: 15
+DIED ON THE SAME DAY | Italian filmmaker Michelangelo Antonioni died in 2007 at age 94 on the same day as this 89-year-old Swedish director | Ingmar Bergman
+right: Carol
+Wrong: 
+Value: $1000
+Number: 25
+LET'S CALL TRIPLE "A" | San Diego County is estimated to have a million acres of this Spanish-named dense shrub growth | chaparral
+right: Mike
+Wrong: 
+Value: $1000
+Number: 9
+STRING THEORY 101 | Aglets are found on the ends of these strings | shoelaces
+right: Carol
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Mike: $2,800
+Dylan: $2,000
+Carol: $1,800
+Scores at the end of the Jeopardy! Round:
+Mike: $3,400
+Dylan: $6,400
+Carol: $5,000
+Second Jeopardy! Round: LIBRARIES, THE HOUND OF MUSIC, PLAY ADJECTIVES, JERSEY GIRLS, RUSSIAN, STRING THEORY 201
+LIBRARIES | In 1889 this philanthropist funded his first U.S. library in Braddock, Penn., home to one of his steel mills | Carnegie
+right: Mike
+Wrong: 
+Value: $400
+Number: 17
+THE HOUND OF MUSIC | Songwriter Scott English started an urban myth when he jokingly said this 1975 Barry Manilow No. 1 hit was about a dog | "Mandy"
+right: Carol
+Wrong: 
+Dylan: What is "I Write The Songs"?
+Value: $400
+Number: 12
+PLAY ADJECTIVES | David Yazbek & Jeffrey Lane's musical "____ ____ Scoundrels" | Dirty Rotten
+right: Mike
+Wrong: 
+Value: $400
+Number: 6
+JERSEY GIRLS | Doing laundry in the sink, this "Jersey Shore" girl aka Nicole Polizzi said, "I feel like a pilgrim from the friggin' '20s" | Snooki
+right: Dylan
+Wrong: 
+Value: $400
+Number: 1
+RUSSIAN | A shapka is this: mikhavaya shapka is a fur one, to keep your ears warm | a hat
+right: Mike
+Wrong: 
+Value: $400
+Number: 2
+STRING THEORY 201 | String theory attempts to merge quantum mechanics with Einstein's general theory of this | relativity
+right: Mike
+Wrong: 
+Value: $400
+Number: 23
+LIBRARIES | Raffaele Farina, known as Bibliothecarius XLVI, is its head librarian | the Vatican
+right: Mike
+Wrong: 
+Value: DD: $7,400
+Number: 18
+THE HOUND OF MUSIC | It's the breed of long-eared hound dog a tuxedo-clad Elvis is serenading <http://www.j-archive.com/media/2010-10-11_DJ_13.jpg> here | Bassett
+right: Mike
+Wrong: 
+Value: $800
+Number: 13
+PLAY ADJECTIVES | Tennessee Williams' "____ Bird of Youth" | Sweet Bird of Youth
+right: Carol
+Wrong: 
+Value: $800
+Number: 7
+JERSEY GIRLS | This Algonquin wit was born in West End, N.J. in 1893 & was a drama critic for Vanity Fair by 1917 | Dorothy Parker
+right: Carol
+Wrong: 
+Value: $800
+Number: 22
+RUSSIAN | "Idyot snyek" means this is happening, a common weather condition in January | snowing
+right: Mike
+Wrong: 
+Value: $800
+Number: 3
+STRING THEORY 201 | In certain string theories, you can get up to 26 of these; we're used to dealing with 4 of them, of which length is one | dimensions
+right: Carol
+Wrong: 
+Value: $800
+Number: 24
+LIBRARIES | This Ivy League school's Nassau Hall once served as its library; today, books are housed in the Firestone library | Princeton
+right: Mike
+Wrong: 
+Value: $1200
+Number: 19
+THE HOUND OF MUSIC | Paul Anka & Donny Osmond both had hits with this tune that sounds like it's about a young dog's affection | "Puppy Love"
+right: Mike
+Wrong: 
+Dylan: What is "Hound Dog Love"?
+Value: $1200
+Number: 14
+PLAY ADJECTIVES | Mark Medoff's "Children of a ____ God" | Lesser
+right: Dylan
+Wrong: 
+Value: $1200
+Number: 8
+JERSEY GIRLS | Jersey City-born, this "Living Omnimedia" lifestyle maven was raised in Nutley, & that's a good thing | Martha Stewart
+right: Dylan
+Wrong: 
+Value: $1200
+Number: 28
+RUSSIAN | Blinaya means this, the "hop" in IHOP | house of pancakes
+right: Dylan
+Wrong: 
+Value: $1200
+Number: 4
+STRING THEORY 201 | A successful string theory would describe nature's 4 forces: weak, strong, electromagnetism & this one | gravity
+right: Dylan
+Wrong: 
+Value: $1200
+Number: 25
+LIBRARIES | This Maryland community is home to the National Library of Medicine & the National Naval Medical Center | Bethesda
+right: Mike
+Wrong: 
+Dylan: What is Annapolis?
+Value: $1600
+Number: 20
+THE HOUND OF MUSIC | Title question posed by Patti Page in a 1953 smash | "How Much Is That Doggie In The Window?"
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 15
+PLAY ADJECTIVES | Noel Coward 's "____ Spirit" | Blithe Spirit
+right: Carol
+Wrong: 
+Value: $1600
+Number: 10
+JERSEY GIRLS | This "Fudge"-tastic children's author was born in Elizabeth, New Jersey | Judy Blume
+right: Carol
+Wrong: 
+Value: $1600
+Number: 29
+RUSSIAN | To get around underground, the letter seen <http://www.j-archive.com/media/2010-10-11_DJ_05.jpg> here stands for this word | metro
+right: Carol
+Wrong: 
+Value: $1600
+Number: 5
+STRING THEORY 201 | String theory is part of this "P" branch of physics that studies eensy little items | particle
+right: Dylan
+Wrong: 
+Value: $1600
+Number: 26
+LIBRARIES | Among this San Marino, California library's exhibits are a 15th century manuscript of "The Canterbury Tales" & a Gutenberg Bible | the Huntington Library
+right: Mike
+Wrong: 
+Value: $2000
+Number: 21
+THE HOUND OF MUSIC | Three word slogan that accompanied the RCA Victor advertisement seen <http://www.j-archive.com/media/2010-10-11_DJ_16.jpg> here | His Master's Voice
+right: Dylan
+Wrong: 
+Value: $2000
+Number: 16
+PLAY ADJECTIVES | Howard Sackler's "The  ____ ____ Hope" | The Great White Hope
+right: Carol
+Wrong: 
+Value: $2000
+Number: 11
+JERSEY GIRLS | Governor of New Jersey form 1994 to 2001, she appointed the state's first female Attorney General | Christine Whitman
+right: Carol
+Wrong: 
+Value: DD: $4,000
+Number: 30
+RUSSIAN | Russian word for a home like Novo-Ogarevo, Vladimir Putin's forest retreat near Moscow | a dacha
+right: Carol
+Wrong: 
+Value: $2000
+Number: 9
+STRING THEORY 201 | Bosonic string theory has only bosons & none of these particles named for physicist Enrico | fermions
+right: 
+Wrong: Triple Stumper
+Carol: Who is Fermi?
+Value: $2000
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Mike: $20,000
+Dylan: $12,000
+Carol: $18,600
+
+Final Jeopardy! Round
+PRISONS | Nazi Rudolf Hess in 1941 & the notorious Kray twins in 1952 were among the last people briefly held here | the Tower of London
+right: 
+Wrong: 
+Dylan: What is Alcatraz?
+Carol: What is Nuremburg?
+Mike: What is Alcatraz?
+Wagers: 
+Dylan: $12,000
+Carol: $5,401
+Mike: $17,300
+Final scores:
+Mike: $2,700 (2nd place: $2,000)
+Dylan: $0 (3rd place: $1,000)
+Carol: $13,199 (New champion: $13,199)
+
+Coryat scores
+Mike: $13,400 (19 R(including 2 DDs),1 W)
+Dylan: $12,000 (18 R,3 W)
+Carol: $16,600 (18 R(including 1 DD),1 W)

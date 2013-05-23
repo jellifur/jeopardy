@@ -1,0 +1,352 @@
+5272 - Tuesday, July 10, 2007
+Contestants:
+Monica Lenhard: a teacher from Royal Oak, Michigan
+Tom Traylor: a hospice chaplain from San Francisco, California
+Tim Abou-Sayed: a plastic surgeon from Manalapan, Florida (whose 3-day cash winnings total $49,402)
+First Jeopardy! Round: THE WHALING WALLS, COLORFUL FILMS, THE NEW YORK TIMES JOURNALISTS, "C" ME, APPLES, WORLD'S OLDEST MAN'S RÉSUMÉ
+THE WHALING WALLS | A mural was painted on the Whale Museum in Taiji, the city that started the industry for this country | Japan
+right: Monica
+Wrong: 
+Value: $200
+Number: 6
+COLORFUL FILMS | A classic from the '80s:  "Pretty in ____" | Pink
+right: Tom
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES JOURNALISTS | As Michelle Higgins is the "Practical" this, she'll tell you how to cut the high cost of flying to Africa | Traveler
+right: Tim
+Wrong: 
+Value: $200
+Number: 19
+"C" ME | Adjective meaning curved inward, like the inside of a circle or sphere | concave
+right: Tim
+Wrong: 
+Value: $200
+Number: 9
+APPLES | The Tree Top Company's website has recipes for the Sour Cream & Dutch Kitchen types of this | pie
+right: Tim
+Wrong: 
+Tom: What is sour cream cake?
+Value: $200
+Number: 24
+WORLD'S OLDEST MAN'S RÉSUMÉ | Maker of racing saddles for these, like the Diplodocus & the Iguanandon | dinosaurs
+right: Tom
+Wrong: 
+Value: $200
+Number: 14
+THE WHALING WALLS | The whales seen <http://www.j-archive.com/media/2007-07-10_J_07.jpg> here arrived in time for the 1996 Olympics in this city | Atlanta
+right: Monica
+Wrong: 
+Value: $400
+Number: 7
+COLORFUL FILMS | A documentary about Texas justice:  "The Thin ____ Line" | Blue
+right: Monica
+Wrong: 
+Value: $400
+Number: 2
+THE NEW YORK TIMES JOURNALISTS | Frank Bruni, whose yearly entertainment budget is $350,000, is on this beat | restaurants (food critic)
+right: Tim
+Wrong: 
+Monica: What is theater?
+Value: $400
+Number: 20
+"C" ME | Animal subphylum of chiefly aquatic arthropods covered by a hard shell | crustacean
+right: Tim
+Wrong: 
+Value: $400
+Number: 10
+APPLES | The Wenatchee Valley is the heart of this state's apple country | Washington
+right: Tom
+Wrong: 
+Tim: What is Kentucky?
+Value: $400
+Number: 25
+WORLD'S OLDEST MAN'S RÉSUMÉ | Legal aide for Judge Winthrop at these notorious trials in 1692 | the Salem Witch Trials
+right: Tom
+Wrong: 
+Value: $400
+Number: 15
+THE WHALING WALLS | At the Intercontinental Hotel, check out the whales from Lakeshore Drive & the Navy Pier in this city [Addendum: Lake Shore Drive & Navy Pier] | Chicago
+right: Tim
+Wrong: 
+Value: $600
+Number: 8
+COLORFUL FILMS | A 1998 WWII flim: "The Thin ____ Line" | Red
+right: Monica
+Wrong: 
+Value: $600
+Number: 3
+THE NEW YORK TIMES JOURNALISTS | In 1990 Nicholas Kristof & his wife Sheryl WuDunn won a Pulitzer covering China's democracy movement in this place | Tiananmen Square
+right: Monica
+Wrong: 
+Value: $600
+Number: 21
+"C" ME | (<http://www.j-archive.com/media/2007-07-10_J_11.jpg> Cheryl of the Clue Crew reports from a lab at the University of Mississippi.)  Sound waves are used to heat and seal blood vessels in a 21st century version of <http://www.j-archive.com/media/2007-07-10_J_11a.jpg> this process from the Latin for "branding iron" | cauterizing
+right: Monica
+Wrong: 
+Value: $600
+Number: 11
+APPLES | This preparation is a favorite accompaniment of foods from pork to latkes | applesauce
+right: Tom
+Wrong: 
+Value: DD: $1,500
+Number: 26
+WORLD'S OLDEST MAN'S RÉSUMÉ | Ticket scalper fro Custer's 1876 "Last Stand" at the Little Bighorn in this state | Montana
+right: Monica
+Wrong: 
+Tim: What is South Dakota?
+Tom: What is North Dakota?
+Value: $600
+Number: 16
+THE WHALING WALLS | You can see Atlantic whales on Queen's Quay E. near the Gardiner Expressway in this city on Lake Ontario | Toronto
+right: Tim
+Wrong: 
+Value: $800
+Number: 29
+COLORFUL FILMS | A classic from the '40s: "She Wore a ____ Ribbon" | Yellow
+right: Tom
+Wrong: 
+Value: $800
+Number: 4
+THE NEW YORK TIMES JOURNALISTS | We bet the first Monday in Oct. is always circled on Linda Greenhouse's calendar; she started on this Times beat in 1978 | the Supreme Court
+right: Monica
+Wrong: 
+Value: $800
+Number: 22
+"C" ME | A substance that speeds up a chemical reaction | a catalyst
+right: Tim
+Wrong: 
+Value: $800
+Number: 12
+APPLES | Being packed with pectin makes apples an excellent source of this in the diet | fiber
+right: Tom
+Wrong: 
+Tim: What is protein?
+Monica: What is vitamin C?
+Value: $800
+Number: 27
+WORLD'S OLDEST MAN'S RÉSUMÉ | Was quite excited to proofread this ribald French author's "Justine" in the 1790s | the Marquis de Sade
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+THE WHALING WALLS | You can see a mural of Keiko in the adventure park in this country where the desire to "Free Willy" began | Mexico
+right: 
+Wrong: Triple Stumper
+Tim: What is China?
+Value: $1000
+Number: 30
+COLORFUL FILMS | A 2004 comedy: "Harold & Kumar Go to ____ Castle" | White
+right: Monica
+Wrong: 
+Value: $1000
+Number: 5
+THE NEW YORK TIMES JOURNALISTS | Pulitzer-winning Op-Ed columnist Thomas L. Friedman wrote "A Brief History of the 21st Century" in "The World is" this | Flat
+right: Tim
+Wrong: 
+Value: $1000
+Number: 23
+"C" ME | A cruciverbal diversion | a crossword
+right: Tom
+Wrong: 
+Value: $1000
+Number: 13
+APPLES | Unlike the tech version, there's no "A" in the name of this apple named for the finder of the1st seedling in 1811 | McIntosh
+right: Tom
+Wrong: 
+Value: $1000
+Number: 28
+WORLD'S OLDEST MAN'S RÉSUMÉ | Torturer's apprentice to this Spanish Inquisitor General who lived from 1420 to 1498 | Torquemada
+right: Tim
+Wrong: 
+Value: $1000
+Number: 18
+Scores at the first commercial break (after clue 15)
+Tim: $2,000
+Tom: $2,600
+Monica: $3,200
+Scores at the end of the Jeopardy! Round:
+Tim: $2,800
+Tom: $5,500
+Monica: $4,000
+Second Jeopardy! Round: THE WAR OF 1812, NAMES IN POP MUSIC, CONTINENTAL DRIFTING, GEMS & JEWELS, THEIR FIRST NOVELS, THE "SPACE" AGE
+THE WAR OF 1812 | As he was carried below, mortally wounded, Capt. James Lawrence of the Chesapeake ordered, "don't" do this | give up the ship
+right: Tom
+Wrong: 
+Value: $400
+Number: 16
+NAMES IN POP MUSIC | A very aggressive gridiron playing style, or a band known for "Walkin' On The Sun" | Smash Mouth
+right: 
+Wrong: Triple Stumper
+Tim: What is Blitzkrieg?
+Value: $400
+Number: 6
+CONTINENTAL DRIFTING | Villarica & Cotopaxi are volcanoes found on this continent | South America
+right: Monica
+Wrong: 
+Tim: What is North America?
+Value: $400
+Number: 1
+GEMS & JEWELS | In 1867 a child in South Africa found a "pretty pebble", which turned out to be a 22-carat one of these | diamonds
+right: Tom
+Wrong: 
+Value: $400
+Number: 11
+THEIR FIRST NOVELS | "The Time Machine" (1895) | H.G. Wells
+right: Tim
+Wrong: 
+Value: $400
+Number: 25
+THE "SPACE" AGE | Computer key at the top right of the main keyboard grid | backspace
+right: Monica
+Wrong: 
+Value: $400
+Number: 15
+THE WAR OF 1812 | The Battle of Lundy's Lane on July 25, 1814 was the USA's last invasion of what's now this country | Canada
+right: Monica
+Wrong: 
+Value: $800
+Number: 17
+NAMES IN POP MUSIC | He could be one of Scooby Doo's crew, but this reggae star made "Angel" a big hit in 2001 | Shaggy
+right: Monica
+Wrong: 
+Value: $800
+Number: 7
+CONTINENTAL DRIFTING | Of 20, 30 or 50%, the percentage of the Earth's land Asia occupies as the world's largest continent | 30%
+right: Tom
+Wrong: 
+Value: $800
+Number: 2
+GEMS & JEWELS | Nephrite is the main source of this gem; it comes in white, red & dark green, which is the most valuable type | jade
+right: Tom
+Wrong: 
+Tim: What is emerald?
+Value: $800
+Number: 12
+THEIR FIRST NOVELS | "Look Homeward, Angel" (1929) | Thomas Wolfe
+right: Tom
+Wrong: 
+Value: $800
+Number: 26
+THE "SPACE" AGE | 2-word term for someone out of touch with reality, or what Tom Corbett was in a 1950s TV show title | space cadet
+right: Tim
+Wrong: 
+Value: $800
+Number: 21
+THE WAR OF 1812 | During the war, this U.S. frigate was commended by Isaac Hull, William Bainbridge & Charles Stewart | U.S.S. Constitution
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+NAMES IN POP MUSIC | Before Whitesnake, Dave Coverdale was a member of this "colorful" "Smoke On The Water" group | Deep Purple
+right: Tim
+Wrong: 
+Value: $1200
+Number: 8
+CONTINENTAL DRIFTING | The equator stretches across more land mass on this continent than any other | Africa
+right: 
+Wrong: 
+Tom: What is South America?
+Value: DD: $2,500
+Number: 3
+GEMS & JEWELS | The name of this deep-red gem & "pomegranate" come from the same root | garnet
+right: Tom
+Wrong: 
+Value: $1200
+Number: 13
+THEIR FIRST NOVELS | "Sister Carrie" (1900) | Theodore Dreiser
+right: Tom
+Wrong: 
+Value: $1200
+Number: 27
+THE "SPACE" AGE | Low area under the floor of a building for access to plumbing or wiring | crawlspace
+right: Tom
+Wrong: 
+Value: $1200
+Number: 22
+THE WAR OF 1812 | On the night of September 13-14, 1814, British Admiral George Cockburn tried to take this fort but failed | Fort McHenry
+right: Monica
+Wrong: 
+Value: DD: $2,000
+Number: 19
+NAMES IN POP MUSIC | "Love Is Like Oxygen" & "Ballroom Blitz" both charted for this "saccharin" band | Sweet
+right: 
+Wrong: Triple Stumper
+Tim: What is Sugar?
+Value: $1600
+Number: 9
+CONTINENTAL DRIFTING | (<http://www.j-archive.com/media/2007-07-10_DJ_04.jpg> Jon of the Clue Crew stands in front of an ancient globe) Meaning "all earth", it's the term Alfred Wegener gave to an historic, theoretical supercontinent | Pangaea
+right: Tim
+Wrong: 
+Value: $1600
+Number: 4
+GEMS & JEWELS | Corundums with 3 bands of light are called "stars"; corundums with one band have this feline name | cats eye
+right: Monica
+Wrong: 
+Value: $1600
+Number: 14
+THEIR FIRST NOVELS | "The Natural" (1952) | Bernard Malamud
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+THE "SPACE" AGE | Atmospheric region above a state or nation | airspace
+right: Tim
+Wrong: 
+Value: $1600
+Number: 23
+THE WAR OF 1812 | This Speaker of the House, the "Great Pacificator", was one of the War Hawks urging war with Britain | Henry Clay
+right: Monica
+Wrong: 
+Value: $2000
+Number: 20
+NAMES IN POP MUSIC | "Bela Lugosi's Dead" is an offering from this '80s group that's named for Walter Gropius' school of design | Bauhaus
+right: Tom
+Wrong: 
+Value: $2000
+Number: 10
+CONTINENTAL DRIFTING | It's also the sixth-largest country in area | Australia
+right: Tim
+Wrong: 
+Value: $2000
+Number: 5
+GEMS & JEWELS | The name of this September birthstone may come from the Sanskrit for "dear to the planet Saturn" | Sapphire
+right: Monica
+Wrong: 
+Value: $2000
+Number: 29
+THEIR FIRST NOVELS | "Adam Bede" (1859) | George Eliot
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+THE "SPACE" AGE | In graphic design, it's the unprinted or empty area on a page & can actually be any color | white space
+right: Tim
+Wrong: 
+Value: $2000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Tim: $9,200
+Tom: $11,800
+Monica: $14,000
+
+Final Jeopardy! Round
+MYTHICAL HEROES | In a play by Euripides, he goes mad & thinks he's tearing down the walls of Mycenae but destroys his own house | Hercules
+right: Monica
+Wrong: 
+Tim: Who was Ajax?
+Tom: Who is Edipus?
+Wagers: 
+Tim: $9,198
+Tom: $9,200
+Monica: $7,000
+Final scores:
+Tim: $2 (3rd place: $1,000)
+Tom: $2,600 (2nd place: $2,000)
+Monica: $21,000 (New champion: $21,000)
+
+Coryat scores
+Tim: $9,200 (17 R,8 W)
+Tom: $13,400 (18 R(including 1 DD),3 W(including 1 DD))
+Monica: $13,600 (17 R(including 1 DD),2 W)

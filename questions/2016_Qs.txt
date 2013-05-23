@@ -1,0 +1,331 @@
+3539 - Thursday, January 13, 2000
+Contestants:
+Terry Coombs: an automotive bookkeeper from Lynn, Massachusetts
+Lewis Targownik: a resident physician from Winnipeg, Manitoba
+Frank Butterworth: a business development manager from Hingham, Massachusetts (whose 1-day cash winnings total $5,400)
+First Jeopardy! Round: ZACHARY TAYLOR, CURRENCY NAME'S THE SAME, RODENTS, BIBLICAL NUMBERS, COLLEGE FOOTBALL COACHES, QUOTABLE POTENT POTABLES
+ZACHARY TAYLOR | Taylor was the seventh president born in this state | Virginia
+right: Lewis
+Wrong: 
+Value: $100
+Number: 21
+CURRENCY NAME'S THE SAME | Australia, Guyana, Taiwan | Dollar
+right: Frank
+Wrong: 
+Value: $100
+Number: 13
+RODENTS | Some of the quills of the Eurasian species can be 12 inches, equal to about half of its body length | Porcupine
+right: Frank
+Wrong: 
+Value: $100
+Number: 6
+BIBLICAL NUMBERS | The number of days it took God to create the universe & everything in it (not resting) | 6
+right: Terry
+Wrong: 
+Value: $100
+Number: 10
+COLLEGE FOOTBALL COACHES | Nickname of Glenn Warner, who coached such All-Americans as Jim Thorpe & Ernie Nevers | "Pop"
+right: Lewis
+Wrong: 
+Value: $100
+Number: 26
+QUOTABLE POTENT POTABLES | Voltaire compared the British to this beverage of theirs: "Froth on top, dregs at the bottom, the middle excellent" | Beer
+right: Lewis
+Wrong: 
+Value: $100
+Number: 1
+ZACHARY TAYLOR | After this now defunct party nominated Taylor, it sent him a letter postage due, which he refused | Whig
+right: Lewis
+Wrong: 
+Value: $200
+Number: 22
+CURRENCY NAME'S THE SAME | Tajikistan, Belarus, Russia | Ruble
+right: Frank
+Wrong: 
+Value: $200
+Number: 12
+RODENTS | Their lodges can be of different kinds, depending on whether they're built on islands, ponds or lakes | Beavers
+right: Frank
+Wrong: 
+Value: $200
+Number: 7
+BIBLICAL NUMBERS | The number of days Jesus fasted in the desert | 40
+right: Terry
+Wrong: 
+Value: $200
+Number: 17
+COLLEGE FOOTBALL COACHES | On August 28, 1999 he began his 34th season as Penn State head coach by defeating Arizona, 41-7 | Joe Paterno
+right: Frank
+Wrong: 
+Value: $200
+Number: 27
+QUOTABLE POTENT POTABLES | The line "A woman drove me to drink and I never even had the courtesy to thank her" is attributed to this comic | W.C. Fields
+right: Frank
+Wrong: 
+Value: $200
+Number: 2
+ZACHARY TAYLOR | Because he held this post, some say David Atchison was president for the day before Taylor was inaugurated | President pro tem of the Senate
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+CURRENCY NAME'S THE SAME | Benin, Belgium, Monaco | Franc
+right: Lewis
+Wrong: 
+Value: $300
+Number: 14
+RODENTS | Native to the Andes, this rodent is raised on farms for its extremely dense fur | Chinchilla
+right: Frank
+Wrong: 
+Value: $300
+Number: 8
+BIBLICAL NUMBERS | The number of times the words "apple" & "snake" appear in the King James Version of Genesis | 0 ("fruit" & "serpent" were used instead)
+right: Frank
+Wrong: 
+Value: $300
+Number: 18
+COLLEGE FOOTBALL COACHES | This Nebraska coach averaged more than 10 victories a season for 25 years | Tom Osborne
+right: Lewis
+Wrong: 
+Value: $300
+Number: 28
+QUOTABLE POTENT POTABLES | A Mae West movie included the line "You ought to get out of those wet clothes  and into a dry" one of these | Martini
+right: Frank
+Wrong: 
+Value: DD: $500
+Number: 3
+ZACHARY TAYLOR | Taylor was the 12th president; this 12th vice president succeeded him | Millard Fillmore
+right: Lewis
+Wrong: 
+Value: $400
+Number: 24
+CURRENCY NAME'S THE SAME | Cyprus, Egypt, Syria | Pound
+right: Lewis
+Wrong: 
+Value: $400
+Number: 15
+RODENTS | All rodents have 4 of these front teeth used for gnawing, 2 on the top & 2 on the bottom | Incisors
+right: Lewis
+Wrong: 
+Value: $400
+Number: 9
+BIBLICAL NUMBERS | The number of seals on the scroll mentioned in the book of Revelation | 7
+right: Frank
+Wrong: 
+Value: $400
+Number: 19
+COLLEGE FOOTBALL COACHES | The Football Writers Assoc. never named this FSU legend Coach of the Year though son Terry was named in '93 | Bobby Bowden
+right: Lewis
+Wrong: 
+Value: $400
+Number: 29
+QUOTABLE POTENT POTABLES | According to a Latin proverb, in this "there is truth" | Wine
+right: Frank
+Wrong: 
+Value: $400
+Number: 4
+ZACHARY TAYLOR | In 1849 Taylor pushed for the statehoods of New Mexico & this, which did become a state the next year | California
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+CURRENCY NAME'S THE SAME | Nepal, Mauritius, Pakistan | Rupee
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+RODENTS | Contrary to popular belief, mass drownings by the Norway species of this rodent are not suicidal in nature | Lemmings
+right: Lewis
+Wrong: 
+Value: $500
+Number: 11
+BIBLICAL NUMBERS | The number of Hebrew Old Testament books named for specific women | 2 (Ruth & Esther)
+right: Lewis
+Wrong: 
+Value: $500
+Number: 20
+COLLEGE FOOTBALL COACHES | (Hi, I'm Derrick Alexander of the Kansas City Chiefs; I played college football at Michigan)  In 1969, his first of 21 seasons at Michigan, he was named Coach of the Year by his fellow coaches | Bo Schembechler
+right: Lewis
+Wrong: 
+Value: $500
+Number: 30
+QUOTABLE POTENT POTABLES | This poet thought, "Candy is dandy, but liquor is quicker" | Ogden Nash
+right: Frank
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Frank: $2,500
+Lewis: $1,700
+Terry: -$800
+Scores at the end of the Jeopardy! Round:
+Frank: $2,900
+Lewis: $3,900
+Terry: -$1,100
+Second Jeopardy! Round: WRITERS BY MIDDLE NAME, NYMPH-O-RAMA, OPERA, LEADING LADIES, THIS SPACE, FOR "RENT"
+WRITERS BY MIDDLE NAME | The Jazz Age's Scott | F. Scott Fitzgerald
+right: Frank
+Wrong: 
+Value: $200
+Number: 21
+NYMPH-O-RAMA | He was kept from home by "that powerful goddess, the nymph Calypso, who longed for him to marry her" | Odysseus
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 16
+OPERA | Its 1871 premiere in Cairo was delayed due to the Franco-Prussian War | "Aida"
+right: Frank
+Wrong: 
+Value: $200
+Number: 25
+LEADING LADIES | In 1968's "Funny Girl", "Hello, Gorgeous" is her first line | Barbra Streisand
+right: Lewis
+Wrong: 
+Value: $200
+Number: 1
+THIS SPACE | The Wilderness Road ran through this famous gap in Kentucky | Cumberland Gap
+right: Terry
+Wrong: 
+Value: $200
+Number: 5
+FOR "RENT" | The Queen Mother is one to Prince Charles | Grandparent
+right: Terry
+Wrong: 
+Value: $200
+Number: 11
+WRITERS BY MIDDLE NAME | "Lyrical" English poet Taylor | Samuel Taylor Coleridge
+right: Frank
+Wrong: 
+Value: $400
+Number: 22
+NYMPH-O-RAMA | Oreads are nymphs of these picturesque caverns, whether blue or another color | Grottoes
+right: Lewis
+Wrong: 
+Value: $400
+Number: 17
+OPERA | This city on the Adriatic is the setting for "La Gioconda" | Venice
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 26
+LEADING LADIES | Al Hirschfeld portrayed this screen legend, seen here, in a "feline" role: | Elizabeth Taylor
+right: Terry
+Wrong: 
+Value: $400
+Number: 2
+THIS SPACE | Alfred Eisenstaedt is famous for a photo of a sailor kissing a girl titled "VJ Day" here | Times Square
+right: Lewis
+Wrong: 
+Value: $400
+Number: 7
+FOR "RENT" | Prince Charles is this to the throne of England, meaning when Mom dies he gets it | Heir apparent
+right: Frank
+Wrong: 
+Value: $400
+Number: 12
+WRITERS BY MIDDLE NAME | American poet Carlos | William Carlos Williams
+right: Frank
+Wrong: 
+Value: $600
+Number: 23
+NYMPH-O-RAMA | The nymph Aetna arbitrated when Hephaestus & Demeter quarreled over this island | Sicily
+right: 
+Wrong: 
+Value: DD: $500
+Number: 18
+OPERA | 1850 Wagner opera in which you'd hear "Farewell, farewell, my beloved swan" | "Lohengrin"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+LEADING LADIES | Soon after appearing in "Gone with the Wind", she appeared on the cover of Time magazine, also as Scarlett | Vivien Leigh
+right: Frank
+Wrong: 
+Value: $600
+Number: 3
+THIS SPACE | Autonomy for this Mideast area of about 140 square miles on the Mediterranean was promised in a 1979 treaty | Gaza Strip
+right: Terry
+Wrong: 
+Value: $600
+Number: 8
+FOR "RENT" | When Prince Charles connects his razor to the mains, he's receiving this, abbreviated A.C., at 240 volts | Alternating current
+right: Terry
+Wrong: 
+Value: $600
+Number: 13
+WRITERS BY MIDDLE NAME | British novelist & satirist Makepeace | William Makepeace Thackeray
+right: Lewis
+Wrong: 
+Value: $800
+Number: 24
+NYMPH-O-RAMA | Nymph seen here turning into a tree to escape Apollo, in a Bernini sculpture: | Daphne
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+OPERA | In a Puccini opera, this prima donna is pursued by the evil Scarpia, chief of the Roman police | "Tosca"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+LEADING LADIES | "As Time Goes By" is a biography of this leading lady | Ingrid Bergman
+right: Frank
+Wrong: 
+Value: DD: $1,500
+Number: 4
+THIS SPACE | North Korea made headlines in April 1996 when it sent armed troops into this buffer area | DMZ (Demilitarized Zone)
+right: Lewis
+Wrong: 
+Value: $800
+Number: 9
+FOR "RENT" | You have to figure that at some time in his life Prince Charles has made it to the city of Stoke-on-this | Trent
+right: Frank
+Wrong: 
+Value: $800
+Number: 14
+NYMPH-O-RAMA | We're not sure if distance swimmer Diana was one of these freshwater nymphs | Naiad (Diana's last name is "Nyad")
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+OPERA | The name of this short Pietro Mascagni opera translates to "Rustic Chivalry" | "Cavalleria rusticana"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+LEADING LADIES | She won an Oscar for playing housewife-turned-waitress Mildred Pierce | Joan Crawford
+right: Terry
+Wrong: 
+Value: $1000
+Number: 6
+THIS SPACE | It's the Magna Carta meadow | Runnymede
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+FOR "RENT" | It's a whole lotta rain | Torrent
+right: Lewis
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Frank: $6,800
+Lewis: $6,800
+Terry: -$100
+
+Final Jeopardy! Round
+WORD & PHRASE ORIGINS | This phrase originally referred to the period between July & August, when Sirius rises with the sun | Dog days of summer
+right: Lewis | Frank
+Wrong: 
+Wagers: 
+Lewis: $6,800
+Frank: $6,800
+Final scores:
+Frank: $13,600 (2-day co-champion: $19,000)
+Lewis: $13,600 (New co-champion: $13,600)
+Terry: -$100 (2nd place: Trip to Harvest Inn, Napa Valley, California)
+
+Coryat scores
+Frank: $5,900 (20 R(including 2 DDs),3 W)
+Lewis: $7,300 (19 R,3 W(including 1 DD))
+Terry: -$100 (8 R,6 W)

@@ -1,0 +1,320 @@
+3116 - Monday, March 2, 1998
+Comments: 1998 Celebrity <i>Jeopardy!</i> Ladies Night.  <br />
+Contestants:
+Teri Garr: an actress from Friends
+Naomi Judd: a singer from The Judds
+Jane Curtin: an actress from 3rd Rock from the Sun
+First Jeopardy! Round: FASHIONABLE NAMES, PARTY TIME, ENDORSEMENTS, MUSICAL GEOGRAPHY, THE HOLLYWOOD WALK OF FAME, (5,5)
+FASHIONABLE NAMES | He launched his Polo sport line in 1993 -- what a sport! | Ralph Lauren
+right: Naomi
+Wrong: 
+Value: $100
+Number: 1
+PARTY TIME | It's party time in New Orleans when you hear "If Ever I Cease to Love You", the official song of this festival | Mardi Gras
+right: Teri
+Wrong: 
+Value: $100
+Number: 10
+ENDORSEMENTS | This supermodel can be seen wearing an Omega wristwatch in the magazine whose name is her first name | Elle Macpherson
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 9
+MUSICAL GEOGRAPHY | It's where Fats Domino found his thrill in 1956 | "Blueberry Hill"
+right: Teri
+Wrong: 
+Value: $100
+Number: 2
+THE HOLLYWOOD WALK OF FAME | Stars in front of this famous theater include Basil Rathbone's, William Shatner's & Billy Graham's | Grauman's/Mann's Chinese Theater
+right: Naomi
+Wrong: 
+Value: $100
+Number: 15
+FASHIONABLE NAMES | She's the DK in DKNY | Donna Karan
+right: Jane
+Wrong: 
+Value: $200
+Number: 3
+PARTY TIME | Sports fans love this kind of picnic, often held in a parking lot & named for part of a car | tailgate
+right: Jane
+Wrong: 
+Value: $200
+Number: 11
+ENDORSEMENTS | The famous black shirt of this country singer who walked the line hangs on the line in Arrow ads | Johnny Cash
+right: Jane
+Wrong: 
+Value: $200
+Number: 22
+MUSICAL GEOGRAPHY | Pick me up some spices if you're going to this Simon & Garfunkel "Fair" | "Scarborough Fair"
+right: Jane
+Wrong: 
+Naomi: What are parsley, sage, rosemary & thyme?
+Value: $200
+Number: 6
+THE HOLLYWOOD WALK OF FAME | Marilyn Monroe's "McStar" shines in front of this Hollywood Boulevard eatery | McDonald's
+right: Teri
+Wrong: 
+Value: $200
+Number: 18
+FASHIONABLE NAMES | This designer of Tommy jeans opened his flagship store in Beverly Hills in 1997 | Tommy Hifiger
+right: Teri
+Wrong: 
+Value: $300
+Number: 4
+PARTY TIME | This word for a festive dance party may be an alteration of shindy, a synonym for an uproar | shindig
+right: Teri
+Wrong: 
+Value: $300
+Number: 12
+ENDORSEMENTS | Exuberant Fox football analyst & ex-coach who's the spokesman for Ace Hardware | John Madden
+right: Jane
+Wrong: 
+Value: $300
+Number: 23
+MUSICAL GEOGRAPHY | City mentioned in the title of the TV show whose theme is heard here: | Beverly Hills, 90210
+right: 
+Wrong: 
+Teri: What is Seattle?
+Value: DD: $500
+Number: 8
+THE HOLLYWOOD WALK OF FAME | The stars run east & west on Hollywood Boulevard, & north & south on this street | Vine Street
+right: Teri
+Wrong: 
+Value: $300
+Number: 19
+FASHIONABLE NAMES | In July 1997 Carla Bruni & Eva Herzigova were among the models paying final respects to this designer in Milan | Gianni Versace
+right: Naomi
+Wrong: 
+Value: $400
+Number: 5
+PARTY TIME | At 22,205 feet, Guinness says the highest dinner party was in Peru, atop Mt. Huascaran in these mountains | the Andes
+right: Jane
+Wrong: 
+Value: $400
+Number: 13
+ENDORSEMENTS | For all one's shopping needs, Rosie O'Donnell & Penny Marshall sing the praises of this national retailer | K-Mart
+right: Teri
+Wrong: 
+Value: $400
+Number: 24
+MUSICAL GEOGRAPHY | "Start spreading the news", Ol' Blue Eyes made it here | New York
+right: Jane
+Wrong: 
+Value: $400
+Number: 16
+THE HOLLYWOOD WALK OF FAME | He's the only U.S. president you can step on | Ronald Reagan
+right: Jane
+Wrong: 
+Value: $400
+Number: 20
+FASHIONABLE NAMES | In 1980s TV ads nothing got between Brooke Shields & this designer's jeans | Calvin Klein
+right: Teri
+Wrong: 
+Value: $500
+Number: 7
+PARTY TIME | Schussboomers know the name of this after-schussing party contains the French word for "after" | Apres-ski
+right: Teri
+Wrong: 
+Value: $500
+Number: 14
+ENDORSEMENTS | Kurt Vonnegut drew a self-portrait for this Swedish vodka's ubiquitous campaign | Absolut
+right: Jane
+Wrong: 
+Value: $500
+Number: 25
+MUSICAL GEOGRAPHY | This "house in New Orleans" has "been the ruin of many a poor boy" | The House of the Rising Sun
+right: Teri
+Wrong: 
+Jane: I don't know!
+Value: $500
+Number: 17
+THE HOLLYWOOD WALK OF FAME | You don't have to "Imagine" that this musician's star is in front of Capitol Records...that's where it is | John Lennon
+right: Teri
+Wrong: 
+Naomi: Whoa...pressure's on now [time]!
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Jane: $400
+Naomi: $300
+Teri: $400
+Scores at the end of the Jeopardy! Round:
+Jane: $2,300
+Naomi: -$100
+Teri: $3,200
+Second Jeopardy! Round: CUTE ANIMALS, COMMUNICATION, GIRL TALK, FAST FOOD, ACTORS, ROLLS
+CUTE ANIMALS | The pups of the harp species of these are known as whitecoats | seals
+right: Jane
+Wrong: 
+Teri: What are polar bears?
+Value: $200
+Number: 7
+COMMUNICATION | With this feature your phone beeps to let you talk to someone you may like more than the person on the line | call waiting
+right: Teri
+Wrong: 
+Value: $200
+Number: 1
+GIRL TALK | Famous blonde of the '30s who said, "When women go wrong, men go right after them" | Mae West
+right: Jane
+Wrong: 
+Value: $200
+Number: 2
+FAST FOOD | Recent commercials for this restaurant chain feature founder Dave Thomas answering his mail | Wendy's
+right: Naomi
+Wrong: 
+Value: $200
+Number: 20
+ACTORS | He reportedly said he would've paid the studio for the chance to direct his first film, "Play Misty for Me" | Clint Eastwood
+right: Jane
+Wrong: 
+Value: $200
+Number: 11
+ROLLS | First aid books say if this happens, you should "stop, drop & roll" | if you get on fire
+right: Naomi
+Wrong: 
+Value: $200
+Number: 26
+CUTE ANIMALS | Aw, wook at the doggy; this breed has been around China for over 2,000 years: | chow
+right: Naomi
+Wrong: 
+Value: $400
+Number: 8
+COMMUNICATION | Woodrow Wilson was the first U.S. president to hold one of these open audiences with reporters | press conference
+right: Jane
+Wrong: 
+Value: $400
+Number: 9
+GIRL TALK | This Round Table wit required "Only 3 things of a man.  He must be handsome, ruthless and stupid" | Dorothy Parker
+right: Jane
+Wrong: 
+Value: $400
+Number: 3
+FAST FOOD | He was in his 60s when he put on a white suit & traveled the country to franchise his chicken recipe | Colonel Sanders
+right: Teri
+Wrong: 
+Value: $400
+Number: 21
+ACTORS | Rap star & underwear model who played porn star Dirk Diggler in "Boogie Nights" | Mark Wahlberg
+right: Teri
+Wrong: 
+Value: $400
+Number: 14
+ROLLS | It's what's rolled out in the following: | the barrel
+right: Naomi
+Wrong: 
+Value: DD: $1,000
+Number: 27
+CUTE ANIMALS | Once ensconced in a eucalyptus tree, these marsupials, whose name means "no drink", may stay for days | koala bears
+right: Teri
+Wrong: 
+Value: $600
+Number: 10
+COMMUNICATION | To transmit signals, these vehicles usually maintain orbits above a fixed point on the globe | satellites
+right: Naomi
+Wrong: 
+Value: $600
+Number: 17
+GIRL TALK | She once said, "The more you learn about the dignity of the gorilla, the more you want to avoid people" | Dian Fossey
+right: Jane
+Wrong: 
+Teri: Who is Jane Goodall?
+Value: $600
+Number: 4
+FAST FOOD | In 1962 Glen Bell opened the first of these fast food restaurants in Downey, California | Taco Bell
+right: Naomi
+Wrong: 
+Teri: What is McDonald's?
+Value: $600
+Number: 22
+ACTORS | (Hi, I'm Traci Bingham)  This "Baywatch" star was once a centerfold...a centerfold in the May 1990 issue of Cosmopolitan | David Hasselhoff
+right: 
+Wrong: 
+Teri: Who is Pamela Lee?
+Value: DD: $1,500
+Number: 15
+CUTE ANIMALS | The Virginia or white-tailed species of this is found as far south as South America | deer
+right: Jane
+Wrong: 
+Naomi: What is a hawk?
+Value: $800
+Number: 12
+COMMUNICATION | Samuel Goldwyn was quoted as saying movies "are entertainment", these "should be delivered by Western Union" | messages
+right: Jane
+Wrong: 
+Value: $800
+Number: 18
+GIRL TALK | This "All I Wanna Do" singer said, "To turn on your boyfriend, get naked and strap on an accordion" | Sheryl Crow
+right: Jane
+Wrong: 
+Value: $800
+Number: 5
+FAST FOOD | On Labor Day weekend 1997, this "royal" chain introduced a 2 patty burger to compete with the Big Mac | Burger King
+right: Jane
+Wrong: 
+Value: $800
+Number: 23
+ACTORS | She was once the talk of the town, the town of Braselton, Georgia; she owned it for a while | Kim Basinger
+right: Naomi
+Wrong: 
+Value: $800
+Number: 16
+ROLLS | In Japanese restaurants hosomaki are thin rolls of this; futomaki, thick ones | sushi
+right: Teri
+Wrong: 
+Value: $800
+Number: 28
+CUTE ANIMALS | Beatrix Potter found this rodent "Nutkin" special | squirrel
+right: Teri
+Wrong: 
+Value: $1000
+Number: 13
+COMMUNICATION | This man, whose speeches inspired the Russian Revolution, lost his speech after a series of strokes | Lenin
+right: 
+Wrong: Triple Stumper
+Jane: I'm going to say Karl Marx...who is Karl Marx?
+Naomi: Who is Solzhenitsyn?
+Value: $1000
+Number: 24
+GIRL TALK | In "Out on a Limb" this actress mused, "Perhaps our belief in death was the gravest unreality of all" | Shirley MacLaine
+right: Jane
+Wrong: 
+Naomi: Who is Meryl Streep?
+Value: $1000
+Number: 6
+FAST FOOD | This chain of seafood shoppes is headquartered in Lexington, Kentucky, a long way from "Treasure Island" | Long John Silver's
+right: Jane
+Wrong: 
+Naomi: What is Captain D's?
+Teri: What is Buccaneer Bill's?
+Value: $1000
+Number: 25
+ACTORS | Marcel Marceau wrote a tribute to this late red-haired comedian for the Oct. 11, 1997 TV Guide | Red Skelton
+right: Naomi
+Wrong: 
+Value: $1000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Jane: $8,500
+Naomi: $900
+Teri: $2,700
+
+Final Jeopardy! Round
+TV SITCOMS | For your information, this series that premiered in 1988 is TV's longest-running sitcom still on the air | Murphy Brown
+right: 
+Wrong: 
+Naomi: What the Bill Cosby Show!
+Teri: What is "Seinfeld"!
+Jane: What is Married With Children?
+Wagers: 
+Naomi: $900
+Teri: $2,700
+Jane: $8,500
+Final scores:
+Jane: $0 (Winner: $15,000 to the U.S. Committee for UNICEF)
+Naomi: $0 (3rd place: $10,000 to the Naomi Judd Research Fund at the American Liver Foundation)
+Teri: $0 (2nd place: $10,000 to the AIDS Service Center of Pasadena, CA)
+
+Coryat scores
+Jane: $8,500 (21 R,2 W)
+Naomi: $300 (11 R(including 1 DD),6 W)
+Teri: $4,700 (17 R,6 W(including 2 DDs))

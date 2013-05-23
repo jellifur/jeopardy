@@ -1,0 +1,353 @@
+5143 - Wednesday, January 10, 2007
+Contestants:
+Alan Husby: a teacher from Minneapolis, Minnesota
+Susan Ferrari: a graduate student from Chicago, Illinois
+Nathan Crane: an auditorium manager from Gilbert, Arizona (whose 1-day cash winnings total $12,599)
+First Jeopardy! Round: MARINE BIOLOGY, SPORTS BARRIERS, THE STAMP ACT, AUTHORS' WORKS, FIRST 3 LETTERS OF STATES, BEFORE & AFTER
+MARINE BIOLOGY | In 1977 this submersible, which shares its name with a chipmunk, found organisms near Hot Springs over a mile deep | Alvin
+right: Alan
+Wrong: 
+Value: $200
+Number: 6
+SPORTS BARRIERS | In 1920 he became the first Major-League player to exceed 30, 40 & 50 home runs in a season | Babe Ruth
+right: Nathan
+Wrong: 
+Value: $200
+Number: 24
+THE STAMP ACT | This '50s blonde superstar was on the U.S. Post Office's first Legends of Hollywood stamp | Marilyn Monroe
+right: Alan
+Wrong: 
+Value: $200
+Number: 3
+AUTHORS' WORKS | "Green Hills of Africa", "A Moveable Feast", "The Nick Adams Stories" | Hemingway
+right: Susan
+Wrong: 
+Value: $200
+Number: 8
+FIRST 3 LETTERS OF STATES | Past tense of "is" | Washington
+right: Nathan
+Wrong: 
+Susan: What is are?
+Value: $200
+Number: 1
+BEFORE & AFTER | Kerouac classic that's Wile E. Coyote's nemsis | On the Road Runner
+right: Susan
+Wrong: 
+Alan: What is the road runner?
+Value: $200
+Number: 13
+MARINE BIOLOGY | The name of these tiny organisms at the bottom of the oceanic food chain comes from the Greek for "wandering" | plankton
+right: Susan
+Wrong: 
+Value: $400
+Number: 7
+SPORTS BARRIERS | In May 1915 Regret became the first filly to win this horse race; only 2 fillies have won since | the Kentucky Derby
+right: Susan
+Wrong: 
+Value: $400
+Number: 25
+THE STAMP ACT | This inventor & engineer was depicted with a geodesic dome-shaped head | Buckminster Fuller
+right: Alan
+Wrong: 
+Value: $400
+Number: 4
+AUTHORS' WORKS | "Dombey and Son", "Hard Times", "Our Mutual Friend" | Charles Dickens
+right: Susan
+Wrong: 
+Value: $400
+Number: 9
+FIRST 3 LETTERS OF STATES | Rock containing a sought-after metal | Oregon
+right: Alan
+Wrong: 
+Susan: What is Georgia?
+Value: $400
+Number: 2
+BEFORE & AFTER | Environmental group founded by John Muir that's a fizzy water | the Sierra Club soda
+right: Susan
+Wrong: 
+Value: $400
+Number: 14
+MARINE BIOLOGY | The brown seaweed that gives the North Atlantic "sea" its name floats via small berrylike bladders | Sargasso
+right: Nathan
+Wrong: 
+Value: $600
+Number: 19
+SPORTS BARRIERS | During the 1961-62 season, this Philadelphia Warrior became the first & only NBA player to score over 4,000 points in a season | Wilt Chamberlain
+right: Alan
+Wrong: 
+Value: $600
+Number: 27
+THE STAMP ACT | Rhyming name of the Dr. Seuss <http://www.j-archive.com/media/2007-01-10_J_05.jpg> creation featured in favorite children's book animals | Fox in Socks
+right: Alan
+Wrong: 
+Susan: Who is the Cat in the Hat?
+Value: $600
+Number: 5
+AUTHORS' WORKS | "The Dark Half", "The Tommyknockers", "The Dark Tower" | (Stephen) King
+right: Nathan
+Wrong: 
+Value: $600
+Number: 10
+FIRST 3 LETTERS OF STATES | Grifters are this kind of "men" | Connecticut
+right: Susan
+Wrong: 
+Value: $600
+Number: 18
+BEFORE & AFTER | TV channel-changer that must have power over every aspect of its surroundings | remote control freak
+right: Nathan
+Wrong: 
+Value: $600
+Number: 15
+MARINE BIOLOGY | The small fish of the genus Hippocampus can change its color & has 2 eyes that move independently | a sea horse
+right: Susan
+Wrong: 
+Value: $800
+Number: 20
+SPORTS BARRIERS | At the Mexico City Olympics, the USA's Jim Hines was the 1st electronically timed in this race at under 10 sec., recording a 9.95 | the 100-meter dash
+right: Nathan
+Wrong: 
+Alan: What is the 100-yard dash?
+Value: $800
+Number: 28
+THE STAMP ACT | The Distinguished Americans series has honored Jonas Salk & this virologist who also developed a polio vaccine | (Albert) Sabin
+right: Alan
+Wrong: 
+Value: $800
+Number: 30
+AUTHORS' WORKS | "The Sebastopol Sketches", "The Cossacks", "The Death of Ivan Ilyich" | Tolstoy
+right: Nathan
+Wrong: 
+Value: $800
+Number: 11
+FIRST 3 LETTERS OF STATES | Jeremy Piven's agent role | Arizona
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+BEFORE & AFTER | Dylan song "with no direction home" that's an edible crustacean | like a rolling stone crab
+right: Nathan
+Wrong: 
+Value: $800
+Number: 16
+MARINE BIOLOGY | This Massachusetts village is home to the Marine Biological Laboratory & an oceanographic institution founded in 1930 | Woods Hole
+right: Alan
+Wrong: 
+Value: $1000
+Number: 21
+SPORTS BARRIERS | On October 3, 1993 Jim Epler became the first to surpass 300 miles per hour in this type of drag racing car seen <http://www.j-archive.com/media/2007-01-10_J_29.jpg> here | a funny car
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 29
+THE STAMP ACT | <http://www.j-archive.com/media/2007-01-10_J_26.jpg> This pioneering Oscar winner was the 2006 <http://www.j-archive.com/media/2007-01-10_J_26a.jpg> inductee in the Black Heritage series | Hattie McDaniel
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 26
+AUTHORS' WORKS | "God Bless You, Mr. Rosewater", "Timequake", "Mother Night" | Kurt Vonnegut
+right: Susan
+Wrong: 
+Value: $1000
+Number: 12
+FIRST 3 LETTERS OF STATES | It's a number | Tennessee
+right: Alan
+Wrong: 
+Value: DD: $1,000
+Number: 23
+BEFORE & AFTER | Botticelli painting in which Serena's sister is brought forth on a shell | the birth of Venus Williams
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 17
+Scores at the first commercial break (after clue 15)
+Nathan: $2,200
+Susan: $1,400
+Alan: $1,600
+Scores at the end of the Jeopardy! Round:
+Nathan: $7,600
+Susan: $3,200
+Alan: $4,200
+Second Jeopardy! Round: GRAND TETON NATIONAL PARK, TV RIDES, "G" WHIZ, EDWARD R. MURROW, GOOD KNIGHT, GOOD LUCK
+GRAND TETON NATIONAL PARK | (<http://www.j-archive.com/media/2007-01-10_DJ_16.jpg> Kelly of the Clue Crew reports from Grand Teton National Park.)  On February 26, 1929 the Teton range & its six glacial lakes at the base of the peak were made a national park by this president | Coolidge
+right: Nathan
+Wrong: 
+Susan: Who is Hoover?
+Value: $400
+Number: 16
+TV RIDES | The Pacific Princess | The Love Boat
+right: Alan
+Wrong: 
+Value: $400
+Number: 18
+"G" WHIZ | It's one unit of rice or one unit of sand | a grain
+right: Alan
+Wrong: 
+Value: $400
+Number: 10
+EDWARD R. MURROW | In 1961 Murrow left CBS to become Director of the U.S.I.A., this agency | the United States Information Agency
+right: 
+Wrong: Triple Stumper
+Alan: [*].
+Value: $400
+Number: 24
+GOOD KNIGHT | When a woman gets a knighthood from the British, she gets this title before her name | dame
+right: Susan
+Wrong: 
+Value: $400
+Number: 1
+GOOD LUCK | If one of these lands on you, good luck should be coming your way, but you can still urge it to "fly away home" | a ladybug
+right: Susan
+Wrong: 
+Value: $400
+Number: 6
+GRAND TETON NATIONAL PARK | Winter guided tours are designed for people to clomp around in these, originally used by Native Americans | snowshoes
+right: Susan
+Wrong: 
+Value: $800
+Number: 17
+TV RIDES | Colonial Vipers, Cylon Raiders | Battlestar Galactica
+right: Nathan
+Wrong: 
+Value: $800
+Number: 19
+"G" WHIZ | More than 2,000 newspapers around the globe carry the comic strip featuring this feline | Garfield
+right: Nathan
+Wrong: 
+Value: $800
+Number: 11
+EDWARD R. MURROW | Murrow first gained fame broadcasting from rooftops during this 1940 "Battle" | the Battle of Britain
+right: Alan
+Wrong: 
+Value: $800
+Number: 25
+GOOD KNIGHT | Maurice could tell you this other name for a knight is from the French for "horseman" | chevalier
+right: Susan
+Wrong: 
+Value: $800
+Number: 2
+GOOD LUCK | The hop type of this is considered to be the type that St. Patrick used to illustrate the Doctrine of the Trinity | a shamrock (or clover)
+right: Susan
+Wrong: 
+Value: $800
+Number: 7
+GRAND TETON NATIONAL PARK | (<http://www.j-archive.com/media/2007-01-10_DJ_23.jpg> Jon of the Clue Crew reads from Grand Teton National Park.)  In the 1890s, the toll was 50 cents per wagon & 25 cents for a horse & rider to cross this twisty river of the Grand Tetons | the Snake River
+right: 
+Wrong: 
+Alan: I don't have a clue.
+Value: DD: $1,000
+Number: 23
+TV RIDES | The Shooting Star, The Mach V | Speed Racer
+right: Nathan
+Wrong: 
+Value: $1200
+Number: 20
+"G" WHIZ | Spanish-language sportscaster Andres Cantor is famous in the U.S. for this one-word call during soccer games | gol
+right: Susan
+Wrong: 
+Value: $1200
+Number: 12
+EDWARD R. MURROW | Critic Jack Gould called Murrow's show on this senator "the week that broadcasting recaptured its soul" | Joseph McCarthy
+right: Nathan
+Wrong: 
+Value: $1200
+Number: 26
+GOOD KNIGHT | Founded in 1882 by Father Michael J. McGivney, this fraternal order of Catholic laymen is based in New Haven | the Knights of Columbus
+right: Susan
+Wrong: 
+Value: $1200
+Number: 3
+GOOD LUCK | According to superstition, if you see one of these, "Pick it up; all day long you'll have good luck" | a penny
+right: Susan
+Wrong: 
+Value: $1200
+Number: 8
+GRAND TETON NATIONAL PARK | In the park you'll find one of the USA's largest herds of this animal, known to the Shawnee as wapiti | elk
+right: Alan
+Wrong: 
+Nathan: What are buffalo?
+Susan: What are bison?
+Value: $1600
+Number: 27
+TV RIDES | Nellybelle, Buttermilk, Trigger | (The
+right: Nathan
+Wrong: 
+Value: $1600
+Number: 21
+"G" WHIZ | An early Christian movement that taught that salvation comes from learning esoteric truths | the Gnostics
+right: Susan
+Wrong: 
+Value: $1600
+Number: 13
+EDWARD R. MURROW | Murrow narrated this Oscar-winning 1956 film based on a Jules Verne work | Around the World in 80 Days
+right: 
+Wrong: Triple Stumper
+Nathan: What is Journey to the Center of the Earth?
+Susan: What is 20,000 Leagues Under the Sea?
+Alan: What is From the Earth to the Moon?
+Value: $1600
+Number: 29
+GOOD KNIGHT | The Poor Knights of Christ became known by this name after occupying a house near the Temple of Solomon | the Knights Templar
+right: Susan
+Wrong: 
+Value: DD: $4,500
+Number: 4
+GOOD LUCK | The luckiest of these charms is supposed to be the left hind limb | a rabbit's foot
+right: Alan
+Wrong: 
+Value: $1600
+Number: 9
+GRAND TETON NATIONAL PARK | (<http://www.j-archive.com/media/2007-01-10_DJ_28.jpg> Kelly of the Clue Crew gives the clue in front of a chapel at Grand Teton National Park.)  Framed by the Grand Tetons is one of the USA's most visited chapels named for this, Jesus' Emanation of Radiance on Mount Tabor | the Transfiguration
+right: Nathan
+Wrong: 
+Susan: What is the Ascension?
+Value: $2000
+Number: 28
+TV RIDES | PT-73 | McHale's Navy
+right: Alan
+Wrong: 
+Value: $2000
+Number: 22
+"G" WHIZ | Infamous 2-word title of the 15th century Spanish monk Torquemada | Grand Inquisitor
+right: Nathan
+Wrong: 
+Value: $2000
+Number: 14
+EDWARD R. MURROW | Seen <http://www.j-archive.com/media/2007-01-10_DJ_30.jpg> here, this award-winning CBS commentator who died in 1992 said that Murrow invented him | Eric Sevareid
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+GOOD KNIGHT | This highest "order" in England is composed of the Prince of Wales & 24 knights & other lucky members | the Order of the Garter
+right: Susan
+Wrong: 
+Value: $2000
+Number: 5
+GOOD LUCK | The Chinese good luck symbol fu is traditionally sent on this day, which in 2006 was Jan. 29 on the Western calendar | the New Year
+right: Alan
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Nathan: $14,400
+Susan: $12,500
+Alan: $10,000
+
+Final Jeopardy! Round
+BUSINESS & INDUSTRY | Just for grins, in 1986 this industrialist acquired a stake in Church & Dwight, maker of a baking soda | Armand Hammer
+right: Alan
+Wrong: 
+Susan: Who is Procter
+Nathan: Who is Sam Walton?
+Wagers: 
+Alan: $10,000
+Susan: $8,700
+Nathan: $5,601
+Final scores:
+Nathan: $8,799 (2nd place: $2,000)
+Susan: $3,800 (3rd place: $1,000)
+Alan: $20,000 (New champion: $20,000)
+
+Coryat scores
+Nathan: $14,400 (19 R,2 W)
+Susan: $9,600 (20 R(including 1 DD),7 W)
+Alan: $11,000 (16 R(including 1 DD),5 W(including 1 DD))

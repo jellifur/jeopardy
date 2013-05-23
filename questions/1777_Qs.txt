@@ -1,0 +1,296 @@
+1872 - Tuesday, October 27, 1992
+Comments: 1992 Celebrity <i>Jeopardy!</i> game 2.
+Contestants:
+Andrew Shue: an actor from television's hot new series Melrose Place
+Emma Samms: an actress from Dynasty and General Hospital
+Dean Stockwell: an actor from Quantum Leap
+First Jeopardy! Round: BALLET, SPORTS, WORLD HISTORY, POP MUSIC, PHOTOGRAPHY, LET'S DO LUNCH
+BALLET | Roland Petit danced with this city's Opera Ballet before he co-founded the Ballets des Champs-Elysees | Paris
+right: Andrew
+Wrong: 
+Dean: What is New York?
+Value: $100
+Number: 2
+SPORTS | At the 1992 Olympics, the U.S. Men's Basketball team was known by this rhyming name | the Dream Team
+right: Andrew
+Wrong: 
+Value: $100
+Number: 3
+WORLD HISTORY | This Irish castle famous for its "stone" was built by Cormac MacCarthy about 1446 | the Blarney
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 5
+POP MUSIC | This duo won 1989's Best New Artist Grammy, but later it was rescinded | Milli Vanilli
+right: Emma
+Wrong: 
+Value: $100
+Number: 26
+PHOTOGRAPHY | In 1900 Kodak introduced this camera that sold for $1 | the Brownie
+right: Emma
+Wrong: 
+Value: $100
+Number: 1
+LET'S DO LUNCH | This "pie" can now be topped with duck sausage & goat cheese rather than mozzarella & tomato | pizza
+right: Emma
+Wrong: 
+Value: $100
+Number: 21
+BALLET | Coincidentally, Jerome Robbins' ballet "Fanfare" debuted on the day she was crowned in 1953 | Queen Elizabeth
+right: Andrew
+Wrong: 
+Value: $200
+Number: 7
+SPORTS | Since the 1950s players from this continent have been the dominant force in table tennis | Asia
+right: Dean
+Wrong: 
+Value: $200
+Number: 4
+WORLD HISTORY | In 1863 Napoleon III persuaded this Archduke to become Emperor of Mexico | Maximilian
+right: 
+Wrong: Triple Stumper
+Dean: Who is Montezuma?
+Value: $200
+Number: 16
+POP MUSIC | Dionne Warwick's "That's What Friends Are For" was knocked out of No. 1 by this first cousin's "How Will I Know?" | Whitney Houston
+right: Emma
+Wrong: 
+Value: $200
+Number: 22
+PHOTOGRAPHY | Due to the nature of this singer's photo book "Sex", it is being sold mylar-wrapped | Madonna
+right: Emma
+Wrong: 
+Value: $200
+Number: 9
+LET'S DO LUNCH | The Lorraine type of this custard cheese dish contains bacon | quiche
+right: Dean
+Wrong: 
+Value: $200
+Number: 18
+BALLET | In the 1960s Maya Plisetskaya succeeded Galina Ulanova as prima ballerina of this company | the Bolshoi
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 10
+SPORTS | This piece of fencing equipment is made of strong wire mesh & may be padded | a mask
+right: Emma
+Wrong: 
+Value: $300
+Number: 6
+WORLD HISTORY | In 1453 at Castillon, the French artillery won the last battle of this long war | the Hundred Years' War
+right: 
+Wrong: 
+Dean: The Franco-Prussian War?
+Value: DD: $300
+Number: 17
+POP MUSIC | In 1982 he & Andrew Ridgely formed the successful duo Wham! | George Michael
+right: Emma
+Wrong: 
+Value: $300
+Number: 23
+PHOTOGRAPHY | His collections include "My Camera in Yosemite Valley" & "Portfolio Two: The National Parks" | Ansel Adams
+right: Emma
+Wrong: 
+Value: $300
+Number: 13
+LET'S DO LUNCH | Hosomaki & Futomaki are types of this Japanese vinegared rice & raw fish dish | sushi
+right: Dean
+Wrong: 
+Value: $300
+Number: 19
+BALLET | Part of John Cranko's ballet based on this Shakespeare play is set in Petruchio's home | Taming of the Shrew
+right: 
+Wrong: Triple Stumper
+Dean: What is Midsummer's Dream?
+Emma: What is Romeo & Juliet?
+Value: $400
+Number: 11
+SPORTS | In swimming the butterfly stroke originated as a modification of this similar stroke | breaststroke
+right: Dean
+Wrong: 
+Emma: What is freestyle?
+Value: $400
+Number: 8
+WORLD HISTORY | In 1853 Turkey declared war on Russia, beginning this conflict | the Crimean War
+right: 
+Wrong: Triple Stumper
+Andrew: What is the Franco-Prussian War?
+Value: $400
+Number: 29
+POP MUSIC | In 1978 John Travolta & this singer teamed for 2 Top 5 hits, "You're the One that I Want" & "Summer Nights" | Olivia Newton-John
+right: Emma
+Wrong: 
+Value: $400
+Number: 24
+PHOTOGRAPHY | In 1924 a miniature 35mm camera called the Leica was introduced in this country | Germany
+right: 
+Wrong: Triple Stumper
+Dean: What is an M-1?
+Emma: What is Austria?
+Value: $400
+Number: 14
+LET'S DO LUNCH | The name of the Mexican rolled tortilla dish comes from Spanish meaning "young donkey" | burrito
+right: Dean
+Wrong: 
+Value: $400
+Number: 20
+BALLET | In Frederick Ashton's ballet, 4 fairies help this fairy tale heroine get dressed for the ball | Cinderella
+right: Emma
+Wrong: 
+Dean: ahhhh…lost it.
+Value: $500
+Number: 12
+SPORTS | The origins of tennis go back to jeu de paume, a game in which the ball was struck with this body part | the palm of the hand
+right: Dean
+Wrong: 
+Value: $500
+Number: 28
+POP MUSIC | Formerly of Cream, this legendary rock guitarist is nicknamed "Slowhand" | Eric Clapton
+right: Dean
+Wrong: 
+Value: $500
+Number: 25
+PHOTOGRAPHY | A mirror reflects the image onto a viewing screen in an SLR camera; SLR stands for this | single-lens reflex
+right: Dean
+Wrong: 
+Value: $500
+Number: 15
+LET'S DO LUNCH | Chef George Crum created this fried snack at a resort hotel in Saratoga Springs, New York | potato chips
+right: Emma
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Dean: -$400
+Emma: $300
+Andrew: $400
+Scores at the end of the Jeopardy! Round:
+Dean: $1,100
+Emma: $1,800
+Andrew: $0
+Second Jeopardy! Round: CLASSICAL COMPOSERS, ANATOMY, STATE CAPITALS, BUSINESS & INDUSTRY, "GREAT" FILMS, WORLD LITERATURE
+CLASSICAL COMPOSERS | His 1868 "German Requiem" shouldn't put you to sleep--it's not a lullaby | Brahms
+right: Dean
+Wrong: 
+Andrew: Who is Mozart?
+Value: $200
+Number: 2
+ANATOMY | Your deciduous ones usually appear at about 6 months, your permanent ones at about 6 years | teeth
+right: Emma
+Wrong: 
+Value: $200
+Number: 6
+STATE CAPITALS | Queen Liliuokalani died in this city in 1917, 42 years before it became a state capital | Honolulu
+right: Dean
+Wrong: 
+Emma: What is Hawaii?
+Value: $200
+Number: 1
+"GREAT" FILMS | Goodness, gracious, Dennis Quaid portrayed rocker Jerry Lee Lewis in this film | Great Balls of Fire
+right: Andrew
+Wrong: 
+Value: $200
+Number: 16
+WORLD LITERATURE | The knight is the first character to tell his story in this Chaucer classic | The Canterbury Tales
+right: Emma
+Wrong: 
+Value: $200
+Number: 13
+CLASSICAL COMPOSERS | Prokofiev turned this Tolstoy book into a very long 5-act opera | War and Peace
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+ANATOMY | After light enters the eye, it focuses an image on this tissue which contains the rods & cones | the retina
+right: Andrew
+Wrong: 
+Value: $400
+Number: 7
+STATE CAPITALS | Cable TV viewers know the first "N" in TNN stands for this state capital | Nashville
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+"GREAT" FILMS | The 1974 adaptation of this Fitzgerald novel featured Robert Redford in the title role | The Great Gatsby
+right: Dean
+Wrong: 
+Value: $400
+Number: 20
+WORLD LITERATURE | He promised that if Sancho Panza became his squire, he'd make him governor of an island | Don Quixote
+right: Andrew
+Wrong: 
+Value: $400
+Number: 19
+CLASSICAL COMPOSERS | Ravel & Rimsky-Korsakov based works on this "Arabian Nights" storyteller | Shahrazad
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+ANATOMY | It's the more common name for the tympanic membrane | eardrum
+right: Dean
+Wrong: 
+Value: $600
+Number: 12
+STATE CAPITALS | If you know that this state's capital is Jefferson City, "show me" | Missouri
+right: Andrew
+Wrong: 
+Value: $600
+Number: 9
+WORLD LITERATURE | Rohan, or Riddermark, is an important realm of Middle-Earth in books by this author | Tolkien
+right: Dean
+Wrong: 
+Value: $600
+Number: 18
+CLASSICAL COMPOSERS | In 1759 this German organist & "Water Music" composer was buried in Westminster Abbey | Handel
+right: Emma
+Wrong: 
+Value: $800
+Number: 5
+ANATOMY | Like the one in the nose, this wall that divides the heart lengthwise can deviate | the septum
+right: Emma
+Wrong: 
+Value: $800
+Number: 14
+STATE CAPITALS | This New Mexico capital was founded by Don Pedro de Peralta around 1610 | Santa Fe
+right: Dean
+Wrong: 
+Value: $800
+Number: 10
+CLASSICAL COMPOSERS | His trip to the U.S. inspired the "American" string quartet as well as the "New World" symphony | Dvorák
+right: Dean
+Wrong: 
+Value: $1000
+Number: 11
+ANATOMY | Protected by the patella, it's the body's largest joint | the knee
+right: Dean
+Wrong: 
+Value: $1000
+Number: 15
+STATE CAPITALS | Most of this South Carolina city was destroyed by fire in 1865; Sherman's troops claimed it was an "accident" | Columbia
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Dean: $5,900
+Emma: $3,600
+Andrew: $1,400
+
+Final Jeopardy! Round
+WORD & PHRASE ORIGINS | This phrase meaning the aristocracy is derived from the part of a loaf served to honored guests | the upper crust
+right: Emma | Dean
+Wrong: 
+Andrew: What is half a loaf is bette
+Wagers: 
+Andrew: $700
+Emma: $1,000
+Dean: $2,000
+Final scores:
+Dean: $7,900 (Winner: $10,000 to the Nuclear Information & Resource Service + the sum matched to the charity if the highest total for the week)
+Emma: $4,600 (2nd place: $10,000 to The Starlight Foundation)
+Andrew: $700 (3rd place: $10,000 to Rock the Vote)
+
+Coryat scores
+Dean: $6,200 (16 R,6 W(including 1 DD))
+Emma: $3,600 (15 R,4 W)
+Andrew: $1,400 (7 R,2 W)

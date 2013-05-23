@@ -1,0 +1,328 @@
+2898 - Wednesday, March 19, 1997
+Contestants:
+Carole Smith: a regulations writer from Washington, D.C.
+Martin Smith: a new home sales assistant originally from Leeds, Yorkshire England
+Steve Douches: a high school math teacher from Fairfax, Virginia (whose 1-day cash winnings total $4,599)
+First Jeopardy! Round: COUNTRIES OF THE WORLD, SONGS, THE THIRD, SPORTS, FASHION, SCIENCE
+COUNTRIES OF THE WORLD | Prince Edward & Marion, 2 small islands of this country, lie about 1200 miles southeast of Cape Town | South Africa
+right: Steve
+Wrong: 
+Value: $100
+Number: 7
+SONGS | Bob Dylan asked him to "Play a song for me, in the jingle jangle morning I'll come followin' you" | Mr. Tambourine Man
+right: Steve
+Wrong: 
+Value: $100
+Number: 12
+THE THIRD | Charles Conrad, Jr. was the third man to walk here | The Moon
+right: Martin
+Wrong: 
+Value: $100
+Number: 17
+SPORTS | Tommy Lasorda managed this team to 4 National League pennants & 2 World Series championships | Los Angeles Dodgers
+right: Steve
+Wrong: 
+Value: $100
+Number: 1
+FASHION | In ads, Jamie Lee Curtis has found "Nothing beats a great pair of" these | Leggs
+right: Steve
+Wrong: 
+Value: $100
+Number: 6
+SCIENCE | These respiratory organs of aquatic animals occur in oysters & some insect larvae as well as in fish | Gills
+right: Carole
+Wrong: 
+Value: $100
+Number: 22
+COUNTRIES OF THE WORLD | Numerous dikes cover the coast of Ijsselmeer in this country | The Netherlands/Holland
+right: Martin
+Wrong: 
+Value: $200
+Number: 8
+SONGS | The title of a 1942 Frank Loesser song said to "Praise the Lord and" do this | Pass the ammunition
+right: Steve
+Wrong: 
+Value: $200
+Number: 13
+THE THIRD | Our third president, for 4 years he had a Burr in his side | Thomas Jefferson
+right: Steve
+Wrong: 
+Value: $200
+Number: 18
+SPORTS | The Vancouver Grizzlies & the Toronto Raptors are the newest franchises in this professional sport | Basketball
+right: Steve
+Wrong: 
+Value: $200
+Number: 2
+FASHION | His rugged casual wear line, The Double RL, is named for his Colorado ranch | Ralph Lauren
+right: Carole
+Wrong: 
+Value: $200
+Number: 25
+SCIENCE | Used to control glaucoma, a trabeculectomy is a procedure that reduces pressure in this organ | Eye
+right: Martin
+Wrong: 
+Value: $200
+Number: 23
+COUNTRIES OF THE WORLD | A cedar tree is featured on this country's coat of arms | Lebanon
+right: Steve
+Wrong: 
+Value: $300
+Number: 9
+SONGS | "You could have told me yourself that you loved someone else, instead I heard it" here | Through the grapevine
+right: Steve
+Wrong: 
+Value: $300
+Number: 14
+THE THIRD | The third reindeer named in "A Visit From St. Nicholas", he follows Dancer & precedes Vixen | Prancer
+right: Carole
+Wrong: 
+Value: $300
+Number: 19
+SPORTS | NHL teams that have moved to new, luxury box-filled arenas include the Boston Bruins & this city's Sabres | Buffalo
+right: Steve
+Wrong: 
+Value: $300
+Number: 3
+FASHION | Claudia Schiffer is featured in ads for this lingerie store & catalogue's new "Underware" line | Victoria's Secret
+right: Steve
+Wrong: 
+Value: $300
+Number: 26
+SCIENCE | The number of these dark patches visible on the sun's surface varies from a few to several hundred | Sunspots
+right: Martin
+Wrong: 
+Value: $300
+Number: 24
+COUNTRIES OF THE WORLD | Bratislava, capital of this eastern neighbor of the Czech Republic, was known as Pressburg until 1919 | Slovakia
+right: Martin
+Wrong: 
+Value: $400
+Number: 10
+SONGS | 2 words following "Don't know why there's no sun up in the sky...." | Stormy weather
+right: Carole
+Wrong: 
+Value: $400
+Number: 15
+THE THIRD | Based on an Erich Maria Remarque novel, it was the third film to win a Best Picture Oscar | All Quiet On The Western Front
+right: Steve
+Wrong: 
+Value: $400
+Number: 20
+SPORTS | On November 19, 1996, he announced his retirement as Notre Dame football coach after an 11-year stint | Lou Holtz
+right: Steve
+Wrong: 
+Value: $400
+Number: 4
+FASHION | Hard Candy is a trendy new company making colorful types of this cosmetic | Lipstick/nail polish
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+SCIENCE | A phrase used to remember this planet's main moons is "Met Dr. Thip"; Titan is the second T | Saturn
+right: Steve
+Wrong: 
+Value: $400
+Number: 29
+COUNTRIES OF THE WORLD | This country's territory on Borneo is over 50% larger than its territory on the Asian mainland | Malaysia
+right: Steve
+Wrong: 
+Value: $500
+Number: 11
+SONGS | This Beatles song begins, "Close your eyes and I'll kiss you, tomorrow I'll miss you" | All My Loving
+right: Martin
+Wrong: 
+Value: $500
+Number: 16
+THE THIRD | He was the last king of the House of York | Richard III
+right: 
+Wrong: 
+Value: DD: $800
+Number: 21
+SPORTS | This golfing cup was presented by & named for a British seed merchant & was first awarded in 1927 | Ryder Cup
+right: Carole
+Wrong: 
+Value: $500
+Number: 5
+FASHION | This menswear designer has launched a Tommy line for women along with a new Tommy Girl fragrance | Tommy Hilfiger
+right: Carole
+Wrong: 
+Value: $500
+Number: 28
+SCIENCE | This drug marketed as Motrin was patented in Great Britain in 1964 | Ibuprofen
+right: Steve
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Steve: $2,600
+Martin: $600
+Carole: $900
+Scores at the end of the Jeopardy! Round:
+Steve: $4,000
+Martin: $1,700
+Carole: $2,000
+Second Jeopardy! Round: AMERICAN HISTORY, HOSPITALS, ART, 9-LETTER WORDS, LITERARY HODGEPODGE, ENDINGS
+AMERICAN HISTORY | In November 1620 John Carver was elected the first governor of this colony | Plymouth Colony
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+HOSPITALS | The Cleveland Clinic tops U.S. News' 1996 ranking of hospitals in this, the study of the heart | Cardiology
+right: Steve
+Wrong: 
+Value: $200
+Number: 8
+9-LETTER WORDS | A vortex or a jacuzzi | Whirlpool
+right: Steve
+Wrong: 
+Value: $200
+Number: 3
+LITERARY HODGEPODGE | The protagonist of this H.G. Wells novel is known only as the Time Traveller | The Time Machine
+right: Martin
+Wrong: 
+Value: $200
+Number: 1
+ENDINGS | Some observers say this decade ended with the shootings at Kent State | 1960s
+right: Steve
+Wrong: 
+Value: $200
+Number: 22
+AMERICAN HISTORY | In 1933 this Republican began serving the first of his 2 terms as governor of Kansas | Alf Landon
+right: Martin
+Wrong: 
+Value: $400
+Number: 18
+HOSPITALS | In 1860 she founded her nursing school at London's St. Thomas's Hospital with funds raised by the public | Florence Nightingale
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+ART | Grime darkened the daytime setting of this artist's work, causing it to be misnamed "The Night Watch" | Rembrandt
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+9-LETTER WORDS | It's a place such as a tank or artificial lake where water is stored | a reservoir
+right: Carole
+Wrong: 
+Value: $400
+Number: 4
+LITERARY HODGEPODGE | "The Castle Of Otranto", a tale of evil, was the 1st English novel of this "architectural" genre | Gothic
+right: Steve
+Wrong: 
+Value: $400
+Number: 2
+ENDINGS | An underage partner can be grounds for this ending of a marriage, which usually happens within a year | Annulment
+right: Martin
+Wrong: 
+Value: $400
+Number: 23
+AMERICAN HISTORY | While serving in this cabinet post, Edward R. Stettinius, Jr. signed the U.N. charter for the U.S. June 26, 1945 | Secretary of State
+right: Steve
+Wrong: 
+Value: $600
+Number: 19
+HOSPITALS | In 1978 Louise Brown, the first of these, was born in the UK's Oldham General Hospital | Test-tube baby
+right: Steve
+Wrong: 
+Value: $600
+Number: 10
+ART | This Venetian master was born Tiziano Vecellio | Titian
+right: Steve
+Wrong: 
+Value: $600
+Number: 28
+9-LETTER WORDS | Trees that shed their leaves annually are described by this adjective | Deciduous
+right: Carole
+Wrong: 
+Value: $600
+Number: 5
+LITERARY HODGEPODGE | Born Adeline Virginia Stephen, this "To The Lighthouse" author was a leader of the Bloomsbury Group | Virginia Woolf
+right: Carole
+Wrong: 
+Value: $600
+Number: 13
+AMERICAN HISTORY | In June 1967 LBJ met with this Soviet premier in Glassboro, N.J. to discuss world problems | Alexei Kosygin
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+HOSPITALS | Children's Hospital in Boston is the primary pediatric teaching hospital of this university | Harvard
+right: Steve
+Wrong: 
+Value: $800
+Number: 11
+ART | This French impressionist's 1893 "Trapeze Artist At The Medrano Circus" was painted on cardboard | Toulouse Lautrec
+right: Steve
+Wrong: 
+Value: $800
+Number: 16
+9-LETTER WORDS | Named for a scientist, it means to coat metal with zinc | Galvanize
+right: Carole
+Wrong: 
+Value: $800
+Number: 6
+LITERARY HODGEPODGE | He wrote "A Little Tractate In Praise Of Dante" after finishing the "Decameron" | Giovanni Boccaccio
+right: Carole
+Wrong: 
+Value: $800
+Number: 14
+ENDINGS | Ending being celebrated in the Alfred Eisenstaedt photograph seen here: [video clue] | End of the Second World War
+right: Martin
+Wrong: 
+Value: DD: $3,600
+Number: 26
+AMERICAN HISTORY | On September 14, 1847, this general led the American army into Mexico City | Winfield Scott
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+HOSPITALS | The Knights Hospitalers trace their origin back to an 11th century hospital in this city | Jerusalem
+right: 
+Wrong: 
+Value: DD: $1,400
+Number: 12
+ART | While serving as art director of the Moscow State Jewish Theater, he painted murals & designed sets | Marc Chagall
+right: Martin
+Wrong: 
+Value: $1000
+Number: 25
+9-LETTER WORDS | It's the derivation of a word, or the study of it | Etymology
+right: Steve
+Wrong: 
+Value: $1000
+Number: 7
+LITERARY HODGEPODGE | This Scotsman's 19th century novel "The Master Of Ballantrae" is subtitled "A Winter's Tale" | Robert Louis Stevenson
+right: Martin
+Wrong: 
+Value: $1000
+Number: 15
+ENDINGS | Eschatology is the theology of this event, which T.S. Eliot said would happen with a whimper | The end of the world
+right: Martin
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Steve: $8,600
+Martin: $7,300
+Carole: $2,400
+
+Final Jeopardy! Round
+OSCAR WINNERS | The only person -- male or female -- to win Oscars in acting & screenwriting categories | Emma Thompson
+right: Carole | Steve
+Wrong: 
+Martin: Who is Orson Welles?
+Wagers: 
+Carole: $2,000
+Martin: $2,100
+Steve: $6,001
+Final scores:
+Steve: $14,601 (2-day champion: $19,200)
+Martin: $5,200 (2nd place: Trip to the Tryall Club Resort & Villas, Jamaica)
+Carole: $4,400 (3rd place: Meade Model 395 Telescope)
+
+Coryat scores
+Steve: $10,800 (30 R,3 W(including 2 DDs))
+Martin: $4,500 (13 R(including 1 DD),3 W)
+Carole: $2,400 (11 R,3 W)

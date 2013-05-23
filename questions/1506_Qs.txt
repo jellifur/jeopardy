@@ -1,0 +1,338 @@
+3813 - Wednesday, March 14, 2001
+Contestants:
+Kyle Adams: a classical pianist & music instructor from Astoria, New York
+Beth Kopley: a fundraiser from Boston, Massachusetts
+Raj Choudhary: a customer care manager from Houston, Texas (whose 1-day cash winnings total $1,400)
+First Jeopardy! Round: INDEPENDENCE DAYS, I GOT THE MUSIC IN ME, PREHISTORIC TIMES, LET IT "B", MOTHER GOOSE, EGGS-CITEMENT!
+INDEPENDENCE DAYS | On July 28 Peru celebrates its independence from this country | Spain
+right: Raj
+Wrong: 
+Value: $100
+Number: 1
+I GOT THE MUSIC IN ME | To see John Lennon's Sgt. Pepper costume, head to this Ohio establishment | The Rock & Roll Hall of Fame
+right: Beth
+Wrong: 
+Value: $100
+Number: 8
+PREHISTORIC TIMES | Historians generally agree that the development of this separates prehistory from history | Writing
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 6
+LET IT "B" | A spoiled child; hopefully you don't have a pack of them | Brat
+right: Kyle
+Wrong: 
+Value: $100
+Number: 15
+MOTHER GOOSE | "Little Boy Blue, come blow your horn; the sheep's in the meadow, the cow's" here | In the corn
+right: Raj
+Wrong: 
+Value: $100
+Number: 13
+EGGS-CITEMENT! | Also a term for a military officer's hat decoration, it's the breakfast serving seen here | Scrambled eggs
+right: Beth
+Wrong: 
+Value: $100
+Number: 17
+INDEPENDENCE DAYS | February 7 is a great day in Grenada -- it celebrates its independence from this country | Great Britain/England
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 2
+I GOT THE MUSIC IN ME | Though dead since 1977, he still helps guide tourists through Graceland on audiotape | Elvis Presley
+right: Kyle
+Wrong: 
+Value: $200
+Number: 9
+PREHISTORIC TIMES | Eohippus was not an early hippopotamus, but the first one of these animals | Horse
+right: Kyle
+Wrong: 
+Value: $200
+Number: 7
+LET IT "B" | An ancient Mesopotamian capital city on the Euphrates | Babylon
+right: Beth
+Wrong: 
+Value: $200
+Number: 16
+MOTHER GOOSE | They cried, "'Oh, mother dear, we sadly fear that we have lost our mittens'" | Three Little Kittens
+right: Raj
+Wrong: 
+Value: $200
+Number: 27
+EGGS-CITEMENT! | Adjective for the eggs seen here, or some P.I.s | Hard-boiled
+right: Raj
+Wrong: 
+Value: $200
+Number: 18
+INDEPENDENCE DAYS | Panamanians celebrate November 3, the day of their independence from this country | Colombia
+right: Raj
+Wrong: 
+Value: $300
+Number: 3
+I GOT THE MUSIC IN ME | An Eric Clapton guitar in London was the first piece of memorabilia donated to this restaurant chain | Hard Rock Cafe
+right: Beth
+Wrong: 
+Value: $300
+Number: 10
+PREHISTORIC TIMES | In the Pleistocene epoch, these gouged at gorges in river valleys; when they melted, rocks & soil were left | Glaciers
+right: Kyle
+Wrong: 
+Value: $300
+Number: 14
+LET IT "B" | These "nautical" refugees began fleeing Vietnam in the late 1970s | Boat people
+right: Raj
+Wrong: 
+Value: $300
+Number: 20
+MOTHER GOOSE | It's the reason "Old Mother Hubbard went to her cupboard" | To get her poor dog a bone
+right: Kyle
+Wrong: 
+Value: $300
+Number: 28
+EGGS-CITEMENT! | This "traitorous" egg dish is a favorite at a Manhattan Delmonico's restaurant, where it was supposedly created | Eggs Benedict
+right: Kyle
+Wrong: 
+Value: $300
+Number: 19
+INDEPENDENCE DAYS | Namibian workers may take off March 21 to mark their independence from this country | South Africa
+right: Raj
+Wrong: 
+Value: DD: $400
+Number: 4
+I GOT THE MUSIC IN ME | There's a plan in San Fran for Terrapin Station, an interactive music museum dedicated to this group | Grateful Dead
+right: Raj
+Wrong: 
+Value: $400
+Number: 11
+PREHISTORIC TIMES | This "man" found in a German valley in 1856 was the first fossil recognized as a prehistoric human | Neanderthal
+right: Raj
+Wrong: 
+Value: $400
+Number: 25
+LET IT "B" | These "boys" rapped their way to the top of the charts with the 1986 album "Licensed to Ill" | The Beastie Boys
+right: Raj
+Wrong: 
+Value: $400
+Number: 23
+MOTHER GOOSE | He "Went a-hunting for to catch a hare" after meeting a pieman going to the fair | Simple Simon
+right: Raj
+Wrong: 
+Value: $400
+Number: 29
+EGGS-CITEMENT! | Doris Day knows that with six you get this appetizer | Eggroll
+right: Beth
+Wrong: 
+Value: $400
+Number: 21
+INDEPENDENCE DAYS | On August 31 the people of Kyrgyzstan celebrate its break from this country | Soviet Union/Russia
+right: Raj
+Wrong: 
+Value: $500
+Number: 5
+I GOT THE MUSIC IN ME | Tuition, fees & expenses for this school at Lincoln Center will set back mom & dad over $25,000 a year | Juilliard
+right: Beth
+Wrong: 
+Value: $500
+Number: 12
+PREHISTORIC TIMES | This coal-forming period consisted of 2 portions:  Pennsylvanian & Mississippian | Carboniferous
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+LET IT "B" | This inflating marine animal is also known as a puffer | Blowfish
+right: Raj
+Wrong: 
+Value: $500
+Number: 24
+MOTHER GOOSE | This little guy "Runs through the town, upstairs and downstairs, in his nightgown" | Wee Willie Winkie
+right: Beth
+Wrong: 
+Value: $500
+Number: 30
+EGGS-CITEMENT! | "Satanic" satisfier served up here | Deviled eggs
+right: Raj
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Raj: $1,700
+Beth: $900
+Kyle: $100
+Scores at the end of the Jeopardy! Round:
+Raj: $4,600
+Beth: $2,100
+Kyle: $700
+Second Jeopardy! Round: U.S. LAKES, FORGOTTEN MUSICALS, MILITARY MATTERS, WHAT THEY DID IN 2000, MEDICAL ABBREVIATIONS, "...OD" WORDS
+U.S. LAKES | The city of Provo is just east of the lake that shares its name with this state in which Provo is located | Utah
+right: Beth
+Wrong: 
+Value: $200
+Number: 6
+FORGOTTEN MUSICALS | Critics didn't "Heep" praise on "Copperfield", based on a novel by this man; it closed in 2 weeks | Charles Dickens
+right: Kyle
+Wrong: 
+Value: $200
+Number: 7
+MILITARY MATTERS | Upon hearing the order to "Fall In!", you should line up & "come to" this | Attention
+right: Beth
+Wrong: 
+Value: $200
+Number: 26
+WHAT THEY DID IN 2000 | He canonized fellow Pole Faustina Kowalska | Pope John Paul II
+right: Beth
+Wrong: 
+Value: $200
+Number: 14
+MEDICAL ABBREVIATIONS | In medicine, T&A isn't so sexy; it stands for this operation "& adenoidectomy" | Tonsillectomy
+right: Beth
+Wrong: 
+Value: $200
+Number: 21
+"...OD" WORDS | A lump of dirt, or a dull, stupid person | Clod
+right: Kyle
+Wrong: 
+Value: $200
+Number: 1
+U.S. LAKES | Grosse Pointe, a suburb of this metropolis, lies on the shores of Lake St. Clair | Detroit
+right: Beth
+Wrong: 
+Value: $400
+Number: 8
+FORGOTTEN MUSICALS | The "Rockabye" version of this play featured the rousing "Rosencrantz And Guildenstern Boogie" | "Hamlet"
+right: Raj
+Wrong: 
+Value: $400
+Number: 9
+MILITARY MATTERS | First class, master, chief master & major are levels of this rank | Sergeant
+right: Kyle
+Wrong: 
+Value: $400
+Number: 27
+WHAT THEY DID IN 2000 | He won the Republican nomination for U.S. senator from New York | Rick Lazio
+right: Raj
+Wrong: 
+Value: $400
+Number: 17
+MEDICAL ABBREVIATIONS | BT can stand for "Brain" this; "Kindergarten Cop" Schwarzenegger insisted he didn't have one | Tumor
+right: Beth
+Wrong: 
+Value: $400
+Number: 22
+"...OD" WORDS | To poke with a pointed object, or the object itself | Prod
+right: Kyle
+Wrong: 
+Value: $400
+Number: 2
+U.S. LAKES | Lake Como in Montana contributed generously to the battle against these in summer 2000 | Forest fires
+right: Beth
+Wrong: 
+Value: $600
+Number: 10
+FORGOTTEN MUSICALS | 1904's "Piff! Paff! Pouf!" boasted chorus girls in glow-in-the-dark costumes in a dance named for this element | Radium
+right: Raj
+Wrong: 
+Value: $600
+Number: 11
+MILITARY MATTERS | MIA is Missing In Action; WIA is this | Wounded In Action
+right: Raj
+Wrong: 
+Value: $600
+Number: 28
+WHAT THEY DID IN 2000 | She gave birth to Dylan Michael Douglas | Catherine Zeta-Jones
+right: Raj
+Wrong: 
+Value: DD: $3,000
+Number: 18
+MEDICAL ABBREVIATIONS | OD can stand for overdose or for oculus dexter, the right one of these | Eye
+right: Beth
+Wrong: 
+Value: DD: $1,000
+Number: 23
+"...OD" WORDS | From the Greek for "assembly", it's an assembly of church officials | Synod
+right: Raj
+Wrong: 
+Value: $600
+Number: 3
+U.S. LAKES | In 1985 tornadoes centered on this Great Lake struck Ontario, Ohio, New York & Pennsylvania | Lake Erie
+right: Raj
+Wrong: 
+Value: $800
+Number: 12
+FORGOTTEN MUSICALS | Bernadette Peters played the waiflike heroine of "La Strada", based on a classic film by this director | Federico Fellini
+right: Beth
+Wrong: 
+Value: $800
+Number: 15
+MILITARY MATTERS | The ABC weapons are atomic, biological & this | Chemical
+right: Raj
+Wrong: 
+Value: $800
+Number: 29
+WHAT THEY DID IN 2000 | He pled guilty to just 1 count of mishandling nuclear secrets | Wen Ho Lee
+right: Kyle
+Wrong: 
+Value: $800
+Number: 19
+MEDICAL ABBREVIATIONS | Abbreviation for a job that has replaced coroner in many areas; it might have its own award | M.E. (Medical Examiner)
+right: Kyle
+Wrong: 
+Value: $800
+Number: 24
+"...OD" WORDS | A snail or slug, for example | Gastropod
+right: Kyle
+Wrong: 
+Value: $800
+Number: 4
+U.S. LAKES | Rather than Lake Sallier, Louisianans took a settler's first name & called their city this | Lake Charles
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+FORGOTTEN MUSICALS | "Look to the Lilies", based on this book, starred Al Freeman, Jr. in the role Sidney Poitier played on film | "Lilies of the Field"
+right: Beth
+Wrong: 
+Value: $1000
+Number: 16
+MILITARY MATTERS | From the German biwacht, "Auxiliary Patrol", it's an unsheltered military camp | Bivouac
+right: Kyle
+Wrong: 
+Value: $1000
+Number: 30
+WHAT THEY DID IN 2000 | He won the Nobel Peace Prize | Kim Dae-jung
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+MEDICAL ABBREVIATIONS | In the 1880s Robert Koch said, "Must see" this & isolated the bacillus that causes it | TB (tuberculosis)
+right: Beth
+Wrong: 
+Value: $1000
+Number: 25
+"...OD" WORDS | Genesis describes this grandson of Noah as "A mighty hunter before the Lord" | Nimrod
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Raj: $11,200
+Beth: $7,700
+Kyle: $5,100
+
+Final Jeopardy! Round
+FAMOUS FILMS | He made the first home movie to be named to the Library of Congress' National Film Registry | Abraham Zapruder (the film of the Kennedy Assassination)
+right: Beth | Raj
+Wrong: 
+Kyle: Who was Edison?!
+Wagers: 
+Kyle: $3,000
+Beth: $4,200
+Raj: $4,200
+Final scores:
+Raj: $15,400 (2-day champion: $16,800)
+Beth: $11,900 (2nd place: Trip to Vienna, Austria, courtesy of Priceline.com)
+Kyle: $2,100 (3rd place: Casablanca Avio Desktop Video Editor)
+
+Coryat scores
+Raj: $8,800 (22 R(including 2 DDs),3 W)
+Beth: $7,300 (18 R(including 1 DD),1 W)
+Kyle: $5,100 (14 R,4 W)

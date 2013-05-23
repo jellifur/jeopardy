@@ -1,0 +1,336 @@
+5058 - Wednesday, September 13, 2006
+Contestants:
+Matt Thomas: a structural engineer from Chicago, Illinois
+Meighan Larbi: a publishing data manager from Cape Coral, Florida
+Nathalie Henderson: a housewife from Baton Rouge, Louisiana (whose 1-day cash winnings total $30,400)
+First Jeopardy! Round: SHAKESPEAREAN POLICE BLOTTER, IT'S A MAN, BABY!, WINING & DINING, A HORSE IS A HORSE, OFF COURSE, OFF COURSE, MR. "ED"
+SHAKESPEAREAN POLICE BLOTTER | Multiple homicides, regicide via poison in ear; unit dispatched to nunnery for further investigation | Hamlet
+right: Matt
+Wrong: 
+Value: $200
+Number: 1
+IT'S A MAN, BABY! | In drag as a peasant in this Monty Python film, Terry Jones tells King Arthur, "I didn't vote for you" | Monty Python and the Holy Grail
+right: Matt
+Wrong: 
+Value: $200
+Number: 7
+WINING & DINING | German Eiswein, meant to go with this course, is so concentrated, some recommend it in place of the course | dessert
+right: Meighan
+Wrong: 
+Value: $200
+Number: 21
+OFF COURSE, OFF COURSE | This doctor found Victoria Falls but never discovered the source of the Nile | Dr. Livingstone
+right: Nathalie
+Wrong: 
+Value: $200
+Number: 2
+MR. "ED" | It's a small whirlpool | an eddy
+right: Meighan
+Wrong: 
+Value: $200
+Number: 16
+SHAKESPEAREAN POLICE BLOTTER | From Cyprus PD: Man smothered or strangled wife, TBD by coroner; man confirmed suicide at scene | Othello
+right: Matt
+Wrong: 
+Value: $400
+Number: 3
+IT'S A MAN, BABY! | Barry Humphries, the voice of Bruce the Shark in "Finding Nemo", also performs as this "Dame", possums | Dame Edna
+right: Meighan
+Wrong: 
+Value: $400
+Number: 8
+WINING & DINING | With spaghetti & meat sauce, try Classico, one of the 7 subzones of this Italian red wine | Chianti
+right: Meighan
+Wrong: 
+Value: $400
+Number: 22
+A HORSE IS A HORSE | This smallest of the British breeds was in huge demand after children were banned from coal mining | a Shetland pony
+right: Matt
+Wrong: 
+Value: $400
+Number: 29
+OFF COURSE, OFF COURSE | On Oct. 12, 1492 he thought he'd reached Asia; in fact, the closest he ever got was an Aegean island as a young man | Christopher Columbus
+right: Matt
+Wrong: 
+Value: $400
+Number: 10
+MR. "ED" | Avid Xpress DV, Final Cut Pro & Adobe Premiere are software for this use | (film) editing
+right: Meighan
+Wrong: 
+Value: $400
+Number: 17
+SHAKESPEAREAN POLICE BLOTTER | Death by stabbing & then drowning in "Malmsey-Butt"; regicide, presumably for lack of equine | Richard III
+right: Meighan
+Wrong: 
+Matt: What is Macbeth?
+Value: $600
+Number: 4
+IT'S A MAN, BABY! | Tim Curry was dressed for success as Dr. Frank-N-Furter in this 1975 cult movie | The Rocky Horror Picture Show
+right: Matt
+Wrong: 
+Value: $600
+Number: 9
+WINING & DINING | Orange muscat goes well with this feminine-named treat that's doused with orange liqueur & set aflame | Crêpe Suzette
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+A HORSE IS A HORSE | Cavalry horses trained for battle; it's also an NFL team name | Chargers
+right: Matt
+Wrong: 
+Value: $600
+Number: 28
+OFF COURSE, OFF COURSE | In 1999 software & navigation issues kept the Polar Lander & the Climate Orbiter from exploring this planet | Mars
+right: Matt
+Wrong: 
+Value: $600
+Number: 11
+MR. "ED" | In "The Sound of Music", this is "small and white, clean and bright" | Edelweiss
+right: Meighan
+Wrong: 
+Value: $600
+Number: 18
+SHAKESPEAREAN POLICE BLOTTER | Impersonating an officer of the court, attempted flesh mutilation & loan sharking | The Merchant of Venice
+right: Meighan
+Wrong: 
+Value: $800
+Number: 5
+IT'S A MAN, BABY! | This 1959 movie ends with Jerry saying, "You don't understand... I'm a man!" & getting the reply, "Well, nobody's perfect" | Some Like It Hot
+right: Meighan
+Wrong: 
+Value: $800
+Number: 14
+WINING & DINING | In the film "Sideways", Miles makes a speech in praise of this red that goes well with roast fowl | Pinot
+right: 
+Wrong: Triple Stumper
+Nathalie: What is Merlot?
+Value: $800
+Number: 24
+A HORSE IS A HORSE | To do this to a horse, you'd need a comb; to do it to Indian food, you'd need the powder | curry
+right: Nathalie
+Wrong: 
+Value: $800
+Number: 27
+OFF COURSE, OFF COURSE | He named the ocean "Pacific" after many turbulent detours in South America while searching for Asia | (Ferdinand) Magellan
+right: Matt
+Wrong: 
+Value: DD: $800
+Number: 12
+MR. "ED" | The term for excess fluid can be cerebral or pulmonary | edema
+right: Meighan
+Wrong: 
+Value: $800
+Number: 19
+SHAKESPEAREAN POLICE BLOTTER | From Rome PD: Dismemberment, homicide, cannibalism, emperor-cide, unauthorized tongue-ectomy | Titus Andronicus
+right: 
+Wrong: Triple Stumper
+Matt: What is Julius Caesar?
+Value: $1000
+Number: 6
+IT'S A MAN, BABY! | At 6'7", this one-named African-American dragster was hard to miss in the video for "Love Shack" | RuPaul
+right: Matt
+Wrong: 
+Value: $1000
+Number: 15
+WINING & DINING | With sardines, perhaps a white Vinho Verde from this nation that fishes for them | Portugal
+right: Meighan
+Wrong: 
+Value: $1000
+Number: 25
+A HORSE IS A HORSE | As an adjective, the name of this breed of horse can mean pure or genuine | Thoroughbred
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+OFF COURSE, OFF COURSE | Verrazano discovered this Rhode Island bay but made a bad turn & disappeared in Central America | Narragansett Bay
+right: Matt
+Wrong: 
+Value: $1000
+Number: 13
+MR. "ED" | There's this type of decree of Nantes, Milan, Toleration & Worms | an edict
+right: Meighan
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Nathalie: $200
+Meighan: $1,800
+Matt: $2,600
+Scores at the end of the Jeopardy! Round:
+Nathalie: $200
+Meighan: $7,200
+Matt: $4,600
+Second Jeopardy! Round: 1706, TV DRAMAS BY EPISODE, "BIO" SCIENCE, ADJECTIVE INSPIRERS, COTE D'IVOIRE, DANGEROUS WORDS
+1706 | This New Mexico town was founded in 1706 & today is the largest city in the state | Albuquerque
+right: Matt
+Wrong: 
+Value: $400
+Number: 11
+TV DRAMAS BY EPISODE | "Waterloo at Southfork" | Dallas
+right: Meighan
+Wrong: 
+Value: $400
+Number: 16
+"BIO" SCIENCE | The $6 Million Man could tell you that this word lost the "electro" from its middle | bionic
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+ADJECTIVE INSPIRERS | Cindy, you're a nice girl, but I only want a relationship named for this philosopher of ideal forms | Plato
+right: Matt
+Wrong: 
+Value: $400
+Number: 26
+COTE D'IVOIRE | An Ivoirian culinary specialty is foutou, often made from this, which gets confused with the sweet potato | a yam
+right: Nathalie
+Wrong: 
+Value: $400
+Number: 6
+DANGEROUS WORDS | In movie titles this kind of threat has been "Red" & "Phantom" | a menace
+right: Meighan
+Wrong: 
+Value: $400
+Number: 1
+1706 | Francis Hauksbee developed a generator of this type of electricity, a glass globe you rotated & rubbed | static electricity
+right: Matt
+Wrong: 
+Value: $800
+Number: 12
+TV DRAMAS BY EPISODE | "The Curse of the King Kamehameha Club" | Magnum, P.I.
+right: Nathalie
+Wrong: 
+Meighan: What is Hawaii Five-O?
+Value: $800
+Number: 17
+"BIO" SCIENCE | 2 men at the U. of Washington's Department of this won the 1992 Nobel Prize for studying cell protein regulation | biochemistry
+right: Meighan
+Wrong: 
+Nathalie: What are biogenetics?
+Matt: What is biology?
+Value: $800
+Number: 22
+ADJECTIVE INSPIRERS | Though not a lingerie designer, this doctor has a "slip" named for him | Freud
+right: Meighan
+Wrong: 
+Value: $800
+Number: 27
+COTE D'IVOIRE | If you go, remember your Malarone for protection from a disease carried by this creature | mosquito
+right: Matt
+Wrong: 
+Value: $800
+Number: 7
+DANGEROUS WORDS | It describes the fight in "The Star-Spangled Banner" | perilous
+right: Meighan
+Wrong: 
+Value: $800
+Number: 2
+1706 | In 1706 Charles XII of this Scandinavian country invaded Saxony as part of the "Great Northern War" | Sweden
+right: Matt
+Wrong: 
+Value: $1200
+Number: 13
+TV DRAMAS BY EPISODE | "Three Brides for Hoss" | Bonanza
+right: Nathalie
+Wrong: 
+Value: $1200
+Number: 18
+"BIO" SCIENCE | (<http://www.j-archive.com/media/2006-09-13_DJ_23.wmv> Jon of the Clue Crew sits by a machine that's playing with a shoe at the Nike Campus in Oregon.)  The three main areas studied at the Nike Sport Research Lab are physiology, sensory perception & this, defined as the way forces act on the body | biomechanics
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+ADJECTIVE INSPIRERS | The name of this late Italian moviemaker plus -esque has come to mean grotesque or surreal | Fellini
+right: Matt
+Wrong: 
+Value: $1200
+Number: 28
+COTE D'IVOIRE | Not Rome but Yamoussoukro features the world's tallest of this special type of cathedral | basilica
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+DANGEROUS WORDS | Referring to an unsuspected danger, the Latin phrase "anguis in herba" literally means this | a snake in the grass
+right: Meighan
+Wrong: 
+Value: DD: $3,000
+Number: 3
+1706 | In 1706 she was queen of England & involved in a North American war bearing her name | Queen Anne
+right: Matt
+Wrong: 
+Value: $1600
+Number: 14
+TV DRAMAS BY EPISODE | "Elaan of Troyius" | Star Trek
+right: Nathalie
+Wrong: 
+Value: $1600
+Number: 19
+"BIO" SCIENCE | If you doubt the need for a pink-eared antgrubber & a hollow-tailed antgrubber, you aren't recognizing the value of this | biodiversity
+right: Nathalie
+Wrong: 
+Value: $1600
+Number: 24
+ADJECTIVE INSPIRERS | To describe a society where the government knows everything about you, add -ian to the name of this British author | Orwell
+right: Matt
+Wrong: 
+Value: DD: $3,000
+Number: 29
+COTE D'IVOIRE | Though no longer the official capital, this city is still the commercial & cultural center | Abidjan
+right: Matt
+Wrong: 
+Value: $1600
+Number: 9
+DANGEROUS WORDS | The federal "Office of" this type of "Materials Safety" bans sending anhydrous ammonia by passenger plane | hazardous
+right: Nathalie
+Wrong: 
+Value: $1600
+Number: 4
+1706 | This acclaimed Baroque composer whose work is heard <http://www.j-archive.com/media/2006-09-13_DJ_15.mp3> here died in 1706 | Pachelbel
+right: Matt
+Wrong: 
+Value: $2000
+Number: 15
+TV DRAMAS BY EPISODE | "Fallon's Father" | Dynasty
+right: Nathalie
+Wrong: 
+Value: $2000
+Number: 20
+"BIO" SCIENCE | Biblical-sounding term for the principle that living organisms develop only from other living organisms | biogenesis
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+COTE D'IVOIRE | The first French colonial capital, Grand Bassam, is perched on the shore of this gulf | the Gulf of Guinea
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+DANGEROUS WORDS | This adjective for the position you're in teetering on the edge of a cliff comes from the same root as "prayer" | precarious
+right: Meighan
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Nathalie: $8,600
+Meighan: $14,600
+Matt: $16,800
+
+Final Jeopardy! Round
+VICE PRESIDENTS | The 2 GOP vice presidents who succeeded to the presidency & were later elected president in their own right | Theodore Roosevelt & Calvin Coolidge
+right: 
+Wrong: 
+Nathalie: Who is Ben Harrison and Chester Arthur
+Meighan: Who were George H.W. Bush and Eisenhower
+Matt: Who are G.H.W. Bush + T. Roosevelt
+Wagers: 
+Nathalie: $8,400
+Meighan: $3,000
+Matt: $12,401
+Final scores:
+Nathalie: $200 (3rd place: $1,000)
+Meighan: $11,600 (New champion: $11,600)
+Matt: $4,399 (2nd place: $2,000)
+
+Coryat scores
+Nathalie: $8,600 (9 R,2 W)
+Meighan: $12,800 (19 R(including 1 DD),1 W)
+Matt: $15,400 (21 R(including 2 DDs),3 W)

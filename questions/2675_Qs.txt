@@ -1,0 +1,340 @@
+4571 - Monday, June 21, 2004
+Comments: Ken Jennings game 14.
+Contestants:
+Scheri Mullins: an administrative assistant from Louisville, Kentucky
+Matt Ottinger: a telecommunications coordinator from Okemos, Michigan
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 13-day cash winnings total $440,158)
+First Jeopardy! Round: NONFICTION, MUSICAL SETTINGS, INSECT, ARACHNID OR GASTROPOD, BOMB THE "BAN", WHAT'S NEW?, ARE YOU ADDRESSING ME?
+NONFICTION | Seymour Hersh's "The Dark Side of Camelot" examines this president's administration & private life | John F. Kennedy
+right: Matt
+Wrong: 
+Value: $200
+Number: 6
+MUSICAL SETTINGS | In an ever-popular musical, Mr. Mushnik's flower shop becomes this title place | Little Shop of Horrors
+right: Matt
+Wrong: 
+Value: $200
+Number: 11
+INSECT, ARACHNID OR GASTROPOD | The scorpion | arachnid
+right: Matt
+Wrong: 
+Value: $200
+Number: 21
+BOMB THE "BAN" | "My Golden Bengal" is this country's national anthem | Bangladesh
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+WHAT'S NEW? | A malihini is a newcomer to this state | Hawaii
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+ARE YOU ADDRESSING ME? | The personal pronoun of the second person in the nominative case; people often act holier than it | thou
+right: Matt
+Wrong: 
+Value: $200
+Number: 16
+NONFICTION | This radio personality bared all in his 1993 book "Private Parts" | Howard Stern
+right: Matt
+Wrong: 
+Value: $400
+Number: 7
+MUSICAL SETTINGS | (<http://www.j-archive.com/media/2004-06-21_J_12.jpg> Cheryl of the Clue Crew presents from the Broadway set of Cabaret.)  Life is a cabaret on the set of "Cabaret" at the <http://www.j-archive.com/media/2004-06-21_J_12a.jpg> Kit Kat Club, a tawdry nightclub in this city | Berlin
+right: Matt
+Wrong: 
+Value: $400
+Number: 12
+INSECT, ARACHNID OR GASTROPOD | The daddy longlegs | arachnid
+right: Ken
+Wrong: 
+Matt: What is insect?
+Value: $400
+Number: 22
+BOMB THE "BAN" | (<http://www.j-archive.com/media/2004-06-21_J_02.wmv> Sarah of the Clue Crew gives the clue from a boxing ring at Gleason's Gym in Brooklyn, NY.)  This term for small chickens and boxers between 112 and 118 pounds is believed to have come from a town on the island of Java | bantamweight
+right: Ken | Matt | Scheri
+Wrong: 
+Value: $400
+Number: 2
+WHAT'S NEW? | In 2003 Edith Grossman served up a new translation of this Cervantes work | Don Quixote
+right: Matt
+Wrong: 
+Value: $400
+Number: 27
+ARE YOU ADDRESSING ME? | A surgeon in England is simply addressed as this, not Dr. | Mr.
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+NONFICTION | No question about it, after 30 years this "Practical Manual for Job-Hunters & Career-Changers" is still flying high | What Color Is Your Parachute?
+right: Matt
+Wrong: 
+Value: $600
+Number: 8
+MUSICAL SETTINGS | In this show's first scene, "It's a typical day in Dogpatch, U.S.A." | Li'l Abner
+right: Matt
+Wrong: 
+Ken: What is... Al Capp?
+Value: $600
+Number: 13
+INSECT, ARACHNID OR GASTROPOD | The aphid | insect
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+BOMB THE "BAN" | Including Zulu & Xhosa, it's an African language group of over 500 languages | Bantu
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+WHAT'S NEW? | Experts say the smell in a new one of these is from the phthalate plasticizers used in PVC, not leather | car
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+ARE YOU ADDRESSING ME? | Miss came from the first syllable of this word & mrs. is a shortened form of it | mistress
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+NONFICTION | 2003's "I Am a Soldier, Too" tells her story, including that of her capture & rescue | Jessica Lynch
+right: Matt
+Wrong: 
+Value: $800
+Number: 9
+MUSICAL SETTINGS | What a drag! This Jerry Herman musical is set in part at the St. Tropez nightclub of the same name | La Cage aux Folles
+right: Matt
+Wrong: 
+Value: DD: $4,600
+Number: 14
+INSECT, ARACHNID OR GASTROPOD | The earwig | insect
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+BOMB THE "BAN" | In Shakespeare, this close friend of Macbeth's is with him when he encounters the 3 witches | Banquo
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+WHAT'S NEW? | Developed in Australia, the Sugarbaby & the Crimson Glow are new breeds of this shortcake fruit | strawberry
+right: Matt
+Wrong: 
+Value: $800
+Number: 29
+ARE YOU ADDRESSING ME? | From the Arabic for "old man", it's the head of a family, tribe or village | sheik
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+NONFICTION | In 1957 E.B. White was called in to edit this professor's "The Elements of Style" | William Strunk (Jr.)
+right: Matt
+Wrong: 
+Value: $1000
+Number: 10
+MUSICAL SETTINGS | At the beginning of this show, it's 6 a.m. in the Brooklyn Navy Yard | On the Town
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+INSECT, ARACHNID OR GASTROPOD | The limpet | gastropod
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+BOMB THE "BAN" | The name of this mythical female spirit comes from the old Irish for "woman of the fairy realm" | Banshee
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+WHAT'S NEW? | This Smithsonian museum has new digs at Dulles International Airport | the Air & Space Museum
+right: 
+Wrong: Triple Stumper
+Ken: What's the Museum of Flight?
+Value: $1000
+Number: 30
+ARE YOU ADDRESSING ME? | As tovarishch means this, we guess you could be a tovarishch-in-arms | comrade
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ken: $2,400
+Matt: $4,600
+Scheri: $400
+Scores at the end of the Jeopardy! Round:
+Ken: $8,000
+Matt: $10,400
+Scheri: $400
+Second Jeopardy! Round: WARTIME IMAGES, AFI's 100 YEARS, 100 SONGS, LET'S VISIT AFRICA, PRESCRIPTION DRUGS, 20th CENTURY NICKNAMES, NUMBERS GAME
+WARTIME IMAGES | World War I German troops are seen <http://www.j-archive.com/media/2004-06-21_DJ_06.jpg> here in one of these structures | a trench
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+AFI's 100 YEARS, 100 SONGS | Sure to be "way up high" among the 100 songs is this Judy Garland standard from "The Wizard of Oz" | "Over The Rainbow"
+right: Matt
+Wrong: 
+Value: $400
+Number: 1
+LET'S VISIT AFRICA | In 1855 Heinrich Barth compiled African vocabularies while crossing this 3.5 million-square-mile area | the Sahara
+right: Matt
+Wrong: 
+Value: $400
+Number: 26
+PRESCRIPTION DRUGS | Fiorinal with codeine (& aspirin, & caffeine) is mainly prescribed for the tension type of this | a headache
+right: Matt
+Wrong: 
+Value: $400
+Number: 21
+20th CENTURY NICKNAMES | It's the avuncular nickname of the man seen <http://www.j-archive.com/media/2004-06-21_DJ_11.jpg> here | "Uncle Milty"
+right: Matt
+Wrong: 
+Value: $400
+Number: 11
+NUMBERS GAME | Big number represented at the 1945 Yalta Conference | three
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+WARTIME IMAGES | The image <http://www.j-archive.com/media/2004-06-21_DJ_07.jpg> seen <http://www.j-archive.com/media/2004-06-21_DJ_07a.jpg> here is from this conflict | the Korean War
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+AFI's 100 YEARS, 100 SONGS | (<http://www.j-archive.com/media/2004-06-21_DJ_02.jpg> Hi, I'm Clay Aiken.)  One song I really hope made the list is "Unchained Melody", a favorite of mine, which was used as the love theme in this Demi Moore film | Ghost
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+PRESCRIPTION DRUGS | This brand is the nasal-spray version of Fluticasone for those with allergies | Flonase
+right: Scheri
+Wrong: 
+Value: $800
+Number: 22
+20th CENTURY NICKNAMES | Based on his 1992 testimony against John Gotti, he could have been Sammy the Canary, not the Bull | Sammy Gravano
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+NUMBERS GAME | It's the number of basic questions in journalism (don't forget the "H") | six
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+WARTIME IMAGES | Timothy O'Sullivan's 1863 <http://www.j-archive.com/media/2004-06-21_DJ_08.jpg> shot of its aftermath is titled "A Harvest of Death" | Gettysburg
+right: Matt
+Wrong: 
+Ken: What is Antietam?
+Value: $1200
+Number: 8
+AFI's 100 YEARS, 100 SONGS | In terms of recent songs, perhaps this movie's "My Heart Will Go On" will go on the list | Titanic
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+LET'S VISIT AFRICA | Ibadan, Abuja & Ogbomosho are all cities in this African nation of over 125 million | Nigeria
+right: Ken
+Wrong: 
+Value: $1200
+Number: 27
+PRESCRIPTION DRUGS | Nadolol is this class of drug; it fights hypertension by keeping neurotransmitters from binding with receptors | a beta blocker
+right: Scheri
+Wrong: 
+Value: $1200
+Number: 23
+20th CENTURY NICKNAMES | (<http://www.j-archive.com/media/2004-06-21_DJ_13.jpg> I'm NBA Hall of Famer Walt Frazier.)  My clothing style got me this nickname after a '30s gangster featured in a 1967 movie | "Clyde"
+right: Matt
+Wrong: 
+Value: $1200
+Number: 13
+NUMBERS GAME | When "General Hospital" began in 1963 it was set on this floor of the hospital, also the dial position of ABC in L.A. & NYC | seven
+right: Matt
+Wrong: 
+Value: $1200
+Number: 18
+WARTIME IMAGES | <http://www.j-archive.com/media/2004-06-21_DJ_09.jpg> Seen <http://www.j-archive.com/media/2004-06-21_DJ_09a.jpg> here is a photo from the Battle of this, which lasted from about June 1940 to April 1941 | Britain
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+AFI's 100 YEARS, 100 SONGS | The world will always welcome great movie tunes like the one heard <http://www.j-archive.com/media/2008-06-21_DJ_04.mp3> here, from this 1942 classic | Casablanca
+right: Ken
+Wrong: 
+Value: $1600
+Number: 4
+LET'S VISIT AFRICA | The country of Namibia was once known as this, & that's also where it is on the map | South West Africa
+right: Ken
+Wrong: 
+Value: DD: $6,000
+Number: 28
+PRESCRIPTION DRUGS | This term for a popular type of cholesterol-lowering drug sounds like a New York island | statin
+right: 
+Wrong: 
+Scheri: What is stat?
+Value: DD: $2,200
+Number: 24
+20th CENTURY NICKNAMES | For his brilliant but minority Supreme Court opinions, Oliver Wendell Holmes Jr. was "The Great" this | Dissenter
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+NUMBERS GAME | If you are the very model of a U.S. Major General, you wear this many stars | two
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+WARTIME IMAGES | Bridge seen <http://www.j-archive.com/media/2004-06-21_DJ_10.jpg> here in 1775; an Emerson hymn called it "the rude bridge that arched the flood" | Concord Bridge
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+AFI's 100 YEARS, 100 SONGS | The movie "Bright Eyes" gave us this sweet little song that mentions bon bons & a chocolate bar | "The Good Ship Lollipop"
+right: Matt
+Wrong: 
+Value: $2000
+Number: 5
+LET'S VISIT AFRICA | Nairobi's tallest building is the conference center named for this first Prime Minister & President of Kenya | Jomo Kenyatta
+right: Ken
+Wrong: 
+Value: $2000
+Number: 29
+PRESCRIPTION DRUGS | "I feel that others would be better off if I were dead" is part of a self-test on this Eli Lilly drug's website | Prozac
+right: 
+Wrong: Triple Stumper
+Scheri: What is if you're suicidal?
+Value: $2000
+Number: 25
+20th CENTURY NICKNAMES | Richard Nixon's aides Haldeman & Erlichman were sometimes called these comic-strip "Kids" | Katzenjammer
+right: Ken
+Wrong: 
+Matt: What are the Katzenheimer Kids?
+Value: $2000
+Number: 15
+NUMBERS GAME | The Red Cross says you should wait this many weeks between whole blood donations | eight
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Ken: $28,400
+Matt: $15,600
+Scheri: -$1,800
+
+Final Jeopardy! Round
+INVENTIONS | Josephine Cochrane's 1886 version of this consisted of a copper boiler, wire baskets & a pump | a dishwasher
+right: Ken
+Wrong: 
+Matt: What is an artifical lung?
+Wagers: 
+Matt: $15,600
+Ken: $3,201
+Final scores:
+Ken: $31,601 (14-day champion: $471,759)
+Matt: $0 (2nd place: $2,000)
+Scheri: -$1,800 (3rd place: $1,000)
+
+Coryat scores
+Ken: $24,000 (29 R(including 1 DD),3 W)
+Matt: $11,800 (22 R(including 1 DD),2 W)
+Scheri: $400 (3 R,2 W(including 1 DD))

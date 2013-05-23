@@ -1,0 +1,333 @@
+5331 - Monday, November 12, 2007
+Comments: 2007 Tournament of Champions semifinal game 1.
+Contestants:
+Susan Mitchell: a chemical engineer from Houston, Texas
+Doug Hicton: a composer originally from Regina,  Saskatchewan, Canada
+Chris Mazurek: an assistant professor from Columbia, Missouri
+First Jeopardy! Round: POETIC LICENSE, GIRLS OF SONG, FARK.com HEADLINES, THE ILLUMINATI, Q WITHOUT U, VIRTUAL MEDICINE
+POETIC LICENSE | The parentage of his daughter Elena is still a mystery; she was born in 1818, but not to his wife Mary | Shelley
+right: Doug
+Wrong: 
+Value: $200
+Number: 18
+GIRLS OF SONG | Van Morrison, The Doors, U2 & Laura Branigan all sang about girls named this | Gloria
+right: Doug
+Wrong: 
+Value: $200
+Number: 1
+FARK.com HEADLINES | After one of these "feral" birds was released into a park, "Alcoholics... hunt it down & try to drink it" | a wild turkey
+right: Susan
+Wrong: 
+Value: $200
+Number: 30
+THE ILLUMINATI | America's first lighthouse, completed in Boston in 1716, was illuminated primarily by this type of oil | whale
+right: Chris
+Wrong: 
+Value: $200
+Number: 14
+Q WITHOUT U | Summer temps can rise above 120 in this country that gained its independence in 1971 | Qatar
+right: Chris
+Wrong: 
+Value: $200
+Number: 13
+VIRTUAL MEDICINE | (<http://www.j-archive.com/media/2007-11-12_J_06.jpg> Sarah of the Clue Crew reads from the surgery simulation room at the Beth Israel Deaconess Medical Center in Boston, MA.)  Doctors get invaluable training on the Human Patient Simulator at Boston's Beth Israel Deaconess Medical Center, a teaching hospital of this medical school founded in 1782 | Harvard
+right: Susan
+Wrong: 
+Value: $200
+Number: 6
+POETIC LICENSE | The opium-induced sleep that inspired his "Kubla Khan" was an omen; he later became dependent on the drug | (Samuel Taylor) Coleridge
+right: Doug
+Wrong: 
+Value: $400
+Number: 22
+GIRLS OF SONG | Elvis Costello tells this title girl, "My aim is true" | Alison
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+FARK.com HEADLINES | "American youth still not convinced that criminal plans should not be posted on" this popular website | MySpace(.com)
+right: 
+Wrong: Triple Stumper
+Chris: What is... Facebook?
+Value: $400
+Number: 29
+THE ILLUMINATI | From May 13 to September 30, floodlights illuminate the 60-foot heads at this site | Mount Rushmore
+right: Susan
+Wrong: 
+Value: $400
+Number: 15
+Q WITHOUT U | It's a horn-shaped nose, no pants & no problem for this pyramid-hopping '80s arcade favorite | Q*bert
+right: Chris
+Wrong: 
+Value: $400
+Number: 11
+VIRTUAL MEDICINE | (<http://www.j-archive.com/media/2007-11-12_J_17.jpg> Jimmy of the Clue Crew observes a procedure on a simulated patient at the Carl J. Shapiro Simulation & Skills Center in Boston, MA.) Inserting a chest tube provides drainage to treat the buildup called empyema, sometimes the result of this lung infection | pneumonia (tuberculosis accepted)
+right: Susan
+Wrong: 
+Doug: What is pleurisy?
+Value: $400
+Number: 17
+POETIC LICENSE | At university, this poetic lord developed a "violent, though pure, love" for young chorister John Edleston | Byron
+right: Doug
+Wrong: 
+Value: $600
+Number: 21
+GIRLS OF SONG | "You fill up my senses, come fill me again" like this gal from a John Denver song | Annie
+right: Doug
+Wrong: 
+Value: $600
+Number: 3
+FARK.com HEADLINES | "Noodle shop accused of aiding drunk driving.  That's because nobody left the place" this buckwheat noodle | soba
+right: Doug
+Wrong: 
+Value: $600
+Number: 26
+THE ILLUMINATI | The first city to illuminate its streets by electricity was Wabash in this state in 1880 | Indiana
+right: Doug
+Wrong: 
+Value: $600
+Number: 25
+Q WITHOUT U | This 3-letter term (an abbreviation, really) means "which was to be demonstrated" | QED
+right: Chris
+Wrong: 
+Value: $600
+Number: 9
+VIRTUAL MEDICINE | (<http://www.j-archive.com/media/2007-11-12_J_07.jpg> Sarah of the Clue Crew reads next to a doctor inserting a large syringe into a simulated abdomen.) This gas that's eliminated during respiration is what gets pumped into the abdomen to expand it & give surgeons room to work | carbon dioxide
+right: Susan
+Wrong: 
+Value: $600
+Number: 7
+POETIC LICENSE | This Russian poet's flagrant affair with a married countess got him kicked out of Odessa in 1824 | Pushkin
+right: Doug
+Wrong: 
+Value: $800
+Number: 20
+GIRLS OF SONG | No one's really sure who this title girl is in the piece heard <http://www.j-archive.com/media/2007-11-12_J_04.mp3> here | Elise
+right: Chris
+Wrong: 
+Value: $800
+Number: 4
+FARK.com HEADLINES | Church of England debating female these; "Critics say move won't help women to move forward, only diagonally" | bishops
+right: Chris
+Wrong: 
+Value: $800
+Number: 27
+THE ILLUMINATI | Henry Jones, M.A. 1624, made quite an alumni gift to Ireland's Trinity College--this illuminated manuscript | Book of Kells
+right: 
+Wrong: 
+Susan: What is a Gutenberg Bible?
+Value: DD: $2,600
+Number: 24
+Q WITHOUT U | We hear this product's website says it's "the ultimate beauty tool" | a Q-tip
+right: Doug
+Wrong: 
+Value: $800
+Number: 10
+VIRTUAL MEDICINE | (<http://www.j-archive.com/media/2007-11-12_J_08.jpg> Sarah of the Clue Crew reads from the Carl J. Shapiro Simulation & Skills Center in Boston, MA.) To ensure the passage of oxygen to the lungs, a tube is placed into this airway with care taken not to hit the esophagus behind it | the trachea
+right: Doug
+Wrong: 
+Value: $800
+Number: 8
+POETIC LICENSE | This poet whose first name was Algernon was described as the "libidinous laureate of a pack of satyrs" | Swinburne
+right: Susan
+Wrong: 
+Value: $1000
+Number: 19
+GIRLS OF SONG | The Plain White T's, not Tom Jones, scored a hit with the 2006 ballad "Hey There" this girl | Delilah
+right: Susan
+Wrong: 
+Value: $1000
+Number: 5
+FARK.com HEADLINES | "Bush says he'll welcome" this Palestinian president "to U.S. but only if they agree to play 'Dancing Queen'" | Abbas
+right: 
+Wrong: Triple Stumper
+Doug: Who is Abba? Keep--oh.
+Value: $1000
+Number: 28
+THE ILLUMINATI | In photometry, a unit of measure for the intensity of illumination is this one with an appendage in its name | a foot-candle
+right: Susan
+Wrong: 
+Doug: What's the F-stop?
+Value: $1000
+Number: 23
+Q WITHOUT U | Dvorak is an alternative to this standard keyboard layout | QWERTY
+right: Chris
+Wrong: 
+Value: $1000
+Number: 12
+VIRTUAL MEDICINE | (<http://www.j-archive.com/media/2007-11-12_J_16.jpg> Jimmy of the Clue Crew holds a long, thin tube at the Carl J. Shapiro Simulation & Skills Center in Boston, MA.) <http://www.j-archive.com/media/2007-11-12_J_16a.jpg> This fiber-optic viewing scope has revolutionized diagnosis and surgery, as a tiny incision in the abdomen replaces one several inches long | laparoscope
+right: Doug
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Chris: $3,200
+Doug: $2,400
+Susan: $2,200
+Scores at the end of the Jeopardy! Round:
+Chris: $3,600
+Doug: $4,200
+Susan: $2,200
+Second Jeopardy! Round: ART GAL-ERY, 1910s CINEMA, HAVE GUN, WILL TRAVEL, ROAMIN' HOLIDAYS, MIDDLE NAMES, 2007 NATIONAL SPELLING BEE WORDS
+ART GAL-ERY | It follows "Cecilia" in the name of a noted female artist & precedes "Arts" in the French phrase for fine arts | Beaux
+right: Susan
+Wrong: 
+Value: $400
+Number: 12
+HAVE GUN, WILL TRAVEL | The national hero of Spain, at times he fought for Christian kingdoms & at other times for Muslim ones | El Cid
+right: Doug
+Wrong: 
+Value: $400
+Number: 9
+2007 NATIONAL SPELLING BEE WORDS | Your largest one is the gluteus maximus | M-U-S-C-L-E
+right: Doug
+Wrong: 
+Susan: What is M-U-S-C-L-E-S?
+Value: $400
+Number: 16
+ART GAL-ERY | Elisabeth Vigee-Lebrun outlived this queen & portrait subject by 49 years, dying in 1842 | Marie Antoinette
+right: Susan
+Wrong: 
+Value: $800
+Number: 1
+HAVE GUN, WILL TRAVEL | The embodiment of the 20th c. mercenary, Michael "Mad Mike" Hoare fought wars on this continent from the '60s-'80s | Africa
+right: Susan
+Wrong: 
+Value: $800
+Number: 13
+ROAMIN' HOLIDAYS | Visit this country for the Flemish as well as French community holidays | Belgium
+right: Doug
+Wrong: 
+Value: $800
+Number: 15
+MIDDLE NAMES | A current senator from Hawaii: Ken | Daniel K. Inouye
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+2007 NATIONAL SPELLING BEE WORDS | It's French for butterfly | P-A-P-I-L-L-O-N
+right: Doug
+Wrong: 
+Value: $800
+Number: 17
+ART GAL-ERY | The stag shown <http://www.j-archive.com/media/2007-11-12_DJ_02.jpg> here is by <http://www.j-archive.com/media/2007-11-12_DJ_02a.jpg> Rosa Bonheur, the first woman awarded the Grand Cross of this French medal | the Legion of Honor
+right: Susan
+Wrong: 
+Value: DD: $2,000
+Number: 2
+1910s CINEMA | Brodsky's movies tour through Japan included footage of these indigenous people seen <http://www.j-archive.com/media/2007-11-12_DJ_21.wmv> here | Ainu
+right: Doug
+Wrong: 
+Value: $1200
+Number: 21
+HAVE GUN, WILL TRAVEL | In 1941 this retired U.S. Air Corps captain formed the "Flying Tigers" | Claire Chennault
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 14
+ROAMIN' HOLIDAYS | Head off to these 2 countries for Anzac Day to commemorate those who fought in WWI at the Dardanelles | Australia & New Zealand
+right: Susan
+Wrong: 
+Value: $1200
+Number: 26
+MIDDLE NAMES | A pioneering 1950s Journalist: Roscoe | Edward R. Murrow
+right: Chris
+Wrong: 
+Value: DD: $1,200
+Number: 6
+2007 NATIONAL SPELLING BEE WORDS | It's an Italian appetizer of toasted bread, garlic & olive oil, often topped with chopped tomatoes | B-R-U-S-C-H-E-T-T-A
+right: Doug
+Wrong: 
+Value: $1200
+Number: 18
+ART GAL-ERY | In a 1988 movie, Laurent Grevill played writer Paul Claudel & Isabelle Adjani starred as this artist sister | Camille (Claudel)
+right: Chris
+Wrong: 
+Doug: Who was Adele H?
+Value: $1600
+Number: 3
+1910s CINEMA | Now home to a theme park & studio, this first "city" dedicated to making movies was built by Carl Laemmle in 1915 | Universal City
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 23
+HAVE GUN, WILL TRAVEL | Made famous by Conan Doyle, this "colorful" mercenary group fought for Padua, Florence & other Italian city-states | the White Company
+right: 
+Wrong: Triple Stumper
+Doug: Who were the Red Shirts?
+Value: $1600
+Number: 24
+ROAMIN' HOLIDAYS | Pysanky, these decorated spring holiday items, are a popular part of Ukrainian culture | Easter eggs
+right: Doug
+Wrong: 
+Value: $1600
+Number: 25
+MIDDLE NAMES | A Chief Justice: Hubbs | William H. Renquist
+right: Chris
+Wrong: 
+Susan: Who is Taft?
+Value: $1600
+Number: 7
+2007 NATIONAL SPELLING BEE WORDS | The first Grand Inquisitor of Spain was the notorious Tomas de... | T-O-R-Q-U-E-M-A-D-A
+right: Doug
+Wrong: 
+Value: $1600
+Number: 19
+ART GAL-ERY | In the mid 1500's Sofonisba Anguissola was a painter at the court of <http://www.j-archive.com/media/2007-11-12_DJ_04.jpg> this Spanish king & did his <http://www.j-archive.com/media/2007-11-12_DJ_04a.jpg> portrait | Philip II
+right: 
+Wrong: Triple Stumper
+Doug: Who was Philip V?
+Value: $2000
+Number: 4
+1910s CINEMA | The middle initial of this cowboy star of "Truthful Tulliver" stood for Surrey | William S. Hart
+right: Doug
+Wrong: 
+Value: $2000
+Number: 22
+HAVE GUN, WILL TRAVEL | In the "Anabasis", the historian Xenophon covered his years fighting for this "younger" Persian | Cyrus
+right: 
+Wrong: Triple Stumper
+Doug: Who is, uh, Xerxes?
+Susan: Who is Darius?
+Value: $2000
+Number: 10
+ROAMIN' HOLIDAYS | This country celebrates Mother Teresa day to mark the beatification of its favorite daughter | Albania
+right: Susan
+Wrong: 
+Value: $2000
+Number: 11
+MIDDLE NAMES | A sci-fi writer: Kindred | Phillip K. Dick
+right: Chris
+Wrong: 
+Value: $2000
+Number: 8
+2007 NATIONAL SPELLING BEE WORDS | With this word, we assume they meant a shutout in gin rummy & not the super on "One Day at a Time" | S-C-H-N-E-I-D-E-R
+right: Doug
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Chris: $10,000
+Doug: $9,000
+Susan: $5,400
+
+Final Jeopardy! Round
+ENGLISH LANGUAGE WRITERS | In his journal of 1710 to 1713, he referred to himself as "Presto" | Jonathan Swift
+right: 
+Wrong: 
+Susan: Who is S. Peeps?
+Doug: Who was Defoe?
+Chris: Who is B Franklin
+Wagers: 
+Susan: $3,700
+Doug: $1,801
+Chris: $8,001
+Final scores:
+Chris: $1,999 (2nd place: $10,000 + the Jeopardy! DVD Home Game System)
+Doug: $7,199 (Finalist)
+Susan: $1,700 (3rd place: $10,000 + the Jeopardy! DVD Home Game System)
+
+Coryat scores
+Chris: $10,000 (11 R(including 1 DD),1 W)
+Doug: $9,000 (21 R,7 W)
+Susan: $7,200 (14 R(including 1 DD),4 W(including 1 DD))

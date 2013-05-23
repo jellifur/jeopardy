@@ -1,0 +1,338 @@
+3005 - Friday, September 26, 1997
+Contestants:
+Lynn Kusnierz: a magazine editor from New York City, New York
+Pete Vodola: an attorney from Newtown, Connecticut
+Bob Willoughby: a computer programming student from Madison, Wisconsin (whose 3-day cash winnings total $36,001)
+First Jeopardy! Round: NAME THAT BODY PART, PRIME TIME TV, CROSSWORD CLUES "U", WORLD WAR I, MIDDLE NAMES, INTO THE WOODS
+NAME THAT BODY PART | Dentine, Pulp, Crown | Tooth
+right: Lynn
+Wrong: 
+Value: $100
+Number: 21
+PRIME TIME TV | This former TV Conehead plays a human romancing an alien in "3rd Rock From The Sun" | Jane Curtin
+right: Bob
+Wrong: 
+Value: $100
+Number: 11
+CROSSWORD CLUES "U" | Ivory soap or Molly Brown              (10) | Unsinkable
+right: Lynn
+Wrong: 
+Value: $100
+Number: 1
+WORLD WAR I | The battles on this front ran from Liege in 1914 to the 2nd battle of the Marne in 1918; it was rarely quiet | Western front
+right: Pete
+Wrong: 
+Value: $100
+Number: 16
+MIDDLE NAMES | Leroy was the middle name of this cartoonist, "Believe It Or Not" | Robert Ripley
+right: Pete
+Wrong: 
+Value: $100
+Number: 26
+INTO THE WOODS | As mayor of New York City, Fernando Wood helped create this wooded area | Central Park
+right: Bob
+Wrong: 
+Value: $100
+Number: 6
+NAME THAT BODY PART | Calcaneus, Plantar arch,  Sole | Foot
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+PRIME TIME TV | (VIDEO DAILY DOUBLE): "(Hi, I'm Victoria Rowell)  During the daytime, I play D.B. Winters on "Y & R".  At night, A.B. Livingston on this Dick Van Dyke series" | Diagnosis Murder
+right: 
+Wrong: 
+Value: DD: $300
+Number: 12
+CROSSWORD CLUES "U" | Got Milk!              (5) | Udder
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+WORLD WAR I | This treaty that ended WWI was repudiated by Hitler in 1935 | Treaty of Versailles
+right: Pete
+Wrong: 
+Value: $200
+Number: 17
+MIDDLE NAMES | It's the middle & more familiar name of playwright Marvin Simon | Neil
+right: Pete
+Wrong: 
+Value: $200
+Number: 27
+INTO THE WOODS | In this Iowan's 1929 painting "Woman With Plants", the woman is his mother | Grant Wood
+right: Bob
+Wrong: 
+Value: $200
+Number: 7
+NAME THAT BODY PART | Parietal lobe, Thalamus, Cerebellum | Brain
+right: Bob
+Wrong: 
+Value: $300
+Number: 23
+PRIME TIME TV | Ray Wise played Reese & Peyton's dad on "Savannah" & Laura Palmer's father on this series | Twin Peaks
+right: Bob
+Wrong: 
+Value: $300
+Number: 13
+CROSSWORD CLUES "U" | "Leading" man in a theater, or at a wedding             (5) | Usher
+right: Pete
+Wrong: 
+Value: $300
+Number: 3
+WORLD WAR I | 4 of this U.S. air ace's 26 confirmed victories were balloons | Eddie Rickenbacker
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 18
+MIDDLE NAMES | Yo!  His middle name is either Enzio or Gardenzio, depending on whom you ask | Sylvester Stallone
+right: Bob
+Wrong: 
+Value: $300
+Number: 28
+INTO THE WOODS | Leonard Wood lost the 1920 Republican nomination to this man who went on to win the presidency | Warren G. Harding
+right: Bob
+Wrong: 
+Value: $300
+Number: 8
+NAME THAT BODY PART | Phagocytes, Alveoli, Bronchioles | Lungs
+right: Bob
+Wrong: 
+Value: $400
+Number: 24
+PRIME TIME TV | Cicely Tyson guest-starred on the first episode of this Chad Everett hospital series in 1969 | Medical Center
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+CROSSWORD CLUES "U" | Two words of 6 & 4 letters     (6,4 inverted) | Upside down
+right: Bob
+Wrong: 
+Value: $400
+Number: 4
+WORLD WAR I | The Danton was sunk, but the French battleship named for this "Candide" author survived the war | Voltaire
+right: Bob
+Wrong: 
+Value: $400
+Number: 19
+MIDDLE NAMES | It was the middle name of author Ralph Ellison & essayist Ralph Emerson, for whom he was named | Waldo
+right: Bob
+Wrong: 
+Value: $400
+Number: 29
+INTO THE WOODS | She dubbed her system "Reading Dynamics" | Evelyn Wood
+right: Bob
+Wrong: 
+Value: $400
+Number: 9
+NAME THAT BODY PART | Glomeruli, Nephron, Renal cortex | Kidney
+right: Bob
+Wrong: 
+Value: $500
+Number: 25
+PRIME TIME TV | This Melanie Griffith film about a spunky secretary spawned a 1990 sitcom starring Sandra Bullock | Working Girl
+right: Bob
+Wrong: 
+Value: $500
+Number: 15
+CROSSWORD CLUES "U" | Pope up for renewal             (5) | Urban
+right: Bob
+Wrong: 
+Value: $500
+Number: 5
+WORLD WAR I | Nicknamed for the granddaughter of arms maker Alfred Krupp, this howitzer weighed 43 tons | "Big Bertha"
+right: Lynn
+Wrong: 
+Value: $500
+Number: 20
+MIDDLE NAMES | This middle name of James Hoffa is as puzzling as his disappearance | Riddle
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+INTO THE WOODS | Born Natasha Gurdin in 1938, she acted under this name | Natalie Wood
+right: Lynn
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Bob: $2,700
+Pete: $300
+Lynn: $600
+Scores at the end of the Jeopardy! Round:
+Bob: $5,200
+Pete: $900
+Lynn: $900
+Second Jeopardy! Round: CONTEMPORARY AUTHORS, TOUGH GEOGRAPHY, WORD ORIGINS, MOVIE DIRECTORS, FUN FACTS, CANADIAN MUSICIANS
+CONTEMPORARY AUTHORS | In 1997 this author of "The Firm" & "The Rainmaker" published a new legal thriller, "The Partner" | John Grisham
+right: Bob
+Wrong: 
+Value: $200
+Number: 6
+TOUGH GEOGRAPHY | Except for its coast, Bangladesh is almost entirely surrounded by this country | India
+right: Pete
+Wrong: 
+Value: $200
+Number: 1
+WORD ORIGINS | The name of the alb, a vestment worn by priests, is derived from a Latin word for this color | White (alba)
+right: Pete
+Wrong: 
+Value: $200
+Number: 16
+MOVIE DIRECTORS | "Roman" was this director's 1984 autobiography | Roman Polanski
+right: Pete
+Wrong: 
+Value: $200
+Number: 10
+FUN FACTS | In 1996 an iceberg the size of Rhode Island broke off the coast of this continent | Antarctica
+right: Bob
+Wrong: 
+Value: $200
+Number: 26
+CANADIAN MUSICIANS | He performed with Crosby, Stills & Nash in 1970 & with Pearl Jam 25 years later | Neil Young
+right: Pete
+Wrong: 
+Value: $200
+Number: 21
+CONTEMPORARY AUTHORS | His grandfather Thomas Gore was a senator from Oklahoma | Gore Vidal
+right: Bob
+Wrong: 
+Value: $400
+Number: 7
+TOUGH GEOGRAPHY | Monte Cervino is the Italian name for this peak, located in the Alps & copied in Anaheim | The Matterhorn
+right: Pete
+Wrong: 
+Value: $400
+Number: 2
+WORD ORIGINS | From Yiddish, for a wooden beam, it describes a person so clumsy he might bump into one | Klutz
+right: Lynn
+Wrong: 
+Value: $400
+Number: 17
+MOVIE DIRECTORS | (VIDEO DAILY DOUBLE): Director seen here: (walking two dogs) | Alfred Hitchcock
+right: Pete
+Wrong: 
+Value: DD: $2,300
+Number: 11
+FUN FACTS | It's the home town of Casey's baseball team in the poem "Casey At The Bat" | Mudville
+right: Bob
+Wrong: 
+Value: $400
+Number: 27
+CANADIAN MUSICIANS | (AUDIO DAILY DOUBLE): Heard here, this singer hails from the small prairie town of Consort:  "Constant cravings...." | k.d. lang
+right: Pete
+Wrong: 
+Value: DD: $3,000
+Number: 22
+CONTEMPORARY AUTHORS | Astronaut Dave Bowman is brought back to life in his recent novel "3001:  The Final Odyssey" | Arthur C. Clarke
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+TOUGH GEOGRAPHY | Provinces of this country include El Oro, Chimborazo & Colon or the Galapagos Islands | Ecuador
+right: Pete
+Wrong: 
+Value: $600
+Number: 3
+WORD ORIGINS | The name of this tent fabric comes from a Dutch word for "cloth", not from a web-footed bird | Duck
+right: Lynn
+Wrong: 
+Value: $600
+Number: 18
+MOVIE DIRECTORS | The Swedish Film Institute honors excellence in filmmaking with an annual prize named for this director | Ingmar Bergman
+right: Bob
+Wrong: 
+Value: $600
+Number: 12
+FUN FACTS | It was the Chicago Tribune's erroneous 1948 election night headline | "DEWEY DEFEATS TRUMAN"
+right: Pete
+Wrong: 
+Value: $600
+Number: 28
+CANADIAN MUSICIANS | Jazz musician Maynard Ferguson is renowned for his high, squealing tone on this instrument | Trumpet
+right: Bob
+Wrong: 
+Value: $600
+Number: 23
+CONTEMPORARY AUTHORS | This "Bonfire Of The Vanities" author once tried out as a pitcher for the New York Giants | Tom Wolfe
+right: Pete
+Wrong: 
+Value: $800
+Number: 9
+TOUGH GEOGRAPHY | Beersheba is one of the main cities of this desert region of Israel | Negev
+right: Bob
+Wrong: 
+Value: $800
+Number: 4
+WORD ORIGINS | "When they begin" this dance, they should know its name is from the French for a flirtation | Beguine
+right: Bob
+Wrong: 
+Value: $800
+Number: 19
+MOVIE DIRECTORS | In "Platoon" Charlie Sheen's character Chris was based on this man, who directed the film | Oliver Stone
+right: Pete
+Wrong: 
+Value: $800
+Number: 13
+FUN FACTS | It's the total number of dots on a pair of dice | 42
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 30
+CANADIAN MUSICIANS | In 1974 Neil Peart joined Alex Lifeson & Geddy Lee as this trio "hurried" toward fame | Rush
+right: Bob
+Wrong: 
+Value: $800
+Number: 24
+CONTEMPORARY AUTHORS | Like her heroine Kay Scarpetta, this author once worked for the chief medical examiner's office in Virginia | Patricia Cornwell
+right: Bob
+Wrong: 
+Value: $1000
+Number: 15
+TOUGH GEOGRAPHY | One of Puerto Rico's major rivers shares its name with this estuary that separates Uruguay & Argentina | Rio de la Plata
+right: Lynn
+Wrong: 
+Value: $1000
+Number: 5
+WORD ORIGINS | The name of this xylophone that originated in Africa may be from the Kimbundu language | Marimba
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+MOVIE DIRECTORS | Through 1996 he starred in all of the films he directed with the exception of "Breezy" & "Bird" | Clint Eastwood
+right: Bob
+Wrong: 
+Value: $1000
+Number: 14
+FUN FACTS | It's the only U.S. state whose name has one syllable | Maine
+right: Bob
+Wrong: 
+Value: $1000
+Number: 29
+CANADIAN MUSICIANS | A 1993 film was actually "Thirty Two Short Films About" this pianist known for interpreting Bach | Glenn Gould
+right: Bob
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Bob: $13,000
+Pete: $9,400
+Lynn: $2,900
+
+Final Jeopardy! Round
+U.S. GOVERNMENT | This group that first met in 1942 didn't get a permanent chairman until 1949 | The Joint Chiefs of Staff
+right: Lynn | Pete
+Wrong: 
+Bob: What is the U.N.?
+Wagers: 
+Lynn: $2,899
+Pete: $9,400
+Bob: $5,801
+Final scores:
+Bob: $7,199 (2nd place: Trip to Hotel Melia Victoria, Palma de Majorca, Spain)
+Pete: $18,800 (New champion: $18,800)
+Lynn: $5,799 (3rd place: Pair of Wittnauer International Watches)
+
+Coryat scores
+Bob: $13,300 (31 R,4 W(including 1 DD))
+Pete: $4,900 (16 R(including 2 DDs),1 W)
+Lynn: $2,900 (7 R,1 W)

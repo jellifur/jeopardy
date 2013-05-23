@@ -1,0 +1,344 @@
+6088 - Wednesday, February 16, 2011
+Comments: The IBM Challenge game 2.
+Contestants:
+Brad Rutter: a $3.2-million winner from Los Angeles, California (subtotal of $10,400)
+Watson: a deep question answering system from IBM (subtotal of $35,734)
+Ken Jennings: a 74-game champion from Seattle, Washington (subtotal of $4,800)
+First Jeopardy! Round: EU, THE EUROPEAN UNION, ACTORS WHO DIRECT, DIALING FOR DIALECTS, BREAKING NEWS, ONE BUCK OR LESS, ALSO ON YOUR COMPUTER KEYS
+EU, THE EUROPEAN UNION | Each year the EU selects capitals of culture; one of the 2010 cities was this Turkish "meeting place of cultures" | Istanbul
+right: Watson
+Wrong: 
+Value: $200
+Number: 1
+ACTORS WHO DIRECT | "Rocky II", "III" & "IV" | Sylvester Stallone
+right: Brad
+Wrong: 
+Value: $200
+Number: 23
+DIALING FOR DIALECTS | Sprechen Sie Plattdeutsch? If you do, you speak the Low variety of this language | German
+right: Watson
+Wrong: 
+Value: $200
+Number: 30
+BREAKING NEWS | Before this hotel mogul's elbow broke through it, a Picasso he owned was worth $139 million; after, $85 million | Steve Wynn
+right: Watson
+Wrong: 
+Value: $200
+Number: 16
+ONE BUCK OR LESS | On December 8, 2008 this national newspaper raised its newsstand price by 25 cents to $1 | USA Today
+right: Ken
+Wrong: 
+Value: $200
+Number: 17
+ALSO ON YOUR COMPUTER KEYS | Proverbially, it's "where the heart is" | home
+right: Brad
+Wrong: 
+Value: $200
+Number: 22
+EU, THE EUROPEAN UNION | The Schengen Agreement removes any controls at these between most EU neighbors | national borders
+right: Ken
+Wrong: 
+Value: $400
+Number: 25
+ACTORS WHO DIRECT | "Million Dollar Baby" & "Unforgiven" | Clint Eastwood
+right: Brad
+Wrong: 
+Value: $400
+Number: 24
+DIALING FOR DIALECTS | Dialects of this language include Wu, Yue & Hakka | Chinese
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+BREAKING NEWS | It was 103 degrees in July 2010 & Con Ed's command center in this N.Y. borough showed 12,963 megawatts consumed at 1 time | Manhattan
+right: Brad
+Wrong: 
+Value: $400
+Number: 28
+ONE BUCK OR LESS | The USPS cost for mailing this, a minimum of 3 1/2 x 5 inches, is 28 cents; wish you were here! | a postcard
+right: Ken
+Wrong: 
+Value: $400
+Number: 29
+ALSO ON YOUR COMPUTER KEYS | A loose-fitting dress hanging straight from the shoulders to below the waist | a shift
+right: 
+Wrong: Triple Stumper
+Ken: What is A?
+Watson: What is chemise?
+Value: $400
+Number: 27
+EU, THE EUROPEAN UNION | A controversial EU subsidy program is called CAP, short for "common" this "policy" | agricultural
+right: Watson
+Wrong: 
+Value: $600
+Number: 21
+ACTORS WHO DIRECT | "The Pledge" & "Into the Wild" | Sean Penn
+right: Ken
+Wrong: 
+Value: $600
+Number: 11
+DIALING FOR DIALECTS | Vedic, dating back at least 4,000 years, is the earliest dialect of this classical language of India | Sanskrit
+right: Watson
+Wrong: 
+Value: $600
+Number: 15
+BREAKING NEWS | Senator Obama attended the 2006 groundbreaking for this man's memorial, 1/2 mile from Lincoln's | Martin Luther King
+right: Ken
+Wrong: 
+Value: DD: $3,600
+Number: 18
+ONE BUCK OR LESS | In 2002 Eminem signed this rapper to a 7-figure deal, obviously worth a lot more than his name implies | 50 Cent
+right: Ken
+Wrong: 
+Value: $600
+Number: 19
+ALSO ON YOUR COMPUTER KEYS | Football position that can be split or tight | End
+right: Brad
+Wrong: 
+Value: $600
+Number: 20
+EU, THE EUROPEAN UNION | Elected every 5 years, it has 736 members from 7 parties | Parliament
+right: Watson
+Wrong: 
+Value: $800
+Number: 2
+ACTORS WHO DIRECT | "The Great Debaters" | Denzel Washington
+right: Ken
+Wrong: 
+Value: $800
+Number: 10
+DIALING FOR DIALECTS | While Maltese borrows many words from Italian, it developed from a dialect of this Semitic language | Arabic
+right: Watson
+Wrong: 
+Value: $800
+Number: 4
+BREAKING NEWS | Gambler Charles Wells is believed to have inspired the song "The Man Who" did this "At Monte Carlo" | "Broke The Bank"
+right: Watson
+Wrong: 
+Value: $800
+Number: 6
+ONE BUCK OR LESS | 99 cents got me a 4-pack of Ytterlig coasters from this Swedish chain | IKEA
+right: Brad
+Wrong: 
+Value: $800
+Number: 8
+ALSO ON YOUR COMPUTER KEYS | It's an abbreviation for Grand Prix auto racing | F1
+right: Brad
+Wrong: 
+Value: $800
+Number: 13
+EU, THE EUROPEAN UNION | As of 2010, Croatia & Macedonia are candidates but this is the only former Yugoslav republic in the EU | Slovenia
+right: 
+Wrong: Triple Stumper
+Watson: What is Serbia?
+Brad: What is Bosnia?
+Value: $1000
+Number: 3
+ACTORS WHO DIRECT | "A Bronx Tale" | Robert De Niro
+right: Brad
+Wrong: 
+Value: $1000
+Number: 9
+DIALING FOR DIALECTS | Aeolic, spoken in ancient times, was a dialect of this | Ancient Greek
+right: Watson
+Wrong: 
+Value: $1000
+Number: 5
+BREAKING NEWS | Nearly 10 million YouTubers saw Dave Carroll's clip called this "friendly skies" airline "Breaks Guitars" | United Airlines
+right: Watson
+Wrong: 
+Value: $1000
+Number: 7
+ONE BUCK OR LESS | A 15-ounce V05 Moisture Milks conditioner from this manufacturer averages a buck online | Alberto
+right: Ken
+Wrong: 
+Value: $1000
+Number: 12
+ALSO ON YOUR COMPUTER KEYS | An additional section placed within the folds of a newspaper | an insert
+right: Ken
+Wrong: 
+Brad: What is tab?
+Value: $1000
+Number: 14
+Scores at the first commercial break (after clue 15)
+Ken: $3,400
+Watson: $4,200
+Brad: $600
+Scores at the end of the Jeopardy! Round:
+Ken: $8,600
+Watson: $4,800
+Brad: $2,400
+Second Jeopardy! Round: NONFICTION, LEGAL "E"s, WHAT TO WEAR?, U.S. GEOGRAPHIC NICKNAMES, MAGICAL MOUSE-TERY TOUR, FAMILIAR SAYINGS
+NONFICTION | In 2010 this former First Lady published the memoir "Spoken from the Heart" | Laura Bush
+right: Watson
+Wrong: 
+Value: $400
+Number: 17
+LEGAL "E"s | In English law, it's a title above a gentleman & below a knight; in the U.S., it's usually added to the name of an attorney | esquire
+right: Watson
+Wrong: 
+Value: $400
+Number: 18
+WHAT TO WEAR? | This plain-weave, sheer fabric made with tightly twisted yarn is also used to describe a pie or cake | chiffon
+right: Ken
+Wrong: 
+Value: $400
+Number: 23
+U.S. GEOGRAPHIC NICKNAMES | Cape Hatteras is known as this cemetery synonym "of the Atlantic" | a graveyard
+right: Brad
+Wrong: 
+Value: $400
+Number: 25
+MAGICAL MOUSE-TERY TOUR | Itchy (the mouse) & Scratchy (the cat) starred in "Skinless in Seattle" on a show within this Fox show | The Simpsons
+right: Watson
+Wrong: 
+Value: $400
+Number: 27
+FAMILIAR SAYINGS | Familiarity is said to breed this, from the Latin for "despise" | contempt
+right: Watson
+Wrong: 
+Value: $400
+Number: 28
+NONFICTION | This book by Michael Lewis subtitled "Evolution of a Game" focused on left tackle prodigy Michael Oher | The Blind Side
+right: Brad
+Wrong: 
+Value: $800
+Number: 19
+LEGAL "E"s | One definition of this is entering a private place with the intent of listening secretly to private conversations | eavesdropping
+right: Ken
+Wrong: 
+Value: $800
+Number: 21
+WHAT TO WEAR? | A bit longer than a cocktail dress, one hemmed to end at the shins is this beverage "length" | tea
+right: Brad
+Wrong: 
+Value: $800
+Number: 24
+U.S. GEOGRAPHIC NICKNAMES | Appropriately enough, this New York metropolis is "Bison City" | Buffalo
+right: Watson
+Wrong: 
+Value: $800
+Number: 26
+MAGICAL MOUSE-TERY TOUR | In 1939's cartoon "The Pointer", this guy got a new, more pear-shaped body & pupils were added to his eyes | Mickey (Mouse)
+right: Watson
+Wrong: 
+Value: $800
+Number: 29
+FAMILIAR SAYINGS | Even a broken one of these on your wall is right twice a day | clock
+right: Watson
+Wrong: 
+Value: $800
+Number: 30
+NONFICTION | The New Yorker's 1959 review of this said in its brevity & clarity it is "unlike most such manuals, a book as well as a tool" | The Elements of Style
+right: 
+Wrong: 
+Watson: Let's try... what is Dorothy Parker?
+Value: DD: $2,127
+Number: 5
+LEGAL "E"s | This person is appointed by a testator to carry out the directions & requests in his will | executor
+right: Watson
+Wrong: 
+Value: $1200
+Number: 15
+WHAT TO WEAR? | Also the name of a rope for leading cattle, this women's backless top has a strap that loops around the neck | halter
+right: Watson
+Wrong: 
+Value: $1200
+Number: 11
+U.S. GEOGRAPHIC NICKNAMES | This town is known as "Sin City" & its downtown is "Glitter Gulch" | Las Vegas
+right: Watson
+Wrong: 
+Value: $1200
+Number: 10
+MAGICAL MOUSE-TERY TOUR | This 1959 Daniel Keyes novella about Charlie Gordon & a smarter-than-average lab mouse won a Hugo award | Flowers for Algernon
+right: Watson
+Wrong: 
+Value: $1200
+Number: 9
+FAMILIAR SAYINGS | If you're one of these capable fellows, you're unfortunately "master of none" | a jack of all trades
+right: Brad
+Wrong: 
+Value: $1200
+Number: 1
+NONFICTION | Dave Eggers not-so-modestly titled his memoir "A Heartbreaking Work of" this | Staggering Genius
+right: Watson
+Wrong: 
+Value: $1600
+Number: 4
+LEGAL "E"s | This 2-word phrase means the power to take private property for public use; it's ok, as long as there is just compensation | eminent domain
+right: Watson
+Wrong: 
+Value: DD: $367
+Number: 16
+WHAT TO WEAR? | If you're wearing Wellingtons at Wimbledon, you're wearing these | rainboots (or galoshes)
+right: Ken
+Wrong: 
+Value: $1600
+Number: 6
+U.S. GEOGRAPHIC NICKNAMES | It's known as both "The Steel City" & "The Iron City" | Pittsburgh
+right: Ken
+Wrong: 
+Value: $1600
+Number: 7
+MAGICAL MOUSE-TERY TOUR | The samplefest "The Grey Album" & the band Gnarls Barkley are 2 projects of Brian Burton, aka this | Danger Mouse
+right: Ken
+Wrong: 
+Value: $1600
+Number: 8
+FAMILIAR SAYINGS | A camel is a horse designed by this | a committee
+right: Ken
+Wrong: 
+Value: $1600
+Number: 2
+NONFICTION | HBO's miniseries "John Adams" was based on this author's Pulitzer Prize-winning biography | David McCullough
+right: Watson
+Wrong: 
+Value: $2000
+Number: 20
+LEGAL "E"s | This clause in a union contract says that wages will rise or fall depending on a standard such as cost of living | escalator
+right: Watson
+Wrong: 
+Value: $2000
+Number: 22
+WHAT TO WEAR? | Throw on an outfit from the "Marc by" this designer line | Marc Jacobs
+right: Watson
+Wrong: 
+Value: $2000
+Number: 13
+U.S. GEOGRAPHIC NICKNAMES | "The Coyote State" is an unofficial nickname of this 75,885-square-mile state | South Dakota
+right: Watson
+Wrong: 
+Value: $2000
+Number: 12
+MAGICAL MOUSE-TERY TOUR | Maurice LaMarche found his inner Orson Welles to voice this rodent whose simple goal was to take over the world | the Brain
+right: Ken
+Wrong: 
+Value: $2000
+Number: 14
+FAMILIAR SAYINGS | It's a poor workman who blames these | tools
+right: Watson
+Wrong: 
+Value: $2000
+Number: 3
+Scores at the end of the Double Jeopardy! Round:
+Ken: $18,200
+Watson: $23,440
+Brad: $5,600
+
+Final Jeopardy! Round
+19th CENTURY NOVELISTS | William Wilkinson's "An Account of the Principalities of Wallachia and Moldavia" inspired this author's most famous novel | Bram Stoker
+right: Brad | Ken | Watson
+Wrong: 
+Wagers: 
+Brad: $5,600
+Ken: $1,000
+Watson: $17,973
+Final scores:
+Ken: $19,200 (1st runner-up: $150,000 + $150,000 to VillageReach)
+Watson: $41,413 (Challenge champion: $500,000 to World Vision + $500,000 to World Community Grid)
+Brad: $11,200 (2nd runner-up: $100,000 + $100,000 to the Lancaster County Community Foundation)
+
+Coryat scores
+Ken: $15,200 (17 R(including 1 DD),1 W)
+Watson: $26,800 (28 R(including 1 DD),3 W(including 1 DD))
+Brad: $5,600 (12 R,2 W)

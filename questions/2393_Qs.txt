@@ -1,0 +1,343 @@
+5434 - Thursday, April 3, 2008
+Contestants:
+Rich House: an English professor from Terre Haute, Indiana
+Ellen Lucast: a graduate student and radio deejay from Minneapolis, Minnesota
+Bill Moore: a national security consultant from Arlington, Virginia (whose 1-day cash winnings total $18,399)
+First Jeopardy! Round: AFRICAN GEOGRAPHY, OPENING NUMBERS OF MUSICALS, WHO MIGHT HAVE SAID IT?, ANNUAL EVENTS, THE 2007 FORBES 400, "I" POD
+AFRICAN GEOGRAPHY | While Libya is on the Mediterranean, Liberia is on this body of water | the Atlantic
+right: Ellen
+Wrong: 
+Value: $200
+Number: 1
+OPENING NUMBERS OF MUSICALS | "Aquarius" | Hair
+right: Ellen
+Wrong: 
+Value: $200
+Number: 26
+WHO MIGHT HAVE SAID IT? | The leading man on "24": "I can't believe this cell phone works in this lead-lined bunker.  Who's our carrier?" | Jack Bauer
+right: Bill
+Wrong: 
+Value: $200
+Number: 17
+ANNUAL EVENTS | This president loved oysters, & an annual oyster event takes place in his hometown, Oyster Bay, Long Island | Theodore Roosevelt
+right: Bill
+Wrong: 
+Value: $200
+Number: 6
+THE 2007 FORBES 400 | "$52 billion... $6 bil. richer this year despite handing over $2.1 bil. in Berkshire Hathaway stock to charity" | Warren Buffett
+right: Rich
+Wrong: 
+Value: $200
+Number: 16
+"I" POD | On loans, it can be compound or simple | interest
+right: Bill
+Wrong: 
+Value: $200
+Number: 11
+AFRICAN GEOGRAPHY | We don't mean to "Boer" you, but Paul Kruger has a national park named for him in this country | South Africa
+right: Bill
+Wrong: 
+Value: $400
+Number: 2
+OPENING NUMBERS OF MUSICALS | "I Hope I Get It" | A Chorus Line
+right: Ellen
+Wrong: 
+Value: $400
+Number: 27
+WHO MIGHT HAVE SAID IT? | From Homer's Iliad: "I know they all think I'm a hottie, but I can't believe they launched a thousand ships" | Helen of Troy
+right: Ellen
+Wrong: 
+Value: $400
+Number: 22
+ANNUAL EVENTS | Conceived by store employees, this department store's beloved Thanksgiving Day parade debuted in NYC in 1924 | Macy's
+right: Bill
+Wrong: 
+Value: $400
+Number: 7
+THE 2007 FORBES 400 | "$17.2 billion... started selling computers from... dorm room 1984 with $1,000" | Michael Dell
+right: Rich
+Wrong: 
+Value: $400
+Number: 18
+"I" POD | Sad to say, some people hunt walruses, as well as elephants, to get this valuable material | ivory
+right: Bill
+Wrong: 
+Value: $400
+Number: 12
+AFRICAN GEOGRAPHY | How romantic: at its northeast end, the lake named for this man receives the Victoria Nile from Lake Victoria | (Prince) Albert
+right: Ellen
+Wrong: 
+Value: $600
+Number: 3
+OPENING NUMBERS OF MUSICALS | "All That Jazz" | Chicago
+right: Rich
+Wrong: 
+Value: $600
+Number: 28
+WHO MIGHT HAVE SAID IT? | On "60 Minutes": <http://www.j-archive.com/media/2008-04-03_J_23.mp3> "Have you ever wondered about Post-Its?" | Andy Rooney
+right: Bill
+Wrong: 
+Value: $600
+Number: 23
+ANNUAL EVENTS | Dolls representing the emperor & empress occupy a place of honor during this Asian country's Girls' Festival | Japan
+right: Bill
+Wrong: 
+Value: $600
+Number: 8
+THE 2007 FORBES 400 | "$11.5 billion... New York mayor, media maven gives away $715 million to charity in 5 years" | (Michael) Bloomberg
+right: Rich
+Wrong: 
+Value: $600
+Number: 19
+"I" POD | From the Latin for "unable to speak", this 3-syllable word means extremely childish | infantile
+right: Rich
+Wrong: 
+Value: $600
+Number: 13
+AFRICAN GEOGRAPHY | Good golly!  Malawi is traversed by this "great" valley | the Great Rift
+right: Bill
+Wrong: 
+Value: $800
+Number: 4
+OPENING NUMBERS OF MUSICALS | "Why Can't The English?" | My Fair Lady
+right: Ellen
+Wrong: 
+Value: $800
+Number: 29
+WHO MIGHT HAVE SAID IT? | A president in 1841: "Honey, did I talk too long when it was so cold? Ah-choo!" | William Henry Harrison
+right: Bill
+Wrong: 
+Value: DD: $3,000
+Number: 24
+ANNUAL EVENTS | In 2005, during the annual festival named for <http://www.j-archive.com/media/2008-04-03_J_09a.jpg> him, a <http://www.j-archive.com/media/2008-04-03_J_09.jpg> statue of this Roman god was dedicated in Virginia Beach, Va. | Neptune
+right: Ellen
+Wrong: 
+Value: $800
+Number: 9
+THE 2007 FORBES 400 | "$4.4 billion... ran for <http://www.j-archive.com/media/2008-04-03_J_20.jpg> president twice, railed against NAFTA, budget deficits" | Ross Perot
+right: Rich
+Wrong: 
+Value: $800
+Number: 20
+"I" POD | Meaning "beyond memory", this type of time originally referred to the period before 1189 A.D. | immemorial
+right: Ellen
+Wrong: 
+Value: $800
+Number: 14
+AFRICAN GEOGRAPHY | The town of Koudougou is west of Ouagadougou in this country | Burkina Faso
+right: Bill
+Wrong: 
+Value: $1000
+Number: 5
+OPENING NUMBERS OF MUSICALS | "Another Op'nin', Another Show" | Kiss Me, Kate
+right: 
+Wrong: Triple Stumper
+Bill: What is Cabaret?
+Value: $1000
+Number: 30
+WHO MIGHT HAVE SAID IT? | From Shakespeare: "Enjoy the pies, Tamorra.  I wish your sons were here.  Oh, they are" | Titus Andronicus
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+ANNUAL EVENTS | Don't miss the pie-eating contest at this northwest state's Apple Blossom Festival in Wenatchee | Washington State
+right: Bill
+Wrong: 
+Value: $1000
+Number: 10
+THE 2007 FORBES 400 | "$2.3 billion... 'Mouth of the South'... largest individual landholder in the U.S. owns 2 million acres in 12 states" | Ted Turner
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+"I" POD | This Austrian city's name is German for "bridge over the Inn River" | Innsbruck
+right: Bill
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Bill: $5,000
+Ellen: $1,600
+Rich: $600
+Scores at the end of the Jeopardy! Round:
+Bill: $8,800
+Ellen: $4,200
+Rich: $3,200
+Second Jeopardy! Round: THE QUASI-WAR WITH FRANCE, WHAT I REALLY WANT TO DO IS DIRECT, QUESTIONS FROM A 1927 QUIZ BOOK, THE IOWA STATE FAIR, LITERATURE PUZZLES ME, 10-LETTER WORDS
+THE QUASI-WAR WITH FRANCE | On June 21, 1798 this president told Congress he was going to break off relations with France | John Adams
+right: Bill
+Wrong: 
+Value: $400
+Number: 3
+WHAT I REALLY WANT TO DO IS DIRECT | He designed titles for silent films before he made us scream over birds & psychos | Alfred Hitchcock
+right: Ellen
+Wrong: 
+Value: $400
+Number: 26
+QUESTIONS FROM A 1927 QUIZ BOOK | Article 10 of this international organization's covenant implies that an attack on one is an attack on all | the League of Nations
+right: Bill
+Wrong: 
+Value: $400
+Number: 11
+THE IOWA STATE FAIR | Bruce Springsteen sang about this attraction; the one at the Iowa State Fair dates back to 1921 | the Tunnel of Love
+right: Rich
+Wrong: 
+Value: $400
+Number: 18
+LITERATURE PUZZLES ME | <http://www.j-archive.com/media/2008-04-03_DJ_01.jpg> He was first written about in 14th-century ballads | Robin Hood
+right: Ellen
+Wrong: 
+Value: $400
+Number: 1
+10-LETTER WORDS | Elizabeth II's was held at Westminster Abbey, June 2, 1953 | a coronation
+right: Bill
+Wrong: 
+Value: $400
+Number: 5
+THE QUASI-WAR WITH FRANCE | Preparations for war included adding ships like the USS Constitution, nicknamed this in the War of 1812 | "Old Ironsides"
+right: Ellen
+Wrong: 
+Value: $800
+Number: 4
+WHAT I REALLY WANT TO DO IS DIRECT | (<http://www.j-archive.com/media/2008-04-03_DJ_27.jpg> Hi, I'm Joel Schumacher.) I was encouraged to direct by this man when I was his costume designer on "Sleeper" & "Interiors" | Woody Allen
+right: Bill
+Wrong: 
+Value: $800
+Number: 27
+QUESTIONS FROM A 1927 QUIZ BOOK | Alfred E. Smith & William Gibbs McAdoo were 2 of the candidates for this party's presidential nomination in 1924 | the Democratic Party
+right: Bill
+Wrong: 
+Value: $800
+Number: 12
+THE IOWA STATE FAIR | Set at the Iowa State Fair, this duo's musical "State Fair" says, "I've got Ioway in my ears and eyes and nose" | Rodgers & Hammerstein
+right: Rich
+Wrong: 
+Value: DD: $3,000
+Number: 19
+LITERATURE PUZZLES ME | You don't know "Jack" if you don't know <http://www.j-archive.com/media/2008-04-03_DJ_02.jpg> this beat novel | On the Road
+right: Bill
+Wrong: 
+Value: $800
+Number: 2
+10-LETTER WORDS | On an insurance policy, it's the amount you have to "meet" before the company will make a payment | the deductible
+right: Rich
+Wrong: 
+Value: $800
+Number: 7
+THE QUASI-WAR WITH FRANCE | USS Constellation beat both La Vengeance & L'Insurgente in this sea where the U.S. enjoyed a home-field edge | the Caribbean
+right: Rich
+Wrong: 
+Bill: What is the Atlantic?
+Value: $1200
+Number: 6
+WHAT I REALLY WANT TO DO IS DIRECT | <http://www.j-archive.com/media/2008-04-03_DJ_28.jpg> This dancer & choreographer turned director for the Broadway musical "Redhead", which starred Gwen Verdon | (Bob) Fosse
+right: Rich
+Wrong: 
+Value: $1200
+Number: 28
+QUESTIONS FROM A 1927 QUIZ BOOK | This cabinet department is in charge of the enforcement of Prohibition | the Treasury Department
+right: Bill
+Wrong: 
+Value: $1200
+Number: 13
+THE IOWA STATE FAIR | The Beef Cattle competition is sanctioned by this youth group, big in the Heartland with its slogan "Learn by doing" | 4-H
+right: Ellen
+Wrong: 
+Value: $1200
+Number: 20
+LITERATURE PUZZLES ME | Longfellow gave us <http://www.j-archive.com/media/2008-04-03_DJ_22.jpg> these instructions | "One if by land, two if by sea"
+right: Rich
+Wrong: 
+Value: $1200
+Number: 22
+10-LETTER WORDS | It can mean immature, or pertaining to a second-year college student | sophomoric
+right: Ellen
+Wrong: 
+Value: $1200
+Number: 8
+THE QUASI-WAR WITH FRANCE | The rally cry of the Americans during the fight was "Millions for" this "but not one cent for tribute!" | defense
+right: 
+Wrong: Triple Stumper
+Bill: Uh, what is land?
+Rich: What is peace?
+Value: $1600
+Number: 16
+WHAT I REALLY WANT TO DO IS DIRECT | This playwright gave Jessica Lange a big role when he directed the film "Far North"; maybe he's a "Fool For Love" | Sam Shepard
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+QUESTIONS FROM A 1927 QUIZ BOOK | One of the 2 South American countries involved in the Tacna-Arica boundary-line dispute | (1 of) Peru & Chile
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+THE IOWA STATE FAIR | At age 2 <http://www.j-archive.com/media/2008-04-03_DJ_21.jpg> this future single-named fashion designer was named the fair's "Healthiest City Boy" | Halston
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+LITERATURE PUZZLES ME | <http://www.j-archive.com/media/2008-04-03_DJ_24.jpg> This 1951 novel has been celebrated & vilified | The Catcher in the Rye
+right: Rich
+Wrong: 
+Value: $1600
+Number: 24
+10-LETTER WORDS | If you do a little exploring, you'll find that this is the term for the recreational exploring of caves | spelunking
+right: Bill
+Wrong: 
+Value: $1600
+Number: 9
+THE QUASI-WAR WITH FRANCE | In October 1797, the U.S. met with agents of France known by these 3 code letters | X, Y & Z
+right: 
+Wrong: 
+Bill: What are "S", "P", "Y"?
+Value: DD: $4,000
+Number: 17
+WHAT I REALLY WANT TO DO IS DIRECT | No slouch as an artist himself, Julian Scnabel directed the 1996 film about <http://www.j-archive.com/media/2008-04-03_DJ_30.jpg> this Haitian-American graffiti artist | (Jean-Michel) Basquiat
+right: Rich
+Wrong: 
+Value: $2000
+Number: 30
+QUESTIONS FROM A 1927 QUIZ BOOK | The present presiding officer of the U.S. Senate is this vice president | Charles Gates Dawes
+right: 
+Wrong: Triple Stumper
+Ellen: Oh! [Shakes head]
+Value: $2000
+Number: 15
+THE IOWA STATE FAIR | One annual event is tossing this, also the term for the "bouncy" food eaten on the banquet circuit | rubber chicken
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+LITERATURE PUZZLES ME | <http://www.j-archive.com/media/2008-04-03_DJ_25.jpg> This brought E.M. Forster his first major success; thanks, President Taft! | Howards End
+right: Rich
+Wrong: 
+Value: $2000
+Number: 25
+10-LETTER WORDS | Oddly, this word describing couples who get along & can live together in harmony comes from the Latin for "to suffer" | compatible
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Bill: $8,400
+Ellen: $6,200
+Rich: $15,000
+
+Final Jeopardy! Round
+SPORTS FIRSTS | The first baseball World Series game played outside the U.S. was played in this city in 1992 | Toronto
+right: Ellen | Bill | Rich
+Wrong: 
+Wagers: 
+Ellen: $3,601
+Bill: $8,399
+Rich: $1,801
+Final scores:
+Bill: $16,799 (2nd place: $2,000)
+Ellen: $9,801 (3rd place: $1,000)
+Rich: $16,801 (New champion: $16,801)
+
+Coryat scores
+Bill: $10,200 (21 R(including 1 DD),4 W(including 1 DD))
+Ellen: $6,200 (13 R,1 W)
+Rich: $12,800 (15 R(including 1 DD),1 W)

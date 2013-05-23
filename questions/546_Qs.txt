@@ -1,0 +1,345 @@
+4078 - Wednesday, May 1, 2002
+Comments: 2002 Million Dollar Masters quarterfinal game 1.
+Contestants:
+Frank Spangenberg: a lieutenant in the New York Police Department from Douglaston, New York
+Rachael Schwartz: a lawyer with an international law firm from Washington, D.C.
+Bob Harris: an author, comedian, and radio commentator from Los Angeles, California
+First Jeopardy! Round: LATIN AMERICAN HISTORY, WATER TRANSPORTS, WAX MUSEUMS, AUTOIMMUNE DISORDERS, LET THEM EAT CAKE, SO YOU'RE THE "SMART" ONE, EH?
+LATIN AMERICAN HISTORY | In 1502, on his fourth voyage, he landed at what is now Trujillo, Honduras | Columbus
+right: Frank
+Wrong: 
+Value: $200
+Number: 10
+WATER TRANSPORTS | This term for the area where you sit in a kayak is more associated with planes than boats | the cockpit
+right: Rachael
+Wrong: 
+Value: $200
+Number: 21
+WAX MUSEUMS | The Alamo exhibit at this city's Plaza Wax Museum is a bit eerie, because the Alamo itself is a short walk away | San Antonio
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+AUTOIMMUNE DISORDERS | On "The West Wing" Jed Bartlet has a relapsing-remitting course of this autoimmune disorder | MS
+right: Bob
+Wrong: 
+Value: $200
+Number: 6
+LET THEM EAT CAKE | Truly "heavenly", this sponge cake made without egg yolks or butter is fat-free | angel food cake
+right: Frank
+Wrong: 
+Value: $200
+Number: 16
+SO YOU'RE THE "SMART" ONE, EH? | Cartoon catchphrase meaning the quality of having a higher I.Q. than an ordinary ursine critter | smarter than your average bear
+right: 
+Wrong: Triple Stumper
+Frank: What is smarter than the ordinary bear?
+Value: $200
+Number: 1
+LATIN AMERICAN HISTORY | In 1889 this country became a republic when Pedro II gave up his throne | Brazil
+right: Frank
+Wrong: 
+Value: $400
+Number: 11
+WATER TRANSPORTS | When the Savannah passed Ireland in 1819, using this type of power, it made people on shore think she was on fire | steam
+right: Rachael
+Wrong: 
+Value: $400
+Number: 27
+WAX MUSEUMS | Mingle with RuPaul & Fergie (their wax figures, that is) at the 42nd Street spin-off of this British museum | Madame Tussaud's
+right: Rachael
+Wrong: 
+Value: $400
+Number: 23
+AUTOIMMUNE DISORDERS | Both Graves' disease & Hashimoto's disease attack this gland | the thyroid
+right: Bob
+Wrong: 
+Value: $400
+Number: 7
+LET THEM EAT CAKE | Despite its name this state dessert of Massachusetts is really a custard-filled cake | Boston cream pie
+right: Rachael
+Wrong: 
+Value: $400
+Number: 17
+SO YOU'RE THE "SMART" ONE, EH? | This series involved shoe phones & the activities of 86 & 99 | Get Smart
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+LATIN AMERICAN HISTORY | In 1970 he became the first democratically elected Marxist to head a nation in the Western Hemisphere | Salvador Allende
+right: Frank
+Wrong: 
+Value: $600
+Number: 12
+WATER TRANSPORTS | This liquid is the first O carried by an O/B/O cargo ship | oil
+right: Rachael
+Wrong: 
+Value: $600
+Number: 28
+WAX MUSEUMS | In 1962 this reclusive silent film sweetheart emerged to read the dedication at Movieland Wax Museum's opening | Mary Pickford
+right: Rachael
+Wrong: 
+Value: $600
+Number: 24
+AUTOIMMUNE DISORDERS | Deficient production of hormones by these endocrine glands causes Addison's disease | the adrenals
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+LET THEM EAT CAKE | (<http://www.j-archive.com/media/2002-05-01_J_18.wmv> Sarah of the Clue Crew puts in an evening as a dessert chef.)  <http://www.j-archive.com/media/2002-05-01_J_18.jpg> This dessert is a layer of cake & ice cream that's topped with meringue & then browned in the oven | Baked Alaska
+right: Rachael
+Wrong: 
+Value: $600
+Number: 18
+SO YOU'RE THE "SMART" ONE, EH? | It's what's put up by knowledgeable investors, or it's the investors themselves | the smart money
+right: Bob
+Wrong: 
+Value: $600
+Number: 3
+LATIN AMERICAN HISTORY | General Alfredo Stroessner ruled this South American country with an iron hand for 35 years, 1954-1989 | Paraguay
+right: Bob
+Wrong: 
+Value: $800
+Number: 13
+WATER TRANSPORTS | These "fish" boats, seen <http://www.j-archive.com/media/2002-05-01_J_29.jpg> here, became the most popular sailboats ever produced | sunfish
+right: Frank
+Wrong: 
+Value: $800
+Number: 29
+WAX MUSEUMS | Appropriately, Potter's Wax Museum in this Florida city bills itself as the oldest in the U.S. | St. Augustine
+right: Rachael
+Wrong: 
+Value: DD: $1,000
+Number: 25
+AUTOIMMUNE DISORDERS | AKA regional enteritis, this disease, a chronic inflammation of hte intestines, bears the name of a U.S. doctor | Crohn's disease
+right: Frank
+Wrong: 
+Value: $800
+Number: 9
+LET THEM EAT CAKE | Ricotta can be used to make this type of cake, part of a "factory" restaurant chain's name | cheesecake
+right: Rachael
+Wrong: 
+Value: $800
+Number: 19
+SO YOU'RE THE "SMART" ONE, EH? | One example is the 2,000 pound GBU-24 | a smart bomb
+right: Bob
+Wrong: 
+Value: $800
+Number: 4
+LATIN AMERICAN HISTORY | In 1519, when Cortes entered the capital then called this, many believed he was a god | Tenochtitlán
+right: Bob
+Wrong: 
+Value: $1000
+Number: 14
+WATER TRANSPORTS | Seen <http://www.j-archive.com/media/2002-05-01_J_30.jpg> here, it shares its name with a French region, and broke the transatlantic speed record in 1935 | the Normandy
+right: Frank
+Wrong: 
+Value: $1000
+Number: 30
+WAX MUSEUMS | This father of a "Three's Company" star is one of the country legends depicted in wax at the Music Valley Wax Museum | Tex Ritter
+right: Bob
+Wrong: 
+Value: $1000
+Number: 26
+AUTOIMMUNE DISORDERS | The name of this autoimmune disorder means "hard skin" | scleroderma
+right: Bob
+Wrong: 
+Value: $1000
+Number: 15
+LET THEM EAT CAKE | This 3-layered "feminine" white cake filled with fruit & nuts was created in South Carolina, not Maryland | Lady Baltimore cake
+right: Frank
+Wrong: 
+Value: $1000
+Number: 20
+SO YOU'RE THE "SMART" ONE, EH? | From 1914 to 1923 H.L. Mencken co-edited this satiric monthly with George Jean Nathan | The Smart Set
+right: Rachael
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Bob: $5,800
+Rachael: $1,000
+Frank: $1,800
+Scores at the end of the Jeopardy! Round:
+Bob: $7,000
+Rachael: $6,000
+Frank: $4,800
+Second Jeopardy! Round: THE NEW YORK TIMES ARTS & LEISURE, FROM THE GREEK, THE RENAISSANCE, MIDDLE NAMES, HOPE YOU LEARNED YOUR AFRICAN CAPITALS, PLACES TO PUT YOUR BIG WINNINGS
+THE NEW YORK TIMES ARTS & LEISURE | The Times' article "Architecture's Dust-Up in the Desert" analyzed the school of architecture named for him | Frank Lloyd Wright
+right: Frank
+Wrong: 
+Value: $400
+Number: 26
+FROM THE GREEK | The name of this male singing voice is from the Greek for "deep-sounding" | baritone
+right: Bob
+Wrong: 
+Value: $400
+Number: 6
+THE RENAISSANCE | The word Renaissance comes from rinascere, which loosely means this | to be reborn (rebirth accepted)
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+MIDDLE NAMES | It's the middle name shared by Miss Americas Meriwether & Mobley | Ann
+right: Bob
+Wrong: 
+Value: $400
+Number: 16
+HOPE YOU LEARNED YOUR AFRICAN CAPITALS | Spread over 4 hills, this African country's capital of Kigali includes a Muslim Quarter, an airport & a technical college | Rwanda
+right: 
+Wrong: Triple Stumper
+Bob: What's Uganda?
+Value: $400
+Number: 11
+PLACES TO PUT YOUR BIG WINNINGS | Sealy now has Dr. Dot Richardson up to bat as a spokesperson for a new line of these to keep your money under | a mattress
+right: Bob
+Wrong: 
+Value: $400
+Number: 21
+THE NEW YORK TIMES ARTS & LEISURE | The Times' review of this 2001 French film was "Little Miss Sunshine as Urban Sprite" | Amelie
+right: Rachael
+Wrong: 
+Value: $800
+Number: 27
+FROM THE GREEK | The word ceramics is derived from keramos, which is Greek for this pottery material | clay
+right: Frank
+Wrong: 
+Value: $800
+Number: 7
+THE RENAISSANCE | In 1497 this Borgia was accused of murdering his brother Giovanni, Duke of Benevento & Gandia | Cesare
+right: Frank
+Wrong: 
+Value: $800
+Number: 3
+MIDDLE NAMES | Sir Winston Churchill's middle names were Leonard & this, a famous surname in his family tree | Spencer
+right: Frank
+Wrong: 
+Value: $800
+Number: 17
+HOPE YOU LEARNED YOUR AFRICAN CAPITALS | In 1926 the capital of this republic of Northwest Africa was moved from Zinder to Niamey | Niger
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+PLACES TO PUT YOUR BIG WINNINGS | The Federal National Mortgage Association, known by this nickname, sells some nice securities | Fannie Mae
+right: Bob
+Wrong: 
+Value: $800
+Number: 22
+THE NEW YORK TIMES ARTS & LEISURE | The Met's 2002 production of this opera "calls for 346 people onstage along with a horse (Napoleon's)" | War and Peace
+right: 
+Wrong: 
+Rachael: No idea.
+Value: DD: $1,500
+Number: 28
+FROM THE GREEK | From the Greek meaning "one who eats at another's table", it's an organism that feeds off a host | parasite
+right: Rachael
+Wrong: 
+Value: $1200
+Number: 8
+THE RENAISSANCE | Due to the Great Schism of 1378, Pope Urban VI remained in Rome; rival pope Clement VII moved to this city | Avignon
+right: Frank
+Wrong: 
+Value: $1200
+Number: 1
+MIDDLE NAMES | This middle name of Supreme Court Justice William Douglas reminds us of an early aviator | Orville
+right: Frank
+Wrong: 
+Value: DD: $4,000
+Number: 18
+HOPE YOU LEARNED YOUR AFRICAN CAPITALS | In its capital, N'Djamena, you might learn that this nation was once part of French Equatorial Africa | Chad
+right: Bob
+Wrong: 
+Value: $1200
+Number: 13
+PLACES TO PUT YOUR BIG WINNINGS | Use your general funds in these 2 "General" companies in the top 5 firms in the Fortune 500 | General Motors & General Electric
+right: Frank
+Wrong: 
+Value: $1200
+Number: 23
+THE NEW YORK TIMES ARTS & LEISURE | The Times marked the Centennial of this poet who wrote, "I, too, sing America.  I am the darker brother" | Langston Hughes
+right: Rachael
+Wrong: 
+Frank: Who is Walt Whitman?
+Value: $1600
+Number: 29
+FROM THE GREEK | Read about it in this month's issue; this word for "worldly" is from the Greek for "world" & "city" | cosmopolitan
+right: Frank
+Wrong: 
+Value: $1600
+Number: 9
+THE RENAISSANCE | In 1415 this Bohemian religious reformer was condemned for heresy & burned at the stake in Germany | (Jan) Hus
+right: Frank
+Wrong: 
+Value: $1600
+Number: 4
+MIDDLE NAMES | Because this is a million-dollar tournament, you have to spell the middle name of President Warren Harding | G-A-M-A-L-I-E-L
+right: Bob
+Wrong: 
+Value: $1600
+Number: 19
+HOPE YOU LEARNED YOUR AFRICAN CAPITALS | On the northeast tip of Lake Tanganyika, Bujumbura is the capital of this African nation | Burundi
+right: Bob
+Wrong: 
+Value: $1600
+Number: 14
+PLACES TO PUT YOUR BIG WINNINGS | On the Chicago Mercantile Exchange, this investment opportunity is abbreviated "PB" | pork bellies
+right: Frank
+Wrong: 
+Bob: What's lead?
+Value: $1600
+Number: 24
+THE NEW YORK TIMES ARTS & LEISURE | This "famed... company from St. Petersburg is now at the mercy of... ballet masters of the world", the Times lamented | the Kirov
+right: Rachael
+Wrong: 
+Frank: What is the Bolshoi?
+Value: $2000
+Number: 30
+FROM THE GREEK | From Greek for "tribe" or "race", it's the primary subdivision of a taxonomic kingdom | phylum
+right: Bob
+Wrong: 
+Value: $2000
+Number: 10
+THE RENAISSANCE | In the 1400s this pioneering architect designed the Duomo & the Foundling Hospital in Florence | (Filippo) Brunelleschi
+right: Frank
+Wrong: 
+Value: $2000
+Number: 5
+MIDDLE NAMES | John C. Calhoun's middle initial stood for this name | Caldwell
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+HOPE YOU LEARNED YOUR AFRICAN CAPITALS | Some go to the artisans' market in this country's capital of Bamako to look for monkey skulls & skins | Mali
+right: Bob
+Wrong: 
+Value: $2000
+Number: 15
+PLACES TO PUT YOUR BIG WINNINGS | For mutual funds go to your broker; to invest this way, French for "betting amongst ourselves", go to the track | parimutuel
+right: Frank
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Bob: $15,800
+Rachael: $10,100
+Frank: $19,200
+
+Final Jeopardy! Round
+ESPIONAGE | He was born in India; his father worked for the British government & he was nicknamed for a Kipling character | Kim Philby
+right: Rachael | Bob
+Wrong: 
+Frank: Who is John LeCarre
+Wagers: 
+Rachael: $2,301
+Bob: $4,200
+Frank: $12,401
+Final scores:
+Bob: $20,000 (Automatic semifinalist)
+Rachael: $12,401 (2nd place: $10,000 if eliminated)
+Frank: $6,799 (3rd place: $10,000 if eliminated)
+
+Coryat scores
+Bob: $15,800 (21 R,2 W)
+Rachael: $11,400 (14 R(including 1 DD),1 W(including 1 DD))
+Frank: $16,400 (20 R(including 1 DD),3 W)

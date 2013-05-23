@@ -1,0 +1,352 @@
+5924 - Thursday, May 20, 2010
+Comments: 2010 Tournament of Champions final game 1.
+Contestants:
+Stefan Goodreau: a video game tester from Los Angeles, California
+Vijay Balse: a chemical engineer from Chatham, New Jersey
+Jason Zollinger: an engine assembler from South Dayton, New York
+First Jeopardy! Round: WHO CARRIED THE STATE?, ON THE 1980s MOVIE SOUNDTRACK, THE NEW YORK TIMES DINING & WINE, SIGN OF THE FOUR, "X" "Q"s ME, NEW ORLEANS & KATRINA
+WHO CARRIED THE STATE? | Florida, 2000 | George W. Bush
+right: Jason
+Wrong: 
+Value: $200
+Number: 24
+ON THE 1980s MOVIE SOUNDTRACK | 1987: "She's Like The Wind" by Patrick Swayze | Dirty Dancing
+right: Jason
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES DINING & WINE | On Dec. 23, 2009 The Pour, a blog about wine on nytimes.com, focused on this bubbly beverage | champagne
+right: Stefan
+Wrong: 
+Value: $200
+Number: 20
+SIGN OF THE FOUR | Of the 4 "Little Women" characters Jo, Beth, Laurie & Amy, the one not a sister of the others | Laurie
+right: Stefan
+Wrong: 
+Value: $200
+Number: 9
+"X" "Q"s ME | It's the type of keyboard named for the succession of 6 letters found near the upper-left corner | QWERTY
+right: Jason
+Wrong: 
+Value: $200
+Number: 8
+NEW ORLEANS & KATRINA | (<http://www.j-archive.com/media/2010-05-20_J_26.jpg> Jimmy of the Clue Crew reports from New Orleans, LA.)  I'm at the New Orleans chapter of this organization, whose shelters across Louisiana provided refuge, food & water for over 146,000 people in the wake of Katrina | the Red Cross
+right: Jason
+Wrong: 
+Value: $200
+Number: 26
+WHO CARRIED THE STATE? | Illinois, 1960 | JFK (John Kennedy)
+right: Vijay
+Wrong: 
+Stefan: Who is Nixon?
+Value: $400
+Number: 25
+ON THE 1980s MOVIE SOUNDTRACK | 1985: "Don't You (Forget About Me)" by Simple Minds | The Breakfast Club
+right: Stefan
+Wrong: 
+Value: $400
+Number: 2
+THE NEW YORK TIMES DINING & WINE | The Bitten blog discussed how these salty little fish "turn up on traditional & not-so-traditional English menus" | anchovies
+right: Vijay
+Wrong: 
+Value: $400
+Number: 19
+SIGN OF THE FOUR | Of the 4 suits in tarot cards, the one that's designed to hold liquids | cups
+right: Stefan
+Wrong: 
+Value: $400
+Number: 10
+"X" "Q"s ME | "Magic" & "Have You Never Been Mellow" are songs from this roller-skating musical that hit Broadway in 2007 | Xanadu
+right: 
+Wrong: Triple Stumper
+Jason: What is Avenue Q?
+Value: $400
+Number: 14
+NEW ORLEANS & KATRINA | The scene of celebrations before & since, <http://www.j-archive.com/media/2010-05-20_J_27.jpg> it housed thousands in Katrina's aftermath | the Superdome
+right: Stefan
+Wrong: 
+Value: $400
+Number: 27
+WHO CARRIED THE STATE? | North Carolina, 2008 | Barack Obama
+right: Jason
+Wrong: 
+Vijay: Who is Edwards?
+Value: $600
+Number: 23
+ON THE 1980s MOVIE SOUNDTRACK | 1986: "Danger Zone" by Kenny Loggins | Top Gun
+right: Stefan
+Wrong: 
+Jason: What is Footloose?
+Value: $600
+Number: 3
+THE NEW YORK TIMES DINING & WINE | A 2010 article reported on the hard times that have fallen on wineries in this California valley | Napa Valley
+right: Stefan
+Wrong: 
+Value: $600
+Number: 18
+SIGN OF THE FOUR | Of the 4 traditional symphonic movements, the one whose name is Italian for "joke" | scherzo
+right: Vijay
+Wrong: 
+Stefan: What is buffo?
+Value: $600
+Number: 11
+"X" "Q"s ME | The name of this case used to carry your arrows might make you tremble | a quiver
+right: Stefan
+Wrong: 
+Value: $600
+Number: 15
+NEW ORLEANS & KATRINA | (<http://www.j-archive.com/media/2010-05-20_J_28.jpg> Sarah of the Clue Crew reports from New Orleans, LA.)  The group Make It Right is helping <http://www.j-archive.com/media/2010-05-20_J_28a.jpg> rebuild <http://www.j-archive.com/media/2010-05-20_J_28b.jpg> homes in <http://www.j-archive.com/media/2010-05-20_J_28c.jpg> that area, called the Lower this, flooded in 2005 by overflow from the canal that divided it from the Upper | the Ninth Ward
+right: Jason
+Wrong: 
+Value: $600
+Number: 28
+WHO CARRIED THE STATE? | New York, 1948 | Dewey
+right: Vijay
+Wrong: 
+Value: $800
+Number: 21
+ON THE 1980s MOVIE SOUNDTRACK | 1984: "Axel F." by Harold Faltermeyer | Beverly Hills Cop
+right: Stefan
+Wrong: 
+Value: $800
+Number: 4
+THE NEW YORK TIMES DINING & WINE | A tasty but tongue-twisting recipe from Mark Bittman paired the bay type of this bivalve mollusk with scallions | a scallop
+right: Stefan
+Wrong: 
+Value: $800
+Number: 6
+SIGN OF THE FOUR | Of the 4 principal directions on a sailing ship, the one that's also a potent potable | port
+right: Jason
+Wrong: 
+Value: $800
+Number: 12
+"X" "Q"s ME | He succeeded his dad, Darius I, as king of Persia | Xerxes
+right: Stefan
+Wrong: 
+Value: $800
+Number: 16
+NEW ORLEANS & KATRINA | (<http://www.j-archive.com/media/2010-05-20_J_29.jpg> Sarah of the Clue Crew reports from New Orleans, LA.)  The largest design build civil works project in the history of the army corps of engineers, a giant flood wall is technically called this type of barrier, as it protects against hurricane-driven water levels | a surge barrier (a storm surge barrier accepted)
+right: Vijay
+Wrong: 
+Stefan: What is a levee?
+Value: $800
+Number: 29
+WHO CARRIED THE STATE? | Massachusetts, 1972 | George McGovern
+right: 
+Wrong: 
+Vijay: All of it, please.
+Value: DD: $2,800
+Number: 22
+ON THE 1980s MOVIE SOUNDTRACK | 1980: "Call Me" by Blondie | American Gigolo
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THE NEW YORK TIMES DINING & WINE | A recipe for Mediterranean citrus chicken skewers had this Mid-Eastern sauce made of ground sesame seeds | tahini
+right: Vijay
+Wrong: 
+Jason: What is hummus?
+Stefan: What is, uh, uh, tabbouleh?
+Value: $1000
+Number: 7
+SIGN OF THE FOUR | Of the 4 Marx Brothers in "Horse Feathers", the one with the same name as a California city | Chico
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 13
+"X" "Q"s ME | Alphabetically, it's last of the noble gases | xenon
+right: Stefan
+Wrong: 
+Value: $1000
+Number: 17
+NEW ORLEANS & KATRINA | (<http://www.j-archive.com/media/2010-05-20_J_30.jpg> Sarah of the Clue Crew reports from New Orleans, LA.)  The Domino Sugar refinery built a 200-unit <http://www.j-archive.com/media/2010-05-20_J_30a.jpg> trailer park here on-site to house its employees when this "saintly" parish was hit hard by flooding | St. Bernard
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Jason: -$800
+Vijay: $1,600
+Stefan: $3,200
+Scores at the end of the Jeopardy! Round:
+Jason: $800
+Vijay: $600
+Stefan: $5,000
+Second Jeopardy! Round: U.S. LAKES & RIVERS, ON BROADWAY 2010, SPEAKING FLUENT CANADIAN, LEADERS OF WORLD WAR II, AFRICAN-AMERICAN LITERATURE, BEFORE, DURING & AFTER
+U.S. LAKES & RIVERS | Rivers that flow into this inlet in Washington state include the Puyallup & Skagit | Puget Sound
+right: Stefan
+Wrong: 
+Value: $400
+Number: 7
+ON BROADWAY 2010 | Abigail Breslin made her Broadway debut in this drama in which she stars as Helen Keller | The Miracle Worker
+right: Jason
+Wrong: 
+Value: $400
+Number: 22
+SPEAKING FLUENT CANADIAN | At the 2010 Olympics, this Pittsburgh Penguin & Nova Scotia native scored the gold medal-winning goal for Canada | (Sidney) Crosby
+right: Jason
+Wrong: 
+Value: $400
+Number: 6
+LEADERS OF WORLD WAR II | As war minister & prime minister of Japan, he ordered the attack on Pearl Harbor | (Hideki) Tojo
+right: Jason
+Wrong: 
+Value: $400
+Number: 1
+AFRICAN-AMERICAN LITERATURE | He wrote the acclaimed "Roots", a 7-generation family chronicle | (Alex) Haley
+right: Vijay
+Wrong: 
+Value: $400
+Number: 17
+BEFORE, DURING & AFTER | Florida NBA team that's central to a lofty Thomas Mann work about a soft drink | Orlando Magic Mountain Dew
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+U.S. LAKES & RIVERS | One of Hawaii's longest rivers, the Kaukonahua flows into the Pacific near Waialua on this island | Oahu
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 8
+ON BROADWAY 2010 | "Rock Of Ages", set in the '80s is where big <http://www.j-archive.com/media/2010-05-20_DJ_23.wmv> this meets big dreams | hair
+right: Stefan
+Wrong: 
+Value: $800
+Number: 23
+SPEAKING FLUENT CANADIAN | As of 2010 he was Canada's prime minister; he's our next-door neighbor, you should know him | (Stephen) Harper
+right: Vijay
+Wrong: 
+Value: $800
+Number: 13
+LEADERS OF WORLD WAR II | Forced into exile by an Italian invasion in 1936, this emperor returned to his homeland in January 1941 | Haile Selassie
+right: Jason
+Wrong: 
+Value: DD: $2,000
+Number: 2
+AFRICAN-AMERICAN LITERATURE | He created the reluctant private eye Ezekiel Rawlins, nicknamed "Easy" | Walter Mosley
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+BEFORE, DURING & AFTER | John Milton epic about Gertrude Stein's Parisian expatriate Yanks who were born starting in 1965 | Paradise Lost Generation X
+right: Jason
+Wrong: 
+Value: $800
+Number: 25
+U.S. LAKES & RIVERS | Buffalo Bill Reservoir near Cody in this state was formed by the damming of the Shoshone River | Wyoming
+right: Vijay
+Wrong: 
+Value: $1200
+Number: 9
+ON BROADWAY 2010 | Working-class characters seek redemption in this rock opera based on a Green Day album | American Idiot
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 24
+SPEAKING FLUENT CANADIAN | Not a cartoonist, he lost the P.M. job on May 22, 1979 but had it back by March 3, 1980 | (Pierre) Trudeau
+right: Vijay
+Wrong: 
+Value: $1200
+Number: 14
+LEADERS OF WORLD WAR II | Affer Germany invaded the Netherlands, this queen, her family & cabinet fled to London | Wilhelmina
+right: Vijay
+Wrong: 
+Jason: Who is... Beatrix?
+Value: $1200
+Number: 3
+AFRICAN-AMERICAN LITERATURE | His 1940 novel "Native Son" was adopted by the Book of the Month Club | (Richard) Wright
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 19
+BEFORE, DURING & AFTER | Poker hand of 3 aces & 2 kings with a British royal family name adopted in 1917 that's a great way to tie a tie | a full house of Windsor knot
+right: Stefan
+Wrong: 
+Value: $1200
+Number: 28
+U.S. LAKES & RIVERS | At 618 feet, Seneca Lake is the deepest of this group of long & narrow lakes in Western New York | the Finger Lakes
+right: Jason
+Wrong: 
+Value: $1600
+Number: 10
+ON BROADWAY 2010 | <http://www.j-archive.com/media/2010-05-20_DJ_26.jpg> She was cast as <http://www.j-archive.com/media/2010-05-20_DJ_26a.jpg> Morticia for the 2010 Broadway musical of "The Addams Family" | (Bebe) Neuwirth
+right: Vijay
+Wrong: 
+Value: $1600
+Number: 26
+SPEAKING FLUENT CANADIAN | In 1985 Margaret Atwood published this "Tale" of women stripped of all rights in a post-U.S. country | The Handmaid's Tale
+right: Vijay
+Wrong: 
+Value: DD: $2,000
+Number: 15
+LEADERS OF WORLD WAR II | Though he kept this country neutral, Antonio Salazar did allow the Allies to establish bases in the Azores | Portugal
+right: Stefan
+Wrong: 
+Value: $1600
+Number: 4
+AFRICAN-AMERICAN LITERATURE | This 1953 novel by James Baldwin is based on his own experiences as a teenaged preacher | Go Tell It on the Mountain
+right: Vijay
+Wrong: 
+Value: $1600
+Number: 20
+BEFORE, DURING & AFTER | Possible 51st state that's part of a set of anti-crime laws & a penitential Catholic prayer | Puerto Rico Act of contrition
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+U.S. LAKES & RIVERS | Running from New Mexico's northern border to its southern border, this river splits the state in 2 | the Rio Grande
+right: 
+Wrong: Triple Stumper
+Stefan: What is the Gila River?
+Value: $2000
+Number: 11
+ON BROADWAY 2010 | "Red" stars Alfred Molina as this abstract expressionist who painted rectangles of color, a suicide in 1970 | (Mark) Rothko
+right: Jason
+Wrong: 
+Value: $2000
+Number: 27
+SPEAKING FLUENT CANADIAN | We don't have "Thirty Two Short Films About" this Canadian pianist who learned to play at age 3, just 1 short clue | Glenn Gould
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+LEADERS OF WORLD WAR II | In 1940, at age 84, he became premier of France; after the war he was tried for treason & sent to prison for life | (Maréchal) Pétain
+right: Vijay
+Wrong: 
+Value: $2000
+Number: 5
+AFRICAN-AMERICAN LITERATURE | His "Souls of Black Folk" expressly attacked Booker T. Washington, the most powerful black American of that time | (W.E.B.) Du Bois
+right: Vijay
+Wrong: 
+Value: $2000
+Number: 21
+BEFORE, DURING & AFTER | "Don't Cry Out Loud" singer & Beckham's 1992-2003 team remind us that "a mind is a terrible thing to waste" | Melissa Manchester United Negro College Fund
+right: Jason
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Jason: $9,200
+Vijay: $14,600
+Stefan: $9,400
+
+Final Jeopardy! Round
+AFRICAN CAPITALS | This West Central African capital grew out of a settlement that France established for freed slaves in 1849 | Libreville
+right: 
+Wrong: 
+Jason: What is [Dah crossed out] Dahomey?
+Stefan: What is Monrovia?
+Vijay: What is Freetown?
+Wagers: 
+Jason: $9,200
+Stefan: $3,600
+Vijay: $5,400
+Final scores:
+Jason: $0 ()
+Vijay: $9,200 ()
+Stefan: $5,800 ()
+
+Coryat scores
+Jason: $8,000 (15 R(including 1 DD),4 W)
+Vijay: $17,000 (16 R(including 1 DD),2 W(including 1 DD))
+Stefan: $9,400 (19 R,5 W)

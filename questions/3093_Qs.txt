@@ -1,0 +1,350 @@
+5735 - Friday, July 10, 2009
+Contestants:
+Kathleen O'Day: a home decor product manager from Oakdale, Minnesota
+Peter Wiscombe: a computer engineer from High Point, North Carolina
+Alyssa McRae: a gift card production designer from Philadelphia, Pennsylvania (whose 3-day cash winnings total $50,402)
+First Jeopardy! Round: BALLET, THE NIFTY 1930s, YOU NEED A DRINK, ZIP IT!, THE BRITISH PRIME MINISTER WHEN, DOUBLE DOUBLE "O"
+BALLET | This Shakespeare play inspired Jose Limon to create "The Moor's Pavane", & he danced the lead role himself | Othello
+right: Peter
+Wrong: 
+Value: $200
+Number: 16
+THE NIFTY 1930s | This future baseball giant first said "Hey!" to the world when he was born in Alabama in 1931 | Willie Mays
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 21
+YOU NEED A DRINK | George Washington was a fan of this holiday drink but used whiskey & brandy as well as rum | egg nog
+right: Peter
+Wrong: 
+Value: $200
+Number: 1
+ZIP IT! | To 58102, to send it to this biggest North Dakota city, you betcha | Fargo
+right: Peter
+Wrong: 
+Alyssa: What is a ZIP code?
+Value: $200
+Number: 6
+THE BRITISH PRIME MINISTER WHEN | ...the 9/11 attacks occurred | Tony Blair
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 23
+DOUBLE DOUBLE "O" | I'll have this Chinese dish of sliced chicken stir-fried with mushrooms & vegetables, to go | moo goo gai pan
+right: Peter
+Wrong: 
+Value: $200
+Number: 11
+BALLET | We're not toying with you: one of Andersen's fairy tales inspired the ballet "The Steadfast Tin" this | Soldier
+right: Peter
+Wrong: 
+Value: $400
+Number: 17
+THE NIFTY 1930s | 1934 was the first year for this Oscar category, & the winner was "The Continental" | Best Song
+right: 
+Wrong: Triple Stumper
+Alyssa: What is Best Picture?
+Kathleen: What is Best Foreign Film?
+Value: $400
+Number: 22
+YOU NEED A DRINK | To be patriotic during WWII, this soda invented in 1898 adopted red, white & blue colors, still on its logo today | Pepsi
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 2
+ZIP IT! | To 99501, to send it to this largest Alaska city | Anchorage
+right: Peter
+Wrong: 
+Value: $400
+Number: 7
+THE BRITISH PRIME MINISTER WHEN | ...Argentina invaded the Falkland Islands | Margaret Thatcher
+right: Peter
+Wrong: 
+Value: $400
+Number: 24
+DOUBLE DOUBLE "O" | Hello... Hey you... Over there!  This chocolate drink has been around since the '20s | Yoo-hoo
+right: Alyssa
+Wrong: 
+Peter: What is Ovaltine?
+Value: $400
+Number: 12
+BALLET | In "Western Symphony", dance hall girls & cowboys cavort to classic tunes like this "River Valley" | "Red River Valley"
+right: Kathleen
+Wrong: 
+Value: $600
+Number: 18
+THE NIFTY 1930s | This ski-nosed comic broke out of Vaudeville & made his Broadway acting debut in the 1933 musical "Roberta" | Bob Hope
+right: Kathleen
+Wrong: 
+Peter: Who is Jimmy Durante?
+Value: $600
+Number: 28
+YOU NEED A DRINK | A person used to be smashed onto a new boat as a sacrifice; this effervescent drink is less painful | champagne
+right: Peter
+Wrong: 
+Value: $600
+Number: 3
+ZIP IT! | To 86538, to send it to this Arizona town that was "too tough to die" | Tombstone
+right: Peter
+Wrong: 
+Value: $600
+Number: 8
+THE BRITISH PRIME MINISTER WHEN | ...World War II ended in Europe | Churchill
+right: Alyssa
+Wrong: 
+Value: $600
+Number: 25
+DOUBLE DOUBLE "O" | George H.W. Bush derided Ronald Reagan's fiscal policies as this type of "economics" | voodoo
+right: Peter
+Wrong: 
+Value: $600
+Number: 13
+BALLET | It's the "little" French surname of choreographer Roland of the Ballets de Paris | Petit
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 19
+THE NIFTY 1930s | (<http://www.j-archive.com/media/2009-07-10_J_29.jpg> Jon of the Clue Crew reports from Tavern on the Green.)  Tavern on the Green opened as a restaurant in 1934; <http://www.j-archive.com/media/2009-07-10_J_29a.jpg> this New York City mayor opened the door with a brass key & sampled the cuisine | LaGuardia
+right: Peter
+Wrong: 
+Value: $800
+Number: 29
+YOU NEED A DRINK | To make this 4-letter drink, the rice has to be milled because the starch, which ferments, is in the center of the rice | sake
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 4
+ZIP IT! | To 93308, to send it to this California city that gave its name to a country music "Sound" | Bakersfield
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+THE BRITISH PRIME MINISTER WHEN | ...World War II broke out | Neville Chamberlain
+right: Peter
+Wrong: 
+Value: $800
+Number: 26
+DOUBLE DOUBLE "O" | Don't get on that alien ship; "To Serve Man" is one of these kitchen helpers! | a cookbook
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+BALLET | The jazzy ballet "Slaughter on Tenth Avenue" was originally part of the Broadway musical "On Your" these | Toes
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+THE NIFTY 1930s | Agatha Christie set Hercule Poirot afloat on a boat called the Karnak in this exotic 1937 novel | Death on the Nile
+right: 
+Wrong: 
+Peter: What is And Then There Were None?
+Value: DD: $2,600
+Number: 30
+YOU NEED A DRINK | White & red wines differ in that the stems & these 2 other parts of the grape are not used for white | the skins & the seeds
+right: Peter
+Wrong: 
+Kathleen: What are the skins?
+Value: $1000
+Number: 5
+ZIP IT! | To 97405, to send it to this Oregon college town, home of the Ducks | Eugene
+right: Peter
+Wrong: 
+Value: $1000
+Number: 10
+THE BRITISH PRIME MINISTER WHEN | ...Queen Victoria was anointed Empress of India | Benjamin Disraeli
+right: Peter
+Wrong: 
+Value: $1000
+Number: 27
+DOUBLE DOUBLE "O" | The plan has no risk, it can't fail, it can only be described as this | foolproof
+right: Peter
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Alyssa: $1,000
+Peter: $5,400
+Kathleen: -$600
+Scores at the end of the Jeopardy! Round:
+Alyssa: $2,400
+Peter: $5,800
+Kathleen: $200
+Second Jeopardy! Round: NOVEL-TIES, SUNDAY NIGHT TV, FAMOUS TRIALS, GOULASH, LET'S GO FOR A "SPIN", AROUND THE MEDITERRANEAN
+NOVEL-TIES | In 1905 this still-controversial Twain book was banned because a character said sweat instead of perspiration | Huckleberry Finn
+right: Peter
+Wrong: 
+Value: $400
+Number: 11
+SUNDAY NIGHT TV | In 1995 there was "Cybill", "Mad About You" & this series, "The New Adventures of Superman" | Lois & Clark
+right: Peter
+Wrong: 
+Value: $400
+Number: 1
+FAMOUS TRIALS | Exhibits in her 1893 trial in New Bedford, Mass., included her parents' skulls & the head of a hatchet | Lizzie Borden
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 6
+GOULASH | Streets in this Kansas town include Wyatt Earp Boulevard & Gunsmoke Street | Dodge City
+right: Peter
+Wrong: 
+Value: $400
+Number: 16
+LET'S GO FOR A "SPIN" | "Melrose Place" was one for "Beverly Hills 90210" | a spin-off
+right: Kathleen
+Wrong: 
+Value: $400
+Number: 21
+AROUND THE MEDITERRANEAN | <http://www.j-archive.com/media/2009-07-10_DJ_26.jpg> This large Italian island was once ruled by the House of Savoy | Sardinia
+right: Peter
+Wrong: 
+Kathleen: What is Corsica?
+Value: $400
+Number: 26
+NOVEL-TIES | The title of this 1813 Austen novel comes from the second chapter of "The Decline and Fall of the Roman Empire" | Pride and Prejudice
+right: Kathleen
+Wrong: 
+Value: $800
+Number: 12
+SUNDAY NIGHT TV | In 1976 CBS's Sunday night lineup was "60 Minutes", "Sonny & Cher", then "Who loves ya, baby?", this detective | Kojak
+right: Peter
+Wrong: 
+Value: $800
+Number: 2
+FAMOUS TRIALS | Stabbed during his capture at Harpers Ferry, this abolitionist spent most of his 1859 trial lying on a cot | John Brown
+right: Peter
+Wrong: 
+Value: $800
+Number: 7
+GOULASH | This word, the first half of a familiar pair, refers to goods found floating in the sea from a shipwreck | flotsam
+right: Peter
+Wrong: 
+Value: $800
+Number: 17
+LET'S GO FOR A "SPIN" | Here are the rules: if the soda container stops rotating & faces you, it's time to pucker up | spin the bottle
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 22
+AROUND THE MEDITERRANEAN | After World War I, France was given a League of Nations mandate over <http://www.j-archive.com/media/2009-07-10_DJ_27.jpg> this <http://www.j-archive.com/media/2009-07-10_DJ_27a.jpg> country | Lebanon
+right: Kathleen
+Wrong: 
+Alyssa: What is Israel?
+Peter: What is... Syria?
+Value: $800
+Number: 27
+NOVEL-TIES | 1904's "Betty Zane" was his first published novel--makes sense | Zane Grey
+right: Peter
+Wrong: 
+Value: $1200
+Number: 13
+SUNDAY NIGHT TV | Choices from 1955 included "You Asked for It", "G.E. Theater" & this movie director "Presents" | Alfred Hitchcock
+right: Alyssa
+Wrong: 
+Value: $1200
+Number: 3
+FAMOUS TRIALS | At her 1976 bank robbery trial, this heiress' lawyer used a brainwashing defense; the jury didn't buy it | Patricia Hearst
+right: Peter
+Wrong: 
+Value: $1200
+Number: 8
+GOULASH | A cousin of Paul Bunyan, this "Mountain State"'s woodsman Tony Beaver had 2 oxen named Hannibal & Goliath | West Virginia
+right: Peter
+Wrong: 
+Value: $1200
+Number: 18
+LET'S GO FOR A "SPIN" | It can be a yarn maker, or a woman who never married | a spinster
+right: Alyssa
+Wrong: 
+Value: $1200
+Number: 23
+AROUND THE MEDITERRANEAN | In 1993, limited autonomy was granted to <http://www.j-archive.com/media/2009-07-10_DJ_28.jpg> this <http://www.j-archive.com/media/2009-07-10_DJ_28a.jpg> coastal area that's home to 1.5 million people | the Gaza Strip
+right: Kathleen
+Wrong: 
+Value: $1200
+Number: 28
+NOVEL-TIES | Her crime novels include "Cause of Death" & "Cruel & Unusual" | Patricia Cornwell
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+SUNDAY NIGHT TV | In 2000, at 8:00 you could have watched "The Simpsons", "Steve Harvey" or this heavenly show with Roma Downey | Touched by an Angel
+right: Alyssa
+Wrong: 
+Value: $1600
+Number: 4
+FAMOUS TRIALS | After his 1633 sentencing, he said he must "abandon the false opinion that the sun is the center of the world" | Galileo
+right: Peter
+Wrong: 
+Value: DD: $1,000
+Number: 9
+GOULASH | This Christian martyr is said to have rescued the daughter of a king & slain the dragon victimizing a Libyan town | Saint George
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+LET'S GO FOR A "SPIN" | It's the rotating skid of a car losing control | a spinout
+right: Peter
+Wrong: 
+Value: $1600
+Number: 24
+AROUND THE MEDITERRANEAN | Once part of the Roman Empire, <http://www.j-archive.com/media/2009-07-10_DJ_29.jpg> this nation was part of the Ottoman Empire for 400 years | Albania
+right: 
+Wrong: 
+Kathleen: What is Macedonia?
+Value: DD: $1,000
+Number: 29
+NOVEL-TIES | It's the numerical title of the Bret Easton Ellis novel made into a 1987 Robert Downey, Jr. film | Less than Zero
+right: Alyssa
+Wrong: 
+Value: $2000
+Number: 15
+SUNDAY NIGHT TV | From 1959 until 1963 the lead-in for "Ed Sullivan" was this Jay North sitcom about a mischievous boy | Dennis the Menace
+right: Alyssa
+Wrong: 
+Value: $2000
+Number: 5
+FAMOUS TRIALS | The first of 12 trials held in this city in the late 1940s led to the convictions of Hermann Goering & 18 other Nazis | Nuremberg
+right: Peter
+Wrong: 
+Value: $2000
+Number: 10
+GOULASH | This French glassmaker that shares its name with a card game is known among collectors for its paperweights | Baccarat
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+LET'S GO FOR A "SPIN" | The bowman on a yacht is there to set this sail | a spinnaker
+right: Peter
+Wrong: 
+Value: $2000
+Number: 25
+AROUND THE MEDITERRANEAN | <http://www.j-archive.com/media/2009-07-10_DJ_30.jpg> It's made up of three main <http://www.j-archive.com/media/2009-07-10_DJ_30a.jpg> islands & has a combined land area smaller than Philadelphia | Malta
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Alyssa: $10,800
+Peter: $19,200
+Kathleen: $2,000
+
+Final Jeopardy! Round
+THE CALENDAR | This U.S. event was set after the harvest, on a day when rural folk could get there without having to travel on Sunday | Election Day
+right: Kathleen
+Wrong: 
+Alyssa: What is Thanksgiving?
+Peter: What is Thanksgiving
+Wagers: 
+Kathleen: $1,998
+Alyssa: $6,799
+Peter: $2,401
+Final scores:
+Alyssa: $4,001 (2nd place: $2,000)
+Peter: $16,799 (New champion: $16,799)
+Kathleen: $3,998 (3rd place: $1,000)
+
+Coryat scores
+Alyssa: $10,800 (13 R,3 W)
+Peter: $22,400 (30 R(including 1 DD),4 W(including 1 DD))
+Kathleen: $3,000 (7 R,4 W(including 1 DD))

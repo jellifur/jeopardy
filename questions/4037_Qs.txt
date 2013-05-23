@@ -1,0 +1,349 @@
+6499 - Thursday, December 13, 2012
+Contestants:
+John McGee: a training specialist from Dallas, Texas
+Judy Strong: a social worker from Bellevue, Washington
+Alistair Bell: a computer chip designer from Berlin, Massachusetts (whose 1-day cash winnings total $13,200)
+First Jeopardy! Round: LITERARY RELATIONS, HODGEPODGE, ORDINAL NUMBER PHRASES, I'M GAME, PORT, STAR BOARDS
+LITERARY RELATIONS | Alfred Doolittle has this teenage daughter | Eliza Doolittle
+right: Judy
+Wrong: 
+Value: $200
+Number: 2
+HODGEPODGE | TrueBlue is this airline's rewards program | JetBlue
+right: John
+Wrong: 
+Value: $200
+Number: 7
+ORDINAL NUMBER PHRASES | If the cops are questioning you intensively, they're giving you this numeric phrase | the third degree
+right: Judy
+Wrong: 
+Value: $200
+Number: 1
+I'M GAME | (<http://www.j-archive.com/media/2012-12-13_J_26.jpg> Jimmy of the Clue Crew draws a box in the air with his fingers.) In charades, I'm telling the other players the answer will be one of these | a TV show
+right: Alistair
+Wrong: 
+Value: $200
+Number: 26
+PORT | No trip to this port on the Mexican Riviera would be complete without seeing the cliff divers of La Quebrada | Acapulco
+right: John
+Wrong: 
+Value: $200
+Number: 8
+STAR BOARDS | <http://www.j-archive.com/media/2012-12-13_J_09.jpg> This actor/director looks as if he's about to shanghai a lady--Rita Hayworth | Orson Welles
+right: Judy
+Wrong: 
+John: Who is Bob Hope?
+Value: $200
+Number: 9
+LITERARY RELATIONS | She's Laertes' sister | Ophelia
+right: Judy
+Wrong: 
+Value: $400
+Number: 3
+HODGEPODGE | Many of this country's diplomats were expelled after its Houla massacre in 2012 | Syria
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+ORDINAL NUMBER PHRASES | The U.S. Army rank just below captain | first lieutenant
+right: Alistair
+Wrong: 
+Value: $400
+Number: 17
+I'M GAME | 2-word game in which you can't move once "It" touches you; it's also a maker of online family-friendly games | freeze tag
+right: John
+Wrong: 
+Value: $400
+Number: 27
+PORT | England's chief cruise port, this city was the embarkation point of the Titanic | Southampton
+right: John
+Wrong: 
+Value: $400
+Number: 13
+STAR BOARDS | <http://www.j-archive.com/media/2012-12-13_J_15.jpg> John Bonham, drummer of this rock group, is on the stairway to Starship, their tour plane | Led Zeppelin
+right: John
+Wrong: 
+Value: $400
+Number: 15
+LITERARY RELATIONS | At 5, orphaned Heidi is sent to live with a person who's this relation to her | grandfather
+right: Judy
+Wrong: 
+Value: $600
+Number: 4
+HODGEPODGE | Since 1924 this alliterative item has been used as a daily time signal by the BBC | Big Ben
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 11
+ORDINAL NUMBER PHRASES | When he tried to join Bob & Carol & Ted & Alice, Fred was the proverbial one of these on a car | fifth wheel
+right: John
+Wrong: 
+Value: $600
+Number: 18
+I'M GAME | ACIS, American Collegiate Intramural Sports, sponsors this type of football named for an item in players' belts | flag football
+right: Judy
+Wrong: 
+Value: $600
+Number: 28
+PORT | In 1980 thousands seeking freedom in the good ol' U.S.A. fled the port of Mariel in this country | Cuba
+right: Judy
+Wrong: 
+Value: $600
+Number: 14
+STAR BOARDS | It's Pepsi CEO <http://www.j-archive.com/media/2012-12-13_J_20.jpg> Alfred Steele & this actress; the plane will surely not be housed in a wire "hangar" | Joan Crawford
+right: John
+Wrong: 
+Judy: Who is...oh, I'm blanking.
+Value: $600
+Number: 20
+LITERARY RELATIONS | Gertrude is Paul Morel's mom in this D.H. Lawrence novel | Sons and Lovers
+right: 
+Wrong: Triple Stumper
+Judy: What is Lady Chatterley's Lover?
+Value: $800
+Number: 5
+HODGEPODGE | Achilles' mom Thetis was the sea type of this minor deity | a nymph
+right: John
+Wrong: 
+Value: $800
+Number: 12
+ORDINAL NUMBER PHRASES | You play this musical role in a subsidiary capacity to one immediately your superior | second fiddle
+right: Alistair
+Wrong: 
+Value: $800
+Number: 24
+I'M GAME | The genesis of this game was when a writer suggested the adjectives clumsy & naked, having no idea of the context | Mad Libs
+right: John
+Wrong: 
+Value: $800
+Number: 29
+PORT | Papeete on this island is the chief port of French Polynesia | Tahiti
+right: Alistair
+Wrong: 
+Judy: What is Fiji?
+Value: $800
+Number: 16
+STAR BOARDS | <http://www.j-archive.com/media/2012-12-13_J_21.jpg> Here's Vivien Leigh alongside this husband, a British stage & screen star | Laurence Olivier
+right: Judy
+Wrong: 
+Value: $800
+Number: 21
+LITERARY RELATIONS | Last name of Biff & Happy, brothers in a stage play | Loman
+right: 
+Wrong: 
+Judy: [exhaling slowly] I don't know.
+Value: DD: $1,000
+Number: 6
+HODGEPODGE | The bacterial byproduct rapamycin, first found in this island's soil, may help Alzheimer patients | Easter Island (or Rapa Nui)
+right: Alistair
+Wrong: 
+Value: $1000
+Number: 23
+ORDINAL NUMBER PHRASES | The NBA substitute player of the year wins this award | sixth man award
+right: John
+Wrong: 
+Value: $1000
+Number: 25
+I'M GAME | In England the board game "Clue" goes by this slightly longer name | Cluedo
+right: Alistair
+Wrong: 
+Value: $1000
+Number: 30
+PORT | The name of this port, joined with Tokyo in a metropolitan area, means "side beach" | Yokohama
+right: John
+Wrong: 
+Value: $1000
+Number: 19
+STAR BOARDS | No way, José; that's <http://www.j-archive.com/media/2012-12-13_J_22.jpg> this Cuban-American actor with his wife, Ms. Hepburn | Mel Ferrer
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+Scores at the first commercial break (after clue 15)
+Alistair: $0
+Judy: $400
+John: $1,400
+Scores at the end of the Jeopardy! Round:
+Alistair: $4,200
+Judy: $400
+John: $6,200
+Second Jeopardy! Round: COMPOSERS, GERMAN "E", GEOGRAPHIC PHRASES, 18th CENTURY TECHNOLOGY, POLITICAL MEMOIRS, MARVEL NOW!
+COMPOSERS | This "Rhapsody In Blue" composer was just 38 when he died in 1937 following brain surgery | Gershwin
+right: John
+Wrong: 
+Value: $400
+Number: 1
+GERMAN "E" | This scientist's name can be literally translated as "one stone" | Einstein
+right: John
+Wrong: 
+Value: $400
+Number: 2
+GEOGRAPHIC PHRASES | This phrase for the ocean follows "the devil and" | the deep blue sea
+right: Alistair
+Wrong: 
+Value: $400
+Number: 3
+18th CENTURY TECHNOLOGY | In 1764 weaver James Hargreaves developed this improved spinning machine that has a girl's name | a spinning jenny
+right: Alistair
+Wrong: 
+Value: $400
+Number: 16
+POLITICAL MEMOIRS | "What I Saw at the Revolution" is Peggy Noonan's journey as a speechwriter for this president | Reagan
+right: Judy
+Wrong: 
+Value: $400
+Number: 21
+MARVEL NOW! | <http://www.j-archive.com/media/2012-12-13_DJ_26.jpg> He was once the incredible, but now he's the indestructible this | the Hulk
+right: John
+Wrong: 
+Value: $400
+Number: 26
+COMPOSERS | In honor of the 200th anniversary of his birth, Poland proclaimed 2010 "the year of" this composer | Chopin
+right: 
+Wrong: Triple Stumper
+John: Who is Strauss?
+Value: $800
+Number: 4
+GERMAN "E" | In German, it's 5 plus 6, not just a pointy-eared "Lord of the Rings" creature | elf
+right: Alistair
+Wrong: 
+Value: $800
+Number: 10
+GEOGRAPHIC PHRASES | Big decision? "we are at" this plural-named intersection | crossroads
+right: Judy
+Wrong: 
+Value: $800
+Number: 6
+18th CENTURY TECHNOLOGY | In 1784 this American wrote in praise of bifocals, "serving for distant objects as well as near ones" | Ben Franklin
+right: John
+Wrong: 
+Value: $800
+Number: 17
+POLITICAL MEMOIRS | This couple linked with opposing parties wrote "All's Fair: Love, War and Running for President" | James Carville and Mary Matalin
+right: Alistair
+Wrong: 
+Value: $800
+Number: 22
+MARVEL NOW! | Sue and Reed's kids are part of the fun when <http://www.j-archive.com/media/2012-12-13_DJ_30.jpg> this alliterative group embarks on its epic journey | The Fantastic Four
+right: Alistair
+Wrong: 
+Value: $800
+Number: 30
+COMPOSERS | One encyclopedia says of this Bach contemporary, "in 1715, he was the most famous composer alive" | (George Frideric) Handel
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 5
+GERMAN "E" | This Alpine flower, this Alpine flower, has a name meaning "noble white" | edelweiss
+right: John
+Wrong: 
+Value: $1200
+Number: 11
+GEOGRAPHIC PHRASES | In tennis it's an awkward spot partway to net; in war it's between opposing armies | no man's land
+right: Alistair
+Wrong: 
+Value: $1200
+Number: 7
+18th CENTURY TECHNOLOGY | In 1785, 16 years after his patent for an improved steam engine, he developed a fuel-efficient furnace | James Watt
+right: Alistair
+Wrong: 
+Value: $1200
+Number: 18
+POLITICAL MEMOIRS | Going from the White House to ABC news, he wrote "All Too Human: A Political Education" about his Clinton years | George Stephanopoulos
+right: Alistair
+Wrong: 
+Value: DD: $2,000
+Number: 23
+MARVEL NOW! | <http://www.j-archive.com/media/2012-12-13_DJ_29.jpg> Iron Man is this billionaire crime fighter who sports a new suit of armor in each of the first five new issues | Tony Stark
+right: Alistair
+Wrong: 
+Value: $1200
+Number: 29
+COMPOSERS | As a young unknown, this "Lullaby" composer insulted Liszt by falling asleep during a performance | Brahms
+right: Judy
+Wrong: 
+Value: $1600
+Number: 14
+GERMAN "E" | This 5-letter word meaning "to eat" is also the name of the Ruhr region's main industrial city | Essen
+right: Judy
+Wrong: 
+Value: $1600
+Number: 12
+GEOGRAPHIC PHRASES | The "great" one of these can refer to death or form part of the Montana-Idaho border | the great divide
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 8
+18th CENTURY TECHNOLOGY | Musicians can thank John Shore, who invented this in 1711; it vibrated at 423.5 cycles a second | a tuning fork
+right: Alistair
+Wrong: 
+Value: DD: $2,000
+Number: 19
+POLITICAL MEMOIRS | This Secretary of State wrote "The Politics of Diplomacy: Revolution, War and Peace, 1989-1992" | James Baker
+right: Alistair
+Wrong: 
+John: Who is Shultz?
+Value: $1600
+Number: 24
+MARVEL NOW! | Trailing a god killer, <http://www.j-archive.com/media/2012-12-13_DJ_28.jpg> Thor visits not only Viking times, but this realm of the Norse gods | Asgard
+right: 
+Wrong: Triple Stumper
+Alistair: What is Valhalla?
+Value: $1600
+Number: 28
+COMPOSERS | Sadly, this Czech composer of "The Bartered Bride" died in an insane asylum in 1884 | Smetana
+right: Alistair
+Wrong: 
+Value: $2000
+Number: 15
+GERMAN "E" | German for " replacement", in English it refers to an inferior substitute | ersatz
+right: John
+Wrong: 
+Value: $2000
+Number: 13
+GEOGRAPHIC PHRASES | John Winthrop's 1630 sermon "A Model of Christian Charity" said "we shall be as a city upon" this | a hill
+right: Judy
+Wrong: 
+Value: $2000
+Number: 9
+18th CENTURY TECHNOLOGY | John Bird made the first of these navigating instruments with an arc of 60 degrees, or 1/6 of a circle | sextant
+right: Alistair
+Wrong: 
+Value: $2000
+Number: 20
+POLITICAL MEMOIRS | Working with presidents from Nixon to Clinton, <http://www.j-archive.com/media/2012-12-13_DJ_25.jpg> this commentator wrote "Eyewitness to Power" | (David) Gergen
+right: John
+Wrong: 
+Judy: Who is Broder?
+Value: $2000
+Number: 25
+MARVEL NOW! | Marvel promises all-new chimichangas for <http://www.j-archive.com/media/2012-12-13_DJ_27.jpg> this mercenary, also known as Wade Wilson | Deadpool
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Alistair: $19,000
+Judy: $4,800
+John: $11,000
+
+Final Jeopardy! Round
+OLYMPIC GOLD MEDALISTS | Before Michael Phelps in 2008, he was the last American to win 5 individual golds in one Olympics; he did it at Lake Placid | Eric Heiden
+right: 
+Wrong: 
+Judy: Who is Eric Hansen
+John: Who was Smith?
+Alistair: Who is     ?
+Wagers: 
+Judy: $2,800
+John: $9,001
+Alistair: $3,001
+Final scores:
+Alistair: $15,999 (2-day champion: $29,199)
+Judy: $2,000 (2nd place: $2,000)
+John: $1,999 (3rd place: $1,000)
+
+Coryat scores
+Alistair: $17,800 (19 R(including 2 DDs),1 W)
+Judy: $5,800 (13 R,5 W(including 1 DD))
+John: $11,000 (18 R,3 W)

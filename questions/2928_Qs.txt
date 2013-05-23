@@ -1,0 +1,346 @@
+5631 - Monday, February 16, 2009
+Contestants:
+Dan Smith: a student from Chicago, Illinois
+Bing Luke: a tax lawyer from Harlem, New York
+Diane Trap: a librarian and graphics specialist from Athens, Georgia (whose 1-day cash winnings total $21,400)
+First Jeopardy! Round: 1909: 100 YEARS AGO, SEINFELD, GOVERNMENT ACRONYMS, AMERICANA, "CU", LATER
+1909: 100 YEARS AGO | On February 12 this important African-American organization was formed | NAACP
+right: Dan
+Wrong: 
+Value: $200
+Number: 26
+SEINFELD | This Jason Alexander character: "She doesn't deserve a baby shower. She deserves a baby monsoon" | George Costanza
+right: Dan
+Wrong: 
+Value: $200
+Number: 2
+GOVERNMENT ACRONYMS | The "E" in FEMA (Do a heckuva job responding) | emergency
+right: Dan
+Wrong: 
+Value: $200
+Number: 21
+AMERICANA | This national memorial in the Black Hills is also called the "Shrine of Democracy" | Mount Rushmore
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+"CU" | The name of this bird is an imitation of its call | the cuckoo
+right: Dan
+Wrong: 
+Value: $200
+Number: 7
+LATER | During the Reign of Terror, she made wax masks of severed heads; 4 decades later, she opened her own wax museum | Madame Tussaud
+right: Dan
+Wrong: 
+Value: $200
+Number: 11
+1909: 100 YEARS AGO | On June 2 Alfred Deakin became prime minister of this Commonwealth country for the third time | Australia
+right: Diane
+Wrong: 
+Dan: What is Canada?
+Value: $400
+Number: 27
+SEINFELD | Hello, this character who said, "I'll tell you a little secret about zip codes--they're meaningless" | Newman
+right: Dan
+Wrong: 
+Value: $400
+Number: 3
+GOVERNMENT ACRONYMS | The "O" in ROTC (Ten hut!) | officer
+right: Diane
+Wrong: 
+Value: $400
+Number: 22
+AMERICANA | The song "America, the Beautiful" says, "crown thy good with" this "from sea to shining sea" | brotherhood
+right: Dan
+Wrong: 
+Value: $400
+Number: 16
+"CU" | It's the horizontally pleated sash usually worn with a tuxedo | a cummerbund
+right: Dan
+Wrong: 
+Value: $400
+Number: 8
+LATER | Mozart wrote variations on the melody to this "stellar" children's song; later, Jane Taylor wrote the words | "Twinkle, Twinkle, Little Star"
+right: Dan
+Wrong: 
+Value: $400
+Number: 12
+1909: 100 YEARS AGO | A D.C. medical center founded in 1909 is named for this military surgeon | Walter Reed
+right: Bing
+Wrong: 
+Value: $600
+Number: 28
+SEINFELD | Her dance at an office party was described as "more like a full-bodied dry heave set to music" | Elaine
+right: Dan
+Wrong: 
+Value: $600
+Number: 4
+GOVERNMENT ACRONYMS | The "D" in FDIC (Don't withdraw, you can do it) | deposit
+right: Bing
+Wrong: 
+Value: $600
+Number: 23
+AMERICANA | (<http://www.j-archive.com/media/2009-02-16_J_17.jpg> Kelly of the Clue Crew reports from the Crayola factory in Easton, Pennsylvania.) In 1958, the 64-color assortment of Crayolas debuted; the box had <http://www.j-archive.com/media/2009-02-16_J_17a.jpg> this new built-in feature that later earned it a place in the Smithsonian | a sharpener
+right: Diane
+Wrong: 
+Value: $600
+Number: 17
+"CU" | For 64, it's 4 | a cube root
+right: Dan
+Wrong: 
+Diane: What is a cube?
+Value: $600
+Number: 9
+LATER | In 2 B.C. Emperor Augustus was given this title, "Pater Patriae"; 1,800 years later, Geo. Washington was known by it | Father of the Country
+right: Diane
+Wrong: 
+Value: $600
+Number: 13
+1909: 100 YEARS AGO | On March 4 he took the White House keys from Teddy Roosevelt | Taft
+right: Bing
+Wrong: 
+Value: DD: $2,000
+Number: 29
+SEINFELD | This "Curb Your Enthusiasm" star provided the voice of George Steinbrenner | Larry David
+right: Dan
+Wrong: 
+Value: $800
+Number: 5
+GOVERNMENT ACRONYMS | The 2 A's in FAA (They rhyme) | aviation administration
+right: Dan
+Wrong: 
+Value: $800
+Number: 24
+AMERICANA | This 4-word inscription first appeared on U.S. coins during the Civil War | In God We Trust
+right: Dan
+Wrong: 
+Value: $800
+Number: 18
+"CU" | From the Latin for "to till", it means to work land in order to raise crops | cultivate
+right: Bing
+Wrong: 
+Value: $800
+Number: 10
+LATER | He took over Alger Hiss' job at the State Department in 1947; 14 years later he was Secretary of State for JFK | Dean Rusk
+right: Bing
+Wrong: 
+Value: $800
+Number: 14
+1909: 100 YEARS AGO | On July 25 Frenchman Louis Bleriot became the first to cross this body of water in a plane | the English Channel
+right: Diane
+Wrong: 
+Value: $1000
+Number: 30
+SEINFELD | It took 97 episodes to finally reveal that this was Kramer's first name; it was also that of "Topper" | Cosmo
+right: Dan
+Wrong: 
+Value: $1000
+Number: 6
+GOVERNMENT ACRONYMS | The 3 words that put some "zip" in ZIP code | zone improvement plan
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+AMERICANA | She wrote the poem that says, "Give me your tired, your poor, your huddled masses yearning to breathe free" | Emma Lazarus
+right: Bing
+Wrong: 
+Value: $1000
+Number: 19
+"CU" | (<http://www.j-archive.com/media/2009-02-16_J_20.jpg> Kelly of the Clue Crew indicates a cloud on the monitor.) Recognizable by the anvil shape of its upper portion, this cloud produces heavy rain & thunder | cumulonimbus
+right: Bing
+Wrong: 
+Value: $1000
+Number: 20
+LATER | Cavemen chipped this dark quartz rock into sharp tools & weapons; thousands of years later, it was used in firearms | flint
+right: Bing
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Diane: $0
+Bing: $2,600
+Dan: $5,000
+Scores at the end of the Jeopardy! Round:
+Diane: $2,400
+Bing: $7,800
+Dan: $7,000
+Second Jeopardy! Round: INTERNATIONAL PLAYWRIGHTS, TCM WITH ROBERT OSBORNE, GAMES IN OTHER WORDS, I PROBABLY COULDN'T PAINT THAT, LET'S VISIT CYPRUS, CONTRONYMS
+INTERNATIONAL PLAYWRIGHTS | Chikamatsu, who wrote more than 100 plays, is so revered he is known as this British bard "of Japan" | Shakespeare
+right: Dan
+Wrong: 
+Value: $400
+Number: 7
+TCM WITH ROBERT OSBORNE | (<http://www.j-archive.com/media/2009-02-16_DJ_21.jpg> Turner Classic Movies's Robert Osbourne gives the clue.) Called "Selznick's Folly", this 1939 Oscar winner cost an unprecedented $4 million to produce, had multiple directors, 50 speaking roles & 2,400 extras | Gone With The Wind
+right: Diane
+Wrong: 
+Value: $400
+Number: 21
+GAMES IN OTHER WORDS | A structure that crosses a river | a bridge
+right: Diane
+Wrong: 
+Value: $400
+Number: 12
+I PROBABLY COULDN'T PAINT THAT | "Self-portrait with Bandaged Ear and Pipe" is one of his best-known works | Van Gogh
+right: Bing
+Wrong: 
+Value: $400
+Number: 1
+LET'S VISIT CYPRUS | Reflecting Cyprus' split personality & politics, these are the 2 official languages of Cyprus besides English | Greek & Turkish
+right: Bing
+Wrong: 
+Diane: What are Greek & Macedonian?
+Value: $400
+Number: 26
+CONTRONYMS | It's the mildest type of burn but the harshest type of murder | first-degree
+right: Dan
+Wrong: 
+Value: $400
+Number: 6
+INTERNATIONAL PLAYWRIGHTS | Collier's Ency. says his 1858 play "The Vikings at Helgeland" was "bad; but... in a new and interesting way" | Ibsen
+right: Dan
+Wrong: 
+Value: $800
+Number: 8
+TCM WITH ROBERT OSBORNE | (<http://www.j-archive.com/media/2009-02-16_DJ_22.jpg> Turner Classic Movies's Robert Osbourne gives the clue.) For this 1993 film, Brad Pitt practiced fly-fishing on the roof of his Hollywood apartment building, sometimes catching the hook in his head | A River Runs Through It
+right: Dan
+Wrong: 
+Value: $800
+Number: 22
+GAMES IN OTHER WORDS | One in Spanish | Uno
+right: Dan
+Wrong: 
+Value: $800
+Number: 13
+I PROBABLY COULDN'T PAINT THAT | In 1938 this Mexican woman raised some eyebrows with her "Self-portrait with Monkey" | Frida Kahlo
+right: Diane
+Wrong: 
+Value: $800
+Number: 2
+LET'S VISIT CYPRUS | Until 1960 Cyprus was a colony of this European nation | Great Britain
+right: 
+Wrong: Triple Stumper
+Diane: What is Italy?
+Value: $800
+Number: 27
+CONTRONYMS | It can mean to attach something, like with a clasp, or to detach something, like coupons | clip
+right: Dan
+Wrong: 
+Value: $800
+Number: 17
+INTERNATIONAL PLAYWRIGHTS | This Brit called his comedy "Hay Fever" "One of the most difficult plays to perform that I have ever encountered" | Noel Coward
+right: Diane
+Wrong: 
+Bing: Who is Shaw?
+Value: $1200
+Number: 9
+TCM WITH ROBERT OSBORNE | (<http://www.j-archive.com/media/2009-02-16_DJ_23.jpg> Turner Classic Movies's Robert Osbourne gives the clue.) During the filming of "My Left Foot", this actor spent the entire time in a wheelchair & learned how to paint with his left foot | Daniel Day-Lewis
+right: Dan
+Wrong: 
+Value: $1200
+Number: 23
+GAMES IN OTHER WORDS | A surgical procedure | Operation
+right: Bing
+Wrong: 
+Value: $1200
+Number: 14
+I PROBABLY COULDN'T PAINT THAT | Both Manet & this close friend had works titled "Luncheon on the Grass", but the friend's painting was 15 x 20 feet | Monet
+right: Bing
+Wrong: 
+Value: $1200
+Number: 3
+LET'S VISIT CYPRUS | The Famagusta Gate area is a nightlife center in this capital city | Nicosia
+right: Bing
+Wrong: 
+Value: $1200
+Number: 28
+CONTRONYMS | If you get it on your food, it's a little bonus: if a court does it to your wages, it's anything but | garnish
+right: Bing
+Wrong: 
+Value: $1200
+Number: 18
+INTERNATIONAL PLAYWRIGHTS | The Berliner Ensemble founded by this man in the 1940s finally made its U.S. debut in '99 with a staging of his "Arturo Ui" | Bertolt Brecht
+right: Dan
+Wrong: 
+Value: $1600
+Number: 10
+TCM WITH ROBERT OSBORNE | (<http://www.j-archive.com/media/2009-02-16_DJ_24.jpg> Turner Classic Movies's Robert Osbourne gives the clue.) Judy Holliday, reprising her stage role as ex-chorus girl Billie Dawn, beat Bette Davis & Gloria Swanson for Best Actress in <http://www.j-archive.com/media/2009-02-16_DJ_24.jpg> this 1950 George Cukor film | Born Yesterday
+right: 
+Wrong: Triple Stumper
+Bing: What is All About Eve?
+Value: $1600
+Number: 24
+GAMES IN OTHER WORDS | Tornado | Twister
+right: Bing
+Wrong: 
+Value: $1600
+Number: 15
+I PROBABLY COULDN'T PAINT THAT | During WWII posters of his paintings of "The Four Freedoms" were distributed by the Office of War Information | (Norman) Rockwell
+right: Bing
+Wrong: 
+Value: DD: $3,000
+Number: 4
+LET'S VISIT CYPRUS | This king stopped crusading long enough to marry Princess Berengaria of Navarre on Cyprus in 1191 | Richard the Lion-hearted
+right: Bing
+Wrong: 
+Value: $1600
+Number: 29
+CONTRONYMS | This adjective describes both something that moves quickly & something that doesn't move at all | fast
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+INTERNATIONAL PLAYWRIGHTS | A N.Y. production of his play "People Are Living There" moved the setting from his native South Africa to N.J. | Athol Fugard
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+TCM WITH ROBERT OSBORNE | (<http://www.j-archive.com/media/2009-02-16_DJ_25.jpg> Turner Classic Movies's Robert Osbourne gives the clue.) This 1951 Kurosawa film famously told the story of a crime from the viewpoints of a priest, a peasant & a woodcutter | Rashomon
+right: Dan
+Wrong: 
+Value: $2000
+Number: 25
+GAMES IN OTHER WORDS | Famished famished river horses | Hungry Hungry Hippos
+right: Dan
+Wrong: 
+Value: $2000
+Number: 16
+I PROBABLY COULDN'T PAINT THAT | What an Antwerp! He painted "Het Pelsken" around 1638; how him-esque! | Rubens
+right: 
+Wrong: Triple Stumper
+Bing: Who is Ruben?
+Value: $2000
+Number: 5
+LET'S VISIT CYPRUS | This archbishop was the first president of modern Cyprus, off & on from 1959 to 1977 | Archbishop Makarios
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+CONTRONYMS | It can mean to withstand something (a storm, for instance) as well as to erode under it | weather
+right: Bing
+Wrong: 
+Value: DD: $2,000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Diane: $4,000
+Bing: $16,800
+Dan: $17,800
+
+Final Jeopardy! Round
+POP CULTURE | Also the title of one of the best-selling albums of all time, it was first seen in Russian photos taken in 1959 | the dark side of the Moon
+right: Dan
+Wrong: 
+Diane: What is Sputnik?
+Bing: What is Sputnik?
+Wagers: 
+Diane: $3,999
+Bing: $8,000
+Dan: $15,801
+Final scores:
+Diane: $1 (3rd place: $1,000)
+Bing: $8,800 (2nd place: $2,000)
+Dan: $33,601 (New champion: $33,601)
+
+Coryat scores
+Diane: $4,000 (9 R,3 W)
+Bing: $14,200 (18 R(including 3 DDs),3 W)
+Dan: $17,800 (26 R,1 W)

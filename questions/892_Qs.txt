@@ -1,0 +1,343 @@
+4974 - Thursday, April 6, 2006
+Comments: Michael Falk game 3.
+Contestants:
+Peggy Till: a teacher from Arlington, Texas
+Stacy McKnight: a nanny from Fairfax, Virginia
+Michael Falk: a meteorologist from Milwaukee, Wisconsin (whose 2-day cash winnings total $36,602)
+First Jeopardy! Round: THE NEW YORK TIMES HISTORIC HEADLINES, WHICH TV SHOW CAME FIRST?, THAT'S "SUPER"!, ON THE MENU, A LA CART, PREFIX
+THE NEW YORK TIMES HISTORIC HEADLINES | This country is the invadee in the 1990 headline seen <http://www.j-archive.com/media/2006-04-06_J_02.jpg> here | Kuwait
+right: Michael
+Wrong: 
+Value: $200
+Number: 2
+WHICH TV SHOW CAME FIRST? | "The Twilight Zone", "Twin Peaks", "20/20" | The Twilight Zone
+right: Peggy
+Wrong: 
+Value: $200
+Number: 17
+THAT'S "SUPER"! | In the days following Hurricane Katrina, this venue sheltered nearly 25,000 evacuees | the Superdome
+right: Michael
+Wrong: 
+Value: $200
+Number: 8
+ON THE MENU | The meaty-clawed Maine type of this crustacean is also called the American type | a lobster
+right: Michael
+Wrong: 
+Value: $200
+Number: 7
+A LA CART | In a 12th century French tale of this knight, he rides humbly on a cart in pursuit of Guinevere | Lancelot
+right: Michael
+Wrong: 
+Value: $200
+Number: 22
+PREFIX | "Toward"; or, one point up in a tennis game | ad
+right: Peggy
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES HISTORIC HEADLINES | It's the capital city on the losing end of a 1971 <http://www.j-archive.com/media/2006-04-06_J_03.jpg> headline | Taipei
+right: Michael
+Wrong: 
+Value: $400
+Number: 3
+WHICH TV SHOW CAME FIRST? | "The Drew Carey Show", "The Bob Newhart Show", "The Bernie Mac Show" | The Bob Newhart Show
+right: Michael
+Wrong: 
+Value: $400
+Number: 18
+THAT'S "SUPER"! | These enormous cargo ships can hold over 300,000 tons of oil | supertankers
+right: Michael
+Wrong: 
+Value: $400
+Number: 9
+ON THE MENU | A rich filling called ganache is often used in these chocolates made to look like fancy fungi | truffles
+right: Michael
+Wrong: 
+Value: $400
+Number: 13
+A LA CART | Dickens novel in which Sydney Carton finds himself riding in one of the "death-carts" | A Tale of Two Cities
+right: Michael
+Wrong: 
+Value: $400
+Number: 23
+PREFIX | "After"; or, to station, as a sentry | post
+right: Stacy
+Wrong: 
+Value: $400
+Number: 27
+THE NEW YORK TIMES HISTORIC HEADLINES | This man's 1986 travel itinerary made the <http://www.j-archive.com/media/2006-04-06_J_04.jpg> front page | Ferdinand Marcos
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+WHICH TV SHOW CAME FIRST? | "Reba", "Seinfeld", "Maude" | Maude
+right: Stacy
+Wrong: 
+Value: $600
+Number: 19
+THAT'S "SUPER"! | When a massive star dies out, it may explode & become one of these, billions of times as bright as the sun | a supernova
+right: Michael
+Wrong: 
+Value: $600
+Number: 10
+ON THE MENU | Delectably fatty toro, from the belly of this fish, is a sushi delicacy | tuna
+right: Stacy
+Wrong: 
+Value: $600
+Number: 14
+A LA CART | Appropriately, Dr. Watson gets a ride in a dogcart in this novel | The Hound of the Baskervilles
+right: Michael
+Wrong: 
+Value: DD: $2,000
+Number: 24
+PREFIX | "One"; or, the pre-1958 way to listen to recorded music | mono
+right: Stacy
+Wrong: 
+Value: $600
+Number: 28
+THE NEW YORK TIMES HISTORIC HEADLINES | Last name of the 1953 headline pair seen <http://www.j-archive.com/media/2006-04-06_J_05.jpg> here | Rosenberg
+right: Peggy
+Wrong: 
+Value: $800
+Number: 5
+WHICH TV SHOW CAME FIRST? | "Saturday Night Live", "Monday Night Football", "60 Minutes Wednesday" | Monday Night Football
+right: Michael
+Wrong: 
+Value: $800
+Number: 20
+THAT'S "SUPER"! | It's what Freud called the conscience or moral part of the personality | a superego
+right: Michael
+Wrong: 
+Value: $800
+Number: 11
+ON THE MENU | It's the Italian name for the salad green seen <http://www.j-archive.com/media/2006-04-06_J_15.jpg> here also called roquette | arugula
+right: Peggy
+Wrong: 
+Value: $800
+Number: 15
+A LA CART | The line in "Hamlet" "Full thirty times hath Phoebus' cart gone round" refers to this god's chariot | Apollo
+right: Stacy
+Wrong: 
+Value: $800
+Number: 25
+PREFIX | "Different"; or, someone who's not gay | hetero
+right: Michael
+Wrong: 
+Value: $800
+Number: 29
+THE NEW YORK TIMES HISTORIC HEADLINES | In headlines from <http://www.j-archive.com/media/2006-04-06_J_06.jpg> 1912 & <http://www.j-archive.com/media/2006-04-06_J_06a.jpg> '13, respectively, very different fates befall these two <http://www.j-archive.com/media/2006-04-06_J_06b.jpg> men | Scott & Amundsen
+right: 
+Wrong: Triple Stumper
+Michael: Who are Scott and Peary?
+Value: $1000
+Number: 6
+WHICH TV SHOW CAME FIRST? | "CSI: NY", "CSI: Miami", "NCIS" | CSI: Miami
+right: Peggy
+Wrong: 
+Value: $1000
+Number: 21
+THAT'S "SUPER"! | Seymour Cray was hailed as "the father of" this | the supercomputer
+right: Michael
+Wrong: 
+Value: $1000
+Number: 12
+ON THE MENU | The name of this beef cut next to the rib implies that it melts in your mouth | tenderloin
+right: Peggy
+Wrong: 
+Value: $1000
+Number: 16
+A LA CART | In a bit of optimism at the end of his "Return of the Native", newlyweds Diggory & Thomasin ride off in a dogcart | Thomas Hardy
+right: Peggy
+Wrong: 
+Value: $1000
+Number: 26
+PREFIX | "Against"; specifically, one fighting against Nicaragua's Sandinistas | contra
+right: Michael
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Michael: $3,200
+Stacy: $600
+Peggy: $1,800
+Scores at the end of the Jeopardy! Round:
+Michael: $8,800
+Stacy: $3,000
+Peggy: $5,000
+Second Jeopardy! Round: APRIL, THE ELEMENTS, FICTIONAL MOVIES, WHO "R" YOU?, GEOGRAPHIC HORSE RACE, IN THE DICTIONARY
+APRIL | In April 1952 the president seized these mills to help the Korean War effort; then the Supreme Court said he couldn't | steel
+right: Michael
+Wrong: 
+Value: $400
+Number: 9
+THE ELEMENTS | This liquid metal is also called quicksilver | mercury
+right: Stacy
+Wrong: 
+Value: $400
+Number: 10
+FICTIONAL MOVIES | "The Dueling Cavalier" was the silent film being turned into a musical in this 1952 Gene Kelly favorite | Singin' in the Rain
+right: Michael
+Wrong: 
+Peggy: What is An American in Paris?
+Value: $400
+Number: 4
+WHO "R" YOU? | His clever military tactics during WWII earned him the nickname "The Desert Fox" | Rommel
+right: Stacy
+Wrong: 
+Value: $400
+Number: 15
+GEOGRAPHIC HORSE RACE | & they're off...  "Holy Roller" from this 109-acre country breaks fast & its 921 residents pray for a win | Vatican City
+right: Michael
+Wrong: 
+Value: $400
+Number: 22
+IN THE DICTIONARY | It's a scholar or an eye part | a pupil
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 1
+APRIL | In April 2003 WorldCom, Inc. changed its brand name to this 3-letter one | MCI
+right: Stacy
+Wrong: 
+Value: $800
+Number: 20
+THE ELEMENTS | When exercising, be sure to replace this element you sweat out, or you risk hyponatremia | sodium
+right: Michael
+Wrong: 
+Value: $800
+Number: 11
+FICTIONAL MOVIES | A docu-comedy called "Yankee Doodle Doctor" was made by the wacky medical staff on this 1950s-set sitcom | M*A*S*H
+right: Peggy
+Wrong: 
+Value: $800
+Number: 5
+WHO "R" YOU? | French cardinal who said, "Give me 6 lines written by the most honest man, (&) I'll find something in them to hang him" | Richelieu
+right: Michael
+Wrong: 
+Value: $800
+Number: 16
+GEOGRAPHIC HORSE RACE | This country that built a 20-mi.-long dike in 1932 to add a new province, Flevoland, goes wild as "Dikes R Us" makes a move! | the Netherlands
+right: Michael
+Wrong: 
+Value: $800
+Number: 23
+IN THE DICTIONARY | This military rank comes from a French phrase for "place holding" | lieutenant
+right: Stacy
+Wrong: 
+Value: DD: $2,500
+Number: 2
+APRIL | In April 1972 the U.S. bombed this Vietnamese port city; more recently Seattle became its sister city | Haiphong
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 21
+THE ELEMENTS | (<http://www.j-archive.com/media/2006-04-06_DJ_12.jpg> Kelly of the Clue Crew reports with some textiles from NC State University in Raleigh, NC.)  North Carolina State University is developing shirts lined with transmitters made of this element, symbol Ag, that may one day monitor your vital signs | silver
+right: Stacy
+Wrong: 
+Value: $1200
+Number: 12
+FICTIONAL MOVIES | "Jaws 19" is playing at a movie theater in the first sequel of this Michael J. Fox time-traveling comedy | Back to the Future
+right: Michael
+Wrong: 
+Value: $1200
+Number: 6
+WHO "R" YOU? | "Dutch" & "The Role of a Lifetime" are books about him | Reagan
+right: Michael
+Wrong: 
+Value: $1200
+Number: 17
+GEOGRAPHIC HORSE RACE | At the turn, it's "Rhine River Principality" by a length... & actually, it's greatest length is about 17 miles! | Liechtenstein
+right: Peggy
+Wrong: 
+Value: $1200
+Number: 24
+IN THE DICTIONARY | Home buying is scary: this loan agreement comes from the Old French for "dead" & "pledge" | mortgage
+right: Peggy
+Wrong: 
+Value: $1200
+Number: 3
+APRIL | In this theatre April 14, 1865 the play "Our American Cousin" celebrated its 1,000th performance | Ford's Theatre
+right: Peggy
+Wrong: 
+Value: $1600
+Number: 29
+THE ELEMENTS | The name of this metal comes from the Latin cyprian | copper
+right: Michael
+Wrong: 
+Value: $1600
+Number: 13
+FICTIONAL MOVIES | "Three Weeks in a Helicopter" is an interactive "feely" film in this Aldous Huxley novel | Brave New World
+right: Michael
+Wrong: 
+Value: $1600
+Number: 7
+WHO "R" YOU? | In 1947 he became head of the Naval Reactors branch of the U.S. Atomic Energy Commission | Admiral Hyman Rickover
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 18
+GEOGRAPHIC HORSE RACE | On the rail it's "Famished" from this Eur. country that lost 2/3 of its land after WWI but regained its independence | Hungary
+right: 
+Wrong: Triple Stumper
+Stacy: What is Ireland?
+Value: $1600
+Number: 25
+IN THE DICTIONARY | This type of letter gets its name from being stored in the bottom of 2 trays used by compositors | lowercase
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 27
+APRIL | In April 1988 this state made Evan Mecham its ex-governor | Arizona
+right: Peggy
+Wrong: 
+Value: $2000
+Number: 30
+THE ELEMENTS | The Venus' flytrap catches & digests insects mainly to absorb this element | nitrogen
+right: 
+Wrong: 
+Michael: What is carbon?
+Value: DD: $5,200
+Number: 14
+FICTIONAL MOVIES | The mobsters turned filmmakers were trying to get the movie "Mr. Lovejoy" made in this John Travolta film | Get Shorty
+right: Stacy
+Wrong: 
+Value: $2000
+Number: 8
+WHO "R" YOU? | In 1960 he resigned as president of South Korea & fled to Hawaii | Syngman Rhee
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 19
+GEOGRAPHIC HORSE RACE | At the wire it's "Titano's Pride" from this country, some say the oldest republic in the world | San Marino
+right: Michael
+Wrong: 
+Value: $2000
+Number: 26
+IN THE DICTIONARY | (<http://www.j-archive.com/media/2006-04-06_DJ_28.jpg> Jon of the Clue Crew measures what looks to be a small pipe or shell in the Jeopardy! science lab.)  These 2 words, 1 derived from the other, refer to the instrument I'm using & the <http://www.j-archive.com/media/2006-04-06_DJ_28a.jpg> measurement I'm taking | calipers & caliber (calipers & calibration accepted)
+right: Michael
+Wrong: 
+Value: $2000
+Number: 28
+Scores at the end of the Double Jeopardy! Round:
+Michael: $16,800
+Stacy: $8,700
+Peggy: $11,400
+
+Final Jeopardy! Round
+BUSINESS & INDUSTRY | On July 16, 1995 this company made its first sale, a science textbook | Amazon.com
+right: Peggy | Michael
+Wrong: 
+Stacy: What is
+Wagers: 
+Stacy: $8,000
+Peggy: $3,600
+Michael: $6,001
+Final scores:
+Michael: $22,801 (3-day champion: $59,403)
+Stacy: $700 (3rd place: $1,000)
+Peggy: $15,000 (2nd place: $2,000)
+
+Coryat scores
+Michael: $20,600 (28 R(including 1 DD),2 W(including 1 DD))
+Stacy: $7,000 (11 R(including 1 DD),1 W)
+Peggy: $11,400 (12 R,1 W)

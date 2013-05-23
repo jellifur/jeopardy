@@ -1,0 +1,343 @@
+1885 - Friday, November 13, 1992
+Comments: 1992 Tournament of Champions quarterfinal game 5.
+Contestants:
+Billy Baxter: a grad student and 1992 College Tournament champion from Richmond, Virginia
+Frank Epstein: a police officer from Los Angeles, California
+Leszek Pawlowicz: a materials scientist from Phoenix, Arizona
+First Jeopardy! Round: FAMOUS NAMES, WINE, MUSEUMS, FISH, GOLDEN GUYS, ELVIS SONGS
+FAMOUS NAMES | H.R. Haldeman served 18 months in federal prison as a result of his part in this scandal | Watergate
+right: Billy
+Wrong: 
+Value: $100
+Number: 1
+WINE | Her picture adorns the label of a red wine called "Marilyn Merlot" | Marilyn Monroe
+right: Leszek
+Wrong: 
+Value: $100
+Number: 8
+MUSEUMS | An Ulverston, England museum is devoted to the film careers of this comedy pair who starred in "The Flying Deuces" | Laurel & Hardy
+right: Leszek
+Wrong: 
+Value: $100
+Number: 6
+FISH | The Pacific type of this fish dies after swimming up rivers to spawn; the Atlantic does not | salmon
+right: Leszek
+Wrong: 
+Value: $100
+Number: 12
+GOLDEN GUYS | In the 1920s, the company he founded merged with Metro Pictures Corporation | Samuel Goldwyn
+right: Leszek | Billy
+Wrong: 
+Value: $100
+Number: 14
+ELVIS SONGS | "Everybody in the whole cell block was a' dancin' to" this | The "Jailhouse Rock"
+right: Frank
+Wrong: 
+Value: $100
+Number: 26
+FAMOUS NAMES | Fred Noonan was navigator on the 1937 around-the-world flight on which she disappeared | Amelia Earhart
+right: Billy
+Wrong: 
+Value: $200
+Number: 2
+WINE | This term for a wine's bouquet is also a synonym for "snoot" | nose
+right: Billy
+Wrong: 
+Leszek: What is aroma?
+Value: $200
+Number: 22
+MUSEUMS | A collection of the art of this 20th century Spanish painter is housed at the Hotel Sale in Paris | Pablo Picasso
+right: Frank
+Wrong: 
+Value: $200
+Number: 7
+FISH | Some Amazon Indians use the teeth of this fish, also called the caribe, as razor blades | piranha
+right: Billy
+Wrong: 
+Value: $200
+Number: 13
+GOLDEN GUYS | After losing to Lyndon Johnson in 1964, he was re-elected to the Senate in 1968 | Barry Goldwater
+right: Leszek
+Wrong: 
+Value: $200
+Number: 18
+ELVIS SONGS | The flip side of "Hound Dog"; it insists "I don't want no other love, baby.  It's just you I'm thinking of." | "Don't Be Cruel"
+right: Leszek
+Wrong: 
+Value: $200
+Number: 27
+FAMOUS NAMES | He became a prince of the U.K. in 1957, some 10 years after he married Elizabeth | Prince Philip
+right: Billy
+Wrong: 
+Value: $300
+Number: 3
+WINE | This word, Italian for "sparkling", is found in the name of a sparkling wine from Asti, Italy | spumante
+right: Leszek
+Wrong: 
+Value: $300
+Number: 23
+MUSEUMS | This city's Field Museum of Natural History has a 250,000 volume reference library | Chicago
+right: Leszek
+Wrong: 
+Value: $300
+Number: 9
+FISH | Hippocampus is the scientific name of this odd fish with a prehensile tail | seahorse
+right: Leszek
+Wrong: 
+Value: $300
+Number: 15
+GOLDEN GUYS | In 1948 Peter Goldmark and his team at CBS introduced this type of record | LP
+right: Leszek
+Wrong: 
+Value: $300
+Number: 19
+ELVIS SONGS | "Well, a' bless my soul", this song stayed on the charts for 30 weeks, the longest of any Elvis single | "All Shook Up"
+right: Leszek
+Wrong: 
+Value: $300
+Number: 28
+FAMOUS NAMES | Ira Allen, a brother of Ethan Allen, was a founder of this state's university | Vermont
+right: Frank
+Wrong: 
+Value: $400
+Number: 4
+WINE | Manzanilla is a dry and somewhat salty type of this fortified Spanish wine | sherry
+right: Frank
+Wrong: 
+Value: $400
+Number: 24
+MUSEUMS | Austin, TX has a museum devoted to this short-story author of "Cabbages And Kings" | O. Henry (William Sidney Porter)
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+FISH | This primitive eel-like fish almost caused the extermination of the Great Lakes trout | lamprey
+right: Leszek
+Wrong: 
+Value: DD: $500
+Number: 16
+GOLDEN GUYS | This comic strip artist was known for creating intricate mechanical devices | Rube Goldberg
+right: Leszek
+Wrong: 
+Value: $400
+Number: 20
+ELVIS SONGS | This "keeps pouring down and up ahead's another town that I'll go walkin' through" | "Kentucky Rain"
+right: Leszek
+Wrong: 
+Value: $400
+Number: 29
+FAMOUS NAMES | Douglas MacArthur was a member of the court martial that convicted this advocate of air power in 1925 | Billy Mitchell
+right: Leszek
+Wrong: 
+Value: $500
+Number: 5
+WINE | Websters' says this word for a wine steward is derived from old Provencal for "pack animal driver" | Sommelier
+right: Leszek
+Wrong: 
+Value: $500
+Number: 25
+MUSEUMS | The Drake Well Museum in Titusville in this state commemorates the first oil well in the U.S. | Pennsylvania
+right: Leszek
+Wrong: 
+Value: $500
+Number: 11
+FISH | Clarias Batrachus, the walking type of this fish, can travel overland from pond-to-pond | catfish
+right: Leszek
+Wrong: 
+Value: $500
+Number: 17
+GOLDEN GUYS | His "The Vicar Of Wakefield" might have been published to save himself from going to jail for debt | Oliver Goldsmith
+right: Billy
+Wrong: 
+Value: $500
+Number: 21
+ELVIS SONGS | This No. 1 hit from 1960 contains a spoken passage based on Jack's speech in "As You Like It" | "Are You Lonesome Tonight?"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Leszek: $1,700
+Frank: $600
+Billy: $900
+Scores at the end of the Jeopardy! Round:
+Leszek: $5,400
+Frank: $1,100
+Billy: $1,600
+Second Jeopardy! Round: AMERICAN HISTORY, PHILOSOPHY, WEIGHTS & MEASURES, MONEY & FINANCE, PLAYWRIGHTS & ACTRESSES, ADJECTIVES
+AMERICAN HISTORY | On October 24, 1952 Eisenhower vowed to go to this country & 5 weeks later, he did | Korea
+right: Leszek
+Wrong: 
+Value: $200
+Number: 1
+PHILOSOPHY | Transcendentalist philosopher Bronson Alcott was the father of this famous authoress | Louisa May Alcott
+right: Frank
+Wrong: 
+Value: $200
+Number: 6
+WEIGHTS & MEASURES | This 1215 document included standards for measuring wine & grain | Magna Carta
+right: Billy
+Wrong: 
+Value: $200
+Number: 8
+MONEY & FINANCE | In most cases, these payments made to a former spouse stop when the spouse remarries | alimony
+right: Leszek
+Wrong: 
+Value: $200
+Number: 7
+PLAYWRIGHTS & ACTRESSES | He claimed he was in love with Mrs. Patrick Campbell and wrote the role of Eliza Doolittle for her | George Bernard Shaw
+right: Billy
+Wrong: 
+Value: $200
+Number: 26
+ADJECTIVES | It precedes "mammoth" when referring to an animal, & follows "wild and" when talking about a cowboy | woolly
+right: Leszek
+Wrong: 
+Value: $200
+Number: 25
+AMERICAN HISTORY | In 1732, Vincennes, in this future state, was founded by the French on the Wabash River | Indiana
+right: Leszek
+Wrong: 
+Billy: What is Ohio?
+Value: $400
+Number: 2
+PHILOSOPHY | He got his doctorate in philosophy in 1841 and published "The Communist Manifesto" in 1848 | Karl Marx
+right: Frank
+Wrong: 
+Value: $400
+Number: 10
+WEIGHTS & MEASURES | -273.16 degrees Centigrade | absolute zero
+right: Billy
+Wrong: 
+Value: $400
+Number: 12
+MONEY & FINANCE | Fixed or liquid, it's anything of value you own | asset
+right: Billy
+Wrong: 
+Value: $400
+Number: 20
+PLAYWRIGHTS & ACTRESSES | Olga Knipper played Masha in his play "The Three Sisters" in 1901 and married him the same year | Anton Chekhov
+right: Billy
+Wrong: 
+Value: $400
+Number: 14
+ADJECTIVES | This adjective that means "extremely tiny" comes from the name of the teensy people Gulliver met | Lilliputian
+right: Billy
+Wrong: 
+Value: $400
+Number: 27
+AMERICAN HISTORY | This 1941 act enabled the U.S. to become the "Arsenal of Democracy" | The Lend-Lease Act
+right: Leszek
+Wrong: 
+Value: $600
+Number: 3
+PHILOSOPHY | His most famous work, "The Prince", wasn't published until 5 years after his death | Niccolò Machiavelli
+right: Frank
+Wrong: 
+Value: $600
+Number: 9
+WEIGHTS & MEASURES | 4 of these units, abbreviated gi. are equivalent to 1 pint | gills
+right: Billy
+Wrong: 
+Value: $600
+Number: 16
+MONEY & FINANCE | Like interest paid on bank savings, they're the earnings paid on stocks & mutual funds | dividends
+right: Frank
+Wrong: 
+Value: $600
+Number: 21
+PLAYWRIGHTS & ACTRESSES | The 1st actress to play the role of Elmire in "Tartuffe" was his wife, Armande Bejart | Moliere
+right: Leszek
+Wrong: 
+Value: $600
+Number: 15
+ADJECTIVES | This adjective could mean "world-weary" or "covered with green gemstones" | jaded
+right: Leszek
+Wrong: 
+Value: $600
+Number: 28
+AMERICAN HISTORY | On May 13, 1846, President James K. Polk signed a declaration of war against this country | Mexico
+right: Leszek
+Wrong: 
+Value: $800
+Number: 4
+PHILOSOPHY | In "The Ethics", Spinoza wrote that nature abhors one of these | a vacuum
+right: Leszek
+Wrong: 
+Value: $800
+Number: 11
+WEIGHTS & MEASURES | In typography, it's 1/72 of an inch | point
+right: Leszek
+Wrong: 
+Value: DD: $1,500
+Number: 18
+MONEY & FINANCE | It's inadvisable to buy a jumbo CD for over this amount, the maximum covered by deposit insurance | $100,000
+right: Frank
+Wrong: 
+Value: $800
+Number: 22
+PLAYWRIGHTS & ACTRESSES | In 1937 he wrote the play "Golden Boy" & married that year's Oscar winner, Luise Rainer | Clifford Odets
+right: Leszek
+Wrong: 
+Value: $800
+Number: 17
+ADJECTIVES | It describes a person with strict moral principles, or a piano whose strings run vertically | upright
+right: Leszek
+Wrong: 
+Value: $800
+Number: 29
+AMERICAN HISTORY | On Dec. 26, 1799 this general eulogized George Washington in Congress | "Light-Horse Harry" Lee
+right: Billy
+Wrong: 
+Value: $1000
+Number: 5
+PHILOSOPHY | Immanuel Kant is a big name in this field of philosophy, concerned with the ultimate nature of things | metaphysics
+right: Billy
+Wrong: 
+Value: DD: $1,200
+Number: 13
+WEIGHTS & MEASURES | The name of this measure, equal to .9144 meters, comes from the Old English for "twig" | yard
+right: Billy
+Wrong: 
+Value: $1000
+Number: 19
+MONEY & FINANCE | Similar to Fannie Mae, it's the nickname of the Federal Home Loan Mortgage Corporation | "Freddie Mac"
+right: Leszek
+Wrong: 
+Value: $1000
+Number: 23
+PLAYWRIGHTS & ACTRESSES | Mary Eure, this playwright's 2nd wife, was in the original cast of his play "Look Back In Anger" | John Osborne
+right: Leszek
+Wrong: 
+Value: $1000
+Number: 24
+ADJECTIVES | It means "capable of being placed opposite something else" and often refers to a monkey's thumbs | Opposable
+right: Leszek
+Wrong: 
+Frank: What is opposing?
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Leszek: $15,900
+Frank: $2,700
+Billy: $7,000
+
+Final Jeopardy! Round
+THE AUTO INDUSTRY | This automaker's trademark symbolizes the 3 places where its engines were used: land, air & water | Mercedes-Benz
+right: Leszek
+Wrong: 
+Frank: What is [GM crossed out] Rolls-Royce?
+Billy: What is Chrysler?
+Wagers: 
+Frank: $2,700
+Billy: $4,000
+Leszek: $900
+Final scores:
+Leszek: $16,800 (Automatic semifinalist)
+Frank: $0 (3rd place: $1,000 if eliminated + Jeopardy!/Wheel of Fortune video games for Super NES/Sega Genesis + Jeopardy! Challenge book)
+Billy: $3,000 (2nd place: $1,000 if eliminated + Jeopardy!/Wheel of Fortune video games for Super NES/Sega Genesis + Jeopardy! Challenge book)
+
+Coryat scores
+Leszek: $15,100 (33 R(including 2 DDs),1 W)
+Frank: $2,700 (9 R,1 W)
+Billy: $6,800 (17 R(including 1 DD),1 W)

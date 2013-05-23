@@ -1,0 +1,334 @@
+4258 - Wednesday, February 19, 2003
+Comments: Travis Troyer game 2.
+Contestants:
+David Vermillion: an economics student from Fairfield, Connecticut
+Laura Chan: a web development intern from Cape Coral, Florida
+Travis Troyer: a software engineer from Hereford, Maryland (whose 1-day cash winnings total $11,000)
+First Jeopardy! Round: A CAPITAL IDEA, HAIRSTYLES, DINNER THEATER, FANGS FOR THE MEMORIES, SPORTING OBJECTS, WHERE ARE YOU "AT"?
+A CAPITAL IDEA | (Sofia of the Clue Crew in Albuquerque)  Andre Garnerin made the first parachute jump from a balloon in 1797 when he jumped over this capital city | Paris
+right: Travis
+Wrong: 
+Laura: What is Philadelphia?
+David: What is Santa Fe?
+Value: $200
+Number: 1
+HAIRSTYLES | The name of this puffed-out hairstyle is from the French for "swell" | bouffant
+right: David
+Wrong: 
+Value: $200
+Number: 21
+DINNER THEATER | A fine cheese selection is laid out for this Agatha Christie mystery play that debuted in 1952 | The Mousetrap
+right: 
+Wrong: Triple Stumper
+Travis: What is "Murder on the Orient Express?"
+Value: $200
+Number: 26
+FANGS FOR THE MEMORIES | Next to your incisors, they're called this because of their resemblance to a dog's fangs | canines
+right: Travis
+Wrong: 
+Value: $200
+Number: 16
+SPORTING OBJECTS | A dimpled ball, 1.68 inches in diameter & weighing 1.62 ounces | golf
+right: David
+Wrong: 
+Value: $200
+Number: 6
+WHERE ARE YOU "AT"? | You ran the light & are liable for causing the accident, so you're said to be this | at fault
+right: David
+Wrong: 
+Value: $200
+Number: 11
+A CAPITAL IDEA | Hmm -- the National Pawn Shop in this city was built on the site of the palace where Montezuma was killed | Mexico City
+right: Travis
+Wrong: 
+Value: $400
+Number: 2
+HAIRSTYLES | The punk style seen here was adapted from that of a Native American tribe | Mohawk
+right: David
+Wrong: 
+Value: $400
+Number: 22
+DINNER THEATER | A beloved high school musical, it's also what the buffet home fries are dripping with | Grease
+right: Travis
+Wrong: 
+Value: $400
+Number: 27
+FANGS FOR THE MEMORIES | The long fangs of these cats, many of which have been retrieved from the La Brea Tar Pits, give them this name | saber-tooth tiger
+right: David
+Wrong: 
+Value: $400
+Number: 17
+SPORTING OBJECTS | A white, hollow celluloid ball, 1 1/2 inches in diameter & weighing around .09 ounces | ping pong/table tennis
+right: 
+Wrong: Triple Stumper
+Travis: What is baseball?
+David: What is Wiffle Ball?
+Value: $400
+Number: 7
+WHERE ARE YOU "AT"? | You're no longer at attention, & are now permitted to scratch yourself | at ease
+right: Travis
+Wrong: 
+Value: $400
+Number: 12
+A CAPITAL IDEA | Someone had the bright idea to build a Disneysea theme park in this Asian city; it opened in 2001 | Tokyo
+right: Travis
+Wrong: 
+Value: $600
+Number: 3
+HAIRSTYLES | Princess Leia's "Star Wars" hairstyle (chic in the 1920s) is called this, like the winter wear it resembles | earmuffs
+right: David
+Wrong: 
+Value: $600
+Number: 23
+DINNER THEATER | An almond cake accompanies this drama about an accused woman refusing an insanity defense | Nuts
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+FANGS FOR THE MEMORIES | Jack London wrote this 1906 novel as a follow-up to "The Call of the Wild" | "White Fang"
+right: Travis
+Wrong: 
+Value: $600
+Number: 18
+SPORTING OBJECTS | A ball made of stitched horse or cowhide, 9 to 9 1/4 inches in circumference | baseball
+right: Travis
+Wrong: 
+Value: $600
+Number: 8
+WHERE ARE YOU "AT"? | You're out of patience, or in the position of a lassoed steer | at the end of your rope/at your rope's end
+right: David
+Wrong: 
+Value: $600
+Number: 13
+A CAPITAL IDEA | Hey, mon, Bob Marley's home in this Caribbean capital was turned into a Bob Marley museum | Kingston, Jamaica
+right: Travis
+Wrong: 
+Value: $800
+Number: 4
+HAIRSTYLES | This short style is so named because it was originally worn by oarsmen to keep the hair out of their eyes | crew cut
+right: David
+Wrong: 
+Value: DD: $3,000
+Number: 24
+DINNER THEATER | A baked-bean casserole highlights the dinner that accompanies this Scopes trial play | Inherit the Wind
+right: 
+Wrong: Triple Stumper
+David: What is "12 Angry Men?"
+Value: $800
+Number: 29
+FANGS FOR THE MEMORIES | The fangs seen here from a 1994 film belong to this centuries-old character | Lestat
+right: Travis
+Wrong: 
+Value: $800
+Number: 19
+SPORTING OBJECTS | A yellow fabric-covered hollow rubber ball, weighing 2 to 2 1/16 ounces | tennis
+right: Travis
+Wrong: 
+Value: $800
+Number: 9
+WHERE ARE YOU "AT"? | You're being sold below cost, or you're perplexed | at a loss
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+A CAPITAL IDEA | In 1898, 10 years after inheriting the throne, 18-year-old Queen Wilhelmina was finally crowned in this city | Amsterdam
+right: Travis
+Wrong: 
+Value: $1000
+Number: 5
+HAIRSTYLES | In 1979 Bo Derek was a perfect "10" with this braided hairstyle | cornrows
+right: Travis
+Wrong: 
+Value: $1000
+Number: 25
+FANGS FOR THE MEMORIES | This dreaded African viper, Bitis gabonica, has the longest fangs of any snake -- up to 2 inches in length | gaboon viper
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+SPORTING OBJECTS | An object that weighs 1/5 ounce containing 14 to 16 feathers that extend 2 3/4 inches from a cork | badminton
+right: David
+Wrong: 
+Value: $1000
+Number: 10
+WHERE ARE YOU "AT"? | You're helpless before someone; in his power | at his/her mercy
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Travis: $4,400
+Laura: -$200
+David: $1,400
+Scores at the end of the Jeopardy! Round:
+Travis: $7,200
+Laura: -$200
+David: $5,200
+Second Jeopardy! Round: CZECH REPUBLIC HISTORY, THE CINEMA, MIDDLE NAME, PLEASE, 20th CENTURY QUOTATIONS, A PUB QUIZ, TIME FOR A "BRU"
+CZECH REPUBLIC HISTORY | On April 4, 1997 tensions ran high as this former national partner recalled its ambassador | Slovakia
+right: Travis
+Wrong: 
+Value: $400
+Number: 2
+THE CINEMA | In this 1994 film Sally Field tells Tom Hanks, "Stupid is as stupid does" | Forrest Gump
+right: Travis
+Wrong: 
+Value: $400
+Number: 22
+MIDDLE NAME, PLEASE | The composer of "The Stars and Stripes Forever" | (John) Philip (Sousa)
+right: Travis
+Wrong: 
+Value: $400
+Number: 21
+20th CENTURY QUOTATIONS | The man born Angelo Roncalli said, "Anybody can" be this exalted person; "The proof is that I have become one" | the pope (Pope John XXIII)
+right: Travis
+Wrong: 
+Value: $400
+Number: 1
+A PUB QUIZ | Beer can be divided into lager, the world's favorite, & this style, England's most popular | ale
+right: David
+Wrong: 
+Value: $400
+Number: 7
+TIME FOR A "BRU" | In a play, this character reveals, "As Caesar loved me, I weep for him...but, as he was ambitious, I slew him" | Brutus
+right: Travis
+Wrong: 
+Value: $400
+Number: 12
+CZECH REPUBLIC HISTORY | In 1998 the republic won Olympic gold in this sport thanks to Dominik "The Dominator" Hasek | ice hockey
+right: Travis
+Wrong: 
+Value: $800
+Number: 3
+THE CINEMA | A tagline for this Jackie Chan-Chris Tucker sequel exclaimed, "Get ready for a second rush" | Rush Hour 2
+right: Laura
+Wrong: 
+Value: $800
+Number: 23
+MIDDLE NAME, PLEASE | Simon Legree creator | (Harriet) Beecher (Stowe)
+right: David
+Wrong: 
+Value: $800
+Number: 27
+20th CENTURY QUOTATIONS | The 2 men seen here; in 1931 one reportedly said of the other, "I had a better year than he did" | Babe Ruth & Herbert Hoover
+right: 
+Wrong: 
+Laura: Who are...[time]?
+Value: DD: $1,200
+Number: 17
+A PUB QUIZ | Proverbially, if you're minding your "P"s & "Q"s in a pub, you're watching your intake of these 2 units | pints & quarts
+right: David
+Wrong: 
+Value: $800
+Number: 8
+TIME FOR A "BRU" | It's ruled by a sultan on the island of Borneo | Brunei
+right: Travis
+Wrong: 
+Value: $800
+Number: 13
+CZECH REPUBLIC HISTORY | In the first year of the republic, 1993, Vaclav Klaus was prime minister & this other Vaclav was president | Vaclav Havel
+right: David
+Wrong: 
+Value: $1200
+Number: 4
+THE CINEMA | (Hi, I'm Leonard Maltin)  Despite its title, this film takes place mostly in Minneapolis & Brainerd, Minnesota (you betcha) | Fargo
+right: David
+Wrong: 
+Value: $1200
+Number: 24
+MIDDLE NAME, PLEASE | The losing commander at Little Bighorn | (George) Armstrong (Custer)
+right: 
+Wrong: Triple Stumper
+David: What is Sherman?
+Value: $1200
+Number: 28
+20th CENTURY QUOTATIONS | Gertrude Stein's famous phrase about Oakland; it contains 5 words, 3 of them the same | "There is no there there"
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+A PUB QUIZ | The name of this strong beer made from roasted barley is also an adjective meaning thickset or heavy | stout
+right: Travis
+Wrong: 
+Value: $1200
+Number: 9
+TIME FOR A "BRU" | His groovin' combo is heard here | Dave Brubeck
+right: Travis
+Wrong: 
+Value: $1200
+Number: 14
+CZECH REPUBLIC HISTORY | In 1999 the city of Usti Nad Labem tried to wall off these residents AKA the Romany, but had to take the wall down | Gypsies
+right: Travis
+Wrong: 
+Value: $1600
+Number: 5
+THE CINEMA | In "Spy Kids", this "Nash Bridges" co-star helped the kids rescue their kidnapped parents | Cheech Marin
+right: Laura
+Wrong: 
+Value: $1600
+Number: 25
+20th CENTURY QUOTATIONS | "So little done -- so much to do" were the 1902 last words of this British Empire bulider in Africa | Cecil Rhodes
+right: Laura
+Wrong: 
+Value: $1600
+Number: 19
+A PUB QUIZ | This phrase meaning a reliable method comes from the brewing practice of dipping in a digit to check temperature | rule of thumb
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 10
+TIME FOR A "BRU" | The name of this armored warrior maiden of German opera is from the Old German for "armored warrior maiden" | Brunhilde
+right: Laura
+Wrong: 
+Value: $1600
+Number: 15
+CZECH REPUBLIC HISTORY | 1997 floods on this river caused 50 billion korunas in damage -- & the smell! | Oder River
+right: 
+Wrong: Triple Stumper
+Travis: What is the Danube?
+Value: $2000
+Number: 6
+THE CINEMA | This 1997 Nicolas Cage film featured the hit song "How Do I Live" | Con Air
+right: Travis
+Wrong: 
+Value: $2000
+Number: 26
+20th CENTURY QUOTATIONS | Before his 1915 execution, this radical labor leader wrote, "Don't waste time in mourning -- organize" | Joe Hill
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+A PUB QUIZ | In 1655 the British Royal Navy began to replace its sailors' beer rations with this alcoholic beverage | rum
+right: Travis
+Wrong: 
+Value: DD: $1,000
+Number: 11
+TIME FOR A "BRU" | The name of this Belgian city famous for its bridges means "city of bridges" | Bruges
+right: 
+Wrong: Triple Stumper
+David: What is Brussels?
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Travis: $15,800
+Laura: $4,200
+David: $6,400
+
+Final Jeopardy! Round
+COMPANY NAMES | This company was named for the sound made by its top product -- a slingshot hitting its target | Wham-O
+right: Laura | David
+Wrong: 
+Travis: What is Ping? [Whammo??]
+Wagers: 
+Laura: $4,200
+David: $6,400
+Travis: $2,000
+Final scores:
+Travis: $13,800 (2-day champion: $24,800)
+Laura: $8,400 (3rd place: $1,000)
+David: $12,800 (2nd place: $2,000)
+
+Coryat scores
+Travis: $16,800 (25 R(including 1 DD),3 W)
+Laura: $5,400 (4 R,2 W(including 1 DD))
+David: $4,200 (14 R(including 1 DD),5 W)

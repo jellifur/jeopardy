@@ -1,0 +1,304 @@
+56 - Monday, November 26, 1984
+Contestants:
+Sara Maikowski: a grocery store cashier originally from The Bronx
+Leland Kennedy: an industrial sculptor from La Mesa, California
+Richard Landon: a restaurant manager from Santa Cruz, California (whose 3-day cash winnings total $27,400)
+First Jeopardy! Round: AFRICA, FOOD, FIRST AID, NUMBER PLEASE, BEN FRANKLIN, TRIVIA
+AFRICA | Central Africa's short people | the Pygmies
+right: Richard
+Wrong: 
+Value: $100
+Number: 1
+FOOD | When you step on these, they let out a little "wine" | grapes
+right: Richard
+Wrong: 
+Value: $100
+Number: 11
+FIRST AID | Any remedy which counteracts a swallowed poison | an antidote
+right: Leland
+Wrong: 
+Value: $100
+Number: 18
+NUMBER PLEASE | An unlucky Friday or a baker's dozen | 13
+right: Richard
+Wrong: 
+Value: $100
+Number: 6
+BEN FRANKLIN | His spectacle invention that's a sight for sore eyes | bifocals
+right: Sara
+Wrong: 
+Value: $100
+Number: 26
+TRIVIA | At last count there were only 70 of these head servants left in England | butlers
+right: 
+Wrong: Triple Stumper
+Sara: What are major-domos?
+Value: $100
+Number: 12
+AFRICA | S. Africa's form of segregation | apartheid
+right: Richard
+Wrong: 
+Value: $200
+Number: 2
+FOOD | Satanic term for food prepared with strong seasoning, as of eggs or ham | devilled
+right: Richard
+Wrong: 
+Value: $200
+Number: 16
+FIRST AID | To prevent swelling & discoloring from a blow to the body, apply this kind of compress immediately | a cold compress
+right: Richard
+Wrong: 
+Value: $200
+Number: 19
+NUMBER PLEASE | Number of stars on American flag raised at Iwo Jima | 48
+right: Richard
+Wrong: 
+Value: $200
+Number: 7
+BEN FRANKLIN | "Fish & guests stink in 3 days" are among this almanac's wise words | Poor Richard('s Almanack)
+right: Sara
+Wrong: 
+Value: $200
+Number: 27
+TRIVIA | Nobody wants to hear all of this camp song about decreasing containers of brew | "99 Bottles Of Beer On The Wall"
+right: Richard
+Wrong: 
+Value: $200
+Number: 13
+AFRICA | Tanganyika & Zanzibar joined to form this country | Tanzania
+right: Richard
+Wrong: 
+Leland: What is Zimbabwe?
+Value: $300
+Number: 3
+FOOD | French term for meat served in its own juice | au jus
+right: Leland
+Wrong: 
+Value: $300
+Number: 17
+FIRST AID | Kind of shot given to prevent lockjaw after a puncture wound | a tetanus shot
+right: Richard
+Wrong: 
+Value: $300
+Number: 20
+NUMBER PLEASE | Square inches in a square foot | 144
+right: Richard
+Wrong: 
+Value: $300
+Number: 8
+BEN FRANKLIN | He was president of the 1st society to press for its abolition | slavery
+right: Sara
+Wrong: 
+Value: $300
+Number: 28
+TRIVIA | A stew of various meats, a jar of mixed flower petals, or an old "Jeopardy" category | potpourri
+right: Sara
+Wrong: 
+Value: $300
+Number: 14
+AFRICA | Africa's largest fresh-water lake, it's main source of the Nile | Lake Victoria
+right: Richard
+Wrong: 
+Value: $400
+Number: 4
+FOOD | Found in rye bread, these seeds are also flavoring of kummel liqueur | caraway seeds
+right: Sara
+Wrong: 
+Value: $400
+Number: 24
+FIRST AID | This "hug" is recommended as effective method to remove object blocking windpipe | the Heimlich maneuver
+right: Richard
+Wrong: 
+Value: $400
+Number: 21
+NUMBER PLEASE | Total of trombones & cornets in "The Music Man" tune | 186
+right: 
+Wrong: 
+Richard: What is 177?
+Value: DD: $1,000
+Number: 9
+BEN FRANKLIN | The postal service actually showed a profit when he held this position | Postmaster General
+right: 
+Wrong: Triple Stumper
+Richard: [no response]
+Value: $400
+Number: 29
+TRIVIA | This president is said to be related to John Kennedy, Princess Di & F. Mitterand | Ronald Reagan
+right: 
+Wrong: Triple Stumper
+Richard: [no response]
+Value: $400
+Number: 15
+AFRICA | Kenyatta was leader of this bloody movement to end British rule in Kenya | the Mau Maus
+right: Richard
+Wrong: 
+Value: $500
+Number: 5
+FOOD | The thymus & pancreas of young calves are sources of this meat | sweetbreads
+right: Sara
+Wrong: 
+Value: $500
+Number: 25
+FIRST AID | Full name for CPR | cardiopulmonary rescuscitation
+right: Richard
+Wrong: 
+Value: $500
+Number: 22
+NUMBER PLEASE | Age range of an octogenarian | the 80s (or 80-89)
+right: Sara
+Wrong: 
+Value: $500
+Number: 10
+TRIVIA | The place you most readily find "QWERTYUIOP"; you can spell it using only these letters | a typewriter
+right: Richard
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Richard: $1,100
+Leland: -$300
+Sara: $500
+Scores at the end of the Jeopardy! Round:
+Richard: $2,700
+Leland: $100
+Sara: $2,200
+Second Jeopardy! Round: GRAMMAR, WORLD OF FASHION, ART, U.S. GEOGRAPHY, TV DETECTIVES, BIOLOGY
+GRAMMAR | While either takes or, neither always takes this | nor
+right: Sara
+Wrong: 
+Value: $200
+Number: 12
+WORLD OF FASHION | The hat in the Mexican hat dance | a sombrero
+right: Sara
+Wrong: 
+Value: $200
+Number: 10
+ART | A painting of inanimate objects, not people | a still life
+right: Sara
+Wrong: 
+Leland: What would be, uh, obscura?
+Value: $200
+Number: 9
+U.S. GEOGRAPHY | It's "where the wind comes sweeping down the plain" | Oklahoma
+right: Leland
+Wrong: 
+Value: $200
+Number: 6
+TV DETECTIVES | He was Dectective Lieutenant Dan August before he was Sharky | Burt Reynolds
+right: Richard
+Wrong: 
+Value: $200
+Number: 1
+GRAMMAR | The interjection in "Whew! This is a tough answer" | whew
+right: Richard
+Wrong: 
+Value: $400
+Number: 14
+WORLD OF FASHION | South Seas garb worn by Dorothy Lamour on "The Road" | a sarong
+right: Leland
+Wrong: 
+Value: $400
+Number: 11
+U.S. GEOGRAPHY | State whose counties include Crockett, Zapata & Pecos | Texas
+right: Richard
+Wrong: 
+Value: $400
+Number: 5
+TV DETECTIVES | He played father-in-law to Betty Jones & now is uncle to Matt Houston | Buddy Ebsen
+right: Leland
+Wrong: 
+Richard: Who is Barnaby Jones?
+Value: $400
+Number: 7
+BIOLOGY | Wurlitzer's pride, or what tissues grouped together form | an organ
+right: Richard
+Wrong: 
+Value: $400
+Number: 22
+GRAMMAR | Punctuation mark of the imperative mode | an exclamation mark
+right: Leland
+Wrong: 
+Value: $600
+Number: 15
+WORLD OF FASHION | Where on his body an Arab would wear the traditional keffiyeh | his head
+right: Richard
+Wrong: 
+Value: $600
+Number: 13
+U.S. GEOGRAPHY | One of two states ending in "T" | (1 of) Connecticut and Vermont
+right: Richard
+Wrong: 
+Value: DD: $700
+Number: 2
+TV DETECTIVES | Name of station police work out of in series with <http://www.j-archive.com/media/1984-11-26_DJ_08.mp3> this theme | (the) Hill Street (station)
+right: Leland
+Wrong: 
+Value: DD: $500
+Number: 8
+BIOLOGY | Serology is the study of this body fluid closely resembling sea water | blood
+right: Richard
+Wrong: 
+Value: $600
+Number: 17
+U.S. GEOGRAPHY | Historic pass at junction of TN., KY., & VA., associated with Daniel Boone | the Cumberland Gap
+right: Richard
+Wrong: 
+Value: $800
+Number: 3
+TV DETECTIVES | Ex-"radio receptionist" now" partner in crime" with Lynda Carter | Loni Anderson
+right: Richard
+Wrong: 
+Value: $800
+Number: 16
+BIOLOGY | In 1600's, amateur Dutch scientist van Leeuwenhoek discovered bacteria by using this | a microscope
+right: Richard
+Wrong: 
+Value: $800
+Number: 18
+GRAMMAR | The word, phrase or clause a pronoun must agree with | the antecedent
+right: Leland
+Wrong: 
+Richard: What is the preceding clause?
+Value: $1000
+Number: 20
+U.S. GEOGRAPHY | Mountain range that surrounds city of Atlanta | the Blue Ridge Mountains
+right: 
+Wrong: Triple Stumper
+Richard: What is Stone Mountain?
+Value: $1000
+Number: 4
+TV DETECTIVES | Det. whose show was spun off from "Barney Miller", but thrown back due to small ratings | Fish
+right: Sara
+Wrong: 
+Value: $1000
+Number: 21
+BIOLOGY | Exobiology is the study of living things here | space
+right: Richard
+Wrong: 
+Leland: What is outside the body?
+Value: $1000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Richard: $7,000
+Leland: $2,000
+Sara: $3,800
+
+Final Jeopardy! Round
+BUSINESS & INDUSTRY | Country that manufactures the most cars per year | Japan
+right: Leland
+Wrong: 
+Sara: What is Italy?
+Richard: What is the USA?
+Wagers: 
+Leland: $1,995
+Sara: $1,200
+Richard: $3,000
+Final scores:
+Richard: $4,000 (4-day champion: $31,400)
+Leland: $3,995 (2nd place: a typewriter and an encyclopedia)
+Sara: $2,600 (3rd place: a car stereo)
+
+Coryat scores
+Richard: $7,900 (27 R(including 1 DD),6 W(including 1 DD))
+Leland: $2,100 (8 R(including 1 DD),3 W)
+Sara: $3,800 (11 R,1 W)

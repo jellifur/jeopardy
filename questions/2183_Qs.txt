@@ -1,0 +1,310 @@
+3520 - Friday, December 17, 1999
+Contestants:
+Roy Flynn: a public television producer from Centerville, Ohio
+Maureen Madison: a Ph.D. candidate from Washington, D.C.
+John Trzaska: a fleet service clerk from Chicago, Illinois
+First Jeopardy! Round: BEASTLY GEOGRAPHY, TELEVISION, HOLIDAY SONGS, SANE SCIENTISTS, WHICH CABINET DEPARTMENT?, BEING PUNCTUAL
+BEASTLY GEOGRAPHY | Cities in this nation include Iskenderun, Islahiye & Istanbul | Turkey
+right: Roy
+Wrong: 
+Value: $100
+Number: 2
+TELEVISION | Roz Doyle, a character on this sitcom, is named for a late producer of the NBC sitcom "Wings" | Frasier
+right: Maureen
+Wrong: 
+Value: $100
+Number: 7
+HOLIDAY SONGS | "Sleep in heavenly peace" is a line from this carol | "Silent Night"
+right: Roy
+Wrong: 
+Value: $100
+Number: 1
+SANE SCIENTISTS | Radio pioneer Reginald Fessenden, holder of 500 patents, once worked in this man's New Jersey lab | Thomas Edison
+right: John
+Wrong: 
+Value: $100
+Number: 19
+WHICH CABINET DEPARTMENT? | The Federal Aviation Administration | Transportation
+right: Maureen
+Wrong: 
+Value: $100
+Number: 13
+BEING PUNCTUAL | In abbreviations of 3 or more capital letters, like NCAA, these marks are often omitted | Periods
+right: Roy
+Wrong: 
+Value: $100
+Number: 12
+BEASTLY GEOGRAPHY | By population, it's the second-largest city in New York | Buffalo
+right: Roy
+Wrong: 
+Value: $200
+Number: 3
+TELEVISION | This Emmy-winning drama series features the opening heard here: ("In the criminal justice system, the people are represented by two separate & equally important groups: the police, who investigate crime, & the district attorneys who prosecute the offenders.  These are their stories.") | Law & Order
+right: Maureen
+Wrong: 
+Value: $200
+Number: 8
+HOLIDAY SONGS | "Oh" this, this, this, "I made it out of clay...and when it's dry and ready then" this "I shall play" | Dreidel
+right: Maureen
+Wrong: 
+Value: $200
+Number: 20
+WHICH CABINET DEPARTMENT? | (OSHA) The Occupational Safety and Health Administration | Labor
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 15
+BEING PUNCTUAL | Shorter than a dash, it came between the Angles & Saxons | Hyphen
+right: Roy
+Wrong: 
+Value: $200
+Number: 14
+BEASTLY GEOGRAPHY | In 1903 Wilbur & Orville flew to new heights near this city | Kitty Hawk, North Carolina
+right: John
+Wrong: 
+Value: $300
+Number: 4
+TELEVISION | Robert Pastorelli was the star of "Cracker", but he's best-known for playing Eldin the Painter on this sitcom | Murphy Brown
+right: John
+Wrong: 
+Value: $300
+Number: 9
+HOLIDAY SONGS | (<http://www.j-archive.com/media/1999-12-17_J_21.jpg> Hi, I'm Art Alexakis of the rock group Everclear.)  In a 1998 holiday ad for The Gap, my band did a rendition of this song about an alienated animal | "Rudolph the Red-Nosed Reindeer"
+right: John
+Wrong: 
+Value: $300
+Number: 21
+WHICH CABINET DEPARTMENT? | The Bureau of Prisons | Justice Department
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 16
+BEING PUNCTUAL | 3-letter word commonly replaced in a sentence by a semicolon | And
+right: Maureen
+Wrong: 
+Value: $300
+Number: 24
+BEASTLY GEOGRAPHY | Saddle up!  These high pressure belts are located on either side of the Doldrums | Horse Latitudes
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 5
+TELEVISION | Diane Keaton directed an episode of this David Lynch series about a strange town in the Northwest | Twin Peaks
+right: Roy
+Wrong: 
+Value: $400
+Number: 10
+HOLIDAY SONGS | "Put on your yarmulke, it's time for Chanukah" is a line from his "Chanukah Song" | Adam Sandler
+right: Roy
+Wrong: 
+Value: $400
+Number: 22
+WHICH CABINET DEPARTMENT? | The Fish & Wildlife Service | Interior
+right: Roy
+Wrong: 
+Value: $400
+Number: 17
+BEING PUNCTUAL | It turned the 46th state into the title of a musical | Exclamation point
+right: 
+Wrong: 
+Value: DD: $600
+Number: 25
+BEASTLY GEOGRAPHY | These Spanish islands were named for a breed of large dog Romans found there, not a yellow songbird | Canary Islands
+right: Roy
+Wrong: 
+Value: $500
+Number: 6
+TELEVISION | In the mid-'80s Barbara Bel Geddes left this series & Donna Reed stepped in briefly as Miss Ellie | Dallas
+right: John
+Wrong: 
+Value: $500
+Number: 11
+HOLIDAY SONGS | Bobby Helms charted (several times) with this song that mentions "Glidin' in a one-horse sleigh" | "Jingle Bell Rock"
+right: Maureen
+Wrong: 
+Value: $500
+Number: 23
+WHICH CABINET DEPARTMENT? | The Bureau of Alcohol, Tobacco & Firearms | Treasury
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 18
+BEING PUNCTUAL | If 1 of these takes 3 paragraphs, the marks go at the start of each paragraph & at the end of only the third | Quotation
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+John: $900
+Maureen: $0
+Roy: $1,400
+Scores at the end of the Jeopardy! Round:
+John: $800
+Maureen: $400
+Roy: $1,700
+Second Jeopardy! Round: 20th CENTURY AUTHORS, NAME THE MOVIE, HEDGEHOG HODGEPODGE, JANES ADDICTION, "R"RRRRR!, A PIRATE'S LIFE FOR ME
+20th CENTURY AUTHORS | It wasn't until 7 years after publishing "Lord of the Flies" that he retired from teaching in England | William Golding
+right: Maureen
+Wrong: 
+Value: $200
+Number: 1
+NAME THE MOVIE | 1937: "Magic mirror on the wall, who is the fairest of them all?" | Snow White and the Seven Dwarfs
+right: Roy
+Wrong: 
+Value: $200
+Number: 6
+HEDGEHOG HODGEPODGE | Hedgehogs make themselves at home in flower beds, in compost heaps &, obviously under these | Hedges
+right: John
+Wrong: 
+Value: $200
+Number: 23
+JANES ADDICTION | Now in prime time, she was an original "Not Ready for Prime Time Player" | Jane Curtin
+right: Maureen
+Wrong: 
+Value: $200
+Number: 16
+"R"RRRRR! | It's the creature from which hats like the one seen here were originally made: | Raccoon
+right: John
+Wrong: 
+Value: $200
+Number: 11
+A PIRATE'S LIFE FOR ME | Around 405 A.D. this future patron saint was captured by pirates & sold as a slave in Ireland | Saint Patrick
+right: Roy
+Wrong: 
+Value: $200
+Number: 21
+20th CENTURY AUTHORS | In 1974 this Brit turned out another novel like clockwork, "The Clockwork Testament" | Anthony Burgess
+right: Maureen
+Wrong: 
+Value: DD: $1,000
+Number: 2
+NAME THE MOVIE | 1982: "God didn't make Rambo.  I made him" | First Blood
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+HEDGEHOG HODGEPODGE | Folk belief has it that hedgehogs do this to sleeping cows | Drink their milk
+right: Roy
+Wrong: 
+Value: $400
+Number: 27
+JANES ADDICTION | She was nominated for a 1993 Best Director Oscar | Jane Campion
+right: Maureen
+Wrong: 
+Value: $400
+Number: 17
+"R"RRRRR! | A man with the head of a hawk crowned with a solar disk represents this ancient Egyptian sun god | Ra
+right: Roy
+Wrong: 
+Value: $400
+Number: 12
+A PIRATE'S LIFE FOR ME | Together they wrote "The Pirates of Penzance" in 1879 | Gilbert & Sullivan
+right: Roy
+Wrong: 
+Value: $400
+Number: 22
+20th CENTURY AUTHORS | Mrs. Morel in "Sons and Lovers" is based in part on his own mom | D.H. Lawrence
+right: Maureen
+Wrong: 
+Value: $600
+Number: 3
+NAME THE MOVIE | 1998: "I'll see you on the beach" | Saving Private Ryan
+right: 
+Wrong: 
+Value: DD: $600
+Number: 8
+JANES ADDICTION | She's an Agatha Christie detective | Miss Jane Marple
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+"R"RRRRR! | Frank Gorshin played him on the small screen, Jim Carrey on the big | The Riddler
+right: Maureen
+Wrong: 
+Value: $600
+Number: 13
+A PIRATE'S LIFE FOR ME | The ruins of ancient Carthage lie just outside this capital city enriched by pirating in the 1600s & 1700s | Tunis
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 24
+20th CENTURY AUTHORS | Let the trumpets sound!  Bang "The Tin Drum"!  He won the 1999 Nobel Prize for Literature | Gunter Grass
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+NAME THE MOVIE | 1940: "Wherever there's a fight so hungry people can eat, I'll be there" | The Grapes of Wrath
+right: Maureen
+Wrong: 
+Value: $800
+Number: 9
+JANES ADDICTION | Ronald Reagan's ex-wife | Jane Wyman
+right: Maureen
+Wrong: 
+Value: $800
+Number: 19
+"R"RRRRR! | It's a stream of particles or waves emitted as the result of nuclear decay | Radiation
+right: John
+Wrong: 
+Value: $800
+Number: 14
+A PIRATE'S LIFE FOR ME | This name for a swift pirate ship comes from the Latin cursus, meaning "plunder" | Corsair
+right: John
+Wrong: 
+Value: $800
+Number: 25
+20th CENTURY AUTHORS | Barbara Vine is a pseudonym of this leading British mystery writer of today | Ruth Rendell
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+NAME THE MOVIE | 1967: "We rob banks" | Bonnie and Clyde
+right: Roy
+Wrong: 
+Value: $1000
+Number: 10
+HEDGEHOG HODGEPODGE | The hedgehog genus Hemiechinus is notable for the length of these sensory appendages | Ears
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+JANES ADDICTION | French director Roger Vadim was this American actress' first husband | Jane Fonda
+right: John
+Wrong: 
+Value: $1000
+Number: 20
+"R"RRRRR! | An 11-letter word meaning extreme conservative opponent of progress or liberalism | Reactionary
+right: Maureen
+Wrong: 
+Value: $1000
+Number: 15
+A PIRATE'S LIFE FOR ME | Celebrating his victory over the Barbary Pirates, this naval hero toasted "Our country, right or wrong!" | Stephen Decatur
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+John: $2,200
+Maureen: $5,400
+Roy: $2,700
+
+Final Jeopardy! Round
+NAME'S THE SAME | Name shared by a British film company & an American who made millions in oil & pharmaceuticals | Hammer (Hammer Films/Armand Hammer)
+right: 
+Wrong: 
+John: What is Du Pont?
+Roy: What is Getty?
+Maureen: What is Pinewood?
+Wagers: 
+John: $2,199
+Roy: $2,600
+Maureen: $100
+Final scores:
+John: $1 (3rd place: Meade ETX90 Telescope)
+Maureen: $5,300 (New champion: $5,300)
+Roy: $100 (2nd place: Princess Cruise to Bermuda)
+
+Coryat scores
+John: $2,200 (10 R,4 W)
+Maureen: $5,400 (15 R(including 1 DD),4 W(including 1 DD))
+Roy: $3,300 (15 R,4 W(including 1 DD))

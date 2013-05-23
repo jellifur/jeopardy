@@ -1,0 +1,339 @@
+3840 - Friday, April 20, 2001
+Contestants:
+Joe Collins: a stagehand from Lincolnwood, Illinois
+Nancy Mitchell: a human resources systems manager from Easthampton, Massachusetts
+Ashley Ward: an actress originally from Conyers, Georgia (whose 1-day cash winnings total $4,200)
+First Jeopardy! Round: THE NORTHERNMOST CAPITAL CITY, POINTING THE FINGER, SELF-TITLED ALBUMS, IT'S A DISASTER!, I AM THE WALRUS, "GOO" GOO G'JOOB
+THE NORTHERNMOST CAPITAL CITY | Paris, Madrid, Rome | Paris
+right: Nancy
+Wrong: 
+Value: $100
+Number: 21
+POINTING THE FINGER | "Digital" slogan used by KFC | "Finger-lickin' good"
+right: Ashley
+Wrong: 
+Value: $100
+Number: 6
+SELF-TITLED ALBUMS | This 1999 album contains "Livin' La Vida Loca" & "Shake Your Bon-Bon" | "Ricky Martin"
+right: Ashley
+Wrong: 
+Value: $100
+Number: 1
+IT'S A DISASTER! | In 1917 an ammunition ship explosion in this Nova Scotia capital leveled 2 square miles & killed 1,600 people | Halifax
+right: Ashley
+Wrong: 
+Value: $100
+Number: 14
+I AM THE WALRUS | These "elephantine" features on walruses can be up to 3 feet long & weigh 12 pounds | Tusks
+right: Joe
+Wrong: 
+Value: $100
+Number: 11
+"GOO" GOO G'JOOB | Proverbially, what's good for it is also good for the gander | The goose
+right: Joe
+Wrong: 
+Value: $100
+Number: 16
+THE NORTHERNMOST CAPITAL CITY | Beirut, Ankara, Tel Aviv | Ankara
+right: Nancy
+Wrong: 
+Value: $200
+Number: 22
+POINTING THE FINGER | The work seen here is located in this chapel, erected 1473-1481 | The Sistine Chapel
+right: Nancy
+Wrong: 
+Value: $200
+Number: 7
+SELF-TITLED ALBUMS | No. 1 songs from this 1990 album included "Vision Of Love" & "Someday" | Mariah Carey
+right: Ashley
+Wrong: 
+Value: $200
+Number: 2
+IT'S A DISASTER! | This Pennsylvania city had more than $200 million in damage when it was flooded yet again in 1977 | Johnstown
+right: Nancy
+Wrong: 
+Value: $200
+Number: 25
+I AM THE WALRUS | The walrus is valued by Eskimos for this, a fat layer under the skin from which oil is made | Blubber
+right: Ashley
+Wrong: 
+Value: $200
+Number: 12
+"GOO" GOO G'JOOB | Disney character who hit the big time in 1932's "Mickey's Revue" | Goofy
+right: Ashley
+Wrong: 
+Value: $200
+Number: 17
+THE NORTHERNMOST CAPITAL CITY | Canberra, Wellington, Jakarta | Jakarta
+right: Ashley
+Wrong: 
+Value: $300
+Number: 23
+POINTING THE FINGER | Equal to about 9 inches, a span is measured from the tip of the thumb to the tip of this | Little finger (pinky)
+right: Ashley
+Wrong: 
+Value: $300
+Number: 8
+SELF-TITLED ALBUMS | "Sailing" sailed off this 1980 album | "Christopher Cross"
+right: Joe
+Wrong: 
+Value: $300
+Number: 3
+IT'S A DISASTER! | In 1992 "He" hit the Bahamas, Florida & Louisiana, causing about $22 billion in damage | Hurricane Andrew
+right: Ashley
+Wrong: 
+Value: $300
+Number: 26
+I AM THE WALRUS | Some walruses can live up to this many years, or 20 terms for a U.S. Congressman | 40
+right: Nancy
+Wrong: 
+Value: $300
+Number: 13
+"GOO" GOO G'JOOB | A "nutty" state nickname for Georgia | "The Goober State"
+right: Ashley
+Wrong: 
+Value: $300
+Number: 18
+THE NORTHERNMOST CAPITAL CITY | Brasilia, Santiago, Caracas | Caracas
+right: Joe
+Wrong: 
+Value: $400
+Number: 24
+POINTING THE FINGER | Dactyloscopy is the practice of using these as a means of identification | Fingerprints
+right: Ashley
+Wrong: 
+Value: DD: $400
+Number: 9
+SELF-TITLED ALBUMS | "That's The Way Love Goes" is on this album, period | "Janet"
+right: Joe
+Wrong: 
+Value: $400
+Number: 4
+IT'S A DISASTER! | Egyptair flight 990 went down in the waters of Nantucket not far from where this Italian liner sank in 1956 | Andrea Doria
+right: Nancy
+Wrong: 
+Value: $400
+Number: 27
+I AM THE WALRUS | A walrus feeds on these mollusks, though we doubt they're served "casino" | Clams
+right: Nancy
+Wrong: 
+Value: $400
+Number: 15
+"GOO" GOO G'JOOB | Term for a black-footed albatross found on islands in the Pacific | Goonie birds
+right: Joe
+Wrong: 
+Value: $400
+Number: 19
+THE NORTHERNMOST CAPITAL CITY | New Delhi, Beijing, Islamabad | Beijing
+right: Nancy
+Wrong: 
+Value: $500
+Number: 30
+POINTING THE FINGER | Keuka, Seneca & Cayuga, for example | Finger Lakes
+right: Ashley
+Wrong: 
+Value: $500
+Number: 10
+SELF-TITLED ALBUMS | "Dimelo (I Need To Know)" the title of this album that includes that song | "Marc Anthony"
+right: Ashley
+Wrong: 
+Value: $500
+Number: 5
+IT'S A DISASTER! | In the worst aviation disaster, nearly 600 people were killed when 2 jets collided on Tenerife in this island group | Canary Islands
+right: Nancy
+Wrong: 
+Value: $500
+Number: 28
+I AM THE WALRUS | Nicknamed "The Walrus", this golfer seen here won the 1982 Masters | Craig Stadler
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 29
+"GOO" GOO G'JOOB | She's the British chimp expert born April 3, 1934 | Jane Goodall
+right: Nancy
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ashley: $2,000
+Nancy: $900
+Joe: $900
+Scores at the end of the Jeopardy! Round:
+Ashley: $2,700
+Nancy: $3,300
+Joe: $1,700
+Second Jeopardy! Round: THE KNIGHTS TEMPLAR, NAME THE MOVIE, NEW JERSEYITES, HISTORICAL NOVELS, SECTIONS, ALPHABETICALLY BEFORE AFTER
+THE KNIGHTS TEMPLAR | Templar enlistment rose dramatically following writings by this medieval saint who shares his name with a dog breed | Saint Bernard
+right: Nancy
+Wrong: 
+Value: $200
+Number: 25
+NAME THE MOVIE | 1964: "I sold flowers.  I didn't sell myself.  Now you've made a lady of me, I'm not fit to sell anything else" | My Fair Lady
+right: Joe
+Wrong: 
+Value: $200
+Number: 1
+NEW JERSEYITES | What was once the town of Raritan is now named for this "inventive" New Jersey resident | Thomas Edison
+right: Joe
+Wrong: 
+Value: $200
+Number: 16
+HISTORICAL NOVELS | Adina de Zavala, who barricaded herself inside this San Antonio landmark to save it in 1908, inspired a 1999 novel | The Alamo
+right: Ashley
+Wrong: 
+Value: $200
+Number: 6
+SECTIONS | Section of the Los Angeles Times that covers money matters like the stock market & personal finance | Business
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+ALPHABETICALLY BEFORE AFTER | Less than a friend, one may be "passing" | Acquaintance
+right: Nancy
+Wrong: 
+Value: $200
+Number: 17
+THE KNIGHTS TEMPLAR | Burned at the stake in 1314, Jacques De Molay was the last Templar of this title, today used by chess players | Grandmaster
+right: Joe
+Wrong: 
+Value: $400
+Number: 26
+NAME THE MOVIE | 1974: "No, it's pronounced Eye-Gor" | Young Frankenstein
+right: Joe
+Wrong: 
+Value: $400
+Number: 2
+NEW JERSEYITES | Known as "Bull", this WWII admiral from Elizabeth said he didn't trust a man who doesn't drink or smoke | William F. Halsey
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+HISTORICAL NOVELS | "Henry St. John, Gentleman" is set in this Virginia valley at the onset of the American Revolution | Shenandoah Valley
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+SECTIONS | The cabaletta is the last section of one of these songs in an opera | Aria
+right: Ashley
+Wrong: 
+Value: $400
+Number: 12
+ALPHABETICALLY BEFORE AFTER | This term for what an adolescent grows into comes from the same Latin root | Adult
+right: Ashley
+Wrong: 
+Value: $400
+Number: 21
+THE KNIGHTS TEMPLAR | By arresting them all & seizing their property in 1307, this country's Philip IV began the suppression of the Templars | France
+right: Joe
+Wrong: 
+Value: $600
+Number: 27
+NAME THE MOVIE | 1970: "All you have to do is hold the chicken, bring me the toast, give me a check for the chicken salad sandwich..." | Five Easy Pieces
+right: Joe
+Wrong: 
+Value: DD: $1,700
+Number: 3
+NEW JERSEYITES | New Jersey-born singer-actor seen here: | Jon Bon Jovi
+right: Nancy
+Wrong: 
+Value: $600
+Number: 19
+HISTORICAL NOVELS | The 3rd book in James Reasoner's Civil War saga is named for this Maryland battle the Rebels called Sharpsburg | Antietam
+right: Nancy
+Wrong: 
+Value: $600
+Number: 8
+SECTIONS | The ordinary conic sections are the hyperbola, the parabola, the ellipse & this | Circle
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+ALPHABETICALLY BEFORE AFTER | They're what the 2 "A"s in NASA stand for | Aeronautics & Administration
+right: Joe
+Wrong: 
+Value: $600
+Number: 22
+THE KNIGHTS TEMPLAR | Only Templar knights wore the distinctive white surcoats emblazoned with this symbol | Red cross
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+NAME THE MOVIE | 1992: "You be sweet to your wife.  My husband wasn't sweet to me and look how I turned out" | Thelma & Louise
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+NEW JERSEYITES | This director of "Lone Star", "Passion Fish" & "Return of the Secaucus Seven" has long been based in Hoboken | John Sayles
+right: Joe
+Wrong: 
+Value: $800
+Number: 20
+HISTORICAL NOVELS | Jane Porter's 1810 novel "The Scottish Chiefs" tells the story of this man, the hero of "Braveheart" | William Wallace
+right: Joe
+Wrong: 
+Value: $800
+Number: 9
+SECTIONS | The banana section rooted for its own celebrity couple on this Bert Convy show | Tattletales
+right: Joe
+Wrong: 
+Value: $800
+Number: 14
+ALPHABETICALLY BEFORE AFTER | Meaning "walking", it's how Shakespeare's Henry V & Sherlock Holmes described "the game" | Afoot
+right: Joe
+Wrong: 
+Value: $800
+Number: 23
+THE KNIGHTS TEMPLAR | The last Templar headquarters & base for attacks on Palestine was this eastern Mediterranean island | Cyprus
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+NAME THE MOVIE | 1988: "I have a head for business and a bod for sin" | Working Girl
+right: Ashley
+Wrong: 
+Value: $1000
+Number: 5
+NEW JERSEYITES | James Bayley, bishop of Newark, named this Jersey school after his aunt, the first U.S.-born saint | Seton Hall (after Elizabeth Ann Seton)
+right: 
+Wrong: 
+Value: DD: $700
+Number: 30
+HISTORICAL NOVELS | The first novel written by a Zulu in the Zulu language was John L. Dube's novel about this great Zulu chief | Shaka
+right: Joe
+Wrong: 
+Value: $1000
+Number: 10
+SECTIONS | Gandy dancer is a slang term for a gang laborer who maintains sections of this | Railroad track
+right: Nancy
+Wrong: 
+Value: $1000
+Number: 15
+ALPHABETICALLY BEFORE AFTER | Term for a person who studies or teaches the ABCs | Abecedarian
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Ashley: $4,100
+Nancy: $4,700
+Joe: $9,100
+
+Final Jeopardy! Round
+ENGINEERING | The first one, built in 1893, consisted of 2,200 tons of steel, rose 268 feet & had 36 cars each carrying 60 people | Ferris Wheel
+right: Joe
+Wrong: 
+Ashley: What is a skycar?
+Nancy: What
+Wagers: 
+Ashley: $701
+Nancy: $1,700
+Joe: $301
+Final scores:
+Ashley: $3,399 (2nd place: Trip to the Lucayan Resort, Grand Bahama Island)
+Nancy: $3,000 (3rd place: Samsung Digital Camera Package)
+Joe: $9,401 (New champion: $9,401)
+
+Coryat scores
+Ashley: $4,100 (17 R(including 1 DD),3 W)
+Nancy: $4,700 (15 R,2 W)
+Joe: $8,700 (18 R(including 1 DD),2 W(including 1 DD))

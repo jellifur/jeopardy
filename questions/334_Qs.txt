@@ -1,0 +1,346 @@
+4784 - Thursday, May 26, 2005
+Contestants:
+Damon Poore: a live-in caregiver from Longview, Washington
+Kate Sendegeya: a payroll manager from Antioch, California
+Bob Shore: an attorney from Los Angeles, California (whose 1-day cash winnings total $26,001)
+First Jeopardy! Round: BRITISH AUTHORS, YOU'RE A DOLL!, THAT'S WRITE!, AROUND THE USA, GROOMING AIDS, ABBREV.
+BRITISH AUTHORS | By age 23 she had written early versions of "Sense and Sensibility" and "Pride and Prejudice" | (Jane) Austen
+right: Bob
+Wrong: 
+Value: $200
+Number: 17
+YOU'RE A DOLL! | <http://www.j-archive.com/media/2005-05-26_J_21.jpg> This celebrity doll comes in a gift set with a microphone and a Barbie in bobby socks | Frank Sinatra
+right: Kate
+Wrong: 
+Value: $200
+Number: 21
+THAT'S WRITE! | "Garabatos" in Spanish; Polly Wolly & a certain "Yankee" are dandy at these idle scribbles | doodles
+right: Bob
+Wrong: 
+Value: $200
+Number: 12
+AROUND THE USA | Spend a night on Brasstown Bald Mountain & you're at the high point of this peachy state | Georgia
+right: Kate
+Wrong: 
+Value: $200
+Number: 1
+GROOMING AIDS | It's a waxed string used to clean between your teeth | floss
+right: Bob
+Wrong: 
+Value: $200
+Number: 2
+ABBREV. | In baseball: ERA | Earn Run Average
+right: Bob
+Wrong: 
+Value: $200
+Number: 4
+BRITISH AUTHORS | Byron was Lord Byron from age 10; this poet had to wait until his 70s, in 1884 | Alfred Lord Tennyson
+right: Damon
+Wrong: 
+Value: $400
+Number: 18
+YOU'RE A DOLL! | One accessory sold for the Bratz dolls is a stretch one of these to take them to the prom in style | a limousine
+right: Kate
+Wrong: 
+Value: $400
+Number: 22
+THAT'S WRITE! | A preliminary version; the Brits spell it with a "ugh", we use an "f" | a draft
+right: Kate
+Wrong: 
+Value: $400
+Number: 13
+AROUND THE USA | The Boy Scouts of America headquarters is in this state where all of George Strait's ex's live | Texas
+right: Bob
+Wrong: 
+Value: $400
+Number: 3
+GROOMING AIDS | To tighten your pores, you may use one of these, from the Latin for "to draw together" | astringent
+right: Bob
+Wrong: 
+Value: $400
+Number: 30
+ABBREV. | To feminists: ERA | Equal Rights Amendment
+right: Bob
+Wrong: 
+Value: $400
+Number: 5
+BRITISH AUTHORS | This aging romantic lived to write an ode on the installation of Prince Albert as Chancellor of Cambridge | William Wordsworth
+right: 
+Wrong: 
+Damon: Who is Browning?
+Value: DD: $1,000
+Number: 19
+YOU'RE A DOLL! | The fur really flew in this 1996 movie remake that inspired the doll seen <http://www.j-archive.com/media/2005-05-26_J_23.jpg> here | 101 Dalmatians
+right: Damon
+Wrong: 
+Value: $600
+Number: 23
+THAT'S WRITE! | From the Latin for "to write across", it's making a written copy of dictated material | transcribe
+right: Kate
+Wrong: 
+Value: $600
+Number: 14
+AROUND THE USA | Watch out for train robbers at Tweetsie Railroad, a wild west theme park in this "Tar Heel State" | North Carolina
+right: Bob
+Wrong: 
+Value: $600
+Number: 9
+GROOMING AIDS | It's a foam that helps keep the hair in place, as well as a yummy dessert | mousse
+right: Bob
+Wrong: 
+Value: $600
+Number: 29
+ABBREV. | A military decoration: DSM | Distinguished Service Medal
+right: Bob
+Wrong: 
+Value: $600
+Number: 6
+BRITISH AUTHORS | He explained the genesis of his masterpiece in the <http://www.j-archive.com/media/2005-05-26_J_20.mp3> following passage  "It was on the 15th of October, 1764, as I sat musing amidst the ruins of the capital, that the idea of writing the decline and fall of the city first started to my mind." | Edward Gibbon
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+YOU'RE A DOLL! | Ironically, the Madame Alexander doll based on this Tolstoy heroine wore a dress with a long train | Anna Karenina
+right: Kate
+Wrong: 
+Value: $800
+Number: 24
+THAT'S WRITE! | This type of will is written in your own hand; it sounds like it's in 3-D | holographic
+right: Bob
+Wrong: 
+Value: $800
+Number: 15
+AROUND THE USA | Alaska's Katmai National Park contains the Valley of Ten Thousand these (cough cough) | Smokes
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 10
+GROOMING AIDS | Applicator that lent its name to a derby for women pilots | Powder Puff
+right: 
+Wrong: Triple Stumper
+Kate: What is Tampax?
+Value: $800
+Number: 28
+ABBREV. | In fractions: LCD | least common denominator
+right: Bob
+Wrong: 
+Value: $800
+Number: 7
+BRITISH AUTHORS | In 2002 Christopher Hitchens published a book called "Why" this great anti-totalitarian writer "Matters" | George Orwell
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+YOU'RE A DOLL! | In fall 2000 a glamorous Elizabeth Taylor doll could be purchased with this "gem" of a fragrance | White Diamonds
+right: Damon
+Wrong: 
+Value: $1000
+Number: 25
+THAT'S WRITE! | Pun alert! Oscar's illegibly written text of "Lady Windermere's Fan" would be this "of the Wilde" | Scrawl
+right: 
+Wrong: Triple Stumper
+Bob: What is Call?
+Value: $1000
+Number: 16
+AROUND THE USA | The name of a Polynesian trickster god lives on in the name of this "Valley Island" | Maui
+right: 
+Wrong: Triple Stumper
+Kate: What is Molokai?
+Value: $1000
+Number: 11
+GROOMING AIDS | In 1911 Northam Warren founded this brand, which produced the first cuticle cream | Cutex
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+ABBREV. | In genetics: DNA | deoxyribonucleic acid
+right: Bob
+Wrong: 
+Value: $1000
+Number: 8
+Scores at the first commercial break (after clue 15)
+Bob: $4,200
+Kate: $200
+Damon: $0
+Scores at the end of the Jeopardy! Round:
+Bob: $5,400
+Kate: $800
+Damon: $1,000
+Second Jeopardy! Round: CHEMISTRY, MAKING WAVES, THE ____ ZONE, HE'S A JAMAICAN, MON, DREAD, "LOCK"s
+CHEMISTRY | Of the 3 main states of matter, the one covered by Dalton's Law of Partial Pressure | gas
+right: Bob
+Wrong: 
+Value: $400
+Number: 3
+MAKING WAVES | (<http://www.j-archive.com/media/2005-05-26_DJ_26.wmv> Sarah of the Clue Crew reports from atop a surfboard on an artificial wave machine.)  Also a 1963 hit by The Surfaris, this is one surfing move <http://www.j-archive.com/media/2005-05-26_DJ_26.jpg> I can easily <http://www.j-archive.com/media/2005-05-26_DJ_26a.jpg> do myself | a wipeout
+right: Damon
+Wrong: 
+Value: $400
+Number: 26
+THE ____ ZONE | Once it was a quiet place, but now the eye can hardly follow the dancing, shuffling & spiking the ball in... | the end zone
+right: Kate
+Wrong: 
+Value: $400
+Number: 5
+HE'S A JAMAICAN, MON | In the 1960s he formed the vocal trio The Wailers with Peter Tosh & Bunny Livingston | Bob Marley
+right: Kate
+Wrong: 
+Value: $400
+Number: 1
+DREAD | A 1711 poem warned, "Fools rush in where angels" do this | fear to tread
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+"LOCK"s | In the same direction as the properly rotating hands of a timepiece | clockwise
+right: Bob
+Wrong: 
+Value: $400
+Number: 13
+CHEMISTRY | This 4-letter word is the electrostatic attaction between atoms, James | a bond
+right: Damon
+Wrong: 
+Value: $800
+Number: 4
+MAKING WAVES | Air Cav Lt. Col. Kilgore says that "Charlie don't surf" in this 1979 film | Apocalypse Now
+right: Bob
+Wrong: 
+Value: $800
+Number: 27
+THE ____ ZONE | Mr. Jones left Detroit at 9:00.  One hour later he landed in Chicago--where the clock still said 9:00.  He had entered... | the Central time zone
+right: Damon
+Wrong: 
+Value: $800
+Number: 6
+HE'S A JAMAICAN, MON | Edward Seaga, Michael Manley & P.J. Patterson have all held this highest Jamaican political post | Prime Minister
+right: Bob
+Wrong: 
+Value: $800
+Number: 22
+DREAD | "It is better to be feared than loved", opined this Italian political thinker in the 16th century | Machiavelli
+right: Bob
+Wrong: 
+Damon: Who is de Medici?
+Value: $800
+Number: 18
+"LOCK"s | The naval isolation of a port to prevent the exit & entrance of traffic | a blockade
+right: Bob
+Wrong: 
+Value: $800
+Number: 14
+CHEMISTRY | The configuration of these in an atom is usually given for the ground state, not the excited state | electrons
+right: Bob
+Wrong: 
+Value: $1200
+Number: 10
+MAKING WAVES | (<http://www.j-archive.com/media/2005-05-26_DJ_28.wmv> Sarah of the Clue Crew reports from atop a surfboard on an artificial wave machine.)  The name of this sport combines snowboarding with something you just learn to go <http://www.j-archive.com/media/2005-05-26_DJ_28.jpg> with | flowboarding
+right: 
+Wrong: Triple Stumper
+Kate: What is wakeboarding?
+Damon: What is the flow?
+Value: $1200
+Number: 28
+THE ____ ZONE | Peace & harmony reign in a land without ICBMs; perhaps someday, like New Zealand & Berkeley, the world will be a... | nuclear free zone
+right: Bob
+Wrong: 
+Value: $1200
+Number: 7
+HE'S A JAMAICAN, MON | In 1991 Jamaican pianist Monty Alexander helped her create "Unforgettable", a tribute to her father | Natalie Cole
+right: Kate
+Wrong: 
+Value: $1200
+Number: 23
+DREAD | Don't be afraid, it's only this, the larger of Mars' 2 moons | Phobos
+right: Bob
+Wrong: 
+Value: $1200
+Number: 19
+"LOCK"s | The state of being married | wedlock
+right: Bob
+Wrong: 
+Value: $1200
+Number: 15
+CHEMISTRY | Iron, cobalt & this silver-white next metal up on the periodic table share similar chemical properties | nickel
+right: Damon
+Wrong: 
+Value: $1600
+Number: 9
+MAKING WAVES | Ol' Moondoggie knows this 5-letter term for the cord that attaches the board to a surfer via a Velcro strap | a leash
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+THE ____ ZONE | A ship adrift in a passage between the Caribbean & the Pacific, in an area abolished 25 years ago.  Where else but... | the canal zone
+right: Bob
+Wrong: 
+Value: $1600
+Number: 11
+HE'S A JAMAICAN, MON | Alfred Valentine is a famous Jamaican bowler in this sport, taking over 100 wickets in 36 matches | cricket
+right: Bob
+Wrong: 
+Value: $1600
+Number: 24
+DREAD | According to Psalm 111, "The fear of " this "is the beginning of wisdom" | the Lord (God accepted)
+right: Damon
+Wrong: 
+Value: $1600
+Number: 20
+"LOCK"s | Obsolete firearm type in which a piece of quartz ignites the gunpowder | a flintlock
+right: Bob
+Wrong: 
+Value: DD: $4,000
+Number: 16
+CHEMISTRY | Number of hydrogen atoms it takes to equal the weight of one carbon atom | 12
+right: Bob
+Wrong: 
+Value: $2000
+Number: 8
+MAKING WAVES | When you're inside a wave's hollow but still riding, you're said to be in this "colorful" waiting area | the green room
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+THE ____ ZONE | Neutral yet tense, heavily mined despite its name.  When you're in neither the north or south, brace yourself for... | the demilitarized zone
+right: Damon
+Wrong: 
+Value: $2000
+Number: 12
+HE'S A JAMAICAN, MON | From a 300-year-old recipe Jamaican scientist Dr. Kenneth Evans helped bring this coffee liqueur to market | Tia Maria
+right: 
+Wrong: Triple Stumper
+Kate: What is Kahlúa?
+Value: $2000
+Number: 25
+DREAD | A deep philosophical & existential dread, it's the German word for "fear" | Angst
+right: Damon
+Wrong: 
+Value: DD: $4,600
+Number: 21
+"LOCK"s | Socrates' last beverage | hemlock
+right: Bob
+Wrong: 
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Bob: $25,800
+Kate: -$400
+Damon: $10,800
+
+Final Jeopardy! Round
+MYTHOLOGICAL WORDS | Its name is from the Greek for "to bind", which in turn may come from the Egyptian shesep-ankh, "living image" | the sphinx
+right: 
+Wrong: 
+Damon: What are Bians
+Bob: What is Sepulchre?
+Wagers: 
+Damon: $10,200
+Bob: $4,199
+Final scores:
+Bob: $21,601 (2-day champion: $47,602)
+Kate: -$400 (3rd place: $1,000)
+Damon: $600 (2nd place: $2,000)
+
+Coryat scores
+Bob: $23,400 (29 R(including 1 DD),1 W)
+Kate: -$400 (9 R,4 W)
+Damon: $9,200 (10 R(including 1 DD),3 W(including 1 DD))

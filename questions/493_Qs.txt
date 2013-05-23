@@ -1,0 +1,340 @@
+1276 - Monday, March 5, 1990
+Comments: Elaine Zollner game 2.
+Contestants:
+Gunther Freehill: an information officer originally from Melvin, Illinois
+Keith Pickering: a programmer and analyst from Watertown, Minnesota
+Elaine Zollner: a physician from Los Angeles, California (whose 1-day cash winnings total $9,000)
+First Jeopardy! Round: WORLD GEOGRAPHY, WOMEN'S FASHION, STARTS WITH "B", CELEBRITY RELATIVES, SPORTS TRIVIA, SAY CHEESE
+WORLD GEOGRAPHY | It's the lowest, flattest & smallest continent | Australia
+right: Keith
+Wrong: 
+Value: $100
+Number: 7
+WOMEN'S FASHION | This part of Princess Diana's wedding ensemble was 25 feet long | Train
+right: Elaine
+Wrong: 
+Value: $100
+Number: 1
+STARTS WITH "B" | A little mistake, or Yogi Bear's little buddy | Boo Boo
+right: Keith
+Wrong: 
+Value: $100
+Number: 6
+CELEBRITY RELATIVES | "Tucker" marked the 1st time this father & son had worked together since "Sea Hunt" in the '60s | Lloyd & Jeff Bridges
+right: Elaine
+Wrong: 
+Value: $100
+Number: 17
+SPORTS TRIVIA | In case you want to book your flights now, this will be played in Tampa in 1991 & Minneapolis in 1992 | The Super Bowl
+right: Elaine
+Wrong: 
+Value: $100
+Number: 26
+SAY CHEESE | Italian cheesecake is made with this cheese whose name means "recooked" | Ricotta
+right: Gunther
+Wrong: 
+Value: $100
+Number: 16
+WORLD GEOGRAPHY | Abingdon, Windsor, Gravesend & Southend-On-Sea are on this European river | Thames
+right: Elaine
+Wrong: 
+Value: $200
+Number: 8
+WOMEN'S FASHION | The "Cuban" style of these shoe features came into style in the early 1900s | Heels
+right: Elaine
+Wrong: 
+Value: $200
+Number: 2
+STARTS WITH "B" | An insect who hangs out in your four-poster, or what a private eye might slip under your mattress | Bedbug
+right: Elaine
+Wrong: 
+Value: $200
+Number: 9
+CELEBRITY RELATIVES | These brothers both became TV stars:  one ran Dodge City & the other led the Impossible Missions Force | James Arness & Peter Graves
+right: Elaine
+Wrong: 
+Value: $200
+Number: 21
+SPORTS TRIVIA | In 1989 Emerson Fittipaldi knocked Al Unser Jr. out of this race on lap 199 & won | The Indianapolis 500
+right: Elaine
+Wrong: 
+Value: $200
+Number: 27
+SAY CHEESE | The 2 cheeses coated with red wax named for towns, one in North Holland province, one in South | Edam & Gouda
+right: Elaine
+Wrong: 
+Value: $200
+Number: 18
+WORLD GEOGRAPHY | City that stands on the ruins of Tenochtitlan, the capital of the Aztec people | Mexico City
+right: Keith
+Wrong: 
+Value: $300
+Number: 13
+WOMEN'S FASHION | The patches European women wore on their faces in the 1600s were usually this color | Black
+right: Elaine
+Wrong: 
+Value: $300
+Number: 3
+STARTS WITH "B" | A Russian grandmother, or her kerchief | Babushka
+right: Elaine
+Wrong: 
+Value: $300
+Number: 10
+CELEBRITY RELATIVES | David Canary, who's seen on "All My Children", claims to be a descendant of this famous frontierswoman | Calamity Jane (Martha Jane Canary)
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+SPORTS TRIVIA | The French Open tennis tournament is played on courts of this color clay | Red
+right: Elaine
+Wrong: 
+Value: $300
+Number: 28
+SAY CHEESE | This cheese that has an orange rind originated in Alsace & is named for a city there | Muenster
+right: Gunther
+Wrong: 
+Value: $300
+Number: 19
+WORLD GEOGRAPHY | The highest airport in the world is Lhasa Airport in this country | TIbet
+right: Elaine
+Wrong: 
+Value: $400
+Number: 14
+WOMEN'S FASHION | Popular in the 18th century, Watteau gowns were inspired by Jean Antoine Watteau, who was one of these | Painter
+right: Elaine
+Wrong: 
+Value: $400
+Number: 4
+STARTS WITH "B" | This oily dressing makes your hair glossy, but it sounds like it makes you smart | Brilliantine
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+CELEBRITY RELATIVES | His uncle Francis Coppola directed him when he played the man to whom "Peggy Sue Got Married" | Nicolas Cage
+right: Elaine
+Wrong: 
+Value: $400
+Number: 24
+SPORTS TRIVIA | The Orangemen of Syracuse were NCAA champs in '88 & '89 in this Native American sport | Lacrosse
+right: Elaine
+Wrong: 
+Value: $400
+Number: 29
+SAY CHEESE | This name refers to natural cheddar made in the U.S. & is often confused with processed cheese | American cheese
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 20
+WORLD GEOGRAPHY | The hot water heating of this northern European capital is drawn directly from underground springs | Reykjavik, Iceland
+right: Keith
+Wrong: 
+Value: $500
+Number: 15
+WOMEN'S FASHION | This turn-of-the-century "girl" wore a shortwaist dress with puffed sleeves & a Pompadour hairdo | Gibson Girl
+right: Elaine
+Wrong: 
+Value: DD: $600
+Number: 5
+STARTS WITH "B" | 2-word French term for a small bundle of herbs, often tied together & used for flavoring | Bouquet Garni
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 12
+CELEBRITY RELATIVES | Pam Dawber's famous father-in-law | Tom Harmon
+right: Elaine
+Wrong: 
+Value: $500
+Number: 25
+SPORTS TRIVIA | In 1989 this Canadian team won its 1st Stanley Cup | Calgary Flames
+right: Keith
+Wrong: 
+Value: $500
+Number: 30
+SAY CHEESE | According to legend, it was created when a shepherd left a piece of cheese in a cave for several weeks | Roquefort
+right: Elaine
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Elaine: $2,700
+Keith: $900
+Gunther: $0
+Scores at the end of the Jeopardy! Round:
+Elaine: $5,600
+Keith: $1,400
+Gunther: -$300
+Second Jeopardy! Round: EXPLORERS, THE HUMAN BODY, AMERICAN LITERATURE, COMPOSERS, THE PLANETS, ANTIQUES
+EXPLORERS | Born Giovanni Caboto, this Venetian did his exploring in the service of England | John Cabot
+right: Elaine
+Wrong: 
+Value: $200
+Number: 16
+THE HUMAN BODY | When this organ churns & makes perisstaltic waves, some people say it's "growling" | Stomach
+right: Gunther
+Wrong: 
+Value: $200
+Number: 2
+AMERICAN LITERATURE | This clergyman who wrote "The Short History of New-England" in 1694 was the son of Increase Mather | Cotton Mather
+right: Elaine
+Wrong: 
+Value: $200
+Number: 1
+COMPOSERS | His sister Fanny Mendelssohn wrote some of the songs attributed to him | Felix Mendelssohn
+right: Gunther
+Wrong: 
+Value: $200
+Number: 10
+THE PLANETS | As viewed from Earth, it's the brightest planet in the nighttime sky | Venus
+right: Keith
+Wrong: 
+Value: $200
+Number: 12
+ANTIQUES | Used as early as the 15th century, apostle spoons usually came in sets of this number | 12 or 13 (if they included the Christ figure)
+right: Elaine
+Wrong: 
+Value: $200
+Number: 24
+EXPLORERS | N.Y. observes a holiday honoring the 1524 discovery of N.Y. Harbor by this Italian navigator | Giovanni Verrazano
+right: Gunther
+Wrong: 
+Value: $400
+Number: 20
+THE HUMAN BODY | The oval window is a membrane forming one of the boundaries between the middle & the inner parts of this | Ear
+right: Gunther
+Wrong: 
+Value: $400
+Number: 4
+AMERICAN LITERATURE | He wrote "Cadillac Jack" & "Lonesome Dove" after "Terms of Endearment" | Larry McMurtry
+right: Elaine
+Wrong: 
+Value: $400
+Number: 3
+COMPOSERS | Of the 3 Bs, the 2 who died in Vienna | Beethoven & Brahms
+right: Keith
+Wrong: 
+Value: $400
+Number: 11
+THE PLANETS | In August 1989 it became the last planet encountered by Voyager 2 | Neptune
+right: Keith
+Wrong: 
+Value: $400
+Number: 13
+ANTIQUES | Fireplace tool that consists of matching shaped boards, a metal nozzle & flexible leather sides | Bellows
+right: Gunther
+Wrong: 
+Value: $400
+Number: 27
+EXPLORERS | Ponce de Leon was looking for it when he discovered Florida; some are still looking for it today | Fountain of Youth
+right: Elaine
+Wrong: 
+Value: $600
+Number: 22
+THE HUMAN BODY | They're also known as your zygomatic bones, & high ones are considered especially attractive | Cheekbones
+right: Elaine
+Wrong: 
+Value: $600
+Number: 6
+AMERICAN LITERATURE | He lived for several weeks among the cannibalistic Typee before he wrote the book of the same name | Herman Melville
+right: Elaine
+Wrong: 
+Value: $600
+Number: 5
+COMPOSERS | It was rumored that he committed suicide over the failure of his last symphony, the "Pathetique" | Pyotr Ilyich Tchaikovsky ("6th Symphony")
+right: 
+Wrong: 
+Value: DD: $1,200
+Number: 18
+THE PLANETS | The 4 largest moons of this planet are called Galilean satellites after Galileo, who saw them in 1610 | Jupiter
+right: Keith
+Wrong: 
+Value: $600
+Number: 14
+ANTIQUES | A method of joining 2 pieces of wood at right angles named for its resemblance to a bird's tail | Dovetail
+right: Gunther
+Wrong: 
+Value: $600
+Number: 28
+EXPLORERS | His 1497-98 voyage to India opened the 1st all-water trade route between Europe & Asia | Vasco da Gama
+right: Gunther
+Wrong: 
+Value: $800
+Number: 23
+THE HUMAN BODY | It's the tube that connects your nose & mouth with your larynx & esophagus | Pharynx
+right: Elaine
+Wrong: 
+Value: $800
+Number: 7
+AMERICAN LITERATURE | Jack Kerouac's 1957 novel about the adventures of Dean Moriarty & friends as they travel the U.S. | "On The Road"
+right: Gunther
+Wrong: 
+Value: $800
+Number: 9
+COMPOSERS | G. Strepponi sang in "Nabucco", the opera that made this composer famous, & later married him | Giuseppe Verdi
+right: Gunther
+Wrong: 
+Value: $800
+Number: 19
+THE PLANETS | In 1971 Mariner 9 discovered a volcano on this planet rising 15 1/2 miles above the surface | Mars
+right: Gunther
+Wrong: 
+Value: $800
+Number: 15
+ANTIQUES | French for "Chinese Ornament", it refers to willow pattern china & some Chippendale furniture | Chinoisserie
+right: Elaine
+Wrong: 
+Value: $800
+Number: 29
+EXPLORERS | Tho he didn't find the Northwest Passage, this Frenchman established France's claim to Canada | Jacques Cartier
+right: Keith
+Wrong: 
+Value: $1000
+Number: 25
+THE HUMAN BODY | The ovaries are part of both the reproductive system & this system which produces hormones | Endocrine System
+right: Elaine
+Wrong: 
+Value: $1000
+Number: 8
+AMERICAN LITERATURE | It was called "A Poem  Of Walt Whitman, An American" before it was called this | "Song of Myself"
+right: Gunther
+Wrong: 
+Value: $1000
+Number: 17
+COMPOSERS | Mussorgsky once lived with this "Scheherazade" composer who re-edited "Boris Godunov" after his death | Nikolai Rimsky-Korsakov
+right: Gunther
+Wrong: 
+Value: $1000
+Number: 21
+THE PLANETS | This remote planet orbits the sun at a 98 degree axis, almost lying on its side | Uranus
+right: Keith
+Wrong: 
+Value: $1000
+Number: 26
+ANTIQUES | (VIDEO DAILY DOUBLE): The kind of clock shown here, invented c. 1800 & named for the musical instrument it resembles: | Banjo Clock
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Elaine: $8,600
+Keith: $4,200
+Gunther: $5,300
+
+Final Jeopardy! Round
+SHAKESPEAREAN TITLE CHARACTERS | He is introduced as "The triple pillar of the world transformed into a strumpet's fool" | Marc Antony
+right: Elaine
+Wrong: 
+Keith: Who is (marked out Julius Caesar) Marc?
+Gunther: Who is Othello?
+Wagers: 
+Keith: $4,200
+Gunther: $3,500
+Elaine: $2,001
+Final scores:
+Elaine: $10,601 (2-day champion: $19,601)
+Keith: $0 (3rd place: Orefors Intermezzo Stemware)
+Gunther: $1,800 (2nd place: Trip to Miami & Caribbean Cruise)
+
+Coryat scores
+Elaine: $9,500 (29 R(including 1 DD),3 W(including 1 DD))
+Keith: $4,200 (11 R,2 W)
+Gunther: $6,500 (14 R,5 W(including 1 DD))

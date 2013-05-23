@@ -1,0 +1,289 @@
+2807 - Tuesday, November 12, 1996
+Comments: 1996 Celebrity <i>Jeopardy!</i> game 2.
+Contestants:
+Sandra Bernhard: a comedienne from Los Angeles
+Isaac Mizrahi: a fashion designer from New York City
+Melissa Gilbert: an actress from the movie Harvest of Lies
+First Jeopardy! Round: SCIENCE CLASS, MOVIE COSTUMES, EVILDOERS, FAMILIAR PHRASES, FIRST LADIES, HODGEPODGE
+MOVIE COSTUMES | He got all dolled up in Chanel & Dior in "To Wong Foo...", a far cry from his "Dirty Dancing" duds | Patrick Swayze
+right: Isaac
+Wrong: 
+Value: $100
+Number: 1
+EVILDOERS | When the eastern Roman Empire refused to pay his tribute demands, this Hun attacked | Attila
+right: Sandra
+Wrong: 
+Value: $100
+Number: 12
+FAMILIAR PHRASES | When a situation goes from bad to worse, it's the time "push comes to" this | shove
+right: Isaac
+Wrong: 
+Value: $100
+Number: 8
+FIRST LADIES | She was 26 when she joined the faculty of the University of Arkansas School of Law in 1974 | Hillary Clinton
+right: Melissa
+Wrong: 
+Value: $100
+Number: 4
+HODGEPODGE | In 1996 the Winchell's chain began selling a cologne that smells like these breakfast goodies | doughnuts
+right: Melissa
+Wrong: 
+Value: $100
+Number: 20
+MOVIE COSTUMES | She slunk across a piano in a slinky red dress in "The Fabulous Baker Boys" | Michelle Pfeiffer
+right: Melissa
+Wrong: 
+Value: $200
+Number: 2
+EVILDOERS | Gessler was the despotic governor of Uri, a Swiss canton, until this archer bested him | William Tell
+right: 
+Wrong: Triple Stumper
+Melissa: Who was Robin Hood?
+Value: $200
+Number: 13
+FAMILIAR PHRASES | Go over something with a fine tooth comb & you'll "leave no stone" this way | unturned
+right: Isaac
+Wrong: 
+Value: $200
+Number: 9
+FIRST LADIES | This first lady born in 1768 was a real "cupcake" who liked to wear turbans & low-cut dresses | Dolley Madison
+right: Melissa
+Wrong: 
+Value: $200
+Number: 7
+HODGEPODGE | This early type of Ford was nicknamed the "Tin Lizzie" | Model T
+right: Sandra
+Wrong: 
+Value: $200
+Number: 21
+MOVIE COSTUMES | She wore dozens of trendy costumes in "Clueless" but says she looks goofy offscreen -- as if! | Alicia Silverstone
+right: Sandra
+Wrong: 
+Isaac: Who is Alicia Silverstein?
+Value: $300
+Number: 3
+EVILDOERS | In July 1881 Pat Garrett caught up with this young outlaw in Fort Sumner, New Mexico | Billy the Kid
+right: Sandra
+Wrong: 
+Value: $300
+Number: 17
+FAMILIAR PHRASES | Something on good authority is "straight from" this neigh sayer | the horse's mouth
+right: Isaac
+Wrong: 
+Value: $300
+Number: 10
+FIRST LADIES | "The World Almanac of First Ladies" says this "Silver Fox" loves mystery novels & tacos | Barbara Bush
+right: Isaac
+Wrong: 
+Value: $300
+Number: 14
+MOVIE COSTUMES | Theodor Pistek won a Costume Design Oscar for this Tom Hulce film; Mozart was so well-dressed | Amadeus
+right: Isaac
+Wrong: 
+Value: $400
+Number: 5
+EVILDOERS | This "Mad Monk" convinced Alexandra of Russia he had mystical powers | Rasputin
+right: Sandra
+Wrong: 
+Value: $400
+Number: 18
+FAMILIAR PHRASES | Number of the attempt that's "the charm" | the third
+right: Sandra
+Wrong: 
+Value: $400
+Number: 11
+FIRST LADIES | Her sister Lee was maid of honor at her 1953 wedding in Newport, Rhode Island | Jacqueline Bouvier Kennedy
+right: Sandra
+Wrong: 
+Value: $400
+Number: 16
+MOVIE COSTUMES | Theadora Van Runkle designed the gun moll getups Faye Dunaway wore in this 1967 film | Bonnie and Clyde
+right: Isaac
+Wrong: 
+Value: $500
+Number: 6
+EVILDOERS | Mary Mallon was immune to this disease that she carried & spread from 1904 to 1915 | typhoid
+right: Melissa
+Wrong: 
+Value: $500
+Number: 19
+FAMILIAR PHRASES | The origin of this phrase is unknown, since chickens don't seem to get angry in the rain | mad as a wet hen
+right: Isaac
+Wrong: 
+Value: $500
+Number: 15
+FIRST LADIES | She did some modeling at Bullock's Wilshire in the 1930s while she was a student at USC | Pat Nixon
+right: 
+Wrong: 
+Sandra: Who was Mamie Eisenhower?
+Value: DD: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Melissa: $500
+Isaac: $1,300
+Sandra: $700
+Scores at the end of the Jeopardy! Round:
+Melissa: $900
+Isaac: $2,100
+Sandra: $1,600
+Second Jeopardy! Round: "DOUBLE" JEOPARDY, 18th CENTURY LITERATURE, TRAVEL U.S.A., ART, INTERNATIONAL CUISINE, SINGERS
+"DOUBLE" JEOPARDY | In 1914 Wrigley introduced this new chewing gum packaged in a green wrapper | Doublemint
+right: Isaac
+Wrong: 
+Sandra: What is Wrigley's Spearmint?
+Value: $200
+Number: 9
+18th CENTURY LITERATURE | Beaumarchais' plays included "The Barber of Seville" & "The Marriage of" this man | Figaro
+right: Isaac
+Wrong: 
+Value: $200
+Number: 23
+TRAVEL U.S.A. | Sea World & the zoo are two highlights of this California city | San Diego
+right: Sandra
+Wrong: 
+Value: $200
+Number: 7
+ART | His first important painting was of his niece, but his most famous is his 1871 portrait of his mother | James M. Whistler
+right: Melissa
+Wrong: 
+Value: $200
+Number: 2
+INTERNATIONAL CUISINE | This Russian beet soup can be spelled with or without a T at the end | borsch/borscht
+right: Sandra
+Wrong: 
+Value: $200
+Number: 14
+SINGERS | "Chaos and Disorder" is a 1996 album by The Artist Formerly Known as this | Prince
+right: Isaac
+Wrong: 
+Value: $200
+Number: 1
+"DOUBLE" JEOPARDY | In golf it's a score of 2 strokes over par on a hole | double bogey
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+18th CENTURY LITERATURE | In 1713 Anne Finch, Lady Winchilsea, wrote a poem to this bird, 106 years before John Keats' ode | nightingale
+right: Isaac
+Wrong: 
+Value: $400
+Number: 24
+TRAVEL U.S.A. | In St. Louis you can tour the headquarters of this Budweiser brewer | Anheuser-Busch
+right: Melissa
+Wrong: 
+Value: $400
+Number: 8
+ART | This "Mona Lisa" artist is noted for the sfumato, or smoky, quality of his paintings | Leonardo da Vinci
+right: Isaac
+Wrong: 
+Value: $400
+Number: 10
+INTERNATIONAL CUISINE | The name of this pasta popular with clam sauce is Italian for "little tongues" | linguine
+right: Isaac
+Wrong: 
+Sandra: What is...[time]?
+Value: $400
+Number: 15
+SINGERS | In late 1967 this group opened the Apple Clothes Boutique in London; it closed about 7 months later | the Beatles
+right: Sandra
+Wrong: 
+Value: $400
+Number: 3
+"DOUBLE" JEOPARDY | This clause in an insurance policy provides for the payment of twice the face value in the event of accidental death | double indemnity
+right: Melissa
+Wrong: 
+Value: $600
+Number: 20
+18th CENTURY LITERATURE | "It's Not Unusual" to just "Help Yourself" to this 1749 Henry Fielding classic | "Tom Jones"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 25
+ART | He slashed his ear before Christmas in 1888 & painted a "Self-Portrait with Bandaged Ear" soon after | Vincent Van Gogh
+right: Isaac
+Wrong: 
+Value: $600
+Number: 11
+INTERNATIONAL CUISINE | A fish called rascasse is essential to this celebrated seafood stew from Provence | bouillabaisse
+right: Isaac
+Wrong: 
+Value: DD: $1,000
+Number: 16
+SINGERS | This singer-songwriter won a 1988 Oscar for the song heard here | Carly Simon
+right: Sandra
+Wrong: 
+Value: DD: $250
+Number: 4
+"DOUBLE" JEOPARDY | An oboe is an example of this type of wind instrument | double reed
+right: Isaac
+Wrong: 
+Value: $800
+Number: 21
+18th CENTURY LITERATURE | 1720's "The Adventures of Captain Singleton" was his next novel after "Robinson Crusoe" | Daniel Defoe
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+ART | Appropriately, this grandmother of American folk art painted "Over the River to Grandma's House" | Grandma Moses
+right: Isaac
+Wrong: 
+Value: $800
+Number: 12
+INTERNATIONAL CUISINE | This Spanish dish literally means "rice with chicken" | arroz con pollo
+right: Isaac
+Wrong: 
+Value: $800
+Number: 17
+SINGERS | This folk artist wrote "Lay Lady Lay" for his wife Sarah Lowndes | Bob Dylan
+right: Sandra
+Wrong: 
+Value: $800
+Number: 5
+"DOUBLE" JEOPARDY | It's the spiral arrangement of the 2 complementary strands of DNA | double helix
+right: Isaac
+Wrong: 
+Value: $1000
+Number: 22
+18th CENTURY LITERATURE | He'd only been in America for 2 years when he published his "Common Sense" pamphlet in 1776 | Thomas Paine
+right: 
+Wrong: Triple Stumper
+Isaac: No...who is Adams?
+Value: $1000
+Number: 27
+ART | This Englishman painted a "Girl with Pigs" as well as "The Blue Boy" | Thomas Gainsborough
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+INTERNATIONAL CUISINE | A popular Thai dish, it's meat or chicken on a skewer served with a spicy peanut sauce | satay
+right: Isaac
+Wrong: 
+Value: $1000
+Number: 18
+SINGERS | This group's 1977 hit "Hotel California" spent 15 weeks in the Top 40, the longest of their singles | the Eagles
+right: Sandra
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Melissa: $2,100
+Isaac: $8,900
+Sandra: $3,850
+
+Final Jeopardy! Round
+AMERICAN HISTORY | Lincoln said it was "the central act of my administration & the greatest event of the 19th century" | the Emancipation Proclamation
+right: Melissa | Sandra | Isaac
+Wrong: 
+Wagers: 
+Melissa: $2,100
+Sandra: $2,500
+Isaac: $2,000
+Final scores:
+Melissa: $4,200 (3rd place: $10,000 to the March of Dimes)
+Isaac: $10,900 (Winner: $10,900 to the Pediatric AIDS Foundation)
+Sandra: $6,350 (2nd place: $10,000 to Haven House and Vista del Mar)
+
+Coryat scores
+Melissa: $2,100 (8 R,1 W)
+Isaac: $8,500 (21 R(including 1 DD),2 W)
+Sandra: $4,700 (13 R(including 1 DD),3 W(including 1 DD))

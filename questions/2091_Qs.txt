@@ -1,0 +1,345 @@
+3638 - Wednesday, May 31, 2000
+Contestants:
+Kate Walton: a stay-at-home mom from Henniker, New Hampshire
+Jamie Meyers: a systems administrator from Toledo, Ohio
+Joseph Crippen: a Lutheran pastor from Northfield, Minnesota (whose 1-day cash winnings total $19,601)
+First Jeopardy! Round: PROTOZOA, AKA, FROM PAGE TO SCREEN, FUN WITH ZIP CODES, CALORIE COUNTING, IN OTHER WORDS...
+PROTOZOA | The ciliata are considered the most highly evolved organisms consisting of just 1 of these | Cells
+right: Joseph
+Wrong: 
+Value: $100
+Number: 26
+AKA | He was born Cassius Marcellus Clay, Jr. | Muhammad Ali
+right: Kate
+Wrong: 
+Value: $100
+Number: 11
+FROM PAGE TO SCREEN | This novel about a mouse-like boy became a 1999 movie | "Stuart Little"
+right: Joseph
+Wrong: 
+Value: $100
+Number: 8
+FUN WITH ZIP CODES | This California city also includes 90211 & 90212 | Beverly Hills
+right: Jamie
+Wrong: 
+Value: $100
+Number: 7
+CALORIE COUNTING | The "sweet" type of this has about 120 calories per 4 baked ounces, no more than the regular type | Potato
+right: Joseph
+Wrong: 
+Value: $100
+Number: 3
+IN OTHER WORDS... | Release kitty from confinement in a sack | Let the cat out of the bag
+right: Jamie
+Wrong: 
+Value: $100
+Number: 1
+PROTOZOA | To draw food in, vorticella create one of these, also called a vortex | Whirlpool
+right: Jamie
+Wrong: 
+Value: $200
+Number: 27
+AKA | This coin is 2 bits | Quarter
+right: Joseph
+Wrong: 
+Value: $200
+Number: 12
+FROM PAGE TO SCREEN | In the 1999 movie version of this Shakespeare play, Rupert Everett & Michelle Pfeiffer are the king & queen of fairies | "A Midsummer Night's Dream"
+right: Jamie
+Wrong: 
+Value: $200
+Number: 10
+FUN WITH ZIP CODES | Zip codes starting with 999 are in this state, in places like Ketchikan & Metlakatla | Alaska
+right: Kate
+Wrong: 
+Value: $200
+Number: 9
+CALORIE COUNTING | This sweet substance has about 145 calories per ounce & each American consumes about 11 pounds of it a year | Chocolate
+right: Jamie
+Wrong: 
+Value: $200
+Number: 22
+IN OTHER WORDS... | Resembling H2O dripping down from one mallard's dorsal region | Like water off a duck's back
+right: Jamie
+Wrong: 
+Value: $200
+Number: 2
+PROTOZOA | This organism seen here always has pseudopods & sometimes an "O" in its name: | Amoeba
+right: Jamie
+Wrong: 
+Value: $300
+Number: 28
+AKA | Bird that's the "bushman's clock" in Australia | Kookaburra
+right: Kate
+Wrong: 
+Value: $300
+Number: 13
+FROM PAGE TO SCREEN | Winston Groom's novel was the basis for this 1994 film about a man with an IQ of 75 | Forrest Gump
+right: Kate
+Wrong: 
+Jamie: What is "Rain Man?"
+Value: $300
+Number: 16
+FUN WITH ZIP CODES | This Virginia suburb where famous dead are remembered has the easily remembered code 22222 | Arlington
+right: Jamie
+Wrong: 
+Value: $300
+Number: 19
+CALORIE COUNTING | If you can afford the calories as well as the price, a tablespoon of this sturgeon product has about 40 | Caviar
+right: Jamie
+Wrong: 
+Value: $300
+Number: 23
+IN OTHER WORDS... | Participating with one cent, participating with 100 p. | In for a penny, in for a pound
+right: Joseph
+Wrong: 
+Value: $300
+Number: 4
+PROTOZOA | Radiolarians have tiny versions of these supporting structures, made of silica rather than bone | Skeletons
+right: Jamie
+Wrong: 
+Value: $400
+Number: 29
+AKA | It's also called catmint | Catnip
+right: Jamie
+Wrong: 
+Value: $400
+Number: 14
+FROM PAGE TO SCREEN | John Irving adapted his own novel into this 1999 film in which orphan Tobey Maguire works in an apple orchard | The Cider House Rules
+right: Kate
+Wrong: 
+Value: DD: $500
+Number: 17
+FUN WITH ZIP CODES | 50010 is found in the heartland, Ames in this state | Iowa
+right: Jamie
+Wrong: 
+Value: $400
+Number: 20
+CALORIE COUNTING | A large one has about 80 calories, so that was 4,000 calories for Cool Hand Luke | Hard-boiled egg
+right: Kate
+Wrong: 
+Value: $400
+Number: 24
+IN OTHER WORDS... | Having sufficient volume to rouse corpses from their slumbers | Loud enough to wake the dead
+right: Jamie
+Wrong: 
+Value: $400
+Number: 5
+PROTOZOA | One nasty flagellate causes African trypanosomiasis, this disease marked by lethargy | Sleeping sickness
+right: Jamie
+Wrong: 
+Value: $500
+Number: 30
+AKA | Also known as Wild Bill, Mr. Hickok's real first name was this, not William | James Butler Hickok
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+FROM PAGE TO SCREEN | David Guterson's book about racism in the Pacific Northwest became this 1999 film that stars a brooding Ethan hawke | Snow Falling on Cedars
+right: Joseph
+Wrong: 
+Value: $500
+Number: 18
+FUN WITH ZIP CODES | In the '90s the Spiegel Catalog warehouse moved to Groveport, Ohio 43125 from this city 60609 | Chicago
+right: Joseph
+Wrong: 
+Value: $500
+Number: 21
+CALORIE COUNTING | This McDonald's item "weighs" in at 430 calories -- with cheese, 530 | Quarter Pounder
+right: Kate
+Wrong: 
+Value: $500
+Number: 25
+IN OTHER WORDS... | Relate stories while not within a learning establishment | Tell tales out of school
+right: Joseph
+Wrong: 
+Value: $500
+Number: 6
+Scores at the first commercial break (after clue 15)
+Joseph: $1,000
+Jamie: $1,000
+Kate: $300
+Scores at the end of the Jeopardy! Round:
+Joseph: $2,300
+Jamie: $3,700
+Kate: $2,300
+Second Jeopardy! Round: 20th CENTURY RUSSIA, GETTING JAZZED, THE FRANZ LIST, STATE FACTS, SUPREME COURT JUSTICES, "PHIL" IN THE ____
+20th CENTURY RUSSIA | President Reagan's alliterative description of the USSR; he softened it at a 1988 summit meaning | "Evil Empire"
+right: Jamie
+Wrong: 
+Value: $200
+Number: 6
+GETTING JAZZED | Introduced in 1948, these items let jazz become more complex by allowing longer performances on a single side | LPs
+right: Kate
+Wrong: 
+Joseph: What are CDs?
+Value: $200
+Number: 11
+THE FRANZ LIST | Before "NYPD Blue", Dennis Franz played detective Sal Benedetto & Lt. Norman Buntz on this cop drama | Hill Street Blues
+right: Jamie
+Wrong: 
+Value: $200
+Number: 21
+STATE FACTS | If this insect were to "fly away home", it might fly to Massachusetts, where it's the state insect | Ladybug
+right: Jamie
+Wrong: 
+Value: $200
+Number: 12
+SUPREME COURT JUSTICES | She's 1 of 2 Clinton appointees | Ruth Bader Ginsburg
+right: Jamie
+Wrong: 
+Value: $200
+Number: 27
+"PHIL" IN THE ____ | "Magandang Gabi" means "Good Evening" in Tagalog, a major language spoken in ____ | The Philippines
+right: Joseph
+Wrong: 
+Value: $200
+Number: 1
+20th CENTURY RUSSIA | Future leader Yuri Andropov was the double-dealing envoy to this country before the 1956 uprising | Hungary
+right: Jamie
+Wrong: 
+Joseph: What is Czechoslovakia?
+Value: $400
+Number: 7
+GETTING JAZZED | Look away, look away, look away, it's a revivalist style of New Orleans jazz | Dixieland
+right: Kate
+Wrong: 
+Value: $400
+Number: 17
+THE FRANZ LIST | Franz Gruber wrote the music & Joseph Mohr the lyrics to this "quiet" Christmas carol | "Silent Night"
+right: Kate
+Wrong: 
+Value: $400
+Number: 22
+STATE FACTS | West Virginia shares this "sweet" state tree with 3 other states, including Vermont | Sugar maple
+right: Jamie
+Wrong: 
+Value: $400
+Number: 13
+SUPREME COURT JUSTICES | This great-grandson of a slave served as an associate justice from 1967 to 1991 | Thurgood Marshall
+right: Joseph
+Wrong: 
+Value: $400
+Number: 28
+"PHIL" IN THE ____ | The person seen here is an avid ____ : (checking stamps) | Philatelist
+right: Jamie
+Wrong: 
+Value: $400
+Number: 2
+20th CENTURY RUSSIA | In 1978 & 1981 Soviet defector Viktor Korchnoi lost championship chess matches to this Russian "K" | Anatoly Karpov
+right: 
+Wrong: Triple Stumper
+Jamie: Who is Kasparov?
+Value: $600
+Number: 8
+GETTING JAZZED | Billy Strayhorn composed classics like "Take The 'A' Train" during his collaboration with this bandleader | Duke Ellington
+right: Jamie
+Wrong: 
+Value: $600
+Number: 18
+THE FRANZ LIST | Max Brod befriended this budding writer while in college in Prague | Franz Kafka
+right: Jamie
+Wrong: 
+Value: $600
+Number: 23
+STATE FACTS | It's the state gem of Arkansas | Diamond
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 14
+SUPREME COURT JUSTICES | Hot dog!  This justice appointed by FDR was born in Vienna | Felix Frankfurter
+right: Jamie
+Wrong: 
+Value: $600
+Number: 26
+"PHIL" IN THE ____ | According to Hamlet, "There are more things in heaven and Earth...than are dreamt of in your ____" | Philosophy
+right: Jamie
+Wrong: 
+Value: $600
+Number: 3
+20th CENTURY RUSSIA | Before Leningrad, St. Petersburg was given this Russian-sounding name at the start of WWI | Petrograd
+right: Jamie
+Wrong: 
+Joseph: What is Stalingrad?
+Value: $800
+Number: 9
+GETTING JAZZED | In 1998 Ellis, patriarch of this jazz family, released his own trio album, "Twelve's It" | Marsalis
+right: Joseph
+Wrong: 
+Value: $800
+Number: 19
+THE FRANZ LIST | In 1925 Prof. Franz Boas sent this author & anthropologist on her first field study in American Samoa | Margaret Mead
+right: Jamie
+Wrong: 
+Value: $800
+Number: 24
+STATE FACTS | It's the "Granite State" | New Hampshire
+right: Jamie
+Wrong: 
+Joseph: What is Vermont?
+Value: $800
+Number: 15
+SUPREME COURT JUSTICES | A famous 1794 treaty resolving disputes between the U.S. & Britain is named for this chief justice who negotiated it | John Jay (Jay Treaty or Treaty of London)
+right: Joseph
+Wrong: 
+Value: DD: $2,500
+Number: 29
+"PHIL" IN THE ____ | By nationality, the guy in the foreground in the Biblical illustration seen here is a ____ : (David and Goliath) | Philistine
+right: Jamie
+Wrong: 
+Value: DD: $2,500
+Number: 4
+20th CENTURY RUSSIA | Stalin suppressed nationalities in Russia, though he came from this region that's now its own country | Georgia
+right: Jamie
+Wrong: 
+Value: $1000
+Number: 10
+GETTING JAZZED | In the '70s Weather Report had "nuclear" results with this style that combined jazz & rock | Fusion
+right: Joseph
+Wrong: 
+Value: $1000
+Number: 20
+THE FRANZ LIST | Franz Schubert wrote over 600 musical pieces known by this German word for songs | Lieder
+right: Joseph
+Wrong: 
+Value: $1000
+Number: 25
+STATE FACTS | Contrary to popular opinion, this yellowish state flower of Nebraska & Kentucky doesn't cause hay fever | Goldenrod
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+SUPREME COURT JUSTICES | Before becoming chief justice in 1864, he'd been Secretary of the Treasury & governor of Ohio | Salmon P. Chase
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+"PHIL" IN THE ____ | Dennis Rodman's father, who reportedly has 27 children, has the first name ____, which means "to womanize" | Philander
+right: Jamie
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Joseph: $6,000
+Jamie: $14,400
+Kate: $3,300
+
+Final Jeopardy! Round
+CLOTHING | Article of clothing named for an old character who dressed in loose trousers in Commedia Dell'arte | Pantaloons (named for Pantalone)
+right: Kate
+Wrong: 
+Joseph: What are bloomers?
+Jamie: What is powler?
+Wagers: 
+Kate: $3,000
+Joseph: $601
+Jamie: $1,600
+Final scores:
+Joseph: $5,399 (3rd place: Vtech Cordless Phones)
+Jamie: $12,800 (New champion: $12,800)
+Kate: $6,300 (2nd place: Trip to Outrigger Hotel, Waikiki Beach, Hawaii)
+
+Coryat scores
+Joseph: $4,300 (14 R(including 1 DD),4 W)
+Jamie: $12,700 (31 R(including 1 DD),2 W)
+Kate: $3,200 (10 R(including 1 DD),0 W)

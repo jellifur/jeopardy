@@ -1,0 +1,347 @@
+4602 - Tuesday, September 14, 2004
+Comments: Ken Jennings game 45.
+Contestants:
+Robert Quinn: a real estate manager and actor from Hoboken, New Jersey
+Kate Duffy: a reporter from Lebanon, New Hampshire
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 44-day cash winnings total $1,477,461)
+First Jeopardy! Round: NEW YORK CITY, SECONDS, OH, FOR PETE'S SAKE!, A PROVERBIAL MESS, OPERA, THE TALES OF HOFFMAN
+NEW YORK CITY | Barbra Streisand & Neil Diamond were contemporaries at Erasmus Hall High in this borough | Brooklyn
+right: Robert
+Wrong: 
+Value: $200
+Number: 16
+SECONDS | Baltic Avenue is the second property after "Go" in this game | Monopoly
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+OH, FOR PETE'S SAKE! | He was the son of Czar Alexis by his second wife Natalya | Peter the Great
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+A PROVERBIAL MESS | Good one deserves another turn | one good turn deserves another
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+OPERA | The title role in "Boris Godunov" is for a singer in this vocal range | bass
+right: Robert
+Wrong: 
+Value: $200
+Number: 11
+THE TALES OF HOFFMAN | In this film Dustin Hoffman's character Raymond Babbitt habitually watches "Jeopardy!" | Rain Man
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+NEW YORK CITY | (<http://www.j-archive.com/media/2004-09-14_J_17.wmv> Sofia of the Clue Crew skates on the ice rink at Rockefeller Center, New York.)  Though there was a depression on, Rockefeller Rink opened on this festive day in 1936 | Christmas Day
+right: Kate
+Wrong: 
+Value: $400
+Number: 17
+SECONDS | It's the second of the Harry Potter books | Harry Potter and the Chamber of Secrets
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+OH, FOR PETE'S SAKE! | This man was the drummer for the Beatles before Ringo joined in 1962 | Pete Best
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+A PROVERBIAL MESS | Boils never watched a pot | a watched pot never boils
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+OPERA | Peter Cornelius' opera "The Barber of Baghdad" was based on a tale in this collection | Arabian Nights
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+THE TALES OF HOFFMAN | Frank Wills, the security guard who discovered the Watergate break-in, played himself in this Hoffman film | All the President's Men
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+NEW YORK CITY | The heart of Little Italy is this street also found in a Dr. Seuss book title | Mulberry Street
+right: 
+Wrong: 
+Kate: Well, I have a tough competitor, so let's bet all of it.
+Value: DD: $1,400
+Number: 18
+SECONDS | On Dec. 12, 1787 this "Keystone State" became the second U.S. state to ratify the Constitution | Pennsylvania
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+OH, FOR PETE'S SAKE! | Gray Davis succeeded him as governor of California | Pete Wilson
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+A PROVERBIAL MESS | Dogs lie sleeping let | let sleeping dogs lie
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+OPERA | In Sir Arthur Sullivan's "Ivanhoe", "Ho, Jolly Jenkin" is an aria for this Friar | Friar Tuck
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+THE TALES OF HOFFMAN | Posters for this 1982 film featured Hoffman in a red sequined dress | Tootsie
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+NEW YORK CITY | In honor of NYC's blaze-battlers, these 4 letters appeared on a lot of caps in 2001 | FDNY
+right: Kate
+Wrong: 
+Ken: What are NYFD?
+Value: $800
+Number: 19
+SECONDS | "No graven images" is number 2 on this ancient list | the Ten Commandments
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+OH, FOR PETE'S SAKE! | In 2000 he won the Wimbledon men's singles, his 13th Grand Slam title | Pete Sampras
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+A PROVERBIAL MESS | Once twice shy bitten | once bitten twice shy
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+OPERA | Wagner didn't want "Parsifal" performed outside of this city that now holds Wagner festivals | Bayreuth
+right: Robert
+Wrong: 
+Value: $800
+Number: 14
+THE TALES OF HOFFMAN | "Everybody's Talkin'" served as the theme to this 1969 film in which Hoffman played street hustler Ratso Rizzo | Midnight Cowboy
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+NEW YORK CITY | This mental hospital is the primary teaching hospital for NYU's medical school | Bellevue
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+SECONDS | It's the second chemical element listed on the periodic table | helium
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+OH, FOR PETE'S SAKE! | Dutch colonial governor of New Amsterdam who bought it from the Indians | Peter Minuit
+right: Kate
+Wrong: 
+Value: $1000
+Number: 5
+A PROVERBIAL MESS | A color different of a horse | a horse of a different color
+right: Kate
+Wrong: 
+Value: $1000
+Number: 30
+OPERA | His "Elecktra" in 1908 may have been electric, but it was his "Salome" 3 years earlier that was scandalous | Richard Strauss
+right: 
+Wrong: Triple Stumper
+Robert: Who was Oscar Wilde?
+Value: $1000
+Number: 15
+THE TALES OF HOFFMAN | In this 1997 film a Washington spin doctor & a Hollywood producer team up to stage a phony war | Wag the Dog
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Ken: $5,000
+Kate: $1,000
+Robert: $0
+Scores at the end of the Jeopardy! Round:
+Ken: $11,200
+Kate: $1,800
+Robert: $200
+Second Jeopardy! Round: 19th CENTURY AMERICA, '80s SONGS, FLOWER POWER, RHYME TIME, CANADIAN PROVINCIAL CAPITALS, LET'S CUT TO THE CHASE
+19th CENTURY AMERICA | Accepting the GOP nomination for U. S. senate in 1858, he said "A house divided against itself cannot stand" | Abraham Lincoln
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+'80s SONGS | This duo dedicated a 1984 to "All the girls who shared my life who are now someone else's wives" | Willie Nelson and Julio Iglesias
+right: Robert
+Wrong: 
+Value: $400
+Number: 14
+FLOWER POWER | By dropping 2 letters in Osiris' name, you get this Greek goddess who shares her name with a flower | Iris
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+RHYME TIME | In "Through the Looking Glass" he tells Alice there's no chance he'd ever fall off his wall | Humpty Dumpty
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+CANADIAN PROVINCIAL CAPITALS | In the mid-1880s, it was the capital of the Crown colony of Vancouver Island | Victoria
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+LET'S CUT TO THE CHASE | Surrealist, Spanish, died in 1989, hello... | (Salvador) Dalí
+right: Robert
+Wrong: 
+Value: $400
+Number: 26
+19th CENTURY AMERICA | Completed in June 1854, the lighthouse on this island in San Francisco Bay was the West Coast's first active one | Alcatraz
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+'80s SONGS | This 1980 No. 1 hit was the theme from the movie "American Gigolo" | "Call Me"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+FLOWER POWER | I can't recall the last time that I saw one of these hyphenated perennials, from the Old French "Ne m'oubliez mie" | forget-me-not
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+RHYME TIME | In "Through the Looking Glass" he tells Alice his horse has anklets to guard against shark bites | the White Knight
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+CANADIAN PROVINCIAL CAPITALS | It's the only provincial capital that lies on the shore of one of the Great Lakes | Toronto
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+LET'S CUT TO THE CHASE | Finnish composer, "Valse triste", died in 1957 | Sibelius
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+19th CENTURY AMERICA | In April 1824 the U.S. & this country agreed to 54 deg. 40 min. N. latitude as the southern limit of its west coast claims | Russia
+right: 
+Wrong: Triple Stumper
+Ken: What is Great Britain?
+Kate: What is France?
+Robert: What is Canada?
+Value: $1200
+Number: 3
+'80s SONGS | The video for this song, Toni Basil's only hit, featured cheerleaders | "Mickey"
+right: Kate
+Wrong: 
+Ken: What is "Hey, [*]"?
+Value: $1200
+Number: 16
+FLOWER POWER | This computing term for a series of peripherals connected to a computer sounds like a school day flower bracelet | daisy chain
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+RHYME TIME | (<http://www.j-archive.com/media/2004-09-14_DJ_13.wmv> Sofia of the Clue Crew wears inappropriate attire that is too revealing.)  Here's some advice--don't wear a St. Patty's Day shirt when working with this | a green screen
+right: Kate
+Wrong: 
+Value: $1200
+Number: 13
+CANADIAN PROVINCIAL CAPITALS | Lying about 175 miles north of Calgary, it's known as the "Gateway to the North" | Edmonton
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+LET'S CUT TO THE CHASE | "Lion of Judah", Ethiopian, died in 1975 | Haile Selassie
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+19th CENTURY AMERICA | This 19th C. glass was named for the Massachusetts village where it was made, not for a club or a dagwood | Sandwich glass
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+'80s SONGS | This Pat Benatar song says, "You come on like a flame, then you turn a cold shoulder" | "Fire And Ice"
+right: 
+Wrong: Triple Stumper
+Kate: What is "Barracuda"?
+Value: $1600
+Number: 17
+FLOWER POWER | This flower that Shakespeare wrote about several times was also the name of a theatre he once worked at | a rose
+right: Ken
+Wrong: 
+Value: DD: $3,400
+Number: 24
+RHYME TIME | Nickname of Irwin Allen, who produced "The Towering Inferno" & "The Poseidon Adventure" | the Master of Disaster
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+CANADIAN PROVINCIAL CAPITALS | This capital's harbor is spanned by the Angus L. MacDonald & A. Murray MacKay suspension bridges | Halifax
+right: Ken
+Wrong: 
+Value: DD: $4,000
+Number: 9
+LET'S CUT TO THE CHASE | 2-time Pulitzer winner, Mississippian, died in 1962 | William Faulkner
+right: Robert
+Wrong: 
+Value: $1600
+Number: 29
+19th CENTURY AMERICA | On July 4, 1828 President John Quincy Adams broke ground for this canal, known as the C&O | the Chesapeake & Ohio Canal
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+'80s SONGS | A Belgian DJ created this studio group that had hits with "Pump Up The Jam" and "Move This" | Technotronic
+right: 
+Wrong: Triple Stumper
+Ken: Oh.  What is C+C Music Factory?
+Value: $2000
+Number: 18
+FLOWER POWER | Type of "wine" mentioned in the title of a 1957 Ray Bradbury novel | dandelion wine
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+RHYME TIME | Ronald Reagan often accused pessimistic critics of peddling this rhyming pair | gloom and doom
+right: Kate
+Wrong: 
+Value: $2000
+Number: 20
+CANADIAN PROVINCIAL CAPITALS | It's the provincial capital closest to Europe | St. John's
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+LET'S CUT TO THE CHASE | Monk, "Ecclesiastical History", born around 673 | the Venerable Bede
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ken: $31,000
+Kate: $3,400
+Robert: $1,400
+
+Final Jeopardy! Round
+ALIASES | Norma McCorvey recently sought a reversal to her landmark 1973 case in which she had this name | (Jane) Roe
+right: Robert | Kate | Ken
+Wrong: 
+Wagers: 
+Robert: $1,399
+Kate: $100
+Ken: $9,000
+Final scores:
+Ken: $40,000 (45-day champion: $1,517,461)
+Kate: $3,500 (2nd place: $2,000)
+Robert: $2,799 (3rd place: $1,000)
+
+Coryat scores
+Ken: $26,800 (39 R(including 2 DDs),4 W)
+Kate: $4,800 (7 R,3 W(including 1 DD))
+Robert: $1,400 (6 R,2 W)

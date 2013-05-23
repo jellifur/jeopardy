@@ -1,0 +1,337 @@
+4451 - Monday, January 5, 2004
+Comments: Tom Walsh game 1.
+Contestants:
+Tom Walsh: a writer from Washington, D.C.
+Naomi Brokaw: a math advisor from Santa Cruz, California
+Joe Wolke: a vice president of IT communications and information from Northbrook, Illinois (whose 1-day cash winnings total $14,800)
+First Jeopardy! Round: COME HERE OFTEN?, CAN I BUY YOU A DRINK?, DO I KNOW YOU FROM SOMEWHERE?, WHAT'S YOUR SINE?, WOULD YOU LIKE TO BE IN THE MOVIES?, ARE YOU GIVING ME A LINE?
+COME HERE OFTEN? | In 1998 it became the seventh continent to get an ESPN feed | Antarctica
+right: Tom
+Wrong: 
+Joe: What is Australia?
+Value: $200
+Number: 17
+CAN I BUY YOU A DRINK? | Ingredient in common to a Tequila Sunrise & a Screwdriver | orange juice
+right: Naomi
+Wrong: 
+Value: $200
+Number: 1
+DO I KNOW YOU FROM SOMEWHERE? | This poet died in Dumfries, Scotland in 1796, just aged 37 | Robert Burns
+right: Joe
+Wrong: 
+Value: $200
+Number: 3
+WHAT'S YOUR SINE? | Trigonometry is from Greek words for this shape & "measure" | triangle
+right: Joe
+Wrong: 
+Value: $200
+Number: 2
+WOULD YOU LIKE TO BE IN THE MOVIES? | First brought to the big screen by D.W. Griffith in 1909, this hugely popular star was once known as "Little Mary" | Mary Pickford
+right: Naomi
+Wrong: 
+Value: $200
+Number: 12
+ARE YOU GIVING ME A LINE? | Running down the coast of California is a big one of these -- the San Andreas | fault line
+right: Joe
+Wrong: 
+Value: $200
+Number: 24
+COME HERE OFTEN? | Cry "Yoo-Hoo!" in Canada's Yoho National Park from a peak in this range | the Rockies
+right: 
+Wrong: Triple Stumper
+Joe: What is the Echo Range?
+Naomi: What are the Cascades?
+Value: $400
+Number: 18
+CAN I BUY YOU A DRINK? | If you don't have one of these small appliances, you can forget about making frozen Daiquiris | blender
+right: Joe
+Wrong: 
+Value: $400
+Number: 4
+DO I KNOW YOU FROM SOMEWHERE? | Also known as Abu Mazen or "Father of Mazen", he became Palestinian prime minister in 2003 but later resigned | Mahmoud Abbas
+right: Tom
+Wrong: 
+Value: $400
+Number: 8
+WHAT'S YOUR SINE? | Using trig with the periodic movements of the sun & moon, the times of high & low these can be determined | tides
+right: Naomi
+Wrong: 
+Value: $400
+Number: 6
+WOULD YOU LIKE TO BE IN THE MOVIES? | Born in South Africa, this female star of "The Italian Job" was discovered in line at a Hollywood bank | Charlize Theron
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 13
+ARE YOU GIVING ME A LINE? | Until the early '70s, this Moscow-Washington link had no speech facilities -- it was a teletype | the Hot Line
+right: Joe
+Wrong: 
+Value: $400
+Number: 27
+COME HERE OFTEN? | For our final fling, let's head off to Loch Sunart in this famous northern region of Scotland | the Highlands
+right: Tom
+Wrong: 
+Value: $600
+Number: 19
+CAN I BUY YOU A DRINK? | 2 oz. of white wine & 6 oz. of this & you've got the standard white wine spritzer | club soda
+right: Naomi
+Wrong: 
+Value: $600
+Number: 5
+DO I KNOW YOU FROM SOMEWHERE? | In 1984, with a thousand bucks & a dream, he founded the computer company named for himself | Michael Dell
+right: Joe
+Wrong: 
+Value: $600
+Number: 9
+WHAT'S YOUR SINE? | Trig comes out of the geometry rules spelled out by this Greek around 300 B.C. | Euclid
+right: Joe
+Wrong: 
+Value: $600
+Number: 7
+WOULD YOU LIKE TO BE IN THE MOVIES? | Sophia Loren was a struggling teenage model when she met this future husband & beauty contest judge | Carlo Ponti
+right: Joe
+Wrong: 
+Value: $600
+Number: 14
+ARE YOU GIVING ME A LINE? | "Scabs" cross them | picket lines
+right: Tom
+Wrong: 
+Value: $600
+Number: 25
+COME HERE OFTEN? | Benbulbin is a peak in this country; you can take a peek at Yeats' grave nearby | Ireland
+right: Tom
+Wrong: 
+Value: $800
+Number: 20
+CAN I BUY YOU A DRINK? | Traditionally, before you dip the rim of your Margarita glass in the salt, rub it with this | lime'lemon juice
+right: Naomi
+Wrong: 
+Value: $800
+Number: 10
+DO I KNOW YOU FROM SOMEWHERE? | Born in France in 1596, he was a law student & soldier before becoming the father of modern philosophy | Rene Descartes
+right: Tom
+Wrong: 
+Value: $800
+Number: 22
+WHAT'S YOUR SINE? | Trig comes into play in figuring out distances between points on one of these math shapes, like the Earth | sphere
+right: Tom
+Wrong: 
+Value: $800
+Number: 29
+WOULD YOU LIKE TO BE IN THE MOVIES? | Jack Nicholson discovered this Arkansas native & 2 years later she won an Oscar for "Melvin and Howard" | Mary Steenburgen
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+ARE YOU GIVING ME A LINE? | It's 60 feet from the head pin on an alley | the foul line (in bowling)
+right: Naomi
+Wrong: 
+Value: $800
+Number: 26
+COME HERE OFTEN? | Hoste is an island in this fiery-sounding archipelago off Chile | Tierra del Fuego
+right: Tom
+Wrong: 
+Value: $1000
+Number: 21
+CAN I BUY YOU A DRINK? | To make this type of Martini, add a splash of olive juice | Dirty Martini
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+DO I KNOW YOU FROM SOMEWHERE? | A socialite whose name is still on magazines, he published Mademoisellle & Glamour starting in the 1930s | Conde Nast
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+WOULD YOU LIKE TO BE IN THE MOVIES? | She was discovered while performing at the 1940 Aquacade in San Francisco | Esther Williams
+right: 
+Wrong: 
+Joe: I know the name...
+Value: DD: $600
+Number: 16
+ARE YOU GIVING ME A LINE? | In 1957 this chain of about 60 radar sites along the 70th Parallel went into operation | Distant Early Warning (DEW) Line
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Joe: $2,000
+Naomi: $2,200
+Tom: $400
+Scores at the end of the Jeopardy! Round:
+Joe: $2,000
+Naomi: $2,600
+Tom: $5,200
+Second Jeopardy! Round: OCEANOGRAPHY, "WILD" ABOUT ENTERTAINMENT, MR. & MYTH, TECH TV, NAVAL BATTLES, FIRST NAME'S THE SAME
+OCEANOGRAPHY | This 6-foot unit is used mainly in terms of marine depth, & gave its name to a "meter" that measures depth | fathom
+right: Joe
+Wrong: 
+Value: $400
+Number: 17
+"WILD" ABOUT ENTERTAINMENT | From 1963 to 1985, this TV show was hosted by Marlin Perkins | Wild Kingdom
+right: Naomi
+Wrong: 
+Value: $400
+Number: 1
+MR. & MYTH | Hephaestus became lame after his mother Hera or his father Zeus, we're not sure which, dropped him off this mountain | Mount Olympus
+right: Naomi
+Wrong: 
+Value: $400
+Number: 15
+TECH TV | One gadget on Tech TV's "Fresh Gear" was the Roomba, a robot version of this cleaning device | vacuum
+right: Tom
+Wrong: 
+Value: $400
+Number: 20
+NAVAL BATTLES | On March 9, 1862 these 2 ironclads fought for 4 hours with neither ship receiving much damage | the Monitor & the Merrimac
+right: Tom
+Wrong: 
+Value: $400
+Number: 11
+FIRST NAME'S THE SAME | Morrison, Cliburn, Heflin | Van
+right: Tom
+Wrong: 
+Value: $400
+Number: 5
+OCEANOGRAPHY | The part of the ocean from about 300 to 3,000' feet down is called the thermocline, since this happens as you go deeper | it gets colder
+right: Tom
+Wrong: 
+Value: $800
+Number: 18
+"WILD" ABOUT ENTERTAINMENT | It's the groovy proto-punk hit from 1966 heard here | "Wild Thing"
+right: Tom
+Wrong: 
+Value: $800
+Number: 2
+MR. & MYTH | When Zeus flooded the world, Deucalion built one of these; hmmmm, that story sounds familiar | an ark
+right: Joe
+Wrong: 
+Value: $800
+Number: 16
+TECH TV | The program shown here is called this Japanese style "Unleashed" | Anime
+right: Naomi
+Wrong: 
+Value: $800
+Number: 21
+NAVAL BATTLES | In this 1805 battle Lord Nelson split Admiral Villeneuve's fleet in half & then proceeded to destroy each half | Trafalgar
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+FIRST NAME'S THE SAME | Costello, Stojko, Grbac | Elvis
+right: Tom
+Wrong: 
+Value: $800
+Number: 7
+OCEANOGRAPHY | For scientists, not surfers, 1978's Seasat satellite used radar to measure the heights of these | waves
+right: Tom
+Wrong: 
+Value: $1200
+Number: 26
+"WILD" ABOUT ENTERTAINMENT | A popular children's book, this Maurice Sendak story was turned into an opera in 1980 | Where the Wild Things Are
+right: Tom
+Wrong: 
+Value: $1200
+Number: 3
+MR. & MYTH | He was called the second-bravest Trojan (Hector was first); Virgil wrote the book on him | Aeneas
+right: Tom
+Wrong: 
+Value: $1200
+Number: 22
+TECH TV | A "Cybercrime" episode showed how students at Washington's Highline High used computers to change these | grades
+right: Joe
+Wrong: 
+Value: $1200
+Number: 25
+NAVAL BATTLES | In a 1588 battle this fleet commanded by Medina Sidonia lost 63 ships due to high winds & the British navy | the Spanish Armada
+right: 
+Wrong: 
+Tom: [no response]
+Value: DD: $2,000
+Number: 13
+FIRST NAME'S THE SAME | Bradley, Epps, Khayyam | Omar
+right: Tom
+Wrong: 
+Value: $1200
+Number: 8
+OCEANOGRAPHY | In 1919 the French tested one of these devices that measure the depth of the ocean (ocean ocean ocean) | SONAR/echosounders
+right: Tom
+Wrong: 
+Value: $1600
+Number: 29
+"WILD" ABOUT ENTERTAINMENT | Clark Gable starred in the 1935 big screen version of this Jack London adventure tale | Call of the Wild
+right: Joe
+Wrong: 
+Value: $1600
+Number: 4
+MR. & MYTH | Iolaos cauterized the places where this hero cut the heads off the Hydra & stopped them from growing back | Hercules
+right: 
+Wrong: 
+Tom: Who is Achilles?
+Value: DD: $1,500
+Number: 23
+TECH TV | It's the workhorse fighter plane profiled here in "Future Fighting Machines" | F-15 (the Eagle)
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 27
+NAVAL BATTLES | The 1st extensively recorded naval battle was in 480 B.C. at Salamis where this Greek city-state beat the Persians | Athens
+right: Naomi
+Wrong: 
+Value: $1600
+Number: 14
+FIRST NAME'S THE SAME | Walker, Bernardi, Johnson | Herschel
+right: 
+Wrong: Triple Stumper
+Tom: What is Jimmy?
+Value: $1600
+Number: 9
+"WILD" ABOUT ENTERTAINMENT | Even though it was in Swedish, Ingmar Bergman was nominated for an Oscar for writing this 1950s film | Wild Strawberries
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+MR. & MYTH | While king of this city, Eteocles was killed by one of the seven against it | Thebes
+right: Tom
+Wrong: 
+Value: $2000
+Number: 24
+TECH TV | In 2003 Tech TV took a "First Look" at the new fee-charging version of this music service | Napster
+right: Tom
+Wrong: 
+Value: $2000
+Number: 28
+NAVAL BATTLES | The U.S. lost the destroyer Hammann & the aircraft carrier Yorktown in this June 1942 battle in the north Pacific | Midway
+right: Joe
+Wrong: 
+Value: $2000
+Number: 19
+FIRST NAME'S THE SAME | Horowitz, Nabokov, Zworykin | Vladimir
+right: Tom
+Wrong: 
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Joe: $8,000
+Naomi: $5,800
+Tom: $16,100
+
+Final Jeopardy! Round
+INVENTIONS | On April 25, 1792 Nicolas-Jacques Pelletier became the first person in history to have a bad encounter with this | the guillotine
+right: Tom
+Wrong: 
+Naomi: What is electricity?
+Joe: What is electricity
+Wagers: 
+Naomi: $5,700
+Joe: $4,000
+Tom: $0
+Final scores:
+Joe: $4,000 (2nd place: $2,000)
+Naomi: $100 (3rd place: $1,000)
+Tom: $16,100 (New champion: $16,100)
+
+Coryat scores
+Joe: $8,600 (13 R,3 W(including 1 DD))
+Naomi: $5,800 (10 R,1 W)
+Tom: $19,600 (22 R,3 W(including 2 DDs))

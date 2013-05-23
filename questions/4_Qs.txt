@@ -1,0 +1,347 @@
+4599 - Thursday, September 9, 2004
+Comments: Ken Jennings game 42.
+Contestants:
+Todd Perkins: a private school administrator from Vacaville, California
+Amy Helmes: a writer originally from Cincinnati, Ohio
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 41-day cash winnings total $1,380,661)
+First Jeopardy! Round: EUROPEAN CAPITALS, PRO FOOTBALL, PLANT THE EVIDENCE, ROYAL HOUSES, THE COIN BOX, "M"-BRACE ME
+EUROPEAN CAPITALS | Among its numerous city squares are Ledise, known for its cafes, & Rembrandt, known for its cabarets | Amsterdam
+right: Todd
+Wrong: 
+Ken: What is Berlin?
+Value: $200
+Number: 1
+PRO FOOTBALL | This city’s Superdome has been just super, hosting 6 Super Bowls, more than any other site | New Orleans
+right: Ken
+Wrong: 
+Value: $200
+Number: 27
+PLANT THE EVIDENCE | This desert plant that looks part cactus, part tree bears the name of the man chosen by Moses to be his successor | a Joshua Tree
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+ROYAL HOUSES | George I’s father was elector of this, hence its turnover into a house name | Hanover
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+THE COIN BOX | You’ll find this 4-word motto on all U.S. coins | In God We Trust
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+"M"-BRACE ME | In a Sondheim musical, it’s how “We Roll Along” | "Merrily"
+right: Amy
+Wrong: 
+Value: $200
+Number: 21
+EUROPEAN CAPITALS | In Russian this Lithuanian capital is called Vilna | Vilnius
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+PRO FOOTBALL | In 1960 Paul Hornung set the NFL season record for scoring with 176 points: he had 15 TFDs, 41 PATs & 15 of these | Field Goals (FGs)
+right: Ken
+Wrong: 
+Value: $400
+Number: 28
+PLANT THE EVIDENCE | The lantana is valued as a plant for its ability to attract hummingbirds and these flutterers | butterflies
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+ROYAL HOUSES | This dynasty’s last 3 monarchs, including Mary I, died childless | Tudor
+right: Todd
+Wrong: 
+Value: $400
+Number: 7
+THE COIN BOX | Sales of the 2000 Leif Ericson millennium coin funded a student exchange between the U.S. & this island country | Iceland
+right: Todd
+Wrong: 
+Amy: What is Greenland?
+Value: $400
+Number: 12
+"M"-BRACE ME | 1 of these equals 39.97 inches | meter
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+EUROPEAN CAPITALS | This city’s best-known thoroughfare is Trakt Krolewski, or Royal Way | Warsaw
+right: Amy
+Wrong: 
+Value: $600
+Number: 3
+PRO FOOTBALL | After 41 seasons in the same city, this NFL team moved to Pontiac, Michigan in 1975 | Detroit Lions
+right: Ken
+Wrong: 
+Value: $600
+Number: 29
+PLANT THE EVIDENCE | A genus of herbs was named for this ex-governor Clinton, not Bill | DeWitt Clinton
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+ROYAL HOUSES | As a member of this house, it sounds like James I could have starred in “Harvey” | Stuart
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+THE COIN BOX | On the back of the euro issued by this country you’ll find a Celtic harp | Ireland
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+"M"-BRACE ME | This place is a tomb: a big one! | mausoleum
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+EUROPEAN CAPITALS | This capital lies on the Attica Plain surrounded by mountains including Parnes & Hymettus | Athens
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+PRO FOOTBALL | Vince Lombardi has the highest winning percentage of any NFL coach in history: this “MNF” announcer is a close second | John Madden
+right: Ken
+Wrong: 
+Value: $800
+Number: 26
+PLANT THE EVIDENCE | Fenugreek, whose seeds are roasted & ground to make spice, is this type of plant, like peas & beans | Legume
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+ROYAL HOUSES | It could be called the house of Citrus sinensis | Orange
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+THE COIN BOX | For luck on his 1961 space flight, Gus Grissom took along some of these dimes last produced in 1945. | Mercury dimes (or winged liberty dimes)
+right: 
+Wrong: 
+Ken: What are Buffalo dimes?
+Value: DD: $2,100
+Number: 14
+"M"-BRACE ME | In 1943 Adolf Galland said after his first ride in this German jet, “It felt as if angels were pushing” | Messerschmitt
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+EUROPEAN CAPITALS | In the 15th century, Henry the Navigator founded St. Mary’s Chapel in Belem, now a part of this European capital | Lisbon
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+PRO FOOTBALL | (<http://www.j-archive.com/media/2004-09-09_J_30.jpg> I’m Hall of Fame running back John Riggins.)  In 1983 I rushed for a then record 24 TDs; the Redskins offensive line who opened holes for me had this nickname | Hogs
+right: Todd
+Wrong: 
+Ken: What's the Silver Curtain?
+Value: $1000
+Number: 30
+PLANT THE EVIDENCE | Most of the oregano sold in the U.S. is made from the dried leaves of this plant | marjoram
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+ROYAL HOUSES | This Shakespeare play sounds like it’s about the better halves of George V & George VI | The Merry Wives of Windsor
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+THE COIN BOX | People are just mad for the Loonie, the nickname for this country’s one-dollar coin | Canada
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+"M"-BRACE ME | This state’s university has its main campus in College Park | Maryland
+right: Todd
+Wrong: 
+Ken: What is Mississippi?
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Ken: $4,800
+Amy: $600
+Todd: $600
+Scores at the end of the Jeopardy! Round:
+Ken: $8,100
+Amy: $400
+Todd: $3,000
+Second Jeopardy! Round: DR. SEUSS MEETS THE BARD, REDUX, CHARADES, 19th CENTURY WOMEN, CONTRACTIONS, JAMES, BOND, COMMON BOND
+DR. SEUSS MEETS THE BARD, REDUX | "Friends, Romans, countrymen, lend me your ear; I must say something you've just got to hear!" | Julius Caesar
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+CHARADES | (<http://www.j-archive.com/media/2004-09-09_DJ_16.wmv> Jimmy of the Clue Crew.) 1980s TV show, 2 words: | Dance Fever
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+19th CENTURY WOMEN | At her husband James' inauguration party in 1813, she served ice cream | Dolley Madison
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+CONTRACTIONS | New York pedestrian traffic signs that used to include this contraction are being replaced by an upheld hand | don't
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+JAMES | According to Forbes, this actor who died in a 1955 car crash still managed to earn $5 million in 2003 | James Dean
+right: Ken
+Wrong: 
+Value: $400
+Number: 30
+BOND, COMMON BOND | Fan, form, poison pen | letters
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+DR. SEUSS MEETS THE BARD, REDUX | "Life's... full of sound and fury, why must we always hurry, hurry, hurry?" | Macbeth
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+CHARADES | (<http://www.j-archive.com/media/2004-09-09_DJ_17.wmv> Sofia of the Clue Crew.)  1986 Meryl Streep movie, one word: | Heartburn
+right: Amy
+Wrong: 
+Value: $800
+Number: 17
+19th CENTURY WOMEN | His mother, Marie-Letizia, seen <http://www.j-archive.com/media/2004-09-09_DJ_02.jpg> here, had special status as Madame Mare | Napoleon
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+CONTRACTIONS | Contraction in the title of the <http://www.j-archive.com/media/2004-09-09_DJ_22.mp3> following | I'll
+right: Amy
+Wrong: 
+Value: $800
+Number: 22
+JAMES | This captain set out on his third voyage in 1776, one from which he'd never return | James Cook
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+BOND, COMMON BOND | Wing, Brazil, litchi | nuts
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+DR. SEUSS MEETS THE BARD, REDUX | "Once more unto the breach, but first allow me to eat this peach" | Henry V
+right: Todd
+Wrong: 
+Value: $1200
+Number: 8
+CHARADES | (<http://www.j-archive.com/media/2004-09-09_DJ_18.wmv> Cheryl of the Clue Crew.)  A James Bond movie, three words: | Diamonds Are Forever
+right: Todd
+Wrong: 
+Value: $1200
+Number: 18
+19th CENTURY WOMEN | Known as "The Peerless Lady Wingshot", She was with Buffalo Bill's Wild West Show for 17 years | Annie Oakley
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+CONTRACTIONS | The American Heritage Dict. says this nonstandard contraction was attacked in the 19th C. "for being a vulgarism" | ain't
+right: Amy
+Wrong: 
+Value: $1200
+Number: 23
+JAMES | He came up with a copier machine & a clothes dryer as well as a famous engine | James Watt
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+BOND, COMMON BOND | Lots, gavel, bidders | auctions
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+DR. SEUSS MEETS THE BARD, REDUX | "Blow, winds, and crack your cheeks!  I haven't been this cold in weeks!" | King Lear
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+CHARADES | (<http://www.j-archive.com/media/2004-09-09_DJ_19.wmv> Sofia of the Clue Crew.)  An Elton John classic, four words: | "Candle In The Wind"
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+19th CENTURY WOMEN | The Atlantic Monthly paid her $5 in 1862 for her "Hymn" | Julie Ward Howe
+right: Ken
+Wrong: 
+Value: DD: $4,500
+Number: 4
+CONTRACTIONS | It's the contraction that often begins a toast, like one in "Casablanca" | here's
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+JAMES | Richard Wright helped this "Go Tell It On The Mountain" man win a literary fellowship | James Baldwin
+right: Ken
+Wrong: 
+Value: $1600
+Number: 27
+BOND, COMMON BOND | Corsets, collars, executions | things that have stays
+right: 
+Wrong: 
+Ken: What are French things?
+Value: DD: $5,800
+Number: 14
+DR. SEUSS MEETS THE BARD, REDUX | "If you tickle us, do we not laugh?  Let's take a ride on that green giraffe!" | The Merchant of Venice
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+CHARADES | (<http://www.j-archive.com/media/2004-09-09_DJ_20.wmv> Jimmy of the Clue Crew.)  A 1960 John Updike book, two words: | Rabbit, Run
+right: Amy
+Wrong: 
+Value: $2000
+Number: 20
+19th CENTURY WOMEN | Early on, she was a disciple of Dr. Phineas Quimby & wrote that he "heals as never man healed since Christ" | Mary Baker Eddy
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+CONTRACTIONS | If you're unable, use "can't", if you would rather not, use this word that rhymes with "can't" | shan't
+right: Todd
+Wrong: 
+Value: $2000
+Number: 25
+JAMES | Federalist turned Democrat Chief of State seen <http://www.j-archive.com/media/2004-09-09_DJ_26.jpg> here | James Buchanan
+right: Todd
+Wrong: 
+Value: $2000
+Number: 26
+BOND, COMMON BOND | Dean Martin, William Clark, Lamb Chop | partners of someone named Lewis
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Ken: $28,400
+Amy: $5,200
+Todd: $9,400
+
+Final Jeopardy! Round
+PRESIDENTS | 2 of the 3 men who went from being either a U.S. senator or congressman directly to the presidency | (2 of) Kennedy, Garfield, and Harding
+right: 
+Wrong: 
+Amy: Who is Kennedy and Taft?
+Todd: Who are JFK and J. Q. Adams?
+Ken: Who are JFK and Cleveland
+Wagers: 
+Amy: $0
+Todd: $1,001
+Ken: $6,600
+Final scores:
+Ken: $21,800 (42-day champion: $1,402,461)
+Amy: $5,200 (3rd place: $1,000)
+Todd: $8,399 (2nd place: $2,000)
+
+Coryat scores
+Ken: $33,400 (42 R(including 1 DD),5 W(including 2 DDs))
+Amy: $5,200 (6 R,1 W)
+Todd: $9,400 (9 R,0 W)

@@ -1,0 +1,345 @@
+3104 - Thursday, February 12, 1998
+Comments: 1998 Tournament of Champions final game 1.
+Contestants:
+Kim Worth: a freelance writer and stand-up comedian from Venice, California
+Dan Melia: a professor from San Francisco, California
+Bob Harris: a political humorist originally from Cleveland, Ohio
+First Jeopardy! Round: ARCHITECTURE, LITERARY POTENT POTABLES, MOVIE DEBUTS, BODIES OF WATER, PEOPLE OF THE MONTH, WORD ORIGINS
+ARCHITECTURE | To an architect, it's a supporting strut; to a cowboy, it's a metal device worn on a boot | a spur
+right: Dan
+Wrong: 
+Value: $100
+Number: 18
+LITERARY POTENT POTABLES | Robinson Crusoe wanted to brew this drink, but he had no hops, yeast or barrels to put it in | beer
+right: Dan
+Wrong: 
+Value: $100
+Number: 7
+MOVIE DEBUTS | "A Nightmare on Elm Street" introduced him on film before he jumped to "21 Jump Street" on TV | Johnny Depp
+right: Bob
+Wrong: 
+Value: $100
+Number: 26
+BODIES OF WATER | It's the second-largest body of water in the world | Atlantic Ocean
+right: Bob
+Wrong: 
+Value: $100
+Number: 15
+PEOPLE OF THE MONTH | She was the "She-Wolf of London" on film before starring in TV's "Lassie" & "Lost in Space" | June Lockhart
+right: Bob
+Wrong: 
+Value: $100
+Number: 16
+WORD ORIGINS | The Middle French word for this freshwater crustacean was "crevice", which evolved into our English word | crayfish
+right: Bob
+Wrong: 
+Value: $100
+Number: 2
+ARCHITECTURE | Name shared by a famous Gothic church in Paris & a Gothic revival church in Montreal | Notre Dame
+right: Dan
+Wrong: 
+Value: $200
+Number: 19
+LITERARY POTENT POTABLES | Bootlegging may have paid for the bubbly that this title Fitzgerald character served at his parties | Jay Gatsby
+right: Bob
+Wrong: 
+Kim: What is champagne?
+Value: $200
+Number: 8
+MOVIE DEBUTS | She danced in the chorus of the film "Li'l Abner" long before she starred as TV's "Rhoda" | Valerie Harper
+right: Dan
+Wrong: 
+Value: $200
+Number: 27
+BODIES OF WATER | Vacation on the French Riviera & you'll spend time on this sea | the Mediterranean
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+PEOPLE OF THE MONTH | This Spaniard's 1984 duet with Willie Nelson, "To All The Girls I've Loved Before", was a Top 10 hit | Julio Iglesias
+right: Dan
+Wrong: 
+Value: $200
+Number: 17
+WORD ORIGINS | This 19th century vehicle seen <http://www.j-archive.com/media/1998-02-12_J_03.jpg> here was named for its designer, not its good looks | the Hansom Cab
+right: Kim
+Wrong: 
+Value: $200
+Number: 3
+ARCHITECTURE | Arata Isozaki's first U.S. design was this city's Museum of Contemporary Art, also known as MOCA | Los Angeles
+right: Dan
+Wrong: 
+Kim: What is New York?
+Value: $300
+Number: 20
+LITERARY POTENT POTABLES | There is no "Cask" of this sherry at the end of the Poe story, only bricks & fresh mortar | Amontillado
+right: Kim
+Wrong: 
+Value: $300
+Number: 9
+MOVIE DEBUTS | She had a bit role in "My Bodyguard", but "Flashdance" was the flashpoint of her career | Jennifer Beals
+right: Bob
+Wrong: 
+Value: $300
+Number: 28
+BODIES OF WATER | Sittwe, Burma & Calcutta, India are major ports on this bay | the Bay of Bengal
+right: Bob
+Wrong: 
+Value: $300
+Number: 10
+PEOPLE OF THE MONTH | Mike Nichols' former comedy partner, she co-wrote the "Tootsie" screenplay but was uncredited | Elaine May
+right: Dan
+Wrong: 
+Value: $300
+Number: 23
+WORD ORIGINS | This primrose's name comes from the Old English for "cow slime" & sounds pretty similar | cowslip
+right: Dan
+Wrong: 
+Value: $300
+Number: 4
+ARCHITECTURE | This ornate 18th century style noted for its ornamental shellwork evolved from the Baroque | Rococo
+right: Bob
+Wrong: 
+Value: $400
+Number: 21
+LITERARY POTENT POTABLES | Pap took this Mark Twain character's last dollar to buy whiskey & was seen drunk the next day | Huckleberry Finn
+right: Dan
+Wrong: 
+Value: $400
+Number: 13
+MOVIE DEBUTS | In his first film, "Max Dugan Returns", he appeared with his father, Donald | Kiefer Sutherland
+right: Kim
+Wrong: 
+Value: $400
+Number: 29
+BODIES OF WATER | The Kagera River is the longest & most important tributary of this African lake | Lake Victoria
+right: Bob
+Wrong: 
+Value: $400
+Number: 11
+PEOPLE OF THE MONTH | In the 1980s this golfer was the leading money winner 3 times on the Senior PGA circuit | Don January
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+WORD ORIGINS | This game in which players pick up sticks or straws is named for a leader of Wat Tyler's Rebellion | jackstraws
+right: Kim
+Wrong: 
+Value: $400
+Number: 5
+ARCHITECTURE | This Swiss man who used a pseudonym was known for houses on stilts like the Savoye house in Poissy | Le Corbusier
+right: Bob
+Wrong: 
+Value: $500
+Number: 22
+LITERARY POTENT POTABLES | Ray Bradbury named this 1957 novel after a potent potable made from a weed | Dandelion Wine
+right: Kim
+Wrong: 
+Value: $500
+Number: 14
+MOVIE DEBUTS | Stacy Keach & Sondra Locke debuted in this 1968 film based on a Carson McCullers novel | The Heart Is a Lonely Hunter
+right: Bob
+Wrong: 
+Value: $500
+Number: 30
+BODIES OF WATER | Named for an explorer, it's Canada's longest river | the Mackenzie
+right: Bob
+Wrong: 
+Value: DD: $500
+Number: 12
+PEOPLE OF THE MONTH | This Swedish playwright represented himself as "The Stranger" in his trilogy "To Damascus" | August Strindberg
+right: Dan
+Wrong: 
+Value: $500
+Number: 25
+WORD ORIGINS | Whether it's "English" or not, the name of this nut comes from Old English for "foreign nut" | walnut
+right: Dan
+Wrong: 
+Value: $500
+Number: 6
+Scores at the first commercial break (after clue 15)
+Bob: $1,500
+Dan: $1,500
+Kim: $1,200
+Scores at the end of the Jeopardy! Round:
+Bob: $3,500
+Dan: $3,300
+Kim: $1,300
+Second Jeopardy! Round: WANDERERS, VIVE LA DIFFERENCE!, EXCHANGES, NAME THE MUSICAL, AN "I", FOREIGN EYE
+WANDERERS | The Romany (who aren't Italian) are more commonly called this (though they're not Egyptian) | Gypsies
+right: Kim
+Wrong: 
+Value: $200
+Number: 6
+VIVE LA DIFFERENCE! | Female elks can only imagine what it's like for bulls to grow & shed a new set of these each year | antlers
+right: Dan
+Wrong: 
+Value: $200
+Number: 11
+EXCHANGES | Abbreviated TSE, it's Canada's largest stock exchange | the Toronto Stock Exchange
+right: Bob
+Wrong: 
+Value: $200
+Number: 21
+NAME THE MUSICAL | <http://www.j-archive.com/media/1998-02-12_DJ_26.mp3> "Ol' man river, that ol' man river..." | Showboat
+right: Dan
+Wrong: 
+Kim: What is Porgy and Bess?
+Value: $200
+Number: 26
+AN "I" | Tiger has woods & these in his golf bag | irons
+right: Kim
+Wrong: 
+Value: $200
+Number: 16
+FOREIGN EYE | "The Adventure of the Lion's Mane" is 1 of 2 stories he narrates; Watson relates the rest | Sherlock Holmes
+right: Bob
+Wrong: 
+Value: $200
+Number: 1
+WANDERERS | A proverb says "A fool wanders, a wise man" does this... maybe with Charley | travels
+right: Bob
+Wrong: 
+Value: $400
+Number: 7
+VIVE LA DIFFERENCE! | Only the female of this spider species has the red hourglass figure on her abdomen | the black widow
+right: Dan
+Wrong: 
+Value: $400
+Number: 12
+EXCHANGES | The Parquet is the main trading area of this city's Bourse, founded in 1141 | Paris
+right: Bob
+Wrong: 
+Value: $400
+Number: 22
+NAME THE MUSICAL | <http://www.j-archive.com/media/1998-02-12_DJ_27.mp3> "When you're a Jet..." | West Side Story
+right: Kim
+Wrong: 
+Value: $400
+Number: 27
+AN "I" | Stemming from the Latin for "journey", it lists all the stopping points on your journey | Itinerary
+right: Kim
+Wrong: 
+Value: $400
+Number: 17
+FOREIGN EYE | He created jockey-turned-private eye Sid Halley | Dick Francis
+right: Dan
+Wrong: 
+Value: $400
+Number: 2
+WANDERERS | Bedouins make their tents out of vegetable fibers & hair of goats, sheep or these animals | camels
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+VIVE LA DIFFERENCE! | On most ants, the male has wings & the female doesn't, unless the female has this title | queen
+right: Kim
+Wrong: 
+Value: $600
+Number: 13
+EXCHANGES | London stock prices are tracked by the FTSE 100 Index, FT standing for this newspaper | the Financial Times
+right: Bob
+Wrong: 
+Value: $600
+Number: 23
+NAME THE MUSICAL | <http://www.j-archive.com/media/1998-02-12_DJ_29.mp3> [audio clue] | Cabaret
+right: Bob
+Wrong: 
+Value: $600
+Number: 29
+AN "I" | It's a Kansas City suburb that's home to a presidential library | Independence
+right: Bob
+Wrong: 
+Kim: What is Ionia?
+Value: $600
+Number: 18
+FOREIGN EYE | The New York Times gave a front-page obituary to this fictional Belgian detective | Hercule Poirot
+right: Bob
+Wrong: 
+Value: $600
+Number: 3
+WANDERERS | This Edward Everett Hale work tells the story of Philip Nolan, condemned to a life at sea | "The Man Without a Country"
+right: Bob
+Wrong: 
+Value: $800
+Number: 9
+VIVE LA DIFFERENCE! | This crab is named for the male's large claw; perhaps the female isn't musically inclined | the fiddler crab
+right: Bob
+Wrong: 
+Value: $800
+Number: 14
+EXCHANGES | The nation's grain futures are at stake in the "pit" of this Chicago institution founded in 1848 | the Chicago Board of Trade
+right: 
+Wrong: Triple Stumper
+Bob: What is the Commodities Exchange?
+Value: $800
+Number: 24
+NAME THE MUSICAL | <http://www.j-archive.com/media/1998-02-12_DJ_28.mp3> "I can feel my heart becoming a diamond and..." | Hello, Dolly!
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+AN "I" | A wild goat often found in the Himalayas & in crossword puzzles | an ibex
+right: Kim
+Wrong: 
+Value: $800
+Number: 19
+FOREIGN EYE | This G.K. Chesterton cleric solved his first case in "The Blue Cross" | Father Brown
+right: Dan
+Wrong: 
+Value: $800
+Number: 4
+WANDERERS | The Maeander, a river in Phrygia, is said to be the inspiration for this mythological structure | the Labyrinth
+right: Bob
+Wrong: 
+Value: DD: $600
+Number: 10
+VIVE LA DIFFERENCE! | Males of the pipefish & this relative have a pouch for incubating the female's eggs | the seahorse
+right: 
+Wrong: 
+Bob: Oh, I know this too... what is the egg-layer fish?
+Value: DD: $1,400
+Number: 15
+EXCHANGES | This continental city's exchange began in 1611, dealing in securities of companies in East India trade | Amsterdam
+right: Dan
+Wrong: 
+Value: $1000
+Number: 25
+NAME THE MUSICAL | <http://www.j-archive.com/media/1998-02-12_DJ_30.mp3> [audio clue] | Dreamgirls
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+AN "I" | Latin for "swaddling clothes", they're books printed before 1501, in the infancy of typography | incunabula
+right: Dan
+Wrong: 
+Value: $1000
+Number: 20
+FOREIGN EYE | Inspector Charles Parker of Scotland Yard is the police contact of this Dorothy Sayers lord | Lord Peter Wimsey
+right: Dan
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Bob: $7,700
+Dan: $8,300
+Kim: $3,100
+
+Final Jeopardy! Round
+U.S. STATESMEN | Between 1803 & 1848, he served as a U.S. senator, Sec. of State, president & congressman, in that order | John Quincy Adams
+right: Kim | Dan
+Wrong: 
+Bob: Who was POLK?
+Wagers: 
+Kim: $3,000
+Bob: $7,700
+Dan: $2,000
+Final scores:
+Bob: $0 ()
+Dan: $10,300 ()
+Kim: $6,100 ()
+
+Coryat scores
+Bob: $9,500 (24 R(including 2 DDs),2 W(including 1 DD))
+Dan: $8,300 (20 R,0 W)
+Kim: $3,100 (11 R,4 W)

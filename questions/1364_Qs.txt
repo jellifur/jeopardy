@@ -1,0 +1,282 @@
+5099 - Thursday, November 9, 2006
+Comments: 2006 Celebrity <i>Jeopardy!</i> game 2.  From Radio City Music Hall in New York City.
+Contestants:
+Curt Schilling: a pitcher from the Boston Red Sox
+Jane Kaczmarek: an Emmy-nominated actress from Help Me Help You
+Doug Savant: an actor from Desperate Housewives
+First Jeopardy! Round: STARRING ROLLS, SHILLING, STAN THE CONTRACTOR, SAVANTS, ORSON WELLES, A "HOPE"FUL CATEGORY
+STARRING ROLLS | What we call this doughy breakfast roll, sometimes lathered with gravy, refers to a cookie in the U.K. | biscuit
+right: Curt
+Wrong: 
+Value: $200
+Number: 6
+SHILLING | "Just do it" | Nike
+right: Doug
+Wrong: 
+Value: $200
+Number: 16
+STAN THE CONTRACTOR | Stan put this 4-letter castle-surrounding trench at his British client's home | a moat
+right: Doug
+Wrong: 
+Value: $200
+Number: 11
+SAVANTS | In January 1904 these 2 inventors issued a statement about their success at Kitty Hawk, but it got little attention | the Wright Brothers
+right: Doug
+Wrong: 
+Value: $200
+Number: 1
+ORSON WELLES | This 1941 Orson Welles film has set a standard by which all other films made since are judged | Citizen Kane
+right: Jane
+Wrong: 
+Value: $200
+Number: 9
+STARRING ROLLS | Pillsbury is famous for these lunar-named rolls that you bake yourself | crescent rolls
+right: Jane
+Wrong: 
+Value: $400
+Number: 7
+SHILLING | "The best part of wakin' up" | Folgers
+right: Jane
+Wrong: 
+Value: $400
+Number: 17
+STAN THE CONTRACTOR | For the living room, instead of track or recessed types of these, Stan went for flood | lighting
+right: Doug
+Wrong: 
+Value: $400
+Number: 12
+SAVANTS | "A fanatic is one who can't change his mind & won't change the subject", said this wartime British P.M. | Churchill
+right: Doug
+Wrong: 
+Value: $400
+Number: 2
+ORSON WELLES | This 1949 classic featured Orson Welles as the mysterious Harry Lime | The Third Man
+right: 
+Wrong: Triple Stumper
+Jane: Who are The Magnificent Ambersons?
+Value: $400
+Number: 10
+STARRING ROLLS | You can prepare mini-pizzas on this product made famous by Samuel B. Thomas | English muffins
+right: Doug
+Wrong: 
+Value: $600
+Number: 8
+SHILLING | "Just for the taste of it" | Diet Coke
+right: Curt
+Wrong: 
+Value: $600
+Number: 18
+STAN THE CONTRACTOR | Stan can give you the mansard, gable & flat types of this for the house | roofs
+right: Jane
+Wrong: 
+Value: $600
+Number: 13
+SAVANTS | "Injustice anywhere is a threat to justice everywhere", he wrote in his 1963 "Letter from Birmingham Jail" | Martin Luther King (Jr.)
+right: Doug
+Wrong: 
+Value: DD: $1,000
+Number: 3
+ORSON WELLES | In 1952 Orson took on the Shakespearean film role of this Moor of Venice | Othello
+right: Jane
+Wrong: 
+Value: $600
+Number: 21
+SHILLING | "Sorry, Charlie" | StarKist Tuna
+right: Doug
+Wrong: 
+Value: $800
+Number: 19
+STAN THE CONTRACTOR | Stan follows the unwritten contractor code: no matter the job, always say it'll take a fortnight, this long, to do | two weeks (14 days)
+right: Jane
+Wrong: 
+Doug: Uh, what is four weeks?
+Value: $800
+Number: 14
+SAVANTS | This Austrian learned to play harpsichord at age 4, was composing at 5 & played for his Empress at 6 | Mozart
+right: Jane
+Wrong: 
+Value: $800
+Number: 4
+SHILLING | "The San Francisco treat" | Rice-A-Roni
+right: Doug
+Wrong: 
+Curt: [Grimacing] My gosh.
+Value: $1000
+Number: 20
+STAN THE CONTRACTOR | Oops!  Stan's assistant damaged the bathroom floor while installing <http://www.j-archive.com/media/2006-11-09_J_15.jpg> this sharp type of tub seen <http://www.j-archive.com/media/2006-11-09_J_15a.jpg> here | a clawfoot tub
+right: Jane
+Wrong: 
+Value: $1000
+Number: 15
+SAVANTS | One of you will look like a savant when you I.D. this ancient Greek who used Socrates as a spokesman in his "Republic" | Plato
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Doug: $2,800
+Jane: $1,600
+Curt: $200
+Scores at the end of the Jeopardy! Round:
+Doug: $4,000
+Jane: $4,400
+Curt: -$200
+Second Jeopardy! Round: MALCOLM X IN THE MIDDLE, SHINY THINGS, SPORTS, NOVELS, THE BIRDS & THE BEES, SOUNDS THE SAME TO ME
+MALCOLM X IN THE MIDDLE | On 29, 39 or 49, the age at which Malcolm X died, the same as Martin Luther King, Jr. | 39
+right: Doug
+Wrong: 
+Value: $400
+Number: 12
+SHINY THINGS | Sirius, Rigil Kent or Antares | stars
+right: 
+Wrong: Triple Stumper
+Jane: What are clouds?
+Value: $400
+Number: 17
+SPORTS | In NASCAR, it's the number of the turn at the end of the front straightaway | one
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+NOVELS | Paul Scott's WWII service in this country inspired his "Raj Quartet" | India
+right: Jane
+Wrong: 
+Value: $400
+Number: 7
+SOUNDS THE SAME TO ME | A French resort city, or the daughter of a person's sister | Nice/niece
+right: Doug
+Wrong: 
+Value: $400
+Number: 1
+MALCOLM X IN THE MIDDLE | After serving time in prison for burglary, Malcolm X joined the "Nation of" this & also became a minister | Islam
+right: Doug
+Wrong: 
+Value: $800
+Number: 13
+SHINY THINGS | This old monetary unit of Britain was 1/20 of a pound | shilling
+right: Curt
+Wrong: 
+Value: $800
+Number: 18
+SPORTS | On March 2, 1962 Wilt Chamberlain scored this unbelievable record point total in an NBA basketball game | 100
+right: Curt
+Wrong: 
+Value: $800
+Number: 3
+NOVELS | Edith Wharton's hero Ethan Frome is crippled by a suicidal run on this winter Olympic vehicle | a bobsled
+right: Jane
+Wrong: 
+Value: $800
+Number: 8
+THE BIRDS & THE BEES | Seen <http://www.j-archive.com/media/2006-11-09_DJ_26.jpg> here is the laughing type of this "sea" bird--sorry, no audio for you | seagull
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+SOUNDS THE SAME TO ME | You have the right to do this regarding arms, but your arms will be this without sleeves | bear/bare
+right: Curt
+Wrong: 
+Value: $800
+Number: 22
+MALCOLM X IN THE MIDDLE | Though Malcolm X spent much of his life in New York City, he was born in this largest city in Nebraska | Omaha
+right: Jane
+Wrong: 
+Curt: What is Lincoln?
+Value: $1200
+Number: 14
+SHINY THINGS | St. Louis' Gateway Arch is concrete covered in this alliterative metal with chromium for shine | stainless steel
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 19
+SPORTS | In teaching this sport, Gary McCord says, "For a driver, place the ball opposite your left armpit" | golf
+right: Curt
+Wrong: 
+Value: $1200
+Number: 4
+NOVELS | "Ralph 124C 41+" is a novel by Hugo Gernsback, known as a "father of" this futuristic genre | science fiction
+right: Jane
+Wrong: 
+Value: $1200
+Number: 9
+SOUNDS THE SAME TO ME | If you hurt this body part, put your feet up & it will do this, over time | heel/heal
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+MALCOLM X IN THE MIDDLE | He directed the 1992 film "Malcolm X" & also played Malcolm's pal Shorty | Spike Lee
+right: Jane
+Wrong: 
+Value: DD: $3,800
+Number: 15
+SHINY THINGS | This Egyptian-themed Las Vegas hotel says it's "crowned with the world's brighest beam of light" | Luxor
+right: Jane
+Wrong: 
+Value: $1600
+Number: 20
+SPORTS | If you serve in tennis & win the first point, you traditionally call out the score as 15- this | love
+right: Doug
+Wrong: 
+Value: $1600
+Number: 5
+NOVELS | In this Jack London novel, a dog named Buck is stolen from the Miller family & reduced to mush dog in Alaska | The Call of the Wild
+right: Jane
+Wrong: 
+Doug: What is White Fang?
+Value: $1600
+Number: 10
+SOUNDS THE SAME TO ME | Shed this drop of saline, watery fluid if you don't know this term for layer or level | tear/tier
+right: Curt
+Wrong: 
+Value: DD: $2,200
+Number: 24
+MALCOLM X IN THE MIDDLE | In 1964, Malcolm X journeyed to Mecca in this country as part of a religious pilgrimage | Saudi Arabia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+SHINY THINGS | You get more than 200 colored pegs with this flat-screen Hasbro toy | Lite-Brite
+right: Doug
+Wrong: 
+Value: $2000
+Number: 21
+SPORTS | For a team killing a penalty in this sport, icing isn't a violation | hockey
+right: Doug
+Wrong: 
+Value: $2000
+Number: 6
+NOVELS | (<http://www.j-archive.com/media/2006-11-09_DJ_11.jpg> Sarah of the Clue Crew reports from the Charles Bridge in Prague, Czech Republic.)  This Milan Kundera novel says "the saints were shaking their fists and lifting their stone eyes to the clouds. Prague was the most beautiful city in the world" | The Unbearable Lightness of Being
+right: 
+Wrong: Triple Stumper
+Jane: What is The Incredible Lightness of Being?
+Value: $2000
+Number: 11
+SOUNDS THE SAME TO ME | One side in an athletic contest, or a word meaning to abound | team/teem
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Doug: $9,600
+Jane: $12,600
+Curt: $4,400
+
+Final Jeopardy! Round
+CELEBRITY RELATIVES | Her great-great-grandmother Louisa Lane Drew once appeared in a play with the father of John Wilkes Booth | Drew Barrymore
+right: Doug
+Wrong: 
+Curt: Who is Nancy Drew
+Jane: Who Nancy Drew
+Wagers: 
+Curt: $4,400
+Doug: $8,600
+Jane: $7,000
+Final scores:
+Doug: $18,200 (Winner: $50,000 to the Desi Geestman Foundation)
+Jane: $5,600 (2nd place: $25,000 to the Clothes Off Our Back Foundation)
+Curt: $0 (3rd place: $25,000 to Curt's Pitch for ALS & the SHADE Foundation of America)
+
+Coryat scores
+Doug: $9,200 (15 R(including 1 DD),2 W)
+Jane: $10,400 (15 R(including 1 DD),3 W)
+Curt: $3,800 (7 R(including 1 DD),2 W)

@@ -1,0 +1,357 @@
+uper Jeopardy! show #11 - Saturday, August 25, 1990
+Comments: <i>Super Jeopardy!</i> quarterfinal game 9.
+Contestants:
+Zeke Sevilla Jr.: a lawyer from Vienna, Virginia
+Bruce Fauman: an administrator and professor from Vancouver, British Columbia
+Jeff Richmond: a law student from West Hollywood, California
+Sandy Gore: a corporate consultant from Los Angeles, California
+First Jeopardy! Round: GEOGRAPHY, ACTORS & THEIR ROLES, AMERICAN LITERATURE, HOLIDAYS & OBSERVANCES, PHOTOGRAPHY, SPELLING
+GEOGRAPHY | The Sahel is a zone of sparse, grassy vegetation on the edge of this desert | Sahara
+right: Zeke
+Wrong: 
+Value: 200
+Number: 5
+ACTORS & THEIR ROLES | G. Depardieu was named best actor at Cannes for playing this swordsman; you might say he won by a nose | Cyrano de Bergerac
+right: Zeke
+Wrong: 
+Value: 200
+Number: 25
+AMERICAN LITERATURE | In “Moby Dick” the narrator begins by telling the reader to call him this | Ismael
+right: Sandy
+Wrong: 
+Value: 200
+Number: 21
+HOLIDAYS & OBSERVANCES | On the 2nd Saturday in May this country observes National Windmill Day | Holland (or The Netherlands)
+right: Zeke
+Wrong: 
+Value: 200
+Number: 12
+PHOTOGRAPHY | Light regulator that comes in leaf, rotary & focal-plane types | a shutter
+right: Sandy
+Wrong: 
+Value: 200
+Number: 2
+SPELLING | A creamy salad dressing made with raw egg yolk, oil, vinegar or lemon juice & seasonings | M-A-Y-O-N-N-A-I-S-E
+right: Bruce
+Wrong: 
+Jeff: What is H-O-L-L-A-N-D-A-I-S-E?
+Value: 200
+Number: 18
+GEOGRAPHY | Among principal mountain ranges in this country are the Wicklow & MacGillicuddy's Reeks | Ireland
+right: Sandy
+Wrong: 
+Value: 400
+Number: 6
+ACTORS & THEIR ROLES | Clint Eastwood's role in “White Hunter, Black Heart” was inspired by this director of “The African Queen” | John Huston
+right: Sandy
+Wrong: 
+Value: 400
+Number: 1
+AMERICAN LITERATURE | C. Auguste Dupin is an amateur detective who appears in 3 of his short stories | (Edgar Allan) Poe
+right: Sandy
+Wrong: 
+Value: 400
+Number: 22
+HOLIDAYS & OBSERVANCES | This N.Y. congresswoman, known for her hats, introduced the bill creating Women's Equality Day | Bella Abzug
+right: Zeke
+Wrong: 
+Value: 400
+Number: 13
+PHOTOGRAPHY | Film is coated with light sensitive halides of this metal suspended in gelatin | silver
+right: Jeff
+Wrong: 
+Value: 400
+Number: 11
+SPELLING | In German it means “lightning war” | B-L-I-T-Z-K-R-I-E-G
+right: Sandy
+Wrong: 
+Value: 400
+Number: 19
+GEOGRAPHY | Associated with Jesus' childhood, this city in lower Galilee is the largest Arab city in Israel | Nazareth
+right: Jeff
+Wrong: 
+Value: 600
+Number: 8
+ACTORS & THEIR ROLES | 2-time Oscar winner who made her feature film debut in “Julia” & played W. Allen's ex in “Manhattan” | Meryl Streep
+right: Sandy
+Wrong: 
+Value: 600
+Number: 3
+AMERICAN LITERATURE | Nick Adams is the protagonist in many of the short stories in this author's “In Our Time” | Hemingway
+right: Zeke
+Wrong: 
+Value: 600
+Number: 20
+HOLIDAYS & OBSERVANCES | The earliest date on which this holiday can fall is October 8th | Columbus Day
+right: Sandy
+Wrong: 
+Value: 600
+Number: 14
+PHOTOGRAPHY | This letter is used to designate the aperture of a lens | f
+right: Zeke
+Wrong: 
+Value: 600
+Number: 15
+SPELLING | From the Greek, it's a fictitious name used by an author | P-S-E-U-D-O-N-Y-M
+right: Jeff
+Wrong: 
+Bruce: What is P-S-U-E-D-O-N-Y-M?
+Value: 600
+Number: 28
+GEOGRAPHY | Bishop Albert of Livonia & his crusaders founded this capital of Latvia in 1201 | Riga
+right: Zeke
+Wrong: 
+Value: 800
+Number: 9
+ACTORS & THEIR ROLES | Errol Flynn's last film with this frequent leading lady was “They Died With Their Boots On” | Olivia De Havilland
+right: Zeke
+Wrong: 
+Value: 800
+Number: 4
+AMERICAN LITERATURE | Edith Wharton's tragic tale of a New England farmer who falls in love with his wife's cousin Mattie | Ethan Frome
+right: Sandy
+Wrong: 
+Value: 800
+Number: 23
+HOLIDAYS & OBSERVANCES | Public law 99-54 recognizes “pause for the pledge” as part of this holiday | Flag Day
+right: Zeke
+Wrong: 
+Value: 800
+Number: 26
+PHOTOGRAPHY | In 1839 he was given an annuity of 6,000 francs for revealing his photographic process | (Louis) Daguerre
+right: Zeke
+Wrong: 
+Value: DD: 3,000
+Number: 16
+SPELLING | The ancient Roman Pont du Gard is an example of this type of bridge built to carry water | A-Q-U-E-D-U-C-T
+right: Jeff
+Wrong: 
+Value: 800
+Number: 29
+GEOGRAPHY | Henry Bessemer set up shop in this English town, & it has since become famous for its steel | Sheffield
+right: Bruce
+Wrong: 
+Value: 1000
+Number: 10
+ACTORS & THEIR ROLES | The first film she starred in after her brief marriage to a prince was 1952's “Affair In Trinidad” | Rita Hayworth
+right: Bruce
+Wrong: 
+Sandy: Who is Zsa Zsa Gabor?
+Value: 1000
+Number: 7
+AMERICAN LITERATURE | Father of Pearl!  He's the minister in Hawthorne's “The Scarlet Letter” | (Arthur) Dimmesdale
+right: Sandy
+Wrong: 
+Value: 1000
+Number: 24
+HOLIDAYS & OBSERVANCES | This Jewish holiday begun in 165 B.C. celebrates the purification of the temple of Jerusalem | Hanukkah
+right: Bruce
+Wrong: 
+Sandy: What is Sukkoth?
+Value: 1000
+Number: 27
+PHOTOGRAPHY | Photographer of “Moonrise, Hernandez, N.M.”, he was a director of The Sierra Club 1934-71 | Ansel Adams
+right: Jeff
+Wrong: 
+Value: 1000
+Number: 17
+SPELLING | The city in New York that's home to Vassar College | P-O-U-G-H-K-E-E-P-S-I-E
+right: Sandy
+Wrong: 
+Value: 1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Sandy: 1,200
+Jeff: 1,000
+Bruce: 2,000
+Zeke: 3,000
+Scores at the end of the Jeopardy! Round:
+Sandy: 4,000
+Jeff: 3,200
+Bruce: 2,600
+Zeke: 7,600
+Second Jeopardy! Round: U.S. HISTORY, BIBLICAL WOMEN, PHYSICAL SCIENCE, ARTISTS, SHAKESPEARE, INTERNATIONAL PARKS
+U.S. HISTORY | Legend says this October 8, 1871 event began in a stable at Jefferson & DeKoven Streets in Chicago | Great Chicago Fire
+right: Jeff
+Wrong: 
+Value: 500
+Number: 2
+BIBLICAL WOMEN | She was asked to “entice” Samson “and see wherein his great strength lieth” | Delilah
+right: Bruce
+Wrong: 
+Value: 500
+Number: 29
+PHYSICAL SCIENCE | Unlike glaciers, pack ice forms from this type of water | salt (seawater)
+right: Zeke
+Wrong: 
+Jeff: What is snow?
+Value: 500
+Number: 19
+ARTISTS | He moved back to France from Tahiti in 1893 but returned to the South Seas permanently 2 years later | Gauguin
+right: Bruce
+Wrong: 
+Value: 500
+Number: 16
+SHAKESPEARE | Alas, you don't need an actor to play this character in “Hamlet”; all you need is a skull | Yorick
+right: Zeke
+Wrong: 
+Value: 500
+Number: 20
+INTERNATIONAL PARKS | Among the animals you'll find in this country's Kruger National Park are zebras, lions & giraffes | South Africa
+right: Zeke
+Wrong: 
+Value: 500
+Number: 3
+U.S. HISTORY | Andrew Jackson was fighting against 50 ships commanded by Edw. Packenham when he won this 1815 battle | Battle of New Orleans
+right: Jeff
+Wrong: 
+Value: 1000
+Number: 4
+BIBLICAL WOMEN | To the devout, this wife of King Ahab represented evil | Jezebel
+right: Sandy
+Wrong: 
+Value: 1000
+Number: 30
+PHYSICAL SCIENCE | Greek for whom a theorem about right triangles is named, he was 1 of the 1st to think the Earth is round | Pythagoras
+right: Zeke
+Wrong: 
+Value: 1000
+Number: 18
+ARTISTS | In 1505 he was recalled to Rome to make a tomb for the Renaissance Pope Julius II | Michelangelo
+right: Jeff
+Wrong: 
+Value: 1000
+Number: 25
+SHAKESPEARE | This historical play dramatizes the events which led to England's break with the Roman Catholic church | Henry VIII
+right: Zeke
+Wrong: 
+Value: 1000
+Number: 21
+INTERNATIONAL PARKS | This Kenyan capital contains a 44-square-mile national park & game preserve | Nairobi
+right: Jeff
+Wrong: 
+Value: 1000
+Number: 9
+U.S. HISTORY | In 1831 the Anti-Masonic Party held the first of these ever, to prepare for the 1832 election | (nominating) convention
+right: Jeff
+Wrong: 
+Value: 1500
+Number: 5
+BIBLICAL WOMEN | Though in love with Rachel, Jacob was tricked into marrying this sister first | Leah
+right: Zeke
+Wrong: 
+Value: 1500
+Number: 28
+PHYSICAL SCIENCE | The quantum theory of electrodynamics explains some phenomena in terms of these, not waves | particles
+right: Bruce
+Wrong: 
+Value: 1500
+Number: 17
+ARTISTS | Rockefeller Ctr. destroyed his “Man At The Crossroads” because of a Lenin look-alike in the mural | Diego Rivera
+right: 
+Wrong: 
+Sandy: Who is Rodin?
+Value: DD: 7,000
+Number: 24
+SHAKESPEARE | In this play's first scene, dastardly deeds are done at the tomb of the Andronici | Titus Andronicus
+right: Sandy
+Wrong: 
+Value: 1500
+Number: 22
+INTERNATIONAL PARKS | Teide National Park in this Spanish archipelago is located on Tenerife Island | Canary Islands
+right: Zeke
+Wrong: 
+Value: 1500
+Number: 10
+U.S. HISTORY | The Platt Amendment of 1901 provided for the withdrawal of U.S. troops from this country | Cuba
+right: Sandy
+Wrong: 
+Value: 2000
+Number: 6
+BIBLICAL WOMEN | A patron saint of cooks, she was the sister of Lazarus & Mary of Bethany | Martha
+right: Sandy
+Wrong: 
+Zeke: Who is Mary Margaret?
+Value: 2000
+Number: 27
+PHYSICAL SCIENCE | Any process by which neutral atoms become electrically charged is called this | ionizations
+right: Zeke
+Wrong: 
+Value: 2000
+Number: 7
+ARTISTS | He painted “The Transfiguration” & for 6 years directed the construction of St. Peter's Church in Rome | Raphael
+right: 
+Wrong: Quadruple Stumper
+Value: 2000
+Number: 23
+SHAKESPEARE | He has 3 sons-in-law: the Duke of Albany, the Duke of Cornwall & the king of France | Lear
+right: Sandy
+Wrong: 
+Value: DD: 9,000
+Number: 15
+INTERNATIONAL PARKS | 1 of 2 South American countries each having a park on its side of Iguacu Falls | Brazil (or Argentina)
+right: Jeff
+Wrong: 
+Value: 2000
+Number: 11
+U.S. HISTORY | William Jennings Bryan was elected to his first public office in this state | Nebraska
+right: 
+Wrong: Quadruple Stumper
+Bruce: What is Indiana?
+Zeke: What is Wisconsin?
+Value: 2500
+Number: 8
+BIBLICAL WOMEN | While in the land of Midian, he married Zipporah, a daughter of Jethro | Moses
+right: Sandy
+Wrong: 
+Value: 2500
+Number: 26
+PHYSICAL SCIENCE | 2 of the 6 planetary probes launched by the U.S. | Mariner & Voyager  (Ranger, Surveyor, Pioneer & Viking)
+right: Zeke
+Wrong: 
+Value: 2500
+Number: 1
+ARTISTS | This ancient Greek's only surviving original sculpture is “Hermes & Dionysus” | Praxiteles
+right: Sandy
+Wrong: 
+Value: 2500
+Number: 14
+SHAKESPEARE | The renouncing of magic in this play is believed to be the bard's symbolic farewell to the stage | The Tempest
+right: 
+Wrong: Quadruple Stumper
+Value: 2500
+Number: 13
+INTERNATIONAL PARKS | This Mexico City park, which antedates Columbus is believed to be the oldest in the Americas | Chapultepec
+right: Sandy
+Wrong: 
+Value: 2500
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Sandy: 20,000
+Jeff: 9,700
+Bruce: 2,600
+Zeke: 14,100
+
+Final Jeopardy! Round
+THE CALENDAR | This month was formerly called Quintilis | July
+right: Jeff
+Wrong: 
+Bruce: What is May?
+Zeke: What is May?
+Sandy: What was June
+Wagers: 
+Bruce: 2,595
+Jeff: 4,401
+Zeke: 4,000
+Sandy: 8,201
+Final scores:
+Sandy: 11,799 (2nd place: $5,000)
+Jeff: 14,101 (Semifinalist)
+Bruce: 5 (4th place: $5,000)
+Zeke: 10,100 (3rd place: $5,000)
+
+Coryat scores
+Sandy: 20,000 (19 R(including 1 DD),3 W(including 1 DD))
+Jeff: 9,700 (11 R,2 W)
+Bruce: 2,600 (7 R,2 W)
+Zeke: 11,900 (19 R(including 1 DD),2 W)

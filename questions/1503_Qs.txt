@@ -1,0 +1,340 @@
+3809 - Thursday, March 8, 2001
+Comments: Rick Knutsen game 3.
+Contestants:
+Pamela Meneley: a production assistant from San Diego, California
+Cecil Chang: a physician from Lafayette, California
+Rick Knutsen: a musician from Brooklyn, New York (whose 2-day cash winnings total $23,400)
+First Jeopardy! Round: HISTORIC COUPLES, CLASSIC SITCOM EPISODES, ROCKS & MINERALS, LET'S GET DOWN TO BUSINESS, SYRUPTITIOUS, WHAT THE "H" IS IT?
+HISTORIC COUPLES | In his will, this playwright left his second-best bed to his wife; maybe the best one went to Gwyneth Paltrow | William Shakespeare
+right: Rick
+Wrong: 
+Value: $100
+Number: 10
+CLASSIC SITCOM EPISODES | "The Ricardos Change Apartments" | I Love Lucy
+right: Pamela
+Wrong: 
+Value: $100
+Number: 1
+ROCKS & MINERALS | This dazzling rock is so hard it can only be scratched by another one | Diamond
+right: Rick
+Wrong: 
+Value: $100
+Number: 15
+LET'S GET DOWN TO BUSINESS | This company first introduced its MSN Network as part of Windows 95 | Microsoft
+right: Rick
+Wrong: 
+Value: $100
+Number: 18
+SYRUPTITIOUS | You'd be "as slow as" this syrup too if you were made from cane sugar | Molasses
+right: Rick
+Wrong: 
+Value: $100
+Number: 26
+WHAT THE "H" IS IT? | Footgear for Secretariat, or an enjoyable backyard game | Horseshoes
+right: Cecil
+Wrong: 
+Value: $100
+Number: 6
+HISTORIC COUPLES | Against all odds, Catherine Parr's marriage to this man who'd been wed 5 times before was surprisingly happy | Henry VIII
+right: Cecil
+Wrong: 
+Value: $200
+Number: 11
+CLASSIC SITCOM EPISODES | "Wally's Girl Trouble" | Leave it to Beaver
+right: Rick
+Wrong: 
+Value: $200
+Number: 2
+ROCKS & MINERALS | Often white & translucent, this delicate variety of gypsum has been used to make statues & vases | Alabaster
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 17
+LET'S GET DOWN TO BUSINESS | Here's the "scoop":  this chain began operating in 1978 out of a renovated gas station in Vermont | Ben & Jerry's
+right: Rick
+Wrong: 
+Value: $200
+Number: 19
+SYRUPTITIOUS | She's the "syrupy" mrs. seen <http://www.j-archive.com/media/2001-03-08_J_27.jpg> here: | Mrs. Butterworth
+right: Cecil
+Wrong: 
+Rick: Who is Aunt Jemima?
+Value: $200
+Number: 27
+WHAT THE "H" IS IT? | It can be a business recruiter or a cranium collector | Headhunter
+right: Rick
+Wrong: 
+Value: $200
+Number: 7
+HISTORIC COUPLES | Some say this Scottish queen only married the Earl of Bothwell because he abducted her | Mary, Queen of Scots
+right: Rick
+Wrong: 
+Value: $300
+Number: 12
+CLASSIC SITCOM EPISODES | "Sheriff Barney" | The Andy Griffith Show
+right: Rick
+Wrong: 
+Value: $300
+Number: 3
+ROCKS & MINERALS | Red pyrope, a type of this mineral & birthstone, is often sold as an imitation ruby | Garnet
+right: Pamela
+Wrong: 
+Value: $300
+Number: 23
+LET'S GET DOWN TO BUSINESS | With its "Softer Side" ads aside, this retailer now offers "The Good Life at a Great Price.  Guaranteed." | Sears
+right: Rick
+Wrong: 
+Value: $300
+Number: 20
+SYRUPTITIOUS | Mon dieu!  This Canadian province produces more maple syrup than any other | Quebec
+right: Rick
+Wrong: 
+Value: $300
+Number: 28
+WHAT THE "H" IS IT? | The last stage of an undertaking, or the last part of a race | Homestretch
+right: Rick
+Wrong: 
+Value: $300
+Number: 8
+HISTORIC COUPLES | This "Great" czar forced his first wife, Eudoxia, to become a nun, but she gave up the veil & romanced Stepan Glebov | Peter the Great
+right: Rick
+Wrong: 
+Value: $400
+Number: 13
+CLASSIC SITCOM EPISODES | "Hot Lips and Empty Arms" | M*A*S*H
+right: Rick
+Wrong: 
+Value: $400
+Number: 4
+ROCKS & MINERALS | New Hampshire's state rock of coarse is this common building material | Granite
+right: Rick
+Wrong: 
+Value: $400
+Number: 24
+LET'S GET DOWN TO BUSINESS | This airline first took to the skies in 1924 as a crop-dusting service based in Macon, Georgia | Delta Airlines
+right: Cecil
+Wrong: 
+Value: $400
+Number: 21
+SYRUPTITIOUS | Used in a variety of foods, this a"maize"ing syrup is made by processing a starch with acids or enzymes | Corn syrup
+right: Pamela
+Wrong: 
+Value: $400
+Number: 29
+WHAT THE "H" IS IT? | Hawaii favorite flowering here | Hibiscus
+right: Pamela
+Wrong: 
+Value: $400
+Number: 9
+HISTORIC COUPLES | This philandering U.S. pres. called his wife Florence "The Duchess"; we wonder if she had any choice nicknames for him | Warren G. Harding
+right: Pamela
+Wrong: 
+Value: $500
+Number: 14
+CLASSIC SITCOM EPISODES | "Lovey's Secret Admirer" | Gilligan's Island
+right: Rick
+Wrong: 
+Value: $500
+Number: 5
+ROCKS & MINERALS | A carbonate of copper, the ornamental stone malachite is this color | Green
+right: Rick
+Wrong: 
+Value: DD: $200
+Number: 25
+LET'S GET DOWN TO BUSINESS | I can get it for you wholesale at this warehouse chain that merged with Price Club in 1993 | Costco
+right: Cecil
+Wrong: 
+Value: $500
+Number: 22
+SYRUPTITIOUS | After baking, syrup is poured over this multilayered paper-thin Turkish & Greek pastry | Baklava
+right: Pamela
+Wrong: 
+Value: $500
+Number: 30
+WHAT THE "H" IS IT? | Das kapital of das Keystone State | Harrisburg (Pennsylvania)
+right: Rick
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Rick: $2,800
+Cecil: $300
+Pamela: $1,000
+Scores at the end of the Jeopardy! Round:
+Rick: $4,200
+Cecil: $1,200
+Pamela: $2,200
+Second Jeopardy! Round: EUROPEAN CAPITALS, BYE-BYE THREE RIVERS STADIUM, ENGLISH LIT, NOTABLES RHYME TIME, "PEP" BOYS, MANET, MONET OR JACQUES-LOUIS DAVID
+EUROPEAN CAPITALS | The 50-story Canary Wharf Tower in this capital is the U.K.'s tallest building | London
+right: Pamela
+Wrong: 
+Value: $200
+Number: 1
+BYE-BYE THREE RIVERS STADIUM | Three Rivers Stadium opened in 1970, the same year as this city's Riverfront Stadium | Cincinnati
+right: Rick
+Wrong: 
+Value: $200
+Number: 15
+ENGLISH LIT | It's the part of Julia that poet Robert Herrick said was "as white and hairless as an egg" | Leg
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 6
+NOTABLES RHYME TIME | Serling's deities | Rod's gods
+right: Rick
+Wrong: 
+Value: $200
+Number: 19
+"PEP" BOYS | This last name of NYC sports commentator Phil also precedes "Le Pew" & "Le Moko" | Pepe
+right: Rick
+Wrong: 
+Value: $200
+Number: 7
+MANET, MONET OR JACQUES-LOUIS DAVID | His "Impression: Sunrise" was a seascape | Monet
+right: Cecil
+Wrong: 
+Value: $200
+Number: 26
+EUROPEAN CAPITALS | Its famous avenue Unter Den Linden connects the Schlossplatz & the Brandenburg Gate | Berlin
+right: Pamela
+Wrong: 
+Value: $400
+Number: 2
+BYE-BYE THREE RIVERS STADIUM | This pro football team had to find a new home with the closure of the stadium | Pittsburgh Steelers
+right: Rick
+Wrong: 
+Value: $400
+Number: 16
+ENGLISH LIT | The 1927 book "The Road to Xanadu" was about this poet's sources for "Kubla Khan" & "The Ancient Mariner" | Samuel Taylor Coleridge
+right: Rick
+Wrong: 
+Value: $400
+Number: 12
+NOTABLES RHYME TIME | Rickenbacker's flimsy nightwear | Eddie's teddies
+right: Cecil
+Wrong: 
+Value: $400
+Number: 20
+"PEP" BOYS | He trained at the Actors Studio before starring on "Banacek" & "The A-Team" | George Peppard
+right: Rick
+Wrong: 
+Value: $400
+Number: 8
+MANET, MONET OR JACQUES-LOUIS DAVID | He painted the deaths of Lepeletier & Bara, as well as Marat | Jacques -Louis David
+right: Cecil
+Wrong: 
+Value: $400
+Number: 27
+EUROPEAN CAPITALS | This city's Christianborg Palace houses parliament & the supreme court | Copenhagen
+right: Cecil
+Wrong: 
+Value: $600
+Number: 3
+BYE-BYE THREE RIVERS STADIUM | For the Pirates' last home game in the stadium, this "We Are Family" group sang the National Anthem | Sister Sledge
+right: Rick
+Wrong: 
+Value: $600
+Number: 17
+ENGLISH LIT | There was a 6-year gap between the publications of the first 3 books of his "Faerie Queene" & the last 3 | Edmund Spenser
+right: Rick
+Wrong: 
+Value: $600
+Number: 13
+NOTABLES RHYME TIME | Schwarzkopf's latter-day saints | Norman's Mormons
+right: Rick
+Wrong: 
+Value: $600
+Number: 21
+"PEP" BOYS | It's odd that Charlemagne, the son of this 8th century ruler, was unusually tall | Pepin the Short
+right: Rick
+Wrong: 
+Value: DD: $1,400
+Number: 9
+MANET, MONET OR JACQUES-LOUIS DAVID | His "Olympia" was a new version of the recumbent Venus popular with Italian masters | Manet
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+EUROPEAN CAPITALS | To visit the National Museum in Bosnia, head to this capital | Sarajevo
+right: Pamela
+Wrong: 
+Value: $800
+Number: 4
+BYE-BYE THREE RIVERS STADIUM | As PNC Park replaced Three Rivers, Three Rivers replaced this park | Forbes Field
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+ENGLISH LIT | His 1919 novel "The Moon and Sixpence" was turned into an opera in 1957 | Somerset Maugham
+right: Cecil
+Wrong: 
+Value: $800
+Number: 14
+NOTABLES RHYME TIME | Brummell's schnoz | Beau's nose
+right: Rick
+Wrong: 
+Value: $800
+Number: 22
+"PEP" BOYS | He founded the Malibu university where Kenneth Starr was once about to become dean of law | George Pepperdine
+right: Rick
+Wrong: 
+Value: $800
+Number: 10
+MANET, MONET OR JACQUES-LOUIS DAVID | In 1883 he settled in Giverny & built a little pond | Monet
+right: Cecil
+Wrong: 
+Value: $800
+Number: 29
+EUROPEAN CAPITALS | A castle on the Vltava River in this capital was once home to the kings of Bohemia | Prague
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 5
+BYE-BYE THREE RIVERS STADIUM | This MVP of the '79 World Series was honored as part of the closing ceremonies | Willie Stargell
+right: Cecil
+Wrong: 
+Value: $1000
+Number: 24
+ENGLISH LIT | George Du Maurier's "Trilby" featured this sinister hypnotist | Svengali
+right: Rick
+Wrong: 
+Value: $1000
+Number: 25
+NOTABLES RHYME TIME | Eldridge's cloth-makers | Cleaver's weavers
+right: Rick
+Wrong: 
+Value: $1000
+Number: 23
+"PEP" BOYS | We thought we'd sneak this 17th century diarist into the category even though his name has a long "E" sound | Samuel Pepys
+right: Cecil
+Wrong: 
+Value: $1000
+Number: 11
+MANET, MONET OR JACQUES-LOUIS DAVID | His painting "The Fifer", seen <http://www.j-archive.com/media/2001-03-08_DJ_30.jpg> here, dates from 1866: | Manet
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Rick: $12,000
+Cecil: $5,800
+Pamela: $2,200
+
+Final Jeopardy! Round
+U.S. HISTORY | This president signed the bill to create a transcontinental railroad; he didn't live to see its completion | Abraham Lincoln
+right: Cecil | Rick
+Wrong: 
+Pamela: Who was William Henry Harrison
+Wagers: 
+Pamela: $2,199
+Cecil: $1,399
+Rick: $100
+Final scores:
+Rick: $12,100 (3-day champion: $35,500)
+Cecil: $7,199 (2nd place: Trip to Switzerland)
+Pamela: $1 (3rd place: Vocopro Karaoke Machine)
+
+Coryat scores
+Rick: $11,500 (32 R(including 2 DDs),4 W)
+Cecil: $5,800 (13 R,2 W)
+Pamela: $3,200 (9 R,2 W(including 1 DD))

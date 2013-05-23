@@ -1,0 +1,349 @@
+3942 - Tuesday, October 23, 2001
+Comments: 2001 Tournament of Champions quarterfinal game 2.
+Contestants:
+Pam Mueller: a college student from Wilmette, Illinois
+Andrew Garen: a project manager from Austin, Texas
+Larry Cloud: a computer consultant from Inglewood, California
+First Jeopardy! Round: U.S. CITIES, OH, DANNY BOY, PALEONTOLOGY, AWARD PRESENTERS, HISTORY TEST, WINNIE-THE-POOH'S ENTOURAGE
+U.S. CITIES | Saltwater taffy originated in this New Jersey resort in 1883 | Atlantic City
+right: Andrew
+Wrong: 
+Value: $100
+Number: 1
+OH, DANNY BOY | In 1799 this pioneer left Kentucky because it was "Too crowded!  I want more elbow-room" | Daniel Boone
+right: Larry
+Wrong: 
+Value: $100
+Number: 7
+PALEONTOLOGY | 500-million-year-old fish are the first known fossils of this backboned group of animals | vertebrates
+right: Pam
+Wrong: 
+Value: $100
+Number: 24
+AWARD PRESENTERS | The Royal Swedish Academy of the Sciences, the Swedish Academy & the Karolinska Institutet | the Nobel Prizes
+right: Andrew
+Wrong: 
+Value: $100
+Number: 19
+HISTORY TEST | The Spanish version of this judicial body was set up in 1478; the Roman one, in 1542 | the Inquisition
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 12
+WINNIE-THE-POOH'S ENTOURAGE | His human friend | Christopher Robin
+right: Andrew
+Wrong: 
+Value: $100
+Number: 3
+U.S. CITIES | This city's metropolitan area consists of 6 Missouri counties & 5 Illinois counties | St. Louis
+right: Pam
+Wrong: 
+Value: $200
+Number: 2
+OH, DANNY BOY | This former member of the Partridge Family turned 40 in August 1999 | Danny Bonaduce
+right: Andrew
+Wrong: 
+Value: $200
+Number: 8
+PALEONTOLOGY | Its tooth, mentioned in "Mack the Knife", is Georgia's state fossil & can date back 375 million years | shark
+right: Larry
+Wrong: 
+Value: $200
+Number: 25
+AWARD PRESENTERS | National Academy of Recording Arts and Sciences | the Grammys
+right: Andrew
+Wrong: 
+Value: $200
+Number: 20
+HISTORY TEST | In 1848 this U.S.-Mexico peace treaty was signed not far from the Basilica of the Virgin of Guadalupe | Treaty of Guadalupe Hidalgo
+right: Pam
+Wrong: 
+Value: $200
+Number: 13
+WINNIE-THE-POOH'S ENTOURAGE | His creator | A.A. Milne
+right: Pam
+Wrong: 
+Value: $200
+Number: 14
+U.S. CITIES | The site of the University of Colorado's main campus, it owns Arapahoe Glacier, from which it gets most of its water | Boulder
+right: Andrew
+Wrong: 
+Value: $300
+Number: 4
+OH, DANNY BOY | He was first elected to the U.S. Senate as a Democrat from Hawaii in 1962 | Daniel Inouye
+right: Andrew
+Wrong: 
+Value: $300
+Number: 9
+PALEONTOLOGY | (Cheryl of the Clue Crew at the Page Museum in Los Angeles)  The paw I'm holding belonged to a ground type of this, also one of the seven deadly sins | sloth
+right: Larry
+Wrong: 
+Value: $300
+Number: 26
+AWARD PRESENTERS | The League of American Theatres & Producers & the American Theatre Wing | the Tonys
+right: Larry
+Wrong: 
+Value: $300
+Number: 21
+HISTORY TEST | The Boxer Protocol, signed in September 1901, forced this country to pay about $330 million | China
+right: Andrew
+Wrong: 
+Value: $300
+Number: 16
+WINNIE-THE-POOH'S ENTOURAGE | Tiny Pooh friend who went to school in a pocket | Piglet
+right: Andrew
+Wrong: 
+Pam: Who is Roo?
+Value: $300
+Number: 15
+U.S. CITIES | Served by Blue Grass Airport, this Kentucky city was named for the first battle of the American Revolution | Lexington
+right: Andrew
+Wrong: 
+Value: $400
+Number: 5
+OH, DANNY BOY | In 1971 he gave us the "HIstory of U.S. Decision-Making Process on Viet Nam Policy", a 47-volume study, to the New York Times | Daniel Ellsberg
+right: Andrew
+Wrong: 
+Value: $400
+Number: 10
+PALEONTOLOGY | The Sandhill type of this can fly; Diatryma, the predatory 7-foot "terror" type, couldn't | crane
+right: Larry
+Wrong: 
+Value: $400
+Number: 27
+AWARD PRESENTERS | The Downtown Athletic Club of New York | the Heisman Trophy
+right: Larry
+Wrong: 
+Value: $400
+Number: 22
+HISTORY TEST | This ship left Tahiti April 4, 1789, apparently to the regret of many of the crew | the Bounty
+right: Andrew
+Wrong: 
+Value: DD: $900
+Number: 17
+WINNIE-THE-POOH'S ENTOURAGE | Mother & son marsupials | Kanga & Roo
+right: Pam
+Wrong: 
+Value: $400
+Number: 29
+U.S. CITIES | It's the easternmost port on Lake Erie | Buffalo
+right: Andrew
+Wrong: 
+Value: $500
+Number: 6
+OH, DANNY BOY | A major Dublin street is named for this man who helped pass Catholic emancipation in the 1820s | Daniel O'Connell
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 11
+PALEONTOLOGY | Trilobites were among the first creatures to have these; they were compound crystals that survive as fossils | eyes
+right: Andrew
+Wrong: 
+Value: $500
+Number: 28
+AWARD PRESENTERS | The International Academy of Digital Arts & Sciences | the Webby Awards
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 23
+HISTORY TEST | Vermeer's view of this city dates from a few years after its devastating powder magazine explosion | Delft
+right: Andrew
+Wrong: 
+Value: $500
+Number: 18
+WINNIE-THE-POOH'S ENTOURAGE | The imaginary creature who one night "set a trap" for Pooh | Heffalump
+right: Pam
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Larry: $100
+Andrew: $2,600
+Pam: $300
+Scores at the end of the Jeopardy! Round:
+Larry: $1,700
+Andrew: $5,100
+Pam: $1,300
+Second Jeopardy! Round: LET'S "C" WHAT YOU KNOW, NATIONAL HISTORIC LANDMARKS, THE PURPLE TESTAMENT, WORKING TITLES, COMMON BONDS, FIVE WEDDINGS & A FUNERAL
+LET'S "C" WHAT YOU KNOW | Pejorative name for any group with odd religious leanings & a charismatic leader | cult
+right: Larry
+Wrong: 
+Value: $200
+Number: 1
+NATIONAL HISTORIC LANDMARKS | Though they were designated a landmark in 1964, you can still ride them up & down the streets of San Francisco | cable cars
+right: Larry
+Wrong: 
+Value: $200
+Number: 21
+THE PURPLE TESTAMENT | It's the answer to the classic joke "What's big & purple & swims in the ocean?" | Moby Grape
+right: Pam
+Wrong: 
+Value: $200
+Number: 16
+WORKING TITLES | Stephen Crane's Civil War story "Private Fleming, His Various Battles" has a more classic ring with this title | The Red Badge of Courage
+right: Pam
+Wrong: 
+Value: $200
+Number: 8
+COMMON BONDS | It's a mixture of lime or cement with other ingredients used to bond bricks together | mortar
+right: Pam
+Wrong: 
+Value: $200
+Number: 6
+FIVE WEDDINGS & A FUNERAL | Dustin Hoffman learns about plastics & then busts up a wedding in this classic 1967 film | The Graduate
+right: Pam
+Wrong: 
+Value: $200
+Number: 26
+LET'S "C" WHAT YOU KNOW | In "Born Yesterday", Judy Holliday drops an "un" & tells boorish Broderick Crawford, "You're just not" this | couth
+right: Larry
+Wrong: 
+Value: $400
+Number: 2
+NATIONAL HISTORIC LANDMARKS | Check it out!  You'll find this landmark at Independence Ave. & 1st Street in Washington, D.C.; now keep it down! | Library of Congress
+right: Larry
+Wrong: 
+Value: $400
+Number: 22
+THE PURPLE TESTAMENT | The 1990 film "Graffiti Bridge" was the sequel to this 1984 hit film | Purple Rain
+right: 
+Wrong: Triple Stumper
+Andrew: What is "The Color Purple?"
+Pam: What is "American Graffiti?"
+Value: $400
+Number: 17
+WORKING TITLES | F. Scott Fitzgerald regretted changing the title of "Trimalchio in West Egg" to this | The Great Gatsby
+right: Larry
+Wrong: 
+Value: $400
+Number: 9
+COMMON BONDS | Oy!  Jim Berg & Tim Nyberg believe "if it ain't stuck, & it's supposed to be," use this tape | duct tape
+right: Andrew
+Wrong: 
+Value: $400
+Number: 7
+FIVE WEDDINGS & A FUNERAL | She was repeatedly a bride, not a bridesmaid, to Alec Baldwin in "The Marrying Man" | Kim Basinger
+right: Andrew
+Wrong: 
+Value: $400
+Number: 27
+LET'S "C" WHAT YOU KNOW | Seen here, this flower gives its name to a vivid shade of blue | cornflower
+right: 
+Wrong: Triple Stumper
+Larry: What is cerulean?
+Value: $600
+Number: 3
+NATIONAL HISTORIC LANDMARKS | Designed by Eero Saarinen, this is the tallest monument in the U.S. | the Gateway Arch
+right: 
+Wrong: 
+Larry: What is the Gateway Bridge in St. Louis?
+Value: DD: $2,400
+Number: 23
+THE PURPLE TESTAMENT | Seen here ... (audio not available on archivist's tape) | ----------------
+right: Pam
+Wrong: 
+Value: $600
+Number: 18
+WORKING TITLES | He used "Dark House" as the working title for both "Absalom, Absalom!" & "Light in August" | William Faulkner
+right: Larry
+Wrong: 
+Value: $600
+Number: 10
+COMMON BONDS | Though called tar, the black sticky pitch is really this, used as a glue by early Indians & today, to pave roads | asphalt
+right: Larry
+Wrong: 
+Value: $600
+Number: 13
+FIVE WEDDINGS & A FUNERAL | Peter Cook officiated the "mawwidge" of Robin Wright & Chris Sarandon in this fairy tale film | The Princess Bride
+right: Andrew
+Wrong: 
+Value: $600
+Number: 28
+LET'S "C" WHAT YOU KNOW | From the Chinese for "breath", it's the vital life force in the body | chi
+right: Pam
+Wrong: 
+Value: $800
+Number: 4
+NATIONAL HISTORIC LANDMARKS | (Jimmy of the Clue Crew in New Orleans)  The bar I'm about to enter was once a blacksmith's shop used by this man as a front for his pirate operations | Jean Lafitte
+right: Andrew
+Wrong: 
+Value: $800
+Number: 24
+THE PURPLE TESTAMENT | Nicknamed the "Purple Heart Battalion", WWII's 442nd Regiment was made up of Americans of this ethnicity | Japanese
+right: Larry
+Wrong: 
+Value: $800
+Number: 19
+WORKING TITLES | Hemingway considered "To Write It Truly" & "Love is Hunger" as titles for this memoir of living in Paris in the '20s | A Moveable Feast
+right: Larry
+Wrong: 
+Value: DD: $2,700
+Number: 11
+COMMON BONDS | In food processing, monoglycerides are added to bond these 2 opposite liquids to improve smoothness | water & oil
+right: Pam
+Wrong: 
+Value: $800
+Number: 14
+FIVE WEDDINGS & A FUNERAL | During "Rocky Horror", audiences throw rice when this TV mayor attends a wedding with Susan Sarandon | Barry Bostwick
+right: Pam
+Wrong: 
+Value: $800
+Number: 29
+LET'S "C" WHAT YOU KNOW | The fact that 9 plus 3 is equal to 3 plus 9 demonstrates this property, from the Latin for "exchange" | commutative
+right: Pam
+Wrong: 
+Value: $1000
+Number: 5
+NATIONAL HISTORIC LANDMARKS | The Little White Schoolhouse in this Wisconsin city claims to be the "Birthplace of the Republican Party" | Ripon
+right: Larry
+Wrong: 
+Value: $1000
+Number: 25
+THE PURPLE TESTAMENT | A gunman named Lassiter is the hero of this Zane Grey novel | Riders of the Purple Sage
+right: Larry
+Wrong: 
+Value: $1000
+Number: 20
+WORKING TITLES | Sinclair Lewis' conformist was G.T. Pumphrey of Monarch City, but became this title character of Zenith | George Babbitt
+right: Pam
+Wrong: 
+Andrew: Who is Arrowsmith?
+Value: $1000
+Number: 12
+COMMON BONDS | In 1951 this company put its Elmer's glue into a plastic squeeze bottle with an orange top | Borden's
+right: Larry
+Wrong: 
+Value: $1000
+Number: 15
+FIVE WEDDINGS & A FUNERAL | Here's a wedding & a funeral; this "Muse" star played "Private Benjamin"'s husband who died on their wedding night | Albert Brooks
+right: 
+Wrong: Triple Stumper
+Larry: Who is Steve Guttenberg?
+Andrew: Who is Sharon Stone?
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Larry: $7,000
+Andrew: $4,900
+Pam: $6,700
+
+Final Jeopardy! Round
+BUSINESS & INDUSTRY | These 2 companies whose products complement each other are the only 2 that have ever topped the Fortune 500 | General Motors & Exxon
+right: 
+Wrong: 
+Andrew: What are IBM & Microsoft?
+Pam: What are Microsoft & Apple?
+Larry: What are IBM & Microsoft?
+Wagers: 
+Andrew: $4,000
+Pam: $301
+Larry: $5,000
+Final scores:
+Larry: $2,000 (2nd place: $2,500 if eliminated)
+Andrew: $900 (3rd place: $2,500 if eliminated)
+Pam: $6,399 (Automatic semifinalist)
+
+Coryat scores
+Larry: $7,500 (18 R(including 1 DD),3 W(including 1 DD))
+Andrew: $4,400 (19 R(including 1 DD),3 W)
+Pam: $6,700 (16 R,2 W)

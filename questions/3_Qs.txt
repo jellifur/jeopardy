@@ -1,0 +1,332 @@
+4598 - Wednesday, September 8, 2004
+Comments: Ken Jennings game 41.
+Contestants:
+Laura Gustafson: an information manager from Acton, Massachusetts
+Adam Meyer: a college professor from Nashville, Tennessee
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 40-day cash winnings total $1,353,461)
+First Jeopardy! Round: LITTLE RED RIDING HOOD, SHORTWAVE, SMALL TOWN FOLKS, MICRONESIA, A "TINY" CATEGORY, MY NEWT
+LITTLE RED RIDING HOOD | It was the wolf's reply to Red's comment, "Grandmother, what large eyes you have" | the better to see you with
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+SHORTWAVE | The shortwave band begins at about 1700 these units abbreviated kHz; below that you're in AM territory | kilohertz
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+SMALL TOWN FOLKS | This popcorn magnate burst into the world on July 16, 1907 in Brazil, Indiana | Orville Redenbacher
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+MICRONESIA | The only native mammal in Micronesia is this flying one | a bat
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+A "TINY" CATEGORY | Probably the most famous ukulele player to have a top 40 hit, his name came from a Charles Dickens character | Tiny Tim
+right: Ken
+Wrong: 
+Value: $200
+Number: 2
+MY NEWT | My newt, seen <http://www.j-archive.com/media/2004-09-08_J_01.jpg> here, gets offended when people call it a lizard--it's obviously one of these amphibians | a salamander
+right: Adam
+Wrong: 
+Value: $200
+Number: 1
+LITTLE RED RIDING HOOD | In the 1934 Disney cartoon "The Big Bad Wolf", this trio warns Red about the wolf waiting at Grandma's house | the Three Little Pigs
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+SHORTWAVE | Mainly funded by the CIA, this broadcasting operation began transmitting behind the Iron Curtain in 1949 | Radio Free Europe
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+SMALL TOWN FOLKS | As a player, <http://www.j-archive.com/media/2004-09-08_J_22.jpg> this man led tiny Williston, N.D. High to the state basketball championships | Phil Jackson
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+MICRONESIA | In the 1950s Enewetak & this atoll consisted the Pacific proving ground of the U.S. Atomic Energy Commission | Bikini Atoll
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+A "TINY" CATEGORY | Leon Prober composed this Don Ho standard | "Tiny Bubbles"
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+MY NEWT | When my newt developed this pair of organs, it was ready to start living on land & be called an eft | lungs
+right: Ken
+Wrong: 
+Value: $400
+Number: 3
+LITTLE RED RIDING HOOD | In the Grimms' version, this character was added to save Red's life after the wolf had devoured her | the woodsman
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+SHORTWAVE | One book calls this 12-letter word the "arch-enemy of shortwave listeners"; I just call it annoying | interference
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+SMALL TOWN FOLKS | Last name of Cecile, Yvonne, Annette, Emelie, & Marie, born May 28, 1934 in the village of Callendar, Ontario | Dionne
+right: Ken
+Wrong: 
+Value: DD: $4,200
+Number: 23
+MICRONESIA | The name Micronesia comes from 2 Greek words, micro & nesos, which mean this | small island
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+A "TINY" CATEGORY | 1980s Boston Celtics standout Nate | "Tiny" Archibald
+right: Adam
+Wrong: 
+Value: $600
+Number: 8
+MY NEWT | My newt takes pride in how carefully female newts attach these individually to aquatic plants | her eggs
+right: Ken
+Wrong: 
+Value: $600
+Number: 4
+LITTLE RED RIDING HOOD | "Lil' Red Riding Hood" was a No. 2 hit in 1966 for Sam the Sham & this group | The Pharaohs
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+SHORTWAVE | This service that broadcasts from Abuja & Lagos has a name reflecting that of the USA's official radio service | Voice of Nigeria
+right: 
+Wrong: Triple Stumper
+Ken: What is Voice of Africa?
+Value: $800
+Number: 29
+SMALL TOWN FOLKS | This bandleader whose hit is heard <http://www.j-archive.com/media/2004-09-08_J_24.mp3> here grew up in the small towns of Clarinda, Iowa; Tryon, Neb.; & Grant City, Mo. | Glenn Miller
+right: Adam
+Wrong: 
+Value: $800
+Number: 24
+MICRONESIA | In Agana, the capital of this U.S. territory, you can visit Latte Stone Park & see stone pillars from a prehistoric people | Guam
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+A "TINY" CATEGORY | This TV show featured younger versions of classic Warner Bros. animated characters | Tiny Toon Adventures
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+MY NEWT | It's no fun for my newt to hug his European cousin named for these bumps attributed to toads | warts
+right: Ken
+Wrong: 
+Value: $800
+Number: 5
+LITTLE RED RIDING HOOD | "Little Red Riding Hood" was first written as "Le Petit Chaperon Rouge" in 1697 by this French fairy tale compiler | Charles Perrault
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+SHORTWAVE | To catch the BBC at 1700 UTC, or Universal Time Coordinated, tune in at this morning hour Pacific Standard time | 9:00 AM
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+SMALL TOWN FOLKS | From Dublin, Mich. this actor & Verizon spokesman first used a phone when he won a college scholarship | James Earl Jones
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+MICRONESIA | Most of the Caroline Islands are now a part of this independent country known as FSM for short | the Federated States of Micronesia
+right: Laura
+Wrong: 
+Value: $1000
+Number: 15
+A "TINY" CATEGORY | In the Oscar-nominated song, the 3 words that follow "Thumbelina, Thumbelina..." | "Tiny Little Thing"
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+MY NEWT | My newt wonders why newts aren't a Japanese delicacy like this fish that secretes the same poison | blowfish (or fugu)
+right: Ken
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Ken: $7,200
+Adam: $800
+Laura: $1,000
+Scores at the end of the Jeopardy! Round:
+Ken: $16,400
+Adam: $1,600
+Laura: $1,000
+Second Jeopardy! Round: TALL BUILDINGS, SPORTS GIANTS, HEAPING PORTIONS, LOTS OF SPACE, THE VAST & THE FURIOUS, BIG WORDS
+TALL BUILDINGS | If a chunk of this New England city's Travelers Tower falls on you, we're confident they're insured | Hartford, Connecticut
+right: Laura
+Wrong: 
+Ken: What is Boston?
+Value: $400
+Number: 21
+SPORTS GIANTS | In 1946, Elmore Morgenthaler was the first NBA player with this physical distinction | being 7 feet tall
+right: Ken
+Wrong: 
+Value: $400
+Number: 3
+HEAPING PORTIONS | This "male" brand of frozen dinners contains more than 1 pound of food; the XXL line has 1 1/2 pounds | Hungry-Man
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+LOTS OF SPACE | NASA has 134 of these & has no current plan to hire more | astronauts
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+THE VAST & THE FURIOUS | The shortest "war" in history, 45 minutes, occured in 1896 between Zanzibar & naval forces of this vast empire | the British Empire
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+BIG WORDS | A person who fought against slavery, like John Brown, was termed this 12-letter word | abolitionist
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+TALL BUILDINGS | Manhattan's <http://www.j-archive.com/media/2004-09-08_DJ_22.jpg> Lever House helped usher in the era of the building style known as a box of this material | glass
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+SPORTS GIANTS | Through 2003 this pitcher now with Arizona had 3,871 strikeouts in 3,122 innings | Randy Johnson
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+HEAPING PORTIONS | The Overtons named this restaurant for a certain dessert; it's known for its large menu & giant portions | Cheesecake Factory
+right: Adam
+Wrong: 
+Ken: What is Big Boy?
+Laura: What is... Cheesecake Company?
+Value: $800
+Number: 2
+LOTS OF SPACE | On August 27, 2003 this planet reached its closest point to Earth in nearly 60,000 years | Mars
+right: Ken
+Wrong: 
+Value: $800
+Number: 8
+THE VAST & THE FURIOUS | This nation of 200 million has fought small independence movements like those in Aceh & East Timor | Indonesia
+right: Adam
+Wrong: 
+Value: $800
+Number: 27
+BIG WORDS | This instrument, often attached to an inflatable cuff, is used to measure blood pressure | a sphygmomanometer
+right: Adam
+Wrong: 
+Ken: [Holding back laughter] What's a sphyg... sphnygnomometer?
+Value: $800
+Number: 17
+TALL BUILDINGS | You might expect decor by Michelangelo at the over 500-foot towers with this name in Dallas & Detroit | Renaissance
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+SPORTS GIANTS | North-of-the-border star athlete seen <http://www.j-archive.com/media/2004-09-08_DJ_13.jpg> here | Vince Carter
+right: Adam
+Wrong: 
+Value: $1200
+Number: 13
+HEAPING PORTIONS | A 32-ounce soft drink at 7-Eleven has this trademarked name | Big Gulp
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+LOTS OF SPACE | In 1965, Belyayev just had to sit there while his partner Leonov became the first to do this | walk in space
+right: Ken
+Wrong: 
+Value: $1200
+Number: 9
+BIG WORDS | This 11-letter word for "sleight of hand" is from the French for "light of hand" | legerdemain
+right: 
+Wrong: Triple Stumper
+Ken: What is prestidigitation?
+Value: $1200
+Number: 18
+TALL BUILDINGS | The Jin Mao Building, China's tallest, is in this commercial center in the east of the country | Shanghai
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+SPORTS GIANTS | Known as "Tooz", he played defensive line for the Raiders & played Tonda in the film "Caveman" | John Matuszak
+right: Adam
+Wrong: 
+Value: $1600
+Number: 14
+HEAPING PORTIONS | (<http://www.j-archive.com/media/2004-09-08_DJ_05.jpg> Jimmy of the Clue Crew points to three stacks of different-sized paper cups in a Starbucks in Seattle, Washington.)  At Starbucks, tall is only 12 ounces, grande is 16 ounces & this, Italian for 20, is 20 ounces | venti
+right: Laura
+Wrong: 
+Value: $1600
+Number: 5
+LOTS OF SPACE | In 1945 this "Space Odyssey" author suggested a space-based telecommunication system | Arthur Clarke
+right: Ken
+Wrong: 
+Value: $1600
+Number: 10
+BIG WORDS | This adjective refers to a 150th anniversary | sesquicentennial
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+TALL BUILDINGS | This establishment, seen <http://www.j-archive.com/media/2004-09-08_DJ_25.jpg> here, isn't in Asia, but in Atlantic City | the Taj Mahal
+right: Adam
+Wrong: 
+Value: $2000
+Number: 25
+SPORTS GIANTS | (<http://www.j-archive.com/media/2004-09-08_DJ_15.jpg> I'm Hall of Famer Dan Hampton.)  My Hall of Fame biography mentions this beastly nickname that came from my first name & my fierce attitude | "Danimal"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+HEAPING PORTIONS | This bottle size named for one of the Magi is the equivalent of 16 standard bottles of wine | Balthazar
+right: Laura
+Wrong: 
+Value: DD: $1,000
+Number: 6
+LOTS OF SPACE | Try & come up with this name of the Apollo 15 command module or the shuttle first launched in 1992 | Endeavor
+right: Ken
+Wrong: 
+Value: $2000
+Number: 11
+BIG WORDS | 28-letter term for opposition to the withdrawal of state support, as for the Anglican church | antidisestablishmentarianism
+right: Ken
+Wrong: 
+Value: DD: $5,600
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Ken: $33,600
+Adam: $8,800
+Laura: $3,200
+
+Final Jeopardy! Round
+HISTORIC MEDIUMS | In the '20s the alleged spirit powers of Margery caused a rift between these 2 men, a magician & a writer | Harry Houdini & Sir Arthur Conan Doyle
+right: 
+Wrong: 
+Laura: Who are Houdini + Hemingway
+Adam: Who are Houdini + ?
+Ken: Who are Houdini and Fitzgerald?
+Wagers: 
+Laura: $3,000
+Adam: $0
+Ken: $6,400
+Final scores:
+Ken: $27,200 (41-day champion: $1,380,661)
+Adam: $8,800 (2nd place: $2,000)
+Laura: $200 (3rd place: $1,000)
+
+Coryat scores
+Ken: $26,400 (40 R(including 2 DDs),5 W)
+Adam: $8,800 (9 R,0 W)
+Laura: $4,200 (4 R(including 1 DD),1 W)

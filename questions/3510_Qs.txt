@@ -1,0 +1,345 @@
+6026 - Monday, November 22, 2010
+Contestants:
+George Tsuji: a software  engineer from Ottawa, Ontario, Canada
+Aimee Slater: a program manager originally from Spokane, Washington
+Vito Cortese: a software engineer and Italian translator from Pittsburgh, Pennsylvania (whose 3-day cash winnings total $68,485)
+First Jeopardy! Round: WORLD HERSTORY, THE QUOTABLE DE NIRO, THE DREADED COUNTING CATEGORY, YOU'RE SUCH AN ANIMAL!, DRINKS ARE ON ME!, WORD PUZZLES
+WORLD HERSTORY | In 1860, 4 years after leaving the Crimea, she wrote the book "Notes on Nursing: What It Is and What It Is Not" | Florence Nightingale
+right: Vito
+Wrong: 
+Value: $200
+Number: 12
+THE QUOTABLE DE NIRO | 1980: "You never got me down, Ray" | Raging Bull
+right: George
+Wrong: 
+Aimee: What is Taxi Driver?
+Value: $200
+Number: 1
+THE DREADED COUNTING CATEGORY | In baseball it's how a pitcher-to-catcher-to-first double play is scored (this is an easy one) | 1, 2, 3
+right: Aimee
+Wrong: 
+Value: $200
+Number: 15
+YOU'RE SUCH AN ANIMAL! | It's the only seal with tusks | a walrus
+right: Aimee
+Wrong: 
+Value: $200
+Number: 11
+DRINKS ARE ON ME! | Ads for this iced tea brand encouraged people to take a backward "plunge" into a pool | Nestea
+right: George
+Wrong: 
+Value: $200
+Number: 6
+WORD PUZZLES | When I needed money, I did <http://www.j-archive.com/media/2010-11-22_J_22.jpg> this--bought, then quickly resold | flipped the house
+right: Vito
+Wrong: 
+Value: $200
+Number: 22
+WORLD HERSTORY | Convincing the gang to take the Bozeman Pass was just one of her contributions to Lewis & Clark's expedition | Sacagawea
+right: Vito
+Wrong: 
+Value: $400
+Number: 13
+THE QUOTABLE DE NIRO | 1991: "Counselor, come out, come out, wherever you are" | Cape Fear
+right: George
+Wrong: 
+Aimee: Uh... ah, sorry.
+Value: $400
+Number: 2
+THE DREADED COUNTING CATEGORY | In poker if you've got a jack high straight, these are your 3 lowest cards | 7, 8, 9
+right: Aimee
+Wrong: 
+Value: $400
+Number: 27
+YOU'RE SUCH AN ANIMAL! | In parts of Asia, more than half the milk produced comes from the "water" type of this bovid | buffalo
+right: Vito
+Wrong: 
+Value: $400
+Number: 18
+DRINKS ARE ON ME! | In the 1870s a friend told Charles Hires that his root tea would sell better under this name | root beer
+right: Vito
+Wrong: 
+Value: $400
+Number: 7
+WORD PUZZLES | <http://www.j-archive.com/media/2010-11-22_J_23.jpg> It's an arm of the Mediterranean | the Aegean Sea
+right: George
+Wrong: 
+Value: $400
+Number: 23
+WORLD HERSTORY | After briefly attending Oxford University, she returned to India in 1941 & married a Parsi lawyer the following year | Indira Gandhi
+right: George
+Wrong: 
+Value: $600
+Number: 14
+THE QUOTABLE DE NIRO | (In Sicilian) "To you she's beautiful. For me, there's only my wife & son" | The Godfather Part II
+right: George
+Wrong: 
+Value: DD: $1,000
+Number: 3
+THE DREADED COUNTING CATEGORY | If a Spanish child tells you to count to mil while he hides, you'll end with this trio of numbers | 998, 999, 1000
+right: George
+Wrong: 
+Value: $600
+Number: 28
+YOU'RE SUCH AN ANIMAL! | North America's 2 venomous lizards are the Mexican beaded lizard & this scary denizen of the Southwest | a Gila monster
+right: Vito
+Wrong: 
+Value: $600
+Number: 19
+DRINKS ARE ON ME! | I get hot & thirsty reading clues all day; this is a job for this drink & its pitch-pitcher's cry of "Oh yeah!" | Kool-Aid
+right: Vito
+Wrong: 
+Value: $600
+Number: 8
+WORD PUZZLES | Quickly, quickly, quickly--<http://www.j-archive.com/media/2010-11-22_J_24.jpg> this way | lickety split
+right: George
+Wrong: 
+Value: $600
+Number: 24
+WORLD HERSTORY | Some scholars believe that this wife of Akhenaton was not Egyptian but an Asian princess from Syria | Nefertiti
+right: Aimee
+Wrong: 
+Value: $800
+Number: 16
+THE QUOTABLE DE NIRO | 1995: "Meeting in the middle of a desert always made me nervous, it's a scary place" | Casino
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+THE DREADED COUNTING CATEGORY | If Joe Biden counts senators to see if he has a quorum, he can stop after these 3 numbers | 49, 50, 51
+right: Vito
+Wrong: 
+George: What is 48, 49, 50?
+Value: $800
+Number: 29
+YOU'RE SUCH AN ANIMAL! | This agile monkey of the Americas dines on, among other things, the arachnid in its name | a spider monkey
+right: Aimee
+Wrong: 
+Value: $800
+Number: 20
+DRINKS ARE ON ME! | In 1965 the Univ. of Florida football team began using this drink developed by school researchers | Gatorade
+right: Aimee
+Wrong: 
+Value: $800
+Number: 9
+WORD PUZZLES | <http://www.j-archive.com/media/2010-11-22_J_25.jpg> Condition of commotion & noisy confusion | uproar
+right: George
+Wrong: 
+Value: $800
+Number: 25
+WORLD HERSTORY | For supporting a revolt against him, Henry II had this wife imprisoned from 1173 till his death in 1189 | Eleanor of Aquitaine
+right: Aimee
+Wrong: 
+Value: $1000
+Number: 17
+THE QUOTABLE DE NIRO | 1988: "$100,000 & I'll have the Duke here for you by Friday night" | Midnight Run
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THE DREADED COUNTING CATEGORY | If you're counting out pennies to buy a first class stamp, you'll end with these 3 numbers | 42, 43, 44
+right: Aimee
+Wrong: 
+Value: $1000
+Number: 30
+YOU'RE SUCH AN ANIMAL! | Around 9 pounds at birth, the pygmy species of this African mammal may eventually reach some 600 pounds | a hippopotamus
+right: Aimee
+Wrong: 
+Value: $1000
+Number: 21
+DRINKS ARE ON ME! | Vitamin-happy Glaceau also makes this "wise" drink with "purity you can taste, hydration you can feel" | Smartwater
+right: Vito
+Wrong: 
+Value: $1000
+Number: 10
+WORD PUZZLES | Formidable feudal <http://www.j-archive.com/media/2010-11-22_J_26.jpg> firearm | crossbow
+right: George
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Vito: $2,600
+Aimee: $600
+George: $1,600
+Scores at the end of the Jeopardy! Round:
+Vito: $4,600
+Aimee: $5,600
+George: $4,200
+Second Jeopardy! Round: CUBA, SI!, YANKEES, NO!, AUTHORS' BIRTHPLACES, CONTRONYMS, THEY COME IN TWOS, I LEARNED IT IN BALLET CLASS
+CUBA, SI! | Turquino Peak, Cuba's highest, is in the chain known as this "Maestra"; California has one "Nevada" | Sierra
+right: Vito
+Wrong: 
+Value: $400
+Number: 6
+YANKEES, NO! | "Next year" finally came to this team's fans in 1955, when its "Bums" beat the Yanks in the Series for the first time in 6 tries | the Brooklyn Dodgers
+right: George
+Wrong: 
+Value: $400
+Number: 5
+AUTHORS' BIRTHPLACES | This playwright was born in March 1828 in Skien, a small lumbering town of Norway | Ibsen
+right: Vito
+Wrong: 
+Value: $400
+Number: 20
+CONTRONYMS | To hide by blocking, or to show by projecting | screen
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 25
+THEY COME IN TWOS | The 2 most basic forms of skiing are Nordic & this downhill type named for a mountain range | Alpine
+right: George
+Wrong: 
+Value: $400
+Number: 10
+I LEARNED IT IN BALLET CLASS | (<http://www.j-archive.com/media/2010-11-22_DJ_26.wmv> Kelly of the Clue Crew reads from the Dance Theatre of Harlem.)  A series of quick, jumping steps is called this, also the Italian term for the tempo at which the music is playing | allegro
+right: Vito
+Wrong: 
+Value: $400
+Number: 26
+CUBA, SI! | Celebrated Jan. 1, Triumph of the Revolution, Cuba's national holiday, commemorates events of this 20th c. year | 1959
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+YANKEES, NO! | The Yankees lost game 7 of the 1926 World Series when this portly gent was thrown out trying to steal second base | Babe Ruth
+right: Vito
+Wrong: 
+Value: $800
+Number: 4
+AUTHORS' BIRTHPLACES | He was born in "The Jungle" of Baltimore in 1878 | (Upton) Sinclair
+right: Aimee
+Wrong: 
+Value: $800
+Number: 21
+CONTRONYMS | A solid fruit core, or a cavity in the ground | a pit
+right: Vito
+Wrong: 
+Value: $800
+Number: 18
+THEY COME IN TWOS | The 2 components of a complete sentence are a subject & this unit | a verb
+right: Vito
+Wrong: 
+Value: $800
+Number: 11
+I LEARNED IT IN BALLET CLASS | (<http://www.j-archive.com/media/2010-11-22_DJ_27.wmv> Kelly of the Clue Crew reads from the Dance Theatre of Harlem.)  A fouetté is a pirouette that lets the dancer regain momentum after each spin; the Black Swan does 32 in a row in a ballet by this composer | Tchaikovsky
+right: George
+Wrong: 
+Value: $800
+Number: 27
+CUBA, SI! | Cuba is the largest island in this "directional" archipelago | the West Indies
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+YANKEES, NO! | A "Big Red Machine" from this city ran right over the Yankees in a 4-game sweep of the 1976 World Series | Cincinnati
+right: George
+Wrong: 
+Aimee: What is Boston?
+Value: $1200
+Number: 1
+AUTHORS' BIRTHPLACES | Salinas, California (east of... Frisco) was the birthplace of this author, who often referred to it in his work | Steinbeck
+right: Vito
+Wrong: 
+Value: $1200
+Number: 22
+CONTRONYMS | An advantage in golf or a disadvantage through lack | a handicap
+right: George
+Wrong: 
+Value: $1200
+Number: 15
+THEY COME IN TWOS | The 2 main gods of Hinduism are Vishnu & him | Shiva
+right: 
+Wrong: 
+Vito: Who is Krishna?
+Value: DD: $2,000
+Number: 12
+I LEARNED IT IN BALLET CLASS | (<http://www.j-archive.com/media/2010-11-22_DJ_28.wmv> Jimmy of the Clue Crew reads from the Dance Theatre of Harlem.)  Legend says the Royale was created in an attempt to do the harder entrechat quatre  by this 17th-century French king, under whom ballet became a strict art form | Louis XIV
+right: Aimee
+Wrong: 
+Vito: Who is Henry V?
+Value: $1200
+Number: 28
+CUBA, SI! | Reaching heights of 75 feet, Cuba's national tree is the royal this | palm
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+YANKEES, NO! | In 2004 this team came back from a 3-games-to-0 deficit & beat the Yanks for the A.L. pennant; revenge gets no sweeter | the Boston Red Sox
+right: George
+Wrong: 
+Value: $1600
+Number: 2
+AUTHORS' BIRTHPLACES | He didn't have a "Sister Carrie" when he was born in Terre Haute, Indiana in 1871 | Theodore Dreiser
+right: 
+Wrong: 
+Vito: Who is... Wadsworth?
+Value: DD: $1,500
+Number: 23
+CONTRONYMS | To remove excess fat, or to add Christmas ornaments | trim
+right: Vito
+Wrong: 
+Value: $1600
+Number: 16
+THEY COME IN TWOS | The 2 main kinds of camels are the one-humped dromedary & this 2-humped Asian species | Bactrian
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 13
+I LEARNED IT IN BALLET CLASS | (<http://www.j-archive.com/media/2010-11-22_DJ_29.wmv> Jimmy of the Clue Crew reads from the Dance Theatre of Harlem.)  The step battement tendu was highly valued by this legendary choreographer. He told his wife, Maria Tallchief, that if she'd do it properly she wouldn't have to learn anything else | Balanchine
+right: Vito
+Wrong: 
+Value: $1600
+Number: 29
+CUBA, SI! | Many Cuban practitioners of this "saintly" Afro-Caribbean religion speak Lucumi, a "secret" language | Santería
+right: Vito
+Wrong: 
+Value: $2000
+Number: 19
+YANKEES, NO! | This ace L.A. lefty dominated the Yanks in the 1963 World Series, striking out 23 & beating them twice in a 4-game sweep | Sandy Koufax
+right: Vito
+Wrong: 
+Value: $2000
+Number: 3
+AUTHORS' BIRTHPLACES | This existentialist came into being (not nothingness) June 21, 1905 in Paris | (Jean-Paul) Sartre
+right: George
+Wrong: 
+Value: $2000
+Number: 24
+CONTRONYMS | To bless an action by decree, or to ban an action by decree | sanction
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+THEY COME IN TWOS | Named for their method of secretion, they're the 2 main types of glands in the body | endocrine & exocrine
+right: George
+Wrong: 
+Value: $2000
+Number: 14
+I LEARNED IT IN BALLET CLASS | (<http://www.j-archive.com/media/2010-11-22_DJ_30.wmv> Kelly of the Clue Crew reads from the Dance Theatre of Harlem.)  The final pas de deux is one of the famous dances from this ballet; maybe it's fitting that its choreographer Lev Ivanov died on Christmas Eve when it's set | The Nutcracker
+right: 
+Wrong: Triple Stumper
+Vito: What is The Nutcracker Suite?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Vito: $9,900
+Aimee: $6,400
+George: $13,800
+
+Final Jeopardy! Round
+COMMUNICATION | It was first transmitted by the USS Arapahoe off Cape Hatteras on August 11, 1909 | SOS
+right: Aimee | Vito | George
+Wrong: 
+Wagers: 
+Aimee: $6,400
+Vito: $4,000
+George: $6,200
+Final scores:
+Vito: $13,900 (2nd place: $2,000)
+Aimee: $12,800 (3rd place: $1,000)
+George: $20,000 (New champion: $20,000)
+
+Coryat scores
+Vito: $13,400 (20 R,4 W(including 2 DDs))
+Aimee: $6,400 (11 R,3 W)
+George: $13,400 (18 R(including 1 DD),2 W)

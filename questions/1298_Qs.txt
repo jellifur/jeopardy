@@ -1,0 +1,338 @@
+3625 - Friday, May 12, 2000
+Comments: 2000 Tournament of Champions quarterfinal game 5.  From the Atlanta Civic Center.
+Contestants:
+Carolyn Cracraft: a college senior from Chicago, Illinois
+Darlene Lieblich: a television executive from Van Nuys, California
+Terry Currin: a systems analyst and pharmacist from White Lake, Michigan
+First Jeopardy! Round: EARLS, NAME THE PLAYWRIGHT, FANDEMONIUM, FORTUNE 500 COMPANIES, THE ABCs OF THE CDC, ATALANTA
+EARLS | Earl Browder, author of "Marx And America", was general secretary of this U.S. party from 1930 to 1944 | Communist Party
+right: Terry
+Wrong: 
+Value: $100
+Number: 1
+NAME THE PLAYWRIGHT | "A Doll's House" | Henrik Ibsen
+right: Carolyn
+Wrong: 
+Value: $100
+Number: 4
+FANDEMONIUM | Many Deadheads' lives revolved around the live concerts performed by this band | Grateful Dead
+right: Carolyn
+Wrong: 
+Value: $100
+Number: 16
+FORTUNE 500 COMPANIES | A lot of investors are stuck on this company that markets Acuvue & baby shampoo | Johnson & Johnson
+right: Carolyn
+Wrong: 
+Value: $100
+Number: 21
+THE ABCs OF THE CDC | In 1992 the CDC added this word to its name to reflect its broader role, but didn't add "P" to its initials | Prevention
+right: Terry
+Wrong: 
+Value: $100
+Number: 8
+ATALANTA | Atalanta was the daughter of Iasus, king of Arcadia, on this peninsula that was also home to Sparta | Peloponnesus
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 26
+EARLS | By the time he died in 1992, his "Any Car, Any Color" offer had risen from $29.95 to $119.95 | Earl Scheib
+right: Darlene
+Wrong: 
+Value: $200
+Number: 2
+NAME THE PLAYWRIGHT | "Summer And Smoke" | Tennessee Williams
+right: Darlene
+Wrong: 
+Value: $200
+Number: 5
+FANDEMONIUM | Jack Nicholson is a courtside fixture at this NBA team's home games | Los Angeles Lakers
+right: Terry
+Wrong: 
+Value: $200
+Number: 17
+FORTUNE 500 COMPANIES | Fall into this retailer that also operates the Banana Republic & Old Navy stores | The Gap
+right: Carolyn
+Wrong: 
+Value: $200
+Number: 22
+THE ABCs OF THE CDC | The CDC says this form of cancer, which includes melanoma, is the most common in the U.S. | Skin cancer
+right: Terry
+Wrong: 
+Value: $200
+Number: 9
+ATALANTA | Left to die in the wild by her dad, who didn't want a girl, she was suckled by one of these ursine creatures | Bear
+right: Carolyn
+Wrong: 
+Value: $200
+Number: 27
+EARLS | He narrated, no doubt resonantly, the 1972 documentary "Malcolm X" | James Earl Jones
+right: Carolyn
+Wrong: 
+Value: $300
+Number: 3
+NAME THE PLAYWRIGHT | "The Sisters Rosensweig" | Wendy Wasserstein
+right: Terry
+Wrong: 
+Value: $300
+Number: 12
+FANDEMONIUM | Fans of this high-flying sport involving lots of string may know it's Thailand's most popular | Kite flying
+right: Terry
+Wrong: 
+Value: $300
+Number: 18
+FORTUNE 500 COMPANIES | This Dallas-based maker of semiconductors got its start in the 1930s as an oil exploration company | Texas Instruments
+right: Carolyn
+Wrong: 
+Value: DD: $800
+Number: 23
+THE ABCs OF THE CDC | At its inception in 1946, the CDC fought this mosquito-borne disease that was prevalent in the South at the time | Malaria
+right: Terry
+Wrong: 
+Value: $300
+Number: 10
+ATALANTA | To marry Atalanta, a suitor had to beat her in one of these competitions | Footrace
+right: Carolyn
+Wrong: 
+Value: $300
+Number: 28
+EARLS | This future chief justice was Dewey's running mate when he didn't defeat Truman | Earl Warren
+right: Terry
+Wrong: 
+Value: $400
+Number: 6
+NAME THE PLAYWRIGHT | "Rhinoceros" | Eugene Ionesco
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+FANDEMONIUM | Male fans of this football team's "Hogs" dress as women & are called "Hogettes" | Washington Redskins
+right: Terry
+Wrong: 
+Value: $400
+Number: 19
+FORTUNE 500 COMPANIES | In 1999 the Class A stock of this company headed by Warren Buffett reached a 52-week high of $81,000 a share | Berkshire Hathaway
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+THE ABCs OF THE CDC | In 1981 the first cases of this disease were published in the CDC's "Morbidity And Mortality Weekly Report" | AIDS
+right: Carolyn
+Wrong: 
+Value: $400
+Number: 11
+ATALANTA | After being the first to wound the Calydonian, one of these wild tusked creatures, Atalanta was awarded its hide | Boar
+right: Darlene
+Wrong: 
+Value: $400
+Number: 29
+EARLS | "The Ballad of Jed Clampett" wasn't recorded by Flatt & Sharp but by Flatt & him | Earl Scruggs
+right: Terry
+Wrong: 
+Value: $500
+Number: 7
+NAME THE PLAYWRIGHT | "Murder In The Cathedral" | T.S. Eliot
+right: Carolyn
+Wrong: 
+Value: $500
+Number: 15
+FANDEMONIUM | The band Simply Red took their name in part from their love of this northern English soccer team | Manchester United
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+FORTUNE 500 COMPANIES | Here's to your health & here's to this insurance group, whose service mark is seen here | CIGNA
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+THE ABCs OF THE CDC | The CDC is an agency of this department of the federal government | Health & Human Services
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 13
+ATALANTA | This Greek goddess of the hunt took an interest in Atalanta, who grew up to be a great hunter | Artemis
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Terry: $1,400
+Darlene: $400
+Carolyn: $1,300
+Scores at the end of the Jeopardy! Round:
+Terry: $2,300
+Darlene: $300
+Carolyn: $2,500
+Second Jeopardy! Round: EARLS, 20th CENTURY WOMEN, THE LAW, BALLET, QUOTATIONS, GEORGIA FACTS
+EARLS | The Earls of Arundel & Warren got their names on this 1215 document along with King John | Magna Carta
+right: Carolyn
+Wrong: 
+Value: $200
+Number: 7
+20th CENTURY WOMEN | Her nicknames include "Queen of the West" & "Queen of the Cowgirls" | Dale Evans
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+THE LAW | In colonial America, this crime of being married to 2 persons at the same time was punishable by death | Polygamy/bigamy
+right: Carolyn
+Wrong: 
+Value: $200
+Number: 8
+BALLET | This Spanish surrealist designed a"maze"ing sets & costumes for the 1941 ballet "Labyrinth" | Salvador Dali
+right: Terry
+Wrong: 
+Value: $200
+Number: 1
+QUOTATIONS | On the death of his wife Linda in 1998, this musician said, "I have lost my girlfriend, and that is very sad" | Paul McCartney
+right: Carolyn
+Wrong: 
+Value: $200
+Number: 17
+GEORGIA FACTS | In 1793 he invented the cotton gin in Georgia | Eli Whitney
+right: Darlene
+Wrong: 
+Value: $200
+Number: 2
+EARLS | We don't know if the Earl Granville gave advice on outhouses  as lord president of this council from 1751 to 1763 | Privy Council
+right: Terry
+Wrong: 
+Value: $400
+Number: 22
+20th CENTURY WOMEN | The 90-word title of her 1999 album is a poem that she wrote in response to an unflattering magazine article about her | Fiona Apple
+right: Carolyn
+Wrong: 
+Value: $400
+Number: 27
+THE LAW | This type of court is used to determine the validity of a deceased person's will | Probate
+right: Terry
+Wrong: 
+Value: $400
+Number: 9
+BALLET | A picnic with Rasputin is the opening scene of the ballet named for this grand duchess | Anastasia
+right: Darlene
+Wrong: 
+Value: $400
+Number: 3
+QUOTATIONS | David Ben-Gurion once remarked, "Without" this city, "we are a body without a soul" | Jerusalem
+right: Terry
+Wrong: 
+Value: $400
+Number: 18
+GEORGIA FACTS | This presidential brother is buried in Plains | Billy Carter
+right: Darlene
+Wrong: 
+Value: $400
+Number: 13
+EARLS | This 1623 edition of Shakespeare is dedicated to the Earls of Pembroke & Montgomery | First Folio
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+20th CENTURY WOMEN | Her books include "I Lost It At The Movies" & "5001 Nights At The Movies" | Pauline Kael
+right: Darlene
+Wrong: 
+Value: $600
+Number: 28
+THE LAW | From the Greek for "not remembered", it's a pardon granted by the government to political offenders | Amnesty
+right: Terry
+Wrong: 
+Value: $600
+Number: 10
+BALLET | In 1992 dancer Kevin McKenzie became artistic director of this company once led by Mikhail Baryshnikov | American Ballet Theatre
+right: Darlene
+Wrong: 
+Value: $600
+Number: 4
+QUOTATIONS | The witticism "A verbal agreement isn't worth the paper it's written on" is attributed to this film pioneer | Samuel Goldwyn
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 19
+GEORGIA FACTS | In 1733 he founded the Georgia colony & served as its governor for the next 10 years | James Oglethorpe
+right: Terry
+Wrong: 
+Value: $600
+Number: 14
+EARLS | The surrenderer, seen here, was both Earl & Marquis of this | Cornwallis
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+20th CENTURY WOMEN | Fruity first name of acclaimed Japanese author Yoshimoto, whose books include "N.P.", "Amrita" & "Kitchen" | Banana
+right: Carolyn
+Wrong: 
+Value: $800
+Number: 30
+THE LAW | He was the first of our presidents to practice law | John Adams
+right: Terry
+Wrong: 
+Value: DD: $600
+Number: 11
+BALLET | A cowgirl wins the heart of a champion roper in this Agnes De Mille ballet | Rodeo
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+QUOTATIONS | Of that famous incident in 1955, she said, "All I was doing was trying to get home from work" | Rosa Parks
+right: Terry
+Wrong: 
+Value: $800
+Number: 20
+GEORGIA FACTS | Add 3 words to New York State's nickname & you get this nickname for Georgia | "The Empire State of the South"
+right: Terry
+Wrong: 
+Value: $800
+Number: 15
+EARLS | In 1896, commanding Egypt's army, Earl Kitchener invaded this country to the south | Sudan
+right: Carolyn
+Wrong: 
+Value: $1000
+Number: 25
+20th CENTURY WOMEN | She published her first book "Contemporary Women Artists", to raise money for the Carmelite order | Sister Wendy
+right: 
+Wrong: 
+Value: DD: $1,500
+Number: 29
+THE LAW | In 1979 this Watergate judge wrote a book about his experiences titled "To Set The Record Straight" | John Sirica
+right: Terry
+Wrong: 
+Value: $1000
+Number: 12
+BALLET | This "Pomp And Circumstance" composer is a character in the ballet named for his "Enigma Variations" | Edward Elgar
+right: Darlene
+Wrong: 
+Value: $1000
+Number: 6
+QUOTATIONS | Last name of the officer to whom Admiral Dewey gave the command, "You may fire when you are ready" | (Charles) Gridley
+right: Terry
+Wrong: 
+Value: $1000
+Number: 21
+GEORGIA FACTS | The Museum of Aviation in Warner Robins has an exhibit on this famous group of Black American pilots | Tuskegee Airmen
+right: Terry
+Wrong: 
+Value: $1000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Terry: $9,900
+Darlene: $1,200
+Carolyn: $4,300
+
+Final Jeopardy! Round
+WORLD LANDMARKS | In the 1920s this nation's churches pooled their money & erected a 120-foot religious monument on a 2,300-foot peak | Brazil
+right: Darlene | Carolyn | Terry
+Wrong: 
+Wagers: 
+Darlene: $1,200
+Carolyn: $1,200
+Terry: $100
+Final scores:
+Terry: $10,000 (Automatic semifinalist)
+Darlene: $2,400 (3rd place: $2,500 if eliminated)
+Carolyn: $5,500 (2nd place: $2,500 if eliminated)
+
+Coryat scores
+Terry: $10,100 (22 R(including 1 DD),2 W)
+Darlene: $2,700 (9 R,4 W(including 1 DD))
+Carolyn: $3,800 (16 R(including 1 DD),3 W)

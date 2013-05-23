@@ -1,0 +1,338 @@
+3765 - Friday, January 5, 2001
+Comments: Adam Taxin game 1.
+Contestants:
+Mark Venezia: a high school teacher from Pittsburgh, Pennsylvania
+Erin Gantt: a marine engineering manager from Prince Georges County, Maryland
+Adam Taxin: a graduate student originally from Rose Valley, Pennsylvania (whose 1-day cash winnings total $14,700)
+First Jeopardy! Round: THE BODY HUMAN, GARMENT BAG, SPOUSE IN COMMON, "ART" CLASS, A ROYAL PAIN, IN THE BUTTE
+THE BODY HUMAN | The auricle is the fleshy outer portion of this organ | Ear
+right: Erin
+Wrong: 
+Value: $100
+Number: 2
+GARMENT BAG | Traditionally, nothing is worn under this garment seen here | Kilt
+right: Erin
+Wrong: 
+Value: $100
+Number: 21
+SPOUSE IN COMMON | Sonny Bono, Gregg Allman | Cher
+right: Mark
+Wrong: 
+Value: $100
+Number: 20
+"ART" CLASS | A member of the thistle family, its leaves are tasty when dipped in melted butter or hollandaise sauce | Artichoke
+right: Adam
+Wrong: 
+Value: $100
+Number: 14
+A ROYAL PAIN | It's the royal title held by Heliogabalus, assassinated in his bathroom by his own Praetorian Guard | Emperor
+right: Adam
+Wrong: 
+Value: $100
+Number: 7
+IN THE BUTTE | In 1912 Butte's new one of these judicial buildings cost twice as much as the state capitol | Courthouse
+right: Mark
+Wrong: 
+Value: $100
+Number: 1
+THE BODY HUMAN | Also called the voice box, it's larger in men than in women | Larynx
+right: Mark
+Wrong: 
+Value: $200
+Number: 3
+GARMENT BAG | Brand name for the boating shoes from Sperry seen here; they've been sold in the same style for over 60 years | Top-Siders
+right: Erin
+Wrong: 
+Value: $200
+Number: 22
+SPOUSE IN COMMON | Amy Irving, Kate Capshaw | Steven Spielberg
+right: Erin
+Wrong: 
+Value: $200
+Number: 19
+"ART" CLASS | The richest women, each worth $16 billion, are the widow & daughter of Sam Walton, founder of this chain | Wal-Mart
+right: Adam
+Wrong: 
+Value: $200
+Number: 15
+A ROYAL PAIN | In 1789 pesky revolutionaries imprisoned this king & his family in the Tuileries Palace | Louis XVI
+right: Adam
+Wrong: 
+Value: $200
+Number: 11
+IN THE BUTTE | Seen here, a 90-foot statue overlooking Butte is called Our Lady of these mountains | The Rockies
+right: Erin
+Wrong: 
+Value: $200
+Number: 24
+THE BODY HUMAN | Estradiol is the strongest form of these female hormones | Estrogens
+right: Mark
+Wrong: 
+Value: $300
+Number: 4
+GARMENT BAG | In "Flashdance" this actress wore the top that inspired the fashion seen here | Jennifer Beals
+right: Adam
+Wrong: 
+Value: $300
+Number: 23
+SPOUSE IN COMMON | Judy Carne, Loni Anderson | Burt Reynolds
+right: Adam
+Wrong: 
+Value: $300
+Number: 18
+"ART" CLASS | This adjective can describe a poorly executed painting or Paul Simon's solo career | Artless
+right: Erin
+Wrong: 
+Value: $300
+Number: 30
+A ROYAL PAIN | Bad report card?  In the 1580s this royal Russian killed his son & heir in a fit of rage | Ivan the Terrible
+right: Adam
+Wrong: 
+Value: $300
+Number: 10
+IN THE BUTTE | "Southwest Montana's Premier Performing Arts Center" has this "maternal" name of a vein of ore | Mother Lode Theatre
+right: Erin
+Wrong: 
+Value: $300
+Number: 27
+THE BODY HUMAN | The longest muscle in a human, the sartorius is flat & narrow & lies within this part of the body | Thigh/leg
+right: Mark
+Wrong: 
+Value: $400
+Number: 5
+GARMENT BAG | Similar to a djellaba & a dashiki, this tunic is worn from north Africa to the Middle East | Kaftan
+right: Erin
+Wrong: 
+Value: $400
+Number: 25
+SPOUSE IN COMMON | William Powell, Clark Gable | Carole Lombard
+right: Erin
+Wrong: 
+Value: $400
+Number: 17
+"ART" CLASS | In a 1941 film he said, "Let's talk about the black bird" | Humphrey Bogart
+right: Erin
+Wrong: 
+Value: $400
+Number: 13
+A ROYAL PAIN | When assassinated in 1908, Carlos I of this Iberian country was in a virtual state of war with his subjects | Portugal
+right: Mark
+Wrong: 
+Value: $400
+Number: 9
+IN THE BUTTE | Famous Butteites (Butte-ies?) include this motorcycle daredevil, born there in 1938 | Evel Knievel
+right: Erin
+Wrong: 
+Value: $400
+Number: 28
+THE BODY HUMAN | Ligaments in the elbow connect the radius & the ulna to this bone | Humerus
+right: Mark
+Wrong: 
+Value: $500
+Number: 6
+GARMENT BAG | This Scottish hat seen here is also the first word of a David Mamet play title | Glengarry
+right: Erin
+Wrong: 
+Value: $500
+Number: 26
+SPOUSE IN COMMON | Jeff Goldblum, Renny Harlin | Geena Davis
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+"ART" CLASS | Made of plastic & aluminum, the Jarvik-7 is this type of device | Artificial heart
+right: Adam
+Wrong: 
+Value: $500
+Number: 12
+A ROYAL PAIN | In 711 a large Muslim army crossed this strait & defeated Roderick, the last Visigoth king of Spain | Strait of Gibraltar
+right: Adam
+Wrong: 
+Value: DD: $300
+Number: 8
+IN THE BUTTE | Led by the Anaconda Company, by 1900 Butte was the world's largest producer of this metal | Copper
+right: Adam
+Wrong: 
+Value: $500
+Number: 29
+Scores at the first commercial break (after clue 15)
+Adam: $1,100
+Erin: $500
+Mark: $1,900
+Scores at the end of the Jeopardy! Round:
+Adam: $2,000
+Erin: $3,000
+Mark: $2,000
+Second Jeopardy! Round: VERY GRIMM TALES, DICTATORS BY BIRTHPLACE, H.H., OH, NO!  OPERA!, SEE HOW THEY RUN, THE "EVIL" WITHIN
+VERY GRIMM TALES | In the original Grimm Brothers version, after the miller's daughter guessed his name, he tore himself in two | Rumpelstiltskin
+right: Adam
+Wrong: 
+Value: $200
+Number: 6
+DICTATORS BY BIRTHPLACE | August 29, 1941: Pozarevac, Serbia | Slobodan Milosevic
+right: Erin
+Wrong: 
+Value: $200
+Number: 5
+H.H. | The first of his Playboy Clubs opened in 1960; the last closed in 1988 | Hugh Hefner
+right: Mark
+Wrong: 
+Value: $200
+Number: 25
+OH, NO!  OPERA! | This famous martyr is the heroine of many operas, including "The Maid of Orleans" | Joan of Arc
+right: Adam
+Wrong: 
+Value: $200
+Number: 12
+SEE HOW THEY RUN | For men they're 42 inches high at the 110-meter distance, 36 inches high at 400 meters | Hurdles
+right: Adam
+Wrong: 
+Value: $200
+Number: 30
+THE "EVIL" WITHIN | Middle name of appeasing British PM Arthur Chamberlain | Neville
+right: Adam
+Wrong: 
+Value: $200
+Number: 29
+VERY GRIMM TALES | She got only crab shells to eat, while the witch gave her brother all the best food to plump him up for eating | Gretel
+right: Mark
+Wrong: 
+Value: $400
+Number: 19
+DICTATORS BY BIRTHPLACE | April 28, 1937: Tikrit, Iraq | Saddam Hussein
+right: Erin
+Wrong: 
+Value: $400
+Number: 4
+H.H. | While serving as vice president in the 1960s, he chaired the Council on Economic Opportunity | Hubert H. Humphrey
+right: Mark
+Wrong: 
+Value: $400
+Number: 15
+OH, NO!  OPERA! | Thea Musgrave's 1995 opera about this South American liberator premiered in Virginia, not Venezuela | Simon Bolivar
+right: Adam
+Wrong: 
+Value: $400
+Number: 11
+SEE HOW THEY RUN | Ty Cobb led the league in these in 1911, but lost out in 1912 to Clyde "Deerfoot" Milan | Stolen bases
+right: Adam
+Wrong: 
+Value: $400
+Number: 26
+THE "EVIL" WITHIN | This NHL team whose logo is seen here calls East Rutherford home | New Jersey Devils
+right: Mark
+Wrong: 
+Value: $400
+Number: 28
+VERY GRIMM TALES | For fetching her golden ball out of the well, the princess promised this animal she'd eat, sleep & play with him | Frog
+right: Erin
+Wrong: 
+Value: $600
+Number: 18
+DICTATORS BY BIRTHPLACE | May 19, 1925: Kompong Thom, Cambodia | Pol Pot
+right: Adam
+Wrong: 
+Value: $600
+Number: 3
+H.H. | This author was a bookseller & mechanic before writing such books as "Steppenwolf" & "Siddhartha" | Hermann Hesse
+right: Adam
+Wrong: 
+Value: $600
+Number: 14
+OH, NO!  OPERA! | The Seattle Opera is famous for its back-to-back productions of this composer's "Ring" cycle, in German & English | Richard Wagner
+right: Erin
+Wrong: 
+Value: $600
+Number: 10
+SEE HOW THEY RUN | In 1954 Diane Leather was the first woman under 5 minutes in the mile & he was the first man under 4 | Roger Bannister
+right: Adam
+Wrong: 
+Value: $600
+Number: 24
+THE "EVIL" WITHIN | From a Spanish place name, it's a shade of orange | Seville
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+VERY GRIMM TALES | One-Eye & Three-Eyes hated their sister because she had these, like the common folk | Two eyes
+right: Mark
+Wrong: 
+Value: $800
+Number: 17
+DICTATORS BY BIRTHPLACE | September 11, 1917: Sarrat, Philippines | Ferdinand Marcos
+right: Erin
+Wrong: 
+Value: $800
+Number: 2
+H.H. | This Peter Noone-led group was originally called The Heartbeats | Herman's Hermits
+right: Adam
+Wrong: 
+Value: $800
+Number: 13
+OH, NO!  OPERA! | She wrote the libretto for "The Mother of Us All"; maybe that's why it features a character named "Gertrude S." | Gertrude Stein
+right: Adam
+Wrong: 
+Value: $800
+Number: 9
+SEE HOW THEY RUN | This winged horse follows "Fusaichi" in the name of the 2000 Kentucky Derby winner | Pegasus
+right: Adam
+Wrong: 
+Value: $800
+Number: 23
+THE "EVIL" WITHIN | This verb's synonyms include vilify, abuse, berate & disparage | Revile
+right: 
+Wrong: 
+Value: DD: $3,000
+Number: 21
+VERY GRIMM TALES | Guys who failed to figure out how the 12 princesses wore these out each night were killed, simple as that | Shoes
+right: Erin
+Wrong: 
+Value: $1000
+Number: 16
+DICTATORS BY BIRTHPLACE | January 26, 1918: Scornicesti, Romania | Nicolae Ceausescu
+right: Adam
+Wrong: 
+Value: $1000
+Number: 1
+H.H. | In the 1530s this "Younger" German became court painter to King Henry VIII; his duties included designing jewelry | Hans Holbein
+right: Adam
+Wrong: 
+Value: $1000
+Number: 7
+OH, NO!  OPERA! | The 1981 opera based on this Tolstoy novel begins, & ends, at a Moscow railway station | "Anna Karenina"
+right: Adam
+Wrong: 
+Value: DD: $1,400
+Number: 8
+SEE HOW THEY RUN | This Wisconsin running back won the Heisman Trophy in 1999 & was Rose Bowl MVP in 2000 | Ron Dayne
+right: Adam
+Wrong: 
+Value: $1000
+Number: 22
+THE "EVIL" WITHIN | "Colorful" Tennessee town that's home to President Andrew Johnson's tailor shop | Greeneville
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Adam: $11,600
+Erin: $6,600
+Mark: -$200
+
+Final Jeopardy! Round
+LIFE SCIENCE | A study done in South Africa put these non-primates above chimpanzees, making them the world's second-smartest species | Dolphins
+right: Adam
+Wrong: 
+Erin: What are (dolphins) ape
+Wagers: 
+Erin: $6,600
+Adam: $1,900
+Final scores:
+Adam: $13,500 (2-day champion: $28,200)
+Erin: $0 (2nd place: Trip to Miami & Miami Film Festival)
+Mark: -$200 (3rd place: American Historic Society Gift Certificate)
+
+Coryat scores
+Adam: $11,400 (26 R(including 2 DDs),4 W)
+Erin: $6,600 (18 R,1 W)
+Mark: $2,800 (12 R,3 W(including 1 DD))

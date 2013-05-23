@@ -1,0 +1,337 @@
+3198 - Wednesday, June 24, 1998
+Contestants:
+Dan Kennedy: a systems analyst from Alberta, New York
+Tricia Schroyer: a housewife and freelance seamstress from Pensacola, Florida
+P.D. Wadler: a psychotherapist from Chicago, Illinois (whose 1-day cash winnings total $9,200)
+First Jeopardy! Round: FOOD & DRINK, A THAILAND FLING, TRIPLE FEATURES, STRANGE BUT TRUE, A LITTLE KNIGHT MUSIC, "F" WORDS
+FOOD & DRINK | It's popularly referred to as "Chicken of the Sea" | Tuna
+right: Dan
+Wrong: 
+Value: $100
+Number: 7
+A THAILAND FLING | In Muay Thai, the Thai form of this western sport, kicking is allowed | Boxing
+right: Tricia
+Wrong: 
+Value: $100
+Number: 12
+TRIPLE FEATURES | In various versions of this film, Gene Kelly, Don Ameche & Chris O'Donnell have been d'Artagnan | The Three Musketeers
+right: Dan
+Wrong: 
+Value: $100
+Number: 24
+STRANGE BUT TRUE | A French scientist suggested using wood as a paper source after watching these insects make it | Wasps
+right: P.D.
+Wrong: 
+Value: $100
+Number: 13
+A LITTLE KNIGHT MUSIC | It's not stolen money, my Lord, this instrument heard here is an old relative of the guitar: | Lute
+right: Dan
+Wrong: 
+Value: $100
+Number: 6
+"F" WORDS | Mr. Gifford, or his hot dog | Frank
+right: Dan
+Wrong: 
+Value: $100
+Number: 2
+FOOD & DRINK | It's the traditional meat for a gyro sandwich | Lamb
+right: Dan
+Wrong: 
+Value: $200
+Number: 8
+A THAILAND FLING | The largest land mammal in Thailand, the shape of the country looks like its head, in profile | Elephant
+right: Dan
+Wrong: 
+Value: DD: $500
+Number: 22
+TRIPLE FEATURES | What a rip-off!  Joanne Woodward won only one Oscar for this 1957 film | Three Faces of Eve
+right: Dan
+Wrong: 
+Value: $200
+Number: 25
+STRANGE BUT TRUE | Lily pads must have made une impression on him, as this man painted over 200 versions of them | Claude Monet
+right: Tricia
+Wrong: 
+Value: $200
+Number: 14
+A LITTLE KNIGHT MUSIC | The chevalier must have brought this instrument; its name is Old French for "small drum": | Tambourine
+right: Tricia
+Wrong: 
+Value: $200
+Number: 16
+"F" WORDS | It's also called the crazy bone, which sounds "humerus" to us | Funny bone
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+FOOD & DRINK | In 1998 Barq's, a brand of this beverage, celebrates its 100th birthday | Root beer
+right: Dan
+Wrong: 
+Value: $300
+Number: 9
+A THAILAND FLING | At a Thai restaurant you may wimp out & say, "Mai phet, farang", meaning "Not" this, "I'm a foreigner" | Spicy
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+TRIPLE FEATURES | Rene Russo is Mel Gibson's love interest in this 1992 sequel | Lethal Weapon 3
+right: Tricia
+Wrong: 
+Value: $300
+Number: 26
+STRANGE BUT TRUE | Everything was shipshape, but no one was home when this ghost ship was boarded in 1872 | The Mary Celeste
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 15
+A LITTLE KNIGHT MUSIC | Apprentice, wake thy knight, these instruments being struck announce the day: | Bells
+right: P.D. | Tricia
+Wrong: 
+Value: $300
+Number: 17
+"F" WORDS | Any Quaker, whether or not he's your buddy | Friend
+right: Tricia
+Wrong: 
+Value: $300
+Number: 1
+FOOD & DRINK | Of Turkish origin, the confection called halvah is made from these seeds & honey | Sesame seeds
+right: Dan
+Wrong: 
+Value: $400
+Number: 10
+A THAILAND FLING | The tuk-tuk, a motorized transport, costs less than a taxi, maybe because it only has this many wheels | 3
+right: Dan
+Wrong: 
+Value: $400
+Number: 29
+TRIPLE FEATURES | This 1954 film set in Rome featured a Jule Styne-Sammy Cahn title song | Three Coins in the Fountain
+right: Tricia
+Wrong: 
+Value: $400
+Number: 27
+STRANGE BUT TRUE | Some members of these Melanesian "cults" await consumer goods that will be sent by supernatural forces | Cargo cults
+right: Dan
+Wrong: 
+Value: $400
+Number: 20
+A LITTLE KNIGHT MUSIC | I'll announce your arrival at the joust, my liege, with a coiled one of the instruments heard here: | Trumpet
+right: P.D.
+Wrong: 
+Value: $400
+Number: 18
+"F" WORDS | To struggle helplessly, like a certain flatfish | Flounder
+right: Tricia
+Wrong: 
+Value: $400
+Number: 4
+FOOD & DRINK | This popular coffee liqueur is produced in the Mexican town of Ramos Arizpe | Kahlua
+right: Dan
+Wrong: 
+Value: $500
+Number: 11
+A THAILAND FLING | First name of the famous Western governess of King Rama IV's son | Anna
+right: Dan
+Wrong: 
+Value: $500
+Number: 30
+TRIPLE FEATURES | Sissy Spacek, Shelley Duvall & Janice Rule were this 1977 Robert Altman title trio | Three Women
+right: P.D.
+Wrong: 
+Value: $500
+Number: 28
+STRANGE BUT TRUE | This lieutenant colonel led the British forces in the battle that began the French & Indian War | George Washington
+right: Dan
+Wrong: 
+Value: $500
+Number: 21
+A LITTLE KNIGHT MUSIC | Drink some mead, young squire, & sing along with this rhyme time instrument heard here: | Hurdy gurdy
+right: Tricia
+Wrong: 
+Value: $500
+Number: 19
+"F" WORDS | Some guitarists "worry" about these ridges on their fingerboards | Frets
+right: Tricia
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+P.D.: $100
+Tricia: $1,500
+Dan: $1,900
+Scores at the end of the Jeopardy! Round:
+P.D.: $1,300
+Tricia: $2,800
+Dan: $4,500
+Second Jeopardy! Round: ZOOLOGY, WRITE ON, SISTER!, COMPUTER LITERACY, FAMOUS AMERICANS, LEAP DAY IN SPORTS, REVOLUTIONARY QUOTES
+ZOOLOGY | These wingless bloodsuckers often infest sleeping quarters; don't let 'em bite! | Bedbugs
+right: Dan
+Wrong: 
+Value: $200
+Number: 30
+WRITE ON, SISTER! | This "Little House on the Prairie" chick once served as poultry editor for the St. Louis Star | Laura Ingalls Wilder
+right: P.D.
+Wrong: 
+Value: $200
+Number: 4
+COMPUTER LITERACY | This synonym for "fundamental" is the name of a common beginner's programming language | Basic
+right: Tricia
+Wrong: 
+Value: $200
+Number: 8
+FAMOUS AMERICANS | In 1918 this automaker bought the Deaborn Independent, calling it the "chronicler of neglected truth" | Henry Ford
+right: Dan
+Wrong: 
+Value: $200
+Number: 9
+LEAP DAY IN SPORTS | On Feb. 29, 1932 this Manassa Mauler KOed 2 men in less than 3 minutes in an exhibition match | Jack Dempsey
+right: Dan
+Wrong: 
+Value: $200
+Number: 23
+REVOLUTIONARY QUOTES | The original draft for this read, "We hold these truths to be sacred and undeniable" | Declaration of Independence
+right: P.D.
+Wrong: 
+Value: $200
+Number: 20
+ZOOLOGY | The woolly bear caterpillar grows up to be the Isabella tiger species of this insect | Moth
+right: Tricia
+Wrong: 
+Value: $400
+Number: 29
+WRITE ON, SISTER! | In her 1995 memoir "Angels Don't Die", she paid tribute to her father, Ronald Reagan | Patti Davis
+right: P.D.
+Wrong: 
+Value: $400
+Number: 3
+COMPUTER LITERACY | Digital computers use this number system in which the decimal number 12 becomes 1100 | Binary
+right: Dan
+Wrong: 
+Value: $400
+Number: 10
+FAMOUS AMERICANS | Ralph Capone was an important figure in organized crime, like this brother whom he survived | Al Capone
+right: Dan
+Wrong: 
+Value: $400
+Number: 12
+LEAP DAY IN SPORTS | Named 1971's best amateur athlete in the U.S. on Feb. 29, 1972, he went on to win 7 Olympic gold medals | Mark Spitz
+right: P.D.
+Wrong: 
+Value: $400
+Number: 25
+REVOLUTIONARY QUOTES | In a 1774 letter this king wrote, "The die is now cast, the colonies must either submit or triumph" | George III
+right: Dan
+Wrong: 
+Value: $400
+Number: 21
+ZOOLOGY | This African mammal is named for the distinctive features seen here in close-up: | Warthog
+right: P.D.
+Wrong: 
+Value: DD: $1,000
+Number: 5
+WRITE ON, SISTER! | Like her "Looking for Mr. Goodbar", her 1997 novel "Perfidia" was inspired by a real murder case | Judith Rossner
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 1
+COMPUTER LITERACY | From Greek for "to hide", it's putting a message in secret code | Encrypting
+right: Tricia
+Wrong: 
+Value: $600
+Number: 11
+FAMOUS AMERICANS | In her lifetime, this dollar coin suffragette's autograph was traded much like baseball cards today | Susan B. Anthony
+right: Tricia
+Wrong: 
+Value: $600
+Number: 15
+LEAP DAY IN SPORTS | On Feb. 29, 1972 he signed a new contract with Atlanta making him the highest paid player in baseball | Hank Aaron
+right: P.D.
+Wrong: 
+Value: $600
+Number: 27
+REVOLUTIONARY QUOTES | In 1783 Benjamin Franklin wrote to Josiah Quincy, "There never was a good war or a bad" one of these | Peace
+right: Dan
+Wrong: 
+Value: $600
+Number: 19
+ZOOLOGY | The "straw-necked" type of this wading bird isn't as well-known as the "sacred" or the "scarlet" | Ibis
+right: P.D.
+Wrong: 
+Value: $800
+Number: 6
+WRITE ON, SISTER! | The name of this late "Petals on the Wind" author is now a registered trademark | V.C. Andrews
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+COMPUTER LITERACY | This term for diplomatic procedure also refers to an agreed format for data to be communicated | Protocol
+right: P.D.
+Wrong: 
+Value: $800
+Number: 13
+FAMOUS AMERICANS | Losing sight in the eye meant she couldn't perform surgery, but she became the USA's first woman doctor | Elizabeth Blackwell
+right: Tricia
+Wrong: 
+Value: $800
+Number: 16
+LEAP DAY IN SPORTS | Dick Button won the world figure skating title Feb. 29, 1952, 8 days after his Olympic gold in this Norway city | Oslo
+right: Tricia
+Wrong: 
+Value: $800
+Number: 26
+REVOLUTIONARY QUOTES | In "The American Crisis", he wrote, "A bad cause will ever be supported by bad means and bad men" | Thomas Paine
+right: Dan
+Wrong: 
+Value: DD: $2,000
+Number: 24
+ZOOLOGY | Sadly, the black-footed type of this small member of the weasel family is endangered | Ferret
+right: Dan
+Wrong: 
+Value: $1000
+Number: 7
+WRITE ON, SISTER! | In a 1916 story this "Little Lord Fauntleroy" author revealed "The Way to the House of Santa Claus" | Francis Hodgson Burnett
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+COMPUTER LITERACY | This powerful operating system from Bell Labs replaced an earlier system called Multics | Unix
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 14
+FAMOUS AMERICANS | A famous Broadway theater & the alley it's on bear the name of these producer brothers | Shubert
+right: P.D.
+Wrong: 
+Value: $1000
+Number: 17
+LEAP DAY IN SPORTS | On Feb. 29, 1980 this 51-year-old ex-Red Wing scored his 800th NHL goal | Gordie Howe
+right: Dan
+Wrong: 
+Value: $1000
+Number: 28
+REVOLUTIONARY QUOTES | Defending British soldiers for the Boston Massacre, he said, "Facts are stubborn things" | John Adams
+right: Dan
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+P.D.: $6,300
+Tricia: $7,200
+Dan: $11,900
+
+Final Jeopardy! Round
+ENTERTAINMENT | It began in the early 1980s as Club des Talons Hauts, a stilt-walking troupe | Cirque du Soleil
+right: P.D. | Tricia | Dan
+Wrong: 
+Wagers: 
+P.D.: $3,100
+Tricia: $5,000
+Dan: $3,000
+Final scores:
+P.D.: $9,400 (3rd place: Trip on Amtrak's Coast Starlight between Los Angeles & Seattle)
+Tricia: $12,200 (2nd place: Trip to Atlantis Resort, Paradise Island, Bahamas)
+Dan: $14,900 (New champion: $14,900)
+
+Coryat scores
+P.D.: $5,900 (13 R(including 1 DD),1 W)
+Tricia: $7,200 (17 R,1 W)
+Dan: $10,400 (26 R(including 2 DDs),0 W)

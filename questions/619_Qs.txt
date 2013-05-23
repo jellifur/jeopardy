@@ -1,0 +1,336 @@
+2841 - Monday, December 30, 1996
+Contestants:
+Ted Senator: a computer scientist from Bethesda, Maryland
+Sara d'Anjou: a college academic specialist from Norfolk, Massachusetts
+Jon Woodman: an attorney from Columbus, Ohio (whose 3-day cash winnings total $32,000)
+First Jeopardy! Round: U.S. PACIFIC DEPENDENCIES, TELEVISION, FURNITURE, GAMES OF CHANCE, 1921, "OVER" & "UNDER"
+U.S. PACIFIC DEPENDENCIES | In 1986 the Northern Marianas were declared one of these, like Puerto Rico | Commonwealth
+right: Ted
+Wrong: 
+Value: $100
+Number: 26
+TELEVISION | This Candice Bergen character gave up drinking after a stay at the Betty Ford Clinic | Murphy Brown
+right: Sara
+Wrong: 
+Value: $100
+Number: 6
+FURNITURE | Bridal, dower & hope are types of these | Chests
+right: Jon
+Wrong: 
+Value: $100
+Number: 21
+GAMES OF CHANCE | In craps, it's a hardway roll of six | Double 3's
+right: Jon
+Wrong: 
+Value: $100
+Number: 11
+1921 | This memorial was dedicated at Arlington in 1921; the monument wasn't completed until 1932 | The Tomb of the Unknown Soldier
+right: Jon
+Wrong: 
+Value: $100
+Number: 16
+"OVER" & "UNDER" | Hades | The Underworld
+right: Jon
+Wrong: 
+Value: $100
+Number: 1
+U.S. PACIFIC DEPENDENCIES | Most of the Palmyra Atoll is privately owned by the Fullard-Leo family of this state 1,000 miles away | Hawaii
+right: Ted
+Wrong: 
+Value: $200
+Number: 27
+TELEVISION | On this series, Sgt. Phil Esterhaus ended roll call with "And, hey -- let's be careful out there" | "Hill Street Blues"
+right: Jon
+Wrong: 
+Value: $200
+Number: 7
+FURNITURE | It's believed the lectern was invented when these replaced scrolls | Books
+right: Jon
+Wrong: 
+Value: $200
+Number: 22
+GAMES OF CHANCE | Play Honeymoon In Vegas or anywhere & you're playing a variation of this card game | Bridge
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 12
+1921 | Peter Paul introduced this candy bar in 1921, for times you don't feel like a nut | Mounds
+right: Jon
+Wrong: 
+Value: $200
+Number: 17
+"OVER" & "UNDER" | It's a strong current below the water's surface, caused by waves breaking on a beach | Undertow
+right: Sara
+Wrong: 
+Value: $200
+Number: 2
+U.S. PACIFIC DEPENDENCIES | With no permanent inhabitants, Howland, Baker & Jarvis Islands were once worked for this natural fertilizer | Guano
+right: Ted
+Wrong: 
+Value: $300
+Number: 28
+TELEVISION | The silver for his bullets came from a mine owned by himself & his late brother | The Lone Ranger
+right: Jon
+Wrong: 
+Value: $300
+Number: 8
+FURNITURE | It's the part of a fancy bed on which you may see a finial | Bedpost
+right: Sara
+Wrong: 
+Value: $300
+Number: 23
+GAMES OF CHANCE | In blackjack you can only make an insurance bet if the dealer's up card is one of these | Ace
+right: Jon
+Wrong: 
+Value: $300
+Number: 13
+1921 | U.S. consumption of these was "puffed up" to 43 billion a year, even though they were illegal in 14 states | Cigarettes
+right: Jon
+Wrong: 
+Value: $300
+Number: 18
+"OVER" & "UNDER" | In "The Caisson Song", it precedes "We have hit the dusty trail" | "Over hill, over dale"
+right: Jon
+Wrong: 
+Value: $300
+Number: 3
+U.S. PACIFIC DEPENDENCIES | Lying in the "belt" for these storms in the western Pacific, Guam gets 80" or more of rain each year | Typhoons
+right: Ted
+Wrong: 
+Value: $400
+Number: 29
+TELEVISION | On "Rocky And His Friends", Charlie Ruggles voiced the role of this "fabled" old philosopher | Aesop
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+FURNITURE | Japanning is a term for applying varnishes to simulate the appearance of this coating | Lacquer
+right: Sara
+Wrong: 
+Value: $400
+Number: 24
+GAMES OF CHANCE | Jimmy the Greek defined it as a place "where the windows clean you" | Racetrack
+right: Jon
+Wrong: 
+Value: $400
+Number: 14
+1921 | On November 25, 1921, he became prince regent of Japan | Hirohito
+right: Ted
+Wrong: 
+Value: $400
+Number: 19
+"OVER" & "UNDER" | It's said Winston Churchill coined this code name for the D-Day invasion of Europe | Operation Overlord
+right: Jon
+Wrong: 
+Value: DD: $500
+Number: 4
+U.S. PACIFIC DEPENDENCIES | The largest private sector employers in American Samoa are 2 canneries that pack this fish | Tuna
+right: Ted
+Wrong: 
+Value: $500
+Number: 30
+TELEVISION | Airline navigator Howard Borden was Dr. Robert Hartley's neighbor on this show | "The Bob Newhart Show"
+right: Jon
+Wrong: 
+Value: $500
+Number: 10
+FURNITURE | It's the French equivalent of a whatnot | Etagere
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+GAMES OF CHANCE | In bingo the "B" numbers run 1-15; the "O" numbers run from 61 to this | 75
+right: Jon
+Wrong: 
+Value: $500
+Number: 15
+1921 | In 1921 he reached his peak of stardom with "The Sheik" | Rudolph Valentino
+right: Jon
+Wrong: 
+Value: $500
+Number: 20
+"OVER" & "UNDER" | In 1974 this Canadian quartet reached the top of the American pop charts with "You Ain't Seen Nothing Yet" | Bachman-Turner Overdrive
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Jon: $2,100
+Sara: $300
+Ted: -$700
+Scores at the end of the Jeopardy! Round:
+Jon: $3,600
+Sara: $1,000
+Ted: $700
+Second Jeopardy! Round: CONDUCTORS, AMERICAN HISTORY, WORDS, LITERATURE, ANCIENT GREEKS, FILMOGRAPHIES
+CONDUCTORS | Wilhelm Furtwangler, born in this German capital in 1886, became director of its philharmonic | Berlin
+right: Jon
+Wrong: 
+Value: $200
+Number: 6
+AMERICAN HISTORY | 15 indentured servants were aboard this ship when it sailed for the new world, Sept. 16, 1620 | The Mayflower
+right: Jon
+Wrong: 
+Value: $200
+Number: 7
+WORDS | It's a synonym & an anagram of tap | Pat
+right: Sara
+Wrong: 
+Value: $200
+Number: 1
+LITERATURE | In 1923 Vladimir Nabokov translated "Alice In Wonderland" into this language | Russian
+right: Ted
+Wrong: 
+Value: $200
+Number: 11
+ANCIENT GREEKS | Plato's "Phaedo" describes this philosopher's execution by hemlock | Socrates
+right: Jon
+Wrong: 
+Value: $200
+Number: 19
+FILMOGRAPHIES | "Love Affair", "Heaven Can Wait", "Dick Tracy" | Warren Beatty
+right: Sara
+Wrong: 
+Value: $200
+Number: 20
+CONDUCTORS | This Bombay-born maestro is the son of violinist Mehli Mehta | Zubin Mehta
+right: Ted
+Wrong: 
+Value: $400
+Number: 14
+AMERICAN HISTORY | He was hanged in Charlestown, Virginia about 6 weeks after he led the attack on Harper's Ferry | John Brown
+right: Ted
+Wrong: 
+Value: $400
+Number: 8
+WORDS | It can mean one who doesn't speak, or to soften the tone or color | Mute
+right: Sara
+Wrong: 
+Value: $400
+Number: 2
+LITERATURE | Ernest Hemingway's novel "For Whom The Bell Tolls" takes place during this country's Civil War | Spain
+right: Ted
+Wrong: 
+Value: $400
+Number: 12
+ANCIENT GREEKS | He was seated with a sword dangling above his head at a feast hosted by Dionysius | Damocles
+right: Sara
+Wrong: 
+Jon: Who is Pericles?
+Value: $400
+Number: 21
+FILMOGRAPHIES | "Love Affair", "Casablanca", "Sabrina" | Humphrey Bogart
+right: Ted
+Wrong: 
+Value: $400
+Number: 25
+CONDUCTORS | He was conductor of the New York City Symphony before taking over the New York Philharmonic in 1958 | Leonard Bernstein
+right: Ted
+Wrong: 
+Value: $600
+Number: 15
+AMERICAN HISTORY | In 1834 Stephen Austin was held in prison for 8 months in this country | Mexico
+right: Ted
+Wrong: 
+Value: $600
+Number: 9
+WORDS | Nausea comes from the same root as nautical & originally applied to this syndrome | Seasickness
+right: Sara
+Wrong: 
+Value: $600
+Number: 3
+LITERATURE | First published in 1835, "Berence" has been called "his most horrifying tale" | Edgar Allan Poe
+right: Ted
+Wrong: 
+Value: $600
+Number: 18
+ANCIENT GREEKS | This Greek who taught in Alexandria has been called "The Father of Geometry" | Euclid
+right: Sara
+Wrong: 
+Value: DD: $1,000
+Number: 24
+FILMOGRAPHIES | "Love Affair", "All This And Heaven Too", "Algiers" | Charles Boyer
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 27
+CONDUCTORS | After 1936 Serge Koussevitzky conducted the Berkshire Music Festival at Tanglewood in this state | Massachusetts
+right: Ted
+Wrong: 
+Value: DD: $1,000
+Number: 16
+AMERICAN HISTORY | In 1818 this general ordered 2 traders arrested & executed for inciting the Seminole Indians | Andrew Jackson
+right: Sara
+Wrong: 
+Value: $800
+Number: 10
+WORDS | This term for a small, upright piano may be derived from the name of an Italian instrument maker | Spinet (Giovanni Spinetti)
+right: Sara
+Wrong: 
+Value: $800
+Number: 4
+LITERATURE | He may have put his rabbit to rest, but in 1996 he published a new family saga, "In The Beauty Of The Lilies" | John Updike
+right: Sara
+Wrong: 
+Value: $800
+Number: 22
+ANCIENT GREEKS | This actor of the 6th century B.C. is credited with introducing the use of masks on stage | Thespis
+right: Jon
+Wrong: 
+Value: $800
+Number: 26
+FILMOGRAPHIES | "An Affair To Remember", "I'm No Angel", "Charade" | Cary Grant
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+CONDUCTORS | Sir Thomas Beecham introduced this impresario's Ballets Russes to London in 1911 | Sergei Diaghilev
+right: Sara
+Wrong: 
+Ted: Who is Stravinsky?
+Value: $1000
+Number: 17
+AMERICAN HISTORY | This Oglala Sioux chief was fatally stabbed Sept. 5, 1877 at Fort Robinson, Nebraska | Crazy Horse
+right: Ted
+Wrong: 
+Value: $1000
+Number: 13
+WORDS | Mother-of-pearl is also known by this 5-letter French name | Nacre
+right: Ted
+Wrong: 
+Value: $1000
+Number: 5
+LITERATURE | "Buddenbrooks" was the first important novel by this 20th century German author | Thomas Mann
+right: Sara
+Wrong: 
+Value: $1000
+Number: 23
+FILMOGRAPHIES | "Sleepless In Seattle", "A League of Their Own", "Exit To Eden" | Rosie O' Donnell
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Jon: $1,400
+Sara: $7,200
+Ted: $5,500
+
+Final Jeopardy! Round
+THE 1500s | In 1520 he wrote Pope Leo X, "Let no person imagine that I will recant" | Martin Luther
+right: Ted
+Wrong: 
+Jon: Who was Galileo?
+Sara: Who is Galileo
+Wagers: 
+Jon: $1,000
+Ted: $2,699
+Sara: $4,000
+Final scores:
+Jon: $400 (3rd place: Amana Free-Standing Range)
+Sara: $3,200 (2nd place: Trip to Cozumel, Mexico)
+Ted: $8,199 (New champion: $8,199)
+
+Coryat scores
+Jon: $1,300 (20 R(including 1 DD),8 W)
+Sara: $6,800 (15 R(including 1 DD),1 W)
+Ted: $5,300 (17 R(including 1 DD),6 W)

@@ -1,0 +1,301 @@
+4308 - Wednesday, April 30, 2003
+Comments: 2003 Celebrity <i>Jeopardy!</i> game 3.
+Contestants:
+Will Estes: an actor from American Dreams
+Linda Park: an actress from Star Trek: Enterprise
+Brad Paisley: a country music singer from the album Mud on the Tires
+First Jeopardy! Round: BRAIN SURGERY FOR DUMMIES, AGENTS & MANAGERS, AMERICAN DREAMS, BOTTLED WATER, READY FOR YOUR NUDE SCENE?, CATS ALL, FOLKS
+BRAIN SURGERY FOR DUMMIES | It's an important first step in a craniotomy, even if the patient doesn't want the Vin Diesel look | shaving the head
+right: Linda
+Wrong: 
+Value: $200
+Number: 9
+AGENTS & MANAGERS | Alan Eagleson was Bobby Orr's agent before founding this league's player's association | National Hockey League
+right: 
+Wrong: Triple Stumper
+Brad: What is the American Baseball League?
+Value: $200
+Number: 1
+AMERICAN DREAMS | His famous "I Have a Dream" speech ends, "Free at last!  Free at last!  Thank God Almighty, we are free at last!" | Dr. Martin Luther King, Jr.
+right: Brad
+Wrong: 
+Value: $200
+Number: 2
+READY FOR YOUR NUDE SCENE? | Leonardo DiCaprio will sketch you in the nude to emulate this 1997 film | Titanic
+right: Will
+Wrong: 
+Value: $200
+Number: 4
+CATS ALL, FOLKS | This Asian carnivore is the largest member of the cat family & the only big cat with striped fur | tiger
+right: Brad
+Wrong: 
+Linda: What is a Cheshire?
+Value: $200
+Number: 20
+BRAIN SURGERY FOR DUMMIES | Tree surgeons use the chain type of this; brain surgeons use the gigli type | saw
+right: Brad
+Wrong: 
+Value: $400
+Number: 15
+AGENTS & MANAGERS | Miller Huggins, "The Mighty Mite", managed this 1920s baseball team called "Murderers' Row" | New York Yankees
+right: Will
+Wrong: 
+Value: $400
+Number: 16
+AMERICAN DREAMS | Patrick Henry said, "I know not what course others may take, but as for me, give me" this "or give me death!" | liberty
+right: Will
+Wrong: 
+Value: $400
+Number: 5
+BOTTLED WATER | This sparkling French mineral water that comes in a green bottle is named for a doctor from Nimes | Perrier
+right: Linda
+Wrong: 
+Value: $400
+Number: 3
+READY FOR YOUR NUDE SCENE? | Uh-oh!  You might want to go on this diet program promoted by Fergie | Weight Watchers
+right: Brad
+Wrong: 
+Value: $400
+Number: 19
+CATS ALL, FOLKS | Proverbially, this type of inquisitiveness is what "killed the cat" | curiosity
+right: Brad
+Wrong: 
+Value: $400
+Number: 11
+AGENTS & MANAGERS | Agent Leigh Steinberg wrote "Winning with Integrity" & was a model for this Tom Cruise character | Jerry Maguire
+right: Linda
+Wrong: 
+Value: $600
+Number: 17
+AMERICAN DREAMS | The Declaration of Independence says one of our rights is the "pursuit of" this | happiness
+right: Will
+Wrong: 
+Value: $600
+Number: 6
+BOTTLED WATER | Called a "fitness water" because vitamins are added to it, Propel is from the makers of this sports drink | Gatorade
+right: Brad
+Wrong: 
+Value: $600
+Number: 10
+READY FOR YOUR NUDE SCENE? | We'll film your scene on this kind of "set" that has a minimal crew -- no gawkers allowed | closed set
+right: Will
+Wrong: 
+Value: $600
+Number: 21
+CATS ALL, FOLKS | He's the long-time MGM superstar seen here | Tom
+right: Linda
+Wrong: 
+Value: $600
+Number: 12
+BRAIN SURGERY FOR DUMMIES | Pituitary surgery may be done by going in through this, the same way patients may have to pay the surgeon | through the nose
+right: 
+Wrong: Triple Stumper
+Brad: What is at the rear?
+Value: $800
+Number: 24
+AMERICAN DREAMS | In May 1961 he vowed to land a man on the moon & return him safely to Earth by the end of the decade | John F. Kennedy
+right: Will
+Wrong: 
+Value: $800
+Number: 7
+BOTTLED WATER | The natural rock formation in the California mountains seen here gave this water brand its name & "points" to its stream | Arrowhead
+right: 
+Wrong: 
+Linda: What is Crystal Geyser Stream?
+Value: DD: $800
+Number: 18
+READY FOR YOUR NUDE SCENE? | The camera won't reveal too much when you play this Egyptian queen: you'll be up to your "asp" in a milk bath | Cleopatra
+right: Brad
+Wrong: 
+Value: $800
+Number: 22
+CATS ALL, FOLKS | Except for the cheetah, all cats can retract these | claws
+right: Will
+Wrong: 
+Value: $800
+Number: 13
+AMERICAN DREAMS | The first of FDR's "Four Freedoms" was freedom of this "and expression" | speech
+right: Brad
+Wrong: 
+Value: $1000
+Number: 8
+READY FOR YOUR NUDE SCENE? | Some fans may watch your nude scene with their "Eyes" this (as in the title of a Stanley Kubrick film) | Eyes Wide Shut
+right: Linda
+Wrong: 
+Value: $1000
+Number: 23
+CATS ALL, FOLKS | One of the very few curly-haired varieties of cat, the Cornish Rex was developed in this country | England
+right: Linda
+Wrong: 
+Value: $1000
+Number: 14
+Scores at the first commercial break (after clue 15)
+Brad: $2,400
+Linda: $2,200
+Will: $2,800
+Scores at the end of the Jeopardy! Round:
+Brad: $3,000
+Linda: $2,800
+Will: $3,800
+Second Jeopardy! Round: AN "F" IN HISTORY, GOING COUNTRY, 21st CENTURY MOVIES, THE SHAKESPEARE PLAY'S THE THING, STAR TRACK, WHO DOES HE THINK HE IS?
+AN "F" IN HISTORY | This car company once used characters from the comic strip Peanuts in commercials for its Falcon | Ford
+right: Will
+Wrong: 
+Value: $400
+Number: 18
+GOING COUNTRY | In 1975 the fall of Saigon ended the war in this country | Vietnam
+right: Brad
+Wrong: 
+Value: $400
+Number: 27
+21st CENTURY MOVIES | "Memento" & "Irreversible" share this unusual storytelling technique | reverse/backwards
+right: Linda
+Wrong: 
+Value: $400
+Number: 6
+THE SHAKESPEARE PLAY'S THE THING | In this play Emilia tells Iago & Desdemona, "The moor's abused by some most villainous knave" | Othello
+right: Linda
+Wrong: 
+Value: $400
+Number: 1
+STAR TRACK | This star of "Sex and the City" is Mrs. Matthew Broderick | Sarah Jessica Parker
+right: Linda
+Wrong: 
+Value: $400
+Number: 24
+WHO DOES HE THINK HE IS? | He's hanging out in the woods with a bunch of guys in tights; says they're his "Merry Men" -- He thinks he's... | Robin Hood
+right: Will
+Wrong: 
+Value: $400
+Number: 16
+AN "F" IN HISTORY | In June of 1752, this man famously flew a kite in a thunderstorm as part of an electricity experiment | Ben Franklin
+right: Brad
+Wrong: 
+Value: $800
+Number: 10
+21st CENTURY MOVIES | (Sofia of the Clue Crew in Kauai, Hawaii)  Hawaiian jungles stood in for African jungles when this 2003 Bruce Willis movie was filmed | Tears of the Sun
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+THE SHAKESPEARE PLAY'S THE THING | Later a title character, this cruel king made his 1st appearance in a Shakespeare play in "Henry VI, Part 2" | Richard III
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+STAR TRACK | Country of birth of the famed beauty seen here | Sweden (Ingrid Bergman)
+right: 
+Wrong: Triple Stumper
+Linda: What is Czecholslovakia?
+Value: $800
+Number: 12
+WHO DOES HE THINK HE IS? | He never goes anywhere without a mask & cape (Hey!  Stop cutting "Z"s into my sofa!) He thinks he's... | Zorro
+right: Will
+Wrong: 
+Value: $800
+Number: 13
+AN "F" IN HISTORY | First name of the famous nursing pioneer known as "The Lady with the Lamp" | Florence (Nightingale)
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 11
+GOING COUNTRY | It's the largest country in the Caribbean & it's only about 90 miles south of Florida | Cuba
+right: Brad
+Wrong: 
+Value: $1200
+Number: 9
+21st CENTURY MOVIES | As a Manhattan mom named Meg, this actress gets a bit panicky in "Panic Room" | Jodie Foster
+right: Brad
+Wrong: 
+Value: $1200
+Number: 8
+THE SHAKESPEARE PLAY'S THE THING | Alas, this deceased court jester in "Hamlet" was "A fellow of infinite jest, of most excellent fancy" | Yorick
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+STAR TRACK | Michael Mann, the director of "The Insider", called this actor "A young Marlon Brando" | Russell Crowe
+right: Linda
+Wrong: 
+Value: $1200
+Number: 23
+WHO DOES HE THINK HE IS? | If he shoots an apple off my head, I'll tell him he doesn't have the legs for lederhosen!  He thinks he's... | William Tell
+right: Will
+Wrong: 
+Value: $1200
+Number: 14
+AN "F" IN HISTORY | Don't slip as you name this Austrian doctor who founded the therapeutic method of psychoanalysis | (Sigmund) Freud
+right: Will
+Wrong: 
+Value: $1600
+Number: 19
+21st CENTURY MOVIES | This Robert Altman film set in a manor was nominated for a Best Picture Oscar | Gosford Park
+right: Linda
+Wrong: 
+Value: $1600
+Number: 21
+THE SHAKESPEARE PLAY'S THE THING | Disguised as a lawyer, she saves Antonio from the revenge of Shylock | Portia
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+STAR TRACK | Paulette Goddard nearly got this coveted 1939 role & was even given Southern accent lessons | Scarlett O'Hara
+right: 
+Wrong: 
+Linda: What is "Gone with the Wind?"
+Value: DD: $1,000
+Number: 25
+WHO DOES HE THINK HE IS? | He's flouncing around in a 3'-high wig, screaming "Let them eat cake!"  (He's really lost his head!) He thinks he's... | Marie Antoinette
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 15
+AN "F" IN HISTORY | This Spanish king married Queen Isabella in 1469 & sent Columbus off to America in 1492 | Ferdinand
+right: Linda
+Wrong: 
+Value: $2000
+Number: 20
+21st CENTURY MOVIES | It stars Robin Williams as a psychotic nebbish obsessed with a suburban family | One Hour Photo
+right: Brad
+Wrong: 
+Will: What is "Photoshop?"
+Value: $2000
+Number: 22
+THE SHAKESPEARE PLAY'S THE THING | He was the fairy king; Titania was his queen | Oberon
+right: Linda
+Wrong: 
+Value: $2000
+Number: 5
+STAR TRACK | In the 1930s several stars had this last name: Dick sang, Eleanor danced & William detected | Powell
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+WHO DOES HE THINK HE IS? | He keeps writing gloomy poetry & muttering about some girl named Annabel Lee; yep, he's really "Raven" -- He thinks he's... | Edgar Allan Poe
+right: Will
+Wrong: 
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Brad: $8,600
+Linda: $9,000
+Will: $8,200
+
+Final Jeopardy! Round
+FAMILIAR PHRASES | This phrase meaning "discuss the most important matter" dates back to 1920s movie editing | cut to the chase
+right: Will | Brad
+Wrong: 
+Linda: What is Keep It Short
+Wagers: 
+Will: $8,200
+Brad: $4,000
+Linda: $6,000
+Final scores:
+Brad: $12,600 (2nd place: $20,000 for The Michael J. Fox Foundation)
+Linda: $3,000 (3rd place: $20,000 for the Elizabeth Glaser Pediatric AIDS Foundation and UNICEF)
+Will: $16,400 (Winner: $50,000 for New Leash on Life and CARE)
+
+Coryat scores
+Brad: $8,600 (13 R,2 W)
+Linda: $10,800 (13 R,4 W(including 2 DDs))
+Will: $8,200 (13 R,1 W)

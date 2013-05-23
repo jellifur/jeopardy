@@ -1,0 +1,347 @@
+3944 - Thursday, October 25, 2001
+Comments: 2001 Tournament of Champions quarterfinal game 4.  <br />
+Contestants:
+Brad Rutter: a network administrator from Lancaster, Pennsylvania
+Bob Fleenor: a newspaper copy editor from Martinsburg, West Virginia
+Doug Lach: a marketing manager from Columbus, Ohio
+First Jeopardy! Round: LITERARY LOCALES, FASHION, POX, PLAGUE & PESTILENCE, INTERNATIONAL SPORTSMEN, FIRST LADIES, ¿HABLA ESPAÑOL?  ¡SÍ!
+LITERARY LOCALES | African-American writer Chester Himes exploded with "A Rage in" this section of Manhattan | Harlem
+right: Brad
+Wrong: 
+Value: $100
+Number: 6
+FASHION | The length of these ladylike accessories is denoted by buttons;  16-button ones are formal length | gloves
+right: 
+Wrong: Triple Stumper
+Bob: What are shoes?
+Value: $100
+Number: 21
+POX, PLAGUE & PESTILENCE | This man who found Livingstone also helped spread Congolese sleeping sickness while establishing trading stations | (Henry) Stanley
+right: Brad
+Wrong: 
+Doug: Who is, uh, Dr. [*]?
+Value: $100
+Number: 16
+INTERNATIONAL SPORTSMEN | Golfer Greg Norman was born in this country | Australia
+right: Brad
+Wrong: 
+Value: $100
+Number: 1
+FIRST LADIES | A former school librarian, she helped organize the Texas Book Festival to raise money for local libraries | Laura Bush
+right: Brad
+Wrong: 
+Value: $100
+Number: 11
+¿HABLA ESPAÑOL?  ¡SÍ! | If you want to show off your bronco riding & calf roping skills enter this public exhibition, hombre | a rodeo
+right: Brad
+Wrong: 
+Value: $100
+Number: 24
+LITERARY LOCALES | John Steinbeck describes this title fish processing area in Monterey, Ca. as "A poem, a stink, a grating noise" | Cannery Row
+right: Bob
+Wrong: 
+Value: $200
+Number: 7
+FASHION | Prince William's alma mater, this school known for its "playing fields" had a jacket named for it | Eton
+right: Bob
+Wrong: 
+Doug: What is St. Andrews?
+Value: $200
+Number: 22
+POX, PLAGUE & PESTILENCE | The first recorded epidemic of this salivary gland-swelling disease was described around 410 B.C. in Greece | mumps
+right: Doug
+Wrong: 
+Value: $200
+Number: 17
+INTERNATIONAL SPORTSMEN | Germany's Jan Ullrich gained glory through this pursuit | bicycle racing
+right: Doug
+Wrong: 
+Value: $200
+Number: 2
+FIRST LADIES | This first lady was all smiles in the photo seen <http://www.j-archive.com/media/2001-10-25_J_12.jpg> here, taken at her surprise birthday party in 1954 | Mamie Eisenhower
+right: Brad
+Wrong: 
+Value: $200
+Number: 12
+¿HABLA ESPAÑOL?  ¡SÍ! | My wife claims I am muy this, manly & assertive, just like the Village People song | macho
+right: Doug
+Wrong: 
+Value: $200
+Number: 25
+LITERARY LOCALES | In an Erich Maria Remarque novel, "The army report confined itself to a single sentence"--this, the book's title | All Quiet on the Western Front
+right: Brad
+Wrong: 
+Value: $300
+Number: 8
+FASHION | (<http://www.j-archive.com/media/2001-10-25_J_23.jpg> Sarah of the Clue Crew delivers the clue from a "boat.")  Wear this neckline whose name is French for "boat" & you'll be cruising in a style popular in the '20s & '30s | bateau
+right: Brad
+Wrong: 
+Value: $300
+Number: 23
+POX, PLAGUE & PESTILENCE | Causing thousands of deaths, abnormally high temperatures in 1803 led to Spanish outbreaks of this colorful fever | yellow fever
+right: Brad
+Wrong: 
+Value: $300
+Number: 18
+INTERNATIONAL SPORTSMEN | Sport that made Jean-Claude Killy famous | skiing
+right: Brad
+Wrong: 
+Value: $300
+Number: 3
+FIRST LADIES | Born Elizabeth Bloomer, she sprang up in Chicago in 1918 | Betty Ford
+right: Brad
+Wrong: 
+Doug: Who is Bess Truman?
+Value: $300
+Number: 13
+¿HABLA ESPAÑOL?  ¡SÍ! | These irregular soldiers who harass the enemy have a type of warfare named for them | guerrilla
+right: Bob
+Wrong: 
+Value: $300
+Number: 28
+LITERARY LOCALES | Machines are forbidden in this remote land, the subject of an 1872 satire by Samuel Butler | Erewhon
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+FASHION | People magazine said this rock star's daughter Jade launched her line of jewelry in a see-through dress | Mick Jagger
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 26
+POX, PLAGUE & PESTILENCE | Deadly outbreaks of cholera & typhus struck British, French & Russian soldiers equally in this 1853-56 war | the Crimean War
+right: Brad
+Wrong: 
+Value: $400
+Number: 19
+INTERNATIONAL SPORTSMEN | Auto racer born in Dunbartonshire, Scotland in 1939 | Jackie Stewart
+right: Brad
+Wrong: 
+Value: $400
+Number: 4
+FIRST LADIES | Her feelings about thespians might have been improved when Sarah Bernhardt reportedly saved her life in 1880 | Mary Todd Lincoln
+right: Brad
+Wrong: 
+Value: DD: $2,800
+Number: 14
+¿HABLA ESPAÑOL?  ¡SÍ! | Lorne Greene & his amigos could find this source of great & sudden wealth near the Ponderosa | a bonanza
+right: Brad
+Wrong: 
+Value: $400
+Number: 29
+LITERARY LOCALES | The high-spirited mistresses Ford & Page are the title married women of this place in a Shakespeare play | Windsor
+right: Brad
+Wrong: 
+Value: $500
+Number: 10
+FASHION | In the 1800s it was fashionable to wear a cap named for this woman who stabbed Jean-Paul Marat | Charlotte Corday
+right: Bob
+Wrong: 
+Value: $500
+Number: 27
+POX, PLAGUE & PESTILENCE | A devastating 17th c. plague epidemic on this island 58 miles south of Sicily killed 1 in 7 people | Malta
+right: Doug
+Wrong: 
+Value: $500
+Number: 20
+INTERNATIONAL SPORTSMEN | This British-born boxer won the WBC heavyweight title in 1992 | Lennox Lewis
+right: Brad
+Wrong: 
+Value: $500
+Number: 5
+FIRST LADIES | Largely an invalid, Eliza, wife of this "Tennessee Tailor", made only 2 public appearances as first lady | Andrew Johnson
+right: Brad
+Wrong: 
+Value: $500
+Number: 15
+¿HABLA ESPAÑOL?  ¡SÍ! | This type of person is a fan of a hobby or activity, con mucho gusto | an aficionado
+right: Brad
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Doug: -$100
+Bob: $200
+Brad: $6,100
+Scores at the end of the Jeopardy! Round:
+Doug: $500
+Bob: $1,100
+Brad: $8,200
+Second Jeopardy! Round: BIOLOGY, SPECIAL "K" PLACES, THIS YEAR'S HEADLINE!, AMERICAN RHODES SCHOLARS, DON'T LISTEN TO THEM!, HOMOPHONES
+BIOLOGY | Round, wrinkled, green seed or yellow seed are differences in the 7 traits of these plants Mendel studied | peas
+right: Doug
+Wrong: 
+Value: $200
+Number: 1
+SPECIAL "K" PLACES | Lots of places have an Oktoberfest, but the town of Liberal in this state has an Oztoberfest | Kansas
+right: Brad
+Wrong: 
+Value: $200
+Number: 8
+THIS YEAR'S HEADLINE! | Nixon Resigns as President! | 1974
+right: Doug
+Wrong: 
+Value: $200
+Number: 12
+AMERICAN RHODES SCHOLARS | This "Man from Hope" was a '68 recipient | Bill Clinton
+right: Doug
+Wrong: 
+Value: $200
+Number: 3
+DON'T LISTEN TO THEM! | An Actors Studio founder once said of this play, "Who wants to see a play about an unhappy traveling salesman?" | Death of a Salesman
+right: Brad
+Wrong: 
+Value: $200
+Number: 26
+HOMOPHONES | A baby may do this when this plaything bounces away | bawl/ball
+right: Brad
+Wrong: 
+Value: $200
+Number: 21
+BIOLOGY | A father contributes an X chromosome to create a daughter & this chromosome to create a son | a Y chromosome
+right: Brad
+Wrong: 
+Value: $400
+Number: 2
+SPECIAL "K" PLACES | Snowy peaks surround Bishkek, the capital of this country (hint:  most of the people speak Kyrgyz) | Kyrgyzstan
+right: Brad
+Wrong: 
+Value: $400
+Number: 13
+THIS YEAR'S HEADLINE! | Soviets Send First Man Into Space! | 1961
+right: Brad
+Wrong: 
+Value: $400
+Number: 17
+AMERICAN RHODES SCHOLARS | A scholar was born with the 1958 selection of this man who wrote the song "Me And Bobby McGee" | Kris Kristofferson
+right: Doug
+Wrong: 
+Value: $400
+Number: 5
+DON'T LISTEN TO THEM! | Just before its fateful 1912 voyage began, a deckhand asserted, "God himself couldn't sink this ship" | the Titanic
+right: Doug
+Wrong: 
+Value: $400
+Number: 27
+HOMOPHONES | The crust end of a loaf of bread, or to make well | heel/heal
+right: Doug
+Wrong: 
+Value: $400
+Number: 22
+BIOLOGY | (<http://www.j-archive.com/media/2001-10-25_DJ_04.jpg> Jimmy of the Clue Crew cracks the case.)  It's the total number of cells in <http://www.j-archive.com/media/2001-10-25_DJ_04a.jpg> this yellow egg yolk | 1
+right: Brad
+Wrong: 
+Value: $600
+Number: 4
+SPECIAL "K" PLACES | Seen <http://www.j-archive.com/media/2001-10-25_DJ_14.jpg> here in all its glory, Waimea Canyon on this island is known as the "Grand Canyon of the Pacific" | Kauai
+right: Doug
+Wrong: 
+Value: $600
+Number: 14
+THIS YEAR'S HEADLINE! | Joe Namath & the Jets Win the Super Bowl! | 1969
+right: Brad
+Wrong: 
+Value: $600
+Number: 18
+AMERICAN RHODES SCHOLARS | He was on the Rhodes to success in '65 but got Gore-d in the 2000 presidential primaries | Bill Bradley
+right: Brad
+Wrong: 
+Value: $600
+Number: 9
+DON'T LISTEN TO THEM! | About this film Irving Thalberg predicted, "Forget it, Louis.  No Civil War picture ever made a nickel" | Gone with the Wind
+right: Doug
+Wrong: 
+Value: $600
+Number: 28
+HOMOPHONES | Possess, or divide into 2 equal pieces | have/halve
+right: Bob
+Wrong: 
+Value: $600
+Number: 23
+BIOLOGY | Oxygen is a waste product of this metabolic process in green plants | photosynthesis
+right: Brad
+Wrong: 
+Value: $800
+Number: 6
+SPECIAL "K" PLACES | When visiting this London palace that was home to Princess Di, stop for a spot of tea at the Orangery | Kensington Palace
+right: Brad
+Wrong: 
+Value: $800
+Number: 15
+THIS YEAR'S HEADLINE! | Bolsheviks Kill the Czar & His Family! | 1918
+right: Doug
+Wrong: 
+Brad: What is 1917?
+Value: $800
+Number: 19
+AMERICAN RHODES SCHOLARS | He wasn't focused properly when he studied law at Oxford;  astronomy was his calling & a space telescope was named for him | (Edwin) Hubble
+right: Brad
+Wrong: 
+Value: $800
+Number: 10
+DON'T LISTEN TO THEM! | In 1839 French painter Paul Delaroche said, "From today painting is dead" after an exhibition of these | daguerreotypes (or photographs)
+right: Bob
+Wrong: 
+Brad: What are sculptures?
+Value: $800
+Number: 29
+HOMOPHONES | Makes noise like a donkey, or to cook fat-browned meat slowly in a small amount of liquid in a covered pot | brays/braise
+right: Brad
+Wrong: 
+Value: $800
+Number: 24
+BIOLOGY | Chitin is the main component in this supportive outside covering of lobsters & insects | the exoskeleton
+right: Doug
+Wrong: 
+Value: $1000
+Number: 7
+SPECIAL "K" PLACES | The 2 "K" towns--one in Florida & one in Idaho--that were home to Hemingway | Key West & Ketchum
+right: Brad
+Wrong: 
+Value: DD: $1,000
+Number: 16
+THIS YEAR'S HEADLINE! | Hong Kong Returned to China! | 1997
+right: Brad
+Wrong: 
+Value: $1000
+Number: 20
+AMERICAN RHODES SCHOLARS | Some say Rob Lowe's "West Wing" character is based on this 1984 Rhodes Scholar, now an ABC News commentator | George Stephanopoulos
+right: Brad
+Wrong: 
+Value: DD: $1,600
+Number: 11
+DON'T LISTEN TO THEM! | Returning from Munich in 1938 he predicted, "I believe it is peace in our time" | Neville Chamberlain
+right: Brad
+Wrong: 
+Value: $1000
+Number: 30
+HOMOPHONES | Maybe, just perhaps, this small arachnid will attack your plant | might/mite
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Doug: $5,300
+Bob: $2,500
+Brad: $18,000
+
+Final Jeopardy! Round
+7-LETTER WORDS | It's from the Greek for "a place for watching" | theater
+right: 
+Wrong: 
+Bob: What ?
+Doug: What are windows?
+Brad: What is autopsy?
+Wagers: 
+Bob: $2,498
+Doug: $5,300
+Brad: $0
+Final scores:
+Doug: $0 (3rd place: $2,500 if eliminated)
+Bob: $2 (2nd place: $2,500 if eliminated)
+Brad: $18,000 (Automatic semifinalist)
+
+Coryat scores
+Doug: $5,300 (14 R,3 W)
+Bob: $2,500 (6 R,1 W)
+Brad: $15,000 (36 R(including 3 DDs),2 W)

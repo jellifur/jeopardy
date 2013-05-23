@@ -1,0 +1,348 @@
+5574 - Thursday, November 27, 2008
+Contestants:
+Danielle Sexton: a law student from Englewood, Colorado
+Peter Pinnow: a high school English teacher from Oxford, Mississippi
+Nathaniel Barnes: a composer and bartender from Toronto, Ontario, Canada (whose 3-day cash winnings total $57,300)
+First Jeopardy! Round: PASS THE TURKEY, "DIS" FUNCTION, IT'S ALL POLITICALLY RELATIVE, POETRY, THREE OF A KIND, THE PRO FOOTBALL HALL OF FAME
+PASS THE TURKEY | This capital is Turkey's second-most populous city, with about 3.5 million people | Ankara
+right: Peter
+Wrong: 
+Value: $200
+Number: 13
+"DIS" FUNCTION | In 1956 Al Oerter tossed one of these 184' 11" | a discus
+right: Danielle
+Wrong: 
+Value: $200
+Number: 15
+IT'S ALL POLITICALLY RELATIVE | Laura Bush had good reason to root for this Arizonan in 2008; he's her sixth cousin | John McCain
+right: Peter
+Wrong: 
+Value: $200
+Number: 11
+POETRY | Some believe this epic poet was born in Ionia in the 9th century B.C. | Homer
+right: Nathaniel
+Wrong: 
+Value: $200
+Number: 1
+THREE OF A KIND | Tiger, mako, thresher | sharks
+right: Peter
+Wrong: 
+Value: $200
+Number: 22
+THE PRO FOOTBALL HALL OF FAME | (<http://www.j-archive.com/media/2008-11-27_J_06.jpg> Jon of the Clue Crew walks near a larger-than-life statue.) This statue brings to life one of the greatest athletes the world has known; he <http://www.j-archive.com/media/2008-11-27_J_06a.jpg> won gold in the 1912 Olympics & played football & baseball for New York Giants teams | Jim Thorpe
+right: Peter
+Wrong: 
+Value: $200
+Number: 6
+PASS THE TURKEY | The majority of the country belongs to this branch of Islam | Sunni
+right: Nathaniel
+Wrong: 
+Value: $400
+Number: 27
+"DIS" FUNCTION | It means to declare ineligible or unfit | disallow (or disqualify)
+right: Peter
+Wrong: 
+Value: $400
+Number: 16
+IT'S ALL POLITICALLY RELATIVE | Talk about powerful women; Hillary Clinton is a ninth cousin of this "Lara Croft" star | Angelina Jolie
+right: Danielle
+Wrong: 
+Value: $400
+Number: 12
+POETRY | Keats wrote this kind of serious poem "On Melancholy" | an ode
+right: Peter
+Wrong: 
+Value: $400
+Number: 2
+THREE OF A KIND | Tap, square, hustle | dances
+right: Peter
+Wrong: 
+Value: $400
+Number: 23
+THE PRO FOOTBALL HALL OF FAME | (<http://www.j-archive.com/media/2008-11-27_J_07.jpg> Kelly of the Clue Crew indicates a photo of a Dallas Cowboys player.) At the Pro Football Hall of Fame, you can try to catch 22, but <http://www.j-archive.com/media/2008-11-27_J_07a.jpg> this Cowboy was so explosive, he danced his way to the NFL's all-time rushing record | Emmitt Smith
+right: Peter
+Wrong: 
+Value: $400
+Number: 7
+PASS THE TURKEY | Banned by Ataturk for political reasons, this hat with a 3-letter name was once the national hat of Turkish men | a fez
+right: Nathaniel
+Wrong: 
+Value: $600
+Number: 28
+"DIS" FUNCTION | The "federal" one in Mexico contains the country's capital | district
+right: Nathaniel
+Wrong: 
+Peter: What is jurisdiction?
+Value: $600
+Number: 18
+IT'S ALL POLITICALLY RELATIVE | George W. Bush is related to Marilyn Monroe, Princess Di & this senator, Bush's 2004 opponent | (John) Kerry
+right: Nathaniel
+Wrong: 
+Value: $600
+Number: 14
+POETRY | He wrote, "An echo murmured back the word, 'Lenore!' --merely this and nothing more" | Edgar Allan Poe
+right: Nathaniel
+Wrong: 
+Value: $600
+Number: 3
+THREE OF A KIND | Dredd, Judy, Mike | judges
+right: Nathaniel
+Wrong: 
+Value: $600
+Number: 24
+THE PRO FOOTBALL HALL OF FAME | (<http://www.j-archive.com/media/2008-11-27_J_08.jpg> Jon holds a football while delivering the clue.) Standing in the end zone, his feet almost out of bounds, the Chargers' Antonio Cromartie returned this ball an NFL-record this many yards in 2007 | 109 yards
+right: 
+Wrong: Triple Stumper
+Peter: What is a kickoff?
+Value: $600
+Number: 8
+PASS THE TURKEY | Turkey's longest land border is with this Arab neighbor to its south | Syria
+right: 
+Wrong: Triple Stumper
+Nathaniel: What is Iran?
+Peter: What is Iraq?
+Value: $800
+Number: 29
+"DIS" FUNCTION | This adjective means "tactful"; spelled -ete instead of -eet, it means "separate" | discreet or discrete
+right: Nathaniel
+Wrong: 
+Value: $800
+Number: 19
+IT'S ALL POLITICALLY RELATIVE | Jesse Helms was Jimmy Carter's kin, as was this sixth cousin & icon; thank you, thank you very much | Elvis Presley
+right: Nathaniel
+Wrong: 
+Value: $800
+Number: 17
+POETRY | This Pulitzer Prize winner read poetry at JFK's presidential inauguration | Robert Frost
+right: Peter
+Wrong: 
+Value: $800
+Number: 4
+THREE OF A KIND | Vezina, Outland, Naismith | trophies
+right: Peter
+Wrong: 
+Value: $800
+Number: 25
+THE PRO FOOTBALL HALL OF FAME | (<http://www.j-archive.com/media/2008-11-27_J_09.jpg> Jon sits in a section of red stadium seats.) These chairs are from this team's Ralph Wilson Stadium--you can almost see Jim Kelly throw & Thurman Thomas run | the Buffalo Bills
+right: Peter
+Wrong: 
+Value: $800
+Number: 9
+PASS THE TURKEY | This Turkish peak is said to be where Noah's Ark came to rest | Ararat
+right: Nathaniel
+Wrong: 
+Value: $1000
+Number: 30
+"DIS" FUNCTION | It was the Roman name for the troublesome Greek goddess Eris, whose shenanigans led to the Trojan War | Discord
+right: Peter
+Wrong: 
+Value: $1000
+Number: 20
+IT'S ALL POLITICALLY RELATIVE | About being a distant cousin of this politician from Wyoming, Barack Obama said, "That's a heartbreak" | Dick Cheney
+right: Peter
+Wrong: 
+Value: $1000
+Number: 21
+POETRY | 4-word German first line of the August Heinrich Hoffmann verse that became Germany's national anthem | "Deutschland, Deutschland uber alles"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THREE OF A KIND | The Seychelles, a literary "Gulag", the Aleutians | archipelagoes
+right: Peter
+Wrong: 
+Value: DD: $2,400
+Number: 26
+THE PRO FOOTBALL HALL OF FAME | (<http://www.j-archive.com/media/2008-11-27_J_10.jpg> Kelly stands in front of a bust.) The only player to make it into the Pro Football Hall of Fame here in Canton, Ohio & the Canadian Football Hall of Fame in Hamilton, Ontario is <http://www.j-archive.com/media/2008-11-27_J_10a.jpg> this man whose name sounds like a heavenly body | Warren Moon
+right: Peter
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Nathaniel: $1,400
+Peter: $3,400
+Danielle: $600
+Scores at the end of the Jeopardy! Round:
+Nathaniel: $5,400
+Peter: $8,200
+Danielle: $600
+Second Jeopardy! Round: THEOLOGY, SHOW BIZ AWARD WINNERS, CONSTELLATIONS, LITERALLY, HAIL, CAESAR, TIME TO SURRENDER, SAY "UNC"LE
+THEOLOGY | Paul's Epistle to the Romans declares, "The just shall live by" this word for deep belief | faith
+right: Peter
+Wrong: 
+Value: $400
+Number: 7
+SHOW BIZ AWARD WINNERS | He escaped the 'N Sync-erator to earn Male Artist & Quadruple Threat of the Year at the 2007 MTV VMAs | Justin Timberlake
+right: Danielle
+Wrong: 
+Value: $400
+Number: 13
+CONSTELLATIONS, LITERALLY | Cetus | the whale
+right: Peter
+Wrong: 
+Value: $400
+Number: 1
+HAIL, CAESAR | The world's largest carry-out pizza chain, it was founded in 1959 in Garden City, Michigan | Little Caesars
+right: Danielle
+Wrong: 
+Value: $400
+Number: 30
+TIME TO SURRENDER | He surrendered New Amsterdam to the British in 1664 without a fight | Peter Stuyvesant
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 20
+SAY "UNC"LE | A small hole made by a sharp object; perhaps in your bicycle tire | a puncture
+right: Peter
+Wrong: 
+Value: $400
+Number: 25
+THEOLOGY | It's a verb meaning "to choose for office" & a noun meaning those chosen to enter heaven | elect
+right: Peter
+Wrong: 
+Danielle: What is anointed?
+Value: $800
+Number: 6
+SHOW BIZ AWARD WINNERS | The Saturn Awards honor Sci Fi, Fantasy & Horror & in 2003 they recognized this hobbit portrayer | Elijah Wood
+right: Danielle
+Wrong: 
+Value: $800
+Number: 14
+CONSTELLATIONS, LITERALLY | Aquila | the eagle
+right: 
+Wrong: Triple Stumper
+Nathaniel: What is water bearer?
+Value: $800
+Number: 2
+HAIL, CAESAR | They recorded "Baby Don't Go" as Caesar & Cleo; it was reissued under their own names when "I Got You Babe" hit No. 1 | Sonny & Cher
+right: Nathaniel
+Wrong: 
+Value: $800
+Number: 11
+TIME TO SURRENDER | After suffering 150,000 casualties, German General Paulus surrendered in this city on the Volga in Jan. 1943 | Stalingrad
+right: Nathaniel
+Wrong: 
+Value: $800
+Number: 21
+SAY "UNC"LE | Say this 9-letter adjective to mean "of or behaving like an uncle" | avuncular
+right: Nathaniel
+Wrong: 
+Value: $800
+Number: 26
+THEOLOGY | "Hasidic Derashot" is a course at JTS, this "theological seminary" | Jewish Theological Seminary
+right: Peter
+Wrong: 
+Nathaniel: What is Jesuit?
+Danielle: What is Judaic?
+Value: $1200
+Number: 8
+SHOW BIZ AWARD WINNERS | His TV wife Patricia Heaton had 2 Emmys for her role when he won his first in 2002 | Ray Romano
+right: Danielle
+Wrong: 
+Value: $1200
+Number: 15
+CONSTELLATIONS, LITERALLY | Monoceros | unicorn
+right: Peter
+Wrong: 
+Value: DD: $3,000
+Number: 3
+HAIL, CAESAR | In the "Blondie" comic strip, Julius Caesar Dithers is the tyrannical boss of this man | Dagwood
+right: Danielle
+Wrong: 
+Value: $1200
+Number: 12
+TIME TO SURRENDER | Japan surrendered to the Allies on the deck of this battleship in September 1945 | "Missouri"
+right: Peter
+Wrong: 
+Value: $1200
+Number: 22
+SAY "UNC"LE | Redness & itching are symptoms of this eye condition | conjunctivitis
+right: Nathaniel
+Wrong: 
+Value: $1200
+Number: 27
+THEOLOGY | "Totus Ubique", or the whole of God everywhere, was a doctrine of this saint & "Confessions" author | Saint Augustine
+right: Nathaniel
+Wrong: 
+Value: $1600
+Number: 9
+SHOW BIZ AWARD WINNERS | Voters lent him their ears & he won Song of the Year at the first Latin Grammys in 2000 | Marc Anthony
+right: Danielle
+Wrong: 
+Value: DD: $3,000
+Number: 16
+CONSTELLATIONS, LITERALLY | Corvus | a crow (or a raven)
+right: Peter | Danielle
+Wrong: 
+Value: $1600
+Number: 4
+HAIL, CAESAR | Irving Caesar, who died in 1996 aged 101, wrote "Me For You And You For Me" & the rest of the lyrics to this 1924 song | "Tea For Two"
+right: Peter
+Wrong: 
+Value: $1600
+Number: 18
+TIME TO SURRENDER | Napoleon III personally surrendered at Sedan in 1870 during this war | Franco-Prussian War
+right: Nathaniel
+Wrong: 
+Value: $1600
+Number: 23
+SAY "UNC"LE | A legal order to specifically prohibit a certain activity | an injunction
+right: Danielle
+Wrong: 
+Value: $1600
+Number: 28
+THEOLOGY | This "theology" from Latin America that calls for social justice is the title of a book by Rosemary Ruether | Liberation Theology
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+SHOW BIZ AWARD WINNERS | Doing some bad things in "Michael Clayton" won <http://www.j-archive.com/media/2008-11-27_DJ_17.jpg> her an Oscar | Tilda Swinton
+right: Nathaniel
+Wrong: 
+Value: $2000
+Number: 17
+CONSTELLATIONS, LITERALLY | Camelopardalis | a giraffe
+right: Nathaniel
+Wrong: 
+Value: $2000
+Number: 5
+HAIL, CAESAR | A signer of the Declaration of Independence, he served as President of Delaware during the Revolution | Caesar Rodney
+right: Peter
+Wrong: 
+Value: $2000
+Number: 19
+TIME TO SURRENDER | On July 4, 1754 George Washington surrendered to the French at this encampment | Fort Necessity
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 24
+SAY "UNC"LE | To make shorter by cutting a piece off | truncate
+right: Danielle
+Wrong: 
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Nathaniel: $14,200
+Peter: $20,800
+Danielle: $10,800
+
+Final Jeopardy! Round
+HOLIDAYS & OBSERVANCES | The only public state holiday in the U.S. honoring a monarch is one honoring this ruler | King Kamehameha
+right: 
+Wrong: 
+Danielle: Who is ?
+Nathaniel: Who is
+Peter: Who is Queen Kaile
+Wagers: 
+Danielle: $10,795
+Nathaniel: $7,500
+Peter: $8,000
+Final scores:
+Nathaniel: $6,700 (2nd place: $2,000)
+Peter: $12,800 (New champion: $12,800)
+Danielle: $5 (3rd place: $1,000)
+
+Coryat scores
+Nathaniel: $14,200 (18 R,3 W)
+Peter: $17,600 (25 R(including 2 DDs),3 W)
+Danielle: $9,400 (11 R(including 1 DD),2 W)

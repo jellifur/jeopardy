@@ -1,0 +1,348 @@
+4039 - Thursday, March 7, 2002
+Comments: Jason McCune game 3.  <br />
+Contestants:
+Mitch Murov: a senior programmer and professor from New York, New York
+Kristen Olson: a graduate student from Takoma Park, Maryland
+Jason McCune: an actor originally from Jasper, Indiana (whose 2-day cash winnings total $40,241)
+First Jeopardy! Round: GEOMETRY, TRAVEL U.S.A., NAME THE JAMES, CRIME TIME, ____ING ____, CLOWNING AROUND
+GEOMETRY | This Greek mathematician's 13-volume work "Elements" is the basis for modern-day geometry | Euclid
+right: Kristen
+Wrong: 
+Value: $200
+Number: 5
+TRAVEL U.S.A. | Talk about rapid transit! This city's monorail travels from Westlake Center to the Space Needle in 90 seconds | Seattle
+right: Kristen
+Wrong: 
+Value: $200
+Number: 2
+NAME THE JAMES | "The Godfather of Soul" | James Brown
+right: Kristen
+Wrong: 
+Value: $200
+Number: 10
+CRIME TIME | In the 1890's British police in Bengal, India were the first to use these "digital" impressions to identify criminals | fingerprints
+right: Mitch
+Wrong: 
+Value: $200
+Number: 12
+____ING ____ | Catchphrase for painter or poet suffering malnourishment to create beauty | a starving artist
+right: Kristen
+Wrong: 
+Value: $200
+Number: 20
+CLOWNING AROUND | Weatherman Willard Scott was the first actor to don the clown makeup of this fast food funnyman | Ronald McDonald
+right: Kristen
+Wrong: 
+Value: $200
+Number: 1
+GEOMETRY | The diameter of a circle always passes through this point | the center
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+TRAVEL U.S.A. | The Place D'Armes, a square in New Orleans, was renamed to honor this hero of the Battle of New Orleans | Andrew Jackson
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+NAME THE JAMES | The fourth & fifth U.S. Presidents | James Madison & James Monroe
+right: Mitch
+Wrong: 
+Value: $400
+Number: 11
+CRIME TIME | Often indecent or unsightly, it's scratching, scribbling, or painting words on walls or vehicles | graffiti
+right: Mitch
+Wrong: 
+Value: $400
+Number: 13
+____ING ____ | It's the slightly out-of-date device seen <http://www.j-archive.com/media/2002-03-07_J_21.jpg> here | an adding machine
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+CLOWNING AROUND | In "It", he wrote about a monster disguised as a demonic clown named Pennywise | Stephen King
+right: Kristen
+Wrong: 
+Value: $400
+Number: 25
+GEOMETRY | It's the side of a right triangle that is opposite the right angle | the hypotenuse
+right: Kristen
+Wrong: 
+Value: $600
+Number: 7
+TRAVEL U.S.A. | You'll have a whale of a good time in Lahaina, a former whaling port on this Hawaiian island | Maui
+right: 
+Wrong: Triple Stumper
+Jason: What is Oahu?
+Mitch: What is Hawaii?
+Value: $600
+Number: 4
+NAME THE JAMES | Discovered the Hawaiian islands | (James) Cook
+right: Jason
+Wrong: 
+Value: $600
+Number: 17
+CRIME TIME | It's the "barrier" term for a person who buys & sells stolen goods from a burglar | a fence
+right: Jason
+Wrong: 
+Value: $600
+Number: 14
+____ING ____ | Quasi-rheumatic discomfort in the limbs, especially during adolescence | growing pains
+right: Mitch
+Wrong: 
+Value: $600
+Number: 22
+CLOWNING AROUND | On TV Damon Wayans played this irascible clown who "don't play that" | Homey
+right: Jason
+Wrong: 
+Value: $600
+Number: 26
+GEOMETRY | An obtuse angle is one that is greater than 90 degrees but less than this | 180 degrees
+right: Jason
+Wrong: 
+Value: $800
+Number: 8
+TRAVEL U.S.A. | The GREAT EscAPE is a simulated tropical forest full of apes at this state capital's zoo; sounds "OK" to me | Oklahoma City
+right: Jason
+Wrong: 
+Value: $800
+Number: 29
+NAME THE JAMES | Led the first bombing raid on Tokyo in World War II | James Doolittle
+right: Jason
+Wrong: 
+Value: $800
+Number: 18
+CRIME TIME | In his career, this defense lawyer has defended Sam Sheppard, Patty Hearst, & the Boston Strangler | F. Lee Bailey
+right: Mitch
+Wrong: 
+Value: $800
+Number: 15
+____ING ____ | Object at right in the photo seen <http://www.j-archive.com/media/2002-03-07_J_23.jpg> here | a hitching post
+right: Jason
+Wrong: 
+Value: $800
+Number: 23
+CLOWNING AROUND | (<http://www.j-archive.com/media/2002-03-07_J_27.wmv> Sofia & Sarah make complete fools of themselves in silent-movie mode as Alex reads the clue.) This term for the type of comedy seen here comes from a rod used by 16th-century clowns to smack others on the behind | slapstick comedy
+right: Kristen
+Wrong: 
+Value: $800
+Number: 27
+GEOMETRY | This quadrilateral has 2 parallel sides that are unequal in length | a trapezoid
+right: Kristen
+Wrong: 
+Value: $1000
+Number: 9
+TRAVEL U.S.A. | Visiting the Hayden planetarium in New York City? Don't miss the American museum of this--it's right next door | Natural History
+right: Mitch
+Wrong: 
+Value: $1000
+Number: 30
+NAME THE JAMES | Founded Savannah & the Georgia colony | James Oglethorpe
+right: Kristen
+Wrong: 
+Value: $1000
+Number: 19
+CRIME TIME | Printed beneath a wide-open eye, "We never sleep" is the motto of this private detective agency | Pinkerton
+right: Jason
+Wrong: 
+Value: $1000
+Number: 16
+____ING ____ | In 1990 Justice Brennan wrote one when he disagreed with the Cruzan v. Missouri decision | a dissenting opinion
+right: Jason
+Wrong: 
+Value: DD: $4,400
+Number: 24
+CLOWNING AROUND | Seen <http://www.j-archive.com/media/2002-03-07_J_28.jpg> here, this Italian director of the 1971 film "The Clowns" ran away to join the circus as a child | (Federico) Fellini
+right: Mitch
+Wrong: 
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+Jason: $800
+Kristen: $2,400
+Mitch: $1,200
+Scores at the end of the Jeopardy! Round:
+Jason: $10,200
+Kristen: $4,800
+Mitch: $3,800
+Second Jeopardy! Round: THE CLINTON YEARS, ART, THE MECHANICS SPEAK, CRANBERRIES, ENDS IN "EE", CLONING AROUND
+THE CLINTON YEARS | (<http://www.j-archive.com/media/2002-03-07_DJ_01.jpg> Bill Clinton kicks things off.) I earned this nickname from the way my campaign was revived in the 1992 New Hampshire primary | "the Comeback Kid"
+right: Mitch
+Wrong: 
+Value: $400
+Number: 1
+ART | Rembrandt turned this engraving method involving acid into an art form | etching
+right: Jason
+Wrong: 
+Value: $400
+Number: 26
+THE MECHANICS SPEAK | Yeah, Mr. Barrow, Ms. Parker, I see your V-8 from this company needs bodywork, but I don't do bulletproofing | Ford
+right: Jason
+Wrong: 
+Value: $400
+Number: 11
+CRANBERRIES | Cranberries grow on these, like grapes | vines
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+ENDS IN "EE" | Colonel Sanders wore one on his chin | a goatee
+right: Jason
+Wrong: 
+Value: $400
+Number: 6
+CLONING AROUND | The cloning of dinosaur DNA propels this 1993 movie blockbuster | "Jurassic Park"
+right: Kristen
+Wrong: 
+Value: $400
+Number: 16
+THE CLINTON YEARS | (<http://www.j-archive.com/media/2002-03-07_DJ_02.jpg> President Clinton delivers our next clue.) In the first Presidential trip to Africa, I met with this President & visited his old jail | Nelson Mandela
+right: Jason
+Wrong: 
+Value: $800
+Number: 2
+ART | (<http://www.j-archive.com/media/2002-03-07_DJ_27.jpg> Sofia stands next to a famous statue on a fountain.) This famous statue by Daniel Chester French was dedicated by Ulysses S. Grant in 1875 | the minute man
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+THE MECHANICS SPEAK | All righty, Mr. Lindbergh, this plane is all gassed up...should be good for 3,600 miles, give or take | "The Spirit of St. Louis"
+right: Mitch
+Wrong: 
+Value: $800
+Number: 12
+CRANBERRIES | Cranberry growers bring in millions of these insects to pollinate the flowers | bees
+right: Mitch
+Wrong: 
+Value: $800
+Number: 22
+ENDS IN "EE" | (<http://www.j-archive.com/media/2002-03-07_DJ_07.wmv> Sofia is cleaning a window with an interesting gadget.) It's the implement I'm using to clean the window | a squeegee
+right: Jason
+Wrong: 
+Value: $800
+Number: 7
+CLONING AROUND | Born in Austria, he starred in "The 6th Day", a 2000 film in which clones attempt to take over the world | Arnold Schwarzenegger
+right: Jason
+Wrong: 
+Value: $800
+Number: 17
+THE CLINTON YEARS | (<http://www.j-archive.com/media/2002-03-07_DJ_03.jpg> The 42nd U.S. President delivers our next clue.) In July 1995, following better cooperation on the MIA issue, I normalized U.S. relations with this country | Vietnam
+right: Jason
+Wrong: 
+Mitch: What is North Korea?
+Value: $1200
+Number: 3
+ART | Roger Fry of the Met coined this term for the work of artists like Cezanne & Gauguin | post-impressionist
+right: 
+Wrong: Triple Stumper
+Mitch: What is impressionist?
+Value: $1200
+Number: 28
+THE MECHANICS SPEAK | Right-o, Colonel Lawrence, your brough superior one of these is ready to go-just a smidge of a wobble in the front | a motorcycle
+right: Jason
+Wrong: 
+Value: $1200
+Number: 13
+CRANBERRIES | Rice is grown in a paddy; cranberries in a watery area known by this 3-letter term | a bog
+right: Kristen
+Wrong: 
+Value: $1200
+Number: 23
+ENDS IN "EE" | In Gaelic legend the wailings of this old woman spirit outside a house foretell a death within | a banshee
+right: Kristen
+Wrong: 
+Value: $1200
+Number: 8
+CLONING AROUND | A 2'8'' clone played by Verne Troyer appears as pure concentrated evil in this 1999 hit comedy sequel | "Austin Powers II: The Spy Who Shagged Me"
+right: Jason
+Wrong: 
+Value: $1200
+Number: 18
+THE CLINTON YEARS | (<http://www.j-archive.com/media/2002-03-07_DJ_04.jpg> The former President delivers our next clue.) The $20 billion loan that I arranged for this country in 1995 was paid back 3 years early | Mexico
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+ART | This author wrote a pamphlet supporting Manet as well as a letter supporting Dreyfus | Émile Zola
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+THE MECHANICS SPEAK | Well, Mr. Hur, it looks like this vehicle needs a new axle; and you might think about adding some spikes | a chariot
+right: Jason
+Wrong: 
+Kristen: Oh...what is a bicycle?
+Value: $1600
+Number: 14
+CRANBERRIES | Most harvested cranberries are sold by this company co-founded by Marcus Urann, the Cranberry King | Ocean Spray
+right: Kristen
+Wrong: 
+Value: $1600
+Number: 24
+ENDS IN "EE" | The name of this literary slave owner became associated with any cruel taskmaster | (Simon) Legree
+right: Mitch
+Wrong: 
+Value: $1600
+Number: 9
+CLONING AROUND | Harrison Ford hunts down & kills clones called Replicants in this 1982 sci-fi classic | "Blade Runner"
+right: Mitch
+Wrong: 
+Value: $1600
+Number: 19
+THE CLINTON YEARS | (<http://www.j-archive.com/media/2002-03-07_DJ_05.jpg> Former President Clinton wraps things up for us.) This program providing financial aid for education was created with the 1993 signing of the National & Community Service Trust Act | Ameri-Corps
+right: Kristen
+Wrong: 
+Value: $2000
+Number: 5
+ART | Dante Gabriel Rossetti wanted to take art back to "pre"- this renaissance master born in 1483 | Raphael
+right: 
+Wrong: 
+Jason: Who is da Vinci?
+Value: DD: $1,000
+Number: 30
+THE MECHANICS SPEAK | General Guderian, we'll need to rustproof the tracks on this tank--charge it to the Fuhrer? | a Panzer
+right: Jason
+Wrong: 
+Mitch: Uh, uh...[time runs out]
+Value: $2000
+Number: 15
+CRANBERRIES | In "Strawberry Fields Forever", John Lennon intoning the name of this dish, has been misheard as "I buried Paul" | cranberry sauce
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+ENDS IN "EE" | Used to express scorn or disbelief, it's one of Scarlett O'Hara's favorite expressions | "Fiddle-dee-dee!"
+right: 
+Wrong: 
+Mitch: [shakes head] What is...bee?
+Value: DD: $4,000
+Number: 10
+CLONING AROUND | Construction worker Michael Keaton clones himself to get more done in this 1996 comedy | "Multiplicity"
+right: Jason
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Jason: $22,400
+Kristen: $9,600
+Mitch: $600
+
+Final Jeopardy! Round
+MUSICAL THEATER | "Il Muto" & "Don Juan Triumphant" are shows within this show that premiered on Broadway in 1988 | "Phantom of the Opera"
+right: Kristen
+Wrong: 
+Mitch: What is ?
+Jason: What Hi Boos! Cirque du Soleil?
+Wagers: 
+Mitch: $600
+Kristen: $0
+Jason: $2,600
+Final scores:
+Jason: $19,800 (3-day champion: $60,041)
+Kristen: $9,600 (2nd place: a trip to Antigua)
+Mitch: $0 (3rd place: a trip to Myrtle Beach, South Carolina)
+
+Coryat scores
+Jason: $20,000 (23 R(including 1 DD),2 W(including 1 DD))
+Kristen: $9,600 (15 R,1 W)
+Mitch: $4,600 (12 R,5 W(including 1 DD))

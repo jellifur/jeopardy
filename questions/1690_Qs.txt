@@ -1,0 +1,342 @@
+5161 - Monday, February 5, 2007
+Comments: 2007 Teen Tournament quarterfinal game 1.
+Contestants:
+Hank Robinson: a senior from Lithia Springs, Georgia
+Heidi Liu: a senior from Plymouth, Minnesota
+Kristin Briggs: a senior from Parkland, Florida
+First Jeopardy! Round: NOVEL SYNOPSES, MTV, NEWSPAPER SECTIONS, COMPUTING 101, CHEM CLASS, YOU GET AN "A"
+NOVEL SYNOPSES | A French curator is killed.  Symbology Professor Langdon is called to help.  Sophie learns her family history | The Da Vinci Code
+right: Hank
+Wrong: 
+Value: $200
+Number: 3
+MTV | Frankie Muniz was one of the first celebrities to have a prank played on him by Ashton Kutcher on this series | Punk'd
+right: Hank
+Wrong: 
+Value: $200
+Number: 1
+NEWSPAPER SECTIONS | Section where Troy Polamalu & Shawn Green make headlines | Sports
+right: Hank
+Wrong: 
+Value: $200
+Number: 26
+COMPUTING 101 | In computerese, it's the "app" in "killer app" | application
+right: Heidi
+Wrong: 
+Value: $200
+Number: 2
+CHEM CLASS | Charles' Law says that the volume of a fixed amount of gas is directly proportional to this | temperature
+right: Heidi
+Wrong: 
+Value: $200
+Number: 21
+YOU GET AN "A" | ...in Drama, if you can name this city that hosted the ancient drama festival called the City Dionysia | Athens
+right: Hank
+Wrong: 
+Value: $200
+Number: 10
+NOVEL SYNOPSES | Holden is to be expelled from Pencey.  Holden had adventures in NYC.  Holden watches his sister | The Catcher in the Rye
+right: Kristin
+Wrong: 
+Value: $400
+Number: 4
+MTV | One of MTV's most popular series ever featured this family: Ozzy, Kelly, Jack & Sharon | The Osbournes
+right: Kristin
+Wrong: 
+Value: $400
+Number: 5
+NEWSPAPER SECTIONS | The New York Times runs bestseller lists in this Sunday section | the Book Review section
+right: 
+Wrong: Triple Stumper
+Heidi: What is the Magazine?
+Value: $400
+Number: 27
+COMPUTING 101 | This 4-letter term for a small image on a computer screen shares its name with a specialized image of a holy person | an icon
+right: Kristin
+Wrong: 
+Value: $400
+Number: 7
+CHEM CLASS | (<http://www.j-archive.com/media/2007-02-05_J_22.jpg> Cheryl of the Clue Crew gives the clue in front of a flask and beaker.)  Milk has its solids distributed throughout the liquid; to clump the solids into curd, I've <http://www.j-archive.com/media/2007-02-05_J_22a.jpg> added vinegar, a weak one of these | an acid
+right: Hank
+Wrong: 
+Value: $400
+Number: 22
+YOU GET AN "A" | ...in American History, if you know that this man was the only U.S. President named Chester | Arthur
+right: Kristin
+Wrong: 
+Value: $400
+Number: 12
+NOVEL SYNOPSES | Jerry has a run-in with a gang, the Vigils.  Jerry is told to refuse to sell chocolate for his school.  Jerry gets beat up | The Chocolate War
+right: Heidi
+Wrong: 
+Value: $600
+Number: 16
+MTV | Like previous teens, if you dream of becoming a rapper, a lifeguard, or a prom prince, this show's for you | Made
+right: Hank
+Wrong: 
+Value: $600
+Number: 6
+NEWSPAPER SECTIONS | It doesn't contain secret data but ads divided into categories | the Classifieds
+right: Kristin
+Wrong: 
+Value: $600
+Number: 28
+COMPUTING 101 | A flatbed one of these optical devices is used to get images into your computer to use on your website | a scanner
+right: Kristin
+Wrong: 
+Value: $600
+Number: 11
+CHEM CLASS | Rusting is also called this process, for the element that causes it | oxidation
+right: Heidi
+Wrong: 
+Value: $600
+Number: 23
+YOU GET AN "A" | ...in French, if you remember this French word for "friend" | ami
+right: Hank
+Wrong: 
+Value: $600
+Number: 13
+NOVEL SYNOPSES | Roy gets shot on the way to a Cubs tryout.  Roy turns the Knights around.  Wonderboy breaks, Roy fails | The Natural
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+MTV | For all of the latest music videos, watch "TRL", which stands for this | Total Request Live
+right: Kristin
+Wrong: 
+Value: $800
+Number: 8
+NEWSPAPER SECTIONS | Wow!  This L.A. Times section says ALCAN is up 5 cents!  Sell!! | Business
+right: Heidi
+Wrong: 
+Value: $800
+Number: 29
+COMPUTING 101 | In order to get online, you'll need one of these, an ISP | an Internet service provider
+right: Kristin
+Wrong: 
+Value: $800
+Number: 14
+CHEM CLASS | (<http://www.j-archive.com/media/2007-02-05_J_24.jpg> Jon of the Clue Crew gives the clue from behind a lab table.)  When put on paper, graphite's lubricant properties <http://www.j-archive.com/media/2007-02-05_J_24a.jpg> reduce this force that resists relative motion | friction
+right: Kristin
+Wrong: 
+Value: $800
+Number: 24
+YOU GET AN "A" | ...in Biology, if you recall that millipedes belong to this phylum of animals | arthropods
+right: Hank
+Wrong: 
+Value: $800
+Number: 19
+NOVEL SYNOPSES | Paul & friends join the German army in WWI.  The Kaiser visits the front.  Paul is killed | All Quiet on the Western Front
+right: Hank
+Wrong: 
+Value: $1000
+Number: 18
+MTV | MTV has been a big supporter or RTV, this organization that encourages young people to be active in politics | Rock the Vote
+right: Kristin
+Wrong: 
+Heidi: What is Right to Vote?
+Value: $1000
+Number: 9
+NEWSPAPER SECTIONS | The Washington Post section on city life; it's also the city's subway | Metro
+right: Heidi
+Wrong: 
+Value: $1000
+Number: 30
+COMPUTING 101 | "Broadcast yourself" is the slogan of this website that was recently bought for $1.6 billion | YouTube
+right: Heidi
+Wrong: 
+Value: $1000
+Number: 15
+CHEM CLASS | These can be almost instant, like an explosion, or very slow, like the corrosion of copper | a reaction
+right: Heidi
+Wrong: 
+Hank: What is combustion?
+Value: $1000
+Number: 25
+YOU GET AN "A" | ...in Geography, if you know that this country calls itself Republik Oesterreich | Austria
+right: Hank
+Wrong: 
+Value: DD: $1,000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Kristin: $4,800
+Heidi: $200
+Hank: $1,800
+Scores at the end of the Jeopardy! Round:
+Kristin: $6,200
+Heidi: $4,000
+Hank: $4,200
+Second Jeopardy! Round: TEENS IN HISTORY, ALSO A PRO SPORTS TEAM, LANDMARKS, NORSE MYTHOLOGY, OIL IN THEM THAR STATES, ADJECTIVES
+TEENS IN HISTORY | By the time he was 13, Louis XV had already been king of this country for 8 years | France
+right: Kristin
+Wrong: 
+Value: $400
+Number: 6
+ALSO A PRO SPORTS TEAM | Proverbially, "it's not" this, "it's the humidity"--but don't tell that to Shaq | The Heat
+right: Hank
+Wrong: 
+Value: $400
+Number: 1
+LANDMARKS | A line drawn from the Lincoln Memorial to the U.S. Capitol would pass through this 555' tower | the Washington Monument
+right: Kristin
+Wrong: 
+Value: $400
+Number: 15
+NORSE MYTHOLOGY | In the Norse creation story, Embla is the equivalent of this biblical woman | Eve
+right: Hank
+Wrong: 
+Value: $400
+Number: 2
+OIL IN THEM THAR STATES | Oil flows through the Black Hills of Custer County in this state | South Dakota
+right: Heidi
+Wrong: 
+Value: $400
+Number: 22
+ADJECTIVES | This adjective that means "immediate" can precede "coffee" or "pudding" | instant
+right: Heidi
+Wrong: 
+Value: $400
+Number: 12
+TEENS IN HISTORY | When teen king Ptolemy XIV died in 44 B.C., it was rumored that this queen, his sister, had had him poisoned | Cleopatra
+right: Hank
+Wrong: 
+Value: $800
+Number: 7
+ALSO A PRO SPORTS TEAM | It's the common bond of Catherine of Siena, Francis of Assisi & Thomas Aquinas | Saints
+right: Kristin
+Wrong: 
+Value: $800
+Number: 25
+LANDMARKS | Legend says if you're looking for someone, wait under Nelson's statue in this London square | Trafalgar
+right: Hank
+Wrong: 
+Value: $800
+Number: 16
+NORSE MYTHOLOGY | This day of the week was sacred to the goddess Frigga--thank God! | Friday
+right: Hank
+Wrong: 
+Value: $800
+Number: 3
+OIL IN THEM THAR STATES | Known for tobacco farming & horse breeding, this Bluegrass State also has oil in the Cumberland Plateau | Kentucky
+right: Hank
+Wrong: 
+Value: $800
+Number: 23
+ADJECTIVES | This adjective can mean "relating to fingers" or "relating to numbers" | digital
+right: Heidi
+Wrong: 
+Value: DD: $3,000
+Number: 13
+TEENS IN HISTORY | Augustus Caesar was just 18 when he learned he'd been named the heir to this Roman leader | Julius Caesar
+right: Hank
+Wrong: 
+Heidi: Who is Marc Antony?
+Value: $1200
+Number: 9
+ALSO A PRO SPORTS TEAM | The annual running of these in Spain got international notice with Hemingway's "The Sun Also Rises" | Bulls
+right: Heidi
+Wrong: 
+Value: $1200
+Number: 26
+LANDMARKS | This city's Point State Park at the tip of the Golden Triangle contains Fort Pitt Blockhouse, built in 1764 | Pittsburgh
+right: Hank
+Wrong: 
+Value: $1200
+Number: 17
+NORSE MYTHOLOGY | This magic tool of Thor's wasn't just a weapon; he also used it to bless weddings | a hammer
+right: Hank
+Wrong: 
+Value: $1200
+Number: 4
+OIL IN THEM THAR STATES | Champaign toasted the oil discovered in this state; now it's second in production for states east of the Mississippi | Illinois
+right: Heidi
+Wrong: 
+Value: $1200
+Number: 24
+ADJECTIVES | Marvelous, like Sam's hair care franchises or 4 certain comic book superheroes | fantastic
+right: Hank
+Wrong: 
+Value: $1200
+Number: 14
+TEENS IN HISTORY | In the 1460s this teen, the future husband of Queen Isabella, fought in the Catalonian Wars | King Ferdinand
+right: Kristin
+Wrong: 
+Value: $1600
+Number: 10
+ALSO A PRO SPORTS TEAM | Job title of Susan Collins, Carl Levin & Barack Obama | senators
+right: Heidi
+Wrong: 
+Value: $1600
+Number: 29
+LANDMARKS | The Central Park statue by Georg Lober donated by this European country features an ugly duckling | Denmark
+right: Hank
+Wrong: 
+Value: DD: $2,000
+Number: 18
+NORSE MYTHOLOGY | Bragi, the god of poetry, is the son of this chief Norse god, quite a poet himself | Odin
+right: Heidi
+Wrong: 
+Value: $1600
+Number: 5
+OIL IN THEM THAR STATES | In the 1850s a prairie wheat state was known as "Bleeding" this; today, oil might make it "Gushing" this | Kansas
+right: Hank
+Wrong: 
+Value: $1600
+Number: 27
+ADJECTIVES | Both pontifical and this 5-letter adjective mean "relating to the Pope" | papal
+right: Heidi
+Wrong: 
+Value: $1600
+Number: 20
+TEENS IN HISTORY | By age 16, Nijinsky was already known as the "eighth wonder of the world" as one of these performers | ballet dancer
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+ALSO A PRO SPORTS TEAM | Melancholy, or a type of music with lyrics like, "I missed the last clue, my woman left me, I got the 'Jeopardy!'..." | Blues
+right: Hank
+Wrong: 
+Value: $2000
+Number: 30
+LANDMARKS | The Selimiye Mosque, which was formerly the Cathedral of Saint Sophia, is in Nicosia on this island | Cyprus
+right: Hank
+Wrong: 
+Value: $2000
+Number: 19
+NORSE MYTHOLOGY | Feasting and fighting are favorite pastimes at this "hall of the slain" | Valhalla
+right: Hank
+Wrong: 
+Value: $2000
+Number: 8
+OIL IN THEM THAR STATES | One of the oldest producing wells is Burning Springs, which was once destroyed by Confederates in this 35th state | West Virginia
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+ADJECTIVES | This directional adjective comes from a word meaning "sun" | southern (or south)
+right: Hank
+Wrong: 
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Kristin: $9,400
+Heidi: $13,800
+Hank: $24,600
+
+Final Jeopardy! Round
+LANGUAGES | In South America, these are the 2 most widely spoken languages | Spanish & Portuguese
+right: Kristin | Heidi | Hank
+Wrong: 
+Wagers: 
+Kristin: $4,401
+Heidi: $1,150
+Hank: $5,000
+Final scores:
+Kristin: $13,801 (3rd place: $5,000 if eliminated)
+Heidi: $14,950 (2nd place: $5,000 if eliminated)
+Hank: $29,600 (Automatic semifinalist)
+
+Coryat scores
+Kristin: $9,400 (14 R,0 W)
+Heidi: $11,600 (16 R(including 1 DD),3 W)
+Hank: $24,200 (26 R(including 2 DDs),1 W)

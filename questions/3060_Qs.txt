@@ -1,0 +1,304 @@
+308 - Wednesday, November 13, 1985
+Comments: 1985 Tournament of Champions quarterfinal game 3.
+Contestants:
+John Hannatt: a chemical lab technician from Cleveland, Ohio
+Paul Boymel: an attorney from Potomac, Maryland
+Paul Crozier: a United States Marine Staff Sergeant from Camp Pendleton, California
+First Jeopardy! Round: ROCKS & MINERALS, DOUBLE DOUBLE LETTERS, HOLLYWOOD DOGS, SHAKESPEARE, MS., SODA POP QUIZ
+ROCKS & MINERALS | Term for the minerals from which metals are extracted | ore
+right: Paul
+Wrong: 
+Value: $100
+Number: 1
+DOUBLE DOUBLE LETTERS | He raises & tends the honey kind | beekeeper
+right: John
+Wrong: 
+Value: $100
+Number: 14
+SHAKESPEARE | “Sweets to the sweet: Farewell!” were Hamlet's mother's words at this woman's funeral | Ophelia
+right: Paul
+Wrong: 
+Value: $100
+Number: 7
+MS. | Nancy Ross, Angela Davis, & Geraldine Ferraro all sought this office in 1984 | vice president (of the United States)
+right: Paul
+Wrong: 
+Value: $100
+Number: 11
+SODA POP QUIZ | It's what gives soda pop the bubbles | carbon dioxide
+right: Paul
+Wrong: 
+Value: $100
+Number: 6
+ROCKS & MINERALS | Single-letter chemical designation of a diamond | C
+right: SSGT Paul
+Wrong: 
+Value: $200
+Number: 16
+DOUBLE DOUBLE LETTERS | On a sailor's chest it might say “Mother”; on Cher it's a butterfly | tattoo
+right: Paul
+Wrong: 
+Value: $200
+Number: 12
+HOLLYWOOD DOGS | Higgins played the title role of this 1974 film | Benji
+right: SSGT Paul
+Wrong: 
+Value: $200
+Number: 18
+SHAKESPEARE | Part of Cassius' anatomy Brutus calls “itching” when accusing him of greed | palm
+right: John
+Wrong: 
+Value: $200
+Number: 5
+MS. | Joan Benoit was 1st to win this Olympic event, finally offered for women in ‘84 | marathon
+right: John
+Wrong: 
+Value: $200
+Number: 8
+SODA POP QUIZ | Caleb Bradham named his elixir this because it was supposed to relieve dyspepsia | Pepsi Cola
+right: SSGT Paul
+Wrong: 
+Value: $200
+Number: 9
+ROCKS & MINERALS | Largest block ever found of it in U.S., 56 tons, was used for Tomb of the Unknown Soldier | marble
+right: Paul
+Wrong: 
+Value: $300
+Number: 17
+DOUBLE DOUBLE LETTERS | [Audio DD] 1984 film which featured the following: (opening to  Dancing in the Sheets by Shalamar) | Footloose
+right: 
+Wrong: 
+Paul: Not a clue.
+Value: DD: $500
+Number: 13
+SHAKESPEARE | “Other women cloy the appetites they feed, but she makes hungry where most she satisfies” | Cleopatra
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 2
+MS. | Kristine Holderied was 1st to graduate top in her class from 1 of these | service academy
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+SODA POP QUIZ | They spent $250,000 to develop a can so the shuttle crew could drink their new formula in space | Coke
+right: Paul
+Wrong: 
+Value: $300
+Number: 10
+ROCKS & MINERALS | Mark Twain defined it as a hole in the groud with a liar standing at the top | mine
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+DOUBLE DOUBLE LETTERS | Quality of ice, eels, & banana peels | slipperiness
+right: 
+Wrong: Triple Stumper
+Paul: What is slippery?
+Value: $400
+Number: 15
+SHAKESPEARE | Susanna & the twins, Hamnet & Judith | Shakespeare's children
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+SODA POP QUIZ | Fenton & Fowler''s calls this elite Detroit ginger ale the best soft drink in the world | Vernor's
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+ROCKS & MINERALS | Fizzing when acid is applied, this mineral is the base of the Portland cement industry | limestone
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+DOUBLE DOUBLE LETTERS | A tenant under lease | lessee
+right: SSGT Paul
+Wrong: 
+Value: $500
+Number: 24
+SHAKESPEARE | The lines “And thereby hangs a tale” & “All the world's a stage” come from this comedy | As You Like It
+right: Paul
+Wrong: 
+Value: $500
+Number: 4
+SODA POP QUIZ | It was originally called bib-label lithiated lemon-lime soda | 7 Up
+right: John
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+SSGT Paul: -$300
+Paul: $1,200
+John: $400
+Scores at the end of the Jeopardy! Round:
+SSGT Paul: $0
+Paul: $800
+John: $1,000
+Second Jeopardy! Round: POLITICAL SLOGANS, TREES, RODGERS & HAMMERSTEIN, BRITISH HISTORY, HOLIDAYS, “SAINTS”
+POLITICAL SLOGANS | “Hell no, we won't go” was a chant often heard at rallies against this war | Vietnam War
+right: John
+Wrong: 
+Value: $200
+Number: 18
+TREES | Arboreal symbol of strength | oak
+right: Paul
+Wrong: 
+Value: $200
+Number: 3
+RODGERS & HAMMERSTEIN | The pair's lyricist | Hammerstein
+right: Paul
+Wrong: 
+Value: $200
+Number: 8
+BRITISH HISTORY | They've been guarding British royalty since 1485 & gin bottles since 1820 | Beefeaters
+right: Paul
+Wrong: 
+Value: $200
+Number: 11
+HOLIDAYS | October holiday which Mexicans call Dia de la Raza is celebrated in the U.S. as this | Columbus Day
+right: Paul
+Wrong: 
+Value: $200
+Number: 27
+“SAINTS” | A patron saint of Russia, he was probably skinny & never wore a red suit | St. Nicholas
+right: John
+Wrong: 
+Value: $200
+Number: 1
+POLITICAL SLOGANS | In the early 1930s Americans were told that it was “just around the corner” | prosperity
+right: John
+Wrong: 
+Value: $400
+Number: 17
+TREES | Of the Tree of Life, Tree of Knowledge, or the Tree of Righteousness, the 1 forbidden to Adam | Knowledge
+right: Paul
+Wrong: 
+Value: $400
+Number: 19
+RODGERS & HAMMERSTEIN | The “Times’” Brooks Atkinson called it “an original & beautiful excursion into... the Far East | The King and I
+right: Paul
+Wrong: 
+Value: $400
+Number: 7
+BRITISH HISTORY | Founder of the nursing profession, she was named after the city in which she was born | Florence Nightingale
+right: SSGT Paul
+Wrong: 
+Value: $400
+Number: 10
+HOLIDAYS | Meaning “removal of meat”, it's Rio's 4-day pre-Lenten festival | Carnival
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 26
+“SAINTS” | At 5th & 50th, its Lady Chapel is the place to get married, if you're in NYC - & Catholic | St. Patrick's Cathedral
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+POLITICAL SLOGANS | He railed against the “do-nothing 80th congress” during his whistle-stop campaign | Truman
+right: Paul
+Wrong: 
+Value: $600
+Number: 14
+TREES | The cry “sap's a runnin’” refers to this tree | maple tree
+right: John
+Wrong: 
+Value: $600
+Number: 28
+RODGERS & HAMMERSTEIN | Their 1st professional collaboration was this 1943 landmark musical | Oklahoma!
+right: Paul
+Wrong: 
+Value: $600
+Number: 6
+BRITISH HISTORY | First Roman army to invade Britain was led by this general | Caesar
+right: SSGT Paul
+Wrong: 
+Value: $600
+Number: 9
+HOLIDAYS | O. Henry called it the most  “purely American” holiday | Thanksgiving
+right: SSGT Paul
+Wrong: 
+Value: $600
+Number: 20
+“SAINTS” | “St. Elsewhere” is the nickname for this TV hospital | St. Eligius
+right: Paul
+Wrong: 
+Value: $600
+Number: 21
+POLITICAL SLOGANS | “Four more years of the full dinner pail” symbolized this president's re-election campaign in 1900 | McKinley
+right: Paul
+Wrong: 
+Value: $800
+Number: 15
+TREES | Continent on which the densest, tallest & most valuable stand of timber is found | North America
+right: Paul
+Wrong: 
+Value: DD: $200
+Number: 25
+RODGERS & HAMMERSTEIN | Character who is “corny as Kansas in August” | Nellie Forbush
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+BRITISH HISTORY | The penultimate Anglo-Saxon king, Edward was known by this pious title | Edward the Confessor
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+HOLIDAYS | Muslims fast during daylight hours for this entire month | Ramadan
+right: Paul
+Wrong: 
+Value: $800
+Number: 22
+“SAINTS” | Chorea, as in choreographer, is a condition associated with rheumatic fever formerly called this | St. Vitus (Dance)
+right: John
+Wrong: 
+Value: DD: $1,400
+Number: 29
+POLITICAL SLOGANS | In 1912, this pres. candidate declared, “We stand at Armageddon, & we battle for the Lord” | Teddy Roosevelt
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+TREES | Hindu for “trader” this unusual tree whose branches grow down can look like a mini-forest | Banyan
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 24
+RODGERS & HAMMERSTEIN | Stuart Damon & Lesley Ann Warren starred in this only R & H musical written for TV | Cinderella
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 4
+BRITISH HISTORY | Though it sounds like a grim volume, it's just William the Conqueror's survey of the British kingdom | The Domesday Book
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+HOLIDAYS | Until 1752, the 13 colonies observed Annunciation Day, the 25th of this month, as New Year's | March
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+SSGT Paul: -$800
+Paul: $6,000
+John: $3,800
+
+Final Jeopardy! Round
+BIOLOGY | Of the 4, blood group of the universal recipient | AB
+right: John | Paul
+Wrong: 
+Wagers: 
+John: $1,000
+Paul: $1,601
+Final scores:
+SSGT Paul: -$800 (3rd place: $1,000 if eliminated)
+Paul: $7,601 (Automatic semifinalist)
+John: $4,800 (2nd place: $1,000 if eliminated)
+
+Coryat scores
+SSGT Paul: -$800 (7 R,6 W)
+Paul: $7,100 (20 R(including 1 DD),2 W(including 1 DD))
+John: $3,200 (9 R(including 1 DD),0 W)

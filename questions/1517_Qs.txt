@@ -1,0 +1,346 @@
+4559 - Thursday, June 3, 2004
+Comments: Ken Jennings game 2.
+Contestants:
+Carrie Youngblood: an administrative assistant from Montpelier, Vermont
+Chad Kaihe: a construction inspector from Nanakuli, Hawaii
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 1-day cash winnings total $37,201)
+First Jeopardy! Round: EDUCATION, THE FIRST WIVES CLUB, NOT A STATE CAPITAL, GOING TO THE DOGS, A GREEN THUMB, A VULGAR DISPLAY OF "POWER"
+EDUCATION | A 1901 California law abolished this for grades 1-8; what kids did instead with no TV, God knows | homework
+right: Chad
+Wrong: 
+Value: $200
+Number: 8
+THE FIRST WIVES CLUB | She was Robert Wagner's first wife as well as his third | Natalie Wood
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+NOT A STATE CAPITAL | Atlanta, Anchorage, Augusta | Anchorage
+right: Chad
+Wrong: 
+Value: $200
+Number: 9
+GOING TO THE DOGS | Its nicknames include the spotted dick & the plum pudding dog | the Dalmatian
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+A GREEN THUMB | For cutting tall grass, "one" of these curved blades on a long, bent handle "fits all" | a scythe
+right: Carrie
+Wrong: 
+Value: $200
+Number: 26
+A VULGAR DISPLAY OF "POWER" | This multi-state lottery has peaked over 200 million dollars more than once | Powerball
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+EDUCATION | Common term for the system that emerged in the '60s to teach more mathematical concepts & fewer times tables | the New Math
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+THE FIRST WIVES CLUB | Art students when they met in the late '50s, Cynthia Powell was his first wife & the mother of his son Julian | John Lennon
+right: Carrie
+Wrong: 
+Value: $400
+Number: 7
+NOT A STATE CAPITAL | Springfield, Helena, Chicago | Chicago
+right: Chad
+Wrong: 
+Value: $400
+Number: 10
+GOING TO THE DOGS | It's the breed of dog in the famous logo seen <http://www.j-archive.com/media/2004-06-03_J_22.jpg> here | a basset hound
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+A GREEN THUMB | If she had used the botanical name for this flower, Janet Fitch would have written "White Nerium" | oleander
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+A VULGAR DISPLAY OF "POWER" | A period of time in a hockey game where one team has a numerical advantage | the power play
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+EDUCATION | (<http://www.j-archive.com/media/2004-06-03_J_18.jpg> Hi, I'm Chris Matthews.)  This religious order runs 20 colleges in the U.S. including Georgetown, Loyola & my alma mater Holy Cross | the Jesuits
+right: Chad
+Wrong: 
+Value: $600
+Number: 18
+THE FIRST WIVES CLUB | In a cameo in the movie "The First Wives Club", this wealthy ex advises, "Don't get mad, get everything" | Ivana Trump
+right: Ken
+Wrong: 
+Value: $600
+Number: 14
+NOT A STATE CAPITAL | Albuquerque, Providence, Charleston | Albuquerque
+right: Ken
+Wrong: 
+Value: $600
+Number: 11
+GOING TO THE DOGS | Ask this Chinese dog to stick out its tongue & you'll see that it's bluish-black | a chow
+right: Chad
+Wrong: 
+Value: $600
+Number: 23
+A GREEN THUMB | We hope you're not at a loess for words & can tell us that loess is a type of this deposited by the wind | soil
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+A VULGAR DISPLAY OF "POWER" | Zordon & Alpha recruited the teenagers who became this "Mighty Morphin'" group | the Power Rangers
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+EDUCATION | Restored to its <http://www.j-archive.com/media/2004-06-03_J_19.jpg> original look, the USA's first public one of <http://www.j-archive.com/media/2004-06-03_J_19a.jpg> these opened in St. Louis in 1873 | a kindergarten
+right: 
+Wrong: Triple Stumper
+Carrie: What's a high school?
+Value: $800
+Number: 19
+THE FIRST WIVES CLUB | In Jewish folklore, before Eve, Adam was married to this she-demon | Lilith
+right: Ken
+Wrong: 
+Value: $800
+Number: 15
+NOT A STATE CAPITAL | Frankfort, Birmingham, Montgomery | Birmingham
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+GOING TO THE DOGS | In ancient times the Celts used these tallest dogs in battle to pull enemies from their horses | the Irish wolfhounds
+right: 
+Wrong: 
+Chad: What is a Great Dane?
+Value: DD: $2,000
+Number: 24
+A GREEN THUMB | You can help plants gro (that's G-R-O) with food or a fertilizer spike from this Scotts Co. brand | Miracle-Gro
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+A VULGAR DISPLAY OF "POWER" | Any of several portable G4 computers made by Apple | Powerbooks
+right: 
+Wrong: Triple Stumper
+Ken: What are the Power Macs?
+Value: $800
+Number: 4
+EDUCATION | In the junior version of this, retired members of the military teach life skills & leadership to high schoolers | the ROTC
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+THE FIRST WIVES CLUB | If she was still married to this man, Julia Thorne might have hit the campaign trail, instead of Teresa Heinz | John Kerry
+right: Ken
+Wrong: 
+Value: $1000
+Number: 16
+NOT A STATE CAPITAL | Montpelier, Bismarck, Portland | Portland
+right: Ken
+Wrong: 
+Value: $1000
+Number: 13
+GOING TO THE DOGS | This hunting dog seen <http://www.j-archive.com/media/2004-06-03_J_25.jpg> here is considered one of Japan's national monuments | an akita
+right: Carrie
+Wrong: 
+Value: $1000
+Number: 25
+A GREEN THUMB | The RHS, it sponsors the famous Chelsea Flower Show | the Royal Horticultural Society
+right: Chad
+Wrong: 
+Value: $1000
+Number: 30
+A VULGAR DISPLAY OF "POWER" | Collective coalition name for Germany, Austria-Hungary, Bulgaria & the Ottoman Empire during WWI | the Central Powers
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Ken: $6,400
+Chad: $800
+Carrie: $400
+Scores at the end of the Jeopardy! Round:
+Ken: $10,000
+Chad: $1,000
+Carrie: $800
+Second Jeopardy! Round: POETS & POETRY, COMPLETES THE FILM TITLE, PEOP"L", THE OLD WEST, COMMUNICATIONS, CAR TALK?
+POETS & POETRY | A collection by Joyce Carol Oates is called "Women Whose Lives Are Food, Men Whose Lives Are" this; ka-ching! | Money
+right: Chad
+Wrong: 
+Value: $400
+Number: 2
+COMPLETES THE FILM TITLE | 1941: "How Green Was..." | My Valley
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+PEOP"L" | Although this "Lone Eagle" was a civilian, he flew about 50 combat missions towards the end of World War II | Charles Lindbergh
+right: Chad
+Wrong: 
+Value: $400
+Number: 12
+THE OLD WEST | This judge, the "Law West of the Pecos", reportedly once fined a dead man $40 for carrying a concealed weapon | Roy Bean
+right: Chad
+Wrong: 
+Value: $400
+Number: 22
+COMMUNICATIONS | On Sept. 15, 1921 the federal government issued the first of these licenses | a radio (broadcast) license
+right: Chad
+Wrong: 
+Ken: What is ham radio, maybe?
+Carrie: What's a driver's license?
+Value: $400
+Number: 28
+CAR TALK? | A heavy scarf (against cold, not noise) | a muffler
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+POETS & POETRY | Shelley's "Ode to the West Wind" ends, "If winter comes, can spring be" this | far behind
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+COMPLETES THE FILM TITLE | 1988: "My Stepmother..." | Is an Alien
+right: Chad
+Wrong: 
+Value: $800
+Number: 8
+PEOP"L" | This publisher thought it was "Time" for a business magazine so he founded Fortune in 1930 | Luce
+right: Ken
+Wrong: 
+Value: $800
+Number: 16
+THE OLD WEST | In the 1840s settlers began following this 2,000-mile overland route, which began in Independence, Mo. | the Oregon Trail
+right: Chad
+Wrong: 
+Value: $800
+Number: 24
+COMMUNICATIONS | It's the Hollywood term for a verbal presentation with lines like "It's 'Psycho' meets 'The African Queen'!" | a pitch
+right: Ken
+Wrong: 
+Value: $800
+Number: 30
+CAR TALK? | To grow weary | to tire
+right: Chad
+Wrong: 
+Value: $800
+Number: 18
+POETS & POETRY | For his dying father, this Welshman wrote the poem "Do Not Go Gentle into That Good Night" | Dylan Thomas
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+COMPLETES THE FILM TITLE | 1991: "Truly, Madly..." | Deeply
+right: Ken
+Wrong: 
+Value: $1200
+Number: 9
+PEOP"L" | President of the United Mine Workers for 40 years, he helped found the CIO in 1935 | (John L.) Lewis
+right: Carrie
+Wrong: 
+Value: $1200
+Number: 17
+THE OLD WEST | At the time of the gunfight at the O.K. Corral, it was this Earp brother who was the city marshal | Virgil
+right: Chad
+Wrong: 
+Value: $1200
+Number: 25
+COMMUNICATIONS | To communicate by doing this, you can speak lyrics over a beat, or tap a code on the wall of your jail cell | rap
+right: Ken
+Wrong: 
+Chad: What is Morse code?
+Value: $1200
+Number: 29
+CAR TALK? | Clothing or equipment, it follows "L.A." in the name of an athletics supply company | Gear
+right: Ken
+Wrong: 
+Value: $1200
+Number: 20
+POETS & POETRY | In Coleridge's poem, it's where Kubla Khan had his "stately pleasure dome" | Xanadu
+right: Ken
+Wrong: 
+Value: DD: $2,600
+Number: 5
+COMPLETES THE FILM TITLE | 1964: "7 Faces of..." | Dr. Lao
+right: Ken
+Wrong: 
+Value: $1600
+Number: 10
+PEOP"L" | Richard Nixon's running mate in 1960, this Republican lost his Senate seat 8 years earlier to John F. Kennedy | Henry Cabot Lodge, Jr.
+right: 
+Wrong: 
+Chad: Who is... Lieber?
+Value: DD: $4,600
+Number: 14
+THE OLD WEST | In 1902 this former peace officer moved to NYC & became a sportswriter for the Morning Telegraph | Bat Masterson
+right: Ken
+Wrong: 
+Value: $1600
+Number: 23
+COMMUNICATIONS | (<http://www.j-archive.com/media/2004-06-03_DJ_27.jpg> Jimmy of the Clue Crew chalks up some Chinese characters.)  Chinese writing began as pictographs; today, the <http://www.j-archive.com/media/2004-06-03_DJ_27a.jpg> symbol on the left is mu, or "tree"; on the right, lin, this word | forest
+right: Ken
+Wrong: 
+Value: $1600
+Number: 27
+CAR TALK? | The inedible, fuzzy inner part of the item seen <http://www.j-archive.com/media/2004-06-03_DJ_21.jpg> here | the choke
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+POETS & POETRY | Poet Laureate of the U.S. from 1993 to 1995, she won a 1987 Pulitzer for "Thomas and Beulah" | Rita Dove
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+COMPLETES THE FILM TITLE | 1981: "Cattle Annie and..." | Little Britches
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+PEOP"L" | This biochemist who joined the U.S. space program in 1978 has spent more time in space than any woman in history | (Shannon) Lucid
+right: Chad
+Wrong: 
+Value: $2000
+Number: 13
+THE OLD WEST | As New Mexico gov. this future "Ben-Hur" author offered to pardon Billy the Kid but the prosecutor nixed the plan | Lew Wallace
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+COMMUNICATIONS | 6-letter term for the path by which NASA sends signals from Earth to satellites & rovers | the uplink
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+CAR TALK? | "Life's but a walking shadow, a poor player, that" does this "and frets his hour upon the stage" | struts
+right: Ken
+Wrong: 
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Ken: $31,000
+Chad: $2,400
+Carrie: $1,600
+
+Final Jeopardy! Round
+WORD ORIGINS | This somewhat negative term arose because twisting fibers into thread was mainly a woman's job | spinster
+right: Carrie | Chad
+Wrong: 
+Ken: What is ?
+Wagers: 
+Carrie: $1,598
+Chad: $800
+Ken: $9,000
+Final scores:
+Ken: $22,000 (2-day champion: $59,201)
+Chad: $3,200 (2nd place: $2,000)
+Carrie: $3,198 (3rd place: $1,000)
+
+Coryat scores
+Ken: $30,000 (33 R(including 1 DD),2 W)
+Chad: $9,000 (15 R,3 W(including 2 DDs))
+Carrie: $1,600 (4 R,2 W)

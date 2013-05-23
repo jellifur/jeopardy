@@ -1,0 +1,345 @@
+4633 - Wednesday, October 27, 2004
+Comments: Ken Jennings game 61.
+Contestants:
+Merritt Hamilton Allen: a director of communications originally from Silver City, New Mexico
+Adam Villani: an engineer from Long Beach, California
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 60-day cash winnings total $2,031,300)
+First Jeopardy! Round: U.S. GEOGRAPHY, FAMILIAL SONG TITLES, RED ALERT!, PRESIDENTIAL CAMPAIGNS, BUMPER STICKERS?, "J" WALKING
+U.S. GEOGRAPHY | Louisiana's lowest point is 8 feet below sea level in this city | New Orleans
+right: Merritt
+Wrong: 
+Value: $200
+Number: 1
+FAMILIAL SONG TITLES | He was asked, "Can you spare a dime?" | Brother
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+RED ALERT! | Red-tailed hawks are mentioned in the journals of these men on their overland transcontinental 19th c. journey | Lewis & Clark
+right: Ken
+Wrong: 
+Value: $200
+Number: 22
+PRESIDENTIAL CAMPAIGNS | A button warned: this man "in 64 hot-water in 65" | Barry Goldwater
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+BUMPER STICKERS? | This ex-NRA president: "Get yer stinkin' paws of my gun, you dirty ape!" | Charlton Heston
+right: Adam
+Wrong: 
+Value: $200
+Number: 21
+"J" WALKING | In medieval times this country was known as Cipango | Japan
+right: Adam
+Wrong: 
+Value: $200
+Number: 16
+U.S. GEOGRAPHY | The Wrigley family owns much of this resort island 22 miles off the coast of Los Angeles | Catalina
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+FAMILIAL SONG TITLES | They "Are Doin' It For Themselves" | Sisters
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+RED ALERT! | It's the variety of red pepper most often used to stuff a green olive | a pimento
+right: Merritt
+Wrong: 
+Value: $400
+Number: 27
+PRESIDENTIAL CAMPAIGNS | Champions of this governor running for president in 1928 included the New York Yankees | (Al) Smith
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+BUMPER STICKERS? | A "V.I.P." celeb: "Warning--I brake for rock stars, especially Tommy Lee, Kid Rock, Bret Michaels..." | Pamela Anderson
+right: Ken
+Wrong: 
+Value: $400
+Number: 23
+"J" WALKING | Kick out these door supports & your transoms will fall down | the jambs
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+U.S. GEOGRAPHY | This island, a NYC Borough, is separated from New Jersey by 2 narrow channels:  the Kill Van Kull and the Arthur Kill | Staten Island
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+FAMILIAL SONG TITLES | Unfortunately, she "Got Run Over By A Reindeer" | Grandma
+right: Merritt
+Wrong: 
+Value: $600
+Number: 13
+RED ALERT! | In May 1987 German pilot Mathias Rust landed his small private plane at this location | Red Square
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+PRESIDENTIAL CAMPAIGNS | In 1921 Harding commuted the sentence of this candidate whose campaign used a bust of him in prison garb | Eugene Debs
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+BUMPER STICKERS? | The mom of this theoretical physicist, in 1966: "My child is a Cambridge doctoral candidate" | (Stephen) Hawking
+right: Ken
+Wrong: 
+Value: $600
+Number: 24
+"J" WALKING | (<http://www.j-archive.com/media/2004-10-27_J_18.jpg> Hi, I'm Tim Russert of NBC's Meet the Press.)  In 1985 I supervised a broadcast from Rome featuring a live interview with this man, a first for American television | Pope John Paul II
+right: Adam
+Wrong: 
+Value: $600
+Number: 18
+U.S. GEOGRAPHY | The western part of this state's panhandle is the high plains, or llano estacado, "staked plains" | Texas
+right: Adam
+Wrong: 
+Value: $800
+Number: 4
+FAMILIAL SONG TITLES | He "Was A Rollin' Stone" | Papa
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+RED ALERT! | The 1999 Smithsonian symposium "Red, White, & American" was on the U.S. history of this beverage | wine
+right: Merritt
+Wrong: 
+Value: $800
+Number: 29
+PRESIDENTIAL CAMPAIGNS | He was called the poor man's candidate in 1896; a campaign button quoted his "Cross of Gold" speech | William Jennings Bryan
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+BUMPER STICKERS? | For this North American member of the family iguanidae <http://www.j-archive.com/media/2004-10-27_J_25.jpg> seen <http://www.j-archive.com/media/2004-10-27_J_25a.jpg> here: "Honk if you're corneus" | horned lizard (or horned toad)
+right: Ken
+Wrong: 
+Value: $800
+Number: 25
+"J" WALKING | On the eastern end of I-10 is this city, home to the Gator Bowl | Jacksonville, Florida
+right: Adam
+Wrong: 
+Value: $800
+Number: 19
+U.S. GEOGRAPHY | This river joins the Columbia near Pasco, Washington, a little more than 1,000 miles from its source in Wyoming | the Snake River
+right: Adam
+Wrong: 
+Value: DD: $1,000
+Number: 5
+FAMILIAL SONG TITLES | The Judds asked him to "Tell Me 'Bout The Good Old Days" | Grandpa
+right: 
+Wrong: Triple Stumper
+Ken: Who is Daddy?
+Value: $1000
+Number: 15
+RED ALERT! | Record books list the largest of these red objects as the 6,465-carat Eminent Star | a ruby
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+PRESIDENTIAL CAMPAIGNS | State where the concession speech seen <http://www.j-archive.com/media/2004-10-27_J_10.wmv> here was made in 2004 | Iowa
+right: Adam
+Wrong: 
+Value: $1000
+Number: 10
+BUMPER STICKERS? | This ex-AOL Time Warner vice chairman & sports team owner: "I'd rather be sailing" | Ted Turner
+right: Ken
+Wrong: 
+Value: $1000
+Number: 26
+"J" WALKING | This psychoanalyst once wrote, "The pendulum of the mind oscillates between sense and nonsense" | (Carl Gustav) Jung
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ken: $3,400
+Adam: $2,800
+Merritt: $800
+Scores at the end of the Jeopardy! Round:
+Ken: $9,400
+Adam: $4,600
+Merritt: $2,000
+Second Jeopardy! Round: RUSSIAN CULTURE, BIG SCREEN BIO SUBJECTS, CHILDREN IN LITERATURE, POTENTATE POTABLES, ENTER & DESIGN IN, PLEASE, "RE"RUNS
+RUSSIAN CULTURE | Ivan Kramskoi painted <http://www.j-archive.com/media/2004-10-27_DJ_01.jpg> him in 1873 with the author at the height of his powers | (Leon) Tolstoy
+right: Merritt
+Wrong: 
+Ken: Who is... Dostoyevsky?
+Adam: Who is Pushkin?
+Value: $400
+Number: 1
+BIG SCREEN BIO SUBJECTS | "Lenny" | Lenny Bruce
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+CHILDREN IN LITERATURE | Lewis Carroll created this heroine to amuse the daughter of his dean at Christ Church | Alice
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+POTENTATE POTABLES | Moet introduced this "Imperial" line of champagne in 1863 to honor this late emperor | Napoleon
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+ENTER & DESIGN IN, PLEASE | The "gargoyles" on this NYC skyscraper were designed to look like auto radiator caps | the Chrysler Building
+right: Adam
+Wrong: 
+Value: $400
+Number: 30
+"RE"RUNS | If preparations are going poorly, just remember, "bad" this, "good show" | rehearsal
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+RUSSIAN CULTURE | Cirque du Soleil's <http://www.j-archive.com/media/2004-10-27_DJ_02.wmv> aerial cube was originated in Russia by members of this famed circus | the Moscow Circus
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+BIG SCREEN BIO SUBJECTS | "Immortal Beloved" | Beethoven
+right: Adam
+Wrong: 
+Value: $800
+Number: 12
+CHILDREN IN LITERATURE | This "parish boy" hero is born in a workhouse & becomes one of Fagin's thieves | Oliver Twist
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+POTENTATE POTABLES | The widget in this beer won a Queen's Award for technological advancement in 1991; stout work! | Guinness
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+ENTER & DESIGN IN, PLEASE | Philo T. Farnsworth was 15 when he designed his first system for this medium | TV
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+"RE"RUNS | (<http://www.j-archive.com/media/2004-10-27_DJ_22.wmv> Sofia of the Clue Crew fires a shotgun out in the hills.)  Newton's third law of motion explains why this 6-letter reaction happens after I discharge the gun | recoil
+right: Adam
+Wrong: 
+Value: $800
+Number: 22
+RUSSIAN CULTURE | The painting <http://www.j-archive.com/media/2004-10-27_DJ_03.jpg> seen <http://www.j-archive.com/media/2004-10-27_DJ_03a.jpg> here depicts these workers, also the subject of a Russian folk song | Boatmen of the Volga (or Volga Boatmen)
+right: Merritt
+Wrong: 
+Value: $1200
+Number: 3
+BIG SCREEN BIO SUBJECTS | "Born on the Fourth of July" | Ron Kovic
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+CHILDREN IN LITERATURE | He wrote about fictional children Willie Mufferson, Joe Harper, & Sid Sawyer | Mark Twain
+right: Adam
+Wrong: 
+Value: $1200
+Number: 8
+POTENTATE POTABLES | This Dutch-born English king introduced gin to England as the "pouring spirit" in the palace at Hampton Court | William III
+right: Adam
+Wrong: 
+Ken: Who is William of Orange?
+Merritt: Who is William II?
+Value: $1200
+Number: 18
+ENTER & DESIGN IN, PLEASE | At age 15, after seeing a demo by Santos-Dumont, Raymond Loewy made a toy one of these powered by a rubber band | a plane
+right: Merritt
+Wrong: 
+Value: DD: $5,000
+Number: 26
+"RE"RUNS | Split-face concrete blocks & geo-grid reinforcement are used to build this wall at the edge of a terrace | a retaining wall
+right: Merritt
+Wrong: 
+Ken: What is a redoubt?
+Value: $1200
+Number: 25
+RUSSIAN CULTURE | In Russian, <http://www.j-archive.com/media/2004-10-27_DJ_04.jpg> these nesting dolls are called matryoshka, from a word meaning this person | mother
+right: Merritt
+Wrong: 
+Value: $1600
+Number: 4
+BIG SCREEN BIO SUBJECTS | "Thirty Seconds over Tokyo" | Doolittle
+right: Adam
+Wrong: 
+Value: $1600
+Number: 14
+CHILDREN IN LITERATURE | This author wrote for The New Yorker while penning books about Fern Arable & Stuart Little | (E.B.) White
+right: Ken
+Wrong: 
+Value: $1600
+Number: 10
+POTENTATE POTABLES | Cheers to this Babylonian king who codified the use of beer for his people | Hammurabi
+right: Adam
+Wrong: 
+Value: $1600
+Number: 19
+ENTER & DESIGN IN, PLEASE | Introduced in 1941, Kenneth Parker's Parker 51, one of these, became a status symbol | a pen
+right: Adam
+Wrong: 
+Value: $1600
+Number: 28
+"RE"RUNS | A quick verbal reply, or a closed laboratory vessel | a retort
+right: Adam
+Wrong: 
+Value: $1600
+Number: 23
+RUSSIAN CULTURE | Sergei Prokofiev scored this Eisenstein film about a historic hero on the Neva river | Aleksandr Nevsky
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+BIG SCREEN BIO SUBJECTS | "A Beautiful Mind" | (John) Nash
+right: Adam
+Wrong: 
+Value: $2000
+Number: 15
+CHILDREN IN LITERATURE | "What is essential is invisible to the eye" is the secret the fox shares with this title character | the Little Prince
+right: Ken
+Wrong: 
+Value: DD: $5,000
+Number: 11
+POTENTATE POTABLES | Prince Henry the Navigator planted vineyards for this drink named for an archipelago southwest of Portugal | Madeira
+right: Ken
+Wrong: 
+Value: $2000
+Number: 20
+ENTER & DESIGN IN, PLEASE | A painter & two architects designed the 1935 studio 42 model of one of these for Olivetti | a typewriter
+right: Merritt
+Wrong: 
+Value: $2000
+Number: 27
+"RE"RUNS | T.S. Eliot wrote, "In a minute there is time for decisions and" these "which a minute will reverse" | revisions
+right: Ken
+Wrong: 
+Value: $2000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Ken: $25,200
+Adam: $17,000
+Merritt: $12,200
+
+Final Jeopardy! Round
+POPULATIONS | With only about 425,000 people, it's South America's least populous independent mainland country | Suriname (formerly Dutch Guiana)
+right: Adam | Ken
+Wrong: 
+Merritt: What is Bolivia?
+Wagers: 
+Merritt: $12,200
+Adam: $7,401
+Ken: $8,801
+Final scores:
+Ken: $34,001 (61-day champion: $2,065,301)
+Adam: $24,401 (2nd place: $2,000)
+Merritt: $0 (3rd place: $1,000)
+
+Coryat scores
+Ken: $22,200 (32 R(including 1 DD),4 W)
+Adam: $17,000 (17 R(including 1 DD),1 W)
+Merritt: $8,400 (10 R(including 1 DD),1 W)

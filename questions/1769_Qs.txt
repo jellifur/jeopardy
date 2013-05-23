@@ -1,0 +1,348 @@
+5183 - Wednesday, March 7, 2007
+Contestants:
+Sunny Wyers: an online worker from Los Angeles, California
+Harry Stessel: a college teacher and potter from Westfield, Massachusetts
+Martin Budak: a project manager from Portland, Oregon (whose 1-day cash winnings total $20,801)
+First Jeopardy! Round: KEEP THE FAITH, TOP 10 LISTS, LET'S GET BIZET!, BREAKFAST CEREAL, TELL ME "Y", STATS FREAK
+KEEP THE FAITH | Since 1847 this religion has been based in Salt Lake City, Utah | the Mormons
+right: Harry
+Wrong: 
+Value: $200
+Number: 1
+TOP 10 LISTS | The top 10 video game titles of 2005 included 2 from LucasArts about this film series | Star Wars
+right: Sunny
+Wrong: 
+Value: $200
+Number: 16
+LET'S GET BIZET! | Georges Bizet was born on Oct. 25, 1838 in this capital & was admitted to its conservatory by age 10 | Paris
+right: Harry
+Wrong: 
+Value: $200
+Number: 2
+BREAKFAST CEREAL | Back in 1934 Lou Gehrig was the first athlete to appear on a box of this "Breakfast of Champions" | Wheaties
+right: Martin
+Wrong: 
+Value: $200
+Number: 21
+TELL ME "Y" | It's the primary source of nourishment for an embryo in an egg | a yolk
+right: Harry
+Wrong: 
+Value: $200
+Number: 8
+STATS FREAK | Later a home run king, in 1916 he had 23 pitching wins & a sparkling 1.75 ERA | Babe Ruth
+right: Harry
+Wrong: 
+Value: $200
+Number: 26
+KEEP THE FAITH | Apis, a bull god of this ancient people, was believed to be the personification of the creator god Ptah | the Egyptians
+right: Sunny
+Wrong: 
+Value: $400
+Number: 4
+TOP 10 LISTS | The top 10 most common phobias include the fear of heights, the fear of flying & the fear of these, aka arachnophobia | spiders
+right: Sunny
+Wrong: 
+Value: $400
+Number: 17
+LET'S GET BIZET! | Bizet said this Austrian & fellow prodigy's "music affects me too deeply and makes me really unwell" | Mozart
+right: Martin
+Wrong: 
+Value: $400
+Number: 3
+BREAKFAST CEREAL | He's the spokes-character seen <http://www.j-archive.com/media/2007-03-07_J_22.jpg> here | Cap'n Crunch
+right: Sunny
+Wrong: 
+Value: $400
+Number: 22
+TELL ME "Y" | The overall leader in the Tour de France bike race wears this item of clothing | a yellow jersey
+right: Martin
+Wrong: 
+Harry: What is a yellow jacket?
+Value: $400
+Number: 9
+STATS FREAK | Get a grip, dude!  Warren Moon made the Hall of Fame despite an NFL record 161 of these; Len Dawson had 7 in one game | fumbles
+right: Martin
+Wrong: 
+Value: $400
+Number: 27
+KEEP THE FAITH | The Loas in Voodoo are roughly equivalent to these in Catholicism | saints
+right: Sunny
+Wrong: 
+Value: $600
+Number: 5
+TOP 10 LISTS | The top 10 highest cities in the world include La Paz, Bolivia & Lhasa in this region once ruled by the Dalai Lama | Tibet
+right: Harry
+Wrong: 
+Value: $600
+Number: 18
+LET'S GET BIZET! | Bizet penned this 1875 opera where the title gal leaves Don Jose for a bullfighter; big mistake | Carmen
+right: Harry
+Wrong: 
+Value: $600
+Number: 13
+BREAKFAST CEREAL | With flavors like Raspberry Red, Lemony Lemon & Grapity Purple, it's hard for silly rabbits to resist this classic | Trix
+right: Sunny
+Wrong: 
+Value: $600
+Number: 23
+TELL ME "Y" | This black & white comedy film starred Peter Boyle as the manmade man | Young Frankenstein
+right: Sunny
+Wrong: 
+Value: $600
+Number: 10
+STATS FREAK | Wilt Chamberlain & this '60s Celtic are the only NBAers to average more than 20 rebounds per game | Bill Russell
+right: Harry
+Wrong: 
+Value: $600
+Number: 28
+KEEP THE FAITH | 2 of the 3 religions practiced simultaneously by the majority of Taiwan's population | (2 of) Buddhism, Confucianism, Taoism
+right: 
+Wrong: 
+Sunny: What is Buddhism and Christianity?
+Value: DD: $1,000
+Number: 6
+TOP 10 LISTS | The top 10 most populous countries in the world include China, India & this country with over 300 million | the United States
+right: 
+Wrong: Triple Stumper
+Martin: What is Indonesia?
+Sunny: What is Pakistan?
+Value: $800
+Number: 19
+LET'S GET BIZET! | A teenaged Bizet won the Prix de Rome for "Clovis et Clotilde", this type of 7-letter choral composition | a cantata
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+BREAKFAST CEREAL | In 2004 this cereal introduced a new flavor, Honey Graham--wonder how Mikey likes it | Life
+right: Sunny
+Wrong: 
+Value: $800
+Number: 24
+TELL ME "Y" | Slovenia broke away from it in 1991 | Yugoslavia
+right: Sunny
+Wrong: 
+Harry: What is Czechoslovakia?
+Value: $800
+Number: 11
+STATS FREAK | This "Great One" had a record 382 career playoff points; Mark Messier is No. 2 with 295 | Gretzky
+right: Harry
+Wrong: 
+Value: $800
+Number: 29
+KEEP THE FAITH | The Koran was revealed to Muhammad during this century | the seventh
+right: Martin
+Wrong: 
+Harry: What is the eighth?
+Value: $1000
+Number: 7
+TOP 10 LISTS | The top 10 fastest fish in the sea include the tiger shark, the sailfish & the bluefin variety of this food fish | the tuna
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 20
+LET'S GET BIZET! | Bizet wrote, "As for" this Austrian "Surprise" symphony man, "he has sent me to sleep for some time past" | Haydn
+right: Harry
+Wrong: 
+Value: $1000
+Number: 15
+BREAKFAST CEREAL | In 1987 Bela Lugosi appeared on boxes of this cereal, the first in General Mills' "Monster Cereals" | Count Chocula
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 25
+TELL ME "Y" | He led the opposition to the coup that tried to overthrow Gorbachev in 1991 | (Boris) Yeltsin
+right: Sunny
+Wrong: 
+Value: $1000
+Number: 12
+STATS FREAK | This Cleveland RB of the '50s & '60s led the NFL in rushing 8 times; the most times for any other back is 4 | Jim Brown
+right: Martin
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Martin: $1,800
+Harry: $0
+Sunny: $2,400
+Scores at the end of the Jeopardy! Round:
+Martin: $2,600
+Harry: $2,200
+Sunny: $6,000
+Second Jeopardy! Round: A WALK ACROSS THE CHARLES BRIDGE, CLASSIC TV COMEDY EPISODES, 1980s BESTSELLERS, 20th CENTURY WOMEN, THE GREEK ALPHABET, STATES FREAK
+A WALK ACROSS THE CHARLES BRIDGE | (<http://www.j-archive.com/media/2007-03-07_DJ_01.jpg> Sarah of the Clue Crew stands on the Charles Bridge in Prague, Czech Republic.)  St. Norbert & St. Sigmund are portrayed with <http://www.j-archive.com/media/2007-03-07_DJ_01a.jpg> this Good King; all three are Czech patron saints | Wenceslas
+right: Martin
+Wrong: 
+Value: $400
+Number: 1
+CLASSIC TV COMEDY EPISODES | "Fonzie's Baptism" | Happy Days
+right: Sunny
+Wrong: 
+Value: $400
+Number: 2
+1980s BESTSELLERS | Robert Fulghum shared "uncommon thoughts on common things" in "All I Really Need to Know I Learned in" here | Kindergarten
+right: Harry
+Wrong: 
+Value: $400
+Number: 23
+20th CENTURY WOMEN | In April 2006 she was given a 41-gun royal salute in Hyde Park to celebrate her 80th birthday | Queen Elizabeth (II)
+right: Harry
+Wrong: 
+Value: $400
+Number: 3
+THE GREEK ALPHABET | In astronomy, this letter typically designates the brightest star in a constellation | alpha
+right: Sunny
+Wrong: 
+Value: $400
+Number: 8
+STATES FREAK | In 1945 the first atomic bomb was exploded in this state; how enchanting | New Mexico
+right: Sunny
+Wrong: 
+Value: $400
+Number: 18
+A WALK ACROSS THE CHARLES BRIDGE | As Jim Phelps, Jon Voight falls off the Charles Bridge in this blockbuster 1996 movie | Mission: Impossible
+right: Martin
+Wrong: 
+Value: $800
+Number: 13
+CLASSIC TV COMEDY EPISODES | "Uncle Martin's Wisdom Tooth" | My Favorite Martian
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+1980s BESTSELLERS | Her autobiography "Shelley: Also Known as Shirley" was a bestseller in 1980 | Shelley Winters
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+20th CENTURY WOMEN | Her work with mountain gorillas inspired the 1988 movie "Gorillas in the Mist" | (Dian) Fossey
+right: Sunny
+Wrong: 
+Value: $800
+Number: 4
+THE GREEK ALPHABET | This is the end, my only friend, the end (of the alphabet, this 24th letter, the end) | omega
+right: Harry
+Wrong: 
+Value: $800
+Number: 9
+STATES FREAK | This state produces most of the world's bourbon whiskey | Kentucky
+right: Sunny
+Wrong: 
+Value: $800
+Number: 19
+A WALK ACROSS THE CHARLES BRIDGE | A statue of this nature-loving Italian saint has stood on the bridge since 1855 | Francis of Assisi
+right: Martin
+Wrong: 
+Value: DD: $1,500
+Number: 30
+CLASSIC TV COMEDY EPISODES | "Love and the Spaced-Out Chick" | Love, American Style
+right: Martin
+Wrong: 
+Value: $1200
+Number: 15
+1980s BESTSELLERS | Of all of Stephen King's bestsellers, this hefty novel from 1986 has the shortest title | It
+right: 
+Wrong: 
+Harry: What is Cujo?
+Value: DD: $2,000
+Number: 25
+20th CENTURY WOMEN | Surrounded by family, this expatriate baroness & musical matriarch died in Vermont in 1987 | Maria von Trapp
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 5
+THE GREEK ALPHABET | Letter number 4; Mississippi has a famous one | delta
+right: Sunny
+Wrong: 
+Value: $1200
+Number: 10
+STATES FREAK | Country roads, take me home, to this state (admitted to the Union on June 20, 1863), I belong... | West Virginia
+right: Martin
+Wrong: 
+Value: $1200
+Number: 20
+A WALK ACROSS THE CHARLES BRIDGE | Originally called Stone Bridge, the Charles Bridge was built with this "stone", like the walls of the White House | sandstone
+right: 
+Wrong: Triple Stumper
+Harry: What is marble?
+Value: $1600
+Number: 28
+CLASSIC TV COMEDY EPISODES | "The Seven Faces of Ensign Parker" | McHale's Navy
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 16
+1980s BESTSELLERS | Gore Vidal's monumental novel about this president was a bestseller in 1984 | Lincoln
+right: Harry
+Wrong: 
+Value: $1600
+Number: 26
+20th CENTURY WOMEN | (<http://www.j-archive.com/media/2007-03-07_DJ_06.jpg> Hi, I'm Dana Delany.)  As a pro-choice advocate, I was happy with the title "Choices of the Heart", in which I played this pioneering birth control advocate | Margaret Sanger
+right: Harry
+Wrong: 
+Value: $1600
+Number: 6
+THE GREEK ALPHABET | This type of radiation, & letter of the alphabet, hulked out Bruce Banner | gamma
+right: Sunny
+Wrong: 
+Value: $1600
+Number: 11
+STATES FREAK | The 3 states on Michigan's southern borders | Indiana, Ohio, & Wisconsin
+right: 
+Wrong: Triple Stumper
+Martin: What are Indiana, Ohio, and...Pennsylvania?
+Sunny: What are Iowa, Illinois, and Indiana?
+Value: $1600
+Number: 21
+A WALK ACROSS THE CHARLES BRIDGE | (<http://www.j-archive.com/media/2007-03-07_DJ_29.jpg> Jimmy of the Clue Crew rubs a statue on the Charles Bridge, Prague, Czech Republic.)  It brings luck to touch the statue of <http://www.j-archive.com/media/2007-03-07_DJ_29a.jpg> this saint of Nepomuk, who was martyred by being thrown from the bridge in 1393 | Saint John
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 29
+CLASSIC TV COMEDY EPISODES | "The Unsinkable Mr. French" | Family Affair
+right: Martin
+Wrong: 
+Value: $2000
+Number: 17
+1980s BESTSELLERS | The third book in her "Earth's Children" series, "The Mammoth Hunters" was a mammoth bestseller in 1985 | (Jean) Auel
+right: Martin
+Wrong: 
+Value: $2000
+Number: 27
+20th CENTURY WOMEN | In 1977 this Danish queen, an artist & a Tolkien fan, illustrated an edition of "The Lord of the Rings" | Queen Margrethe
+right: Martin
+Wrong: 
+Harry: [*].
+Value: $2000
+Number: 7
+THE GREEK ALPHABET | Number 9, Number 9, Number 9; it's seen <http://www.j-archive.com/media/2007-03-07_DJ_12.jpg> here | iota
+right: Sunny
+Wrong: 
+Value: $2000
+Number: 12
+STATES FREAK | The name of this Rocky Mountain state comes from 2 Indian words meaning "at the big plains" | Wyoming
+right: Martin
+Wrong: 
+Value: $2000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Martin: $14,100
+Harry: $1,400
+Sunny: $12,000
+
+Final Jeopardy! Round
+BRITISH NOVELISTS | In 1946 he wrote, "Political language... is designed to make lies sound truthful & murder respectable" | George Orwell
+right: Harry | Sunny | Martin
+Wrong: 
+Wagers: 
+Harry: $1,400
+Sunny: $7,799
+Martin: $9,901
+Final scores:
+Martin: $24,001 (2-day champion: $44,802)
+Harry: $2,800 (3rd place: $1,000)
+Sunny: $19,799 (2nd place: $2,000)
+
+Coryat scores
+Martin: $13,800 (15 R(including 1 DD),2 W)
+Harry: $3,400 (14 R,6 W(including 1 DD))
+Sunny: $13,000 (20 R,3 W(including 1 DD))

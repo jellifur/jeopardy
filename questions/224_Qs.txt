@@ -1,0 +1,345 @@
+4558 - Wednesday, June 2, 2004
+Comments: Ken Jennings game 1.
+Contestants:
+Julia Lazarus: a fundraiser from New York, New York
+Ken Jennings: a software engineer from Salt Lake City, Utah
+Jerry Harvey: a freelance educator originally from California, Missouri (whose 2-day cash winnings total $70,002)
+First Jeopardy! Round: BIOGRAPHY SUBTITLES, LET'S CLEAN UP, PARDON ME, QUOTABLE RECENT MOVIES, PLAY TIME, "EPI"SODES
+BIOGRAPHY SUBTITLES | A president: "Remembering Jack" | John Kennedy
+right: Jerry
+Wrong: 
+Value: $200
+Number: 7
+LET'S CLEAN UP | If you're using a leaf skimmer, you're probably keeping this clean | your pool
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+PARDON ME | He was presidentially pardoned September 8, 1974 | Nixon
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+QUOTABLE RECENT MOVIES | 2002: "Nice Greek girls who don't find a husband work in the family restaurant" | My Big Fat Greek Wedding
+right: Ken
+Wrong: 
+Value: $200
+Number: 12
+PLAY TIME | In pinochle, an A-K-Q-J-10 of trump is a royal sequence; in poker, it would be a royal this | a royal flush
+right: Jerry
+Wrong: 
+Value: $200
+Number: 6
+"EPI"SODES | A fast-spreading outbreak of a disease | an epidemic
+right: Jerry
+Wrong: 
+Value: $200
+Number: 1
+BIOGRAPHY SUBTITLES | A Frenchman: "The Boy Who Invented Books for the Blind" | (Louis) Braille
+right: Ken
+Wrong: 
+Value: $400
+Number: 8
+LET'S CLEAN UP | In Pittsburgh, "redd up" means tidy up & is usually applied to one of these, like a teenager's | a bedroom
+right: Julia
+Wrong: 
+Value: $400
+Number: 27
+PARDON ME | Though Thomas Blood stole this object important to Charles II from the Tower of London, Charles pardoned him | his crown
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+QUOTABLE RECENT MOVIES | 2003: "I shall take you to the Black Pearl and your bonny lass" | Pirates of the Caribbean
+right: Ken
+Wrong: 
+Value: $400
+Number: 13
+PLAY TIME | Chutes & Ladders began as a Hindu game of these & ladders | snakes
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+"EPI"SODES | A short section at the end of a book | an epilogue
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+BIOGRAPHY SUBTITLES | A Revolutionary War figure: "Sailor, Hero, Father of the American Navy" | John Paul Jones
+right: Jerry
+Wrong: 
+Value: $600
+Number: 9
+LET'S CLEAN UP | For some light cleaning, it's the 2-word name of the item seen <http://www.j-archive.com/media/2004-06-02_J_28.jpg> here | a feather duster
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+PARDON ME | In 1992 President Bush pardoned 6 Iran-Contra figures, saying this was their main motivation | patriotism
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+QUOTABLE RECENT MOVIES | 2001: "Keep an eye on the staircases.  They like to change" | Harry Potter and the Sorcerer's Stone
+right: Ken
+Wrong: 
+Value: $600
+Number: 14
+PLAY TIME | One of the tiles in the first word put on a Scrabble board must cover the square with this symbol on it | a star
+right: Julia
+Wrong: 
+Value: $600
+Number: 18
+"EPI"SODES | From the Greek for "seizure", it's a medical condition involving abnormal electrical brain activity | epilepsy
+right: Jerry
+Wrong: 
+Value: $600
+Number: 3
+BIOGRAPHY SUBTITLES | An entrepreneur: "Bargain Billionaire" | Sam Walton
+right: 
+Wrong: 
+Jerry: Who is Woolworth?
+Value: DD: $1,800
+Number: 10
+LET'S CLEAN UP | Men wielding these windshield-cleaning implements are a negative indicator of quality of life in NYC | a squeegee
+right: Julia
+Wrong: 
+Value: $800
+Number: 29
+PARDON ME | This country singer who did time in San Quentin was pardoned by Governor Reagan in 1972 | Merle Haggard
+right: Jerry
+Wrong: 
+Value: $800
+Number: 24
+QUOTABLE RECENT MOVIES | 2003: "God doesn't take vacations... does He?... Do Ye?" | Bruce Almighty
+right: Ken
+Wrong: 
+Value: $800
+Number: 15
+PLAY TIME | A Parcheesi player begins with 4 pieces & can move a maximum of this many of them on one roll of the dice | two
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+"EPI"SODES | A witty saying or expression | an epigram
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+BIOGRAPHY SUBTITLES | A '60s civil rights leader: "By Any Means Necessary" | Malcolm X
+right: Julia
+Wrong: 
+Value: $1000
+Number: 11
+LET'S CLEAN UP | It means "scrub vigorously" & 3M makes Scotch-Brite pads to do it | to scour
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+PARDON ME | He fought against Julius Caesar, who pardoned him; a mistake, as he then conspired with Brutus in Caesar's murder | Cassius
+right: Jerry
+Wrong: 
+Value: $1000
+Number: 25
+QUOTABLE RECENT MOVIES | 2002: "There's a monster outside my room, can I have a glass of water?" | Signs
+right: Julia
+Wrong: 
+Value: $1000
+Number: 16
+PLAY TIME | The French call this floor or table game jeu de puce, "the flea game", as the disks act like jumping fleas | tiddlywinks
+right: Julia
+Wrong: 
+Value: $1000
+Number: 20
+"EPI"SODES | The best example of something | the epitome
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Jerry: $0
+Ken: $4,600
+Julia: $2,000
+Scores at the end of the Jeopardy! Round:
+Jerry: $1,800
+Ken: $8,000
+Julia: $4,800
+Second Jeopardy! Round: "H" NAMES, ACTRESSES & PLAYWRIGHTS, VOCABULARY, SENATORIAL SUCCESSORS, COUNTRY TIME, LEMON AID
+"H" NAMES | In 1919 this winner of the Iron Cross joined what would become the Nazi party | Hitler
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+ACTRESSES & PLAYWRIGHTS | He never forgave Mrs. Patrick Campbell for going off on her honeymoon while rehearsing his "Pygmalion" | Shaw
+right: Jerry
+Wrong: 
+Value: $400
+Number: 6
+VOCABULARY | Bovine means resembling cattle; this word that's 1 letter shorter means resembling sheep | ovine
+right: Julia
+Wrong: 
+Value: $400
+Number: 1
+SENATORIAL SUCCESSORS | 2000: Replaces New York's Daniel Patrick Moynihan | Hillary Clinton
+right: Julia
+Wrong: 
+Value: $400
+Number: 16
+COUNTRY TIME | Nepal's western, eastern & southern boundaries are with this country | India
+right: Jerry
+Wrong: 
+Value: $400
+Number: 25
+LEMON AID | Mash avocado, add onion, lemon juice & some tomato to get this chip dip | guacamole
+right: Julia
+Wrong: 
+Value: $400
+Number: 21
+"H" NAMES | This mythical hero stole Hippolyta's girdle as one of his labors | Hercules
+right: Julia
+Wrong: 
+Value: $800
+Number: 12
+ACTRESSES & PLAYWRIGHTS | As a student at Brown University, this actress appeared in a play written by her father, Romulus Linney | Laura Linney
+right: Julia
+Wrong: 
+Value: $800
+Number: 7
+VOCABULARY | When in England, if asked to snog, be aware it means this | to kiss
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+SENATORIAL SUCCESSORS | 1988: Succeeds Connecticut's Lowell Weicker | (Joseph) Lieberman
+right: Ken
+Wrong: 
+Jerry: Who's--who's, uh... [as time runs out] [*], [*]?
+Value: $800
+Number: 17
+COUNTRY TIME | The U.S. ambassador to Samoa is stationed in Wellington in this country | New Zealand
+right: Julia
+Wrong: 
+Value: $800
+Number: 30
+LEMON AID | In "Over The Rainbow", "troubles melt like" these, "away, above the chimney tops" | lemon drops
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+"H" NAMES | Born in Dublin, Texas in 1912, this 4-time U.S. Open winner had his own line of golf equipment | Ben Hogan
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+ACTRESSES & PLAYWRIGHTS | Chapter one of her life with Neil Simon began in 1973, when she was cast in his play "The Good Doctor" | Marsha Mason
+right: Julia
+Wrong: 
+Value: DD: $5,000
+Number: 8
+VOCABULARY | This word for circumstances that lessen a punishment comes from the Latin for "soft" | mitigating
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+SENATORIAL SUCCESSORS | 1986: Replaces Arizona's Barry Goldwater | John McCain
+right: Jerry
+Wrong: 
+Value: $1200
+Number: 18
+COUNTRY TIME | In April 1939 this country absorbed Albania | Italy
+right: 
+Wrong: Triple Stumper
+Jerry: What is the Soviet Union?
+Ken: What is Greece?
+Value: $1200
+Number: 28
+LEMON AID | This girl sold lemonade to reporters during her father's 1976 presidential campaign | Amy Carter
+right: Julia
+Wrong: 
+Value: $1200
+Number: 23
+"H" NAMES | This man took office as the 19th president of the U.S. in 1877 | Rutherford B. Hayes
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+ACTRESSES & PLAYWRIGHTS | Appropriately, his wife Armande Bejart made her stage debut in his 1662 play "The School for Wives" | Molière
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+VOCABULARY | Prefab metal sheets used to print newspapers gave us this term for standard wording, as in contracts | boilerplate
+right: Ken
+Wrong: 
+Value: DD: $2,000
+Number: 4
+SENATORIAL SUCCESSORS | 2002: Follows North Carolina's Jesse Helms | Elizabeth Dole
+right: Jerry
+Wrong: 
+Ken: Who is John Edwards?
+Value: $1600
+Number: 19
+COUNTRY TIME | A child prodigy, violinist Yehudi Menuhin was born in this country | the United States
+right: Jerry
+Wrong: 
+Ken: What is Israel?
+Value: $1600
+Number: 27
+LEMON AID | He's the only Lemon in Major League Baseball's Hall of Fame | Bob Lemon
+right: Jerry
+Wrong: 
+Value: $1600
+Number: 24
+"H" NAMES | In Genesis 16 this handmaid of Sarah flees the household | Hagar
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+ACTRESSES & PLAYWRIGHTS | This author of the play "Purlie Victorious" co-starred in it on Broadway with his wife, Ruby Dee | Ossie Davis
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+VOCABULARY | (<http://www.j-archive.com/media/2004-06-02_DJ_05.wmv> Sofia of the Clue Crew holds up a fencing sword.)  The weak part of the blade is the foible; the strong part has this "F" name that can also mean what you're best at | a forte
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+SENATORIAL SUCCESSORS | 1998: Replaces New York's Alphonse D'Amato | Chuck Schumer
+right: Julia
+Wrong: 
+Value: $2000
+Number: 20
+COUNTRY TIME | What was long ago called Cush, part of Nubia, is considered to be this African country today | Ethiopia
+right: Jerry
+Wrong: 
+Value: $2000
+Number: 26
+LEMON AID | According to a children's rhyme, "Oranges and lemons say the bells of" this church | St. Clemens
+right: Julia
+Wrong: 
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Jerry: $7,400
+Ken: $20,000
+Julia: $18,600
+
+Final Jeopardy! Round
+THE 2000 OLYMPICS | She's the first female track & field athlete to win medals in 5 different events at a single Olympics | Marion Jones
+right: Jerry | Ken
+Wrong: 
+Julia: Who is Gail
+Wagers: 
+Jerry: $1
+Julia: $3,799
+Ken: $17,201
+Final scores:
+Jerry: $7,401 (3rd place: $1,000)
+Ken: $37,201 (New champion: $37,201)
+Julia: $14,801 (2nd place: $2,000)
+
+Coryat scores
+Jerry: $9,200 (14 R,4 W(including 1 DD))
+Ken: $19,600 (27 R(including 1 DD),3 W)
+Julia: $14,800 (16 R(including 1 DD),0 W)

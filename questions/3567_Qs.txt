@@ -1,0 +1,346 @@
+6079 - Thursday, February 3, 2011
+Comments: IBM Challenge mini-documentary: "What is Watson?"
+Contestants:
+Marty Christy: a language arts middle school teacher from Alexandria, Virginia
+Mai Do-Burrous: a stay at home mother from New York, New York
+Fred Cofone: a copy editor from Old Greenwich, Connecticut (whose 1-day cash winnings total $3,200)
+First Jeopardy! Round: BRITISH NOVELISTS, UP ON MOUNT RUSHMORE, GENESIS QUOTE FILL-IN, UNUSUAL COUNTRY MUSIC LYRICS, "M.C." 5, 4-SYLLABLE WORDS
+BRITISH NOVELISTS | An unflattering version of ex-girlfriend Maria Beadnell appeared in his "Little Dorrit" | (Charles) Dickens
+right: Marty
+Wrong: 
+Value: $200
+Number: 16
+UP ON MOUNT RUSHMORE | Picked West Point as the site for the U.S. Military Academy | Washington
+right: Marty
+Wrong: 
+Mai: Who is Jefferson?
+Value: $200
+Number: 1
+GENESIS QUOTE FILL-IN | "They sewed ____ ____ together, and made themselves aprons" | fig leaves
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 24
+UNUSUAL COUNTRY MUSIC LYRICS | <http://www.j-archive.com/media/2011-02-03_J_19.mp3> Don't own no pickup truck / They make me go fetal / Just like to scoot around / In this company's Beetle | Volkswagen
+right: Fred
+Wrong: 
+Value: $200
+Number: 19
+"M.C." 5 | He's worth every penny as Alfred Pennyworth in "The Dark Knight" | Michael Caine
+right: Mai
+Wrong: 
+Value: $200
+Number: 4
+4-SYLLABLE WORDS | It can mean undistinguished or one walking as opposed to driving | pedestrian
+right: Mai
+Wrong: 
+Value: $200
+Number: 8
+BRITISH NOVELISTS | Her relationship with writer Vita Sackville-West would inspire the play "Vita and Virginia" | Virginia Woolf
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+UP ON MOUNT RUSHMORE | Sent Lewis & Clark off to see the country | Jefferson
+right: Fred
+Wrong: 
+Value: $400
+Number: 2
+GENESIS QUOTE FILL-IN | "And the lord set a mark upon ____, lest any finding him should kill him" | Cain
+right: Marty
+Wrong: 
+Value: $400
+Number: 25
+UNUSUAL COUNTRY MUSIC LYRICS | <http://www.j-archive.com/media/2011-02-03_J_20.mp3> & I'm proud to be / From this country / Where at least I know I'm free / From Halifax to Kamloops / It's the place for you & me! | Canada
+right: Fred
+Wrong: 
+Value: $400
+Number: 20
+"M.C." 5 | The parents of this 52nd governor of New York immigrated to the U.S. from Salerno, Italy | Mario Cuomo
+right: Fred
+Wrong: 
+Value: $400
+Number: 5
+4-SYLLABLE WORDS | Bridgeport is the largest city in this northeastern state | Connecticut
+right: Fred
+Wrong: 
+Value: $400
+Number: 9
+BRITISH NOVELISTS | James Hilton's father, a school headmaster, was an inspiration for the title character in "Goodbye, Mr." him | Chips
+right: Fred
+Wrong: 
+Value: $600
+Number: 18
+UP ON MOUNT RUSHMORE | Was married twice | Theodore Roosevelt
+right: Mai
+Wrong: 
+Value: $600
+Number: 3
+GENESIS QUOTE FILL-IN | "And God said, let us make man in our image, after our likeness: and let them have ____ over the fish of the sea" | dominion
+right: Fred
+Wrong: 
+Value: $600
+Number: 26
+UNUSUAL COUNTRY MUSIC LYRICS | <http://www.j-archive.com/media/2011-02-03_J_21.mp3> Workin' on Wall Street / Sure takes its toll / But a ski trip to this country's Davos or Gstaad / Is good for the soul | Switzerland
+right: Fred
+Wrong: 
+Value: $600
+Number: 21
+"M.C." 5 | This child star got his first on-screen kiss in "My Girl" | Macaulay Culkin
+right: Mai
+Wrong: 
+Marty: Who is Macaulay  Calkin?
+Value: $600
+Number: 13
+4-SYLLABLE WORDS | Verb meaning to introduce a disease-producing agent for the purpose of creating resistance | innoculate
+right: Mai
+Wrong: 
+Value: $600
+Number: 10
+BRITISH NOVELISTS | Her only published work under her real name, Mary Ann Evans, was a translation of "Essence of Christianity" | (George) Eliot
+right: Fred
+Wrong: 
+Value: DD: $800
+Number: 29
+UP ON MOUNT RUSHMORE | Eliminated the tax on whiskey & sent a naval expedition against the Barbary pirates | Jefferson
+right: Fred
+Wrong: 
+Value: $800
+Number: 6
+GENESIS QUOTE FILL-IN | "There were ____ in the earth in those days" | giants
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+UNUSUAL COUNTRY MUSIC LYRICS | <http://www.j-archive.com/media/2011-02-03_J_22.mp3> I don't like beer / I like my drinks pretty / Like this vodka, cointreau, cranberry juice & lime juice one / On "Sex & the City" | a cosmopolitan
+right: Fred
+Wrong: 
+Value: $800
+Number: 22
+"M.C." 5 | Edgar Degas' style influenced that of this female American Impressionist | Mary Cassatt
+right: Mai
+Wrong: 
+Value: $800
+Number: 14
+4-SYLLABLE WORDS | 9-letter adjective literally applying to one in the womb; it's used of a project just getting started | embryonic
+right: Marty
+Wrong: 
+Fred: What is in utero?
+Value: $800
+Number: 11
+UP ON MOUNT RUSHMORE | Appointed Oliver Ellsworth Chief Justice | Washington
+right: Mai
+Wrong: 
+Value: $1000
+Number: 7
+GENESIS QUOTE FILL-IN | "And God set them in the ____ of the heaven to give light upon the earth" | firmament
+right: 
+Wrong: Triple Stumper
+Marty: What is fabric?
+Value: $1000
+Number: 28
+UNUSUAL COUNTRY MUSIC LYRICS | <http://www.j-archive.com/media/2011-02-03_J_23.mp3> You won't find me at the barbecue / 'Cause I don't eat no legs / I'm on this 5-letter diet / Not even dairy & eggs | vegan
+right: Fred
+Wrong: 
+Value: $1000
+Number: 23
+"M.C." 5 | The film "Gigi" gave him his signature song "Thank Heaven For Little Girls" | Maurice Chevalier
+right: Marty
+Wrong: 
+Value: $1000
+Number: 15
+4-SYLLABLE WORDS | This small fault or offense is from both Spanish & Italian for "sin" | peccadillo
+right: 
+Wrong: Triple Stumper
+Fred: What is vendetta?
+Marty: What is transgression?
+Value: $1000
+Number: 12
+Scores at the first commercial break (after clue 15)
+Fred: $200
+Mai: $3,800
+Marty: $400
+Scores at the end of the Jeopardy! Round:
+Fred: $5,200
+Mai: $3,800
+Marty: $0
+Second Jeopardy! Round: OUR WATERY WORLD, TV PERSONALITY MARRIAGES, CHICKS DIG ME, ANAGRAM ZOO, GEOLOGY, DOWN IN THE "VALLEY"
+OUR WATERY WORLD | The City of Worms, where Martin Luther refused to recant in 1521, is a port on this German river | the Rhine
+right: Mai
+Wrong: 
+Fred: What is the Danube?
+Value: $400
+Number: 4
+TV PERSONALITY MARRIAGES | She & hubby Will Arnett played a sister-&-brother ice skating team in "Blades of Glory" | Amy Poehler
+right: Fred
+Wrong: 
+Value: $400
+Number: 5
+CHICKS DIG ME | Kathleen Kenyon's excavation of this city mentioned in Joshua showed the walls had been repaired 17 times | Jericho
+right: Mai
+Wrong: 
+Value: $400
+Number: 26
+ANAGRAM ZOO | A tiny terrier:  RISKY HERO | Yorkshire
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+GEOLOGY | A deep ravine that's often dry in the summer, it shares its name with a "grand" dam in Washington state | a coulee
+right: Fred
+Wrong: 
+Mai: What is arroyo?
+Value: $400
+Number: 3
+DOWN IN THE "VALLEY" | Established as part of the New Deal, it's the TVA for short | the Tennessee Valley Authority
+right: Mai
+Wrong: 
+Value: $400
+Number: 1
+OUR WATERY WORLD | This ocean's deepest point, more than 23,000 feet, is in the Java Trench | the Indian Ocean
+right: Fred
+Wrong: 
+Marty: Pacific?  What is Pacific?
+Value: $800
+Number: 12
+TV PERSONALITY MARRIAGES | Anna Torv & Mark Valley played lovers on this eerie Fox show & married in real life in 2008 | Fringe
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+CHICKS DIG ME | This mystery author & her archaeologist hubby dug in hopes of finding the lost Syrian city of Urkesh | Agatha Christie
+right: Mai
+Wrong: 
+Value: $800
+Number: 30
+ANAGRAM ZOO | An ape:  MICE ZAP HEN | chimpanzee
+right: Mai
+Wrong: 
+Value: $800
+Number: 16
+GEOLOGY | This layer of rock between the Earth's core & crust makes up about 85 percent of the planet's mass | the mantle
+right: Mai
+Wrong: 
+Value: $800
+Number: 10
+DOWN IN THE "VALLEY" | In the King James Bible, the Book of Psalms says, "Yea, though I walk through" this, "I will fear no evil" | the valley of the shadow of death
+right: 
+Wrong: Triple Stumper
+Marty: What is the valley of darkness?
+Value: $800
+Number: 2
+OUR WATERY WORLD | This large Central American lake that shares its name with a country has some of the world's few freshwater sharks | Lake Nicaragua
+right: Fred
+Wrong: 
+Value: DD: $2,000
+Number: 20
+TV PERSONALITY MARRIAGES | After 7 months of marriage, Elisabeth Moss of "Mad Men" & Fred Armisen of this late night staple separated | SNL
+right: Mai
+Wrong: 
+Value: $1200
+Number: 28
+CHICKS DIG ME | At the Olduvai Gorge in 1959, she & hubby Louis found a 1.75 million-year-old Australopithecus boisei skull | Mary Leakey
+right: Fred
+Wrong: 
+Value: $1200
+Number: 29
+ANAGRAM ZOO | A fish-catching bird:  MORTAR CON | cormorant
+right: Fred
+Wrong: 
+Value: $1200
+Number: 17
+GEOLOGY | From the Greek for "without shape", this term refers to rocks & minerals that have no crystalline structure | amorphous (amorphic accepted)
+right: Marty
+Wrong: 
+Mai: What is metamorphic?
+Value: $1200
+Number: 11
+DOWN IN THE "VALLEY" | Where Tut rested undisturbed until 1922 | the Valley of the Kings (the Valley of Kings accepted)
+right: Fred
+Wrong: 
+Value: DD: $1,200
+Number: 7
+OUR WATERY WORLD | The only major river that flows both north & south across the equator is this second-longest river in Africa | the Congo
+right: Mai
+Wrong: 
+Value: $1600
+Number: 21
+TV PERSONALITY MARRIAGES | His wife Jennifer Carpenter plays his sister on "Dexter" | Michael C. Hall
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 27
+CHICKS DIG ME | Harriet Boyd Hawes was the first woman to discover & excavate a Minoan settlement on this island | Crete
+right: Fred
+Wrong: 
+Value: $1600
+Number: 24
+ANAGRAM ZOO | A member of the weasel family:  GARBED | badger
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 18
+GEOLOGY | Lamina is a layer in this type of rock that is less than 1 cm. in thickness & is visually separable from other layers | sedimentary
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 13
+DOWN IN THE "VALLEY" | Fragrant perennial with a 4-word name seen <http://www.j-archive.com/media/2011-02-03_DJ_08.jpg> here | lily of the valley
+right: Fred
+Wrong: 
+Value: $1600
+Number: 8
+OUR WATERY WORLD | (<http://www.j-archive.com/media/2011-02-03_DJ_25.wmv> Jimmy of the Clue Crew shows a globe on the monitor.) Exactly two-thirds of the way south from the equator, you can circumnavigate the world without ever crossing land at this latitude | 60 degrees south
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+TV PERSONALITY MARRIAGES | This "All My Children" star had all his children--Michael, Lola & Joaquin--with wife Kelly Ripa | (Mark) Consuelos
+right: Mai
+Wrong: 
+Value: $2000
+Number: 22
+CHICKS DIG ME | At Mt. Carmel in Israel, Dorothy Garrod was the first to find this prehistoric human skeleton outside of Europe | Neanderthal
+right: Mai
+Wrong: 
+Value: $2000
+Number: 23
+ANAGRAM ZOO | A crocodilian:  MANIAC | caiman
+right: Fred
+Wrong: 
+Value: $2000
+Number: 19
+GEOLOGY | "Bovine" term for a crescent-shaped lake formed in an abandoned river bend | an ox-bow
+right: Fred
+Wrong: 
+Value: $2000
+Number: 14
+DOWN IN THE "VALLEY" | Spencer Johnson of "Who Moved My Cheese?" fame wrote a book about life's ups & downs titled these opposites | Peaks and Valleys
+right: Fred
+Wrong: 
+Mai: What are Hills and Valleys?
+Value: $2000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+Fred: $21,200
+Mai: $10,600
+Marty: -$400
+
+Final Jeopardy! Round
+WORD HISTORY | Since the 1600s this 8-letter word has meant men of letters; a punning form of it refers to celebrities | literati
+right: 
+Wrong: 
+Mai: What is gliterat
+Fred: What is staple?
+Wagers: 
+Mai: $10,600
+Fred: $0
+Final scores:
+Fred: $21,200 (2-day champion: $24,400)
+Mai: $0 (2nd place: $2,000)
+Marty: -$400 (3rd place: $1,000)
+
+Coryat scores
+Fred: $20,400 (24 R(including 3 DDs),3 W)
+Mai: $10,600 (17 R,4 W)
+Marty: -$400 (6 R,5 W)

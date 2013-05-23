@@ -1,0 +1,340 @@
+3416 - Monday, June 14, 1999
+Contestants:
+Sarah Gold: a bank teller from Albany, New York
+Chuck Lee: a business consultant from Superior, Colorado
+Ryan Thiel: a sign language interpreter from Minneapolis, Minnesota (whose 3-day cash winnings total $34,702)
+First Jeopardy! Round: FLAGS, BETSY ROSS, STARS, STRIPES, FOREVER, "OLD" GLORY
+FLAGS | This Canadian province's flag shows the setting sun & wavy blue bars representing the Pacific Ocean | British Columbia
+right: Ryan
+Wrong: 
+Value: $100
+Number: 12
+BETSY ROSS | Betsy shared an aptitude for fine needlework as a schoolgirl in this city of her birth | Philadelphia
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 16
+STARS | His later career included intoning that Paul Masson would "Sell no Wine Before Its Time" | Orson Welles
+right: Chuck
+Wrong: 
+Value: $100
+Number: 17
+STRIPES | It's the Central American stripe-kneed variety of this hairy species seen here | Tarantula
+right: Ryan
+Wrong: 
+Value: $100
+Number: 3
+FOREVER | The Bangles hit about an "eternal" one lit up the No. 1 spot on the charts in 1989 | Flame
+right: Sarah
+Wrong: 
+Value: $100
+Number: 1
+"OLD" GLORY | A nursery rhyme's "merry old soul" | Old King Cole
+right: Sarah
+Wrong: 
+Value: $100
+Number: 7
+FLAGS | France's tricolor flag features red & blue -- the colors of Paris -- & this , the royal color of the Bourbon kings | White
+right: Sarah
+Wrong: 
+Value: $200
+Number: 13
+BETSY ROSS | According to the legend, Robert Morris, George Ross & this man asked Betsy to make the first Stars & Stripes | George Washington
+right: Chuck
+Wrong: 
+Value: $200
+Number: 27
+STARS | This actress from an acting family is the wife of Nicolas Cage | Patricia Arquette
+right: Ryan
+Wrong: 
+Value: $200
+Number: 18
+STRIPES | There are striped-tailed as well as ruby-throated varieties of this species seen here | Hummingbird
+right: Chuck
+Wrong: 
+Value: $200
+Number: 23
+FOREVER | Fictional candy maker who created the Everlasting Gobstopper | Willy Wonka
+right: Chuck
+Wrong: 
+Value: $200
+Number: 2
+"OLD" GLORY | A PBS series once hosted by Bob Vila | This Old House
+right: Ryan
+Wrong: 
+Value: $200
+Number: 8
+FLAGS | This U.S. commonwealth's flag is patterned after that of Cuba | Puerto Rico
+right: Ryan
+Wrong: 
+Value: $300
+Number: 14
+BETSY ROSS | This religious group was not so "amiable" when it banned Betsy for marrying out of meeting | Society of Friends (Quakers)
+right: Chuck
+Wrong: 
+Value: $300
+Number: 28
+STARS | After a 1980 contract dispute, this actress only appeared in "Three's Company" talking on the phone | Suzanne Somers
+right: Ryan
+Wrong: 
+Value: $300
+Number: 19
+STRIPES | Hey, steer clear of the fellow seen here (skunk) who's known down south by this "feline" nickname | Polecat
+right: Ryan
+Wrong: 
+Value: $300
+Number: 24
+FOREVER | It's a theoretical device that once running goes forever without any additional inputs of energy | Perpetual motion machine
+right: Ryan
+Wrong: 
+Value: $300
+Number: 4
+"OLD" GLORY | A 1952 Hemingway novella | "The Old Man and the Sea"
+right: Sarah
+Wrong: 
+Value: $300
+Number: 9
+FLAGS | This state's flag features a mother pelican with its young | Louisiana
+right: Chuck
+Wrong: 
+Value: $400
+Number: 15
+BETSY ROSS | The story that Betsy made the flag was made public in 1870 by William Canby, who was this relative of Betsy's | Grandson
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+STARS | Having emerged as a star in "Apollo 13" & "Twister", he gets confused with Bill Pullman less often | Bill Paxton
+right: Chuck
+Wrong: 
+Value: $400
+Number: 20
+STRIPES | The striped species seen here (tiger) is believed to have originated on this continent | Asia
+right: Sarah
+Wrong: 
+Value: $400
+Number: 25
+FOREVER | Zeus condemned him to the hellish region of Tartarus & an eternity of pushing a rock up a hill | Sisyphus
+right: Ryan
+Wrong: 
+Value: $400
+Number: 5
+"OLD" GLORY | General George Patton's visceral nickname | "Old Blood and Guts"
+right: Chuck
+Wrong: 
+Value: $400
+Number: 10
+FLAGS | The staff & hat of the Bishop of Urgel can be found on this tiny Pyrenees country's flag | Andorra
+right: Chuck
+Wrong: 
+Value: $500
+Number: 22
+BETSY ROSS | Betsy's dad helped build Pennsylvania's old state house, better known by this name | Independence Hall
+right: Chuck
+Wrong: 
+Value: DD: $500
+Number: 30
+STARS | This Broadway, movie & TV actor wasn't related to "The Duke" (starred in "The Last Angry Man") | David Wayne
+right: Ryan
+Wrong: 
+Value: $500
+Number: 21
+STRIPES | The striped menu favorite seen here derives this name from the sound it makes when taken out of the water | Grunt
+right: Ryan
+Wrong: 
+Value: $500
+Number: 26
+FOREVER | Michael Ende's story of a boy who enters a fantasy world when he reads a book about it | The Neverending Story
+right: Sarah
+Wrong: 
+Value: $500
+Number: 6
+"OLD" GLORY | Also the title of a 1595 play, it's a traditional belief or story that's often superstitious | "Old Wives' Tale"
+right: Chuck
+Wrong: 
+Value: $500
+Number: 11
+Scores at the first commercial break (after clue 15)
+Ryan: $1,300
+Chuck: $1,500
+Sarah: $1,200
+Scores at the end of the Jeopardy! Round:
+Ryan: $3,100
+Chuck: $3,700
+Sarah: $1,600
+Second Jeopardy! Round: BOOKS & AUTHORS, MADAM PRESIDENT?, POP MUSIC THROUGH THE YEARS, BIOLOGY, CAPITAL PUNISHMENT, FROM A TO Y
+BOOKS & AUTHORS | In 1998 he brought back ex-Navy Seal & former CIA agent John Clark in the techno-thriller "Rainbow Six" | Tom Clancy
+right: Chuck
+Wrong: 
+Value: $200
+Number: 13
+MADAM PRESIDENT? | Her background includes studying law at Yale & over a decade as first lady of Arkansas | Hillary Rodham Clinton
+right: Ryan
+Wrong: 
+Value: $200
+Number: 24
+POP MUSIC THROUGH THE YEARS | Among the themes he composed for Blake Edwards were "Peter Gunn" & "The Pink Panther" | Henry Mancini
+right: Sarah
+Wrong: 
+Value: $200
+Number: 18
+BIOLOGY | The hepatic portal vein connects the intestine to this organ | Liver
+right: Sarah
+Wrong: 
+Value: $200
+Number: 1
+CAPITAL PUNISHMENT | Addis Ababa | Ethiopia
+right: Ryan
+Wrong: 
+Value: $200
+Number: 7
+FROM A TO Y | First name of TV's McBeal | Ally
+right: Ryan
+Wrong: 
+Value: $200
+Number: 3
+BOOKS & AUTHORS | This John Grisham bestseller about corruption in the insurance business was turned into a 1997 film | The Rainmaker
+right: Ryan
+Wrong: 
+Value: $400
+Number: 14
+MADAM PRESIDENT? | "Red Cross my heart & hope to be president" may be a motto of this ex-Secretary of Labor | Elizabeth Dole
+right: Sarah
+Wrong: 
+Value: $400
+Number: 27
+POP MUSIC THROUGH THE YEARS | His backup band is the Buckaroos | Buck Owens
+right: Ryan
+Wrong: 
+Value: $400
+Number: 19
+BIOLOGY | It's been proposed that sulfate aerosols from these geological phenomena killed off the dinosaurs | Volcanoes
+right: Chuck
+Wrong: 
+Value: $400
+Number: 2
+CAPITAL PUNISHMENT | Vientiane | Laos
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+FROM A TO Y | This word for a payment to a former spouse is from the Latin for "sustenance" or "nourishment" | Alimony
+right: Sarah
+Wrong: 
+Value: $400
+Number: 8
+BOOKS & AUTHORS | His 1950 classic "I, Robot" contains 9 related stories about (what else?) robots | Isaac Asimov
+right: Sarah
+Wrong: 
+Value: $600
+Number: 15
+MADAM PRESIDENT? | This senator nicknamed Di Fi could have her eye on the White House pie | Dianne Feinstein
+right: Chuck
+Wrong: 
+Value: $600
+Number: 28
+POP MUSIC THROUGH THE YEARS | The 1998 album "Painted from Memory" paired this composer & Elvis Costello | Burt Bacharach
+right: Ryan
+Wrong: 
+Value: $600
+Number: 20
+BIOLOGY | The internodes on the stem of a cabbage plant are very short, so these are stacked close together | Leaves
+right: Sarah
+Wrong: 
+Value: $600
+Number: 4
+CAPITAL PUNISHMENT | Tirane | Albania
+right: Chuck
+Wrong: 
+Value: $600
+Number: 10
+FROM A TO Y | According to a 1992 song title, it's the 2-word description of Billy Ray Cyrus' heart | "Achy Breaky Heart"
+right: Sarah
+Wrong: 
+Value: $600
+Number: 23
+BOOKS & AUTHORS | She's written about her father & "Women of Courage" as well as of "Murder in Georgetown" | Margaret Truman
+right: Sarah
+Wrong: 
+Value: DD: $1,000
+Number: 16
+MADAM PRESIDENT? | Some would like to see her move from the New Jersey governor's house to the White House | Christine Todd Whitman
+right: Ryan
+Wrong: 
+Value: $800
+Number: 29
+POP MUSIC THROUGH THE YEARS | Frank Sinatra recorded this song first, but it was Dean Martin's version that went to No. 1 in 1964 | "Everybody Loves Somebody"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+BIOLOGY | Night blindness may come from a deficiency in this vitamin, also called retinol | Vitamin A
+right: Sarah
+Wrong: 
+Value: DD: $1,000
+Number: 5
+CAPITAL PUNISHMENT | Tallinn | Estonia
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+FROM A TO Y | The Yeti, a notorious Himalayan snowman, has a reputation for behaving this way | Abominably
+right: Ryan
+Wrong: 
+Value: $800
+Number: 25
+BOOKS & AUTHORS | This Camus novel is known in French as "La Peste" | "The Plague"
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 17
+MADAM PRESIDENT? | One woman being suggested for the job is Mae Jemison, who's famous for having this job | Astronaut
+right: Sarah
+Wrong: 
+Value: $1000
+Number: 30
+POP MUSIC THROUGH THE YEARS | Veronica Bennett fronted this "Be My Baby" group | The Ronettes
+right: 
+Wrong: Triple Stumper
+Ryan: Who were The Shirelles?
+Value: $1000
+Number: 22
+BIOLOGY | Filter feeders include flamingos & these whales named for their filters | Baleen whales
+right: Sarah
+Wrong: 
+Value: $1000
+Number: 6
+CAPITAL PUNISHMENT | Suva | Fiji
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 12
+FROM A TO Y | A cerebral hemmorhage, or a fit of rage | Apoplexy
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Ryan: $5,700
+Chuck: $7,500
+Sarah: $8,200
+
+Final Jeopardy! Round
+COMPOSERS | "Reaching for the Note" was the subtitle of a 1998 film about this American music legend who died in 1990 | Leonard Bernstein
+right: Sarah
+Wrong: 
+Ryan: Who was Dizzy Gillespie
+Chuck: Who is Selena?
+Wagers: 
+Ryan: $5,699
+Chuck: $4,000
+Sarah: $6,801
+Final scores:
+Ryan: $1 (3rd place: Samsung 28" Stereo TV)
+Chuck: $3,500 (2nd place: Trip to Hong Kong Hotel)
+Sarah: $15,001 (New champion: $15,001)
+
+Coryat scores
+Ryan: $5,700 (19 R,2 W)
+Chuck: $7,500 (17 R(including 1 DD),0 W)
+Sarah: $7,800 (17 R(including 2 DDs),1 W)

@@ -1,0 +1,354 @@
+4326 - Monday, May 26, 2003
+Contestants:
+Bronson Messer: an astrophysicist from Knoxville, Tennessee
+James See: a student and editor from Turlock, California
+Danny Jobe: a cable television system manager from Forest, Virginia (whose 1-day cash winnings total $6,399)
+First Jeopardy! Round: CRIMINOLOGY, NATO IS NEATO, THE CANINE FILM FESTIVAL, BROTHERS IN BUSINESS, CREATURES OF LORE, COMPLETES THE PROVERB
+CRIMINOLOGY | The group Families Against Mandatory Minimums opposes policies like California's this many strikes rule | 3
+right: James
+Wrong: 
+Value: $200
+Number: 21
+NATO IS NEATO | In 1948 the Allies began talks of a defense pact like NATO in response to the Soviet blockade of this city | Berlin
+right: James
+Wrong: 
+Bronson: What is Warsaw?
+Value: $200
+Number: 1
+THE CANINE FILM FESTIVAL | This 1975 Al Pacino film was based in part on an actual bank robbery | Dog Day Afternoon
+right: Danny
+Wrong: 
+Value: $200
+Number: 6
+BROTHERS IN BUSINESS | Studio that brought us "Casablanca" & Bugs Bunny | Warner Bros.
+right: Danny
+Wrong: 
+Value: $200
+Number: 11
+CREATURES OF LORE | The expression "If" these "could kill" applies literally to a mythical serpent called the cockatrice | looks
+right: James
+Wrong: 
+Value: $200
+Number: 16
+COMPLETES THE PROVERB | "One man's meat is another man's..." | poison
+right: Danny
+Wrong: 
+Value: $200
+Number: 26
+CRIMINOLOGY | For his system of identifying criminals by body measurements, Bertillon started photographing them these 2 ways | front & profile
+right: James
+Wrong: 
+Value: $400
+Number: 22
+NATO IS NEATO | Before he was president of the United States, he was supreme allied commander of NATO forces | Dwight D. Eisenhower
+right: Danny
+Wrong: 
+Value: $400
+Number: 2
+THE CANINE FILM FESTIVAL | This 2000 film with Eugene Levy & Christopher Guest spoofed the stupid human tricks at a major dog show | Best in Show
+right: Danny
+Wrong: 
+Value: $400
+Number: 7
+BROTHERS IN BUSINESS | Ahem, we'd tell you they were William & Andrew, not Trade & Mark, but that would be name cough dropping | Smith Brothers
+right: 
+Wrong: Triple Stumper
+Danny: Who are the Halls brothers?
+James: What is Johnson & Johnson?
+Value: $400
+Number: 12
+CREATURES OF LORE | Vishnu, part of this religion's pantheon, rides on the back of the half-man, half-vulture Garuda | Hindu
+right: Bronson
+Wrong: 
+Value: $400
+Number: 17
+COMPLETES THE PROVERB | "To err is human, to forgive..." | divine
+right: Danny
+Wrong: 
+Value: $400
+Number: 27
+CRIMINOLOGY | A common trio in explaining crimes consists of means, opportunity & this | motive
+right: James
+Wrong: 
+Value: $600
+Number: 23
+NATO IS NEATO | In 1949 the NATO Treaty was signed by the U.S. & 11 other countries, including this volcanic island nation | Iceland
+right: James
+Wrong: 
+Danny: What is Japan?
+Value: $600
+Number: 3
+THE CANINE FILM FESTIVAL | A cocker spaniel & a mutt are the title characters of this 1955 animated classic | Lady and the Tramp
+right: Danny
+Wrong: 
+Value: $600
+Number: 8
+BROTHERS IN BUSINESS | Last name of little ole winemakers Ernest & Julio | Gallo
+right: Bronson
+Wrong: 
+Value: $600
+Number: 13
+CREATURES OF LORE | (Sarah of the Clue Crew at the Columbus Zoo in Columbus, Ohio)  Manatees, which are classified as sirenian, may be the origin of these legendary beauties, also called sirens | mermaids
+right: Danny
+Wrong: 
+Value: $600
+Number: 18
+COMPLETES THE PROVERB | "Better to die with honor than to live with..." | shame
+right: James
+Wrong: 
+Bronson: What is disgrace?
+Value: $600
+Number: 28
+CRIMINOLOGY | From the Latin for "to frighten", it's one of the major purposes of capital punishment | deterrence
+right: Danny
+Wrong: 
+Value: $800
+Number: 24
+NATO IS NEATO | In 1999 Lord Robertson followed Javier Solana into this job at NATO | Secretary-General
+right: James
+Wrong: 
+Value: $800
+Number: 4
+THE CANINE FILM FESTIVAL | Steve Buscemi complains that he doesn't want to be called Mr. Pink in this 1992 Tarantino flick | Reservoir Dogs
+right: Bronson
+Wrong: 
+Value: $800
+Number: 9
+BROTHERS IN BUSINESS | Last name of Walter & Arthur, who partnered up with William Harley in 1903 | Davidson
+right: Bronson
+Wrong: 
+Value: $800
+Number: 14
+CREATURES OF LORE | Psyche got past this dog of Hades by pacifying him with honey cake | Cerberus
+right: James
+Wrong: 
+Value: $800
+Number: 19
+COMPLETES THE PROVERB | "Dead men tell..." | no tales
+right: Bronson
+Wrong: 
+Value: $800
+Number: 29
+CRIMINOLOGY | The 1982 article "Broken" these says that leaving minor damage unrepaired leads to more destruction | Windows
+right: Danny
+Wrong: 
+Value: $1000
+Number: 25
+NATO IS NEATO | At the 2002 NATO Conference in Prague, 7 nations were invited to join NATO, including these 3 Baltic ones | Estonia, Latvia & Lithuania
+right: Danny
+Wrong: 
+Value: $1000
+Number: 5
+THE CANINE FILM FESTIVAL | Lasse Hallstrom received an Oscar nomination for directing this 1985 film about a Swedish boy in the 1950s | My Life as a Dog
+right: Danny
+Wrong: 
+Bronson: What is "A Boy and His Dog?"
+Value: $1000
+Number: 10
+BROTHERS IN BUSINESS | Under this name the Hassenfeld brothers branched out into the toy business in the 1940s | Hasbro
+right: Bronson
+Wrong: 
+Value: DD: $1,000
+Number: 15
+CREATURES OF LORE | Creation stories of the Onondaga & other Indian tribes put the world on the back of this animal | turtle
+right: James
+Wrong: 
+Danny: What is a bear?
+Bronson: What is a bison?
+Value: $1000
+Number: 20
+COMPLETES THE PROVERB | "Cold hands..." | warm heart
+right: James
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Danny: $2,800
+James: $1,200
+Bronson: $2,000
+Scores at the end of the Jeopardy! Round:
+Danny: $4,800
+James: $6,000
+Bronson: $1,600
+Second Jeopardy! Round: 1957, PEN-SYLVANIA, ROCKIN' SUBTITLES, WHAT'S IN A NAME?, GBS, YOU'VE GOT TO STAND FOR SOMETHING
+1957 | Having played a boy in "Peter Pan", she played a tomboy in "Annie Get Your Gun" in 1957 | Mary Martin
+right: Bronson
+Wrong: 
+Value: $400
+Number: 11
+PEN-SYLVANIA | Among Pennsylvania state pens, this is "medium" at Rockview but "maximum" at Frackville | security
+right: James
+Wrong: 
+Danny: What is penitentiary?
+Value: $400
+Number: 16
+ROCKIN' SUBTITLES | The Byrds: ("To Everything There is a Season") | "Turn! Turn! Turn!"
+right: Danny
+Wrong: 
+Value: $400
+Number: 21
+WHAT'S IN A NAME? | This Wyoming city of 50,000 was named not for a friendly ghost, but for a soldier who died from fighting Indians | Casper
+right: Bronson
+Wrong: 
+Value: $400
+Number: 26
+GBS | George Bernard Shaw was born in this city in 1856, just 2 years after Oscar Wilde | Dublin
+right: Bronson
+Wrong: 
+Value: $400
+Number: 6
+YOU'VE GOT TO STAND FOR SOMETHING | MLS, which includes the Colorado Rapids & San Jose Earthquakes, stands for this | Major League Soccer
+right: Bronson
+Wrong: 
+Value: $400
+Number: 1
+1957 | Mary Gage was Miss USA for a day; it came out the day after she won that she was this | married
+right: Danny
+Wrong: 
+Value: $800
+Number: 12
+PEN-SYLVANIA | Before he went to Alcatraz in 1934, this Chicago mobster did time in Philadelphia's Eastern State Pen | Al Capone
+right: James
+Wrong: 
+Value: $800
+Number: 17
+ROCKIN' SUBTITLES | Phil Collins: ("Take a Look at Me Now") | "Against All Odds"
+right: James
+Wrong: 
+Value: $800
+Number: 22
+WHAT'S IN A NAME? | A daytime talk show host, he was named after the Catholic high school his father attended | Regis Philbin
+right: 
+Wrong: Triple Stumper
+Bronson: What is Montel?
+Value: $800
+Number: 27
+GBS | In 1882 Shaw became a Socialist; the year before, he changed his eating habits, becoming one of these | vegetarian
+right: Bronson
+Wrong: 
+Value: $800
+Number: 7
+YOU'VE GOT TO STAND FOR SOMETHING | (Cheryl of the Clue Crew)  Hydrants are classified according to their output in GPM, which stands for this | gallons per minute
+right: James
+Wrong: 
+Value: $800
+Number: 2
+1957 | (Jimmy of the Clue Crew in Little Rock, Arkansas)  In 1957, federal troops had to escort the first black students to this Little Rock high school | Central High School
+right: Danny
+Wrong: 
+Value: $1200
+Number: 13
+PEN-SYLVANIA | In "Mrs. Soffel" warden's wife Diane Keaton helps Mel Gibson escape this city's Allegheny County Prison | Pittsburgh
+right: Danny
+Wrong: 
+Value: $1200
+Number: 18
+ROCKIN' SUBTITLES | Sheena Easton: ("Nine to Five") | "Morning Train"
+right: Bronson
+Wrong: 
+Value: $1200
+Number: 23
+WHAT'S IN A NAME? | These monkeys take their name from an order of Italian monks, not from a coffee drink | capuchins
+right: Bronson
+Wrong: 
+Value: $1200
+Number: 28
+GBS | Shaw said he took the prize money from this award in 1925 to translate Swedish plays into English | Nobel Prize for Literature
+right: Bronson
+Wrong: 
+Value: $1200
+Number: 8
+YOU'VE GOT TO STAND FOR SOMETHING | At about age 15 a kid may graduate from summer camper to CIT, short for this | Counselor in Training
+right: Bronson
+Wrong: 
+Value: $1200
+Number: 3
+1957 | Oil man named the richest man in the U.S.; he said, "If you can count your money you don't have a billion dollars" | Jean Paul Getty
+right: Danny
+Wrong: 
+Value: $1600
+Number: 14
+PEN-SYLVANIA | Known as "The Actor" & "The Babe Ruth of Bank Robbers", he once escaped from Holmesburg Prison | Willie Sutton
+right: 
+Wrong: Triple Stumper
+Bronson: Who is Dillinger?
+Value: $1600
+Number: 19
+ROCKIN' SUBTITLES | Fleetwood Mac: ("Will You Ever Win") | "Rhiannon"
+right: Danny
+Wrong: 
+Value: $1600
+Number: 24
+WHAT'S IN A NAME? | 50 years after this Shawnee helped the British subdue Michigan, a man partly named for him helped subdue Georgia | Tecumseh
+right: James
+Wrong: 
+Danny: Who is William Tecumseh Sherman?
+Value: $1600
+Number: 29
+GBS | 1 of his 3 plays Shaw grouped as "unpleasant" was this tale of a director of a chain of brothels | Mrs. Warren's Profession
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+YOU'VE GOT TO STAND FOR SOMETHING | (Hi, I'm Billy Ray Cyrus)  You might have seen some of my videos on CMT; CMT stands for this | Country Music Television
+right: Bronson
+Wrong: 
+Value: $1600
+Number: 4
+1957 | In 1957 he partnered with Donald Kaufman to build low-priced homes for first-time buyers | Eli Broad
+right: James
+Wrong: 
+Bronson: Who is Levitt?
+Value: $2000
+Number: 15
+PEN-SYLVANIA | Quehanna is the state's first of these motivational institutions that share their name with a part of military training | boot camp
+right: Bronson
+Wrong: 
+Value: $2000
+Number: 20
+ROCKIN' SUBTITLES | The Four Tops: ("Sugar Pie, Honey Bunch") | "I Can't Help Myself"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+WHAT'S IN A NAME? | Completed during his reign, the Sistine Chapel was named after the fourth pope of this name | Sixtus
+right: 
+Wrong: 
+James: Who is Innocent?
+Value: DD: $2,600
+Number: 30
+GBS | The Temple of Ra & the Palace of Alexandria are settings in this one of Shaw's "Plays for Puritans" | Caesar and Cleopatra
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+YOU'VE GOT TO STAND FOR SOMETHING | BGH, which stands for this, is injected into cows to increase milk production | Bovine Growth Hormone
+right: Bronson
+Wrong: 
+Value: DD: $2,800
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Danny: $9,600
+James: $9,800
+Bronson: $10,800
+
+Final Jeopardy! Round
+INSPIRATIONS FOR MUSICALS | In 2002 this novel by C.Y. Lee, first published in 1957, was re-released with a new introduction by David Henry Hwang | Flower Drum Song
+right: 
+Wrong: 
+Danny: What is Chicago?
+James: What is Miss Saigon?
+Bronson: What is Miss Saigon?
+Wagers: 
+Danny: $9,600
+James: $9,401
+Bronson: $8,801
+Final scores:
+Danny: $0 (3rd place: $1,000)
+James: $399 (2nd place: $2,000)
+Bronson: $1,999 (New champion: $1,999)
+
+Coryat scores
+Danny: $9,600 (18 R,5 W)
+James: $12,400 (17 R,2 W(including 1 DD))
+Bronson: $10,000 (18 R(including 2 DDs),7 W)

@@ -1,0 +1,332 @@
+4204 - Thursday, December 5, 2002
+Contestants:
+Todd Hellman: an attorney from Lakeland, Florida
+Amanda Waterman: a software engineer from Raleigh, North Carolina
+James Pethokoukis: a journalist from Chicago, Illinois (whose 1-day cash winnings total $12,800)
+First Jeopardy! Round: THE MUSEUM OF FLIGHT, MUSIC'S MISSING LINKS, HOLY DAYS & FESTIVALS, LITERARY TITLE CHARACTERS, SWISS FAMILY FUN, Q WITHOUT U
+THE MUSEUM OF FLIGHT | After their use in WWI, Curtiss JN-4 Jennys were popular with these "storming" aerial acrobats | barnstormers
+right: Todd
+Wrong: 
+Value: $200
+Number: 16
+HOLY DAYS & FESTIVALS | The period known as Lent begins on this day | Ash Wednesday
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 4
+LITERARY TITLE CHARACTERS | This title character is governess to Adele Varens, Mr. Rochester's illegitimate child | Jane Eyre
+right: James
+Wrong: 
+Value: $200
+Number: 1
+SWISS FAMILY FUN | In Geneva, learn about the brave history of this organization at Le Musee International de la Croix-Rouge | International Red Cross
+right: Amanda
+Wrong: 
+Value: $200
+Number: 21
+Q WITHOUT U | This adjective refers to a keyboard that's like a traditional typewriter with 6 particular letters at the upper left | QWERTY
+right: James
+Wrong: 
+Value: $200
+Number: 7
+THE MUSEUM OF FLIGHT | [Sarah of the Clue Crew reports from the Museum of Flight in Seattle] | -----------------------------------
+right: Todd
+Wrong: 
+Value: $400
+Number: 17
+MUSIC'S MISSING LINKS | I Am a ____ Lobster | Rock
+right: Todd
+Wrong: 
+Value: $400
+Number: 27
+HOLY DAYS & FESTIVALS | Isra Wa Al-Miraj commemorates Muhammad's night journey from this city to Jerusalem & his ascent into heaven | Mecca
+right: Todd
+Wrong: 
+Value: $400
+Number: 5
+LITERARY TITLE CHARACTERS | Though still living with her husband, a government official, she has an affair with the dashing Count Vronsky | Anna Karenina
+right: James
+Wrong: 
+Value: $400
+Number: 2
+SWISS FAMILY FUN | The kids will feel right at home in one of the Golden Arch Hotels opened by this company in 2000 | McDonald's
+right: Todd
+Wrong: 
+Value: $400
+Number: 22
+Q WITHOUT U | One way of spelling this Libyan leader's last name has a "Q" with no "U" | Muammar Qadaffi
+right: Todd
+Wrong: 
+Value: $400
+Number: 10
+THE MUSEUM OF FLIGHT | When in service in Vietnam, many F-4 Phantoms were equipped with these missiles named for a desert snake | Sidewinders
+right: James
+Wrong: 
+Value: $600
+Number: 18
+MUSIC'S MISSING LINKS | Heartbreak ____ California | Hotel
+right: Todd
+Wrong: 
+Value: $600
+Number: 26
+HOLY DAYS & FESTIVALS | [Sofia of the Clue Crew reports lighting a menorah] | Hanukkah/Festival of Lights
+right: Amanda
+Wrong: 
+Value: $600
+Number: 6
+LITERARY TITLE CHARACTERS | Squire Allworthy turns out to be this lusty young hero's uncle in a 1749 comic novel by Henry Fielding | Tom Jones
+right: Todd
+Wrong: 
+Value: $600
+Number: 3
+SWISS FAMILY FUN | Your little tykes will want some apples after visiting the Burglen museum devoted to him | William Tell
+right: Todd
+Wrong: 
+Value: DD: $500
+Number: 23
+Q WITHOUT U | Many companies that qualify for the NYSE choose to sell their stock on this electronic service instead | NASDAQ
+right: Amanda
+Wrong: 
+Value: $600
+Number: 11
+THE MUSEUM OF FLIGHT | [Jimmy of the Clue Crew reports from the Museum of Flight in Seattle] | ------------------------------------
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+MUSIC'S MISSING LINKS | She's a ____ Marmalade | Lady
+right: Amanda
+Wrong: 
+Value: $800
+Number: 28
+HOLY DAYS & FESTIVALS | Nirvana Day, February 15, commemorates the death of this leader | Buddha
+right: James
+Wrong: 
+Value: $800
+Number: 14
+LITERARY TITLE CHARACTERS | This lusty lady, the heroine of a 1722 Defoe novel, was married 5 times (including once to her own brother) | Moll Flanders
+right: James
+Wrong: 
+Todd: Who is -------?
+Value: $800
+Number: 8
+SWISS FAMILY FUN | If the kids misbehave, show them the Ogre Fountain in this capital; it depicts an ogre devouring children | Bern
+right: Todd
+Wrong: 
+Value: $800
+Number: 24
+Q WITHOUT U | This country's ancient ruins of Ur & its ziggurat date back about 4,500 years | Iraq
+right: Amanda
+Wrong: 
+Value: $800
+Number: 12
+THE MUSEUM OF FLIGHT | The MIG-21 was the first Soviet plane to reach this speed equal to 1480 MPH | Mach 2
+right: 
+Wrong: Triple Stumper
+Amanda: What is -----?
+Todd: What is -----?
+Value: $1000
+Number: 20
+MUSIC'S MISSING LINKS | I'm Like a ____ Dog | Bird
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+HOLY DAYS & FESTIVALS | All Saints' Day, November 1, is followed by All this Day on November 2 | All Souls' Day
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+LITERARY TITLE CHARACTERS | A brand of shortbread cookies shares its name with this title heroine of an R.D. Blackmore historical novel | Lorna Doone
+right: Amanda
+Wrong: 
+Value: $1000
+Number: 9
+SWISS FAMILY FUN | In February, schoolchildren in the village of Scoul build the Hom Strom, or "Man of" this, & set him aflame | straw
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+Q WITHOUT U | This emirate has been run by the Al-Thani family since the mid-1800s | Qatar
+right: Todd
+Wrong: 
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+James: $2,400
+Amanda: $3,000
+Todd: $1,600
+Scores at the end of the Jeopardy! Round:
+James: $3,000
+Amanda: $3,000
+Todd: $3,900
+Second Jeopardy! Round: THE MIDDLE AGES, THEATER, CITIES & TOWNS, BITS & PIECES, DOING HARD RHYME, 12-LETTER WORDS
+THE MIDDLE AGES | While Louis VII of France was off on one of these, Suger the Abbot of St. Denis ran the country in his stead | Crusades
+right: Todd
+Wrong: 
+Value: $400
+Number: 13
+THEATER | Method actors know Konstantin Stanislavsky opened his influential theater in this capital city in 1898 | Moscow
+right: Todd
+Wrong: 
+Value: $400
+Number: 1
+CITIES & TOWNS | Joseph Juneau helped found Juneau, Alaska & Solomon Juneau founded this Wisconsin city known for beer | Milwaukee
+right: Amanda
+Wrong: 
+Value: $400
+Number: 6
+BITS & PIECES | In the 1997-98 school year 365,000 students were subjected to this corporal punishment still legal in 23 states | paddling/spanking
+right: James
+Wrong: 
+Value: $400
+Number: 18
+DOING HARD RHYME | She fed her many children "broth without any bread" | The Old Woman Who Lived in a Shoe
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+12-LETTER WORDS | A religious grouping, or the monetary value of a bill | denomination
+right: Amanda
+Wrong: 
+Value: $400
+Number: 25
+THE MIDDLE AGES | This group was expelled from England in 1290, Spain in 1492, Portugal in 1497 & France in 1182, 1306 & 1394 | the Jews
+right: Todd
+Wrong: 
+Value: $800
+Number: 14
+THEATER | [Video clue with picture of Helen Hayes] | -------------------------------------
+right: Todd
+Wrong: 
+Value: $800
+Number: 2
+CITIES & TOWNS | Lubbock in this state was named for Thomas S. Lubbock, a Civil War Ranger | Texas
+right: Todd
+Wrong: 
+Value: $800
+Number: 7
+BITS & PIECES | More first ladies' first names have begun with this vowel than any other letter | E (10)
+right: 
+Wrong: Triple Stumper
+Amanda: What is A?
+Value: $800
+Number: 19
+DOING HARD RHYME | After his fall, up he got "and off did trot as fast as he could caper" | Jack (of "Jack and Jill")
+right: 
+Wrong: Triple Stumper
+Todd: Who is ----------?
+Value: $800
+Number: 12
+12-LETTER WORDS | (Dr. Joyce Brothers gives the clue)  This 12-letter word, also called shacking up, isn't the same as marriage -- marriage can lead to more intimacy | cohabitation
+right: Amanda
+Wrong: 
+Value: $800
+Number: 26
+THE MIDDLE AGES | A leather made in Britain was called cordwain & by extension, cordwainers came to be people who made these | shoes
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 15
+THEATER | This famous New York dance company is abbreviated the ABT | American Ballet Theatre
+right: Todd
+Wrong: 
+Value: $1200
+Number: 3
+CITIES & TOWNS | Brooklyn, NYC's most populous borough, was named for Breuekelen, a village in this country | The Netherlands/Holland
+right: Todd
+Wrong: 
+Value: $1200
+Number: 8
+BITS & PIECES | This swift type of ship came from the way it used to cut through the miles | clipper ship
+right: Todd
+Wrong: 
+Value: $1200
+Number: 23
+DOING HARD RHYME | He "brought back the tarts and vowed he'd steal no more" | The Knave of Hearts
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 24
+12-LETTER WORDS | Someone whose task is to reeducate a former cult member | deprogrammer
+right: Todd
+Wrong: 
+James: What is...[no response].
+Value: $1200
+Number: 27
+THE MIDDLE AGES | Among the families claiming the throne of Scotland in the 1290s was this one led by Robert I | the Bruce
+right: 
+Wrong: Triple Stumper
+James: Who is -----?
+Value: $1600
+Number: 16
+THEATER | (Hi, I'm Nathan Lane)  I won the 1996 Tony, Drama Desk & Outer Critics Circle Awards for my role as Pseudolus in this Broadway musical classic | A Funny Thing Happened on the Way to the Forum
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+CITIES & TOWNS | Neil Simon might know Jefferson Davis made his home in this Mississippi town known for its "blues", not grays | Biloxi
+right: Todd
+Wrong: 
+Value: $1600
+Number: 9
+BITS & PIECES | In 1941 over 500,000 Soviet troops were captured along with this capital of the Ukraine | Kiev
+right: James
+Wrong: 
+Value: $1600
+Number: 20
+12-LETTER WORDS | It's your condition if you have great admiration for Paris, Flaubert, Beaujolais, etc. | Francophilia
+right: 
+Wrong: Triple Stumper
+Todd: What is...[no response].
+Value: $1600
+Number: 22
+THE MIDDLE AGES | After a hard day of conquering, Mehmed II, leader of this empire, probably liked to put his feet up & relax | Ottoman Empire
+right: Todd
+Wrong: 
+Value: DD: $500
+Number: 17
+THEATER | This "searching" play from 1921 introduced Pirandello's concept of "theater within the theater" | Six Characters in Search of an Author
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+CITIES & TOWNS | Thomaston in this "Constitution State" was named for clockmaker Seth Thomas | Connecticut
+right: Amanda
+Wrong: 
+Value: $2000
+Number: 10
+BITS & PIECES | 2 of the men used as models for this 1913 U.S. coin were named John Big Tail & Crow Tails | Indian Head (Buffalo) Nickel
+right: James
+Wrong: 
+Value: $2000
+Number: 21
+12-LETTER WORDS | From the Latin for "to correct", it's an adjective for someone who can't be corrected or reformed | incorrigible
+right: Todd
+Wrong: 
+Value: DD: $5
+Number: 28
+Scores at the end of the Double Jeopardy! Round:
+James: $4,200
+Amanda: $5,800
+Todd: $11,605
+
+Final Jeopardy! Round
+PSYCHOLOGICAL TERMS | From the Greek for "womb", this disorder was once thought to be peculiar to women | hysteria
+right: Amanda
+Wrong: 
+James: What !
+Todd: What is ?
+Wagers: 
+James: $4,100
+Amanda: $3,000
+Todd: $3
+Final scores:
+James: $100 (3rd place: $1,000)
+Amanda: $8,800 (2nd place: $2,000)
+Todd: $11,602 (New champion: $11,602)
+
+Coryat scores
+James: $4,200 (9 R,2 W)
+Amanda: $5,800 (10 R,2 W)
+Todd: $15,200 (23 R(including 3 DDs),4 W)

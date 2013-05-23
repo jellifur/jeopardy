@@ -1,0 +1,350 @@
+5274 - Thursday, July 12, 2007
+Contestants:
+Nancy Kimmel: a student originally from Sayreville, New Jersey
+Robyn Shepherd: a media specialist originally from Richboro, Pennsylvania
+Zach Baker: a computer programmer from Downey, California (whose 1-day cash winnings total $26,401)
+First Jeopardy! Round: FIRST THINGS FIRST, MOTHER GOOSE, YUM... CANDY!, THE NEW YORK TIMES MAGAZINE, SCIENCE, INSIDE ALEX TREBEK
+FIRST THINGS FIRST | It took 6 tries, but in 2002 Steve Fossett became the first man to fly solo around the world in one of these | hot air balloon
+right: Zach
+Wrong: 
+Value: $200
+Number: 13
+MOTHER GOOSE | Some believe these 2 water fetchers represented Cardinal Wolsey & the Bishop of Tarbes | Jack & Jill
+right: Zach
+Wrong: 
+Value: $200
+Number: 2
+YUM... CANDY! | Some of this company's fine chocolates are embossed with its naked lady on a horse logo | Godiva
+right: Robyn
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES MAGAZINE | Robin Marantz Henig's recent masterful essay on evolutionary biology was titled this 19th century scientist's "God" | Charles Darwin
+right: Robyn
+Wrong: 
+Value: $200
+Number: 26
+SCIENCE | ( <http://www.j-archive.com/media/2007-07-12_J_07.jpg> Kelly of the Clue Crew delivers the clue from a science lab. ) The heat from the lamp causes the snake to dance, as hot air is less this five-letter term than cold air and therefore rises and spins the snake | dense
+right: Zach
+Wrong: 
+Value: $200
+Number: 7
+INSIDE ALEX TREBEK | To loosen, as a grip, or just to take it easy | relax
+right: Zach
+Wrong: 
+Value: $200
+Number: 21
+FIRST THINGS FIRST | In 1935 drivers in Oklahoma City became the first to "feed" these; a nickel in the slot | parking meters
+right: Zach
+Wrong: 
+Value: $400
+Number: 14
+MOTHER GOOSE | This month "brings breezes, loud and shrill" | March
+right: Robyn
+Wrong: 
+Nancy: What is April?
+Value: $400
+Number: 3
+YUM... CANDY! | Chick-O-Sticks aren't chicken-flavored; they're made from peanut butter & this tropical treat | coconut
+right: Zach
+Wrong: 
+Value: $400
+Number: 9
+THE NEW YORK TIMES MAGAZINE | Feb. 2007's "From 0 to 60 to World Domination" explored this Japanese auto company's rise to prominence | Toyota
+right: Zach
+Wrong: 
+Nancy: What is Honda?
+Value: $400
+Number: 27
+SCIENCE | In the nervous system, calcium ions crossing the gap between these cause a release of acetylcholine | neurons
+right: Robyn
+Wrong: 
+Value: $400
+Number: 8
+INSIDE ALEX TREBEK | An 1852 Dickensian title "house" | bleak
+right: Nancy
+Wrong: 
+Value: $400
+Number: 22
+FIRST THINGS FIRST | Produced by the Bureau of Engraving & Printing, the first ones of these in rolls were issued in 1908 | stamps
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 15
+MOTHER GOOSE | This nursery rhyme heroine may have been a veiled reference to Mary, Queen of Scots & the "spider", to John Knox | Little Miss Muffet
+right: Nancy
+Wrong: 
+Value: $600
+Number: 4
+YUM... CANDY! | In 1997 this candy introduced a female character who's green; she called her autobiography "I Melt For No One" | M&M's
+right: Zach
+Wrong: 
+Value: $600
+Number: 10
+THE NEW YORK TIMES MAGAZINE | In March 2007's "Choosing a Sect", Noah Feldman studied the USA's feelings with these 2 main Iraqi Muslim sects | Shi'ite and Sunni
+right: Zach
+Wrong: 
+Value: $600
+Number: 28
+SCIENCE | ( <http://www.j-archive.com/media/2007-07-12_J_18.jpg> Kelly delivers the clue from the lab. ) Normally, an ice cube floats; <http://www.j-archive.com/media/2007-07-12_J_18a.jpg> this one, however, sinks right to the bottom because it's made of heavy water, or D<sub>2</sub>O; the D standing for this isotope | deuterium
+right: Zach
+Wrong: 
+Value: $600
+Number: 18
+INSIDE ALEX TREBEK | This can be a large drinking vessel or a small lipped one used for science experiments | beaker
+right: Robyn
+Wrong: 
+Value: $600
+Number: 23
+FIRST THINGS FIRST | Still in operation, the world's first pay-one-price theme park opened in this U.S. state in 1961 | Texas
+right: 
+Wrong: 
+Zach: What is... New York?
+Value: DD: $2,000
+Number: 16
+MOTHER GOOSE | She was commanded to "put the kettle on, and we'll have tea" | Polly
+right: Robyn
+Wrong: 
+Value: $800
+Number: 5
+YUM... CANDY! | The candy once marketed as "Mrs. Stover's Bungalow Candies" is sold under this brand name today | Russell Stover
+right: Zach
+Wrong: 
+Value: $800
+Number: 11
+THE NEW YORK TIMES MAGAZINE | Dec. 2006's "The Lives They Lived" covered the 2006 passings of such notables as this founder & namer of Pink Floyd | Syd Barrett
+right: Nancy
+Wrong: 
+Value: $800
+Number: 29
+SCIENCE | As opposed to what arthropods have, vertebrates have this internal framework | endoskeleton
+right: Robyn
+Wrong: 
+Value: $800
+Number: 19
+INSIDE ALEX TREBEK | Thai kings considered this a "royal tree" under strict protection | teak
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+FIRST THINGS FIRST | In 1967 Carl Stokes defeated Seth Taft to become the first black mayor of a major U.S. city, this one | Cleveland
+right: 
+Wrong: Triple Stumper
+Zach: What is Washington, D.C.?
+Value: $1000
+Number: 17
+MOTHER GOOSE | Various verses in this nursery rhyme had the dog "smoking a pipe", standing "on his head" & "dancing a jig" | Old Mother Hubbard
+right: Zach
+Wrong: 
+Value: $1000
+Number: 6
+YUM... CANDY! | It was the last name of the brothers who perfected their now-famous English toffee bar back in 1928 | Heath
+right: Robyn
+Wrong: 
+Value: $1000
+Number: 12
+THE NEW YORK TIMES MAGAZINE | A new one of these "super" nuclear physics accelerators was the subject of Jim Holt's "Where Protons Will Play" | supercollider
+right: Zach
+Wrong: 
+Value: $1000
+Number: 30
+SCIENCE | ( <http://www.j-archive.com/media/2007-07-12_J_20.jpg> Jimmy of the Clue Crew delivers the clue. ) Though the top book appears to be suspended in air, more than half the weight of the stack rests on the table - the principle is used to build this type of bridge | cantilever bridge
+right: Zach
+Wrong: 
+Nancy: What is a suspension bridge?
+Value: $1000
+Number: 20
+INSIDE ALEX TREBEK | In the 1820s this British university's campus was a farm that served Devonshire cream to strollers | Exeter
+right: 
+Wrong: Triple Stumper
+Zach: What is...
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Zach: $3,800
+Robyn: $2,800
+Nancy: $200
+Scores at the end of the Jeopardy! Round:
+Zach: $3,600
+Robyn: $4,400
+Nancy: $0
+Second Jeopardy! Round: AMERICAN POETS & POETRY, THE FABULOUS FIFTIES, HETERONYMS, 24, TIME TO SAVE, THE WORLD
+AMERICAN POETS & POETRY | This subject of a Longfellow poem watched with eager search the belfry-tower of the Old North Church" | Paul Revere
+right: Nancy
+Wrong: 
+Value: $400
+Number: 21
+THE FABULOUS FIFTIES | When the Monorail opened at Disneyland in 1959, it was dedicated by this man who was then the U.S. vice president | Nixon
+right: Zach
+Wrong: 
+Value: $400
+Number: 6
+HETERONYMS | To shine something, or an adjective meaning something from Warsaw | polish & Polish
+right: Nancy
+Wrong: 
+Value: $400
+Number: 1
+24 | In a classic nursery rhyme, there are 24 of these baked in a pie | blackbirds
+right: Nancy
+Wrong: 
+Value: $400
+Number: 11
+TIME TO SAVE | According to the proverb, it's what a "stitch in time" does | saves nine
+right: Nancy
+Wrong: 
+Value: $400
+Number: 16
+THE WORLD | <http://www.j-archive.com/media/2007-07-12_DJ_26.jpg> It's home to close than 110 million people | Mexico
+right: Nancy
+Wrong: 
+Value: $400
+Number: 26
+AMERICAN POETS & POETRY | This beat poet's father, Louis, was a teacher & a poet in his own right | Allen Ginsberg
+right: Zach
+Wrong: 
+Value: $800
+Number: 22
+THE FABULOUS FIFTIES | Pat Carroll, Carl Reiner & Nanette Fabray all won Emmys in 1957 for their work on this comic's "Hour" | Sid Caesar
+right: Nancy
+Wrong: 
+Zach: Who is Milton Berle?
+Value: $800
+Number: 7
+HETERONYMS | To direct an orchestra, or someone's behavior | conduct & conduct
+right: Robyn
+Wrong: 
+Value: $800
+Number: 2
+24 | In 1924 this Russian leader died, & Stalin began purging rivals to take over the top spot | Lenin
+right: Robyn
+Wrong: 
+Value: $800
+Number: 12
+TIME TO SAVE | You might clip these, from the Old French for "piece cut off", for discounts at the grocery store | coupons
+right: Nancy
+Wrong: 
+Value: $800
+Number: 17
+THE WORLD | The Socialist republic highlighted <http://www.j-archive.com/media/2007-07-12_DJ_27.jpg> here, it was much in U.S. news four decades ago | Vietnam
+right: Nancy
+Wrong: 
+Value: $800
+Number: 27
+AMERICAN POETS & POETRY | A literary scholar who visited her in Amherst in 1870 described her as plain & having a soft, frightened, childlike voice | Emily Dickenson
+right: Robyn
+Wrong: 
+Value: $1200
+Number: 23
+THE FABULOUS FIFTIES | On his 1958 Christmas card, Elvis wore his Army uniform; this man, his manager, was dressed up like Santa | Col. Parker
+right: Zach
+Wrong: 
+Value: $1200
+Number: 8
+HETERONYMS | Tiny, or 60 second collectively | minute & minute
+right: Robyn
+Wrong: 
+Value: $1200
+Number: 3
+24 | Discovered in 1908 & named for the mother of the Minotaur, Pasiphae is the 24th moon of this planet | Jupiter
+right: Nancy
+Wrong: 
+Robyn: What is Pluto?
+Value: $1200
+Number: 13
+TIME TO SAVE | An incentive to save aluminum cans for recycling; the return of this money paid as security | deposit
+right: Zach
+Wrong: 
+Value: $1200
+Number: 18
+THE WORLD | A <http://www.j-archive.com/media/2007-07-12_DJ_28.jpg> colony of Genoa in the 13th century, it's the tiny country indicated <http://www.j-archive.com/media/2007-07-12_DJ_28a.jpg> here | Monaco
+right: Zach
+Wrong: 
+Value: $1200
+Number: 28
+AMERICAN POETS & POETRY | In 1922 this poet & Lincoln biographer wrote "Rootabaga Stories" to entertain his 3 daughters | Carl Sandburg
+right: 
+Wrong: Triple Stumper
+Robyn: Who is Walt Whitman?
+Value: $1600
+Number: 24
+THE FABULOUS FIFTIES | This beauty is seen <http://www.j-archive.com/media/2007-07-12_DJ_09.jpg> here, reigning as Miss America 1955, long before she co-starred on "Barnaby Jones" | Lee Meriwether
+right: Nancy
+Wrong: 
+Value: $1600
+Number: 9
+HETERONYMS | A seamstress, or an underground channel for wastewater | sewer & sewer
+right: Nancy
+Wrong: 
+Value: $1600
+Number: 4
+24 | The 24th amendmant to the U.S. constitution abolished this tax, by name, as a requirement for voting | poll tax
+right: Robyn
+Wrong: 
+Value: $1600
+Number: 14
+TIME TO SAVE | Your nest egg might be this type of individual retirement account named for a Delaware senator | Roth IRA
+right: Zach
+Wrong: 
+Value: DD: $3,000
+Number: 19
+THE WORLD | Elevations in <http://www.j-archive.com/media/2007-07-12_DJ_29.jpg> this kingdom often reach above 20,000 feet | Nepal
+right: Zach
+Wrong: 
+Value: $1600
+Number: 29
+AMERICAN POETS & POETRY | Archibald MacLeish's "Ars Poetica" contains the line "A poem should not mean/ but" this | be
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+THE FABULOUS FIFTIES | "Fate"fully, Alexander Borodin won a 1954 Tony as composer of this musical-- even though he'd died in 1887! | Kismet
+right: Zach
+Wrong: 
+Nancy: Who is Prince Igor?
+Value: $2000
+Number: 10
+HETERONYMS | An exterior door, or to magically captivate someone | entrance & entrance
+right: Nancy
+Wrong: 
+Value: DD: $2,000
+Number: 5
+24 | Because of this 3-word optical phenomenon, still images projected at 24 frames per second seem to be moving pictures | persistence of vision
+right: Zach
+Wrong: 
+Value: $2000
+Number: 15
+TIME TO SAVE | The logo of this website that allows parents to save for their kids' college educations is seen <http://www.j-archive.com/media/2007-07-12_DJ_20.jpg> here | UPromise
+right: Zach
+Wrong: 
+Value: $2000
+Number: 20
+THE WORLD | Hurricanes are a weather phenomenon not to be ignored in <http://www.j-archive.com/media/2007-07-12_DJ_30.jpg> this country | Jamaica
+right: Robyn
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Zach: $18,200
+Robyn: $9,200
+Nancy: $8,800
+
+Final Jeopardy! Round
+NOVELISTS | His later works include 1949's "The God-Seeker", about a missionary in his own native Minnesota | Sinclair Lewis
+right: 
+Wrong: 
+Nancy: Who is Steinbeck
+Robyn: Who is   ?
+Zach: Who is Thurber?
+Wagers: 
+Nancy: $200
+Robyn: $9,200
+Zach: $201
+Final scores:
+Zach: $17,999 (2-day champion: $44,400)
+Robyn: $0 (3rd place: $1,000)
+Nancy: $8,600 (2nd place: $2,000)
+
+Coryat scores
+Zach: $18,800 (24 R(including 1 DD),4 W(including 1 DD))
+Robyn: $9,200 (14 R,2 W)
+Nancy: $8,800 (15 R(including 1 DD),4 W)

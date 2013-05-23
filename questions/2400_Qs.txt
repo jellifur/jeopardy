@@ -1,0 +1,334 @@
+3408 - Wednesday, June 2, 1999
+Contestants:
+Seale Pylate: a law student from Brighton, Massachusetts
+Dave Martin: an English teacher from Sweet Home, Oregon
+Frank Stokes: a financial analyst originally from Heber Springs, Arkansas (whose 2-day cash winnings total $18,102)
+First Jeopardy! Round: U.S. BODIES OF WATER, HOLIDAYS & OBSERVANCES, LOGO LADIES, BOOKS BY TV NEWSPEOPLE, CIVIL WAR SLANG, ACCOUNTING EXAM
+U.S. BODIES OF WATER | The Chicago River originally flowed into this Great Lake; now it flows out of it | Lake Michigan
+right: Frank
+Wrong: 
+Value: $100
+Number: 1
+HOLIDAYS & OBSERVANCES | Holiday associated with the "Wearing of the Green" | St. Patrick's Day
+right: Frank
+Wrong: 
+Value: $100
+Number: 9
+LOGO LADIES | This Minnesota-based butter maker uses an Indian maiden as its trademark | Land O'Lakes
+right: Frank
+Wrong: 
+Value: $100
+Number: 6
+BOOKS BY TV NEWSPEOPLE | In 1997's "A Reporter's Life" he covered his 31 years at CBS News | Walter Cronkite
+right: Dave
+Wrong: 
+Value: $100
+Number: 15
+CIVIL WAR SLANG | Graybacks were Southern soldiers; greenbacks were this | Money/dollars
+right: Dave
+Wrong: 
+Value: $100
+Number: 17
+ACCOUNTING EXAM | Bankruptcy types are: A. volumes B. chapters C. verses | Chapters
+right: Seale
+Wrong: 
+Value: $100
+Number: 25
+U.S. BODIES OF WATER | Brine flies & brine shrimp are the only creatures that thrive in this body of water near Utah's capital | Great Salt Lake
+right: Frank
+Wrong: 
+Value: $200
+Number: 2
+HOLIDAYS & OBSERVANCES | In 1999 this holiday fell on the day after Valentine's Day | President's Day
+right: Dave
+Wrong: 
+Value: $200
+Number: 10
+LOGO LADIES | The symbol of this company got a makeover in 1993 (it's paired with TriStar) | Columbia Pictures
+right: Frank
+Wrong: 
+Value: $200
+Number: 7
+BOOKS BY TV NEWSPEOPLE | This NBC anchor's "The Greatest Generation" pays tribute to those who came of age during World War II | Tom Brokaw
+right: Frank
+Wrong: 
+Value: $200
+Number: 16
+CIVIL WAR SLANG | Hornets were these, maybe from a pepperbox pistol | Bullets
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 18
+ACCOUNTING EXAM | Poison pills thwart: A. double takes B. takeovers C. undertakers | Takeovers
+right: Frank
+Wrong: 
+Value: $200
+Number: 27
+U.S. BODIES OF WATER | You'll find the Big Branch National Wildlife Refuge on the shore of this big lake in Louisiana | Lake Pontchartrain
+right: Frank
+Wrong: 
+Value: $300
+Number: 3
+HOLIDAYS & OBSERVANCES | This holiday is celebrated on what was once the last day of the Celtic year | Halloween
+right: Dave
+Wrong: 
+Value: $300
+Number: 11
+LOGO LADIES | Billboards for "Little Miss" this suntan lotion became Miami landmarks in the '50s | Coppertone
+right: Dave
+Wrong: 
+Value: $300
+Number: 8
+BOOKS BY TV NEWSPEOPLE | In 1998 this ABC anchor, along with Todd Brewster, took on "The Century" | Peter Jennings
+right: Frank
+Wrong: 
+Value: $300
+Number: 22
+CIVIL WAR SLANG | If you'd done a lot or had a rough experience, you'd "been through" this, perhaps a cotton one | Through the mill
+right: Dave
+Wrong: 
+Value: $300
+Number: 19
+ACCOUNTING EXAM | The process of a firm selling parts of itself is: A. divestiture B. expenditure C. not really sure | Divestiture
+right: Seale
+Wrong: 
+Value: $300
+Number: 28
+U.S. BODIES OF WATER | There's a Coeur D'Alene Lake & a Coeur D'Alene River in this state | Idaho
+right: Seale
+Wrong: 
+Value: $400
+Number: 4
+HOLIDAYS & OBSERVANCES | Although first observed in 1909, it wasn't until 1972 that the third Sunday in June officially became this holiday | Father's Day
+right: Frank
+Wrong: 
+Value: $400
+Number: 12
+LOGO LADIES | In 1915 Lorraine Collett of Fresno became the original model for this brand of raisins | Sun-Maid
+right: Dave
+Wrong: 
+Value: $400
+Number: 13
+BOOKS BY TV NEWSPEOPLE | He & Kyle Gibson wrote "Nightline: History in the Making and the Making of Television" | Ted Koppel
+right: Frank
+Wrong: 
+Value: $400
+Number: 23
+CIVIL WAR SLANG | This term for "Hurrah!" or "Yeah!" was popular years later with Teddy Roosevelt | "Bully!"
+right: Dave
+Wrong: 
+Value: DD: $800
+Number: 20
+ACCOUNTING EXAM | Assets like land & machines are: A. fixed B. repaired C. mended | Fixed
+right: Dave
+Wrong: 
+Value: $400
+Number: 29
+U.S. BODIES OF WATER | We hope you know that Mount Hope Bay in Rhode Island is an arm of this larger bay | Narragansett Bay
+right: Frank
+Wrong: 
+Value: $500
+Number: 5
+HOLIDAYS & OBSERVANCES | Id Al-Fitr is a day of feasting that ends the fast at the end of this Islamic holy month | Ramadan
+right: Frank
+Wrong: 
+Value: $500
+Number: 14
+LOGO LADIES | Debra McKee, for whom these snack cakes were named, grew up to be a director of the company that makes them | Little Debbie
+right: Seale
+Wrong: 
+Value: $500
+Number: 26
+BOOKS BY TV NEWSPEOPLE | "Everyone is Entitled to My Opinion" collects his commentaries from "This Week" | David Brinkley
+right: Dave
+Wrong: 
+Value: $500
+Number: 24
+CIVIL WAR SLANG | An Arkansas toothpick was a large one of these | Bowie knife
+right: Frank
+Wrong: 
+Value: $500
+Number: 21
+ACCOUNTING EXAM | Junk bonds feature: A. low ceilings B. high interest C. Chinese boats | High interest
+right: Dave
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Frank: $2,400
+Dave: $1,200
+Seale: $100
+Scores at the end of the Jeopardy! Round:
+Frank: $3,700
+Dave: $3,800
+Seale: $1,000
+Second Jeopardy! Round: CLASSICAL MUSIC, SIGNS & SYMBOLS, FASHION STATEMENTS, DISNEY CINEMA, THE COUNTRY'S FIRST MONARCH, QUASI-RELATED PAIRS
+CLASSICAL MUSIC | Born the son of the town trumpeter in Pesaro, Italy, he composed "Il Barbiere Di Siviglia" | Gioachino Rossini
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+SIGNS & SYMBOLS | This network developed the peacock design to promote color television | NBC
+right: Frank
+Wrong: 
+Value: $200
+Number: 1
+FASHION STATEMENTS | If you're discovered in an embarrassing situation, you're said to be caught "with" these "down" | Your pants
+right: Frank
+Wrong: 
+Value: $200
+Number: 13
+DISNEY CINEMA | Angela Lansbury provided the voice of Mrs. Potts in this 1991 animated feature | Beauty and the Beast
+right: Dave
+Wrong: 
+Value: $200
+Number: 4
+THE COUNTRY'S FIRST MONARCH | 1297: Rainier I | Monaco
+right: Seale
+Wrong: 
+Value: $200
+Number: 18
+QUASI-RELATED PAIRS | A "Hawaiian" fruit juice beverage & Miss Garland | Punch & Judy
+right: Seale
+Wrong: 
+Value: $200
+Number: 11
+CLASSICAL MUSIC | Handel wrote 4 anthems for the 1727 coronation of a king with whom Handel shared this name | George
+right: Seale
+Wrong: 
+Value: $400
+Number: 27
+SIGNS & SYMBOLS | This letter appears on the costumes of superheroes named Storm, Cyclops, Jubilee & Wolverine | X (as in "X-Men")
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+FASHION STATEMENTS | When you conceal something, you "draw" this bridal accessory "over it" | Veil
+right: Seale
+Wrong: 
+Value: $400
+Number: 14
+DISNEY CINEMA | While voicing this animated character, actor Dickie Jones sang "I've Got No Strings" | Pinocchio
+right: Dave
+Wrong: 
+Value: $400
+Number: 5
+THE COUNTRY'S FIRST MONARCH | 843: Kenneth MacAlpin | Scotland
+right: Dave
+Wrong: 
+Value: $400
+Number: 19
+QUASI-RELATED PAIRS | "Ring of Fire" singer & the big screen's Mr. "Mask" | Cash & Carrey
+right: Frank
+Wrong: 
+Value: $400
+Number: 12
+CLASSICAL MUSIC | This set of 30 variations was named for a student of Bach's also named Johann | "Goldberg Variations"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+SIGNS & SYMBOLS | Clutching one's throat is the universal distress signal for this medical emergency | Choking
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+FASHION STATEMENTS | A phrase that means outdated, or a derby you haven't worn for decades | Old hat
+right: Seale
+Wrong: 
+Value: $600
+Number: 23
+DISNEY CINEMA | This cruel, scratchy-voiced diva wants to make fur coats out of dalmatian puppies | Cruella de Vil
+right: Frank
+Wrong: 
+Value: $600
+Number: 6
+THE COUNTRY'S FIRST MONARCH | 987: Hugh Capet | France (the Capetian dynasty)
+right: Dave
+Wrong: 
+Value: DD: $1,000
+Number: 20
+QUASI-RELATED PAIRS | An ethnic group of northern Iraq & a type of highway "station" for truckers | Kurds & Way
+right: Dave
+Wrong: 
+Value: $600
+Number: 15
+SIGNS & SYMBOLS | Looking like an inverted "e", this dictionary symbol stands for a central vowel sound | Schwa
+right: Dave
+Wrong: 
+Value: $800
+Number: 7
+FASHION STATEMENTS | It's believed Napoleon originated the phrase about "An iron hand in" one of these | A velvet glove
+right: Frank
+Wrong: 
+Value: $800
+Number: 24
+DISNEY CINEMA | In this 1994 film, St. Nick falls off a roof & Tim Allen is forced to take his place | The Santa Clause
+right: Dave
+Wrong: 
+Value: $800
+Number: 8
+THE COUNTRY'S FIRST MONARCH | 40 B.C.: Jimmu | Japan
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+QUASI-RELATED PAIRS | An English empirical philosopher & the author of "The Star-Spangled Banner" | Locke & Key
+right: Dave
+Wrong: 
+Value: DD: $1,800
+Number: 16
+CLASSICAL MUSIC | Orchestras are now playing the original version of his "Boris Godunov", not the one Rimsky-Korsakov edited | Modest Mussorgsky
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 29
+SIGNS & SYMBOLS | During the 1998 season, members of this baseball team wore the patch seen here (drawing of Harry Caray) on their sleeves | Chicago Cubs (in tribute)
+right: Dave
+Wrong: 
+Value: $1000
+Number: 10
+FASHION STATEMENTS | As Garibaldi's followers were known as Redshirts, Mussolini's devotees were called these | Blackshirts
+right: Seale
+Wrong: 
+Value: $1000
+Number: 25
+DISNEY CINEMA | In 1961 Hayley Mills had a Top 10 hit with "Let's Get Together" from this Disney film | The Parent Trap
+right: Seale
+Wrong: 
+Value: $1000
+Number: 9
+THE COUNTRY'S FIRST MONARCH | 1002: Brian Boru | Ireland
+right: Seale
+Wrong: 
+Value: $1000
+Number: 22
+QUASI-RELATED PAIRS | Shorter term for an Australian & the veterinarian author of "All Creatures Great and Small" | Aussie & Herriot
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Frank: $3,500
+Dave: $11,000
+Seale: $3,200
+
+Final Jeopardy! Round
+ITALIAN VOCABULARY | This word well known to sculpture lovers can be translated as "mercy" or "compassion" | Pieta
+right: Dave
+Wrong: 
+Seale: What is a relief ?
+Frank: What is ?
+Wagers: 
+Seale: $3,000
+Frank: $2,901
+Dave: $3,500
+Final scores:
+Frank: $599 (2nd place: Trip to Outrigger Hotel, Waikiki Beach, Hawaii)
+Dave: $14,500 (New champion: $14,500)
+Seale: $200 (3rd place: Daewoo Video System)
+
+Coryat scores
+Frank: $3,500 (19 R,4 W)
+Dave: $9,200 (21 R(including 3 DDs),2 W)
+Seale: $3,200 (12 R,6 W)

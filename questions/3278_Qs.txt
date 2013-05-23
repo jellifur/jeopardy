@@ -1,0 +1,348 @@
+4498 - Wednesday, March 10, 2004
+Contestants:
+George Lewis: a teacher from Fairfield, Connecticut
+Susie López: a musician from Citrus Heights, California
+Bobby Goldstein: a database administrator from Arlington, Massachusetts (whose 1-day cash winnings total $31,201)
+First Jeopardy! Round: SIMPLE SCIENCE, ARNOLD MOVIES, VOYEUR INFORMATION, PICASSO, CARS, BEFORE & AFTER
+SIMPLE SCIENCE | A 1 on the Mercalli scale or below a 3 on the Richter scale is only measurable by these devices | seismographs
+right: Bobby | Susie
+Wrong: 
+Value: $200
+Number: 21
+ARNOLD MOVIES | 1984: Robot Arnold tries to change the future | The Terminator
+right: George
+Wrong: 
+Value: $200
+Number: 11
+VOYEUR INFORMATION | Observe the critter seen here in his native habitat, & you'll discover you're in this country | Australia
+right: Bobby
+Wrong: 
+Value: $200
+Number: 14
+PICASSO | Cezanne's later paintings & African sculpture were 2 great influences on Picasso's development of this movement | Cubism
+right: George
+Wrong: 
+Value: $200
+Number: 25
+CARS | Models from this car company include Escort & Mustang | Ford
+right: Bobby
+Wrong: 
+Value: $200
+Number: 5
+BEFORE & AFTER | Mild white California cheese that terrorized England in 1888 | Monterey Jack the Ripper
+right: Bobby
+Wrong: 
+Value: $200
+Number: 1
+SIMPLE SCIENCE | When William Ramsay told of the discovery of this gas on Earth in 1895, we wonder if he used a squeaky voice | helium
+right: Bobby
+Wrong: 
+Value: $400
+Number: 22
+ARNOLD MOVIES | 1990: Policeman Arnold goes undercover at an Oregon school | Kindergarten Cop
+right: George
+Wrong: 
+Value: $400
+Number: 12
+VOYEUR INFORMATION | Catch a glimpse of the footprint seen here & you're treading around this location where it was made | the moon
+right: George
+Wrong: 
+Value: $400
+Number: 15
+PICASSO | On the subject of painting, Picasso said, "If only we could pull out" this organ & "use only our eyes" | the brain
+right: George
+Wrong: 
+Value: $400
+Number: 26
+CARS | Serapis Bey performs the catchy "Zoom-Zoom-Zoom" song in this carmaker's commercials | Mazda
+right: George
+Wrong: 
+Value: $400
+Number: 7
+BEFORE & AFTER | "Fatal Attraction" star who is a 1977 Spielberg film about UFOs | Glenn Close Encounters of the Third Kind
+right: Bobby
+Wrong: 
+Value: $400
+Number: 2
+SIMPLE SCIENCE | (Cheryl of the Clue Crew at the chalkboard)  By adding two lines, I've turned a math symbol for division into a symbol for this | inequality/not equal to
+right: Bobby
+Wrong: 
+Value: $600
+Number: 23
+ARNOLD MOVIES | 1994: Secret agent Arnold fibs to his wife about his day job | True Lies
+right: Bobby
+Wrong: 
+Value: $600
+Number: 13
+VOYEUR INFORMATION | Gawk at the art seen <http://www.j-archive.com/media/2004-03-10_J_18.jpg> here & know it's by this innovator | (Andy) Warhol
+right: George
+Wrong: 
+Value: $600
+Number: 18
+PICASSO | This Picasso masterpiece went on tour in 1938 & 1939 to raise money for Spanish relief | Guernica
+right: Susie
+Wrong: 
+Value: $600
+Number: 27
+CARS | Introduced in 1963, the Sting Ray was a version of this Chevrolet sports car | the Corvette
+right: Susie
+Wrong: 
+Value: $600
+Number: 8
+BEFORE & AFTER | The lead singer of Hole who's a 1964 Beatles song that says, "I'll always be there" | Courtney Love Me Do
+right: Bobby
+Wrong: 
+Value: $600
+Number: 3
+SIMPLE SCIENCE | A hemoglobinometer measures the amount of hemoglobin in this | the blood
+right: Susie
+Wrong: 
+Value: $800
+Number: 24
+ARNOLD MOVIES | 1987: Army man Arnold fights an extraterrestrial | Predator
+right: Bobby
+Wrong: 
+Value: $800
+Number: 16
+VOYEUR INFORMATION | To take a meeting with the man seen here at his residence, you'll have to head to this street | Downing Street
+right: Susie
+Wrong: 
+Value: $800
+Number: 19
+PICASSO | Picasso's art often depicted this mythological monster that's part man & part bull -- he identified with it | the Minotaur
+right: Bobby
+Wrong: 
+Value: $800
+Number: 28
+CARS | Actor Paul Hogan appeared in ads for its Outback model | Subaru
+right: George
+Wrong: 
+Value: $800
+Number: 9
+BEFORE & AFTER | Victor Hugo's novel of a bellringer named Barry Humphries who performs in drag, possums | The Hunchback of Notre Dame Edna
+right: George
+Wrong: 
+Value: $800
+Number: 4
+SIMPLE SCIENCE | Brighter in the night sky than any star is this planet that comes closest to the Earth | Venus
+right: Susie
+Wrong: 
+Value: $1000
+Number: 29
+ARNOLD MOVIES | 1999: Ex-cop Arnold fights Satan's efforts to find a bride | End of Days
+right: 
+Wrong: Triple Stumper
+Bobby: What is The Sixth Day?
+Value: $1000
+Number: 17
+VOYEUR INFORMATION | This man seen here played a leading role in the Constitutional Convention | Madison
+right: Bobby
+Wrong: 
+Value: $1000
+Number: 20
+PICASSO | Appropriately, "The Tragedy" is from this period of Picasso's work that lasted from 1901 to 1904 | the Blue Period
+right: Susie
+Wrong: 
+Value: DD: $1,200
+Number: 30
+CARS | (Jimmy of the Clue Crew)  This legendary GM designer introduced tailfins in 1948 & saw them reach a peak with the 1959 Cadillac | Harley Earl
+right: 
+Wrong: Triple Stumper
+Susie: Who is Tucker?
+Value: $1000
+Number: 10
+BEFORE & AFTER | Sitcom in which Scott Baio is a nanny who rides into the Valley of Death with the 600 | Charles in Charge of the Light Brigade
+right: George
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Bobby: $2,200
+Susie: -$400
+George: $4,000
+Scores at the end of the Jeopardy! Round:
+Bobby: $5,000
+Susie: $4,200
+George: $5,200
+Second Jeopardy! Round: SPACE TRAVELERS, COLLEGE FOOTBALL, THEY USED TO BE IN CHARGE, "SNOW" JOB, STATE THE STATE, BEEF-ORE & AFTER
+SPACE TRAVELERS | In 2003 she became the first woman inducted into the U.S. Astronaut Hall of Fame | Sally Ride
+right: George
+Wrong: 
+Value: $400
+Number: 16
+COLLEGE FOOTBALL | This famed coach won an NCAA record 88.1% of his games during his tenure at Notre Dame, 1918-1931 | (Knute) Rockne
+right: Bobby
+Wrong: 
+Value: $400
+Number: 13
+THEY USED TO BE IN CHARGE | Paul von Hindenburg | Germany
+right: George
+Wrong: 
+Value: $400
+Number: 6
+"SNOW" JOB | The Magic Mirror said she "is the fairest of them all" | Snow White
+right: Susie
+Wrong: 
+Value: $400
+Number: 11
+STATE THE STATE | After 10 years of independence, it became the 28th state in 1845 | Texas
+right: George
+Wrong: 
+Value: $400
+Number: 1
+BEEF-ORE & AFTER | An 18-acre British capital fortress complex made of tenderized flank steak | the Tower of London Broil
+right: 
+Wrong: Triple Stumper
+Bobby: What is...[time]?
+Value: $400
+Number: 22
+SPACE TRAVELERS | Sadly, this country's first astronaut, Ilan Ramon, died aboard the space shuttle Columbia in 2003 | Israel
+right: Susie
+Wrong: 
+Value: $800
+Number: 17
+COLLEGE FOOTBALL | Tom Harmon, Desmond Howard & Charles Woodson won the Heisman Trophy at this Big Ten school | Michigan
+right: Bobby
+Wrong: 
+Susie: What is USC?
+Value: $800
+Number: 14
+THEY USED TO BE IN CHARGE | Ferdinand Marcos | the Philippines
+right: George
+Wrong: 
+Value: $800
+Number: 7
+"SNOW" JOB | To make one of these, (1) Lie down face up in the snow with arms outstretched, & (2) Flap your arms & legs | a snow angel
+right: Bobby
+Wrong: 
+Value: $800
+Number: 12
+STATE THE STATE | The world's largest flat-top mountain, Grand Mesa, is found there | Colorado
+right: 
+Wrong: Triple Stumper
+George: Where is Arizona?
+Value: $800
+Number: 2
+BEEF-ORE & AFTER | A society where people of all races & cultures mix & enjoy a slowly braised cut of beef | melting pot roast
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+SPACE TRAVELERS | It was the more familiar nickname of Donald Kent Slayton | Deke
+right: George
+Wrong: 
+Value: $1200
+Number: 18
+COLLEGE FOOTBALL | (Hi, I'm Matt Hasselbeck of the NFL)  I was a 4-year letterman & 2-year starter at quarterback when I soared for this New England college's Eagles | Boston College
+right: George
+Wrong: 
+Value: $1200
+Number: 15
+THEY USED TO BE IN CHARGE | Nguyen Van Thieu | South Vietnam
+right: George
+Wrong: 
+Value: $1200
+Number: 8
+"SNOW" JOB | The epigraph of this Hemingway story says that the "frozen carcass of a leopard" lies on an African peak | The Snows of Kilimanjaro
+right: Susie
+Wrong: 
+Value: $1200
+Number: 19
+STATE THE STATE | Becoming unique among the states, this state installed its unicameral legislature in 1934 | Nebraska
+right: Bobby
+Wrong: 
+Value: $1200
+Number: 3
+BEEF-ORE & AFTER | A beef jerkyesque product named for Robert MacNeil's old news partner | Slim Jim Lehrer
+right: Bobby
+Wrong: 
+Value: $1200
+Number: 24
+SPACE TRAVELERS | In 1985 this Utah senator became the first sitting member of Congress to fly in space | Jake Garn
+right: 
+Wrong: Triple Stumper
+Bobby: Who is Orrin Hatch?
+Value: $1600
+Number: 27
+COLLEGE FOOTBALL | Mississippi State has named Sylvester Croom the first black head coach ever in this conference | the SEC
+right: Bobby
+Wrong: 
+Value: $1600
+Number: 29
+THEY USED TO BE IN CHARGE | Anastasio Somoza | Nicaragua
+right: Bobby
+Wrong: 
+Value: $1600
+Number: 9
+"SNOW" JOB | On the big screen, Nathan Lane provides the voice of this curmudgeonly feline friend of Stuart Little | Snowbell
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+STATE THE STATE | This state was named for a European king in 1682 by Robert Cavalier, Sieur de La Salle | Louisiana
+right: 
+Wrong: 
+Bobby: What is Michigan?
+Value: DD: $2,000
+Number: 4
+BEEF-ORE & AFTER | The thin round piece of ground meat who married John Astin | hamburger Patty Duke
+right: Susie
+Wrong: 
+Value: $1600
+Number: 25
+SPACE TRAVELERS | A few months after her historic 1963 flight she married fellow cosmonaut Andrian Nikolayev | Valentina Tereshkova
+right: 
+Wrong: 
+Susie: Who is Valentina...I knew you were going to get me!
+Value: DD: $2,000
+Number: 28
+COLLEGE FOOTBALL | (Hi, I'm Keyshawn Johnson of the NFL)  In 1996, after playing for this school, I became one of the few wide receivers ever selected the No. 1 pick in the NFL Draft | USC
+right: Bobby
+Wrong: 
+Value: $2000
+Number: 30
+THEY USED TO BE IN CHARGE | John G. Diefenbaker | Canada
+right: Susie
+Wrong: 
+Value: $2000
+Number: 10
+"SNOW" JOB | Australia's highest peak, Mount Kosciusko, lies in this range | the Snowy Mountains
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+STATE THE STATE | In 1906 this state's Devils Tower became the nation's first national monument | Wyoming
+right: Bobby
+Wrong: 
+Value: $2000
+Number: 5
+BEEF-ORE & AFTER | This Jude Deveraux romance novel about a man who appears attired in gleaming metal is one "Kids Love to Bite" | A Knight in Shining Armor (Armour) Hot Dogs
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Bobby: $12,600
+Susie: $7,400
+George: $10,000
+
+Final Jeopardy! Round
+20th CENTURY WRITERS | In the '50s, she taught English at Smith College, then worked as a secretary at a Boston psychiatric clinic | Sylvia Plath
+right: 
+Wrong: 
+Susie: Who is Jacqueline Susann
+George: Who is Betty
+Bobby: Who is Erica Jong?
+Wagers: 
+Susie: $6,400
+George: $9,900
+Bobby: $7,401
+Final scores:
+Bobby: $5,199 (2-day champion: $36,400)
+Susie: $1,000 (2nd place: $2,000)
+George: $100 (3rd place: $1,000)
+
+Coryat scores
+Bobby: $14,600 (21 R,4 W(including 1 DD))
+Susie: $9,200 (12 R(including 1 DD),3 W(including 1 DD))
+George: $10,000 (17 R,1 W)

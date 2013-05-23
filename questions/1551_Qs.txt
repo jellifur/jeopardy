@@ -1,0 +1,344 @@
+4561 - Monday, June 7, 2004
+Comments: Ken Jennings game 4.
+Contestants:
+Clinton Wieden: a college student from Fairview, Oklahoma
+Josh Hornik: a product manager from Santa Monica, California
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 3-day cash winnings total $96,201)
+First Jeopardy! Round: GEOGRAPHIC SAINTS, '60s SITCOMS, I DID IT!, TREATIES, KING, QUEEN OR JACK, CROSSWORD CLUES "S"
+GEOGRAPHIC SAINTS | After its 1980 eruption, this volcano in the American Northwest lost over 1,200 feet in height | Mount St. Helens
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+'60s SITCOMS | Senior counselor Spiffy at Camp Runamuck, Dave Ketchum was also Agent 13 on this show | Get Smart
+right: Clinton
+Wrong: 
+Value: $200
+Number: 2
+I DID IT! | Florence Chadwick was the first woman to swim this in both directions; Gertrude Ederle swam it one way | the English Channel
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+TREATIES | Due to the Treaty of Tordesillas of 1494, Portugal gained possession of this country in the New World | Brazil
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+KING, QUEEN OR JACK | In checkers, the dark squares farthest from a player form this row | king
+right: Josh
+Wrong: 
+Value: $200
+Number: 19
+CROSSWORD CLUES "S" | Waldorf or Caesar (5) | salad
+right: Josh
+Wrong: 
+Value: $200
+Number: 1
+GEOGRAPHIC SAINTS | This city's metro area includes Universal City, Castle Hills & Alamo Heights | San Antonio
+right: Clinton
+Wrong: 
+Value: $400
+Number: 17
+'60s SITCOMS | In 1967 the Emmy for Outstanding Comedy Series went to <http://www.j-archive.com/media/2004-06-07_J_03.mp3> this show | The Monkees
+right: Ken
+Wrong: 
+Value: $400
+Number: 3
+I DID IT! | 13-year-old Rebecca Sealfon won it in 1997 by knowing euonym, E-U-O-N-Y-M | the National Spelling Bee
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+TREATIES | Pinckney's Treaty ended disputes between the U.S. & Spain over Florida's borders & access to this river's mouth | the Mississippi
+right: Josh
+Wrong: 
+Value: $400
+Number: 27
+KING, QUEEN OR JACK | In its first Top 20 hit, Queen sang about a "Killer" one | Queen
+right: Ken
+Wrong: 
+Value: $400
+Number: 20
+CROSSWORD CLUES "S" | City by the bay (3, 9) | San Francisco
+right: Clinton
+Wrong: 
+Value: $400
+Number: 7
+GEOGRAPHIC SAINTS | Exceeded only by the Mackenzie, it's Canada's second-longest river if you include the seaway | the St. Lawrence
+right: Josh
+Wrong: 
+Value: $600
+Number: 18
+'60s SITCOMS | The 1962 TV drama "Seven Against the Sea" with Ernest Borgnine became this sitcom a few years later | McHale's Navy
+right: Clinton
+Wrong: 
+Value: $600
+Number: 4
+I DID IT! | Check it out!  In 1972 he became the first American chess player to win the world championship | Bobby Fischer
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+TREATIES | The Treaty of Versailles was signed on June 28, 1919 in this hall at the Palace of Versailles | the Hall of Mirrors
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+KING, QUEEN OR JACK | The one not mentioned in the title of the TV series starring Kevin James | jack
+right: Josh
+Wrong: 
+Value: $600
+Number: 21
+CROSSWORD CLUES "S" | Teacher's long vacation (10) | sabbatical
+right: Josh
+Wrong: 
+Value: $600
+Number: 8
+GEOGRAPHIC SAINTS | The Diavolezza & the Piz Corvatsch are famous ski areas near this Swiss resort | St. Moritz
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+'60s SITCOMS | One book calls this character "unctuous & oily to adults ('Good evening Mr. & Mrs. Cleaver | Eddie Haskell
+right: Clinton
+Wrong: 
+Value: $800
+Number: 5
+I DID IT! | In 1957 this future astronaut set a speed record flying from L.A. to NYC in 3 hrs., 23 min., 8.4 sec. | John Glenn
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+TREATIES | This conflict ended in 1902 with the signing of the Treaty of Vereeniging, a town just south of Johannesburg | the Boer War
+right: Josh
+Wrong: 
+Value: $800
+Number: 29
+KING, QUEEN OR JACK | You don't have to call that salmon a Chinook, you can call it this | king
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+CROSSWORD CLUES "S" | "Baby" bird (5) | stork
+right: 
+Wrong: 
+Josh: ...Don't know.
+Value: DD: $1,000
+Number: 9
+GEOGRAPHIC SAINTS | This largest island in the U.S. Virgin Islands was earlier owned by the Dutch, English, Spanish, French & Danes | St. Croix
+right: 
+Wrong: Triple Stumper
+Josh: What is St. Thomas?
+Value: $1000
+Number: 25
+'60s SITCOMS | Jackie Coogan's most famous TV role was this electrifying character on "The Addams Family" | Uncle Fester
+right: Clinton
+Wrong: 
+Value: $1000
+Number: 6
+I DID IT! | In 1884, the year of his death, he published the memoir "30 Years a Detective" | (Allan) Pinkerton
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+TREATIES | Turkey regained control of these 2 straits by the Montreux Convention of 1936 | the Dardanelles & the Bosporus
+right: Ken
+Wrong: 
+Clinton: What are the Dardanelles?
+Value: $1000
+Number: 30
+KING, QUEEN OR JACK | The one flown on the bow of a British ship | jack
+right: Ken
+Wrong: 
+Value: $1000
+Number: 23
+CROSSWORD CLUES "S" | Before energy or plexus (5) | solar
+right: Josh
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Ken: $2,600
+Josh: $800
+Clinton: $3,000
+Scores at the end of the Jeopardy! Round:
+Ken: $7,600
+Josh: $2,400
+Clinton: $2,400
+Second Jeopardy! Round: RUSSIAN WRITERS, THE WINTER OLYMPICS, FOOD ACROSS AMERICA, BLOODSUCKERS, SECRETARIES OF STATE, "HOME" DEPOT
+RUSSIAN WRITERS | Perhaps best known for his plays, such as "Uncle Vanya", he was also a famed short-story writer | Chekhov
+right: Ken
+Wrong: 
+Value: $400
+Number: 5
+THE WINTER OLYMPICS | 1 of only 2 Americans to win the men's figure skating gold medal since 1960 | Scott Hamilton (or Brian Boitano)
+right: Josh
+Wrong: 
+Value: $400
+Number: 1
+FOOD ACROSS AMERICA | A 13-foot-tall one of these stands on the highway near the city limits of Plains, Georgia | a peanut
+right: Ken
+Wrong: 
+Value: $400
+Number: 10
+BLOODSUCKERS | In "The African Queen", Humphrey Bogart called these bloodsucking worms "<http://www.j-archive.com/media/2004-06-07_DJ_26.mp3> filthy little devils" | leeches
+right: Josh
+Wrong: 
+Value: $400
+Number: 26
+SECRETARIES OF STATE | She was the first female Secretary of State | Madeleine Albright
+right: Josh
+Wrong: 
+Value: $400
+Number: 14
+"HOME" DEPOT | The last section of a racecourse | the home stretch
+right: Clinton
+Wrong: 
+Value: $400
+Number: 15
+RUSSIAN WRITERS | After winning the Nobel Prize for Literature for "Doctor Zhivago", he was expelled from the Soviet Writers Union | Pasternak
+right: Josh
+Wrong: 
+Value: $800
+Number: 6
+THE WINTER OLYMPICS | In 1998, the first Olympics in which it was held, Italy's Gian Simmen won the men's halfpipe in this sport | snowboarding
+right: Josh
+Wrong: 
+Value: $800
+Number: 2
+FOOD ACROSS AMERICA | These off the state tree of Illinois were ground, leached & cooked by Indians for food | acorns
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+BLOODSUCKERS | The Culex species of this insect may transmit encephalitis & certain kinds of parasitic worms | mosquito
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+SECRETARIES OF STATE | George Washington picked this future president to be his first Secretary of State | Jefferson
+right: Clinton
+Wrong: 
+Value: $800
+Number: 20
+"HOME" DEPOT | School study of household management | home economics
+right: Josh
+Wrong: 
+Value: $800
+Number: 16
+RUSSIAN WRITERS | His novella "One Day in the Life of Ivan Denisovich" was based on his own struggles in a Siberian labor camp | Solzhenitsyn
+right: Ken
+Wrong: 
+Josh: Who is Dostoevsky?
+Value: $1200
+Number: 7
+THE WINTER OLYMPICS | Lydia Skoblikova has a record 6 gold medals in speed skating; this American woman is second with 5 | Bonnie Blair
+right: Josh
+Wrong: 
+Value: $1200
+Number: 3
+FOOD ACROSS AMERICA | New Yorkers claim their bagels are best, because this ingredient is best in New York | the water
+right: Josh
+Wrong: 
+Value: $1200
+Number: 12
+BLOODSUCKERS | The teeth of this bloodsucking cave dweller are so sharp that victims may not even feel the bite | the vampire bat
+right: Josh
+Wrong: 
+Value: $1200
+Number: 30
+SECRETARIES OF STATE | Dwight Eisenhower & JFK both attended the 1962 dedication of the airport named for him | John Foster Dulles
+right: 
+Wrong: 
+Clinton: Who is LaGuardia?
+Value: DD: $1,800
+Number: 21
+"HOME" DEPOT | Civilian activities in support of a war waged overseas | the home front
+right: Ken
+Wrong: 
+Value: $1200
+Number: 17
+RUSSIAN WRITERS | One of this poet's great-grandfathers was a black Ethiopian courtier to Peter the Great | (Alexander) Pushkin
+right: Ken
+Wrong: 
+Value: $1600
+Number: 8
+THE WINTER OLYMPICS | In 1992 Kjetil Aamodt set the Olympic record at 1 min., 13.04 sec. in the Super G, short for super giant this | slalom
+right: Ken
+Wrong: 
+Value: $1600
+Number: 4
+FOOD ACROSS AMERICA | Bill Rosenberg opened the first shop in this chain in 1950 in Quincy, Ma. (we don't know when the cops came) | Dunkin' Donuts
+right: Ken
+Wrong: 
+Value: DD: $2,000
+Number: 24
+BLOODSUCKERS | All of the species of this parasite-carrying fly in the genus Glossina live in sub-Saharan Africa | a tsetse fly
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+SECRETARIES OF STATE | This silver-tongued orator & publisher of "The Commoner" resigned as Secretary in 1915 | (William Jennings) Bryan
+right: Ken
+Wrong: 
+Value: $1600
+Number: 22
+"HOME" DEPOT | In this 1978 film, Jane Fonda becomes involved with a paraplegic war veteran played by Jon Voight | Coming Home
+right: Ken
+Wrong: 
+Value: $1600
+Number: 18
+RUSSIAN WRITERS | Novelist & short-story writer Aleksey Maksimovich Peshkov used this pseudonym | (Maxim) Gorky
+right: Ken
+Wrong: 
+Value: $2000
+Number: 9
+THE WINTER OLYMPICS | The Winter Olympics have been held in Austria twice, both times in this city | Innsbruck
+right: Josh
+Wrong: 
+Value: $2000
+Number: 13
+FOOD ACROSS AMERICA | Famous for its seafood, this "Old Original" restaurant in Philly is a premier reading, er, dining spot | Bookbinder's
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+BLOODSUCKERS | When this eel-like fish bites & attaches itself to another fish, an anticoagulating fluid keeps the wound open | a lamprey
+right: 
+Wrong: Triple Stumper
+Josh: What's a Remorae?
+Value: $2000
+Number: 28
+SECRETARIES OF STATE | In 1842 this silver-tongued orator negotiated a treaty with Lord Ashburton which settled the Maine boundary dispute | (Daniel) Webster
+right: Ken
+Wrong: 
+Value: $2000
+Number: 23
+"HOME" DEPOT | Equilibrium | homeostasis
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Ken: $24,800
+Josh: $8,400
+Clinton: $1,800
+
+Final Jeopardy! Round
+WORDS & PHRASES | Once slang for brain, this 2-word phrase now means the Heritage Foundation or the Brookings Institution | a think tank
+right: Clinton | Josh | Ken
+Wrong: 
+Wagers: 
+Clinton: $1,799
+Josh: $4,799
+Ken: $5,200
+Final scores:
+Ken: $30,000 (4-day champion: $126,201)
+Josh: $13,199 (2nd place: $2,000)
+Clinton: $3,599 (3rd place: $1,000)
+
+Coryat scores
+Ken: $24,400 (25 R(including 1 DD),0 W)
+Josh: $9,400 (18 R,4 W(including 1 DD))
+Clinton: $3,600 (8 R,2 W(including 1 DD))

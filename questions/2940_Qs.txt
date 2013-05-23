@@ -1,0 +1,347 @@
+5642 - Tuesday, March 3, 2009
+Comments: Ask Alex #16: Game shows.
+Contestants:
+Kara Mohler: a history teacher from Silver Spring, Maryland
+Ted Skotnicki: a college professor from Niagara Falls, New York
+Sanders Kleinfeld: a publishing technology specialist from Cambridge, Massachusetts (whose 1-day cash winnings total $26,597)
+First Jeopardy! Round: JOHN J. PERSHING, DAY PLANNERS OF THE STARS, YOU NEED TO CONVERT, FAB 5 FREDDY, I NEED A FLAVOR, IT'S NOT A CRIME!
+JOHN J. PERSHING | In 1886 Pershing graduated 30th out of 77 from this school | West Point
+right: Kara
+Wrong: 
+Value: $200
+Number: 11
+DAY PLANNERS OF THE STARS | May 10, 1945: Divorce wife No. 3. May 21, 1945: Marry wife No. 4, Lauren Bacall, & call more people "sweetheart" | Humphrey Bogart
+right: Kara
+Wrong: 
+Value: $200
+Number: 17
+YOU NEED TO CONVERT | 1,728 cubic inches equals this many cubic feet | 1
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+FAB 5 FREDDY | Fred Haise was one of the fortunate 3 astronauts to make it home from this April 1970 mission | Apollo 13
+right: Ted
+Wrong: 
+Value: $200
+Number: 1
+I NEED A FLAVOR | This spice precedes "ale" in the name of a beverage & "snap" in the name of a cookie | ginger
+right: Sanders
+Wrong: 
+Value: $200
+Number: 7
+IT'S NOT A CRIME! | The proxime accessit isn't an accomplice, he's just the guy who finished in this place, like McCain in 2008 | second
+right: Kara
+Wrong: 
+Value: $200
+Number: 2
+JOHN J. PERSHING | On April 14, 1918 Pershing became the first American general to make use of these in combat | airplanes
+right: Ted
+Wrong: 
+Kara: What are tanks?
+Value: $400
+Number: 12
+DAY PLANNERS OF THE STARS | 1941: make final film, "Two-Faced Woman". Feb. 9, 1951: Become U.S. citizen. After that: Prefer alone time | (Greta) Garbo
+right: Sanders
+Wrong: 
+Value: $400
+Number: 18
+YOU NEED TO CONVERT | 4 pecks equals 1 of these | a bushel
+right: Sanders
+Wrong: 
+Value: $400
+Number: 27
+FAB 5 FREDDY | In 1921 a team including Frederick Banting discovered this hormone produced by the pancreas | insulin
+right: Kara
+Wrong: 
+Value: $400
+Number: 22
+I NEED A FLAVOR | The name of this spice used in Indian cooking comes from the Tamil for "sauce" | curry
+right: Sanders
+Wrong: 
+Value: $400
+Number: 8
+IT'S NOT A CRIME! | If your friend tells you he's a paleophile, don't worry; he's just into stuff that's really this, like dinosaurs | old
+right: Kara
+Wrong: 
+Value: $400
+Number: 3
+JOHN J. PERSHING | Pershing gained this rhyming nickname for commanding a unit of African-American soldiers | Black Jack
+right: Ted
+Wrong: 
+Value: $600
+Number: 13
+DAY PLANNERS OF THE STARS | Dec. 21, 1937: daughter Jane is born. Feb. 23, 1940: Son Peter is born. Jan. 27, 1964: Granddaughter Bridget is born | Henry Fonda
+right: Sanders
+Wrong: 
+Value: $600
+Number: 19
+YOU NEED TO CONVERT | 32 degrees Fahrenheit equals this many degrees Celsius | 0
+right: Sanders
+Wrong: 
+Value: $600
+Number: 28
+FAB 5 FREDDY | The middle name of this public television legend was McFeely | Mister Rogers
+right: Kara
+Wrong: 
+Value: $600
+Number: 23
+I NEED A FLAVOR | Allium sativum, its pungent odor was said to give strength; Egyptians fed it to the slaves who built the pyramids | garlic
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 9
+IT'S NOT A CRIME! | If you've committed saponification, you haven't been bad; you've made this stuff, like Ivory (& gotten off clean) | soap
+right: Sanders
+Wrong: 
+Value: $600
+Number: 4
+JOHN J. PERSHING | When Pershing arrived in France during WWI, he laid a wreath at the grave of this Frenchman | Lafayette
+right: Sanders
+Wrong: 
+Value: $800
+Number: 14
+DAY PLANNERS OF THE STARS | March 29, 1939: Marry Carole Lombard. On set: Remind self not to give damn | Clark Gable
+right: Ted
+Wrong: 
+Value: $800
+Number: 20
+YOU NEED TO CONVERT | One eighth of a circle equals this many degrees | 45
+right: 
+Wrong: 
+Sanders: What is 40?
+Value: DD: $1,000
+Number: 29
+FAB 5 FREDDY | In 1942 this composer met Alan Lerner; the next year, the 2 opened their first Broadway show | (Frederick) Loewe
+right: Kara
+Wrong: 
+Value: $800
+Number: 24
+I NEED A FLAVOR | In Italy the stalk of the Neapolitan type of this garnishing herb is eaten like celery | parsley
+right: Kara
+Wrong: 
+Value: $800
+Number: 10
+IT'S NOT A CRIME! | If you've got oenomania, you're not a crook; you're just crazy for this, like muscat or syrah | wine
+right: Kara
+Wrong: 
+Value: $800
+Number: 5
+JOHN J. PERSHING | During World War I, Pershing led this U.S. command, the AEF | the American Expeditionary Forces
+right: Kara
+Wrong: 
+Value: $1000
+Number: 16
+DAY PLANNERS OF THE STARS | March 7, 1946: Win best actress for "Mildred Pierce". March 8: Rethink position on wire hangers | (Joan) Crawford
+right: Sanders
+Wrong: 
+Value: $1000
+Number: 21
+YOU NEED TO CONVERT | 18 square feet equals this many square yards | 2
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+FAB 5 FREDDY | Frederick Weyerhaeuser founded a company that now has 21 million acres of land harvested for this | timber
+right: 
+Wrong: Triple Stumper
+Kara: What is paper?
+Value: $1000
+Number: 25
+I NEED A FLAVOR | There are summer & winter varieties of this herb whose name means "piquant" or "aromatic" | savory
+right: 
+Wrong: Triple Stumper
+Ted: What is sage?
+Value: $1000
+Number: 15
+IT'S NOT A CRIME! | If your neighbor's a lapicide, he's not a killer; he's just a guy who cuts this stuff for a living, maybe from a quarry | stones
+right: Ted
+Wrong: 
+Sanders: What are gems?
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Sanders: $1,000
+Ted: $1,200
+Kara: $2,000
+Scores at the end of the Jeopardy! Round:
+Sanders: $3,000
+Ted: $2,000
+Kara: $4,000
+Second Jeopardy! Round: THE AFRICAN PAST, MOVIE MISSING LINKS, PROJECT RUNAWAY, THE SECRET LIFE OF "B"s, CAPITAL, LETTERS
+THE AFRICAN PAST | A 1968 drought was so bad that this geographic feature advanced 60 miles into the semiarid area called the Sahel | the Sahara Desert
+right: Kara
+Wrong: 
+Value: $400
+Number: 10
+MOVIE MISSING LINKS | A Room With __ ___ To A Kill | A View
+right: Kara
+Wrong: 
+Value: $400
+Number: 26
+PROJECT RUNAWAY | Nevada named its capital for this frontiersman who, at 16, ran away with traders who were bound for Santa Fe | Kit Carson
+right: Kara
+Wrong: 
+Value: $400
+Number: 6
+THE SECRET LIFE OF "B"s | 2-word term for the demographic surge in the U.S. from 1946 to 1964 | baby boom
+right: Sanders
+Wrong: 
+Value: $400
+Number: 1
+CAPITAL | Early settlers of this northeast state capital lived in Charlestown before moving to the Shawmut Peninsula | Boston
+right: Sanders
+Wrong: 
+Value: $400
+Number: 20
+LETTERS | The 1934 Indian Reorganization Act was passed after the Blackfoot sent a letter about injustices to this president | FDR
+right: Sanders
+Wrong: 
+Value: $400
+Number: 15
+THE AFRICAN PAST | (<http://www.j-archive.com/media/2009-03-03_DJ_11.jpg> Sarah of the Clue Crew delivers a clue from the Newseum in Washington, D.C.)  The Newseum in Washington has a ballot box from this country's first free election in 1994; the ANC triumphed over the National Party | South Africa
+right: Kara
+Wrong: 
+Value: $800
+Number: 11
+MOVIE MISSING LINKS | American ________ In The Grass | Splendor
+right: 
+Wrong: Triple Stumper
+Ted: What is Pie?
+Kara: What is Snake?
+Value: $800
+Number: 27
+PROJECT RUNAWAY | He ran away to England to do more printing before going back to Philadelphia to start his own business in 1726 | (Ben) Franklin
+right: Kara
+Wrong: 
+Value: $800
+Number: 7
+THE SECRET LIFE OF "B"s | Systematic stress technique used on American prisoners during the Korean War | brainwashing
+right: Ted
+Wrong: 
+Value: $800
+Number: 2
+CAPITAL | Rama I built Wat Phra Keo, the first temple in this capital, in 1785 | Bangkok
+right: Kara
+Wrong: 
+Value: $800
+Number: 21
+LETTERS | 21 Bible books are this type of letter intended for many people | epistles
+right: Ted
+Wrong: 
+Value: $800
+Number: 16
+THE AFRICAN PAST | In 1884 14 nations (none of them African) met in Berlin to decide the status of this second-longest African river | the Congo
+right: Kara
+Wrong: 
+Value: $1200
+Number: 12
+MOVIE MISSING LINKS | Who'll Stop The ____ Man | Rain
+right: Ted
+Wrong: 
+Value: $1200
+Number: 28
+PROJECT RUNAWAY | This No. 1 airport car rental brand is named for a man who ran away & started the Yellow Cab company | Hertz
+right: Sanders
+Wrong: 
+Value: $1200
+Number: 8
+THE SECRET LIFE OF "B"s | Used as fodder, mangold is a type of this purplish root vegetable | beets
+right: Kara
+Wrong: 
+Value: $1200
+Number: 3
+CAPITAL | In 2003, the 2 men seen <http://www.j-archive.com/media/2009-03-03_DJ_22.jpg> here vied to wield power from this state capital | Sacramento
+right: Kara
+Wrong: 
+Value: DD: $2,000
+Number: 22
+LETTERS | He was upset to get a letter from Alfred Wallace about evolution theory, as he'd neglected to publish his own | Darwin
+right: Sanders
+Wrong: 
+Value: $1200
+Number: 17
+THE AFRICAN PAST | Musa, emperor of Mali in the 14th c., made a magnificent pilgrimage to Mecca & built the Great this at Timbuktu | a mosque
+right: Kara
+Wrong: 
+Value: $1600
+Number: 13
+MOVIE MISSING LINKS | The Breakfast  ____ Dread | Club
+right: Ted
+Wrong: 
+Value: $1600
+Number: 29
+PROJECT RUNAWAY | This runaway was coached by Pop Warner & excelled in baseball & football as well as the decathlon | Jim Thorpe
+right: Kara
+Wrong: 
+Value: $1600
+Number: 9
+THE SECRET LIFE OF "B"s | Drugs called these blockers diminish reaction to adrenaline, keeping things mellow & reducing cardiac problems | beta blockers
+right: Kara
+Wrong: 
+Value: $1600
+Number: 4
+CAPITAL | At the 50th anniv. of the Baltic Pact, 1 million people formed a human chain from Tallinn to this Lithuanian capital | Vilnius
+right: Kara
+Wrong: 
+Value: $1600
+Number: 23
+LETTERS | Letters of marque give private citizens the right to be corsairs, seizing the merchant these of another nation | ships
+right: Kara
+Wrong: 
+Value: $1600
+Number: 18
+THE AFRICAN PAST | A major East Coast civilization from the eighth or ninth century used these shells, seen <http://www.j-archive.com/media/2009-03-03_DJ_14.jpg> here, as currency | cowrie shells
+right: Kara
+Wrong: 
+Value: $2000
+Number: 14
+MOVIE MISSING LINKS | First Monday In ________ Sky | October
+right: Sanders
+Wrong: 
+Value: $2000
+Number: 30
+PROJECT RUNAWAY | It was more romance than horror when, in 1814, she ran away with a married poet & became a novelist | Mary Shelley
+right: Ted
+Wrong: 
+Value: DD: $4,000
+Number: 25
+THE SECRET LIFE OF "B"s | Field where Richard III fell | Bosworth
+right: Sanders
+Wrong: 
+Value: $2000
+Number: 5
+CAPITAL | Don't mess with Liberty, which you'll find in <http://www.j-archive.com/media/2009-03-03_DJ_24.jpg> this state capital | Austin
+right: Ted
+Wrong: 
+Kara: What is San Antonio?
+Value: $2000
+Number: 24
+LETTERS | Anne Bancroft has a letter-writing friendship with London bookstore employee Anthony Hopkins in this book-turned-film | 84 Charing Cross Road
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Sanders: $10,600
+Ted: $11,600
+Kara: $19,200
+
+Final Jeopardy! Round
+ASTRONOMY | In 1610 Galileo called the moons of this planet the "Medician stars", for the Medici brothers | Jupiter
+right: Sanders | Kara
+Wrong: 
+Ted: What is Saturn?
+Wagers: 
+Sanders: $10,000
+Ted: $10,000
+Kara: $3,999
+Final scores:
+Sanders: $20,600 (2nd place: $2,000)
+Ted: $1,600 (3rd place: $1,000)
+Kara: $23,199 (New champion: $23,199)
+
+Coryat scores
+Sanders: $11,600 (16 R,2 W(including 1 DD))
+Ted: $9,600 (11 R(including 1 DD),2 W)
+Kara: $18,400 (25 R(including 1 DD),4 W)

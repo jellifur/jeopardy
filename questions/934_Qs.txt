@@ -1,0 +1,346 @@
+4198 - Wednesday, November 27, 2002
+Contestants:
+Katie Hobson: a journalist from New York, New York
+Brian Ursrey: a medical secretary originally from Pearson, Georgia
+Faith Love: a systems analyst from Boyds, Maryland (whose 2-day cash winnings total $19,401)
+First Jeopardy! Round: PHYSICS, HAPPY BIRTHDAY!, TOP 40 DEBUTS, THANKSGIVING AT ALEX'S HOUSE, WE INVENTED STUFF, AUTOMOTIVE METAPHORS
+PHYSICS | It's compressed to run a pneumatic device like a jackhammer | air
+right: Brian
+Wrong: 
+Value: $200
+Number: 2
+HAPPY BIRTHDAY! | For her birthday, April 15, this columnist suggests that you write down your favorite "hints" & send them to her | Heloise
+right: Brian
+Wrong: 
+Value: $200
+Number: 1
+TOP 40 DEBUTS | 1991: Nirvana with this grunge anthem | Smells Like Teen Spirit
+right: Brian
+Wrong: 
+Value: $200
+Number: 8
+THANKSGIVING AT ALEX'S HOUSE | (<http://www.j-archive.com/media/2002-11-27_J_18.jpg> Cheryl of the Clue Crew has dibs on a drumstick.) We should all give thanks to this U.S. president who proclaimed a national day of Thanksgiving in 1789 | George Washington
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 18
+WE INVENTED STUFF | By 1881 his Menlo Park home had been set up with a complete electric lighting system | Edison
+right: Faith
+Wrong: 
+Value: $200
+Number: 9
+AUTOMOTIVE METAPHORS | When your boss is yelling at you, you often look like "a deer in" these | the headlights
+right: Katie
+Wrong: 
+Value: $200
+Number: 23
+PHYSICS | In the 1800s scientists proposed a luminiferous ether to explain how this can travel in waves | light
+right: Faith
+Wrong: 
+Value: $400
+Number: 3
+HAPPY BIRTHDAY! | Michael Douglas never forgets the birthday of this woman, his wife; it's September 25, the same as his | Catherine Zeta-Jones
+right: Faith
+Wrong: 
+Value: $400
+Number: 5
+TOP 40 DEBUTS | 1966: This Brooklynite with "Cherry, Cherry" | Neil Diamond
+right: Katie
+Wrong: 
+Value: $400
+Number: 13
+THANKSGIVING AT ALEX'S HOUSE | (<http://www.j-archive.com/media/2002-11-27_J_19.jpg> Having been banished from the kitchen, Jimmy joins Alex at the TV.) Jimmy:</I> While dinner is being fixed, Alex and I are watching this NFL team, that played more turkey day games than any other. Alex:</I> They really miss Joe Schmidt & Alex Karras. | Detroit Lions
+right: 
+Wrong: Triple Stumper
+Katie: Who are the Dallas Cowboys?
+Value: $400
+Number: 19
+WE INVENTED STUFF | In 1814 Robert Fulton developed "Fulton the First", the first warship powered by this force | steam
+right: Faith
+Wrong: 
+Value: $400
+Number: 10
+AUTOMOTIVE METAPHORS | Your boss loads you up with meaningless busywork, so you're doing this to "your wheels" | spinning
+right: Faith
+Wrong: 
+Value: $400
+Number: 24
+PHYSICS | Parents, the answer to this perennial kids' question is "Due to Rayleigh scattering" | "Why is the sky blue?"
+right: Faith
+Wrong: 
+Value: DD: $1,000
+Number: 4
+HAPPY BIRTHDAY! | If you're invited to Vanna White's birthday party on Feb. 18, she might like one of these violet gems, her birthstone | amethyst
+right: Faith
+Wrong: 
+Value: $600
+Number: 6
+TOP 40 DEBUTS | 1982: Frank Zappa with this homage to southern California | Valley Girl
+right: Katie
+Wrong: 
+Value: $600
+Number: 14
+THANKSGIVING AT ALEX'S HOUSE | (<http://www.j-archive.com/media/2002-11-27_J_20.jpg> Sarah brings in table decorations.) I'm decorating with a cornucopia inspired by the magical horn of Amalthea, who nursed this Greek god when he was a baby | Zeus
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 20
+WE INVENTED STUFF | On Feb. 14, 1876 Elisha Gray attempted to file a patent for this invention; however, Bell beat him by hours | the telephone
+right: Brian
+Wrong: 
+Value: $600
+Number: 11
+AUTOMOTIVE METAPHORS | When you're totally exhausted but your boss makes you keep working anyway, you're "running" this way | on empty (or on fumes)
+right: Katie
+Wrong: 
+Value: $600
+Number: 25
+PHYSICS | The red shift of galaxies & the change in the pitch of a train whistle are examples of this man's effect | the Doppler effect
+right: Brian
+Wrong: 
+Value: $800
+Number: 28
+HAPPY BIRTHDAY! | The Girl Scouts celebrate Founders Day on October 31 because it was this woman's birthday | Juliette Lowe
+right: Katie
+Wrong: 
+Value: $800
+Number: 7
+TOP 40 DEBUTS | 1988: This former cheerleader with "Straight Up" | Paula Abdul
+right: Katie
+Wrong: 
+Value: $800
+Number: 15
+THANKSGIVING AT ALEX'S HOUSE | (<http://www.j-archive.com/media/2002-11-27_J_21.jpg> Sofia has some medical advice.) If we eat enough of these cranberries we won't get scurvy because they're chock full of this vitamin | C
+right: Faith
+Wrong: 
+Value: $800
+Number: 21
+WE INVENTED STUFF | In 1868 Carlos Glidden & Partners patented this 1st machine that wrote faster than one could write by hand | a typewriter
+right: Katie
+Wrong: 
+Value: $800
+Number: 12
+AUTOMOTIVE METAPHORS | When your boss nominates himself for Businessman of the Year, he's "tooting" this | his horn
+right: Katie
+Wrong: 
+Value: $800
+Number: 26
+PHYSICS | Type of mechanics illustrated <http://www.j-archive.com/media/2002-11-27_J_29.jpg> here | fluid mechanics
+right: Katie
+Wrong: 
+Value: $1000
+Number: 29
+HAPPY BIRTHDAY! | Charles Grodin shares his April 21 birthday with this woman who directed his film "The Heartbreak Kid" | Elaine May
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+TOP 40 DEBUTS | 1985: This synth-pop band with "People Are People" | Depeche Mode
+right: Katie
+Wrong: 
+Value: $1000
+Number: 16
+THANKSGIVING AT ALEX'S HOUSE | (<http://www.j-archive.com/media/2002-11-27_J_30.jpg> Jimmy gives the last clue.) The sedative effects of turkey have been attributed to this amino acid, sold as a <http://www.j-archive.com/media/2002-11-27_J_30a.jpg> sleep aid until 1990 | tryptophan
+right: Faith
+Wrong: 
+Value: $1000
+Number: 30
+WE INVENTED STUFF | During WWII, this rocketry pioneer served as director of research for the U.S. Navy's Bureau of Aeronautics | Goddard
+right: Faith
+Wrong: 
+Value: $1000
+Number: 22
+AUTOMOTIVE METAPHORS | Despite your boss, you won't quit your job; you need the money to keep "living life in" this freeway area | in the fast lane
+right: Brian
+Wrong: 
+Value: $1000
+Number: 27
+Scores at the first commercial break (after clue 15)
+Faith: $3,000
+Brian: $1,200
+Katie: $4,400
+Scores at the end of the Jeopardy! Round:
+Faith: $6,200
+Brian: $3,000
+Katie: $6,600
+Second Jeopardy! Round: OKLAHOMA!, SWEET SMELL OF SUCCESS, INTO THE WOODS, MAMMA MIA!, "PRIVATE" LIVES, ON BROADWAY
+OKLAHOMA! | Following Oklahoma City, this city of about 400,000 is the second most populous in the state | Tulsa
+right: Katie
+Wrong: 
+Value: $400
+Number: 26
+SWEET SMELL OF SUCCESS | The billion-dollar empire of animal feed titans the Liu brothers makes them one of this country's richest families | China
+right: Brian
+Wrong: 
+Value: $400
+Number: 21
+INTO THE WOODS | A toadstool is an inedible kind of this fungus | a mushroom
+right: Brian
+Wrong: 
+Value: $400
+Number: 1
+MAMMA MIA! | The mother of princesses Stephanie & Caroline | Grace Kelly
+right: Faith
+Wrong: 
+Value: $400
+Number: 5
+"PRIVATE" LIVES | V.I. Warshawski, for example | a private eye (private detective)
+right: Faith
+Wrong: 
+Value: $400
+Number: 11
+ON BROADWAY | Stephen Weber "wing"ed his way onto Broadway in 2002, replacing Matthew Broderick in this musical | The Producers
+right: Faith
+Wrong: 
+Value: $400
+Number: 16
+OKLAHOMA! | You can read many of this humorists writings as well as visit his grave at his memorial in Claremore, Oklahoma | Will Rogers
+right: Faith
+Wrong: 
+Katie: Who is Art Buchwald?
+Value: $800
+Number: 27
+SWEET SMELL OF SUCCESS | (<http://www.j-archive.com/media/2002-11-27_DJ_22.jpg> Hi. I'm Mark Cuban, owner of the Dallas Mavericks.) In 1999 I set a record for the biggest online purchase -- a Gulfstream one of these | an airplane
+right: Faith
+Wrong: 
+Value: $800
+Number: 22
+INTO THE WOODS | Avoid this member of the cashew family by remembering the helpful rhyme "Leaves of three, let it be" | poison ivy
+right: Faith
+Wrong: 
+Value: $800
+Number: 2
+MAMMA MIA! | The mother of the gods Hoder & Balder | Freya (or Frigg)
+right: Brian
+Wrong: 
+Value: $800
+Number: 6
+"PRIVATE" LIVES | A PFC in the Marine Corps | a private first class
+right: Brian
+Wrong: 
+Value: $800
+Number: 12
+ON BROADWAY | Billy Crudup merited the role of John Merrick in the 2002 revival of this drama | 
+right: Faith
+Wrong: 
+Value: $800
+Number: 17
+OKLAHOMA! | The U.S. acquired the vast majority of Oklahoma's territory as part of this 1803 transaction | the Louisiana Purchase
+right: Brian
+Wrong: 
+Value: $1200
+Number: 28
+SWEET SMELL OF SUCCESS | This political patriarch's successful ventures included shipbuilding, RKO Pictures & Gloria Swanson | Joe Kennedy
+right: Faith
+Wrong: 
+Value: DD: $1,000
+Number: 23
+INTO THE WOODS | The name of this delicate fern may remind you of a lovely young woman's locks | maidenhair
+right: 
+Wrong: Triple Stumper
+Faith: What is angel hair ferns?
+Brian: What is maiden's hair?
+Katie: What is fiddlehead?
+Value: $1200
+Number: 3
+MAMMA MIA! | In Egyptian mythology, the mother of Horus | Isis
+right: Brian
+Wrong: 
+Value: $1200
+Number: 7
+"PRIVATE" LIVES | The business of a doctor run as an individual enterprise | private practice
+right: Brian
+Wrong: 
+Value: $1200
+Number: 13
+ON BROADWAY | The 2002 revival of "Morning's at Seven" featured this versatile actor who played Jim on "Taxi" | Christopher Lloyd
+right: Faith
+Wrong: 
+Value: $1200
+Number: 18
+OKLAHOMA! | Inside the National Cowboy & Western Museum in Oklahoma City you can find a hall of fame of this kind of contest | rodeo
+right: 
+Wrong: Triple Stumper
+Brian: What are shootouts or duels?
+Katie: What is bull riding?
+Value: $1600
+Number: 29
+SWEET SMELL OF SUCCESS | Henry Clay Frick organized a coke company in 1871 & was part of this giant company's formation 30 years later | U.S. Steel
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+INTO THE WOODS | (<http://www.j-archive.com/media/2002-11-27_DJ_04.jpg> Sarah of the Clue Crew gives the clue.) From the Latin for "across" & "breathe" this evaporation from rain forest leaves helps to regulate rainfall | transpiration
+right: Katie
+Wrong: 
+Value: $1600
+Number: 4
+MAMMA MIA! | The Italian mother of 3 French kings, Francis II, Charles IX & Henry III | Catherine de' Medici
+right: Brian
+Wrong: 
+Value: DD: $1,534
+Number: 8
+"PRIVATE" LIVES | The non-government-controlled part of the national economy | the private sector
+right: Faith
+Wrong: 
+Value: $1600
+Number: 14
+ON BROADWAY | Simone, the daughter of singer Nina Simone, took over the title role in this Elton John & Tim Rice show in 2002 | 
+right: Faith
+Wrong: 
+Value: $1600
+Number: 19
+OKLAHOMA! | Over 1,000 miles long, this "colorful" river forms most of Oklahoma's southern boarder | the Red River
+right: Brian
+Wrong: 
+Value: $2000
+Number: 30
+SWEET SMELL OF SUCCESS | This Viacom CEO started in business with his family's chain of 12 drive-in theaters | Sumner Redstone
+right: Katie
+Wrong: 
+Value: $2000
+Number: 25
+INTO THE WOODS | Woody plants like conifers that reproduce by means of exposed seeds are classified as these | gymnosperms
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+MAMMA MIA! | In the Bible, the mother of John the Baptist | Elizabeth
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 9
+"PRIVATE" LIVES | Not putting down at least 20% of a home's purchase price may force you to pay PMI, this | private mortgage insurance
+right: Faith
+Wrong: 
+Value: $2000
+Number: 15
+ON BROADWAY | I'll wear a bouffant 'do when I see the new musical based on this 1988 John Waters film, & I'm not teasing | Hairspray
+right: Brian
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Faith: $16,800
+Brian: $11,734
+Katie: $7,000
+
+Final Jeopardy! Round
+U.S. PRESIDENTS | 1 of the 3 U.S. Presidents to run on a third-party ticket after having already served as president | (one of) Teddy Roosevelt, Martin Van Buren & Millard Fillmore
+right: Katie
+Wrong: 
+Brian: Who was [scribble] Tyler
+Faith: Who is Wilson?
+Wagers: 
+Katie: $6,999
+Brian: $5,500
+Faith: $800
+Final scores:
+Faith: $16,000 (3-day champion: $35,401)
+Brian: $6,234 (3rd place: $1,000)
+Katie: $13,999 (2nd place: $2,000)
+
+Coryat scores
+Faith: $16,600 (22 R(including 2 DDs),1 W)
+Brian: $11,800 (16 R(including 1 DD),2 W)
+Katie: $7,000 (13 R,4 W)

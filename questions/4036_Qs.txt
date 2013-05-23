@@ -1,0 +1,347 @@
+6502 - Tuesday, December 18, 2012
+Contestants:
+Joe Emison: a chief technology officer from Asheville, North Carolina
+Kevin Moser: an attorney from Fort Wright, Kentucky
+Susan Jann: an operations coordinator from Bristol, Pennsylvania (whose 1-day cash winnings total $22,800)
+First Jeopardy! Round: SOCK IT TO ME, SPORTS TERMS, TENNESSEE'S WILLIAMS, "BLOCK" PARTY, EAT PREY, LOVE
+SOCK IT TO ME | This term for a teenage girl of the 1940s refers to ankle socks folded over at the top | bobby socks
+right: Kevin
+Wrong: 
+Value: $200
+Number: 15
+SPORTS TERMS | In basketball a helpful pass resulting in a score gets you this on the scoresheet | an assist
+right: Joe
+Wrong: 
+Value: $200
+Number: 7
+TENNESSEE'S WILLIAMS | In 1797 Tennessee's William Blount became the first man expelled from this body & its only member impeached by the House | the U.S. Senate
+right: 
+Wrong: Triple Stumper
+Susan: What is Tennessee Senate?
+Kevin: What is the House of Representatives?
+Joe: What is Congress?
+Value: $200
+Number: 26
+"BLOCK" PARTY | This company says it "has helped clients obtain nearly $50 billion in tax refunds" & other benefits | H&R Block
+right: Joe
+Wrong: 
+Value: $200
+Number: 2
+EAT PREY | <http://www.j-archive.com/media/2012-12-18_J_21.jpg> This bloodsucking insect preys on humans. Sleep tight | a bedbug
+right: Susan
+Wrong: 
+Value: $200
+Number: 21
+LOVE | This character speaks the line "Be but sworn my love, and I'll no longer be a Capulet" | Juliet
+right: Joe
+Wrong: 
+Value: $200
+Number: 1
+SOCK IT TO ME | Unlike most other kinds, tube socks aren't shaped to fit this part of your foot | the heel
+right: Susan
+Wrong: 
+Value: $400
+Number: 14
+SPORTS TERMS | (<http://www.j-archive.com/media/2012-12-18_J_08.wmv> Kelly of the Clue Crew walks on the beach at Bondi Beach in Sydney, Australia.) This basic swimming stroke used by lifesavers was pioneered in Australia during a rescue approach. It's modified to keep the head out of the water and the rescuer's eyes on the victim | the Australian crawl
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+TENNESSEE'S WILLIAMS | From 1913 to 1918 Chattanooga lawyer William McAdoo, this man's son-in-law, was also his Treasury secretary | Woodrow Wilson
+right: Susan
+Wrong: 
+Value: $400
+Number: 27
+"BLOCK" PARTY | It was Lucy's usual term of non-endearment directed at Charlie Brown | Blockhead
+right: Kevin
+Wrong: 
+Value: $400
+Number: 3
+EAT PREY | This "royal" predator of North America ran to about 40 feet long & 7 tons, but isn't around anymore | Tyrannosaurus rex
+right: Susan
+Wrong: 
+Value: $400
+Number: 22
+LOVE | In an 1850 poem he wrote, "'Tis better to have loved and lost than never to have loved at all" | Alfred Lord Tennyson
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+SOCK IT TO ME | 2-word term for an extra little Christmas gift; you can get some at the Starbucks store | a stocking stuffer
+right: Joe
+Wrong: 
+Value: $600
+Number: 11
+SPORTS TERMS | This term for a golf course is actually a Scottish word for sandy coastal land | links
+right: Joe
+Wrong: 
+Value: DD: $1,600
+Number: 9
+TENNESSEE'S WILLIAMS | Governor during reconstruction, William Brownlow mobilized the Tennessee guard to crush this then-new hate group | the Ku Klux Klan
+right: Joe
+Wrong: 
+Value: $600
+Number: 28
+"BLOCK" PARTY | A hit movie, or an aerial bomb weighing several tons | Blockbuster
+right: Susan
+Wrong: 
+Value: $600
+Number: 4
+EAT PREY | Don't tread on <http://www.j-archive.com/media/2012-12-18_J_23.jpg> this venomous predator seen <http://www.j-archive.com/media/2012-12-18_J_23a.jpg> here | a (western) rattlesnake
+right: Susan
+Wrong: 
+Value: $600
+Number: 23
+LOVE | A song by this composer says, "Birds do it, bees do it, even educated fleas do it, let's do it, let's fall in love" | Cole Porter
+right: 
+Wrong: Triple Stumper
+Joe: Who's Gershwin?
+Value: $600
+Number: 18
+SOCK IT TO ME | Originally green & white, these socks worn by the Campbell clan were named for a county in west Scotland | argyle
+right: Susan
+Wrong: 
+Joe: What is tartan?
+Value: $800
+Number: 12
+SPORTS TERMS | A cesta is the basket used to catch & throw the pelota, or ball, in this fast sport | jai alai
+right: Susan
+Wrong: 
+Value: $800
+Number: 10
+TENNESSEE'S WILLIAMS | In 1958 Tennessean William Anderson commanded this submarine on the first voyage under the North Pole's ice pack | the USS Nautilus
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+"BLOCK" PARTY | Occupational name for a type of wood-topped table | butcher's block
+right: Susan
+Wrong: 
+Value: $800
+Number: 5
+EAT PREY | One of the fiercest predators of penguins is the leopard variety of this mammal | a seal
+right: Susan
+Wrong: 
+Value: $800
+Number: 24
+LOVE | In "The Prophet" he wrote, "Love one another, but make not a bond of love: let it rather be a moving sea" | Kahlil Gibran
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+SOCK IT TO ME | In 1931 ankle socks caused a sensation when Mrs. Fernley-Whittingstall wore them playing this at Forest Hills | tennis
+right: Susan
+Wrong: 
+Value: $1000
+Number: 13
+SPORTS TERMS | This 6-letter German term means to make a straight downhill run on skis | schuss
+right: 
+Wrong: Triple Stumper
+Kevin: What is slalom?
+Joe: What is nordic?
+Value: $1000
+Number: 16
+TENNESSEE'S WILLIAMS | A real-life "Bones", forensic anthropologist William Bass founded the "Body Farm" at the U. of Tenn. in this city | Knoxville
+right: Joe
+Wrong: 
+Value: $1000
+Number: 30
+"BLOCK" PARTY | Alliterative term for a substance taken to reduce the heart rate or to prevent migraines | a beta blocker
+right: Joe
+Wrong: 
+Value: $1000
+Number: 6
+EAT PREY | Called the tiger of the sea, this streamlined ocean predator can be a threat to swimmers wearing shiny objects | a barracuda
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 25
+LOVE | Around 413 A.D. this church father declared, "Love and do what you will" | St. Augustine
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Susan: $4,400
+Kevin: $600
+Joe: $3,000
+Scores at the end of the Jeopardy! Round:
+Susan: $6,600
+Kevin: $400
+Joe: $2,800
+Second Jeopardy! Round: THE 12th CENTURY, GRAMMAR, THE P-51 MUSTANG, ARCHITECTURE, WOODY GUTHRIE, THIS ISLAND IS YOUR ISLAND
+THE 12th CENTURY | Tradition has it that the first stone for this Paris cathedral was laid in 1163 by Pope Alexander III | Notre Dame
+right: Joe
+Wrong: 
+Value: $400
+Number: 26
+GRAMMAR | In standard usage this equals a positive, so "I didn't do nothing" means "I did something" | a double negative
+right: Susan
+Wrong: 
+Value: $400
+Number: 25
+THE P-51 MUSTANG | The P-51 Mustang's reputation was so great, in the mid-'60s executives at this companv named a youth-oriented coupe after it | Ford
+right: Susan
+Wrong: 
+Value: $400
+Number: 1
+ARCHITECTURE | Pendentives are used to place this vaulted circular roof atop a square room | a dome
+right: Susan
+Wrong: 
+Value: $400
+Number: 14
+WOODY GUTHRIE | Woody had a Gibson one of these on which he placed the sticker that read, "This machine kills Fascists" | a guitar
+right: Kevin
+Wrong: 
+Value: $400
+Number: 7
+THIS ISLAND IS YOUR ISLAND | Majorca | Spain
+right: Susan
+Wrong: 
+Value: $400
+Number: 2
+THE 12th CENTURY | In 1181 this type of exploding star lit up the nighttime sky in Cassiopeia & remained visible for 185 days | a supernova
+right: Kevin
+Wrong: 
+Value: $800
+Number: 27
+GRAMMAR | In English exactly 3 words, with a total of 6 letters, represent this part of speech | the articles
+right: 
+Wrong: 
+Susan: What is a conjunction?
+Value: DD: $2,000
+Number: 24
+THE P-51 MUSTANG | The Mustang was the main fighter of this international organization when it began fighting the Korean War | the United Nations
+right: Kevin
+Wrong: 
+Value: $800
+Number: 8
+ARCHITECTURE | In a ribbed vault, the ribs provide support, or seem to, for this arachnid-sounding material between the ribs | webbing
+right: Joe
+Wrong: 
+Value: $800
+Number: 15
+WOODY GUTHRIE | Woody didn't like bosses, but this "Boss" gave a speech honoring him at 2012's South by Southwest music festival | Springsteen
+right: Joe
+Wrong: 
+Value: $800
+Number: 10
+THIS ISLAND IS YOUR ISLAND | Mindanao | the Philippines
+right: Susan
+Wrong: 
+Value: $800
+Number: 3
+THE 12th CENTURY | Berthold V founded this future Swiss capital in 1191 as a military post on the Aare river | Bern
+right: Kevin
+Wrong: 
+Value: $1200
+Number: 30
+GRAMMAR | Some grammar mavens complain about the use of "hopefully" as a sentence one of these, modifying the whole sentence | an adverb
+right: Susan
+Wrong: 
+Kevin: What is a clause?
+Value: $1200
+Number: 23
+THE P-51 MUSTANG | This sound barrier breaker flew a Mustang for most of his 12.5 aerial kills during World War II | (Chuck) Yeager
+right: Susan
+Wrong: 
+Value: $1200
+Number: 9
+ARCHITECTURE | As in the home seen <http://www.j-archive.com/media/2012-12-18_DJ_16.jpg> here, Desert Modernism thrived in the mid-20th century in this California desert city | Palm Springs
+right: Susan
+Wrong: 
+Value: $1200
+Number: 16
+WOODY GUTHRIE | The aging, ailing Woody was visited by Joan Baez & other stars in the early-'60s revival of this 4-letter style of music | folk music
+right: Kevin
+Wrong: 
+Value: $1200
+Number: 11
+THIS ISLAND IS YOUR ISLAND | Hispaniola (2, please) | Haiti and the Dominican Republic
+right: Susan
+Wrong: 
+Value: $1200
+Number: 4
+THE 12th CENTURY | One of the first books on this branch of medicine also practiced by barbers advocated molten lard | surgery
+right: Susan
+Wrong: 
+Value: $1600
+Number: 28
+GRAMMAR | To change a sentence from active to passive voice, you usually add a form of this common verb | to be
+right: Susan
+Wrong: 
+Value: $1600
+Number: 22
+THE P-51 MUSTANG | Often flying P-51 Mustangs, this distinguished African-American unit flew more than 1,500 missions during WWII | the Tuskegee Airmen
+right: Kevin
+Wrong: 
+Value: $1600
+Number: 19
+ARCHITECTURE | Recipients of the Pritzker Prize receive a medallion based on designs by this Chicagoan, the "Father of the Skyscraper" | Louis Sullivan
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 17
+WOODY GUTHRIE | In May 1939 Guthrie began writing his column "Woody Sez" for People's World, this party's newspaper | the Communist Party
+right: Joe
+Wrong: 
+Value: $1600
+Number: 12
+THIS ISLAND IS YOUR ISLAND | Sakhalin | Russia
+right: Susan
+Wrong: 
+Value: $1600
+Number: 5
+THE 12th CENTURY | This queen of France was divorced from Louis VII in March 1152 & married Henry Plantagenet 2 months later | Eleanor of Aquitaine
+right: 
+Wrong: 
+Susan: Who is Catherine of Aragon?
+Value: DD: $1,500
+Number: 29
+GRAMMAR | In "Der Ring Des Nibelungen", the -en ending indicates this grammatical case, also called the genitive | the possessive
+right: Kevin
+Wrong: 
+Value: $2000
+Number: 21
+THE P-51 MUSTANG | In 1944 the <http://www.j-archive.com/media/2012-12-18_DJ_20.jpg> P-51 gave the Luftwaffe hell with its new visibility-maximizing type of <http://www.j-archive.com/media/2012-12-18_DJ_20a.jpg> canopy named for this fragile object | a bubble
+right: Joe
+Wrong: 
+Value: $2000
+Number: 20
+ARCHITECTURE | Inigo Jones restored St. Paul's cathedral from 1633 to 1642, before it burned & was rebuilt by this man | Christopher Wren
+right: Kevin
+Wrong: 
+Value: $2000
+Number: 18
+WOODY GUTHRIE | Guthrie took the title for this 1943 autobiography from one of his songs about a train | Bound for Glory
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+THIS ISLAND IS YOUR ISLAND | MacKenzie King Island | Canada
+right: Susan
+Wrong: 
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Susan: $17,100
+Kevin: $9,200
+Joe: $8,400
+
+Final Jeopardy! Round
+PEOPLE IN BRITISH HISTORY | In 1805 the second in command to this hero said, "I wish (he) would stop signaling. We all know what we have to do" | (Horatio) Nelson
+right: Joe | Kevin | Susan
+Wrong: 
+Wagers: 
+Joe: $8,400
+Kevin: $9,000
+Susan: $2,500
+Final scores:
+Susan: $19,600 (2-day champion: $42,400)
+Kevin: $18,200 (2nd place: $2,000)
+Joe: $16,800 (3rd place: $1,000)
+
+Coryat scores
+Susan: $20,600 (24 R,3 W(including 2 DDs))
+Kevin: $9,200 (11 R,3 W)
+Joe: $7,400 (13 R(including 1 DD),4 W)

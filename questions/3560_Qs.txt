@@ -1,0 +1,350 @@
+6073 - Wednesday, January 26, 2011
+Comments: IBM Challenge mini-documentary: "What is a Grand Challenge?"
+Contestants:
+Ryan Nelson: a law student originally from Tampa, Florida
+Tom Jennings: a maintenance mechanic from Philadelphia, Pennsylvania
+Gitta Neufeld: a Judaic teacher trainer from Far Rockaway, New York (whose 1-day cash winnings total $18,300)
+First Jeopardy! Round: THE WRITER, THE PERFORMER, THE DIRECTOR, THE CAMERA MAN, THE PRODUCER, "ACTION"!
+THE WRITER | In 2010 he hit the shelves with his legal thriller "The Confession" | (John) Grisham
+right: Tom
+Wrong: 
+Ryan: Who is Clancy?
+Value: $200
+Number: 1
+THE PERFORMER | Patton Oswalt cooked up the voice of Remy the Rodent in this 2007 Pixar film | Ratatouille
+right: Ryan
+Wrong: 
+Value: $200
+Number: 16
+THE DIRECTOR | J. Edgar Hoover became the first director of the new FBI on March 22, 1935, serving this president | FDR
+right: Tom
+Wrong: 
+Value: $200
+Number: 21
+THE CAMERA MAN | Life magazine photographer Alfred Eisenstaedt snapped a sailor kissing a nurse on the August 1945 day known as this | V-J Day
+right: Gitta
+Wrong: 
+Tom: What is D-Day?
+Value: $200
+Number: 26
+THE PRODUCER | "Ho, ho, ho!"  This jolly guy has appeared in ads for vegetables since 1928; the company was named for him in 1950 | the Jolly Green Giant
+right: Ryan
+Wrong: 
+Value: $200
+Number: 11
+"ACTION"! | I try, & I try, but I can't get no this word meaning an act of gratification | satisfaction
+right: Tom
+Wrong: 
+Value: $200
+Number: 6
+THE WRITER | In 1936 this Jazz Age author detailed his physical & spiritual collapse in "The Crack-Up" | Fitzgerald
+right: Tom
+Wrong: 
+Value: $400
+Number: 2
+THE PERFORMER | From 1960 to 2010 Don Hastings played Bob Hughes on this "global" CBS soap opera | As the World Turns
+right: Gitta
+Wrong: 
+Value: $400
+Number: 17
+THE DIRECTOR | Born in this city in 1895, J. Edgar Hoover graduated from its National University law school in 1917 | Washington
+right: Tom
+Wrong: 
+Value: $400
+Number: 22
+THE CAMERA MAN | Certain Robert Mapplethorpe photos caused Congress to enact restrictions on grants given by this body | the NEA (National Endowment for the Arts)
+right: Tom
+Wrong: 
+Value: $400
+Number: 27
+THE PRODUCER | Robert Chesebrough produced a clear petroleum jelly & started selling it under this brand name in 1870 | Vaseline
+right: Tom
+Wrong: 
+Value: $400
+Number: 12
+"ACTION"! | A decrease in economic activity; I couldn't bear it!  I can't!  I won't!  I shan't! | a contraction
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+THE WRITER | Peru's version of "Super Mario", he won the 2010 Nobel Prize for Literature | Mario Vargas Llosa
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+THE PERFORMER | Esai Morales lawyered up as Edward James Olmos' dad, Joseph Adama, in this "Battlestar Galactica" prequel | Caprica
+right: Gitta
+Wrong: 
+Value: $600
+Number: 18
+THE DIRECTOR | Hoover's many innovations included establishing a national bank for these biometric identifiers | fingerprints
+right: Tom
+Wrong: 
+Value: $600
+Number: 23
+THE CAMERA MAN | John Filo, an undergrad at this Ohio school, won a 1971 Pulitzer after getting an iconic photo of a slain classmate | Kent State
+right: Gitta
+Wrong: 
+Value: $600
+Number: 28
+THE PRODUCER | "Choosy moms choose" this brand of peanut butter | Jif
+right: Ryan
+Wrong: 
+Value: $600
+Number: 13
+"ACTION"! | 2-word "atomic" term for a series of events in which each event is the result of the one preceding & the cause of the next | a chain reaction
+right: Gitta
+Wrong: 
+Value: $600
+Number: 8
+THE WRITER | Muriel Spark's 1961 novel about an eccentric Edinburgh teacher detailed "The Prime of Miss" this | Miss Jean Brodie
+right: Gitta
+Wrong: 
+Value: $800
+Number: 4
+THE PERFORMER | J.K. Simmons, seriously evil in "Oz", brought it down to "not so nice" as publisher J. Jonah Jameson in this 2002 film | Spider-Man
+right: Ryan
+Wrong: 
+Value: $800
+Number: 19
+THE DIRECTOR | In the 1960s Hoover expanded his COINTELPRO plan to harass & disrupt this Southern extremist white power group | the KKK (Ku Klux Klan)
+right: Tom
+Wrong: 
+Value: $800
+Number: 24
+THE CAMERA MAN | Steve McCurry took a photo of an Afghan girl for this venerated magazine in 1984, then reunited with her 17 years later | National Geographic
+right: Ryan
+Wrong: 
+Tom: What is Life?
+Value: $800
+Number: 29
+THE PRODUCER | This brand's Wienermobile dates back to 1936 | Oscar Mayer
+right: Ryan
+Wrong: 
+Value: $800
+Number: 14
+"ACTION"! | Rotting, or the anaerobic decomposition of organic matter by bacteria | putrefaction
+right: Gitta
+Wrong: 
+Value: $800
+Number: 9
+THE WRITER | This man who penned "A la recherche du temps perdu" suffered from asthma | Marcel Proust
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THE PERFORMER | This "Some Like It Hot" co-star who died in 2010 turned to Matisse-influenced art in later years | Tony Curtis
+right: Gitta
+Wrong: 
+Tom: Who is Lemmon?
+Value: $1000
+Number: 20
+THE DIRECTOR | Among those Hoover's FBI tracked down & killed was this young-looking brute, in November 1934 | "Baby Face" Nelson
+right: Gitta
+Wrong: 
+Value: $1000
+Number: 25
+THE CAMERA MAN | He told the Warren Commission of a nightmare in which his film plays out until its violent end & he snaps awake | Abraham Zapruder
+right: 
+Wrong: 
+Ryan: Who is McCarthy?
+Value: DD: $1,000
+Number: 30
+THE PRODUCER | This superpremium ice cream brand produces a line called Five--with only (you guessed it) 5 ingredients | Häagen-Dazs
+right: Gitta
+Wrong: 
+Value: $1000
+Number: 15
+"ACTION"! | For federal contracts, this 2-word employment term was first used in an order issued by JFK in 1961 | affirmative action
+right: Tom
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Gitta: $3,200
+Tom: $2,200
+Ryan: $1,400
+Scores at the end of the Jeopardy! Round:
+Gitta: $7,000
+Tom: $2,600
+Ryan: $2,200
+Second Jeopardy! Round: CONSTELLATIONS, 1980s NO. 1 HITMAKERS, IN CRISIS MODE, ALPHABETICALLY FIRST, ART QUOTES, "C" IT, SAY IT
+CONSTELLATIONS | The star Arcturus is known as the "bear guard" because it guards this constellation | Ursa Major
+right: Gitta
+Wrong: 
+Value: $400
+Number: 1
+1980s NO. 1 HITMAKERS | 1981: "Kiss On My List"; they had 2 other No. 1s that year | Hall & Oates
+right: Tom
+Wrong: 
+Value: $400
+Number: 3
+IN CRISIS MODE | One of the "Six Crises" Richard Nixon faced in his book of that title was this president's heart attack | Eisenhower
+right: Gitta
+Wrong: 
+Value: $400
+Number: 22
+ALPHABETICALLY FIRST | Of the numbers 1-10 spelled out | eight
+right: Tom
+Wrong: 
+Value: $400
+Number: 2
+ART QUOTES | In the 1959 book "Cubism", he is quoted as saying, "I paint objects as I think them, not as I see them" | Picasso
+right: Gitta
+Wrong: 
+Ryan: Who is Dalí?
+Value: $400
+Number: 26
+"C" IT, SAY IT | Attach <http://www.j-archive.com/media/2011-01-26_DJ_12.jpg> this to your date on your way to the prom | a corsage
+right: Tom
+Wrong: 
+Value: $400
+Number: 12
+CONSTELLATIONS | First named in 1603, Columba is also known as "Noah's" this, the bird that returned to the ark with an olive leaf | the dove
+right: Tom
+Wrong: 
+Value: $800
+Number: 8
+1980s NO. 1 HITMAKERS | 1988: "Look Away"; a groove from this pop-rock group with an urban name | Chicago
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+IN CRISIS MODE | As part of this crisis, JFK announced a naval blockade Oct. 22, 1962 | the Cuban Missile Crisis
+right: Ryan
+Wrong: 
+Value: $800
+Number: 21
+ALPHABETICALLY FIRST | Of the Jovian planets | Jupiter
+right: Ryan
+Wrong: 
+Gitta: What is Io?
+Value: $800
+Number: 17
+ART QUOTES | In 1888 he wrote to his brother Theo, "I cannot help it that my paintings do not sell" | Van Gogh
+right: Tom
+Wrong: 
+Value: $800
+Number: 27
+"C" IT, SAY IT | The name of <http://www.j-archive.com/media/2011-01-26_DJ_13.jpg> this drinking vessel comes from the Latin for "cup" | a chalice
+right: Ryan
+Wrong: 
+Value: $800
+Number: 13
+CONSTELLATIONS | Musca, or "the fly", was originally called Apis for this insect | the bee
+right: Tom
+Wrong: 
+Value: $1200
+Number: 9
+1980s NO. 1 HITMAKERS | 1984: "Footloose"; kick off your Sunday shoes with this bearded guy | (Kenny) Loggins
+right: Tom
+Wrong: 
+Value: $1200
+Number: 5
+IN CRISIS MODE | It began Nov. 4, 1979 & lasted 444 days | hostages in Iran
+right: Tom
+Wrong: 
+Ryan: What is Iran-Contra?
+Value: $1200
+Number: 23
+ALPHABETICALLY FIRST | Of presidents who died in office | Garfield
+right: 
+Wrong: 
+Ryan: Who is Kennedy?
+Value: DD: $3,000
+Number: 18
+ART QUOTES | The New York Times reported he said, "If the public dislikes one of my Post covers, I can't help disliking it myself" | Norman Rockwell
+right: Gitta
+Wrong: 
+Value: $1200
+Number: 28
+"C" IT, SAY IT | Some of <http://www.j-archive.com/media/2011-01-26_DJ_14.jpg> these small engravings date as far back as the 3rd century B.C. | cameos
+right: Gitta
+Wrong: 
+Value: $1200
+Number: 14
+CONSTELLATIONS | Vega is the main star of this constellation with the Latin name of an instrument | Lyra
+right: 
+Wrong: Triple Stumper
+Gitta: What is Viola?
+Value: $1600
+Number: 10
+1980s NO. 1 HITMAKERS | 1984: "Against All Odds (Take A Look At Me Now)"; do you have the genesis of an idea about him? | Phil Collins
+right: Tom
+Wrong: 
+Value: $1600
+Number: 6
+IN CRISIS MODE | Speculative attacks on the Baht triggered this continent's financial crisis of 1997-98 | Asia
+right: Ryan
+Wrong: 
+Value: $1600
+Number: 24
+ALPHABETICALLY FIRST | Of the colors of the Olympic rings | black
+right: Ryan
+Wrong: 
+Tom: What is blue?
+Value: $1600
+Number: 19
+ART QUOTES | John Singer Sargent reportedly said, "Every time I paint" this type of work, "I lose a friend" | a portrait
+right: Gitta
+Wrong: 
+Value: $1600
+Number: 29
+"C" IT, SAY IT | (<http://www.j-archive.com/media/2011-01-26_DJ_15.wmv> Kelly of the Clue Crew uses paper cups & sheets of paper to demonstrate.) There is little support on one horizontal surface; however, with the load distributed  among several vertical surfaces, you get much stronger support when the paper is ridged this way, from the Latin for "wrinkle" | corrugated
+right: Gitta
+Wrong: 
+Value: $1600
+Number: 15
+CONSTELLATIONS | An exquisite double star is part of the urn, or pitcher, in this constellation | Aquarius
+right: Tom
+Wrong: 
+Value: DD: $4,000
+Number: 11
+1980s NO. 1 HITMAKERS | 1988: "Wishing Well"; whatever happened to him?  He lives in Milan & goes by Sananda Maitreya | Terence Trent D'Arby
+right: Tom
+Wrong: 
+Value: $2000
+Number: 7
+IN CRISIS MODE | Bad feelings left by 1908's Bosnian crisis, in which this dual monarchy annexed Bosnia, helped start WWI | Austria-Hungary
+right: Gitta
+Wrong: 
+Value: $2000
+Number: 25
+ALPHABETICALLY FIRST | Of South Africa's 3 national capitals | Bloemfontein
+right: Tom
+Wrong: 
+Gitta: What is Johannesburg?
+Value: $2000
+Number: 20
+ART QUOTES | He said, "One night I dreamt I painted a large American flag, and the next morning I... bought the materials to begin it" | Jasper Johns
+right: Tom
+Wrong: 
+Value: $2000
+Number: 30
+"C" IT, SAY IT | <http://www.j-archive.com/media/2011-01-26_DJ_16.jpg> This large flightless ratite is found on New Guinea & nearby islands | the cassowary
+right: Tom
+Wrong: 
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Gitta: $11,400
+Tom: $21,000
+Ryan: $3,200
+
+Final Jeopardy! Round
+AFRICA | Its Declaration of Independence was signed in 1847 by 11 men in that nation's Providence Baptist Church | Liberia
+right: Ryan | Gitta | Tom
+Wrong: 
+Wagers: 
+Ryan: $1,200
+Gitta: $100
+Tom: $3,000
+Final scores:
+Gitta: $11,500 (2nd place: $2,000)
+Tom: $24,000 (New champion: $24,000)
+Ryan: $4,400 (3rd place: $1,000)
+
+Coryat scores
+Gitta: $11,400 (18 R,3 W)
+Tom: $19,000 (24 R(including 1 DD),4 W)
+Ryan: $7,200 (11 R,5 W(including 2 DDs))

@@ -1,0 +1,337 @@
+3398 - Wednesday, May 19, 1999
+Comments: 1999-A Celebrity <i>Jeopardy!</i> game 3.
+Contestants:
+Richard Kind: an actor from Spin City
+Camryn Manheim: an actress from The Practice
+Michael McKean: an actor and comic from Uncomfortably Close with Michael McKean
+First Jeopardy! Round: FINISH THE LINE, HAPPY BIRTHDAY TO US, TARZAN'S ZOO, NAME THE MUSICAL, THE SILVER SCREEN, "S" WORDS
+FINISH THE LINE | The Beatles: "Yesterday all my troubles seemed..." | so far away
+right: Camryn
+Wrong: 
+Value: $100
+Number: 14
+TARZAN'S ZOO | To Tarzan, kal was milk & kalo was this source of milk | cow
+right: Michael
+Wrong: 
+Value: $100
+Number: 19
+NAME THE MUSICAL | "Let the Sunshine in" | Hair
+right: Richard
+Wrong: 
+Value: $100
+Number: 12
+THE SILVER SCREEN | Jay Silverheels played this pal of the Lone Ranger on film as well as TV | Tonto
+right: Michael
+Wrong: 
+Value: $100
+Number: 2
+"S" WORDS | John H. Breck was largely responsible for bringing this liquid into American showers | shampoo
+right: Michael
+Wrong: 
+Value: $100
+Number: 11
+FINISH THE LINE | President Bush: "Read my lips..." | no new taxes
+right: Michael
+Wrong: 
+Camryn: What is no more taxes?
+Value: $200
+Number: 15
+HAPPY BIRTHDAY TO US | Did you ever notice that Faye Dunaway & this curmudgeonly "60 Minutes" commentator were both born Jan. 14? | Andy Rooney
+right: Michael
+Wrong: 
+Value: $200
+Number: 28
+TARZAN'S ZOO | Tarzan despised Dango, this animal, maybe thinking it was laughing at him | hyena
+right: Richard
+Wrong: 
+Value: $200
+Number: 20
+NAME THE MUSICAL | "Bali Ha'i" | South Pacific
+right: Michael
+Wrong: 
+Value: $200
+Number: 9
+THE SILVER SCREEN | You should know that she played Batgirl in "Batman & Robin" -- unless you're "Clueless" | Alicia Silverstone
+right: Michael
+Wrong: 
+Value: $200
+Number: 3
+"S" WORDS | Aba-ebi in Japanese, this sushi ingredient must be extremely fresh to be served raw | shrimp
+right: Michael
+Wrong: 
+Value: $200
+Number: 18
+FINISH THE LINE | Your mom: "Penny wise..." | pound foolish
+right: Richard
+Wrong: 
+Value: $300
+Number: 16
+HAPPY BIRTHDAY TO US | This jazz queen could have scatted "Happy Birthday" for herself & Al Pacino on their birthday, April 25 | Ella Fitzgerald
+right: Michael
+Wrong: 
+Richard: Who is Aretha Franklin?
+Value: $300
+Number: 27
+NAME THE MUSICAL | "The Music of the Night" | Phantom of the Opera
+right: Richard
+Wrong: 
+Value: $300
+Number: 8
+THE SILVER SCREEN | Rent the 1978 film "Silver Bears" & you'll see this "Tonight Show" host playing a mafioso's son | Jay Leno
+right: Michael
+Wrong: 
+Value: $300
+Number: 4
+"S" WORDS | Famous ones have included Telstar, Milstar & Navstar | satellites
+right: Richard
+Wrong: 
+Value: $300
+Number: 23
+FINISH THE LINE | An advertising slogan: "Pork the Other..." | White Meat
+right: Camryn
+Wrong: 
+Richard: What is meat?
+Value: $400
+Number: 17
+HAPPY BIRTHDAY TO US | Robert Urich & this "Flashdance"r should head to Vegas December 19 for a birthday bash | Jennifer Beals
+right: Richard
+Wrong: 
+Value: $400
+Number: 26
+TARZAN'S ZOO | Tarzan knew someone was at death's door when he saw a group of ska, these birds, circling overhead | vultures
+right: Richard
+Wrong: 
+Camryn: What are hawks?
+Value: $400
+Number: 22
+NAME THE MUSICAL | "Luck Be a Lady" | Guys and Dolls
+right: Richard
+Wrong: 
+Camryn: What is...[time]?
+Value: $400
+Number: 7
+THE SILVER SCREEN | The fact that this singing cowboy starred in "Silver Spurs" should "Trigger" your memory | Roy Rogers
+right: Richard
+Wrong: 
+Value: $400
+Number: 5
+"S" WORDS | It's someone whose job is carrying your bags at an airport | skycap
+right: Michael
+Wrong: 
+Value: $400
+Number: 21
+FINISH THE LINE | Helen Reddy: "I am woman..." | hear me roar
+right: Richard
+Wrong: 
+Value: $500
+Number: 24
+HAPPY BIRTHDAY TO US | Corbin Bernsen & this "I Will Survive" singer have survived many birthdays on September 7 | Gloria Gaynor
+right: Richard
+Wrong: 
+Value: $500
+Number: 25
+TARZAN'S ZOO | Tarzan can tell Numa, the male of this cat species, from Sabor, the female, by its thick mane | lion
+right: Richard
+Wrong: 
+Value: $500
+Number: 10
+NAME THE MUSICAL | "Seasons of Love" | Rent
+right: Camryn
+Wrong: 
+Value: $500
+Number: 6
+THE SILVER SCREEN | This 1985 western starred 2 Kevins: Kline & Costner | Silverado
+right: Michael
+Wrong: 
+Value: DD: $500
+Number: 1
+"S" WORDS | A complete sentence needs a predicate & one of these | subject
+right: Michael
+Wrong: 
+Value: $500
+Number: 13
+Scores at the first commercial break (after clue 15)
+Michael: $2,100
+Camryn: $0
+Richard: $1,700
+Scores at the end of the Jeopardy! Round:
+Michael: $3,300
+Camryn: $0
+Richard: $3,600
+Second Jeopardy! Round: IT WAS THE '70s, WHICH CAME FIRST?, FILE UNDER "H", LAS VEGAS, TELEVISION, SWORDS
+IT WAS THE '70s | "Y.M.C.A." was a big hit for this group that included a biker, a cowboy & a hard hat | The Village People
+right: Michael
+Wrong: 
+Value: $200
+Number: 2
+WHICH CAME FIRST? | "Maude", "The Jeffersons", "All in the Family" | All in the Family
+right: Michael
+Wrong: 
+Value: $200
+Number: 1
+FILE UNDER "H" | It's something called a mouth organ | harmonica
+right: Richard
+Wrong: 
+Value: $200
+Number: 25
+LAS VEGAS | It's the legal gambling age in Vegas, or a popular card game | 21
+right: Richard
+Wrong: 
+Value: $200
+Number: 16
+TELEVISION | It's the first word spoken in the opening title sequence on the original "Star Trek" series | Space
+right: Michael
+Wrong: 
+Value: $200
+Number: 8
+SWORDS | At this 2-word command at the start of a fencing match, raise your sword toward your opponent | en garde
+right: Richard
+Wrong: 
+Camryn: I have no idea... I'm just so happy my thing worked!
+Value: $200
+Number: 26
+IT WAS THE '70s | A June 23, 1972 tape on which Nixon discussed a Watergate cover-up was called this type of "gun" | smoking gun
+right: Richard
+Wrong: 
+Value: $400
+Number: 3
+WHICH CAME FIRST? | Woodrow Wilson, Dwight D. Eisenhower, James Garfield | James Garfield
+right: Richard
+Wrong: 
+Value: $400
+Number: 23
+FILE UNDER "H" | In 1997 the comet Hale-Bopp soared through our skies & this group soared up the charts with "Mmmbop" | Hanson
+right: Michael
+Wrong: 
+Value: $400
+Number: 24
+LAS VEGAS | You don't have to go to Egypt to see a pyramid, just check out this hotel on the strip | the Luxor
+right: Michael
+Wrong: 
+Value: $400
+Number: 15
+TELEVISION | Dang!  This actor rode to success as TV's Sam McCloud | Dennis Weaver
+right: Michael
+Wrong: 
+Value: $400
+Number: 7
+SWORDS | If you're known for repartee, you have the type of "wit" named for this narrow-bladed sword | rapier
+right: Michael
+Wrong: 
+Value: $400
+Number: 27
+IT WAS THE '70s | The last names of bestselling authors Arthur & Alex were both pronounced this way | Hailey/Haley
+right: Richard
+Wrong: 
+Value: $600
+Number: 11
+WHICH CAME FIRST? | Arizona statehood, Ohio statehood, Alaska statehood | Ohio statehood
+right: Richard
+Wrong: 
+Value: $600
+Number: 22
+FILE UNDER "H" | A little over 5 feet tall & weighing up to 8,000 pounds, this hoofed mammal spends its days in the water | hippopotamus
+right: Michael
+Wrong: 
+Value: $600
+Number: 21
+LAS VEGAS | At the Mirage Hotel, these illusionists appear in what Time magazine has dubbed "The Show of the Century" | Siegfried and Roy
+right: Michael
+Wrong: 
+Value: $600
+Number: 13
+TELEVISION | Kevin James plays sports-crazed, blue-collar working stiff Doug Heffernan on this "royal" CBS sitcom | The King of Queens
+right: Richard
+Wrong: 
+Value: $600
+Number: 6
+SWORDS | An extinct "tiger" got its name from teeth that resembled this fencing sword | saber
+right: Richard
+Wrong: 
+Value: $600
+Number: 28
+IT WAS THE '70s | "All I ask is" this type of vessel that helped NYC celebrate the Bicentennial "and a star to steer her by" | tall ship
+right: Michael
+Wrong: 
+Value: $800
+Number: 10
+WHICH CAME FIRST? | The Rolling Stones, The Dave Clark Five, The Beatles | The Beatles
+right: Richard
+Wrong: 
+Value: DD: $2,000
+Number: 18
+FILE UNDER "H" | Kanchenjunga, Annapurna I & Nanga Parbat are peaks in this mountain range | the Himalayas
+right: Michael
+Wrong: 
+Value: $800
+Number: 19
+LAS VEGAS | In 1997 this gangster's mug appeared on gaming chips celebrating the Flamingo Hilton's 50th anniversary | Bugsy Siegel
+right: Michael
+Wrong: 
+Value: $800
+Number: 12
+TELEVISION | (Hi everybody, I'm Brandy!)  In the TV movie "Cinderella", I played Cinderella & this singer played my fairy godmother | Whitney Houston
+right: Richard
+Wrong: 
+Value: DD: $2,000
+Number: 5
+SWORDS | The swords the Romans & Vikings used had this quality which could probably work for them or against them | double-edged
+right: Michael
+Wrong: 
+Value: $800
+Number: 29
+IT WAS THE '70s | From the Spanish for "to hinder", one of these hindered U.S. motorists when Arab states imposed it on oil | embargo
+right: Richard
+Wrong: 
+Value: $1000
+Number: 9
+WHICH CAME FIRST? | Catherine the Great, Constantine the Great, Ivan the Great | Constantine the Great
+right: Richard
+Wrong: 
+Value: $1000
+Number: 17
+FILE UNDER "H" | '50s TV puppet that's the subject of a 1999 custody battle between the D.I.A. & its owner's heirs | Howdy Doody
+right: Richard
+Wrong: 
+Value: $1000
+Number: 20
+LAS VEGAS | It's a short trip from New York-New York to Detroit & the home cooking of this music-themed cafe | the Motown Cafe
+right: 
+Wrong: Triple Stumper
+Michael: What is the Hard Rock Cafe?
+Value: $1000
+Number: 14
+TELEVISION | Howard Hesseman spun out the tunes as this hip "medical" deejay on "WKRP in Cincinnati" | Dr. Johnny Fever
+right: Richard
+Wrong: 
+Value: $1000
+Number: 4
+SWORDS | The name of this highly curved, highly deadly sword comes from the Persian shamshir | scimitar
+right: Camryn
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Michael: $8,900
+Camryn: $800
+Richard: $15,400
+
+Final Jeopardy! Round
+INTERNATIONAL SPORTS | Jan Ullrich, the only German ever to win this event, has been nicknamed "Der Tourminator" | the Tour de France
+right: Michael
+Wrong: 
+Camryn: What is the Decathelon? ( I hope)
+Richard: What is the Decathelon?
+Wagers: 
+Camryn: $799
+Michael: $6,500
+Richard: $3,000
+Final scores:
+Michael: $15,400 (Winner: $15,400 for the Multiple Sclerosis Society)
+Camryn: $1 (3rd place: $10,000 for the International Rescue Committee)
+Richard: $12,400 (2nd place: $12,400 for City of Hope)
+
+Coryat scores
+Michael: $8,900 (26 R(including 1 DD),1 W)
+Camryn: $800 (4 R,4 W)
+Richard: $13,000 (27 R(including 2 DDs),2 W)

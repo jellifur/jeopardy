@@ -1,0 +1,342 @@
+4646 - Monday, November 15, 2004
+Comments: 2004 College Championship quarterfinal game 4.
+Contestants:
+Lindsey Hargrove: a senior at the University of Texas from Bellaire, Texas
+Ari Schoenholtz: a senior at Williams College from Bethesda, Maryland
+Lily Wang: a junior at Columbia University from Plano, Texas
+First Jeopardy! Round: PITTSTORY, NONMUSICAL MTV, HORNED ANIMALS, FRATERNITY SUIT, POETRY, WHAT'S THAT WORD...?
+PITTSTORY | In 1811 the first of these to ply the Ohio River was built in Pittsburgh--the New Orleans, named for where it was headed | a steamboat
+right: Lily
+Wrong: 
+Value: $200
+Number: 1
+NONMUSICAL MTV | This show that debuted in '02 has cursing by mom, dad, son & daughter, & dogs that aren't housebroken | The Osbournes
+right: Lindsey
+Wrong: 
+Value: $200
+Number: 3
+HORNED ANIMALS | This animal's horns, seen <http://www.j-archive.com/media/2004-11-15_J_11.jpg> here, are made entirely of keratin, a fibrous hair protein | the rhinoceros
+right: Lily
+Wrong: 
+Value: $200
+Number: 11
+FRATERNITY SUIT | He was a Teke, a Tau Kappa Epsilon, & founded a hotel chain, but you probably just know him as Paris' great-granddad | Conrad Hilton
+right: 
+Wrong: Triple Stumper
+Ari: Who was Hilton?
+Value: $200
+Number: 16
+POETRY | Ogden Nash said these people were "Tinglish" | the English
+right: Lily
+Wrong: 
+Value: $200
+Number: 26
+WHAT'S THAT WORD...? | …that means of secondary importance: A. ancillary B. fiduciary C. habilimentary D. pecuniary | ancillary
+right: Lily
+Wrong: 
+Value: $200
+Number: 18
+PITTSTORY | It's the geographically appropriate name of the Pittsburgh landmark seen <http://www.j-archive.com/media/2004-11-15_J_02.jpg> here on Feb. 11, 2001 | Three Rivers Stadium
+right: Ari
+Wrong: 
+Value: $400
+Number: 2
+NONMUSICAL MTV | On "Newlyweds", Nick Lachey had to explain to her that Chicken of the Sea is actually fish | Jessica Simpson
+right: Lily
+Wrong: 
+Value: $400
+Number: 4
+HORNED ANIMALS | Though closely related to sheep, this animal has a beard & its horns are not spirally twisted | a goat
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 12
+FRATERNITY SUIT | Nike founder Phil Knight went tropical at Oregon by joining Phi Gamma Delta, known by this "national" name | the Fijis
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 17
+POETRY | It's "burning bright in the forests of the night" | Tyger, Tyger
+right: Ari
+Wrong: 
+Value: $400
+Number: 27
+WHAT'S THAT WORD...? | …that means to perplex: A. acrimonious B. congruous C. nonplus D. tremulous | nonplus
+right: Ari
+Wrong: 
+Value: $400
+Number: 19
+PITTSTORY | In 1753 this Virginian with a future in politics said the area was "extremely well situated for a fort" | George Washington
+right: Lily
+Wrong: 
+Value: $600
+Number: 5
+NONMUSICAL MTV | Each season, 7 strangers share a home, as well as their lives, loves & libidos, on this long-running series | The Real World
+right: Lindsey
+Wrong: 
+Value: $600
+Number: 7
+HORNED ANIMALS | Life is unfair for the males of this animal, seen <http://www.j-archive.com/media/2004-11-15_J_13.jpg> here; they're bald on top of their horns, while the female has hair | a giraffe
+right: Lily
+Wrong: 
+Value: $600
+Number: 13
+FRATERNITY SUIT | An Alpha Sigma Phi at Penn, this Berkshire Hathaway man was worth a tidy $42.9 billion in '04 | Warren Buffett
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+POETRY | It's the mournful type of poem "written in a country churchyard by Thomas Gray | an elegy
+right: Lily
+Wrong: 
+Value: $600
+Number: 28
+WHAT'S THAT WORD...? | …that means face up: A. prostrate B. prone C. supine D. incline | supine
+right: Ari
+Wrong: 
+Value: $600
+Number: 20
+PITTSTORY | The photo of this national hero seen here was taken in Pittsburgh on August 3, 1927 | (Charles) Lindbergh
+right: Ari
+Wrong: 
+Value: $800
+Number: 6
+NONMUSICAL MTV | On one episode, Halle Berry is denied entrance to her own movie premiere on this prank-filled show | Punk'd
+right: Lily
+Wrong: 
+Value: $800
+Number: 8
+HORNED ANIMALS | This North American animal's population had dropped from almost 50 million to under 1000 by 1889 | the buffalo (or the bison)
+right: Lily
+Wrong: 
+Value: $800
+Number: 14
+FRATERNITY SUIT | Last name of the Michigan State A.T.O. [alpha tau omega] who, in '99, followed in Dad's footsteps & became president of the Teamsters | (James P.) Hoffa
+right: Ari
+Wrong: 
+Value: $800
+Number: 24
+POETRY | He believed "a leaf of grass is no less than the journey-work of the stars" | Walt Whitman
+right: Lily
+Wrong: 
+Value: DD: $1,600
+Number: 29
+WHAT'S THAT WORD...? | …that means verbal abuse: A. abrogation B. cogitation C. sinistration D. vituperation | vituperation
+right: Lily
+Wrong: 
+Value: $800
+Number: 21
+PITTSTORY | On July 4, 1826, a historic date, this "Oh! Susanna" composer was born in what's now a part of Pittsburgh | (Stephen) Foster
+right: Ari
+Wrong: 
+Value: $1000
+Number: 9
+NONMUSICAL MTV | Contestants must complete a mission in order to get to a new location on this x-treme travel adventure series | Road Rules
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+HORNED ANIMALS | It was one of the largest of the horned dinosaurs; 2 of its 3 horns were up to 3 feet long | triceratops
+right: Ari
+Wrong: 
+Value: $1000
+Number: 15
+FRATERNITY SUIT | Alpha Phi Alpha John H. Johnson founded this magazine in 1951, 6 years after Ebony | Jet
+right: Lily
+Wrong: 
+Value: $1000
+Number: 25
+POETRY | His "Ulalume" rhymes "sober" with "lonesome October" | Edgar Allan Poe
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+WHAT'S THAT WORD...? | …that means not sincere: A. dissentious B. disputatious C. disingenuous D. discommodious | disingenuous
+right: Lindsey
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the first commercial break (after clue 15)
+Lily: $3,600
+Ari: $3,200
+Lindsey: $1,200
+Scores at the end of the Jeopardy! Round:
+Lily: $8,000
+Ari: $5,200
+Lindsey: $2,600
+Second Jeopardy! Round: PITT STORY, THE ENLIGHTENMENT, THE LONE REPRESENTATIVE, OUR TROUBLED PLANET, INTERNATIONAL TRAFFIC, RHYME TIME
+PITT STORY | Brad played this Greek hero in the epic "Troy" | Achilles
+right: Lindsey
+Wrong: 
+Value: $400
+Number: 2
+THE ENLIGHTENMENT | This event that began in 1789 embodied many Enlightenment ideas, but is thought to have ended the era | the French Revolution
+right: Ari
+Wrong: 
+Value: $400
+Number: 16
+THE LONE REPRESENTATIVE | Don Young from this state with 27 boroughs, including Sitka & North Slope | Alaska
+right: Lily
+Wrong: 
+Value: $400
+Number: 21
+OUR TROUBLED PLANET | By examining these in some trees, you can figure out what the weather was like thousands of years ago | the rings
+right: Lily
+Wrong: 
+Value: $400
+Number: 11
+INTERNATIONAL TRAFFIC | With an average car speed of 6 mph, it's easy to see how this "Eternal City" wasn't built in a day | Rome
+right: Lily
+Wrong: 
+Value: $400
+Number: 26
+RHYME TIME | A guffaw from a young cow | a calf laugh
+right: Lily
+Wrong: 
+Value: $400
+Number: 1
+PITT STORY | Brad & Edward Norton created this title underground group whose 1st & 2nd rules are not to talk about it | Fight Club
+right: Lily
+Wrong: 
+Value: $800
+Number: 7
+THE ENLIGHTENMENT | In 1745 this was done to a book by materialist thinker Julien La Mettrie; in 1445 it would have been done to Julien | burning
+right: Lindsey
+Wrong: 
+Value: $800
+Number: 17
+THE LONE REPRESENTATIVE | Earl Pomeroy from this state with 53 counties, including Sioux & Grand Forks | North Dakota
+right: Lily
+Wrong: 
+Value: $800
+Number: 22
+OUR TROUBLED PLANET | Your average U.S. municipal landfill is over 40% of this product, way more than plastic or metal | paper
+right: Lindsey
+Wrong: 
+Value: $800
+Number: 12
+INTERNATIONAL TRAFFIC | This Thai capital's traffic was so bad that gas stations sold personal port-a-potties called "Comfort 100" | Bangkok
+right: Lily
+Wrong: 
+Value: $800
+Number: 27
+RHYME TIME | An uninflated airship | a limp blimp
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 3
+PITT STORY | Brad climbed high as Austrian mountain climber Heinrich Harrer, who met the Dalai Lama in this real-life drama | Seven Years in Tibet
+right: Lily
+Wrong: 
+Value: $1200
+Number: 8
+THE ENLIGHTENMENT | Priestly, Watt & Wedgwood were in a scientific club of "Lunaticks" whose meetings were set for each one of these | a full moon
+right: Lily
+Wrong: 
+Value: $1200
+Number: 18
+THE LONE REPRESENTATIVE | Michael Castle from this state with 3 counties: New Castle, Kent & Sussex | Delaware
+right: Lily
+Wrong: 
+Value: $1200
+Number: 23
+OUR TROUBLED PLANET | Before building a highway, a state has to submit an EIS, this 2-word "statement", to get federal funding | environmental impact statement
+right: 
+Wrong: Triple Stumper
+Lindsey: What's an environmental information statement?
+Value: $1200
+Number: 13
+INTERNATIONAL TRAFFIC | Stuck in traffic & ill, Kip Keino had to jog a mile to get to the 1,500 meter run at the '68 Olympics in this city (he still won) | Mexico City
+right: Ari
+Wrong: 
+Value: $1200
+Number: 28
+RHYME TIME | A no-no during a test, this item is covered with notes and instructions | a cheat sheet
+right: Lindsey
+Wrong: 
+Value: $1200
+Number: 4
+PITT STORY | Death (Brad Pitt) takes a holiday & falls in love with Claire Forlani in this 1998 movie | Meet Joe Black
+right: Lindsey
+Wrong: 
+Value: $1600
+Number: 9
+THE ENLIGHTENMENT | Time's July 5, 2004 cover story was "The Radical Mind of" this American Enlightenment thinker | Thomas Jefferson
+right: 
+Wrong: 
+Lily: Who is Benjamin Franklin?
+Value: DD: $2,000
+Number: 19
+THE LONE REPRESENTATIVE | Bernie Sanders from this state with 14 counties, including Rutland & Bennington | Vermont
+right: Lily
+Wrong: 
+Value: $1600
+Number: 24
+OUR TROUBLED PLANET | The first ban on killing the "right" types of these creatures came into force in 1935 | whales
+right: Lily
+Wrong: 
+Value: $1600
+Number: 14
+INTERNATIONAL TRAFFIC | In 2003 Mayor Ken Livingstone of this metropolis introduced a tax of 5 pounds on cars entering the city center | London
+right: Lily
+Wrong: 
+Value: $1600
+Number: 29
+RHYME TIME | A calamity that befalls the Dutch seat of government | a Hague plague
+right: 
+Wrong: 
+Lindsey: What is a... a Hague... [laughs] [timeout bell rings] plague.
+Value: DD: $2,000
+Number: 5
+PITT STORY | Brad Pitt was an Irish Gypsy boxer with an indecipherable accent in this 2000 Guy Ritchie flick | Snatch
+right: Lindsey
+Wrong: 
+Value: $2000
+Number: 10
+THE ENLIGHTENMENT | This 35-volume Denis Diderot project began as a translation of a British reference work | the Encyclopedie
+right: Lily
+Wrong: 
+Value: $2000
+Number: 20
+THE LONE REPRESENTATIVE | Stephanie Herseth from this state with 66 counties, including Yankton & Miner | South Dakota
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+OUR TROUBLED PLANET | Newts are New Hampshire's state amphibian, partly for helping track this form of liquid pollution | acid rain
+right: Lily
+Wrong: 
+Value: $2000
+Number: 15
+INTERNATIONAL TRAFFIC | Murtala Mohammed, this country's head of state, was shot dead in a Lagos traffic jam in 1976 | Nigeria
+right: Lily
+Wrong: 
+Value: $2000
+Number: 30
+RHYME TIME | Donor of a hepatic organ | a liver giver
+right: Lily
+Wrong: 
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Lily: $26,400
+Ari: $6,800
+Lindsey: $6,200
+
+Final Jeopardy! Round
+BEETHOVEN | Poet & critic Ludwig Rellstab compared this piano work to a nighttime boat ride on Lake Lucerne | Moonlight Sonata
+right: Lindsey | Ari | Lily
+Wrong: 
+Wagers: 
+Lindsey: $5,000
+Ari: $6,800
+Lily: $3,600
+Final scores:
+Lily: $30,000 (Automatic semifinalist)
+Ari: $13,600 (2nd place: $5,000 if eliminated)
+Lindsey: $11,200 (3rd place: $5,000 if eliminated)
+
+Coryat scores
+Lily: $27,600 (30 R(including 1 DD),1 W(including 1 DD))
+Ari: $6,800 (10 R,1 W)
+Lindsey: $8,200 (11 R,2 W(including 1 DD))

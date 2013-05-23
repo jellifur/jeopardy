@@ -1,0 +1,356 @@
+3945 - Friday, October 26, 2001
+Comments: 2001 Tournament of Champions quarterfinal game 5.
+Contestants:
+Kevin Keach: an operations manager from St. Ann, Missouri
+Lan Djang: a business analyst from Toronto, Canada
+Tad Carithers: an attorney from Atlanta, Georgia
+First Jeopardy! Round: THROWING THE BOOK AT YOU, THE PRODUCE DEPT., SOFTWARE THAT BYTES, BELOVED SINGERS, BALTIMORE, "BEL"LISSIMO!
+THROWING THE BOOK AT YOU | "Alexey...was the third son of Fyodor...who became notorious...because of his tragic...death" | The Brothers Karamazov
+right: Kevin
+Wrong: 
+Value: $100
+Number: 1
+THE PRODUCE DEPT. | Casaba & Santa Claus | melons
+right: Kevin
+Wrong: 
+Value: $100
+Number: 14
+SOFTWARE THAT BYTES | A dangerous new virus is actually 2 files which share their names with these 2 Shakespearean lovers | Romeo & Juliet
+right: Lan
+Wrong: 
+Value: $100
+Number: 10
+BELOVED SINGERS | Now starring on "Touched by an Angel", in the '50s she brought gospel music to Las Vegas | Della Reese
+right: Kevin
+Wrong: 
+Tad: Who is Della Burke?
+Value: $100
+Number: 17
+BALTIMORE | Begun in 1815, America's first large-scale monument to this man towers above Mount Vernon Place | George Washington
+right: Tad
+Wrong: 
+Value: $100
+Number: 6
+"BEL"LISSIMO! | Bats love to hang out in this church tower | belfry
+right: Kevin
+Wrong: 
+Value: $100
+Number: 21
+THROWING THE BOOK AT YOU | "Dean was having his kicks; he put on a jazz record, grabbed Marylou...and bounced against her with the beat" | On the Road
+right: Tad
+Wrong: 
+Value: $200
+Number: 2
+THE PRODUCE DEPT. | Acorn & Hubbard | squash
+right: Kevin
+Wrong: 
+Value: $200
+Number: 15
+SOFTWARE THAT BYTES | A virus was sent as a picture of this 20-year-old tennis star; needless to say it was a popular virus | Anna Kournikova
+right: Lan
+Wrong: 
+Value: $200
+Number: 11
+BELOVED SINGERS | This singer's shapely shaved head stars in the video for R.E.M.'s "Strange Currencies" | Michael Stipe
+right: Lan
+Wrong: 
+Value: $200
+Number: 23
+BALTIMORE | The 1814 bombardment of this nearby site is commemorated on Defenders' Day | Fort McHenry
+right: Tad
+Wrong: 
+Value: $200
+Number: 7
+"BEL"LISSIMO! | (Sarah of the Clue Crew ready to dive into a pool)  Unfortunately, it's what I'm about to do here | bellyflop
+right: Lan
+Wrong: 
+Value: $200
+Number: 22
+THROWING THE BOOK AT YOU | "Like a leaden knell the words came back at him: War is Peace Freedom is Slavery Ignorance is Strength" | 1984
+right: Tad
+Wrong: 
+Value: $300
+Number: 3
+THE PRODUCE DEPT. | Savoy & Bok Choy | cabbage
+right: Tad
+Wrong: 
+Lan: What is lettuce?
+Value: $300
+Number: 16
+SOFTWARE THAT BYTES | A type of virus is named after this surreptitious instrument of war used by ancient Greeks | Trojan Horse
+right: Lan
+Wrong: 
+Value: DD: $700
+Number: 12
+BELOVED SINGERS | The vocals of this country singer were featured in Disney's "Robin Hood" | Roger Miller
+right: Tad
+Wrong: 
+Value: $300
+Number: 24
+BALTIMORE | "Liberty Heights" & "Diner" are among the Baltimore-set movies by this Baltimore-born writer & director | Barry Levinson
+right: Tad
+Wrong: 
+Kevin: Who is Hughes?
+Value: $300
+Number: 8
+"BEL"LISSIMO! | As 1 word. it's a poisonous palnt also called deadly nightshade; as 2 words, it's a Stevie Nicks album | belladonna/"Bella Donna"
+right: Kevin
+Wrong: 
+Value: $300
+Number: 25
+THROWING THE BOOK AT YOU | "40 years ago, certain persons went up to Laputa...and...came back with a very little smattering in mathematics" | Gulliver's Travels
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+THE PRODUCE DEPT. | Greengage & Santa Rosa | plums
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 18
+SOFTWARE THAT BYTES | Every March 6 your computer can be infected by this virus named for a Renaissance artist | Michelangelo
+right: Tad
+Wrong: 
+Lan: Who is Leonardo da Vinci?
+Value: $400
+Number: 13
+BELOVED SINGERS | Shawn Colvin said her life was changed by this singer whose biggest album was "Court and Spark" | Joni Mitchell
+right: Kevin
+Wrong: 
+Value: $400
+Number: 29
+BALTIMORE | Famous for its medical school, this university celebrated its 125th anniversary in 2001 | Johns Hopkins
+right: Lan
+Wrong: 
+Value: $400
+Number: 9
+"BEL"LISSIMO! | Eric Clapton had these title "Blues" in 1973 | "Bell Bottom Blues"
+right: Kevin
+Wrong: 
+Value: $400
+Number: 26
+THROWING THE BOOK AT YOU | "'Miss Jean Louise, stand up.  Your father's passin.'" | To Kill a Mockingbird
+right: Tad
+Wrong: 
+Value: $500
+Number: 5
+THE PRODUCE DEPT. | Scarlet Globe & White Icicle | radishes
+right: 
+Wrong: Triple Stumper
+Kevin: What are carrots?
+Value: $500
+Number: 19
+SOFTWARE THAT BYTES | This "pest" virus that originated in the Philippines was sent via an amorous attachment | Love Bug Virus
+right: Tad
+Wrong: 
+Value: $500
+Number: 20
+BELOVED SINGERS | (Cheryl of the Clue Crew on the stage of the Apollo Theatre in New York City)  This "Sassy" singer won an amateur contest here in 1942 with her rendition of "Body and Soul" | Sarah Vaughan
+right: 
+Wrong: Triple Stumper
+Tad: Who is Billie Holiday?
+Value: $500
+Number: 30
+BALTIMORE | Horse racing's Preakness Stakes runs each May at this racetrack | Pimlico
+right: Tad
+Wrong: 
+Lan: What is Belmont?
+Value: $500
+Number: 28
+"BEL"LISSIMO! | This 1940 novel is set near Segovia, Spain in 1937 | For Whom the Bell Tolls
+right: Tad
+Wrong: 
+Value: $500
+Number: 27
+Scores at the first commercial break (after clue 15)
+Tad: $2,000
+Lan: $1,000
+Kevin: -$100
+Scores at the end of the Jeopardy! Round:
+Tad: $3,500
+Lan: $600
+Kevin: $900
+Second Jeopardy! Round: PHYSICISTS, SPEECH, THE SUPREME COURT, BALLET, DUTCH ROYALTY, COMPOUND WORDS
+PHYSICISTS | In 1804 Joseph Gay-Lussac went up, up & away in one of these to research the atmosphere | balloon
+right: Lan
+Wrong: 
+Value: $200
+Number: 1
+SPEECH | The roof of the mouth; a cleft one may lead to difficulty in articulation | palate
+right: Tad
+Wrong: 
+Value: $200
+Number: 27
+THE SUPREME COURT | In a 2001 book David Brock said he lied in a 1993 book slamming her, Clarence Thomas' nemesis at confirmation | Anita Hill
+right: Tad
+Wrong: 
+Value: $200
+Number: 3
+BALLET | Herr Drosselmeyer brings Clara a special Christmas gift in this 1892 ballet | The Nutcracker
+right: Lan
+Wrong: 
+Value: $200
+Number: 9
+DUTCH ROYALTY | Born in 1943, Princess Margriet was named for the Marguerite flower, a symbol of resistance against this group | the Nazis
+right: Lan
+Wrong: 
+Value: $200
+Number: 12
+COMPOUND WORDS | You can be "as dead as" this, a word combining a portal & a fastener | doornail
+right: Tad
+Wrong: 
+Value: $200
+Number: 28
+PHYSICISTS | New data seem to confirm the "negative gravity" that this 20th century genius proposed & then abandoned | Albert Einstein
+right: Tad
+Wrong: 
+Value: $400
+Number: 2
+SPEECH | The national association for this disorder says not to fill in sufferers' words or tell them, "just relax" | stuttering
+right: Kevin
+Wrong: 
+Value: $400
+Number: 29
+THE SUPREME COURT | Eisenhower said his 2 biggest mistakes as president were nominating William Brennan & this chief justice | Earl Warren
+right: Tad
+Wrong: 
+Value: $400
+Number: 4
+BALLET | Act three, scene one of this ballet is called "The Awakening" | Sleeping Beauty
+right: 
+Wrong: Triple Stumper
+Tad: What is "Swan Lake?"
+Kevin: What is "The Firebird?"
+Value: $400
+Number: 17
+DUTCH ROYALTY | When Princess Laurentien studied at UC Berkeley, she wrote a thesis on "Street Prostitution in" this nearby city | San Francisco
+right: Lan
+Wrong: 
+Value: $400
+Number: 13
+COMPOUND WORDS | Meaning "to peddle", it attaches to iron or war | monger
+right: Kevin
+Wrong: 
+Value: $400
+Number: 30
+PHYSICISTS | Georges Lemaitre's idea of the explosion of a primeval atom gave rise to this theory | Big Bang Theory
+right: Tad
+Wrong: 
+Value: $600
+Number: 8
+SPEECH | Type of "stop" heard in a Cockney pronounciation of "little" | glottal stop
+right: Kevin
+Wrong: 
+Value: $600
+Number: 21
+THE SUPREME COURT | This current Supreme Court justice's first & middle names have a papal sound | John Paul Stevens
+right: Tad
+Wrong: 
+Value: $600
+Number: 5
+BALLET | Prince Siegfried & Odette drown themselves toward the end of this classic ballet | Swan Lake
+right: Lan
+Wrong: 
+Value: $600
+Number: 18
+DUTCH ROYALTY | Seen here, Prince William-Alexander, the heir to the throne, is the eldest child of this queen | Beatrix
+right: Kevin
+Wrong: 
+Lan: Who is Wilhelmina?
+Value: $600
+Number: 15
+COMPOUND WORDS | Meal to end a period of non-eating | breakfast
+right: Tad
+Wrong: 
+Value: $600
+Number: 26
+PHYSICISTS | In 2000 a group of physicists finally found evidence of the Tau type of this subatomic particle | neutrino
+right: 
+Wrong: Triple Stumper
+Kevin: What is a quark?
+Value: $800
+Number: 10
+SPEECH | One "intonation contour" is the rising pitch at the end of a sentence that's the standard signal for this | a question
+right: Lan
+Wrong: 
+Kevin: What is the period?
+Value: $800
+Number: 25
+THE SUPREME COURT | In 1778 he was president of the Continental Congress; 11 years later, he became chief justice | John Jay
+right: Tad
+Wrong: 
+Value: $800
+Number: 6
+BALLET | This ballet by Agnes De Mille is subtitled "The Courting at Burnt Ranch" | Rodeo
+right: 
+Wrong: 
+Tad: What is "The Firebird?"
+Value: DD: $100
+Number: 20
+DUTCH ROYALTY | In 1980 she celebrated her 71st birthday by abdicating the Dutch throne | Queen Juliana
+right: Kevin
+Wrong: 
+Tad: Who is Beatrix?
+Value: $800
+Number: 14
+COMPOUND WORDS | As an afterthought, P.S. is short for this | postscript
+right: Lan
+Wrong: 
+Value: $800
+Number: 23
+PHYSICISTS | In the 19th century this 3-named British scientist established the kinetic theory of gases -- smart! | James Clerk Maxwell
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 11
+SPEECH | Read my lips -- the consonants M & B are phonetically this type of sound | labial
+right: 
+Wrong: 
+Lan: Don't know.
+Value: DD: $2,000
+Number: 24
+THE SUPREME COURT | The biography "The Judge from Beacon Hill" covers his life & his 3 decades on the Supreme Court | Oliver Wendell Holmes
+right: Kevin
+Wrong: 
+Lan: Who is John Marshall?
+Value: $1000
+Number: 7
+BALLET | This title character has the face & arms of a woman & a body of feathers that tapers off in flames | The Firebird
+right: Lan
+Wrong: 
+Value: $1000
+Number: 22
+DUTCH ROYALTY | This mother of Queen Wilhelmina had the same first name as a Jane Austen heroine | Emma
+right: Kevin
+Wrong: 
+Value: $1000
+Number: 16
+COMPOUND WORDS | Words meaning "academy" & "court" merge to form this place where me & Julio hung out | schoolyard
+right: Tad
+Wrong: 
+Value: $1000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Tad: $7,200
+Lan: $1,200
+Kevin: $4,700
+
+Final Jeopardy! Round
+'90s MOVIES | It was based on the true story of the 4 Niland brothers of Tonawanda, New York | Saving Private Ryan
+right: Lan
+Wrong: 
+Kevin: What is Backdraft?
+Tad: What is ?
+Wagers: 
+Lan: $1,200
+Kevin: $4,700
+Tad: $2,300
+Final scores:
+Tad: $4,900 (Automatic semifinalist)
+Lan: $2,400 (2nd place: $2,500 if eliminated)
+Kevin: $0 (3rd place: $2,500 if eliminated)
+
+Coryat scores
+Tad: $7,300 (22 R,5 W(including 1 DD))
+Lan: $2,800 (14 R(including 1 DD),6 W(including 1 DD))
+Kevin: $4,700 (16 R,5 W)

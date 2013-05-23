@@ -1,0 +1,306 @@
+5103 - Wednesday, November 15, 2006
+Comments: 2006 Celebrity <i>Jeopardy!</i> game 6.  From Radio City Music Hall in New York City.
+Contestants:
+Harry Smith: a broadcast journalist from The Early Show
+Miguel Ferrer: an actor from Crossing Jordan
+Steve Schirripa: an actor from The Sopranos
+First Jeopardy! Round: CROSSING JORDAN, WHAT'S ON THE TUBE?, FUHGETTABOUDIT, AROUND THE U.S.A., CAN I BUY YOU A DRINK?, HEY, WHERE'D YOU "GO"?
+CROSSING JORDAN | The status of the 2,270-sq.-mi. area on this shore of the Jordan is contested by Palestinians & Israelis | the West Bank
+right: Harry
+Wrong: 
+Value: $200
+Number: 7
+WHAT'S ON THE TUBE? | Keith Carradine's role as Wild Bill Hickok on this series ended when Jack McCall killed Hickok | Deadwood
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+FUHGETTABOUDIT | Want to marry this ex-wife of Burton, Todd, Hilton & Fisher?  Fuhgettaboudit!  She says she's staying single | Elizabeth Taylor
+right: Miguel
+Wrong: 
+Value: $200
+Number: 6
+AROUND THE U.S.A. | North Little Rock is the sixth-largest city in this state | Arkansas
+right: Steve
+Wrong: 
+Value: $200
+Number: 14
+CAN I BUY YOU A DRINK? | Cuba Libre is just a fancy name for plain old rum, a hint of lime & this | Coca-Cola
+right: Miguel
+Wrong: 
+Value: $200
+Number: 15
+HEY, WHERE'D YOU "GO"? | The Vezina Trophy is for hockey's best one of these | a goalkeeper
+right: Harry
+Wrong: 
+Value: $200
+Number: 20
+CROSSING JORDAN | Deganya in the Jordan Valley is this type of Israeli collective settlement, the country's oldest | a kibbutz
+right: Harry
+Wrong: 
+Value: $400
+Number: 8
+WHAT'S ON THE TUBE? | This veteran Pulitzer-winning film critic trades reviews with Richard Roeper | (Roger) Ebert
+right: Steve
+Wrong: 
+Value: $400
+Number: 2
+FUHGETTABOUDIT | Trying to locate this country just to the east of the old Berlin Wall on a map?  Fuhgettaboudit!  It's gone | East Germany
+right: Harry
+Wrong: 
+Value: $400
+Number: 10
+AROUND THE U.S.A. | "I love" this city, America's biggest metropolis--doesn't everyone? | New York
+right: Steve
+Wrong: 
+Value: $400
+Number: 25
+CAN I BUY YOU A DRINK? | It's a little early in the day--maybe time for this champagne & orange juice cocktail | a mimosa
+right: Steve
+Wrong: 
+Value: $400
+Number: 16
+HEY, WHERE'D YOU "GO"? | It's the type of dog <http://www.j-archive.com/media/2006-11-15_J_21.jpg> seen <http://www.j-archive.com/media/2006-11-15_J_21a.jpg> here | a golden retriever
+right: Miguel
+Wrong: 
+Value: $400
+Number: 21
+CROSSING JORDAN | East of the Jordan, the Ghor Canal has made orange groves spring up by doing this to once-barren land | irrigation
+right: Miguel
+Wrong: 
+Value: $600
+Number: 9
+WHAT'S ON THE TUBE? | In one episode of this comedienne's Bravo Channel show "My Life on the D-List", she auctioned off a stay in her home | Kathy Griffin
+right: Steve
+Wrong: 
+Value: $600
+Number: 3
+FUHGETTABOUDIT | Hoping to get on the Olympic team for this event where 2 sides pull on a rope?  Fuhgettaboudit!  Last held in 1920 | the tug-of-war
+right: Miguel
+Wrong: 
+Value: $600
+Number: 11
+AROUND THE U.S.A. | This small U.S. state is only about half the size of Delaware | Rhode Island
+right: Steve
+Wrong: 
+Value: DD: $1,000
+Number: 26
+CAN I BUY YOU A DRINK? | A Scotch Manhattan, with scotch & sweet vermouth, usually goes by the name of this Scottish outlaw | Rob Roy
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 17
+HEY, WHERE'D YOU "GO"? | This type of animal torments Bill Murray in "Caddyshack" | a gopher
+right: Miguel
+Wrong: 
+Value: $600
+Number: 22
+WHAT'S ON THE TUBE? | This cable channel's "Meerkat Manor" has been billed as "'All My Children' meets 'Wild Kingdom'" | Animal Planet
+right: 
+Wrong: Triple Stumper
+Harry: What is the Discovery Channel?
+Value: $800
+Number: 4
+FUHGETTABOUDIT | Want to join this religion so you can have more than one spouse?  Fuhgettaboudit!  Canceled the practice in 1890 | Mormon
+right: Steve
+Wrong: 
+Value: $800
+Number: 12
+AROUND THE U.S.A. | Any Texan can tell you that this city is "Big D" | Dallas
+right: Steve
+Wrong: 
+Value: $800
+Number: 27
+CAN I BUY YOU A DRINK? | You might enjoy this drink, classically made with equal parts of orange juice & peach Schnapps | a fuzzy navel
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+HEY, WHERE'D YOU "GO"? | This large African animal (which did not torment Bill Murray in "Caddyshack") can make about 20 different sounds | the gorilla
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+WHAT'S ON THE TUBE? | In June 2006 this movie channel premiered its first made-for-TV movie, "Broken Trail", starring Robert Duvall | American Movie Classics (AMC)
+right: 
+Wrong: Triple Stumper
+Steve: What is Starz?
+Value: $1000
+Number: 5
+FUHGETTABOUDIT | Hungry for food using this flavor enhancer abbreviated MSG?  Fuhgettaboudit!  Many places have stopped using it | monosodium glutamate
+right: Miguel
+Wrong: 
+Value: $1000
+Number: 13
+CAN I BUY YOU A DRINK? | How about a martini or this identical cocktail garnished with an onion instead of an olive | a gibson
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 19
+HEY, WHERE'D YOU "GO"? | This 4-letter word means to spur, push or impel | goad
+right: Harry
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the first commercial break (after clue 15)
+Steve: $1,200
+Miguel: $2,400
+Harry: $200
+Scores at the end of the Jeopardy! Round:
+Steve: $3,800
+Miguel: $3,600
+Harry: $1,400
+Second Jeopardy! Round: FOOD IN HISTORY, THE SOPRANOS, NEW YORK IN THE MOVIES, SMITH, NON-COSMETIC SURGERY, NURSERY RHYME E.R.
+FOOD IN HISTORY | A 19th c. duchess who felt faint in the afternoon began the British custom of serving tiny little cakes with this beverage | tea
+right: Harry
+Wrong: 
+Value: $400
+Number: 2
+THE SOPRANOS | The Ft. Lauderdale Sun-Sentinel called this Vegas diva a "soprano geyser"; somehow, "My Heart Will Go On" | Céline Dion
+right: Miguel
+Wrong: 
+Value: $400
+Number: 1
+NEW YORK IN THE MOVIES | As this title superhero, Tobey Maguire spun his web across New York | Spider-Man
+right: Harry
+Wrong: 
+Value: $400
+Number: 4
+SMITH | The first Grammy for Best Rap Performance went to DJ Jazzy Jeff & this "Fresh Prince" | Will Smith
+right: Harry
+Wrong: 
+Value: $400
+Number: 9
+NON-COSMETIC SURGERY | These masses of tissue in the throat, below the adenoids, fight infection but have to go if they become infected | tonsils
+right: Harry
+Wrong: 
+Value: $400
+Number: 21
+FOOD IN HISTORY | Re-enactors still buy hardtack crackers from the G.H. Bent Co. of Mass., which supplied them for this 1860s war | the Civil War
+right: Miguel
+Wrong: 
+Value: $800
+Number: 3
+THE SOPRANOS | "The Hills Are Alive" with the sound of this Oscar-winning soprano's voice, whether she's Victor or Victoria | Julie Andrews
+right: 
+Wrong: Triple Stumper
+Steve: Uh, who is, uh... Oh, I know this...  a-duh-duh-duh-duh-duh...
+Value: $800
+Number: 11
+NEW YORK IN THE MOVIES | On a Manhattan morning, Audrey Hepburn admires the gems in a shop window while eating a roll in this film's opening | Breakfast at Tiffany's
+right: Harry
+Wrong: 
+Value: DD: $1,000
+Number: 5
+SMITH | Betty Smith wrote about young Francie Nolan in her novel "A Tree Grows in" this New York City borough | Brooklyn
+right: Steve
+Wrong: 
+Value: $800
+Number: 10
+NON-COSMETIC SURGERY | Though there is elbow-replacement surgery, the knees & this higher joint are the ones replaced most often | hips
+right: Harry
+Wrong: 
+Value: DD: $1,600
+Number: 22
+FOOD IN HISTORY | This Roman emperor served his guests snow mixed with honey (& probably bored them with his fiddle-playing) | Nero
+right: Harry
+Wrong: 
+Value: $1200
+Number: 12
+THE SOPRANOS | Of her 1994 Xmas CD, USA Today said, this "Vision Of Love" diva had "a soprano that could unhinge St. Peter's gate" | Mariah Carey
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 15
+NEW YORK IN THE MOVIES | A classic Christmas movie is called "Miracle on" this Manhattan street | 34th Street
+right: Harry
+Wrong: 
+Value: $1200
+Number: 6
+SMITH | Winston Smith is a writer of Newspeak for the Ministry of Truth in this George Orwell novel | 1984
+right: Harry
+Wrong: 
+Value: $1200
+Number: 18
+NON-COSMETIC SURGERY | Removal of the gallbladder is the usual treatment for concretions better known as these | gallstones
+right: Harry
+Wrong: 
+Value: $1200
+Number: 23
+FOOD IN HISTORY | It's said that this French emperor's chef created Chicken Marengo for him right on the battlefield | Napoleon
+right: 
+Wrong: Triple Stumper
+Harry: Who is Louis XVI?
+Value: $1600
+Number: 13
+THE SOPRANOS | Maria Jeritza must have been lovely to have Strauss write the role of this Beauty of Troy for her--<http://www.j-archive.com/media/2006-11-15_DJ_16.jpg> see for yourself | Helen (of Troy)
+right: Harry
+Wrong: 
+Value: $1600
+Number: 16
+NEW YORK IN THE MOVIES | This writer/director's New York-set films include "Manhattan" & "Manhattan Murder Mystery" | Woody Allen
+right: Miguel
+Wrong: 
+Value: $1600
+Number: 7
+SMITH | A New York City Fire Department fireboat is named for this 1928 pres. candidate known as the "Happy Warrior" | Al Smith
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+NON-COSMETIC SURGERY | It's a general term for surgery that requires an incision right into your ticker | open-heart surgery
+right: Harry
+Wrong: 
+Value: $1600
+Number: 24
+FOOD IN HISTORY | Mme. Pompadour loved to top filet of sole with these fancy fungi | truffles
+right: 
+Wrong: Triple Stumper
+Harry: What are mushrooms?
+Value: $2000
+Number: 14
+THE SOPRANOS | In the 1940s Rise Stevens owned the role of this Spanish Gypsy at the Met & sang it in the film "Going My Way" | Carmen
+right: 
+Wrong: Triple Stumper
+Steve: Gypsy Rose Lee?
+Value: $2000
+Number: 17
+NEW YORK IN THE MOVIES | Who ya gonna call when spirits haunt the Big Apple?  The title group of this 1984 comedy, of course | Ghostbusters
+right: Miguel
+Wrong: 
+Value: $2000
+Number: 8
+SMITH | Economist Adam Smith is best known for "An Inquiry into the Nature and Causes of" this | the Wealth of Nations
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+NON-COSMETIC SURGERY | Gastric bypass isn't for the chunky or the just overweight, but for BMI over 35, classed as being this | morbidly obese
+right: Harry
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Steve: $1,800
+Miguel: $8,400
+Harry: $12,000
+
+Final Jeopardy! Round
+MOVIE HISTORY | Producer David Selznick was fined $5,000 by censors for using this word in a 1939 film | damn
+right: Miguel
+Wrong: 
+Steve: What is sex sex?
+Harry: What is heck
+Wagers: 
+Steve: $1,800
+Miguel: $8,400
+Harry: $6,000
+Final scores:
+Steve: $0 (3rd place: $25,000 to the Poly Prep Country Day School September 11 Memorial Scholarship Fund)
+Miguel: $16,800 (Winner: $50,000 to the Los Angeles Police Memorial Foundation)
+Harry: $6,000 (2nd place: $25,000 to to The Harlem School of the Arts)
+
+Coryat scores
+Steve: $1,400 (10 R(including 1 DD),3 W)
+Miguel: $8,400 (11 R,0 W)
+Harry: $11,000 (18 R(including 2 DDs),3 W)

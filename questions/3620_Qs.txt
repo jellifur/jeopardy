@@ -1,0 +1,348 @@
+6127 - Tuesday, April 12, 2011
+Contestants:
+Daniel Cohen: an interactive developer originally from Liverpool, New York
+Stephanie Munroe: a movie editor from Brookline, Massachusetts
+Tim Kresowik: a urology resident from Iowa City, Iowa (whose 1-day cash winnings total $19,201)
+First Jeopardy! Round: THE SISTINE CHAPEL, 1990s TV, A CAPITAL IDEA?, THE AUTOBAHN SOCIETY, WHO'D YOU KILL TO GET THAT JOB?, "H_BO"
+THE SISTINE CHAPEL | The Sistine Chapel is best known for its ceiling painted by this man | Michelangelo
+right: Stephanie
+Wrong: 
+Value: $200
+Number: 4
+1990s TV | Will Smith rapped, "Looked at my kingdom, I was finally there, to sit on my throne as the prince of" this | Bel-Air
+right: Stephanie
+Wrong: 
+Value: $200
+Number: 17
+A CAPITAL IDEA? | Mentioning a Mediterranean city, it's the only Shakespeare play with a national capital in the title | Timon of Athens
+right: 
+Wrong: Triple Stumper
+Tim: [Shakes head]
+Value: $200
+Number: 1
+THE AUTOBAHN SOCIETY | From Dresden take A13 north to this city where you can visit the Brandenburg Gate | Berlin
+right: Daniel
+Wrong: 
+Value: $200
+Number: 22
+WHO'D YOU KILL TO GET THAT JOB? | He led Charles I's trial & execution in 1649 & later became Lord Protector; sometimes it's not good to be the king | Oliver Cromwell
+right: Daniel
+Wrong: 
+Value: $200
+Number: 16
+"H_BO" | Ship anchoring spot | a harbor
+right: Tim
+Wrong: 
+Value: $200
+Number: 11
+THE SISTINE CHAPEL | The Sistine Chapel was built during the 15th century reign of the fourth pope of this name | Sixtus
+right: Tim
+Wrong: 
+Value: $400
+Number: 5
+1990s TV | If you could handle seeing Dennis Franz' tush in a shower, then this cop show that debuted in '93 was for you | NYPD Blue
+right: Daniel
+Wrong: 
+Value: $400
+Number: 23
+A CAPITAL IDEA? | Seen <http://www.j-archive.com/media/2011-04-12_J_02.jpg> here, this breed originated around 800 B.C. | a Lhasa Apso
+right: 
+Wrong: Triple Stumper
+Tim: What is a Pekingese? [pronounces first syllable as "pay"]
+Daniel: What is a Pekingese? [pronounces first syllable as "pee"]
+Value: $400
+Number: 2
+THE AUTOBAHN SOCIETY | Little Uli should have gone before we left Darmstadt; now he'll just have to wait 20 km for the next Raststatte, this | a rest stop
+right: Daniel
+Wrong: 
+Value: $400
+Number: 27
+WHO'D YOU KILL TO GET THAT JOB? | After leading the fight for Louis XVI's execution, he joined the Committee of Public Safety in July 1793 | Robespierre
+right: Stephanie
+Wrong: 
+Value: $400
+Number: 18
+"H_BO" | An instruction manual like the one Boy Scouts use | a handbook
+right: Tim
+Wrong: 
+Value: $400
+Number: 12
+THE SISTINE CHAPEL | The ceiling depicts the creation, Adam & Eve & 3 scenes concerning this sailor | Noah
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 6
+1990s TV | On a sitcom he played cable TV host Tim Taylor | Tim Allen
+right: Daniel
+Wrong: 
+Value: $600
+Number: 24
+A CAPITAL IDEA? | A vacuum cleaner salesman & spy named Jim Wormold is the protagonist of this Graham Greene novel | Our Man in Havana
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+THE AUTOBAHN SOCIETY | (<http://www.j-archive.com/media/2011-04-12_J_28.jpg> Jimmy of the Clue Crew shows a map on the monitor.)  If you drive on A3 in Germany's extreme southeast, from Passau to Wurzburg, you've been in <http://www.j-archive.com/media/2011-04-12_J_28a.jpg> this geographically largest state the whole 3 hours | Bavaria
+right: Tim
+Wrong: 
+Value: $600
+Number: 28
+WHO'D YOU KILL TO GET THAT JOB? | I, this Roman emperor, may have been killed by my wife Agrippina in 54 A.D. so Nero could take over | Claudius
+right: Tim
+Wrong: 
+Value: $600
+Number: 19
+"H_BO" | It's at one end of your bed | a headboard
+right: Stephanie
+Wrong: 
+Value: $600
+Number: 13
+THE SISTINE CHAPEL | The chapel was built to the dimensions of this man's temple, as described in the Old Testament | Solomon
+right: Stephanie
+Wrong: 
+Tim: Who is David?
+Value: $800
+Number: 7
+1990s TV | In 1990 Don Knotts re-teamed with his old pal Andy Griffith, playing Les Calhoun on this legal drama | Matlock
+right: Stephanie
+Wrong: 
+Value: $800
+Number: 25
+A CAPITAL IDEA? | Hostages who under stress grow emotionally attached to their captors are exhibiting this syndrome | Stockholm syndrome
+right: Stephanie
+Wrong: 
+Value: $800
+Number: 9
+THE AUTOBAHN SOCIETY | In 2008, citing safety & CO<sub>2</sub>, Bremen became the first German state to legislate these on all its Autobahnen | speed limits
+right: Tim
+Wrong: 
+Value: DD: $1,000
+Number: 29
+WHO'D YOU KILL TO GET THAT JOB? | In 1040 Macbeth killed this king to take the throne of Scotland; there's a play in there somewhere... | Duncan
+right: Tim
+Wrong: 
+Stephanie: Oh, uh, who was, uh...
+Value: $800
+Number: 20
+"H_BO" | Anatomically, the ischium is part of it | your hip bone
+right: Tim
+Wrong: 
+Value: $800
+Number: 14
+THE SISTINE CHAPEL | One use of the Sistine Chapel is when this group gets together periodically to elect a new pope within its confines | the Cardinals
+right: Tim
+Wrong: 
+Value: $1000
+Number: 8
+1990s TV | Roma Downey was the heavenly title character & Della Reese her supervisor on this CBS drama | Touched by an Angel
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+A CAPITAL IDEA? | Her father Francis says at about age 3 she heard him in a long argument & said, "Cut!" | Sofia Coppola
+right: 
+Wrong: Triple Stumper
+Daniel: [Shakes head]
+Value: $1000
+Number: 10
+THE AUTOBAHN SOCIETY | In Hamburg Autobahn A7 includes a tunnel under this 4-letter river | the Elbe
+right: Tim
+Wrong: 
+Stephanie: What is the Oder?
+Value: $1000
+Number: 30
+WHO'D YOU KILL TO GET THAT JOB? | Killing Shawar, vizier of Egypt, helped put this future foe of the Crusaders in that job in 1169 | Saladin (or Salah ad-Din)
+right: Tim
+Wrong: 
+Value: $1000
+Number: 21
+"H_BO" | Heading for perdition | hellbound
+right: Stephanie
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Tim: $1,400
+Stephanie: $2,400
+Daniel: -$1,400
+Scores at the end of the Jeopardy! Round:
+Tim: $6,400
+Stephanie: $3,000
+Daniel: $400
+Second Jeopardy! Round: MEXICAN STATES, FICTIONAL MOVIE BANDS, MEN IN PINK, "E"-BOOKS, ELEMENT ETYMOLOGY, THE END
+MEXICAN STATES | This eastern state once occupied the whole of the peninsula it's on | Yucatán
+right: Tim
+Wrong: 
+Value: $400
+Number: 12
+FICTIONAL MOVIE BANDS | This film features the Soggy Bottom Boys, fronted by George Clooney | O Brother, Where Art Thou?
+right: Daniel
+Wrong: 
+Value: $400
+Number: 1
+MEN IN PINK | Bret "The Hitman" Hart was known for "competing" as this in a pink leotard | a professional wrestler
+right: Daniel
+Wrong: 
+Value: $400
+Number: 4
+"E"-BOOKS | This novel by Sinclair Lewis is a satiric indictment of fundamentalist religion | Elmer Gantry
+right: Stephanie
+Wrong: 
+Value: $400
+Number: 9
+ELEMENT ETYMOLOGY | It's from the Latin for "to flow" | fluorine
+right: 
+Wrong: Triple Stumper
+Tim: What is mercury?
+Value: $400
+Number: 17
+THE END | "Full stop" is a synonym for this punctuation mark | a period
+right: Daniel
+Wrong: 
+Value: $400
+Number: 23
+MEXICAN STATES | Dog-gone it!  Ciudad Juarez is in this Mexican state | Chihuahua
+right: Tim
+Wrong: 
+Value: $800
+Number: 13
+FICTIONAL MOVIE BANDS | Jack Black fronted & provided tutelage to this young band, also a 2003 movie title | School of Rock
+right: Daniel
+Wrong: 
+Value: $800
+Number: 2
+MEN IN PINK | The title of the 1905 artwork seen <http://www.j-archive.com/media/2011-04-12_DJ_05.jpg> here is <http://www.j-archive.com/media/2011-04-12_DJ_05a.jpg> this type of fop, a word also found after "fine and" | dandy
+right: Daniel
+Wrong: 
+Value: $800
+Number: 5
+"E"-BOOKS | The title character of this Austen novel realizes she loves Mr. Knightley | Emma
+right: Stephanie
+Wrong: 
+Value: $800
+Number: 10
+ELEMENT ETYMOLOGY | God bless this element, discovered in 1944 & named for our country | americium
+right: Daniel
+Wrong: 
+Value: $800
+Number: 18
+THE END | The name of this Greek letter that signifies the end means "big O" | omega
+right: Tim
+Wrong: 
+Value: $800
+Number: 24
+MEXICAN STATES | Baja California Sur, the lower state on the Baja Peninsula, has this city for a capital, just like Bolivia | La Paz
+right: Tim
+Wrong: 
+Value: $1200
+Number: 14
+FICTIONAL MOVIE BANDS | The New Main Street Singers, Mitch & Mikey & The Folksmen are groups in this Christopher Guest film | A Mighty Wind
+right: Stephanie
+Wrong: 
+Value: $1200
+Number: 3
+MEN IN PINK | To see men in pink tights, check out Trockadero, a troupe performing parodies of these | ballet
+right: Stephanie
+Wrong: 
+Value: $1200
+Number: 6
+"E"-BOOKS | Around 418 B.C. Euripides wrote a play named for this "complex" woman of myth | Electra
+right: Tim
+Wrong: 
+Value: $1200
+Number: 11
+ELEMENT ETYMOLOGY | Atomic No. 22, this metal was named for some mythological bigwigs | titanium
+right: 
+Wrong: Triple Stumper
+Tim: [No response]
+Value: $1200
+Number: 21
+THE END | This 2-digit number signals that a newspaper story is at an end | 30
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 26
+MEXICAN STATES | The easternmost state of <http://www.j-archive.com/media/2011-04-12_DJ_15.jpg> Quintana Roo relies economically on <http://www.j-archive.com/media/2011-04-12_DJ_15a.jpg> these two resort areas that both start with the letter C | Cancun and Cozumel
+right: Tim
+Wrong: 
+Value: $1600
+Number: 15
+FICTIONAL MOVIE BANDS | Stillwater, fronted by Jason Lee, rocks this movie | Almost Famous
+right: Daniel
+Wrong: 
+Value: $1600
+Number: 19
+MEN IN PINK | Joe Arpaio, sheriff of Maricopa County in this state, is known for making inmates wear pink | Arizona
+right: Daniel
+Wrong: 
+Value: $1600
+Number: 7
+"E"-BOOKS | The name of this Samuel Butler novel is an anagram of "nowhere" | Erewhon
+right: Tim
+Wrong: 
+Value: $1600
+Number: 27
+ELEMENT ETYMOLOGY | Although a soft, light metal, it has a name from the Greek for "stony" | lithium
+right: 
+Wrong: 
+Daniel: What is aluminum?
+Value: DD: $2,200
+Number: 22
+THE END | On a movie set when the first A.D. calls "that's" this, it sounds like he's identifying a type of sandwich | a wrap
+right: Tim
+Wrong: 
+Value: $1600
+Number: 29
+MEXICAN STATES | This state that borders New Mexico gets its name from a Spanish word meaning "loud" | Sonora
+right: Tim
+Wrong: 
+Value: $2000
+Number: 16
+FICTIONAL MOVIE BANDS | This movie covers the rise of The One-ders, later The Wonders | That Thing You Do!
+right: Daniel
+Wrong: 
+Value: $2000
+Number: 20
+MEN IN PINK | In the play "Bent", which takes place in Nazi Germany, pink these become a compulsory accessory | triangles
+right: Stephanie
+Wrong: 
+Value: $2000
+Number: 8
+"E"-BOOKS | This 1952 novel was based in part on the story of Cain & Abel | East of Eden
+right: Tim
+Wrong: 
+Value: DD: $2,000
+Number: 28
+ELEMENT ETYMOLOGY | A Scottish town gave us the name of this element, whose 90 isotope is the most dangerous part of fallout | strontium
+right: Stephanie
+Wrong: 
+Value: $2000
+Number: 25
+THE END | In the law of war, when this 9-letter word precedes "of hostilities", the shootin's over & the talkin' starts | a cessation
+right: Tim
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Tim: $20,000
+Stephanie: $10,600
+Daniel: $7,000
+
+Final Jeopardy! Round
+BASEBALL & THE PRESIDENCY | As both vice president & president, he threw out a season's 1st pitch, each time for a different Senators franchise | Richard Nixon
+right: Stephanie | Tim
+Wrong: 
+Daniel: Who is T ?
+Wagers: 
+Daniel: $1,142
+Stephanie: $100
+Tim: $3,000
+Final scores:
+Tim: $23,000 (2-day champion: $42,201)
+Stephanie: $10,700 (2nd place: $2,000)
+Daniel: $5,858 (3rd place: $1,000)
+
+Coryat scores
+Tim: $19,800 (22 R(including 2 DDs),5 W)
+Stephanie: $10,600 (14 R,2 W)
+Daniel: $9,200 (14 R,3 W(including 1 DD))

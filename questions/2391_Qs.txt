@@ -1,0 +1,348 @@
+5432 - Tuesday, April 1, 2008
+Comments: Alex wears a <a href="http://www.j-archive.com/media/2008-04-01_AlexPhonyMustache.jpg" target="_blank">phony</a> <a href="http://www.j-archive.com/media/2008-04-01_AlexPhonyMustache2.jpg" target="_blank">mustache</a> for the Jeopardy! Round.
+Contestants:
+Gil Bauer: a marketing executive from Montclair, New Jersey
+Jason Molnar: an attorney from San Diego, California
+Bryan Johnson: a teacher and doctoral student from Los Angeles, California (whose 2-day cash winnings total $48,402)
+First Jeopardy! Round: TRUMAN CAPOTE, BREAKFAST, AT TIFFANY'S, "IN", COLD, BLOOD
+TRUMAN CAPOTE | Capote was born Truman Streckfus Persons September 30, 1924 in this Southern U.S. city | New Orleans
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+BREAKFAST | This breakfast meat comes in links or patties & its name is from the Latin for "salted" | sausage
+right: Gil
+Wrong: 
+Value: $200
+Number: 1
+AT TIFFANY'S | Tiffany gemologist George Kunz was instrumental in the adoption of this unit as the standard weight for gems | the carat
+right: Gil
+Wrong: 
+Value: $200
+Number: 6
+"IN" | In 1992 Bill Clinton famously remarked "I didn't" do this | inhale
+right: Gil
+Wrong: 
+Value: $200
+Number: 7
+COLD | Of 12°, -12° or -112° F., the lowest-ever recorded temperature in Hawaii, back in 1979 | 12 degrees
+right: Jason
+Wrong: 
+Value: $200
+Number: 21
+BLOOD | "Shadow of the Vampire" details the production of this 1922 F.W. Murnau film | Nosferatu
+right: Jason
+Wrong: 
+Value: $200
+Number: 16
+TRUMAN CAPOTE | She's the lead character in Capote's "Breakfast at Tiffany's" | Holly Golightly
+right: Gil
+Wrong: 
+Jason: Who is Hepburn? Audrey--
+Value: $400
+Number: 27
+BREAKFAST | The name of this breakfast item is also used as a verb meaning to speak or write evasively | waffle
+right: Bryan
+Wrong: 
+Value: $400
+Number: 2
+AT TIFFANY'S | Tiffany's website says in 1886 it introduced this ring as we know it today, with the diamond set above the band | the engagement ring
+right: Jason
+Wrong: 
+Value: $400
+Number: 12
+"IN" | A prayer to begin a religious service or public ceremony | invocation
+right: Bryan
+Wrong: 
+Value: $400
+Number: 8
+COLD | At a place appropriately called Northice on this largest world island, temps dropped to -87° F. in Jan. 1954 | Greenland
+right: Jason
+Wrong: 
+Gil: What is Antarctica?
+Value: $400
+Number: 22
+BLOOD | The Coreys go after vampires in this 1987 film | The Lost Boys
+right: Jason
+Wrong: 
+Bryan: What is... oh, Lordy, I know this one.
+Value: $400
+Number: 17
+TRUMAN CAPOTE | He won an Oscar in 2007 for playing Truman Capote on the big screen | Philip Seymour Hoffman
+right: Gil
+Wrong: 
+Value: $600
+Number: 28
+BREAKFAST | This fancy egg dish is said to have been created at Delmonico's in the 1800s; even then, Hollandaise sauce was used | Eggs Benedict
+right: Bryan
+Wrong: 
+Value: $600
+Number: 3
+AT TIFFANY'S | For its boxes, Tiffany chose a shade of this primary color, recognized as a trademark today | blue
+right: Jason
+Wrong: 
+Value: $600
+Number: 13
+"IN" | Kin-Tiki was a god of this South American people | the Incas
+right: Gil
+Wrong: 
+Value: $600
+Number: 9
+COLD | The coldest annual mean temp over 30 years in the U.S. was 9.3° F. in this state's town of Barrow | Alaska
+right: Bryan
+Wrong: 
+Value: $600
+Number: 23
+BLOOD | "The one name they all fear" was a tagline for this 2004 blockbuster that starred Hugh Jackman | Van Helsing
+right: Bryan
+Wrong: 
+Value: $600
+Number: 18
+TRUMAN CAPOTE | Capote invites the world's greatest detectives to his house for a contest in this 1976 film spoof | Murder by Death
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+BREAKFAST | In 1890 a woman named Nancy Green represented this character, the symbol for a pancake mix | Aunt Jemima
+right: Jason
+Wrong: 
+Value: $800
+Number: 4
+AT TIFFANY'S | In 1861 <http://www.j-archive.com/media/2008-04-01_J_14.jpg> she received a Tiffany seed-pearl jewelry set from her husband | Mary Todd Lincoln
+right: Bryan
+Wrong: 
+Value: $800
+Number: 14
+"IN" | Because they were too inexperienced or low in rank for the cavalry, foot soldiers came to be called this | infantry
+right: Gil
+Wrong: 
+Value: $800
+Number: 10
+COLD | Charlotte Pass in this 3-named state holds Australia's cold-temperature record with -9° F. in 1994 | New South Wales
+right: Jason
+Wrong: 
+Value: $800
+Number: 24
+BLOOD | It's the vampiric Death Dealers vs. the Lycans in this slick 2003 movie | Underworld
+right: Bryan
+Wrong: 
+Gil: What is Vampire vs. Werewolf?
+Value: $800
+Number: 19
+TRUMAN CAPOTE | Capote gained fame with this "other" worldly 1948 novel about a teenager in a crumbling Southern mansion | Other Voices, Other Rooms
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+BREAKFAST | In England this dish, bread dipped in an egg-&-milk batter & fried, is called "Poor Knights of Windsor" | French toast
+right: Gil
+Wrong: 
+Value: $1000
+Number: 5
+AT TIFFANY'S | This daughter of an artist has had her jewelry collections at Tiffany since 1980 | Paloma Picasso
+right: Bryan
+Wrong: 
+Value: DD: $1,200
+Number: 15
+"IN" | The Spanish one was officially founded by Ferdinand & Isabella in 1478 | the Inquisition
+right: Jason
+Wrong: 
+Value: $1000
+Number: 11
+COLD | In 1954, temps at Rogers Pass in this "Treasure State" plunged to -70° F., a continental U.S. record | Montana
+right: Jason
+Wrong: 
+Value: $1000
+Number: 25
+BLOOD | In 2002 Aaliyah played this "royal" from Anne Rice's vampire menagerie | Queen of the Damned
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Bryan: $3,400
+Jason: $2,800
+Gil: $3,000
+Scores at the end of the Jeopardy! Round:
+Bryan: $6,000
+Jason: $5,400
+Gil: $2,800
+Second Jeopardy! Round: PHILOSOPHY, CELEBRITY SIBLINGS, SCIENCE STUFF, I KNOW YOU FROM SOMEWHERE, LET'S RUN IT UP THE FLAGPOLE, BEFORE & AFTER
+PHILOSOPHY | "Cartesian" refers to the ideas of this man, the "Father of Modern Philosophy" | Descartes
+right: Gil
+Wrong: 
+Value: $400
+Number: 1
+CELEBRITY SIBLINGS | Gridiron stars: Peyton & Eli | Manning
+right: Bryan
+Wrong: 
+Value: $400
+Number: 6
+SCIENCE STUFF | A recent discovery reveals that the oldest mammals, large & small, average about 1.5 billion of these per lifetime | a heartbeat
+right: Jason
+Wrong: 
+Value: $400
+Number: 8
+I KNOW YOU FROM SOMEWHERE | We were both at a meeting of this organization founded in 1957 for those who can't stay away from gaming | Gamblers Anonymous
+right: Bryan
+Wrong: 
+Value: $400
+Number: 15
+LET'S RUN IT UP THE FLAGPOLE | Although <http://www.j-archive.com/media/2008-04-01_DJ_21.jpg> this country's flag is square, during WWII a rectangular flag was adopted for its boats | Switzerland
+right: Bryan
+Wrong: 
+Value: $400
+Number: 21
+PHILOSOPHY | The first Greek philosophers tried to understand the universe, practicing this -ology, from the Greek for "order" | cosmology
+right: 
+Wrong: Triple Stumper
+Gil: What is ontology?
+Value: $800
+Number: 2
+CELEBRITY SIBLINGS | Music makers: Branford & Wynton | Marsalis
+right: Gil
+Wrong: 
+Value: $800
+Number: 7
+SCIENCE STUFF | The Delta 32 genetic mutation prevents HIV; it's been found in the DNA of those who didn't get this Medieval scourge | the plague
+right: Gil
+Wrong: 
+Value: $800
+Number: 9
+I KNOW YOU FROM SOMEWHERE | What a nice chat we had on this country's Garuda Airlines, going from Jakarta to Hong Kong | Indonesia
+right: Gil
+Wrong: 
+Value: $800
+Number: 17
+LET'S RUN IT UP THE FLAGPOLE | The red triangle on <http://www.j-archive.com/media/2008-04-01_DJ_22.jpg> this country's flag, a modified Arab revolt flag, represents the Hashemite Dynasty | Jordan
+right: 
+Wrong: 
+Bryan: What is Iraq?
+Value: DD: $800
+Number: 22
+BEFORE & AFTER | Christmas carol with the line "Born is the King of Israel" becomes a witty English playwright | The First Noël Coward
+right: Jason
+Wrong: 
+Bryan: What is Noël, Noël Coward?
+Gil: What is Noël Coward?
+Value: $800
+Number: 28
+PHILOSOPHY | Fideists say that the source of religious belief is not reason but this | faith
+right: Bryan
+Wrong: 
+Value: $1200
+Number: 3
+CELEBRITY SIBLINGS | Actresses: Meg & Jennifer | Tilly
+right: Bryan
+Wrong: 
+Value: $1200
+Number: 11
+SCIENCE STUFF | (<http://www.j-archive.com/media/2008-04-01_DJ_10.wmv> Jon  of the Clue Crew reports from the lab, where he rolls a coin down an inclined plane.)  Inside vending machines, magnets pick up steel slugs, but U.S. coins go right in, because they're minted from non-magnetic mixed metals, known as these | alloys
+right: Bryan
+Wrong: 
+Value: $1200
+Number: 10
+I KNOW YOU FROM SOMEWHERE | Why it was just 2 Saturdays ago we met after services at the Tabernacle of this church in Battle Creek, Mich. | Seventh Day Adventists
+right: Gil
+Wrong: 
+Value: DD: $3,000
+Number: 18
+LET'S RUN IT UP THE FLAGPOLE | The 3 colors of <http://www.j-archive.com/media/2008-04-01_DJ_23.jpg> this Asian island republic's flag once stood for nationalism, democracy & socialism | Taiwan
+right: 
+Wrong: Triple Stumper
+Bryan: What are the Philippines?
+Value: $1200
+Number: 23
+BEFORE & AFTER | The round  glove worn by a baseball backstopper runs for president as a Mormon ex-Mass. governor | catcher's Mitt Romney
+right: Bryan
+Wrong: 
+Value: $1200
+Number: 26
+PHILOSOPHY | <http://www.j-archive.com/media/2008-04-01_DJ_04.jpg> This German philosopher's idea of the Ubermensch included included people like Frederick the Great | Nietzche
+right: Gil
+Wrong: 
+Value: $1600
+Number: 4
+CELEBRITY SIBLINGS | Filmmakers: Joel & Ethan | Coen
+right: Gil
+Wrong: 
+Value: $1600
+Number: 12
+SCIENCE STUFF | In this type of bomb, 2 atoms of deuterium collide to produce a helium atom & extra neutrons | a hydrogen bomb (or a fusion bomb)
+right: 
+Wrong: Triple Stumper
+Bryan: What is a nuclear bomb?
+Gil: What is fission?
+Value: $1600
+Number: 13
+I KNOW YOU FROM SOMEWHERE | I lent you 300 of these, the local currency, last summer in Poland-- oh, of course you've forgotten | z&#322;oty
+right: Gil
+Wrong: 
+Value: $1600
+Number: 19
+LET'S RUN IT UP THE FLAGPOLE | Columbus landed <http://www.j-archive.com/media/2008-04-01_DJ_24.jpg> here; the 5 stars represent the federation it was once a part of | Honduras
+right: 
+Wrong: Triple Stumper
+Bryan: What are the Bahamas?
+Value: $1600
+Number: 24
+BEFORE & AFTER | The spectacular company that does the "O" show in Vegas becomes the star of "Punky Brewster" | Cirque du Soleil Moon Frye
+right: Bryan
+Wrong: 
+Value: $1600
+Number: 27
+PHILOSOPHY | The opposite of determinism is this 2-word phrase used in an 1889 Henri Bergson book title | free will
+right: Jason
+Wrong: 
+Value: $2000
+Number: 5
+CELEBRITY SIBLINGS | Figure skaters: Sarah & Emily | Hughes
+right: Bryan
+Wrong: 
+Value: $2000
+Number: 16
+SCIENCE STUFF | (<http://www.j-archive.com/media/2008-04-01_DJ_14.wmv> Cheryl of the Clue Crew spins purple plastic tube.) When the tube spins, high pressure pushes air through it to the lower pressure end, producing sound & demonstrating this principle named for a Swiss mathematician | the Bernoulli principle
+right: 
+Wrong: Triple Stumper
+Jason: What is Doppler?
+Value: $2000
+Number: 14
+I KNOW YOU FROM SOMEWHERE | I knew you weren't a fellow vegetarian when I saw you order carne asada, made with this meat | beef
+right: Bryan
+Wrong: 
+Value: $2000
+Number: 20
+LET'S RUN IT UP THE FLAGPOLE | The white bar of <http://www.j-archive.com/media/2008-04-01_DJ_25.jpg> this country's flag represents the minority & the green is for the Muslim majority | Pakistan
+right: Jason
+Wrong: 
+Value: $2000
+Number: 25
+BEFORE & AFTER | '60s TV actress who played identical cousins (identical cousins? seriously?) who brought us "Take The A Train" | Patty Duke Ellington
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Bryan: $11,600
+Jason: $8,600
+Gil: $10,200
+
+Final Jeopardy! Round
+VICE PRESIDENTS | He's the only sitting vice president since Martin Van Buren elected to the presidency | George H.W. Bush
+right: Bryan
+Wrong: 
+Jason: Who is Al Gore?
+Gil: Who was Nixon?
+Wagers: 
+Jason: $8,599
+Gil: $7,001
+Bryan: $8,801
+Final scores:
+Bryan: $20,401 (3-day champion: $68,803)
+Jason: $1 (3rd place: $1,000)
+Gil: $3,199 (2nd place: $2,000)
+
+Coryat scores
+Bryan: $12,200 (19 R(including 1 DD),6 W(including 1 DD))
+Jason: $8,600 (14 R,2 W)
+Gil: $8,400 (16 R(including 1 DD),5 W)

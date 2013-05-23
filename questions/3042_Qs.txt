@@ -1,0 +1,326 @@
+3361 - Monday, March 29, 1999
+Comments: 1999 Celebrity <i>Jeopardy!</i> Sitcom Stars Night.
+Contestants:
+Dave Foley: an actor from NewsRadio
+Kathy Kinney: an actress from The Drew Carey Show
+Wallace Langham: an actor from Veronica's Closet
+First Jeopardy! Round: INSECTS, BRAIN CANDY, CLASSIC TV, LIQUOR BY LABEL, "GO"ING, AROUND THE WORLD
+INSECTS | The female cockroach has a packing case for these & carries it until she finds a good spot for them | her eggs
+right: Kathy
+Wrong: 
+Value: $100
+Number: 9
+BRAIN CANDY | This Sir Arthur Conan Doyle character once remarked "A man's brain originally is like a little empty attic" | Sherlock Holmes
+right: Wallace
+Wrong: 
+Value: $100
+Number: 7
+CLASSIC TV | As Kojak, this actor loved you, baby | Telly Savalas
+right: Kathy
+Wrong: 
+Value: $100
+Number: 2
+LIQUOR BY LABEL | Old Grand-Dad, Jim Beam, Wild Turkey | bourbon
+right: Dave
+Wrong: 
+Value: $100
+Number: 1
+"GO"ING | Transportation for kids | go karts
+right: Wallace
+Wrong: 
+Value: $100
+Number: 13
+AROUND THE WORLD | Any Scottish one over 3,000' is called a Munro, for the man who made a list of them in 1891 | mountain
+right: Dave
+Wrong: 
+Value: $100
+Number: 25
+INSECTS | Of its nose, tongue or feet, it's where a fly has its "taste buds" | feet
+right: Kathy
+Wrong: 
+Wallace: What is nose?
+Value: $200
+Number: 15
+BRAIN CANDY | Examples of these pains in the brain include the cluster & tension varieties | headaches
+right: Dave
+Wrong: 
+Value: $200
+Number: 8
+CLASSIC TV | Darrin Stephens was the flabbergasted husband on this magical sitcom | Bewitched
+right: Wallace
+Wrong: 
+Value: $200
+Number: 3
+LIQUOR BY LABEL | Finlandia, Absolut, Stolichnaya | vodka
+right: Dave
+Wrong: 
+Value: $200
+Number: 20
+"GO"ING | From a Persian word for "snake-eater", a markhor is a wild type of this bearded ruminant | goat
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 14
+INSECTS | When handled, these jumpers spit a brown liquid some call "tobacco juice" | grasshoppers
+right: Wallace
+Wrong: 
+Value: $300
+Number: 17
+BRAIN CANDY | It does "matter" that you give us this colorful slang term for the brain | gray matter
+right: Kathy
+Wrong: 
+Wallace: What is melon?
+Value: $300
+Number: 10
+CLASSIC TV | In the "Star Trek" episode "Amok Time" this character wants to return to his home planet to mate | Mr. Spock
+right: Dave
+Wrong: 
+Value: $300
+Number: 4
+LIQUOR BY LABEL | Bombay, Beefeater, Tanqueray | gin
+right: Dave
+Wrong: 
+Value: $300
+Number: 21
+"GO"ING | This 1965 record was Shirley Bassey's biggest hit in the U.S. | "Goldfinger"
+right: Dave
+Wrong: 
+Value: $300
+Number: 16
+INSECTS | These long-snouted pests may attack shrubs & berries, but the boll type concentrates on cotton | weevils
+right: Wallace
+Wrong: 
+Value: DD: $500
+Number: 18
+BRAIN CANDY | It's not cloudbursts in the skull, but shared problem solving in which everyone contributes ideas | brainstorming
+right: Kathy
+Wrong: 
+Wallace: What are synapses?
+Value: $400
+Number: 11
+CLASSIC TV | Harvard-educated surgeon Charles Winchester replaced Major Frank Burns on this show | M*A*S*H
+right: Dave
+Wrong: 
+Value: $400
+Number: 5
+LIQUOR BY LABEL | Appleton, Captain Morgan, Bacardi | rum
+right: Wallace
+Wrong: 
+Value: $400
+Number: 22
+"GO"ING | A word for mining haphazardly in irregular holes comes from the name of this burrowing rodent | gopher
+right: Dave
+Wrong: 
+Value: $400
+Number: 24
+INSECTS | The chigoe, or chigger, is also known as the sand type of this pest | flea
+right: Wallace
+Wrong: 
+Value: $500
+Number: 19
+BRAIN CANDY | It's the name for the brain-wasting cattle infection that crippled the British beef industry in 1996 | mad cow disease
+right: Kathy
+Wrong: 
+Value: $500
+Number: 12
+CLASSIC TV | The Brady Bunch had a cat named Fluffy & a dog named this | Tiger
+right: Wallace
+Wrong: 
+Value: $500
+Number: 6
+LIQUOR BY LABEL | Two Fingers, Herradura, Jose Cuervo | tequila
+right: Kathy
+Wrong: 
+Value: $500
+Number: 23
+"GO"ING | Biblical name shared by the oldest son of Japheth & a TV Marine | Gomer
+right: Wallace
+Wrong: 
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Wallace: $200
+Kathy: $1,400
+Dave: $1,000
+Scores at the end of the Jeopardy! Round:
+Wallace: $2,200
+Kathy: $2,100
+Dave: $2,300
+Second Jeopardy! Round: SWITZERLAND, MUSICAL THEATRE, KATHY-GORY, FILM ANIMALS, MAKEUP, "I" SHADOW
+SWITZERLAND | The flag of this international organization is based on the Swiss flag | the Red Cross
+right: Kathy
+Wrong: 
+Value: $200
+Number: 26
+MUSICAL THEATRE | Act I of this 1997 "Best Musical" features an opening sequence titled "The Launching" | Titanic
+right: Dave
+Wrong: 
+Value: $200
+Number: 13
+KATHY-GORY | She played Erica's cellmate on "All My Children" before she won an Oscar for "Misery" | Kathy Bates
+right: Dave
+Wrong: 
+Value: $200
+Number: 12
+FILM ANIMALS | Flipper | dolphin
+right: Wallace
+Wrong: 
+Value: $200
+Number: 4
+MAKEUP | If you go swimming, wear the waterproof type of this lash enhancer so you don't get "raccoon eyes" | mascara
+right: Kathy
+Wrong: 
+Value: $200
+Number: 1
+"I" SHADOW | Muy caliente!  This Spanish superstar has sung successful duets with Stevie Wonder & Willie Nelson | Julio Iglesias
+right: Wallace
+Wrong: 
+Value: $200
+Number: 11
+SWITZERLAND | On June 12, 1897 Karl Elsener officially registered this multipurpose pocket tool | Swiss army knife
+right: Dave
+Wrong: 
+Value: $400
+Number: 27
+MUSICAL THEATRE | "Big River", featuring such characters as the Widow Douglas & Tom Sawyer, is based on this book | "Huckleberry Finn"
+right: Wallace
+Wrong: 
+Value: $400
+Number: 18
+KATHY-GORY | This "Suddenly Susan" co-star appeared on film in "The Cable Guy" & "Pulp Fiction" | Kathy Griffin
+right: Kathy
+Wrong: 
+Value: $400
+Number: 14
+FILM ANIMALS | Mighty Joe Young | ape
+right: Kathy
+Wrong: 
+Value: $400
+Number: 5
+MAKEUP | French for "red", L'Oreal makes a "Virtuale" version of it | rouge
+right: Wallace
+Wrong: 
+Value: $400
+Number: 2
+"I" SHADOW | Gelato is the Italian word for this treat | ice cream
+right: Kathy
+Wrong: 
+Value: $400
+Number: 22
+SWITZERLAND | If you're into this Swiss product you may want to "hole" up in the town of Gruyeres | Swiss cheese
+right: Dave
+Wrong: 
+Value: $600
+Number: 28
+MUSICAL THEATRE | In an Andrew Lloyd Webber-Tim Rice show, it's the other title word describing Joseph's amazing dreamcoat | Technicolor
+right: Wallace
+Wrong: 
+Value: DD: $2,000
+Number: 19
+KATHY-GORY | As Olive on "Veronica's Closet", she finds that life isn't the pits | Kathy Najimy
+right: Kathy
+Wrong: 
+Value: $600
+Number: 15
+FILM ANIMALS | Black Beauty | horse
+right: Wallace
+Wrong: 
+Value: $600
+Number: 8
+MAKEUP | Estee Lauder suggests putting this on top of your foundation twice: with a cotton ball & a big, fluffy brush | powder
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+"I" SHADOW | In criminal law, it's defined as an individual's inability to distinguish right from wrong | insanity
+right: Wallace
+Wrong: 
+Value: $600
+Number: 23
+SWITZERLAND | This geographic extreme for Switzerland is 636 feet above sea level at Lake Maggiore | the lowest point
+right: 
+Wrong: Triple Stumper
+Dave: What are the Alps?
+Value: $800
+Number: 29
+MUSICAL THEATRE | This Sondheim tune begins, "Something familiar, something peculiar, something for everyone, a..." | "Comedy Tonight"
+right: Wallace
+Wrong: 
+Value: $800
+Number: 20
+KATHY-GORY | This supermodel's official website features shopping tips, a book corner & a "Get in Touch with Kathy" section | Kathy Ireland
+right: Dave
+Wrong: 
+Value: $800
+Number: 16
+FILM ANIMALS | Beethoven | St. Bernard
+right: Kathy
+Wrong: 
+Value: $800
+Number: 9
+MAKEUP | This makeup maven has the same name as Whitney Houston's husband, but she spells it differently | Bobbi Brown
+right: Kathy
+Wrong: 
+Value: $800
+Number: 6
+"I" SHADOW | We Canadians know this U.S. government branch is abbreviated I.N.S. | Immigration and Naturalization Service
+right: 
+Wrong: Triple Stumper
+Kathy: What is Immigration and Naturalization Services?
+Value: $800
+Number: 24
+SWITZERLAND | You'd have to have your head examined to check into the C.G. Jung Institute of this largest Swiss city | Zurich
+right: 
+Wrong: Triple Stumper
+Dave: What is Stockholm...no, that's Sweden!
+Value: $1000
+Number: 30
+MUSICAL THEATRE | 1959 musical that introduced the song "Everything's Coming Up Roses" | Gypsy
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 21
+KATHY-GORY | Lauren Chapin played Kathy, also known as "Kitten", on this classic sitcom | Father Knows Best
+right: 
+Wrong: 
+Dave: What is "Petticoat Junction"...I have no idea, don't mock me!
+Value: DD: $2,000
+Number: 17
+FILM ANIMALS | Fievel | mouse
+right: Dave
+Wrong: 
+Value: $1000
+Number: 10
+MAKEUP | Gash & acid rain are popular hues of Urban Decay makeup, whose ads have asked, "Does" this pastel color "make you puke?" | pink
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 7
+"I" SHADOW | This ancient Greek epic poem attributed to Homer describes the siege of Troy | "The Iliad"
+right: Wallace
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Wallace: $8,400
+Kathy: $6,100
+Dave: $2,300
+
+Final Jeopardy! Round
+1999 ANNIVERSARIES | A traveling exhibit honoring the 200th anniversary of his death features his false teeth | George Washington
+right: Kathy | Wallace
+Wrong: 
+Dave: Who Mozart
+Wagers: 
+Dave: $2,300
+Kathy: $6,000
+Wallace: $8,400
+Final scores:
+Wallace: $16,800 (Winner: $16,800 for the Greenpeace Fund)
+Kathy: $12,100 (2nd place: $12,100 for Project Angel Food)
+Dave: $0 (3rd place: $10,000 for "Shane's Inspiration")
+
+Coryat scores
+Wallace: $6,900 (18 R(including 2 DDs),3 W)
+Kathy: $6,100 (16 R,1 W)
+Dave: $4,300 (16 R,3 W(including 1 DD))

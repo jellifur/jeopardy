@@ -1,0 +1,350 @@
+4679 - Thursday, December 30, 2004
+Contestants:
+Maura Gatowski: a technology manager from Beverly Hills, Michigan
+Doug Esker: an engineer from Saint Marys, Pennsylvania
+Eric Schwendeman: a bookseller from Columbus, Ohio (whose 1-day cash winnings total $11,500)
+First Jeopardy! Round: MEN & WOMEN OF SCIENCE, SNOWY SONGS, 1-2, THE SOUTHERNMOST NATION, CLUB ME, THIS "BUD"'S FOR YOU
+MEN & WOMEN OF SCIENCE | In 1925 this American anthropologist first visited Samoa; she wrote a book about it 3 years later | Margaret Mead
+right: Doug
+Wrong: 
+Value: $200
+Number: 2
+SNOWY SONGS | This guy "knew that the sun was out that day, so he said, 'let's run and have some fun now before I melt away'" | Frosty the Snowman
+right: Doug
+Wrong: 
+Value: $200
+Number: 1
+1-2 | You could be giving someone the ol' 1-2 with a left hook & an uppercut in this "sweet science" | boxing
+right: Doug
+Wrong: 
+Value: $200
+Number: 8
+THE SOUTHERNMOST NATION | India, Italy,  Iceland | India
+right: Doug
+Wrong: 
+Value: $200
+Number: 17
+CLUB ME | To join England's venerable Carlton Club, Margaret Thatcher had to be made an honorary one of these | a man
+right: Eric
+Wrong: 
+Doug: What is a knight?
+Value: $200
+Number: 26
+THIS "BUD"'S FOR YOU | It's the practice of pairing swimmers, with each responsible for the other's safety | the buddy system
+right: Doug
+Wrong: 
+Value: $200
+Number: 16
+MEN & WOMEN OF SCIENCE | In 1909, after 7 years with the Swiss Patent Office, he became a professor at the University of Zurich | Albert Einstein
+right: Maura
+Wrong: 
+Value: $400
+Number: 3
+SNOWY SONGS | Title that follows "the fire is slowly dying, and, my dear, we're still goodbye-ing, but as long as you love me so..." | "Let It Snow (Let It Snow, Let It Snow)"
+right: Doug
+Wrong: 
+Value: $400
+Number: 7
+1-2 | As Ernestine, it's what Lily Tomlin usually said before she reached the party to whom she was speaking | one ringie-dingie, two ringie-dingie
+right: Eric
+Wrong: 
+Value: $400
+Number: 9
+THE SOUTHERNMOST NATION | Zaire, Zimbabwe, Zambia | Zimbabwe
+right: Eric
+Wrong: 
+Value: $400
+Number: 18
+CLUB ME | For many years, Henny Youngman received much of his fan mail at this comedy "club" found on NYC's East 55th Street | the Friar's Club
+right: Eric
+Wrong: 
+Value: $400
+Number: 27
+THIS "BUD"'S FOR YOU | In 1873 3 adjoining cities united with Margaret Island to form this city, now a world capital | Budapest
+right: Maura
+Wrong: 
+Value: $400
+Number: 20
+MEN & WOMEN OF SCIENCE | In the 1870s this French chemist demonstrated that anthrax was caused by a particular bacillus | Pasteur
+right: Eric
+Wrong: 
+Value: $600
+Number: 4
+SNOWY SONGS | He "looked out on the feast of Stephen, when the snow lay round about, deep and crisp and even" | Good King Wenceslas
+right: Eric
+Wrong: 
+Value: $600
+Number: 13
+1-2 | The poem that begins with this line includes "11, 12 dig and delve" | one two, buckle my shoe
+right: Maura
+Wrong: 
+Value: $600
+Number: 10
+THE SOUTHERNMOST NATION | The United Arab Emirates, The United Kingdom, The Federated States of Micronesia | Micronesia
+right: Maura
+Wrong: 
+Value: $600
+Number: 19
+CLUB ME | It's the "happy" name for a group of college singers who perform short pieces of choral music | a glee club
+right: Doug
+Wrong: 
+Value: $600
+Number: 28
+THIS "BUD"'S FOR YOU | An 1876 Montana battle between the U.S. Army & the Sioux, or the last word "Citizen Kane" utters before dying | Rosebud
+right: Eric
+Wrong: 
+Value: $600
+Number: 21
+MEN & WOMEN OF SCIENCE | In the 1930s this California transplant posthumously received plant patents No. 12-16 | Luther Burbank
+right: 
+Wrong: 
+Eric: What is the navel orange?
+Value: DD: $500
+Number: 5
+SNOWY SONGS | "In the lane snow is glistening, a beautiful sight, we're happy tonight" in this place | a winter wonderland
+right: Maura
+Wrong: 
+Value: $800
+Number: 14
+1-2 | The Lennon Sisters are featured on his album "A-One A-Two" | Lawrence Welk
+right: Eric
+Wrong: 
+Value: $800
+Number: 11
+THE SOUTHERNMOST NATION | Chile, South Africa, Malaysia | Chile
+right: Doug
+Wrong: 
+Maura: What is South Africa?
+Value: $800
+Number: 24
+CLUB ME | The Baum Bugle is the newsletter of the international club for fans of this tale | The Wizard of Oz
+right: Maura
+Wrong: 
+Value: $800
+Number: 29
+THIS "BUD"'S FOR YOU | He preached his first sermon to 5 disciples in a park near the holy city of Varanasi | Buddha
+right: Maura
+Wrong: 
+Value: $800
+Number: 22
+MEN & WOMEN OF SCIENCE | The "Hans"-on work of this biochemist born in 1900 unraveled the mystery of the citric acid cycle | Hans Krebs
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+SNOWY SONGS | In "I'll be home for Christmas", "please have" these 2 rhyming items "and presents on the tree" | snow and mistletoe
+right: Eric
+Wrong: 
+Value: $1000
+Number: 15
+1-2 | At the 2002 Winter Olympics, with Kati Wilhelm & Uschi Disl this country took 1 & 2 in the women's 7.5K biathlon | Germany
+right: Eric
+Wrong: 
+Maura: What is Norway?
+Value: $1000
+Number: 12
+THE SOUTHERNMOST NATION | Nicaragua, Panama, Honduras | Panama
+right: Doug
+Wrong: 
+Value: $1000
+Number: 25
+CLUB ME | Founded in 1795, this Harvard club is famed for its theatricals | the Hasty Pudding Club
+right: Eric
+Wrong: 
+Value: $1000
+Number: 30
+THIS "BUD"'S FOR YOU | His name precedes "Foretopman" in the title of a 19th century novel | Billy Budd
+right: Eric
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the first commercial break (after clue 15)
+Eric: $3,900
+Doug: $1,000
+Maura: $800
+Scores at the end of the Jeopardy! Round:
+Eric: $7,500
+Doug: $3,600
+Maura: $2,600
+Second Jeopardy! Round: DEISGN, MOVIE ROLE IN COMMON, PULPIT FICTION, RELATED WORDS, "R" MAN, IN HAVANA
+DEISGN | In 1965 aeronautical engineer Owen MacLaren made a folding aluminum one of these for his parents | a stroller
+right: Maura
+Wrong: 
+Eric: What is chair?
+Doug: What is an airplane?
+Value: $400
+Number: 26
+MOVIE ROLE IN COMMON | Richard Harris & Michael Gambon: this wizard at Harry Potter's school | Dumbledore
+right: Eric
+Wrong: 
+Value: $400
+Number: 1
+PULPIT FICTION | In this work, the Reverend Arthur Dimmesdale is revealed as the father of Hester Prynne's daughter Pearl | The Scarlet Letter
+right: Doug
+Wrong: 
+Value: $400
+Number: 21
+RELATED WORDS | "Caustic" is related to this murderous term, subject of a U.S. Memorial Museum | holocaust
+right: Doug
+Wrong: 
+Value: $400
+Number: 16
+"R" MAN | He is the groundbreaking second baseman seen <http://www.j-archive.com/media/2004-12-30_DJ_08.jpg> here in 1946 | Jackie Robinson
+right: Eric
+Wrong: 
+Value: $400
+Number: 8
+IN HAVANA | Treasures of the Havana City Museum include a throne room built for the king of this country, but never used | Spain
+right: Doug
+Wrong: 
+Value: $400
+Number: 6
+DEISGN | Henry Dreyfuss' "300" of 1937 was one of these with the mouthpiece and earpiece in a single bakelite shell | a telephone
+right: Doug
+Wrong: 
+Eric: What is a hearing aid?
+Value: $800
+Number: 27
+MOVIE ROLE IN COMMON | Brian Cox & Anthony Hopkins: this movie villain | Hannibal Lecter
+right: Doug
+Wrong: 
+Value: $800
+Number: 2
+PULPIT FICTION | The archvillainous archdeacon Claude Frollo plots his schemes in this work | The Hunchback of Notre Dame
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+RELATED WORDS | One who's loquacious or eloquent can't resist making one of these monologues when he's alone | soliloquy
+right: Eric
+Wrong: 
+Value: $800
+Number: 17
+"R" MAN | Mount Rushmore was finished during this president's administration | Franklin Roosevelt
+right: Eric
+Wrong: 
+Value: $800
+Number: 9
+IN HAVANA | In operation since 1845, Havana's Casa del Habaño employs 500 people 6 days a week making these | cigars
+right: Doug
+Wrong: 
+Value: DD: $4,500
+Number: 7
+DEISGN | In 1972 this company introduced the SX-70, its first SLR model | Polaroid
+right: 
+Wrong: Triple Stumper
+Doug: What is Kodak?
+Value: $1200
+Number: 28
+MOVIE ROLE IN COMMON | Cary Grant & Kevin Kline: this American songwriter | Cole Porter
+right: Doug
+Wrong: 
+Value: $1200
+Number: 3
+PULPIT FICTION | Minister Gruffydd is a central character in this inspiring 1939 novel about Welsh coal miners | How Green Was My Valley
+right: Doug
+Wrong: 
+Eric: What is How Green Is My Valley?
+Value: $1200
+Number: 23
+RELATED WORDS | Impeccable means without flaws (originally, sins); this word is a slight flaw (or sin) | peccadillo
+right: Eric
+Wrong: 
+Value: DD: $2,500
+Number: 18
+"R" MAN | There's a circus collection in the Sarasota Museum of Art named for this man | (John) Ringling
+right: Eric
+Wrong: 
+Value: $1200
+Number: 10
+IN HAVANA | Havana sites associated with him include Hotel Ambos Mundos (where he wrote) & La Bodeguita (where he drank) | Ernest Hemingway
+right: Doug
+Wrong: 
+Value: $1200
+Number: 13
+DEISGN | Popular in the 1960s, <http://www.j-archive.com/media/2004-12-30_DJ_29.jpg> this brand made a comeback in 2001 | Vespa
+right: Maura
+Wrong: 
+Value: $1600
+Number: 29
+MOVIE ROLE IN COMMON | Vanessa Redgrave & Keira Knightley: this queen | Guinevere
+right: Maura
+Wrong: 
+Value: $1600
+Number: 4
+PULPIT FICTION | The old priest Stephen Kumalo seeks his son in the urban sprawl of Johannesburg in this "Beloved" Alan Paton novel | Cry, the Beloved Country
+right: Eric
+Wrong: 
+Value: $1600
+Number: 24
+RELATED WORDS | This term for a servant or follower has the same French origin as a type of filet | minion
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+"R" MAN | This man hosts "Meet the Press", the USA's longest-running TV show | Tim Russert
+right: Doug
+Wrong: 
+Value: $1600
+Number: 11
+IN HAVANA | Until Castro's 1959 victory, what's now the Museum of the Revolution served as this man's presidential palace | (Fulgencio) Batista
+right: Doug
+Wrong: 
+Value: $1600
+Number: 14
+DEISGN | Quick, raise a cup to Achille Gaggia, who created a domestic machine to make this in the late 1940s | espresso
+right: Eric
+Wrong: 
+Value: $2000
+Number: 30
+MOVIE ROLE IN COMMON | Anthony Hopkins & Dan Hedaya: this political figure | Richard Nixon
+right: Eric
+Wrong: 
+Value: $2000
+Number: 5
+PULPIT FICTION | Kiril Lakota is the Russian priest who is elevated to Pope in this 1963 Morris West novel | The Shoes of the Fisherman
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+RELATED WORDS | If you're lucky, your remuneration will be this, an adjective from the same Latin root | munificent
+right: 
+Wrong: Triple Stumper
+Eric: Emu--emuner--I'm sorry.
+Value: $2000
+Number: 20
+"R" MAN | He helped overthrow Marcos & was later president of the Philippines himself | Fidel Ramos
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+IN HAVANA | A 450' monument to this Cuban poet & "Father of the Nation" stands in Havana's Havana's Revolution Square | José Martí
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Eric: $14,800
+Doug: $16,100
+Maura: $6,200
+
+Final Jeopardy! Round
+VICE PRESIDENTS | He was the first vice president to cast zero tiebreaking votes in his capacity as president of the Senate | John Tyler
+right: 
+Wrong: 
+Maura: Who is ?
+Eric: Who is Spiro Agnew?
+Doug: Who is John Adams?
+Wagers: 
+Maura: $0
+Eric: $14,799
+Doug: $13,501
+Final scores:
+Eric: $1 (3rd place: $1,000)
+Doug: $2,599 (2nd place: $2,000)
+Maura: $6,200 (New champion: $6,200)
+
+Coryat scores
+Eric: $14,000 (21 R(including 1 DD),5 W(including 1 DD))
+Doug: $12,400 (20 R(including 1 DD),3 W)
+Maura: $6,200 (10 R,2 W)

@@ -1,0 +1,337 @@
+5983 - Wednesday, September 22, 2010
+Contestants:
+Russ Porter: a water systems engineer from Seattle, Washington
+Destiny Lilly: a casting director from New York, New York
+Jelisa Castrodale: a sportswriter from Winston-Salem, North Carolina (whose 1-day cash winnings total $39,399)
+First Jeopardy! Round: WIDE WORLD OF SPORES, THE COMMISH, "C"s THE DAY, BOUNCE, RHYMES WITH YELLOW, FOUND IN MONGOLIA
+WIDE WORLD OF SPORES | Spores are often scattered by these windblown plants: as the song says, they're "drifting along with the tumbling"... | tumbleweeds
+right: Russ
+Wrong: 
+Value: $200
+Number: 21
+THE COMMISH | Roger Goodell | the NFL
+right: Destiny
+Wrong: 
+Value: $200
+Number: 1
+"C"s THE DAY | Nixon made the second Monday of October a national holiday & called it this | Columbus Day
+right: Destiny
+Wrong: 
+Value: $200
+Number: 8
+BOUNCE | When dropped onto a granite block from 100 inches, this sport's white & yellow balls must bounce between 53" & 58" | tennis
+right: Destiny
+Wrong: 
+Value: $200
+Number: 26
+RHYMES WITH YELLOW | It's the second-largest member of the violin family | the cello
+right: Jelisa
+Wrong: 
+Value: $200
+Number: 16
+FOUND IN MONGOLIA | Mongolia's annual Naadam festival includes archery, wrestling & the racing of   these animals | horses
+right: Russ
+Wrong: 
+Value: $200
+Number: 6
+WIDE WORLD OF SPORES | Spores are produced by green plants, bacteria & these, including yeasts, smuts & molds | fungi
+right: Jelisa
+Wrong: 
+Value: $400
+Number: 22
+THE COMMISH | Bud Selig | Major League Baseball
+right: Destiny
+Wrong: 
+Value: $400
+Number: 2
+"C"s THE DAY | Celebrating the 1862 Batalla de Puebla, this day is sometimes confused with Mexican Independence Day | Cinco de Mayo
+right: Destiny
+Wrong: 
+Value: $400
+Number: 9
+BOUNCE | In August 1812 a U.S. frigate got this nickname when British cannonballs were seen to bounce off its thick oak hull | the Ironsides (Old Ironsides)
+right: Russ
+Wrong: 
+Value: $400
+Number: 30
+RHYMES WITH YELLOW | A deep shout or roar | a bellow
+right: Jelisa
+Wrong: 
+Value: $400
+Number: 17
+FOUND IN MONGOLIA | Navigable but carrying little traffic, the Selenge River forms part of Mongolia's border with this country | Russia
+right: Destiny
+Wrong: 
+Russ: What is China?
+Value: $400
+Number: 7
+WIDE WORLD OF SPORES | Unlike gametes, spores can do this all by themselves". Hubba hubba! | reproduce
+right: Destiny
+Wrong: 
+Value: $600
+Number: 23
+THE COMMISH | David Stern | the NBA
+right: Jelisa
+Wrong: 
+Value: $600
+Number: 3
+"C"s THE DAY | In the U.S. September 17 is this day that celebrates a certain signing | the Constitution (Day)
+right: Russ
+Wrong: 
+Value: $600
+Number: 10
+BOUNCE | George Nissen & Larry Griswold made the first modern one of these in 1935 using an iron frame & a piece of canvas | a trampoline
+right: Jelisa
+Wrong: 
+Value: $600
+Number: 29
+RHYMES WITH YELLOW | In a lyric from "The King and I", it precedes "young lovers, whoever you are" | hello
+right: Russ
+Wrong: 
+Value: $600
+Number: 18
+FOUND IN MONGOLIA | The name of the leading Mongolian newspaper Unen, just like Pravda, translates as this | truth
+right: Russ
+Wrong: 
+Value: $600
+Number: 11
+WIDE WORLD OF SPORES | In trees of this cone-bearing order such as the Douglas fir, males carry micro-spores: females, megaspores | conifers
+right: Russ
+Wrong: 
+Value: $800
+Number: 24
+THE COMMISH | Gary Bettman | the NHL
+right: Destiny
+Wrong: 
+Value: $800
+Number: 4
+"C"s THE DAY | Formerly Dominion Day, it recognizes the July 1 date of the first British colony to become a dominion | Canada
+right: Russ
+Wrong: 
+Value: $800
+Number: 14
+BOUNCE | Radio signals were bounced off this object for the first time during Project Diana on January 10, 1946 | the Moon
+right: 
+Wrong: 
+Destiny: What is a satellite?
+Value: DD: $2,000
+Number: 27
+RHYMES WITH YELLOW | He played a pizzeria owner in "Do the Right Thing" | Danny Aiello
+right: Destiny
+Wrong: 
+Value: $800
+Number: 19
+FOUND IN MONGOLIA | The only international airport in Mongolia bears the name of this 13th century Mongol | Genghis Khan
+right: Russ
+Wrong: 
+Value: $800
+Number: 12
+WIDE WORLD OF SPORES | In this type of nonflowering plant, such as the staghorn, spores function much like seeds | ferns
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+THE COMMISH | Bart Giamatti (once) | Major League Baseball
+right: Russ
+Wrong: 
+Value: $1000
+Number: 5
+"C"s THE DAY | For this Asian holiday, firecrackers are thought to scare away the arrival of the murderous beast Nien | Chinese New Year
+right: Destiny
+Wrong: 
+Value: $1000
+Number: 15
+BOUNCE | In 1907 the Gabriel Company received the first U.S. patent for this type of device that dampens a car's bounce | shock absorbers
+right: Destiny
+Wrong: 
+Value: $1000
+Number: 28
+RHYMES WITH YELLOW | A peer, or a member of a college's governing board | a fellow
+right: Destiny
+Wrong: 
+Value: $1000
+Number: 20
+FOUND IN MONGOLIA | With more than 400 monks, Mongolia's Gandan Monastery is a leading national center of this religion | Buddhism
+right: Destiny
+Wrong: 
+Value: $1000
+Number: 13
+Scores at the first commercial break (after clue 15)
+Jelisa: $600
+Destiny: $4,400
+Russ: $3,600
+Scores at the end of the Jeopardy! Round:
+Jelisa: $2,200
+Destiny: $6,000
+Russ: $5,600
+Second Jeopardy! Round: EXPLORERS OF THE NEW WORLD, SITCOM CITY SETTINGS, POPULAR POETS, CONGRESSIONAL GLOSSARY, MAESTROS, FOUND IN MONGOLIA
+EXPLORERS OF THE NEW WORLD | In 1513, while returning to Puerto Rico from Florida, he discovered the Dry Tortugas | Ponce de Leon
+right: Jelisa
+Wrong: 
+Value: $400
+Number: 6
+SITCOM CITY SETTINGS | "Frasier" | Seattle
+right: Jelisa
+Wrong: 
+Value: $400
+Number: 2
+POPULAR POETS | In 1936 a Robert Frost collection sold 50,000 copies as a selection of this club | the Book of the Month Club
+right: Russ
+Wrong: 
+Value: $400
+Number: 9
+CONGRESSIONAL GLOSSARY | It's a derogatory term meaning a foreign trip taken by members of Congress at the public expense | a junket
+right: Russ
+Wrong: 
+Value: $400
+Number: 22
+MAESTROS | This longtime maestro of the Boston Pops Orchestra is honored with an oversized bust on the Esplanade | Arthur Fiedler
+right: Russ
+Wrong: 
+Value: $400
+Number: 14
+FOUND IN MONGOLIA | An Eskimo house | an igloo
+right: Destiny
+Wrong: 
+Value: $400
+Number: 19
+EXPLORERS OF THE NEW WORLD | On Sunday, September 25, 1513 he climbed a peak accompanied only by his dog & saw the Pacific Ocean | Balboa
+right: Russ
+Wrong: 
+Value: $800
+Number: 7
+SITCOM CITY SETTINGS | "The Drew Carey Show" | Cleveland
+right: Destiny
+Wrong: 
+Value: $800
+Number: 1
+POPULAR POETS | As Shakespeare was the Sweet this bird of Avon, Anna "Elegy on Captain Cook" Seward was this bird of Lichfield | Swan
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+CONGRESSIONAL GLOSSARY | This passageway refers to the space dividing the majority party from the minority | the (center) aisle
+right: Russ
+Wrong: 
+Value: $800
+Number: 24
+MAESTROS | A 2002 book about this Italian-born conductor was subtitled "The NBC Years" | Arturo Toscanini
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 15
+FOUND IN MONGOLIA | A low volume expression of pain | a moan
+right: Russ
+Wrong: 
+Value: $800
+Number: 23
+EXPLORERS OF THE NEW WORLD | (<http://www.j-archive.com/media/2010-09-22_DJ_08.jpg> Sarah of the Clue Crew shows a map on the monitor.)  In 1792,  when George Vancouver sailed up the west coast of North America & surveyed & named the <http://www.j-archive.com/media/2010-09-22_DJ_08a.jpg> Puget Sound for a shipmate, he named <http://www.j-archive.com/media/2010-09-22_DJ_08b.jpg> this mountain on the mainland for a rear admiral friend | Mt. Rainier
+right: Destiny
+Wrong: 
+Value: $1200
+Number: 8
+SITCOM CITY SETTINGS | "Laverne and Shirley" (the first 5 seasons) | Milwaukee
+right: Jelisa
+Wrong: 
+Value: $1200
+Number: 3
+POPULAR POETS | In 2002, this company came out with a product line featuring 2-line Maya Angelou poems | Hallmark Cards
+right: 
+Wrong: 
+Russ: What is Avon?
+Value: DD: $2,000
+Number: 13
+CONGRESSIONAL GLOSSARY | This synonym for "room" is used for the assembly room where senators gather on the floor to debate & vote | the Senate Chamber
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 26
+MAESTROS | Associated with the New York Philharmonic for 40 years, he wrote the score to the film "On the Waterfront" | Leonard Bernstein
+right: Russ
+Wrong: 
+Value: $1200
+Number: 16
+FOUND IN MONGOLIA | A temporary provision of money (usually at interest) | a loan
+right: Jelisa
+Wrong: 
+Value: $1200
+Number: 27
+EXPLORERS OF THE NEW WORLD | In 1596 Sir Walter Raleigh wrote the Book "Discoverie of Guiana", Guiana being the area between the Amazon & this river | the Orinoco
+right: Russ
+Wrong: 
+Value: $1600
+Number: 10
+SITCOM CITY SETTINGS | "The Office" | Scranton
+right: Jelisa
+Wrong: 
+Value: $1600
+Number: 4
+POPULAR POETS | Once popular, Thomas Moore is remembered for burning the memoirs of this famed poet who died in Greece | Lord Byron
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+MAESTROS | This son of a Polish cabinetmaker is probably best known as the conductor in Disney's "Fantasia" | Leopold Stokowski
+right: Russ
+Wrong: 
+Value: DD: $1,500
+Number: 17
+FOUND IN MONGOLIA | A soccer scooooooore! | a goal
+right: Destiny
+Wrong: 
+Value: $1600
+Number: 28
+EXPLORERS OF THE NEW WORLD | This founder of Quebec, not the Pilgrims, was the first to give a detailed account of the Cape Cod area | Samuel de Champlain
+right: 
+Wrong: Triple Stumper
+Russ: Who is Cabot?
+Value: $2000
+Number: 11
+SITCOM CITY SETTINGS | "The Big Bang Theory" | Pasadena
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+POPULAR POETS | This poet laureate's "Enoch Arden" sold 17,000 copies on its publication day in 1864 | Alfred, Lord Tennyson
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+CONGRESSIONAL GLOSSARY | Senate Rule 22 governs this procedure used to end filibusters that requires 60 votes to succeed | a cloture
+right: Russ
+Wrong: 
+Value: $2000
+Number: 29
+MAESTROS | In 2009 this young Venezuelan became the 11th music director in the history of the Los Angeles Philharmonic | Gustavo Dudamel
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+FOUND IN MONGOLIA | A body of water cut off from a larger body of water by a reef of sand | a lagoon
+right: Jelisa
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Jelisa: $9,000
+Destiny: $10,000
+Russ: $11,500
+
+Final Jeopardy! Round
+THE BRITISH ISLES | Britain's oldest known scrap of material called this, sometimes identified as shepherd's plaid, dates from 250 A.D. | tartan
+right: Destiny | Russ
+Wrong: 
+Jelisa: What is wool?
+Wagers: 
+Jelisa: $8,009
+Destiny: $9,999
+Russ: $8,501
+Final scores:
+Jelisa: $991 (3rd place: $1,000)
+Destiny: $19,999 (2nd place: $2,000)
+Russ: $20,001 (New champion: $20,001)
+
+Coryat scores
+Jelisa: $9,000 (11 R,0 W)
+Destiny: $12,000 (17 R,1 W(including 1 DD))
+Russ: $13,600 (20 R(including 1 DD),3 W(including 1 DD))

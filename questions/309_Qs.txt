@@ -1,0 +1,350 @@
+4771 - Monday, May 9, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 3, game 1.
+Contestants:
+Michael Rooney: a college professor from Pasadena, California
+Brad Rutter: a TV quiz show host from Lancaster, Pennsylvania
+Steve Chernicoff: a technical writer from Berkeley, California
+First Jeopardy! Round: THE BIBLE BELT, BARBRA STREISAND MOVIES, COCKNEY RHYMING SLANG, REALITY SHOWS OF THE PAST, EDUCATION, LET'S FINNISH THIS
+THE BIBLE BELT | To fulfill a prophecy, in the Gospels Joseph moved to this place--not the one of the same name in Kentucky | Nazareth
+right: 
+Wrong: Triple Stumper
+Michael: What is... Egypt?
+Value: $200
+Number: 1
+BARBRA STREISAND MOVIES | 2004: Barbra Streisand meets her potential in-laws | Meet the Fockers
+right: Michael
+Wrong: 
+Value: $200
+Number: 15
+COCKNEY RHYMING SLANG | This bird is called a "bow & arrow" (perhaps because of the way it killed Cock Robin) | a sparrow
+right: Michael
+Wrong: 
+Value: $200
+Number: 26
+REALITY SHOWS OF THE PAST | On the 1830s "Survivor: Texas", Susanna Dickinson & her child won the immunity challenge at this epic battle | the Alamo
+right: Michael
+Wrong: 
+Value: $200
+Number: 21
+EDUCATION | The 89% high school graduation rate of this "Garden State" is the USA's highest | New Jersey
+right: Michael
+Wrong: 
+Value: $200
+Number: 16
+LET'S FINNISH THIS | This symbol adorns the flag of Finland as well as the flag of its neighbor Sweden | a cross
+right: Brad
+Wrong: 
+Value: $200
+Number: 6
+THE BIBLE BELT | In Psalms "We wept, when we remembered" this, also preceding a "Crossroads" near Charlottesville, Virginia | Zion
+right: Steve
+Wrong: 
+Michael: What is Israel?
+Value: $400
+Number: 2
+BARBRA STREISAND MOVIES | 1968: Babs rises from the slums to become a star in the Ziegfeld Follies | Funny Girl
+right: Brad
+Wrong: 
+Value: $400
+Number: 14
+COCKNEY RHYMING SLANG | Use your band of hope--soap--to wash these, your "German bands" | your hands
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+REALITY SHOWS OF THE PAST | In 1944's version of "The Apprentice", Von Stauffenberg was fired by a squad after he tried to fire this leader | Hitler
+right: Brad
+Wrong: 
+Value: $400
+Number: 22
+EDUCATION | His famed "Blue-backed Speller" of 1783 helped standardize American spelling & pronunciation | Noah Webster
+right: Michael
+Wrong: 
+Value: $400
+Number: 17
+LET'S FINNISH THIS | From 1809 until 1917, Finland was an autonomous Grand Duchy of this country | Russia
+right: Michael
+Wrong: 
+Value: $400
+Number: 7
+THE BIBLE BELT | These bubbled near the biblical Bethel & Siloam, & follow "Bethel" & "Siloam" in Southern U.S. place names | Springs
+right: Steve
+Wrong: 
+Value: $600
+Number: 3
+BARBRA STREISAND MOVIES | 1983: Barbra disguises herself as a boy to get an education | Yentl
+right: Michael
+Wrong: 
+Value: $600
+Number: 11
+COCKNEY RHYMING SLANG | If I ask for some "you & me", I'm not hitting on you, I merely want this, especially in the afternoon | tea
+right: Steve
+Wrong: 
+Value: $600
+Number: 28
+REALITY SHOWS OF THE PAST | On the 1880s "The Osbournes", this author amused stepson Lloyd Osbourne with tales of a boy on the high seas | Robert Louis Stevenson
+right: Brad
+Wrong: 
+Value: $600
+Number: 23
+EDUCATION | It's the "watery" term for integrating a student with special needs into a regular class | mainstreaming
+right: Steve | Brad
+Wrong: 
+Value: $600
+Number: 18
+LET'S FINNISH THIS | Of Flensheim, Mannerheim or Suomiheim, the man who was Finland's greatest military leader during WWII | Mannerheim
+right: Brad
+Wrong: 
+Value: $600
+Number: 8
+THE BIBLE BELT | Jesus visited Mary & Martha in this place--not the one of the same name in northern Missouri | Bethany
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+BARBRA STREISAND MOVIES | 1991: Barbra counsels a troubled man with a mysterious family secret | The Prince of Tides
+right: Michael
+Wrong: 
+Value: DD: $1,400
+Number: 12
+COCKNEY RHYMING SLANG | "Sky rockets" are these; hope you've got some "bees & honey" in yours | your pockets
+right: Steve
+Wrong: 
+Value: $800
+Number: 29
+REALITY SHOWS OF THE PAST | On "American Idol", Creek & Cherokee Indians performed the Busk ceremony when this crop was ready for roasting | maize (or corn)
+right: Steve
+Wrong: 
+Value: $800
+Number: 24
+EDUCATION | This N.C. univ. built by tobacco magnates once had separate colleges: Trinity College & Woman's College | Duke
+right: Steve
+Wrong: 
+Value: $800
+Number: 19
+LET'S FINNISH THIS | Finland hosted the Summer Olympics in this year | 1952
+right: Brad
+Wrong: 
+Value: $800
+Number: 9
+THE BIBLE BELT | It's Jerusalem to Isaiah, a peaceful "land" to John Bunyan, & a small "ville" in North Carolina | Beulah
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+BARBRA STREISAND MOVIES | 1979: Babs is bankrupt & decides to manage a boxer | The Main Event
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+COCKNEY RHYMING SLANG | This part of your body is your "Chevy Chase" (Chevy Chase wouldn't want to fall on his) | your face
+right: Steve
+Wrong: 
+Value: $1000
+Number: 30
+REALITY SHOWS OF THE PAST | Indian Ocean "Big Brother" saw Kasyapa kill dad & build Sigiriya Fort as defense from his sibling on this island | Sri Lanka
+right: Michael
+Wrong: 
+Value: $1000
+Number: 25
+EDUCATION | In 1907 she opened her first Casa dei Bambini, or "Children's Home" | Montessori
+right: Michael
+Wrong: 
+Value: $1000
+Number: 20
+LET'S FINNISH THIS | Due to its low salinity, this gulf between Sweden & Finland may have an ice cover for up to 5 months of the year | the Gulf of Bothnia
+right: Michael
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Steve: $1,000
+Brad: $2,000
+Michael: $3,000
+Scores at the end of the Jeopardy! Round:
+Steve: $6,000
+Brad: $3,600
+Michael: $6,000
+Second Jeopardy! Round: CNN 25: NATIONAL NEWS, MUSICAL NUMBERS, THE ELEMENTS, POP CULTURE, EUROPEAN ART, "M" PLACEMENT
+CNN 25: NATIONAL NEWS | <http://www.j-archive.com/media/2005-05-09_DJ_15.wmv> This area was a toxic dump for over a decade before it was developed for homes & a school | Love Canal
+right: Brad
+Wrong: 
+Value: $400
+Number: 15
+MUSICAL NUMBERS | Nena: "__ Luftballons" | 99
+right: Brad
+Wrong: 
+Value: $400
+Number: 30
+THE ELEMENTS | Sand is composed largely of oxygen & this element, atomic number 14 | silicon
+right: Steve
+Wrong: 
+Value: $400
+Number: 2
+POP CULTURE | This almost 70-year-old tenor dedicated his first pop CD, "Ti adoro", to his baby daughter Alice | Luciano Pavarotti
+right: Steve
+Wrong: 
+Value: $400
+Number: 1
+EUROPEAN ART | 1940's "The Visage of War", a surreal work from this artist, is <http://www.j-archive.com/media/2005-05-09_DJ_19.jpg> seen <http://www.j-archive.com/media/2005-05-09_DJ_19a.jpg> here | Dalí
+right: Brad
+Wrong: 
+Value: $400
+Number: 19
+"M" PLACEMENT | Usually found at convenience stores, this men's mag was launched in the U.S. by Dennis Publishing in 1997 | Maxim
+right: Michael
+Wrong: 
+Value: $400
+Number: 24
+CNN 25: NATIONAL NEWS | A jury verdict handed down in this California valley city sparked the devastation seen <http://www.j-archive.com/media/2005-05-09_DJ_16.wmv> here in Los Angeles more than 30 miles away | Simi Valley
+right: Michael
+Wrong: 
+Value: $800
+Number: 16
+MUSICAL NUMBERS | Tommy Tutone: "___-____/Jenny" | 867-5309
+right: Brad
+Wrong: 
+Value: $800
+Number: 29
+THE ELEMENTS | The pH in pH scale stands for "potential of" this element | hydrogen
+right: Steve
+Wrong: 
+Value: $800
+Number: 3
+POP CULTURE | This Grammy-winning singer is Ravi Shankar's daughter | Norah Jones
+right: Brad
+Wrong: 
+Value: $800
+Number: 5
+EUROPEAN ART | The influence of Rembrandt can be seen in Carel Fabritius' painting "The Raising of" this biblical man | Lazarus
+right: Michael
+Wrong: 
+Value: $800
+Number: 20
+"M" PLACEMENT | (<http://www.j-archive.com/media/2005-05-09_DJ_26.jpg> Sarah of the Clue Crew reports from San Diego, CA with the U.S.S. Tarawa in the background.)  As an amphibious assault <http://www.j-archive.com/media/2005-05-09_DJ_26a.jpg> ship, the <http://www.j-archive.com/media/2005-05-09_DJ_26b.jpg> Tarawa's main mission is to land up to 2,000 of these service members on shore & to sustain them there | Marines
+right: Michael
+Wrong: 
+Value: $800
+Number: 26
+CNN 25: NATIONAL NEWS | (<http://www.j-archive.com/media/2005-05-09_DJ_17.jpg> Hi, I'm Nancy Grace with CNN Headline News.)  As a former Fulton County prosecutor, I went to the scene in this city to cover the deadly shootings in the same courtroom where I prosecuted felony cases | Atlanta
+right: Michael
+Wrong: 
+Value: $1200
+Number: 17
+MUSICAL NUMBERS | Matchbox 20: "__ A.M." | 3
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+THE ELEMENTS | It's important in bone-building, & the red type of it will light your fire on a matchstick | phosphorus
+right: Brad
+Wrong: 
+Value: $1200
+Number: 4
+POP CULTURE | This bestselling mystery writer's father, C.W., used consecutive lines of a nursery rhyme for his titles | Sue Grafton
+right: 
+Wrong: 
+Brad: Who is Post?
+Value: DD: $5,000
+Number: 6
+EUROPEAN ART | When you think of Renaissance art, the Italian name of <http://www.j-archive.com/media/2005-05-09_DJ_21.jpg> this <http://www.j-archive.com/media/2005-05-09_DJ_21a.jpg> masterpiece should spring to mind | La primavera
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 21
+"M" PLACEMENT | This national park whose name is Spanish for "green table" contains many well-preserved Indian cliff dwellings | Mesa Verde
+right: Michael
+Wrong: 
+Value: $1200
+Number: 25
+CNN 25: NATIONAL NEWS | The Bay Area was hit by the quake whose aftermath is seen <http://www.j-archive.com/media/2005-05-09_DJ_18.wmv> here, named for this mountain near the epicenter | Loma Prieta
+right: Steve
+Wrong: 
+Value: $1600
+Number: 18
+MUSICAL NUMBERS | Steely Dan: "Hey __" | Nineteen
+right: Brad
+Wrong: 
+Value: $1600
+Number: 27
+THE ELEMENTS | Sometimes this metallic element, No. 72, "is better than the whole" | hafnium
+right: Steve
+Wrong: 
+Value: $1600
+Number: 8
+POP CULTURE | (<http://www.j-archive.com/media/2005-05-09_DJ_07.jpg> Cheryl of the Clue Crew reports from the Barnes Foundation.)  This famous son was not quite 2 years old when Dad put him at the <http://www.j-archive.com/media/2005-05-09_DJ_07a.jpg> center of "The Artist’s Family" | Jean Renoir
+right: Steve
+Wrong: 
+Brad: Who is Andrew Wyeth?
+Michael: Who is Whistler?
+Value: $1600
+Number: 7
+EUROPEAN ART | This "Liberty Leading the People" artist also painted "The Battle of Poitiers" | Delacroix
+right: Michael
+Wrong: 
+Steve: Who is David?
+Value: $1600
+Number: 22
+"M" PLACEMENT | Although it's controversial, the U.N. designates one member nation "The former Yugoslav Republic of" this | Macedonia
+right: Steve
+Wrong: 
+Value: $1600
+Number: 23
+CNN 25: NATIONAL NEWS | The lieutenant colonel seen <http://www.j-archive.com/media/2005-05-09_DJ_11.wmv> here is about to testify about his time on this government body from 1981 to 1986 | the NSC (the National Security Council)
+right: 
+Wrong: Triple Stumper
+Steve: Who is Oliver North?
+Brad: What is the NSA?
+Value: $2000
+Number: 11
+MUSICAL NUMBERS | Stevie Nicks: "Edge Of __" | Seventeen
+right: Brad
+Wrong: 
+Value: $2000
+Number: 12
+THE ELEMENTS | Rf is the symbol for this element named for a physicist | rutherfordium
+right: Brad
+Wrong: 
+Value: $2000
+Number: 9
+POP CULTURE | British poet & painter Frieda Hughes is the daughter of this other British poet | Ted Hughes
+right: Brad
+Wrong: 
+Value: $2000
+Number: 10
+EUROPEAN ART | This Flemish artist created a <http://www.j-archive.com/media/2005-05-09_DJ_13.jpg> 15th-century <http://www.j-archive.com/media/2005-05-09_DJ_13a.jpg> portrait that’s spoofed in the opening of TV’s “Desperate Housewives” | Jan van Eyck
+right: 
+Wrong: 
+Brad: Who is Vermeer?
+Value: DD: $1,000
+Number: 13
+"M" PLACEMENT | (<http://www.j-archive.com/media/2005-05-09_DJ_14.jpg> Jimmy of the Clue Crew reports from the Charleston, SC waterfront.)  In 1776, <http://www.j-archive.com/media/2005-05-09_DJ_14a.jpg> his defense of Fort Sullivan in Charleston Harbor got the fort renamed for him | (William) Moultrie
+right: Steve
+Wrong: 
+Michael: Who is Sumter?
+Value: $2000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+Steve: $12,400
+Brad: $5,600
+Michael: $9,200
+
+Final Jeopardy! Round
+PEOPLE & PLACES | This Mediterranean island shares its name with President Garfield's nickname for his wife | Crete
+right: Brad
+Wrong: 
+Michael: What is Malta?
+Steve: What is Rhodes?
+Wagers: 
+Brad: $800
+Michael: $3,599
+Steve: $6,001
+Final scores:
+Steve: $6,399 (2nd place: $15,000)
+Brad: $6,400 (Winner: $30,000 + an advance to UToC Round 4)
+Michael: $5,601 (3rd place: $15,000)
+
+Coryat scores
+Steve: $12,400 (17 R,2 W)
+Brad: $11,600 (17 R,4 W(including 2 DDs))
+Michael: $8,600 (18 R(including 1 DD),4 W)

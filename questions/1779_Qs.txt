@@ -1,0 +1,343 @@
+5191 - Monday, March 19, 2007
+Contestants:
+Anders Martinson: a quality assurance engineer from Union City, California (whose 1-day cash winnings total $16,000)
+Jamey Kirby: a humanities teacher originally from Live Oak, Florida (whose 1-day cash winnings total $16,000)
+Scott Weiss: a computer science professor from Walkersville, Maryland (whose 3-day cash winnings total $61,001)
+First Jeopardy! Round: NATURE STUDY, MEDIA RE-TOOLED, LOOK OUT BELOW!, A ROYAL SUM-UP, NURSERY RHYME ER, I-I-I!
+NATURE STUDY | Skippers, moths & these insects make up the order Lepidoptera | butterflies
+right: Scott
+Wrong: 
+Value: $200
+Number: 26
+MEDIA RE-TOOLED | Old: Tom Wopat & Catherine Bach; New: Johnny Knoxville & Jessica Simpson | The Dukes of Hazzard
+right: Scott
+Wrong: 
+Value: $200
+Number: 3
+LOOK OUT BELOW! | It's the state directly below Oklahoma | Texas
+right: Scott
+Wrong: 
+Value: $200
+Number: 21
+A ROYAL SUM-UP | Her 1469 marriage would unite her Castile with Aragon; without her, no Columbus Day | Isabella
+right: Scott
+Wrong: 
+Value: $200
+Number: 1
+NURSERY RHYME ER | Got this title guy & girl... guy has massive head trauma... girl has contusions from "tumbling after" | Jack & Jill
+right: Jamey
+Wrong: 
+Value: $200
+Number: 10
+I-I-I! | Keen insight; "women's" seems to be especially potent | intuition
+right: Anders
+Wrong: 
+Value: $200
+Number: 15
+NATURE STUDY | (<http://www.j-archive.com/media/2007-03-19_J_27.jpg> Sarah of the Clue Crew holds a honeycomb tray at the University of Nebraska's Dept. of Entomology.)  Carpenter & mason bees are classified as solitary types; honeybees, which live in colonies of tens of thousands, are this opposite kind | social
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+MEDIA RE-TOOLED | Old: John Astin & Jackie Coogan; New: Raul Julia & Christopher Lloyd | The Addams Family
+right: Scott
+Wrong: 
+Value: $400
+Number: 5
+LOOK OUT BELOW! | In a fraction, it's the part that's below the line | the denominator
+right: Anders
+Wrong: 
+Value: $400
+Number: 22
+A ROYAL SUM-UP | Reigned during Opium, Crimean & Boer Wars; survived husband by a mere 40 years | Victoria
+right: Anders
+Wrong: 
+Value: $400
+Number: 2
+NURSERY RHYME ER | Had so many kids "she didn't know what to do... she whipped them all soundly"?!  Call child services on this title babe! | The Old Woman Who Lived in a Shoe
+right: Jamey
+Wrong: 
+Value: $400
+Number: 11
+I-I-I! | Try this "Itsy Bitsy" Marshall Islands atoll on for size; it was the bomb in swimwear | Bikini
+right: Jamey
+Wrong: 
+Value: $400
+Number: 16
+NATURE STUDY | Despite its name, this fuzzy-leafed "African" plant, Saintpaulia ionantha, can have pink or white flowers | an African violet
+right: Scott
+Wrong: 
+Value: $600
+Number: 28
+MEDIA RE-TOOLED | Old: Kristy Swanson; New: Sarah Michelle Gellar | Buffy the Vampire Slayer
+right: Scott
+Wrong: 
+Value: $600
+Number: 6
+LOOK OUT BELOW! | In vocal music, it's the range directly below mezzo-soprano | contralto
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+A ROYAL SUM-UP | King from about 1347 to 1339 B.C.; got famous (again) in 1922; got a CAT scan in 2005 (to see how he died) | King Tut
+right: Scott
+Wrong: 
+Value: DD: $1,000
+Number: 4
+NURSERY RHYME ER | Multiple traumas!  The wife of a rural man had a carving knife... were these title rodents' tails packed in ice?! | the Three Blind Mice
+right: Jamey
+Wrong: 
+Value: $600
+Number: 12
+I-I-I! | A law or decree that forbids; it sums up the 18th Amendment | prohibition
+right: Jamey
+Wrong: 
+Value: $600
+Number: 18
+NATURE STUDY | (<http://www.j-archive.com/media/2007-03-19_J_29.jpg> Jimmy of the Clue Crew reports from Besh-ba-gowah Pueblo in Phoenix, AZ.)  Arizona's Native American Salado people were expert weavers & made <http://www.j-archive.com/media/2007-03-19_J_29a.jpg> sandals from this succulent of the same genus as the Joshua tree | the yucca
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+MEDIA RE-TOOLED | Old: Burt Ward & Burgess Meredith; New: Chris O'Donnell & Danny DeVito | Batman
+right: Scott
+Wrong: 
+Value: $800
+Number: 7
+LOOK OUT BELOW! | It's the part of a horse's leg that's directly below the fetlock & the pastern | the hoof
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+A ROYAL SUM-UP | King of Judah from 873 to 849 B.C.; succeeded by son Jehoram; name now generally found after "jumpin'" | Jehoshaphat
+right: Jamey
+Wrong: 
+Value: $800
+Number: 9
+NURSERY RHYME ER | Got a knave here... stole this royal woman's tarts... the king "beat the knave full sore"; the knave's crashing!  Clear! | The Queen of Hearts
+right: Jamey
+Wrong: 
+Value: $800
+Number: 13
+I-I-I! | Made by human skill; it's often applied to turf in a stadium | artificial
+right: Anders
+Wrong: 
+Value: $800
+Number: 19
+NATURE STUDY | The Congo eel isn't an eel but a type of this tailed amphibian | salamander
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+MEDIA RE-TOOLED | Old: Lorne Greene & Dirk Benedict; New: Edward James Olmos & Katee Sackhoff | Battlestar Galactica
+right: Scott
+Wrong: 
+Value: $1000
+Number: 8
+LOOK OUT BELOW! | In the biological taxonomy of animals, it's the 6-letter classification directly below kingdom | phylum
+right: Scott
+Wrong: 
+Value: $1000
+Number: 25
+A ROYAL SUM-UP | Last ruler of House of York; Wars of the Roses didn't smell sweet for him | Richard III
+right: Anders
+Wrong: 
+Value: $1000
+Number: 17
+NURSERY RHYME ER | Ah geez, the man's "all tattered and torn"... got a dog "that worried the cat that killed the rat... that lay" in this title place | The House that Jack Built
+right: Scott
+Wrong: 
+Value: $1000
+Number: 14
+I-I-I! | Philosophical attitude associated with Kierkegaard, Heidegger & Jaspers | existentialism
+right: 
+Wrong: Triple Stumper
+Scott: What is nihilism?
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Scott: $4,200
+Jamey: $1,400
+Anders: $400
+Scores at the end of the Jeopardy! Round:
+Scott: $6,200
+Jamey: $3,800
+Anders: $2,800
+Second Jeopardy! Round: WORLD CAPITALS, J.C., WRITERS AT REST, THE NOBEL PEACE PRIZE, ORIGINAL PRANKSTA, WHAT UP, "G"?
+WORLD CAPITALS | Juan Peron died in this city in 1974 | Buenos Aires
+right: Anders
+Wrong: 
+Value: $400
+Number: 3
+J.C. | (<http://www.j-archive.com/media/2007-03-19_DJ_21.jpg> Jerry Seinfeld delivers the clue.)  In the "Seinfeld" finale we were defended by Jackie Chiles, who reminded some people of this famous trial attorney | Johnnie Cochran
+right: Scott
+Wrong: 
+Value: $400
+Number: 21
+WRITERS AT REST | Writers resting at the Sleepy Hollow Cemetery in Concord, Mass. include Emerson & this Walden Pond ponderer | Thoreau
+right: Scott
+Wrong: 
+Value: $400
+Number: 16
+THE NOBEL PEACE PRIZE | One of the two African Americans to win the prize, one in 1950, the other in 1964 | Martin Luther King, Jr. (& Ralph Bunche)
+right: Jamey
+Wrong: 
+Value: $400
+Number: 1
+ORIGINAL PRANKSTA | On April 1, 1992 NPR reported that this disgraced U.S. president was running again for the job, prompting a flood of calls | Nixon
+right: Jamey
+Wrong: 
+Value: $400
+Number: 13
+WHAT UP, "G"? | Once a term for a carnival performer who bit the heads off chickens, it now usually refers to a tech nerd | a geek
+right: Jamey
+Wrong: 
+Value: $400
+Number: 26
+WORLD CAPITALS | It joined the Swiss Confederation in 1353 | Bern
+right: Jamey
+Wrong: 
+Value: $800
+Number: 5
+J.C. | He had more than 100 songs reach the Billboard Country Singles chart | Johnny Cash
+right: Jamey
+Wrong: 
+Value: $800
+Number: 22
+WRITERS AT REST | Simone de Beauvoir & this boyfriend share a grave at the Montparnasse cemetery in Paris | Sartre
+right: Anders
+Wrong: 
+Value: $800
+Number: 15
+THE NOBEL PEACE PRIZE | It's the number of U.S. presidents who've won the award | three
+right: Scott
+Wrong: 
+Jamey: What is two?
+Anders: What is one?
+Value: $800
+Number: 4
+ORIGINAL PRANKSTA | In the 1790s a sensation gripped England when William Ireland revealed a "new" play by this man titled "Vortigern" | Shakespeare
+right: Scott
+Wrong: 
+Value: $800
+Number: 17
+WHAT UP, "G"? | As a verb, it means to order your child to his room & take away his privileges | ground
+right: Anders
+Wrong: 
+Value: $800
+Number: 28
+WORLD CAPITALS | The name of this Malaysian capital means "muddy confluence" | Kuala Lumpur
+right: Anders
+Wrong: 
+Value: $1200
+Number: 6
+J.C. | Seen <http://www.j-archive.com/media/2007-03-19_DJ_23.jpg> here, she knows more about Hollywood wives & husbands than they'd care to admit | Jackie Collins
+right: Scott
+Wrong: 
+Value: $1200
+Number: 23
+WRITERS AT REST | The most-visited grave site at St. Mary's cemetery in Rockville Maryland is that of this author & his wife Zelda | (Scott) Fitzgerald
+right: Jamey
+Wrong: 
+Value: $1200
+Number: 14
+THE NOBEL PEACE PRIZE | This international organization won in 1917, 1944 & 1963 | the Red Cross
+right: Scott
+Wrong: 
+Value: DD: $2,000
+Number: 9
+ORIGINAL PRANKSTA | While at this Ithaca university, Hugh Troy used a rhinoceros foot to leave tracks in the snow around the school | Cornell
+right: Anders
+Wrong: 
+Value: $1200
+Number: 18
+WHAT UP, "G"? | Follow these double-talk dancers to your local discotheque | go-go dancers
+right: Scott
+Wrong: 
+Value: $1200
+Number: 30
+WORLD CAPITALS | Belize City, a port, was Belize's capital until a 1961 hurricane; then the capital moved to this inland city | Belmopan
+right: Scott
+Wrong: 
+Value: $1600
+Number: 7
+J.C. | "Mr. P.C." is a classic composition from Mr. J.C. of '50s & '60s jazz | John Coltrane
+right: Jamey
+Wrong: 
+Value: $1600
+Number: 24
+WRITERS AT REST | After his death in 1968, some of his ashes were scattered along the California coast, the rest were buried in Salinas | (John) Steinbeck
+right: Jamey
+Wrong: 
+Value: DD: $2,100
+Number: 2
+THE NOBEL PEACE PRIZE | Though he never won, he was nominated in 1937, 1938, 1939, 1947 & again in 1948 a few days before his assassination | (Mahatma) Gandhi
+right: Jamey
+Wrong: 
+Value: $1600
+Number: 10
+ORIGINAL PRANKSTA | In 1957 the British TV show "Panorama" reported on a bumper crop of this pasta grown in trees | spaghetti
+right: Anders
+Wrong: 
+Value: $1600
+Number: 19
+WHAT UP, "G"? | Also known as chickpeas, these beans are the main ingredient in hummus | garbanzo beans
+right: Jamey
+Wrong: 
+Value: $1600
+Number: 29
+WORLD CAPITALS | It's home to King Rama IX Royal Park | Bangkok
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 8
+J.C. | Seen <http://www.j-archive.com/media/2007-03-19_DJ_25.jpg> here, he's played a wide range of roles; check out "Babe" vs. "L.A. Confidential" | James Cromwell
+right: Scott
+Wrong: 
+Value: $2000
+Number: 25
+WRITERS AT REST | Her epitaph "Excuse My Dust" is famous; fewer know that it's on a plaque at NAACP HQ, where her ashes are buried | Dorothy Parker
+right: Scott
+Wrong: 
+Value: $2000
+Number: 11
+THE NOBEL PEACE PRIZE | In 1991 Aung San Suu Kyi won the Peace Prize while living under house arrest in this nation | Burma
+right: Anders
+Wrong: 
+Value: $2000
+Number: 12
+ORIGINAL PRANKSTA | Unearthed in 1869, this 10-foot "giant" wasn't a prehistoric man but a hoax buried & "discovered" by George Hull | the Cardiff Giant
+right: Scott
+Wrong: 
+Jamey: Who is Piltdown Man?
+Value: $2000
+Number: 20
+WHAT UP, "G"? | The place on deck where passengers enter the vessel, it's also a cry to "get out of my path!" | gangway
+right: Scott
+Wrong: 
+Value: $2000
+Number: 27
+Scores at the end of the Double Jeopardy! Round:
+Scott: $22,600
+Jamey: $11,900
+Anders: $10,000
+
+Final Jeopardy! Round
+HISTORIC QUOTES | On May 5, 1961 he famously exclaimed, "What a beautiful view!" | Alan Shepard
+right: Jamey
+Wrong: 
+Anders: Who is John Glenn?
+Scott: Who is John Glenn?
+Wagers: 
+Anders: $9,999
+Jamey: $10,777
+Scott: $1,201
+Final scores:
+Scott: $21,399 (2nd place: $2,000)
+Jamey: $22,677 (2-day champion: $38,677)
+Anders: $1 (3rd place: $1,000)
+
+Coryat scores
+Scott: $21,400 (24 R(including 2 DDs),1 W)
+Jamey: $11,400 (17 R(including 1 DD),2 W)
+Anders: $10,000 (12 R,1 W)

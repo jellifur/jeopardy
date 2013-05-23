@@ -1,0 +1,344 @@
+5226 - Monday, May 7, 2007
+Comments: 2007 College Championship semifinal game 1.  From the University of Southern California.
+Contestants:
+Hayley Clatterbuck: a junior from the University of Nebraska-Lincoln
+Alice Luo: a junior from Georgia Institute of Technology
+Cliff Galiher: a sophomore from UCLA
+First Jeopardy! Round: BOOKS & AUTHORS, YE GODS!, CHINESE GEOGRAPHY, WHAT A WAY TO GO, COLLEGE STADIUMS & ARENAS, BODY LANGUAGE
+BOOKS & AUTHORS | This Steinbeck novel begins, "To the red country and part of the gray country of Oklahoma, the last rains came..." | The Grapes of Wrath
+right: Hayley
+Wrong: 
+Value: $200
+Number: 1
+YE GODS! | Hilal, a pre-Islamic deity of Arabia, was god of one phase of this heavenly body | the moon
+right: Hayley
+Wrong: 
+Value: $200
+Number: 11
+CHINESE GEOGRAPHY | This colorful river emptied into the sea until 1853, when its course shifted to empty into the Gulf of Chihli | the Yellow River
+right: Cliff
+Wrong: 
+Value: $200
+Number: 16
+WHAT A WAY TO GO | Franz Reichelt died after a 1912 jump from this tall Parisian structure testing his parachute-overcoat combo | the Eiffel Tower
+right: Alice
+Wrong: 
+Value: $200
+Number: 6
+COLLEGE STADIUMS & ARENAS | Tulane's football team plays its home games off campus at this facility that has a 9.7-acre roof | the Superdome
+right: Alice
+Wrong: 
+Value: $200
+Number: 19
+BODY LANGUAGE | Innocent & naive? You must be "wet behind" these | the ears
+right: Hayley
+Wrong: 
+Value: $200
+Number: 22
+BOOKS & AUTHORS | A savage named John has educated himself by reading Shakespeare in "Brave New World" by this man | Aldous Huxley
+right: Cliff
+Wrong: 
+Value: $400
+Number: 2
+YE GODS! | The Hindu goddess Shatarupa was so beautiful, this creator god grew 4 heads so he could view her in all directions | Brahma
+right: Alice
+Wrong: 
+Value: $400
+Number: 12
+CHINESE GEOGRAPHY | The border formalized between Mongolia & China in 1962 includes a 900-mile stretch through this desert | the Gobi Desert
+right: Alice
+Wrong: 
+Value: $400
+Number: 17
+WHAT A WAY TO GO | Tradition holds that Aeschylus died when a bird dropped this reptile on his bald head to crack its shell | a turtle
+right: Cliff
+Wrong: 
+Value: $400
+Number: 7
+COLLEGE STADIUMS & ARENAS | Built in 1914, Palmer Stadium at this New Jersey university was the home of its football team for 82 years | Princeton University
+right: Alice
+Wrong: 
+Hayley: What is Rutgers?
+Value: $400
+Number: 23
+BODY LANGUAGE | To pay or settle; it often precedes "the bill" | to foot
+right: Hayley
+Wrong: 
+Value: $400
+Number: 27
+BOOKS & AUTHORS | In "The Prince" he wrote, "It is far safer to be feared than loved" | Machiavelli
+right: Alice
+Wrong: 
+Value: $600
+Number: 3
+YE GODS! | A sabine god of war, Quirinus gave his name to one of the fabled hills of this city | Rome
+right: Alice
+Wrong: 
+Value: $600
+Number: 13
+CHINESE GEOGRAPHY | The Turfan Depression is China's lowest point; in 1951 this peak became its highest point | Mount Everest
+right: Hayley
+Wrong: 
+Value: $600
+Number: 18
+WHAT A WAY TO GO | Plutarch says that this king who lent his name to a type of costly victory died from being struck by a tile | Pyrrhus
+right: Cliff
+Wrong: 
+Value: $600
+Number: 8
+COLLEGE STADIUMS & ARENAS | Fittingly, $57 million is what this food company is paying over 20 years to have its name on the Pittsburgh Panthers' field | Heinz
+right: Alice
+Wrong: 
+Value: DD: $1,600
+Number: 24
+BODY LANGUAGE | It can be a dialect or a bell clapper | the tongue
+right: Cliff
+Wrong: 
+Value: $600
+Number: 28
+BOOKS & AUTHORS | Perhaps the effort killed him--he died not long after completing his masterpiece "The Brothers Karamazov" | Dostoyevsky
+right: Alice
+Wrong: 
+Value: $800
+Number: 4
+YE GODS! | Invoked by seal hunters, Nerrivik is the mother of all sea creatures as a goddess of this North American people | the Inuit
+right: Hayley
+Wrong: 
+Value: $800
+Number: 14
+CHINESE GEOGRAPHY | China's Fertile Triangle lies between Nanjing, Hangzhou & this, the country's leading seaport | Shanghai
+right: Cliff
+Wrong: 
+Value: $800
+Number: 20
+WHAT A WAY TO GO | In an automated factory in 1979, Robert Williams became one of the first men killed by one of these (shades of Asimov) | a robot
+right: Cliff
+Wrong: 
+Value: $800
+Number: 9
+COLLEGE STADIUMS & ARENAS | This South Carolina school's Tigers play their home game in Memorial Stadium, aka "Death Valley" | Clemson
+right: Hayley
+Wrong: 
+Value: $800
+Number: 25
+BODY LANGUAGE | Your messy room at home might be one of these "of contention" with your parents | a bone
+right: Cliff
+Wrong: 
+Value: $800
+Number: 29
+BOOKS & AUTHORS | The stories that Kenneth Grahame told his son about a mole & a toad became this 1908 classic | The Wind in the Willows
+right: Hayley
+Wrong: 
+Value: $1000
+Number: 5
+YE GODS! | Covering a lot of ground, this Greek counterpart of Diana was the goddess of childbirth & chastity | Artemis
+right: Cliff
+Wrong: 
+Value: $1000
+Number: 15
+CHINESE GEOGRAPHY | This gulf is bordered by Luichow Peninsula & Hainan Island on the east & Vietnam on the west | the Gulf of Tonkin
+right: Cliff
+Wrong: 
+Value: $1000
+Number: 21
+WHAT A WAY TO GO | This playwright choked to death in 1983 at NYC's hotel Elysee; a character of his exits a streetcar at "Elysian Fields" | Tennessee Williams
+right: Cliff
+Wrong: 
+Value: $1000
+Number: 10
+COLLEGE STADIUMS & ARENAS | Rupp Arena is the home court to this school's Wildcats basketball team | University of Kentucky
+right: Hayley
+Wrong: 
+Alice: What is the University of Arizona?
+Value: $1000
+Number: 26
+BODY LANGUAGE | A rounded mass of radicchio, for example | a head
+right: Hayley
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Cliff: $4,200
+Alice: $2,600
+Hayley: $2,200
+Scores at the end of the Jeopardy! Round:
+Cliff: $7,600
+Alice: $4,200
+Hayley: $5,800
+Second Jeopardy! Round: CUTTING-EDGE SCIENCE, BUSINESS PAIRINGS, DIRECTOR"S", SILENT B, GAUL'S GONE WILD!, SPRING BREAK!
+CUTTING-EDGE SCIENCE | A hot biomedical topic is apoptosis, the programmed "suicide" of these biological units | cells
+right: Alice
+Wrong: 
+Value: $400
+Number: 24
+BUSINESS PAIRINGS | They put on the "greatest show on earth" even before the Ringling brothers joined them | Barnum & Bailey
+right: Cliff
+Wrong: 
+Value: $400
+Number: 1
+DIRECTOR"S" | "War of the Worlds" & "Munich" | Steven Spielberg
+right: Alice
+Wrong: 
+Value: $400
+Number: 2
+SILENT B | It can follow smoke, cherry & incendiary | bomb
+right: Alice
+Wrong: 
+Value: $400
+Number: 11
+GAUL'S GONE WILD! | Gaul had an area roughly including Luxembourg, Belgium, Germany w. of the Rhine & this tricolor flag-waving country | France
+right: Cliff
+Wrong: 
+Value: $400
+Number: 28
+SPRING BREAK! | From Jeopmark Cards: on the 2nd Sunday in May, you're the one we're thinking of, enjoy this very special holiday | mother
+right: Cliff
+Wrong: 
+Value: $400
+Number: 16
+CUTTING-EDGE SCIENCE | (<http://www.j-archive.com/media/2007-05-07_DJ_25.jpg> Jon of the Clue Crew plays with cool lab equipment.)  Infrasonics detects and interprets <http://www.j-archive.com/media/2007-05-07_DJ_25a.jpg> sounds we can't hear, like those produced by this kind of event; infrasonics would have helped the Pompeiians | an eruption
+right: Alice
+Wrong: 
+Value: $800
+Number: 25
+BUSINESS PAIRINGS | A book-publishing duo, or country music's Tim & Faith | McGraw & Hill
+right: Alice
+Wrong: 
+Value: $800
+Number: 4
+DIRECTOR"S" | "Goodfellas" & "The Age of Innocence" | Martin Scorsese
+right: Hayley
+Wrong: 
+Value: $800
+Number: 3
+SILENT B | This fleshy growth atop a chicken's head comes in shapes such as buttercup & pea | comb
+right: Alice
+Wrong: 
+Value: $800
+Number: 12
+GAUL'S GONE WILD! | In "Commentaries on the Gallic War" he described Gaul as being inhabited by the Belgae, the Aquitani & the Gauls | Julius Caesar
+right: Cliff
+Wrong: 
+Value: $800
+Number: 29
+SPRING BREAK! | Hey, mon!  You be jahmmin' on May 23, Labour Day in dis country | Jamaica
+right: Hayley
+Wrong: 
+Value: $800
+Number: 17
+CUTTING-EDGE SCIENCE | In 2006 a pulse of this type of beam sent a message a record 15 million miles to the MESSENGER spacecraft | a laser beam
+right: Hayley
+Wrong: 
+Value: $1200
+Number: 22
+BUSINESS PAIRINGS | Company that introduced the first magnum revolver, the .357 in 1935 | Smith & Wesson
+right: Hayley
+Wrong: 
+Value: $1200
+Number: 5
+DIRECTOR"S" | "JFK" & "World Trade Center" | Oliver Stone
+right: Cliff
+Wrong: 
+Value: $1200
+Number: 8
+SILENT B | Completed in 1932, it bears the inscription "Here rests in honored glory an American soldier known but to God" | Tomb (of the Unknown Soldier)
+right: Alice
+Wrong: 
+Value: $1200
+Number: 13
+GAUL'S GONE WILD! | In 222 B.C.,  Romans defeated the Gauls in Italy, capturing the city of Mediolanum, now this northen city | Milan
+right: Cliff
+Wrong: 
+Value: DD: $4,000
+Number: 21
+SPRING BREAK! | Ceremonies at the grave of Theodor Herzl are part of this country's Independence Day observation | Israel
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+CUTTING-EDGE SCIENCE | Invasion biology studies species like the brown tree this reptile, which wiped out 9 of Guam's 11 native bird species | snakes
+right: Cliff
+Wrong: 
+Alice: What are frogs?
+Value: $1600
+Number: 30
+BUSINESS PAIRINGS | You've probably used some of their products: Crest, Gleem, Scope, Ivory | Procter & Gamble
+right: Hayley
+Wrong: 
+Value: $1600
+Number: 6
+DIRECTOR"S" | "Alien" & "Blade Runner" | Ridley Scott
+right: Cliff
+Wrong: 
+Value: $1600
+Number: 9
+SILENT B | A prosthesis is an artificial one | limb
+right: Alice
+Wrong: 
+Value: $1600
+Number: 14
+GAUL'S GONE WILD! | In the Second Punic War, this Carthaginian made alliance with the Gallic Cenomani against the Romans | Hannibal
+right: Hayley
+Wrong: 
+Value: $1600
+Number: 27
+SPRING BREAK! | On April 26, this country's Union Day commemorates the 1964 union of Zanzibar & Tanganyika | Tanzania
+right: Hayley
+Wrong: 
+Value: $1600
+Number: 19
+CUTTING-EDGE SCIENCE | This particles studied by astroparticle physics are the only ones in the nuclei of hyrdogen atoms | protons
+right: Hayley
+Wrong: 
+Value: DD: $2,600
+Number: 23
+BUSINESS PAIRINGS | You can clean up on this one if you know it's the maker of the product <http://www.j-archive.com/media/2007-05-07_DJ_07.jpg> seen here | Black & Decker
+right: Alice
+Wrong: 
+Value: $2000
+Number: 7
+DIRECTOR"S" | A USC grad: "Boyz n the Hood" & "2 Fast 2 Furious" | John Singleton
+right: Cliff
+Wrong: 
+Value: $2000
+Number: 10
+SILENT B | Carpenters use this type of line with a weight on the end of it to determine a true vertical | plumb
+right: Hayley
+Wrong: 
+Value: $2000
+Number: 15
+GAUL'S GONE WILD! | I, this Roman emperor, made Gallic nobility eligible for senate seats during my 41-54 A.D. reign | Claudius
+right: Cliff
+Wrong: 
+Value: $2000
+Number: 26
+SPRING BREAK! | On April 17 this state enjoys Verrazano Day | New York
+right: Cliff
+Wrong: 
+Alice: What is Washington?
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Cliff: $24,000
+Alice: $9,000
+Hayley: $19,200
+
+Final Jeopardy! Round
+U.S. STATES | Of all the U.S. states named after European monarchs, it's the one that reaches the farthest west | Louisiana
+right: Cliff
+Wrong: 
+Alice: What is West Virginia?
+Hayley: What is West Virginia?
+Wagers: 
+Alice: $3,000
+Hayley: $9,500
+Cliff: $5,999
+Final scores:
+Cliff: $29,999 (Finalist)
+Alice: $6,000 (3rd place: $10,000)
+Hayley: $9,700 (2nd place: $10,000)
+
+Coryat scores
+Cliff: $21,200 (22 R(including 1 DD),0 W)
+Alice: $8,000 (18 R(including 1 DD),3 W)
+Hayley: $18,600 (19 R(including 1 DD),1 W)

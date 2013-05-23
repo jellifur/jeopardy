@@ -1,0 +1,337 @@
+3306 - Monday, January 11, 1999
+Contestants:
+Jeremy King: a laundromat night manager from Columbia, South Carolina
+Leena Alam: a law student from Washington, D.C.
+David Becker: an attorney from Washington, D.C. (whose 2-day cash winnings total $27,601)
+First Jeopardy! Round: DICKENSIANA, PLANTS & TREES, CARTOON BIRDS, THE LIST LIST, FOREIGN WORDS & PHRASES, STUPID ANSWERS
+DICKENSIANA | Dickens mentions this Defoe work in many of his tales, including "Bleak House" & "A Christmas Carol" | Robinson Crusoe
+right: Jeremy
+Wrong: 
+Value: $100
+Number: 4
+PLANTS & TREES | On St. Patrick's Day it's traditional to wear a wee bit of this plant | Shamrock
+right: Jeremy
+Wrong: 
+Value: $100
+Number: 29
+CARTOON BIRDS | He was supposedly inspired by a bird that disrupted creator Walter Lantz's honeymoon | Woody Woodpecker
+right: David
+Wrong: 
+Value: $100
+Number: 1
+THE LIST LIST | Number of songs on the American top pop list hosted by Casey Kasem | 40
+right: Leena
+Wrong: 
+Value: $100
+Number: 15
+FOREIGN WORDS & PHRASES | Now hear this!  Das ohr is German for this body part | Ear
+right: David
+Wrong: 
+Value: $100
+Number: 9
+STUPID ANSWERS | Group that had the 1983 hit "In A Big Country" | Big Country
+right: Jeremy
+Wrong: 
+Value: $100
+Number: 20
+DICKENSIANA | Subtitled "The Parish Boy's Progress", it appeared in 24 installments in Bentley's Miscellany | Oliver Twist
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 12
+PLANTS & TREES | Kiss & tell the name of this plant | Mistletoe
+right: Leena
+Wrong: 
+Value: $200
+Number: 30
+CARTOON BIRDS | They're the pair of fast-talkers seen here (magpies) | Heckle & Jeckle
+right: Leena
+Wrong: 
+Value: $200
+Number: 2
+THE LIST LIST | Santa keeps a list of people who fall into these 2 "N" categories | Naughty & nice
+right: David
+Wrong: 
+Value: $200
+Number: 18
+FOREIGN WORDS & PHRASES | French for "In the fashion", it's a fashionable way to serve pie | A la mode
+right: David
+Wrong: 
+Value: $200
+Number: 10
+STUPID ANSWERS | Italian leader Benito Mussolini called himself "Il Duce" which means this | "The Leader"
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 27
+DICKENSIANA | Dickens met this U.S. president a few weeks before the impeachment proceedings | Andrew Johnson
+right: Leena
+Wrong: 
+Value: $300
+Number: 16
+PLANTS & TREES | Had the Israelites wandered in the Mojave Desert, they would have seen this tree named for one of their leaders | Joshua tree
+right: Jeremy
+Wrong: 
+Value: DD: $1,000
+Number: 22
+CARTOON BIRDS | Good Grief!  This little bird flew into the funnies in 1970 | Woodstock
+right: Leena
+Wrong: 
+Value: $300
+Number: 3
+THE LIST LIST | In 1988 Microsoft came in at No. 137 out of the 500 companies on this magazine's famous list | Fortune
+right: David
+Wrong: 
+Value: $300
+Number: 8
+FOREIGN WORDS & PHRASES | This Yiddish word can mean to lug a load, or to drag oneself | Schlep
+right: David
+Wrong: 
+Value: $300
+Number: 5
+STUPID ANSWERS | Writer Ruth McKenney's sister Eileen was the inspiration for this play | My Sister Eileen
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 25
+DICKENSIANA | Dickens' self-styled hero born "A posthumous child" | David Copperfield
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+PLANTS & TREES | Anatomist Caspar Wistar gave his name to this popular trellis plant | Wisteria
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 26
+CARTOON BIRDS | "Camptown Races" is a favorite song of this boisterous blabbermouth from the South | Foghorn Leghorn
+right: David
+Wrong: 
+Value: $400
+Number: 6
+THE LIST LIST | Supplying info that led to the arrest of everyone on this list in August 1998 could have netted you over $1,500,000 | FBI Ten Most Wanted List
+right: David
+Wrong: 
+Value: $400
+Number: 13
+FOREIGN WORDS & PHRASES | Practitioners of karate & judo refer to their training school by this 4-letter Japanese name | Dojo
+right: Leena
+Wrong: 
+Value: $400
+Number: 11
+STUPID ANSWERS | Chimachogori, the garb of some Korean women, includes a skirt, the chima, & a jacket called this | Chogori
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 21
+DICKENSIANA | One of the first full-length sound films of a Dickens work was a 1935 version of this tale of Nell & Quilp | Ye Olde Curiosity Shoppe
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+PLANTS & TREES | The leaves of this tree are used in cold remedies & to feed koalas | Eucalyptus
+right: Leena
+Wrong: 
+Value: $500
+Number: 28
+CARTOON BIRDS | He's the cool character seen here (also created by Walter Lantz) | Chilly Willy
+right: Jeremy
+Wrong: 
+Value: $500
+Number: 7
+THE LIST LIST | Topping his first worst-dressed list in 1960 was Anna Magnani, who dressed like she was "wearing tramp clothes" | Mr. Blackwell
+right: David
+Wrong: 
+Value: $500
+Number: 19
+FOREIGN WORDS & PHRASES | Meaning clandestine, the Spanish phrase "capa y espada" translates to this common English phrase | Cloak and dagger
+right: David
+Wrong: 
+Value: $500
+Number: 14
+STUPID ANSWERS | Street crime was up in Liverpool, England in May 1998 as criminals stole one of these worth $16,000 | Street
+right: Jeremy
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+David: $2,100
+Leena: $1,000
+Jeremy: $800
+Scores at the end of the Jeopardy! Round:
+David: $2,700
+Leena: $2,000
+Jeremy: $3,200
+Second Jeopardy! Round: FAMOUS NAMES, POP MUSIC, STATE CAPITAL NICKNAMES, U.S. STAMPS, HOLIDAYS, "EZ" DOES IT
+FAMOUS NAMES | His wealth once estimated to be $100 million, this gangster died a broken man in 1947 | Al Capone
+right: Leena
+Wrong: 
+Value: $200
+Number: 2
+POP MUSIC | The groups Heart & Pearl Jam were formed in this city | Seattle
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 22
+STATE CAPITAL NICKNAMES | Mormons make a bee-line for this city, the "Mormon's Mecca" | Salt Lake City
+right: David
+Wrong: 
+Value: $200
+Number: 16
+U.S. STAMPS | She got "all dolled up" for the stamp seen here (red-haired doll) | Raggedy Ann
+right: Leena
+Wrong: 
+Value: $200
+Number: 17
+HOLIDAYS | "(Hi, I'm Chuck Woolery)  You can send a card to your sweetheart or anyone in your 4th grade class on this February holiday" | Valentine's Day
+right: Leena
+Wrong: 
+Value: $200
+Number: 8
+"EZ" DOES IT | Every first aid kit should have a pair of these to remove splinters | Tweezers
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 1
+FAMOUS NAMES | Born in 1394, this Portuguese prince founded a school of navigation | Prince Henry the Navigator
+right: Leena
+Wrong: 
+Value: $400
+Number: 6
+POP MUSIC | "Aja", "Gaucho" & "Pretzel Logic" are albums by this group | Steely Dan
+right: David
+Wrong: 
+Value: $400
+Number: 30
+STATE CAPITAL NICKNAMES | It's the "North Star City" because it's the capital of the North Star State | St. Paul
+right: Leena
+Wrong: 
+Value: $400
+Number: 18
+U.S. STAMPS | Different types of these on stamps of the 1990s include lunch, circus & Conestoga | Wagons
+right: David
+Wrong: 
+Value: $400
+Number: 26
+HOLIDAYS | In this religion, Ashura is a simple fast for Sunnis but a day of guilt & mortification for Shiites | Islam
+right: David
+Wrong: 
+Value: $400
+Number: 9
+"EZ" DOES IT | His Old Testament book comes between Lamentations & Daniel | Ezekiel
+right: Leena
+Wrong: 
+Value: $400
+Number: 3
+FAMOUS NAMES | Hail him, he's the Roman depicted here | Julius Caesar
+right: David
+Wrong: 
+Value: $600
+Number: 7
+POP MUSIC | In 1998 this Alanis Morissette album matched Boston's "Boston" as the best-selling debut album ever | Jagged Little Pill
+right: Leena
+Wrong: 
+Value: $600
+Number: 21
+STATE CAPITAL NICKNAMES | It's New England's "City Beautiful" as well as the "Insurance City" | Hartford
+right: Jeremy
+Wrong: 
+Value: $600
+Number: 19
+U.S. STAMPS | A C-54 cargo plane is on the 1998 stamp commemorating the 50th anniversary of this aid mission | Berlin Airlift
+right: David
+Wrong: 
+Value: $600
+Number: 28
+HOLIDAYS | This November day on which girls court boys comes from the comic strip "Li'l Abner" | Sadie Hawkins Day
+right: David
+Wrong: 
+Value: $600
+Number: 10
+"EZ" DOES IT | Named for Indians who lived in the region, it was Mississippi's first capital | Natchez
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+FAMOUS NAMES | This man was the first prime minister of his country (Israel) | David Ben-Gurion
+right: David
+Wrong: 
+Value: $800
+Number: 13
+POP MUSIC | "You Might Think" this group won MTV's Best Video of 1984: well, you're right, they did | The Cars
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 23
+STATE CAPITAL NICKNAMES | It's the "Queen on the James" -- the James River, that is | Richmond
+right: Leena
+Wrong: 
+Value: $800
+Number: 24
+U.S. STAMPS | (VIDEO DAILY DOUBLE): It's the Sousa march honored on the 1997 stamp seen here | Stars And Stripes Forever
+right: Jeremy
+Wrong: 
+Value: DD: $2,000
+Number: 20
+HOLIDAYS | The people of San Juan, Puerto Rico lose their heads celebrating June 24, this saint's feast day | John the Baptist
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 11
+"EZ" DOES IT | He headed the Soviet Union's Communist party from 1964 until his death in 1982 | Leonid Brezhnev
+right: Jeremy
+Wrong: 
+Value: $800
+Number: 5
+FAMOUS NAMES | In 1863 this explorer published "Journal of the Discovery of the Source of the Nile" | John Speke
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+POP MUSIC | Last name of brothers Mark & David who were part of the original lineup of Dire Straits | Knopfler
+right: Jeremy
+Wrong: 
+Value: $1000
+Number: 29
+STATE CAPITAL NICKNAMES | Great Scot!  This city on the Hudson has been called the "Edinburgh of America" | Albany
+right: Leena
+Wrong: 
+Value: DD: $1,000
+Number: 25
+U.S. STAMPS | The tribute to this artist was released March 25, 1998 in Washington, D.C., not "Mobile" | Alexander Calder
+right: Leena
+Wrong: 
+Value: $1000
+Number: 27
+HOLIDAYS | September 3 commemorates the founding of all 24 square miles of this republic within Italy | San Marino
+right: Leena
+Wrong: 
+Value: $1000
+Number: 15
+"EZ" DOES IT | In 1975 Cambodia seized this American merchant ship on the Gulf of Siam, claiming it was a spy vessel | Mayaguez
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+David: $5,300
+Leena: $8,200
+Jeremy: $9,600
+
+Final Jeopardy! Round
+BUSINESS & INDUSTRY | McDonald's'  2 most successful promotional campaigns both involved these Happy Meal toys | Beanie Babies
+right: David | Leena | Jeremy
+Wrong: 
+Wagers: 
+David: $2,000
+Leena: $8,198
+Jeremy: $7,000
+Final scores:
+David: $7,300 (3rd place: Coleman Camping Equipment)
+Leena: $16,398 (2nd place: Trip to Sandals Royal Bahamian Resort & Spa)
+Jeremy: $16,600 (New champion: $16,600)
+
+Coryat scores
+David: $5,300 (18 R,4 W)
+Leena: $8,200 (18 R(including 1 DD),0 W)
+Jeremy: $7,700 (18 R(including 2 DDs),1 W)

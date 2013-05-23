@@ -1,0 +1,344 @@
+6053 - Wednesday, December 29, 2010
+Contestants:
+Ellen Kimmel: a school nurse from Nanuet, New York
+Raghuveer Mukkamalla: an IT analyst from Herndon, Virginia
+Marissa Goldsmith: a web developer from Springfield, Virginia (whose 3-day cash winnings total $44,100)
+First Jeopardy! Round: JOHANNES BRAHMS, A DAY AT THE HORSE RACES, U.S. FLAG ETIQUETTE, NOT SO FAMOUS LAST WORDS, DO TRY THIS AT HOME, "BABY" TALK
+JOHANNES BRAHMS | As a young man, Brahms chose this as his main instrument & played it in taverns to make a living | the piano
+right: Marissa
+Wrong: 
+Raghuveer: What is the violin?
+Value: $200
+Number: 12
+A DAY AT THE HORSE RACES | This Golden Palamino, "the smartest horse in the movies", noses ahead; Roy Rogers aboard | Trigger
+right: Ellen
+Wrong: 
+Value: $200
+Number: 6
+U.S. FLAG ETIQUETTE | The flag code specifies that a lapel flag pin is to be worn near this body part | the heart
+right: Raghuveer
+Wrong: 
+Value: $200
+Number: 7
+NOT SO FAMOUS LAST WORDS | General John Sedgwick, near Spotslyvania during this war: "They couldn't hit an elephant at this distance" | the Civil War
+right: Marissa
+Wrong: 
+Raghuveer: What is the Revolutionary War?
+Value: $200
+Number: 17
+DO TRY THIS AT HOME | When doing this task, change direction from week to week to keep the pile of the carpet upright | vacuuming
+right: Raghuveer
+Wrong: 
+Value: $200
+Number: 22
+"BABY" TALK | It's a period of sharp increase in the birthrate, as in the U.S. following WWII | a baby boom
+right: Raghuveer
+Wrong: 
+Value: $200
+Number: 1
+JOHANNES BRAHMS | Brahms got off to a bad start with this Hungarian composer by falling asleep during one of his concerts | Liszt
+right: Marissa
+Wrong: 
+Value: $400
+Number: 13
+A DAY AT THE HORSE RACES | On the rail is this mythical horse sired by Medusa & Poseidon; he's running like he has wings! | Pegasus
+right: Marissa
+Wrong: 
+Value: $400
+Number: 8
+U.S. FLAG ETIQUETTE | It's the preferred way to destroy an American flag in bad condition | burning it
+right: Raghuveer
+Wrong: 
+Value: $400
+Number: 27
+NOT SO FAMOUS LAST WORDS | Alex, an African grey one of these to a researcher: "You be good. See you tomorrow. I love you" | a parrot
+right: Ellen
+Wrong: 
+Value: $400
+Number: 18
+DO TRY THIS AT HOME | Whether its virgin or extra virgin, store it in a dark place; light as well as heat can spoil it | olive oil
+right: Raghuveer
+Wrong: 
+Value: $400
+Number: 23
+"BABY" TALK | After the euphoria of birth, a new mom may experience mild-to-severe depression with this "colorful" nickname | the baby blues
+right: Ellen
+Wrong: 
+Value: $400
+Number: 2
+JOHANNES BRAHMS | It's the name of the familiar Brahms composition heard <http://www.j-archive.com/media/2010-12-29_J_14.mp3> here | Lullaby
+right: Raghuveer
+Wrong: 
+Value: $600
+Number: 14
+A DAY AT THE HORSE RACES | & away they go...this horse that hit TV in 1956 trails early...his jockey, Gumby, has him moving as if he was made of clay! | Pokey
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 9
+U.S. FLAG ETIQUETTE | In a military fold, the flag is folded twice lengthwise & then folded until this geometric shape is achieved at the finish | a triangle
+right: Marissa
+Wrong: 
+Value: $600
+Number: 28
+NOT SO FAMOUS LAST WORDS | Lady Astor, on seeing her family assembled: "Is it my" this "or am I dying?" | birthday
+right: Marissa
+Wrong: 
+Value: $600
+Number: 19
+DO TRY THIS AT HOME | Usually found effervescing on great-grandma's nightstand, this product can also be used to clean silver teapots | denture clean
+right: Ellen
+Wrong: 
+Value: $600
+Number: 24
+"BABY" TALK | Nestle calls this nutty candy bar "America's Baby" | Baby Ruth
+right: Raghuveer
+Wrong: 
+Value: $600
+Number: 3
+JOHANNES BRAHMS | Brahms wrote only 4 of these compositions, including No.3 in F major | symphonies
+right: Raghuveer
+Wrong: 
+Value: $800
+Number: 15
+A DAY AT THE HORSE RACES | At the far turn, it's my friend this horse now ridden by Alison Lohman, taking over for Roddy McDowall | Flicka
+right: Marissa
+Wrong: 
+Value: $800
+Number: 10
+U.S. FLAG ETIQUETTE | On this holiday, the flag is displayed at half staff until noon & then at full staff until sunset | Memorial Day
+right: Marissa
+Wrong: 
+Value: DD: $1,500
+Number: 29
+NOT SO FAMOUS LAST WORDS | This '60s guru before dropping out for good: "Why not?" | Timothy Leary
+right: Ellen
+Wrong: 
+Value: $800
+Number: 20
+DO TRY THIS AT HOME | When doing this to your tie, like Burt Lancaster in "Atlantic City", put a piece of cardboard inside it | ironing
+right: Ellen
+Wrong: 
+Value: $800
+Number: 25
+"BABY" TALK | In 1957 Couturier Balenciaga featured dresses with this infantile name | baby doll
+right: Marissa
+Wrong: 
+Value: $800
+Number: 4
+JOHANNES BRAHMS | Brahms spent much of his creative life in Vienna, but was born in this port, today the second-largest city in Germany | Hamburg
+right: Raghuveer
+Wrong: 
+Value: $1000
+Number: 16
+A DAY AT THE HORSE RACES | On the outside is this "Toy Story 2" horse from the Pixar stables, riding like the wind | Bullseye
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+U.S. FLAG ETIQUETTE | In the U.S., this organization's flag may be flown above the Stars and Stripes only at its NYC headquarters | the UN (the United Nations)
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 30
+NOT SO FAMOUS LAST WORDS | This troubled chess master: "Nothing is as healing as the human touch" | (Bobby) Fischer
+right: Marissa
+Wrong: 
+Value: $1000
+Number: 21
+DO TRY THIS AT HOME | You can replace a broken window pane yourself, but prime the wood before applying this, also called glazing compound | putty
+right: 
+Wrong: Triple Stumper
+Raghuveer: What is veneer?
+Ellen: What is caulk?
+Value: $1000
+Number: 26
+"BABY" TALK | We only have eyes for <http://www.j-archive.com/media/2010-12-29_J_05.jpg> this primate seen here | a bush baby
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Marissa: $2,600
+Raghuveer: $2,200
+Ellen: $600
+Scores at the end of the Jeopardy! Round:
+Marissa: $6,500
+Raghuveer: $3,000
+Ellen: $3,200
+Second Jeopardy! Round: ISLAND NATIONS, TV CHARACTERS, FLY ME WITH BALLOONS, MED. ABBREV., 20th CENTURY FACES, BABY TALK
+ISLAND NATIONS | In 2006 a sign language became this country's third official language along with English & Maori | New Zealand
+right: Marissa
+Wrong: 
+Value: $400
+Number: 1
+TV CHARACTERS | This CONTROL agent's shoe phone is on exhibit at the CIA's SPY-Fi Museum | Maxwell Smart
+right: Ellen
+Wrong: 
+Value: $400
+Number: 17
+FLY ME WITH BALLOONS | When Joe Kittinger jumped from a balloon at 102,800', he used 2 of these on the way down & still reached 614 mph | parachutes
+right: Ellen
+Wrong: 
+Value: $400
+Number: 16
+MED. ABBREV. | The medical specialty ENT stands for these 3 body parts | ear, nose and throat
+right: Raghuveer
+Wrong: 
+Value: $400
+Number: 8
+20th CENTURY FACES | In 1927 the wealth of <http://www.j-archive.com/media/2010-12-29_DJ_06.jpg> this notorious person seen here was estimated at around $100 million dollars | Al Capone
+right: Raghuveer
+Wrong: 
+Value: $400
+Number: 6
+BABY TALK | Besides being a bed for a baby, it can mean a slang term for a home | a crib
+right: Ellen
+Wrong: 
+Value: $400
+Number: 22
+ISLAND NATIONS | This African nation consists of the world's fourth-largest island & a bunch of tiny ones | Madagascar
+right: Raghuveer
+Wrong: 
+Value: $800
+Number: 2
+TV CHARACTERS | This "Mary Tyler Moore Show" anchorman was said to be based on 2 L.A. anchors: George Putnam & Jerry Dunphy | Ted Baxter
+right: Ellen
+Wrong: 
+Value: $800
+Number: 18
+FLY ME WITH BALLOONS | In 1978, 3 men set a record flight duration of 137 hours in The Double Eagle II balloon, which used this gas | helium
+right: Marissa
+Wrong: 
+Value: $800
+Number: 27
+MED. ABBREV. | Chronic bronchitis is part of COPD, which stands for chronic obstructive this disease | pulmonary
+right: Ellen
+Wrong: 
+Value: $800
+Number: 10
+20th CENTURY FACES | In WWI, <http://www.j-archive.com/media/2010-12-29_DJ_07.jpg> this future first lady worked for the Navy Marine Corps Relief Society | Eleanor Roosevelt
+right: Ellen
+Wrong: 
+Value: $800
+Number: 7
+BABY TALK | The support for a handset of a phone, or a baby's bed on rockers | a cradle
+right: Ellen
+Wrong: 
+Value: $800
+Number: 23
+ISLAND NATIONS | 2 main islands, a large one that's home to about 95% of the population and a smaller one make up <http://www.j-archive.com/media/2010-12-29_DJ_03.jpg> this country | Trinidad and Tobago
+right: Raghuveer
+Wrong: 
+Value: $1200
+Number: 3
+TV CHARACTERS | On "Lost" this character told Jack, "I've looked into the eye of the island, and what I saw was beautiful" | (John) Locke
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 19
+FLY ME WITH BALLOONS | The first manned untethered hot air balloon ride covered 5.5 miles over this capital | Paris
+right: 
+Wrong: 
+Marissa: What is London?
+Value: DD: $5,000
+Number: 28
+MED. ABBREV. | FBS is short for fasting this, to check for diabetes, for example | blood sugar
+right: Ellen
+Wrong: 
+Value: $1200
+Number: 11
+20th CENTURY FACES | In 1951 <http://www.j-archive.com/media/2010-12-29_DJ_09.jpg> this reclusive and not so prolific author rocketed to a fame that he didn't particularly want | J.D. Salinger
+right: Ellen
+Wrong: 
+Value: $1200
+Number: 9
+BABY TALK | For a rectangle, one is A=bh; or Similac, for example | formula
+right: Marissa
+Wrong: 
+Value: $1200
+Number: 24
+ISLAND NATIONS | It's where the mambo originated | Cuba
+right: Raghuveer
+Wrong: 
+Value: $1600
+Number: 4
+TV CHARACTERS | On "Cheers" we saw only the feet of this character's wife Vera, & once we saw her pie-covered face | Norm
+right: Marissa
+Wrong: 
+Value: $1600
+Number: 20
+FLY ME WITH BALLOONS | The first to cross the Atlantic in a hot air balloon were Per Lindstrand & this airline & record mogul | (Richard) Branson
+right: Raghuveer
+Wrong: 
+Value: $1600
+Number: 29
+MED. ABBREV. | Those with arthritis appreciate NSAIDs, the abbreviation for these drugs | non-steroid anti-inflammatory drugs
+right: Ellen
+Wrong: 
+Value: $1600
+Number: 12
+20th CENTURY FACES | <http://www.j-archive.com/media/2010-12-29_DJ_14.jpg> He had a bitter clash of Stalin over the defense of the city of Tsaritsin; Stalin would have the last word | Leon Trotsky
+right: Raghuveer
+Wrong: 
+Value: $1600
+Number: 14
+BABY TALK | One who brings peace, or this object that soothes baby, from the Latin for "peace" | a pacifier
+right: Marissa
+Wrong: 
+Value: DD: $3,500
+Number: 25
+ISLAND NATIONS | About 60 miles south of Sicily is this island nation that was formerly a British colony | Malta
+right: Raghuveer
+Wrong: 
+Ellen: What is Corsica?
+Value: $2000
+Number: 5
+TV CHARACTERS | An 8-foot bronze statue of this '50s TV character stands in front of NYC's Midtown Port Authority bus terminal | Ralph Kramden
+right: Ellen
+Wrong: 
+Value: $2000
+Number: 21
+FLY ME WITH BALLOONS | The oddly shaped balloon seen <http://www.j-archive.com/media/2010-12-29_DJ_30.jpg> here was part of a collection belonging to this publisher who died in 1990 | Malcolm Forbes
+right: Ellen
+Wrong: 
+Value: $2000
+Number: 30
+MED. ABBREV. | (<http://www.j-archive.com/media/2010-12-29_DJ_13.jpg> Dr. Oz gives the clue) Doctor slang can be confusing to patients, like "cabbage" for CABG, this operation done is case of atherosclerosis | coronary artery bypass graft
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+20th CENTURY FACES | Please appease me and name <http://www.j-archive.com/media/2010-12-29_DJ_15.jpg> this world leader seen here | (Neville) Chamberlain
+right: Raghuveer
+Wrong: 
+Value: $2000
+Number: 15
+BABY TALK | Your most fashionable clothes are your "best" this & "tucker" | bib
+right: Raghuveer
+Wrong: 
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Marissa: $10,200
+Raghuveer: $16,600
+Ellen: $13,600
+
+Final Jeopardy! Round
+LITERARY LINES | "You have no right to expect me to send you back to Kansas" appears in a 1900 novel & in an epigraph to this 1995 novel | Wicked
+right: Marissa | Ellen
+Wrong: 
+Raghuveer: What is In Cold Blood?
+Wagers: 
+Marissa: $3,500
+Ellen: $12,000
+Raghuveer: $10,601
+Final scores:
+Marissa: $13,700 (2nd place: $2,000)
+Raghuveer: $5,999 (3rd place: $1,000)
+Ellen: $25,600 (New champion: $25,600)
+
+Coryat scores
+Marissa: $12,600 (16 R(including 2 DDs),1 W(including 1 DD))
+Raghuveer: $16,600 (19 R,3 W)
+Ellen: $13,600 (19 R,2 W)

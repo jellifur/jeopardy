@@ -1,0 +1,336 @@
+5007 - Tuesday, May 23, 2006
+Contestants:
+Tricia Barreiro: an interactive project manager from Santa Monica, California
+Devin Landin: a student from Yorktown, New York
+Harvey Cormier: a professor originally from Houston, Texas (whose 1-day cash winnings total $17,300)
+First Jeopardy! Round: CLASSY CLASSICAL CLASSICS, ROBIN WILLIAMS MOVIES, NOTABLE NAMES, A "C"OUNTRY MILE, ON THE GO, ABBREV.
+CLASSY CLASSICAL CLASSICS | Germane to your answer is this German, credited with making good use of his organ in the work heard <http://www.j-archive.com/media/2006-05-23_J_01.mp3> here | Johann Sebastian Bach
+right: Harvey
+Wrong: 
+Value: $200
+Number: 1
+ROBIN WILLIAMS MOVIES | "This is rock and roll!  Time to rock it from the Delta to the DMZ!" | Good Morning, Vietnam
+right: Tricia
+Wrong: 
+Value: $200
+Number: 8
+NOTABLE NAMES | An airport in Queens is named for this son of an Italian bandmaster in the U.S. Army | LaGuardia
+right: Devin
+Wrong: 
+Value: $200
+Number: 21
+A "C"OUNTRY MILE | This country is about 2,700 miles long & averages 110 miles wide | Chile
+right: Devin
+Wrong: 
+Value: $200
+Number: 4
+ON THE GO | In 1839 Kirkpatrick Macmillan added pedals to a draisienne, producing the first one of these | a bicycle
+right: Devin
+Wrong: 
+Tricia: What's a piano?
+Value: $200
+Number: 26
+ABBREV. | To a cop, B&E is short for this | breaking & entering
+right: Devin
+Wrong: 
+Value: $200
+Number: 16
+CLASSY CLASSICAL CLASSICS | 3-word title of the celebratory composition heard <http://www.j-archive.com/media/2006-05-23_J_02.mp3> here | "Pomp And Circumstance"
+right: Harvey
+Wrong: 
+Value: $400
+Number: 2
+ROBIN WILLIAMS MOVIES | "My first day as a woman and I am already having hot flashes" | Mrs. Doubtfire
+right: Tricia
+Wrong: 
+Value: $400
+Number: 9
+NOTABLE NAMES | In 1932 Chou En-Lai succeeded this man as political commissar of the Red Army | Mao Tse-tung
+right: Harvey
+Wrong: 
+Value: $400
+Number: 22
+A "C"OUNTRY MILE | This country of about 20,000 sq. miles is among the most stable economically & politically in Central America | Costa Rica
+right: Harvey
+Wrong: 
+Value: $400
+Number: 5
+ON THE GO | The panorama at Mammoth Mountain is this type of transport for skiers, not Venetian singers | a gondola
+right: Tricia
+Wrong: 
+Value: $400
+Number: 27
+ABBREV. | To a doctor, LOC is loss of this | consciousness
+right: Harvey
+Wrong: 
+Value: $400
+Number: 17
+CLASSY CLASSICAL CLASSICS | You're "rite" on the money if you know the controversial music heard <http://www.j-archive.com/media/2006-05-23_J_03.mp3> here is by this composer | Stravinsky
+right: Tricia
+Wrong: 
+Value: $600
+Number: 3
+ROBIN WILLIAMS MOVIES | "Carpe, carpe diem, seize the day boys, make your lives extraordinary" | Dead Poets Society
+right: Devin
+Wrong: 
+Value: $600
+Number: 10
+NOTABLE NAMES | In 2003 the son of this Libyan strongman joined the Italian soccer club Perugia | Kaddafi
+right: Devin
+Wrong: 
+Value: $600
+Number: 23
+A "C"OUNTRY MILE | This country is about 3,000 miles long N. to S. but 3/4 of its people live within 200 miles of its southern border | Canada
+right: Devin
+Wrong: 
+Value: $600
+Number: 11
+ON THE GO | In the '30s the U.S. Navy had battleships named for states & these for cities: Macon, L.A. & of course Akron | dirigibles
+right: 
+Wrong: Triple Stumper
+Harvey: Oh, what is... uh... heh heh...
+Devin: What are submarines?
+Value: $600
+Number: 28
+ABBREV. | (<http://www.j-archive.com/media/2006-05-23_J_18.jpg> Jon of the Clue Crew reads while paddling a kayak.)  In any small watercraft, don't leave shore without a PFD, short for this | a personal flotation device
+right: Devin
+Wrong: 
+Value: $600
+Number: 18
+CLASSY CLASSICAL CLASSICS | Taken from one of his sonatas, the "Turkish" music heard <http://www.j-archive.com/media/2006-05-23_J_06.mp3> here is by this composer | Mozart
+right: Harvey
+Wrong: 
+Value: $800
+Number: 6
+ROBIN WILLIAMS MOVIES | "You treat a disease, you win, you lose.  You treat a person, I'll guarantee you'll win" | Patch Adams
+right: Harvey
+Wrong: 
+Tricia: What is Doc Adams?
+Value: $800
+Number: 14
+NOTABLE NAMES | William Styron called "The Confessions of" this slave revolt leader "a meditation on history" | Nat Turner
+right: Harvey
+Wrong: 
+Value: $800
+Number: 24
+A "C"OUNTRY MILE | This country that's 750 miles long & averages 60 miles wide is the largest island in the Antilles Archipelago | Cuba
+right: Tricia
+Wrong: 
+Devin: Uh, what is Curacao?
+Value: $800
+Number: 12
+ON THE GO | In 1919 a $25,000 prize was offered to the first pilot who could fly nonstop between these 2 cities | New York & Paris
+right: 
+Wrong: 
+Tricia: What are... London and New York?
+Value: DD: $800
+Number: 29
+ABBREV. | On a pencil, BBB means triple this | black
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+CLASSY CLASSICAL CLASSICS | Yee-haw!  It's the Copland ballet heard <http://www.j-archive.com/media/2006-05-23_J_07.mp3> here | Rodeo
+right: Harvey
+Wrong: 
+Value: $1000
+Number: 7
+ROBIN WILLIAMS MOVIES | "What am I?  A barnacle on the dinghy of life?" | Popeye
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 15
+NOTABLE NAMES | The organization of these theater-building brothers, Lee, Sam & Jacob, came to dominate the U.S. stage | the Shubert family
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+A "C"OUNTRY MILE | An African country of over 120,000 square miles gets this French name from the product of its early trade | Cote d'Ivoire
+right: Devin
+Wrong: 
+Value: $1000
+Number: 13
+ON THE GO | On September 8, 1974 he parachuted to the bottom of the Snake River Canyon; that was plan B | Evel Knievel
+right: Devin
+Wrong: 
+Value: $1000
+Number: 30
+ABBREV. | (<http://www.j-archive.com/media/2006-05-23_J_20.jpg> Kelly of the Clue Crew shows on the monitor that the fractions 1/3 = 4/12 and 1/4 = 3/12.)  For 1/3 & 1/4, 12 is the LCD--lowest common denominator; for 2, 3, 4 & 6, 12 is the LCM, short for this | least common multiple
+right: Devin
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Harvey: $3,600
+Devin: $1,600
+Tricia: $2,200
+Scores at the end of the Jeopardy! Round:
+Harvey: $4,600
+Devin: $4,800
+Tricia: $1,600
+Second Jeopardy! Round: CLASSIC GAME SHOWS, FAMILY FEUD, PLAYING PYRAMID, LET'S MAKE A DEAL, SHOP 'TIL YOU DROP, "TRUTH" OR CONSEQUENCES
+FAMILY FEUD | To Martha's horror, husband George "kills" their son in this Albee play (well, not really) | Who's Afraid of Virginia Woolf?
+right: Devin
+Wrong: 
+Value: $400
+Number: 21
+PLAYING PYRAMID | Garden, Republican, birthday | a party
+right: Tricia
+Wrong: 
+Value: $400
+Number: 4
+LET'S MAKE A DEAL | In April 1814 allies Britain, Russia, Austria & Prussia signed the Treaty of Fontainebleau with this man | Napoleon
+right: Harvey
+Wrong: 
+Value: $400
+Number: 16
+SHOP 'TIL YOU DROP | This retail chain is famous for its Craftsman tools | Sears
+right: Tricia
+Wrong: 
+Value: $400
+Number: 1
+"TRUTH" OR CONSEQUENCES | The 5 words that follow "Glory! Glory! Hallelujah!" in the first verse of "The Battle Hymn of the Republic" | "His truth is marching on"
+right: Devin
+Wrong: 
+Tricia: [Mouths lyrics trying to arrive at the appropriate point]
+Value: $400
+Number: 11
+FAMILY FEUD | An angry Heathcliff takes on not one, but 2 families in this 1847 Yorkshire-set novel | Wuthering Heights
+right: Harvey
+Wrong: 
+Value: $800
+Number: 24
+PLAYING PYRAMID | The bucket, sand in someone's face, a fellow when he's down | things you kick
+right: Tricia
+Wrong: 
+Value: $800
+Number: 5
+LET'S MAKE A DEAL | George Mitchell helped with this "agreement", signed in Belfast on April 10, 1998 & named for this holy day | Good Friday
+right: 
+Wrong: Triple Stumper
+Harvey: What's the Easter Agreement?
+Value: $800
+Number: 17
+SHOP 'TIL YOU DROP | To clear the air, this specialty retailer that sells the Ionic Breeze started as a way for the owner to have fun | The Sharper Image
+right: Harvey
+Wrong: 
+Value: $800
+Number: 2
+"TRUTH" OR CONSEQUENCES | Sodium pentothal is often thought of as one of these | a truth serum
+right: Devin
+Wrong: 
+Value: $800
+Number: 12
+CLASSIC GAME SHOWS | 4 celebrity panelists try to determine the correct occupation of the contestant | What's My Line?
+right: Devin
+Wrong: 
+Value: $1200
+Number: 22
+FAMILY FEUD | Feuding doesn't get much worse than patricide, as it does in this Dostoyevsky novel, his last | The Brothers Karamazov
+right: 
+Wrong: Triple Stumper
+Devin: What is Anna Karenina?
+Tricia: What is Crime and Punishment?
+Value: $1200
+Number: 25
+PLAYING PYRAMID | Deck, electric, director's | a chair
+right: Tricia
+Wrong: 
+Value: $1200
+Number: 6
+LET'S MAKE A DEAL | The Treaty of Nanking ceded this island & smaller adjacent ones to the British, who remained until 1997 | Hong Kong
+right: Tricia
+Wrong: 
+Value: $1200
+Number: 18
+SHOP 'TIL YOU DROP | In the 1860s this NYC store only sold hoop skirts; now you need a big brown bag for all the couture it sells | Bloomingdale's
+right: Devin
+Wrong: 
+Harvey: What is Macy's?
+Value: $1200
+Number: 3
+"TRUTH" OR CONSEQUENCES | Winston Smith works for this ironically named government unit in the novel "1984" | the Ministry of Truth
+right: Harvey
+Wrong: 
+Value: $1200
+Number: 13
+CLASSIC GAME SHOWS | Recently married couples are separated & must predict their partner's responses to questions | The Newlywed Game
+right: Harvey
+Wrong: 
+Value: $1600
+Number: 23
+FAMILY FEUD | This 1857 Flaubert title character has an unfortunate affair to remember, leading to suicide | Madame Bovary
+right: Harvey
+Wrong: 
+Value: $1600
+Number: 26
+PLAYING PYRAMID | Truck, bunk, Murphy | a bed
+right: Harvey
+Wrong: 
+Value: $1600
+Number: 7
+LET'S MAKE A DEAL | Cornplanter, a chief of this confederacy, signed a 1784 treaty ceding the U.S. all land W. of the Niagara River | the Iriquois Confederacy
+right: Harvey
+Wrong: 
+Value: $1600
+Number: 19
+SHOP 'TIL YOU DROP | James Cash (first & middle names) originally called this department store the Golden Rule store | J.C. Penney
+right: Harvey
+Wrong: 
+Value: $1600
+Number: 9
+"TRUTH" OR CONSEQUENCES | It's the all-too-accurate meaning of Pliny's famous Latin proverb "In vino veritas" | "There is truth in wine"
+right: Harvey
+Wrong: 
+Value: DD: $3,000
+Number: 14
+FAMILY FEUD | The Trask at hand is this 1952 novel, where Caleb tells twin bro Aron the truth mom, with bad results | East of Eden
+right: 
+Wrong: 
+Harvey: Uhh... What is Tobacco Road?
+Value: DD: $2,000
+Number: 27
+PLAYING PYRAMID | Children's, periodic, pool | a table
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 8
+LET'S MAKE A DEAL | After getting reparations from this country following WWII, the USSR returned the Porkkala Peninsula to it | Finland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+SHOP 'TIL YOU DROP | This clothing & retail line's double-talk name comes from Hamlet's famous line; that is the question | bebe
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 10
+"TRUTH" OR CONSEQUENCES | An acknowledgement of suffering is the first of this basic quartet of Buddhist beliefs | the Four Noble Truths
+right: 
+Wrong: Triple Stumper
+Devin: Uh, what are the Four Truths?
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Harvey: $14,800
+Devin: $5,600
+Tricia: $8,000
+
+Final Jeopardy! Round
+THE GLOBE | If you dig straight through the Earth's center from Canton, Ohio you'll end up not in China but in this body of water | the Indian Ocean
+right: Devin | Tricia
+Wrong: 
+Harvey: What is the Red Sea?
+Wagers: 
+Devin: $5,000
+Tricia: $7,998
+Harvey: $1,201
+Final scores:
+Harvey: $13,599 (2nd place: $2,000)
+Devin: $10,600 (3rd place: $1,000)
+Tricia: $15,998 (New champion: $15,998)
+
+Coryat scores
+Harvey: $15,400 (19 R(including 1 DD),4 W(including 1 DD))
+Devin: $5,600 (16 R,4 W)
+Tricia: $8,800 (13 R,5 W(including 1 DD))

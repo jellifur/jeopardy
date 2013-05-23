@@ -1,0 +1,311 @@
+61 - Monday, December 3, 1984
+Contestants:
+Nicholas Vallas: a waiter originally from Cambridge, Massachusetts
+Daniel Elias: an advertising copywriter from New York City
+Leslie Stucke: a family counselor from San Diego, California (whose 1-day cash winnings total $8,100)
+First Jeopardy! Round: U.S. HISTORY, SPORTS, THE BIBLE, 4-LETTER WORDS, TV TRIVIA, GLASS
+U.S. HISTORY | Some 30 years before his cousin's New Deal, he gave us a "Square Deal" | Theodore Roosevelt
+right: Dan
+Wrong: 
+Nicholas: Who is Franklin Roosevelt?
+Value: $100
+Number: 2
+SPORTS | Nickname for a football | a pigskin
+right: Dan
+Wrong: 
+Value: $100
+Number: 7
+THE BIBLE | The longest of the 2 "Testaments" | the Old
+right: Dan
+Wrong: 
+Value: $100
+Number: 23
+4-LETTER WORDS | A small shrub or Reagan's V.P. | a bush
+right: Dan
+Wrong: 
+Value: $100
+Number: 5
+TV TRIVIA | Arnold Zenker replaced this trusted CBS newsman during a 13-day union strike in 1967 | Walter Cronkite
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+GLASS | About 90% of all glass is made from this material | sand
+right: Dan
+Wrong: 
+Value: $100
+Number: 13
+U.S. HISTORY | In 1870s cartoonist Thomas Nast gave Democrats & GOP these symbols | the donkey and the elephant
+right: Dan
+Wrong: 
+Value: $200
+Number: 3
+SPORTS | A filly becomes a mare at this age | 4
+right: 
+Wrong: Triple Stumper
+Leslie: What is 2?
+Dan: What is 1?
+Nicholas: What is 3?
+Value: $200
+Number: 16
+THE BIBLE | He lived to be 969 years old | Methuselah
+right: Dan
+Wrong: 
+Value: $200
+Number: 24
+4-LETTER WORDS | Horses are hot to do it | trot
+right: Nicholas
+Wrong: 
+Value: $200
+Number: 6
+TV TRIVIA | "Gene, Gene, the Dancing Machine" was among the "talent" on this Chuck Barris series | The Gong Show
+right: Dan
+Wrong: 
+Value: $200
+Number: 10
+GLASS | This "glass yarn" serves as insulation & the Corvette's body | fiberglass
+right: Dan
+Wrong: 
+Value: $200
+Number: 14
+U.S. HISTORY | Pres. Wilson founded this world organization which America never joined | the League of Nations
+right: Dan
+Wrong: 
+Value: $300
+Number: 4
+SPORTS | According to rules, the strike zone in baseball extends from the batter's knees to here | his armpits
+right: Nicholas
+Wrong: 
+Dan: What is his shoulder?
+Value: $300
+Number: 17
+THE BIBLE | Jesus said that only "he that is without sin" could do this | cast the first stone
+right: Dan
+Wrong: 
+Value: $300
+Number: 26
+4-LETTER WORDS | Bacall's last word on how to whistle | blow
+right: 
+Wrong: 
+Dan: What is, uh, pucker up?
+Value: DD: $500
+Number: 8
+TV TRIVIA | "Bubbles In The Wine" was the appropriate title of his theme song | Lawrence Welk
+right: Dan
+Wrong: 
+Value: $300
+Number: 11
+GLASS | A small terrestrial telescope | a spyglass
+right: Nicholas
+Wrong: 
+Value: $300
+Number: 15
+U.S. HISTORY | The Spanish-American War led to this Caribbean country's independence | Cuba
+right: Dan
+Wrong: 
+Value: $400
+Number: 22
+SPORTS | This bowl game changes location every year | the Super Bowl
+right: Nicholas
+Wrong: 
+Value: $400
+Number: 18
+4-LETTER WORDS | Foie gras in France of chopped liver at Aunt Esthers' | pâté
+right: Dan
+Wrong: 
+Value: $400
+Number: 9
+TV TRIVIA | When Ken Berry took over, "The Andy Griffith Show" was renamed this | Mayberry R.F.D.
+right: Dan
+Wrong: 
+Value: $400
+Number: 12
+GLASS | The glass curtain at Mexico City's Palace of Fine Arts was made by this company | Tiffany
+right: Dan
+Wrong: 
+Value: $400
+Number: 21
+U.S. HISTORY | He was the first American in space | Alan Shepard
+right: Dan
+Wrong: 
+Value: $500
+Number: 25
+SPORTS | The number of laps run in the Indy 500 | 200
+right: Leslie
+Wrong: 
+Value: $500
+Number: 19
+TV TRIVIA | In the Spring of 1950 Arthur Godfrey gave TV lessons on playing this instrument | the ukulele
+right: Nicholas
+Wrong: 
+Dan: What is the saxophone?
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Leslie: $0
+Dan: $800
+Nicholas: $100
+Scores at the end of the Jeopardy! Round:
+Leslie: $300
+Dan: $2,900
+Nicholas: $1,400
+Second Jeopardy! Round: WORLD GEOGRAPHY, OPERA, INDIANS, BIRDS, ENGLAND, MEDICINE
+WORLD GEOGRAPHY | This canal's official opening was on July 12,1920 | the Panama Canal
+right: Nicholas
+Wrong: 
+Dan: What is the Suez?
+Value: $200
+Number: 4
+OPERA | Verdi fans always want "moor" of this Shakespearean hero | Othello
+right: Nicholas
+Wrong: 
+Value: $200
+Number: 23
+INDIANS | Buffalo-skin covered homes of Plains Indians | a teepee
+right: Dan
+Wrong: 
+Value: $200
+Number: 2
+BIRDS | Maryland's state bird & state baseball team | the orioles
+right: Nicholas
+Wrong: 
+Value: $200
+Number: 14
+ENGLAND | Britain's 4 PM "coffee break" | tea time
+right: Nicholas
+Wrong: 
+Dan: What is tea? ... What is tea...
+Value: $200
+Number: 1
+MEDICINE | Basic material used to make casts | plaster
+right: Dan
+Wrong: 
+Value: $200
+Number: 17
+WORLD GEOGRAPHY | Africa's northernmost country, it was once site of ancient Carthaginian empire | Tunisia
+right: Leslie
+Wrong: 
+Dan: What is, uh, Egypt?
+Nicholas: What is Libya?
+Value: $400
+Number: 8
+OPERA | He wrote Brunhilde's immolation, opera's longest aria of nearly 15 minutes | Wagner
+right: Nicholas
+Wrong: 
+Dan: Who is Verdi?
+Value: $400
+Number: 25
+INDIANS | Continent from which Indians' ancestors came to America | Asia
+right: Dan
+Wrong: 
+Value: $400
+Number: 3
+BIRDS | Collective name for domesticated birds raised for meat & eggs | poultry
+right: Nicholas
+Wrong: 
+Value: $400
+Number: 15
+ENGLAND | Though he never slew any dragons there, he's England's patron saint | St. George
+right: Dan
+Wrong: 
+Value: $400
+Number: 6
+MEDICINE | What R.N. stands for | registered nurse
+right: Nicholas
+Wrong: 
+Value: $400
+Number: 18
+WORLD GEOGRAPHY | Country that's larger than U.S. but smaller than Canada | (People's Republic of) China
+right: 
+Wrong: Triple Stumper
+Dan: What is Brazil?
+Nicholas: What is Australia?
+Value: $600
+Number: 11
+INDIANS | The real Hiawatha united Mohawks & 4 other tribes into this confederation | the Iroquois Confederation
+right: Dan
+Wrong: 
+Value: $600
+Number: 5
+BIRDS | The most common bird on world flags | the eagle
+right: Nicholas
+Wrong: 
+Value: $600
+Number: 20
+ENGLAND | English barons forced this royal enemy of Robin Hood to sign the Magna Carta | King John I
+right: Dan
+Wrong: 
+Value: $600
+Number: 7
+MEDICINE | Any abnormal tissue mass with no physiologic function | a tumor
+right: Dan
+Wrong: 
+Nicholas: What is placebo?
+Value: $600
+Number: 22
+WORLD GEOGRAPHY | To evade French defenders, the Germans attacked France through this country in both World Wars | Belgium
+right: Leslie
+Wrong: 
+Nicholas: What is Poland?
+Value: $800
+Number: 12
+INDIANS | Though few of them ever did it, the name "Nez-Perce" means this | pierce(d) nose
+right: Dan
+Wrong: 
+Nicholas: What is, um, wear eyeglasses? Nose.
+Value: $800
+Number: 24
+BIRDS | Woodcocks' eyes are so far back on their heads, they have this unusual field of sight | 360 degrees
+right: Leslie
+Wrong: 
+Value: $800
+Number: 21
+ENGLAND | Nickname for London's financial district | the City
+right: 
+Wrong: Triple Stumper
+Dan: What is Bond Street?
+Nicholas: What is Fleet Street?
+Value: $800
+Number: 9
+WORLD GEOGRAPHY | The Blue & White Niles meet at this city where Gen. "Chinese" Gordon met death | Khartoum
+right: Leslie
+Wrong: 
+Nicholas: What is Appomattox?
+Value: $1000
+Number: 13
+INDIANS | President whose only military service was in Illinois' Blackhawk War in 1830 | Abraham Lincoln
+right: Dan
+Wrong: 
+Value: $1000
+Number: 19
+BIRDS | This "crazy" North American diving bird has been found at depths of 160 feet | the (common) loon
+right: Dan
+Wrong: 
+Value: $1000
+Number: 16
+ENGLAND | He's also known as the primate of all England | the Archbishop of Canterbury
+right: Leslie
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Leslie: $4,300
+Dan: $6,100
+Nicholas: -$1,000
+
+Final Jeopardy! Round
+EUROPE | The Soviet army was welcome in this capital in May of '45 but unwelcome in August '68 | Prague
+right: Leslie | Dan
+Wrong: 
+Wagers: 
+Leslie: $4,300
+Dan: $4,000
+Final scores:
+Leslie: $8,600 (2nd place: hair care appliances and an exercise bike)
+Dan: $10,100 (New champion: $10,100)
+Nicholas: -$1,000 (3rd place: his and hers jackets)
+
+Coryat scores
+Leslie: $4,300 (6 R,1 W)
+Dan: $6,600 (28 R,10 W(including 1 DD))
+Nicholas: -$1,000 (13 R,9 W)

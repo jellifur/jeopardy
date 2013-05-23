@@ -1,0 +1,345 @@
+6336 - Monday, March 19, 2012
+Contestants:
+Kyle Roll: a compliance analyst from Richmond, Virginia
+Alex Wright: a university administrator from Upper Arlington, Ohio
+Hannah Spector: a stay-at-home mom from Van Nuys, California (whose 1-day cash winnings total $29,201)
+First Jeopardy! Round: HOLD EVERYTHING, POETS' MONOGRAMS, LOGO SECRETS, SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR, "SQ"SES, "SQ"SES, JANE GOODALL
+HOLD EVERYTHING | If you're a pistol-packin' pardner, this leather holder open at the top is probably what you pack the pistol in | a holster
+right: Alex
+Wrong: 
+Value: $200
+Number: 13
+POETS' MONOGRAMS | He heard "America Singing": WW | Walt Whitman
+right: Kyle
+Wrong: 
+Value: $200
+Number: 21
+LOGO SECRETS | Next time you get a FedEx package, notice a right-pointing one of these between the second "E" & the "X" | an arrow
+right: Hannah
+Wrong: 
+Value: $200
+Number: 8
+SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR | 2010: N'awlins quarterback | Drew Brees
+right: Alex
+Wrong: 
+Value: $200
+Number: 26
+"SQ"SES, "SQ"SES | 2-word term for a police cruiser | a squad car
+right: Alex
+Wrong: 
+Value: $200
+Number: 1
+JANE GOODALL | Within weeks of arriving in Africa in 1957, I met <http://www.j-archive.com/media/2012-03-19_J_06.jpg> this paleontologist who soon hired me as an assisstant | (Louis) Leakey
+right: Kyle
+Wrong: 
+Value: $200
+Number: 6
+HOLD EVERYTHING | A small, enclosed shell that can hold medicine or objects for a future "time" | a capsule
+right: Kyle
+Wrong: 
+Value: $400
+Number: 14
+POETS' MONOGRAMS | A romantic poet who ode a lot: JK | John Keats
+right: Hannah
+Wrong: 
+Value: $400
+Number: 22
+LOGO SECRETS | Parts of the "B" & the "R" in this sweet treat shop's logo form the number "31" | Baskin-Robbins
+right: Hannah
+Wrong: 
+Value: $400
+Number: 9
+SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR | 2011: Coaches Pat Summitt & this Duke legend (nickname accepted) | Coach K (Mike Krzyzewski)
+right: Hannah
+Wrong: 
+Value: $400
+Number: 27
+"SQ"SES, "SQ"SES | I spent most of my money on booze, fast cars & women; the rest was this, meaning "wasted" | squandered
+right: Alex
+Wrong: 
+Value: $400
+Number: 2
+JANE GOODALL | The male chimpanzee who can intimidate all others & win their submissive pant-grunts is known by this Greek-letter term | the alpha (male)
+right: Hannah
+Wrong: 
+Value: $400
+Number: 7
+HOLD EVERYTHING | This synonym for "coffin" can also mean a small ornamental chest or box | a casket
+right: Hannah
+Wrong: 
+Value: $600
+Number: 17
+POETS' MONOGRAMS | A key figure of the Harlem renaissance: LH | Langston Hughes
+right: Kyle
+Wrong: 
+Value: $600
+Number: 23
+LOGO SECRETS | (<http://www.j-archive.com/media/2012-03-19_J_10.jpg>  Jimmy of the Clue Crew presents the clue.)  An analog sine wave begins the word, & digital signals in binary code end it, in the logo for a <http://www.j-archive.com/media/2012-03-19_J_10a.jpg> computer from this company | Sony
+right: Alex
+Wrong: 
+Value: $600
+Number: 10
+SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR | 1999: Kristine Lilly & her teammates in this sport | women's soccer
+right: Hannah
+Wrong: 
+Value: $600
+Number: 28
+"SQ"SES, "SQ"SES | An election won by a few votes, or a ball game won by a few points | a squeaker
+right: Hannah
+Wrong: 
+Value: $600
+Number: 3
+JANE GOODALL | The first chimpanzee to venture into my camp was David Greybeard, attracted by palm nuts & then lured by this fruit.  You may have seen the <http://www.j-archive.com/media/2012-03-19_J_15.jpg> photo of another chimpanzee looking for them under my shirt | banana
+right: Kyle
+Wrong: 
+Value: $600
+Number: 15
+HOLD EVERYTHING | As in song, "pack up your troubles" in one of these leather traveling sacks & smile, smile, smile | a kit bag
+right: Kyle
+Wrong: 
+Value: $800
+Number: 18
+POETS' MONOGRAMS | Wrote a sonnet "On His Blindness": JM | John Milton
+right: Kyle
+Wrong: 
+Value: $800
+Number: 24
+LOGO SECRETS | BMW calls it a "coincidence" that the blue & white on its logo are the colors of this German region's flag | Bavaria
+right: Hannah
+Wrong: 
+Value: $800
+Number: 11
+SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR | 1954: British track man | Roger Bannister
+right: 
+Wrong: 
+Hannah: Who is Sebastian ... I don't know.
+Value: DD: $600
+Number: 29
+"SQ"SES, "SQ"SES | Foreclosed, abandoned homes have brought an influx of these people who live in a place without a title or lease | squatters
+right: Alex
+Wrong: 
+Value: $800
+Number: 4
+JANE GOODALL | I made an exciting discovery: chimpanzees fashioning probes to fish termites from their nests; chimpanzees were making & using these, which anthropologists had seen earlier as behavior that separates man from all other animals | tools
+right: Hannah
+Wrong: 
+Value: $800
+Number: 16
+HOLD EVERYTHING | It's a stationary crib or cradle with a hood | a bassinette
+right: Kyle
+Wrong: 
+Value: $1000
+Number: 20
+POETS' MONOGRAMS | Irish-born 1995 Nobel laureate: SH | Seamus Heaney
+right: Hannah
+Wrong: 
+Value: $1000
+Number: 25
+LOGO SECRETS | This corporation that owns Lipton & Hellmann's uses many of its products in its letter-U logo | Unilever
+right: Hannah
+Wrong: 
+Value: $1000
+Number: 12
+SPORTS ILLUSTRATED SPORTSMAN OF THE YEAR | 1968: player-coach of the Boston Celtics | (Bill) Russell
+right: Alex
+Wrong: 
+Value: $1000
+Number: 30
+"SQ"SES, "SQ"SES | Easily made to feel sick | squeamish
+right: Alex | Kyle
+Wrong: 
+Value: $1000
+Number: 5
+JANE GOODALL | Flo's offspring were successful as adults because she was an affectionate & supportive mother & coped wisely even during this time of mother-child conflict in the fourth year of life | weaning
+right: 
+Wrong: Triple Stumper
+Alex: What is adolescence?
+Kyle: What are the teen years?
+Value: $1000
+Number: 19
+Scores at the first commercial break (after clue 15)
+Hannah: $3,400
+Alex: $3,200
+Kyle: $2,200
+Scores at the end of the Jeopardy! Round:
+Hannah: $6,600
+Alex: $3,400
+Kyle: $4,600
+Second Jeopardy! Round: BY GEORGE, FAMILIAR PHRASES, A YEAR ENDING IN 12, "YOU" ROCK, HERE I AM..., POTPOURRI
+BY GEORGE | The music for "Porgy and Bess" | George Gershwin
+right: Alex
+Wrong: 
+Value: $400
+Number: 6
+FAMILIAR PHRASES | An Arab proverb says, "The enemy of my enemy is my" this | my friend
+right: Alex
+Wrong: 
+Value: $400
+Number: 11
+A YEAR ENDING IN 12 | John Rolfe & the Jamestown colony experiment with growing tobacco | 1612
+right: Kyle
+Wrong: 
+Value: $400
+Number: 16
+"YOU" ROCK | Title that follows "Shot through the heart and you're to blame" | "You Give Love a Bad Name"
+right: Alex
+Wrong: 
+Value: $400
+Number: 1
+HERE I AM... | Where the Zambezi river rises in this country whose name starts with the same 4 letters | Zambia
+right: Kyle
+Wrong: 
+Value: $400
+Number: 21
+POTPOURRI | Egypt's mount Katrina is the highest peak on this peninsula | the Sinai
+right: Kyle
+Wrong: 
+Value: $400
+Number: 26
+BY GEORGE | The 1993 book "Turmoil and Triumph: My Years As Secretary of State" | George Shultz
+right: 
+Wrong: Triple Stumper
+Alex: Who is Baker?
+Kyle: Who is Rogers?
+Value: $800
+Number: 7
+FAMILIAR PHRASES | Dragging a certain fish across a trail made hounds lose the scent, hence this term for a misleading clue | a red herring
+right: Alex
+Wrong: 
+Value: $800
+Number: 12
+A YEAR ENDING IN 12 | Robert Falcon Scott & his team reach the South Pole | 1912
+right: Alex
+Wrong: 
+Value: $800
+Number: 17
+"YOU" ROCK | Police hit that says, "since you've gone I've been lost without a trace; I dream at night, I can only see your face" | "Every Breath You Take"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+HERE I AM... | In Providence, Rhode Island, at the head of this bay that's about 30 miles long | Narragansett
+right: Kyle
+Wrong: 
+Value: $800
+Number: 22
+POTPOURRI | In the 1880s Camille Claudel was a pupil & then more of this sculptor | Rodin
+right: Kyle
+Wrong: 
+Hannah: Who is Degas?
+Value: $800
+Number: 27
+BY GEORGE | "The Sophisticated Poll Watcher's Guide" | (George) Gallup
+right: Alex
+Wrong: 
+Value: DD: $2,000
+Number: 8
+FAMILIAR PHRASES | Meaning "stunningly attired", it's also the name of a macabre Brian de Palma film starring Michael Caine | dressed to kill
+right: Hannah
+Wrong: 
+Value: $1200
+Number: 13
+A YEAR ENDING IN 12 | Ponce de Leon reaches the Turks & Caicos islands | 1512
+right: Alex
+Wrong: 
+Value: DD: $3,000
+Number: 18
+"YOU" ROCK | "And I'm here to remind you of the mess you left when you went away" is part of this accusatory tune | "You Oughta Know"
+right: Alex
+Wrong: 
+Value: $1200
+Number: 3
+HERE I AM... | At the mosque of Ali Pasha, one of the principal mosques of this Bosnian city | Sarajevo
+right: Kyle
+Wrong: 
+Value: $1200
+Number: 23
+POTPOURRI | In 1804 Andrew Jackson bought the Hermitage, his home & refuge in this state | Tennessee
+right: Hannah
+Wrong: 
+Value: $1200
+Number: 28
+BY GEORGE | The novel "Silas Marner" | George Eliot
+right: Kyle
+Wrong: 
+Value: $1600
+Number: 9
+FAMILIAR PHRASES | "To hang by a thread" is an allusion to this weapon suspended above a banquet guest | the Sword of Damocles
+right: Hannah
+Wrong: 
+Value: $1600
+Number: 14
+A YEAR ENDING IN 12 | Emboldened by the sight of a cross in the sky, Constantine defeats Maxentius | 312
+right: 
+Wrong: Triple Stumper
+Kyle: What is 412?
+Value: $1600
+Number: 19
+"YOU" ROCK | Human League topped the U.S. charts with this musical question, "baby" | "Don't You Want Me"
+right: Hannah
+Wrong: 
+Value: $1600
+Number: 4
+HERE I AM... | In this region declared Portuguese territory in 1849 & returned to Chinese sovereignty in 1999 | Macao
+right: Kyle
+Wrong: 
+Value: $1600
+Number: 24
+POTPOURRI | Byzantine empress Irene promoted the use of this type of symbol & battled the -oclasts | icon
+right: Hannah
+Wrong: 
+Value: $1600
+Number: 29
+BY GEORGE | 1749's "Music for the Royal Fireworks" | George Handel
+right: Kyle
+Wrong: 
+Value: $2000
+Number: 10
+FAMILIAR PHRASES | In the 19th century this phrase meant "neck and neck"; in the 20th, it was reinvented to mean a cosmetic surgical operation | nip & tuck
+right: Kyle
+Wrong: 
+Value: $2000
+Number: 15
+A YEAR ENDING IN 12 | A warrant is issued for the arrest of Scottish outlaw Rob Roy MacGregor | 1712
+right: Kyle
+Wrong: 
+Hannah: What is 1612?
+Value: $2000
+Number: 20
+"YOU" ROCK | "So itook what I could get, yes I took what I could get, & then she looked at me with those big brown eyes & said" this | "You Ain't Seen Nothin' Yet"
+right: Alex
+Wrong: 
+Value: $2000
+Number: 5
+HERE I AM... | On a hill called El Panecillo ("The little loaf of bread"), seeing panoramic views of this capital of Ecuador | Quito
+right: Kyle
+Wrong: 
+Value: $2000
+Number: 25
+POTPOURRI | In 1993 the Library of Congress made Rita Dove the first African American to hold this position | a poet laureate
+right: Alex
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Hannah: $11,000
+Alex: $15,600
+Kyle: $17,400
+
+Final Jeopardy! Round
+MOVIE DIRECTORS | On visiting RKO in 1939, he described the studio as the biggest electric train set any boy ever had | Orson Welles
+right: Hannah | Alex | Kyle
+Wrong: 
+Wagers: 
+Hannah: $8,000
+Alex: $10,000
+Kyle: $6,600
+Final scores:
+Hannah: $19,000 (3rd place: $1,000)
+Alex: $25,600 (New champion: $25,600)
+Kyle: $24,000 (2nd place: $2,000)
+
+Coryat scores
+Hannah: $11,600 (17 R,3 W(including 1 DD))
+Alex: $13,000 (18 R(including 2 DDs),2 W)
+Kyle: $17,400 (21 R,3 W)

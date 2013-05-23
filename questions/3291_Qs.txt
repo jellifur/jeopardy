@@ -1,0 +1,331 @@
+5841 - Monday, January 25, 2010
+Contestants:
+Diane Haltigan: a software engineer from Norfolk, Virginia
+Andrew Fechner: a television programmer from Montclair, New Jersey
+Gila Stadler: a molecular epidemiologist from New York, New York (whose 1-day cash winnings total $3,000)
+First Jeopardy! Round: COUNTRIES IN SPACE, U.S. FIRSTS, WORD-BY-WORD BOOK SUMMARIES, IT IS WHAT IT "IS", MY GIRLFRIEND, SUCH A SWEETIE
+COUNTRIES IN SPACE | Using a launch site in the Gobi desert, this country became the third to send a human into orbit | China
+right: Diane
+Wrong: 
+Value: $200
+Number: 1
+U.S. FIRSTS | 2006 research shows the first ships bringing us this shameful cargo were the Treasurer & White Lion, in 1619 | slaves
+right: Gila
+Wrong: 
+Value: $200
+Number: 13
+WORD-BY-WORD BOOK SUMMARIES | 1726: English.  Shipwreck. Giant. Tiny. Airborne. Horses | Gulliver's Travels
+right: Andrew
+Wrong: 
+Value: $200
+Number: 11
+IT IS WHAT IT "IS" | A single magazine put forth & circulated | an issue
+right: Andrew
+Wrong: 
+Value: $200
+Number: 6
+MY GIRLFRIEND | Donald Duck started dating this gal pal in the 1940 cartoon "Mr. Duck Steps Out" | Daisy Duck
+right: Andrew
+Wrong: 
+Value: $200
+Number: 26
+SUCH A SWEETIE | It's "The Great American Chocolate Bar" | Hershey's
+right: Andrew
+Wrong: 
+Value: $200
+Number: 21
+COUNTRIES IN SPACE | This country named its Sina-1 satellite after a Persian philosopher | Iran
+right: Gila
+Wrong: 
+Value: $400
+Number: 2
+U.S. FIRSTS | In 1845 a Boston hotel became the first U.S. building to be warmed by this, also a "Pajama Game" song | steam heat
+right: Gila
+Wrong: 
+Value: $400
+Number: 14
+WORD-BY-WORD BOOK SUMMARIES | 1831: Paris. Mega-scoliosis. Ding-dong. Gypsy. Death. Fin | The Hunchback of Notre Dame
+right: Andrew
+Wrong: 
+Value: $400
+Number: 12
+IT IS WHAT IT "IS" | Asian capital city just northeast of Rawalpindi | Islamabad
+right: Andrew
+Wrong: 
+Value: $400
+Number: 7
+MY GIRLFRIEND | Superman met this love interest working at the Daily Planet | Lois Lane
+right: Gila
+Wrong: 
+Value: $400
+Number: 27
+SUCH A SWEETIE | "Sometimes you feel like a nut, sometimes you don't" when purchasing these 2 candy bars | Almond Joy and Mounds
+right: Andrew
+Wrong: 
+Value: $400
+Number: 22
+COUNTRIES IN SPACE | To launch satellites, this country's Shavit rockets take the Mediterranean route to avoid hostile neighbors | Israel
+right: Andrew
+Wrong: 
+Value: $600
+Number: 3
+U.S. FIRSTS | Some El Pasoans say America's real first Thanksgiving was the one Juan de Onate held on arrival at this river in 1598 | the Rio Grande
+right: Diane
+Wrong: 
+Value: $600
+Number: 15
+WORD-BY-WORD BOOK SUMMARIES | 1878: Heroine. Russia. Affair. Exile. Paranoia. Train! | Anna Karenina
+right: Gila
+Wrong: 
+Value: $600
+Number: 16
+IT IS WHAT IT "IS" | Ms. Duncan of dance (& unfortunately long scarves) | Isadora
+right: Diane
+Wrong: 
+Value: $600
+Number: 8
+MY GIRLFRIEND | Shiver me timbers! She's Popeye's beanpole babe | Olive Oyl
+right: Diane
+Wrong: 
+Value: $600
+Number: 28
+SUCH A SWEETIE | People have been puckering up with <http://www.j-archive.com/media/2010-01-25_J_23a.jpg> these candies since the '60s | Lemon Heads
+right: Gila
+Wrong: 
+Diane: What are Hershey's Kisses?
+Value: $600
+Number: 23
+COUNTRIES IN SPACE | This country successfully launched its VSB-30 rocket just south of the equator at Alcantara | Brazil
+right: Gila
+Wrong: 
+Value: $800
+Number: 4
+U.S. FIRSTS | Our country's first of these was held in a crystal palace in NYC's Bryant Park in 1853 & lost $300,000 | a World's Fair
+right: Gila
+Wrong: 
+Value: $800
+Number: 19
+WORD-BY-WORD BOOK SUMMARIES | 1902: Congo. Upriver. Jungle. Godlike. Horror. Horror | Heart of Darkness
+right: Andrew
+Wrong: 
+Value: $800
+Number: 17
+IT IS WHAT IT "IS" | Half of a pair of doomed lovers, she marries King Mark, but not before falling for the guy who came to get her | Isolde
+right: Gila
+Wrong: 
+Value: $800
+Number: 9
+MY GIRLFRIEND | She's Porky Pig's "flowery" main squeeze | Petunia
+right: Andrew
+Wrong: 
+Value: $800
+Number: 29
+SUCH A SWEETIE | "Nobody better lay a finger on" this candy I left in my dressing room | a Butterfinger
+right: Andrew
+Wrong: 
+Value: $800
+Number: 24
+COUNTRIES IN SPACE | This north African country once ruled by France launched its ALSAT-1 satellite from a Russian cosmodrome | Algeria
+right: Andrew
+Wrong: 
+Value: $1000
+Number: 5
+U.S. FIRSTS | The USA's first housing projects were built in Austin in 1939 with the help of this Congressman on the rise | LBJ
+right: Gila
+Wrong: 
+Value: DD: $1,000
+Number: 20
+WORD-BY-WORD BOOK SUMMARIES | 1922: Dublin. June. Writer. Bloom. Intersection. Yes | Ulysses
+right: Diane
+Wrong: 
+Value: $1000
+Number: 18
+IT IS WHAT IT "IS" | (<http://www.j-archive.com/media/2010-01-25_J_10.jpg> Jimmy of the Clue Crew stands in front of an illustration of blood vessels.)  In a frequent cause of heart disease, blood flow to tissues is decreased by obstructed arteries, a condition called this | cardiac ischemia
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+MY GIRLFRIEND | In comic books, she's been Spider-Man's girlfriend & his wife | Mary Jane Parker (or Mary Jane Watson)
+right: Andrew
+Wrong: 
+Value: $1000
+Number: 30
+SUCH A SWEETIE | They're the movie theater favorites seen <http://www.j-archive.com/media/2010-01-25_J_25b.jpg> here | Junior Mints
+right: Diane
+Wrong: 
+Andrew: What are Milk Duds?
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Gila: $2,600
+Andrew: $2,800
+Diane: $1,400
+Scores at the end of the Jeopardy! Round:
+Gila: $6,000
+Andrew: $6,000
+Diane: $3,400
+Second Jeopardy! Round: 19th CENTURY SENATORS BY STATE, OSCAR-WINNING SONG LYRICS, MODERN ARCHITECTURAL STYLES, BREAKING THE ICE WITH ICEBREAKERS, MATHLETES, SHAKESPEAREAN RHYME TIME
+19th CENTURY SENATORS BY STATE | John Quincy Adams | Massachusetts
+right: Andrew
+Wrong: 
+Value: $400
+Number: 25
+OSCAR-WINNING SONG LYRICS | "We're after the same rainbow's end--waiting 'round the bend, my huckleberry friend" | Breakfast at Tiffany's
+right: Diane
+Wrong: 
+Value: $400
+Number: 1
+MODERN ARCHITECTURAL STYLES | The <http://www.j-archive.com/media/2010-01-25_DJ_21.jpg> Experience Music Project in this city has been called "blobitecture" | Seattle
+right: Andrew
+Wrong: 
+Value: $400
+Number: 21
+BREAKING THE ICE WITH ICEBREAKERS | Your friend looks like Lenin--reminds me that in 1957 the icebreaker Lenin was the first surface ship powered by this | nuclear energy
+right: Andrew
+Wrong: 
+Value: $400
+Number: 14
+MATHLETES | In the 1730s Leonhard Euler made this delicious Greek letter the standard symbol for a familiar ratio | pi
+right: Andrew
+Wrong: 
+Value: $400
+Number: 9
+SHAKESPEAREAN RHYME TIME | Cordelia's dad's lagers | Lear's beers
+right: Diane
+Wrong: 
+Value: $400
+Number: 6
+19th CENTURY SENATORS BY STATE | Howell Jackson, Andrew Jackson | Tennessee
+right: Andrew
+Wrong: 
+Value: $800
+Number: 26
+OSCAR-WINNING SONG LYRICS | " 'Cause I'm never gonna stop the rain by complainin', because I'm free, nothin's worryin' me" | Butch Cassidy and the Sundance Kid
+right: Andrew
+Wrong: 
+Value: $800
+Number: 2
+MODERN ARCHITECTURAL STYLES | Brutalism influenced the design of <http://www.j-archive.com/media/2010-01-25_DJ_22.jpg> this D.C. building, named for a long-serving law-enforcement official | the J. Edgar Hoover Building
+right: Diane
+Wrong: 
+Value: $800
+Number: 22
+BREAKING THE ICE WITH ICEBREAKERS | I'm just "aboot" sure you come from this country that has the icebreakers Terry Fox & Louis S. St-Laurent | Canada
+right: Andrew
+Wrong: 
+Value: $800
+Number: 15
+MATHLETES | He thought, in math the last letters should stand for unknowns & the first letters for known quantities--therefore it was | René Descartes
+right: 
+Wrong: 
+Andrew: Who is Pythagoras?
+Value: DD: $2,000
+Number: 10
+SHAKESPEAREAN RHYME TIME | Robin Goodfellow's formal wear | Puck's tux
+right: Diane
+Wrong: 
+Value: $800
+Number: 7
+19th CENTURY SENATORS BY STATE | Newton Booth, Leland Stanford | California
+right: Andrew
+Wrong: 
+Value: $1200
+Number: 27
+OSCAR-WINNING SONG LYRICS | "When you get caught between the moon and New York City" | Arthur
+right: Diane
+Wrong: 
+Value: $1200
+Number: 3
+MODERN ARCHITECTURAL STYLES | This city's <http://www.j-archive.com/media/2010-01-25_DJ_23.jpg> Our Lady of the Angels Cathedral is said to be a postmodern interpretation of Spanish missions | Los Angeles
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+BREAKING THE ICE WITH ICEBREAKERS | I enjoy this red Italian spirit, which has its own "club", over ice; some icebreakers can ram through ice 23 feet thick | Campari
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 16
+MATHLETES | To simplify multiplication and division, Scotsman John Napier published a book outlining these in 1614 | logarithms
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 11
+SHAKESPEAREAN RHYME TIME | "Et tu Brute" speaker's playground antagonizers | Caesar's teasers
+right: Andrew
+Wrong: 
+Value: $1200
+Number: 8
+19th CENTURY SENATORS BY STATE | John Slidell, C.D.J. Bouligny | Louisiana
+right: Andrew
+Wrong: 
+Value: $1600
+Number: 28
+OSCAR-WINNING SONG LYRICS | "When I was just a little girl I asked my mother what will I be" | The Man Who Knew Too Much
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+MODERN ARCHITECTURAL STYLES | High-tech architecture is on view with <http://www.j-archive.com/media/2010-01-25_DJ_24.jpg> this Paris landmark | the Centre Pompidou
+right: Andrew
+Wrong: 
+Value: $1600
+Number: 24
+BREAKING THE ICE WITH ICEBREAKERS | You were born in '69? That's the year the oil tanker/icebreaker S.S. Manhattan went through this passage | the Northwest Passage
+right: Gila
+Wrong: 
+Value: $1600
+Number: 17
+MATHLETES | John Nash has a beautiful mind that contributed to this "theory" of strategic decision making | game theory
+right: Andrew
+Wrong: 
+Value: $1600
+Number: 12
+SHAKESPEAREAN RHYME TIME | Prospero's daughter's large Southern porches | Miranda's verandas
+right: Diane
+Wrong: 
+Value: DD: $2,000
+Number: 19
+OSCAR-WINNING SONG LYRICS | "Far from the world we know, up where the clear winds blow" | An Officer and a Gentleman
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+BREAKING THE ICE WITH ICEBREAKERS | Aren't penguins cute? Think about boarding an icebreaker on a cruise to see these 2 largest species | the King and the Emperor
+right: Diane
+Wrong: 
+Value: $2000
+Number: 18
+MATHLETES | In 1995, 330 years after his death, proof was found for his last theorem | Fermat
+right: Diane
+Wrong: 
+Value: $2000
+Number: 13
+SHAKESPEAREAN RHYME TIME | Cressida's lover, after happiness has vanished | joyless Troilus
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Gila: $7,600
+Andrew: $15,200
+Diane: $13,000
+
+Final Jeopardy! Round
+SPORTS CITIES | It's the only city whose teams won the Super Bowl & the Stanley Cup in the same calendar year | Pittsburgh
+right: Gila | Andrew
+Wrong: 
+Diane: What is New York?
+Wagers: 
+Gila: $5,000
+Diane: $3,300
+Andrew: $10,801
+Final scores:
+Gila: $12,600 (2nd place: $2,000)
+Andrew: $26,001 (New champion: $26,001)
+Diane: $9,700 (3rd place: $1,000)
+
+Coryat scores
+Gila: $7,600 (11 R(including 1 DD),0 W)
+Andrew: $17,200 (25 R,2 W(including 1 DD))
+Diane: $12,600 (14 R(including 1 DD),1 W)

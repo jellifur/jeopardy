@@ -1,0 +1,340 @@
+uper Jeopardy! show #3 - Saturday, June 30, 1990
+Comments: <i>Super Jeopardy!</i> quarterfinal game 3.
+Contestants:
+Eric Newhouse: a student from Sioux City, Iowa
+Gary Giardina: an opera singer from New York City, New York
+Richard Perez-Peña: a journalist from Venice, California
+Elise Beraru: a lawyer from Los Angeles, California
+First Jeopardy! Round: FILM FACTS, BIOLOGY, ORGANIZATIONS, LAKES, FAMOUS POLITICIANS, "H"ISTORY
+FILM FACTS | Richard Pryor co-wrote this Western with Mel Brooks; its original title was "Black Bart" | Blazing Saddles
+right: Eric
+Wrong: 
+Value: 200
+Number: 1
+BIOLOGY | Class of animals so named because they have an aquatic larval stage & terrestrial adult lives | amphibians
+right: Eric
+Wrong: 
+Value: 200
+Number: 17
+ORGANIZATIONS | Originally, this amateur boxing organization was sponsored by the Chicago Tribune Charities | Golden Gloves
+right: Richard
+Wrong: 
+Value: 200
+Number: 24
+LAKES | Fur trappers called this Great Lake the "Upper Lake" in French | Lake Superior
+right: Gary
+Wrong: 
+Value: 200
+Number: 30
+FAMOUS POLITICIANS | In his bid for an unprecedented 4th term, this NYC mayor was defeated in the 1989 Democratic Party | Ed Koch
+right: Eric
+Wrong: 
+Value: 200
+Number: 29
+"H"ISTORY | This Communist revolutionary founded the Democratic Republic of Vietnam in 1945 | H&#7891; Chí Minh
+right: Richard
+Wrong: 
+Value: 200
+Number: 15
+FILM FACTS | Kevin Costner starred in this 1989 film based on the novel "Shoeless Joe" | Field of Dreams
+right: Richard
+Wrong: 
+Value: 400
+Number: 8
+BIOLOGY | The development of this part of the egg contributed to the evolution of life on land | the shell
+right: Richard
+Wrong: 
+Value: 400
+Number: 19
+ORGANIZATIONS | "Show a kid how America works" is the slogan of this young people's business organization | Junior Achievement
+right: Elise
+Wrong: 
+Value: 400
+Number: 23
+LAKES | Located in South America, it's the world's highest large navigable lake | Lake Titicaca
+right: Richard
+Wrong: 
+Value: 400
+Number: 27
+FAMOUS POLITICIANS | Ironically, the Arizona Democratic Party Organization was founded by his father & uncle | Barry Goldwater
+right: Eric
+Wrong: 
+Value: 400
+Number: 26
+"H"ISTORY | Janos Kadar assumed power in this country after a revolt was suppressed by Soviet tanks | Hungary
+right: Elise
+Wrong: 
+Value: 400
+Number: 14
+FILM FACTS | "Tonight Show" exec. producer who directed "Bedtime for Bonzo" & "Bonzo Goes to College" | (Freddy) de Cordova
+right: Elise
+Wrong: 
+Value: 600
+Number: 7
+BIOLOGY | In the lab, you put something in an autoclave to do this to it | sterilize it
+right: Gary
+Wrong: 
+Value: 600
+Number: 20
+ORGANIZATIONS | Members of SPEBSQSA usually sing in a group of this many people | 4
+right: Elise
+Wrong: 
+Value: 600
+Number: 22
+LAKES | The construction of this created Lake Nasser | the Aswan Dam
+right: Eric
+Wrong: 
+Value: 600
+Number: 25
+FAMOUS POLITICIANS | Tho this senate minority leader won the 1988 GOP Iowa caucauses, he lost the presidential nomination | Bob Dole
+right: Gary
+Wrong: 
+Value: 600
+Number: 16
+"H"ISTORY | Although this British general opposed coercion in North America, he led troops at the Battle of Bunker Hill | (William) Howe
+right: Elise
+Wrong: 
+Value: 600
+Number: 6
+FILM FACTS | The first film Jimmy Stewart made after serving as a WWII bomber pilot was this holiday classic | It's a Wonderful Life
+right: Richard
+Wrong: 
+Value: 800
+Number: 3
+BIOLOGY | In humans it separates the thoracic cavity from the abdominal cavity | the diaphragm
+right: Elise
+Wrong: 
+Value: 800
+Number: 21
+ORGANIZATIONS | Candy manufacturer Robert Welch founded this organization in 1958 | the John Birch Society
+right: Elise
+Wrong: 
+Gary: What is Welch's Grape Juice?
+Value: 800
+Number: 13
+LAKES | A castle on this French-Swiss lake was made famous by the poem "The Prisoner of Chillon" | Lake Geneva
+right: Richard
+Wrong: 
+Value: 800
+Number: 18
+FAMOUS POLITICIANS | This Minnesota congressman wrote the 1919 act that enforced prohibition | Volstead
+right: Eric
+Wrong: 
+Value: 800
+Number: 12
+"H"ISTORY | In 29 A.D. lava from Mt. Vesuvius buried this city named for its mythical founder | Herculaneum
+right: Richard
+Wrong: 
+Value: 800
+Number: 5
+FILM FACTS | Elizabeth Taylor found passion on a plantation before it was pulverized by pachyderms in this 1954 film | Elephant Walk
+right: Elise
+Wrong: 
+Value: 1000
+Number: 2
+BIOLOGY | The Savi's pygmy variety of this animal is said to be the world's smallest mammal | the shrew
+right: Richard
+Wrong: 
+Value: 1000
+Number: 28
+ORGANIZATIONS | This farmers organization is officially called the Order of Patrons of Husbandry | the Grange
+right: Eric
+Wrong: 
+Elise: What is 4H?
+Value: 1000
+Number: 9
+LAKES | A part of Minnesota, the northernmost point in the lower 48 states, juts into this U.S.-Canadian lake | Lake of the Woods
+right: Eric
+Wrong: 
+Value: 1000
+Number: 11
+FAMOUS POLITICIANS | The 2 late sons of John D. Rockefeller Jr. who became governors | Nelson Rockefeller (New York) & Winthrop Rockefeller (Arkansas)
+right: 
+Wrong: 
+Eric: Who is John D. III and Nelson?
+Value: DD: 1,200
+Number: 10
+"H"ISTORY | This Medieval confederacy of N. German cities was formed to defend their mutual trading interests | the Hanseatic League
+right: Richard
+Wrong: 
+Value: 1000
+Number: 4
+Scores at the first commercial break (after clue 15)
+Elise: 2,400
+Richard: 3,200
+Gary: -800
+Eric: 1,800
+Scores at the end of the Jeopardy! Round:
+Elise: 4,200
+Richard: 6,000
+Gary: 600
+Eric: 3,200
+Second Jeopardy! Round: AUTHORS, WORLD RELIGION, COLLEGES & UNIVERSITIES, OPERA, LANDMARKS, FOREIGN WORDS & PHRASES
+OPERA | It's been said of this tenor that "(he) made the gramophone & the gramophone (made him)" | Caruso
+right: Richard
+Wrong: 
+Value: 500
+Number: 7
+LANDMARKS | The president of Venezuela has his offices in the Miraflores Palace in this city | Caracas
+right: Eric
+Wrong: 
+Value: 500
+Number: 4
+FOREIGN WORDS & PHRASES | Ubermensch, as both Nietzsche & Clark Kent could tell you | superman
+right: Eric
+Wrong: 
+Value: 500
+Number: 13
+AUTHORS | The Charley in his "Travels with Charley" was his dog | John Steinbeck
+right: Eric
+Wrong: 
+Value: 1000
+Number: 22
+WORLD RELIGION | The 3 major orders of clergy in the Eastern Orthodox Church are bishops, deacons & these | priests
+right: 
+Wrong: Quadruple Stumper
+Eric: What are patriarchs?
+Value: 1000
+Number: 24
+COLLEGES & UNIVERSITIES | You now have to pay to use this university's coat of arms or veritas motto | Harvard
+right: Elise
+Wrong: 
+Value: 1000
+Number: 27
+OPERA | In a Mozart opera this title object belonged to Tamino | the magic flute
+right: Richard
+Wrong: 
+Value: 1000
+Number: 3
+LANDMARKS | This historic New York fort overlooks both Lake George & Lake Champlain | Ticonderoga
+right: Eric
+Wrong: 
+Value: 1000
+Number: 8
+FOREIGN WORDS & PHRASES | RSVP is an abbreviation of this French expression | répondez s'il vous plaît
+right: Richard
+Wrong: 
+Value: 1000
+Number: 15
+AUTHORS | She wrote "The Making of Americans" during the 43 years she lived in Paris | Gertrude Stein
+right: Richard
+Wrong: 
+Value: 1500
+Number: 10
+WORLD RELIGION | Of the Hebrew, Roman Catholic & Protestant Bbibles, the one with the most books | Roman Catholic
+right: Richard
+Wrong: 
+Value: 1500
+Number: 23
+COLLEGES & UNIVERSITIES | Jimmy Carter helped to establish the research center named for him at this Atlanta Univ. | Emory
+right: Richard
+Wrong: 
+Value: 1500
+Number: 26
+OPERA | This opera, which features <http://www.j-archive.com/media/1990-06-30_DJ_01.mp3> the following, was the 1st transmitted in color on TV: | Carmen
+right: Gary
+Wrong: 
+Value: DD: 2,500
+Number: 1
+LANDMARKS | To honor W. Churchill, London's Church of St. Mary the Virgin was moved stone by stone to this Mo. town | Fulton
+right: Eric
+Wrong: 
+Value: 1500
+Number: 11
+FOREIGN WORDS & PHRASES | Greek word also used in English which means purging from guilt or defilement | catharsis
+right: Eric
+Wrong: 
+Value: 1500
+Number: 16
+AUTHORS | Eugene O'Neill work based on the "Oresteia" by Aeschylus | Mourning Becomes Electra
+right: Eric
+Wrong: 
+Value: DD: 4,000
+Number: 9
+WORLD RELIGION | This celibate sect, a.k.a. the United Society of Believers in Christ's 2nd Appearing, is in serious decline | the Shakers
+right: Gary
+Wrong: 
+Value: 2000
+Number: 14
+COLLEGES & UNIVERSITIES | Roger Bacon, John Duns Scotus & William of Ockham were among the Franciscans who taught here | Oxford
+right: Richard
+Wrong: 
+Value: 2000
+Number: 20
+OPERA | This popular Smetana opera includes a spirited polka & a chorus in praise of beer | The Bartered Bride
+right: Elise
+Wrong: 
+Value: 2000
+Number: 2
+LANDMARKS | The Cappella della Sacra Sindone was built in the 17th century to house this relic | the Shroud of Turin
+right: Elise
+Wrong: 
+Value: 2000
+Number: 12
+FOREIGN WORDS & PHRASES | We associate "auto da fe" with the Spanish Inquisition, but the expression, which means this, is Portuguese | act of faith
+right: Eric
+Wrong: 
+Value: 2000
+Number: 19
+AUTHORS | She's the author of the mystical autobiographical book "Cross Creek" | (Marjorie) Rawlings
+right: Gary
+Wrong: 
+Value: 2500
+Number: 5
+WORLD RELIGION | It's the title of the spiritual leader of the Ismaili sect of Muslims | Aga Khan
+right: 
+Wrong: Quadruple Stumper
+Richard: What is imam?
+Value: 2500
+Number: 17
+COLLEGES & UNIVERSITIES | This university in St. Louis was founded by T.S. Eliot's grandfather but is named for a president | Washington
+right: Eric
+Wrong: 
+Value: 2500
+Number: 21
+OPERA | Minnie, a saloon owner, is the title characters in this Puccini opera | The Girl of the Golden West
+right: Gary
+Wrong: 
+Value: 2500
+Number: 6
+LANDMARKS | The famous Oracle of Delphi was located on the lower slope of this sacred Greek mountain | Mount Parnassus
+right: 
+Wrong: Quadruple Stumper
+Elise: What is Mount Etna?
+Eric: What is Mount Olympus?
+Value: 2500
+Number: 18
+FOREIGN WORDS & PHRASES | Russian for "comrade", it came into greater use after the Bolshevik Revolution | tovarich
+right: Richard
+Wrong: 
+Value: 2500
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Elise: 6,700
+Richard: 15,000
+Gary: 10,100
+Eric: 14,200
+
+Final Jeopardy! Round
+EXPLORERS | When he died in 1957, he was buried with full military honors at Arlington Cemetery | Admiral Richard Evelyn Byrd
+right: Eric
+Wrong: 
+Elise: Who was Schweitzer
+Gary: Who was Perry?
+Richard: Who was Peary
+Wagers: 
+Elise: 100
+Gary: 3,301
+Eric: 14,200
+Richard: 13,401
+Final scores:
+Elise: 6,600 (3rd place: $5,000)
+Richard: 1,599 (4th place: $5,000)
+Gary: 6,799 (2nd place: $5,000)
+Eric: 28,400 (Semifinalist)
+
+Coryat scores
+Elise: 6,700 (11 R,2 W)
+Richard: 15,000 (18 R,1 W)
+Gary: 9,100 (7 R(including 1 DD),1 W)
+Eric: 13,400 (17 R(including 1 DD),3 W(including 1 DD))

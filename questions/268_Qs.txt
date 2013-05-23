@@ -1,0 +1,343 @@
+4753 - Wednesday, April 13, 2005
+Comments: 2005 Ultimate Tournament of Champions Round 2, game 1.  <br />
+Contestants:
+Dan Melia: a college professor from Berkeley, California
+Rick Knutsen: a musician and stay-at-home dad from Brooklyn, New York
+Kyle Hale: a college senior from Katy, Texas
+First Jeopardy! Round: STATES OF THE UNION, TONIGHT SHOW HOSTS, QUOTES, A DAY'S CALORIES IN ONE MEAL, FAMOUS PAIRS, BODY LANGUAGE
+STATES OF THE UNION | Biscayne National Park is a water park in the southern part of this state | Florida
+right: Dan
+Wrong: 
+Value: $200
+Number: 21
+TONIGHT SHOW HOSTS | He also hosted the game shows "Earn Your Vacation" & "Who Do You Trust?" | Johnny Carson
+right: Dan
+Wrong: 
+Value: $200
+Number: 6
+QUOTES | This "A Tramp Abroad" author opined, "Wagner's music is better than it sounds" | (Mark) Twain
+right: Rick
+Wrong: 
+Value: $200
+Number: 7
+A DAY'S CALORIES IN ONE MEAL | Double Whopper with cheese, King fries, large vanilla shake, Dutch apple pie | Burger King
+right: Dan
+Wrong: 
+Value: $200
+Number: 25
+FAMOUS PAIRS | Publishing partners: ___ & Wagnalls | Funk & Wagnalls
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+BODY LANGUAGE | Arnold spent his first hour at work enjoying a latte & "twiddling" these, aka the pollices | the thumbs
+right: Dan
+Wrong: 
+Value: $200
+Number: 16
+STATES OF THE UNION | A Naval air station in the city of Lakehurst in this state was the site of the fateful 1937 Hindenburg explosion | New Jersey
+right: Dan
+Wrong: 
+Value: $400
+Number: 22
+TONIGHT SHOW HOSTS | He is scheduled to take over the hosting duties in 2009 | Conan O'Brien
+right: Dan
+Wrong: 
+Value: $400
+Number: 8
+QUOTES | "I am extraordinarily patient, provided I get my own way in the end", said this British "Iron Lady" | (Margaret) Thatcher
+right: Rick
+Wrong: 
+Value: $400
+Number: 12
+A DAY'S CALORIES IN ONE MEAL | Zesty Chicken Border Bowl, Fiesta Taco Salad, Nachos Bellgrande, apple empanada | Taco Bell
+right: Dan
+Wrong: 
+Value: $400
+Number: 26
+FAMOUS PAIRS | Potent potable makers: ___ & Rossi | Martini & Rossi
+right: Dan
+Wrong: 
+Value: $400
+Number: 2
+BODY LANGUAGE | The boss held these "akimbo" while demanding to know why Arnold was late again | his arms
+right: Dan
+Wrong: 
+Value: $400
+Number: 17
+STATES OF THE UNION | Part of a state that seceded from the U.S. in 1861 seceded to form this state in 1863 | West Virginia
+right: Rick
+Wrong: 
+Value: $600
+Number: 23
+TONIGHT SHOW HOSTS | He walked off in the middle of the telecast after the network censored his "water closet" joke | Jack Paar
+right: Dan
+Wrong: 
+Value: $600
+Number: 9
+QUOTES | In 2005, shortly after announcing her engagement (after a 35-year affair), she said, "I'm just coming down to Earth" | Camilla Parker Bowles
+right: Dan
+Wrong: 
+Value: $600
+Number: 13
+A DAY'S CALORIES IN ONE MEAL | Market Fresh Roast Beef & Swiss sandwich, large Jalapeno Bites, Jamocha shake | Arby's
+right: Kyle
+Wrong: 
+Value: $600
+Number: 27
+FAMOUS PAIRS | In mythology: Hero & ___ | Leander
+right: Dan
+Wrong: 
+Value: $600
+Number: 3
+BODY LANGUAGE | Arnold "shrugged" these while trying to come up with an excuse | his shoulders
+right: Rick
+Wrong: 
+Value: $600
+Number: 18
+STATES OF THE UNION | The 6 states that border this state are Texas, New Mexico, Arkansas, Missouri, Kansas & Colorado | Oklahoma
+right: Dan
+Wrong: 
+Value: $800
+Number: 24
+TONIGHT SHOW HOSTS | He was married to Jayne Meadows | Steve Allen
+right: Rick
+Wrong: 
+Value: $800
+Number: 10
+QUOTES | "A fool and his money are soon elected", said this humorist who died in 1935 | Will Rogers
+right: Dan
+Wrong: 
+Kyle: Who is Mencken?
+Rick: Who is Robert Benchley?
+Value: $800
+Number: 14
+A DAY'S CALORIES IN ONE MEAL | 2 large orders of popcorn chicken, 2 biscuits, potato wedges, BBQ beans, Lil' Bucket lemon creme, large Pepsi | KFC
+right: Kyle
+Wrong: 
+Value: $800
+Number: 28
+FAMOUS PAIRS | Coffe merchants: Chase & ___ | Sanborn
+right: Dan
+Wrong: 
+Value: $800
+Number: 4
+BODY LANGUAGE | Arnold's started "growling" at 10 A.M. | his stomach
+right: Dan
+Wrong: 
+Value: $800
+Number: 19
+STATES OF THE UNION | New Castle was this mid-Atlantic state's first capital | Delaware
+right: Dan
+Wrong: 
+Value: DD: $3,000
+Number: 30
+TONIGHT SHOW HOSTS | This glum-faced comic born Joseph Gottlieb guest hosted the show more than 150 times in the '60s & '70s | Joey Bishop
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+QUOTES | From his "Devil's Dictionary": "Diplomacy, n. The patriotic art of lying for one's country" | (Ambrose) Bierce
+right: Kyle
+Wrong: 
+Value: $1000
+Number: 15
+A DAY'S CALORIES IN ONE MEAL | 2 Big Bacon Classics, great Biggie fries, Homestyle Chicken Strips Salad with ranch dressing, medium Frosty | Wendy's
+right: Dan
+Wrong: 
+Value: $1000
+Number: 29
+FAMOUS PAIRS | In Nick Park animated shorts: Wallace & ___ | Gromit
+right: Rick
+Wrong: 
+Value: $1000
+Number: 5
+BODY LANGUAGE | At quitting time Arnold "barked" one of these against a wastebasket in his mad dash for the door | a shin
+right: Dan
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Kyle: $200
+Rick: $1,600
+Dan: $4,600
+Scores at the end of the Jeopardy! Round:
+Kyle: $1,600
+Rick: $2,800
+Dan: $13,000
+Second Jeopardy! Round: U.S. PRESIDENTS, SHOCKING ART, PUSH THE "BUTTON", WORLD OF NOBEL PRIZE-WINNING AUTHORS, HERE'S LOOKING AT YOU, KID, WE'LL ALWAYS HAVE PARRIS ISLAND
+U.S. PRESIDENTS | The D.C. house he lived in after he left office in 1921 is called "Washington's only presidential museum" | (Woodrow) Wilson
+right: Rick
+Wrong: 
+Value: $400
+Number: 1
+SHOCKING ART | 1485 Florence was shocked by this artist's large nude painting of the birth of a goddess | Botticelli
+right: Dan
+Wrong: 
+Value: $400
+Number: 6
+PUSH THE "BUTTON" | Metaphorically, you "push" it when you react in haste; you can use an actual one to summon police | the panic button
+right: Dan
+Wrong: 
+Value: $400
+Number: 10
+WORLD OF NOBEL PRIZE-WINNING AUTHORS | Jean-Paul Sartre | France
+right: Rick
+Wrong: 
+Value: $400
+Number: 16
+HERE'S LOOKING AT YOU, KID | She played little Virginia Cary in 1935's "The Littlest Rebel" | Shirley Temple
+right: Rick
+Wrong: 
+Value: $400
+Number: 21
+WE'LL ALWAYS HAVE PARRIS ISLAND | (<http://www.j-archive.com/media/2005-04-13_DJ_26.jpg> Jimmy of the Clue Crew reports from Parris Island, SC.)  Very quickly after you arrive at Parris Island, you'll meet this person, the D.I. | the drill instructor
+right: Rick
+Wrong: 
+Value: $400
+Number: 26
+U.S. PRESIDENTS | Somewhat prophetically, he became the first sitting president to visit Hawaii | FDR
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+SHOCKING ART | His mural at Rockefeller Center was destroyed because it included a depiction of Lenin | Diego Rivera
+right: Dan
+Wrong: 
+Value: DD: $3,600
+Number: 7
+PUSH THE "BUTTON" | He won back-to-back Olympic gold medals in figure skating in 1948 & 1952 | Dick Button
+right: Dan
+Wrong: 
+Value: $800
+Number: 12
+WORLD OF NOBEL PRIZE-WINNING AUTHORS | William Butler Yeats | Ireland
+right: Kyle
+Wrong: 
+Value: $800
+Number: 17
+HERE'S LOOKING AT YOU, KID | Flora McGrath in 1993's "The Piano" | Anna Paquin
+right: Kyle
+Wrong: 
+Value: $800
+Number: 22
+WE'LL ALWAYS HAVE PARRIS ISLAND | (<http://www.j-archive.com/media/2005-04-13_DJ_27.jpg> Cheryl of the Clue Crew reports from Parris Island, SC.)  Marine training instills this motto, meaning "always faithful" | semper fidelis
+right: Rick
+Wrong: 
+Value: $800
+Number: 27
+U.S. PRESIDENTS | He & his wife translated into English "De Re Metallica", a 16th century Latin work on mining | (Herbert) Hoover
+right: Rick
+Wrong: 
+Value: $1200
+Number: 3
+SHOCKING ART | In 1892 Berlin authorities screamed & closed the exhibit by this Scandinavian artist | (Edvard) Munch
+right: Kyle
+Wrong: 
+Value: $1200
+Number: 8
+PUSH THE "BUTTON" | Bob Hope sang this Oscar-winning song in 1948's "The Paleface" | "Buttons And Bows"
+right: Dan
+Wrong: 
+Value: $1200
+Number: 13
+WORLD OF NOBEL PRIZE-WINNING AUTHORS | Knut Hamsun | Norway
+right: Rick
+Wrong: 
+Value: $1200
+Number: 18
+HERE'S LOOKING AT YOU, KID | Wise beyond her years, <http://www.j-archive.com/media/2005-04-13_DJ_23.jpg> she's the scene-stealing co-star of "Uptown Girls" and "Hide and Seek" | Dakota Fanning
+right: Kyle
+Wrong: 
+Value: $1200
+Number: 23
+WE'LL ALWAYS HAVE PARRIS ISLAND | (<http://www.j-archive.com/media/2005-04-13_DJ_28.jpg> Cheryl of the Clue Crew reports from Parris Island, SC.)  Marines are taught to see themselves as part of a team, like this basic unit of 30 to 50 people | a platoon
+right: Dan
+Wrong: 
+Value: $1200
+Number: 28
+U.S. PRESIDENTS | In 1893 James K. Polk's tomb was moved from his estate to the state capitol grounds in this city | Nashville
+right: Rick
+Wrong: 
+Value: DD: $4,400
+Number: 4
+SHOCKING ART | This impressionist's Christ paintings of 1864 & 1865 were crucified for being unidealized | Édouard Manet
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+PUSH THE "BUTTON" | The cornflower, a plant with small round flowers, is also known as this | a bachelor's button
+right: Dan
+Wrong: 
+Value: $1600
+Number: 14
+WORLD OF NOBEL PRIZE-WINNING AUTHORS | Nadine Gordimer | South Africa
+right: Rick
+Wrong: 
+Value: $1600
+Number: 19
+HERE'S LOOKING AT YOU, KID | As Samuel Lapp, he was the witness in 1985's "Witness" | Lukas Haas
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+WE'LL ALWAYS HAVE PARRIS ISLAND | (<http://www.j-archive.com/media/2005-04-13_DJ_29.jpg> Cheryl of the Clue Crew reports from Parris Island, SC.)  A lot of Marine vocabulary comes from the Navy: doors are hatches, while windows & eyeglasses are both called these | portholes
+right: Dan
+Wrong: 
+Value: $1600
+Number: 29
+U.S. PRESIDENTS | He became pres. 100 years after George Washington, so he was called the "Centennial President" | Benjamin Harrison
+right: Dan
+Wrong: 
+Kyle: Who is Cleveland?
+Rick: Who is Hayes?
+Value: $2000
+Number: 5
+SHOCKING ART | Marcel Duchamp's "Nude Descending a Staircase" caused a stir at this 1913 show in New York City | the Armory Show
+right: Dan
+Wrong: 
+Value: $2000
+Number: 11
+PUSH THE "BUTTON" | In 1927 one of this 18th century American's autographs sold for over $50,000 | Button Gwinnett
+right: Dan
+Wrong: 
+Value: $2000
+Number: 15
+WORLD OF NOBEL PRIZE-WINNING AUTHORS | Halldor Laxness | Iceland
+right: Dan
+Wrong: 
+Value: $2000
+Number: 20
+HERE'S LOOKING AT YOU, KID | The title kid in 1948's "The Boy with Green Hair" | Dean Stockwell
+right: 
+Wrong: Triple Stumper
+Rick: Who was Billy Mumy?
+Value: $2000
+Number: 25
+WE'LL ALWAYS HAVE PARRIS ISLAND | (<http://www.j-archive.com/media/2005-04-13_DJ_30.jpg> Cheryl of the Clue Crew reports from Parris Island, SC.)  From the Latin for "boxer", it's the variety of training weapon these Marines are using to practice combat fighting | a pugil stick
+right: Dan
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Kyle: $3,600
+Rick: $9,600
+Dan: $33,800
+
+Final Jeopardy! Round
+16th CENTURY NAMES | As a foe of the Spanish, he's been called "The Queen's Pirate" & a "Gran Luterano" | Sir Francis Drake
+right: Kyle | Rick | Dan
+Wrong: 
+Wagers: 
+Kyle: $1
+Rick: $0
+Dan: $3,800
+Final scores:
+Kyle: $3,601 (3rd place: $10,000)
+Rick: $9,600 (2nd place: $10,000)
+Dan: $37,600 (Winner: $37,600 + an advance to UToC Round 3)
+
+Coryat scores
+Kyle: $3,600 (7 R,2 W)
+Rick: $6,800 (15 R(including 1 DD),3 W)
+Dan: $29,000 (33 R(including 2 DDs),0 W)

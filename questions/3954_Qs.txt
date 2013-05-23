@@ -1,0 +1,303 @@
+2112 - Tuesday, November 9, 1993
+Comments: 1993 <i>Celebrity Jeopardy!</i> game 2.
+Contestants:
+Pat Sajak: a star of the world's favorite game show, from Wheel of Fortune
+Teri Garr: an Academy Award-nominatee, from the movie-of-the-week Fugitive Nights
+Ed Asner: a Golden Globe- and Emmy- winning actor, from 
+First Jeopardy! Round: FIRST LADIES, THE FANNIE FARMER COOKBOOK, MIDDLE NAMES, U. S. A., FOREIGN WORDS & PHRASES, THE CHINESE THEATRE
+FIRST LADIES | In 1992 Mount Vernon started a tradition of free admittance to women named Martha on her birthday | Martha Washington
+right: Teri
+Wrong: 
+Value: $100
+Number: 2
+THE FANNIE FARMER COOKBOOK | To make 1 cup of hollandaise sauce, you need 1 tablespoon of this citrus juice | lemon
+right: Teri
+Wrong: 
+Value: $100
+Number: 21
+MIDDLE NAMES | In 1969 this Beatle changed his middle name from Winston to Ono | John Lennon
+right: Teri
+Wrong: 
+Value: $100
+Number: 15
+U. S. A. | There's a macadamia nut festival in this state every year | Hawaii
+right: Teri
+Wrong: 
+Value: $100
+Number: 8
+FOREIGN WORDS & PHRASES | In Esperanto this animal is a porko | a pig
+right: Ed
+Wrong: 
+Value: $100
+Number: 12
+FIRST LADIES | She confessed, "My life didn't really begin until I met Ronnie" | Nancy Reagan
+right: Teri
+Wrong: 
+Value: $200
+Number: 1
+THE FANNIE FARMER COOKBOOK | Fannie's recipe for the Philadelphia type of this is even richer and creamier than French vanilla | ice cream
+right: Pat
+Wrong: 
+Ed: What is cream cheese?
+Value: $200
+Number: 22
+MIDDLE NAMES | This inventor took the middle name Graham to set himself apart from his father and grandfather | (Alexander Graham) Bell
+right: Pat
+Wrong: 
+Value: $200
+Number: 17
+U. S. A. | In the 1870s there were "rushes into the South Dakota area for land & for this | gold
+right: Ed
+Wrong: 
+Value: $200
+Number: 6
+FOREIGN WORDS & PHRASES | Julio isn't just Mr. Iglesias' first name, it's the Spanish word for this month | July
+right: Pat
+Wrong: 
+Value: $200
+Number: 14
+THE CHINESE THEATRE | He wrote, "Many happy trails" in cement above imprints of his gun & Trigger's hoofprints | Roy Rogers
+right: Teri
+Wrong: 
+Ed: What is... Gene Autrey?
+Value: $200
+Number: 26
+FIRST LADIES | She was married at the Plains Methodist Church in 1946 | Rosalyn Carter
+right: Ed
+Wrong: 
+Value: $300
+Number: 3
+THE FANNIE FARMER COOKBOOK | A different version of this ever-popular salad is made with shredded Chinese cabbage & watercress | cole slaw
+right: Pat
+Wrong: 
+Ed: What is... Chinese salad?
+Value: $300
+Number: 23
+MIDDLE NAMES | This broadcaster's middle name is Leland, and that's the way it is | Walter Cronkite
+right: Pat
+Wrong: 
+Value: $300
+Number: 18
+U. S. A. | Though it's widely cultivated, the Monterey cypress is native only to this state | California
+right: Ed
+Wrong: 
+Value: $300
+Number: 9
+FOREIGN WORDS & PHRASES | If an Italian doctor tells you "apra la bocca", he wants you to open this | your mouth
+right: Pat
+Wrong: 
+Value: $300
+Number: 11
+THE CHINESE THEATRE | She wrote, "Love to you all" over her tiny bare footprints in 1935; she was only 6 years old | Shirley Temple
+right: Pat
+Wrong: 
+Value: $300
+Number: 27
+FIRST LADIES | Theodore Roosevelt said at her wedding, "There's nothing like keeping the name in the family" | Eleanor Roosevelt
+right: Ed
+Wrong: 
+Teri: Who is Alice Roosevelt?
+Value: $400
+Number: 4
+THE FANNIE FARMER COOKBOOK | Shrimp wiggle and Welsh rabbit are both served on top of this, but for shrimp wiggle it's buttered | toast
+right: Teri
+Wrong: 
+Value: $400
+Number: 24
+MIDDLE NAMES | Middle name of New York senator Daniel Moynihan | Patrick
+right: Pat
+Wrong: 
+Value: $400
+Number: 19
+U. S. A. | This "Tar Heel State" is also nicknamed "The Old North State" | North Carolina
+right: Pat
+Wrong: 
+Value: $400
+Number: 7
+FOREIGN WORDS & PHRASES | "Bitte stutzen sie den schnurrbart" means "Please trim my moustache" in this language | German
+right: Teri
+Wrong: 
+Value: $400
+Number: 13
+FIRST LADIES | Appropriately, her White House portrait hangs in the bedroom named for her husband | Mrs. (Mary Todd) Lincoln
+right: Ed
+Wrong: 
+Value: $500
+Number: 5
+THE FANNIE FARMER COOKBOOK | Cut these tails into 2-inch pieces & dust them with flour before you make the soup named for them | oxtail
+right: Teri
+Wrong: 
+Value: $500
+Number: 25
+MIDDLE NAMES | This middle name of Bill Clinton may remind you of another president | Jefferson
+right: Teri
+Wrong: 
+Value: $500
+Number: 20
+U. S. A. | The 50 states touch these 3 oceans | the Atlantic, the Pacific, and the Arctic Ocean
+right: 
+Wrong: 
+Ed: What is the Atlantic, the Pacific, and the Caribbean?
+Value: DD: $1,500
+Number: 10
+FOREIGN WORDS & PHRASES | In French this piece of camping equipment is un sac de couchage | a sleeping bag
+right: Pat
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Ed: $200
+Teri: $0
+Pat: $400
+Scores at the end of the Jeopardy! Round:
+Ed: -$400
+Teri: $2,200
+Pat: $3,100
+Second Jeopardy! Round: ART, POP MUSIC, MAGAZINES, SCIENCE, ACTRESSES, WORLD LIT
+ART | He returned to Florence in 1501 as a big name; his Pieta for St. Peter's had made him famous | Michelangelo
+right: Ed
+Wrong: 
+Value: $200
+Number: 2
+POP MUSIC | His first single to crack the Top 40 was "Born to Run" in 1975 | Bruce Springsteen
+right: Pat
+Wrong: 
+Value: $200
+Number: 17
+MAGAZINES | The Angus Journal is one of several magazines devoted to the raising of these farm animals | cows
+right: Teri
+Wrong: 
+Value: $200
+Number: 16
+SCIENCE | A ruler is divided into inches & a thermometer is divided into these | degrees
+right: Pat
+Wrong: 
+Value: $200
+Number: 9
+WORLD LIT | "War and Peace" was originally written in French & this language | Russian
+right: Ed
+Wrong: 
+Value: $200
+Number: 7
+ART | After "The Birds of America" this naturalist drew "The Viviparous Quadrupeds of North America" | Audabon
+right: Ed
+Wrong: 
+Value: $400
+Number: 15
+POP MUSIC | A 1993 release of her greatest hits was titled "Experience the Divine" | Bette Midler
+right: Teri
+Wrong: 
+Ed: Who is Barbra Streisand?
+Value: $400
+Number: 18
+MAGAZINES | As you might guess, "Vanities" is a regular feature of this magazine | Vanity Fair
+right: Pat
+Wrong: 
+Value: $400
+Number: 22
+SCIENCE | Increased levels of this gas in the atmosphere add to the greenhouse effect, warming the earth | carbon dioxide
+right: Ed
+Wrong: 
+Value: $400
+Number: 10
+WORLD LIT | To support his family in the 1850s, he farmed & wrote magazine stories; his whale tale didn't sell well | Herman Melville
+right: Ed
+Wrong: 
+Value: $400
+Number: 6
+ART | Artist seen <http://www.j-archive.com/media/1993-11-09_DJ_14.jpg> here in a 1658 self-portrait | Rembrandt
+right: Ed
+Wrong: 
+Value: DD: $3,000
+Number: 14
+POP MUSIC | "Love On The Rocks" from "The Jazz Singer" soundtrack was this performer's biggest hit of the 1980s | Neil Diamond
+right: Teri
+Wrong: 
+Value: $600
+Number: 19
+MAGAZINES | In 1992 Gloria Steinem launched a British edition of this magazine | Ms.
+right: Pat
+Wrong: 
+Value: $600
+Number: 23
+SCIENCE | This light display may be "Australis" or "Borealis" | the aurora
+right: Teri
+Wrong: 
+Pat: What are the Northern Lights?
+Value: $600
+Number: 11
+WORLD LIT | Title adjective used to describe Dickens' "Dorrit" or Alcott's "Women" | Little
+right: Ed
+Wrong: 
+Value: $600
+Number: 5
+ART | First name of German expressionist Beckman or last name of 1960s pop artist Peter | Max
+right: Pat
+Wrong: 
+Ed: I was wrong. [waves hand]
+Value: $800
+Number: 8
+POP MUSIC | Although this group's "Stairway To Heaven" is considered a classic, it was never released as a single | Led Zepplin
+right: Pat
+Wrong: 
+Value: $800
+Number: 20
+MAGAZINES | For 11 years E.B. White wrote essays for this magazine's "Talk of the Town" | The New Yorker
+right: Ed
+Wrong: 
+Value: $800
+Number: 24
+SCIENCE | In 1953 Crick & Watson came up with the double helix model for this nucleic acid's molecule | DNA
+right: Pat
+Wrong: 
+Value: $800
+Number: 12
+WORLD LIT | Hemingway's "A Farewell to Arms" is set during this war | the First World War
+right: Ed
+Wrong: 
+Value: DD: $1,000
+Number: 4
+ART | His "Green Coca-Cola Bottles" hangs in the Whitney | Andy Warhol
+right: Ed
+Wrong: 
+Value: $1000
+Number: 3
+POP MUSIC | This 1993 soundtrack album includes Jimmy Durante's version of "As Time Goes By" | Sleepless in Seattle
+right: Teri
+Wrong: 
+Value: $1000
+Number: 21
+SCIENCE | Making up about 80% of the air, it has to be "fixed" before you can use it | nitrogen
+right: Ed
+Wrong: 
+Value: $1000
+Number: 13
+WORLD LIT | You can't say this Norwegian is without peer; he wrote "Peer Gynt" | Ibsen
+right: Teri
+Wrong: 
+Value: $1000
+Number: 1
+Scores at the end of the Double Jeopardy! Round:
+Ed: $7,400
+Teri: $6,000
+Pat: $6,300
+
+Final Jeopardy! Round
+IN THE NEWS | AP says about half its client used the Ron Edmonds photo of these 2 men shaking hands 9/13/93 | Yasser Arafat and Yitzhak Rabin
+right: Ed
+Wrong: 
+Teri: Who is Begin & Arafat [Garr reads her response out loud, "Arafat" is an illegible scribble.]
+Pat: Who were Arafat & Shamir [Pat also read his scribbled "Shamir" out loud.]
+Wagers: 
+Teri: $6,000
+Pat: $6,299
+Ed: $3,500
+Final scores:
+Ed: $10,900 (Winner: Doubled prize, if end-of-week high scorer)
+Teri: $0 (3rd place: $10,000)
+Pat: $1 (2nd place: $10,000)
+
+Coryat scores
+Ed: $6,300 (17 R(including 2 DDs),6 W(including 1 DD))
+Teri: $6,000 (16 R,1 W)
+Pat: $6,300 (17 R,1 W)

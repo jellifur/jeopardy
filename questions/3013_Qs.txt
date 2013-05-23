@@ -1,0 +1,289 @@
+2810 - Friday, November 15, 1996
+Comments: 1996 Celebrity <i>Jeopardy!</i> game 5.
+Contestants:
+Alicia Witt: an actress from Cybill
+Renee Taylor: a writer and actress from The Nanny
+Robert Loggia: an actor from the movie Independence Day
+First Jeopardy! Round: HISTORIC AMERICANS, MUSEUMS, PEOPLE, RELIGION, 3-LETTER ANATOMY, VIVA LAS VEGAS
+HISTORIC AMERICANS | The state of Franklin, which had its own governor but was never admitted to the Union, was named for him | Ben Franklin
+right: Alicia
+Wrong: 
+Value: $100
+Number: 1
+MUSEUMS | A Hibbing, Minn. museum traces the history of this bus company founded there in 1914 using Hupmobiles | Greyhound
+right: Alicia
+Wrong: 
+Value: $100
+Number: 19
+PEOPLE | This current Bulls player holds the career NBA record for points scored per game with 32.2 | Michael Jordan
+right: Alicia
+Wrong: 
+Value: $100
+Number: 2
+RELIGION | The title of this leader of a Jewish congregation means "my master" in Hebrew | rabbi
+right: Robert
+Wrong: 
+Value: $100
+Number: 7
+3-LETTER ANATOMY | When you pout you stick it out | lip
+right: Alicia
+Wrong: 
+Value: $100
+Number: 9
+VIVA LAS VEGAS | New in 1996, Caesars Magical Empire is a subterranean dining & magic experience of this famed hotel | Caesars Palace
+right: Renee
+Wrong: 
+Value: $100
+Number: 21
+HISTORIC AMERICANS | This president's enemies called him "King Andrew I", but he's better-known as "Old Hickory" | Andrew Jackson
+right: Alicia
+Wrong: 
+Value: $200
+Number: 8
+MUSEUMS | A replica of a rubber plantation is displayed at this company's World of Rubber Museum in Akron, Ohio | Goodyear
+right: 
+Wrong: Triple Stumper
+Robert: What is Firestone?
+Value: $200
+Number: 20
+PEOPLE | The father of this actor best known as Lt. Frank Drebin in the "Naked Gun" movies was a Canadian Mountie | Leslie Nielsen
+right: Alicia
+Wrong: 
+Value: $200
+Number: 3
+RELIGION | This apostle who denied he knew Jesus 3 times is sometimes called the "Apostle to the Jews" | Peter
+right: 
+Wrong: Triple Stumper
+Robert: Just went out of my head!
+Renee: Who is Paul?
+Value: $200
+Number: 13
+3-LETTER ANATOMY | Mark Antony wanted you to lend it so he could bend it | ear
+right: Robert
+Wrong: 
+Value: $200
+Number: 10
+HISTORIC AMERICANS | He called his beautiful hilltop estate Monticello, which is Italian for "little mountain" | Thomas Jefferson
+right: Robert
+Wrong: 
+Value: $300
+Number: 11
+PEOPLE | William Daniels of "Boy Meets World" formerly played Dr. Mark Craig on this TV medical series | St. Elsewhere
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 4
+RELIGION | Divided into 114 suras or chapters, this Islamic book is the earliest known work in Arabic prose | the Koran
+right: Robert
+Wrong: 
+Value: $300
+Number: 14
+3-LETTER ANATOMY | In a toast to your best bud it's where you say to put the mud | eye
+right: Renee
+Wrong: 
+Value: $300
+Number: 16
+HISTORIC AMERICANS | He fled to Philadelphia after he shot & mortally wounded Alexander Hamilton | Aaron Burr
+right: Robert
+Wrong: 
+Value: $400
+Number: 12
+PEOPLE | In July 1993 this Seattle outfielder tied a Major League record by hitting home runs in 8 straight games | Ken Griffey, Jr.
+right: 
+Wrong: Triple Stumper
+Robert: Who is Jose Canseco?
+Value: $400
+Number: 5
+RELIGION | In about 500 B.C., this philosopher was appointed minister of justice in the Chinese state of Lu | Confucius
+right: Alicia
+Wrong: 
+Value: $400
+Number: 15
+3-LETTER ANATOMY | It went from Adam to make a madam | rib
+right: Renee
+Wrong: 
+Value: $400
+Number: 17
+PEOPLE | John Beradino, who passed away in 1996, played Dr. Steve Hardy on this daytime soap for over 30 years | General Hospital
+right: 
+Wrong: Triple Stumper
+Alicia: What is "As the World Turns?"
+Value: $500
+Number: 6
+3-LETTER ANATOMY | If this part is made of glass a fighter has to watch his opponent | jaw
+right: Robert
+Wrong: 
+Alicia: What is eye?
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Robert: $600
+Renee: $0
+Alicia: $200
+Scores at the end of the Jeopardy! Round:
+Robert: $1,000
+Renee: $600
+Alicia: $200
+Second Jeopardy! Round: OSCAR WINNERS ONSTAGE, WORLD GEOGRAPHY, FAMOUS NAMES, BOOKS & AUTHORS, CATS & DOGS, DYSFUNCTIONAL ROYAL FAMILIES
+OSCAR WINNERS ONSTAGE | This "Funny Girl"'s first New York show, "Another Evening with Harry Stoones", closed after 1 performance | Barbra Streisand
+right: Alicia
+Wrong: 
+Value: $200
+Number: 1
+WORLD GEOGRAPHY | Russia's Lena River lies within this large, cold eastern region of the country | Siberia
+right: Alicia
+Wrong: 
+Value: $200
+Number: 26
+FAMOUS NAMES | This late female leader of India was called Indu for short | Indira Gandhi
+right: Robert
+Wrong: 
+Value: $200
+Number: 6
+BOOKS & AUTHORS | He brought back the dinosaurs in "Jurassic Park" & "The Lost World" | Michael Crichton
+right: Alicia
+Wrong: 
+Value: $200
+Number: 19
+CATS & DOGS | Afghans hunt by sight, while bloodhounds hunt by this sense | smell
+right: Alicia
+Wrong: 
+Value: $200
+Number: 8
+DYSFUNCTIONAL ROYAL FAMILIES | This emperor's sister Pauline Bonaparte was so scandalous she was banned from his court in 1810 | Napoleon
+right: Robert
+Wrong: 
+Value: $200
+Number: 24
+OSCAR WINNERS ONSTAGE | He played the psychiatrist in "Equus" before he played Hannibal Lecter, who needed a psychiatrist | Anthony Hopkins
+right: Alicia
+Wrong: 
+Renee: Who was Richard Burton?
+Value: $400
+Number: 2
+WORLD GEOGRAPHY | Loch Ness & Loch Lochy form much of this country's Caledonian Canal | Scotland
+right: Renee
+Wrong: 
+Value: $400
+Number: 15
+FAMOUS NAMES | On Sept. 21, 1996 he married long-time girlfriend Carolyn Bessette on Cumberland Island off the coast of Georgia | John F. Kennedy, Jr.
+right: Alicia
+Wrong: 
+Value: $400
+Number: 7
+BOOKS & AUTHORS | In 1996 he offered up "The Last Don", a novel readers can't refuse | Mario Puzo
+right: Robert
+Wrong: 
+Value: $400
+Number: 20
+CATS & DOGS | The Mau is a breed of cat that originated in this country, where it was revered by the Pharaohs | Egypt
+right: Alicia
+Wrong: 
+Value: $400
+Number: 9
+DYSFUNCTIONAL ROYAL FAMILIES | This seductive queen convinced Mark Anthony to execute her hostile younger sister, Arsinoe | Cleopatra
+right: Alicia
+Wrong: 
+Value: $400
+Number: 27
+OSCAR WINNERS ONSTAGE | Mike Nichols saw him in a play called "Eh?" & offered him the starring role in "The Graduate" | Dustin Hoffman
+right: Renee
+Wrong: 
+Alicia: Who is Matthew Broderick?
+Value: $600
+Number: 3
+WORLD GEOGRAPHY | This country's Chatham Islands are inhabited primarily by Maoris | New Zealand
+right: Robert
+Wrong: 
+Value: $600
+Number: 14
+FAMOUS NAMES | In 1996 this 20-year-old African-American golfer won a record third consecutive U.S. Amateur title | Tiger Woods
+right: Alicia
+Wrong: 
+Value: $600
+Number: 16
+BOOKS & AUTHORS | She leaves vampires behind for the tale of an ancient Babylonian spirit in "Servant of the Bones" | Anne Rice
+right: Renee
+Wrong: 
+Value: $600
+Number: 21
+CATS & DOGS | Breeders once considered it desirable for these "Thai" cats to have crossed eyes | Siamese
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 10
+OSCAR WINNERS ONSTAGE | She starred in "Come Back to the Five and Dime, Jimmy Dean..." onstage & on film before she was "Moonstruck" | Cher
+right: Alicia
+Wrong: 
+Value: $800
+Number: 4
+FAMOUS NAMES | Blythe Danner's daughter, in 1996 she played the title role of "Emma" | Gwyneth Paltrow
+right: Alicia
+Wrong: 
+Value: $800
+Number: 17
+BOOKS & AUTHORS | As his novel "Executive Orders" begins, Jack Ryan has just become president of the U.S. | Tom Clancy
+right: Alicia
+Wrong: 
+Value: $800
+Number: 22
+CATS & DOGS | The Airedale type of this dog is named for the Aire Valley in Yorkshire, England | terrier
+right: Alicia
+Wrong: 
+Value: $800
+Number: 11
+OSCAR WINNERS ONSTAGE | He cleaned houses before he co-starred in "Godspell" in London: what a "Reversal of Fortune" | Jeremy Irons
+right: Alicia
+Wrong: 
+Value: $1000
+Number: 5
+WORLD GEOGRAPHY | Nastapoka & Hopewell, islands of Canada's Northwest Territories, hug the eastern shore of this bay | Hudson Bay
+right: Robert
+Wrong: 
+Value: $1000
+Number: 13
+FAMOUS NAMES | A gun bill is named for this former Reagan press sec'y who was awarded a Presidential Medal of Freedom | James Brady
+right: 
+Wrong: 
+Alicia: Who is...Alan Rosenberg?
+Value: DD: $1,000
+Number: 18
+BOOKS & AUTHORS | Among her many bestsellers are "Full Circle", "Wanderlust" & 1995's "Five Days in Paris" | Danielle Steel
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+CATS & DOGS | The ocicat is so named because the daughter of its original breeder thought it looked like this wild cat | ocelot
+right: Robert
+Wrong: 
+Value: $1000
+Number: 12
+DYSFUNCTIONAL ROYAL FAMILIES | This Roman emperor, played on TV by Derek Jacobi, married his own niece; she poisoned him | Claudius
+right: Robert
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Robert: $5,400
+Renee: $1,800
+Alicia: $5,800
+
+Final Jeopardy! Round
+PUBLISHING FIRSTS | In 1908 Ernest Henry Shackleton printed the first book on this continent | Antarctica
+right: Alicia
+Wrong: 
+Renee: What is Bible?
+Robert: What is? Africa
+Wagers: 
+Renee: $500
+Robert: $2,000
+Alicia: $1,600
+Final scores:
+Robert: $3,400 (2nd place: $10,000 to the Motion Picture Home)
+Renee: $1,300 (3rd place: $10,000 to the National Organization of Italian Women)
+Alicia: $7,400 (Winner: $10,000 to the Pediatric AIDS Foundation)
+
+Coryat scores
+Robert: $5,400 (13 R,3 W)
+Renee: $1,800 (6 R,2 W)
+Alicia: $6,800 (21 R,4 W(including 1 DD))

@@ -1,0 +1,338 @@
+315 - Friday, November 22, 1985
+Comments: 1985 Tournament of Champions final game 2.
+Contestants:
+Jerry Frankel: a musician and a composer originally from Buffalo, New York (subtotal of $6,100)
+Bruce Fauman: a university administrator and professor from Vancouver, British Columbia (subtotal of $4,300)
+Steve Rogitz: a letter carrier from Gardena, California (subtotal of $4,500)
+First Jeopardy! Round: PRESIDENTIAL QUOTES, HANDICRAFTS, THE 1950's, THE HOSPITAL, O'HOLLYWOOD, WINE
+PRESIDENTIAL QUOTES | Because he said "Ich bin ein Berliner", not "Ich bin Berliner", it could have meant "I am a doughnut" | John F. Kennedy
+right: Bruce
+Wrong: 
+Value: $100
+Number: 13
+HANDICRAFTS | Artisans in the Black Forest have been turning out these bird-brained time-pieces since 1730 | cuckoo clocks
+right: Bruce
+Wrong: 
+Value: $100
+Number: 26
+THE 1950's | Mickey Spillane's violently anti-Communist private eye | Mike Hammer
+right: Bruce
+Wrong: 
+Value: $100
+Number: 1
+THE HOSPITAL | Although a general hospital for 250 years, it is commonly thought of as NYC's lunatic asylum | Bellevue
+right: Steve
+Wrong: 
+Value: $100
+Number: 21
+O'HOLLYWOOD | He played Archie Bunker | Carrol O'Connor
+right: Jerry
+Wrong: 
+Value: $100
+Number: 11
+WINE | By French law, no drink may be sold as wine that is not exclusively made from these | grapes
+right: Steve
+Wrong: 
+Value: $100
+Number: 6
+PRESIDENTIAL QUOTES | "May none but honest & wise men ever rule under this roof", said this 1st occupant of the White House | John Adams
+right: Steve
+Wrong: 
+Value: $200
+Number: 14
+HANDICRAFTS | "Home sweet home" done in needlework, or soap star Philece | a sampler
+right: Jerry
+Wrong: 
+Value: $200
+Number: 27
+THE 1950's | In 1952, this plant substance was added to toothpaste, gum, soap, & many other things | chlorophyll
+right: Bruce
+Wrong: 
+Value: $200
+Number: 7
+THE HOSPITAL | A steam or gas autoclave is used for this process | sterilization
+right: Bruce
+Wrong: 
+Value: $200
+Number: 22
+O'HOLLYWOOD | In "My Favorite Year", his character admitted "I'm not an actor; I'm a movie star" | Peter O'Toole
+right: Bruce
+Wrong: 
+Value: $200
+Number: 12
+WINE | As far back as 1609, sacramental wine was made in what is now this state | California
+right: Bruce
+Wrong: 
+Value: $200
+Number: 5
+PRESIDENTIAL QUOTES | "Presidents come & go, but the court goes on forever", this massive Chief Justice said knowingly | Taft
+right: Steve
+Wrong: 
+Value: $300
+Number: 15
+HANDICRAFTS | Master in this field, Akira Yoshizawa, said it took 30 years to get a paper cicada folded right | origami (paper folding)
+right: Bruce
+Wrong: 
+Value: $300
+Number: 28
+THE 1950's | Howdy Doody host Bob Smith's real hometown | Buffalo, New York
+right: Steve
+Wrong: 
+Value: $300
+Number: 8
+THE HOSPITAL | A temporary Civil War hospital was only one ever in New Orleans with <http://www.j-archive.com/media/1985-11-22_J_23.mp3> this famous title: | the St. James Infirmary
+right: Bruce
+Wrong: 
+Value: DD: $300
+Number: 23
+O'HOLLYWOOD | In "Singin' in the Rain", he knew how to "Make 'Em Laugh" | Donald O'Connor
+right: Jerry
+Wrong: 
+Value: $300
+Number: 18
+WINE | Before experiments of this 19th century scientist, fermentation was basically a mystery | Pasteur
+right: Jerry
+Wrong: 
+Value: $300
+Number: 2
+PRESIDENTIAL QUOTES | In his farewell, he warned against the influence of "military-industrial complex" | Eisenhower
+right: Steve
+Wrong: 
+Value: $400
+Number: 16
+HANDICRAFTS | Pliny the Elder wrote about & Da Vinci taught this art form now done by 4-year-olds | finger painting
+right: Bruce
+Wrong: 
+Value: $400
+Number: 29
+THE 1950's | In 1952, 12-year-old Jimmy Boyd earned a fortune with this Christmas song hit | "I Saw Mommy Kissing Santa Claus"
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+THE HOSPITAL | An oncologist would treat you if you had one of these | a tumor
+right: Bruce
+Wrong: 
+Value: $400
+Number: 24
+O'HOLLYWOOD | Not "Rosemary's Baby", but "Rosemary's" real-life mother | Maureen O'Sullivan
+right: Steve
+Wrong: 
+Value: $400
+Number: 19
+WINE | This term means that extra alcohol has been added, as to sherry, for example | fortified
+right: Jerry
+Wrong: 
+Value: $400
+Number: 3
+PRESIDENTIAL QUOTES | When his wife woke him in 1893, fearing burglars in house, he said, "In the Senate maybe, not the House" | Grover Cleveland
+right: Jerry
+Wrong: 
+Value: $500
+Number: 17
+HANDICRAFTS | Paul Revere's day job | silversmith
+right: Jerry
+Wrong: 
+Value: $500
+Number: 30
+THE 1950's | San Francisco police confiscated this beat poet's epic "Howl" when it first came out | Allen Ginsberg
+right: Jerry
+Wrong: 
+Value: $500
+Number: 10
+THE HOSPITAL | In an emergency room, the triage nurse primarily decides this | who should get treatment
+right: Bruce
+Wrong: 
+Value: $500
+Number: 25
+O'HOLLYWOOD | At age 6, she asked the director, "Do you want the tears to run all the way, or shall I stop halfway down?" | Margaret O'Brien
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+WINE | In the U.S., wines using at least 51% of a certain grape are labeled this | varietal
+right: Bruce
+Wrong: 
+Value: $500
+Number: 4
+Scores at the first commercial break (after clue 15)
+Steve: $800
+Bruce: $1,300
+Jerry: $1,300
+Scores at the end of the Jeopardy! Round:
+Steve: $2,200
+Bruce: $3,500
+Jerry: $2,800
+Second Jeopardy! Round: INVENTIONS, RELIGIOUS HISTORY, U.S. CONSTITUTION, LOVE, STARTS WITH "U", WATER
+INVENTIONS | To demonstrate his elevator's safety in 1852, he got in it & cut the cable | Otis
+right: Bruce
+Wrong: 
+Value: $200
+Number: 16
+RELIGIOUS HISTORY | Up to a million had already fallen victim to this persecution from 1484 to 1692, when it hit Salem | persecution for witchcraft
+right: Steve
+Wrong: 
+Value: $200
+Number: 22
+U.S. CONSTITUTION | Why Henry Kissinger & I cannot run for President | "What is the fact that you weren't born in the United States?"
+right: Jerry
+Wrong: 
+Value: $200
+Number: 3
+LOVE | Upon reflection, this Greek mythological figure fell in love with himself | Narcissus
+right: Bruce
+Wrong: 
+Value: $200
+Number: 13
+STARTS WITH "U" | Tom, Scrooge & Vanya | 3 uncles
+right: Jerry
+Wrong: 
+Value: $200
+Number: 21
+WATER | Of gas, liquid & solid, the densest state of water | liquid
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+INVENTIONS | 1st credited to Hans Lippershey in 1608, it was Galileo, in 1609, who first used it to look up | the telescope
+right: Bruce
+Wrong: 
+Value: $400
+Number: 9
+RELIGIOUS HISTORY | These 12th & 13th century religious wars spread the use of money & created a middle class | The Crusades
+right: Jerry
+Wrong: 
+Value: $400
+Number: 25
+U.S. CONSTITUTION | He presides over the Senate during the trial following the impeachment of a President | Chief Justice of the Supreme Court
+right: Steve
+Wrong: 
+Value: $400
+Number: 4
+LOVE | Since 1971 these authors of "Human Sexual Response" have been viewing it from a married perspective | Masters & Johnson
+right: Jerry
+Wrong: 
+Value: $400
+Number: 17
+STARTS WITH "U" | According to Tom Jones, "It's Not" this | Unusual
+right: Steve
+Wrong: 
+Value: $400
+Number: 23
+WATER | Not only the oldest, but also the most common method of turning sea water into fresh water | distillation
+right: Jerry
+Wrong: 
+Steve: What is condensation?
+Bruce: What is evaporation?
+Value: $400
+Number: 2
+INVENTIONS | Thanks to his invention, we saw Mickey Rooney & Spencer Tracy play him in the movies | Thomas Edison
+right: Steve
+Wrong: 
+Value: $600
+Number: 8
+RELIGIOUS HISTORY | During the 14th century "Babylonian Captivity", this French city was seat of the papacy | Avignon
+right: Jerry
+Wrong: 
+Value: $600
+Number: 26
+U.S. CONSTITUTION | Under Art. 1, Sec. 6, 1 of 2 places mentioned were a person can slander another with legal immunity | the Senate (or the House of Representaitves, but only during a speech or a debate)
+right: Steve
+Wrong: 
+Value: DD: $1,600
+Number: 5
+LOVE | 1955 Jennifer Jones-William Holden film whose title song became #1 for the 4 Aces | Love is a Many-Splendored Thing
+right: Jerry
+Wrong: 
+Value: $600
+Number: 18
+STARTS WITH "U" | 1 of 8 Popes who might be up for renewal | Urban
+right: Jerry
+Wrong: 
+Value: $600
+Number: 24
+WATER | A sewing needle will float on the surface of water because of this property | surface tension
+right: Bruce
+Wrong: 
+Value: $600
+Number: 7
+INVENTIONS | The 1st of these with flippers were 1947's "Bermuda" & "Humpty Dumpty" | pinball machines
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 10
+RELIGIOUS HISTORY | Pupil of John Calvin, this John united protestants in Scotland | John Knox
+right: Jerry
+Wrong: 
+Value: $800
+Number: 27
+U.S. CONSTITUTION | The only amendment to be ratified by state conventions rather than by legislatures | the 21st amendment, repealing Prohibition
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+LOVE | Psychoanalyst Erich Fromm defined love as "giving" in this popular 1956 work | "The Art of Loving"
+right: Bruce
+Wrong: 
+Steve: What is "Loving"?
+Value: $800
+Number: 19
+STARTS WITH "U" | From old French "non" & "per" meaning "not equal", a person who decides when things are not equal | umpire
+right: Bruce
+Wrong: 
+Value: $800
+Number: 29
+WATER | Some cities add lime to their water, not to flavor it, but to prevent this type of decay | pipe decay (rusty pipes)
+right: Steve
+Wrong: 
+Value: $800
+Number: 12
+INVENTIONS | Only type of invention for which the U.S. Patent Office still insists on seeing a working model | a perpetual motion machine
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+RELIGIOUS HISTORY | Julius Caesar devoted 3 chapters of his "Commentaries" to this religion of the "Ancient Briton" | Druidism
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+U.S. CONSTITUTION | Needing only the approval of the Senate, these, along with the Constitution, are the supreme laws of the land | treaties
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+LOVE | 28 times in the King James New Testament the greek word "agape", meaning love, is trans- lated as this | charity
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+WATER | Though industry uses more water than any other material, it uses most of it for this | cooling
+right: Bruce
+Wrong: 
+Value: $1000
+Number: 14
+Scores at the end of the Double Jeopardy! Round:
+Steve: $5,200
+Bruce: $7,100
+Jerry: $7,000
+
+Final Jeopardy! Round
+THE AMERICAS | Westernmost national capital in the Americas | Mexico City
+right: Jerry
+Wrong: 
+Steve: What is Managua?
+Bruce: What is Quito?
+Wagers: 
+Steve: $4,600
+Jerry: $5,401
+Bruce: $2,001
+Final scores:
+Steve: $600 (2nd runner-up: $5,100)
+Bruce: $5,099 (1st runner-up: $9,399)
+Jerry: $12,401 (Tournament champion: $100,000)
+
+Coryat scores
+Steve: $4,200 (15 R(including 1 DD),2 W)
+Bruce: $7,100 (20 R(including 1 DD),1 W)
+Jerry: $7,000 (17 R,0 W)

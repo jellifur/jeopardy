@@ -1,0 +1,323 @@
+uper Jeopardy! show #4 - Saturday, July 7, 1990
+Comments: <i>Super Jeopardy!</i> semifinal game 1.
+Contestants:
+Eric Newhouse: a student from Sioux City, Iowa
+Eugene Finerman: a writer from Evanston, Illinois
+Bob Verini: a playwright, actor, and director from New York City, New York
+First Jeopardy! Round: STATE CAPITALS, SAINTS & SINNERS, ARTISTS, WORLD HISTORY, HODGEPODGE, SMITHS
+STATE CAPITALS | When Houston became Texas' capital in 1842, this city kept the archives & forced a move back to it | Austin
+right: Eugene
+Wrong: 
+Value: 200
+Number: 29
+SAINTS & SINNERS | He expected a debate but didn't expect to start a new church when he posted his "95 Theses" in 1517 | Martin Luther
+right: Eric
+Wrong: 
+Value: 200
+Number: 28
+ARTISTS | Unlike other artists of the time, Leonardo based these angel parts on the ones that birds have | Wings
+right: Eugene
+Wrong: 
+Value: 200
+Number: 24
+WORLD HISTORY | In 1947 Britain's George VI dropped his title as emperor of this country | India
+right: Bob
+Wrong: 
+Value: 200
+Number: 25
+HODGEPODGE | "Blow The Man Down" is an example of this type of song sailors sang while working on sailing ships | Shanty
+right: Eugene
+Wrong: 
+Value: 200
+Number: 30
+SMITHS | The Pilgrims used the maps & books of this founder of Virginia, but did not accept his services | Captain John Smith
+right: Eric
+Wrong: 
+Value: 200
+Number: 6
+STATE CAPITALS | It's named for a Maine general's daughter | Augusta
+right: Bob
+Wrong: 
+Value: 400
+Number: 27
+SAINTS & SINNERS | Mark's gospel says this woman whom Jesus cured of seven demons was the first to see him resurrected | Mary Magdalene
+right: 
+Wrong: Triple Stumper
+Eugene: Who is Martha?
+Value: 400
+Number: 19
+ARTISTS | He was the subject of Gilbert Stuart's "Vaughn", "Landsdowne" & "Athenaeum" portraits | George Washington
+right: Bob
+Wrong: 
+Value: 400
+Number: 21
+WORLD HISTORY | On May 30, 1967 it declared itself a republic & seceded from Nigeria | Biafra
+right: Eugene
+Wrong: 
+Value: 400
+Number: 20
+HODGEPODGE | In 1802 Napoleon instituted this award, France's highest | Legion of Honor
+right: Bob
+Wrong: 
+Value: 400
+Number: 23
+SMITHS | This former ABC News anchor played himself in "Close Encounters of the Third Kind" & "The Candidate" | Howard K. Smith
+right: 
+Wrong: Triple Stumper
+Value: 400
+Number: 5
+STATE CAPITALS | Listing the states alphabetically, this is the capital of the state at the top of the list | Montgomery (Alabama)
+right: 
+Wrong: 
+Bob: What is Little Rock...no, oh no!
+Value: DD: 1,000
+Number: 26
+SAINTS & SINNERS | St. Monica's son, who lived a dissolute youth as he admitted in his "Confessions" | St. Augustine
+right: Bob
+Wrong: 
+Value: 600
+Number: 17
+ARTISTS | Look around Goya's works & you'll spot several bichon frises, which are these | Dogs
+right: Eugene
+Wrong: 
+Value: 600
+Number: 18
+WORLD HISTORY | After discovering the Philippines in March of 1521, he stayed there for about a month & was killed | Ferdinand Magellan
+right: Bob
+Wrong: 
+Value: 600
+Number: 12
+HODGEPODGE | The Royal Opera House in London has staged this Beethoven opera over 100 times since World War II | Fidelio
+right: Eugene
+Wrong: 
+Value: 600
+Number: 22
+SMITHS | This New York Daily News columnist once said that gossip is "news in a red satin dress" | Liz Smith
+right: Bob
+Wrong: 
+Value: 600
+Number: 4
+STATE CAPITALS | These 2 capitals both end in "-polis" | Annapolis & Indianapolis
+right: Eugene
+Wrong: 
+Value: 800
+Number: 11
+SAINTS & SINNERS | The king who had St. Thomas More put to death | Henry VIII
+right: Eric
+Wrong: 
+Value: 800
+Number: 15
+ARTISTS | "A Portrait of Dr. Gachet" by this artist sold in 1990 for $82.5 million | Vincent Van Gogh
+right: Bob
+Wrong: 
+Value: 800
+Number: 14
+WORLD HISTORY | By 1906 British New Guinea had become a territory of Australia & was renamed this | Papua New Guinea
+right: Bob
+Wrong: 
+Value: 800
+Number: 9
+HODGEPODGE | This Scottish missionary explored the Kalahari Desert & discovered the Zambezi River in 1851 | Dr. David Livingstone
+right: Bob
+Wrong: 
+Value: 800
+Number: 16
+SMITHS | Much of this British poet's works dealt with death including her most famous, "Not Waving, But Drowning" | Stevie Smith
+right: Bob
+Wrong: 
+Value: 800
+Number: 3
+STATE CAPITALS | State capital closest to Philadelphia | Trenton, New Jersey
+right: Bob
+Wrong: 
+Value: 1000
+Number: 2
+SAINTS & SINNERS | The king who had St. Thomas of Becket put to death | Henry II
+right: Eric
+Wrong: 
+Value: 1000
+Number: 13
+ARTISTS | His 1863 work "Luncheon on the Grass" was based on "Concert Champetre", painted centuries earlier | Edouard Manet
+right: Eric
+Wrong: 
+Value: 1000
+Number: 7
+WORLD HISTORY | This smallest Balkan country didn't become independent until the 20th century | Albania
+right: Eric
+Wrong: 
+Value: 1000
+Number: 8
+HODGEPODGE | "All The King's Men" can't bring this U.S. Poet Laureate back again; he died September 15, 1989 | Robert Penn Warren
+right: Eric
+Wrong: 
+Value: 1000
+Number: 10
+SMITHS | She wrote over 70 one-act plays but is best known for her first novel, "A Tree Grows In Brooklyn" | Betty Smith
+right: Eric
+Wrong: 
+Value: 1000
+Number: 1
+Scores at the first commercial break (after clue 15)
+Bob: 5,400
+Eugene: 800
+Eric: 6,000
+Scores at the end of the Jeopardy! Round:
+Bob: 6,400
+Eugene: 2,600
+Eric: 6,200
+Second Jeopardy! Round: THE ANIMAL KINGDOM, MUSICAL THEATRE, JAPAN, ARCHITECTURE, DEMOCRATS, CLASSICAL LITERATURE
+MUSICAL THEATRE | Last name shared by musical theatre greats Moss & Lawrence | Hart
+right: Eugene
+Wrong: 
+Value: 500
+Number: 14
+ARCHITECTURE | Wallace K. Harrison designed the Metropolitan Opera House as part of this NYC complex | Lincoln Center
+right: Bob
+Wrong: 
+Value: 500
+Number: 21
+DEMOCRATS | In May 1990 Daniel Akaka became this state's new junior senator, replacing Spark Matsunaga | Hawaii
+right: Eugene
+Wrong: 
+Value: 500
+Number: 15
+CLASSICAL LITERATURE | The people Aeneas led to Italy to found Rome were the losers in this war | the Trojan War
+right: Eric
+Wrong: 
+Value: 500
+Number: 1
+MUSICAL THEATRE | The original cast album of this Broadway musical features a rose & a mask on the cover | Phantom of the Opera
+right: Eric
+Wrong: 
+Value: 1000
+Number: 9
+JAPAN | Occuring nearly 1,500 times a year, one of these led to more than 100,000 deaths in 1923 | Earthquakes
+right: Bob
+Wrong: 
+Value: 1000
+Number: 5
+ARCHITECTURE | The cathedral of Santa Maria del Fiore in Florence is called this after its massive dome | Il Duomo
+right: Eugene
+Wrong: 
+Value: 1000
+Number: 26
+DEMOCRATS | Colorado congresswoman who was an almost-ran in the 1988 presidential race | Pat Schroeder
+right: Bob
+Wrong: 
+Value: 1000
+Number: 13
+CLASSICAL LITERATURE | The Elder wrote natural history & the Younger, his nephew & adopted son, was known for his books of letters | Pliny
+right: Bob
+Wrong: 
+Value: 1000
+Number: 16
+MUSICAL THEATRE | The title character of this comical 1956 musical almost marries Apassionata Von Climax | Li'l Abner
+right: Eugene
+Wrong: 
+Value: 1500
+Number: 8
+JAPAN | In a traditional Japanese home, floors are covered with straw mats called these | Tatami
+right: Eric
+Wrong: 
+Value: 1500
+Number: 4
+ARCHITECTURE | At age 13 he emigrated from Finland to the United States with his architect father Eliel | Eero Saarinen
+right: Eric
+Wrong: 
+Value: 1500
+Number: 23
+DEMOCRATS | William A. O'Neill has been governor of Connecticut since she resigned because of illness | Ella Grasso
+right: Eugene
+Wrong: 
+Value: 1500
+Number: 12
+CLASSICAL LITERATURE | Philosopher who was grossly caricatured in Aristophanes' "The Clouds" | Socrates
+right: Eugene
+Wrong: 
+Value: 1500
+Number: 17
+THE ANIMAL KINGDOM | The second-largest deer in the world, it's also called the wapiti | American elk
+right: 
+Wrong: Triple Stumper
+Eric: What is a caribou?
+Value: 2000
+Number: 24
+MUSICAL THEATRE | 1-word title of the 1980 musical which featured <http://www.j-archive.com/media/1990-07-07_DJ_07.mp3> the following:  "When the pills the doctor gave you turn your cold to the grippe / When a stitch to save nine others comes apart with a rip / When the rats invade your attic and start leaving your ship / Follow my tip / Come away on a trip / Just join the circus..." | Barnum
+right: Bob
+Wrong: 
+Value: DD: 9,900
+Number: 7
+JAPAN | The first Japanese film director to become famous internationally; his films include "Rashomon" & "The Seven Samurai" | Akira Kurosawa
+right: Eric
+Wrong: 
+Value: 2000
+Number: 2
+ARCHITECTURE | Pseudonym of Swiss architect & city planner Charles-Edouard Jeanneret | Le Corbusier
+right: Bob
+Wrong: 
+Value: 2000
+Number: 22
+DEMOCRATS | He's been an Arizona congressman since 1961 when his brother vacated the seat to join JFK's cabinet | Morris Udall
+right: Eugene
+Wrong: 
+Value: 2000
+Number: 11
+CLASSICAL LITERATURE | This first Greek historian attempted to write a history of the world up to his own time | Herodotus
+right: Eric
+Wrong: 
+Bob: Who is Thuycidides?
+Value: 2000
+Number: 18
+THE ANIMAL KINGDOM | The disease mixomatosis was introduced to Australia in the 1950s to control them | rabbits
+right: 
+Wrong: 
+Eric: What are sheep?
+Value: DD: 4,800
+Number: 25
+MUSICAL THEATRE | Gertrude Lawrence was the "lady" in the title of this 1941 musical about psychoanalysis | Lady in the Dark
+right: Bob
+Wrong: 
+Value: 2500
+Number: 6
+JAPAN | The Ainu, most of whom live on this northernmost island, may have been Japan's first inhabitants | Hokkaido
+right: Eric
+Wrong: 
+Value: 2500
+Number: 3
+ARCHITECTURE | Chicagoan who has been called "The Father of the American Skyscraper" | Louis Sullivan
+right: Bob
+Wrong: 
+Value: 2500
+Number: 19
+DEMOCRATS | He lost the presidential nomination to Hubert Humphrey in 1968 & ran as an independent in 1976 | Eugene McCarthy
+right: Eugene
+Wrong: 
+Value: 2500
+Number: 10
+CLASSICAL LITERATURE | This Roman poet fought for Brutus before settling down to write his epodes & odes | Horace
+right: Eugene
+Wrong: 
+Value: 2500
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Bob: 24,800
+Eugene: 16,100
+Eric: 10,400
+
+Final Jeopardy! Round
+GEOGRAPHY | In area, it's the second-largest country on the second-largest continent; both begin with the letter "A" | Algeria (in Africa)
+right: Eric | Eugene | Bob
+Wrong: 
+Wagers: 
+Eric: 10,400
+Eugene: 5,000
+Bob: 7,401
+Final scores:
+Bob: 32,201 (Finalist)
+Eugene: 21,100 (2nd place: $10,000)
+Eric: 20,800 (3rd place: $10,000)
+
+Coryat scores
+Bob: 17,900 (20 R(including 1 DD),2 W(including 1 DD))
+Eugene: 16,100 (16 R,1 W)
+Eric: 15,200 (15 R,2 W(including 1 DD))

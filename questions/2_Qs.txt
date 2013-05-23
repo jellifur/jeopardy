@@ -1,0 +1,348 @@
+4597 - Tuesday, September 7, 2004
+Comments: Ken Jennings game 40.
+Contestants:
+Rich Hartz: a food bank agency coordinator from Huntsville, Alabama
+Bob Watts: a poet from Taylorsville, North Carolina
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 39-day cash winnings total $1,331,661)
+First Jeopardy! Round: WORLD RELIGION, THE EXPERIENCE MUSIC PROJECT, GROCERY SHOPPING, THE LARGEST IN AREA, FEATHERS, THE QUEEN'S ENGLISH
+WORLD RELIGION | As the Mayan god of merchants, Ek Chuah was responsible for this yummy bean, once the standard Mayan currency | Cacao bean
+right: Ken
+Wrong: 
+Value: $200
+Number: 4
+THE EXPERIENCE MUSIC PROJECT | (<http://www.j-archive.com/media/2004-09-07_J_01.jpg> Sofia of the Clue Crew holds a feathered headdress at Experience Music Project in Seattle, WA.)  Felipe Rose, who wore this costume as part of this '70s group, has since founded Tomahawk Records | The Village People
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+GROCERY SHOPPING | If in a hurry, grab a prewashed salad mix, perhaps with the red leaf & green leaf types of this | lettuce
+right: Bob
+Wrong: 
+Value: $200
+Number: 21
+THE LARGEST IN AREA | Maine, Maryland, Montana | Montana
+right: Rich
+Wrong: 
+Value: $200
+Number: 16
+FEATHERS | Depending on the source, he "stuck a feather in his cap" or "in his hat and called it macaroni" | Yankee Doodle
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+THE QUEEN'S ENGLISH | If you take a nappy in London, it's one of these to put on a baby | a diaper
+right: Rich
+Wrong: 
+Value: $200
+Number: 11
+WORLD RELIGION | The Voodoo of New Orleans owes a debt to this Caribbean nation once known as St. Domingue | Haiti
+right: Ken
+Wrong: 
+Value: $400
+Number: 5
+THE EXPERIENCE MUSIC PROJECT | In 2004, for the 40th anniversary of the Fab 4 in the U.S., EMP presents an exhibit titled this, like a 1977 Broadway show | Beatlemania
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+GROCERY SHOPPING | If you're buying a whole fish, these (on the fish) should be clear & not sunken | eyes
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+THE LARGEST IN AREA | Wisconsin, Wyoming, Washington | Wyoming
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+FEATHERS | According to the proverb, "Birds of a feather" do this | flock together
+right: Rich
+Wrong: 
+Value: $400
+Number: 28
+THE QUEEN'S ENGLISH | The type of car the Brits call an estate car, we Americans call one of these wagons | a station wagon
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+WORLD RELIGION | By definition, the Hashemites are either direct or collateral descendants of this prophet | Muhammad
+right: Ken
+Wrong: 
+Bob: Who is Isaiah?
+Value: $600
+Number: 6
+THE EXPERIENCE MUSIC PROJECT | (<http://www.j-archive.com/media/2004-09-07_J_03.jpg> Sofia of the Clue Crew holds a giant black boot at Experience Music Project in Seattle, WA.)  The dragon boots were part of the finery of this hard rock band | Kiss
+right: Bob
+Wrong: 
+Value: $600
+Number: 3
+GROCERY SHOPPING | Mom, not shredded wheat!  Please can we get Tony's Cinnamon Krunchers from this company, can we please? | Kellogg's
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+THE LARGEST IN AREA | Ohio, Oklahoma, Oregon | Oregon
+right: Ken
+Wrong: 
+Bob: What is Ohio?
+Value: $600
+Number: 18
+FEATHERS | For a Plains Indian's war bonnet, the best feathers were from this bird | an eagle
+right: Bob
+Wrong: 
+Value: $600
+Number: 27
+THE QUEEN'S ENGLISH | If you're challenged to a game of draughts in a Birmingham pub, be prepared to contest this board game | checkers
+right: Rich
+Wrong: 
+Value: $600
+Number: 13
+WORLD RELIGION | Parasurama is the... let me see, fourth, fifth... no, sixth avatar of this Hindu god | Vishnu
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+THE EXPERIENCE MUSIC PROJECT | In the area called DJ Hallway, learn scratching & the other aspects of this -ism | turntablism
+right: 
+Wrong: Triple Stumper
+Ken: What is rastafarianism?
+Value: $800
+Number: 9
+GROCERY SHOPPING | You'll get fresher milk from the bottom of your market's display case for this reason | because it's colder at the bottom
+right: Rich
+Wrong: 
+Ken: What is that they've put it out more recently so the expiration date's longer in the future?
+Value: $800
+Number: 24
+THE LARGEST IN AREA | Nebraska, Nevada, North Carolina | Nevada
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+FEATHERS | A female swan, or what a quill can be used as | a pen
+right: Rich
+Wrong: 
+Value: $800
+Number: 29
+THE QUEEN'S ENGLISH | If your mechanic in Manchester needs a spanner to fix your car, he's asking for one of these | a wrench
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+WORLD RELIGION | From the Latin for a room that can be locked, it's a meeting assembled to choose a pope | a conclave
+right: 
+Wrong: Triple Stumper
+Rich: What is a cameral?
+Value: $1000
+Number: 8
+THE EXPERIENCE MUSIC PROJECT | (<http://www.j-archive.com/media/2004-09-07_J_10.jpg> Sofia of the Clue Crew holds a red hat at the Experience Music Project in Seattle, WA.)  Experience Music Project has a <http://www.j-archive.com/media/2004-09-07_J_10a.jpg> hat from the collection of this man from Romeo, Michigan | Kid Rock
+right: Bob
+Wrong: 
+Value: $1000
+Number: 10
+GROCERY SHOPPING | Choose one of <http://www.j-archive.com/media/2004-09-07_J_25.jpg> these with evenly distributed netting | cantaloupe
+right: Bob
+Wrong: 
+Value: $1000
+Number: 25
+THE LARGEST IN AREA | American Samoa, Bermuda, Puerto Rico | Puerto Rico
+right: Rich
+Wrong: 
+Value: $1000
+Number: 20
+FEATHERS | It's what Daedalus used to hold the feathers together in the wings he made for himself & his son | wax
+right: Rich
+Wrong: 
+Value: DD: $3,000
+Number: 30
+THE QUEEN'S ENGLISH | If the Westminster Bobby pulls out his truncheon, be worried because it's one of these | a club (or a nightstick)
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $1,800
+Bob: $1,000
+Rich: -$800
+Scores at the end of the Jeopardy! Round:
+Ken: $5,800
+Bob: $2,200
+Rich: $6,000
+Second Jeopardy! Round: THE WAR OF 1812, HODGEPODGE, DOC TALK, BASEBALL: THE 1930s, WHO'S THE SUBJECT?, "I" CATCHING
+THE WAR OF 1812 | About 2,000 British soldiers were killed or wounded by Jackson's troops in this last engagement of the war | Battle of New Orleans
+right: Rich
+Wrong: 
+Value: $400
+Number: 1
+HODGEPODGE | This adjective can be applied to writers like Shelley & Hugo as well as to a "getaway" for 2 | Romantic
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+DOC TALK | Myopia is the medical term for this | nearsightedness
+right: Rich
+Wrong: 
+Ken: What is farsightedness?
+Value: $400
+Number: 21
+BASEBALL: THE 1930s | On May 25, 1935 he slugged the last 3 home runs of his career--numbers 712, 713 & 714 | Babe Ruth
+right: Bob
+Wrong: 
+Value: $400
+Number: 9
+WHO'S THE SUBJECT? | "A Private Disgrace" & "Forty Whacks" | Lizzie Borden
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+"I" CATCHING | The Fianna Fail political party's name means "Warriors of" this country | Ireland
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+THE WAR OF 1812 | In April 1813, the U.S. captured Toronto, but this general after whom a Colorado mountain is named died in the battle | Zebulon Pike
+right: Bob
+Wrong: 
+Value: $800
+Number: 2
+HODGEPODGE | The logo of the National Beagle Club doesn't show a beagle but this scared animal that beagles hunt | a rabbit
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+DOC TALK | This is the common name for a lumbar puncture, used to test for meningitis | a spinal tap
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+BASEBALL: THE 1930s | On July 6, 1933 this city's Comiskey Park hosted the first All-Star Game; the American League won, 4-2 | Chicago
+right: Rich
+Wrong: 
+Value: $800
+Number: 10
+WHO'S THE SUBJECT? | "Against the Current" & "Far Side of Paradise" | F. Scott Fitzgerald
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+"I" CATCHING | From the Latin for "inactivity" it's the tendency of a body to resist change in its motion | inertia
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+THE WAR OF 1812 | On December 29, 1812 this famous U.S. frigate defeated the British frigate Java off the coast of Brazil | the Constitution
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+HODGEPODGE | Big Sandy isn't a feared bouncer, but a river that divides Kentucky from this "Mountain State" | West Virginia
+right: Bob
+Wrong: 
+Value: $1200
+Number: 28
+DOC TALK | Properly called the optic disk, it's the region of the retina that has no rods or cones | the blind spot
+right: Ken
+Wrong: 
+Value: DD: $3,800
+Number: 23
+BASEBALL: THE 1930s | In 1939 Red Sox rookie batted .327; 2 years later his batting average increased 79 points | Ted Williams
+right: Ken
+Wrong: 
+Value: $1200
+Number: 11
+WHO'S THE SUBJECT? | "American Caesar" & "Old Soldiers Never Die" | Douglas MacArthur
+right: Bob
+Wrong: 
+Value: $1200
+Number: 8
+"I" CATCHING | Astrud Gilberto had a monster hit song about "The Girl From" this place | Ipanema
+right: Rich
+Wrong: 
+Value: $1200
+Number: 18
+THE WAR OF 1812 | In 1813 this naval officer supervised the building of American ships to strengthen the Navy's fleet on Lake Erie | Oliver Hazard Perry
+right: Ken
+Wrong: 
+Bob: Who is Perry?
+Value: $1600
+Number: 4
+HODGEPODGE | Official job title of the person who directs the largest library in the world | the Librarian of Congress
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+DOC TALK | An LFT tests the function of this organ | the liver
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+BASEBALL: THE 1930s | In 1934 this eccentric St. Louis Cardinals pitcher who won 30 games was named the NL's most valuable player | Dizzy Dean
+right: Bob
+Wrong: 
+Value: $1600
+Number: 13
+WHO'S THE SUBJECT? | "Prince of Humbugs" & "The Fabulous Showman" | P.T. Barnum
+right: Bob
+Wrong: 
+Value: $1600
+Number: 12
+"I" CATCHING | Cambodia, Laos & Vietnam are part of this peninsula | Indochina
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+THE WAR OF 1812 | A provision of this treaty ending the war set up a commission to settle the boundary between the U.S. & Canada | the Treaty of Ghent
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+HODGEPODGE | Born in 1714, this 3-initialed son of J.S. Bach became his father's student & successor | Carl Phillip Emanual Bach
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+DOC TALK | Minor ailments can be treated by NPs (Nurse-practitioners) & PAs (these) | physician assistants
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+BASEBALL: THE 1930s | In June 1938 this Cincinnati Reds pitcher became the only man to pitch a no-hitter in 2 consecutive games | Johnny Van Der Meer
+right: 
+Wrong: Triple Stumper
+Bob: Who was Bill Blevins?
+Value: $2000
+Number: 14
+WHO'S THE SUBJECT? | "The Last Lion" & "Lion of Britain" | Winston Churchill
+right: Bob
+Wrong: 
+Value: DD: $4,200
+Number: 15
+"I" CATCHING | This innovative Russian designed the Soviet Union's IL-2, a famous dive-bombing fighter plane of WWII | Sergei Ilyushin
+right: Rich
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Ken: $28,400
+Bob: $9,600
+Rich: $10,800
+
+Final Jeopardy! Round
+WAR MOVIES | A controversial 1979 war film was based on a 1902 work by this author | Joseph Conrad
+right: Rich
+Wrong: 
+Bob: Who is Stephen Crane?
+Ken: Who is Heller?
+Wagers: 
+Bob: $9,600
+Rich: $8,401
+Ken: $6,600
+Final scores:
+Ken: $21,800 (40-day champion: $1,353,461)
+Bob: $0 (3rd place: $1,000)
+Rich: $19,201 (2nd place: $2,000)
+
+Coryat scores
+Ken: $25,800 (31 R(including 1 DD),3 W)
+Bob: $7,400 (12 R(including 1 DD),4 W)
+Rich: $8,800 (13 R(including 1 DD),1 W)

@@ -1,0 +1,348 @@
+5005 - Friday, May 19, 2006
+Comments: 2006 Tournament of Champions final game 2.
+Contestants:
+Vik Vaz: a medical student from Austin, Texas (subtotal of $30,800)
+Michael Falk: a meteorologist from Milwaukee, Wisconsin (subtotal of $17,400)
+Bill MacDonald: an attorney from Bonita Springs, Florida (subtotal of $0)
+First Jeopardy! Round: CIVIL WAR GENERALS, SUPPORTING ACTOR EMMY WINNERS, GOVT. ABBR., ALMA MATER MATTERS, MY HEAVENS!, NOVEL PICTURE PUZZLES
+CIVIL WAR GENERALS | After routing Union troops at the first battle of this, P.G.T. Beauregard was promoted to the rank of general | Bull Run
+right: Vik
+Wrong: 
+Value: $200
+Number: 9
+SUPPORTING ACTOR EMMY WINNERS | 2005: Voters like Brad Garrett, too | Everybody Loves Raymond
+right: Michael
+Wrong: 
+Value: $200
+Number: 8
+GOVT. ABBR. | It promotes technical research & education programs: the NSF | the National Science Foundation
+right: Michael
+Wrong: 
+Value: $200
+Number: 3
+ALMA MATER MATTERS | At 10,000 feet in elevation, the Timberline campus of this state's Mountain College is the highest in the U.S. | Colorado
+right: Michael
+Wrong: 
+Value: $200
+Number: 29
+MY HEAVENS! | Because of the greenhouse effect, the surface temperature on this planet is over 800 degrees F. | Venus
+right: Michael
+Wrong: 
+Value: $200
+Number: 16
+NOVEL PICTURE PUZZLES | <http://www.j-archive.com/media/2006-05-19_J_01.jpg> This Henry James novel centers on a plain girl | Washington Square
+right: Bill
+Wrong: 
+Value: $200
+Number: 1
+CIVIL WAR GENERALS | The Library of America has a boxed set of the memoirs of these 2 Union generals | Grant & Sherman
+right: Vik
+Wrong: 
+Value: $400
+Number: 13
+SUPPORTING ACTOR EMMY WINNERS | 1981: Danny DeVito gets an Emmy dispatch | Taxi
+right: Bill
+Wrong: 
+Value: $400
+Number: 22
+GOVT. ABBR. | It protects Grandma's money in the bank: the FDIC | the Federal Deposit Insurance Corporation
+right: Bill
+Wrong: 
+Value: $400
+Number: 7
+ALMA MATER MATTERS | In 1946 Congress designated January 5 as the "Day" of this Tuskegee Institute agriculture professor | (George Washington) Carver
+right: Michael
+Wrong: 
+Value: $400
+Number: 28
+MY HEAVENS! | The hottest stars, such as Rigel, are this color & have surface temperatures over 30,000 degrees | blue
+right: Bill
+Wrong: 
+Value: $400
+Number: 17
+NOVEL PICTURE PUZZLES | <http://www.j-archive.com/media/2006-05-19_J_02.jpg> This is a horror classic | Frankenstein
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+CIVIL WAR GENERALS | Replaced by Pres. Lincoln on November 7, 1862, he challenged the president as the Democratic nominee in 1864 | (George) McClellan
+right: Michael
+Wrong: 
+Value: $600
+Number: 10
+SUPPORTING ACTOR EMMY WINNERS | 1990: Legal practice makes perfect for Jimmy Smits | L.A. Law
+right: Bill
+Wrong: 
+Value: $600
+Number: 23
+GOVT. ABBR. | Providing assistance around the globe: AID | the Agency for International Development
+right: Vik
+Wrong: 
+Value: $600
+Number: 14
+ALMA MATER MATTERS | The USA's oldest college debating club is at this university where Aaron Burr & James Madison were members | Princeton
+right: Vik
+Wrong: 
+Michael: What is William & Mary?
+Value: $600
+Number: 25
+MY HEAVENS! | In the northern hemisphere, latitude is equal to the angle above the horizon of this star, Alpha Ursae Minoris | the North Star (or Polaris)
+right: Bill
+Wrong: 
+Value: $600
+Number: 19
+NOVEL PICTURE PUZZLES | <http://www.j-archive.com/media/2006-05-19_J_04.jpg> This novel was sent to sinners in 1850 | The Scarlet Letter
+right: Vik
+Wrong: 
+Value: $600
+Number: 4
+CIVIL WAR GENERALS | At Gettysburg, he said, "Up, men, and to your posts!  Don't forget today that you are from Old Virginia" | (George) Pickett
+right: Michael
+Wrong: 
+Vik: Who is Lee?
+Value: $800
+Number: 11
+SUPPORTING ACTOR EMMY WINNERS | 2001: Bradley Whitford joshes around | The West Wing
+right: Vik
+Wrong: 
+Value: $800
+Number: 24
+GOVT. ABBR. | It protects against workplace discrimination: the EEOC | the Equal Employment Opportunity Commission
+right: Bill
+Wrong: 
+Vik: What is the Equal Employment and Opportunity Commission?
+Value: $800
+Number: 15
+ALMA MATER MATTERS | In 1779 the nation's oldest law school was founded at this southern college | William & Mary
+right: Vik
+Wrong: 
+Value: DD: $2,000
+Number: 26
+MY HEAVENS! | In 1801 Ceres became the first one of these to be discovered | an asteroid
+right: Bill
+Wrong: 
+Vik: What is comet--What is a comet?
+Value: $800
+Number: 20
+NOVEL PICTURE PUZZLES | Egoism & genius prevail in <http://www.j-archive.com/media/2006-05-19_J_05.jpg> this 1943 bestselling novel | The Fountainhead
+right: Vik
+Wrong: 
+Value: $800
+Number: 5
+CIVIL WAR GENERALS | Nicknamed "Fighting Joe", he replaced Ambrose Burnside as commander of the Army of the Potomac in 1863 | (Joe) Hooker
+right: Michael
+Wrong: 
+Value: $1000
+Number: 12
+SUPPORTING ACTOR EMMY WINNERS | 1985: John Larroquette's prosecutorial misconduct earns an Emmy | Night Court
+right: Bill
+Wrong: 
+Value: $1000
+Number: 30
+GOVT. ABBR. | Analyzing global business & tariffs: the USITC | the United States International Trade Commission
+right: Vik
+Wrong: 
+Value: $1000
+Number: 18
+ALMA MATER MATTERS | This 1968 presidential candidate once was a professor at Macalester College in St. Paul | (Hubert) Humphrey
+right: Vik
+Wrong: 
+Value: $1000
+Number: 27
+MY HEAVENS! | This Frenchman prepared the first systematic catalog of nebulous objects; each object has an "M" number | (Charles) Messier
+right: Michael
+Wrong: 
+Value: $1000
+Number: 21
+NOVEL PICTURE PUZZLES | The writer's own experiences served as source material for <http://www.j-archive.com/media/2006-05-19_J_06.jpg> this 1929 novel | A Farewell to Arms
+right: Michael
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Bill: $1,400
+Michael: $3,800
+Vik: $1,000
+Scores at the end of the Jeopardy! Round:
+Bill: $5,200
+Michael: $5,000
+Vik: $5,600
+Second Jeopardy! Round: AFRICAN CAPITALS, THE DA VINCI CODE, 1966, TUTU MUCH!, ARCHITECTURE, SHORT CLUES ABOUT LONG WORDS
+AFRICAN CAPITALS | 90 miles from the equator, this mile-high Kenyan capital rarely exceeds 80 degrees in temperature | Nairobi
+right: Michael
+Wrong: 
+Value: $400
+Number: 5
+THE DA VINCI CODE | The events in "The Da Vinci Code" are set off by the murder of the curator of <http://www.j-archive.com/media/2006-05-19_DJ_14.wmv> this place | the Louvre
+right: Michael
+Wrong: 
+Value: $400
+Number: 14
+1966 | March 2: Robert McNamara announces that U.S. troops in this country total 215,000 | Vietnam
+right: Vik
+Wrong: 
+Value: $400
+Number: 6
+TUTU MUCH! | It's the adjective for tutus that fall below the calf (or for the poetry of Keats & Coleridge) | romantic
+right: Michael
+Wrong: 
+Value: $400
+Number: 17
+ARCHITECTURE | This U.S. president designed more than one home for himself--<http://www.j-archive.com/media/2006-05-19_DJ_24.jpg> this is the one at Poplar Forest | Jefferson
+right: Vik
+Wrong: 
+Value: $400
+Number: 24
+SHORT CLUES ABOUT LONG WORDS | Meaning sent on operations abroad, it's the E in AEF | expeditionary
+right: Michael
+Wrong: 
+Value: $400
+Number: 8
+AFRICAN CAPITALS | Until 1974 much of the land in this capital belonged to Haile Selassie's family, members of the nobility & the National Church | Addis Ababa
+right: Michael
+Wrong: 
+Bill: What is Ethiopia?
+Value: $800
+Number: 4
+THE DA VINCI CODE | Robert Langdon is a professor of religious symbology at this Ivy League university | Harvard
+right: Vik
+Wrong: 
+Value: $800
+Number: 29
+1966 | August 5: This man gets hit in the head by a rock while leading a civil rights march in Chicago | Martin Luther King
+right: Bill
+Wrong: 
+Value: $800
+Number: 9
+TUTU MUCH! | Men in tutus portray ballerinas like Tatiana Youbetyabootskaya in Les Ballets Trockadero De this Riviera resort | Monte Carlo
+right: 
+Wrong: Triple Stumper
+Vik: What is Cannes?
+Value: $800
+Number: 18
+ARCHITECTURE | This man who held up the heavens lent his name to a sculptural male figure used as a supporting column | Atlas
+right: Vik
+Wrong: 
+Value: $800
+Number: 26
+SHORT CLUES ABOUT LONG WORDS | For a Major League baseball it's 9 to 9 1/4 inches | circumference
+right: Bill
+Wrong: 
+Value: $800
+Number: 10
+AFRICAN CAPITALS | They are the two capitals located on the banks of the Nile | Cairo & Khartoum
+right: Michael
+Wrong: 
+Value: DD: $5,000
+Number: 1
+THE DA VINCI CODE | Robert says Ariel's flowing red hair in Disney's "Little Mermaid" is an allusion to this Biblical woman | Mary Magdalene
+right: 
+Wrong: Triple Stumper
+Vik: Who is Delilah?
+Value: $1200
+Number: 30
+1966 | April 8: This "Magnolia State" becomes the last to end statewide prohibition | Mississippi
+right: Bill
+Wrong: 
+Value: $1200
+Number: 7
+TUTU MUCH! | This Ziegfeld star donned a tutu for zany ballet spoofs, which inspired "The Swan" number in the film "Funny Girl" | Fanny Brice
+right: Bill
+Wrong: 
+Value: $1200
+Number: 19
+ARCHITECTURE | (<http://www.j-archive.com/media/2006-05-19_DJ_22.jpg> Jimmy of the Clue Crew stands on the set of Beauty and the Beast at the Lunt-Fontanne Theatre in New York.)  The castle in "Beauty and the Beast" reimagines this architectural style that evolved from the Romanesque in the 12th century | Gothic
+right: Michael
+Wrong: 
+Value: $1200
+Number: 22
+SHORT CLUES ABOUT LONG WORDS | eBay has about a million collectibles in the category "entertainment" this | memorabilia
+right: Michael
+Wrong: 
+Value: $1200
+Number: 11
+AFRICAN CAPITALS | To reach this capital from Marrakech, hop on a train & travel about 200 miles northeast | Rabat
+right: Vik
+Wrong: 
+Value: $1600
+Number: 2
+THE DA VINCI CODE | Bishop Aringarosa heads this Catholic prelature that spreads the message of "God's work" | Opus Dei
+right: Michael
+Wrong: 
+Value: $1600
+Number: 28
+1966 | April 27: This pope meets Soviet Foreign Minister Andrei Gromyko in the Vatican | Paul VI
+right: Michael
+Wrong: 
+Value: $1600
+Number: 15
+TUTU MUCH! | His 1860s painting of "The Orchestra of the Opera" has some pretty tutus in the background | (Edgar) Degas
+right: Vik
+Wrong: 
+Value: $1600
+Number: 20
+ARCHITECTURE | Appropriately, he designed the Swiss Dormitory at Cite Universitaire in Paris | Le Corbusier
+right: 
+Wrong: 
+Michael: Uh, let's go with $2,000.
+Value: DD: $2,000
+Number: 23
+SHORT CLUES ABOUT LONG WORDS | Promptness, in 11 letters | punctuality
+right: Michael
+Wrong: 
+Value: $1600
+Number: 12
+AFRICAN CAPITALS | Bujumbura shares its first 2 letters with this small country of which it's the capital | Burundi
+right: Michael
+Wrong: 
+Value: $2000
+Number: 3
+THE DA VINCI CODE | <http://www.j-archive.com/media/2006-05-19_DJ_27.wmv> This ingenious device is worthy of an inventive mind like Leonardo's  "If you force it open, the vial breaks, vinegar dissolves papyrus, and your secret is lost forever." | a cryptex
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+1966 | July 28: One of these U.S. military reconnaissance planes crashes in Bolivia | a U-2
+right: Michael
+Wrong: 
+Value: $2000
+Number: 16
+TUTU MUCH! | In "Swan Lake", it's traditional for this seductive daughter of Von Rotbart to wear a black tutu | Odile
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+ARCHITECTURE | The <http://www.j-archive.com/media/2006-05-19_DJ_25.jpg> Kennedy Library was designed by this world-famous architect who gave it a soaring glass-enclosed pavillion | (I.M.) Pei
+right: Michael
+Wrong: 
+Value: $2000
+Number: 25
+SHORT CLUES ABOUT LONG WORDS | From "The Faerie Queene", it's an Italian-sounding word for boasting | braggadocio
+right: Bill
+Wrong: 
+Value: $2000
+Number: 13
+Scores at the end of the Double Jeopardy! Round:
+Bill: $10,400
+Michael: $23,600
+Vik: $9,200
+
+Final Jeopardy! Round
+WORLD LITERATURE | It says, "'O Poet... I beg you, that I may flee this evil & worse evils, to lead me... that I may see the gateway of Saint Peter'" | Dante's Inferno
+right: Michael
+Wrong: 
+Vik: What Pilgrim's Progress?
+Bill: What is Paradise Lost?
+Wagers: 
+Vik: $9,200
+Bill: $10,001
+Michael: $8,201
+Final scores:
+Bill: $399 (2nd runner-up: $50,000)
+Michael: $31,801 (Tournament champion: $250,000)
+Vik: $0 (1st runner-up: $100,000)
+
+Coryat scores
+Bill: $10,400 (14 R,1 W)
+Michael: $21,800 (24 R(including 1 DD),2 W(including 1 DD))
+Vik: $8,000 (16 R(including 1 DD),5 W)

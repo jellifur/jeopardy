@@ -1,0 +1,307 @@
+110 - Friday, February 8, 1985
+Contestants:
+Ted Brown: a teacher originally from Colorado Springs, Colorado
+Pat Gaynor: a college professor from Buena Park, California
+Tony Hess: a data processor from Cleveland, Ohio (whose 1-day cash winnings total $8,500)
+First Jeopardy! Round: POLITICS, BASEBALL, ODD JOBS, MOVIES, AUSTRALIA, "CAT" EGORY
+POLITICS | 1st Tuesday after the 1st Monday in November | Election Day
+right: Tony
+Wrong: 
+Value: $100
+Number: 1
+BASEBALL | The Atlanta Braves are in this division of the National League | the Western division
+right: Tony
+Wrong: 
+Pat: What is the Eastern division?
+Value: $100
+Number: 6
+ODD JOBS | Eliza Doolittle did it for a living | sold flowers (flower girl accepted)
+right: Pat
+Wrong: 
+Value: $100
+Number: 20
+MOVIES | Subtitled "The Search for Spock" | Star Trek III
+right: Pat
+Wrong: 
+Value: $100
+Number: 13
+AUSTRALIA | 1 of 2 animals on its coat of arms | (1 of) kangaroo and emu
+right: Pat
+Wrong: 
+Value: $100
+Number: 18
+"CAT" EGORY | Malcolm McDowell & Nastassja Kinski's "purr"fect roles in 1982 | cat people
+right: Tony
+Wrong: 
+Value: $100
+Number: 11
+POLITICS | Traditionally speaking, as this state goes, "so goes the nation" | Maine
+right: Pat
+Wrong: 
+Value: $200
+Number: 2
+BASEBALL | Eddie Gaedel, number 1/8th, was the only one ever to play in the Major Leagues | a midget
+right: Tony
+Wrong: 
+Value: $200
+Number: 7
+ODD JOBS | In the Old West they were in charge of horses, on a movie set in charge of chickens | wranglers
+right: 
+Wrong: Triple Stumper
+Tony: Who are the buckaroos?
+Value: $200
+Number: 21
+MOVIES | Title describing Tom Cruise's precarious commercial enterprise | Risky Business
+right: Ted
+Wrong: 
+Value: $200
+Number: 14
+AUSTRALIA | Title of <http://www.j-archive.com/media/1985-02-08_J_19.mp3> this song, which actually means "to tramp the roads with a backpack" | "Waltzing Matilda"
+right: Pat
+Wrong: 
+Value: DD: $500
+Number: 19
+"CAT" EGORY | Ancient weapon kept a stone's throw from its target | a catapult
+right: Pat
+Wrong: 
+Tony: What is a cat o' nine tails?
+Value: $200
+Number: 12
+POLITICS | "Shrill" name for train tour electioneering | a whistle stop
+right: Pat
+Wrong: 
+Value: $300
+Number: 3
+BASEBALL | Now a paper company sales rep, he pitched only perfect game in World Series history | Don Larsen
+right: Pat
+Wrong: 
+Value: $300
+Number: 8
+ODD JOBS | He solemnly swears you in, in court | a bailiff
+right: Tony
+Wrong: 
+Value: $300
+Number: 25
+MOVIES | Film where Lily Tomlin is really Steve Martin's better half | All of Me
+right: Tony
+Wrong: 
+Value: $300
+Number: 22
+AUSTRALIA | "Satanic" mammal found only on island S. of Australia | Tasmanian devil
+right: Pat
+Wrong: 
+Value: $300
+Number: 24
+"CAT" EGORY | It gets things going in a chemical reaction | a catalyst
+right: Ted
+Wrong: 
+Value: $300
+Number: 15
+POLITICS | The rooster was symbol of this party before Thomas Nast drew their new one in 1870 | the Democrats
+right: Pat
+Wrong: 
+Tony: Who are the Republicans?
+Value: $400
+Number: 4
+BASEBALL | Boston's "Green Monster" is in this stadium | Fenway Park
+right: Tony
+Wrong: 
+Value: $400
+Number: 9
+ODD JOBS | Ub Iwerks, Friz Freleng & Tex Avery drew the line at this job | cartoonists (or animators)
+right: Ted
+Wrong: 
+Tony: What is the voice of Bugs Bunny?
+Value: $400
+Number: 26
+MOVIES | Mozart's middle name becomes a movie | Amadeus
+right: Pat
+Wrong: 
+Value: $400
+Number: 23
+"CAT" EGORY | Elizabeth Taylor character that could have burnt her paws on a hot tin roof | Maggie the Cat
+right: 
+Wrong: Triple Stumper
+Tony: What is a cat on a hot tin roof?
+Value: $400
+Number: 16
+POLITICS | He called himself "the plain people's pres. against the privileged people's Congress" | Harry S. Truman
+right: Pat
+Wrong: 
+Value: $500
+Number: 5
+BASEBALL | In '84, he became 1st manager to win over 100 games with teams in both Major Leagues | Sparky Anderson
+right: Tony
+Wrong: 
+Value: $500
+Number: 10
+"CAT" EGORY | During one in a hospital, your brain should think "cheese" | a CAT scan
+right: Pat
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Tony: $800
+Pat: $1,900
+Ted: $200
+Scores at the end of the Jeopardy! Round:
+Tony: $400
+Pat: $3,800
+Ted: $900
+Second Jeopardy! Round: LITERATURE, LAKES & RIVERS, STARTS WITH "A", CHEMISTRY, ARCHITECTURE, GEMS
+LITERATURE | According to both Burns & Steinbeck, their best laid schemes "gang aft a-gley" | mice and men
+right: Pat
+Wrong: 
+Value: $200
+Number: 2
+LAKES & RIVERS | Body of water, currently crossed by the 1831 London Bridge | Lake Havasu
+right: Pat
+Wrong: 
+Ted: What is the Havasu River?
+Value: $200
+Number: 1
+STARTS WITH "A" | It's where the leg bone's connected to the foot bone | the ankle
+right: Ted
+Wrong: 
+Value: $200
+Number: 12
+CHEMISTRY | Metallic element essential for strong bones & teeth | calcium
+right: Ted
+Wrong: 
+Value: $200
+Number: 8
+ARCHITECTURE | From Turkish meaning "lighthouse", it's a slender, lofty tower attached to a mosque | minaret
+right: Ted
+Wrong: 
+Value: $200
+Number: 23
+LITERATURE | In 1671, Milton wrote "Paradise Regained", a sequel to this | Paradise Lost
+right: Tony
+Wrong: 
+Value: $400
+Number: 3
+LAKES & RIVERS | Turin is the only major city on both banks of this river | the Po River
+right: Tony
+Wrong: 
+Value: $400
+Number: 4
+STARTS WITH "A" | Moveable part of airplane wing providing lateral control | an aileron
+right: Ted
+Wrong: 
+Value: $400
+Number: 16
+ARCHITECTURE | Simon Rodia built these fairy-tale structures in a South L.A. ghetto | the Watts towers
+right: Pat
+Wrong: 
+Value: $400
+Number: 25
+LITERATURE | English title of 7-part novel "A la recherche du temps perdu" by Proust | Remembrance of Things Past
+right: Pat
+Wrong: 
+Tony: [No response]
+Value: $600
+Number: 9
+LAKES & RIVERS | This lake in the Banff National Park is the most visited place in the Canadian Rockies | Lake Louise
+right: Tony
+Wrong: 
+Value: $600
+Number: 5
+STARTS WITH "A" | A result or consequence, or immediately following multiplication | aftermath
+right: 
+Wrong: Triple Stumper
+Ted: What is addition?
+Value: $600
+Number: 15
+ARCHITECTURE | Flying buttresses & ribbed vaults characterize this 13 c. style | Gothic
+right: Ted
+Wrong: 
+Value: $600
+Number: 24
+LITERATURE | "All stories, if continued far enough, end in death..." he wrote in "Death in the Afternoon" | Ernest Hemingway
+right: Pat
+Wrong: 
+Ted: Who is Agee?
+Value: $800
+Number: 10
+LAKES & RIVERS | While poets pour over the Rhine & Danube this 2nd largest German river gets no press | the Elbe
+right: 
+Wrong: 
+Tony: What is the Rhone?
+Value: DD: $1,000
+Number: 6
+STARTS WITH "A" | Unyielding or inflexible | adamant
+right: Ted
+Wrong: 
+Value: $800
+Number: 14
+CHEMISTRY | Marie Curie named this element for her native land | polonium
+right: Pat
+Wrong: 
+Tony: What is polandium?
+Value: $800
+Number: 22
+ARCHITECTURE | Prior to his '59 death, he was planning a mile-high skyscraper | Frank Lloyd Wright
+right: Ted
+Wrong: 
+Value: $800
+Number: 17
+GEMS | Organic & opaque, they represent purity & virginity | pearls
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+LITERATURE | Language in which Browning's "Sonnets from the Portuguese" was originally written | English
+right: Pat
+Wrong: 
+Value: DD: $1,000
+Number: 11
+LAKES & RIVERS | Containing a source of the Nile near Jinja, this country's surface is 1/6 water | Uganda
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 7
+STARTS WITH "A" | It means extreme fear or anxiety in German or English | angst
+right: Ted
+Wrong: 
+Value: $1000
+Number: 13
+CHEMISTRY | Metal with highest melting point, it's commonly used in light bulb filaments | tungsten
+right: Tony
+Wrong: 
+Value: $1000
+Number: 21
+ARCHITECTURE | 2 of 3 orders of Greek column styles | (2 of) Ionian, Doric, and Corinthian
+right: Ted
+Wrong: 
+Value: $1000
+Number: 18
+GEMS | Stone of Laz, the Arabian goddess of love | lapis lazuli
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Tony: $400
+Pat: $7,800
+Ted: $4,500
+
+Final Jeopardy! Round
+THE ZODIAC | Appropriate astrological sign shared by Britain's Princesses Anne & Margaret | Leo
+right: 
+Wrong: 
+Tony: What is Sagitarius?
+Ted: What  is Gemini?
+Pat: What is Gemini
+Wagers: 
+Tony: $397
+Ted: $3,699
+Pat: $1,300
+Final scores:
+Tony: $3 (3rd place: luggage)
+Pat: $6,500 (New champion: $6,500)
+Ted: $801 (2nd place: bedroom furniture and linens)
+
+Coryat scores
+Tony: $1,400 (12 R,8 W(including 1 DD))
+Pat: $7,500 (20 R(including 2 DDs),1 W)
+Ted: $4,500 (12 R,3 W)

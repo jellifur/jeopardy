@@ -1,0 +1,345 @@
+4081 - Monday, May 6, 2002
+Comments: 2002 Million Dollar Masters quarterfinal game 4.
+Contestants:
+Bob Verini: a film journalist and test prep teacher from Los Angeles, California
+Eddie Timanus: a sports reporter from Arlington, Virginia
+Leslie Shannon: a manager of a research lab from Sydney, Australia
+First Jeopardy! Round: THE NEW YORK TIMES BEST SELLERS, PEOPLE FROM INDIA, TRACK & FIELD, WHITE, WHEAT, WRY
+THE NEW YORK TIMES BEST SELLERS | "The Universe in a Nutshell" is his bestselling follow-up to "A Brief History of Time" | Stephen Hawking
+right: Leslie
+Wrong: 
+Value: $200
+Number: 3
+PEOPLE FROM INDIA | The international airport in New Delhi bears her name | Indira Gandhi
+right: Leslie
+Wrong: 
+Value: $200
+Number: 12
+TRACK & FIELD | In 1985 Portugal's Carlos Lopes, at age 38, set a record in one of these: 2 hours, 7 minutes, 12 seconds | a marathon
+right: Leslie
+Wrong: 
+Value: $200
+Number: 19
+WHITE | This predatory creature is classified as Carcharodon carcharias | the great white shark
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 5
+WHEAT | Kolyibo is a Serbian Thanksgiving food whose basic ingredients are wheat & this insect sweet | honey
+right: Eddie
+Wrong: 
+Value: $200
+Number: 18
+WRY | Twain said this type of book is one "which people praise and don't read" | a classic
+right: Leslie
+Wrong: 
+Value: $200
+Number: 1
+THE NEW YORK TIMES BEST SELLERS | This sequel by Alexandria Ripley, published 55 years after the original novel, entered the list at No. 1 in 1991 | Scarlett
+right: Bob
+Wrong: 
+Value: DD: $1,000
+Number: 8
+PEOPLE FROM INDIA | As the first prime minister of independent India, he served from 1947 to 1964 | Nehru
+right: Eddie
+Wrong: 
+Value: $400
+Number: 4
+TRACK & FIELD | In 1986 Jackie Joyner-Kersee was named the amateur athlete of the year; this sister-in-law won in 1988 | Florence Griffith Joyner
+right: Leslie
+Wrong: 
+Value: $400
+Number: 25
+WHITE | The name of this disease comes from Greek words for "white" & "blood" | leukemia
+right: Leslie
+Wrong: 
+Value: $400
+Number: 6
+WHEAT | Dunkelweizen & Kristall Weizen are refreshing wheat types of these | beer
+right: Leslie
+Wrong: 
+Value: $400
+Number: 20
+WRY | Completes Groucho's saying "I never forget a face, but in your case I'll make..." | an exception
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+THE NEW YORK TIMES BEST SELLERS | If you know that this was Herman Wouk's first No. 1 novel, back in 1951, we salute you! | The Caine Mutiny
+right: Bob
+Wrong: 
+Value: $600
+Number: 9
+PEOPLE FROM INDIA | This musician's album "In Celebration" was co-produced by George Harrison | Ravi Shankar
+right: Leslie
+Wrong: 
+Value: $600
+Number: 13
+TRACK & FIELD | On May 25, 1935 he tied or set 6 track & field records--the most ever in one day | Jesse Owens
+right: Bob
+Wrong: 
+Value: $600
+Number: 26
+WHITE | It's the seven-letter term for the white of an egg | albumen
+right: Bob
+Wrong: 
+Value: $600
+Number: 7
+WHEAT | Nabisco makes these crispy crackers; red oval farms makes them "stoned" | Wheat Thins
+right: Bob
+Wrong: 
+Value: $600
+Number: 21
+WRY | Oscar Wilde wrote, "Experience is the name everyone gives to" these | their mistakes
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+THE NEW YORK TIMES BEST SELLERS | A best seller in 1980, this Jeffrey Archer novel sounds like the saga of biblical siblings | Cain and Abel
+right: Leslie
+Wrong: 
+Value: $800
+Number: 10
+PEOPLE FROM INDIA | In the 1950s he directed the landmark "Apu" triology of films | Satyajit Ray
+right: Bob
+Wrong: 
+Value: $800
+Number: 14
+TRACK & FIELD | In 1978 5'8" Franklin Jacobs exceeded his height by 23 1/4" in this event--the greatest differential ever | the high jump
+right: Eddie
+Wrong: 
+Leslie: What is the long jump?
+Bob: What is the pole vault?
+Value: $800
+Number: 27
+WHITE | Vases can be made from this gypsum mineral whose name has come to mean "smooth & white" | alabaster
+right: Leslie
+Wrong: 
+Value: $800
+Number: 16
+WHEAT | 1-word name of a cooked cereal introduced in 1879 as an alternative to oatmeal | Wheatina
+right: Bob
+Wrong: 
+Value: $800
+Number: 29
+WRY | H.L. Mencken said, "No one... has ever lost money by" doing this to "the intelligence of the... plain people" | underestimating
+right: Bob
+Wrong: 
+Value: $800
+Number: 23
+THE NEW YORK TIMES BEST SELLERS | This seductive novel landed John Fowles on the best-seller list in 1969 | The French Lieutenant's Woman
+right: Bob
+Wrong: 
+Value: $1000
+Number: 11
+PEOPLE FROM INDIA | Born Prince Khurram in 1596, he built the Taj Mahal & ruled under this name | Shah Jahan
+right: Bob
+Wrong: 
+Value: $1000
+Number: 15
+TRACK & FIELD | This son of a Dutch immigrant had the first 15' pole vault--in fact, he had the first 43 15' pole vaults | "Dutch" Warmerdam
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+WHITE | Don't fire until you see this, the white of the eye | sclera
+right: Leslie
+Wrong: 
+Value: $1000
+Number: 17
+WHEAT | Best known as part of tabbouleh, it's also an ingredient in many meatless burgers | bulgur
+right: Bob
+Wrong: 
+Value: $1000
+Number: 30
+WRY | The epitaph she suggested for herself: "Excuse my dust" | Dorothy Parker
+right: Eddie
+Wrong: 
+Value: $1000
+Number: 24
+Scores at the first commercial break (after clue 15)
+Leslie: $2,400
+Eddie: $400
+Bob: $5,400
+Scores at the end of the Jeopardy! Round:
+Leslie: $4,400
+Eddie: $2,400
+Bob: $8,400
+Second Jeopardy! Round: EUROPEAN HISTORY, MOVIES BY CHARACTER, POETIC LICENSE, SCIENTIFIC DISCOVERY, MUSIC APPRECIATION, YOU'VE GOT A "TUDE", MISTER
+EUROPEAN HISTORY | In 1536 King Christian III established this protestant denomination as Denmark's state religion | Lutheranism
+right: Leslie
+Wrong: 
+Value: $400
+Number: 7
+MOVIES BY CHARACTER | Michigan detective Axel Foley, California detective Billy Rosewood | Beverly Hills Cop
+right: Leslie
+Wrong: 
+Value: $400
+Number: 6
+POETIC LICENSE | Britannica suggests that the out-of-wedlock children fathered by this "Good Gray Poet" were imaginary | Walt Whitman
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+SCIENTIFIC DISCOVERY | It was Otto von Guericke who theorized that these "return" & Halley ursurped, er... jumped on the idea | comets
+right: Bob
+Wrong: 
+Value: $400
+Number: 24
+MUSIC APPRECIATION | Italian for "half", this prefix often precedes forte & soprano | mezzo
+right: Bob
+Wrong: 
+Value: $400
+Number: 12
+YOU'VE GOT A "TUDE", MISTER | Yours right now is approximately 74 degrees west | longitude
+right: Leslie
+Wrong: 
+Bob: What is latitude?
+Value: $400
+Number: 1
+EUROPEAN HISTORY | When this country gained independence from Yugoslavia in 1991, Greece objected to its name & flag | Macedonia
+right: Bob
+Wrong: 
+Value: $800
+Number: 8
+MOVIES BY CHARACTER | Jeanne & Paul (who don't know each other's names) & a French apartment | Last Tango in Paris
+right: Bob
+Wrong: 
+Value: $800
+Number: 9
+POETIC LICENSE | The 2001 biography "Savage Beauty" details the lustful life of this "What Lips My Lips Have Kissed" poet | Edna St. Vincent Millay
+right: Bob
+Wrong: 
+Value: $800
+Number: 17
+SCIENTIFIC DISCOVERY | In 1800, Humphry Davy wrote that this gas "appears capable of destroying... pain" & could be used in operations | nitrous oxide (laughing gas)
+right: Eddie
+Wrong: 
+Leslie: What is ether?
+Value: $800
+Number: 25
+MUSIC APPRECIATION | The name of this old French dance follows "Ascot" in the title of a song from "My Fair Lady" | gavotte
+right: Bob
+Wrong: 
+Value: $800
+Number: 14
+YOU'VE GOT A "TUDE", MISTER | In 1994 the A in SAT was changed from this to "assessment" | aptitude
+right: Leslie
+Wrong: 
+Value: $800
+Number: 2
+EUROPEAN HISTORY | In WWI Germany, Austria-Hungary, Bulgaria & the Ottoman Empire were  known in the West as these "Powers" | the Central
+right: Eddie
+Wrong: 
+Value: $1200
+Number: 21
+MOVIES BY CHARACTER | In a 1959 film, Altair, Aldebaran, Antares & Rigel (total legs: 16) | Ben Hur
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 10
+POETIC LICENSE | A rural legend says he wrote a nasty ballad about Sir Thomas Lucy after being caught poaching on Lucy's land | William Shakespeare
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+SCIENTIFIC DISCOVERY | Linus Pauling rightly predicted that this blood disease producing strangely-shaped hemoglobin was genetic | sickle-cell anemia
+right: Leslie
+Wrong: 
+Value: $1200
+Number: 26
+MUSIC APPRECIATION | He composed "Karelia" as a tribute to the Finnish province of the same name | Sibelius
+right: Bob
+Wrong: 
+Value: $1200
+Number: 15
+YOU'VE GOT A "TUDE", MISTER | The state of being alone or isolated | solitude
+right: Eddie
+Wrong: 
+Value: $1200
+Number: 3
+EUROPEAN HISTORY | In 59 B.C. Julius Caesar established a colony on the Arno River which later became this Italian city | Florence
+right: Leslie
+Wrong: 
+Value: $1600
+Number: 27
+MOVIES BY CHARACTER | Defendants Ernst Janning & Friedrich Hofstetter | Judgment at Nuremberg
+right: Eddie
+Wrong: 
+Value: $1600
+Number: 11
+POETIC LICENSE | One week after a secret wedding at St. Marylebone Church, she ran off to Italy, escaping Wimpole Street forever | Elizabeth Barrett Browning
+right: Bob
+Wrong: 
+Value: DD: $1,800
+Number: 19
+SCIENTIFIC DISCOVERY | In 1846 Joseph Leidy discovered that the worm Trichina is found in this animal | the pig
+right: Leslie
+Wrong: 
+Value: $1600
+Number: 29
+MUSIC APPRECIATION | The name of this small harpsichord may come from the Latin for "rod" or the Latin for "maiden" | virginal
+right: 
+Wrong: 
+Eddie: MUSIC APPRECIATION for $1200, please.
+Value: DD: $6,400
+Number: 22
+YOU'VE GOT A "TUDE", MISTER | King Lear speaks of "filial" this, which caused him grief | ingratitude
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+EUROPEAN HISTORY | In 1589 Henry of this kingdom became Henry IV of France & began the Royal Bourbon dynasty | Navarre
+right: Bob
+Wrong: 
+Value: $2000
+Number: 28
+MOVIES BY CHARACTER | Lyle, Tector & Pike, who says, "If they move... kill 'em" | The Wild Bunch
+right: 
+Wrong: Triple Stumper
+Leslie: What is Pulp Fiction?
+Value: $2000
+Number: 13
+POETIC LICENSE | Leigh Hunt was imprisoned in 1823 for literary attacks against the prince regent, who later became this king | George IV
+right: Leslie
+Wrong: 
+Value: $2000
+Number: 20
+SCIENTIFIC DISCOVERY | Studying refraction in 1627, this French mathematician made a rainbow connection | Rene Descartes
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+MUSIC APPRECIATION | The film "Gosford Park" features several songs by this British actor & composer who's a character in the movie | Ivor Novello
+right: Bob
+Wrong: 
+Value: $2000
+Number: 23
+YOU'VE GOT A "TUDE", MISTER | From the Latin for "vile", this term often follows "moral" | turpitude
+right: Bob
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Leslie: $10,000
+Eddie: $800
+Bob: $21,000
+
+Final Jeopardy! Round
+U.S. CITIES | Founded in 1758, it's named for a British prime minister who was a noted defender of the American Colonists | Pittsburgh
+right: Leslie | Bob
+Wrong: 
+Eddie: WHAT IS ATLANTA?
+Wagers: 
+Eddie: $800
+Leslie: $10,000
+Bob: $0
+Final scores:
+Leslie: $20,000 (2nd place: $10,000 if eliminated)
+Eddie: $0 (3rd place: $10,000 if eliminated)
+Bob: $21,000 (Automatic semifinalist)
+
+Coryat scores
+Leslie: $10,000 (19 R,3 W)
+Eddie: $7,200 (8 R,1 W(including 1 DD))
+Bob: $20,200 (23 R(including 2 DDs),2 W)

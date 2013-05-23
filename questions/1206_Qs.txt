@@ -1,0 +1,340 @@
+3177 - Tuesday, May 26, 1998
+Comments: Lara Robillard game 1.
+Contestants:
+Brian McMahon: a computer programmer from Clifton, New Jersey
+Lara Robillard: a director of health policy from Arlington, Virginia
+Jim Riffle: a waiter from Las Vegas, Nevada (whose 1-day cash winnings total $9,300)
+First Jeopardy! Round: LITERARY HODGEPODGE, FEELING LUCKY?, WHERE THE "H" ARE WE?, FIRE DRILL, DIRECT TO VIDEO, CANINE PROVERBS
+LITERARY HODGEPODGE | This 1939 Steinbeck novel about a family of migrant workers won the Pulitzer Prize for fiction | The Grapes Of Wrath
+right: Jim
+Wrong: 
+Value: $100
+Number: 12
+FEELING LUCKY? | This appendage may be considered lucky but not for the oryctolagus cuniculus | Rabbit's foot
+right: Brian
+Wrong: 
+Value: $100
+Number: 7
+WHERE THE "H" ARE WE? | Parker Ranch, Kilauea Volcano, Monument to Captain Cook | Hawaii
+right: Brian
+Wrong: 
+Value: $100
+Number: 1
+FIRE DRILL | In October 1871 fire destroyed most of this city's buildings erected in the previous half century | Chicago
+right: Jim
+Wrong: 
+Value: $100
+Number: 6
+DIRECT TO VIDEO | You can order a copy of this fitness guru's "Sweatin' To The Oldies" from his web site | Richard Simmons
+right: Lara
+Wrong: 
+Value: $100
+Number: 22
+CANINE PROVERBS | Completes the timely proverb "Every dog has..." | His day
+right: Jim
+Wrong: 
+Value: $100
+Number: 17
+LITERARY HODGEPODGE | Wordsworth's poem about her begins, "Hail Virgin Queen!  O'er many an envious bar triumphant...." | Elizabeth I
+right: Lara
+Wrong: 
+Value: $200
+Number: 13
+FEELING LUCKY? | "Find" one of these & "pick it up, all day long you'll have good luck" | Penny
+right: Jim
+Wrong: 
+Value: $200
+Number: 8
+WHERE THE "H" ARE WE? | Victoria Peak, Kai Tak Airport, Kowloon Shangri-La Hotel | Hong Kong
+right: Brian
+Wrong: 
+Value: $200
+Number: 2
+FIRE DRILL | In 1952 Congress passed Public Law 359 to protect this symbol of the Forest Service from exploitation | Smokey The Bear
+right: Lara
+Wrong: 
+Value: $200
+Number: 27
+DIRECT TO VIDEO | This singing group is featured on a video subtitled "One Hour Of Girl Power!" | The Spice Girls
+right: Brian
+Wrong: 
+Value: $200
+Number: 23
+CANINE PROVERBS | In other words, "There's no way to educate one ancient canine in up-to-date actions" | "You can't teach an old dog new tricks"
+right: Brian
+Wrong: 
+Value: $200
+Number: 18
+LITERARY HODGEPODGE | Title character who says, "I shall grow old...and dreadful.  But this picture will remain always young" | Dorian Gray
+right: Lara
+Wrong: 
+Value: $300
+Number: 14
+FEELING LUCKY? | St. Patrick might have told a different story if he'd been "looking over" this lucky plant | Four-leaf clover
+right: Jim
+Wrong: 
+Value: $300
+Number: 9
+WHERE THE "H" ARE WE? | Lake Balaton, Bela Bartok Memorial House, Buda Concert Hall | Hungary
+right: Jim
+Wrong: 
+Value: $300
+Number: 3
+FIRE DRILL | This hot Universal Studios attraction based on Ron Howard's film recreates a warehouse fire | Backdraft
+right: Jim
+Wrong: 
+Value: $300
+Number: 28
+DIRECT TO VIDEO | This company offers a motivational tape for experienced users of its exercise ski machines | NordicTrack
+right: Brian
+Wrong: 
+Value: $300
+Number: 24
+CANINE PROVERBS | "Dogs that" do this "at a distance seldom bite" | Bark
+right: Lara
+Wrong: 
+Value: $300
+Number: 19
+LITERARY HODGEPODGE | The Ministry of Love, also known as Miniluv, maintains law & order in this Orwell novel | 1984
+right: Brian
+Wrong: 
+Value: $400
+Number: 15
+FEELING LUCKY? | Pitch one of these for points or hang one on the wall with the points up for luck | Horseshoe
+right: Lara
+Wrong: 
+Value: $400
+Number: 10
+WHERE THE "H" ARE WE? | Senate Square, Mannerheim Museum, Sibelius Park | Helsinki
+right: Jim
+Wrong: 
+Value: $400
+Number: 4
+FIRE DRILL | This performer reached the Top 10 for the first time in 1970 with the song heard here: "I've seen fire and I've seen rain...." | James Taylor
+right: Lara
+Wrong: 
+Value: $400
+Number: 29
+DIRECT TO VIDEO | This talk show host's video of clips edited from his show is subtitled "Too Hot For TV" | Jerry Springer
+right: Brian
+Wrong: 
+Value: $400
+Number: 25
+CANINE PROVERBS | In Latin it's "Qui me amat, amat et canem meam" | "Love me, love my dog"
+right: Lara
+Wrong: 
+Value: $400
+Number: 20
+LITERARY HODGEPODGE | He wrote "Song of The Broad-Axe" as well as the much more famous "Song Of Myself" | Walt Whitman
+right: Jim
+Wrong: 
+Value: $500
+Number: 16
+FEELING LUCKY? | This man founded a religion, so go ahead & rub his tummy for luck | Buddha
+right: Lara
+Wrong: 
+Value: DD: $200
+Number: 11
+WHERE THE "H" ARE WE? | The Malecon, Morro Castle, Revolution Square | Havana
+right: Brian
+Wrong: 
+Value: $500
+Number: 5
+FIRE DRILL | This Green Bay Packers coach once said, "If you aren't fired with enthusiasm, you will be fired with enthusiasm" | Vince Lombardi
+right: Jim
+Wrong: 
+Value: $500
+Number: 30
+DIRECT TO VIDEO | This animated dinosaur film by Don Bluth spawned 4 video sequels | The Land Before Time
+right: Lara
+Wrong: 
+Value: $500
+Number: 26
+CANINE PROVERBS | "Into the mouth of a bad dog often falls a good" one of these | Bone
+right: Jim
+Wrong: 
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Jim: $1,400
+Lara: $1,100
+Brian: $900
+Scores at the end of the Jeopardy! Round:
+Jim: $3,300
+Lara: $3,000
+Brian: $2,400
+Second Jeopardy! Round: CANADIAN STUFF, EH?, SCIENTIFIC NAMES, THE WORST IN SPORTS, CONNECTICUTIES, WHAT'S "UP"?, DOCS
+CANADIAN STUFF, EH? | This "stampede" city lies in the foothills of the Canadian Rockies, so it's nicknamed the "Foothills City" | Calgary
+right: Jim
+Wrong: 
+Value: $200
+Number: 6
+SCIENTIFIC NAMES | Canis lupus, the animal seen here: | Wolf
+right: Lara
+Wrong: 
+Value: $200
+Number: 26
+THE WORST IN SPORTS | This team notched a modern record of 120 losses in 1962, its first season | New York Mets
+right: Lara
+Wrong: 
+Value: $200
+Number: 11
+CONNECTICUTIES | In 1993 this Fairfield-born actress starred with husband Dennis Quaid in "Flesh And Bone" | Meg Ryan
+right: Lara
+Wrong: 
+Value: $200
+Number: 12
+WHAT'S "UP"? | In a 1983 hit Billy Joel was a "downtown man" in love with her | Uptown Girl
+right: Lara
+Wrong: 
+Value: $200
+Number: 1
+DOCS | He not only developed an oral polio vaccine but vaccines for dengue fever & encephalitis | Albert Sabin
+right: Jim
+Wrong: 
+Value: $200
+Number: 18
+CANADIAN STUFF, EH? | On some weekdays in July & August, you can have tea with the mayor in this Nova Scotia capital | Halifax
+right: Lara
+Wrong: 
+Value: $400
+Number: 7
+SCIENTIFIC NAMES | Equus caballus | Horse
+right: Brian
+Wrong: 
+Value: $400
+Number: 30
+THE WORST IN SPORTS | Almost matching the number in its name, this NBA team lost a record 73 games in the '72-'73 season | Philadelphia '76ers
+right: Lara
+Wrong: 
+Value: $400
+Number: 15
+CONNECTICUTIES | This star of "The Big Chill" & "Dangerous Liaisons" is a 12th-generation New Englander | Glenn Close
+right: Lara
+Wrong: 
+Value: $400
+Number: 13
+WHAT'S "UP"? | The highest social class, or maybe their favorite part of a pie | Upper crust
+right: Jim
+Wrong: 
+Value: $400
+Number: 2
+DOCS | Many Americans can give their heartfelt thanks to this Houston surgeon, the first to repair an aneurysm | Michael DeBakey
+right: Lara
+Wrong: 
+Value: $400
+Number: 19
+CANADIAN STUFF, EH? | It's been called "Britain's Oldest Colony", but it's Canada's "new"est province | Newfoundland
+right: Jim
+Wrong: 
+Value: $600
+Number: 8
+SCIENTIFIC NAMES | Panthera Leo | African lion
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 29
+THE WORST IN SPORTS | This northwestern team wasn't "flying" when it set the NFL record of -7 yards against the Rams in 1979 | Seattle Seahawks
+right: Jim
+Wrong: 
+Value: $600
+Number: 23
+CONNECTICUTIES | In 1933 Marion Bergeron of West Haven became the first & only Connecticutie crowned this | Miss America
+right: Jim
+Wrong: 
+Value: $600
+Number: 14
+WHAT'S "UP"? | Theatrical term meaning to draw attention to oneself at the expense of another | To upstage
+right: Jim
+Wrong: 
+Value: DD: $1,700
+Number: 3
+DOCS | In 1967 this pediatrician resigned as a college teacher to join the antiwar movement full-time | Dr. Benjamin Spock
+right: Brian
+Wrong: 
+Value: $600
+Number: 20
+CANADIAN STUFF, EH? | Lady Slipper Drive, a scenic route in this tiny island province, is named for the province's official flower | Prince Edward Island
+right: Jim
+Wrong: 
+Value: $800
+Number: 9
+SCIENTIFIC NAMES | Ursus maritimus | Polar bear
+right: Lara
+Wrong: 
+Value: $800
+Number: 28
+THE WORST IN SPORTS | In 1944 the NHL's Detroit Red Wings froze out these "Broadway Blueshirts" 15-0, the biggest shutout ever | New York Rangers
+right: Brian
+Wrong: 
+Value: $800
+Number: 24
+CONNECTICUTIES | Born in Hartford, this blonde went west to play Krystle Carrington on "Dynasty" | Linda Evans
+right: Lara
+Wrong: 
+Value: $800
+Number: 16
+WHAT'S "UP"? | This city north of Stockholm is home to Sweden's oldest university | Uppsala
+right: Lara
+Wrong: 
+Value: $800
+Number: 5
+DOCS | In 1778 this smallpox vaccine developer  wrote a paper on the murderous habits of the young cuckoo bird | Edward Jenner
+right: Jim
+Wrong: 
+Value: $800
+Number: 21
+CANADIAN STUFF, EH? | Two of these marine mammals, seen here, adorn the coat of arms of Canada's Northwest Territories | Narwals
+right: Jim
+Wrong: 
+Value: DD: $1,600
+Number: 10
+SCIENTIFIC NAMES | The yellow-eyed bird megadyptes antipodes | Penguin
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 27
+THE WORST IN SPORTS | They changed colors in 1997, perhaps to ditch painful memories of 26 losses in a row, an NFL record | Tampa Bay Buccaneers
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+CONNECTICUTIES | This star of TV's "China Beach" is the heiress to a toilet flush valve fortune | Dana Delany
+right: Brian
+Wrong: 
+Value: $1000
+Number: 17
+WHAT'S "UP"? | The granddaughter of Sholem Aleichem, Bel Kaufman wrote this 1964 bestseller set in a NYC high school | Up The Down Staircase
+right: Lara
+Wrong: 
+Value: $1000
+Number: 4
+DOCS | Hans Selye pioneered the study of this & wrote a book about it "without distress" | Stress
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Jim: $10,200
+Lara: $7,600
+Brian: $5,200
+
+Final Jeopardy! Round
+SINGERS | He first recorded in 1939, "retired" in 1971, returned & had a Top 10 album in 1993 | Frank Sinatra
+right: Lara
+Wrong: 
+Brian: Who is Tony Bennet?
+Jim: Who is Tony Bennet
+Wagers: 
+Brian: $5,200
+Lara: $7,000
+Jim: $5,100
+Final scores:
+Jim: $5,100 (2nd place: Trip to Costa do Estoril, Portugal)
+Lara: $14,600 (New champion: $14,600)
+Brian: $0 (3rd place: Sony Power Cinema Package)
+
+Coryat scores
+Jim: $8,500 (21 R(including 2 DDs),1 W)
+Lara: $7,900 (22 R(including 1 DD),2 W)
+Brian: $5,200 (13 R,0 W)

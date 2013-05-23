@@ -1,0 +1,346 @@
+3031 - Monday, November 3, 1997
+Comments: 1997-B Teen Tournament quarterfinal game 1.
+Contestants:
+Kira Whelan: a senior from Seal Beach, California
+Justin Watkins: a senior from Martinsville, Virginia
+Kristen Stuckey: a senior from Richardson, Texas
+First Jeopardy! Round: WHAT'S YOUR SIGN?, FAVORITE SINGERS, GRANDMA'S SECRET DIARY, ANIMALS, KEEP ON TRUCKIN', RHYMES WITH PICKLE
+WHAT'S YOUR SIGN? | If this is your sign, your friends might think you're "bullheaded", like the sign itself | Taurus
+right: Justin
+Wrong: 
+Value: $100
+Number: 1
+FAVORITE SINGERS | 750,000 fans were the "Friends In Low Places" who joined this country star in Central Park in 1997 | Garth Brooks
+right: Kristen
+Wrong: 
+Value: $100
+Number: 9
+GRANDMA'S SECRET DIARY | November 16, 1939: Mom almost forgot to buy a turkey yesterday, she forgot FDR moved this holiday up a week | Thanksgiving
+right: Kristen
+Wrong: 
+Value: $100
+Number: 14
+ANIMALS | When threatened, the crested one of these erects & rattles its quills | Porcupine
+right: Kira
+Wrong: 
+Value: $100
+Number: 2
+KEEP ON TRUCKIN' | Term for a truck whose body tilts to discharge loads, like gravel, to the rear | Dump truck
+right: Kristen
+Wrong: 
+Value: $100
+Number: 26
+RHYMES WITH PICKLE | It's worth 5 cents | Nickel
+right: Justin
+Wrong: 
+Value: $100
+Number: 17
+WHAT'S YOUR SIGN? | Fittingly, it was the sign of Haile Selassie, who was known as the "Lion of Judah" | Leo
+right: Kira
+Wrong: 
+Value: $200
+Number: 5
+FAVORITE SINGERS | A singer born with the last name Nelson was known as & then "Formerly Known As" this | Prince
+right: Justin
+Wrong: 
+Kira: What is Willie?
+Value: $200
+Number: 10
+GRANDMA'S SECRET DIARY | May 15, 1942: Dad got a coupon book for this rationing; we only get 3 gal. a week!  Subway, here I come! | Gasoline
+right: Kristen
+Wrong: 
+Value: $200
+Number: 15
+ANIMALS | Some Arabs believe the eggshells of these tallest birds are magical & use them to repel lightning | Ostriches
+right: Kira
+Wrong: 
+Value: $200
+Number: 3
+KEEP ON TRUCKIN' | Moving a container from truck to train is called this, like riding on another person | Piggybacking
+right: Justin
+Wrong: 
+Value: $200
+Number: 27
+RHYMES WITH PICKLE | Its blade is attached to a short handle & it's used to cut grass | Sickle
+right: Kristen
+Wrong: 
+Value: $200
+Number: 18
+WHAT'S YOUR SIGN? | If you were born under this sign, whose symbol is half-man & half-horse, you're probably an animal lover | Sagittarius
+right: Kristen
+Wrong: 
+Value: $300
+Number: 6
+FAVORITE SINGERS | Sarah McLachlan named a 1997 rock tour this "fair", after a woman in Hebrew legend | Lilith Fair
+right: Kristen
+Wrong: 
+Value: $300
+Number: 11
+GRANDMA'S SECRET DIARY | December 7, 1940: Saw this new Disney film, it was weird!  Hippos dancing ballet? | Fantasia
+right: Kira
+Wrong: 
+Value: $300
+Number: 16
+ANIMALS | The honey possum, a tiny marsupial, feeds on this sweet liquid, a favorite of hummingbirds | Nectar
+right: Kristen
+Wrong: 
+Value: $300
+Number: 4
+KEEP ON TRUCKIN' | This type of engine named for its 19th c. German inventor powers most large trucks | Diesel
+right: Kristen
+Wrong: 
+Value: $300
+Number: 28
+RHYMES WITH PICKLE | It's one way to get a laugh | Tickle
+right: Kristen
+Wrong: 
+Value: $300
+Number: 21
+WHAT'S YOUR SIGN? | If you were born under this sign of the water carrier, you may have weak ankles, so don't sprain them | Aquarius
+right: Kristen
+Wrong: 
+Value: $400
+Number: 7
+FAVORITE SINGERS | Ben Stiller parodied this U2 singer in a "Lucky Clovers" breakfast cereal commercial | Bono
+right: Kira
+Wrong: 
+Value: $400
+Number: 12
+GRANDMA'S SECRET DIARY | June 4, 1942: Used an eyebrow pencil to draw a line up the back of my legs before my date because I ran out of these | Nylons
+right: Kristen
+Wrong: 
+Kira: What are panty hose?
+Value: $400
+Number: 19
+ANIMALS | The pocket gopher uses this almost hairless appendage as a sense organ to feel its way in the dark | Tail
+right: 
+Wrong: Triple Stumper
+Kira: What is its nose?
+Value: $400
+Number: 24
+KEEP ON TRUCKIN' | 5 brothers, one with the rhyming name Jack, started this company in the early 1900s | Mack
+right: Kristen
+Wrong: 
+Value: $400
+Number: 29
+RHYMES WITH PICKLE | The flow from a faucet tapers down to this | Trickle
+right: Kristen
+Wrong: 
+Value: $400
+Number: 22
+WHAT'S YOUR SIGN? | Quiet colors like soft brown are considered harmonious for people born under this "chaste" sign | Virgo
+right: Kristen
+Wrong: 
+Value: DD: $500
+Number: 8
+FAVORITE SINGERS | Jill Cunniff sang "Naked Eye" with this band named for a '70s NBA star called Lucious | Luscious Jackson
+right: Justin
+Wrong: 
+Value: $500
+Number: 13
+GRANDMA'S SECRET DIARY | July 16, 1941: Heard this joltin' Yankee hit in his 56th consecutive game!  I'll be glued to the radio tomorrow! | Joe DiMaggio
+right: Kristen
+Wrong: 
+Value: $500
+Number: 20
+ANIMALS | As its name implies, the geochelone elephantopus of the Galapagos is a really big one of these | Tortoise
+right: Kristen
+Wrong: 
+Value: $500
+Number: 25
+KEEP ON TRUCKIN' | In 1997 this company, known as Big Brown from the color of its trucks, was hit by a Teamsters strike | UPS (United Parcel Service)
+right: Kristen
+Wrong: 
+Value: $500
+Number: 30
+RHYMES WITH PICKLE | It describes someone who's capricious or unstable | Fickle
+right: Kristen
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Kristen: $2,200
+Justin: $800
+Kira: $700
+Scores at the end of the Jeopardy! Round:
+Kristen: $6,300
+Justin: $700
+Kira: $200
+Second Jeopardy! Round: WHAT'S YOUR SYMBOL?, U.S. CITIES, FUN WITH OPERA, 7, FILMS OF THE '90s, "CROSS"TALK
+WHAT'S YOUR SYMBOL? | <http://www.j-archive.com/media/1997-11-03_DJ_06.jpg> [video clue] | no dogs allowed
+right: Kristen
+Wrong: 
+Value: $200
+Number: 6
+U.S. CITIES | Percival Lowell's mausoleum is near his observatory in Flagstaff, in this state | Arizona
+right: Kristen
+Wrong: 
+Value: $200
+Number: 11
+FUN WITH OPERA | In a comic opera by Menotti, Lucy is addicted to talking on this invention--does that ring a "bell"? | the telephone
+right: Kristen
+Wrong: 
+Value: $200
+Number: 26
+7 | Tradition says this city was founded in 753 B.C. on one of a group of 7 hills | Rome
+right: Justin
+Wrong: 
+Value: $200
+Number: 16
+FILMS OF THE '90s | In a Disney film, Tim Allen filled in for this person, who fell off a roof | Santa Claus
+right: Kira
+Wrong: 
+Value: $200
+Number: 1
+"CROSS"TALK | Placed under a skull, they signify danger or death | crossbones
+right: Kristen
+Wrong: 
+Value: $200
+Number: 21
+WHAT'S YOUR SYMBOL? | <http://www.j-archive.com/media/1997-11-03_DJ_07.jpg> [video clue] | the Justice Department
+right: Kira
+Wrong: 
+Value: $400
+Number: 7
+U.S. CITIES | To promote this local product, Crystal City, Texas erected a statue of Popeye | spinach
+right: Kira
+Wrong: 
+Value: $400
+Number: 12
+FUN WITH OPERA | Even Ebenezer would enjoy "Mr. Scrooge", an opera inspired by this famous story | A Christmas Carol
+right: Kira
+Wrong: 
+Value: $400
+Number: 27
+7 | In the Romanian language, this group includes Duminica, Luni & Vineri | days of the week
+right: Kristen
+Wrong: 
+Value: $400
+Number: 17
+FILMS OF THE '90s | In 1996 France's synchronized swim team planned a Holocaust-based Olympic routine to this Spielberg film's music | Schindler's List
+right: Justin
+Wrong: 
+Value: $400
+Number: 2
+"CROSS"TALK | In school this event is usually run in the autumn over a distance of 1 1/2 to 3 miles | cross country
+right: Justin
+Wrong: 
+Value: $400
+Number: 22
+WHAT'S YOUR SYMBOL? | <http://www.j-archive.com/media/1997-11-03_DJ_08.jpg> [video clue] | radioactive
+right: Kristen
+Wrong: 
+Kira: What is Biohazard... Caution: Biohazard?
+Value: $600
+Number: 8
+U.S. CITIES | The largest Japanese garden in the U.S. is in this city with the largest arch | St. Louis
+right: Kristen
+Wrong: 
+Value: $600
+Number: 13
+FUN WITH OPERA | Numerous operas, including "The Little Match Girl", have been based on this Dane's fairy tales | Hans Christian Andersen
+right: Kristen
+Wrong: 
+Value: $600
+Number: 28
+7 | Shivah in this religion is a 7-day period of mourning | Judaism
+right: Kristen
+Wrong: 
+Value: $600
+Number: 18
+FILMS OF THE '90s | In 1995 Dustin Hoffman as a doctor, not a hacker, fought an "outbreak" of a deadly one of these | a virus
+right: Kira
+Wrong: 
+Kristen: What is a disease... ebola virus?
+Value: $600
+Number: 3
+"CROSS"TALK | When this CNN debate series debuted in 1982, Pat Buchanan & Tom Braden were its hosts | Crossfire
+right: Kira
+Wrong: 
+Value: $600
+Number: 23
+WHAT'S YOUR SYMBOL? | The 3 methods seen <http://www.j-archive.com/media/1997-11-03_DJ_09.jpg> here for showing the letter "A": | sign language, semaphore & braille
+right: 
+Wrong: 
+Kristen: What are sign language, semaphore & dots?
+Value: DD: $1,200
+Number: 9
+U.S. CITIES | This state capital is home to the 4 1/2 acre Roger Williams National Memorial Park | Providence, Rhode Island
+right: 
+Wrong: Triple Stumper
+Justin: What is Hartford?
+Value: $800
+Number: 14
+FUN WITH OPERA | Of all the operas we know, this 1893 work based on a Grimm role has the most gingerbread in it | Hansel and Gretel
+right: Kira
+Wrong: 
+Value: $800
+Number: 29
+7 | Lust, sloth & gluttony are 3 of the 7 of these | the 7 deadly sins
+right: Justin
+Wrong: 
+Value: $800
+Number: 19
+FILMS OF THE '90s | 1996 film that features the love theme heard <http://www.j-archive.com/media/1997-11-03_DJ_05.mp3> here: | Jerry Maguire
+right: Kristen
+Wrong: 
+Value: DD: $1,300
+Number: 5
+"CROSS"TALK | Founded in 1843, it's the oldest Catholic college in New England | Holy Cross
+right: Kira
+Wrong: 
+Value: $800
+Number: 24
+WHAT'S YOUR SYMBOL? | <http://www.j-archive.com/media/1997-11-03_DJ_10.jpg> [video clue] | drug store (or pharmacy)
+right: Kristen
+Wrong: 
+Value: $1000
+Number: 10
+U.S. CITIES | The St. Charles streetcar clamors through the heart of this southern delta city | New Orleans
+right: Kristen
+Wrong: 
+Value: $1000
+Number: 15
+FUN WITH OPERA | Klingsor's magic garden is filled with flower maidens in this German composer's 1882 opera "Parsifal" | Richard Wagner
+right: Kira
+Wrong: 
+Value: $1000
+Number: 30
+7 | Bryn Mawr, Vassar & Barnard are among this scholarly septet | Seven Sisters
+right: Kira
+Wrong: 
+Justin: What are Ivy League schools?
+Value: $1000
+Number: 20
+FILMS OF THE '90s | This sitcom actress, needing a "friend", invents a new beau in 1997's "Picture Perfect" | Jennifer Aniston
+right: Kristen
+Wrong: 
+Value: $1000
+Number: 4
+"CROSS"TALK | The MX in BMX bicycles stands for this | motocross
+right: Kira
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Kristen: $12,400
+Justin: $700
+Kira: $6,800
+
+Final Jeopardy! Round
+AMERICAN LITERATURE | In 1900 he published his first collection of stories, "The Son of the Wolf" | Jack London
+right: Justin | Kira | Kristen
+Wrong: 
+Wagers: 
+Justin: $699
+Kira: $3,200
+Kristen: $1,201
+Final scores:
+Kristen: $13,601 (Automatic semifinalist)
+Justin: $1,399 (3rd place: $1,000 if eliminated)
+Kira: $10,000 (2nd place: $1,000 if eliminated)
+
+Coryat scores
+Kristen: $13,100 (32 R(including 2 DDs),2 W(including 1 DD))
+Justin: $700 (9 R,3 W)
+Kira: $6,800 (16 R,4 W)

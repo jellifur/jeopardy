@@ -1,0 +1,278 @@
+3789 - Thursday, February 8, 2001
+Comments: 2001 Celebrity <i>Jeopardy!</i> game 4.  From the Las Vegas Hilton.
+Contestants:
+Kevin Sorbo: an actor from Andromeda
+Jane Krakowski: an actress from Ally McBeal
+Mike Piazza: a catcher from the New York Mets
+First Jeopardy! Round: LONG LIVE THE KING!, CIRCUS CIRCUS, STATE CAPITALS, THINGS THAT EXPLODE, FUTURE CASINOS?, "V" WORDS
+LONG LIVE THE KING! | The King had 18 No. 1 hits, including this one that he's performing in the following | "Hound Dog"
+right: Mike
+Wrong: 
+Value: $100
+Number: 2
+CIRCUS CIRCUS | Major varieties of these circus performers include harlequin, tramp & whiteface | clowns
+right: Jane
+Wrong: 
+Value: $100
+Number: 7
+STATE CAPITALS | This Colorado capital was the first city to use the Community Chest to finance its charitable agencies | Denver
+right: Kevin
+Wrong: 
+Value: $100
+Number: 1
+THINGS THAT EXPLODE | On TV, when a bad guy's car goes off the road & down a cliff, this tank usually explodes | gas tank
+right: Jane
+Wrong: 
+Value: $100
+Number: 4
+FUTURE CASINOS? | A giant moose & some Mounties will greet us at the casino named for this country, my birthplace | Canada
+right: Mike
+Wrong: 
+Value: $100
+Number: 17
+"V" WORDS | It's the 6-letter "V" word for what Lance's bird, seen here, is about to do | vanish
+right: Mike
+Wrong: 
+Value: $100
+Number: 5
+LONG LIVE THE KING! | A sandwich that was fit for the King included peanut butter & this fruit, mashed | banana
+right: Mike
+Wrong: 
+Value: $200
+Number: 16
+CIRCUS CIRCUS | Type of circus sideshow denizen seen here | the bearded lady
+right: Jane
+Wrong: 
+Value: $200
+Number: 8
+STATE CAPITALS | This state capital is located about 2,500 miles west of Los Angeles | Honolulu
+right: 
+Wrong: Triple Stumper
+Kevin: What is Sacramento?
+Value: $200
+Number: 3
+THINGS THAT EXPLODE | As its name suggests, the explosion of this substance propels bullets | gunpowder
+right: Kevin
+Wrong: 
+Value: $200
+Number: 12
+FUTURE CASINOS? | We'll eat Gouda cheese as we tiptoe through the tulip-shaped casino named for this country | Holland/the Netherlands
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 18
+LONG LIVE THE KING! | This song heard here stayed on the Top 100 chart for 27 weeks | "Heartbreak Hotel"
+right: Jane
+Wrong: 
+Value: $300
+Number: 15
+CIRCUS CIRCUS | Last name of the circus man P.T. Barnum teamed up with in 1881 | Bailey
+right: Mike
+Wrong: 
+Value: $300
+Number: 9
+STATE CAPITALS | You'll find the John F. Kennedy Federal Building in this state capital | Boston
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 6
+THINGS THAT EXPLODE | This "candle", a type of firework, splits up its charge to produce separate groups of sparks | Roman candle
+right: Mike
+Wrong: 
+Kevin: What is a firecracker?
+Value: $300
+Number: 24
+FUTURE CASINOS? | This U.K. country's casino will have kilt-wearing croupiers & an all-you-can-eat haggis buffet | Scotland
+right: Kevin
+Wrong: 
+Value: $300
+Number: 19
+LONG LIVE THE KING! | It's the title of a 1964 movie & the 1964 hit heard here | Viva Las Vegas
+right: Kevin
+Wrong: 
+Value: $400
+Number: 14
+CIRCUS CIRCUS | Midge & Madge, who star in the Acme Miniature Circus, are 2 of these performing insects | fleas
+right: Kevin
+Wrong: 
+Value: $400
+Number: 21
+STATE CAPITALS | This state capital's metropolitan area includes the cities of Glendale, Scottsdale & Sun City | Phoenix
+right: Mike
+Wrong: 
+Value: DD: $500
+Number: 10
+THINGS THAT EXPLODE | A WWII type of this small hand-thrown weapon was called a "pineapple" | hand grenade
+right: Mike
+Wrong: 
+Value: $400
+Number: 23
+LONG LIVE THE KING! | Once he became Elvis' manager (for up to a 50% fee), he never took on another client | Col. Tom Parker
+right: Kevin
+Wrong: 
+Value: $500
+Number: 13
+CIRCUS CIRCUS | This 1952 Cecil B. DeMille production was the "Greatest" of circus movies | The Greatest Show on Earth
+right: Kevin
+Wrong: 
+Value: $500
+Number: 20
+STATE CAPITALS | This capital is the headquarters for UPS, the Turner Broadcasting System & Delta Air Lines | Atlanta
+right: Mike
+Wrong: 
+Value: $500
+Number: 11
+THINGS THAT EXPLODE | In a supernova, one of these collapses & explodes, releasing lots of energy | star
+right: Mike
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Mike: $1,000
+Jane: $400
+Kevin: -$100
+Scores at the end of the Jeopardy! Round:
+Mike: $3,000
+Jane: $700
+Kevin: $1,900
+Second Jeopardy! Round: LONG LIVE THE KING!, VEGANS, LITERATURE, THE COCKTAIL HOUR, THE SAHARA, THAT'S SO CLICHE!
+LONG LIVE THE KING! | King Ferdinand & Queen Isabella of Spain sent this explorer on his 1492 voyage | Christopher Columbus
+right: Kevin
+Wrong: 
+Value: $200
+Number: 4
+VEGANS | Vegans prefer to let these hatch; they cook with flax seed or lecithin instead | eggs
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+LITERATURE | Chapter 83 of this Herman Melville novel is entitled "Jonah Historically Regarded" | "Moby Dick"
+right: Kevin
+Wrong: 
+Value: $200
+Number: 10
+THE COCKTAIL HOUR | Grey Goose is a French brand of this colorless liquor more associated with Russia | vodka
+right: Mike
+Wrong: 
+Value: $200
+Number: 17
+THE SAHARA | Of 3,000, 3,000,000 or 30,000,000, the one closest to the Sahara Desert's total square miles | 3,000,000
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+THAT'S SO CLICHE! | To degenerate quickly is to go "to Hell in" one of these | handbasket
+right: Jane
+Wrong: 
+Value: $200
+Number: 13
+LONG LIVE THE KING! | The funeral mask of this "Boy King" is seen here | King Tut
+right: Jane
+Wrong: 
+Value: $400
+Number: 5
+VEGANS | Donald Watson coined the word vegan when he got tired of writing out "total" this | vegetarian
+right: Jane
+Wrong: 
+Value: $400
+Number: 2
+THE COCKTAIL HOUR | Apricot brandy & gin go into a cocktail named for this tall pink bird | flamingo
+right: Jane
+Wrong: 
+Value: $400
+Number: 18
+THE SAHARA | The word Sahara means "desert" in this language of north Africa & the Middle East | Arabic
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+THAT'S SO CLICHE! | "He who pays" this musician "calls the tune" | the piper
+right: Kevin
+Wrong: 
+Value: $400
+Number: 14
+LONG LIVE THE KING! | A translation of the Bible is named for this king of England & Scotland | James (I)
+right: 
+Wrong: 
+Jane: Mom!  I'm trying...I have no idea...I've lost all my money!
+Value: DD: $1,500
+Number: 6
+VEGANS | It's not surprising that the first U.S. vegan society was started in this state | California
+right: Kevin
+Wrong: 
+Value: $600
+Number: 3
+THE COCKTAIL HOUR | One variety of Haagen-Dazs ice cream soaks raisins in this potent potable | rum
+right: Kevin
+Wrong: 
+Value: $600
+Number: 19
+THAT'S SO CLICHE! | One who endures a severe & prolonged hardship has "the patience of" this Old Testament guy | Job
+right: 
+Wrong: Triple Stumper
+Mike: What is the patience of a saint?
+Value: $600
+Number: 15
+LONG LIVE THE KING! | This king divorced the Church of England from the Catholic Church so that he could divorce the first of 6 wives | Henry VIII
+right: Mike
+Wrong: 
+Value: $800
+Number: 8
+VEGANS | Once TV's "Bionic Woman", she co-wrote a cookbook for vegans called "The High Road to Health" | Lindsay Wagner
+right: Kevin
+Wrong: 
+Value: $800
+Number: 7
+THE COCKTAIL HOUR | Traditionally served at the Kentucky Derby, it's bourbon over crushed ice, garnished with mint | mint julep
+right: Jane
+Wrong: 
+Value: $800
+Number: 20
+THAT'S SO CLICHE! | "Abandon" this, "all ye who enter here" | hope
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 16
+LONG LIVE THE KING! | France's King Louis XVI was married to this woman who supposedly said, "Let them eat cake" | Marie Antoinette
+right: Mike
+Wrong: 
+Value: $1000
+Number: 9
+VEGANS | Vegans shun dairy foods, so the American Dietetic Assoc. wants to make sure they get enough of this element | calcium
+right: Jane
+Wrong: 
+Value: $1000
+Number: 22
+THE COCKTAIL HOUR | A margarita made with brandy & sugar instead of tequila & salt, or a motorcycle attachment | sidecar
+right: Jane
+Wrong: 
+Value: $1000
+Number: 21
+THAT'S SO CLICHE! | To eat crow is "to eat" this type of "pie" | humble pie
+right: Mike
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Mike: $5,400
+Jane: $3,400
+Kevin: $4,700
+
+Final Jeopardy! Round
+POLITICIANS | A current U.S. governor, he hosted the game show "Grudge Match" in 1991 | Jesse Ventura
+right: Kevin | Mike
+Wrong: 
+Jane: Who ???
+Wagers: 
+Jane: $0
+Kevin: $4,699
+Mike: $4,500
+Final scores:
+Mike: $9,900 (Winner: $15,000 for Leiters Landing)
+Jane: $3,400 (3rd place: $10,000 for Broadway Cares/Equity Fights AIDS)
+Kevin: $9,399 (2nd place: $10,000 for A World Fit for Kids)
+
+Coryat scores
+Mike: $5,300 (14 R(including 1 DD),1 W)
+Jane: $4,900 (11 R,1 W(including 1 DD))
+Kevin: $4,700 (13 R,2 W)

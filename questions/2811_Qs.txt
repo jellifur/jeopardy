@@ -1,0 +1,334 @@
+5575 - Friday, November 28, 2008
+Contestants:
+Kyle Holtan: an online editor from Los Angeles, California
+Rose Pate: a high school librarian from Pittsboro, North Carolina
+Peter Pinnow: a high school English teacher from Oxford, Mississippi (whose 1-day cash winnings total $12,800)
+First Jeopardy! Round: WORLD TRAVEL, 1983: THE YEAR IN ENTERTAINMENT, WOMEN "R" US, ADDICTIONARY, SOUNDS OF MADISON AVE., ARLINGTON NATIONAL CEMETERY
+WORLD TRAVEL | After a 15-year restoration, the ruins of Nero's Golden Palace, Domus Aurea, reopened in this city in 1999 | Rome
+right: Peter
+Wrong: 
+Value: $200
+Number: 11
+1983: THE YEAR IN ENTERTAINMENT | This Michael Jackson album spent 37 weeks at No. 1 | Thriller
+right: Rose
+Wrong: 
+Value: $200
+Number: 14
+WOMEN "R" US | In 1983 this California girl became the first American woman in space | Sally Ride
+right: Kyle
+Wrong: 
+Value: $200
+Number: 17
+ADDICTIONARY | A right-handed golfer's shot pulled so it curves to the left is said to be this | a hook (or hooked)
+right: Kyle
+Wrong: 
+Value: $200
+Number: 24
+SOUNDS OF MADISON AVE. | As of 2007, this company represented by the sound heard <http://www.j-archive.com/media/2008-11-28_J_04.mp3> here had 20 consecutive years of profitability | Intel
+right: Rose
+Wrong: 
+Value: $200
+Number: 4
+ARLINGTON NATIONAL CEMETERY | (<http://www.j-archive.com/media/2008-11-28_J_01.jpg> Sarah of the Clue Crew reports from the Arlington National Cemetery in Virginia.) This person's inspiration for the eternal flame on John F. Kennedy's grave was the one on Paris's Tomb of the Unknown Soldier | Jacqueline Kennedy
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+WORLD TRAVEL | The Knopf guide to this country features sections on "Nomads' tents" and "Matisse in Tangier" | Morocco
+right: 
+Wrong: Triple Stumper
+Rose: What is Algeria?
+Kyle: What is Tunisia?
+Value: $400
+Number: 12
+1983: THE YEAR IN ENTERTAINMENT | First Lady Nancy Reagan took her "Just say no" campaign to this Gary Coleman sitcom | Diff'rent Strokes
+right: Peter
+Wrong: 
+Value: $400
+Number: 18
+WOMEN "R" US | In 2007 this Brit ranked as the second-richest woman in entertainment after Oprah | JK Rowling
+right: Rose
+Wrong: 
+Value: DD: $400
+Number: 20
+ADDICTIONARY | Removal of some of one's money from a bank account | a withdrawal
+right: Rose
+Wrong: 
+Value: $400
+Number: 25
+SOUNDS OF MADISON AVE. | This store promises to have your ink or toner cartridge with the slogan "That was easy" | Staples
+right: Kyle
+Wrong: 
+Value: $400
+Number: 5
+ARLINGTON NATIONAL CEMETERY | (<http://www.j-archive.com/media/2008-11-28_J_02.jpg> Jimmy of the Clue Crew reports from the Arlington National Cemetery in Virginia.) The Tomb of the Unknowns holds and honors unidentified soldiers from these three 20th-century conflicts | World War I, World War II, and the Korean War
+right: Peter
+Wrong: 
+Value: $400
+Number: 2
+WORLD TRAVEL | With its quiet beauty of cliffs & coral, the peninsula of this sultanate is billed as the anti-Dubai | Oman
+right: 
+Wrong: Triple Stumper
+Peter: What is Brunei?
+Value: $600
+Number: 13
+1983: THE YEAR IN ENTERTAINMENT | Its ensemble cast included Kevin Kline, Glenn Close & William Hurt | The Big Chill
+right: Rose
+Wrong: 
+Value: $600
+Number: 19
+WOMEN "R" US | In 2002 this former attorney general ran for governor of Florida | Janet Reno
+right: Peter
+Wrong: 
+Value: $600
+Number: 21
+ADDICTIONARY | To the taxman, your child is this type of deduction | dependent
+right: Kyle
+Wrong: 
+Rose: What is standard?
+Value: $600
+Number: 28
+SOUNDS OF MADISON AVE. | Baby, you can drive <http://www.j-archive.com/media/2008-11-28_J_06.mp3> this make of car  "Zoom-zoom" | Mazda
+right: Kyle
+Wrong: 
+Value: $600
+Number: 6
+ARLINGTON NATIONAL CEMETERY | (<http://www.j-archive.com/media/2008-11-28_J_03.jpg> Jimmy of the Clue Crew reports from the Arlington National Cemetery in Virginia.) This 5-sided granite marker here at Arlington honors victims from the 2001 attack on this nearby location | the Pentagon
+right: Kyle
+Wrong: 
+Value: $600
+Number: 3
+WORLD TRAVEL | Instead of going the whole 6,000 miles on this line, you can change at Tarskaya to the Trans-Manchurian for Beijing | the Trans-Siberian Railway
+right: Rose
+Wrong: 
+Value: $800
+Number: 15
+1983: THE YEAR IN ENTERTAINMENT | Noel Coward's "Private Lives" was revived on Broadway with this divorced couple playing a divorced couple | Elizabeth Taylor & Richard Burton
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+WOMEN "R" US | Corrine is the given name of this ABC & NPR correspondent | (Cokie) Roberts
+right: Kyle
+Wrong: 
+Value: $800
+Number: 26
+ADDICTIONARY | Mike, we think you have a problem, so we're having this, from the Latin for "come between" | an intervention
+right: Kyle
+Wrong: 
+Value: $800
+Number: 29
+SOUNDS OF MADISON AVE. | This 4-word question is Capital One's catchphrase | "What's in your wallet?"
+right: Peter
+Wrong: 
+Value: $800
+Number: 7
+ARLINGTON NATIONAL CEMETERY | (<http://www.j-archive.com/media/2008-11-28_J_08.jpg> Sarah of the Clue Crew reports from the Arlington National Cemetery in Virginia.) This memorial is dedicated to the crew of this craft, who, as Reagan said, "slipped the surly bonds of Earth and touched the face of God" | the Challenger
+right: Kyle
+Wrong: 
+Value: $800
+Number: 8
+WORLD TRAVEL | Music lovers pay homage to this composer by visiting Ainola, his home near Helsinki | Jean Sibelius
+right: 
+Wrong: Triple Stumper
+Rose: Who is...Elgar?
+Value: $1000
+Number: 16
+1983: THE YEAR IN ENTERTAINMENT | Barbara Stanwyck won an Emmy for playing Meggie's manipulative & wealthy aunt in this TV miniseries | The Thorn Birds
+right: Kyle
+Wrong: 
+Value: $1000
+Number: 23
+WOMEN "R" US | This symbolic woman was on the cover of the May 29, 1943 Saturday Evening Post | Rosie the Riveter
+right: Peter
+Wrong: 
+Value: $1000
+Number: 27
+ADDICTIONARY | Mike, to get well you need to go somewhere for this, from the Latin for "restore" | rehabilitation
+right: Peter
+Wrong: 
+Value: $1000
+Number: 30
+SOUNDS OF MADISON AVE. | <http://www.j-archive.com/media/2008-11-28_J_10.mp3> This auto insurer touts the simplicity of using its website  "It's so easy, a caveman could do it." | GEICO
+right: Peter
+Wrong: 
+Value: $1000
+Number: 10
+ARLINGTON NATIONAL CEMETERY | (<http://www.j-archive.com/media/2008-11-28_J_09.jpg> Jimmy of the Clue Crew reports from the Arlington National Cemetery in Virginia.) A Scottish cairn, or stone monument, marks the memorial to the 270 killed in the 1988 terrorist attack in the skies above this village | Lockerbie
+right: Kyle
+Wrong: 
+Value: $1000
+Number: 9
+Scores at the first commercial break (after clue 15)
+Peter: $1,800
+Rose: -$200
+Kyle: $3,000
+Scores at the end of the Jeopardy! Round:
+Peter: $4,800
+Rose: $600
+Kyle: $6,600
+Second Jeopardy! Round: STEELY DAN, HEY 19, REELIN' IN THE YEARS, PRETZEL LOGIC, DEACON BLUES, "F.M."
+STEELY DAN | Before breaking up in 1981, Steely Dan released an album named for this kind of South American cowboy | a gaucho
+right: Rose
+Wrong: 
+Value: $400
+Number: 3
+HEY 19 | Sodom & Gomorrah are destroyed in Chapter 19 of this Biblical book | Genesis
+right: Peter
+Wrong: 
+Value: $400
+Number: 8
+REELIN' IN THE YEARS | It's the year of the quote "Not since Adam has any human known such solitude as Mike Collins" | 1969
+right: 
+Wrong: 
+Rose: What is 2000?
+Value: DD: $1,500
+Number: 7
+PRETZEL LOGIC | By definition, a "baldie" is a pretzel without this | salt
+right: Rose
+Wrong: 
+Value: $400
+Number: 20
+DEACON BLUES | In 1987 in York, Deacon Sylvia Mutch was the 1st woman to conduct a marriage in the church of this country | the Church of England
+right: Kyle
+Wrong: 
+Value: $400
+Number: 1
+"F.M." | It sends copies of printed material over phone lines | a fax machine
+right: Kyle
+Wrong: 
+Peter: What is a fax modem?
+Value: $400
+Number: 2
+STEELY DAN | Steely Dan's highest-charting song told this title woman "Don't Lose That Number" | Rikki
+right: Rose
+Wrong: 
+Value: $800
+Number: 6
+HEY 19 | 19 is the legal drinking age in 7 of the 10 Canadian provinces, including this most populous one | Ontario
+right: Peter
+Wrong: 
+Value: $800
+Number: 15
+REELIN' IN THE YEARS | The battles of Saratoga & Bennington were in this year, not the title of a musical | 1777
+right: 
+Wrong: Triple Stumper
+Peter: What is 1776?
+Rose: What is 1775?
+Value: $800
+Number: 9
+PRETZEL LOGIC | Hold "fast"--pretzels have deep spiritual meaning in this 40-day Catholic season | Lent
+right: Kyle
+Wrong: 
+Value: $800
+Number: 22
+DEACON BLUES | Subtract X [or 10] from his current holiness to get this Deacon & Pope who was strangled in 974 | Benedict VI
+right: Peter
+Wrong: 
+Value: $800
+Number: 4
+"F.M." | If a football tackler grabs & twists this, the penalty is 15 yards | a facemask
+right: Rose
+Wrong: 
+Value: $800
+Number: 27
+STEELY DAN | This Dire Straits guitarist played a guitar solo on the Steely Dan hit "Time Out Of Mind" | (Mark) Knopfler
+right: Kyle
+Wrong: 
+Value: $1200
+Number: 13
+HEY 19 | This Kellogg's cereal introduced in the 1960s combines toasted corn, oats, wheat & rice | Product 19
+right: Rose
+Wrong: 
+Value: $1200
+Number: 16
+REELIN' IN THE YEARS | William McKinley & Queen Victoria died in this year | 1901
+right: Peter
+Wrong: 
+Value: $1200
+Number: 10
+PRETZEL LOGIC | "These pretzels are making me thirsty" was a line from a classic episode of this '90s sitcom | Seinfeld
+right: Peter
+Wrong: 
+Value: $1200
+Number: 26
+DEACON BLUES | A Deacon named St. Romanos the Melodist got his nickname by writing 8,000 of these | hymns (or psalms)
+right: Rose | Kyle
+Wrong: 
+Value: $1200
+Number: 5
+STEELY DAN | One of the 2 leaders of the band who met at Bard College in New York | (Donald) Fagen (or Walter Becker)
+right: Peter
+Wrong: 
+Kyle: Who is Donald Feldman?
+Value: $1600
+Number: 14
+HEY 19 | She was Queen of France for 19 years, from 1774 to 1793 | Marie Antoinette
+right: Peter
+Wrong: 
+Value: $1600
+Number: 17
+REELIN' IN THE YEARS | South Carolina seceded from the Union in this year | 1860
+right: Peter
+Wrong: 
+Rose: What is 1861?
+Value: $1600
+Number: 11
+PRETZEL LOGIC | The Latin term for pretzels is brachiola or "little" these | arms
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 25
+DEACON BLUES | The oldest chronicle of this city was compiled by John the Deacon, Chaplain to the Doge | Venice
+right: Peter
+Wrong: 
+Value: $1600
+Number: 19
+STEELY DAN | The name Steely Dan comes from this William S. Burroughs novel | Naked Lunch
+right: Kyle
+Wrong: 
+Value: $2000
+Number: 23
+HEY 19 | At age 19 in 1892, this Russian pianist wrote his "Prelude in C-Sharp Minor", which helped launch his career | Sergei Rachmaninoff
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+REELIN' IN THE YEARS | Year in whch Marcos fled the Philippines, Baby Doc Duvalier fled Haiti & hundreds of thousands fled Chernobyl | 1986
+right: Kyle
+Wrong: 
+Value: $2000
+Number: 12
+PRETZEL LOGIC | The pretzel type of this sweet treat holder is a Philadelphia tradition | an ice cream cone
+right: Rose
+Wrong: 
+Value: $2000
+Number: 24
+DEACON BLUES | John the Faster was a 6th C. Deacon at this Constantinople cathedral | the Hagia Sophia
+right: Peter
+Wrong: 
+Value: DD: $3,000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Peter: $17,400
+Rose: $3,500
+Kyle: $13,000
+
+Final Jeopardy! Round
+19th CENTURY NOVELS | Its title refers to an imaginary place where things like "honors, preferments... silver, gold, pearls" are sold | Vanity Fair
+right: Rose | Peter
+Wrong: 
+Kyle: What is The Jungle?
+Wagers: 
+Rose: $3,500
+Kyle: $4,500
+Peter: $9,000
+Final scores:
+Peter: $26,400 (2-day champion: $39,200)
+Rose: $7,000 (3rd place: $1,000)
+Kyle: $8,500 (2nd place: $2,000)
+
+Coryat scores
+Peter: $16,400 (18 R(including 1 DD),3 W)
+Rose: $5,000 (13 R(including 1 DD),6 W(including 1 DD))
+Kyle: $13,000 (18 R,2 W)

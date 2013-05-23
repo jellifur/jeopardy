@@ -1,0 +1,353 @@
+3190 - Friday, June 12, 1998
+Comments: 3rd regular play game in 14 seasons that didn't have a winner.
+Contestants:
+Marion Arkin: a former editor originally from New York City, New York
+Robert Levy: an optometrist from Alexandria, Virginia
+Steve Sosnick: an options trader from New York City, New York (whose 1-day cash winnings total $7,800)
+First Jeopardy! Round: ANIMATION, EXPLORATION, CONSERVATION, TRANSPORTATION, APPROBATION, VILIFICATION
+ANIMATION | Character seen <http://www.j-archive.com/media/1998-06-12_J_01.jpg> here: ("----- ----- a-doop!") | Betty Boop
+right: Steve
+Wrong: 
+Value: $100
+Number: 1
+EXPLORATION | The famous greeting "Dr. Livingstone, I presume?" is attributed to him | Henry Stanley
+right: Steve
+Wrong: 
+Value: $100
+Number: 4
+CONSERVATION | It's the most abundant fossil fuel on Earth & at current use may run out in 200-300 years | coal
+right: Steve
+Wrong: 
+Value: $100
+Number: 11
+TRANSPORTATION | This alliterative term for a car with low fuel efficiency became common in the 1970s | a gas guzzler
+right: Robert
+Wrong: 
+Value: $100
+Number: 16
+APPROBATION | In 1982 Lenny Skutnick rescued a passenger on a crashed 737 from this D.C. river | Potomac
+right: Marion
+Wrong: 
+Value: $100
+Number: 26
+VILIFICATION | Rossini said of this "Ring" leader, "He has lovely moments but awful quarters of an hour" | Richard Wagner
+right: Robert
+Wrong: 
+Value: $100
+Number: 21
+ANIMATION | Yogi Bear stole pic-a-nic baskets fron vacationers at this national park | Jellystone
+right: Steve
+Wrong: 
+Value: $200
+Number: 2
+EXPLORATION | A city in what is now this state was named to honor Julien Dubuque, 23 years after his death | Iowa
+right: Steve
+Wrong: 
+Value: $200
+Number: 5
+CONSERVATION | The Marine Mammal Protection Act bars the import of ivory from the tusks of these | walruses
+right: Steve
+Wrong: 
+Marion: What are seals?
+Value: $200
+Number: 12
+TRANSPORTATION | Found on many sport utility vehicles, it's a system where both axles provide propulsion | 4-wheel drive (or all-wheel drive)
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+APPROBATION | Fittingly, CNN broke the news in 1997 when this man decided to give $1 billion to the U.N. | Ted Turner
+right: Robert
+Wrong: 
+Value: $200
+Number: 27
+VILIFICATION | Mario Puzo wrote that one of these men "with his briefcase can steal more than a hundred men with guns" | a lawyer
+right: Marion
+Wrong: 
+Value: $200
+Number: 22
+ANIMATION | "Whenever he gets in a fix, he reaches into his bag of tricks" | Felix the Cat
+right: Marion
+Wrong: 
+Value: $300
+Number: 3
+EXPLORATION | This man, whose expedition was second to the South Pole, joined the Royal Navy in 1880, the year he turned 12 | Robert Scott
+right: Steve
+Wrong: 
+Marion: Who was Byrd?
+Value: $300
+Number: 6
+CONSERVATION | (<http://www.j-archive.com/media/1998-06-12_J_13.jpg> Hi, I'm environmental lawyer Robert F. Kennedy, Jr.)  In 1970 it was this president who established the Environmental Protection Agency | Richard Nixon
+right: Steve
+Wrong: 
+Value: DD: $1,000
+Number: 13
+TRANSPORTATION | Transport that helped the Finns in the 1939-40 winter war & helped Finn Matti Nykaenen finnish with Olympic gold | skis
+right: Marion
+Wrong: 
+Robert: What are snowshoes?
+Value: $300
+Number: 18
+APPROBATION | Jody Williams won a 1997 Nobel Peace Prize for her efforts to ban these weapons | land mines
+right: Robert
+Wrong: 
+Value: $300
+Number: 28
+VILIFICATION | In 1984 Barbara Bush said of this woman, "I can't say it, but it rhymes with rich"; she later apologized | Geraldine Ferraro
+right: Steve
+Wrong: 
+Robert: Who is Leona Helmsley?
+Value: $300
+Number: 23
+ANIMATION | Kenny gets killed on nearly every episode of this Comedy Central cartoon | South Park
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+EXPLORATION | In 1498, this Portuguese explorer recruited a pilot in east Africa to help him find India | Vasco da Gama
+right: Robert
+Wrong: 
+Value: $400
+Number: 7
+CONSERVATION | TCDD is the dioxin in this herbicide used during the Vietnam War | Agent Orange
+right: Steve
+Wrong: 
+Value: $400
+Number: 14
+TRANSPORTATION | This device increases a jet plane's thrust by burning exhaust gases | afterburners
+right: 
+Wrong: Triple Stumper
+Steve: What is a ramjet?
+Marion: What is turbo?
+Value: $400
+Number: 19
+APPROBATION | In 1997, 5 decades late, 7 black soldiers received this highest award for bravery during WWII | the Congressional Medal of Honor
+right: Marion
+Wrong: 
+Value: $400
+Number: 29
+VILIFICATION | Dorothy Parker's comment on this actress, "She runs the gamut of emotions from A to B", was a joke | Katharine Hepburn
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+ANIMATION | Scooby-Doo, Shaggy, Freddy, Daphne & Velma traveled around in a van with this name | The Mystery Machine
+right: Steve
+Wrong: 
+Value: $500
+Number: 10
+EXPLORATION | Gonzalo Jimenez de Quesada founded Bogota between 2 trips to find this mythical golden city | El Dorado
+right: Steve
+Wrong: 
+Value: $500
+Number: 8
+CONSERVATION | After escaping from a lab in Massachusetts, this European moth spread & damaged trees in the Northeast | the gypsy moth
+right: Steve
+Wrong: 
+Value: $500
+Number: 15
+TRANSPORTATION | It's the high-speed train that runs between NYC & Washington, D.C. | the Metroliner
+right: Steve
+Wrong: 
+Robert: What is a bullet train?
+Value: $500
+Number: 20
+APPROBATION | Japanese consul Chiune Sugihara, who saved hundreds of Jews in WWII, bears the title "Righteous" this | Gentile
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+VILIFICATION | Herman Mankiewicz said of this director, "There, but for the grace of God, goes God" | Orson Welles
+right: 
+Wrong: Triple Stumper
+Steve: Who is DeMille?
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Steve: $4,000
+Robert: $400
+Marion: -$200
+Scores at the end of the Jeopardy! Round:
+Steve: $4,600
+Robert: $0
+Marion: $400
+Second Jeopardy! Round: CELEBRATIONS, LIBATIONS, ASSASSINATIONS, CREATIONS, ADAPTATIONS, CRUSTACEANS
+CELEBRATIONS | November 3 is the national day to celebrate this, be it tuna fish or peanut butter & jelly | Sandwich Day
+right: Steve
+Wrong: 
+Value: $200
+Number: 12
+LIBATIONS | It's the most famous cocktail we know with Singapore in its name | a Singapore sling
+right: Robert
+Wrong: 
+Value: $200
+Number: 7
+ASSASSINATIONS | James Garfield died of a gunshot wound in September 1881, as did this president in September 1901 | William McKinley
+right: Steve
+Wrong: 
+Value: $200
+Number: 22
+CREATIONS | In Chicago in 1885, William Jenney rose to new heights when he built the first structure called this | the skyscraper
+right: Steve
+Wrong: 
+Value: $200
+Number: 3
+ADAPTATIONS | The 2-word title of this Carl Hiaasen novel became one word when Demi Moore disrobed on film | Striptease
+right: Steve
+Wrong: 
+Value: $200
+Number: 15
+CRUSTACEANS | The peneid type of this is the one most often served in the U.S.; have a cocktail | shrimp
+right: Robert
+Wrong: 
+Value: $200
+Number: 1
+CELEBRATIONS | Confederate Heroes Day is celebrated January 19, the birthday of this general | Robert E. Lee
+right: Robert
+Wrong: 
+Steve: Who is Stonewall Jackson?
+Value: $400
+Number: 13
+LIBATIONS | To make a Canadian cocktail, add curacao, bitters & powdered sugar to this Canadian liquor | Canadian Whiskey
+right: Robert
+Wrong: 
+Value: $400
+Number: 8
+ASSASSINATIONS | Executed in 1918, this czar has since been made a saint by the Russian Orthodox Church abroad | Nicholas II
+right: Robert
+Wrong: 
+Value: $400
+Number: 23
+CREATIONS | In 1843 Samuel Morse & Alfred Vail received $30,000 to build this between Baltimore & Washington, D.C. | a telegraph line
+right: Robert
+Wrong: 
+Value: $400
+Number: 26
+ADAPTATIONS | This Bogart-Bergman film is better remembered than its source, the play "Everybody Comes to Rick's" | Casablanca
+right: Robert
+Wrong: 
+Value: $400
+Number: 16
+CRUSTACEANS | Watch out for the goose type of these; they may grow attached to the hull of your ship | barnacles
+right: Marion
+Wrong: 
+Value: $400
+Number: 2
+CELEBRATIONS | Appropriately, National Stress Awareness Day is observed on this date, one day after "Tax Day" | April 16
+right: Steve
+Wrong: 
+Value: $600
+Number: 14
+LIBATIONS | According to Alexis Lichine, this Orwellian year was not a vintage year for champagne | 1984
+right: Robert
+Wrong: 
+Value: $600
+Number: 9
+ASSASSINATIONS | U.S. flags flew at half staff after this Israeli prime minister was slain in 1995 | Yitzhak Rabin
+right: Steve
+Wrong: 
+Value: $600
+Number: 24
+CREATIONS | In the early 1900s, Frank Fleer first introduced this, under the name Blibber-Blubber | bubble gum
+right: Robert
+Wrong: 
+Value: $600
+Number: 27
+ADAPTATIONS | Kevin Kline & Joan Allen were moody indeed in this 1997 drama from a Rick Moody novel | The Ice Storm
+right: Steve
+Wrong: 
+Value: $600
+Number: 17
+CRUSTACEANS | Crustacean that's the title of the 1979 song heard <http://www.j-archive.com/media/1998-06-12_DJ_04.mp3> here:  "Everybody had...." | "Rock Lobster"
+right: Robert
+Wrong: 
+Value: $600
+Number: 4
+CELEBRATIONS | Dictionary Day, October 16, celebrates the birthday of this American lexicographer; look it up! | Noah Webster
+right: Robert
+Wrong: 
+Value: $800
+Number: 20
+LIBATIONS | Pour gin or vodka over ice in a salt-rimmed glass & add grapefruit juice to make this "canine" drink | a salty dog
+right: Robert
+Wrong: 
+Value: $800
+Number: 10
+ASSASSINATIONS | Confirming this rebel's death in 1967, Fidel Castro said it was "sadly true" | Ernesto "Che" Guevara
+right: Marion
+Wrong: 
+Value: $800
+Number: 25
+CREATIONS | In 1975, 30 years after introducing the Bic pen, Baron Marcel Bich introduced this disposable item | the disposable razor
+right: Robert
+Wrong: 
+Value: DD: $1,000
+Number: 29
+ADAPTATIONS | This film about a dying catcher, based on a Mark Harris novel, took its title from "The Streets of Laredo" | Bang the Drum Slowly
+right: Robert
+Wrong: 
+Value: $800
+Number: 18
+CRUSTACEANS | The ghost type of this crustacean burrows in the sand by day & scavenges on the beach at night | the crab
+right: Steve
+Wrong: 
+Value: $800
+Number: 5
+CELEBRATIONS | This date on which WWII ended in Europe is a legal holiday in France | May 8, 1945
+right: 
+Wrong: Triple Stumper
+Steve: What is V-E Day?
+Marion: What is June 5?
+Value: $1000
+Number: 21
+LIBATIONS | This yellow, anise-flavored liqueur is an essential ingredient in a Harvey Wallbanger | galliano
+right: 
+Wrong: Triple Stumper
+Robert: What is anisette?
+Value: $1000
+Number: 11
+ASSASSINATIONS | A Praetorian guard had enough of this insane Roman emperor & murdered him in 41 A.D. | Caligula
+right: Robert
+Wrong: 
+Marion: Who is Nero?
+Value: $1000
+Number: 28
+CREATIONS | Lasers are used to read this type of musical album first sold in Japan in 1982... sure beats a needle | the compact disc
+right: Robert
+Wrong: 
+Value: $1000
+Number: 30
+ADAPTATIONS | 1951's "A Place in the Sun" adapts this classic "American" novel by Theodore Dreiser | An American Tragedy
+right: 
+Wrong: 
+Robert: [no response]
+Value: DD: $1,000
+Number: 19
+CRUSTACEANS | Blue whales eat tons of these tiny crustaceans whose name is from the Norwegian for a fish's young | krill
+right: Steve
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Steve: $7,600
+Robert: $7,600
+Marion: -$400
+
+Final Jeopardy! Round
+ORGANIZATIONS | This women's organization founded in 1890 was chartered by Congress in 1896 | the Daughters of the American Revolution
+right: 
+Wrong: 
+Robert: What is the [N O W crossed out] League Women Voters
+Steve: What is the [Daughters crossed out] League of Women Voters
+Wagers: 
+Robert: $7,600
+Steve: $7,600
+Final scores:
+Steve: $0 (Loser: a trip to Portugal)
+Robert: $0 (Loser: a Panasonic digital video disc player)
+Marion: -$400 (Loser: a Panasonic digital video disc player)
+
+Coryat scores
+Steve: $6,900 (25 R(including 1 DD),4 W)
+Robert: $8,400 (21 R(including 1 DD),5 W(including 1 DD))
+Marion: -$400 (7 R,5 W)

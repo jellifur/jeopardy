@@ -1,0 +1,342 @@
+3078 - Wednesday, January 7, 1998
+Contestants:
+Melanie DeCarolis: an editor from Brookline, Massachusetts
+Larry Blair: a software engineer from Palo Alto, California
+Michael Forrest: an actor from Silver Spring, Maryland (whose 1-day cash winnings total $3,700)
+First Jeopardy! Round: FAIRIES, MOTTOES, THEY ALL PLAYED HAMLET, "P"OTPOURRI, ISLANDS, WET & WILD
+FAIRIES | He puts "sleepy dust" in children's eyes to help them sleep | Sandman
+right: Larry
+Wrong: 
+Value: $100
+Number: 11
+MOTTOES | Be prepared to tell us that this group's motto is "Be Prepared" | Boy Scouts
+right: Larry
+Wrong: 
+Value: $100
+Number: 16
+THEY ALL PLAYED HAMLET | Fans from around the world sped to Winnipeg to see this "Speed" star play Hamlet there in 1995 | Keanu Reeves
+right: Michael
+Wrong: 
+Value: $100
+Number: 13
+"P"OTPOURRI | If you've been to a prom, you should know "prom" is short for this, also a popular name for a shopping mall | Promenade
+right: Larry
+Wrong: 
+Value: $100
+Number: 6
+ISLANDS | The Danes call this island dependency in the north Atlantic Gronland | Greenland
+right: Michael
+Wrong: 
+Value: $100
+Number: 1
+WET & WILD | Of a bird, a fish or an insect, what a water boatman is | Insect
+right: Melanie
+Wrong: 
+Value: $100
+Number: 26
+FAIRIES | On stage, this fairy, visible only as a dancing light, swallows poison to save Peter Pan's life | Tinkerbell
+right: Melanie
+Wrong: 
+Value: $200
+Number: 12
+MOTTOES | "Ring" in if you know it's engraved with the motto "Proclaim Liberty Throughout All The Land..." | Liberty Bell
+right: Melanie
+Wrong: 
+Value: $200
+Number: 18
+THEY ALL PLAYED HAMLET | He's only 9 years younger than Glenn Close, but he called her Mom in Zeffirelli's 1990 version | Mel Gibson
+right: Larry
+Wrong: 
+Value: $200
+Number: 14
+"P"OTPOURRI | A type of large snake; it may be "reticulated" | Python
+right: Michael
+Wrong: 
+Value: $200
+Number: 7
+ISLANDS | Hey, mon!  The Cayman Islands were colonized about 1734 by British settlers from this nearby island | Jamaica
+right: Larry
+Wrong: 
+Value: $200
+Number: 2
+WET & WILD | The American Water & Irish Water breeds of this dog are both noted for retrieving waterfowl | Spaniel
+right: Melanie
+Wrong: 
+Value: $200
+Number: 27
+FAIRIES | In December 1892 "The Nutcracker" was first produced with Antonietta Dell'era in this role | Sugarplum Fairy
+right: Michael
+Wrong: 
+Value: $300
+Number: 15
+MOTTOES | Put a feather in your cappa if you know this Greek society's motto is "Philosophy The Guide Of Life" | Phi Beta Kappa
+right: Larry
+Wrong: 
+Value: $300
+Number: 22
+THEY ALL PLAYED HAMLET | The role of Obi-Wan Kenobi was light-years away when he played Hamlet at the Old Vic in 1938 | Sir Alec Guinness
+right: Melanie
+Wrong: 
+Value: $300
+Number: 19
+"P"OTPOURRI | From the name of a river, it's the "fever" that tends to afflict national politicians | Potomac fever
+right: Michael
+Wrong: 
+Melanie: What is yellow fever?
+Value: $300
+Number: 8
+ISLANDS | The Safety Islands off French Guiana consist of Royale, Saint-Joseph & this diabolical island | Devil's Island
+right: Larry
+Wrong: 
+Value: $300
+Number: 3
+WET & WILD | Bubalus babalis is the scientific name of this animal also known as the water ox | Water buffalo
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+FAIRIES | This mischievous fairy speaks the epilogue of Shakespeare's "A Midsummer Night's Dream" | Puck
+right: Michael
+Wrong: 
+Value: $400
+Number: 17
+MOTTOES | "Power To The People" was one of the mottoes of this '60s militant group, founded in Oakland | Black Panthers
+right: Larry
+Wrong: 
+Value: $400
+Number: 24
+THEY ALL PLAYED HAMLET | He played Hamlet at the New York Shakespeare Festival before he hammed it up as Mike Hammer: | Stacy Keach
+right: Melanie
+Wrong: 
+Value: DD: $500
+Number: 20
+"P"OTPOURRI | It's the kind of lurid fiction printed on the low-quality paper of the same name | Pulp fiction
+right: Larry
+Wrong: 
+Value: $400
+Number: 9
+ISLANDS | Politically, this Greek island is divided into 4 departments: Canea, Lasithi, Rethymne & Iraklion | Crete
+right: Michael
+Wrong: 
+Value: $400
+Number: 4
+WET & WILD | Water hog is another name for this, the largest living rodent, that looks like a giant guinea pig | Capybara
+right: Larry
+Wrong: 
+Value: $400
+Number: 29
+FAIRIES | Sometimes a fairy will steal one of these & leave a changeling in its place | Baby
+right: Melanie
+Wrong: 
+Value: $500
+Number: 23
+MOTTOES | "Duty, Honor, Country" is the motto of this New York school | U.S. Military Academy/West Point/Army
+right: Michael
+Wrong: 
+Value: $500
+Number: 25
+THEY ALL PLAYED HAMLET | This star of "A Fish Called Wanda" not only starred in but directed a 1990 production of "Hamlet" | Kevin Kline
+right: Melanie
+Wrong: 
+Value: $500
+Number: 21
+"P"OTPOURRI | This term for a social outcast is from the Tamil for "drummer", a position once held by a person of low caste | Pariah
+right: Michael
+Wrong: 
+Value: $500
+Number: 10
+ISLANDS | This island was specially built for San Francisco's Golden Gate Int'l Exposition of 1939 & 1940 | Treasure Island
+right: Larry
+Wrong: 
+Value: $500
+Number: 5
+WET & WILD | The water opossum is also called the yapok, in honor of this continent's Oyapok River | South America
+right: 
+Wrong: Triple Stumper
+Melanie: What is Asia?
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Michael: $1,900
+Larry: $1,800
+Melanie: -$100
+Scores at the end of the Jeopardy! Round:
+Michael: $2,800
+Larry: $2,500
+Melanie: $1,700
+Second Jeopardy! Round: MYTHOLOGY, TRAVEL U.S.A., ROYALTY, WOMEN IN SPORTS, DIBS!, BEFORE & AFTER
+MYTHOLOGY | She had the "Face that launched a thousand ships"; sounds painful! | Helen of Troy
+right: Larry
+Wrong: 
+Value: $200
+Number: 5
+TRAVEL U.S.A. | A nat'l memorial near Kitty Hawk features reconstructions of the camp & hangar used by this pair | The Wright Brothers
+right: Larry
+Wrong: 
+Value: $200
+Number: 2
+ROYALTY | Isabella II was proclaimed queen of this country a few days before her third birthday, in 1833 | Spain
+right: Larry
+Wrong: 
+Value: $200
+Number: 1
+WOMEN IN SPORTS | In March 1997 this Swiss miss became the youngest player to be ranked No. 1 in women's tennis | Martina Hingis
+right: Michael
+Wrong: 
+Value: $200
+Number: 24
+DIBS! | In 1494 Pope Alexander VI gave this country the right to colonize the east coast of Brazil | Portugal
+right: Michael
+Wrong: 
+Value: $200
+Number: 29
+BEFORE & AFTER | The great white whale who hosted "American Bandstand" | Moby Dick Clark
+right: Michael
+Wrong: 
+Value: $200
+Number: 26
+MYTHOLOGY | Believing Thisbe to be dead after finding her bloody veil, this youth killed himself | Pyramus
+right: Melanie
+Wrong: 
+Value: $400
+Number: 9
+TRAVEL U.S.A. | Open to the public, a St. Louis farm once owned by Ulysses Grant is now operated by this brewery | Anheuser-Busch
+right: Larry
+Wrong: 
+Melanie: What is Budweiser?
+Value: $400
+Number: 13
+ROYALTY | Kipling wrote of this queen, "Walk wide o' the widow at Windsor, for 'alf o' creation she owns" | Queen Victoria
+right: Melanie
+Wrong: 
+Value: $400
+Number: 19
+WOMEN IN SPORTS | Nancy Lieberman-Cline is among the inductees in the Naismith Memorial Hall of Fame for this sport | Basketball
+right: Michael
+Wrong: 
+Value: DD: $200
+Number: 25
+DIBS! | The Dutch had already sighted Australia, & Aborigines lived there, when he claimed it for England in 1770 | Captain James Cook
+right: Melanie
+Wrong: 
+Value: $400
+Number: 30
+BEFORE & AFTER | "That Girl" who wrote the Declaration of Independence | Marlo Thomas Jefferson
+right: Melanie
+Wrong: 
+Value: $400
+Number: 27
+MYTHOLOGY | She was Pygmalion's "statuesque" wife | Galatea
+right: Melanie
+Wrong: 
+Value: $600
+Number: 10
+TRAVEL U.S.A. | Wish you were in Dixie -- National Forest?  You'll find it near Bryce Canyon in this state | Utah
+right: Larry
+Wrong: 
+Value: $600
+Number: 6
+ROYALTY | He & Carlota landed in Mexico on May 28, 1864 | Maximilian
+right: Larry
+Wrong: 
+Value: $600
+Number: 20
+WOMEN IN SPORTS | Kathy Whitworth was the first woman in this sport to win a million dollars in prize money | Golf
+right: Larry
+Wrong: 
+Value: $600
+Number: 14
+DIBS! | This 2-word term coined in 1845 asserted that the U.S. had dibs on land stretching to the Pacific | Manifest destiny
+right: Michael
+Wrong: 
+Value: $600
+Number: 17
+BEFORE & AFTER | Now ear this: it's an "ear" vegetable served on a spider structure | Corn on the cobweb
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+MYTHOLOGY | As the muse of this scholarly discipline, Clio probably tended to repeat herself | History
+right: Melanie
+Wrong: 
+Value: DD: $1,500
+Number: 11
+TRAVEL U.S.A. | You can visit the Netherlands Museum without ever leaving the USA; it's located in this Michigan city | Holland
+right: Larry
+Wrong: 
+Value: $800
+Number: 3
+ROYALTY | This country's King Carl XVI Gustaf was born Carl Gustaf Folke Hubertus at Haga Castle in 1946 | Sweden
+right: Michael
+Wrong: 
+Value: $800
+Number: 23
+WOMEN IN SPORTS | In 1996 Christy Martin became the first female pro in this sport to be featured live on national TV | Boxing
+right: 
+Wrong: Triple Stumper
+Melanie: What is hockey?
+Value: $800
+Number: 7
+DIBS! | When this native group had dibs on the Mexico City area, they called it Tenochtitlan | Aztecs
+right: Larry
+Wrong: 
+Value: $800
+Number: 15
+BEFORE & AFTER | A Lerner & Loewe musical about a lovely insect who flies away home | My Fair Ladybug
+right: Michael
+Wrong: 
+Value: $800
+Number: 21
+MYTHOLOGY | Vulcan's Greek counterpart, he created Achilles' armor | Hephaestus
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 12
+TRAVEL U.S.A. | For some fun in this Pennsylvania city, drop by the Dutch Wonderland Family Fun Park | Lancaster
+right: Michael
+Wrong: 
+Value: $1000
+Number: 4
+ROYALTY | Duchess Sophie of Bavaria married this tiny country's Crown Prince Alois in 1993, in Vaduz | Liechtenstein
+right: Michael
+Wrong: 
+Value: $1000
+Number: 18
+WOMEN IN SPORTS | In 1997 this 14-year-old American became the youngest women's world figure skating champion | Tara Lipinski
+right: Michael
+Wrong: 
+Value: $1000
+Number: 8
+DIBS! | The Russians & Japanese both want these northern islands that were first occupied by the Ainu | Kuril Islands
+right: Larry
+Wrong: 
+Value: $1000
+Number: 16
+BEFORE & AFTER | Leonardo da Vinci's portrait of Michael Jackson's ex-wife | Mona Lisa Marie Presley
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Michael: $8,800
+Larry: $7,900
+Melanie: $6,200
+
+Final Jeopardy! Round
+ENGLISH LITERATURE | This 1726 satire reported the existence of Mars' 2 moons 151 years before Asaph Hall discovered them | Gulliver's Travels
+right: Melanie | Larry
+Wrong: 
+Michael: What Candide
+Wagers: 
+Melanie: $6,000
+Larry: $5,501
+Michael: $7,100
+Final scores:
+Michael: $1,700 (3rd place: Panasonic Large Color LCD Palmcorder)
+Larry: $13,401 (New champion: $13,401)
+Melanie: $12,200 (2nd place: Trip to Hotel Melia Don Pepe, Costa del Sol, Spain)
+
+Coryat scores
+Michael: $9,000 (19 R(including 1 DD),0 W)
+Larry: $7,900 (21 R,1 W)
+Melanie: $5,400 (16 R(including 2 DDs),4 W)

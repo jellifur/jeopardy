@@ -1,0 +1,342 @@
+3865 - Friday, May 25, 2001
+Contestants:
+Steve Engel: a psychology professor from Los Angeles, California
+Liz Bakulski: an investment advisor originally from Andover, Massachusetts
+Carl Brownell: a high school teacher from Evanston, Illinois (whose 1-day cash winnings total $3,000)
+First Jeopardy! Round: SCIENCE & NATURE, HARD ROCK CAFE, A NOVEL CATEGORY, REMEMBER 1989?, RHYMES WITH RHYME, GAMING
+SCIENCE & NATURE | About one-millionth as bright as our sun, these small red stars are also known as flare stars | dwarfs
+right: Steve
+Wrong: 
+Value: $100
+Number: 22
+HARD ROCK CAFE | These rockers conquered the world with albums like "High Voltage", "Highway to Hell" & "Back in Black" | AC/DC
+right: Carl
+Wrong: 
+Value: $100
+Number: 1
+A NOVEL CATEGORY | Elias Canetti's "Die Blendung" has been published in English under the Biblical title "The Tower of" this | Babel
+right: Carl
+Wrong: 
+Value: $100
+Number: 16
+REMEMBER 1989? | Based on a comic book & a campy '60s TV show, this movie was an immense hit in 1989 | Batman
+right: Carl
+Wrong: 
+Value: $100
+Number: 6
+RHYMES WITH RHYME | Unlawful activity | crime
+right: Steve
+Wrong: 
+Value: $100
+Number: 21
+GAMING | One story credits 17th century mathematician Blaise Pascal with the invention of this ball-&-wheel game | roulette
+right: Steve
+Wrong: 
+Value: $100
+Number: 11
+SCIENCE & NATURE | The mud eel is not really an eel, but a species of this tailed amphibian | a salamander
+right: Carl
+Wrong: 
+Value: $200
+Number: 23
+HARD ROCK CAFE | At No. 4, this Robert Plant band's highest-charting U.S. hit was 1969's "Whole Lotta Love" | Led Zeppelin
+right: Carl
+Wrong: 
+Value: $200
+Number: 2
+A NOVEL CATEGORY | This "Don Quixote" author wrote his first novel, "La Galatea", in 1585 | Cervantes
+right: Carl
+Wrong: 
+Value: $200
+Number: 17
+REMEMBER 1989? | Attracting widespread media coverage, this star of "The Queen of Outer Space" slapped a cop | Zsa Zsa Gabor
+right: Carl
+Wrong: 
+Value: $200
+Number: 7
+RHYMES WITH RHYME | Sound of a bell | chime
+right: Carl
+Wrong: 
+Value: $200
+Number: 24
+GAMING | Hazard is a centuries-old game using these, which Einstein thought God doesn't play with | dice
+right: Steve
+Wrong: 
+Value: $200
+Number: 12
+SCIENCE & NATURE | Of the 6 simple machines in physics, this one uses a spiral inclined plane | a screw
+right: Steve
+Wrong: 
+Value: $300
+Number: 27
+HARD ROCK CAFE | On the Michael Jackson hit "Beat It" this virtuoso lead guitarist played a solo | Eddie Van Halen
+right: Carl
+Wrong: 
+Value: $300
+Number: 3
+A NOVEL CATEGORY | "The Plum in the Golden Vase", a novel known for its eroticism, was written at the time of this Chinese dynasty | the Ming Dynasty
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 18
+REMEMBER 1989? | Playing for the Texas Rangers, this man became the first pitcher to strike out 5,000 batters | Nolan Ryan
+right: Steve
+Wrong: 
+Value: $300
+Number: 8
+RHYMES WITH RHYME | Slug & snail residue | slime
+right: Carl
+Wrong: 
+Value: $300
+Number: 25
+GAMING | Wild Fruit Bars & Jackpot Party are popular types of these machines | slot machines
+right: Steve
+Wrong: 
+Value: $300
+Number: 13
+SCIENCE & NATURE | The name of this Alpine flower is German for "noble white" | Edelweiss
+right: Steve
+Wrong: 
+Value: DD: $2,700
+Number: 28
+HARD ROCK CAFE | In the 1970s the man seen here fronted this "colorful" rock band: [Ozzy Osbourne] | Black Sabbath
+right: Carl
+Wrong: 
+Liz: Who is Ozzy Osbourne?
+Value: $400
+Number: 4
+A NOVEL CATEGORY | The 1803 book "Thaddeus of" this Polish city is called one of the first historical novels | Warsaw
+right: Carl
+Wrong: 
+Value: $400
+Number: 19
+REMEMBER 1989? | Echoing sports cars of the past, Mazda introduced this 2-seat roadster | Miata
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+RHYMES WITH RHYME | A Canadian coin | dime
+right: Steve
+Wrong: 
+Value: $400
+Number: 26
+GAMING | Aussie mogul Kerry Packer reportedly lost $15 million in a weekend at this game that involves a banker | baccarat
+right: Carl
+Wrong: 
+Liz: What is blackjack?
+Value: $400
+Number: 14
+SCIENCE & NATURE | All 6 noble gases were discovered on Earth between 1894 & 1900; this one, symbol Rn, was the last | radon
+right: Steve
+Wrong: 
+Value: $500
+Number: 29
+HARD ROCK CAFE | Known best for "Rock You Like A Hurricane", this metal band cut an album in 2000 with the Berlin Philharmonic | The Scorpions
+right: Liz
+Wrong: 
+Value: $500
+Number: 5
+A NOVEL CATEGORY | A relative of Chilean president Salvador Allende, she wrote the luminous novel "Eva Luna" | Isabel Allende
+right: Carl
+Wrong: 
+Value: $500
+Number: 20
+REMEMBER 1989? | In 1989 this Japanese corporation bought Columbia Pictures for $3.4 billion | Sony
+right: Carl
+Wrong: 
+Value: $500
+Number: 10
+RHYMES WITH RHYME | First in degree or rank | prime
+right: Steve
+Wrong: 
+Value: $500
+Number: 30
+GAMING | Caesars Palace historians tell us this game with numbers marked on a ticket helped fund the Great Wall of China | keno
+right: Carl | Steve
+Wrong: 
+Liz: What is mah jongg?
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Carl: $2,700
+Liz: -$800
+Steve: $1,800
+Scores at the end of the Jeopardy! Round:
+Carl: $4,600
+Liz: -$800
+Steve: $6,400
+Second Jeopardy! Round: DRAMA & DRAMATISTS, CAPITAL PUNISHMENT, THE RUSSIANS ARE COMING!, NESTLE'S, COUNTRY MUSIC, WORDS FROM CHINESE
+DRAMA & DRAMATISTS | As a music critic, this playwright signed his essays first as "Corno di Bassetto", then as "G.B.S." | George Bernard Shaw
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 8
+CAPITAL PUNISHMENT | Monrovia | Liberia
+right: Carl
+Wrong: 
+Value: $200
+Number: 1
+THE RUSSIANS ARE COMING! | This leader in power from 1917 to 1924 founded Russia's Communist Party & the Soviet state | V.I. Lenin
+right: Steve
+Wrong: 
+Value: $200
+Number: 13
+NESTLE'S | Nestle's began making this in 1904; they claim to make the very best of it | chocolate
+right: Carl
+Wrong: 
+Liz: What is cocoa?
+Value: $200
+Number: 6
+COUNTRY MUSIC | The originator of the Bakersfield sound, he once referred to himself in song as "Ol' Buck" | Buck Owens
+right: Carl
+Wrong: 
+Value: $200
+Number: 26
+WORDS FROM CHINESE | "Great wind", a tropical cyclone | typhoon
+right: 
+Wrong: Triple Stumper
+Carl: What is a monsoon?
+Value: $200
+Number: 21
+DRAMA & DRAMATISTS | In 1622 this French comedic playwright was born Jean-Baptiste Poquelin in Paris | Molière
+right: Steve
+Wrong: 
+Carl: Who was Voltaire?
+Value: $400
+Number: 9
+CAPITAL PUNISHMENT | Kinshasa | Congo (formerly Zaire)
+right: Steve
+Wrong: 
+Value: $400
+Number: 2
+THE RUSSIANS ARE COMING! | Seen <http://www.j-archive.com/media/2001-05-25_DJ_14.jpg> here, she's made a name for herself on & off the tennis courts | Anna Kournikova
+right: Carl
+Wrong: 
+Value: $400
+Number: 14
+NESTLE'S | On Nestle's brand list, 1 of the 2 mineral waters filed under "P" | Perrier (or Poland Spring)
+right: Steve
+Wrong: 
+Value: $400
+Number: 7
+COUNTRY MUSIC | Country music fans often tune into TNN, which now stands for "The National Network", but used to stand for this | The Nashville Network
+right: Carl
+Wrong: 
+Value: $400
+Number: 27
+WORDS FROM CHINESE | The name of this game played with 144 tiles comes from a Chinese word meaning "sparrows" | Mah jongg
+right: Steve
+Wrong: 
+Value: $400
+Number: 22
+DRAMA & DRAMATISTS | This 1961 Tennessee Williams play takes place at the Costa Verde, a small Mexican hotel on a jungle-covered hilltop | Night of the Iguana
+right: Carl
+Wrong: 
+Value: $600
+Number: 10
+CAPITAL PUNISHMENT | Muscat | Oman
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+THE RUSSIANS ARE COMING! | Court jeweler to Alexander III & Nicholas II, he was famous for his beautifully crafted eggs | Carl Faberge
+right: Steve
+Wrong: 
+Value: $600
+Number: 15
+NESTLE'S | Nestle's first non-milk product was an instant form of this in 1938 | coffee (Nescafé)
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+COUNTRY MUSIC | In the 1970s this singer from Butcher Holler teamed with Conway Twitty for 5 No. 1 hits | Loretta Lynn
+right: 
+Wrong: Triple Stumper
+Carl: Who is Dolly Parton?
+Value: $600
+Number: 28
+WORDS FROM CHINESE | It's the sand-fur dog variety seen <http://www.j-archive.com/media/2001-05-25_DJ_23.jpg> here | a Shar Pei
+right: Liz
+Wrong: 
+Value: $600
+Number: 23
+DRAMA & DRAMATISTS | From 1851 to 1857 he served as writer-manager of the Norwegian Theatre in Bergen | Henrik Ibsen
+right: Carl
+Wrong: 
+Value: DD: $1,500
+Number: 11
+CAPITAL PUNISHMENT | Dakar | Senegal
+right: Carl
+Wrong: 
+Value: $800
+Number: 4
+THE RUSSIANS ARE COMING! | A ballet by this composer features the piece heard <http://www.j-archive.com/media/2001-05-25_DJ_16.mp3> here:  ["The Russian Dance"] | Pyotr Tchaikovsky
+right: Carl
+Wrong: 
+Value: $800
+Number: 16
+NESTLE'S | In 1985 Nestle's bloomed when it acquired this American maker of evaporated milk from contented cows | Carnation
+right: Liz
+Wrong: 
+Steve: What is Borden?
+Value: $800
+Number: 19
+COUNTRY MUSIC | November 28, 1925 marked the debut of this station's "Barn Dance", which later became the "Grand Ole Opry" | WSM ("World's Sweetest Music")
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+WORDS FROM CHINESE | "Man herb", an aromatic root used medicinally | ginseng
+right: 
+Wrong: 
+Liz: What is ginger?
+Value: DD: $400
+Number: 24
+DRAMA & DRAMATISTS | In this Chekhov play, a merchant buys Madame Ranevsky's estate & plans to cut down its trees | The Cherry Orchard
+right: Steve
+Wrong: 
+Value: $1000
+Number: 12
+CAPITAL PUNISHMENT | Central America's Belmopan | Belize
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+THE RUSSIANS ARE COMING! | This Russian poet & author of the drama "Boris Godunov" died from wounds suffered in a duel in 1837 | Alexander Pushkin
+right: 
+Wrong: Triple Stumper
+Carl: Who was Pasternak?
+Value: $1000
+Number: 17
+NESTLE'S | Henri Nestle began his company in this country in the 1860s selling a cow's-milk food for babies | Switzerland
+right: Liz
+Wrong: 
+Value: $1000
+Number: 20
+WORDS FROM CHINESE | Gold-orange fruit seen <http://www.j-archive.com/media/2001-05-25_DJ_25.jpg> here | a kumquat
+right: Steve
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Carl: $7,500
+Liz: $1,000
+Steve: $10,000
+
+Final Jeopardy! Round
+INTERNATIONAL STARS | Since 1978 the city of Paris has funded his Ecole Internationale de Mimodrame de Paris | Marcel Marceau
+right: Liz | Carl | Steve
+Wrong: 
+Wagers: 
+Liz: $0
+Carl: $7,500
+Steve: $5,001
+Final scores:
+Carl: $15,000 (2nd place: Trip to Singapore courtesy of Priceline.com)
+Liz: $1,000 (3rd place: Sony Card $1,000 Shopping Spree)
+Steve: $15,001 (New champion: $15,001)
+
+Coryat scores
+Carl: $6,800 (25 R(including 1 DD),4 W)
+Liz: $1,400 (4 R,5 W(including 1 DD))
+Steve: $7,700 (21 R(including 1 DD),1 W)

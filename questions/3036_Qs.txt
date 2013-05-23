@@ -1,0 +1,350 @@
+5708 - Wednesday, June 3, 2009
+Comments: Ask Alex #19: Contestant.
+Contestants:
+Joanna Lees: a clerical worker from Fishers, Indiana
+Bryan Cothorn: a math tutor from Baltimore, Maryland
+Harris Cohen: a family physician from Lower Gwynedd, Pennsylvania (whose 1-day cash winnings total $9,400)
+First Jeopardy! Round: LET'S GO TO ITALY, REVOLVING RESTAURANTS, ON BOARD GAME BOARDS, THE "ANTI"-CATEGORY, MIRO, MIRO ON THE WALL, WHO'S THE FAIREST ONE OF ALL?
+LET'S GO TO ITALY | The bell tower in this city began to tilt after the construction of the first 3 of its 8 stories | Pisa
+right: Harris
+Wrong: 
+Value: $200
+Number: 6
+REVOLVING RESTAURANTS | The world's 2nd--& now the oldest--revolving restaurant has topped this Jetson-y Seattle landmark since '62 | The Space Needle
+right: Joanna
+Wrong: 
+Value: $200
+Number: 16
+ON BOARD GAME BOARDS | Luxury Tax, Chance, Jail/Just visiting | Monopoly
+right: Bryan
+Wrong: 
+Value: $200
+Number: 11
+THE "ANTI"-CATEGORY | Certain Dri & Secret are brands of this personal product | antiperspirant
+right: Bryan
+Wrong: 
+Value: $200
+Number: 1
+MIRO, MIRO ON THE WALL | Some Joan Miro paintings are on the wall in this Spanish seaport where Miro was born in 1893 | Barcelona
+right: Joanna
+Wrong: 
+Value: $200
+Number: 26
+WHO'S THE FAIREST ONE OF ALL? | In a 1937 Disney film, the wicked queen is miffed when the mirror says the fairest one is this heroine | Snow White
+right: Harris
+Wrong: 
+Bryan: Who is Sleeping Beauty?
+Value: $200
+Number: 17
+LET'S GO TO ITALY | We'll fly into this city's Leonardo Da Vinci international airport, popularly called Fiumicino | Rome
+right: Joanna
+Wrong: 
+Value: $400
+Number: 7
+REVOLVING RESTAURANTS | In 1961, La Ronde at the Ala Moana office tower in this state capital became the first revolving restaurant | Honolulu
+right: Joanna
+Wrong: 
+Bryan: What is Baton Rouge?
+Value: $400
+Number: 18
+ON BOARD GAME BOARDS | Areas called Greenland, Western Europe, Alaska | Risk
+right: Harris
+Wrong: 
+Value: $400
+Number: 12
+THE "ANTI"-CATEGORY | Amoxicillin & ampicillin are types of these | antibiotics
+right: Harris
+Wrong: 
+Value: $400
+Number: 2
+MIRO, MIRO ON THE WALL | Oui, oui!  Miro created a ceramic wall for the UNESCO building in this city in 1958 | Paris
+right: Joanna
+Wrong: 
+Value: $400
+Number: 27
+WHO'S THE FAIREST ONE OF ALL? | A Long Beach, Ca. bathing beauty contest evolved into this pageant that picks the best-looking gal in our cosmos | Miss Universe
+right: Harris
+Wrong: 
+Value: $400
+Number: 22
+LET'S GO TO ITALY | You can visit this volcano that overlooks the Bay of Naples, reaching the rim of the crater's mouth | Vesuvius
+right: Bryan
+Wrong: 
+Harris: What is Etna?
+Value: $600
+Number: 8
+REVOLVING RESTAURANTS | For a peachy view of this city, visit the Sun Dial restaurant atop the Westin Peachtree Plaza | Atlanta
+right: Joanna
+Wrong: 
+Value: $600
+Number: 19
+ON BOARD GAME BOARDS | Hall, Study, Conservatory | Clue
+right: Harris
+Wrong: 
+Value: DD: $800
+Number: 13
+THE "ANTI"-CATEGORY | Cymbalta & Lexapro are types of these | antidepressants
+right: Harris
+Wrong: 
+Value: $600
+Number: 3
+MIRO, MIRO ON THE WALL | The huge mural that Miro painted for a hotel in this southwest Ohio city in 1947 is now owned by the city's art museum | Cincinnati
+right: Joanna
+Wrong: 
+Value: $600
+Number: 28
+WHO'S THE FAIREST ONE OF ALL? | In 2008 this Goldie girl (actually, Goldie's daughter) graced the cover of People's Most Beautiful People issue | Kate Hudson
+right: Harris
+Wrong: 
+Value: $600
+Number: 23
+LET'S GO TO ITALY | This northern Italian city at the heart of the Po Basin is known for the Pirelli Building & its Fashion Weeks | Milan
+right: Joanna
+Wrong: 
+Value: $800
+Number: 9
+REVOLVING RESTAURANTS | See a moving view of Manhattan from the View Restaurant & Lounge at the Marriott Marquis on this square | Times Square
+right: Joanna
+Wrong: 
+Value: $800
+Number: 20
+ON BOARD GAME BOARDS | Yes, No, Good Bye | Ouija
+right: Joanna
+Wrong: 
+Value: $800
+Number: 14
+THE "ANTI"-CATEGORY | A 1997 treaty banned this type of land mine, used against people rather than mechanized vehicles | anti-personnel
+right: Joanna
+Wrong: 
+Harris: What is anti-tank?
+Value: $800
+Number: 4
+MIRO, MIRO ON THE WALL | Many of Miro's works have adorned the walls of this Manhattan museum known by a 4-letter acronym | MOMA
+right: Bryan
+Wrong: 
+Value: $800
+Number: 29
+WHO'S THE FAIREST ONE OF ALL? | A 2005 "60 Minutes" story said the world's most beautiful woman is Aishwarya Rai, queen of this country's cinema | India
+right: Joanna
+Wrong: 
+Value: $800
+Number: 24
+LET'S GO TO ITALY | Check out the Campanile & the Galleria Degli Uffizi in this Tuscan town | Florence
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 10
+REVOLVING RESTAURANTS | You'll glide past part of the Living With the Land ride while dining at the Garden Grill in this Disney World park | Epcot
+right: Harris
+Wrong: 
+Value: $1000
+Number: 21
+ON BOARD GAME BOARDS | Millionaire Estates, Pay Day! | Life
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 15
+THE "ANTI"-CATEGORY | The direct opposite, or the term for the rhetorical contrast of "Give me liberty, or give me death" | antithesis
+right: Harris
+Wrong: 
+Value: $1000
+Number: 5
+MIRO, MIRO ON THE WALL | Miro's 1949 "Women and Bird in the Moonlight" is on the wall of the "modern" branch of this London gallery | the Tate
+right: Joanna
+Wrong: 
+Value: $1000
+Number: 30
+WHO'S THE FAIREST ONE OF ALL? | Her dad (Crown Prince Haakon) called Princess Ingrid of this country the "most beautiful little girl in the world" | Norway
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Harris: $2,000
+Bryan: $3,000
+Joanna: $2,800
+Scores at the end of the Jeopardy! Round:
+Harris: $4,200
+Bryan: $4,200
+Joanna: $7,800
+Second Jeopardy! Round: WORLD OF LITERATURE, NBA TEAMS, LITERALLY, OLD HAT, THE WRATH OF GRAPES, 2-LETTER RESPONSES, JOHNNY, TELL THEM WHAT THEY'VE WON
+WORLD OF LITERATURE | As a medical student in this city, Chekhov wrote short stories to help support his family | Moscow
+right: Harris
+Wrong: 
+Value: $400
+Number: 3
+NBA TEAMS, LITERALLY | Devices used by a rider to urge his mount forward | Spurs
+right: Bryan
+Wrong: 
+Value: $400
+Number: 21
+OLD HAT | Is there a cake under <http://www.j-archive.com/media/2009-06-03_DJ_09a.jpg> her hat?  No, probably just poofy hair on <http://www.j-archive.com/media/2009-06-03_DJ_09.jpg> this regal 18th-century fashion plate | Marie Antoinette
+right: Bryan
+Wrong: 
+Value: $400
+Number: 9
+THE WRATH OF GRAPES | Dehydrated organs suck water from this one, making it shrink & causing those hangover headaches | the brain
+right: Joanna
+Wrong: 
+Value: $400
+Number: 10
+2-LETTER RESPONSES | 2009's "New in Town" must have some material that may not be suitable for children, as it got this rating | PG
+right: Harris
+Wrong: 
+Value: $400
+Number: 19
+JOHNNY, TELL THEM WHAT THEY'VE WON | <http://www.j-archive.com/media/2009-06-03_DJ_26.mp3> You've won a brand new White House, & let the fireworks start as your opponent, Thomas Jefferson, is your new V.P. | John Adams
+right: Joanna
+Wrong: 
+Value: $400
+Number: 26
+WORLD OF LITERATURE | His "L'Ile mysterieuse" , published in 1874, foresaw the submarine, the aqualung, TV & space travel | (Jules) Verne
+right: Joanna
+Wrong: 
+Value: $800
+Number: 5
+NBA TEAMS, LITERALLY | Small, slender dinosaurs of the Cretaceous period | Raptors
+right: Harris
+Wrong: 
+Value: $800
+Number: 20
+OLD HAT | She put a little dent in a pillbox hat she wore on January 20, 1961, & suddenly dented pillboxes were all the rage | Jacqueline Kennedy
+right: Joanna
+Wrong: 
+Value: $800
+Number: 15
+THE WRATH OF GRAPES | Yikes!  This organ converts alcohol to acetaldehyde, which is 10 to 30 times more toxic than alcohol itself | the liver
+right: Joanna
+Wrong: 
+Value: $800
+Number: 11
+2-LETTER RESPONSES | According to the TV show title, it was Thomas Magnum's profession | PI
+right: Bryan
+Wrong: 
+Harris: What is private investigator?
+Value: $800
+Number: 22
+JOHNNY, TELL THEM WHAT THEY'VE WON | <http://www.j-archive.com/media/2009-06-03_DJ_27.mp3> You've beaten the Germans in this battle, their last offensive in the west during WWII, & the Ardennes is now yours to keep | the Battle of the Bulge
+right: Bryan
+Wrong: 
+Value: $800
+Number: 27
+WORLD OF LITERATURE | First & last name of the writer whose uncle became the president of Chile in 1970 | Isabel Allende
+right: 
+Wrong: 
+Joanna: I have no idea.
+Value: DD: $3,000
+Number: 6
+NBA TEAMS, LITERALLY | A form of energy associated with the motion of atoms or molecules | the (Miami) Heat
+right: Harris
+Wrong: 
+Value: $1200
+Number: 1
+OLD HAT | At Colonial Williamsburg, men wear this type of cocked hat whose name tells you it's tacked up on 3 sides | three-cornered hat (tricorne)
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 16
+THE WRATH OF GRAPES | Sulfites are among the suspected causes of RWH, these headaches; you can get them from burgundy or rioja | red wine headaches
+right: Bryan
+Wrong: 
+Value: $1200
+Number: 12
+2-LETTER RESPONSES | In November of 2008 shares of its stock dropped to nearly $3, the lowest level in almost 60 years | GM
+right: 
+Wrong: 
+Bryan: What is GE?
+Value: DD: $4,400
+Number: 23
+JOHNNY, TELL THEM WHAT THEY'VE WON | <http://www.j-archive.com/media/2009-06-03_DJ_28.mp3> You've won a case of sunscreen for your vacation to this kingdom formed by a man who named himself King of al-Hijaz | Saudi Arabia
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+WORLD OF LITERATURE | "Demian" is a Bildungsroman by this German novelist & poet | Hermann Hesse
+right: 
+Wrong: Triple Stumper
+Joanna: Who is Goethe?
+Value: $1600
+Number: 7
+NBA TEAMS, LITERALLY | Gallant or chivalrous knights, especially on horseback | the (Cleveland) Cavaliers
+right: Joanna
+Wrong: 
+Value: $1600
+Number: 2
+OLD HAT | The Smithsonian has a teensy top hat worn by this man, possibly P.T. Barnum's most famous attraction | Tom Thumb
+right: Joanna
+Wrong: 
+Value: $1600
+Number: 17
+THE WRATH OF GRAPES | Alcohol blocks this growth gland's creation of antidiuretic hormone, so drinkers do a lot of, um, diureting | the pituitary gland
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 13
+2-LETTER RESPONSES | In 2006 Nintendo introduced a new sleeker "Lite" version of this handheld game console | DS
+right: Harris
+Wrong: 
+Value: $1600
+Number: 24
+JOHNNY, TELL THEM WHAT THEY'VE WON | <http://www.j-archive.com/media/2009-06-03_DJ_29.mp3> After winning the 3rd Punic War, you deserve a little sack for what you pillage from this city that was near current Tunis | Carthage
+right: Joanna
+Wrong: 
+Value: $1600
+Number: 29
+WORLD OF LITERATURE | Iraklion-born Nikos Kazantzakis is best known for this 1946 novel | Zorba the Greek
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 8
+NBA TEAMS, LITERALLY | Enchanters, such as Gandalf | the (Washington) Wizards
+right: Bryan
+Wrong: 
+Value: $2000
+Number: 4
+OLD HAT | In the 1960s, this Texas-based airline had bubbly looking <http://www.j-archive.com/media/2009-06-03_DJ_18.jpg> stewardesses in <http://www.j-archive.com/media/2009-06-03_DJ_18a.jpg> bubble helmets designed by Pucci | Braniff
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+THE WRATH OF GRAPES | Alcohol causes the stomach to secrete this acid, HCl; drink too much & the body tells the stomach to get rid of it | hydrochloric acid
+right: Joanna
+Wrong: 
+Value: $2000
+Number: 14
+2-LETTER RESPONSES | In a serious move Sirius Satellite Radio acquired this rival in 2008 | XM
+right: Harris
+Wrong: 
+Value: $2000
+Number: 25
+JOHNNY, TELL THEM WHAT THEY'VE WON | <http://www.j-archive.com/media/2009-06-03_DJ_30.mp3> You've won the race to discover this element--now decide whether to call it "fire air" or "dephlogisticated air" | oxygen
+right: 
+Wrong: Triple Stumper
+Joanna: What is phlogiston?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Harris: $9,800
+Bryan: $4,200
+Joanna: $11,200
+
+Final Jeopardy! Round
+20th CENTURY AMERICANS | Rhyming last names of the 2 men pictured <http://www.j-archive.com/media/2009-06-03_FJ.jpg> here, who had two very different professions | Barrow & Darrow
+right: 
+Wrong: 
+Bryan: Who were [something crossed out]
+Harris: Who are Ford and
+Joanna: Who are Howard + Broward?
+Wagers: 
+Bryan: $4,200
+Harris: $1,400
+Joanna: $5,000
+Final scores:
+Harris: $8,400 (2-day champion: $17,800)
+Bryan: $0 (3rd place: $1,000)
+Joanna: $6,200 (2nd place: $2,000)
+
+Coryat scores
+Harris: $9,600 (16 R(including 1 DD),3 W)
+Bryan: $8,600 (13 R,4 W(including 1 DD))
+Joanna: $14,200 (22 R,3 W(including 1 DD))

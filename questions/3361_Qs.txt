@@ -1,0 +1,342 @@
+5894 - Thursday, April 8, 2010
+Contestants:
+Morgan Saxby: a research associate from Charlottesville, Virginia
+Marv Peña: a video game lawyer from Redwood City, California
+Karla Ruksys: an administrative assistant from Mount Ephraim, New Jersey (whose 1-day cash winnings total $30,000)
+First Jeopardy! Round: PRESIDENTIAL PASTIMES, REALITY TV, THE JAMES BEARD FOUNDATION, THE NOVEL'S FIRST DRAFT?, SOUNDS, HETERONYMS
+PRESIDENTIAL PASTIMES | Jimmy Carter liked to grab his flies & do some of this in Hunting Creek, near Camp David | fishing
+right: Morgan
+Wrong: 
+Value: $200
+Number: 1
+REALITY TV | After she was jilted by "The Bachelor", Melissa Rycroft waltzed her way into the finals on this show | Dancing with the Stars
+right: Karla
+Wrong: 
+Value: $200
+Number: 3
+THE JAMES BEARD FOUNDATION | In 1946 author & chef James Beard became the first to do cooking instruction using this medium | television
+right: Marv
+Wrong: 
+Value: $200
+Number: 11
+THE NOVEL'S FIRST DRAFT? | Darcy thought, dodged a bullet! That Bennet family was nuts! Elizabeth was cute, but I've got money, single life's not so bad! | Pride and Prejudice
+right: Morgan
+Wrong: 
+Value: $200
+Number: 15
+SOUNDS | You'll hear it after a coach signals for a timeout in water polo | a whistle
+right: Morgan
+Wrong: 
+Value: $200
+Number: 21
+HETERONYMS | To plant seed, or a female hog | sow
+right: Morgan
+Wrong: 
+Value: $200
+Number: 26
+PRESIDENTIAL PASTIMES | John Quincy Adams loved to "rack 'em up" after buying the first one of these for the White House | a pool table
+right: Marv
+Wrong: 
+Value: $400
+Number: 2
+REALITY TV | In 2009 Danny Cahill dropped 239 lbs. to claim this title & win the show's $250,000 grand prize | The Biggest Loser
+right: Morgan
+Wrong: 
+Value: $400
+Number: 4
+THE JAMES BEARD FOUNDATION | You can have a great meal at James' townhouse on W. 12th St. in this NYC area; James won't be there, though | Greenwich Village
+right: Marv
+Wrong: 
+Morgan: What is Manhattan?
+Value: $400
+Number: 12
+THE NOVEL'S FIRST DRAFT? | "Y'know, Arthur", Hester said, "Roger's gonna be home soon. & I think having an affair in this town is a bad, bad idea" | The Scarlet Letter
+right: Morgan
+Wrong: 
+Value: $400
+Number: 16
+SOUNDS | Heard in battle in the 1860s, it has been variously transcribed as seen <http://www.j-archive.com/media/2010-04-08_J_22.jpg> here | a rebel yell
+right: Karla
+Wrong: 
+Value: $400
+Number: 22
+HETERONYMS | A metallic element, or to guide the way | lead
+right: Morgan
+Wrong: 
+Value: $400
+Number: 27
+PRESIDENTIAL PASTIMES | (<http://www.j-archive.com/media/2010-04-08_J_05.jpg> Kelly of the Clue Crew strolls through the gardens at Monticello, Virginia.)  For Thomas Jefferson, <http://www.j-archive.com/media/2010-04-08_J_05a.jpg> gardening was a welcome retreat from political life, and never more so than in 1807 when he suffered from migraines & stress due to <http://www.j-archive.com/media/2010-04-08_J_05b.jpg> this former vice president's treason trial | Aaron Burr
+right: Morgan
+Wrong: 
+Value: DD: $1,000
+Number: 5
+REALITY TV | Ashton Kutcher co-created this series that paired up hotties & nerds | Beauty and the Geek
+right: Marv
+Wrong: 
+Value: $600
+Number: 8
+THE JAMES BEARD FOUNDATION | James Beard foundation scholarships send budding chefs to this type of school, from the Latin for "kitchen" | a culinary school
+right: Marv
+Wrong: 
+Value: $600
+Number: 13
+THE NOVEL'S FIRST DRAFT? | Holden couldn't wait to tell Phoebe he'd passed all his school exams with honors, his faith in humanity was never stronger! | Catcher in the Rye
+right: Marv
+Wrong: 
+Value: $600
+Number: 17
+SOUNDS | This this this went the trolley in "Meet Me In St. Louis" | "clang clang clang"
+right: Marv
+Wrong: 
+Value: $600
+Number: 23
+HETERONYMS | A task, or to show a movie on a screen | project
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+PRESIDENTIAL PASTIMES | President Clinton not only enjoyed listening to music but playing this instrument as well, even on TV | the saxophone
+right: Karla
+Wrong: 
+Value: $800
+Number: 6
+REALITY TV | Their TV show bios call Kim the bomb-shell, Kourtney the unassuming firecracker & Khloe the voice of reason | the Kardashians
+right: Karla
+Wrong: 
+Value: $800
+Number: 9
+THE JAMES BEARD FOUNDATION | The foundation's celebrity chef tour also brings along a master this, so you don't get too thirsty | a sommelier
+right: Morgan
+Wrong: 
+Value: $800
+Number: 14
+THE NOVEL'S FIRST DRAFT? | "With the first pick in the NFL draft, the Chicago Bears select...Lennie!" George beamed. Now they could buy 200 rabbit farms! | Of Mice and Men
+right: Morgan
+Wrong: 
+Value: $800
+Number: 19
+SOUNDS | The name of this Southwest Airlines computer application represents the seatbelt-sign-is-off sound | ding!
+right: Marv
+Wrong: 
+Value: $800
+Number: 24
+HETERONYMS | To allow, or a document allowing something | permit
+right: Karla
+Wrong: 
+Value: $800
+Number: 29
+PRESIDENTIAL PASTIMES | He enjoyed gambling on the ponies; he also bred racehorses at his Hermitage home | Andrew Jackson
+right: Karla
+Wrong: 
+Morgan: Who is FDR?
+Value: $1000
+Number: 7
+REALITY TV | This "American Idoler" enjoyed another 15 minutes of fame as a contestant on "I'm a Celebrity...Get Me Out of Here!" | Sanjaya
+right: Marv
+Wrong: 
+Value: $1000
+Number: 10
+THE JAMES BEARD FOUNDATION | The national advisory board includes this Austrian-born chef, involved with the foundation from early days | Wolfgang Puck
+right: Marv
+Wrong: 
+Value: $1000
+Number: 18
+THE NOVEL'S FIRST DRAFT? | "We're saved!" Piggy exclaimed to Ralph. "Looking back", Simon said, "We probably shouldn't have eaten Jack" | Lord of the Flies
+right: Morgan
+Wrong: 
+Value: $1000
+Number: 20
+SOUNDS | Term for the sound you'll hear if you use gas with too low an octane number | a ping
+right: Marv
+Wrong: 
+Value: $1000
+Number: 25
+HETERONYMS | An early schoolbook, or a preparatory coat of paint | primer
+right: Karla
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Karla: $2,800
+Marv: $3,200
+Morgan: $1,200
+Scores at the end of the Jeopardy! Round:
+Karla: $5,000
+Marv: $7,200
+Morgan: $4,200
+Second Jeopardy! Round: CLASSICAL COMPOSERS, HOMAGES TO STAR WARS, GET OUTTA TOWN!, THE TUDORS, GREAT MEN OF MEDICINE, WE GOT THE "BEA"
+CLASSICAL COMPOSERS | The 46 chorales in his "Little Organ Book" were written for various feast days of the church year | (Johann Sebastian) Bach
+right: Morgan
+Wrong: 
+Value: $400
+Number: 1
+HOMAGES TO STAR WARS | In this film Marty tells George McFly that he is Darth Vader, "an extraterrestrial from the planet Vulcan" | Back to the Future
+right: Morgan
+Wrong: 
+Value: $400
+Number: 21
+GET OUTTA TOWN! | If you're in this Roman town Aug. 24, 79 A.D. | Pompeii
+right: Morgan
+Wrong: 
+Value: $400
+Number: 16
+THE TUDORS | <http://www.j-archive.com/media/2010-04-08_DJ_20.wmv> This Irish-born actor returns for a fourth season as top Tudor Henry VIII | Jonathan Rhys Meyers
+right: Marv
+Wrong: 
+Value: $400
+Number: 20
+GREAT MEN OF MEDICINE | "Feeding your Baby and Child" was the 1955 follow-up to his more famous 1946 book | (Benjamin) Spock
+right: Morgan
+Wrong: 
+Value: $400
+Number: 4
+WE GOT THE "BEA" | Comfy informal "chair" you might find in a dorm room | a beanbag chair
+right: Morgan
+Wrong: 
+Value: $400
+Number: 11
+CLASSICAL COMPOSERS | While with George Sand on Majorca, he began showing symptoms of what is believed to be tuberculosis | Chopin
+right: Karla
+Wrong: 
+Value: $800
+Number: 2
+HOMAGES TO STAR WARS | The beginning of this 1984 movie finds the title character poisoned at club Obi Wan in 1935 Shanghai | Indiana Jones and the Temple of Doom
+right: Marv
+Wrong: 
+Value: $800
+Number: 22
+GET OUTTA TOWN! | If it's March 1, 1910 in Wellington, Washington, high in the Cascades; one of these is on its way & it's a doozy | an avalanche
+right: Morgan
+Wrong: 
+Value: DD: $7,000
+Number: 17
+THE TUDORS | Henry VIII is told this son of his is "a strong and healthy boy"; he became king & died at 15 | Edward VI
+right: 
+Wrong: Triple Stumper
+Morgan: Who is Henry IX?
+Value: $800
+Number: 27
+GREAT MEN OF MEDICINE | Before his rivalry with Jonas Salk, he developed a vaccine for dengue fever while in the army during WWII | (Albert) Sabin
+right: Karla
+Wrong: 
+Value: $800
+Number: 7
+WE GOT THE "BEA" | Dover or Waikiki | beaches
+right: Morgan
+Wrong: 
+Value: $800
+Number: 12
+CLASSICAL COMPOSERS | Many of this 19th c. composer's great works were written in a small cabin on the edge of a fjord at Lofthus | Edvard Grieg
+right: 
+Wrong: 
+Karla: Who is Sibelius?
+Value: DD: $1,200
+Number: 3
+HOMAGES TO STAR WARS | Pizza the Hutt is a character in this Mel Brooks "Star Wars" parody | Spaceballs
+right: Morgan
+Wrong: 
+Value: $1200
+Number: 23
+GET OUTTA TOWN! | If you're in this capital of Nova Scotia Dec. 6, 1917; that ship full of ammo in the harbor is about to go boom | Halifax
+right: Morgan
+Wrong: 
+Value: $1200
+Number: 18
+THE TUDORS | The king is quite smitten with <http://www.j-archive.com/media/2010-04-08_DJ_28.wmv> this fifth Mrs. Henry VIII, but dark times are in store | (Catherine) Howard
+right: Morgan
+Wrong: 
+Value: $1200
+Number: 28
+GREAT MEN OF MEDICINE | He once said, "On Saturday, I was a surgeon in South Africa, very little known. On Monday I was world renowned" | Christiaan Barnard
+right: Karla
+Wrong: 
+Value: $1200
+Number: 8
+WE GOT THE "BEA" | Shining brightly, like a big smile | beaming
+right: Morgan
+Wrong: 
+Value: $1200
+Number: 13
+CLASSICAL COMPOSERS | This French composer's "The Carnival of the Animals" was written to make fun of some friends | Saint-Saëns
+right: Morgan
+Wrong: 
+Value: $1600
+Number: 5
+HOMAGES TO STAR WARS | Kevin Smith's movie "Jay and Silent Bob" do this features a lightsaber battle with Mark Hamill | Strike Back
+right: Marv
+Wrong: 
+Value: $1600
+Number: 24
+GET OUTTA TOWN! | If you're in this Pennsylvania town May 31, 1889; that dam's not gonna hold | Johnstown
+right: Morgan
+Wrong: 
+Value: $1600
+Number: 19
+THE TUDORS | We're out of wives as Katherine Parr is played by her, acting royalty, the younger daughter of Vanessa Redgrave | Joely Richardson
+right: Karla
+Wrong: 
+Value: $1600
+Number: 29
+GREAT MEN OF MEDICINE | In 1616 he began lecturing on the circulation of blood; his book on the subject didn't come out until 1628 | (William) Harvey
+right: Morgan
+Wrong: 
+Value: $1600
+Number: 9
+WE GOT THE "BEA" | A signal fire | a beacon
+right: Morgan
+Wrong: 
+Value: $1600
+Number: 14
+CLASSICAL COMPOSERS | This composer of Armenian heritage won a 1959 Lenin prize for his ballet "Spartacus" | Khachaturian
+right: Karla
+Wrong: 
+Value: $2000
+Number: 6
+HOMAGES TO STAR WARS | Kitchen appliances are starships in this '70s parody short with characters like Ham Salad & Fluke Starbucker | Hardware Wars
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+GET OUTTA TOWN! | If you're in this Phoenician city in 146 B.C.; the Romans are coming, & they say it must be destroyed | Carthage
+right: Karla
+Wrong: 
+Value: $2000
+Number: 26
+THE TUDORS | <http://www.j-archive.com/media/2010-04-08_DJ_30.wmv> That's the earl of this putting the moves on a fine lady; note his collar with the fringe on top | Surrey
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+GREAT MEN OF MEDICINE | Last name of clinic founders Karl & William, whose writings helped mold attitudes toward mental illness | Menninger
+right: Karla
+Wrong: 
+Value: $2000
+Number: 10
+WE GOT THE "BEA" | Glass vessel used in science experiments | a beaker
+right: Karla
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Karla: $16,200
+Marv: $10,000
+Morgan: $24,400
+
+Final Jeopardy! Round
+PORTRAIT SUBJECTS | One of Goya's few portraits of a foreigner was of <http://www.j-archive.com/media/2010-04-08_FJ.jpg> this Englishman painted in 1812 | the Duke of Wellington
+right: Karla | Morgan
+Wrong: 
+Marv: Who is Nelson?
+Wagers: 
+Marv: $6,500
+Karla: $8,300
+Morgan: $8,001
+Final scores:
+Karla: $24,500 (2nd place: $2,000)
+Marv: $3,500 (3rd place: $1,000)
+Morgan: $32,401 (New champion: $32,401)
+
+Coryat scores
+Karla: $17,400 (15 R,1 W(including 1 DD))
+Marv: $10,000 (14 R,0 W)
+Morgan: $17,800 (26 R(including 2 DDs),3 W)

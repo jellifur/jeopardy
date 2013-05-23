@@ -1,0 +1,304 @@
+3090 - Friday, January 23, 1998
+Comments: 1998 Celebrity <i>Jeopardy!</i> Sportscasters Show.  Set turns red in the Double Jeopardy! Round for last time.
+Contestants:
+Al Michaels: a sportscaster from ABC's Monday Night Football
+Jim Lampley: a sportscaster from TNT Sports
+Greg Gumbel: a sportscaster from NBC Sports
+First Jeopardy! Round: FAST WOMEN, FILM DIRECTORS, THE BASEBALL HALL OF SHAME, GEOGRAPHY ZOO, TEAMMATES, MAKE A "WISH"
+FAST WOMEN | She left the ball so fast she lost one of her glass slippers | Cinderella
+right: Al
+Wrong: 
+Value: $100
+Number: 10
+FILM DIRECTORS | Before "Men in Black", Barry Sonnenfeld directed 2 movies about this altogether ooky family | The Addams Family
+right: Jim
+Wrong: 
+Value: $100
+Number: 5
+THE BASEBALL HALL OF SHAME | "Georgia Peach" didn't describe his personality -- he once charged into the stands & attacked a handicapped fan | Ty Cobb
+right: Jim
+Wrong: 
+Value: $100
+Number: 11
+TEAMMATES | Before marrying Bill, Hillary worked with the congrssional team that investigated this '70s scandal | Watergate
+right: Al
+Wrong: 
+Value: $100
+Number: 1
+FAST WOMEN | Guinness says Mary Jane Sorgel can twirl one of these majorette items while her dog Muffy sits on her head | a baton
+right: Jim
+Wrong: 
+Value: $200
+Number: 12
+FILM DIRECTORS | Antoine Doinel is the hero of this late French director's autobiographical film "The 400 Blows" | Francois Truffaut
+right: Jim
+Wrong: 
+Value: $200
+Number: 6
+TEAMMATES | From 1917 to 1932 he & his sister Adele were a famous dancing team on Broadway | Fred Astaire
+right: Al
+Wrong: 
+Value: $200
+Number: 2
+FAST WOMEN | Her incredible track record includes her long, successful marriage to her coach Bob Kersee | Jackie Joyner-Kersee
+right: Al
+Wrong: 
+Value: $300
+Number: 13
+FILM DIRECTORS | The recent film from Mira Nair, the director of "Salaam Bombay!", takes its title from this Hindu love manual | the "Kama Sutra"
+right: Jim
+Wrong: 
+Value: $300
+Number: 7
+TEAMMATES | Rhyming nickname of this man's teams of investigating lawyers, students & consumer specialists: | "Nader's Raiders"
+right: Al
+Wrong: 
+Value: DD: $500
+Number: 3
+MAKE A "WISH" | This phrase could mean indecisive, or it might mean wimpy, or perhaps even namby-pamby | wishy-washy
+right: Al
+Wrong: 
+Value: $300
+Number: 18
+FAST WOMEN | A competitive speed skater since the tender age of 4, she won her first Olympic gold medal in 1988 | Bonnie Blair
+right: Al
+Wrong: 
+Value: $400
+Number: 21
+FILM DIRECTORS | Vittorio De Sica directed a classic 1948 film about Antonio, who steals one of these vehicles | a bicycle
+right: Jim
+Wrong: 
+Value: $400
+Number: 8
+GEOGRAPHY ZOO | Saskatchewan's third-largest city, it sounds like it was named for Bullwinkle's mandible | Moose Jaw
+right: Greg
+Wrong: 
+Value: $400
+Number: 19
+TEAMMATES | This team of surveyors really knew where to draw the line -- between Maryland & Pennsylvania | Mason & Dixon
+right: Jim
+Wrong: 
+Value: $400
+Number: 4
+MAKE A "WISH" | People who constantly put themselves in life-threatening situations are said to have them | death wishes
+right: Jim
+Wrong: 
+Value: $400
+Number: 17
+FAST WOMEN | She did her own skating when she played roller derby star "K.C." Carr in "Kansas City Bomber" | Raquel Welch
+right: Jim
+Wrong: 
+Value: $500
+Number: 20
+FILM DIRECTORS | This Japanese crime organization attacked Juzo Itami after he made a 1992 film satirizing them | the Yakuza
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 9
+THE BASEBALL HALL OF SHAME | In 1918 Hal Chase was suspended for allegedly paying pitcher Jimmy Ring, a teammate, to do this | throw a game
+right: Jim
+Wrong: 
+Value: $500
+Number: 22
+GEOGRAPHY ZOO | A peak in Colorado is named for these bunny features that resemble the antennae on your old TV set | rabbit ears
+right: Jim
+Wrong: 
+Value: $500
+Number: 14
+TEAMMATES | On May 14, 1804 their team of soldiers, French boatmen & a servant started up the Missouri | Lewis & Clark
+right: Jim
+Wrong: 
+Value: $500
+Number: 15
+MAKE A "WISH" | Nothing but net | swish
+right: Greg
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Greg: $0
+Jim: $1,500
+Al: $900
+Scores at the end of the Jeopardy! Round:
+Greg: $900
+Jim: $4,100
+Al: $1,900
+Second Jeopardy! Round: '60s ROCK, '60s ROLES, BESTSELLING AUTHORS, "C"OMMON BONDS, SPORTS MEDICINE, MARCH OF DIMES
+'60s ROCK | His guitar-burning act was a highlight of the 1967 Monterey Pop Festival | Jimi Hendrix
+right: Jim
+Wrong: 
+Value: $200
+Number: 1
+'60s ROLES | Though listed as Joe or Blondie, this character is the "Man with No Name" in "The Good, the Bad & the Ugly" | Clint Eastwood
+right: Jim
+Wrong: 
+Value: $200
+Number: 11
+BESTSELLING AUTHORS | As of 1996 he had 5 of the 15 bestselling children's books ever, led by "Green Eggs and Ham" | Dr. Seuss
+right: Jim
+Wrong: 
+Value: $200
+Number: 16
+"C"OMMON BONDS | Dr. Niles, Dr. Frasier, whooping | Cranes
+right: 
+Wrong: Triple Stumper
+Jim: What is cough?
+Value: $200
+Number: 21
+SPORTS MEDICINE | Specialists say it's the joint most likely to suffer a major sports injury | knee
+right: Jim
+Wrong: 
+Value: $200
+Number: 6
+MARCH OF DIMES | Proverbial cost of things that are very common or in a surplus | a dime a dozen
+right: 
+Wrong: Triple Stumper
+Jim: What is cheap?
+Al: What is a thin dime?
+Value: $200
+Number: 26
+'60s ROCK | In a 1966 hit this group wanted you to "Paint It, Black" | The Rolling Stones
+right: Jim
+Wrong: 
+Value: $400
+Number: 2
+'60s ROLES | When Patty Duke won her Oscar for this 1962 role, she was the youngest person to win a regular Oscar | Helen Keller
+right: Jim
+Wrong: 
+Value: $400
+Number: 12
+BESTSELLING AUTHORS | In "Worse Than He Says He Is", ex-wife Anicka writes of her life with this "Worm" | Dennis Rodman
+right: Jim
+Wrong: 
+Value: $400
+Number: 17
+"C"OMMON BONDS | Horseshoe, fiddler, hermit | crabs
+right: Jim
+Wrong: 
+Value: $400
+Number: 22
+SPORTS MEDICINE | C21 H28 O5 isn't a football play but the formula for this hormone injected to treat inflammation | cortisone
+right: Jim
+Wrong: 
+Value: $400
+Number: 7
+MARCH OF DIMES | The book "All in Color for a Dime" covers the early history of these publications | comic books
+right: Jim
+Wrong: 
+Value: $400
+Number: 27
+'60s ROCK | Group heard here in their very first hit: | The Mamas & the Papas
+right: Jim
+Wrong: 
+Value: DD: $1,500
+Number: 3
+'60s ROLES | 1964 film that included the characters seen here: | Dr. Strangelove
+right: 
+Wrong: 
+Jim: What is "The Pink Panther?"
+Value: DD: $3,000
+Number: 13
+BESTSELLING AUTHORS | This author who gave us the giant reptiles of "Jurassic Park" stands 6'9" | Michael Crichton
+right: Greg
+Wrong: 
+Value: $600
+Number: 18
+"C"OMMON BONDS | Buffalo, micro, potato | chips
+right: Greg
+Wrong: 
+Value: $600
+Number: 23
+SPORTS MEDICINE | An abrasion for scraping a hard surface is also called by the name of this fruit | strawberry
+right: Jim
+Wrong: 
+Value: $600
+Number: 8
+MARCH OF DIMES | Title of the E.Y. Harburg song that includes the line "Once I built a railroad, now it's done" | "Brother, Can You Spare a Dime?"
+right: 
+Wrong: Triple Stumper
+Jim: What is "Buddy, Can You Spare Me a Dime?"
+Value: $600
+Number: 28
+'60s ROCK | Gladys Knight & the Pips had a hit with "I Heard It Through the Grapevine" before he took it to No. 1 | Marvin Gaye
+right: Greg
+Wrong: 
+Value: $800
+Number: 4
+'60s ROLES | Nickname of Dustin Hoffman's Enrico Rizzo | Ratso
+right: Jim
+Wrong: 
+Value: $800
+Number: 14
+BESTSELLING AUTHORS | Before playing "Patriot Games", all his military experience was in ROTC at Loyola College in Baltimore | Tom Clancy
+right: Greg
+Wrong: 
+Value: $800
+Number: 19
+"C"OMMON BONDS | Punch, cue, trading | cards
+right: Greg
+Wrong: 
+Value: $800
+Number: 24
+SPORTS MEDICINE | A contusion of the iliac crest, AKA a "hip", one of these, is treated with ice &, above all, rest | pointer
+right: Greg
+Wrong: 
+Value: $800
+Number: 9
+MARCH OF DIMES | Cher starred in it on Broadway & in film | Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+'60s ROCK | Their "Age of Aquarius" album featured a medley from "Hair" as well as "Wedding Bell Blues" | The 5th Dimension
+right: Jim
+Wrong: 
+Value: $1000
+Number: 5
+'60s ROLES | Title profession of Rod Steiger's 1965 character Sol Nazerman | The Pawnbroker
+right: Jim
+Wrong: 
+Value: $1000
+Number: 15
+BESTSELLING AUTHORS | Reviewers might have said "Someday all this will be" this author of "Exodus" & "Mila 18" | Leon Uris
+right: Jim
+Wrong: 
+Value: $1000
+Number: 20
+"C"OMMON BONDS | Ice, cold, Devonshire | cream
+right: Al
+Wrong: 
+Value: $1000
+Number: 25
+SPORTS MEDICINE | In 1974 torn tissue in pitcher Tommy John's left arm was replaced with a tendon from this part of his body | his right arm
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+MARCH OF DIMES | Ned Buntline, Edward S. Ellis & Ann S. Stephens were famous authors of this genre | dime novels
+right: Jim
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Greg: $5,300
+Jim: $10,200
+Al: $2,700
+
+Final Jeopardy! Round
+LIBRARIES | The millionth visitor to this library received a signed copy of "My Turn", some jelly beans & a weekend getaway | The Ronald Reagan Presidential Library
+right: Greg | Jim
+Wrong: 
+Al: What is the N.Y. Public Library?
+Wagers: 
+Al: $2,500
+Greg: $5,300
+Jim: $4,000
+Final scores:
+Greg: $10,600 (2nd place: $10,600 for the March of Dimes)
+Jim: $14,200 (Winner: $15,000 for the Happy Hairston Youth Foundation)
+Al: $200 (3rd place: $10,000 for the Starlight Children's Foundation & the Make-a-Wish Foundation)
+
+Coryat scores
+Greg: $5,300 (8 R,0 W)
+Jim: $12,300 (29 R(including 1 DD),4 W(including 1 DD))
+Al: $2,500 (8 R(including 1 DD),1 W)

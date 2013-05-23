@@ -1,0 +1,346 @@
+5146 - Monday, January 15, 2007
+Contestants:
+JC Honeycutt: a fraud investigator and singer-songwriter from Charlotte, North Carolina
+Brian Armbrust: a corporate trainer from San Francisco, California
+Kelly Isenor: a TV news producer from Boston, Massachusetts (whose 2-day cash winnings total $31,800)
+First Jeopardy! Round: U.S. PORT CITIES, HOLLYWOOD LEFTIES, ARTS & CRAFTS, QUOTATIONS, HEY, "BABY", AFRICAN-AMERICANA
+U.S. PORT CITIES | Pull into this port city & you'll find Fort Sumter guarding its harbor | Charleston
+right: Brian
+Wrong: 
+Value: $200
+Number: 1
+HOLLYWOOD LEFTIES | Tom Cruise jumped up & down on this left-hander's couch | Oprah Winfrey
+right: JC
+Wrong: 
+Value: $200
+Number: 22
+ARTS & CRAFTS | It's the oven or furnace in which pottery is fired | a kiln
+right: Brian
+Wrong: 
+Value: $200
+Number: 3
+QUOTATIONS | John Kenneth Galbraith said these "are indispensable when you don't want to do anything"--there's one in the boardroom at 2:30 | meetings
+right: JC
+Wrong: 
+Value: $200
+Number: 17
+HEY, "BABY" | Smallest form of a large piano | a baby grand
+right: JC
+Wrong: 
+Value: $200
+Number: 14
+AFRICAN-AMERICANA | In 1964 Martin Luther King became the first African American named this magazine's "Man of the Year" | Time
+right: Brian
+Wrong: 
+Value: $200
+Number: 10
+U.S. PORT CITIES | Among the busiest ports with "port" in their names are Port Everglades in Florida & Port Arthur in this state | Texas
+right: JC
+Wrong: 
+Value: $400
+Number: 2
+HOLLYWOOD LEFTIES | This left-handed honey socked it to 'em on "Laugh-In" in the 1960s & as Private Benjamin in the 1980s | Goldie Hawn
+right: Brian
+Wrong: 
+Value: $400
+Number: 23
+ARTS & CRAFTS | A mosaic needs this mortar between the pieces, just like in a tiled bathroom | grout
+right: Kelly
+Wrong: 
+Value: $400
+Number: 5
+QUOTATIONS | Antoine de Rivarol said, "What is not clear is not" this language | French
+right: JC
+Wrong: 
+Value: $400
+Number: 18
+HEY, "BABY" | Seen <http://www.j-archive.com/media/2007-01-15_J_15.jpg> here with roses, it's popular as a bouquet filler | baby's breath
+right: Brian
+Wrong: 
+Value: $400
+Number: 15
+AFRICAN-AMERICANA | Frederick Douglass said this political party was the ship & everything else was the ocean | the Republican Party
+right: JC
+Wrong: 
+Value: $400
+Number: 11
+U.S. PORT CITIES | (<http://www.j-archive.com/media/2007-01-15_J_04.jpg> Kelly of the Clue Crew gives the clue from a port city in Georgia.)  This mother city of Georgia was known as the "pretty woman with a dirty face" until a preservation effort began in the 1950s | Savannah
+right: Kelly
+Wrong: 
+Value: $600
+Number: 4
+HOLLYWOOD LEFTIES | We gotta hand it to this left-handed actress for winning an Oscar for "Erin Brockovich" | Julia Roberts
+right: Brian
+Wrong: 
+Value: $600
+Number: 24
+ARTS & CRAFTS | In this craft, you may use corn husks for the core & raffia for the binder | basket weaving
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 6
+QUOTATIONS | In a saying attributed to the Duke of Wellington, this battle "was won on the playing fields of Eton" | Waterloo
+right: Kelly
+Wrong: 
+Value: $600
+Number: 19
+HEY, "BABY" | Nickname of Haiti's Jean-Claude Duvalier | "Baby Doc"
+right: Brian
+Wrong: 
+Value: $600
+Number: 20
+AFRICAN-AMERICANA | This military man won the NAACP's Spingarn Medal for 1991 | Colin Powell
+right: Kelly
+Wrong: 
+Value: $600
+Number: 13
+U.S. PORT CITIES | By containers handled, Los Angeles is the busiest U.S. port; the second-busiest is in this city just a few miles south | Long Beach
+right: Brian
+Wrong: 
+Value: $800
+Number: 8
+HOLLYWOOD LEFTIES | The Brad jumped the Jen for this left-handed hottie | Angelina Jolie
+right: Brian
+Wrong: 
+Value: $800
+Number: 25
+ARTS & CRAFTS | (<http://www.j-archive.com/media/2007-01-15_J_07.jpg> Kelly of the Clue Crew reads the clue while holding onto a draftsman's tool)  The name of <http://www.j-archive.com/media/2007-01-15_J_07b.jpg> this object used by draftsmen to create a pattern also means a preset document into which you plug new information | a template
+right: Brian
+Wrong: 
+Value: $800
+Number: 7
+QUOTATIONS | Jean-Luc Godard said, "Photography is truth, and" this "is truth 24 times a second" | film (or cinema)
+right: JC
+Wrong: 
+Value: $800
+Number: 29
+HEY, "BABY" | This sticky figure of folklore gave its name to a Toni Morrison novel | the tar baby
+right: JC
+Wrong: 
+Value: $800
+Number: 27
+AFRICAN-AMERICANA | This southern city's convention center is named for Ernest Morial, the city's first African-American mayor | New Orleans
+right: JC
+Wrong: 
+Value: $800
+Number: 16
+U.S. PORT CITIES | Among the top 40 busiest ports in the U.S. are these Northeast & Northwest cities with the same name | Portland
+right: Brian
+Wrong: 
+Value: DD: $1,000
+Number: 9
+HOLLYWOOD LEFTIES | This left-handed lady was positively "Bewitching" in a 2005 Nora Ephron film | Nicole Kidman
+right: Brian
+Wrong: 
+Value: $1000
+Number: 26
+ARTS & CRAFTS | The name of this knotty craft comes from a word that means "embroidered veil" | macramé
+right: Brian
+Wrong: 
+Value: $1000
+Number: 12
+QUOTATIONS | "Dulce et decorum est pro patria mori", wrote Horace, "It is a sweet and seemly thing to die for" this | one's country
+right: Brian
+Wrong: 
+Value: $1000
+Number: 30
+HEY, "BABY" | <http://www.j-archive.com/media/2007-01-15_J_28.jpg> This tree-hopper of the Galagidae family spends a lot of time munching on insects and fruit | a bush baby
+right: JC
+Wrong: 
+Value: $1000
+Number: 28
+AFRICAN-AMERICANA | Mari Evans adapted this Zora Neale Hurston work as a musical titled "Eyes" | Their Eyes Were Watching God
+right: Brian
+Wrong: 
+Value: $1000
+Number: 21
+Scores at the first commercial break (after clue 15)
+Kelly: $1,600
+Brian: $4,600
+JC: $1,000
+Scores at the end of the Jeopardy! Round:
+Kelly: $2,200
+Brian: $10,000
+JC: $5,200
+Second Jeopardy! Round: ROYAL BRITANNIA, TV DRAMAS BY EPISODE, ARCHITECTURE, OFFICIAL STATE THINGS, MY NAME IS EARL WARREN, I JUST LIKE SAYING THESE WORDS
+ROYAL BRITANNIA | Seen <http://www.j-archive.com/media/2007-01-15_DJ_06.jpg> here, she had an age of literature named after her | Elizabeth I
+right: Brian
+Wrong: 
+Value: $400
+Number: 6
+TV DRAMAS BY EPISODE | "Custom K.I.T.T." | Knight Rider
+right: Kelly
+Wrong: 
+Value: $400
+Number: 4
+ARCHITECTURE | A kite winder is the central of 3 winders that help make a 90-degree turn in a flight of these | stairs
+right: Kelly
+Wrong: 
+Value: $400
+Number: 14
+OFFICIAL STATE THINGS | This state insect of Vermont is just as sweet as its state tree the sugar maple | the honey bee
+right: JC
+Wrong: 
+Value: $400
+Number: 10
+MY NAME IS EARL WARREN | In Reynolds v. Sims I said that representation in legislatures must be based mostly on population: one man, one this | vote
+right: Kelly
+Wrong: 
+Value: $400
+Number: 1
+I JUST LIKE SAYING THESE WORDS | As I reflect on the word "genuflect", I remember it means to bend this | one's knee
+right: Brian
+Wrong: 
+Value: $400
+Number: 3
+ROYAL BRITANNIA | In 1707 her title changed to Queen of Great Britain & Ireland (it used to be Queen of England, Scotland & Ireland) | Queen Anne
+right: Brian
+Wrong: 
+Value: $800
+Number: 8
+TV DRAMAS BY EPISODE | "Angels in Chains" | Charlie's Angels
+right: JC
+Wrong: 
+Value: $800
+Number: 7
+ARCHITECTURE | This 6-letter part of a house is also called an eaves trough | gutter
+right: Kelly
+Wrong: 
+Value: $800
+Number: 15
+OFFICIAL STATE THINGS | Who was that masked animal?  Oklahoma's official state furbearer, that's who | a raccoon
+right: Brian
+Wrong: 
+Value: $800
+Number: 11
+MY NAME IS EARL WARREN | I am interred at this national cemetery | Arlington
+right: JC
+Wrong: 
+Value: $800
+Number: 2
+I JUST LIKE SAYING THESE WORDS | Alfred E. Neuman could tell you that a fernticle is another name for one of these on the surface of the skin | a freckle
+right: Brian
+Wrong: 
+Kelly: What is a mole?
+Value: $800
+Number: 18
+ROYAL BRITANNIA | Seen <http://www.j-archive.com/media/2007-01-15_DJ_17.jpg> here, the second king of this name  spent many years in French exile | Charles
+right: 
+Wrong: Triple Stumper
+Kelly: What is William?
+JC: Who is James II?
+Value: $1200
+Number: 17
+TV DRAMAS BY EPISODE | "Warrior... Princess... Tramp" | Xena: Warrior Princess
+right: JC
+Wrong: 
+Value: $1200
+Number: 9
+ARCHITECTURE | The Coonley Estate & the Robie House are examples of this midwestern style created by Frank Lloyd Wright | the Prairie Style
+right: 
+Wrong: 
+Kelly: I don't know... what is taliesin?
+Value: DD: $4,000
+Number: 16
+OFFICIAL STATE THINGS | Hot-cha-cha! New Mexico's official state question is "red or" this? | green
+right: Brian
+Wrong: 
+Value: $1200
+Number: 19
+MY NAME IS EARL WARREN | I was a 3-term governor of this state, 1943-1953 | California
+right: JC
+Wrong: 
+Value: $1200
+Number: 5
+I JUST LIKE SAYING THESE WORDS | To lapidate someone is to execute him by this method | stoning
+right: 
+Wrong: Triple Stumper
+Kelly: What is decapitation?
+Value: $1200
+Number: 22
+ROYAL BRITANNIA | He succeeded his mother & was succeeded in 1910 by his son George V | Edward VII
+right: JC
+Wrong: 
+Value: DD: $1,000
+Number: 28
+TV DRAMAS BY EPISODE | "The Path to the Black Lodge" | Twin Peaks
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 12
+ARCHITECTURE | In the English bond style, these are laid in alternate courses of headers & stretchers | bricks
+right: Kelly
+Wrong: 
+Value: $1600
+Number: 26
+OFFICIAL STATE THINGS | Florida's state shell is the "horse" type of this (Wow!  I can hear the ocean!) | a conch
+right: JC
+Wrong: 
+Value: $1600
+Number: 20
+MY NAME IS EARL WARREN | On June 23, 1969 I swore in this man as Chief Justice of the U.S. | Warren Burger
+right: 
+Wrong: Triple Stumper
+Brian: Who is Thurgood Marshall?
+Value: $1600
+Number: 25
+I JUST LIKE SAYING THESE WORDS | Used to mean a vulnerable weak point in an enemy's defenses, it means the lower abdomen | underbelly
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 23
+ROYAL BRITANNIA | This king's marriage to the woman seen <http://www.j-archive.com/media/2007-01-15_DJ_29.jpg> here united the houses of York & Lancaster | Henry VII
+right: 
+Wrong: Triple Stumper
+Brian: Who is Richard III
+Value: $2000
+Number: 29
+TV DRAMAS BY EPISODE | "I, Borg" | Star Trek: The Next Generation
+right: Kelly
+Wrong: 
+Value: $2000
+Number: 13
+ARCHITECTURE | From 1617 to 1642 everyone was keeping up with this Jones, surveyor of works to the British Crown | Inigo
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+OFFICIAL STATE THINGS | Extinct?  You bet.  But this "3-lobed" arthropod has crawled into history as Wisconsin's state fossil | trilobite
+right: Kelly
+Wrong: 
+Value: $2000
+Number: 21
+MY NAME IS EARL WARREN | I ruled that public school segregation was unconstitutional in this landmark 1954 case | Brown v. Board of Education
+right: JC
+Wrong: 
+Value: $2000
+Number: 27
+I JUST LIKE SAYING THESE WORDS | Enjoy this $2000 quanswer--see, I'm one of these, a creator of new words | neologist
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Kelly: $2,600
+Brian: $10,800
+JC: $13,000
+
+Final Jeopardy! Round
+AMERICAN LITERATURE | An epigraph he used on one story says, "our hearts though stout and brave, still, like muffled drums are beating" | Edgar Allan Poe
+right: Brian
+Wrong: 
+Kelly: Who is James Fenimore Cooper?
+JC: Who was Stephen Crane?
+Wagers: 
+Kelly: $300
+Brian: $10,700
+JC: $8,601
+Final scores:
+Kelly: $2,300 (3rd place: $1,000)
+Brian: $21,500 (New champion: $21,500)
+JC: $4,399 (2nd place: $2,000)
+
+Coryat scores
+Kelly: $6,600 (11 R,4 W(including 1 DD))
+Brian: $10,800 (21 R(including 1 DD),2 W)
+JC: $13,600 (18 R(including 1 DD),1 W)

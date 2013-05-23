@@ -1,0 +1,329 @@
+3119 - Thursday, March 5, 1998
+Contestants:
+Andria Frost: a software support engineer originally from Colorado Springs, Colorado
+Robert Campbell: a web page designer from Sunnyvale, California
+Ben Wiener: an advertising executive originally from Toronto, Canada (whose 1-day cash winnings total $13,000)
+First Jeopardy! Round: DUNCAN, "YO"-YOS, WALKING THE DOG, AROUND THE WORLD, SHOOT THE MOON, ROCKING THE BABY
+DUNCAN | "Funny Face" star who can certainly separate the wheat from the chaff | Sandy Duncan
+right: Andria
+Wrong: 
+Value: $100
+Number: 11
+"YO"-YOS | If you just fell off the turnip truck, you might be one of these rural fellows | Yokel
+right: Andria
+Wrong: 
+Value: $100
+Number: 16
+WALKING THE DOG | Unlike most dogs, the Afghan hound hunts by this sense, not smell | Sight
+right: Robert
+Wrong: 
+Value: $100
+Number: 21
+AROUND THE WORLD | As its name indicates, Ecuador's lowland El Oriente lies on this side of the Andes | Eastern
+right: Andria
+Wrong: 
+Value: $100
+Number: 1
+SHOOT THE MOON | This lunar "sea" was the landing site of Apollo 11's Eagle module | Sea of Tranquility
+right: Andria
+Wrong: 
+Value: $100
+Number: 26
+ROCKING THE BABY | Newborns may be in this state for over 20 hours out of every 24 | Sleeping
+right: Robert
+Wrong: 
+Value: $100
+Number: 6
+DUNCAN | Cawder Castle, which claims to be the site of this man's killing of Duncan I, was built 400 years after the event | Macbeth
+right: Ben
+Wrong: 
+Value: $200
+Number: 12
+"YO"-YOS | Lawrence Peter Berra got this nickname for resembling a snake charmer in a movie | Yogi
+right: Andria
+Wrong: 
+Value: $200
+Number: 17
+WALKING THE DOG | The spots on this firehouse dog can either be black or brown | Dalmatian
+right: Ben
+Wrong: 
+Value: $200
+Number: 22
+AROUND THE WORLD | This country's islands of Palawan & Mindanao lie in the Sulu Sea | Philippines
+right: Robert
+Wrong: 
+Value: $200
+Number: 2
+SHOOT THE MOON | This term used for an Apollo mission's return to Earth tells you it landed in water | Splashdown
+right: Ben
+Wrong: 
+Value: $200
+Number: 27
+ROCKING THE BABY | Place baby over your shoulder or lap to get him to do this, like a Tupperware container | Burp
+right: Robert
+Wrong: 
+Value: $200
+Number: 7
+DUNCAN | Procter & Gamble really took the cake when it acquired this brand in 1956 | Duncan Hines
+right: Ben
+Wrong: 
+Value: $300
+Number: 13
+"YO"-YOS | In the 1850s Elisha Otis started his elevators yo-yoing up & down in this city north of the Bronx | Yonkers
+right: Robert
+Wrong: 
+Value: $300
+Number: 18
+WALKING THE DOG | The name of this barkless African dog is from the Bantu for "natives" | Basenji
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+AROUND THE WORLD | Until 1841 present-day Quebec was Lower Canada & this present-day province was Upper Canada | Ontario
+right: Ben
+Wrong: 
+Value: $300
+Number: 3
+SHOOT THE MOON | On the Apollo 14 mission, Alan Shepard introduced this sport to the moon | Golf
+right: Andria
+Wrong: 
+Value: $300
+Number: 28
+ROCKING THE BABY | For babies it begins around 2-4 months; for adults, it means giving predigested information | Spoon-feeding
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 8
+DUNCAN | This No. 1 NBA draft pick signed with the San Antonio Spurs July 24, 1997 | Tim Duncan
+right: Ben
+Wrong: 
+Value: $400
+Number: 14
+"YO"-YOS | Among these outlaw brothers, Bob & John were less notorious than Cole & Jim, their elders | Youngers
+right: Robert
+Wrong: 
+Value: $400
+Number: 19
+WALKING THE DOG | The largest terrier, it's been called the "King of the Terriers" | Airedale
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+AROUND THE WORLD | This country could call itself the land of 60,000 lakes including Puulavesi & Saimaa | Finland
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+SHOOT THE MOON | A NASA doctor declined this president's dinner invitation to the Apollo 11 crew because of risk of infections | Richard M. Nixon
+right: Andria
+Wrong: 
+Value: $400
+Number: 29
+ROCKING THE BABY | They include stork bites, which fade naturally, & port-wine stains, which don't | Birthmarks
+right: Robert
+Wrong: 
+Value: $400
+Number: 9
+DUNCAN | Duncan Regehr played Zorro & Duncan Renaldo was famous for playing this Old West hero | The Cisco Kid
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+"YO"-YOS | A fox hunter shouts this to encourage the hounds, hoping to follow it with "Tallyho!" | "Yoiks!"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+WALKING THE DOG | The keeshond, a familiar sight on canal boats, is the national dog of this country | Holland/Netherlands
+right: Robert
+Wrong: 
+Value: $500
+Number: 25
+AROUND THE WORLD | Dark Mount Lovcen gave this Yugoslav republic its name, meaning "Black Mountain" | Montenegro
+right: 
+Wrong: 
+Value: DD: $500
+Number: 5
+SHOOT THE MOON | Apollo 15, 16 & 17 used these 4-wheeled vehicles to fetch rock samples | Lunar rovers
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+ROCKING THE BABY | From words for "new" & "born", it's a doctor who specializes in newborns | Neonatologist
+right: Ben
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Ben: -$900
+Robert: $800
+Andria: $100
+Scores at the end of the Jeopardy! Round:
+Ben: $900
+Robert: $1,600
+Andria: -$200
+Second Jeopardy! Round: PLAYS & PLAYWRIGHTS, ELECTRONICS, GREAT FEETS OF THE BIBLE, PLAYING PRESIDENT, WATERGATE, "NON" SENSE
+PLAYS & PLAYWRIGHTS | Steven Berkoff's career includes adapting Kafka for the London stage & appearing with this star in "Rambo" | Sylvester Stallone
+right: Andria
+Wrong: 
+Value: $200
+Number: 1
+ELECTRONICS | This device allows a computer to connect to phone lines & access other computers on the internet | Modem
+right: Andria
+Wrong: 
+Value: $200
+Number: 16
+GREAT FEETS OF THE BIBLE | This Jericho conqueror had his captains put their feet on the necks of 5 captured kings | Joshua
+right: Ben
+Wrong: 
+Value: $200
+Number: 21
+PLAYING PRESIDENT | Ralph Bellamy played this polio-stricken president in "Sunrise At Campobello" | Franklin D. Roosevelt
+right: Robert
+Wrong: 
+Value: $200
+Number: 24
+WATERGATE | These 2 reporters led the Washington Post's investigation of the scandal | Bob Woodward & Carl Bernstein
+right: Andria
+Wrong: 
+Value: $200
+Number: 10
+"NON" SENSE | A corporal or sergeant in a position requiring leadership | Non-commissioned officer
+right: Andria
+Wrong: 
+Value: $200
+Number: 5
+PLAYS & PLAYWRIGHTS | Georges Feydeau wrote these French comedies that emphasize horseplay & improbable situations | Farces
+right: Andria
+Wrong: 
+Value: $400
+Number: 2
+ELECTRONICS | The scanners used at checkout counters are equipped with these light-emitting devices | Lasers
+right: Andria
+Wrong: 
+Value: $400
+Number: 17
+GREAT FEETS OF THE BIBLE | He had to bare his feet before the burning bush because, as God said, he was on holy ground | Moses
+right: Andria
+Wrong: 
+Value: $400
+Number: 22
+PLAYING PRESIDENT | In this film Gene Hackman is corrupted absolutely as he attacks a woman while Clint Eastwood watches | Absolute Power
+right: Robert
+Wrong: 
+Value: $400
+Number: 25
+WATERGATE | In 1997 $13,000 was the high bid for the lock from the door of this committee's burglarized headquarters | Democratic National Committee
+right: Andria
+Wrong: 
+Value: $400
+Number: 11
+"NON" SENSE | The clue I'm reading contains one of these, so make sure your shoelace is tied | Non sequitur
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 6
+PLAYS & PLAYWRIGHTS | His "Glengarry Glen Ross" has been called "Death of a Salesman" for the 1980s | David Mamet
+right: Ben
+Wrong: 
+Value: $600
+Number: 3
+ELECTRONICS | This element is the main ingredient of most computer chips | Silicon
+right: Robert
+Wrong: 
+Value: $600
+Number: 18
+GREAT FEETS OF THE BIBLE | At the Pharisee's house, a woman washed Jesus' feet with her tears & wiped them with this | Her hair
+right: Ben
+Wrong: 
+Value: $600
+Number: 23
+PLAYING PRESIDENT | In 1976 David Birney of "Bridget Loves Bernie" played the 6th president in the PBS chronicles of this family | Adams
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 26
+WATERGATE | L. Patrick Gray, acting director of this bureau, supplied Watergate files to Nixon counsel John Dean | FBI
+right: Robert
+Wrong: 
+Value: $600
+Number: 12
+"NON" SENSE | A Gentile | Non-Jew
+right: Andria
+Wrong: 
+Value: $600
+Number: 7
+PLAYS & PLAYWRIGHTS | Since 1995 this South African in his 60s has acted in his own 2-person play "Valley Song" | Athol Fugard
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+ELECTRONICS | It's the opposition of a material to electric current, resulting in heat or other forms of energy | Resistance
+right: Andria
+Wrong: 
+Value: $800
+Number: 19
+PLAYING PRESIDENT | Uncle Bill on "Family Affair", his last role was William McKinley in the 1997 TNT film "Rough Riders" | Brian Keith
+right: Robert
+Wrong: 
+Value: $800
+Number: 27
+WATERGATE | As acting Attorney General, future Supreme Court nominee Robert Bork fired Archibald Cox from this post | Special prosecutor
+right: Andria
+Wrong: 
+Value: $800
+Number: 13
+"NON" SENSE | It completes the following: (audio clue) | "Nonni Nonni"
+right: 
+Wrong: 
+Value: DD: $800
+Number: 8
+PLAYS & PLAYWRIGHTS | "The Latent Heterosexual" was the last stage work by this screenwriter of "Network" | Paddy Chayefsky
+right: Robert
+Wrong: 
+Value: $1000
+Number: 15
+ELECTRONICS | Electronic circuit signals may be classified as analog or this | Digital
+right: Ben
+Wrong: 
+Value: $1000
+Number: 20
+PLAYING PRESIDENT | Joseph Henabery played Abraham Lincoln in this classic film, seen here: (directed by D.W. Griffith in 1915) | The Birth Of A Nation
+right: Robert
+Wrong: 
+Value: DD: $900
+Number: 28
+WATERGATE | Nixon was doomed in July 1974 when this house committee "judged" him worthy of impeachment | House Judiciary Committee
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+"NON" SENSE | This Italian musical direction meaning "not too much" often follows "allegro" | Non troppo
+right: Andria
+Wrong: 
+Value: $1000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+Ben: $3,300
+Robert: $5,100
+Andria: $2,600
+
+Final Jeopardy! Round
+AUTOBIOGRAPHIES | His books include "Skyward" (1928), "Little America" (1930) & "Alone" (1938) | Admiral Richard E. Byrd
+right: Andria
+Wrong: 
+Ben: Who is Charles Lindbergh
+Robert: Who was Charles Lindbergh?
+Wagers: 
+Andria: $600
+Ben: $3,300
+Robert: $1,501
+Final scores:
+Ben: $0 (3rd place: Sony Power Cinema Package)
+Robert: $3,599 (New champion: $3,599)
+Andria: $3,200 (2nd place: Trip to Plantation Inn, Ocho Rios, Jamaica)
+
+Coryat scores
+Ben: $3,800 (11 R,3 W(including 1 DD))
+Robert: $5,200 (15 R(including 1 DD),3 W)
+Andria: $3,400 (19 R,8 W(including 1 DD))

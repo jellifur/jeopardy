@@ -1,0 +1,341 @@
+3786 - Monday, February 5, 2001
+Comments: 2001 Celebrity <i>Jeopardy!</i> game 1.
+Contestants:
+Harry Connick, Jr.: a musician and actor from Hope Floats
+Nathan Lane: an actor from The Producers
+Jodie Foster: an actress, director and producer from The Silence of the Lambs
+First Jeopardy! Round: CITIZENSHIP TEST, BETTER KNOWN AS..., HOLIDAYS, POP MUSIC, HISTORY FROM HOLLYWOOD, TALK NONSENSE
+CITIZENSHIP TEST | It's the government body abbreviated CIA | Central Intelligence Agency
+right: Harry
+Wrong: 
+Value: $100
+Number: 26
+BETTER KNOWN AS... | Norma Jean Baker | Marilyn Monroe
+right: Jodie
+Wrong: 
+Value: $100
+Number: 16
+HOLIDAYS | The saying "Wearing his heart on his sleeve" probably comes from a practice once performed on this holiday | Valentine's Day
+right: Jodie
+Wrong: 
+Value: $100
+Number: 6
+POP MUSIC | Her 1990 greatest hits album is called "The Immaculate Collection" | Madonna
+right: Harry
+Wrong: 
+Value: $100
+Number: 1
+HISTORY FROM HOLLYWOOD | At the end of "Tora! Tora! Tora!" Admiral Yamamoto realizes this sneak attack may have been a big mistake | Pearl Harbor
+right: Jodie
+Wrong: 
+Value: $100
+Number: 8
+TALK NONSENSE | This partner of "goo goo" in baby talk also means "foolishly enthusiastic" | ga ga
+right: Jodie
+Wrong: 
+Value: $100
+Number: 21
+CITIZENSHIP TEST | It was the last state to join the United States | Hawaii
+right: Jodie
+Wrong: 
+Value: $200
+Number: 27
+BETTER KNOWN AS... | Allen Stewart Konigsberg | Woody Allen
+right: Nathan
+Wrong: 
+Value: $200
+Number: 17
+HOLIDAYS | For Roman Catholics, this 40-day period of fasting begins on Ash Wednesday & ends on Easter | Lent
+right: Nathan
+Wrong: 
+Value: $200
+Number: 7
+POP MUSIC | He was "Born in the U.S.A." on Sept. 23, 1949 | Bruce Springsteen
+right: Harry
+Wrong: 
+Value: $200
+Number: 2
+HISTORY FROM HOLLYWOOD | 1927's "Wings" features great dogfight scenes set in this war | World War I
+right: Nathan
+Wrong: 
+Value: $200
+Number: 12
+TALK NONSENSE | Completes the immortal words of Little Richard, "A wop bop a loo bop a lop..." | bam boom
+right: Nathan
+Wrong: 
+Value: $200
+Number: 22
+CITIZENSHIP TEST | By law, a U.S. senator's term lasts this many years | 6
+right: Harry
+Wrong: 
+Value: $300
+Number: 28
+BETTER KNOWN AS... | Ramon Estevez | Martin Sheen
+right: Jodie
+Wrong: 
+Nathan: Who is Charlie Sheen?
+Value: $300
+Number: 18
+HOLIDAYS | This Jewish holy day begins with the recitation of the Kol Nidre | Yom Kippur
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 9
+POP MUSIC | This Beatles song begins, "When I find myself in times of trouble, Mother Mary comes to me" | "Let It Be"
+right: Harry
+Wrong: 
+Value: $300
+Number: 3
+HISTORY FROM HOLLYWOOD | In 1995 Thandie Newton was sexy slave Sally & Nick Nolte was this U.S. statesman "in Paris" | Thomas Jefferson
+right: Jodie
+Wrong: 
+Value: $300
+Number: 13
+TALK NONSENSE | In the dictionary this triple-talk phrase meaning "and so on" comes after bladder & before blanch | blah blah blah
+right: Nathan
+Wrong: 
+Jodie: What is et cetera?
+Value: $300
+Number: 23
+CITIZENSHIP TEST | In 1800 the national government of the United States moved from this city to Washington, D.C. | Philadelphia
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+BETTER KNOWN AS... | Nicolas Coppola | Nicolas Cage
+right: Nathan
+Wrong: 
+Value: $400
+Number: 19
+HOLIDAYS | This June day had been celebrated for 62 years, but it wasn't official until signed into law by Nixon in 1972 | Father's Day
+right: 
+Wrong: Triple Stumper
+Harry: "Please Don't Impeach Me Day?"
+Value: $400
+Number: 10
+POP MUSIC | This rock band's 1991 concert film "At the Max" was shot during their Steel Wheels tour | the Rolling Stones
+right: Harry
+Wrong: 
+Value: $400
+Number: 4
+HISTORY FROM HOLLYWOOD | In 1954 Anthony Quinn played this barbarian Hun | Attila
+right: Nathan
+Wrong: 
+Value: $400
+Number: 14
+TALK NONSENSE | Children's taunt once used by fugitive Deborah Ulrich in a letter to police | nyah nyah nyah
+right: Jodie
+Wrong: 
+Value: $400
+Number: 24
+BETTER KNOWN AS... | Bernard Schwartz | Tony Curtis
+right: Nathan
+Wrong: 
+Value: $500
+Number: 20
+HOLIDAYS | Reputedly, the first Christmas tree in England was the one Prince Albert gave this queen in 1841 | Victoria
+right: Jodie
+Wrong: 
+Value: DD: $500
+Number: 11
+POP MUSIC | It's the group heard here | Blondie
+right: Harry
+Wrong: 
+Value: $500
+Number: 5
+HISTORY FROM HOLLYWOOD | In 1939 Spencer Tracy searched for this African explorer, played by Cedric Hardwicke | Dr. David Livingstone
+right: 
+Wrong: Triple Stumper
+Nathan: Who is Lewis?
+Harry: What is "The African Queen?"
+Value: $500
+Number: 15
+TALK NONSENSE | On '70s TV this was Charo's version of making whoopee | cuchi cuchi
+right: Nathan
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Jodie: $1,000
+Nathan: $400
+Harry: $1,100
+Scores at the end of the Jeopardy! Round:
+Jodie: $1,800
+Nathan: $2,100
+Harry: $1,000
+Second Jeopardy! Round: BALLET, FORGOTTEN BUT NOT GONE, "F" IN GEOGRAPHY, RECENT MOVIES, LITERATURE, A LITTLE FRENCH
+BALLET | In a 1999 ballet, Roger Van Fleteren played Dr. Jekyll & Wes Chapman played this alter ego | Mr. Hyde
+right: Jodie
+Wrong: 
+Value: $200
+Number: 30
+FORGOTTEN BUT NOT GONE | This crime of stealing cattle, more associated with the Old West, still plagues ranchers today | rustling
+right: Jodie
+Wrong: 
+Value: $200
+Number: 13
+"F" IN GEOGRAPHY | Major cities in this European nation include Vaasa, Maarianhamina & Helsinki | Finland
+right: Nathan
+Wrong: 
+Value: $200
+Number: 1
+RECENT MOVIES | This Lucy Liu-Cameron Diaz-Drew Barrymore blockbuster was "heaven sent" | Charlie's Angels
+right: Harry
+Wrong: 
+Value: $200
+Number: 2
+LITERATURE | As well as the "Iliad" & "Odyssey", a number of hymns are attributed to him | Homer
+right: Harry
+Wrong: 
+Value: $200
+Number: 15
+A LITTLE FRENCH | "Chaise longue", French for "long chair", got Americanized to this | chaise lounge
+right: Jodie
+Wrong: 
+Value: $200
+Number: 25
+BALLET | "Go Daddy-O!" celebrates this style of music that Benny Goodman was the "King of" | Swing
+right: Nathan
+Wrong: 
+Value: $400
+Number: 26
+FORGOTTEN BUT NOT GONE | Wham-O still sells this hip-hugging plastic toy, though not 25 million in 4 months, like when it debuted in 1958 | hula hoop
+right: Nathan
+Wrong: 
+Value: $400
+Number: 17
+"F" IN GEOGRAPHY | Doncha know this city on the Red River is the largest city in North Dakota | Fargo
+right: Nathan
+Wrong: 
+Value: $400
+Number: 3
+RECENT MOVIES | This funnyman played Robert De Niro's shrink in "Analyze This" | Billy Crystal
+right: Nathan
+Wrong: 
+Value: $400
+Number: 4
+LITERATURE | This American novelist created the old fisherman Santiago & the young bullfighter Pedro Romero | Ernest Hemingway
+right: Nathan
+Wrong: 
+Value: $400
+Number: 16
+A LITTLE FRENCH | Canard may mean a hoax or rumor, or this bird, perhaps served "a l'orange" | duck
+right: Jodie
+Wrong: 
+Value: $400
+Number: 22
+BALLET | A 1982 Twyla Tharp work is danced to 9 of this singer's hits, including "Strangers in the Night" & "My Way" | Frank Sinatra
+right: Jodie
+Wrong: 
+Value: $600
+Number: 27
+FORGOTTEN BUT NOT GONE | The U.S. Army still has units called this, though the actual horse-mounted forces were abolished in 1950 | cavalry
+right: Jodie
+Wrong: 
+Value: $600
+Number: 18
+"F" IN GEOGRAPHY | It's the numeric name for the locality where the borders of Utah, Colorado, New Mexico & Arizona meet | the Four Corners
+right: Harry
+Wrong: 
+Value: $600
+Number: 8
+RECENT MOVIES | He played a mystical caddy in "The Legend of Bagger Vance" | Will Smith
+right: Jodie
+Wrong: 
+Value: $600
+Number: 5
+LITERATURE | Before "Les Miserables", he attacked the French penal system in the novel "Claude Gueux" | Victor Hugo
+right: Jodie
+Wrong: 
+Value: $600
+Number: 6
+A LITTLE FRENCH | In French this instrument played by Tracy Partridge is a tambour de Basque | tambourine
+right: Jodie
+Wrong: 
+Value: $600
+Number: 19
+BALLET | The Joffrey's 1993 ballet "Billboards" rocks with the music of this "Purple Rain"er | Prince
+right: Nathan
+Wrong: 
+Value: $800
+Number: 28
+FORGOTTEN BUT NOT GONE | At a dance class, you can still learn this hot 1920s dance named for a South Carolina city | the Charleston
+right: Jodie
+Wrong: 
+Value: DD: $2,500
+Number: 23
+"F" IN GEOGRAPHY | This city 30 miles west of Dallas was an important stop along the Chisholm Trail | Fort Worth
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+RECENT MOVIES | In 1998 Ralph Fiennes' brother Joseph played this writer "in Love" | Shakespeare
+right: Nathan
+Wrong: 
+Value: DD: $3,000
+Number: 11
+LITERATURE | This Thoreau work includes a chapter on "The Pond in Winter" | "Walden"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+A LITTLE FRENCH | Paris' subway, Le Chemin de Fer Metropolitain, is usually just called this | the Metro
+right: Harry
+Wrong: 
+Value: $800
+Number: 20
+BALLET | "A Streetcar..." is an abstract ballet inspired by the work of this playwright | Tennessee Williams
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 29
+FORGOTTEN BUT NOT GONE | Despite the DPT vaccine, there are still thousands of cases of this type of "cough" in the U.S. each year | whooping cough
+right: Harry
+Wrong: 
+Jodie: What is TB?
+Value: $1000
+Number: 24
+"F" IN GEOGRAPHY | In the 1980s Argentina & Great Britain fought a war over these South American islands | the Falklands (or Malvinas)
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 10
+RECENT MOVIES | Laurence Fishburne shows computer hacker Keanu Reeves that the world isn't what it seems in this film | The Matrix
+right: Harry
+Wrong: 
+Value: $1000
+Number: 12
+LITERATURE | The 2 leading French Absurdists were Ionesco, from Romania, & this Irish author of "Waiting for Godot" | Samuel Beckett
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 14
+A LITTLE FRENCH | The Fendi sisters make a fabulous one of these handbags with the same name as a loaf of French bread | baguette
+right: Jodie
+Wrong: 
+Value: $1000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Jodie: $8,300
+Nathan: $11,100
+Harry: $4,800
+
+Final Jeopardy! Round
+FAMOUS SHIPS | In December 1620 this vessel came ashore at a secondary destination because of a shortage of beer | the Mayflower
+right: Jodie
+Wrong: 
+Harry: What is the H.M.S. Budwieser
+Nathan: What is the Budweiser
+Wagers: 
+Harry: $4,700
+Jodie: $8,300
+Nathan: $10,000
+Final scores:
+Jodie: $16,600 (Winner: $15,000 for The Hollywood Education and Literacy Project)
+Nathan: $1,100 (2nd place: $10,000 for Broadway Cares/Equity Fights AIDS)
+Harry: $100 (3rd place: $10,000 for Jimmy Fund)
+
+Coryat scores
+Jodie: $6,600 (20 R(including 2 DDs),2 W)
+Nathan: $8,900 (20 R(including 1 DD),2 W)
+Harry: $4,800 (13 R,2 W)

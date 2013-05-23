@@ -1,0 +1,345 @@
+4686 - Monday, January 10, 2005
+Contestants:
+Jennie Gerres: a surgical technology student from North Ridgeville, Ohio
+Rick Pernod: a teacher from the Bronx, New York
+Joshua Allen: a student from North Hollywood, California (whose 1-day cash winnings total $24,001)
+First Jeopardy! Round: PRESIDENTIAL LIBRARIES, FILMS OF THE '70s, SO NICE THEY NICKNAMED ME TWICE, BACK TO THE HOTEL, THE WEATHER CHANNEL, THE BIRD IS THE WORD
+PRESIDENTIAL LIBRARIES | The Library of the first President Bush, in Texas, has a film of his first steps, in this state where the family vacations | Maine
+right: Joshua
+Wrong: 
+Value: $200
+Number: 14
+FILMS OF THE '70s | Not the frost, but the blood was on the punkin in this 1978 Jamie Lee Curtis film | Halloween
+right: Jennie
+Wrong: 
+Value: $200
+Number: 1
+SO NICE THEY NICKNAMED ME TWICE | "The Chairman of the Board", "Ol' Blue Eyes" | Frank Sinatra
+right: Joshua
+Wrong: 
+Value: $200
+Number: 24
+BACK TO THE HOTEL | In 1975, Lyn Weiner opened the Kennelworth, a hotel in New York City for these pets | dogs
+right: Rick
+Wrong: 
+Value: $200
+Number: 19
+THE WEATHER CHANNEL | When it's muggy, "it's not the heat, it's" this, the amount of water vapor in the atmosphere | humidity
+right: Joshua
+Wrong: 
+Value: $200
+Number: 6
+THE BIRD IS THE WORD | What's good for the goose is good for this, also meaning a glance | the gander
+right: Jennie
+Wrong: 
+Value: $200
+Number: 11
+PRESIDENTIAL LIBRARIES | The war exhibit "Korea Plus 50: No Longer Forgotten" is a joint-access project between the libraries of these 2 presidents | Truman and Eisenhower
+right: Joshua
+Wrong: 
+Value: $400
+Number: 15
+FILMS OF THE '70s | (<http://www.j-archive.com/media/2005-01-10_J_02.jpg> Hi.  I'm Bob Woodward.)  In "All the President's Men", Carl Bernstein was played by Dustin Hoffman & I was portrayed by this handsome star who bears no resemblence to me | Robert Redford
+right: Joshua
+Wrong: 
+Value: $400
+Number: 2
+SO NICE THEY NICKNAMED ME TWICE | "America's Sweetheart", "Little Sure Shot" | Annie Oakley
+right: Rick
+Wrong: 
+Value: $400
+Number: 25
+BACK TO THE HOTEL | The Celtic Lodge and Kelly's Hotel are famous hotels in this world capital | Dublin
+right: Joshua
+Wrong: 
+Value: $400
+Number: 20
+THE WEATHER CHANNEL | Each second about 100 of these natural electrical discharges occur somewhere on Earth | lightning strikes
+right: Jennie
+Wrong: 
+Value: $400
+Number: 7
+THE BIRD IS THE WORD | That this bird leaves its eggs in other birds' nests, that's just "crazy", man | the cuckoo
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+PRESIDENTIAL LIBRARIES | The Ford Library is on the campus of this Ford alma mater | the University of Michigan
+right: Jennie
+Wrong: 
+Value: $600
+Number: 16
+FILMS OF THE '70s | A canoe trip into the Georgia backwoods became a living nightmare for four friends in this 1972 film | Deliverance
+right: Jennie
+Wrong: 
+Value: $600
+Number: 3
+SO NICE THEY NICKNAMED ME TWICE | "Conqueror of the World", "Macedonia's Madman" | Alexander the Great
+right: Joshua
+Wrong: 
+Value: $600
+Number: 26
+BACK TO THE HOTEL | This large ocean liner that's been docked in Long Beach since 1967 is a hotel & tourist attraction | Queen Mary
+right: Joshua
+Wrong: 
+Value: $600
+Number: 21
+THE WEATHER CHANNEL | A "little" one of these "ages" ran between the 14th and 19th Centuries | ice age
+right: Joshua
+Wrong: 
+Value: $600
+Number: 8
+THE BIRD IS THE WORD | It's a glossy black bird, or to toot your own horn | a crow
+right: Joshua
+Wrong: 
+Value: $600
+Number: 13
+PRESIDENTIAL LIBRARIES | The LBJ Library sells CDs of the President's phone calls, like the <http://www.j-archive.com/media/2005-01-10_J_17.mp3> following one with her  LBJ: "...how we can carry on, if you give us a little strength." Woman: "But you know what I wanted to say to you about that letter?  I know how rare a letter is in a president's handwriting." | Jacqueline Kennedy
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+FILMS OF THE '70s | For this '74 flick, Mel Brooks used some of the same lab equipment that was used in a 1931 film | Young Frankenstein
+right: Jennie
+Wrong: 
+Value: DD: $600
+Number: 4
+SO NICE THEY NICKNAMED ME TWICE | "The Father of the H-Bomb", "Dr. Strangelove" | Edward Teller
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+BACK TO THE HOTEL | With canals, piazzas, and St. Mark's Square, this Vegas hotel sits on the old Sands Hotel site | the Venetian
+right: Joshua
+Wrong: 
+Value: $800
+Number: 22
+THE WEATHER CHANNEL | In terms of rainfall, it's the driest continent after Antarctica | Australia
+right: 
+Wrong: Triple Stumper
+Rick: What is Africa?
+Value: $800
+Number: 9
+THE BIRD IS THE WORD | Something done on a whim may be done on this songbird of the family alaudidae | a lark
+right: Joshua
+Wrong: 
+Value: $800
+Number: 29
+PRESIDENTIAL LIBRARIES | Lyn Nofziger and Edwin Meese have their own sets of folders for perusal at his library | Ronald Reagan
+right: 
+Wrong: Triple Stumper
+Rick: Who is Nixon?
+Value: $1000
+Number: 18
+FILMS OF THE '70s | Erich Segal actually wrote the screenplay for this 1970 movie first; then the novel | Love Story
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 5
+SO NICE THEY NICKNAMED ME TWICE | "The Poet of the Commonplace", "The Children's Poet" | Longfellow
+right: 
+Wrong: Triple Stumper
+Joshua: Who is Dr. Seuss?
+Jennie: Who is Blake?
+Value: $1000
+Number: 28
+BACK TO THE HOTEL | This "presidential" hotel was elected to host the first Academy Awards ceremony | the Roosevelt
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 23
+THE WEATHER CHANNEL | When the folks at the National Weather Service are feeling a bit "DZ," "DZ" stands for this weather condition | drizzle
+right: Joshua
+Wrong: 
+Value: $1000
+Number: 10
+THE BIRD IS THE WORD | (<http://www.j-archive.com/media/2005-01-10_J_30.jpg> Jimmy of the Clue Crew holds a pink disc.)  It's the general two-word term for a trap shooting target--live ones went out in the early 1900s | a clay pigeon
+right: Jennie
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Joshua: $4,400
+Rick: -$800
+Jennie: $2,000
+Scores at the end of the Jeopardy! Round:
+Joshua: $7,800
+Rick: -$1,200
+Jennie: $2,600
+Second Jeopardy! Round: FIRST THINGS FIRST, SPORTS TROPHIES, ART, A RANK CATEGORY, OLD NAMES ON THE MAP, CATCHING SOME "ZZ"s
+FIRST THINGS FIRST | Per the U.S. Naval Observatory, the date of the first day of the current millennium | January 1, 2001
+right: Joshua
+Wrong: 
+Value: $400
+Number: 6
+SPORTS TROPHIES | The Davis Cup | tennis (golf accepted)
+right: Jennie
+Wrong: 
+Value: $400
+Number: 1
+ART | Ususally an altarpiece, it's a painting consisting of 3 separate panels | a triptych
+right: Rick
+Wrong: 
+Value: $400
+Number: 17
+A RANK CATEGORY | It's the military rank the Constitution gives the U.S. President | Commander in Chief
+right: Joshua
+Wrong: 
+Value: $400
+Number: 26
+OLD NAMES ON THE MAP | After the British took over this island in 1797, the anglicized Puerto de Espana to Port of Spain | Trinidad
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 4
+CATCHING SOME "ZZ"s | Also known as a silvertip, it can weigh up to 900 pounds | a grizzly bear
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+FIRST THINGS FIRST | He wasn't a scenery-chewing actor, he was the first "astrochimp" that the U.S. launched into space | Ham
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+SPORTS TROPHIES | The Stanley Cup | hockey
+right: Joshua
+Wrong: 
+Value: $800
+Number: 2
+ART | He advocated sfumato, a subtle blending of tones, saying light and shade should blend like smoke as seen <http://www.j-archive.com/media/2005-01-10_DJ_18.jpg> here | Da Vinci
+right: 
+Wrong: Triple Stumper
+Jennie: Who is Botticelli?
+Value: $800
+Number: 18
+A RANK CATEGORY | A Yokozuna is an athlete who has reaced the highest rank in this sport | sumo wrestling
+right: Joshua
+Wrong: 
+Value: $800
+Number: 27
+OLD NAMES ON THE MAP | In 1946 the name of Podgorica was changed to this for Yugoslavia's leader; it was changed back in 1992 | Titograd
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+CATCHING SOME "ZZ"s | To overpower or dim the vision of by intense light | dazzle
+right: Rick
+Wrong: 
+Value: $800
+Number: 22
+FIRST THINGS FIRST | In 1985 Andy Warhol did the first painting in what has become a big ad campaign for this vodka | Absolut
+right: Jennie
+Wrong: 
+Value: $1200
+Number: 8
+SPORTS TROPHIES | The Jules Rimet Trophy | soccer
+right: 
+Wrong: Triple Stumper
+Rick: What is cycling?
+Value: $1200
+Number: 11
+ART | Andre Breton hailed this man's art as "the most hallucinatory known until now" | Dalí
+right: Rick
+Wrong: 
+Value: $1200
+Number: 19
+A RANK CATEGORY | A lesser official in a royal household; some are "of the guard" | yeoman
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+OLD NAMES ON THE MAP | This Spanish port was once Carthago Nova, or "New Carthage" | Cartagena
+right: 
+Wrong: Triple Stumper
+Joshua: What is Casablanca?
+Value: $1200
+Number: 14
+CATCHING SOME "ZZ"s | "Swift" nickname of Supreme Court Justice Byron White | Whizzer
+right: Rick
+Wrong: 
+Value: $1200
+Number: 23
+FIRST THINGS FIRST | City Lights Books helped folks lacking space &/or money as the USA's first bookstore to sell only these | paperbacks
+right: 
+Wrong: 
+Jennie: What are used books?
+Value: DD: $3,000
+Number: 9
+SPORTS TROPHIES | The Air Canada Silver Broom | curling
+right: Jennie
+Wrong: 
+Value: DD: $500
+Number: 12
+ART | Aptly, Georgia O'Keeffe's first one-woman show was at this man's 291 Gallery | Alfred Stieglitz
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+A RANK CATEGORY | It's the Russian term for the son & heir of a czar | czarevich
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+OLD NAMES ON THE MAP | Madagascar retained the first 2 letters of this, its previous name | The Malagasy Republic
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 15
+CATCHING SOME "ZZ"s | He's the conqueror of Jerusalem mentioned in II Kings 24 | Nebuchadnezzar
+right: Joshua
+Wrong: 
+Value: $1600
+Number: 24
+FIRST THINGS FIRST | In March 1825 Joel R. Poinsett was confirmed as the first U.S. minister to this country | Mexico
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+SPORTS TROPHIES | The Lonsdale Belt | boxing
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+ART | Courbet was the leader of this movement; verism is an extreme form of it | realism
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+A RANK CATEGORY | From a word meaning "to send", this 5-letter word designates an "extraordinary" diplomat | envoy
+right: Rick
+Wrong: 
+Value: $2000
+Number: 30
+OLD NAMES ON THE MAP | What's now Kaliningrade, Russia was the capital of East Prussia under this name meaning "King's Mountain" | Königsberg
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+CATCHING SOME "ZZ"s | This port city is the Republic of the Congo's capital | Brazzaville
+right: Joshua
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Joshua: $12,600
+Rick: $3,200
+Jennie: $900
+
+Final Jeopardy! Round
+20th CENTURY AUTHORS | This Russian-born author & scientist who died in 1992 said, "I do not fear computers.  I fear the lack of them" | Isaac Asimov
+right: Jennie | Rick | Joshua
+Wrong: 
+Wagers: 
+Jennie: $400
+Rick: $1,300
+Joshua: $2,400
+Final scores:
+Joshua: $15,000 (2-day champion: $39,001)
+Rick: $4,500 (2nd place: $2,000)
+Jennie: $1,300 (3rd place: $1,000)
+
+Coryat scores
+Joshua: $12,600 (21 R,2 W)
+Rick: $3,200 (7 R,3 W)
+Jennie: $5,200 (10 R(including 2 DDs),3 W(including 1 DD))

@@ -1,0 +1,326 @@
+5981 - Monday, September 20, 2010
+Comments: Roger Craig game 6.
+Contestants:
+Marisa Tam: an archives assistant from Minneapolis, Minnesota
+Mary Keating: a lawyer from Baltimore, Maryland
+Roger Craig: a graduate student of computer science from Newark, Delaware (whose 5-day cash winnings total $195,801)
+First Jeopardy! Round: LESSER-KNOWN AMERICANS, COUNTRY MUSIC, THE LOYOLA OPPOSITION, YOUR HONOR, I OBJECT!, GOOD CAUSES, BLARNEY
+COUNTRY MUSIC | Though his last name means "pertaining to a city", this "Defying Gravity" singer is a country superstar | Keith Urban
+right: Marisa
+Wrong: 
+Value: $200
+Number: 7
+YOUR HONOR, I OBJECT! | The witness is testifying based on what someone else told her--that's called this | hearsay
+right: Marisa
+Wrong: 
+Value: $200
+Number: 10
+GOOD CAUSES | This word precedes "Conservancy" in the name of a group with a million members | Nature
+right: Mary
+Wrong: 
+Value: $200
+Number: 16
+BLARNEY | Now applied to Shakespeare, this word referred originally to Celtic minstrel poets | bard
+right: Marisa
+Wrong: 
+Value: $200
+Number: 9
+LESSER-KNOWN AMERICANS | A. Philip Randolph, who first proposed a march on this city in 1941, also helped organize the one in 1963 | Washington, D.C.
+right: Roger
+Wrong: 
+Value: $400
+Number: 26
+COUNTRY MUSIC | In 2010 this movie soundtrack featuring Jeff Bridges was a Billboard Top 10 country album | Crazy Heart
+right: Roger
+Wrong: 
+Value: $400
+Number: 8
+THE LOYOLA OPPOSITION | In 1521, Ignatius was struck by a cannonball while defending this country against the French | Spain
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 5
+YOUR HONOR, I OBJECT! | Calls for an opinion--only allowed for this type of witness with special knowledge of a subject | an expert witness
+right: Mary
+Wrong: 
+Marisa: What is speculation?
+Value: $400
+Number: 11
+GOOD CAUSES | The Environmental Defense Fund helped convince this fast-food co. to abandon polystyrene containers in 1990 | McDonald's
+right: Roger
+Wrong: 
+Value: $400
+Number: 17
+BLARNEY | For peat sake, you should know this word for wet, spongy ground | a bog
+right: Roger
+Wrong: 
+Value: $400
+Number: 1
+LESSER-KNOWN AMERICANS | In 1945 Virginia Gildersleeve was the only female U.S. delegate to the conference that drafted this charter | the United Nations
+right: Mary
+Wrong: 
+Value: $600
+Number: 14
+COUNTRY MUSIC | Not to be confused with Lady Gaga is Lady this, the country music group with the CD "Need You Now" | Lady Antebellum
+right: Marisa
+Wrong: 
+Value: $600
+Number: 23
+THE LOYOLA OPPOSITION | When Clement XIV abolished the Jesuits in 1773, they thrived in Russia with help from this empress | Catherine the Great
+right: Mary
+Wrong: 
+Value: $600
+Number: 6
+YOUR HONOR, I OBJECT! | Counsel is putting words in the witness' mouth with this type of question; the word also means "in first place" | a leading question
+right: Mary
+Wrong: 
+Value: $600
+Number: 12
+GOOD CAUSES | A "Mission" to help the homeless is named for this Lower Manhattan street known as a skid row since the 1800s | Bowery
+right: Roger
+Wrong: 
+Value: DD: $2,000
+Number: 20
+BLARNEY | This type of sprite will lead you to the gold | a leprechaun
+right: Marisa
+Wrong: 
+Value: $600
+Number: 2
+LESSER-KNOWN AMERICANS | Named for his cousin, James Buchanan Eads built the first bridge across this river at St. Louis | the Mississippi
+right: Marisa
+Wrong: 
+Value: $800
+Number: 18
+COUNTRY MUSIC | This sound, like that made by plucking a guitar, is the title of a 2009 album by George Strait | twang
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+THE LOYOLA OPPOSITION | In 1542 missionaries sent by Ignatius to Ireland were hampered by this king | Henry VIII
+right: Roger
+Wrong: 
+Value: $800
+Number: 27
+YOUR HONOR, I OBJECT! | Counsel is being argumentative, also known as doing this to the witness, as seen here | badgering
+right: Roger
+Wrong: 
+Value: $800
+Number: 13
+GOOD CAUSES | The LFA is a leading group battling this disease named for lesions that resemble a wolf's bite | lupus
+right: Roger
+Wrong: 
+Value: $800
+Number: 21
+BLARNEY | Tiny pieces, or the New Jersey band that sang "Only a Memory" | smithereens
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 3
+LESSER-KNOWN AMERICANS | Doris Eaton Travis, who passed away in 2010 at age 106, was the last surviving showgirl from these follies | Ziegfeld
+right: Roger
+Wrong: 
+Marisa: What are the Ziegfield Follies?
+Value: $1000
+Number: 19
+COUNTRY MUSIC | This frontman of Hootie & the Blowfish went country with his solo album "Learn to Live" | (Darius) Rucker
+right: Roger
+Wrong: 
+Value: $1000
+Number: 25
+THE LOYOLA OPPOSITION | While in Paris, Ignatius was accused & brought before Ori, this type of truth-seeking 10-letter holy man | an inquisitor
+right: Mary
+Wrong: 
+Value: $1000
+Number: 28
+YOUR HONOR, I OBJECT! | We've heard the question already; I'm making this objection that could be called "triple a" | asked and answered
+right: Mary
+Wrong: 
+Value: $1000
+Number: 15
+GOOD CAUSES | The Andre Agassi foundation for education runs Agassi Prep in this city | Las Vegas
+right: Roger
+Wrong: 
+Value: $1000
+Number: 22
+BLARNEY | This word for a type of liquor applies to a 1794 American rebellion | whiskey
+right: Roger
+Wrong: 
+Value: $1000
+Number: 4
+Scores at the first commercial break (after clue 15)
+Roger: $2,600
+Mary: $3,200
+Marisa: $800
+Scores at the end of the Jeopardy! Round:
+Roger: $10,000
+Mary: $4,400
+Marisa: $1,200
+Second Jeopardy! Round: "A" SCIENCE CATEGORY, MOVIE CITIES, LAST NAME'S THE SAME, WOMEN: WRITE ON!, GOAT-POURRI, EPONYMS
+MOVIE CITIES | Of course there's a car chase on the freeway in 1985's "To Live and Die in __.__." | L.A.
+right: 
+Wrong: Triple Stumper
+Roger: What is Los Angeles?
+Value: $400
+Number: 21
+WOMEN: WRITE ON! | Sadly, she died in Boston in 1888, just 2 days after her transcendentalist father Bronson | Louisa May Alcott
+right: 
+Wrong: Triple Stumper
+Mary: Who is Harriet Beecher Stowe?
+Value: $400
+Number: 1
+GOAT-POURRI | Goat Island splits Niagara Falls into the American Falls & this waterfall on the Canadian side | Horseshoe Falls
+right: 
+Wrong: Triple Stumper
+Roger: What is... Niagara Falls?
+Value: $400
+Number: 23
+EPONYMS | Although sources disagree over the origin of this "do-over" golf shot, many accept that it was named for a bad golfer | a Mulligan
+right: Marisa
+Wrong: 
+Value: $400
+Number: 6
+"A" SCIENCE CATEGORY | It's what the "A" stands for in AIDS | acquired
+right: Roger
+Wrong: 
+Value: $800
+Number: 28
+MOVIE CITIES | 2010 brought Travolta as a spy in "From ____ with Love" | Paris
+right: Marisa
+Wrong: 
+Value: $800
+Number: 20
+LAST NAME'S THE SAME | Entertainment mogul Barry & funny lady Phyllis | Diller
+right: Marisa
+Wrong: 
+Value: $800
+Number: 15
+WOMEN: WRITE ON! | In 2009 she published her 76th bestseller, "Matters of the Heart", & was inducted into the Calif. Hall of Fame | Danielle Steel
+right: Roger
+Wrong: 
+Value: $800
+Number: 2
+GOAT-POURRI | In 1846 Neptune was discovered in this constellation, the 10th sign of the zodiac | Capricorn
+right: Marisa
+Wrong: 
+Value: $800
+Number: 24
+EPONYMS | This country is named after "the George Washington of South America" (the actual George only got cities & a state) | Bolivia
+right: Roger
+Wrong: 
+Value: $800
+Number: 7
+"A" SCIENCE CATEGORY | (Kelly of the Clue Crew stands behind a table)   The experiment showing that two objects weighing the same displace different amounts of water because they have different densities was developed by this mathematician | Archimedes
+right: Mary
+Wrong: 
+Value: $1200
+Number: 11
+MOVIE CITIES | 2010, starring Kristen Bell: "When in ____" | Rome
+right: Marisa
+Wrong: 
+Value: $1200
+Number: 8
+LAST NAME'S THE SAME | Late radio commentator Paul & James I's physician William | Harvey
+right: Mary
+Wrong: 
+Value: $1200
+Number: 16
+WOMEN: WRITE ON! | Esther Greenwood is an aspiring poet in this poet's novel "The Bell Jar" | Sylvia Plath
+right: Marisa
+Wrong: 
+Value: $1200
+Number: 3
+GOAT-POURRI | In "The Hunchback of Notre Dame", Pierre Gringoire rescues this gypsy girl's goat from a mob | Esmeralda
+right: Roger
+Wrong: 
+Value: $1200
+Number: 27
+EPONYMS | Meaning elegant or fancy, it's from the name of a hotel chain founded by a Swiss businessman | ritzy
+right: Mary
+Wrong: 
+Value: DD: $4,000
+Number: 12
+"A" SCIENCE CATEGORY | In the 1920s Edwin Hubble determined that this galaxy was in fact a separate galaxy from the Milky Way | Andromeda
+right: Roger
+Wrong: 
+Value: $1600
+Number: 14
+MOVIE CITIES | 2008's "The Mysteries of ____" was based on a novel | Pittsburgh
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+LAST NAME'S THE SAME | "Tennessee Tailor" Andrew & poet/NAACP leader James Weldon | Johnson
+right: Roger
+Wrong: 
+Value: $1600
+Number: 18
+WOMEN: WRITE ON! | "Shiksa Goddess: (or, How I Spent My Forties)" is a collection of essays by this "Heidi Chronicles" playwright | (Wendy) Wasserstein
+right: Roger
+Wrong: 
+Value: $1600
+Number: 4
+GOAT-POURRI | The backward-curving horns of the Siberian species of this 4-letter goat may be nearly 5 feet long | ibex
+right: Mary
+Wrong: 
+Value: $1600
+Number: 26
+EPONYMS | This submachine gun was named for an Israeli army officer whose design won a competition in the 1950s | Uzi
+right: Roger
+Wrong: 
+Value: $1600
+Number: 13
+"A" SCIENCE CATEGORY | These are just small masses of lymphoid tissue in the nasopharynx | adenoids
+right: Roger
+Wrong: 
+Value: DD: $12,000
+Number: 19
+MOVIE CITIES | The 1980 Oscar winner for Foreign Language Film was "____ does Not Believe in Tears" | Moscow
+right: Roger
+Wrong: 
+Value: $2000
+Number: 10
+LAST NAME'S THE SAME | 17th century philosopher Sir Francis & 20th century painter Francis | Bacon
+right: Roger
+Wrong: 
+Value: $2000
+Number: 22
+WOMEN: WRITE ON! | "Seducing the Demon: Writing for my Life" is a 2006 memoir by this "Fear of Flying" author | Erica Jong
+right: Mary
+Wrong: 
+Value: $2000
+Number: 5
+GOAT-POURRI | Crippled beggar Sammy Smalls, who traveled in a goat cart, inspired a title character of this opera set on Catfish Row | Porgy and Bess
+right: Mary
+Wrong: 
+Value: $2000
+Number: 25
+EPONYMS | Named for a French courtesan, Pommes Anna is a dish of layered these, not apples | potatoes
+right: Mary
+Wrong: 
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Roger: $35,200
+Mary: $18,000
+Marisa: $6,400
+
+Final Jeopardy! Round
+THE WESTERN HEMISPHERE | Made up of 1 large & many smaller islands, it's the most populous of Britain's remaining overseas territories | Bermuda
+right: 
+Wrong: 
+Marisa: What are the British Virgin Islands?
+Mary: What are the Bahamas?
+Roger: What is Falklands?
+Wagers: 
+Marisa: $5,000
+Mary: $18,000
+Roger: $801
+Final scores:
+Roger: $34,399 (6-day champion: $230,200)
+Mary: $0 (3rd place: $1,000)
+Marisa: $1,400 (2nd place: $2,000)
+
+Coryat scores
+Roger: $23,800 (23 R(including 2 DDs),2 W)
+Mary: $15,200 (14 R(including 1 DD),1 W)
+Marisa: $6,400 (12 R,2 W)

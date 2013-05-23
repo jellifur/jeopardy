@@ -1,0 +1,344 @@
+5970 - Friday, July 23, 2010
+Contestants:
+Rich Baker: a game designer and writer from Pacific, Washington
+Joe Gallagher: an anthropology and botany student from Orlando, Florida
+Alison Stone Roberg: an administrative assistant from Kansas City, Missouri (whose 1-day cash winnings total $26,801)
+First Jeopardy! Round: IT'S A LONG WAY TO TIPPERARY, THE LATE NIGHT CROWD, BREAKFAST BRANDS, GETTING COZY WITH SARKOZY, TOBACCO, LETTER & WORD
+IT'S A LONG WAY TO TIPPERARY | First, get yourself to New York, Chicago or Boston & hop on this Irish airline that first flew on May 27, 1936 | Aer Lingus
+right: Rich
+Wrong: 
+Value: $200
+Number: 15
+THE LATE NIGHT CROWD | Despite being No. 1 in late night for over a decade, NBC moved him to prime time & then moved him back to late night again | (Jay) Leno
+right: Alison
+Wrong: 
+Value: $200
+Number: 25
+BREAKFAST BRANDS | Patrick J. Towle named this brand of maple syrup in honor of Abe Lincoln's boyhood home | Log Cabin
+right: Rich
+Wrong: 
+Value: $200
+Number: 1
+GETTING COZY WITH SARKOZY | French president Nicolas Sarkozy was born Jan. 28, 1955 in this city's 17th arrondissement | Paris
+right: Joe
+Wrong: 
+Value: $200
+Number: 20
+TOBACCO | This ceremonial Native American smoking device is also known as a calumet | a peace pipe
+right: Joe
+Wrong: 
+Value: $200
+Number: 9
+LETTER & WORD | June 6, 1944 | D-Day
+right: Alison
+Wrong: 
+Value: $200
+Number: 6
+IT'S A LONG WAY TO TIPPERARY | You'll be landing at this airport in the west of Ireland; it shares its name with a river | Shannon Airport
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+THE LATE NIGHT CROWD | He expected to take over "The Tonight Show" from Johnny Carson, but moved to CBS instead | David Letterman
+right: Joe
+Wrong: 
+Value: $400
+Number: 27
+BREAKFAST BRANDS | Milton the Toaster was featured in early ads for these Kellogg's toaster pastries | Pop-Tarts
+right: Alison
+Wrong: 
+Value: $400
+Number: 2
+GETTING COZY WITH SARKOZY | Nicolas' father is Pal Sarkozy de Nagy-Bocsa, who was born in this country before eventually heading to France | Hungary
+right: Alison
+Wrong: 
+Value: $400
+Number: 22
+TOBACCO | This Caribbean capital city's name is shorthand for a fine cigar | Havana
+right: Alison
+Wrong: 
+Value: $400
+Number: 10
+LETTER & WORD | An airplane reservation made on the Internet & that you print out yourself | an e-ticket
+right: Rich
+Wrong: 
+Value: $400
+Number: 7
+IT'S A LONG WAY TO TIPPERARY | From the airport, get in your Dooley rental car & head toward this "poetic" city 15 miles east | Limerick
+right: Alison
+Wrong: 
+Value: $600
+Number: 17
+THE LATE NIGHT CROWD | Ted Koppel anchored this late night show for 25 years | Nightline
+right: 
+Wrong: Triple Stumper
+Rich: What is Dateline?
+Value: $600
+Number: 28
+BREAKFAST BRANDS | The familiar round canister of this brand of oats goes all the way back to 1915 | Quaker Oats
+right: Joe
+Wrong: 
+Value: $600
+Number: 3
+GETTING COZY WITH SARKOZY | Sarkozy backed PM Balladur for president in 1995, causing a fallout with this French leader who won that election | (Jacques) Chirac
+right: Joe
+Wrong: 
+Value: $600
+Number: 23
+TOBACCO | It's a flexible wire coated with cotton & inserted into smoking devices to remove tar | a pipe cleaner
+right: Joe
+Wrong: 
+Alison: What's a filter?
+Value: $600
+Number: 13
+LETTER & WORD | In a 1954 experiment John Stapp accelerated to 632 mph in 5 seconds, surviving 46 of these units | g-forces
+right: Joe
+Wrong: 
+Rich: What are "g"s?
+Value: $600
+Number: 8
+IT'S A LONG WAY TO TIPPERARY | Feast your eyes (& nose) on the rich pastureland called not this "of Tears" but the "Golden" this | Vale
+right: Alison
+Wrong: 
+Value: $800
+Number: 18
+THE LATE NIGHT CROWD | Before his late-night gig, he co-hosted "The Man Show" & "Win Ben Stein's Money" | Jimmy Kimmel
+right: Alison
+Wrong: 
+Value: $800
+Number: 29
+BREAKFAST BRANDS | This brand, whose logo is seen <http://www.j-archive.com/media/2010-07-23_J_04.jpg> here, dates back to 1893 | Cream of Wheat
+right: Alison
+Wrong: 
+Value: $800
+Number: 4
+GETTING COZY WITH SARKOZY | In 2009 Sarkozy called to eliminate this garment worn by some Muslim women, saying it was a symbol of enslavement | burqa
+right: Rich
+Wrong: 
+Value: $800
+Number: 24
+TOBACCO | 4-letter "electrical" word for a flat, compressed wad of chewing tobacco | a plug
+right: Alison
+Wrong: 
+Value: $800
+Number: 14
+LETTER & WORD | The most common human blood type (make sure to include whether it's positive or negative) | O-positive
+right: Alison
+Wrong: 
+Value: DD: $2,500
+Number: 11
+IT'S A LONG WAY TO TIPPERARY | In Tipperary, you'll have to choose between historic St. Mary's Church & historic Corny's, one of these founded in 1742 | a pub
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 19
+THE LATE NIGHT CROWD | Back in 1993 this "SNL" vet's foray into late night on Fox lasted only 29 episodes | Chevy Chase
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+BREAKFAST BRANDS | This syrupy married lady made her debut in TV commercials in 1961 | Mrs. Butterworth
+right: Alison
+Wrong: 
+Value: $1000
+Number: 5
+GETTING COZY WITH SARKOZY | Ooh la la!  In February 2008 Sarkozy married wife No. 3, this former model | Carla Bruni
+right: Alison
+Wrong: 
+Value: $1000
+Number: 26
+TOBACCO | It's the process of treating & aging raw tobacco to improve its burn & flavor | curing
+right: Rich
+Wrong: 
+Value: $1000
+Number: 21
+LETTER & WORD | During World War II, these soldier meals included a stick of gum, toilet paper & 4 cigarettes | K rations
+right: Joe
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the first commercial break (after clue 15)
+Alison: $5,500
+Joe: $3,000
+Rich: $200
+Scores at the end of the Jeopardy! Round:
+Alison: $9,300
+Joe: $4,200
+Rich: $1,400
+Second Jeopardy! Round: HEALTH & MEDICINE, GET THE L OUT, THEIR GREEK EQUIVALENT, THEY'RE LOOKING OUT FOR US, MAX FACTOR, COVER GIRLS
+HEALTH & MEDICINE | Norovirus is associated with gastroenteritis, sometimes called this type of "flu" | stomach flu
+right: Joe
+Wrong: 
+Value: $400
+Number: 2
+GET THE L OUT | ...of a word for a snow particle to get a word meaning "forgery" | flake & fake
+right: Alison
+Wrong: 
+Value: $400
+Number: 8
+THEIR GREEK EQUIVALENT | Juno | Hera
+right: Joe
+Wrong: 
+Value: $400
+Number: 13
+THEY'RE LOOKING OUT FOR US | This LAPD unit was created in response to sniper incidents in the 1960s | SWAT
+right: Rich
+Wrong: 
+Value: $400
+Number: 20
+MAX FACTOR | He studied physics at the Univ. of Munich with Prof. Von Jolly & got his doctoral degree in 1879 (the year of Einstein's birth) | Max Planck
+right: Joe
+Wrong: 
+Value: $400
+Number: 26
+COVER GIRLS | This American skier was on the cover of Sports Illustrated's 2010 Winter Olympics Preview Issue | Lindsey Vonn
+right: Rich
+Wrong: 
+Alison: Who is Jacobellis?
+Value: $400
+Number: 18
+HEALTH & MEDICINE | In ordinary English it means "better"; to a doctor, it means "located higher up on the body" | superior
+right: Joe
+Wrong: 
+Value: $800
+Number: 3
+GET THE L OUT | ...of a word for something that's put on a donut to get a word meaning to stare at | glaze & gaze
+right: Rich
+Wrong: 
+Value: $800
+Number: 9
+THEIR GREEK EQUIVALENT | Mars | Ares
+right: Alison
+Wrong: 
+Value: $800
+Number: 14
+THEY'RE LOOKING OUT FOR US | The 53rd Weather Reconnaissance Squadron is known alliteratively as these "hunters" | hurricane hunters
+right: Joe
+Wrong: 
+Value: $800
+Number: 1
+MAX FACTOR | Maxwell Perkins persuaded Scribner's to publish his first novel, "This Side of Paradise" | Fitzgerald
+right: Alison
+Wrong: 
+Value: $800
+Number: 27
+COVER GIRLS | Oprah shared the April 2009 cover of O Magazine with this powerful woman | Michelle Obama
+right: Alison
+Wrong: 
+Value: $800
+Number: 22
+HEALTH & MEDICINE | A technique called the relaxation response opens up blood vessels, easing a systolic type of this 1-word condition | hypertension
+right: Alison
+Wrong: 
+Value: $1200
+Number: 4
+GET THE L OUT | ...of a word for a dish to get an old-fashioned word for "head" | plate & pate
+right: Alison
+Wrong: 
+Value: $1200
+Number: 10
+THEIR GREEK EQUIVALENT | Mercury | Hermes
+right: Joe
+Wrong: 
+Value: $1200
+Number: 15
+THEY'RE LOOKING OUT FOR US | Pasadena, Texas, population 140,000, has the USA's largest municipal fire department of this type | volunteer
+right: Alison
+Wrong: 
+Value: $1200
+Number: 6
+MAX FACTOR | Max Ernst was a founding member of this art movement in which the images grew out of the subconscious | surrealism
+right: Alison
+Wrong: 
+Value: $1200
+Number: 28
+COVER GIRLS | This singer was fierce on the cover of Vogue's 2009 Shape Issue, which said "Real women have curves" | Beyoncé
+right: Alison
+Wrong: 
+Value: $1200
+Number: 23
+HEALTH & MEDICINE | 21 million Americans have this disease of the endocrine system & 6 million of them don't know it | diabetes
+right: Rich
+Wrong: 
+Value: $1600
+Number: 5
+GET THE L OUT | ...of an ingratiating word to get an old-fashioned word for porridge | please & pease
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 11
+THEIR GREEK EQUIVALENT | Victoria | Nike
+right: Joe
+Wrong: 
+Value: DD: $4,000
+Number: 16
+THEY'RE LOOKING OUT FOR US | The NCIRD (I is for Immunization) is part of this 3-letter Atlanta-based organization | CDC
+right: 
+Wrong: Triple Stumper
+Rich: What are the Centers for Disease Control?
+Value: $1600
+Number: 19
+MAX FACTOR | He's the Jacobin leader seen <http://www.j-archive.com/media/2010-07-23_DJ_29.jpg> here | Maximilien Robespierre
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+COVER GIRLS | Elle magazine's 2009 Body Issue "transformed" this actress into a cover girl | Megan Fox
+right: Alison
+Wrong: 
+Value: $1600
+Number: 24
+HEALTH & MEDICINE | (<http://www.j-archive.com/media/2010-07-23_DJ_07.jpg> Kelly of the Clue Crew stands next to a patient undergoing a PET scan at Brookhaven National Laboratory on Long Island, New York.)  Brookhaven studies the human brain using <http://www.j-archive.com/media/2010-07-23_DJ_07a.jpg> PET scanning; as in CAT scanning, the "T" is for this method of 3-D imaging | tomography
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 7
+GET THE L OUT | ...of a word meaning to quench a thirst to get a Japanese potent potable | slake & sake
+right: Alison
+Wrong: 
+Value: DD: $4,000
+Number: 12
+THEIR GREEK EQUIVALENT | Faunus | Pan
+right: Alison
+Wrong: 
+Value: $2000
+Number: 17
+THEY'RE LOOKING OUT FOR US | NERC keeps the lights on by monitoring the bulk power system, made up of 3 vast networks called these | power grids
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+MAX FACTOR | This Russian's novel "Mother" was dramatized by Bertolt Brecht | Maxim Gorky
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+COVER GIRLS | The December 2009 Cosmo teased the story of this singer's "naughty honeymoon surprise" with Josh Duhamel | Fergie
+right: Alison
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Alison: $27,300
+Joe: $12,200
+Rich: $3,000
+
+Final Jeopardy! Round
+PRESIDENTIAL CAMPAIGNS | In the "World Almanac" list of notable third party candidates, 1 of the 2 for whom the main issue was "states' rights" | (1 of) Governor George Wallace & Strom Thurmond
+right: Alison
+Wrong: 
+Rich: Who is Burr?
+Joe: Who is Teddy Roosevelt
+Wagers: 
+Rich: $1,000
+Joe: $6,199
+Alison: $1,000
+Final scores:
+Alison: $28,300 (2-day champion: $55,101)
+Joe: $6,001 (2nd place: $2,000)
+Rich: $2,000 (3rd place: $1,000)
+
+Coryat scores
+Alison: $23,600 (26 R(including 2 DDs),2 W)
+Joe: $9,800 (15 R(including 1 DD),0 W)
+Rich: $3,000 (9 R,3 W)

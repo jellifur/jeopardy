@@ -1,0 +1,284 @@
+59 - Thursday, November 29, 1984
+Contestants:
+Nancy Burns: a library assistant originally from Chicago, Illinois
+Tom McGinn: an administrative assistant originally from Chillicothe, Ohio
+Mark Loundy: a photojournalist from Diamond Bar, California (whose 2-day cash winnings total $20,649)
+First Jeopardy! Round: SCIENCE, '60s TRIVIA, SPORT OF KINGS, SAINTLY CITIES, 6-LETTER WORDS, SUPER HEROES
+SCIENCE | A sound's repetition by reflection | an echo
+right: Mark
+Wrong: 
+Value: $100
+Number: 1
+'60s TRIVIA | By 1966 the Air Force had logged 10,147 sightings of these, but didn't believe any | UFOs
+right: Tom
+Wrong: 
+Value: $100
+Number: 6
+SPORT OF KINGS | The pari-mutuel system lets you do it legally | bet on horses
+right: Mark
+Wrong: 
+Value: $100
+Number: 21
+SAINTLY CITIES | Minneapolis' "twin", it's capital of Minnesota | St. Paul
+right: Mark
+Wrong: 
+Value: $100
+Number: 14
+SUPER HEROES | He's been played by Reeves & Reeve | Superman
+right: Mark
+Wrong: 
+Value: $100
+Number: 3
+SCIENCE | He originated "The Origin of Species" | Charles Darwin
+right: Nancy
+Wrong: 
+Value: $200
+Number: 2
+'60s TRIVIA | It's what LBJ showed off to reporters in October 1965 | a scar
+right: Mark
+Wrong: 
+Value: $200
+Number: 7
+SPORT OF KINGS | Race where faster horses carry more weight than slower ones | a handicap
+right: Mark
+Wrong: 
+Value: $200
+Number: 22
+SAINTLY CITIES | California mission town which is annual destination for famed swallows | San Juan Capistrano
+right: Nancy
+Wrong: 
+Value: $200
+Number: 17
+SUPER HEROES | Still seen in Thanksgiving parades, Wally Cox gave this hero his voice | Underdog
+right: 
+Wrong: Triple Stumper
+Mark: Who is Superdog?
+Nancy: Who is Wonderdog?
+Value: $200
+Number: 5
+SCIENCE | Singular form of the word "bacteria" | bacterium
+right: Tom
+Wrong: 
+Value: $300
+Number: 4
+'60s TRIVIA | Jean Nidetch in 1963 lost 72 lbs. & started this company | Weight Watchers
+right: Nancy
+Wrong: 
+Value: $300
+Number: 10
+SPORT OF KINGS | Race horse that runs well on a wet track, or a Bronx mommy | a mudder
+right: Mark
+Wrong: 
+Value: $300
+Number: 23
+SAINTLY CITIES | 8th most populous city in the world, it was once capital of Brazil | São Paulo
+right: Mark
+Wrong: 
+Value: $300
+Number: 18
+SUPER HEROES | His theme was <http://www.j-archive.com/media/1984-11-29_J_11.mp3> the following: | Mighty Mouse
+right: Nancy
+Wrong: 
+Value: DD: $400
+Number: 11
+SCIENCE | Negative particle that orbits an atom's nucleus | an electron
+right: Mark
+Wrong: 
+Nancy: What is a neutron?
+Value: $400
+Number: 8
+'60s TRIVIA | In 1967 he was kicked out of the House of Representatives for reprehensible behavior | Adam Clayton Powell
+right: Mark
+Wrong: 
+Nancy: [no response]
+Value: $400
+Number: 15
+SAINTLY CITIES | Reputed site of Columbus' tomb, it's capital of Dominican Republic | Santo Domingo
+right: Mark
+Wrong: 
+Value: $400
+Number: 19
+SUPER HEROES | His archenemy, Dr. Sivana, nicknamed him "The Big Red Cheese" | Captain Marvel
+right: Tom
+Wrong: 
+Value: $400
+Number: 12
+SCIENCE | Cytology is the study of these biological building blocks | cells
+right: Mark
+Wrong: 
+Value: $500
+Number: 9
+'60s TRIVIA | In '61 this oil billionaire installed a pay phone in his mansion for guests to use | J. Paul Getty
+right: Mark
+Wrong: 
+Value: $500
+Number: 16
+SAINTLY CITIES | Poshest of all Swiss ski resorts | St. Moritz
+right: Mark
+Wrong: 
+Value: $500
+Number: 20
+SUPER HEROES | Originally Reed Richards, his wife Sue, The Human Torch & The Thing | The Fantastic Four
+right: Nancy
+Wrong: 
+Value: $500
+Number: 13
+Scores at the first commercial break (after clue 15)
+Mark: $1,100
+Tom: $400
+Nancy: -$100
+Scores at the end of the Jeopardy! Round:
+Mark: $3,900
+Tom: $800
+Nancy: $600
+Second Jeopardy! Round: GEOGRAPHY, WORLD LEADERS, FIRSTS, ASTRONOMY, WARS, TV ANIMALS
+GEOGRAPHY | Honolulu is on this Hawaiian island | Oahu
+right: Mark
+Wrong: 
+Value: $200
+Number: 8
+WORLD LEADERS | Won medals for helping British in South Africa but his opposition drove them from India | Mahatma Gandhi
+right: Nancy
+Wrong: 
+Value: $200
+Number: 13
+FIRSTS | Combat candies made to melt in a GI's mouth, not in his hand | M&M's
+right: Nancy
+Wrong: 
+Value: $200
+Number: 4
+ASTRONOMY | Second largest planet in the solar system | Saturn
+right: Mark
+Wrong: 
+Value: $200
+Number: 15
+WARS | Though never declared, it was the longest war in which America took part | the Vietnam War
+right: Mark
+Wrong: 
+Value: $200
+Number: 2
+TV ANIMALS | The seasick sea serpent | Cecil
+right: Mark
+Wrong: 
+Value: $200
+Number: 1
+GEOGRAPHY | 2 of 4 countries bordering Greece | (2 of) Yugoslavia, Turkey, Bulgaria, Albania
+right: Mark
+Wrong: 
+Value: $400
+Number: 21
+WORLD LEADERS | Since independence in '45, Sukarno & Suharto have been this island nation's only presidents | Indonesia
+right: Mark
+Wrong: 
+Value: $400
+Number: 14
+FIRSTS | Until Swanson offered them in '54, you couldn't officially eat in front of the boob tube | frozen TV dinners
+right: Nancy
+Wrong: 
+Value: $400
+Number: 19
+ASTRONOMY | Stars forming patterns as seen from Earth, such as Orion | a constellation
+right: Mark
+Wrong: 
+Value: $400
+Number: 16
+WARS | The material cost of this war was greater than all other wars put together | World War II
+right: Tom
+Wrong: 
+Mark: What was the Vietnam War?
+Value: $400
+Number: 3
+TV ANIMALS | While Lassie was played by a male, this dolphin was played by a female | Flipper
+right: Nancy
+Wrong: 
+Value: $400
+Number: 5
+WORLD LEADERS | In 1946 Norway's Trygve Lie became 1st to hold this post | Secretary General of the U.N.
+right: 
+Wrong: 
+Nancy: What is president of the United Nations?
+Value: DD: $500
+Number: 18
+FIRSTS | The first ones had to be nurses to serve coffee, tea or milk | stewardesses (or flight attendants)
+right: Tom
+Wrong: 
+Value: $600
+Number: 20
+ASTRONOMY | From Greek for "milk", a system of stars such as the Milky Way | galaxies
+right: Nancy
+Wrong: 
+Value: $600
+Number: 17
+WARS | Sports event that set off a 1969 war between Honduras & El Salvador | soccer
+right: Tom
+Wrong: 
+Value: $600
+Number: 7
+TV ANIMALS | He was 1st of several chimps featured in the early days of "The Today Show" | J. Fred Muggs
+right: Mark
+Wrong: 
+Value: $600
+Number: 6
+FIRSTS | Brand of cereal thou could 1st buy in 1901 | Quaker Oatmeal
+right: Nancy
+Wrong: 
+Value: $800
+Number: 24
+ASTRONOMY | The Inquisition forced him to retract his belief the Earth orbits the Sun | Galileo
+right: Mark
+Wrong: 
+Value: $800
+Number: 22
+WARS | In 19th C., Brazil, Argentina & Uruguay wiped out over 80% of this nearby country's population | Paraguay
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+TV ANIMALS | In the TV show "Maya", it's what Maya was | an elephant
+right: Nancy
+Wrong: 
+Value: $800
+Number: 11
+FIRSTS | In 1868, a Mobile, Ala. Mardi Gras parade 1st featured these | floats
+right: Mark
+Wrong: 
+Value: $1000
+Number: 25
+ASTRONOMY | To nearest ½ day, time it takes Moon to orbit Earth | 29 and a half
+right: Mark
+Wrong: 
+Value: DD: $100
+Number: 23
+WARS | Spaniards started war in colonial America by cutting off this part of Robert Jenkins' body | his ear
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+TV ANIMALS | In this series, Starbuck's little friend Boxie had a pet Daggit | Battlestar Galactica
+right: 
+Wrong: Triple Stumper
+Tom: What is a robot dog?
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Mark: $8,000
+Tom: $1,400
+Nancy: $3,500
+
+Final Jeopardy! Round
+THE CALENDAR | The only day of the week named for a Roman god | Saturday
+right: Tom | Nancy | Mark
+Wrong: 
+Wagers: 
+Tom: $1,400
+Nancy: $3,500
+Mark: $1,000
+Final scores:
+Mark: $9,000 (3-day champion: $29,649)
+Tom: $2,800 (3rd place: vertical blinds)
+Nancy: $7,000 (2nd place: luggage and his and hers watches)
+
+Coryat scores
+Mark: $8,900 (25 R(including 1 DD),2 W)
+Tom: $1,400 (6 R,1 W)
+Nancy: $3,900 (12 R(including 1 DD),4 W(including 1 DD))

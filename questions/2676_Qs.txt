@@ -1,0 +1,344 @@
+5519 - Thursday, September 11, 2008
+Contestants:
+Daniel Scott: a college English professor from Providence, Rhode Island
+Daphne Matalene: a magazine editor from New York, New York
+Laura Novak: a family doctor from Akron, Ohio (whose 1-day cash winnings total $20,400)
+First Jeopardy! Round: REDS, SHAMPOO, LOVE AFFAIR, SPLENDOR, IN THE GRASS, WARREN BEATTY
+REDS | In a 1948 work, this commie observed, "the people are like water and the army is like fish" | Mao Zedong
+right: Laura
+Wrong: 
+Daniel: Who is Stalin?
+Value: $200
+Number: 1
+SHAMPOO | Johnson's Baby Shampoo promises "no more" these | tears
+right: Laura
+Wrong: 
+Value: $200
+Number: 4
+LOVE AFFAIR | Mr. Bingley leases an estate near the 5 unwed Bennet daughters in this 1813 novel; complications ensue | Pride and Prejudice
+right: Laura
+Wrong: 
+Value: $200
+Number: 12
+SPLENDOR | This French palace is synonymous with splendor, & a 1998 museum exhibit was called the "Splendors of" it | Versailles
+right: Daphne
+Wrong: 
+Value: $200
+Number: 11
+IN THE GRASS | This woody grass has been known to grow 4 feet in 24 hours | bamboo
+right: Daphne
+Wrong: 
+Value: $200
+Number: 23
+WARREN BEATTY | In 1990 Warren starred as this square-jawed comic book detective | Dick Tracy
+right: Laura
+Wrong: 
+Value: $200
+Number: 21
+REDS | Born in Argentina, this commie helped take over Cuba & later died in Bolivia | Che Guevara
+right: Daniel
+Wrong: 
+Value: $400
+Number: 2
+SHAMPOO | In the early 1960s, Procter & Gamble launched an anti-dandruff shampoo under this brand name | Head & Shoulders
+right: Daniel
+Wrong: 
+Value: $400
+Number: 7
+LOVE AFFAIR | This 1878 title gal has a child with her hubby Alexei but her affair with Vronsky is what gets her preggers again | Anna Karenina
+right: Laura
+Wrong: 
+Value: $400
+Number: 13
+SPLENDOR | The First Book of Chronicles says, "Thine, O Lord, is the greatness, and the power, and" this | the glory
+right: Laura
+Wrong: 
+Value: $400
+Number: 17
+IN THE GRASS | <http://www.j-archive.com/media/2008-09-11_J_27.jpg> This type of grass is named for the plains it covers (what do I hear?--the hoofbeats of a gaucho?) | pampas grass
+right: Daniel
+Wrong: 
+Laura: What is buffalo grass?
+Value: $400
+Number: 27
+WARREN BEATTY | A tagline for this 1967 Warren Beatty film said, "They're young.  They're in love.  They rob banks" | Bonnie and Clyde
+right: Laura
+Wrong: 
+Value: $400
+Number: 22
+REDS | He's been lying in state in Moscow since 1924 & gets a change of clothes every 3 years | Lenin
+right: Daphne
+Wrong: 
+Value: $600
+Number: 3
+SHAMPOO | This classic green shampoo was introduced in 1947 in a metal tube (glass bottles broke in the shower) | Prell
+right: Laura
+Wrong: 
+Value: $600
+Number: 8
+LOVE AFFAIR | Francesca really gets into National Geographic (well, a photographer for it, anyway) in this novel | The Bridges of Madison County
+right: Daphne
+Wrong: 
+Value: $600
+Number: 14
+SPLENDOR | This synonym for "splendor" often refers to high intelligence, or to the shine of a diamond | brilliance
+right: Daphne
+Wrong: 
+Value: $600
+Number: 18
+IN THE GRASS | Timothy grass is considered the best grass for making this (while the sun shines, of course) | hay
+right: Daphne
+Wrong: 
+Value: $600
+Number: 28
+WARREN BEATTY | L.A. Ram Warren Beatty comes back to life in the body of a recently murdered millionaire in this comedy from 1978 | Heaven Can Wait
+right: Daniel
+Wrong: 
+Value: $600
+Number: 24
+REDS | In 1940 Ramon Mercader gave this commie the axe... literally! | Trotsky
+right: Daniel
+Wrong: 
+Value: $800
+Number: 5
+SHAMPOO | "Never wear black without the blue"--this shampoo | Selsun Blue
+right: Laura
+Wrong: 
+Value: $800
+Number: 9
+LOVE AFFAIR | This title medico's life is disrupted by war & his love for Lara, wife of a revolutionary; the Bolsheviks don't help, either | Doctor Zhivago
+right: Daphne
+Wrong: 
+Value: DD: $1,000
+Number: 15
+SPLENDOR | It can be the glow some people give off, or, in physics, the quality of emitting heat or light | radiance
+right: Daphne
+Wrong: 
+Value: $800
+Number: 19
+IN THE GRASS | Among the most important grasses are cereal grains, like this one seen <http://www.j-archive.com/media/2008-09-11_J_29.jpg> here that's sometimes made into meal | oats
+right: Daphne
+Wrong: 
+Value: $800
+Number: 29
+WARREN BEATTY | Warren Beatty plays a disillusioned senator who falls for Halle Berry in this 1998 film | Bulworth
+right: Daniel
+Wrong: 
+Value: $800
+Number: 25
+REDS | What a Christmas present!  This country's last commie leader, Nicolae Ceausescu, was executed Dec. 25, 1989 | Romania
+right: Laura
+Wrong: 
+Value: $1000
+Number: 6
+SHAMPOO | Brooke Shields & Kim Basinger are 2 of the "girls" who appeared in ads for this shampoo | Breck
+right: Laura
+Wrong: 
+Value: $1000
+Number: 10
+LOVE AFFAIR | Thornfield Hall's attic holds a surprise wedding guest for this title governess, but love wins out in the end | Jane Eyre
+right: Daphne
+Wrong: 
+Value: $1000
+Number: 16
+SPLENDOR | Latin splendere, "to shine", gives us splendid, splendor & this adjective for "dazzling in appearance" | splendiferous (or resplendent)
+right: Daphne
+Wrong: 
+Value: $1000
+Number: 20
+IN THE GRASS | A type of grass popular for golf greens is named for this British colony in the North Atlantic | Bermuda grass
+right: Daniel
+Wrong: 
+Value: $1000
+Number: 30
+WARREN BEATTY | Roger Ebert said this 1987 Hoffman & Beatty film was "a lifeless, massive, lumbering exercise in failed comedy" | Ishtar
+right: Laura
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the first commercial break (after clue 15)
+Laura: $4,400
+Daphne: $2,400
+Daniel: $1,400
+Scores at the end of the Jeopardy! Round:
+Laura: $6,000
+Daphne: $7,400
+Daniel: $4,200
+Second Jeopardy! Round: TOUGH BODIES OF WATER, CELEBS' ORIGINAL NAMES, INSTRUMENTAL, ANNUAL EVENTS, ANATOMY, "FOR" WORDS
+TOUGH BODIES OF WATER | Turkey forms the southern border of this sea | the Black Sea
+right: Laura
+Wrong: 
+Value: $400
+Number: 7
+CELEBS' ORIGINAL NAMES | NBA legend Ferdinand Lewis Alcindor | Kareem Abdul-Jabbar
+right: Laura
+Wrong: 
+Value: $400
+Number: 19
+INSTRUMENTAL | Earl Scruggs could tell you this 5-stringed instrument originated in Africa | a banjo
+right: Laura
+Wrong: 
+Value: $400
+Number: 1
+ANNUAL EVENTS | On the second Sunday of June, the 1967 Summer of Love is re-created at the Haight Street Fair in this city | San Francisco
+right: Daphne
+Wrong: 
+Value: $400
+Number: 9
+ANATOMY | As opposed to the muscular or skeletal system, the heart, blood & blood vessels are parts of this system | the circulatory system
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+"FOR" WORDS | It's inevitable, there's nothing I can do to change it, it's this type of conclusion | foregone
+right: Daphne
+Wrong: 
+Value: $400
+Number: 26
+TOUGH BODIES OF WATER | Outlaw Rob Roy used to hang out on the bonny bonny banks of this largest Scottish lake | Loch Lomond
+right: Daphne
+Wrong: 
+Value: $800
+Number: 8
+CELEBS' ORIGINAL NAMES | Pop singer Michael Anthony Orlando Cassavitis | Tony Orlando
+right: Laura
+Wrong: 
+Value: $800
+Number: 22
+INSTRUMENTAL | The reeds of this instrument are positioned to sound whether you blow or suck through the wind channels | harmonica
+right: 
+Wrong: Triple Stumper
+Laura: What is a bagpipe?
+Value: $800
+Number: 14
+ANNUAL EVENTS | In an annual ceremony, on Nov. 20, 2007, President Bush pardoned 2 of these named May & Flower | turkeys
+right: Daphne
+Wrong: 
+Value: $800
+Number: 10
+ANATOMY | A thin, tough fibrous material called the renal capsule covers the outer surface of these organs | kidneys
+right: Daniel
+Wrong: 
+Value: $800
+Number: 3
+"FOR" WORDS | It can precede cookie, hunter & teller | fortune
+right: Daphne
+Wrong: 
+Value: $800
+Number: 27
+TOUGH BODIES OF WATER | Ethiopia's Lake Tana serves as the main source of this "colorful" river | the Blue Nile
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 18
+CELEBS' ORIGINAL NAMES | "American Idol" heartthrob Clayton Holmes Grissom | Clay Aiken
+right: Daphne
+Wrong: 
+Value: $1200
+Number: 23
+INSTRUMENTAL | Patented in 1835, this instrument was designed to provide a suitable valved brass bass for a wind band | the tuba
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 15
+ANNUAL EVENTS | The foundation honoring this holiday says, "We inspire people to plant, nurture, and celebrate trees" | Arbor Day
+right: Daphne
+Wrong: 
+Value: $1200
+Number: 11
+ANATOMY | (<http://www.j-archive.com/media/2008-09-11_DJ_04.wmv> Kelly of the Clue Crew hangs out with a skeleton.)  Allowing the lower leg to move backward & forward in the same way that a door opens & closes, the knee is considered this type of joint | a hinge
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 4
+"FOR" WORDS | Food for domestic animals, it also means to search for food or provisions | forage
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 28
+TOUGH BODIES OF WATER | Major gulfs extending from this sea include the Mosquito Gulf & the Gulf of Darien | the Caribbean Sea
+right: Laura
+Wrong: 
+Value: DD: $2,000
+Number: 20
+CELEBS' ORIGINAL NAMES | Film star Thomas Mapother IV | Tom Cruise
+right: Daphne
+Wrong: 
+Value: $1600
+Number: 24
+INSTRUMENTAL | The Japanese tsuzumi is just one type of this instrument that is a stretched head held taut across a shell | a drum
+right: Daniel
+Wrong: 
+Value: $1600
+Number: 16
+ANNUAL EVENTS | Each June 60,000 visitors are served bowls of cereal in this Michigan city's Cereal City Festival | Battle Creek
+right: 
+Wrong: 
+Daphne: What is Lansing?
+Value: DD: $3,000
+Number: 12
+ANATOMY | Glucose levels in the blood are regulated by 2 pancreatic hormones: glucagon & this | insulin
+right: Laura
+Wrong: 
+Value: $1600
+Number: 5
+"FOR" WORDS | Medical jurisprudence is another name for this branch of medicine | forensic
+right: Daphne
+Wrong: 
+Value: $1600
+Number: 29
+TOUGH BODIES OF WATER | This Canadian province's largest lake is Bras d'Or, a saltwater lake lying on Cape Breton Island | Nova Scotia
+right: Daphne
+Wrong: 
+Value: $2000
+Number: 21
+CELEBS' ORIGINAL NAMES | Film director Raimund Liebling, who's "wanted and desired" | Roman Polanski
+right: 
+Wrong: Triple Stumper
+Daniel: Was it William Wyler?
+Value: $2000
+Number: 25
+INSTRUMENTAL | (<http://www.j-archive.com/media/2008-09-11_DJ_17.wmv> Jon of the Clue Crew strikes a tuning fork and then touches it to the table.)  Touching the tuning fork to a larger surface makes the noise louder, the same way a piano or guitar uses this type of board for amplification | a sounding board
+right: Laura
+Wrong: 
+Value: $2000
+Number: 17
+ANNUAL EVENTS | On Nov. 11, 1953 in Emporia, Kansas, this holiday was first observed under its current name | Veterans Day
+right: Daphne
+Wrong: 
+Value: $2000
+Number: 13
+ANATOMY | A large <http://www.j-archive.com/media/2008-09-11_DJ_06.jpg> forehead doesn't indicate smartness; it indicates a large one of <http://www.j-archive.com/media/2008-09-11_DJ_06a.jpg> these bones that form the forehead | the frontal bone
+right: Laura
+Wrong: 
+Value: $2000
+Number: 6
+"FOR" WORDS | From the Latin word for "ant", it's an anthill or nest | formicary
+right: 
+Wrong: Triple Stumper
+Laura: What is formic?
+Daniel: Formiary?  What is formiary?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Laura: $13,200
+Daphne: $17,200
+Daniel: $7,400
+
+Final Jeopardy! Round
+LINES FROM 19th CENTURY NOVELS | "My two natures had memory in common, but all other faculties were most unequally shared between them" | Strange Case of Dr Jekyll and Mr Hyde
+right: Daniel | Laura | Daphne
+Wrong: 
+Wagers: 
+Daniel: $7,200
+Laura: $4,000
+Daphne: $9,201
+Final scores:
+Laura: $17,200 (2nd place: $2,000)
+Daphne: $26,401 (New champion: $26,401)
+Daniel: $14,600 (3rd place: $1,000)
+
+Coryat scores
+Laura: $12,800 (21 R(including 1 DD),3 W)
+Daphne: $20,000 (22 R(including 1 DD),1 W(including 1 DD))
+Daniel: $7,400 (13 R,3 W)

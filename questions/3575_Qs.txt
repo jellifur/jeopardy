@@ -1,0 +1,172 @@
+6086 - Monday, February 14, 2011
+Comments: The IBM Challenge game 1, Jeopardy! Round only.
+Contestants:
+Brad Rutter: a $3.2-million winner from Los Angeles, California
+Watson: a deep question answering system from IBM
+Ken Jennings: a 74-game champion from Seattle, Washington
+First Jeopardy! Round: LITERARY CHARACTER APB, BEATLES PEOPLE, OLYMPIC ODDITIES, NAME THE DECADE, FINAL FRONTIERS, ALTERNATE MEANINGS
+LITERARY CHARACTER APB | Wanted for a 12-year crime spree of eating King Hrothgar's warriors; officer Beowulf has been assigned the case | Grendel
+right: Watson
+Wrong: 
+Value: $200
+Number: 8
+BEATLES PEOPLE | "And anytime you feel the pain, hey" this guy "refrain, don't carry the world upon your shoulders" | Jude
+right: Watson
+Wrong: 
+Value: $200
+Number: 4
+OLYMPIC ODDITIES | Milorad Cavic almost upset this man's perfect 2008 Olympics, losing to him by one hundredth of a second | Michael Phelps
+right: Watson
+Wrong: 
+Value: $200
+Number: 5
+NAME THE DECADE | Disneyland opens & the peace symbol is created | the '50s
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+FINAL FRONTIERS | It's Michelangelo's fresco on the wall of the Sistine Chapel, depicting the saved & the damned | The Last Judgment
+right: Watson
+Wrong: 
+Value: $200
+Number: 9
+ALTERNATE MEANINGS | 4-letter word for a vantage point or a belief | a view
+right: Brad
+Wrong: 
+Value: $200
+Number: 1
+LITERARY CHARACTER APB | His victims include Charity Burbage, Mad Eye Moody & Severus Snape; he'd be easier to catch if you'd just name him! | Voldemort
+right: Brad
+Wrong: 
+Value: $400
+Number: 14
+BEATLES PEOPLE | This title gal, "children at your feet, wonder how you manage to make ends meet" | Lady Madonna
+right: Watson
+Wrong: 
+Value: $400
+Number: 10
+OLYMPIC ODDITIES | In 1908 in this city U.S. flag-bearer Ralph Rose caused controversy by not lowering the flag when passing the king | London
+right: Watson
+Wrong: 
+Value: $400
+Number: 11
+NAME THE DECADE | The Empire State Building opens & the "War of the Worlds" radio broadcast causes a panic | the 1930s
+right: Brad
+Wrong: 
+Value: $400
+Number: 12
+FINAL FRONTIERS | From the Latin for "end", this is where trains can also originate | terminus (terminal)
+right: Ken
+Wrong: 
+Watson: What is finis?
+Value: $400
+Number: 16
+ALTERNATE MEANINGS | 4-letter word for the iron fitting on the hoof of a horse or a card-dealing box in a casino | shoe
+right: Watson
+Wrong: 
+Value: $400
+Number: 2
+LITERARY CHARACTER APB | Wanted for general evil-ness; last seen at the Tower of Barad-Dur; it's a giant eye, folks, kinda hard to miss | Sauron
+right: Watson
+Wrong: 
+Value: $600
+Number: 30
+BEATLES PEOPLE | "Bang bang" his "silver hammer came down upon her head" | Maxwell's silver hammer
+right: Watson
+Wrong: 
+Value: $600
+Number: 13
+OLYMPIC ODDITIES | A 1976 entrant in the "modern" this was kicked out for wiring his epee to score points without touching his foe | pentathlon
+right: Watson
+Wrong: 
+Value: $600
+Number: 19
+NAME THE DECADE | Klaus Barbie is sentenced to life in prison & DNA is first used to convict a criminal | the 1980s
+right: Ken
+Wrong: 
+Value: $600
+Number: 20
+FINAL FRONTIERS | To push one of these paper products is to stretch established limits | the envelope
+right: Brad
+Wrong: 
+Value: $600
+Number: 24
+ALTERNATE MEANINGS | A piece of wood from a tree, or to puncture with something pointed | stick
+right: Watson
+Wrong: 
+Value: $600
+Number: 15
+LITERARY CHARACTER APB | Wanted for killing Sir Danvers Carew; appearance--pale & dwarfish; seems to have a split personality | (Mr.) Hyde (or Dr. Jekyll)
+right: Watson
+Wrong: 
+Value: DD: $1,000
+Number: 3
+BEATLES PEOPLE | She "died in the church and was buried along with her name. Nobody came" | Eleanor Rigby
+right: Watson
+Wrong: 
+Value: $800
+Number: 29
+OLYMPIC ODDITIES | In the 2004 opening ceremonies a sole member of this team opened the parade of nations; the rest of his team closed it | Greece
+right: Ken
+Wrong: 
+Value: $800
+Number: 28
+NAME THE DECADE | The first flight takes place at Kitty Hawk & baseball's first World Series is played | the nineteen-aughts or 1900s
+right: Brad
+Wrong: 
+Value: $800
+Number: 27
+FINAL FRONTIERS | It's a 4-letter term for a summit; the first 3 letters mean a type of simian | apex
+right: Brad
+Wrong: 
+Value: $800
+Number: 26
+ALTERNATE MEANINGS | Stylish elegance, or students who all graduated in the same year | class
+right: Brad
+Wrong: 
+Watson: What is chic?
+Value: $800
+Number: 25
+LITERARY CHARACTER APB | Wanted for stealing a loaf of bread in "Les Miserables"; really, really wanted, for other thefts too | Jean Valjean
+right: Watson
+Wrong: 
+Value: $1000
+Number: 18
+BEATLES PEOPLE | "So I sing a song of love" this woman, also the name of John's mother | Julia
+right: Ken
+Wrong: 
+Value: $1000
+Number: 17
+OLYMPIC ODDITIES | It was the anatomical oddity of U.S. gymnast George Eyser, who won a gold medal on the parallel bars in 1904 | he's missing a leg
+right: 
+Wrong: Triple Stumper
+Ken: What is he only had one hand?
+Watson: What is leg?
+Value: $1000
+Number: 21
+NAME THE DECADE | The first modern crossword puzzle is published & Oreo cookies are introduced | nineteen-teens (the 1910s)
+right: Brad
+Wrong: 
+Ken: What are the '20s?
+Watson: What is 1920s?
+Value: $1000
+Number: 23
+FINAL FRONTIERS | Tickets aren't needed for this "event", a black hole's boundary from which matter can't escape | event horizon
+right: Watson
+Wrong: 
+Value: $1000
+Number: 7
+ALTERNATE MEANINGS | A thief, or the bent part of an arm | a crook
+right: Ken
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the first commercial break (after clue 15)
+Ken: $200
+Watson: $5,200
+Brad: $1,000
+Scores at the end of the Jeopardy! Round:
+Ken: $2,000
+Watson: $5,000
+Brad: $5,000
+

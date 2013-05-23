@@ -1,0 +1,348 @@
+5491 - Monday, June 23, 2008
+Contestants:
+Alyssa Hesse: a waitress originally from Hastings, Minnesota
+Sven Sinclair: an economist and actuary from Burke, Virginia
+Doris Nash: a costume shop supervisor from Ames, Iowa (whose 1-day cash winnings total $28,801)
+First Jeopardy! Round: STATE OF THE UNION, MOVIE SONGS, AFRICA'S OFFICIAL LANGUAGES, WORDS IN CONTESTANT, CORPORATE, RATS
+STATE OF THE UNION | It's the third-largest U.S. state in area | California
+right: Sven
+Wrong: 
+Value: $200
+Number: 9
+MOVIE SONGS | "Hakuna Matata" was one of 3 tunes nominated for an Oscar from this Disney film | The Lion King
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 1
+AFRICA'S OFFICIAL LANGUAGES | In Benin: this | French
+right: 
+Wrong: Triple Stumper
+Sven: What is English?
+Value: $200
+Number: 4
+WORDS IN CONTESTANT | Yo, Shakespeare! It's a 14-line poem | a sonnet
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 21
+CORPORATE | The Southland Corporation might say "Oh, thank heaven" for this chain of 30,000 convenience stores | 7-11
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 30
+RATS | With their front teeth perfect for gnawing, rats are members of this mammalian order | rodents
+right: Alyssa
+Wrong: 
+Value: $200
+Number: 16
+STATE OF THE UNION | Heard weekly since 1925, this state's "Grand Ole Opry" program is the longest-running live radio show in the U.S. | Tennessee
+right: Sven
+Wrong: 
+Value: $400
+Number: 10
+MOVIE SONGS | "Let's Do" this "Again"--& again, as we watch "The Rocky Horror Picture Show" over & over | the Time Warp
+right: Doris
+Wrong: 
+Value: $400
+Number: 2
+AFRICA'S OFFICIAL LANGUAGES | In Gabon: this | French
+right: Sven
+Wrong: 
+Value: $400
+Number: 5
+WORDS IN CONTESTANT | A movement upward, perhaps to climb a hill | ascent
+right: Sven
+Wrong: 
+Value: $400
+Number: 22
+CORPORATE | In 1999 this shoe company named the largest building at its corporate headquarters after soccer great Mia Hamm | Nike
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 29
+RATS | The Norway rat, the one typically used in lab experiments, is also known as this "colorful" rat | a brown rat
+right: Alyssa
+Wrong: 
+Doris: What is a white rat?
+Value: $400
+Number: 17
+STATE OF THE UNION | As of Jan. 1, 2008, this Pacific Northwest state had the highest statewide minimum wage, $8.07 an hour | Washington
+right: Doris
+Wrong: 
+Alyssa: What is Oregon?
+Value: $600
+Number: 11
+MOVIE SONGS | He had a 1994 hit with "Streets of Philadelphia", from a Tom Hanks film | Bruce Springsteen
+right: Sven
+Wrong: 
+Value: $600
+Number: 3
+AFRICA'S OFFICIAL LANGUAGES | In Cameroon: English & this | French
+right: Alyssa
+Wrong: 
+Value: $600
+Number: 6
+WORDS IN CONTESTANT | A usually dissenting subdivision of a religious group | a sect
+right: Sven
+Wrong: 
+Value: $600
+Number: 23
+CORPORATE | This car-repair chain founded in 1956 shares its name with a king of ancient Phrygia | Midas
+right: Sven
+Wrong: 
+Value: DD: $100
+Number: 26
+RATS | Like young canines, baby rats are known by this one-syllable term | pups
+right: Doris
+Wrong: 
+Value: $600
+Number: 18
+STATE OF THE UNION | A river in this state is named for the Rappahannock tribe that John Smith met in 1607 | Virginia
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 14
+MOVIE SONGS | This classic bluegrass song for banjo & guitar was featured in the film "Deliverance" | "Dueling Banjoes"
+right: Doris
+Wrong: 
+Value: $800
+Number: 12
+AFRICA'S OFFICIAL LANGUAGES | In Equatorial Guinea: Spanish & this | French
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 7
+WORDS IN CONTESTANT | Atomic number 10, this odorless gaseous element is obtained from fractional distillation of liquid air | neon
+right: Sven
+Wrong: 
+Value: $800
+Number: 24
+CORPORATE | Henry Ford called minority stockholders in his corporation these, like the ones that cause dysentery & malaria | parasites
+right: 
+Wrong: Triple Stumper
+Sven: What are mosquitoes?
+Value: $800
+Number: 27
+RATS | This nautical & rat metaphor refers to people abandoning a losing side | rats fleeing a sinking ship
+right: Doris
+Wrong: 
+Value: $800
+Number: 19
+STATE OF THE UNION | Big Pocono State Park is found in this state | Pennsylvania
+right: Sven
+Wrong: 
+Value: $1000
+Number: 15
+MOVIE SONGS | The Oscar for Best Song of 2007 went to a tune from this film about 2 Dublin musicians | Once
+right: Doris
+Wrong: 
+Value: $1000
+Number: 13
+AFRICA'S OFFICIAL LANGUAGES | In Rwanda: Kinyarwanda, French & this | English
+right: Sven
+Wrong: 
+Value: $1000
+Number: 8
+WORDS IN CONTESTANT | A political subdivision of Switzerland | a canton
+right: Sven
+Wrong: 
+Value: $1000
+Number: 25
+CORPORATE | The discovery of oil in 1879 at Pico Canyon near Los Angeles was the start of what's now this petroleum corporation, stock symbol CVX | Chevron
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+RATS | Exposed underground variety of rat seen <http://www.j-archive.com/media/2008-06-23_J_20.jpg> here | a naked mole rat
+right: Alyssa
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Doris: $2,800
+Sven: $3,400
+Alyssa: $1,800
+Scores at the end of the Jeopardy! Round:
+Doris: $3,800
+Sven: $5,500
+Alyssa: $4,200
+Second Jeopardy! Round: THE BODY HUMAN, SPORTS STUFF, AROUND EUROPE, MINDBENDING MISCELLANY, THE ARTS, COUNTRIES WITHOUT THEIR VOWELS
+THE BODY HUMAN | The hyoid bone supports this organ & provides attachment sites for muscles used in speaking & swallowing | the tongue
+right: Sven
+Wrong: 
+Value: $400
+Number: 21
+SPORTS STUFF | Christina Aguilera, to this "animal" of a golfer: "Sorry, I don't know much about you. I don't follow tennis" | Tiger Woods
+right: Alyssa
+Wrong: 
+Value: $400
+Number: 30
+AROUND EUROPE | The Hotel Sacher in Vienna was built on the site of the theater where his Ninth Symphony premiered in 1824 | Beethoven
+right: Doris
+Wrong: 
+Value: $400
+Number: 11
+MINDBENDING MISCELLANY | According to Guinness, this present delivered in 1886 was the largest gift ever given | the Statue of Liberty
+right: Sven
+Wrong: 
+Value: $400
+Number: 22
+THE ARTS | "Maria Stuarda" by Donizetti (libretto by Bardari) is this type of work | opera
+right: Doris
+Wrong: 
+Alyssa: What's a statue?
+Value: $400
+Number: 6
+COUNTRIES WITHOUT THEIR VOWELS | RQ | Iraq
+right: Sven
+Wrong: 
+Value: $400
+Number: 1
+THE BODY HUMAN | This bone is located on the thumb side of the forearm | the radius
+right: Sven
+Wrong: 
+Value: $800
+Number: 20
+SPORTS STUFF | Bill Simmons' "Now I Can Die in Peace" chronicles this team's 2004 World Series win, its first since 1918 | the Red Sox
+right: Doris
+Wrong: 
+Value: $800
+Number: 28
+AROUND EUROPE | Every 5 years, this capital city hosts a Frederic Chopin International Piano Competition | Warsaw
+right: Alyssa
+Wrong: 
+Value: $800
+Number: 12
+MINDBENDING MISCELLANY | Credited with saving the studio, this canine star was Warner Bros.' most successful star of the 1920s | Rin Tin Tin
+right: Sven
+Wrong: 
+Value: $800
+Number: 23
+THE ARTS | If you get the "pointe", Darci Kistler found her fame as one of these performers | a ballerina
+right: Doris
+Wrong: 
+Value: $800
+Number: 7
+COUNTRIES WITHOUT THEIR VOWELS | CB | Cuba
+right: Doris
+Wrong: 
+Value: $800
+Number: 2
+THE BODY HUMAN | (<http://www.j-archive.com/media/2008-06-23_DJ_17.jpg> Cheryl of the Clue Crew presents the visual.)  Red eye in photographs is the reflection of the flash off the blood vessels from <http://www.j-archive.com/media/2008-06-23_DJ_17a.jpg> this posterior part of the eye | the retina
+right: Sven
+Wrong: 
+Value: DD: $5,000
+Number: 17
+SPORTS STUFF | This quarterback of broken leg fame: "Nobody in football should be called a genius. A genius is a guy like Norman Einstein" | (Joe) Theismann
+right: Doris
+Wrong: 
+Value: $1200
+Number: 15
+AROUND EUROPE | Hop aboard the train and you can get a close-up peek at <http://www.j-archive.com/media/2008-06-23_DJ_13.jpg> this peak | the Matterhorn
+right: Alyssa
+Wrong: 
+Value: DD: $4,000
+Number: 13
+MINDBENDING MISCELLANY | Jim Springer & Jim Lewis, who led similar lives down to their wives' & dogs' names, turned out to be these | identical twins
+right: Alyssa
+Wrong: 
+Value: $1200
+Number: 24
+THE ARTS | "Luncheon of the Boating Party" was an impressive 1881 work by this Impressionist | Renoir
+right: Sven
+Wrong: 
+Value: $1200
+Number: 8
+COUNTRIES WITHOUT THEIR VOWELS | LGR | Algeria
+right: Sven
+Wrong: 
+Doris: What is Ligeria?
+Value: $1200
+Number: 3
+THE BODY HUMAN | A common injury to this joint is a tear of the anterior cruciate ligament | the knee
+right: Sven
+Wrong: 
+Value: $1600
+Number: 18
+SPORTS STUFF | In his HBO biopic, an "epiphanous experience of pure religiosity" during a 1971 Ali fight inspires him to be a promoter | Don King
+right: Doris
+Wrong: 
+Value: $1600
+Number: 29
+AROUND EUROPE | Lisbon's monument to the discoveries was built in 1960 to celebrate the 500th anniversary of this prince's death | Henry the Navigator
+right: Sven
+Wrong: 
+Value: $1600
+Number: 14
+MINDBENDING MISCELLANY | Referring to these 2 Disneyland rides, one designer said, "I went from sweet little children to dirty old men" | It's A Small World
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 25
+THE ARTS | An architectural style is named for this French fine arts school that dropped architecture in 1968 | the École des Beaux Arts
+right: 
+Wrong: Triple Stumper
+Doris: What's the Sorbonne?
+Value: $1600
+Number: 9
+COUNTRIES WITHOUT THEIR VOWELS | TNS | Tunisia
+right: Sven
+Wrong: 
+Value: $1600
+Number: 4
+THE BODY HUMAN | (<http://www.j-archive.com/media/2008-06-23_DJ_19.jpg> Jimmy of the Clue Crew gives a physical demonstation.)  Muscles work in pairs, so you can strengthen one by increasing flexibilty in the other. The hamstring curl strengthens the <http://www.j-archive.com/media/2008-06-23_DJ_19a.jpg> hamstring and allows <http://www.j-archive.com/media/2008-06-23_DJ_19b.jpg> this muscle at the front of the thigh to elongate | the quadriceps
+right: Sven
+Wrong: 
+Value: $2000
+Number: 19
+SPORTS STUFF | (<http://www.j-archive.com/media/2008-06-23_DJ_27.jpg> I'm USC athletic director Mike Garrett.)   In 1965 at USC I led the nation in rushing; the year before, this running back played by James Caan in a TV movie achieved the feat | (Brian) Piccolo
+right: Doris
+Wrong: 
+Value: $2000
+Number: 27
+AROUND EUROPE | Amsterdam's name reflects the fact that the city grew up around a dam built on this river | the Amstel River
+right: Sven
+Wrong: 
+Value: $2000
+Number: 16
+MINDBENDING MISCELLANY | Involving a color & an animal, it's the second most common pub name found in the U.K. & is found on the U.K. coat of arms | red lion
+right: 
+Wrong: Triple Stumper
+Doris: What's a golden lion?
+Alyssa: What's a white lion?
+Value: $2000
+Number: 26
+THE ARTS | A 1974 movie tells of Benji; a 12th century Japanese scroll illustrates this "tale" by Lady Murasaki | (The Tale of
+right: Alyssa
+Wrong: 
+Value: $2000
+Number: 10
+COUNTRIES WITHOUT THEIR VOWELS | RMN | Romania
+right: Doris
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Doris: $9,000
+Sven: $24,500
+Alyssa: $10,200
+
+Final Jeopardy! Round
+PRESIDENTIAL BIRTHPLACES | 4 U.S. presidents serving in 3 different centuries have been born in the same county in this state | Massachusetts
+right: Sven
+Wrong: 
+Doris: What is Ohio
+Alyssa: What is Virginia?
+Wagers: 
+Doris: $8,999
+Alyssa: $10,200
+Sven: $4,099
+Final scores:
+Doris: $1 (2nd place: $2,000)
+Sven: $28,599 (New champion: $28,599)
+Alyssa: $0 (3rd place: $1,000)
+
+Coryat scores
+Doris: $9,000 (15 R,4 W)
+Sven: $21,200 (24 R(including 2 DDs),2 W)
+Alyssa: $7,400 (15 R(including 1 DD),3 W)

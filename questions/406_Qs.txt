@@ -1,0 +1,331 @@
+2754 - Thursday, July 18, 1996
+Comments: 1996 Olympic Games Tournament final game.
+Contestants:
+Jan Mertens: a computer programmer from Antwerp, Belgium
+Mandi Hale: a pharmaceutical dispenser from Ruddingham, Nottingham England
+Ulf Jensen: a university teacher from Uppsala, Sweden
+First Jeopardy! Round: THE 1990S, ANIMALS, ACTION STARS, BIBLICAL PEOPLE, INTERNATIONAL THEATRE, HISTORY
+THE 1990S | Among the biggest media events of the '90s was the televised trial of this American football star | O.J. Simpson
+right: Ulf
+Wrong: 
+Value: $100
+Number: 8
+ANIMALS | Lizards & these creatures, like pythons & cobras, make up the largest group of reptiles | Snakes
+right: Jan
+Wrong: 
+Value: $100
+Number: 23
+ACTION STARS | He's starred in one series of action-adventure movies as Han Solo & in another as Indiana Jones | Harrison Ford
+right: Mandi
+Wrong: 
+Value: $100
+Number: 24
+INTERNATIONAL THEATRE | Marlon Brando played Stanley Kowalski in "A Streetcar Named Desire" by this American playwright | Tennessee Williams
+right: Mandi
+Wrong: 
+Value: $100
+Number: 25
+HISTORY | Only 7 prisoners were inside this fortress when it was stormed by French citizens July 14, 1789 | The Bastille
+right: Ulf
+Wrong: 
+Value: $100
+Number: 26
+THE 1990S | After 11 1/2 years in office, she resigned as British prime minister in 1990 | Margaret Thatcher
+right: Mandi
+Wrong: 
+Value: $200
+Number: 7
+ANIMALS | Acacia leaves are the favorite food of this tallest mammal | Giraffe
+right: Mandi
+Wrong: 
+Value: $200
+Number: 20
+ACTION STARS | "I'll be back!" was one of this Austrian-American's few lines in 1984's "The Terminator" | Arnold Schwarzenegger
+right: Mandi
+Wrong: 
+Value: $200
+Number: 18
+INTERNATIONAL THEATRE | This 19th c. Norwegian wrote his famous play "Peer Gynt" in verse | Henrik Ibsen
+right: Ulf
+Wrong: 
+Value: $200
+Number: 11
+HISTORY | In 1923 it replaced Constantinople as the capital of Turkey | Ankara
+right: Jan
+Wrong: 
+Ulf: What is Istanbul?
+Value: $200
+Number: 13
+THE 1990S | After a long struggle, Estonia, Latvia & this Baltic republic gained their independence September 6, 1991 | Lithuania
+right: Ulf
+Wrong: 
+Value: $300
+Number: 5
+ANIMALS | Found chiefly in Australia, the wallaby is a smaller type of this marsupial | Kangaroo
+right: Mandi
+Wrong: 
+Value: $300
+Number: 19
+ACTION STARS | He earned Oscar nominations for writing & acting in "Rocky" | Sylvester Stallone
+right: Mandi
+Wrong: 
+Value: $300
+Number: 14
+INTERNATIONAL THEATRE | This Russian playwright died in July, 1904, less than 6 months after his "The Cherry Orchard" premiered | Anton Chekhov
+right: Mandi
+Wrong: 
+Value: $300
+Number: 10
+HISTORY | It's estimated that as many as 300,000 Ugandans were killed during his 1970s regime | Idi Amin
+right: Ulf
+Wrong: 
+Value: $300
+Number: 3
+THE 1990S | The world lost 2 of its greatest dancers:  Margot Fonteyn in 1991 & this man, her partner, in 1993 | Rudolf Nureyev
+right: Mandi
+Wrong: 
+Value: $400
+Number: 4
+ANIMALS | A white whale & a large white sturgeon prized for its caviar share this name | Beluga
+right: Mandi
+Wrong: 
+Value: $400
+Number: 21
+ACTION STARS | Believe it or not, she's appeared as Ripley in 3 "Alien" films | Sigourney Weaver
+right: Ulf
+Wrong: 
+Mandi: Who is [mind blanks out]?
+Value: $400
+Number: 15
+BIBLICAL PEOPLE | This man anointed the 1st king of Israel was the son of Kish, a wealthy Benjaminite | Saul
+right: Jan
+Wrong: 
+Value: $400
+Number: 16
+INTERNATIONAL THEATRE | The Abbey Theatre in this city is regarded as Ireland's national theatre | Dublin
+right: Mandi
+Wrong: 
+Value: $400
+Number: 9
+HISTORY | In 1975, the Himalayan country of Sikkim was absorbed by this country | India
+right: 
+Wrong: 
+Ulf: What is Nepal?
+Value: DD: $500
+Number: 2
+THE 1990S | President of Czechoslovakia from 1989-1992, he was elected president of the Czech Republic in 1993 | Vaclav Havel
+right: Mandi
+Wrong: 
+Value: $500
+Number: 6
+ANIMALS | These performing horses trained at the Spanish Riding School in Vienna are bred elsewhere for farmwork | Lipizzaner Stallions
+right: Mandi
+Wrong: 
+Value: $500
+Number: 22
+ACTION STARS | Star of films like "Kickboxer" & "Bloodsport", this karate champ is nicknamed "The Muscles from Brussels" | Jean Claude Van Damme
+right: Mandi
+Wrong: 
+Value: $500
+Number: 17
+BIBLICAL PEOPLE | This wealthy man in whose tomb Jesus was placed may have been a member of the Sanhedrin | Joseph of Arimathea
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+INTERNATIONAL THEATRE | German playwright who wrote "Mother Courage and Her Children" & "The Good Woman of Szechuan" | Bertolt Brecht
+right: Ulf
+Wrong: 
+Value: $500
+Number: 12
+HISTORY | In January of 1926, Theodoros Pangalos declared himself dictator of this country - he was deposed in August | Greece
+right: Ulf
+Wrong: 
+Value: $500
+Number: 1
+Scores at the first commercial break (after clue 15)
+Ulf: $1,400
+Mandi: $1,800
+Jan: $0
+Scores at the end of the Jeopardy! Round:
+Ulf: $1,700
+Mandi: $4,000
+Jan: $700
+Second Jeopardy! Round: ROYALTY, HEALTH & MEDICINE, ANCIENT EGYPT, AUTHORS, WORLD GEOGRAPHY, COMPOSERS
+ROYALTY | In 1995 Juan Carlos I celebrated his 20th year as the king of this country | Spain
+right: Jan
+Wrong: 
+Value: $200
+Number: 22
+HEALTH & MEDICINE | Nadolal is a drug used to treat certain types of arrythmia, a condition where this is irregular | Heartbeat
+right: Mandi
+Wrong: 
+Value: $200
+Number: 11
+ANCIENT EGYPT | This famous stone discovered in 1799 allowed Young & Champollion to decipher hieroglyphics | The Rosetta Stone
+right: Ulf
+Wrong: 
+Value: $200
+Number: 29
+AUTHORS | "Oliver Twist" & "A Tale of Two Cities" are among the classic novels by this British author | Charles Dickens
+right: Mandi
+Wrong: 
+Value: $200
+Number: 27
+WORLD GEOGRAPHY | Brocken is the highest peak in this German mountain range known for its canaries | Hartz Mountains
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 28
+COMPOSERS | At age 8 this Polish-French composer played a piano concerto by Ghirivetz in public | Frederic Chopin
+right: Ulf
+Wrong: 
+Value: $200
+Number: 25
+ROYALTY | This current king of Jordan received part of his education in England at Harrow & Sandhurst | King Hussein
+right: Ulf
+Wrong: 
+Value: $400
+Number: 13
+HEALTH & MEDICINE | About 1 male in 10,000 is born with this bleeding disease where blood lacks clotting factor VIII | Hemophilia
+right: Mandi
+Wrong: 
+Value: $400
+Number: 10
+ANCIENT EGYPT | The step one of these monuments at Saqqara was first conceived as a rectangular mastaba | Pyramid
+right: Mandi
+Wrong: 
+Value: $400
+Number: 30
+AUTHORS | His epic novel "War And Peace" features over 500 characters | Leo Tolstoy
+right: Jan
+Wrong: 
+Value: $400
+Number: 26
+WORLD GEOGRAPHY | This country's 2nd-highest peak is Mt. Tasman on South Island | New Zealand
+right: Mandi
+Wrong: 
+Value: $400
+Number: 6
+COMPOSERS | About 200 church cantatas by this composer of "The Goldberg Variations" survive | J.S. Bach
+right: Jan
+Wrong: 
+Value: $400
+Number: 24
+ROYALTY | He was crown prince when he first met his future wife Michiko Shoda on a tennis court in 1957 | Emperor Akihito
+right: Mandi
+Wrong: 
+Value: $600
+Number: 12
+HEALTH & MEDICINE | Spread by anopheles mosquitoes, it's been called the greatest disease hazard of travel in warm climates | Malaria
+right: Mandi
+Wrong: 
+Value: $600
+Number: 7
+ANCIENT EGYPT | This plant whose stems were used to make writing material was called ptef by the ancient Egyptians | Papyrus
+right: Mandi
+Wrong: 
+Value: $600
+Number: 21
+AUTHORS | This Florentine statesman wrote plays & poems as well as his famous treatise "The Prince" | Niccolò Machiavelli
+right: Ulf
+Wrong: 
+Value: $600
+Number: 18
+WORLD GEOGRAPHY | The lowest land point on Earth is the shore of this body of water | Dead Sea
+right: Ulf
+Wrong: 
+Value: $600
+Number: 5
+COMPOSERS | This composer's father, Abraham, converted to Protestantism & appended Bartholdi to the family name | Felix Mendelssohn
+right: Jan
+Wrong: 
+Value: DD: $1,000
+Number: 23
+ROYALTY | She designed costumes for a Danish television production of Hans Christian Andersen's "The Shepherdess and the Sweep" | Queen Margrethe
+right: Ulf
+Wrong: 
+Value: $800
+Number: 20
+HEALTH & MEDICINE | This is the most important of the androgens, or male sex hormones | Testosterone
+right: Mandi
+Wrong: 
+Value: $800
+Number: 8
+ANCIENT EGYPT | When Osiris was slain by Seth, this goddess gathered most of the pieces of his body & reformed him | Isis
+right: Jan
+Wrong: 
+Value: $800
+Number: 17
+AUTHORS | 1915's "The Metamorphosis" is one of the best-known works by this Czech-born author | Franz Kafka
+right: Ulf
+Wrong: 
+Value: $800
+Number: 14
+WORLD GEOGRAPHY | In medieval times, this southern peninsula of Greece was known as Morea | Peloponnesus
+right: Ulf
+Wrong: 
+Value: $800
+Number: 3
+COMPOSERS | This "Clair de Lune" composer orchestrated 2 numbers from Erik Satie's "Gymnopedie" | Claude Debussy
+right: Ulf
+Wrong: 
+Mandi: Who is Chopin?
+Value: $800
+Number: 2
+ROYALTY | On her 71st birthday, April 30, 1980, this queen abdicated in favor of her daughter Beatrix | Juliana
+right: Ulf
+Wrong: 
+Value: $1000
+Number: 19
+HEALTH & MEDICINE | Monteggia's fracture affects this bone on the little finger side of the forearm, just below the elbow | the ulna
+right: Mandi
+Wrong: 
+Value: $1000
+Number: 9
+ANCIENT EGYPT | The Valley of the Kings lies on the western bank of the Nile opposite this ancient capital | Thebes
+right: 
+Wrong: Triple Stumper
+Ulf: What is Karnak?
+Jan: What is Luxor?
+Value: $1000
+Number: 16
+AUTHORS | This French author is best remembered for his "A la recherche du temps perdu" | Marcel Proust
+right: Ulf
+Wrong: 
+Value: DD: $2,000
+Number: 15
+WORLD GEOGRAPHY | At about 175 miles, it's Europe's westernmost landlocked country | Andorra
+right: Ulf
+Wrong: 
+Jan: What is Spain?
+Value: $1000
+Number: 4
+COMPOSERS | Rimsky-Korsakov's reorchestration of his "A Night on Bald Mountain" debuted after his death | Modest Mussorgsky
+right: Jan
+Wrong: 
+Value: $1000
+Number: 1
+Scores at the end of the Double Jeopardy! Round:
+Ulf: $9,900
+Mandi: $8,400
+Jan: $2,500
+
+Final Jeopardy! Round
+ARTISTS | In 1914 his brother's remains were moved from Holland to Auvers, France & buried beside him | Vincent Van Gogh
+right: Jan | Ulf
+Wrong: 
+Mandi: Who is Edgar Degas?
+Wagers: 
+Jan: $2,500
+Mandi: $3,300
+Ulf: $6,901
+Final scores:
+Ulf: $16,801 (Tournament champion: $25,000)
+Mandi: $5,100 (1st runner-up: $10,000)
+Jan: $5,000 (2nd runner-up: $7,500)
+
+Coryat scores
+Ulf: $9,400 (20 R(including 1 DD),3 W(including 1 DD))
+Mandi: $8,400 (24 R,2 W)
+Jan: $2,100 (9 R(including 1 DD),2 W)

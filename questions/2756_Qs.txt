@@ -1,0 +1,349 @@
+5555 - Friday, October 31, 2008
+Comments: Carl Brandt game 4.  Regular-play game in which DJ!-eliminated contestant returns for credits chat.
+Contestants:
+Edith Kealy: a research scientist from Kew Gardens, New York
+Anders Reynolds: a legislative assistant originally from Little Rock, Arkansas
+Carl Brandt: an investor originally from Pittsburgh, Pennsylvania (whose 3-day cash winnings total $40,799)
+First Jeopardy! Round: FAMOUS COUNTS, QUESTS, DAYS OF CREATION, HAVE A TREAT, MORSE CODE, JUST SAY "NO"
+FAMOUS COUNTS | This literary count was based in part on a Romanian prince named Vlad the Impaler | Count Dracula
+right: Carl
+Wrong: 
+Value: $200
+Number: 1
+QUESTS | In the King Arthur legends, Sir Galahad quested for this sacred vessel | the Holy Grail
+right: Edith
+Wrong: 
+Value: $200
+Number: 6
+DAYS OF CREATION | On the sixth day God created beasts, cattle, creeping things & this creature with dominion over them | man
+right: Edith
+Wrong: 
+Value: $200
+Number: 11
+HAVE A TREAT | Yum!  The ChipShop in Brooklyn is famous for deep-frying these creme-filled Hostess cakes | Twinkies
+right: Carl
+Wrong: 
+Value: $200
+Number: 16
+MORSE CODE | Dot-dash is "A"; a dot then a dash is these 2 letters, also a Spielberg movie title | "E-T"
+right: Carl
+Wrong: 
+Value: $200
+Number: 26
+JUST SAY "NO" | The Bedouin & Tuareg are these types of itinerant tribes | nomadic tribes
+right: Carl
+Wrong: 
+Value: $200
+Number: 21
+FAMOUS COUNTS | Gandhi was deeply influenced by this count who wrote "War and Peace" | (Leo) Tolstoy
+right: Carl
+Wrong: 
+Value: $400
+Number: 2
+QUESTS | In the first Harry Potter novel, Harry & his friends try to get to this title object | the Sorcerer's Stone
+right: Edith
+Wrong: 
+Value: $400
+Number: 7
+DAYS OF CREATION | The Bible specifies that on the fifth day God created this "great" mammal | the whale
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+HAVE A TREAT | Let's have some of this company's "Kissables"--Kisses coated with colorful candy shells | Hershey's
+right: Carl
+Wrong: 
+Value: $400
+Number: 17
+MORSE CODE | 5 dashes means nothing--more precisely, this numeral | 0
+right: Carl
+Wrong: 
+Value: $400
+Number: 27
+JUST SAY "NO" | An urban myth said this Chevy sold poorly in Spanish-speaking nations, where its name meant "doesn't go" | the Nova
+right: Carl
+Wrong: 
+Value: $400
+Number: 22
+FAMOUS COUNTS | "Jumpin' At The Woodside" & "Lester Leaps In" were hits for this man's orchestra | Count Basie
+right: Carl
+Wrong: 
+Value: $600
+Number: 3
+QUESTS | In a 1930 Sam Spade novel, everyone's on the hunt for this object that once belonged to the Knight's Templar | the Maltese Falcon
+right: Edith
+Wrong: 
+Value: $600
+Number: 8
+DAYS OF CREATION | On the third day, God created grass, herbs & this, "whose seed is in itself" | fruit
+right: Carl
+Wrong: 
+Anders: What is a flower?
+Value: $600
+Number: 13
+HAVE A TREAT | Topped with whipped cream, a tall Honey Frappuccino Blended Creme from this company has 330 calories | Starbucks
+right: Edith
+Wrong: 
+Value: $600
+Number: 18
+MORSE CODE | The famous message sent in Morse code May 24, 1844; we guess it started dot-dash-dash | "What hath God wrought"
+right: Carl
+Wrong: 
+Value: $600
+Number: 28
+JUST SAY "NO" | Born in Osaka, Japan in 1968, this major leaguer pitched 2 no-hitters & had 200 strikeouts 4 times | Hideo Nomo
+right: Carl
+Wrong: 
+Value: $600
+Number: 23
+FAMOUS COUNTS | This count retired from the Prussian army in 1891 to build the motor-driven airships that bore his name | (Count von) Zeppelin
+right: Carl
+Wrong: 
+Value: DD: $1,200
+Number: 4
+QUESTS | In Greek myth Pelias promised to surrender the throne to Jason if he could retrieve this priceless pelt | the Golden Fleece
+right: Anders
+Wrong: 
+Value: $800
+Number: 9
+DAYS OF CREATION | On the fourth day God created the greater & lesser lights to rule over these 2 things | day & night
+right: 
+Wrong: Triple Stumper
+Carl: What is the Earth and the Moon?
+Edith: What is the land and the sea?
+Value: $800
+Number: 14
+HAVE A TREAT | Blue Moon ice cream, a Midwest favorite, tastes like this breakfast cereal touted by a toucan | Froot Loops
+right: Carl
+Wrong: 
+Value: $800
+Number: 19
+MORSE CODE | This precursor to the CIA would be dash-dash-dash dot-dot-dot dot-dot-dot | the OSS
+right: 
+Wrong: Triple Stumper
+Carl: What is the SSI?
+Anders: What is the SSA?
+Value: $800
+Number: 29
+JUST SAY "NO" | This Finnish co. started by making paper--the original communications technology; mobile phones came in the 1960s | Nokia
+right: Carl
+Wrong: 
+Value: $800
+Number: 24
+FAMOUS COUNTS | Known to history as a marquis, this French author of licentious prose became a count on his father's death in 1767 | (Marquis) de Sade
+right: Carl
+Wrong: 
+Value: $1000
+Number: 5
+QUESTS | Beowulf sailed to Denmark on a quest to kill this monster | the hateful Grendel
+right: Carl
+Wrong: 
+Value: $1000
+Number: 10
+DAYS OF CREATION | On the second day, God created this, which he called Heaven, from the Latin for "to strengthen" | the firmament
+right: Anders
+Wrong: 
+Value: $1000
+Number: 15
+HAVE A TREAT | For a great hot fudge sundae, hotfoot it over to the soda fountain in this city's Ghirardelli Square | San Francisco
+right: Edith
+Wrong: 
+Value: $1000
+Number: 20
+MORSE CODE | (<http://www.j-archive.com/media/2008-10-31_J_30.wmv> Kelly of the Clue Crew shows an animation on the monitor combining two Morse code letters.)  In the 21st century, international Morse code fought its slide into obsolescence with its first new character in decades--it combined A & C to symbolize <http://www.j-archive.com/media/2008-10-31_J_30.jpg> this sign | @
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+JUST SAY "NO" | This term for a small bouquet of flowers implies a nice smell | a nosegay
+right: Carl
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Carl: $4,200
+Anders: $1,200
+Edith: $600
+Scores at the end of the Jeopardy! Round:
+Carl: $9,000
+Anders: $400
+Edith: $2,200
+Second Jeopardy! Round: FAMOUS RECOUNTS, REQUESTS, DAYS OF RECREATION, HAVE A RETREAT, REMORSE CODE, JUST SAY RENO
+FAMOUS RECOUNTS | In 2006 this country was embroiled in intrigue as Lopez Obrador & Calderon sweated a recount | Mexico
+right: Edith
+Wrong: 
+Value: $400
+Number: 11
+REQUESTS | I'm hitting the road, Mr. DJ, so please put on this title track of Springsteen's 1975 album | "Born To Run"
+right: Carl
+Wrong: 
+Value: $400
+Number: 12
+DAYS OF RECREATION | This brand's logo is seen <http://www.j-archive.com/media/2008-10-31_DJ_01.jpg> here; it started as an off-season hockey training tool | Rollerblade
+right: Carl
+Wrong: 
+Value: $400
+Number: 1
+HAVE A RETREAT | Winter forced Napoleon & his army into a devastating retreat from this country in late 1812 | Russia
+right: Carl
+Wrong: 
+Value: $400
+Number: 6
+REMORSE CODE | These?  "I've had a few", sings Sinatra in "My Way" | regrets
+right: Edith
+Wrong: 
+Value: $400
+Number: 21
+JUST SAY RENO | Reno's rep as a capital of this began in 1906 when Laura Corey got one from Penn. steel magnate husband William | a divorce
+right: 
+Wrong: Triple Stumper
+Carl: What is a silver dollar?
+Value: $400
+Number: 26
+FAMOUS RECOUNTS | In 2008 this leader of Zimbabwe defied a brokered summit in Lusaka & called for an election recount | Robert Mugabe
+right: Carl
+Wrong: 
+Value: $800
+Number: 13
+REQUESTS | "Who You Are" by this Eddie Vedder band would really help me get my head straight | Pearl Jam
+right: Carl
+Wrong: 
+Value: $800
+Number: 17
+DAYS OF RECREATION | Binoculars & a checklist from the American Ornithologists' Union get you started in this activity | birdwatching
+right: Carl
+Wrong: 
+Value: $800
+Number: 2
+HAVE A RETREAT | Rather than surrender this ironclad, retreating Confederate forces destroyed her in May of 1862 | the Merrimac
+right: Carl
+Wrong: 
+Edith: What is the Monitor?
+Value: $800
+Number: 7
+REMORSE CODE | 6-letter type of forgiveness one customarily "begs" from you | pardon
+right: Carl
+Wrong: 
+Value: $800
+Number: 22
+JUST SAY RENO | The arch across Virginia Street proclaims Reno as "The Biggest" this | "Little City in the World"
+right: Carl
+Wrong: 
+Anders: What is "Little City on Earth"?
+Value: $800
+Number: 27
+FAMOUS RECOUNTS | The gubernatorial contest for this state in 1958 was challenged--Bernard Leddy of Burlington asked for a recount | Vermont
+right: Carl
+Wrong: 
+Value: $1200
+Number: 14
+REQUESTS | My ringtone of this trio's "Bootylicious" just leaves me dying to hear the whole song | Destiny's Child
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+DAYS OF RECREATION | (<http://www.j-archive.com/media/2008-10-31_DJ_03.jpg> Jon of the Clue Crew moves some mah-jongg tiles on top of some others.)   To start playing mah-jongg, the player who is the East Wind rolls the dice to determine who has the honor of <http://www.j-archive.com/media/2008-10-31_DJ_03a.jpg> opening this aptly named structure | the wall
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+HAVE A RETREAT | Following the fall of France in this year, the Royal Navy evacuated over 300,000 troops from Dunkirk | 1940
+right: Carl
+Wrong: 
+Value: DD: $1,400
+Number: 8
+REMORSE CODE | This synonym for remorseful adds 3 letters to "trite" & comes from the same Latin word | contrite
+right: Carl
+Wrong: 
+Value: $1200
+Number: 23
+JUST SAY RENO | In this 1956 hit Johnny Cash sang, "I shot a man in Reno just to watch him die" | "Folsom Prison Blues"
+right: 
+Wrong: Triple Stumper
+Edith: What is "Walk The Line"?
+Value: $1200
+Number: 28
+FAMOUS RECOUNTS | After recounts she said in 2000, "I... declare Gov. George W. Bush the winner of Florida's 25 electoral votes" | (Katherine) Harris
+right: Carl
+Wrong: 
+Value: $1600
+Number: 15
+REQUESTS | This U.S. Top 10 hit by Spandau Ballet will take me right back to slow dancing in '83 | "True"
+right: Edith
+Wrong: 
+Value: $1600
+Number: 19
+DAYS OF RECREATION | For this sport, whose name is from a German word for "nose", don't forget your mask, fins & breathing tube | snorkel (or snorkeling)
+right: Edith
+Wrong: 
+Anders: What is scuba?
+Value: $1600
+Number: 4
+HAVE A RETREAT | In WWI, the German battle cruisers Goeben & Breslau retreated the length of the Mediterranean to this Turkish port | Istanbul (Constantinople)
+right: Carl
+Wrong: 
+Value: $1600
+Number: 9
+REMORSE CODE | This word for a speech of remorse or a defense of one's actions is from the Greek for "away" & "speech" | an apology
+right: Carl
+Wrong: 
+Value: DD: $1,800
+Number: 24
+JUST SAY RENO | U. of Nevada-Reno has the USA's only advanced degree program in the study of this ethnic group of northern Spain | the Basques
+right: Carl
+Wrong: 
+Value: $1600
+Number: 29
+FAMOUS RECOUNTS | In 2005 Christine Gregoire became governor after machine & manual recounts in this state | Washington State
+right: Carl
+Wrong: 
+Value: $2000
+Number: 16
+REQUESTS | Shelby Lynne's version of "I Only Want To Be With You" is fine, but I'd like to hear this singer's original | Dusty Springfield
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+DAYS OF RECREATION | The pro seen <http://www.j-archive.com/media/2008-10-31_DJ_05.wmv> here is engaging in this activity--a hybrid of waterskiing & snowboarding | wakeboarding
+right: Anders
+Wrong: 
+Carl: What is kitesurfing?
+Edith: What is waterboarding?
+Value: $2000
+Number: 5
+HAVE A RETREAT | His brave retreat across Italy after his volunteers were kicked out of Rome in 1849 made him a hero | Garibaldi
+right: Carl
+Wrong: 
+Value: $2000
+Number: 10
+REMORSE CODE | "...came John the Baptist, preaching in the wilderness ...and saying," do this: "for the kingdom of heaven is at hand" | repent
+right: Carl
+Wrong: 
+Value: $2000
+Number: 25
+JUST SAY RENO | Reno was founded in 1868 during the construction of this railroad that was moving east to link up with the Union Pacific | the Central Pacific
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Carl: $29,000
+Anders: $0
+Edith: $2,200
+
+Final Jeopardy! Round
+MOVIE MAKERS & REMAKERS | Howard Hawks directed this film with Paul Muni as Tony Camonte; Brian De Palma remade it | Scarface
+right: Edith | Carl
+Wrong: 
+Wagers: 
+Edith: $2,100
+Carl: $1,000
+Final scores:
+Carl: $30,000 (4-day champion: $70,799)
+Anders: $0 (3rd place: $1,000)
+Edith: $4,300 (2nd place: $2,000)
+
+Coryat scores
+Carl: $28,200 (37 R(including 3 DDs),4 W)
+Anders: $0 (3 R,4 W)
+Edith: $2,200 (10 R,4 W)

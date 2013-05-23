@@ -1,0 +1,337 @@
+3592 - Tuesday, March 28, 2000
+Contestants:
+Andrew Millians: a cameraman from Los Angeles, California
+Jennifer Yuan: a web designer from Philadelphia, Pennsylvania
+Bryan Marcus: a sales clerk from Montevallo, Alabama (whose 2-day cash winnings total $12,199)
+First Jeopardy! Round: THE PHILADELPHIA STORY, SPELL THE LAST NAME, THE BRONZE AGE, POP SONGS BY THE NUMBERS, WE'LL ALWAYS HAVE PARROTS, HOW "RIGHT" YOU ARE!
+THE PHILADELPHIA STORY | You can visit the house on Arch Street where she's said to have made the first American flag | Betsy Ross
+right: Jennifer
+Wrong: 
+Value: $100
+Number: 3
+SPELL THE LAST NAME | Former New York governor Mario... | C-U-O-M-O
+right: Andrew
+Wrong: 
+Value: $100
+Number: 14
+THE BRONZE AGE | Winning a bronze medal at the Olympics means you came in this position | Third
+right: Bryan
+Wrong: 
+Value: $100
+Number: 15
+POP SONGS BY THE NUMBERS | In a 1969 Three Dog Night ballad, this number is "the loneliest number that you'll ever do" | One
+right: Bryan
+Wrong: 
+Value: $100
+Number: 5
+WE'LL ALWAYS HAVE PARROTS | Most parrots live in holes in trees or mounds; the monk parakeet is one of the few that builds these | Nests
+right: Andrew
+Wrong: 
+Value: $100
+Number: 1
+HOW "RIGHT" YOU ARE! | The position played by Tony Gwynn | Right field
+right: Jennifer
+Wrong: 
+Value: $100
+Number: 16
+THE PHILADELPHIA STORY | A statue of this film character once stood at the top of the Art Museum steps; now it's outside of the Spectrum | Rocky Balboa
+right: Andrew
+Wrong: 
+Value: $200
+Number: 4
+SPELL THE LAST NAME | Former Russian president Boris... | Y-E-L-T-S-I-N
+right: Andrew
+Wrong: 
+Value: $200
+Number: 18
+THE BRONZE AGE | Oliver Stone has one of these medals first created by executive order on February 4, 1944 | Bronze Star
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 17
+POP SONGS BY THE NUMBERS | Pack your bags because Eddie Money had these, the title of a 1978 hit | "Two Tickets To Paradise"
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 6
+WE'LL ALWAYS HAVE PARROTS | The African grey is known as the most accomplished species of this desirable ability | Speaking/talking
+right: Bryan
+Wrong: 
+Value: $200
+Number: 2
+HOW "RIGHT" YOU ARE! | By a unanimous vote in 1948, the U.N. adopted a "Universal Declaration of" these | Human rights
+right: Andrew
+Wrong: 
+Value: $200
+Number: 19
+THE PHILADELPHIA STORY | This man's national memorial includes a 30-ton statue of him & is found at the science museum named for him | Ben Franklin
+right: Jennifer
+Wrong: 
+Value: $300
+Number: 9
+SPELL THE LAST NAME | Stone Age cartoon series star Fred... | F-L-I-N-T-S-T-O-N-E
+right: Andrew
+Wrong: 
+Value: $300
+Number: 24
+THE BRONZE AGE | The Dupondius was an old one of these made of bronze | Coin
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+POP SONGS BY THE NUMBERS | "I was dreamin' when I wrote this" Prince favorite, so "forgive me if it goes astray" | "1999"
+right: Jennifer
+Wrong: 
+Value: $300
+Number: 8
+WE'LL ALWAYS HAVE PARROTS | Type of parrots seen here; at least they can be together: | Lovebirds
+right: Andrew
+Wrong: 
+Value: $300
+Number: 7
+HOW "RIGHT" YOU ARE! | It's the first sentence in the Miranda warning given by police officers to arrestees | "You have the right to remain silent"
+right: Andrew
+Wrong: 
+Value: $300
+Number: 20
+THE PHILADELPHIA STORY | Both the Declaration of Independence & this 1787 document were signed in Independence Hall | Constitution
+right: Bryan
+Wrong: 
+Value: $400
+Number: 10
+SPELL THE LAST NAME | WWI French premier Georges... | C-L-E-M-E-N-C-E-A-U
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 26
+THE BRONZE AGE | The Baldacchino, a 95' high bronze canopy designed by Bernini, stands in this basilica | St. Peter's Basilica
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 29
+POP SONGS BY THE NUMBERS | According to the title of a Spice Girls ballad, when this happens, "It's the only way to be" | "When Two Becomes One"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+WE'LL ALWAYS HAVE PARROTS | This bird, Nymphicus hollandicus, is closely related to the cockatoo & has a similar name | Cockatiel
+right: Andrew
+Wrong: 
+Value: $400
+Number: 12
+HOW "RIGHT" YOU ARE! | It's where you'll find the Parisian districts of Montmartre & La Villette | Right Bank of the Seine
+right: Bryan
+Wrong: 
+Value: $400
+Number: 21
+THE PHILADELPHIA STORY | Until the 1980s no building in Philly rose higher than the statue of this man that tops City Hall | William Penn
+right: Bryan
+Wrong: 
+Value: DD: $500
+Number: 11
+SPELL THE LAST NAME | Russian ballet dancer/defector Rudolf... | N-U-R-E-Y-E-V
+right: Jennifer
+Wrong: 
+Value: $500
+Number: 27
+THE BRONZE AGE | Pulp hero Doc who was "The Man of Bronze" | Doc Savage
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+POP SONGS BY THE NUMBERS | This Tommy Tutone tune begins, "Jenny Jenny, who can I turn to?" | "867-5309"
+right: Jennifer
+Wrong: 
+Value: $500
+Number: 25
+WE'LL ALWAYS HAVE PARROTS | In a Monty Python sketch, the Norwegian blue parrot is either dead or just pining for these inlets | Fjords
+right: Jennifer
+Wrong: 
+Value: $500
+Number: 13
+HOW "RIGHT" YOU ARE! | The slow-moving pace of this ocean dweller of the Balaenidae family nearly led to its extinction | Right whale
+right: Jennifer
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Bryan: $1,200
+Jennifer: $1,200
+Andrew: $1,000
+Scores at the end of the Jeopardy! Round:
+Bryan: $1,200
+Jennifer: $3,800
+Andrew: $1,400
+Second Jeopardy! Round: "G"EOGRAPHY, QUOTATIONS, WHILE HENRY VIII WAS KING, THE DIRECTOR'S CHAIR, THAT'S REVOLTING!, DOTS NICE
+"G"EOGRAPHY | Carved by the Colorado River, its depth exceeds 1 mile in places | Grand Canyon
+right: Andrew
+Wrong: 
+Value: $200
+Number: 1
+QUOTATIONS | "Mmm...chocolate" is often said by this "Simpsons" character | Homer
+right: Andrew
+Wrong: 
+Value: $200
+Number: 8
+WHILE HENRY VIII WAS KING | In his 1512 "Commentariolus" he stated the planets travel around the sun | Copernicus
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 19
+THE DIRECTOR'S CHAIR | "Grand Theft Auto", "Cocoon", "Splash" | Ron Howard
+right: Andrew
+Wrong: 
+Value: $200
+Number: 9
+THAT'S REVOLTING! | The Zapatistas | Mexico
+right: Andrew
+Wrong: 
+Value: $200
+Number: 6
+DOTS NICE | In Braille, 1 dot represents "A"; in Morse code, 1 dot represents this letter | E
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 14
+"G"EOGRAPHY | This Manhattan residential section is bounded by West 14th Street on the north & Broadway on the east | Greenwich Village
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 2
+QUOTATIONS | In 1858 he said, "I believe this government cannot endure permanently half slave and half free" | Abraham Lincoln
+right: Andrew
+Wrong: 
+Value: $400
+Number: 15
+WHILE HENRY VIII WAS KING | In 1534, after working on the tomb of the Medici, this artist moved from Florence to Rome | Michelangelo
+right: Andrew
+Wrong: 
+Value: $400
+Number: 20
+THE DIRECTOR'S CHAIR | "How Green Was My Valley", "The Searchers", "The Grapes of Wrath" | John Ford
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 10
+THAT'S REVOLTING! | The Tamil Tigers | Sri Lanka
+right: Bryan
+Wrong: 
+Value: $400
+Number: 7
+DOTS NICE | Mason Dots are a popular type of this | Candy
+right: Andrew
+Wrong: 
+Value: $400
+Number: 27
+"G"EOGRAPHY | This U.S. territory in the Marianas Islands was first claimed by Spain in 1565 | Guam
+right: Andrew
+Wrong: 
+Value: $600
+Number: 3
+QUOTATIONS | An Emily Dickinson poem begins, "Because I could not stop for" this "he kindly stopped for me" | Death
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 21
+WHILE HENRY VIII WAS KING | Cosimo I refounded the university of this city & parents of the time leaned towards sending their kids there | Pisa
+right: 
+Wrong: 
+Value: DD: $4,200
+Number: 24
+THE DIRECTOR'S CHAIR | "Vincent & Theo", "The Player", "Ready to Wear" | Robert Altman
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 11
+THAT'S REVOLTING! | The Shining Path | Peru
+right: Andrew
+Wrong: 
+Value: $600
+Number: 16
+DOTS NICE | Laser printer resolution is measured in DPI, standing for this | Dots per inch
+right: Bryan
+Wrong: 
+Value: $600
+Number: 28
+"G"EOGRAPHY | Important towns in this west African republic include Tema, Kumasi & Accra | Ghana
+right: Bryan
+Wrong: 
+Value: $800
+Number: 4
+QUOTATIONS | "In politics, if you want anything said, ask a man.  If you want anything done, ask a woman", said this British leader | Margaret Thatcher
+right: Andrew
+Wrong: 
+Value: $800
+Number: 22
+WHILE HENRY VIII WAS KING | In 1534 he published "Gargantua", part 2 of "Pantagruel" | Rabelais
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 25
+THE DIRECTOR'S CHAIR | "Before the Revolution", "Last Tango in Paris", "The Last Emperor" | Bernardo Bertolucci
+right: Jennifer
+Wrong: 
+Value: DD: $1,800
+Number: 12
+THAT'S REVOLTING! | The FARC | Colombia
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+DOTS NICE | The dots used in this Chinese game are seen here: | Mahjong
+right: Bryan
+Wrong: 
+Value: $800
+Number: 29
+"G"EOGRAPHY | This city bordering Dallas shares its name with a hanging floral decoration | Garland
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 5
+QUOTATIONS | Wilde play that says, "To lose one parent may be regarded as a misfortune...to lose both seems like carelessness" | "The Importance of Being Earnest"
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 23
+WHILE HENRY VIII WAS KING | In 1526 Babar set up this dynasty in Delhi | Mogul
+right: Bryan
+Wrong: 
+Value: $1000
+Number: 26
+THE DIRECTOR'S CHAIR | "French Kiss", "The Accidental Tourist", "Body Heat" | Lawrence Kasdan
+right: Andrew
+Wrong: 
+Value: $1000
+Number: 13
+THAT'S REVOLTING! | The Moro National Liberation Front | Philippines
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+DOTS NICE | From the Dutch for "to dot", it's to paint using small dots, & was a popular 18th century type of engraving | Stippling
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Bryan: $2,400
+Jennifer: $7,000
+Andrew: $6,000
+
+Final Jeopardy! Round
+PLAYS | In 1998 the city of New Orleans gave the title object of this play to the city of San Francisco | "A Streetcar Named Desire"
+right: Bryan | Andrew | Jennifer
+Wrong: 
+Wagers: 
+Bryan: $2,400
+Andrew: $5,900
+Jennifer: $5,101
+Final scores:
+Bryan: $4,800 (3rd place: Zenith See-Thru TV)
+Jennifer: $12,101 (New champion: $12,101)
+Andrew: $11,900 (2nd place: Trip to Nova Scotia courtesy of Collette Tours)
+
+Coryat scores
+Bryan: $6,600 (13 R(including 1 DD),3 W(including 1 DD))
+Jennifer: $6,000 (18 R(including 1 DD),1 W)
+Andrew: $6,000 (20 R,4 W)

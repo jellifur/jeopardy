@@ -1,0 +1,351 @@
+4499 - Thursday, March 11, 2004
+Contestants:
+Doug Meyer: an editor from Newton, Massachusetts
+Donna Isbell Walker: an entertainment writer from Greenville, South Carolina
+Bobby Goldstein: a database administrator from Arlington, Massachusetts (whose 2-day cash winnings total $36,400)
+First Jeopardy! Round: HOOKED ON PHOENIX, HI YA, MAYA!, ALSO A BOOK OF THE BIBLE, GODFATHERS OF SOLE, FILMS OF THE '60s, HOW'S IT "HANG"ING?
+HOOKED ON PHOENIX | In 1539 explorers from this nation became the first Europeans to visit the area that's now Phoenix | Spain
+right: Doug
+Wrong: 
+Value: $200
+Number: 12
+HI YA, MAYA! | Maya Angelou's "The Heart of a Woman" was the first nonfiction work selected for this woman's book club | Oprah
+right: Doug
+Wrong: 
+Value: $200
+Number: 17
+ALSO A BOOK OF THE BIBLE | By occupation, Scalia & Rehnquist are these | Judges
+right: Donna
+Wrong: 
+Doug: What are justices?
+Value: $200
+Number: 6
+GODFATHERS OF SOLE | This "Supernatural" Latin-rock guitarist launched a line of women's shoes | Carlos Santana
+right: Doug
+Wrong: 
+Value: $200
+Number: 11
+FILMS OF THE '60s | This singer did it his way & filmed his directorial debut, the WWII drama "None But the Brave", on the island of Kauai | Frank Sinatra
+right: Bobby
+Wrong: 
+Value: $200
+Number: 1
+HOW'S IT "HANG"ING? | A shed for your Cessna | an airplane hangar
+right: Doug
+Wrong: 
+Value: $200
+Number: 25
+HOOKED ON PHOENIX | In 1967 he had his first Top 40 pop hit with "By the Time I Get to Phoenix" | Glen Campbell
+right: Donna
+Wrong: 
+Value: $400
+Number: 13
+HI YA, MAYA! | For this president's inauguration, Maya wrote & recited the poem "On the Pulse of Morning" | Bill Clinton
+right: Doug
+Wrong: 
+Value: $400
+Number: 18
+ALSO A BOOK OF THE BIBLE | Benedict or Westheimer | Ruth
+right: Bobby
+Wrong: 
+Value: $400
+Number: 7
+GODFATHERS OF SOLE | The trademark seen here represents this brand of children's shoes | Buster Brown
+right: Donna
+Wrong: 
+Value: $400
+Number: 20
+FILMS OF THE '60s | Richard Harris excelled in this soccer-like sport & played a pro player of it in his film "The Sporting Life" | rugby
+right: Donna
+Wrong: 
+Value: $400
+Number: 2
+HOW'S IT "HANG"ING? | Morning nausea after too many Mai Tais | hangover
+right: Bobby
+Wrong: 
+Value: $400
+Number: 26
+HOOKED ON PHOENIX | This pro team plays its home games at Phoenix' Bank One Ballpark | the Diamondbacks
+right: Doug
+Wrong: 
+Value: $600
+Number: 14
+HI YA, MAYA! | In 1977 Maya played Nyo Boto on this acclaimed miniseries | Roots
+right: Bobby
+Wrong: 
+Value: $600
+Number: 19
+ALSO A BOOK OF THE BIBLE | "A bad workman blames his tools" & "All is fair in love and war" | Proverbs
+right: Donna
+Wrong: 
+Doug: Who the Psalms?
+Value: $600
+Number: 8
+GODFATHERS OF SOLE | This French design house has mules & thongs with its signature "LV" monogram & fleuron pattern | Louis Vuitton
+right: Bobby
+Wrong: 
+Value: $600
+Number: 22
+FILMS OF THE '60s | He co-starred with Natalie Wood in 2 '60s films, "Inside Daisy Clover" & "This Property is Condemned" | Robert Redford
+right: Donna
+Wrong: 
+Doug: Who is Tony Curtis?
+Value: $600
+Number: 3
+HOW'S IT "HANG"ING? | It was the second Ancient Wonder to be built | the Hanging Gardens of Babylon
+right: Bobby
+Wrong: 
+Value: $600
+Number: 27
+HOOKED ON PHOENIX | Born in Phoenix in 1909, he ran for president in 1964 | Barry Goldwater
+right: Doug
+Wrong: 
+Value: $800
+Number: 15
+HI YA, MAYA! | It's the avian title of the first volume of Maya Angelou's autobiographical works | I Know Why the Caged Bird Sings
+right: Bobby
+Wrong: 
+Value: $800
+Number: 21
+ALSO A BOOK OF THE BIBLE | A 1977 Bob Marley album | Exodus
+right: Doug
+Wrong: 
+Value: $800
+Number: 9
+GODFATHERS OF SOLE | In 1964 a German shoemaker named Karl created these sandals seen here | Birkenstocks
+right: Bobby
+Wrong: 
+Value: $800
+Number: 23
+FILMS OF THE '60s | (Jimmy of the Clue Crew in Louisville, Kentucky)  What's now the Oak Room of the Seelbach (Hilton) Hotel was once a gentlemen's billiards hall, seen in this classic 1961 film | The Hustler
+right: 
+Wrong: 
+Donna: I don't know.
+Value: DD: $1,000
+Number: 4
+HOW'S IT "HANG"ING? | Banned for decades in East Berlin, these recreational transports are now legal & soaring | hang gliders
+right: Doug
+Wrong: 
+Value: $800
+Number: 28
+HOOKED ON PHOENIX | The city of Phoenix lies in the huge sprawling Valley of this | Valley of the Sun
+right: 
+Wrong: Triple Stumper
+Bobby: What is the Colorado River?
+Value: $1000
+Number: 16
+HI YA, MAYA! | Maya wrote all the original poems performed by this actress in the 1993 film "Poetic Justice" | Janet Jackson
+right: Donna
+Wrong: 
+Value: $1000
+Number: 30
+ALSO A BOOK OF THE BIBLE | Sega's video game system from 1989 | Genesis
+right: Bobby
+Wrong: 
+Value: $1000
+Number: 10
+GODFATHERS OF SOLE | On "Sex and the City", Carrie worships these stilettos designed by a Spanish cobbler | Manolo Blahniks
+right: Doug
+Wrong: 
+Value: $1000
+Number: 24
+FILMS OF THE '60s | Ursula Andress made a memorable entrance in this 1962 film when she emerged from the water in a bikini | Dr. No
+right: Donna
+Wrong: 
+Doug: What is "Thunderball?"
+Value: $1000
+Number: 5
+HOW'S IT "HANG"ING? | (Sofia of the Clue Crew)  It's the 2-word slangier way of saying "have all pedal digits off the boards" | hang ten
+right: Bobby
+Wrong: 
+Value: $1000
+Number: 29
+Scores at the first commercial break (after clue 15)
+Bobby: $600
+Donna: $2,200
+Doug: $200
+Scores at the end of the Jeopardy! Round:
+Bobby: $5,400
+Donna: $3,600
+Doug: $2,800
+Second Jeopardy! Round: CHEMISTRY, TEA TIME, OPERAS BY CHARACTER, INITIALLY YOURS, POP "I", THE SAILOR MAN
+CHEMISTRY | Viktor Meyer first measured the density of this, such as steam, the gaseous form of what's usually a liquid | vapor
+right: Bobby
+Wrong: 
+Value: $400
+Number: 1
+TEA TIME | Oo! The name of this amber tea is Chinese for "black dragon" | oolong
+right: Bobby
+Wrong: 
+Value: $400
+Number: 16
+OPERAS BY CHARACTER | Escamillo, a bullfighter; Mercedes, a gypsy girl; Don Jose, a soldier | Carmen
+right: Bobby
+Wrong: 
+Value: $400
+Number: 22
+INITIALLY YOURS | Poet Edward Estlin... | E.E. Cummings
+right: Bobby
+Wrong: 
+Value: $400
+Number: 3
+POP "I" | Song that includes the line, "You may say I'm a dreamer, but I'm not the only one" | Imagine
+right: Doug
+Wrong: 
+Value: $400
+Number: 11
+THE SAILOR MAN | During the Korean War, this future president was an officer in the Navy's nuclear submarine program | Carter
+right: Donna
+Wrong: 
+Value: $400
+Number: 17
+CHEMISTRY | If toluene reacts with nitric acid, things get explosive with the compound known by these 3 letters | TNT
+right: Donna
+Wrong: 
+Value: $800
+Number: 2
+TEA TIME | Long favored by Asians, this type of tea gives the body an antioxidant boost | green tea
+right: Bobby | Doug
+Wrong: 
+Value: $800
+Number: 18
+OPERAS BY CHARACTER | Cio-Cio-San, a Japanese woman; Lieutenant Pinkerton, USN; Suzuki, a servant | Madame Butterfly
+right: Donna
+Wrong: 
+Bobby: What is "The Mikado?"
+Value: $800
+Number: 24
+INITIALLY YOURS | Mimeograph inventor Albert Blake... | A.B. Dick
+right: Bobby
+Wrong: 
+Value: $800
+Number: 7
+POP "I" | The Farriss Brothers was an earlier name for this group that also featured Michael Hutchence | INXS
+right: Doug
+Wrong: 
+Value: $800
+Number: 12
+THE SAILOR MAN | On June 14, 1789, after a 2-month, 3,600-mile voyage, he & 18 crewmen reached Timor in the Bounty's longboat | Captain Bligh
+right: Doug
+Wrong: 
+Value: $800
+Number: 19
+CHEMISTRY | The repeating symmetrical pattern that defines this type of solid is called a lattice | crystal
+right: Bobby
+Wrong: 
+Doug: What is ice?
+Value: $1200
+Number: 4
+TEA TIME | The refreshing drink of half iced tea & half lemonade is named for this golfer who popularized it | Arnold Palmer
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 26
+OPERAS BY CHARACTER | The king of Egypt; Radames, a soldier; Ramfis, the high priest | Aida
+right: Bobby
+Wrong: 
+Value: $1200
+Number: 25
+INITIALLY YOURS | Political leader Pieter Willem... | P.W. Botha
+right: Donna
+Wrong: 
+Value: $1200
+Number: 8
+POP "I" | We have a feeling you'll know that it was the first single from Jewel's "0304" CD | Intuition
+right: Donna
+Wrong: 
+Value: $1200
+Number: 13
+THE SAILOR MAN | In 1521, shortly after becoming the first to cross the Pacific from east to west, he was killed in the Philippines | Ferdinand Magellan
+right: 
+Wrong: 
+Doug: Who is Balboa?
+Value: DD: $1,200
+Number: 20
+CHEMISTRY | A redox reaction combines oxidation & this, which confusingly refers to a substance gaining electrons | reduction
+right: Doug
+Wrong: 
+Value: $1600
+Number: 5
+TEA TIME | This soothing herbal tea is made from an aromatic flower that resembles a daisy | chamomile
+right: Bobby
+Wrong: 
+Value: $1600
+Number: 27
+OPERAS BY CHARACTER | Count Almaviva; Figaro; Rosina | The Barber of Seville
+right: Donna
+Wrong: 
+Doug: What is "The Marriage of Figaro?"
+Value: $1600
+Number: 29
+INITIALLY YOURS | Novelist Edward Morgan... | E.M. Forster
+right: Donna
+Wrong: 
+Value: $1600
+Number: 9
+POP "I" | In 1994 this Beastie Boys album that included "Sabotage" & "Sure Shot" debuted at No. 1 | Ill Communication
+right: Doug
+Wrong: 
+Value: $1600
+Number: 14
+THE SAILOR MAN | On April 20, 1770 he reached the unexplored east coast of Australia, naming it New South Wales | (Captain) Cook
+right: Donna
+Wrong: 
+Value: $1600
+Number: 21
+CHEMISTRY | A 1998 experiment heated deuterium to 70,000 degrees as part of an effort to make this element transition to a metal | hydrogen
+right: Bobby
+Wrong: 
+Value: $2000
+Number: 6
+TEA TIME | Informally called a tea ball, this accessory seen here is used with loose tea | tea infuser/strainer
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+OPERAS BY CHARACTER | Marcello, a painter; Mimi, a flower girl; Rodolfo, a poet | La boheme
+right: 
+Wrong: 
+Donna: What is "Don Giovanni?"
+Value: DD: $2,000
+Number: 30
+INITIALLY YOURS | 19th century English painter Joseph Mallord William... | J.M.W. Turner
+right: Doug
+Wrong: 
+Value: $2000
+Number: 10
+POP "I" | "Beware" this one hit wonder group who hit it big in 1970 with the following | the Ides of March
+right: Donna
+Wrong: 
+Value: $2000
+Number: 15
+THE SAILOR MAN | In December 1944 this commander of the Pacific fleet was promoted to the Navy's newest & highest rank, fleet admiral | (Chester) Nimitz
+right: Bobby
+Wrong: 
+Value: $2000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Bobby: $15,800
+Donna: $12,800
+Doug: $6,800
+
+Final Jeopardy! Round
+BRAND NAMES | Benjamin Green's work with cocoa butter led to this brand that, ironically, may be used to prevent what's in its name | Coppertone
+right: 
+Wrong: 
+Doug: What Burnaid
+Donna: What is [Burns] sunburn
+Bobby: What is Ponds?
+Wagers: 
+Doug: $6,800
+Donna: $11,000
+Bobby: $10,000
+Final scores:
+Bobby: $5,800 (3-day champion: $42,200)
+Donna: $1,800 (2nd place: $2,000)
+Doug: $0 (3rd place: $1,000)
+
+Coryat scores
+Bobby: $15,800 (21 R,2 W)
+Donna: $15,800 (17 R,2 W(including 2 DDs))
+Doug: $8,000 (17 R,7 W(including 1 DD))

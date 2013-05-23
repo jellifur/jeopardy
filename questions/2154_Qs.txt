@@ -1,0 +1,327 @@
+3502 - Tuesday, November 23, 1999
+Contestants:
+Laura Sternberg: a software engineer from Parkland, Florida
+Dave Adler: an astronomer from Columbia, Maryland
+Dan McNamee: a microbiologist from Temecula, California (whose 1-day cash winnings total $2,000)
+First Jeopardy! Round: GENERAL SCIENCE, SINGER-SONGWRITERS, DOG STARS, U.S. STATES, POETS & POETRY, STUFF
+GENERAL SCIENCE | In weather forecasting, the UV index refers to the intensity of this type of radiation | Ultraviolet
+right: Dan | Dave
+Wrong: 
+Value: $100
+Number: 4
+SINGER-SONGWRITERS | "Beat It" | Michael Jackson
+right: Dan
+Wrong: 
+Value: $100
+Number: 9
+DOG STARS | Astro is this 21st century family's dog | The Jetsons
+right: Laura
+Wrong: 
+Value: $100
+Number: 16
+U.S. STATES | It consists of 8 major & 124 minor islands | Hawaii
+right: Laura
+Wrong: 
+Value: $100
+Number: 1
+POETS & POETRY | Published in 1866, "Battle-Pieces" was Herman Melville's unappreciated book of poetry about this event | Civil War
+right: Dan
+Wrong: 
+Value: $100
+Number: 17
+STUFF | The lawyer who made famous the line "If it doesn't fit, you must acquit" | Johnnie Cochran
+right: Dave
+Wrong: 
+Value: $100
+Number: 20
+GENERAL SCIENCE | Whether alternating or direct, it's a flow of electricity | Current
+right: Dave
+Wrong: 
+Value: $200
+Number: 5
+SINGER-SONGWRITERS | "Put Your Head On My Shoulder" | Paul Anka
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 10
+DOG STARS | It's the comic strip in which you'll find the Bumsteads' dog Daisy | "Blondie"
+right: Dan
+Wrong: 
+Value: $200
+Number: 27
+U.S. STATES | This state has more ethnic Norwegians than any other state, most of them in the Twin Cities area | Minnesota
+right: Dan
+Wrong: 
+Value: $200
+Number: 2
+POETS & POETRY | Poet who wrote the immortal, "when the world is mud-luscious the little lame balloonman whistles far and wee" | E.E. Cummings
+right: Dan
+Wrong: 
+Value: $200
+Number: 18
+STUFF | This airport is located at 5757 Wayne Newton Blvd. | McCarran (Las Vegas) International Airport
+right: Dan
+Wrong: 
+Value: $200
+Number: 21
+GENERAL SCIENCE | The Babylonians kept abreast of the times using a form of this instrument seen here: | Sundial
+right: Dave
+Wrong: 
+Value: $300
+Number: 6
+SINGER-SONGWRITERS | "That Don't Impress Me Much" | Shania Twain
+right: Dan
+Wrong: 
+Value: $300
+Number: 11
+DOG STARS | Eddie is the Jack Russell Terrier who often steals the show on this sitcom | Frasier
+right: Dave
+Wrong: 
+Value: $300
+Number: 28
+U.S. STATES | Reflecting its Catholic heritage, this state has 64 parishes & no counties | Louisiana
+right: Dave
+Wrong: 
+Dan: What is Massachusetts?
+Value: $300
+Number: 3
+POETS & POETRY | With 6 children, this poet was well-equipped to write "The Children's Hour" | Henry Wadsworth Longfellow
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 19
+STUFF | Owners of Giants Stadium were stunned in 1997 when the grass field began to "die", especially as it was this | Astroturf
+right: Dave
+Wrong: 
+Value: $300
+Number: 22
+GENERAL SCIENCE | Since limestone undergoes changes to become marble, marble is classified as this type of rock | Metamorphic
+right: 
+Wrong: 
+Dave: What is agate?
+Value: DD: $900
+Number: 7
+SINGER-SONGWRITERS | "I Walk the Line" | Johnny Cash
+right: Dave
+Wrong: 
+Value: $400
+Number: 12
+DOG STARS | A miniature bulldog named Bandit belongs to this adventurous TV cartoon boy | Jonny Quest
+right: Dan
+Wrong: 
+Value: $400
+Number: 29
+U.S. STATES | Its license plates bear a flag depicting the Big Dipper & the North Star | Alaska
+right: Dan
+Wrong: 
+Value: $400
+Number: 14
+POETS & POETRY | William O'Connor's pamphlet in defense of this poet was titled "The Good Gray Poet", hence his nickname | Walt Whitman
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 25
+STUFF | In 1969 Dalsey, Hillblom & Lynn founded this type of company | Delivery/courier service (DHL)
+right: Laura
+Wrong: 
+Value: $400
+Number: 23
+GENERAL SCIENCE | "For every action there's an equal & opposite reaction" is Newton's third law of this | Motion
+right: Dan
+Wrong: 
+Value: $500
+Number: 8
+SINGER-SONGWRITERS | "Short People" | Randy Newman
+right: Dave
+Wrong: 
+Value: $500
+Number: 13
+DOG STARS | One of Hercules' labors was to fetch this monstrous watchdog | Cerberus
+right: Laura
+Wrong: 
+Value: $500
+Number: 30
+U.S. STATES | Its highest point is 5,344-foot Mount Marcy in the Adirondacks | New York
+right: Dan
+Wrong: 
+Value: $500
+Number: 15
+POETS & POETRY | He wrote "To his coy mistress", "Had we but world enough, and time, this coyness, lady, were no crime" | Andrew Marvell
+right: 
+Wrong: Triple Stumper
+Dan: Who was Lord Byron?
+Value: $500
+Number: 26
+STUFF | In a Grimm tale, a bunch of naked elves make these | Shoes
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+Scores at the first commercial break (after clue 15)
+Dan: $900
+Dave: $900
+Laura: -$200
+Scores at the end of the Jeopardy! Round:
+Dan: $2,400
+Dave: $1,600
+Laura: $300
+Second Jeopardy! Round: EUROPEAN HISTORY, QUOTABLE CINEMA, HOMERIC CHARACTERS, THE 1939 WORLD'S FAIR, BETTER KNOWN AS..., WORDS WITHIN WORDS
+EUROPEAN HISTORY | In 1689 William III & this queen ascended the British throne & accepted Parliament's Bill of Rights | Mary II
+right: Laura
+Wrong: 
+Value: $200
+Number: 8
+QUOTABLE CINEMA | 1974: "See, Mr. Gittes, most people never have to face the fact that...they're capable of anything" | Chinatown
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 7
+HOMERIC CHARACTERS | The son of Peleus who was the leading warrior for the Greeks | Achilles
+right: Dan
+Wrong: 
+Value: $200
+Number: 10
+THE 1939 WORLD'S FAIR | The fair was held in this NYC borough, in a former ash dump called Flushing Meadow | Queens
+right: Dan
+Wrong: 
+Value: $200
+Number: 6
+BETTER KNOWN AS... | Pop star Francis Thomas Avallone | Frankie Avalon
+right: Laura
+Wrong: 
+Value: $200
+Number: 1
+WORDS WITHIN WORDS | Even a functional illiterate knows it's equal to 1.057 quarts | liter (in il
+right: Laura
+Wrong: 
+Value: $200
+Number: 24
+EUROPEAN HISTORY | In 1415 Czech religious reformer John Hus was condemned & burned at the stake for this crime | Heresy
+right: Dan
+Wrong: 
+Value: $400
+Number: 9
+QUOTABLE CINEMA | 1975: "We are the knights who say Ni!" | Monty Python and the Holy Grail
+right: Dave
+Wrong: 
+Dan: What is the...(time
+Value: $400
+Number: 15
+HOMERIC CHARACTERS | Originally, she was Menelaus' wife | Helen
+right: 
+Wrong: Triple Stumper
+Dan: Who is Penelope?
+Value: $400
+Number: 11
+THE 1939 WORLD'S FAIR | The theme was "World of" this, & there was also a "Road of" it & a "Town of" it | Tomorrow
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+BETTER KNOWN AS... | Terpsichorean Georgi Balanchivadze | George Balanchine
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+EUROPEAN HISTORY | In 1862 this Prussian said that "The great questions of the day" would be decided "by iron and blood" | Otto von Bismarck
+right: 
+Wrong: Triple Stumper
+Dan: Who was Frederick the Great?
+Value: $600
+Number: 13
+QUOTABLE CINEMA | 1986: "That's not a knife.  That's a knife" | Crocodile Dundee
+right: Dan
+Wrong: 
+Value: $600
+Number: 16
+HOMERIC CHARACTERS | He was the judge of a divine beauty contest | Paris
+right: 
+Wrong: 
+Dan: Who is Homer Simpson?
+Value: DD: $300
+Number: 20
+THE 1939 WORLD'S FAIR | The TV set seen here was brought to the fair by this company with "Radio" in its full name: | RCA (Radio Corporation of America)
+right: Dan
+Wrong: 
+Value: $600
+Number: 21
+BETTER KNOWN AS... | "Silent" comedian Adolph Marx | Harpo Marx
+right: Laura
+Wrong: 
+Value: $600
+Number: 3
+EUROPEAN HISTORY | In 1946 Vojvodina & this province were made autonomous within Serbia in Yugoslavia | Kosovo
+right: Dan
+Wrong: 
+Value: DD: $800
+Number: 14
+QUOTABLE CINEMA | A 1968 George Romero film: "Kill the brain and you kill the ghoul" | Night of the Living Dead
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+THE 1939 WORLD'S FAIR | Pavilions included French, Japanese & one for this international organization that first met in 1920 | League of Nations
+right: Dan
+Wrong: 
+Value: $800
+Number: 22
+BETTER KNOWN AS... | Choreographer William Berkeley Enos | Busby Berkeley
+right: Laura
+Wrong: 
+Value: $800
+Number: 4
+WORDS WITHIN WORDS | To defame the players on the NHL's New York Islanders | slander (in I
+right: Dan
+Wrong: 
+Value: $800
+Number: 25
+EUROPEAN HISTORY | In 338 B.C. this Macedonian king ended Greece's independence with victory in the Battle of Chaeronea | Philip of Macedon
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 19
+QUOTABLE CINEMA | A 1987 Glenn Close film: "I'm not going to be ignored, Dan" | Fatal Attraction
+right: Dan
+Wrong: 
+Value: $1000
+Number: 18
+THE 1939 WORLD'S FAIR | Name for the over-600-foot-high three-sided structure seen here next to the Perisphere: | Trylon
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+BETTER KNOWN AS... | Singer Shahnour Aznavourian | Charles Aznavour
+right: 
+Wrong: Triple Stumper
+Dan: Who is Engelbert Humperdinck?
+Value: $1000
+Number: 5
+WORDS WITHIN WORDS | It's the fear & unease a gangster might have about his criminal ways | angst (in g
+right: Dave
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Dan: $5,100
+Dave: $3,000
+Laura: $2,700
+
+Final Jeopardy! Round
+MONUMENTS | Over 90% of the sculpting on Mount Rushmore was done with this | Dynamite
+right: Dave
+Wrong: 
+Laura: What is TNT?
+Dan: What is a chisel
+Wagers: 
+Laura: $1,500
+Dave: $2,500
+Dan: $1,000
+Final scores:
+Dan: $4,100 (2nd place: Trip to Club Med, Mexico)
+Dave: $5,500 (New champion: $5,500)
+Laura: $1,200 (3rd place: Polaroid Photomax Digital Camera Creative Kit)
+
+Coryat scores
+Dan: $5,400 (21 R(including 1 DD),7 W(including 1 DD))
+Dave: $3,900 (11 R,1 W(including 1 DD))
+Laura: $2,700 (10 R,2 W)

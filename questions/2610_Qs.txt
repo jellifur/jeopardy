@@ -1,0 +1,352 @@
+4166 - Monday, October 14, 2002
+Contestants:
+Matt Snow: a sound engineer from Los Angeles, California
+Henry Quillen: a teacher from Atlanta, Georgia
+Tanya Tyler: a writer and editor from Lexington, Kentucky (whose 2-day cash winnings total $35,600)
+First Jeopardy! Round: THE ROCKIES, DIAMONDBACKS, MARINERS, PADRES, BREWERS, "MET"s
+THE ROCKIES | If you're in the Rocky Mountains taking a peek at Pikes Peak you're in this state | Colorado
+right: Henry
+Wrong: 
+Value: $200
+Number: 4
+DIAMONDBACKS | The method of telling a diamondback snake's age by counting segments of this is not always reliable | rattles
+right: Tanya
+Wrong: 
+Value: $200
+Number: 9
+MARINERS | Knowledge of this colonizer of Greenland comes from 2 accounts: "Eric's Saga" & "The Greenlanders' Saga" | Eric the Red
+right: Henry
+Wrong: 
+Value: $200
+Number: 22
+PADRES | Set in Australia, this 1983 miniseries centered on the doomed love of Meggie & Father de Bricassart | The Thorn Birds
+right: Matt
+Wrong: 
+Value: $200
+Number: 21
+BREWERS | Introduced in 1986, this Miller brand is something of a misnomer, since it comes in bottles & cans | Miller Genuine Draft
+right: Matt
+Wrong: 
+Value: $200
+Number: 14
+"MET"s | All passengers on U.S. airline flights are required to pass through one of these machines | metal detector
+right: Matt
+Wrong: 
+Value: $200
+Number: 1
+THE ROCKIES | The Rockies' northernmost point is in Alaska; their southernmost point, in this state | New Mexico
+right: 
+Wrong: Triple Stumper
+Henry: What is Texas?
+Value: $400
+Number: 5
+DIAMONDBACKS | Of 8, 16 or 28, the length in feet of the longest diamondback ever recorded (not counting Randy Johnson) | 8 feet
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+MARINERS | William Bligh was the master of the Resolution during this captain's third Pacific expedition | Captain James Cook
+right: Tanya
+Wrong: 
+Value: $400
+Number: 23
+PADRES | He received Best Actor Oscar nominations for 1944 & 1945 for playing the same role: Father Chuck O'Malley | Bing Crosby
+right: 
+Wrong: Triple Stumper
+Tanya: Who is Spencer Tracy?
+Value: $400
+Number: 24
+BREWERS | The Spoetzl brewery uses krausening, a secondary version of this sugar-converting process | fermentation
+right: Henry
+Wrong: 
+Value: $400
+Number: 15
+"MET"s | One of the 3 main types of rock | metamorphic
+right: Henry
+Wrong: 
+Tanya: What is metallic?
+Value: $400
+Number: 2
+THE ROCKIES | You give me fever & if it's Rocky Mountain spotted fever, you're one of these critters | tick
+right: Henry
+Wrong: 
+Value: $600
+Number: 6
+DIAMONDBACKS | Slither on over to Sweetwater in this large state for its annual roundup of diamondbacks | Texas
+right: Henry
+Wrong: 
+Value: $600
+Number: 11
+MARINERS | 8 years after his circumnavigation of the globe, 1577 to 1580, he helped England defeat the Spanish Armada | Sir Francis Drake
+right: Henry
+Wrong: 
+Tanya: Who is Magellan?
+Value: $600
+Number: 27
+PADRES | This "Happy Days" father later played a crime-solving priest in the "Father Dowling Mysteries" | Tom Bosley
+right: Henry
+Wrong: 
+Value: $600
+Number: 25
+BREWERS | Naval name of the San Francisco brand that's the USA's best-known steam beer | Anchor Steam
+right: Henry
+Wrong: 
+Value: $600
+Number: 16
+"MET"s | The life-sustaining chemical activity in living organisms | metabolism
+right: Tanya
+Wrong: 
+Value: $600
+Number: 3
+THE ROCKIES | One of these large Rocky Mountain residents is seen here | bighorn sheep
+right: Tanya
+Wrong: 
+Value: $800
+Number: 7
+DIAMONDBACKS | Like most boas, diamondback snakes are viviparous, which means this | they give birth to live young
+right: Henry
+Wrong: 
+Value: $800
+Number: 12
+MARINERS | The largest island on North America's Pacific coast was named for this British naval officer | George Vancouver (Vancouver Island)
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+PADRES | On film, Henry II muses, "Will no one rid me of this meddlesome priest?", referring to him | Thomas Becket
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+BREWERS | Although most of the ingredients come from old England, Tremont Ale is brewed in this New England city | Boston
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+"MET"s | (Cheryl of the Clue Crew using a globe)  This system is based on the idea that there are 10 million of its most basic units from here to here | metric system
+right: Matt
+Wrong: 
+Value: $800
+Number: 19
+THE ROCKIES | In the U.S. this imaginary geographical division generally follows the crests of the Rocky Mountains | Continental Divide
+right: Matt
+Wrong: 
+Value: $1000
+Number: 8
+DIAMONDBACKS | The diamondback belongs to this subfamily marked by sensitive receptors between each eye & nostril | pit vipers
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+MARINERS | In July 1741 this Dane sighted the North American continent near Mount St. Elias, Alaska | Vitus Bering
+right: Henry
+Wrong: 
+Value: DD: $1,200
+Number: 29
+PADRES | Gene Hackman's Rev. Frank Scott leads a band of survivors to safety aboard a capsized ship in this 1972 film | The Poseidon Adventure
+right: Tanya
+Wrong: 
+Value: $1000
+Number: 30
+BREWERS | Budweiser's label says it's brewed "using the choicest" these, "rice and best barley malt" | hops
+right: Matt
+Wrong: 
+Value: $1000
+Number: 18
+"MET"s | A figure of speech such as "He was a real snake" | metaphor
+right: Henry
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Tanya: $1,200
+Henry: $2,600
+Matt: $1,400
+Scores at the end of the Jeopardy! Round:
+Tanya: $1,600
+Henry: $6,800
+Matt: $3,400
+Second Jeopardy! Round: LINES FROM LONGFELLOW, LESSER-KNOWN NAMES, "M"USIC, WE HAVE QUESTIONS, RHYME TIME, THIS CATEGORY DOESN'T STINK
+LINES FROM LONGFELLOW | "It was one by the village clock, when" this man "galloped into Lexington" | Paul Revere
+right: Matt
+Wrong: 
+Value: $400
+Number: 1
+LESSER-KNOWN NAMES | In 1949 Gussie Moran shocked this sport with a short dress & ruffled panties | tennis
+right: Tanya
+Wrong: 
+Value: $400
+Number: 13
+"M"USIC | This rocker was never exactly asked whether he wanted to be renamed John Cougar | John Cougar Mellencamp
+right: Tanya
+Wrong: 
+Value: $400
+Number: 2
+WE HAVE QUESTIONS | A Shakespeare villain: "If you prick us, do we not bleed?  If you tickle us, do we not laugh?" | Shylock
+right: Henry
+Wrong: 
+Value: $400
+Number: 24
+RHYME TIME | The room in a writer's house for his ballpoints | pen den
+right: 
+Wrong: Triple Stumper
+Tanya: What is pen's dens?
+Henry: What is den's pens?
+Matt: What is his pen's den?
+Value: $400
+Number: 8
+THIS CATEGORY DOESN'T STINK | 2 odorless ingredients in your Pepsi are caffeine & this gas that gives it bubbles | carbon dioxide
+right: Matt
+Wrong: 
+Value: $400
+Number: 21
+LINES FROM LONGFELLOW | "I shot" this "into the air, it fell to Earth, I knew not where" | an arrow
+right: Henry
+Wrong: 
+Value: $800
+Number: 3
+LESSER-KNOWN NAMES | Alejandro Rodriguez led a Spanish regency council after this man died & before Juan Carlos became king | Francisco Franco
+right: Henry
+Wrong: 
+Value: $800
+Number: 14
+"M"USIC | "Mechanical Animals" is a 1998 album from this man who named himself for an actress & a criminal | Marilyn Manson
+right: Matt
+Wrong: 
+Value: $800
+Number: 4
+WE HAVE QUESTIONS | A rock group: "How Deep is Your Love?" | the Bee Gees
+right: Tanya
+Wrong: 
+Value: $800
+Number: 25
+RHYME TIME | A hitchhiker on the back of a black widow | spider rider
+right: Tanya
+Wrong: 
+Value: $800
+Number: 9
+THIS CATEGORY DOESN'T STINK | Mimi makes artificial ones in "La boheme" | flowers
+right: Tanya
+Wrong: 
+Value: $800
+Number: 22
+LINES FROM LONGFELLOW | This poem is set "in the Acadian land, on the shores of the basin of Minas" | "Evangeline"
+right: 
+Wrong: 
+Henry: What is the "Song of Hiawatha?"
+Value: DD: $2,000
+Number: 18
+LESSER-KNOWN NAMES | As this queen's chief adviser, Lord Burghley fought Catholics, the Armada & Mary, Queen of Scots | Queen Elizabeth I
+right: Tanya
+Wrong: 
+Value: $1200
+Number: 15
+"M"USIC | Last name of Louise & her sister Barbara, who "was country when country wasn't cool" | Mandrell
+right: Tanya
+Wrong: 
+Value: $1200
+Number: 5
+WE HAVE QUESTIONS | An American patriot: "Is life so dear or peace so sweet as to be purchased at the price of chains and slavery?" | Patrick Henry
+right: Tanya
+Wrong: 
+Value: DD: $2,000
+Number: 26
+RHYME TIME | Someone who hunts down people who break into computer networks | hacker tracker
+right: Matt
+Wrong: 
+Value: $1200
+Number: 10
+THIS CATEGORY DOESN'T STINK | Obtained from crude petroleum, this white, tasteless & odorless substance is used to make candles | paraffin
+right: 
+Wrong: Triple Stumper
+Henry: What is tallow?
+Value: $1200
+Number: 23
+LINES FROM LONGFELLOW | About him Longfellow wrote, "the muscles of his brawny arms are strong as iron bands" | "The Village Smithy"
+right: Henry
+Wrong: 
+Value: $1600
+Number: 19
+LESSER-KNOWN NAMES | The name of St. Homobonus, a charitable layman, means this | good man
+right: Henry
+Wrong: 
+Value: $1600
+Number: 16
+"M"USIC | In a Marvin Gaye song, this title precedes "things ain't what they used to be" | "Mercy Mercy Me"
+right: Matt
+Wrong: 
+Tanya: What is "Mama, Mama?"
+Henry: What is "Mercy Me?"
+Value: $1600
+Number: 6
+WE HAVE QUESTIONS | A mythological creature: "What goes on four legs at dawn, two at noon, and three at dusk?" | the Sphinx
+right: Matt
+Wrong: 
+Value: $1600
+Number: 27
+RHYME TIME | An insignificant M-16 problem | rifle trifle
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 11
+THIS CATEGORY DOESN'T STINK | It's generally odorless, so an odorant is added to let you know if there's a leak or if you left the oven on | natural gas
+right: Matt
+Wrong: 
+Value: $1600
+Number: 29
+LINES FROM LONGFELLOW | "Like a sheeted ghost" this schooner "swept tow'rds the reef of Norman's Woe" | the Hesperus
+right: 
+Wrong: Triple Stumper
+Tanya: What is the Flying Dutchman?
+Value: $2000
+Number: 20
+LESSER-KNOWN NAMES | Education chief 1917-1929, Anatoly Lunacharsky was one of the first holders of this Soviet title for a department head | commissar
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+"M"USIC | (Sofia of the Clue Crew reports from Buddy Guy's Legends Blues Club in Chicago)  It was what Junior Wells had "Working" in a song he recorded at Buddy Guy's Legends | mojo
+right: Henry
+Wrong: 
+Value: $2000
+Number: 7
+WE HAVE QUESTIONS | A poet: "If winter comes, can spring be far behind?" | Percy Shelley
+right: 
+Wrong: Triple Stumper
+Henry: Who is Keats?
+Value: $2000
+Number: 28
+RHYME TIME | The church elder who lives in a lighthouse | beacon deacon
+right: Tanya
+Wrong: 
+Value: $2000
+Number: 12
+THIS CATEGORY DOESN'T STINK | Odorless & tasteless in its purified form, it's used to set aspics | gelatin
+right: Matt
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Tanya: $7,200
+Henry: $6,800
+Matt: $12,600
+
+Final Jeopardy! Round
+COMPOSERS | His Rococo-style summer house in Prague is nicknamed "America" | Antonin Dvorak
+right: Henry
+Wrong: 
+Tanya: Who is Chopin?
+Matt: Who is Glass
+Wagers: 
+Henry: $5,801
+Tanya: $2,000
+Matt: $1,801
+Final scores:
+Tanya: $5,200 (3rd place: $1,000)
+Henry: $12,601 (New champion: $12,601)
+Matt: $10,799 (2nd place: $2,000)
+
+Coryat scores
+Tanya: $6,400 (14 R(including 1 DD),6 W)
+Henry: $8,600 (18 R(including 1 DD),6 W(including 1 DD))
+Matt: $12,600 (14 R,1 W)

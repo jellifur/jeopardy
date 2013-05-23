@@ -1,0 +1,342 @@
+2674 - Thursday, March 28, 1996
+Contestants:
+Judy Zellers: a homemaker from Mountain View, California
+Jim Henderson: an attorney from Sacramento, California
+Marty Sade: a math teacher from Tucson, Arizona (whose 3-day cash winnings total $40,001)
+First Jeopardy! Round: GENERAL SCIENCE, NURSERY RHYMES, LIBRARIES, ANCIENT EGYPT, MONEY PROBLEMS, 4-LETTER WORDS
+GENERAL SCIENCE | g. Acceleration due to this, varies slightly with latitude since the Earth is not a perfect sphere | Gravity
+right: Marty
+Wrong: 
+Value: $100
+Number: 1
+NURSERY RHYMES | He had to show the pieman his money before he could take a taste test | Simple Simon
+right: Jim
+Wrong: 
+Value: $100
+Number: 9
+LIBRARIES | The Lincoln Center Library is a branch of this city's library | New York City
+right: Marty
+Wrong: 
+Value: $100
+Number: 21
+ANCIENT EGYPT | An essential feature of this embalming process was desiccation by means of dry natron | Mummifying
+right: Marty
+Wrong: 
+Value: $100
+Number: 6
+MONEY PROBLEMS | If the 4 members of the band Moonpools & Caterpillars split a $2,000 royalty evenly, each gets this amount | $500
+right: Judy
+Wrong: 
+Value: $100
+Number: 26
+4-LETTER WORDS | A synonym for a small island; Ireland is an emerald one | Isle
+right: Marty
+Wrong: 
+Value: $100
+Number: 14
+GENERAL SCIENCE | Riboflavin deficiency can cause photophobia, abnormal sensitivity to this | Light
+right: Marty
+Wrong: 
+Judy: What is darkness?
+Value: $200
+Number: 2
+NURSERY RHYMES | He didn't kiss & tell, he kissed & ran | Georgie Porgie
+right: Judy
+Wrong: 
+Value: $200
+Number: 10
+LIBRARIES | In 1854 this New England capital opened the first major free public library in the U.S. | Boston
+right: Jim
+Wrong: 
+Value: $200
+Number: 22
+ANCIENT EGYPT | Ancient Egyptians made this potent potable by soaking bread in water & fermenting the mixture | Beer
+right: Marty
+Wrong: 
+Value: $200
+Number: 7
+MONEY PROBLEMS | John's jar had 300 pennies in it, but he lost 2/3 of them in a pitching contest with Bob, leaving this many | 100
+right: Judy
+Wrong: 
+Value: $200
+Number: 27
+4-LETTER WORDS | It's a slang term for a potato | Spud
+right: Jim
+Wrong: 
+Value: $200
+Number: 15
+GENERAL SCIENCE | This malaria-fighting substance is extracted from the bark of the cinchona tree | Quinine
+right: Marty
+Wrong: 
+Value: $300
+Number: 3
+NURSERY RHYMES | He's been quoted as saying, "What a good boy am I" | Little Jack Horner
+right: Marty
+Wrong: 
+Jim: Who is Tommy Tucker?
+Value: $300
+Number: 11
+LIBRARIES | The library of the university of this largest Scottish city has about 500 printed items from the 15th C. | Glasgow
+right: 
+Wrong: Triple Stumper
+Jim: What is Edinburgh?
+Value: $300
+Number: 23
+ANCIENT EGYPT | This famous queen was replaced by her daughter as Akhenaten's principal wife | Nefertiti
+right: Judy
+Wrong: 
+Value: $300
+Number: 8
+MONEY PROBLEMS | If I had a nickel for every time I said "I" in this answer, I would have this much money | 20 cents (4 times)
+right: Judy
+Wrong: 
+Value: $300
+Number: 28
+4-LETTER WORDS | This device is used to soften the tone of an instrument such as a trumpet | Mute
+right: Judy
+Wrong: 
+Value: $300
+Number: 16
+GENERAL SCIENCE | This, sound composed of a random mix of frequencies, comes in "white" & "pink" types | Noise
+right: Marty
+Wrong: 
+Value: $400
+Number: 4
+NURSERY RHYMES | The rhyme says he's responsible for the sheep; you can only infer he's in charge of the cows, too | Little Boy Blue
+right: Judy
+Wrong: 
+Value: $400
+Number: 19
+LIBRARIES | Woodruff Library at Atlanta's Emory University houses papers of this Uncle Remus creator | Joel Chandler Harris
+right: Judy
+Wrong: 
+Jim: Who is Joel Chandler?
+Value: $400
+Number: 24
+ANCIENT EGYPT | Hieroglyphics were Greek to scholars until this 1799 discovery supplied Greek equivalents | The Rosetta Stone
+right: Marty
+Wrong: 
+Value: $400
+Number: 12
+MONEY PROBLEMS | Change for a quarter in 4 coins | 3 nickels & a dime
+right: Jim
+Wrong: 
+Value: $400
+Number: 29
+4-LETTER WORDS | This heaviest fencing sword has a bowl-shaped guard & a long, narrow blade with no cutting edge | Epee
+right: Judy
+Wrong: 
+Value: $400
+Number: 17
+GENERAL SCIENCE | Titan, a moon of this planet, has a thicker atmosphere than Earth | Saturn
+right: Marty
+Wrong: 
+Value: DD: $1,000
+Number: 5
+NURSERY RHYMES | A cat killed the rat that ate the malt in his house | "The House That Jack Built"
+right: Judy
+Wrong: 
+Value: $500
+Number: 20
+LIBRARIES | Herbert Putnam served as head of this U.S. library for 40 years, 1899-1939 | Library of Congress
+right: Marty
+Wrong: 
+Value: $500
+Number: 25
+ANCIENT EGYPT | The pyramid of Menkaure was the last of the major 3 built at this site southwest of modern Cairo | Giza
+right: Marty
+Wrong: 
+Jim: What are the pyramids?
+Value: $500
+Number: 13
+MONEY PROBLEMS | If Mary, a dime-a-dance girl, handles 10 partners an hour, she earns this amount in 4 hours | $4.00
+right: Jim
+Wrong: 
+Value: $500
+Number: 30
+4-LETTER WORDS | A noisy outburst, or a steady wind of 32-63 MPH | Gale
+right: Judy
+Wrong: 
+Jim: What is a gust?
+Value: $500
+Number: 18
+Scores at the first commercial break (after clue 15)
+Marty: $3,600
+Jim: -$500
+Judy: $300
+Scores at the end of the Jeopardy! Round:
+Marty: $4,000
+Jim: -$600
+Judy: $3,400
+Second Jeopardy! Round: EUROPEAN CITIES, MUSIC, WOMEN IN RELIGION, LITERATURE, PRESIDENTIAL TRIVIA, THE MOVIES
+EUROPEAN CITIES | Hradcany Castle, former home of the kings of Bohemia, is in this Czech capital | Prague
+right: Marty
+Wrong: 
+Value: $200
+Number: 4
+MUSIC | It means to sing in a soft, intimate style, like Bing Crosby used to do | Croon
+right: Marty
+Wrong: 
+Value: $200
+Number: 17
+WOMEN IN RELIGION | This woman who founded the Missionaries of Charity in Calcutta is called the Saint of the Gutters | Mother Teresa
+right: Marty
+Wrong: 
+Value: $200
+Number: 22
+LITERATURE | In this 17th C. novel, Sancho Panza is promised, & eventually gets, the governorship of his own island | "Don Quixote"
+right: Jim
+Wrong: 
+Value: $200
+Number: 5
+PRESIDENTIAL TRIVIA | Fewer than 120,000 popular votes separated Richard Nixon from this man in 1960 | John F. Kennedy
+right: Marty
+Wrong: 
+Value: $200
+Number: 10
+THE MOVIES | Annette Bening wins the heart of the chief executive played by Michael Douglas in this 1995 film | "The American President"
+right: 
+Wrong: Triple Stumper
+Judy: What is "The President?"
+Value: $200
+Number: 1
+EUROPEAN CITIES | The Pummerin, Austria's largest bell, is in this city's St. Stephen's Cathedral | Vienna
+right: Marty
+Wrong: 
+Value: $400
+Number: 7
+MUSIC | The name of this deep voice range is also used to describe a violin, a clef & a tuba | Bass
+right: Marty
+Wrong: 
+Value: $400
+Number: 24
+WOMEN IN RELIGION | In "Retrospection And Introspection", she told of her experiences with the science of Christian healing | Mary Baker Eddy
+right: Jim | Judy
+Wrong: 
+Value: $400
+Number: 23
+LITERATURE | This 1895 story set in the future was H.G. Wells' first novel | "The Time Machine"
+right: Marty
+Wrong: 
+Value: $400
+Number: 11
+PRESIDENTIAL TRIVIA | Clinton is the most recent William to hold the office; this man was the first | William Henry Harrison
+right: Jim
+Wrong: 
+Value: $400
+Number: 13
+THE MOVIES | Jim Carrey has a 2nd go as this kooky detective in "When Nature Calls" | Ace Ventura
+right: Jim
+Wrong: 
+Value: $400
+Number: 2
+EUROPEAN CITIES | Liege is the cultural center of this country's French-speaking area | Belgium
+right: Jim
+Wrong: 
+Value: $600
+Number: 8
+MUSIC | An 1898 opera by Rimsky-Korsakov concerned these "Amadeus" adversaries | Mozart & Salieri
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+WOMEN IN RELIGION | In 1987 Patricia Ann McClurg became the first ordained woman to head this Christian group abbreviated NCC | National Council of Churches
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 25
+LITERATURE | The full title of this 1872 tale ends with "And what Alice found there" | "Through the Looking-Glass"
+right: Judy
+Wrong: 
+Value: $600
+Number: 12
+PRESIDENTIAL TRIVIA | He served as president during the 73rd-79th Congresses | F.D. Roosevelt
+right: Judy
+Wrong: 
+Value: $600
+Number: 14
+THE MOVIES | The TV comedy "Police Squad!" inspired these films with Leslie Nielsen as Lt. Frank Drebin | "The Naked Gun"
+right: Judy
+Wrong: 
+Value: $600
+Number: 3
+EUROPEAN CITIES | The fact this Italian city is home to Fiat isn't shrouded in mystery | Turin
+right: Marty
+Wrong: 
+Value: $800
+Number: 21
+MUSIC | Saint-Saens' "Carnival Of The Animals" was composed for 2 of these instruments & ensemble | piano
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+WOMEN IN RELIGION | This colorful evangelist founded the International Church of the Foursquare Gospel | Aimee Semple McPherson
+right: Judy
+Wrong: 
+Value: $800
+Number: 27
+LITERATURE | James Jones' 1962 novel "The Thin Red Line" was a sequel to this 1951 work | "From Here to Eternity"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+PRESIDENTIAL TRIVIA | In 1947 this future president testified before the House Un-American Activities Committee | Ronald Reagan
+right: Judy
+Wrong: 
+Value: $800
+Number: 15
+THE MOVIES | Bette Davis gave a memorable performance as a socialite dying of a brain tumor in this 1939 film | "Dark Victory"
+right: Judy
+Wrong: 
+Value: $800
+Number: 6
+EUROPEAN CITIES | The Peace of this city in the Netherlands ended the War of the Spanish Succession | Utrecht
+right: 
+Wrong: Triple Stumper
+Judy: What is Ghent?
+Value: $1000
+Number: 20
+WOMEN IN RELIGION | Ann Lee established the first U.S. community of this sect in Watervliet, N.Y. in 1776 | Shakers
+right: 
+Wrong: Triple Stumper
+Judy: What is Amana?
+Value: $1000
+Number: 26
+LITERATURE | Characters in this Dickens novel include Mealy Potatoes, Mr. Creakle & Edward Murdstone | "David Copperfield"
+right: 
+Wrong: 
+Value: DD: $2,500
+Number: 19
+PRESIDENTIAL TRIVIA | These 3 men served as president between the terms of the only father & son presidents | Jefferson, Madison & Monroe
+right: Judy
+Wrong: 
+Value: DD: $1,200
+Number: 16
+THE MOVIES | Jeremy Irons & Meryl Streep headed the cast of this 1994 film based on a novel by Isabel Allende | "The House of the Spirits"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 9
+Scores at the end of the Double Jeopardy! Round:
+Marty: $2,900
+Jim: $1,400
+Judy: $7,000
+
+Final Jeopardy! Round
+HISTORIC PEOPLE | Apsley House, the London home of this historic duke, boasts an 11' 4" nude statue of Napoleon | the Duke of Wellington
+right: Jim | Marty
+Wrong: 
+Judy: Who was Windsor?
+Wagers: 
+Jim: $1,300
+Marty: $0
+Judy: $1,100
+Final scores:
+Marty: $2,900 (2nd place: Bassett Legend dining room set)
+Jim: $2,700 (3rd place: Friedman hand-crafted mirror)
+Judy: $5,900 (New champion: $5,900)
+
+Coryat scores
+Marty: $4,900 (21 R(including 1 DD),4 W(including 1 DD))
+Jim: $1,400 (10 R,5 W)
+Judy: $6,800 (19 R(including 1 DD),4 W)

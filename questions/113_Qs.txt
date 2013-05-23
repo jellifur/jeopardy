@@ -1,0 +1,331 @@
+4694 - Thursday, January 20, 2005
+Contestants:
+Jen Noon: an editor from Woburn, Massachusetts
+Jonathan Smillie: a software trainer from Jeffersonville, Indiana
+Steve Kaplan: a law student from San Diego, California (whose 1-day cash winnings total $18,400)
+First Jeopardy! Round: SCIENCE GUYS, HOMOPHONIC DUOS, LET'S PLAY COWBOY, CITY, WHAT IS THIS THING CALLED LAVA?, I'LL ALWAYS BE "TRUE"
+SCIENCE GUYS | Eugene Dubois died in 1940 still believing his "Java Man" to be this legendary connector between man & ape | the missing link
+right: Jen
+Wrong: 
+Value: $200
+Number: 1
+HOMOPHONIC DUOS | 2 Bartletts make up this couple | pear pair
+right: Jen
+Wrong: 
+Value: $200
+Number: 4
+LET'S PLAY COWBOY | It's what a bullwhacker whacked with | a bullwhip
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 22
+CITY | Born in this Austrian city, Maximilian Schell directed a film of "Tale from" its "Woods" | Vienna
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 12
+WHAT IS THIS THING CALLED LAVA? | In 1935 & 1942 the U.S. military bombed lava flows that endangered the city of Hilo on this island | Hawaii
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 11
+I'LL ALWAYS BE "TRUE" | John Wayne won his only Oscar for this film | True Grit
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 17
+SCIENCE GUYS | Sadly for science, when he was elected abbot in 1868 he had no more time for puttering around in the garden | (Gregor) Mendel
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 2
+HOMOPHONIC DUOS | Biblical killer's walking sticks | Cain's canes
+right: Jonathan
+Wrong: 
+Steve: What is Cain's cane?
+Value: $400
+Number: 5
+LET'S PLAY COWBOY | Though the Cattalo occurs in nature, Charles Jones claimed to be the first to cross a cow with this to make one | buffalo
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 27
+CITY | It was originally built on 7 hills & enclosed by the Servian Wall | Rome
+right: Jen
+Wrong: 
+Value: $400
+Number: 13
+WHAT IS THIS THING CALLED LAVA? | If it cools underground, it forms igneous rock; if it erupts, it becomes lava | magma
+right: Jen
+Wrong: 
+Value: $400
+Number: 23
+I'LL ALWAYS BE "TRUE" | A "colorful" Madonna album, or a synonym for loyalty | True Blue
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 18
+SCIENCE GUYS | In 1929 this Berkeley physicist bought a cabin in New Mexico; he'd spend lots of time in the state in the early '40s | (Robert) Oppenheimer
+right: Jen
+Wrong: 
+Steve: Who is Laurence?
+Value: $600
+Number: 3
+HOMOPHONIC DUOS | Consumed an octet | ate eight
+right: Steve
+Wrong: 
+Value: $600
+Number: 6
+LET'S PLAY COWBOY | It's the gathering in of the cattle; the "last" one means going to meet your maker | roundup
+right: Jen
+Wrong: 
+Value: $600
+Number: 28
+CITY | We have no beef with its being the capital of the Hyogo prefecture in Japan | Kobe
+right: Steve
+Wrong: 
+Value: $600
+Number: 14
+WHAT IS THIS THING CALLED LAVA? | This North Atlantic nation is home to Odadahraun, the largest lava bed on Earth | Iceland
+right: Steve
+Wrong: 
+Value: $600
+Number: 24
+I'LL ALWAYS BE "TRUE" | Arnie dances the tango with Jamie in this 1994 film | True Lies
+right: Jen
+Wrong: 
+Value: $600
+Number: 19
+SCIENCE GUYS | In the 19th century Gerhard Hansen found out what causes this disease that goes back to Biblical times | leprosy
+right: Jen
+Wrong: 
+Value: DD: $900
+Number: 9
+HOMOPHONIC DUOS | To forcefully grab small oceans | seize seas
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 7
+LET'S PLAY COWBOY | Passel, as in "the ranch owner's wife has a passel of kids", is an alternation of this word | parcel
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 29
+CITY | After founding this city in 1535, Francisco Pizarro got his "Bean there, done that" t-shirt | Lima
+right: Jen
+Wrong: 
+Value: $800
+Number: 15
+WHAT IS THIS THING CALLED LAVA? | In the 1990s the Magellan spacecraft discovered large lava flows on this planet | Venus
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 25
+I'LL ALWAYS BE "TRUE" | It follows "E!" in the title of a cable TV show that reveals "Tinseltown's Steamiest Secrets" | True Hollywood Story
+right: Jen
+Wrong: 
+Steve: What is "True Hollywood Stories"?
+Value: $800
+Number: 20
+SCIENCE GUYS | Gottfried Leibniz likened this number system to God & the void | the binary system
+right: 
+Wrong: Triple Stumper
+Steve: What is calculus?
+Value: $1000
+Number: 10
+HOMOPHONIC DUOS | The stuff breathed by the designated successor to the king | heir air
+right: Jen
+Wrong: 
+Value: $1000
+Number: 8
+LET'S PLAY COWBOY | Owen Wister dedicated this 1902 novel to Teddy Roosevelt, who, like him, was an Eastener who had gone west | The Virginian
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+CITY | This suburb of Cairo is the third-largest city in Egypt | Giza
+right: Jen
+Wrong: 
+Value: $1000
+Number: 16
+WHAT IS THIS THING CALLED LAVA? | Formed from solidified lava, this type of rock actually floats | pumice
+right: Steve
+Wrong: 
+Value: $1000
+Number: 26
+I'LL ALWAYS BE "TRUE" | Ironically, this Milli Vanilli album went to No. 1 in 1989 | Girl You Know It's True
+right: Steve
+Wrong: 
+Value: $1000
+Number: 21
+Scores at the first commercial break (after clue 15)
+Steve: -$800
+Jonathan: $2,000
+Jen: $5,100
+Scores at the end of the Jeopardy! Round:
+Steve: $1,000
+Jonathan: $4,800
+Jen: $7,500
+Second Jeopardy! Round: "A" IN SHAKESPEARE, IN MEMORIAM 2004, AWARDS, REMEMBER MY NAME, THE 1980s, ABBREVIATIONS
+"A" IN SHAKESPEARE | In "The Tempest" he's invisible to everyone but Prospero | Ariel
+right: Jen
+Wrong: 
+Value: $400
+Number: 1
+IN MEMORIAM 2004 | 2 years before he turned down an Oscar, he tried to have his stolen Oscar for "On The Waterfront" replaced | (Marlon) Brando
+right: Steve
+Wrong: 
+Value: $400
+Number: 19
+AWARDS | In 1967 these funny singing siblings, one playing a bass, the other a guitar, were awarded a gold record | the Smothers Brothers
+right: Steve
+Wrong: 
+Value: $400
+Number: 11
+THE 1980s | The L.A. Coliseum hosted the summer Olympics first in 1932 & then again in this year | 1984
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 6
+ABBREVIATIONS | A parents' organization:  MADD | Mothers Against Drunk Driving
+right: Jen
+Wrong: 
+Value: $400
+Number: 16
+"A" IN SHAKESPEARE | The main plot of this comedy comes from Boccaccio's "Decameron"; its title ensures a happy ending | All's Well That Ends Well
+right: Steve
+Wrong: 
+Value: $800
+Number: 2
+IN MEMORIAM 2004 | A Broadway actress for decades, she also played "Weezie" on "The Jeffersons" | (Isabel) Sanford
+right: Steve
+Wrong: 
+Value: $800
+Number: 20
+AWARDS | (<http://www.j-archive.com/media/2005-01-20_DJ_12.jpg> Hi, I'm Tavis Smiley.)  I led a successful campaign to have the Congressional Gold Medal awarded to this woman, a civil rights icon | (Rosa) Parks
+right: Steve
+Wrong: 
+Value: $800
+Number: 12
+THE 1980s | (<http://www.j-archive.com/media/2005-01-20_DJ_07.jpg> Cheryl of the Clue Crew reports from Berlin, Germany.)  The most visible symbol  of the Cold War,  the <http://www.j-archive.com/media/2005-01-20_DJ_07a.jpg> Berlin Wall was  torn down by the citizens of Berlin in this year | 1989
+right: Jen
+Wrong: 
+Value: $800
+Number: 7
+ABBREVIATIONS | A military alliance: NATO | North Atlantic Treaty Organization
+right: Steve
+Wrong: 
+Value: $800
+Number: 17
+"A" IN SHAKESPEARE | "A Midsummer Night's Dream" is set in this Mediterranean City that's in the title of another Shakespeare play | Athens
+right: Steve
+Wrong: 
+Value: DD: $2,000
+Number: 3
+IN MEMORIAM 2004 | Before he was Captain Kangaroo, he was Clarabell the Clown on "The Howdy Doody Show" | Bob Keeshan
+right: Jen
+Wrong: 
+Value: $1200
+Number: 21
+AWARDS | This country's Governor General's Award has 7 categories each for writing in English & French | Canada
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 13
+REMEMBER MY NAME | After leaving Spain in 1824, this artist wound up in Bordeaux, where he turned out many of his lithographs | (Francisco) Goya
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 26
+THE 1980s | The first election year in which Al Gore ran for president | 1988
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 8
+ABBREVIATIONS | A government mortgage insurance provider: FHA | Federal Housing Administration
+right: 
+Wrong: Triple Stumper
+Steve: What is Federal Housing Authority?
+Jonathan: What is Federal... Housing...
+Jen: What is Federal Housing Association?
+Value: $1200
+Number: 18
+"A" IN SHAKESPEARE | Romeo buys poison with which to kill himself from a minor character with this job title | apothecary
+right: Steve
+Wrong: 
+Value: $1600
+Number: 4
+IN MEMORIAM 2004 | A 2-time Oscar winner for "Spartacus" and "Topkapi", he also played Hercule Poirot & Charlie Chan on film | Peter Ustinov
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 22
+AWARDS | John Sayles, Susan Sontag & Thomas Pynchon are among the fellows who got this award that is paid over 5 years | the MacArthur Fellowship Award
+right: 
+Wrong: 
+Jonathan: ...What is... a Genius Grant?
+Value: DD: $2,000
+Number: 14
+REMEMBER MY NAME | In 1944 Time Magazine described this French leader as "hulking" & "unshapely" | (Charles) de Gaulle
+right: Steve
+Wrong: 
+Value: $1600
+Number: 27
+THE 1980s | In November of this year, the Columbia became the first space shuttle to be launched | 1982
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+ABBREVIATIONS | An eye operation: RK | Radial Keratotomy
+right: Jonathan
+Wrong: 
+Value: $1600
+Number: 25
+"A" IN SHAKESPEARE | An Italian businessman with this first name is "The Merchant of Venice" | Antonio
+right: Steve
+Wrong: 
+Value: $2000
+Number: 5
+IN MEMORIAM 2004 | An Oscar winner for "All The King's Men", she was also a voice of the possessed child in "The Exorcist" | Mercedes McCambridge
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+AWARDS | (<http://www.j-archive.com/media/2005-01-20_DJ_15.jpg> I'm Aaron Brown of CNN.)  I've won several of these awards for excellence in journalism from the Society of Professional Journalists | the Sigma Delta Chi Awards
+right: 
+Wrong: Triple Stumper
+Steve: What is a Peabody?
+Value: $2000
+Number: 15
+THE 1980s | It's the year in which a would-be assassin wounded John Paul II & a would-be assassin wounded Ronald Reagan | 1981
+right: Steve
+Wrong: 
+Value: $2000
+Number: 10
+ABBREVIATIONS | Also called somatotropin, it's found in the body: HGH | Human Growth Hormone
+right: Jen
+Wrong: 
+Value: $2000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Steve: $11,000
+Jonathan: $6,000
+Jen: $11,100
+
+Final Jeopardy! Round
+BESTSELLING NOVELS | Today, many who visit Santa Maria delle Grazie Church admit doing so because of this 2003 No. 1 bestseller | The Da Vinci Code
+right: Jonathan | Steve | Jen
+Wrong: 
+Wagers: 
+Jonathan: $5,999
+Steve: $1,007
+Jen: $8,003
+Final scores:
+Steve: $12,007 (2nd place: $2,000)
+Jonathan: $11,999 (3rd place: $1,000)
+Jen: $19,103 (New champion: $19,103)
+
+Coryat scores
+Steve: $10,200 (16 R(including 1 DD),6 W)
+Jonathan: $8,000 (15 R,2 W(including 1 DD))
+Jen: $11,000 (17 R(including 1 DD),1 W)

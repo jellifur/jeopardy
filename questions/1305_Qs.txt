@@ -1,0 +1,341 @@
+3630 - Friday, May 19, 2000
+Comments: 2000 Tournament of Champions final game 2.  From the Atlanta Civic Center.
+Contestants:
+Steve Fried: a technical support specialist from Phoenix, Arizona (subtotal of $4,500)
+Jeremy Bate: a writer from Los Angeles, California (subtotal of $7,000)
+Robin Carroll: a research assistant from Marietta, Georgia (subtotal of $8,000)
+First Jeopardy! Round: INAUGURAL ADDRESSES, NEW GAME SHOWS?, ANATOMY, U.S. STAMPS, VOCABULARY, CRACKERS
+INAUGURAL ADDRESSES | Of WWI, he said, "Our own fortunes as a nation are involved whether we would have it so or not" | Woodrow Wilson
+right: Steve
+Wrong: 
+Value: $100
+Number: 26
+NEW GAME SHOWS? | On this revival Tom Bergeron explains that you have to get 3 stars in a row, across, up & down or diagonally | The Hollywood Squares
+right: Steve
+Wrong: 
+Value: $100
+Number: 21
+ANATOMY | Like the thyroid, ovaries are this type of gland that secretes chemicals directly into the bloodstream | Endocrine
+right: Steve
+Wrong: 
+Value: $100
+Number: 15
+U.S. STAMPS | His "Legends Of Hollywood" stamp is a dandy; in fact, it shows him from "Yankee Doodle Dandy" | James Cagney
+right: Steve
+Wrong: 
+Value: $100
+Number: 9
+VOCABULARY | It's the 5-letter word for a large fluffy feather, or a column of smoke | Plume
+right: Jeremy
+Wrong: 
+Value: $100
+Number: 1
+CRACKERS | In ads Andy Griffith said, "Everything's great when it sits on" one of these buttery crackers | Ritz
+right: Steve
+Wrong: 
+Value: $100
+Number: 16
+INAUGURAL ADDRESSES | In 1937 FDR saw this fraction "of a nation ill-housed, ill-clad, ill-nourished" | One-third
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 27
+NEW GAME SHOWS? | For the "2000" revival of this Nickelodeon show host Jason Harris is in charge of slime | Double Dare
+right: Robin
+Wrong: 
+Value: $200
+Number: 22
+ANATOMY | When your ears "pop", it's actually this tube opening, allowing air to escape from or to the middle ear | Eustachian tube
+right: Steve
+Wrong: 
+Value: $200
+Number: 14
+U.S. STAMPS | The stamps honoring the 1970s include a head shot of this TV star, species "Bigus Canarius" | Big Bird
+right: Robin
+Wrong: 
+Value: $200
+Number: 10
+VOCABULARY | They're the cute little impressions on a golf ball | Dimples
+right: Robin
+Wrong: 
+Value: $200
+Number: 2
+CRACKERS | It gets its name from the bicarb used to make it | Soda cracker
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+INAUGURAL ADDRESSES | In his 1873 second inaugural, he complained he'd hardly rested since Fort Sumter | Ulysses S. Grant
+right: Steve
+Wrong: 
+Value: $300
+Number: 28
+NEW GAME SHOWS? | The Buybidwin website offers websurfers a chance to play this Monty Hall game for prizes | Let's Make A Deal
+right: Steve
+Wrong: 
+Value: $300
+Number: 23
+ANATOMY | Human lungs have millions of these tiny air sacs, where oxygen & carbon dioxide are exchanged | Alveoli
+right: Jeremy
+Wrong: 
+Value: $300
+Number: 6
+U.S. STAMPS | Unusual shape of the Pacific 97 stagecoach & ship stamps | Triangular
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 11
+VOCABULARY | A gentle way to cook an egg, it also means to pamper a person, especially a child | Coddle
+right: Robin
+Wrong: 
+Value: $300
+Number: 3
+CRACKERS | Name of the Pepperidge Farm product seen here: | Goldfish
+right: Jeremy
+Wrong: 
+Value: $300
+Number: 18
+INAUGURAL ADDRESSES | His nearly 2-hour speech in the snow included musings on the history of democracy back to Athens | William Henry Harrison
+right: Robin
+Wrong: 
+Value: $400
+Number: 29
+NEW GAME SHOWS? | This grocery store-set game was first seen in 1965, came back in 1990 with host David Ruprecht, & is back on PAX | Supermarket Sweep
+right: Jeremy
+Wrong: 
+Value: $400
+Number: 24
+ANATOMY | The 2 main types of these white blood cells are B cells & T cells | Lymphocytes
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+U.S. STAMPS | A hare is the animal on the seventh stamp in a series commemorating this holiday | Chinese New Year
+right: Robin
+Wrong: 
+Value: DD: $500
+Number: 12
+VOCABULARY | Congratulations if you know this word derived from Greek means praise or credit (It's also a granola bar) | Kudos
+right: Steve
+Wrong: 
+Value: $400
+Number: 4
+CRACKERS | The name of this Sunshine Biscuit Co. cracker sounds like a slang phrase used when the cops are coming | Cheez-It
+right: Steve
+Wrong: 
+Value: $400
+Number: 19
+INAUGURAL ADDRESSES | In 1857 he called the question of slavery in the territories "Of but little practical importance" | James Buchanan
+right: Steve
+Wrong: 
+Value: $500
+Number: 30
+NEW GAME SHOWS? | In 1999 Game Show Network revived Chuck Barris' "3's A Crowd" with this former "Growing Pains" star as host | Alan Thicke
+right: Steve
+Wrong: 
+Value: $500
+Number: 25
+ANATOMY | 2 of the 3 sections of the small intestine | Duodenum/ileum/jejunum
+right: Steve
+Wrong: 
+Value: $500
+Number: 8
+U.S. STAMPS | A stamp honoring this man includes a photo of Central Park & 2 landscape plans | Frederick Law Olmsted
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 13
+VOCABULARY | It can mean the ability to do something, or the body of teachers at a school or college | Faculty
+right: Steve
+Wrong: 
+Value: $500
+Number: 5
+CRACKERS | 2-word term for something crunchy added to chowder, or someone trying to get at a pearl | Oyster cracker
+right: Steve
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Robin: $400
+Jeremy: -$200
+Steve: $1,800
+Scores at the end of the Jeopardy! Round:
+Robin: $800
+Jeremy: $300
+Steve: $4,800
+Second Jeopardy! Round: GEORGIA, THE SIX WIVES OF HENRY VIII, GHASTLY OPERATIC DEMISES, EXPLORERS & TRAVELERS, AFRICAN-AMERICAN LIT, MIND YOUR "P"s & "Q"s
+GEORGIA | From 1936 to 1991 the region was the Georgian SSR, SSR standing for this | Soviet Socialist Republic
+right: Robin
+Wrong: 
+Value: $200
+Number: 17
+THE SIX WIVES OF HENRY VIII | Convicted of treason, 1536 | Anne Boleyn
+right: Steve
+Wrong: 
+Value: $200
+Number: 16
+GHASTLY OPERATIC DEMISES | "Dialogues Des Carmelites" ends in 1790s Paris, so it's no surprise when much of the cast is killed with this device | Guillotine
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 11
+EXPLORERS & TRAVELERS | It's the passage sought but not found by Cartier, Frobisher & Franklin | Northwest Passage
+right: Jeremy
+Wrong: 
+Value: $200
+Number: 30
+AFRICAN-AMERICAN LIT | "You Can't Keep A Good Woman Down" is a book of stories by this Georgia-born author of "The Color Purple" | Alice Walker
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+MIND YOUR "P"s & "Q"s | To supply someone with the necessary tools | Equip
+right: Robin
+Wrong: 
+Value: $200
+Number: 2
+GEORGIA | Sukhumi & Batumi are Georgian resort cities on this body of water | Black Sea
+right: Steve
+Wrong: 
+Value: $400
+Number: 28
+THE SIX WIVES OF HENRY VIII | The Spaniard | Catherine of Aragon
+right: Robin
+Wrong: 
+Value: $400
+Number: 18
+GHASTLY OPERATIC DEMISES | In a modern opera based on an 1870s novel, this woman loses her train of thought & throws herself in front of a train | Anna Karenina
+right: Steve
+Wrong: 
+Value: $400
+Number: 12
+EXPLORERS & TRAVELERS | This Venetian traveler believed he found the kingdom of legendary King Prester John | Marco Polo
+right: Robin
+Wrong: 
+Value: $400
+Number: 29
+AFRICAN-AMERICAN LIT | "Song Of Solomon" was the first of her novels to have a male protagonist | Toni Morrison
+right: Robin
+Wrong: 
+Value: $400
+Number: 3
+MIND YOUR "P"s & "Q"s | Multiply by 4 | Quadruple
+right: Robin
+Wrong: 
+Value: $400
+Number: 5
+GEORGIA | It's an ob-skewer fact that Georgians enjoy shashlik, also known by this 2-word name | Shish kebab
+right: Jeremy
+Wrong: 
+Value: $600
+Number: 27
+THE SIX WIVES OF HENRY VIII | The German (who outlived them all) | Anne of Cleves
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 19
+GHASTLY OPERATIC DEMISES | Dr. Miracle tricks Antonia into singing herself to death in "The Tales Of" this author | Hoffmann
+right: Robin
+Wrong: 
+Value: $600
+Number: 13
+EXPLORERS & TRAVELERS | In 1799 Alexander Von Humboldt set out to prove the Orinoco connects to this longer river | Amazon
+right: Steve
+Wrong: 
+Value: $600
+Number: 24
+AFRICAN-AMERICAN LIT | This famed orator who was born a slave wrote the 1855 memoir "My Bondage And My Freedom" | Frederick Douglass
+right: Steve
+Wrong: 
+Value: $600
+Number: 4
+MIND YOUR "P"s & "Q"s | Agreeably pungent, like many a spice | Piquant
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+GEORGIA | Meliton Balanchivadze, a major Georgian composer, was the father of this choreographer | George Balanchine
+right: Steve
+Wrong: 
+Value: $800
+Number: 26
+THE SIX WIVES OF HENRY VIII | Delivered the male heir | Jane Seymour
+right: Robin
+Wrong: 
+Value: $800
+Number: 20
+GHASTLY OPERATIC DEMISES | Brutus Jones shoots himself with a silver bullet in the opera based on this Eugene O'Neill play | The Emperor Jones
+right: Robin
+Wrong: 
+Value: $800
+Number: 14
+EXPLORERS & TRAVELERS | Vitus Bering was born in Denmark, but explored the Arctic for this European power | Russia
+right: Robin
+Wrong: 
+Value: $800
+Number: 23
+AFRICAN-AMERICAN LIT | This poet called her 1976 memoir "Singin' And Swingin' And Gettin' Merry Like Christmas" | Maya Angelou
+right: Robin
+Wrong: 
+Value: $800
+Number: 6
+MIND YOUR "P"s & "Q"s | In this craft you cut out pieces of one material & sew or paste them on to another | Applique
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+GEORGIA | Seen here, he was president when Georgia became independent, but was then deposed | Zviad Gamsakhurdia
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+THE SIX WIVES OF HENRY VIII | Twice widowed & the last | Catherine Parr
+right: Steve
+Wrong: 
+Value: $1000
+Number: 21
+GHASTLY OPERATIC DEMISES | Poisoned pastry made by a witch kills a prince & a goose-girl in "Die Konigskinder" by this German composer | Engelbert Humperdinck
+right: Robin
+Wrong: 
+Value: DD: $2,000
+Number: 15
+EXPLORERS & TRAVELERS | 19th century world traveler Isabella Bird was the first female member of this British society founded in 1830 | Royal Geographical Society
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+AFRICAN-AMERICAN LIT | Ernest J. Gaines "Autobiography Of" this fictional woman became an Emmy-winning TV movie starring Cicely Tyson | Miss Jane Pittman
+right: Jeremy
+Wrong: 
+Value: $1000
+Number: 7
+MIND YOUR "P"s & "Q"s | This herbicide used on marijuana plants was in the news in the '80s | Paraquat
+right: Jeremy
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Robin: $4,600
+Jeremy: $1,500
+Steve: $7,000
+
+Final Jeopardy! Round
+ASIAN HISTORY | This peninsula of 85,000 square miles was ruled by a single dynasty from 1392 to 1910 | Korea
+right: 
+Wrong: 
+Jeremy: What is Manchuria?
+Robin: What is Vietnam?
+Steve: What is the Malay?
+Wagers: 
+Jeremy: $1,500
+Robin: $4,600
+Steve: $5,701
+Final scores:
+Robin: $0 (Tournament champion: $100,000)
+Jeremy: $0 (1st runner-up: $15,000 minimum)
+Steve: $1,299 (2nd runner-up: $10,000 minimum)
+
+Coryat scores
+Robin: $5,500 (18 R(including 2 DDs),6 W(including 1 DD))
+Jeremy: $1,500 (9 R,5 W)
+Steve: $7,000 (24 R,3 W)

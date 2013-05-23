@@ -1,0 +1,347 @@
+5180 - Friday, March 2, 2007
+Contestants:
+Doug Tibbs: a firefighter from Columbus, Ohio
+Margaret Tennison: a retired paralegal from Vienna, Virginia
+Brian Morris: an account manager from Vancouver, British Columbia, Canada (whose 1-day cash winnings total $30,401)
+First Jeopardy! Round: WHAT A BOHR!, TAKE A WOK ON THE WILD SIDE, ORDINAL PEOPLE, HEADS UP!, CAST, THE FIRST "STONE"
+WHAT A BOHR! | Niels Bohr toasted the Intl. Cooperation of Scientific Advancement when he received this prize in 1922 | the Nobel Prize (in Physics)
+right: Doug
+Wrong: 
+Value: $200
+Number: 26
+TAKE A WOK ON THE WILD SIDE | A crunchy treat commonly found in a Beijing vendor's stall is this arachnid & sign of the zodiac, skewered | the scorpion
+right: Doug
+Wrong: 
+Margaret: What is crab?
+Value: $200
+Number: 21
+ORDINAL PEOPLE | If you're the official attendant to someone in a duel or a boxing match, you're known by this ordinal term | a second
+right: Doug
+Wrong: 
+Value: $200
+Number: 16
+HEADS UP! | On May 2, 1536, she was sent to the Tower of London on adultery charges; on May 19, head rolled | Anne Boleyn
+right: Margaret
+Wrong: 
+Value: $200
+Number: 11
+CAST | Col. Pickering, Freddy Eynsford Hill, Eliza Doolittle | My Fair Lady
+right: Margaret
+Wrong: 
+Value: $200
+Number: 6
+THE FIRST "STONE" | A pellet of frozen precipitation | a hailstone
+right: Brian
+Wrong: 
+Margaret: What is hail?
+Value: $200
+Number: 1
+WHAT A BOHR! | Bohr was born in Oct. 1885 in this capital, where his father was a professor of physiology | Copenhagen
+right: Margaret
+Wrong: 
+Value: $400
+Number: 27
+TAKE A WOK ON THE WILD SIDE | The feet are a prized delicacy from this bird that in China symbolizes the mythical phoenix | the chicken
+right: Margaret
+Wrong: 
+Value: $400
+Number: 22
+ORDINAL PEOPLE | Adding to a list that includes the pyramids, Andre the Giant & King Kong have each been called this | the Eighth Wonder of the World
+right: Brian
+Wrong: 
+Margaret: What are Wonders of the World? The Seven Wonders of the World?
+Value: $400
+Number: 17
+HEADS UP! | It would have been ironic if the guillotine used for her Oct. 16, 1793 execution was also used to cut some cake | Marie Antoinette
+right: Margaret
+Wrong: 
+Value: $400
+Number: 12
+CAST | Nurse Ratched, Randle P. McMurphy, Dr. Spivey | One Flew Over the Cuckoo's Nest
+right: Margaret
+Wrong: 
+Value: $400
+Number: 7
+THE FIRST "STONE" | A newspaper in this fabled Arizona city is appropriately named the Epitaph | Tombstone
+right: Doug
+Wrong: 
+Value: $400
+Number: 2
+WHAT A BOHR! | Long a proponent of arms control, Bohr was awarded the first Atoms for this prize | Peace
+right: Doug
+Wrong: 
+Value: $600
+Number: 28
+TAKE A WOK ON THE WILD SIDE | Despite their name, these pungent Chinese eggs are preserved in lime, ash & salt underground for about 100 days | hundred-year-old eggs (or thousand-year-old eggs)
+right: Margaret
+Wrong: 
+Value: $600
+Number: 23
+ORDINAL PEOPLE | Harry Truman once "globally" broadened eleanor Roosevelt's title by calling her this | First Lady of the World
+right: Margaret
+Wrong: 
+Value: $600
+Number: 18
+HEADS UP! | If this mythster was into Dylan, she'd have sung "Everybody Must Get Stoned" (until Perseus beheaded her) | Medusa
+right: Margaret
+Wrong: 
+Value: $600
+Number: 13
+CAST | Murray, The Pigeon Sisters, Felix Ungar | The Odd Couple
+right: Doug
+Wrong: 
+Value: $600
+Number: 8
+THE FIRST "STONE" | Imitation diamond fit for a certain "cowboy" | a rhinestone
+right: Doug
+Wrong: 
+Value: $600
+Number: 3
+WHAT A BOHR! | Bohr escaped Europe during WWII, eventually making his way to this atomic research center in New Mexico | Los Alamos
+right: Margaret
+Wrong: 
+Value: $800
+Number: 29
+TAKE A WOK ON THE WILD SIDE | After they've done their time spinning fine fiber, fry up some of these moth larvae for a Chinese midnight snack | silkworms
+right: Brian
+Wrong: 
+Value: $800
+Number: 24
+ORDINAL PEOPLE | After Guy Burgess & Donald McClean defected to Russia, Kim Philby was called this, after a Graham Greene title | the Third Man
+right: Margaret
+Wrong: 
+Value: $800
+Number: 19
+HEADS UP! | On July 28, 1794 this French leader's "Reign of Terror" was cut short | (Maximilien) Robespierre
+right: Brian
+Wrong: 
+Value: $800
+Number: 14
+CAST | Che, Eva, Peron's mistress | Evita
+right: Brian
+Wrong: 
+Value: $800
+Number: 9
+THE FIRST "STONE" | This fashion fad for jeans gives them the appearance of wear | stonewashed
+right: Brian
+Wrong: 
+Value: $800
+Number: 4
+WHAT A BOHR! | Bohr was one of the first to see the importance of this, which gives an element's position in the periodic table | atomic number
+right: 
+Wrong: 
+Margaret: I have no idea, sorry.
+Value: DD: $600
+Number: 30
+TAKE A WOK ON THE WILD SIDE | If you're really hungry, stir fry some vegetables & buttered meat from this high Himalayan bovine | a yak
+right: Doug
+Wrong: 
+Value: $1000
+Number: 25
+ORDINAL PEOPLE | J. Lucas-Dubreton's biography of Alexandre Dumas is titled this, like what d'Artagnan wants to be | The Fourth Musketeer
+right: Brian
+Wrong: 
+Value: $1000
+Number: 20
+HEADS UP! | On Jan. 12, 1519 this Spanish explorer & Pacific Ocean sighter lost a few crucial lbs. in the public square of Acla | (Vasco Núñez de) Balboa
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+CAST | Clifford Bradshaw, The Kit Kat Girls, Herr Schultz | Cabaret
+right: Margaret
+Wrong: 
+Value: $1000
+Number: 10
+THE FIRST "STONE" | (<http://www.j-archive.com/media/2007-03-02_J_05.jpg> Jeff Probst reports from Guatemala.)  Mayan pyramids were characteristically constructed with <http://www.j-archive.com/media/2007-03-02_J_05a.jpg> this stone, named for the calcium oxide it produces when burned | limestone
+right: Margaret
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Brian: $2,600
+Margaret: $3,600
+Doug: $1,600
+Scores at the end of the Jeopardy! Round:
+Brian: $4,800
+Margaret: $6,000
+Doug: $3,800
+Second Jeopardy! Round: AMERICAN POETS & POETRY, JOHNS IN FILM, GLAND TIDINGS, FURNITURE, ALLITERATIVE ARTISTS, SYNONYMS
+AMERICAN POETS & POETRY | Although published as a separate volume in 1865, Whitman's "Drum-taps" was later included in this work | Leaves of Grass
+right: Brian
+Wrong: 
+Value: $400
+Number: 6
+JOHNS IN FILM | He had "true grit" as Rooster Cogburn | John Wayne
+right: Brian
+Wrong: 
+Value: $400
+Number: 7
+GLAND TIDINGS | The pineal gland is a pea-sized organ located in this supervisory center of the nervous system | the brain
+right: Doug
+Wrong: 
+Value: $400
+Number: 30
+FURNITURE | Come back here & tell us the name of this part of an L-shaped desk, perpendicular to the main part for extra surface | a return
+right: Doug
+Wrong: 
+Value: $400
+Number: 12
+ALLITERATIVE ARTISTS | Spanish superstar surprises some; sample <http://www.j-archive.com/media/2007-03-02_DJ_01.jpg> sculpture | Pablo Picasso
+right: Margaret
+Wrong: 
+Value: $400
+Number: 1
+SYNONYMS | Baseball scoreboards show runs, hits & not mistakes but these | errors
+right: Brian
+Wrong: 
+Value: $400
+Number: 20
+AMERICAN POETS & POETRY | About the lovely Lenore, he wrote, "Wretches!  Ye loved her for her wealth and hated her for her pride" | (Edgar Allan) Poe
+right: Doug
+Wrong: 
+Value: $800
+Number: 15
+JOHNS IN FILM | It was Charlton Heston's role in "The Greatest Story Ever Told" | John the Baptist
+right: Margaret
+Wrong: 
+Value: $800
+Number: 8
+GLAND TIDINGS | The submandibular gland is below the mandible, which is this | the jawbone
+right: Doug
+Wrong: 
+Value: $800
+Number: 26
+FURNITURE | It's the mountainous name for the chairs shown <http://www.j-archive.com/media/2007-03-02_DJ_13.jpg> here | Adirondack
+right: 
+Wrong: Triple Stumper
+Margaret: What are Adiron-dyke chairs?
+Value: $800
+Number: 13
+ALLITERATIVE ARTISTS | Bearded British ruler reveres German <http://www.j-archive.com/media/2007-03-02_DJ_02.jpg> genius | Hans Holbein
+right: Margaret
+Wrong: 
+Value: $800
+Number: 2
+SYNONYMS | A synonym for "Stop!" that may be shouted by a sentry; it's also an old word meaning "to limp" | halt
+right: Margaret
+Wrong: 
+Value: $800
+Number: 21
+AMERICAN POETS & POETRY | This line follows "Poems are made by fools like me" | "But only God can make a tree"
+right: Margaret
+Wrong: 
+Value: $1200
+Number: 18
+JOHNS IN FILM | Oh, brother!  He's the actor under pressure seen <http://www.j-archive.com/media/2007-03-02_DJ_09.jpg> here | (John) Turturro
+right: Brian
+Wrong: 
+Value: $1200
+Number: 9
+GLAND TIDINGS | (<http://www.j-archive.com/media/2007-03-02_DJ_27.jpg> Kelly of the Clue Crew cuts an onion.) When you <http://www.j-archive.com/media/2007-03-02_DJ_27a.jpg> cut an onion, its amino acids create an irritant to these glands | tear glands (or lachrymal glands)
+right: Doug
+Wrong: 
+Value: $1200
+Number: 27
+FURNITURE | A psyche was a 19th century standing one of these, mounted so that it could be tilted | mirrors
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 14
+ALLITERATIVE ARTISTS | Georgia guy, flag-fashioning pop painter | Jasper Johns
+right: Brian
+Wrong: 
+Value: $1200
+Number: 3
+SYNONYMS | The Navy hymn asks, "Oh, hear us when we cry to thee for those in" this synonym of danger "on the sea" | peril
+right: Margaret
+Wrong: 
+Doug: What is asea?
+Value: $1200
+Number: 22
+AMERICAN POETS & POETRY | Born Dorothy Rothschild, this noted wit began her literary career with a poem published in Vanity Fair | Dorothy Parker
+right: Brian
+Wrong: 
+Value: $1600
+Number: 19
+JOHNS IN FILM | Between his 1950 & 1954 portrayals of this pirate, Robert Newton found time to play Blackbeard | Long John Silver
+right: 
+Wrong: Triple Stumper
+Brian: Who is Jon Cabot?
+Margaret: Who is John Laffite?
+Value: $1600
+Number: 10
+GLAND TIDINGS | These nodes are glands, & they aren't just in the head & neck; there are more under the arms,too | lymph nodes
+right: Doug
+Wrong: 
+Value: $1600
+Number: 28
+FURNITURE | Louis XIV's style is Baroque; Louis XV's style, seen <http://www.j-archive.com/media/2007-03-02_DJ_16.jpg> here, is <http://www.j-archive.com/media/2007-03-02_DJ_16a.jpg> this style that followed Baroque | Rococo
+right: Doug
+Wrong: 
+Value: DD: $3,000
+Number: 16
+ALLITERATIVE ARTISTS | Flamboyant Flemish fixture fond of <http://www.j-archive.com/media/2007-03-02_DJ_04.jpg> fleshy females, first & following names | Peter Paul Rubens
+right: Margaret
+Wrong: 
+Value: $1600
+Number: 4
+SYNONYMS | A traditional variation on "show me the way to go home" is "indicate the direction of my habitual" this | abode
+right: 
+Wrong: Triple Stumper
+Brian: What is domicile?
+Value: $1600
+Number: 24
+AMERICAN POETS & POETRY | In 1945 this poet laureate of Illinois published her first volume of poetry, "A Street In Bronzeville" | Gwendolyn Brooks
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+JOHNS IN FILM | <http://www.j-archive.com/media/2007-03-02_DJ_11.jpg> This former Bond girl played herself in "The Player" | Jill St. John
+right: Brian
+Wrong: 
+Value: $2000
+Number: 11
+GLAND TIDINGS | In humans, T cells develop in this gland under the breastbone | the thymus gland
+right: 
+Wrong: 
+Doug: What is the pituitary gland?
+Value: DD: $4,000
+Number: 29
+FURNITURE | A prie-dieu can be an armless seat or a bench to be used when you're physically in this position | kneeling
+right: Margaret
+Wrong: 
+Value: $2000
+Number: 17
+ALLITERATIVE ARTISTS | Cunning canine <http://www.j-archive.com/media/2007-03-02_DJ_05.jpg> cameraman caught cuddling | William Wegman
+right: Margaret
+Wrong: 
+Value: $2000
+Number: 5
+SYNONYMS | As an adjective, it's a synonym for "precise"; as a verb, for "take" or "demand" | exact
+right: Brian
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Brian: $10,800
+Margaret: $14,400
+Doug: $6,800
+
+Final Jeopardy! Round
+PRESIDENTIAL ELECTIONS | Elected President twice, he beat his 2 opponents by a combined Electoral College tally of 1,014-62 | Ronald Reagan
+right: Doug | Brian | Margaret
+Wrong: 
+Wagers: 
+Doug: $6,799
+Brian: $7,800
+Margaret: $7,201
+Final scores:
+Brian: $18,600 (2nd place: $2,000)
+Margaret: $21,601 (New champion: $21,601)
+Doug: $13,599 (3rd place: $1,000)
+
+Coryat scores
+Brian: $10,800 (15 R,2 W)
+Margaret: $15,000 (22 R,6 W(including 1 DD))
+Doug: $9,400 (15 R(including 1 DD),2 W(including 1 DD))

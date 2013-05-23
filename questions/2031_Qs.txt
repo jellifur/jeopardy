@@ -1,0 +1,340 @@
+3553 - Wednesday, February 2, 2000
+Contestants:
+Ed Friesema: a graduate student from La Jolla, California
+Angela Toussaint: a schoolteacher from West Roxbury, Massachusetts
+Amanda Yuzzi: a federal employee from Atlanta, Georgia (whose 1-day cash winnings total $5,800)
+First Jeopardy! Round: IT HAPPENED ON GROUNDHOG DAY, 12-LETTER WORDS, SEATTLE, DAN RATHER, WHAT'S THE FREQUENCY?, KENNETHS
+IT HAPPENED ON GROUNDHOG DAY | In 1959 this state's schools were integrated as black students joined white in Norfolk & Arlington | Virginia
+right: Angela
+Wrong: 
+Value: $100
+Number: 21
+12-LETTER WORDS | They grow with the silver bells in Mary Mary's garden | Cockleshells
+right: Ed
+Wrong: 
+Value: $100
+Number: 1
+SEATTLE | Despite the city's reputation, only about 35 inches a year | Rain
+right: Angela
+Wrong: 
+Value: $100
+Number: 2
+DAN RATHER | Dan Rather was co-editor of this TV show from 1975 to 1981 | 60 MInutes
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 3
+WHAT'S THE FREQUENCY? | The Miss Universe pageant | Once a year
+right: Ed
+Wrong: 
+Value: $100
+Number: 11
+KENNETHS | On August 8, 1994 he was sworn in as an independent counsel | Kenneth Starr
+right: Amanda
+Wrong: 
+Value: $100
+Number: 4
+IT HAPPENED ON GROUNDHOG DAY | Jascha Heifetz, born Feb. 2, 1901, was giving concerts on this instrument by 1907 | Violin
+right: Ed
+Wrong: 
+Value: $200
+Number: 22
+12-LETTER WORDS | It's the sometimes high-"Pei-ing" art of designing & erecting buildings | Architecture
+right: Angela
+Wrong: 
+Value: $200
+Number: 7
+SEATTLE | The main Seattle airport is known as Sea-Tac Airport, for this city to the south | Tacoma
+right: Angela
+Wrong: 
+Value: $200
+Number: 17
+DAN RATHER | Dan was born on October 31, 1931 in this U.S. state | Texas
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 27
+WHAT'S THE FREQUENCY? | Elections for the U.S. House of Representatives | Every 2 years
+right: Amanda
+Wrong: 
+Value: $200
+Number: 12
+KENNETHS | This country music Kenny was born Kenneth in Houston on August 21, 1938 | Kenny Rogers
+right: Amanda
+Wrong: 
+Value: $200
+Number: 5
+IT HAPPENED ON GROUNDHOG DAY | In 1959 this 22-year-old singer played his last gig, at the Surf Ballroom in Clear Lake, Iowa | Buddy Holly
+right: 
+Wrong: Triple Stumper
+Amanda: Who is Ritchie Valens?
+Value: $300
+Number: 24
+12-LETTER WORDS | A penetration of the enemy's wall, or a great scientific advance | Breakthrough
+right: Angela
+Wrong: 
+Value: $300
+Number: 8
+SEATTLE | In the early '60s this martial arts master waited tables at Seattle's Ruby Chow's Restaurant | Bruce Lee
+right: Ed
+Wrong: 
+Value: $300
+Number: 18
+DAN RATHER | In 1981 Dan replaced this legendary longtime anchorman | Walter Cronkite
+right: Amanda
+Wrong: 
+Value: $300
+Number: 28
+WHAT'S THE FREQUENCY? | The U.S. Population Census | Every 10 years
+right: Amanda
+Wrong: 
+Value: $300
+Number: 13
+KENNETHS | Poet Kenneth Rexroth earned the title "Godfather of" this Jack Kerouac literary movement | Beat movement
+right: Angela
+Wrong: 
+Value: $300
+Number: 6
+IT HAPPENED ON GROUNDHOG DAY | In 1986 the Pope met in India with this exiled Buddhist leader | Dalai Lama
+right: Angela
+Wrong: 
+Value: $400
+Number: 25
+12-LETTER WORDS | A pygmy one of these animals can weigh up to 600 pounds | Hippopotamus
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+SEATTLE | (Hi, I'm Gary Payton of the Seattle SuperSonics.)  As a member of the 1996 "Dream Team", I know all about this mountain range just west of Seattle | the Olympic Mountains
+right: 
+Wrong: 
+Ed: What are the Cascades?
+Value: DD: $300
+Number: 19
+DAN RATHER | Dan was upped to a national post by CBS after covering one of these natural disasters in September 1961 | Hurricane
+right: Angela
+Wrong: 
+Value: $400
+Number: 29
+WHAT'S THE FREQUENCY? | Soccer's World Cup | Every 4 years
+right: Ed
+Wrong: 
+Value: $400
+Number: 14
+KENNETHS | 3 Kenneths ruled this European country in the 9th & 10th centuries | Scotland
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 16
+IT HAPPENED ON GROUNDHOG DAY | German troops' surrender in 1943 ended the seemingly endless battle for this Russian city | Stalingrad
+right: Ed
+Wrong: 
+Value: $500
+Number: 26
+12-LETTER WORDS | You may hear a jam session at 726 St. Peter St. in this New Orleans hall | Preservation Hall
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 10
+SEATTLE | The Space Needle was built for a World's Fair with this futuristic name that also belongs to a real estate company | Century 21
+right: Ed
+Wrong: 
+Value: $500
+Number: 20
+DAN RATHER | The title of one of Dan's books on broadcast journalism states that "The Camera Never" does this | Blinks
+right: 
+Wrong: Triple Stumper
+Amanda: What is sleeps?
+Value: $500
+Number: 30
+WHAT'S THE FREQUENCY? | Mexican presidential elections | Every 6 years
+right: 
+Wrong: Triple Stumper
+Angela: What is every 5 years?
+Value: $500
+Number: 15
+KENNETHS | Kenneth is the middle name of this economist who wrote "The Affluent Society" | John Kenneth Galbraith
+right: Amanda
+Wrong: 
+Value: $500
+Number: 23
+Scores at the first commercial break (after clue 15)
+Amanda: $800
+Angela: $400
+Ed: $600
+Scores at the end of the Jeopardy! Round:
+Amanda: $800
+Angela: $1,500
+Ed: $1,300
+Second Jeopardy! Round: MICHELANGELO, AT THE MOVIES, ANCIENT MESOAMERICA, POETRY, SENIOR CITIZENS, HOMOPHONIC PAIRS
+MICHELANGELO | Until the Pope demanded Pietrasanta, Michelangelo quarried this material from Carrara | Marble
+right: Ed
+Wrong: 
+Value: $200
+Number: 12
+AT THE MOVIES | This 1939 film is the highrst-ranking musical on the AFI's list of the 100 greatest American movies | The Wizard of Oz
+right: Angela
+Wrong: 
+Value: $200
+Number: 1
+ANCIENT MESOAMERICA | Ah Kin, whose help was vital to farming, was the Mayan god of this heavenly body | Sun
+right: Amanda
+Wrong: 
+Value: $200
+Number: 6
+POETRY | "And when, responding to the cheers, he lightly doffed his hat, no stranger in the crowd could doubt 'twas" he | Casey (at the bat)
+right: Angela
+Wrong: 
+Value: $200
+Number: 22
+SENIOR CITIZENS | He had his best years with the Cincinnati Reds, but finished up as his son's teammate in Seattle | Ken Griffey, Sr.
+right: Angela
+Wrong: 
+Value: $200
+Number: 7
+HOMOPHONIC PAIRS | Author Roald's Barbies | Dahl's dolls
+right: Amanda
+Wrong: 
+Value: $200
+Number: 16
+MICHELANGELO | Like Shakespeare, Michelangelo wrote these poems, many in praise of Tommaso de Cavalieri | Sonnets
+right: Ed
+Wrong: 
+Value: $400
+Number: 13
+AT THE MOVIES | At times an animatronic double played the title porker in this 1995 Oscar-winning family movie | Babe
+right: Amanda
+Wrong: 
+Value: $400
+Number: 2
+ANCIENT MESOAMERICA | Popular trade items were these, made of iron or obsidian & highly polished to aid reflection | Mirrors
+right: Ed
+Wrong: 
+Value: $400
+Number: 27
+POETRY | "Honor the charge they made!  Honor" them, "noble six hundred!" | The Light Brigade
+right: Angela
+Wrong: 
+Value: $400
+Number: 23
+SENIOR CITIZENS | Born Michael, he changed his name -- & his son's -- to honor the German Protestant leader | Martin Luther King, Sr.
+right: Amanda
+Wrong: 
+Value: $400
+Number: 8
+HOMOPHONIC PAIRS | Alterations experts for president Zachary | Taylor's tailors
+right: Angela
+Wrong: 
+Value: $400
+Number: 17
+MICHELANGELO | This Sistine Chapel work shocked many good people & scared many sinners: | "The Last Judgment"
+right: Ed
+Wrong: 
+Value: DD: $700
+Number: 14
+AT THE MOVIES | The "Witches of Eastwick" were played by these 3 actresses | Cher, Michelle Pfeiffer & Susan Sarandon
+right: Ed
+Wrong: 
+Value: $600
+Number: 3
+ANCIENT MESOAMERICA | The Olmec were associated with this big cat & made statues combining it & man | Jaguar
+right: Ed
+Wrong: 
+Value: $600
+Number: 28
+POETRY | This Longfellow poem is subtitled "A Tale of Acadie" | "Evangeline"
+right: 
+Wrong: 
+Angela: What is "Acadia?"
+Value: DD: $500
+Number: 24
+SENIOR CITIZENS | The host of "Firing Line" inherited oil millions & conservative beliefs from this man | William F. Buckley, Sr.
+right: Ed
+Wrong: 
+Value: $600
+Number: 9
+HOMOPHONIC PAIRS | A conceited wind direction indicator | Vain vane
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+MICHELANGELO | As well as sculpting this king, Michelangelo painted him as one of the "ancestors of Christ" | David
+right: Amanda
+Wrong: 
+Value: $800
+Number: 15
+AT THE MOVIES | This 1948 film inspired by a real murder was Alfred Hitchcock's first movie in color | Rope
+right: 
+Wrong: Triple Stumper
+Angela: What is "Rear Window?"
+Value: $800
+Number: 4
+ANCIENT MESOAMERICA | The largest ball court in Mesoamerica is at this site in the Yucatan: | Chichen Itza
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+POETRY | Carl Sandburg penned that this "sits looking over harbor and city on silent haunches and then moves on" | Fog
+right: Angela
+Wrong: 
+Value: $800
+Number: 25
+SENIOR CITIZENS | "Chafed Elbows" is an underground classic by this film director whose son played Chaplin | Robert Downey, Sr.
+right: Angela
+Wrong: 
+Value: $800
+Number: 10
+HOMOPHONIC PAIRS | Marquis' ultimate reference works on identifying owls by their sounds | Who's hoos
+right: Angela
+Wrong: 
+Value: $800
+Number: 19
+MICHELANGELO | The son of a small-town government agent, Michelangelo had this last name | Buonarroti
+right: Angela
+Wrong: 
+Value: $1000
+Number: 21
+AT THE MOVIES | This 1984 science fiction sequel directed by Peter Hyams contains the line "My God, it's full of stars" | 2010
+right: Ed
+Wrong: 
+Value: $1000
+Number: 5
+POETRY | Poem in which Robert Frost said, "Home is the place where, when you have to go there, they have to take you in" | "The Death of the Hired Man"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+SENIOR CITIZENS | This eminent violin virtuoso was the grandfather of "Remington Steele" actress Stephanie | Efrem Zimbalist, Sr.
+right: Angela
+Wrong: 
+Value: $1000
+Number: 11
+HOMOPHONIC PAIRS | A rough route | Coarse course
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Amanda: $2,800
+Angela: $6,000
+Ed: $5,400
+
+Final Jeopardy! Round
+FINANCIERS | The Federal Reserve System was founded partly in response to his March 31, 1913 death | J.P. Morgan
+right: Angela
+Wrong: 
+Amanda: Who was Getty
+Ed: Who is T. Roosevelt
+Wagers: 
+Amanda: $2,800
+Ed: $601
+Angela: $5,000
+Final scores:
+Amanda: $0 (3rd place: Polaroid Photomax Digital Camera Creative Kit)
+Angela: $11,000 (New champion: $11,000)
+Ed: $4,799 (2nd place: Sony Home Entertainment System featuring WebTV)
+
+Coryat scores
+Amanda: $2,800 (11 R,2 W)
+Angela: $6,500 (18 R,3 W(including 1 DD))
+Ed: $5,600 (15 R(including 1 DD),3 W(including 1 DD))

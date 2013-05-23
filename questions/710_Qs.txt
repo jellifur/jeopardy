@@ -1,0 +1,345 @@
+3002 - Tuesday, September 23, 1997
+Contestants:
+Bob Willoughby: a computer programming student from Madison, Wisconsin
+Ann Jackman: a film editor originally from Villanova, Pennsylvania
+Jon Bourgault: a law student from Brooklyn, New York (whose 1-day cash winnings total $10,001)
+First Jeopardy! Round: BODIES OF WATER, APPROXIMATE WEIGHTS & MEASURES, ATHLETES, THE 1940s, "SON"NY, CHER FILMS
+BODIES OF WATER | The name of this ocean means "peaceful" | the Pacific
+right: Ann
+Wrong: 
+Value: $100
+Number: 21
+APPROXIMATE WEIGHTS & MEASURES | Amount of Brylcreem that'll "do ya" | a little dab
+right: Bob
+Wrong: 
+Value: $100
+Number: 1
+ATHLETES | Appropriately, Swiss teenage tennis star Martina Hingis was named for this woman | Martina Navratilova
+right: Jon
+Wrong: 
+Value: $100
+Number: 26
+THE 1940s | On May 13, 1940 he told Britain's House of Commons, "I have nothing to offer but blood, toil, tears & sweat" | Winston Churchill
+right: Jon
+Wrong: 
+Value: $100
+Number: 16
+"SON"NY | By law it's the malicious burning of another's house, or, in some case, your own | arson
+right: Bob
+Wrong: 
+Value: $100
+Number: 2
+CHER FILMS | Cher won Nicolas Cage's heart & an Oscar in this romantic comedy | Moonstruck
+right: Bob
+Wrong: 
+Value: $100
+Number: 5
+BODIES OF WATER | It's the smallest & the most easterly of the 5 Great Lakes | Lake Ontario
+right: Ann
+Wrong: 
+Value: DD: $400
+Number: 22
+APPROXIMATE WEIGHTS & MEASURES | An indefinite-sized mass that forms in the throat when you're a little choked up | a lump
+right: Bob
+Wrong: 
+Value: $200
+Number: 12
+ATHLETES | In 1933 he hit in 61 straight games for the San Francisco Seals; he only reached 56 as the "Yankee Clipper" | Joe DiMaggio
+right: Ann
+Wrong: 
+Value: $200
+Number: 27
+THE 1940s | Popular songs of the decade included "Tennessee Waltz" & "Deep In The Heart Of" this state | Texas
+right: Ann
+Wrong: 
+Value: $200
+Number: 17
+"SON"NY | Brickwork or stonework | masonry
+right: Jon
+Wrong: 
+Value: $200
+Number: 3
+CHER FILMS | This film featured Cher as Meryl Streep's gal pal & co-worker at a nuclear plant | Silkwood
+right: Ann
+Wrong: 
+Value: $200
+Number: 6
+BODIES OF WATER | Noted for its salmon fishing, the Tay is the longest river of this United Kingdom country | Scotland
+right: Jon
+Wrong: 
+Value: $300
+Number: 23
+APPROXIMATE WEIGHTS & MEASURES | Abbreviated "T", it can be exact, or when approximate, rounded or heaping | a tablespoon
+right: Jon
+Wrong: 
+Value: $300
+Number: 13
+ATHLETES | In 1996 boxer Andrew Golota lost twice to Riddick Bowe by committing this foul | hitting below the belt
+right: Jon
+Wrong: 
+Value: $300
+Number: 28
+THE 1940s | Things developed rapidly after this Edwin Land creation went on sale in 1948 | the Polaroid camera
+right: Ann
+Wrong: 
+Value: $300
+Number: 18
+"SON"NY | One's public image, as opposed to the inner self | persona
+right: Ann
+Wrong: 
+Value: $300
+Number: 4
+CHER FILMS | Cher was a "bewitching" sculptor in this movie based on a John Updike novel | The Witches of Eastwick
+right: Bob
+Wrong: 
+Value: $300
+Number: 7
+BODIES OF WATER | Lake Van in Anatolia is this country's largest lake | Turkey
+right: Bob
+Wrong: 
+Value: $400
+Number: 24
+APPROXIMATE WEIGHTS & MEASURES | It's how much o' "nuthin" Porgy had | plenty
+right: Bob
+Wrong: 
+Value: $400
+Number: 14
+ATHLETES | No. 33 on the Chicago Bulls, this Olympian has played most of his career in the shadow of No. 23 | Scottie Pippen
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+THE 1940s | 3 days before it was destroyed by the British Navy in May 1941, this German battleship sank the HMS Hood | the Bismarck
+right: Bob
+Wrong: 
+Jon: What is the Von Bismarck?
+Value: $400
+Number: 19
+"SON"NY | This 2-wheeled, horse-drawn vehicle is used to carry coffins at military funerals | caisson
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 10
+CHER FILMS | In this 1985 film, Cher portrayed Rusty Dennis, the mother of a disfigured son | Mask
+right: Bob
+Wrong: 
+Value: $400
+Number: 8
+BODIES OF WATER | Botany Bay on the coast of New South Wales, Australia is an inlet of this sea | the Tasman Sea
+right: Bob
+Wrong: 
+Value: $500
+Number: 25
+APPROXIMATE WEIGHTS & MEASURES | Robert Frost had to get out of the woods; "I have" this far "to go before I sleep", he wrote | miles
+right: Bob
+Wrong: 
+Value: $500
+Number: 15
+ATHLETES | Golf legend Sam Snead won every one of golf's major championships, except this one | the U.S. Open
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+THE 1940s | On July 1, 1946 the U.S. detonated its first atomic bomb since WWII at this atoll | Bikini
+right: Bob
+Wrong: 
+Value: $500
+Number: 20
+"SON"NY | To cast off junk, or to throw overboard, as from a junk | jettison
+right: Bob
+Wrong: 
+Value: $500
+Number: 11
+CHER FILMS | Chazz Palminteri stars as a hit man hired to kill Cher in this 1996 black comedy | Faithful
+right: 
+Wrong: Triple Stumper
+Ann: What is Unfaithful?
+Value: $500
+Number: 9
+Scores at the first commercial break (after clue 15)
+Jon: $500
+Ann: $0
+Bob: $2,600
+Scores at the end of the Jeopardy! Round:
+Jon: $900
+Ann: $1,200
+Bob: $4,400
+Second Jeopardy! Round: THAT'S MY BOY!, GIRL GROUPS, PLANTS & TREES, MEDICAL SPECIALTIES, LANGUAGES, SHAKESPEARE'S FIRST WORDS
+THAT'S MY BOY! | This wise son of David wrote songs as well as psalms & divided Israel into 12 administrative parts | Solomon
+right: Ann
+Wrong: 
+Value: $200
+Number: 15
+GIRL GROUPS | Sandy "Pepa" Denton's rap partner Cheryl Jones is nicknamed this | "Salt"
+right: Ann
+Wrong: 
+Value: $200
+Number: 11
+PLANTS & TREES | Closely related to the Saguaro, night-blooming Cereus is a type of this plant | a cactus
+right: Jon
+Wrong: 
+Value: $200
+Number: 21
+MEDICAL SPECIALTIES | Term for a specialist who listens for clicks, murmurs, lub-dubs & pitter-patters | cardiologist
+right: Bob
+Wrong: 
+Value: $200
+Number: 26
+LANGUAGES | The Cantonese form of this language is also known as Yue | Chinese
+right: Ann
+Wrong: 
+Value: $200
+Number: 1
+SHAKESPEARE'S FIRST WORDS | "Two households, both alike in dignity..." | Romeo and Juliet
+right: Bob
+Wrong: 
+Value: $200
+Number: 6
+THAT'S MY BOY! | Constantine I's son George II fled this country during WWII; he returned to rule in 1946 | Greece
+right: Jon
+Wrong: 
+Value: $400
+Number: 16
+GIRL GROUPS | This group began as the Primettes; after signing with Motown it changed its name | The Supremes
+right: Jon
+Wrong: 
+Value: $400
+Number: 12
+PLANTS & TREES | The black & English varieties of this tree are valued for their wood & their nuts | a walnut
+right: Bob
+Wrong: 
+Value: $400
+Number: 22
+MEDICAL SPECIALTIES | Creams, lotions & ointments are the major clinical tools of this skin specialty | dermatology
+right: Bob
+Wrong: 
+Value: $400
+Number: 27
+LANGUAGES | Nederlands is another name for this language | Dutch
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+SHAKESPEARE'S FIRST WORDS | "When shall we three meet again" | Macbeth
+right: Bob
+Wrong: 
+Value: $400
+Number: 7
+THAT'S MY BOY! | Around 1260 this country acquired Greenland & Iceland under Haakon IV, Haakon III's illegitimate son | Norway
+right: Jon
+Wrong: 
+Ann: What is Denmark?
+Value: $600
+Number: 18
+GIRL GROUPS | In 1994 L7 gained in popularity as part of this alternative rock tour | Lollapalooza
+right: Ann
+Wrong: 
+Value: $600
+Number: 13
+PLANTS & TREES | This tree gave Ohio its nickname | the buckeye
+right: Jon
+Wrong: 
+Value: $600
+Number: 23
+MEDICAL SPECIALTIES | In the 1990s Prozac & other drugs have revolutionized this specialty's treatment of depression | psychiatry
+right: Bob
+Wrong: 
+Value: $600
+Number: 28
+LANGUAGES | In 1990 Belarusian replaced this as the official language of Belarus | Russian
+right: Jon
+Wrong: 
+Value: $600
+Number: 3
+SHAKESPEARE'S FIRST WORDS | "Boatswain!" | The Tempest
+right: 
+Wrong: Triple Stumper
+Jon: What is The Merchant of Venice?
+Value: $600
+Number: 8
+THAT'S MY BOY! | Unlike his father Pedro I, Pedro II worked to abolish slavery in this country | Brazil
+right: Jon
+Wrong: 
+Value: $800
+Number: 19
+GIRL GROUPS | (VIDEO DAILY DOUBLE): British group seen <http://www.j-archive.com/media/1997-09-23_DJ_14.wmv> here in a hit from their debut album:  "If you wanna be my lover / You gotta get with my friends / Make it last forever / Friendship never ends..." | The Spice Girls ("Wannabe")
+right: Ann
+Wrong: 
+Value: DD: $1,500
+Number: 14
+PLANTS & TREES | The blue gum is one of the most widely cultivated species of this tree | eucalyptus
+right: Ann
+Wrong: 
+Value: $800
+Number: 24
+MEDICAL SPECIALTIES | It's defined as the study of disease & may study the bodies of those killed by a disease | pathology
+right: Jon
+Wrong: 
+Value: $800
+Number: 29
+LANGUAGES | Belize's national anthem is usually sung in this language | English
+right: 
+Wrong: Triple Stumper
+Bob: What is Spanish?
+Value: $800
+Number: 4
+SHAKESPEARE'S FIRST WORDS | "O for a muse of fire..." | Henry V
+right: Ann
+Wrong: 
+Value: $800
+Number: 9
+THAT'S MY BOY! | The 11th son of Ibn Saud, he led Saudi Arabia during the Gulf War | King Fahd
+right: Bob
+Wrong: 
+Value: $1000
+Number: 20
+GIRL GROUPS | According to Billboard, The Angels, with this 1963 song, were the 1st all-white girl group to have a No. 1 hit | "My Boyfriend's Back"
+right: 
+Wrong: Triple Stumper
+Bob: What is "My Guy"?
+Value: $1000
+Number: 17
+PLANTS & TREES | The name of this climbing plant often found on poles is Greek for "lover of trees" | philodendron
+right: 
+Wrong: 
+Ann: I don't know.
+Value: DD: $500
+Number: 25
+MEDICAL SPECIALTIES | A subspecialty of internal medicine, it deals with innards like the stomach & intestines | gastroenterology
+right: Jon
+Wrong: 
+Value: $1000
+Number: 30
+LANGUAGES | The famous 15th century poem "Orlando Innamorato" was written in this language | Italian
+right: Bob
+Wrong: 
+Value: $1000
+Number: 5
+SHAKESPEARE'S FIRST WORDS | "I learn in this letter that Don Pedro of Arragon comes this night in Messina." | Much Ado About Nothing
+right: Ann
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Jon: $5,700
+Ann: $5,400
+Bob: $7,200
+
+Final Jeopardy! Round
+HISTORIC GEOGRAPHY | In 1756 Voltaire said of this political entity that none of the 3 parts of its name was accurate | the Holy Roman Empire
+right: Jon | Bob
+Wrong: 
+Ann: What is  ?
+Wagers: 
+Ann: $5,300
+Jon: $5,700
+Bob: $4,201
+Final scores:
+Jon: $11,400 (2nd place: Trip to Madrid, Spain)
+Ann: $100 (3rd place: Monorail Desktop PC)
+Bob: $11,401 (New champion: $11,401)
+
+Coryat scores
+Jon: $5,700 (15 R,2 W)
+Ann: $5,000 (15 R(including 2 DDs),3 W(including 1 DD))
+Bob: $7,200 (22 R,2 W)

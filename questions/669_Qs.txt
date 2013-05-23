@@ -1,0 +1,340 @@
+4896 - Monday, December 19, 2005
+Contestants:
+Laura McElfresh: a librarian from Atlanta, Georgia
+Brendan O'Connor: a teacher from Cody, Wyoming
+Kathy Reiff: a homemaker from Groton, Massachusetts (whose 1-day cash winnings total $5,200)
+First Jeopardy! Round: IT'S AUSTRALIA, MATE, THE QUOTABLE BEN STILLER, Rx MARKS THE SPOT, IT WAS THE '60s, BEATLE WANNABES?, WE WANNA KNOW "Y"
+IT'S AUSTRALIA, MATE | The loud Australian bird known as a kookaburra is also known as this "laughing" equine | jackass
+right: 
+Wrong: Triple Stumper
+Kathy: What is a pony?
+Brendan: What's... the horse?
+Value: $200
+Number: 21
+THE QUOTABLE BEN STILLER | Ben has a little trouble with Brett Fav-ruh...Fav-re-ruh... Favre's last name in this 1998 comedy | There's Something About Mary
+right: Kathy
+Wrong: 
+Value: $200
+Number: 12
+Rx MARKS THE SPOT | The stimulant methylphenidate, used to treat attention deficit hyperactivity disorder, is known by this trade name | Ritalin
+right: Brendan
+Wrong: 
+Value: $200
+Number: 26
+IT WAS THE '60s | A July 21, 1969 Wapakoneta, Ohio Daily News headline about a local boy read, "Neil steps on" this | the Moon
+right: Laura
+Wrong: 
+Value: $200
+Number: 1
+BEATLE WANNABES? | This prosecutor struck up the band for Bill Clinton's impeachment with his report | (Kenneth) Starr
+right: Brendan
+Wrong: 
+Value: $200
+Number: 10
+WE WANNA KNOW "Y" | John Gay wrote that this time of life is "the season made for joys" | youth
+right: Kathy
+Wrong: 
+Value: $200
+Number: 5
+IT'S AUSTRALIA, MATE | The "Ground" for this sport in Melbourne, Australia has a capacity of about 100,000 spectators | cricket
+right: 
+Wrong: Triple Stumper
+Brendan: What is rugby?
+Value: $400
+Number: 22
+THE QUOTABLE BEN STILLER | "The penguins are psychotic!" says Alex the lion, voiced by Ben in this 2005 animated film | Madagascar
+right: Kathy
+Wrong: 
+Value: $400
+Number: 13
+Rx MARKS THE SPOT | "Oxy" for short, this painkiller has been widely abused in poor rural areas in the U.S. | Oxycontin
+right: Laura
+Wrong: 
+Value: $400
+Number: 27
+IT WAS THE '60s | This Argentine-born minister for Castro left Cuba in 1965, reappearing as a fighter in Bolivia | Che Guevara
+right: Kathy
+Wrong: 
+Value: $400
+Number: 2
+BEATLE WANNABES? | Known as a great orator, this president sang the praises for the Sherman Antitrust Act he signed into law | Benjamin Harrison
+right: 
+Wrong: Triple Stumper
+Brendan: Who is Reagan?
+Value: $400
+Number: 11
+WE WANNA KNOW "Y" | He patented his cylinder pin-tumbler lock in 1861 | (Linus) Yale
+right: Laura
+Wrong: 
+Value: $400
+Number: 6
+IT'S AUSTRALIA, MATE | This Australian state reports it has lost the 1859 decree Victoria signed authorizing its name | Queensland
+right: Kathy
+Wrong: 
+Value: DD: $1,000
+Number: 23
+THE QUOTABLE BEN STILLER | "Come on cap, don't drag (my partner) into this.  I shot my pony" admits Ben, in this movie update of a buddy cop TV show | Starsky & Hutch
+right: Laura
+Wrong: 
+Value: $600
+Number: 14
+Rx MARKS THE SPOT | Also known as Alprazolam, you could say it is an "X" factor in anti-anxiety drugs | Xanax
+right: Laura
+Wrong: 
+Value: $600
+Number: 28
+IT WAS THE '60s | On July 3, 1962 this European president proclaimed the independence of Algeria | De Gaulle
+right: Kathy
+Wrong: 
+Value: $600
+Number: 3
+BEATLE WANNABES? | Bill McCartney's harmony with Jesus led him to quit as football coach of this University's Buffaloes | Colorado
+right: Laura
+Wrong: 
+Value: $600
+Number: 17
+WE WANNA KNOW "Y" | In June 1991 Croatia broke away from it | Yugoslavia
+right: Laura
+Wrong: 
+Value: $600
+Number: 7
+IT'S AUSTRALIA, MATE | Australia's smallest state, this island used to be called Van Diemen's Land | Tasmania
+right: Brendan
+Wrong: 
+Value: $800
+Number: 24
+THE QUOTABLE BEN STILLER | As a member of this "Royal" family, Ben asks, "Can we read it... is it dark?" & hears "Of course it's dark.  It's a suicide note" | the Royal Tenenbaums
+right: Kathy
+Wrong: 
+Value: $800
+Number: 15
+Rx MARKS THE SPOT | A compound of this lightest metal is used to treat bipolar disorder | lithium
+right: Laura
+Wrong: 
+Value: $800
+Number: 29
+IT WAS THE '60s | In "The Feminine Mystique", she wrote of the suburban wife "afraid to ask even of herself... 'Is this all?'" | Betty Friedan
+right: Laura
+Wrong: 
+Value: $800
+Number: 4
+BEATLE WANNABES? | Imagine Thomas Lennon's success with this Comedy Central show he co-created in which he plays Lt. Dangle | Reno 911!
+right: Laura
+Wrong: 
+Value: $800
+Number: 18
+WE WANNA KNOW "Y" | The Navy has had 2 aircraft carriers with this Revolutionary War name; the first was sunk at Midway | Yorktown
+right: Brendan
+Wrong: 
+Value: $800
+Number: 8
+IT'S AUSTRALIA, MATE | It's "evolved" to become the largest city of Australia's Northern Territory | Darwin
+right: Brendan
+Wrong: 
+Value: $1000
+Number: 25
+THE QUOTABLE BEN STILLER | As this 2001 title supermodel, Ben says, "Now if you'll excuse me, I have an after-funeral party to attend" | Zoolander
+right: Laura
+Wrong: 
+Brendan: What is Zoolanger?
+Value: $1000
+Number: 16
+Rx MARKS THE SPOT | "Triazolam Days" just didn't sound quite right; maybe that's why the sleeping drug is known as this | Halcion
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 30
+IT WAS THE '60s | Seen <http://www.j-archive.com/media/2005-12-19_J_20.wmv> here, his attempt to enroll at Ole Miss in 1962 led to riots but was ultimately successful | James Meredith
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+BEATLE WANNABES? | Son of Constantine I, Paul I became a solo act after succeeding George II as king of this country | Greece
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 19
+WE WANNA KNOW "Y" | Zholobov & Zudov were cosmonauts, so this shuttle pilot is last alphabetically in the Astronaut Hall of Fame | John Young
+right: 
+Wrong: Triple Stumper
+Brendan: Who is Zudov?
+Value: $1000
+Number: 9
+Scores at the first commercial break (after clue 15)
+Kathy: $2,600
+Brendan: -$400
+Laura: $2,600
+Scores at the end of the Jeopardy! Round:
+Kathy: $5,400
+Brendan: $0
+Laura: $6,800
+Second Jeopardy! Round: OPERA, BASS LINES, THE JEOPARDY! TIME MACHINE, WOMEN AUTHORS, A 5-COURSE MEAL, "THIN" IS IN
+OPERA | Puccini included a passage from "The Star-Spangled Banner" in one of Pinkerton's numbers in this opera | Madame Butterfly
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+BASS LINES | (<http://www.j-archive.com/media/2005-12-19_DJ_01.jpg> Jon of the Clue Crew a-basses himself.)  Queen's bassist, John Deacon, wrote <http://www.j-archive.com/media/2005-12-19_DJ_01.mp3> this 1980 hit | "Another One Bites The Dust"
+right: Kathy
+Wrong: 
+Value: $400
+Number: 1
+THE JEOPARDY! TIME MACHINE | Drop in on Shaanxi, China in 1556 & you could warn the 800,000 soon to perish due to this | an earthquake
+right: 
+Wrong: Triple Stumper
+Kathy: What is a flood?
+Value: $400
+Number: 26
+WOMEN AUTHORS | She was an English teacher by day in Portugal when she began using her mornings to write about wizards | J.K. Rowling
+right: Laura
+Wrong: 
+Value: $400
+Number: 21
+A 5-COURSE MEAL | Let's start you off with a simple salad of this veggie that comes in butterhead & crisphead varieties | lettuce
+right: Kathy
+Wrong: 
+Value: $400
+Number: 16
+"THIN" IS IN | Bitterly severe as a remark, perhaps describing the bad review of a play | scathing
+right: Laura
+Wrong: 
+Value: $400
+Number: 11
+OPERA | A highlight of this tragic opera set in Palestine is the "Dance of the Seven Veils" | Salome
+right: Laura
+Wrong: 
+Value: DD: $3,000
+Number: 3
+BASS LINES | (<http://www.j-archive.com/media/2005-12-19_DJ_07.jpg> Jon of the Clue Crew gives us the low down on bass.)  This <http://www.j-archive.com/media/2005-12-19_DJ_07.mp3> song was nominated for a 1984 Oscar...  Who ya gonna call? | "Ghostbusters"
+right: Brendan
+Wrong: 
+Value: $800
+Number: 7
+THE JEOPARDY! TIME MACHINE | In 73 A.D., take part in the Jewish Zealots' last stand in this fortress--or you might prefer to be on the Roman side | Masada
+right: Brendan
+Wrong: 
+Value: $800
+Number: 27
+WOMEN AUTHORS | Illness prevented her from finishing "Sanditon"; "Northanger Abbey" was published posthumously | Jane Austen
+right: Kathy
+Wrong: 
+Laura: Who... is... Jane...
+Value: $800
+Number: 22
+A 5-COURSE MEAL | For jambalaya, go next door; we serve this Louisiana stew that often includes okra, shellfish & ham | gumbo
+right: Kathy
+Wrong: 
+Value: $800
+Number: 17
+"THIN" IS IN | This word accompanied "Fear" in the title of a groundbreaking 1972 book | loathing
+right: Laura
+Wrong: 
+Value: $800
+Number: 12
+OPERA | He's Verdi's title hunchbacked court jester | Rigoletto
+right: Laura
+Wrong: 
+Value: $1200
+Number: 4
+BASS LINES | (<http://www.j-archive.com/media/2005-12-19_DJ_08.jpg> Jon of the Clue Crew plays short on the bassline.)  In 1973, <http://www.j-archive.com/media/2005-12-19_DJ_08.mp3> this became Pink Floyd's first Top 40 hit | "Money"
+right: Laura
+Wrong: 
+Value: $1200
+Number: 8
+THE JEOPARDY! TIME MACHINE | I'd sure like to visit 1877 & hear this Nez Perce chief's "I will fight no more forever" speech | Chief Joseph
+right: Brendan
+Wrong: 
+Value: $1200
+Number: 28
+WOMEN AUTHORS | Alice Walker helped revive interest in this author dubbed "The Queen of the Harlem Renaissance" | Zora Neale Hurston
+right: Kathy
+Wrong: 
+Value: DD: $2,000
+Number: 23
+A 5-COURSE MEAL | Next, I recommend this 10-armed cephalopod, though we're fresh out of the 80-pound variety | calamari
+right: Brendan
+Wrong: 
+Value: $1200
+Number: 19
+"THIN" IS IN | This former bronze coin of Great Britain comes from the Old English for "fourth" | farthing
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 13
+OPERA | In Act I of "La boheme", this poet keeps a fire burning in the chilly attic by sacrificing his manuscript | Rodolfo
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 5
+BASS LINES | (<http://www.j-archive.com/media/2005-12-19_DJ_09.jpg> Jon of the Clue Crew bottoms out on the bass.)  This <http://www.j-archive.com/media/2005-12-19_DJ_09.mp3> song topped the charts for 6 weeks in 1979 | "My Sharona"
+right: Laura
+Wrong: 
+Value: $1600
+Number: 9
+THE JEOPARDY! TIME MACHINE | 1574?  Ohhh, you must want to meet "dangerous beauty" Veronica Franco, this Italian city's finest courtesan | Venice
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+WOMEN AUTHORS | In 2004 this Scottish author of "The Prime of Miss Jean Brodie" published "The Finishing School" | Muriel Spark
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+A 5-COURSE MEAL | The catch of the day & main course is this young haddock or cod that weighs under 2 1/2 pounds | scrod
+right: Kathy
+Wrong: 
+Value: $1600
+Number: 20
+"THIN" IS IN | It's the Shakespeare comedy that fits the category | Much Ado about Nothing
+right: Laura
+Wrong: 
+Value: $1600
+Number: 14
+OPERA | In a Richard Strauss  opera title, the name of this daughter of Minos precedes "auf Naxos" | Ariadne
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 6
+BASS LINES | (<http://www.j-archive.com/media/2005-12-19_DJ_10.jpg> Jon of the Clue Crew gets heavy with bass metal.)  <http://www.j-archive.com/media/2005-12-19_DJ_10.mp3> This track led off Metallica's 1991 self-titled CD | "Enter Sandman"
+right: Brendan
+Wrong: 
+Value: $2000
+Number: 10
+WOMEN AUTHORS | Thea Kronborg is a preacher's daughter who becomes a singer in Willa Cather's novel "The Song of" this bird | the lark
+right: Kathy
+Wrong: 
+Value: $2000
+Number: 25
+A 5-COURSE MEAL | For dessert, we imitate Brennan's in N.O. & cook up this bananas & ice cream dessert named for a customer | Bananas Foster
+right: Laura
+Wrong: 
+Value: $2000
+Number: 18
+"THIN" IS IN | In 1991 Iceland's parliament, known as this, merged its upper & lower houses into a unicameral body | the Althing
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Kathy: $14,200
+Brendan: $6,000
+Laura: $18,600
+
+Final Jeopardy! Round
+TRADEMARKS | As the result of a merger in 1999, this company's trademarks include both a tiger & Pegasus | Exxon Mobil
+right: Brendan | Kathy | Laura
+Wrong: 
+Wagers: 
+Brendan: $5,000
+Kathy: $4,500
+Laura: $9,801
+Final scores:
+Kathy: $18,700 (2nd place: $2,000)
+Brendan: $11,000 (3rd place: $1,000)
+Laura: $28,401 (New champion: $28,401)
+
+Coryat scores
+Kathy: $13,000 (17 R(including 2 DDs),2 W)
+Brendan: $6,000 (10 R,5 W)
+Laura: $16,400 (21 R(including 1 DD),1 W)

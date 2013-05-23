@@ -1,0 +1,344 @@
+5507 - Tuesday, July 15, 2008
+Contestants:
+Gail Sneyers: an administrative assistant from Myrtle Beach, South Carolina
+Holden Toplin: a graduate student and actor from Philadelphia, Pennsylvania
+Randall Eng: a composer from New York, New York (whose 1-day cash winnings total $28,001)
+First Jeopardy! Round: THE EMERALD ISLE, SHOW BIZ OATHS & EXCLAMATIONS, HISTORY OF THE NEW YORK TIMES, BRITISH ROYALS IN THE MILITARY, HOLIDAYS & OBSERVANCES, INSIDE JOHNNY GILBERT
+THE EMERALD ISLE | With more than 500,000 inhabitants, it's Ireland's most populous city | Dublin
+right: Randall
+Wrong: 
+Value: $200
+Number: 24
+SHOW BIZ OATHS & EXCLAMATIONS | Discovering Patty is drinking the only beer left, Homer Simpson says this | D'oh!
+right: Gail
+Wrong: 
+Value: $200
+Number: 1
+HISTORY OF THE NEW YORK TIMES | In April 1861 the Times began Sunday issues for all the crucial up-to-date news on this | the Civil War
+right: Holden
+Wrong: 
+Value: $200
+Number: 6
+BRITISH ROYALS IN THE MILITARY | During World War II, she joined the Women's Auxiliary & drove a military truck in London | Queen Elizabeth II
+right: Holden
+Wrong: 
+Value: $200
+Number: 30
+HOLIDAYS & OBSERVANCES | Kids in Somerset, England call pumpkins "punkies", & "Punky Night" is their version of this celebration | Halloween
+right: Randall
+Wrong: 
+Value: $200
+Number: 11
+INSIDE JOHNNY GILBERT | Seat fit for a king | throne
+right: Gail
+Wrong: 
+Value: $200
+Number: 19
+THE EMERALD ISLE | No surprise--at 88%, it's the most practiced religion in the Republic of Ireland | Catholic
+right: Randall
+Wrong: 
+Value: $400
+Number: 25
+SHOW BIZ OATHS & EXCLAMATIONS | This show's Colonel Potter knew "Horse hockey!" when he saw it | M*A*S*H
+right: Randall
+Wrong: 
+Value: $400
+Number: 2
+HISTORY OF THE NEW YORK TIMES | Of 6, 12, or 18 pounds, it's the record for a Sunday Times paper, spread over 1,612 pages in 1987 | 12
+right: Gail
+Wrong: 
+Value: $400
+Number: 7
+BRITISH ROYALS IN THE MILITARY | In February 2008, word leaked out that this young royal was serving with h is army unit in Afghanistan | Prince Harry
+right: Holden
+Wrong: 
+Randall: Who is Prince William?
+Value: $400
+Number: 29
+HOLIDAYS & OBSERVANCES | If you're in Denmark, you're most likely to see the wee folk called Nisser during this holiday season | the Christmas season
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+INSIDE JOHNNY GILBERT | Cardinal compass direction | north
+right: Holden
+Wrong: 
+Value: $400
+Number: 20
+THE EMERALD ISLE | 6 counties in Ulster make up this political unit | Northern Ireland
+right: Holden
+Wrong: 
+Value: $600
+Number: 26
+SHOW BIZ OATHS & EXCLAMATIONS | When things go wrong, this title cartoon guy lets loose with "Barnacles!" or "Tartar sauce!" | SpongeBob SquarePants
+right: Gail
+Wrong: 
+Value: $600
+Number: 3
+HISTORY OF THE NEW YORK TIMES | Blogs found at nytimes.com include one by this TV personality & talk show host seen <http://www.j-archive.com/media/2008-07-15_J_08.jpg> here | (Dick) Cavett
+right: Randall
+Wrong: 
+Value: $600
+Number: 8
+BRITISH ROYALS IN THE MILITARY | This British prince was made a vice admiral, an air marshal & a lt. general all on his 54th birthday in 2002 | Prince Charles
+right: Gail
+Wrong: 
+Holden: Who is Prince Andrew?
+Value: $600
+Number: 16
+HOLIDAYS & OBSERVANCES | Buying gold jewelry insures good fortune on Akshaya Tritiya, a special day of this religion | Hinduism
+right: Randall
+Wrong: 
+Value: $600
+Number: 13
+INSIDE JOHNNY GILBERT | Thin clear soup of concentrated stock | broth
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 21
+THE EMERALD ISLE | The 2 official languages of the Republic of Ireland are English & this one, also known as Irish | Gaelic
+right: Randall
+Wrong: 
+Value: $800
+Number: 27
+SHOW BIZ OATHS & EXCLAMATIONS | This 1970s Robin Williams show was full of "Shazbot" | Mork & Mindy
+right: Randall
+Wrong: 
+Value: $800
+Number: 4
+HISTORY OF THE NEW YORK TIMES | Among its dozens of Pulitzer prizes is one for coverage of this 1986 tragedy, citing "serious design flaws" | the Challenger
+right: Randall
+Wrong: 
+Value: $800
+Number: 9
+BRITISH ROYALS IN THE MILITARY | In 1982 Prince Andrew flew helicopters during a war against this country | Argentina
+right: Gail
+Wrong: 
+Value: DD: $1,800
+Number: 17
+HOLIDAYS & OBSERVANCES | How romantic!  Oregon entered the Union in 1859 on this special day | February 14 (Valentine's Day)
+right: Randall
+Wrong: 
+Value: $800
+Number: 14
+INSIDE JOHNNY GILBERT | One story told in 3 books | trilogy
+right: Holden
+Wrong: 
+Value: $800
+Number: 22
+THE EMERALD ISLE | In 2008 he announced he'd step down after 11 years as Ireland's prime minister | Bertie Ahern
+right: Holden
+Wrong: 
+Value: $1000
+Number: 28
+SHOW BIZ OATHS & EXCLAMATIONS | When Steve Carell's chest waxing goes bad in this film, there's only one name to scream--"Kelly Clarkson!" | The 40-Year-Old Virgin
+right: Randall
+Wrong: 
+Value: $1000
+Number: 5
+HISTORY OF THE NEW YORK TIMES | While he gave up his political column, he still shares his love of words in his "On Language" column | (William) Safire
+right: Randall
+Wrong: 
+Value: $1000
+Number: 10
+BRITISH ROYALS IN THE MILITARY | To begin his training as an army officer, Prince William entered this British military academy in 2006 | Sandhurst
+right: Randall
+Wrong: 
+Value: $1000
+Number: 18
+HOLIDAYS & OBSERVANCES | Temporary shelters that may be decorated are built for Sukkot, a festival of this religion | Judaisim
+right: Holden
+Wrong: 
+Value: $1000
+Number: 15
+INSIDE JOHNNY GILBERT | Last name of one of our last 3 vice presidents | Gore
+right: Holden
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the first commercial break (after clue 15)
+Randall: $6,200
+Holden: $1,200
+Gail: $1,200
+Scores at the end of the Jeopardy! Round:
+Randall: $8,200
+Holden: $5,000
+Gail: $3,800
+Second Jeopardy! Round: THE EMERALD AISLE, BEFORE & AFTER GOES TO THE MOVIES, "MAN"-LY LIT, I NEED A FARM VACATION!, A VISIT TO A JAPANESE TEMPLE, ALSO KNOWN AS
+THE EMERALD AISLE | John Boorman's man-returns-to-the-jungle film "The Emerald Forest" takes place mostly in this S.A. country | Brazil
+right: Randall
+Wrong: 
+Value: $400
+Number: 26
+BEFORE & AFTER GOES TO THE MOVIES | Film in which Daniel Day-Lewis searches for oil & citrus fruits with dark red flesh | There Will Be Blood Oranges
+right: Randall
+Wrong: 
+Value: $400
+Number: 1
+"MAN"-LY LIT | A Manolin (a person) & a marlin (a fish) appear in this Hemingway tale | The Old Man and the Sea
+right: Holden
+Wrong: 
+Value: $400
+Number: 2
+I NEED A FARM VACATION! | We'll learn how to groom llamas if we stay at Hidden Acres Llama Farm in Jefferson in this Down East state | Maine
+right: Holden
+Wrong: 
+Value: $400
+Number: 21
+A VISIT TO A JAPANESE TEMPLE | (<http://www.j-archive.com/media/2008-07-15_DJ_16.jpg> Jimmy of the Clue Crew reports from Kiyomizudera Temple in Kyoto, Japan.)  Japanese Buddhism is divided into several sects; <http://www.j-archive.com/media/2008-07-15_DJ_16a.jpg> Kiyomizudera Temple represents North Hosso Buddhism, brought from this country in the 600s | China
+right: Holden
+Wrong: 
+Value: $400
+Number: 16
+ALSO KNOWN AS | The Yeti | the Abominable Snowman
+right: Holden
+Wrong: 
+Value: $400
+Number: 11
+THE EMERALD AISLE | Emerald is the birthstone for this month | May
+right: Gail
+Wrong: 
+Value: $800
+Number: 27
+BEFORE & AFTER GOES TO THE MOVIES | Film of a typical day in the life of the Beatles, which includes running from bloodthirsty zombie fans in a Romero classic | A Hard Day's Night of the Living Dead
+right: Gail
+Wrong: 
+Value: $800
+Number: 7
+"MAN"-LY LIT | The narrator of this Ralph Ellison novel clarifies that he is not "one of your Hollywood-movie ectoplasms" | Invisible Man
+right: Gail
+Wrong: 
+Value: $800
+Number: 3
+I NEED A FARM VACATION! | Maybe I'll spend a day getting lost at Oakes Farm in Tennessee, in their 11-acre one of these mazes | a corn maze
+right: Randall
+Wrong: 
+Holden: What is a hedge maze?
+Value: $800
+Number: 22
+A VISIT TO A JAPANESE TEMPLE | Kiyomizudera is said to have been built in honor of a bodhisattva, one who forgoes advancing to this enlightened state | nirvana
+right: Randall
+Wrong: 
+Value: $800
+Number: 17
+ALSO KNOWN AS | Tolkien's "There and Back Again" | The Hobbit
+right: Gail
+Wrong: 
+Value: $800
+Number: 12
+THE EMERALD AISLE | In the 1940s, this superhero's abilities came from a ring that was fashioned from an emerald lamp | the Green Lantern
+right: Randall
+Wrong: 
+Value: $1200
+Number: 28
+BEFORE & AFTER GOES TO THE MOVIES | Jim Carrey voices an elephant that heads to Toon Town to solve a murder with Bob Hoskins in this animated classic | Horton Hears a Who Framed Roger Rabbit
+right: Randall
+Wrong: 
+Value: $1200
+Number: 8
+"MAN"-LY LIT | Stephen Dedalus' formative years in Dublin are the subject of this novel by James Joyce | A Portrait of the Artist as a Young Man
+right: Holden
+Wrong: 
+Value: $1200
+Number: 4
+I NEED A FARM VACATION! | Horseback riding is the rein event at Lady Hawk Farm in this state's Citrus County | Florida
+right: Gail
+Wrong: 
+Value: $1200
+Number: 23
+A VISIT TO A JAPANESE TEMPLE | (<http://www.j-archive.com/media/2008-07-15_DJ_18.jpg> Kelly of the Clue Crew reads from Kiyomizudera Temple in Kyoto, Japan.)  This is the shoro, or bell tower; you can see the <http://www.j-archive.com/media/2008-07-15_DJ_18a.jpg> imperial emblem that features the <http://www.j-archive.com/media/2008-07-15_DJ_18b.jpg> kiku, this flower symbolizing nobility | the chrysanthemum
+right: Gail
+Wrong: 
+Value: $1200
+Number: 18
+ALSO KNOWN AS | Oral defamation | slander
+right: Randall
+Wrong: 
+Value: $1200
+Number: 13
+THE EMERALD AISLE | Roll out this--emerald is the green variety of it; aquamarine is the blue-green variety | beryl
+right: 
+Wrong: Triple Stumper
+Gail: What is...
+Value: $1600
+Number: 29
+BEFORE & AFTER GOES TO THE MOVIES | Josh Brolin, Tommy Lee Jones & Javier Bardem go to Alaska to get love advice from Anne Heche in this movie-TV hybrid | No Country for Old Men in Trees
+right: Randall
+Wrong: 
+Value: DD: $6,000
+Number: 9
+"MAN"-LY LIT | This play by George Bernard Shaw portrays Don Juan as the quarry, not the hunter | Man and Superman
+right: Gail
+Wrong: 
+Value: $1600
+Number: 5
+I NEED A FARM VACATION! | If I tire of snowshoeing at Ohlers' Acres in this Canadian province, I'll take a side trip to the W. Edmonton Mall | Alberta
+right: Gail
+Wrong: 
+Value: $1600
+Number: 24
+A VISIT TO A JAPANESE TEMPLE | Behind Sai-mon, the West Gate, rises Sanju-no-to, the tallest of these structures in all of Japan | a pagoda
+right: Gail
+Wrong: 
+Value: $1600
+Number: 19
+ALSO KNOWN AS | Vitamin B2, partner of thiamine & niacin on cereal boxes | riboflavin
+right: Holden
+Wrong: 
+Value: $1600
+Number: 14
+THE EMERALD AISLE | The hardness of emeralds ranges from 7.5 to 8 on this scale | Mohs
+right: Randall
+Wrong: 
+Value: $2000
+Number: 30
+BEFORE & AFTER GOES TO THE MOVIES | Boxer Hilary Swank has some tough decisions for Diane Keaton in this film: life or death, career or family | Million Dollar Baby Boom
+right: Holden
+Wrong: 
+Value: $2000
+Number: 10
+"MAN"-LY LIT | In a pamphlet, Thomas Paine wrote about government founded on "the indefeasible hereditary" these | the Rights of Man
+right: 
+Wrong: 
+Gail: What are Man's Rights?
+Value: DD: $3,800
+Number: 6
+I NEED A FARM VACATION! | Hey, Sugar, sugaring season is a great time to stay at Shearer Hill Farm in this state | Vermont
+right: Holden
+Wrong: 
+Value: $2000
+Number: 25
+A VISIT TO A JAPANESE TEMPLE | (<http://www.j-archive.com/media/2008-07-15_DJ_20.jpg> Jimmy of the Clue Crew reads once more from outside Kiyomizudera Temple in Kyoto, Japan.)  Most of the complex here was rebuilt in the 1630s under Iemitsu Tokugawa who had this title, meaning barbarian-subduing general | shogun
+right: Holden
+Wrong: 
+Value: $2000
+Number: 20
+ALSO KNOWN AS | The Mexica, ethnically | the Aztecs
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Randall: $22,200
+Holden: $14,600
+Gail: $8,800
+
+Final Jeopardy! Round
+OLYMPIC CITIES | This city's Olympics were exactly 200 years after the death of the British cabinet secretary it was named for | Sydney
+right: Gail
+Wrong: 
+Holden: What is Melbourne?
+Randall: What is Albertville?
+Wagers: 
+Gail: $6,400
+Holden: $14,599
+Randall: $7,001
+Final scores:
+Randall: $15,199 (2nd place: $2,000)
+Holden: $1 (3rd place: $1,000)
+Gail: $15,200 (New champion: $15,200)
+
+Coryat scores
+Randall: $17,800 (22 R(including 1 DD),1 W)
+Holden: $14,600 (18 R,2 W)
+Gail: $11,600 (15 R(including 1 DD),2 W(including 1 DD))

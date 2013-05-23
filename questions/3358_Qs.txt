@@ -1,0 +1,346 @@
+5891 - Monday, April 5, 2010
+Contestants:
+Nancy West: a high school guidance counselor from Las Vegas, Nevada
+Brandon Hathaway: a mechanical engineer from Augusta, Georgia
+Laura Hughes: a mom from New Market, Maryland (whose 1-day cash winnings total $27,500)
+First Jeopardy! Round: THE 17th CENTURY, TV SHOWS BY CHARACTERS, AROUND THE WORLD, BEETHOVEN'S, NINTH, "ODE" TO JOY
+THE 17th CENTURY | In the 17th century this student of Nicolo Amati was putting his designer label on his own violins | Stradivarius
+right: Laura
+Wrong: 
+Value: $200
+Number: 1
+TV SHOWS BY CHARACTERS | Joey Tribbiani & Chandler Bing | Friends
+right: Brandon
+Wrong: 
+Value: $200
+Number: 3
+AROUND THE WORLD | The <http://www.j-archive.com/media/2010-04-05_J_11.jpg> "Bird's Nest" in this city won architecture's Lubetkin Prize | Beijing
+right: Nancy
+Wrong: 
+Value: $200
+Number: 11
+BEETHOVEN'S | ...primary performing instrument was this; he wrote 32 sonatas for it | the piano
+right: Brandon
+Wrong: 
+Laura: What is the organ?
+Value: $200
+Number: 12
+NINTH | We'll think you very bright if you name this ninth reindeer pulling Santa's sleigh | Rudolph
+right: Brandon
+Wrong: 
+Value: $200
+Number: 24
+"ODE" TO JOY | Wranglin', ropin' & ridin' take place at these competitions | a rodeo
+right: Brandon
+Wrong: 
+Value: $200
+Number: 17
+THE 17th CENTURY | At the end of the century, the British East India Company founded this city, later famous for a black hole | Calcutta
+right: Nancy
+Wrong: 
+Value: $400
+Number: 2
+TV SHOWS BY CHARACTERS | Lenny & Squiggy | Laverne & Shirley
+right: Laura
+Wrong: 
+Value: $400
+Number: 5
+AROUND THE WORLD | What happens in this city, seen <http://www.j-archive.com/media/2010-04-05_J_13.jpg> here, stays in this city seen here | Las Vegas
+right: Brandon
+Wrong: 
+Value: $400
+Number: 13
+BEETHOVEN'S | ...hometown, it was West Germany's capital from 1949 to 1990 | Bonn
+right: Nancy
+Wrong: 
+Value: $400
+Number: 21
+NINTH | In the "Divine Comedy", the ninth one of these is reserved for treacherous folks like Judas Iscariot | circle of hell
+right: Nancy
+Wrong: 
+Value: $400
+Number: 25
+"ODE" TO JOY | This vocal style heard <http://www.j-archive.com/media/2010-04-05_J_18.mp3> here features rapid changes in tempo & pitch | yodeling
+right: Laura
+Wrong: 
+Value: $400
+Number: 18
+THE 17th CENTURY | (<http://www.j-archive.com/media/2010-04-05_J_04.jpg> Jimmy of the Clue Crew shows a micrograph on the monitor.)  In the 1660s, Robert Hooke looked at cork under a microscope; the empty spaces reminded him of a monastery's rooms, so he called him these | cells
+right: Nancy
+Wrong: 
+Value: $600
+Number: 4
+TV SHOWS BY CHARACTERS | Sue Ellen & Bobby Ewing | Dallas
+right: Laura
+Wrong: 
+Value: $600
+Number: 8
+AROUND THE WORLD | The gargoyle stands guard on <http://www.j-archive.com/media/2010-04-05_J_14.jpg> this cathedral on Paris' Île de la Cité | Notre Dame
+right: Laura
+Wrong: 
+Value: $600
+Number: 14
+BEETHOVEN'S | ...teacher in the early 1790s was this "Papa" | Haydn
+right: Brandon
+Wrong: 
+Value: $600
+Number: 22
+NINTH | Artsy types coexist with the butchers that give this district along Manhattan's Ninth Avenue its name | the Meatpacking District
+right: Brandon
+Wrong: 
+Value: $600
+Number: 28
+"ODE" TO JOY | It's Zimbabwe's old name, bwana | (Southern) Rhodesia
+right: Brandon
+Wrong: 
+Value: $600
+Number: 19
+THE 17th CENTURY | Blaise Pascal proved the atmosphere has weight by sending a man up a mountain with this instrument | a barometer
+right: Brandon
+Wrong: 
+Value: $800
+Number: 6
+TV SHOWS BY CHARACTERS | Tattoo & Mr. Roarke | Fantasy Island
+right: Brandon
+Wrong: 
+Value: $800
+Number: 9
+AROUND THE WORLD | The International Olympic Committee gave the 11 million people of <http://www.j-archive.com/media/2010-04-05_J_15.jpg> this Brazilian city yet another reason to celebrate in 2009 | Rio de Janeiro
+right: Brandon
+Wrong: 
+Value: $800
+Number: 15
+BEETHOVEN'S | ...letters addressed to an unidentified lover gave a 1994 film this title | Immortal Beloved
+right: Nancy
+Wrong: 
+Value: DD: $2,000
+Number: 26
+NINTH | The ninth of the Ten Commandments instructs, "Thou shalt not bear false witness against" this person | thy neighbor
+right: Brandon
+Wrong: 
+Value: $800
+Number: 29
+"ODE" TO JOY | To collapse inward, like a building being leveled in a controlled explosion | implode
+right: Nancy
+Wrong: 
+Brandon: What is implosion?
+Value: $800
+Number: 20
+THE 17th CENTURY | The Dutch East India Company sponsored his 1609 search for the Northwest Passage | Henry Hudson
+right: Laura
+Wrong: 
+Value: $1000
+Number: 7
+TV SHOWS BY CHARACTERS | Detective Lilly Rush, Detective Scotty Valens, Detective Nick Vera | Cold Case
+right: Laura
+Wrong: 
+Value: $1000
+Number: 10
+AROUND THE WORLD | It's the Great Lake seen <http://www.j-archive.com/media/2010-04-05_J_16.jpg> here on a lovely night | Lake Michigan
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 16
+BEETHOVEN'S | ...first public performance came at the age of 7, in this "fragrant" city | Cologne
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 27
+NINTH | The ninth pope to bear this devout name had the longest reign of any pope, 1846-1878 | Pius
+right: Laura
+Wrong: 
+Value: $1000
+Number: 30
+"ODE" TO JOY | A battery has 2 of these: a positive anode & a negative cathode | electrodes
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the first commercial break (after clue 15)
+Laura: $3,600
+Brandon: $4,200
+Nancy: $1,200
+Scores at the end of the Jeopardy! Round:
+Laura: $5,000
+Brandon: $8,400
+Nancy: $4,800
+Second Jeopardy! Round: ON THE WARPATH, COSTLY BREAKUPS, ENGINEERING, "G"-MALE, COMPLETES THE POETIC LINE, OTHER 4-LETTER WORDS
+ON THE WARPATH | This special forces unit was the unlikely subject of a 1966 No. 1 hit by Staff Sergeant Barry Sadler | the Green Berets
+right: Brandon
+Wrong: 
+Value: $400
+Number: 19
+COSTLY BREAKUPS | It's no bull--this athlete's divorce from ex-Chicago bank officer Juanita Vanoy cost him $168 million | Michael Jordan
+right: Brandon
+Wrong: 
+Value: $400
+Number: 26
+ENGINEERING | It was the Persians, not the Dutch, who invented this energy-producing machine to grind grain | a windmill
+right: Brandon
+Wrong: 
+Value: $400
+Number: 7
+"G"-MALE | He beat out Gherman Titov to fly aboard Vostok I | Yuri Gagarin
+right: Brandon
+Wrong: 
+Value: $400
+Number: 6
+COMPLETES THE POETIC LINE | "Poems are made by fools like me, but only god can make a ____" | tree
+right: Nancy
+Wrong: 
+Value: $400
+Number: 1
+OTHER 4-LETTER WORDS | In 2010 American Humane celebrates "Be" this "to Animals Week" from May 2 to 8 | Kind
+right: Nancy
+Wrong: 
+Value: $400
+Number: 14
+ON THE WARPATH | Anthony Swofford's book "Jarhead" was his firsthand chronicle of action in this war | the Persian Gulf War (or Desert Storm)
+right: Brandon
+Wrong: 
+Value: $800
+Number: 20
+COSTLY BREAKUPS | This crooner's $150 million divorce from Marcia Murphy could only be described as a "Song Sung Blue" | Neil Diamond
+right: Brandon
+Wrong: 
+Value: $800
+Number: 27
+ENGINEERING | A scenic "Drive" in Los Angeles is named for this engineer who brought Owens Valley water to Los Angeles | (William) Mulholland
+right: Laura
+Wrong: 
+Value: $800
+Number: 8
+"G"-MALE | Seuss was the middle name of this man born in Springfield, Massachusetts in 1904 | (Theodore) Geisel
+right: Nancy
+Wrong: 
+Value: $800
+Number: 10
+COMPLETES THE POETIC LINE | "'On the morrow he will leave me, as my hopes have flown before.' Then the bird said ____" | nevermore
+right: Laura
+Wrong: 
+Value: $800
+Number: 2
+OTHER 4-LETTER WORDS | The Constitution grants the president a "pocket" this | a veto
+right: Brandon
+Wrong: 
+Value: $800
+Number: 15
+ON THE WARPATH | This "colorful" Indian Chief was defeated in the 1832 war named for him | Black Hawk
+right: 
+Wrong: 
+Brandon: Who is Red Bull?
+Value: DD: $3,000
+Number: 21
+COSTLY BREAKUPS | He could "feel it coming in the air tonight" when his split from Orianne Cevey cost him a reported $46.8 million | Phil Collins
+right: Brandon
+Wrong: 
+Value: $1200
+Number: 28
+ENGINEERING | In 1858 this French engineer built a railway bridge over the Garonne River; his more famous structure came 31 yrs. later | (Gustave) Eiffel
+right: Nancy
+Wrong: 
+Value: $1200
+Number: 9
+"G"-MALE | Helmut Frielinghaus edited a "Reader" of this author's works, including "The Tin Drum" & "Crabwalk" | Günter Grass
+right: Laura
+Wrong: 
+Brandon: Who is Goethe?
+Value: $1200
+Number: 11
+COMPLETES THE POETIC LINE | "But O heart! heart! heart!  O the bleeding drops of red, where on the deck my captain lies, fallen cold and ____" | dead
+right: Brandon
+Wrong: 
+Value: $1200
+Number: 3
+OTHER 4-LETTER WORDS | From the Greek for "breath of air", it's an invisible emanation | an aura
+right: 
+Wrong: Triple Stumper
+Nancy: What is a gasp?
+Value: $1200
+Number: 16
+ON THE WARPATH | For help against a machine gun nest in 1943, Chips, a mutt, became the only animal ever awarded this medal, the DSC | the Distinguished Service Cross
+right: Brandon
+Wrong: 
+Value: $1600
+Number: 22
+COSTLY BREAKUPS | His first wife, actress Amy, received $100 million when they parted ways | Steven Spielberg
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+ENGINEERING | Fearing Japanese invasion, in 1942 the Army Corps of Engineers built a 1,600-mile highway in this territory in 6 months | Alaska
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 12
+"G"-MALE | South Carolina's 2 Republican senators in the 111th Congress are Jim DeMint & him | Lindsey Graham
+right: Brandon
+Wrong: 
+Value: $1600
+Number: 24
+COMPLETES THE POETIC LINE | "Tyger!  Tyger!  burning bright in the forests of the ____" | night
+right: Nancy
+Wrong: 
+Value: $1600
+Number: 4
+OTHER 4-LETTER WORDS | This measurement comes for the Latin for "twelfth part" | inch
+right: 
+Wrong: 
+Brandon: ...What is deci-?
+Value: DD: $2,000
+Number: 17
+ON THE WARPATH | The last American soldier killed in action in WWI, Private Henry Gunther, died on this date in 1918 | November 11
+right: Brandon
+Wrong: 
+Value: $2000
+Number: 23
+COSTLY BREAKUPS | Therapist Alyce Eichelberger is giving this Monty Python & "Fish Called Wanda" star $20 million worth of bad memories | John Cleese
+right: Brandon
+Wrong: 
+Value: $2000
+Number: 30
+ENGINEERING | In 1865 the world's first oil pipeline was constructed in this state & ran a straight course of about 5 miles | Pennsylvania
+right: 
+Wrong: Triple Stumper
+Laura: What is Texas?
+Nancy: What is Alaska?
+Value: $2000
+Number: 13
+"G"-MALE | Johann, can I borrow some sugar?  In Weimar, Schiller's house is around the corner from the home of this great author | Goethe
+right: Brandon
+Wrong: 
+Value: $2000
+Number: 25
+COMPLETES THE POETIC LINE | "As fair art thou, my bonnie lass, so deep in luve am I; and I will luve thee still, my dear, till a' the seas gang ____" | dry
+right: Nancy
+Wrong: 
+Value: $2000
+Number: 5
+OTHER 4-LETTER WORDS | Etymologically related to "duress" is this word meaning glum | dour
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Laura: $5,800
+Brandon: $17,800
+Nancy: $8,000
+
+Final Jeopardy! Round
+FASHION HISTORY | It was unveiled July 5, 1946, at Paris' Piscine Molitor & created a scandal | the bikini
+right: Laura | Brandon
+Wrong: 
+Nancy: What is the mini-skirt
+Wagers: 
+Laura: $5,000
+Nancy: $0
+Brandon: $0
+Final scores:
+Laura: $10,800 (2nd place: $2,000)
+Brandon: $17,800 (New champion: $17,800)
+Nancy: $8,000 (3rd place: $1,000)
+
+Coryat scores
+Laura: $5,800 (11 R,2 W)
+Brandon: $22,800 (29 R,4 W(including 2 DDs))
+Nancy: $6,800 (13 R(including 1 DD),2 W)

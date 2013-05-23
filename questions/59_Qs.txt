@@ -1,0 +1,345 @@
+4654 - Thursday, November 25, 2004
+Comments: Ken Jennings game 72.
+Contestants:
+Whitney Donaghy: an illustrations coordinator from Manassas, Virginia
+Philip Graves: an IT consultant from Somerset, New Jersey
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 71-day cash winnings total $2,410,100)
+First Jeopardy! Round: FIRST ELECTED OFFICE, RETITLED CINEMA, A DATE WITH HISTORY, DOUBLE DOWN, AIRPORT CODES, "Z" END
+FIRST ELECTED OFFICE | He was elected to Louisiana's State Railroad Commission in 1918, lost the race for governor in '24 but won in '28 | Huey Long
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+RETITLED CINEMA | In this 2000 film, Taiwan saw Tom Hanks "Discover New Meaning of Life after Catastrophe" | Cast Away
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+A DATE WITH HISTORY | She was elected Britain's Prime Minister May 4, 1979 | Maggie Thatcher
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+DOUBLE DOWN | This constitutional provision protects you from self-incrimination  & double jeopardy | the 5th Amendment
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+AIRPORT CODES | There's an Independence Brew Pub there: PHL | Philadelphia
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+"Z" END | At an elevation of about 12,000 feet, this South American capital is the world's highest | La Paz
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+FIRST ELECTED OFFICE | This New York junior senator's first elected office was... New York junior senator | Hillary Clinton
+right: Whitney
+Wrong: 
+Value: $400
+Number: 27
+RETITLED CINEMA | Fans in Poland weighed the merits of "Fatter and Thinner 2" starring this "Nutty Professor" | Eddie Murphy
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+A DATE WITH HISTORY | (<http://www.j-archive.com/media/2004-11-25_J_07.jpg> I'm Aaron Brown of CNN.)  One of my first on-air assignments for CNN was on this fateful date, reporting from a rooftop vantage point | September 11, 2001
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+DOUBLE DOWN | To reach 2-digit totals in points, rebounds & assists in one basketball game is to achieve this kind of "double" | a triple double
+right: Philip
+Wrong: 
+Value: $400
+Number: 12
+AIRPORT CODES | Named for a politician: LGA | LaGuardia
+right: Philip
+Wrong: 
+Value: $400
+Number: 22
+"Z" END | In the Bible he was married to Ruth | Boaz
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+FIRST ELECTED OFFICE | His first gig was mayor of Palm Springs in 1988 & Congress got him, babe, in 1995 | Sonny Bono
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+RETITLED CINEMA | We're not sure how "Unluckly Son-in-Law (To Be) Meets Tricky Daddy", this Ben Stiller film, fit on Thai Marquees | Meet the Parents
+right: Whitney
+Wrong: 
+Value: $600
+Number: 3
+A DATE WITH HISTORY | Many still remember that it was on this December date in 1941 that the U.S. officially entered World War II | December 8th
+right: Ken
+Wrong: 
+Value: DD: $2,200
+Number: 8
+DOUBLE DOWN | "Double Date with the Sarge" is a classic episode of this 1960s sitcom | Gomer Pyle
+right: Whitney
+Wrong: 
+Philip: Sgt. Bilko?
+Value: $600
+Number: 13
+AIRPORT CODES | A regional airport in Texas: ABI | Abilene
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+"Z" END | What's the frequency, Kenneth?--& make sure it's in this unit equal to one cycle per second | hertz
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+FIRST ELECTED OFFICE | She was an Ariz. State Senator in 1970; Ronald Reagan arranged an "appointment" with history for her in 1981 | Sandra Day O'Connor
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+RETITLED CINEMA | In Egypt the "2000" sequel to this film started Dan Aykroyd as one of "The Naughty Brothers" | Blues Brothers 2000
+right: Whitney
+Wrong: 
+Value: $800
+Number: 4
+A DATE WITH HISTORY | Referred to as "Black Tuesday", it's the date in 1929 that saw the final collapse of the stock market | October 29th
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+DOUBLE DOWN | Linus Pauling lost the race against Watson & Crick to determine the structure of this; it turned out to be a double helix | DNA
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+AIRPORT CODES | A friendly ghost town?: CPR | Casper, Wyoming
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+"Z" END | In the 1910s this auto company introduced its famous Bearcat | Stutz
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+FIRST ELECTED OFFICE | Starting out as Edgefield County's Superintendent of Education in 1929, he retired from the U.S. Senate 74 years later | Strom Thurmond
+right: Ken
+Wrong: 
+Value: $1000
+Number: 30
+RETITLED CINEMA | Robin Williams amused Thailand with "Untraditional Doctor, Delighted Patients", known as this in the U.S. | Patch Adams
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+A DATE WITH HISTORY | John Marshall handed down the decision in this landmark case Feb. 24, 1803 | Marbury v. Madison
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+DOUBLE DOWN | In the "Niebelunglied" this hero defeats the dwarf Alberich twice & takes his cloak of invisibility | Siegfried
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+AIRPORT CODES | It's in the Northeast: BGR | Bangor, Maine
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+"Z" END | This strategically important strait connects the Persian Gulf with the Gulf of Oman | Hormuz
+right: Whitney
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Ken: $6,400
+Philip: -$200
+Whitney: $2,000
+Scores at the end of the Jeopardy! Round:
+Ken: $12,600
+Philip: $200
+Whitney: $3,400
+Second Jeopardy! Round: ASIA, ROLLING STONE'S 50 GREATEST ARTISTS, NOBEL CATEGORIES BY WINNER, CAPTAIN O'  THE SHIP, BOOK BINDINGS, ADD TWO LETTERS
+ASIA | Yongbyon in this country is the home of a nuclear reactor that may be used to make weapons | North Korea
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+ROLLING STONE'S 50 GREATEST ARTISTS | Good golly!  The only artist to write his own tribute was this one, No. 8, whose first hit came in 1956 | Little Richard
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+NOBEL CATEGORIES BY WINNER | George Marshall | Peace
+right: Whitney
+Wrong: 
+Value: $400
+Number: 11
+CAPTAIN O'  THE SHIP | The H. M. S. Bounty: in 1787 before all the trouble | William Bligh
+right: Ken
+Wrong: 
+Value: $400
+Number: 18
+BOOK BINDINGS | O'Neill, 1922 & Tolstoy, 1875-77: "Anna _____" & "Anna _____" | Christie & Karenina
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+ADD TWO LETTERS | To seep slowly through a hole; add two letters & you nap through the entire ordeal | ooze & snooze
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+ASIA | India & Pakistan have disputed this region since 1947 & sometimes China gets into the act | Kashmir
+right: Whitney
+Wrong: 
+Value: $800
+Number: 7
+ROLLING STONE'S 50 GREATEST ARTISTS | Bono wrote of him, No. 3 after the Beatles & Dylan, that he "ate America before America ate him" | Elvis Presley
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+NOBEL CATEGORIES BY WINNER | Frederick Banting | Medicine
+right: 
+Wrong: Triple Stumper
+Ken: What is... Chemistry?
+Value: $800
+Number: 12
+CAPTAIN O'  THE SHIP | Looking for a NW Passage, sandwiched between a rock & a Hawaiian hard place: The Resolution | James Cook
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+BOOK BINDINGS | Tolkien (a trilogy), 1954-55 & Golding, 1954: "Lord of the _____" | Rings & Flies
+right: Philip
+Wrong: 
+Value: $800
+Number: 22
+ADD TWO LETTERS | The wood used to immobilize a fractured bone & two letters later, the less painful result of part of it in your skin | splint & splinter
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+ASIA | If you plan to walk from Beijing to Ulan Bator, take lots of water, as you'll be crossing this land region | the Gobi Desert
+right: 
+Wrong: 
+Whitney: What is Mongolia?
+Value: DD: $6,200
+Number: 8
+ROLLING STONE'S 50 GREATEST ARTISTS | No. 11, he "came from the poverty & injustice of Jamaica, & that manifested itself in his rebel sound" | Bob Marley
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+NOBEL CATEGORIES BY WINNER | Ernest Lawrence | Physics
+right: Ken
+Wrong: 
+Value: DD: $8,600
+Number: 16
+CAPTAIN O'  THE SHIP | A knighted Englishman: The Golden Hind | (Sir Francis) Drake
+right: Ken
+Wrong: 
+Value: $1200
+Number: 20
+BOOK BINDINGS | Ellison, 1952 & Bradbury, 1951: "_____ Man" | Invisible & Illustrated
+right: 
+Wrong: Triple Stumper
+Ken: What are Invisible and Invisible?
+Value: $1200
+Number: 23
+ADD TWO LETTERS | It's the season to which you add two letters to get this last name of Cincinnati's mayor in 1977 | Spring & Springer
+right: Whitney
+Wrong: 
+Value: $1200
+Number: 28
+ASIA | In 2003, after a struggle, the British gained control of this Southern Iraqi city, the country's main port | Basra
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+ROLLING STONE'S 50 GREATEST ARTISTS | Someone "managed to combine R.E.M. & Metallica", wrote Vernon Reid after he heard "Smells Like Teen Spirit" by this band, No. 27 | Nirvana
+right: Ken
+Wrong: 
+Value: $1600
+Number: 4
+NOBEL CATEGORIES BY WINNER | Paul Samuelson | Economics
+right: Philip
+Wrong: 
+Value: $1600
+Number: 17
+CAPTAIN O'  THE SHIP | Pirate & War of 1812 hero: The Pride | Jean Lafitte
+right: Ken
+Wrong: 
+Value: $1600
+Number: 15
+BOOK BINDINGS | Fitzgerald, 1925 & Conroy, 1976: "The Great _____" | Gatsby & Santini
+right: Whitney
+Wrong: 
+Value: $1600
+Number: 24
+ADD TWO LETTERS | Add two letters to this term for a small house in the woods & you get this piece of woodwork inside it | cabin & cabinet
+right: Ken
+Wrong: 
+Value: $1600
+Number: 29
+ASIA | Shymkent, Kazakhstan is just north of this capital of Uzbekistan, Central Asia's largest city | Tashkent
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+ROLLING STONE'S 50 GREATEST ARTISTS | "Without" No. 46, this Texan, "there would be no Melissa Etheridge... no Chrissie Hynde, no Gwen Stefani" | Janis Joplin
+right: Whitney
+Wrong: 
+Value: $2000
+Number: 5
+NOBEL CATEGORIES BY WINNER | Peter Agre & Roderick MacKinnon (C'mon, it was just last year...) | Chemistry
+right: 
+Wrong: Triple Stumper
+Whitney: What is Medicine?
+Value: $2000
+Number: 13
+CAPTAIN O'  THE SHIP | 3-time America's Cup winner: Freedom & Stars and Stripes | Dennis Conner
+right: Whitney
+Wrong: 
+Value: $2000
+Number: 14
+BOOK BINDINGS | Hawthorne, 1850 & Poe, 1844: "The ____ Letter" | Scarlet & Purloined
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+ADD TWO LETTERS | New or fresh; add two letters & you get this adjective for an early inhabitant of Australia | original & Aboriginal
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Ken: $38,400
+Philip: $2,600
+Whitney: $3,200
+
+Final Jeopardy! Round
+POLITICAL WORDS & PHRASES | Teddy Roosevelt used this boxing phrase to announce his 1912 candidacy & said, "The fight is on & I'm stripped to the buff" | "Throw a hat in the ring"
+right: Ken
+Wrong: 
+Philip: What the gloves are off?
+Whitney: What
+Wagers: 
+Philip: $2,400
+Whitney: $200
+Ken: $11,600
+Final scores:
+Ken: $50,000 (72-day champion: $2,460,100)
+Philip: $200 (3rd place: $1,000)
+Whitney: $3,000 (2nd place: $2,000)
+
+Coryat scores
+Ken: $29,400 (38 R(including 2 DDs),2 W)
+Philip: $2,600 (4 R,1 W)
+Whitney: $9,400 (11 R,2 W(including 1 DD))

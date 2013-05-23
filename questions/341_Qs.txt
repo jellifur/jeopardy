@@ -1,0 +1,322 @@
+12 - Tuesday, September 25, 1984
+Contestants:
+Ed Osawa: a student from Torrance, California
+Randy Haplan: a taxi driver originally from New York City
+Mary Bowers: a public relations coordinator from San Jose, California (whose 1-day cash winnings total $11,000)
+First Jeopardy! Round: WORLD CAPITALS, FOODS, SPORTS, INVENTIONS, MAMMALS, BEGINS WITH "L"
+WORLD CAPITALS | Costa Rican capital people might know the way to | San Jose
+right: Mary
+Wrong: 
+Value: $100
+Number: 8
+FOODS | Southern specialty & America's favorite main dish | southern fried chicken
+right: Randy
+Wrong: 
+Value: $100
+Number: 25
+SPORTS | Sport which uses epees, foils & sabres | fencing
+right: Mary
+Wrong: 
+Value: $100
+Number: 1
+INVENTIONS | He invented the Franklin stove | Ben Franklin
+right: Randy
+Wrong: 
+Value: $100
+Number: 20
+MAMMALS | Romans called this African beast a "tiger horse" | a zebra
+right: Mary
+Wrong: 
+Value: $100
+Number: 11
+BEGINS WITH "L" | Erich Segal's "story" | Love Story
+right: Mary
+Wrong: 
+Value: $100
+Number: 6
+WORLD CAPITALS | It's divided into the Kanda, Marunoucki, Asakusa & Ginza districts | Tokyo
+right: Ed
+Wrong: 
+Value: $200
+Number: 16
+FOODS | Deli delight, from Yiddish for Ring | a bagel
+right: Ed
+Wrong: 
+Value: $200
+Number: 28
+SPORTS | Name given to annual competition among U.S. amateur boxers | the Golden Gloves
+right: Mary
+Wrong: 
+Value: $200
+Number: 2
+INVENTIONS | Detection of gamma rays was 1 of the uses for this 1947 instant picture taker | a Polaroid-Land camera
+right: Ed
+Wrong: 
+Value: $200
+Number: 21
+MAMMALS | The only flying mammal | a bat
+right: Ed
+Wrong: 
+Value: $200
+Number: 12
+BEGINS WITH "L" | An air bubble tells a carpenter if he's on it | a level
+right: Ed
+Wrong: 
+Value: $200
+Number: 7
+WORLD CAPITALS | Home to NATO & little green sprouts | Brussels
+right: Ed
+Wrong: 
+Value: $300
+Number: 17
+FOODS | Pickle men, not doctors, do this for bacon & ham | cure
+right: Ed
+Wrong: 
+Value: $300
+Number: 29
+SPORTS | Number of downs allowed in Canadian football to advance the ball 10 yards | 3
+right: Ed
+Wrong: 
+Value: $300
+Number: 3
+INVENTIONS | 2,160 people at a time could ride on this at the 1893 Chicago World's Fair | a Ferris wheel
+right: Ed
+Wrong: 
+Value: $300
+Number: 22
+MAMMALS | A black panther is really the black version of this cat | a leopard
+right: Ed
+Wrong: 
+Mary: What is a tiger?
+Value: $300
+Number: 13
+BEGINS WITH "L" | The L in L.P.G.A. | Ladies'
+right: Mary
+Wrong: 
+Value: $300
+Number: 9
+WORLD CAPITALS | This capital's street signs are in English, Arabic & Hebrew | Jerusalem
+right: Ed
+Wrong: 
+Value: $400
+Number: 18
+SPORTS | Because of WWII, these 2 NFL teams combined squads in '43 to become the "Stegles" | the Steelers and Eagles
+right: Ed
+Wrong: 
+Value: DD: $300
+Number: 4
+INVENTIONS | Edison suggested it be used to record phone calls & make clocks talk | the phonograph
+right: Ed
+Wrong: 
+Value: $400
+Number: 23
+MAMMALS | Plays dead to escape predators, but one was close friends with an alligator | an opossum
+right: Mary
+Wrong: 
+Value: $400
+Number: 14
+BEGINS WITH "L" | A, B, M, P, or Z, for example | letters
+right: Mary
+Wrong: 
+Value: $400
+Number: 10
+WORLD CAPITALS | If the other twin had founded it, it might have been called "Reme" | Rome
+right: Mary
+Wrong: 
+Value: $500
+Number: 19
+FOODS | East Indians who never ask "Where's the beef?" | Hindus
+right: Mary
+Wrong: 
+Value: $500
+Number: 27
+SPORTS | Ex-Boston Celtics' star who has refused induction into Basketball Hall of Fame | Bill Russell
+right: Randy
+Wrong: 
+Value: $500
+Number: 5
+INVENTIONS | The first patent pool was for this invention by Howe, Hunt & Singer | the sewing machine
+right: Mary
+Wrong: 
+Value: $500
+Number: 24
+MAMMALS | Weighing 1½ tons per foot, this mammal generates up to 500 H.P. with its tail | the blue whale
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+BEGINS WITH "L" | It's what bread has & matzo hasn't | leaven
+right: Ed
+Wrong: 
+Value: $500
+Number: 15
+Scores at the first commercial break (after clue 15)
+Mary: $1,200
+Randy: $500
+Ed: $800
+Scores at the end of the Jeopardy! Round:
+Mary: $2,900
+Randy: $700
+Ed: $4,100
+Second Jeopardy! Round: U.S. STATES, 5-LETTER WORDS, MUSIC, LAW, WEATHER, MOVIE TRIVIA
+U.S. STATES | Its Mormon founders called it Deseret | Utah
+right: Mary
+Wrong: 
+Value: $200
+Number: 11
+5-LETTER WORDS | Used by a carpenter, a master sergeant, & a dentist | a drill
+right: Randy
+Wrong: 
+Value: $200
+Number: 17
+MUSIC | 4th note of the musical scale or "a long, long way to run" | fa
+right: Mary
+Wrong: 
+Value: $200
+Number: 6
+LAW | A second prosecution for the same offense, or this round | double jeopardy
+right: Ed
+Wrong: 
+Value: $200
+Number: 18
+WEATHER | Condition associated with London & pea soup | fog
+right: Ed
+Wrong: 
+Value: $200
+Number: 10
+MOVIE TRIVIA | Actress who spoke the immortal line, "Love is never having to say you're sorry" | Ali MacGraw
+right: Randy
+Wrong: 
+Value: $200
+Number: 1
+U.S. STATES | The only state beginning with "A" that does not end in "A" | Arkansas
+right: Mary
+Wrong: 
+Value: $400
+Number: 23
+5-LETTER WORDS | A lady's handbag or something done to lips before a kiss | purse
+right: Mary
+Wrong: 
+Value: $400
+Number: 19
+MUSIC | Piano style sprung from the blues, it describes Bette's "Bugle Boy" | boogie-woogie
+right: Ed
+Wrong: 
+Value: $400
+Number: 7
+WEATHER | Mt. Waialeale in Hawaii gets the most, while Calama, Chile, usually gets none | rain
+right: Ed
+Wrong: 
+Value: $400
+Number: 12
+MOVIE TRIVIA | Mary Poppins' magical, musical tongue-twister | supercalifragilisticexpialidocious
+right: Mary
+Wrong: 
+Value: $400
+Number: 2
+U.S. STATES | The only state to touch 4 of the Great Lakes | Michigan
+right: Ed
+Wrong: 
+Value: $600
+Number: 24
+5-LETTER WORDS | A police wagon, a rice field, or author Chayefsky | "paddy"s
+right: Mary
+Wrong: 
+Value: $600
+Number: 20
+MUSIC | Tyrolean trick of moving the voice from natural to falsetto | yodeling
+right: Mary
+Wrong: 
+Value: $600
+Number: 8
+WEATHER | Its winds can reach 400 MPH | a tornado
+right: 
+Wrong: Triple Stumper
+Mary: What is a sirocco?
+Randy: What is a hurricane?
+Value: $600
+Number: 13
+MOVIE TRIVIA | Actor who captained "the mean machine" in "The Longest Yard" | Burt Reynolds
+right: Mary
+Wrong: 
+Value: $600
+Number: 3
+U.S. STATES | 1 of 4 states that's officially a commonwealth | (1 of) Massachusetts, Kentucky, Pennsylvania, Virginia
+right: Randy
+Wrong: 
+Value: $800
+Number: 25
+5-LETTER WORDS | To Hamlet, "Frailty, thy name is" this | woman
+right: Ed
+Wrong: 
+Value: $800
+Number: 21
+MUSIC | What we call <http://www.j-archive.com/media/1984-10-02_DJ_09.mp3> this singing <u>sans</u> accompaniment: | a capella
+right: Mary
+Wrong: 
+Value: DD: $1,900
+Number: 9
+LAW | To avoid litigation, this type of insurance or divorce avoids affixing blame | no-fault
+right: Mary
+Wrong: 
+Value: $800
+Number: 27
+WEATHER | Some hygrometers use a human hair to measure this | (relative) humidity
+right: Ed
+Wrong: 
+Value: $800
+Number: 14
+MOVIE TRIVIA | Movie whose sequel was "Class of '44" | The Summer of '42
+right: Randy
+Wrong: 
+Mary: What is The Class of '42?
+Value: $800
+Number: 4
+5-LETTER WORDS | In Czech, it's herec; in German, schauspieler; & in Hollywood, usually unemployed | an actor
+right: Ed
+Wrong: 
+Value: $1000
+Number: 22
+MUSIC | Italian for "first lady", the leading opera singer in a company | a prima donna
+right: Mary
+Wrong: 
+Value: $1000
+Number: 16
+LAW | While a summons asks nicely, this demands your appearance in court | a subpoena
+right: Randy
+Wrong: 
+Value: $1000
+Number: 26
+WEATHER | Region near Equator that took the wind out of Sinbad's sails | the doldrums
+right: Ed
+Wrong: 
+Value: $1000
+Number: 15
+MOVIE TRIVIA | This gimmick introduced for the film "Scent of Mystery" was something to be sniffed at | Smell-O-Vision
+right: Mary
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Mary: $9,600
+Randy: $3,100
+Ed: $9,500
+
+Final Jeopardy! Round
+RIVERS | It carries more water than the longest rivers in Asia, Africa & No. America combined | the Amazon
+right: Ed | Mary
+Wrong: 
+Randy: What is the Nile? Hi mom!
+Wagers: 
+Randy: $2,500
+Ed: $9,500
+Mary: $1,600
+Final scores:
+Mary: $11,200 (2nd place: a recliner and a "telephone center")
+Randy: $600 (3rd place: a boombox)
+Ed: $19,000 (New champion: $19,000)
+
+Coryat scores
+Mary: $8,500 (23 R(including 1 DD),3 W)
+Randy: $3,100 (8 R,1 W)
+Ed: $9,600 (23 R(including 1 DD),0 W)

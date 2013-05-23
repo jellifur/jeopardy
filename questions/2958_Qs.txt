@@ -1,0 +1,345 @@
+5650 - Friday, March 13, 2009
+Comments: 2009 Tournament of Champions quarterfinal game 3.  From Las Vegas.
+Contestants:
+Dave Simpson: a pastor from Belcamp, Maryland
+Lisa Klink: a TV writer from Los Angeles, California
+Ben Bishop: a college student originally from Seattle, Washington
+First Jeopardy! Round: HELLO, NEWTON, DESCRIBING THE TV SHOW, 19th CENTURY FRANCE, BUSINESS LETTERS, LESSER-KNOWN LINES, RHYME TIME
+HELLO, NEWTON | Around 1668 Isaac Newton built the first reflecting one of these | a telescope
+right: Dave
+Wrong: 
+Value: $200
+Number: 12
+DESCRIBING THE TV SHOW | A plane crashes, people die (though it doesn't slow some of 'em down much), much DHARMA but little Greg | Lost
+right: Dave
+Wrong: 
+Value: $200
+Number: 26
+19th CENTURY FRANCE | Twain said of this dance, "I placed my hands before my face for very shame, but I looked through my fingers" | the cancan
+right: Dave
+Wrong: 
+Value: $200
+Number: 11
+BUSINESS LETTERS | Movie theater chain AMC is "American" this "Cinema"--a prefix often found in front of "plex" | Multi
+right: Ben
+Wrong: 
+Value: $200
+Number: 21
+LESSER-KNOWN LINES | You might score with this speech's first line, but the second begins, "Now we are engaged in a great Civil War" | the Gettysburg Address
+right: Ben
+Wrong: 
+Value: $200
+Number: 5
+RHYME TIME | The scowl of a circus buffoon | a clown frown
+right: Dave
+Wrong: 
+Value: $200
+Number: 1
+HELLO, NEWTON | Newton made some of his greatest discoveries while Cambridge University was closed because of this in 1665 | the plague
+right: Lisa
+Wrong: 
+Value: $400
+Number: 13
+DESCRIBING THE TV SHOW | Gary Coleman co-stars, at home with the Drummonds, what'chu talkin' 'bout, contestants? | Diff'rent Strokes
+right: Ben
+Wrong: 
+Value: $400
+Number: 27
+19th CENTURY FRANCE | We don't know if she was statuesque, but Rose Beuret was the longtime love of this sculptor | Rodin
+right: Dave
+Wrong: 
+Value: $400
+Number: 17
+BUSINESS LETTERS | H&R Block was named for founding brothers Henry & him | Richard
+right: Dave
+Wrong: 
+Value: $400
+Number: 22
+LESSER-KNOWN LINES | "These united colonies... are absolved from all allegiance to the British crown" is a statement from this | the Declaration of Independence
+right: Ben
+Wrong: 
+Value: $400
+Number: 6
+RHYME TIME | The mark of Zorro, when he doesn't charge you for it | a free "Z"
+right: Lisa
+Wrong: 
+Value: $400
+Number: 2
+HELLO, NEWTON | In 1676 Newton opined, "If I have seen further, it is by standing on the shoulders of" these | giants
+right: Lisa
+Wrong: 
+Value: $600
+Number: 14
+DESCRIBING THE TV SHOW | Love was all around the newsroom, Chuckles bit the dust, Lou, Lou, Louuuuuuu... | The Mary Tyler Moore Show
+right: Dave
+Wrong: 
+Value: $600
+Number: 28
+19th CENTURY FRANCE | He designed a towering Gallery of Machines for the Paris Exposition of 1867 | (Gustave) Eiffel
+right: Dave
+Wrong: 
+Value: DD: $1,000
+Number: 18
+BUSINESS LETTERS | The "SC" in NASCAR | Stock Car
+right: Ben
+Wrong: 
+Value: $600
+Number: 23
+LESSER-KNOWN LINES | "Promote the general welfare, and secure the blessings of liberty" are 10 of the 52 words of this | the Preamble to the Constitution
+right: Ben
+Wrong: 
+Value: $600
+Number: 7
+RHYME TIME | An African equine born under the sign of the scales | a zebra Libra
+right: Lisa
+Wrong: 
+Value: $600
+Number: 3
+HELLO, NEWTON | Force equals mass times acceleration is the second of these Newtonian formulations | the laws of motion
+right: Dave
+Wrong: 
+Value: $800
+Number: 15
+DESCRIBING THE TV SHOW | Lonely astronaut hits the bottle, 2,000-year-old woman pops out of it, wackiness ensues | I Dream of Jeannie
+right: Ben
+Wrong: 
+Value: $800
+Number: 29
+19th CENTURY FRANCE | In the 1870s this type of bon vivant, so called for the wide streets he frequented, came into vogue | a boulevardier
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+BUSINESS LETTERS | The 3 Ms in the original name of 3M | Minnesota Mining and Manufacturing
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+LESSER-KNOWN LINES | A speech by him included the line "In a sense, we have come to our nation's capital to cash a check" | Martin Luther King, Jr.
+right: Dave
+Wrong: 
+Value: $800
+Number: 8
+RHYME TIME | The only tibia | a lone bone
+right: Ben
+Wrong: 
+Dave: What is a, um... sole ankle?  Nope.
+Value: $800
+Number: 4
+HELLO, NEWTON | This British queen knighted Newton in 1705 | Queen Anne
+right: Ben
+Wrong: 
+Value: $1000
+Number: 16
+DESCRIBING THE TV SHOW | Alaskan adventures, Cicely but not Tyson, ah, the casual moose-about-town | Northern Exposure
+right: Ben
+Wrong: 
+Value: $1000
+Number: 30
+19th CENTURY FRANCE | This son of the King of Holland followed uncle Napoleon's example & became Emperor of the French in 1852 | Napoleon III (or Louis-Napoleon)
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+BUSINESS LETTERS | The "C" in the name of department store founder J.C. Penney; how appropriate | Cash
+right: Ben
+Wrong: 
+Value: $1000
+Number: 25
+LESSER-KNOWN LINES | "I lift my lamp beside the golden door!" is the last line of this poem | "The New Colossus"
+right: Ben
+Wrong: 
+Dave: What is "Give me your tired, your poor"... "The Co--" Uh...
+Value: $1000
+Number: 10
+RHYME TIME | An aristocratic prestidigitator | a patrician magician
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 9
+Scores at the first commercial break (after clue 15)
+Ben: $3,000
+Lisa: $2,000
+Dave: $400
+Scores at the end of the Jeopardy! Round:
+Ben: $8,000
+Lisa: $2,000
+Dave: $3,000
+Second Jeopardy! Round: SURGERY, _____IN' '80s MOVIES, CITIES, NEXT IN ORDER, GETTING MEDIEVAL WITH ENGLISH LIT, 13-LETTER WORDS
+SURGERY | The surgeon begins by making an incision above the hairline in this cosmetic procedure aka rhytidoplasty | a facelift
+right: Lisa
+Wrong: 
+Dave: What is an eyebrow lift?
+Value: $400
+Number: 12
+_____IN' '80s MOVIES | "No. 5 is alive" in this robotic film: "S____ C____" | Short Circuit
+right: Lisa
+Wrong: 
+Value: $400
+Number: 2
+CITIES | This capital is located in the historical region of New Castile | Madrid
+right: Dave
+Wrong: 
+Value: $400
+Number: 6
+NEXT IN ORDER | Typical movie opening credits: producer(s), writer(s), this person | director
+right: Dave
+Wrong: 
+Value: $400
+Number: 26
+GETTING MEDIEVAL WITH ENGLISH LIT | His 1380s poem "The Parlement of Foules" isn't about idiots in government; it's about birds choosing mates | Geoffrey Chaucer
+right: Ben
+Wrong: 
+Value: $400
+Number: 16
+13-LETTER WORDS | Calling HAZMAT!  It's the act of making something impure or polluted | contamination
+right: Dave
+Wrong: 
+Value: $400
+Number: 1
+SURGERY | (<http://www.j-archive.com/media/2009-03-13_DJ_13.wmv> Sarah of the Clue Crew shows an anatomical diagram on the monitor.)  Named for a 19th-century surgeon, McBurney's point, 2/3rds the distance between the umbilicus & the iliac crest of the pelvis, is the most tender abdominal area when this organ is inflamed & often requires surgery | the appendix
+right: Ben
+Wrong: 
+Value: $800
+Number: 13
+_____IN' '80s MOVIES | Duracells weren't given with this Cronyn-Tandy epic about tiny spaceships: "*b____ n____ i____" | *batteries not included
+right: Dave
+Wrong: 
+Value: $800
+Number: 3
+CITIES | For a short time in the 1950s, La Plata, Argentina was named for her | Eva Peron
+right: Ben
+Wrong: 
+Value: $800
+Number: 8
+NEXT IN ORDER | The stages of grief: denial, anger, bargaining, this--also an economic term | depression
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+GETTING MEDIEVAL WITH ENGLISH LIT | An anonymous genius known as "The Pearl Poet" is thought to have been the author of this colorful tale of 2 knights | Sir Gawain and the Green Knight
+right: Ben
+Wrong: 
+Value: $800
+Number: 17
+13-LETTER WORDS | This word means to put off until another day or time | procrastinate
+right: Dave
+Wrong: 
+Value: $800
+Number: 22
+SURGERY | Hip replacement entails removing the arthritic head of this bone & preparing a new socket in the pelvic bone | the femur
+right: Ben
+Wrong: 
+Value: $1200
+Number: 14
+_____IN' '80s MOVIES | Lea Thompson & an extra-terrestrial fowl; 'nuff said: "H____ T____ D____" | Howard the Duck
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 4
+CITIES | Pusan is this country's second-largest city & main seaport | South Korea
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 9
+NEXT IN ORDER | "The Story of Civilization": "The Age of Faith", "The Renaissance", this religious event | The Reformation
+right: Dave
+Wrong: 
+Value: $1200
+Number: 28
+GETTING MEDIEVAL WITH ENGLISH LIT | In this circa 1470 work, the Brown Knight Without Pity is as bad as his name until Sir Gareth gets 'im | Le Morte d'Arthur
+right: 
+Wrong: 
+Ben: What is Beowulf?
+Value: DD: $2,400
+Number: 18
+13-LETTER WORDS | It's known as both glandular fever & the kissing disease | mononucleosis
+right: Ben
+Wrong: 
+Value: $1200
+Number: 23
+SURGERY | Laser surgery can fix the acute type of this eye disease in which the iris obstructs the flow of the aqueous humor | glaucoma
+right: Ben
+Wrong: 
+Value: $1600
+Number: 15
+_____IN' '80s MOVIES | Nastassja Kinski unleashes the animal within: "C____ P____" | Cat People
+right: Ben
+Wrong: 
+Value: $1600
+Number: 5
+CITIES | A center of tulip-growing, this Dutch city gave its name to a section of Manhattan | Haarlem
+right: 
+Wrong: 
+Ben: [Long pause] What is Delft?
+Value: DD: $3,600
+Number: 10
+NEXT IN ORDER | Royal succession: Princes Charles, William, Harry, him | Andrew
+right: Ben
+Wrong: 
+Value: $1600
+Number: 29
+GETTING MEDIEVAL WITH ENGLISH LIT | The Chester, Wakefield & York cycles are the major surviving collections of these popular religious dramas | mystery plays
+right: Dave
+Wrong: 
+Value: $1600
+Number: 19
+13-LETTER WORDS | Indelibly impressed on the memory, like Nat King Cole | unforgettable
+right: Dave
+Wrong: 
+Value: $1600
+Number: 24
+SURGERY | Surgery may be necessary if this, an enlargement of the thyroid, causes difficulty in breathing & swallowing | a goiter
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 21
+_____IN' '80s MOVIES | Famous fall doesn't kill big ape; he only needs transfusion: "K____ K____ L____" | King Kong Lives
+right: Ben
+Wrong: 
+Value: $2000
+Number: 7
+CITIES | They're the two rhyming names of the two cities indicated on the <http://www.j-archive.com/media/2009-03-13_DJ_11.jpg> map | Minsk & Pinsk
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+NEXT IN ORDER | Hominids: Australopithecus africanus, Australopithecus robustus, this first Homo | Homo habilis
+right: 
+Wrong: Triple Stumper
+Lisa: What is erectus?
+Value: $2000
+Number: 30
+GETTING MEDIEVAL WITH ENGLISH LIT | A popular Middle English lyric begins, "Sumer is icumen in / Lhude sing" this bird | the cuckoo
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+13-LETTER WORDS | This military officer is charged with providing shelter, clothing & transportation for troops | the quartermaster
+right: Dave
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ben: $14,000
+Lisa: $4,000
+Dave: $11,800
+
+Final Jeopardy! Round
+WORLD MONEY | Amounts on the banknotes in this country, one of the world's 10 largest, are in 17 different official languages | India
+right: Dave | Ben
+Wrong: 
+Lisa: What is China?
+Wagers: 
+Lisa: $3,000
+Dave: $1,200
+Ben: $1,004
+Final scores:
+Ben: $15,004 (Automatic semifinalist)
+Lisa: $1,000 (3rd place: $5,000 if eliminated)
+Dave: $13,000 (2nd place: $5,000 if eliminated)
+
+Coryat scores
+Ben: $20,000 (22 R,2 W(including 2 DDs))
+Lisa: $4,000 (8 R,1 W)
+Dave: $11,400 (19 R(including 1 DD),3 W)

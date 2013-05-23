@@ -1,0 +1,337 @@
+3244 - Thursday, October 15, 1998
+Contestants:
+Elizabeth Bellas: a digital librarian from Seattle, Washington
+Walter Hanig: a technical writer from San Diego, California
+Diane Green: a travel consultant from Seattle, Washington (whose 1-day cash winnings total $13,000)
+First Jeopardy! Round: TROPICAL FOREST CREATURES, A HAIRY CATEGORY, TV DEMISES, MIDDLE-EARTH, HUNGARY?, WHAT'S FOR DINNER?
+TROPICAL FOREST CREATURES | You should know from the get-go that a gecko can regenerate this body part | Tail
+right: Diane
+Wrong: 
+Value: $100
+Number: 1
+A HAIRY CATEGORY | The man seen here helped add this hairy term to the English language (General Ambrose Burnside) | Sideburns
+right: Diane
+Wrong: 
+Value: $100
+Number: 15
+TV DEMISES | This series' Det. Chin Ho Kelly was killed off in 1978, vainly waiting to hear "Book 'em, Chin Ho!" | Hawaii Five-O
+right: Elizabeth
+Wrong: 
+Value: $100
+Number: 21
+MIDDLE-EARTH | This type of creature supplies the title of a 1937 Tolkien work; Frodo Baggins is one | Hobbit
+right: Walter
+Wrong: 
+Value: $100
+Number: 16
+HUNGARY? | Hungary's main mineral resource is bauxite, the ore that yields this easily "foil"ed metal | Aluminum
+right: Walter
+Wrong: 
+Value: $100
+Number: 3
+WHAT'S FOR DINNER? | I'm taking this, the usual basis of green salads, braising it & serving it au gratin | Lettuce
+right: Walter
+Wrong: 
+Value: $100
+Number: 7
+TROPICAL FOREST CREATURES | There are over 100 species of the poison arrow type of these amphibians | Frogs
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 2
+A HAIRY CATEGORY | An animal lends its name to this slick "tail" style popular in the 1950s | Ducktail
+right: Walter
+Wrong: 
+Value: $200
+Number: 17
+TV DEMISES | In a 1980 revamping, the sands ran through the hourglass for 3 characters on this soap | "Days Of Our Lives"
+right: Walter
+Wrong: 
+Value: $200
+Number: 22
+MIDDLE-EARTH | Frodo has to destroy one of these to stop Sauron from becoming "Lord Of" them | Ring
+right: Walter
+Wrong: 
+Value: $200
+Number: 27
+HUNGARY? | It's red on top, white in the middle & green on the bottom -- no, it's not goulash | Hungarian flag
+right: Walter
+Wrong: 
+Value: $200
+Number: 5
+WHAT'S FOR DINNER? | Beef pounded thin, dipped in batter & cooked in a skillet; it includes the name of another meat | Chicken-fried steak
+right: Diane
+Wrong: 
+Value: $200
+Number: 8
+TROPICAL FOREST CREATURES | It's found foraging on the forest floor | Tapir
+right: Elizabeth
+Wrong: 
+Value: $300
+Number: 4
+A HAIRY CATEGORY | Louis XV might have been attracted to you if you wore this style | Pompadour
+right: Diane
+Wrong: 
+Value: $300
+Number: 18
+TV DEMISES | Sitcom character whose fiancee Susan died from licking toxic envelope glue | George Costanza ("Seinfeld")
+right: Elizabeth
+Wrong: 
+Value: $300
+Number: 23
+MIDDLE-EARTH | Smaug, a dreaded creature of this type, breathed not mere smog, but fire | Dragon
+right: Elizabeth
+Wrong: 
+Value: $300
+Number: 28
+HUNGARY? | The 1956 Olympics featured a bloody water polo match between Hungary & this invader | Soviet Union
+right: Walter
+Wrong: 
+Value: $300
+Number: 6
+WHAT'S FOR DINNER? | Yes, we have no bananas, so we'll saute these starchier "cooking bananas" | Plantains
+right: Walter
+Wrong: 
+Value: $300
+Number: 12
+TROPICAL FOREST CREATURES | The coat of the clouded species of this cat provides it with excellent camouflage in India's forests | Leopard
+right: Walter
+Wrong: 
+Value: $400
+Number: 9
+A HAIRY CATEGORY | It's the "court"ly cut seen here | Page boy
+right: Walter
+Wrong: 
+Value: $400
+Number: 19
+TV DEMISES | (VIDEO DAILY DOUBLE): "(Hi, I'm Dan Cortese) As Jess Hanson on this series, I fell to my death in a scuffle with my brother, Grant Show" | "Melrose Place"
+right: 
+Wrong: 
+Value: DD: $900
+Number: 24
+MIDDLE-EARTH | Like Camelot's Excalibur, Middle-Earth's Sting is one of these | Sword
+right: Diane
+Wrong: 
+Value: $400
+Number: 29
+HUNGARY? | Be sure to hear music by this ethnic group called Czigany, real strolling musicians | Gypsies
+right: Walter
+Wrong: 
+Value: $400
+Number: 11
+WHAT'S FOR DINNER? | This is how I'll cook the cod; I hope it's not the way it was caught | Poaching
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 13
+TROPICAL FOREST CREATURES | The "black" variety of this snake is the largest venomous snake in Africa | the mamba
+right: 
+Wrong: Triple Stumper
+Walter: What is an adder?
+Value: $500
+Number: 10
+A HAIRY CATEGORY | Your "honey" might enjoy this style | Beehive
+right: Elizabeth
+Wrong: 
+Value: $500
+Number: 20
+TV DEMISES | This McLean Stevenson character perished in the last "M*A*S*H" of the 1974-75 season | Henry Blake
+right: Walter
+Wrong: 
+Value: $500
+Number: 25
+HUNGARY? | Meaning "famous ruler", it's the first name of cinematographer Kovacs & painter Moholy-Nagy | Laszlo
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+WHAT'S FOR DINNER? | I hope you're starving because I bought enough cornmeal to make a vat of this Italian porridge | Polenta
+right: Elizabeth
+Wrong: 
+Value: $500
+Number: 14
+Scores at the first commercial break (after clue 15)
+Diane: -$100
+Walter: $1,300
+Elizabeth: $500
+Scores at the end of the Jeopardy! Round:
+Diane: $700
+Walter: $2,900
+Elizabeth: $1,300
+Second Jeopardy! Round: HISTORIC WOMEN, JENNIFER & DAVID, CHEMISTRY, ROCK GOES POSTAL, MARTIN SCORSESE, ACTOR, "ERE"Y WORDS
+HISTORIC WOMEN | Feroze, the man whom this future prime minister married in 1942, was not related to the Mahatma | Indira Gandhi
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 1
+JENNIFER & DAVID | On "Friends" Jennifer Aniston's Rachel was involved with Ross, played by this actor | David Schwimmer
+right: Walter
+Wrong: 
+Value: $200
+Number: 11
+CHEMISTRY | 5-letter term for a compound of the NO<sub>2</sub> group; with "glycerine", it's an explosive | nitro
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 16
+ROCK GOES POSTAL | A vote was held to pick which version of this singer, younger or older, would be on the stamp | Elvis Presley
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 17
+MARTIN SCORSESE, ACTOR | Scorsese was one of this actor's fares in the movie "Taxi Driver" | Robert De Niro
+right: Walter
+Wrong: 
+Value: $200
+Number: 23
+"ERE"Y WORDS | King Arthur's wife, she was known as Guanhumara in "Historia Regum Britanniae" | Guinevere
+right: Elizabeth
+Wrong: 
+Value: $200
+Number: 3
+HISTORIC WOMEN | Berenice IV, this woman's sister, ruled Egypt from 58-55 B.C., until her father executed her | Cleopatra
+right: Walter
+Wrong: 
+Value: $400
+Number: 2
+JENNIFER & DAVID | In a 1994 film David Gow was round table wit Donald Ogden Stewart; she was Dorothy Parker | Jennifer Jason Leigh
+right: 
+Wrong: Triple Stumper
+Diane: Who is Jennifer Parker?
+Value: $400
+Number: 12
+CHEMISTRY | K is a symbol; a designation like K<sub>2</sub>CO<sub>3</sub> is one of these | a formula
+right: Diane
+Wrong: 
+Value: $400
+Number: 21
+ROCK GOES POSTAL | He was sittin' on a 29-cent stamp as well as on "The Dock Of The Bay" | Otis Redding
+right: Diane
+Wrong: 
+Value: $400
+Number: 18
+MARTIN SCORSESE, ACTOR | Scorsese played a sponsor of "Twenty-One" in this 1994 movie about a TV scandal | Quiz Show
+right: Diane
+Wrong: 
+Value: $400
+Number: 27
+"ERE"Y WORDS | In 1808 & 1809 this silversmith made copper plates for Robert Fulton's steamship boilers | Paul Revere
+right: Elizabeth
+Wrong: 
+Value: $400
+Number: 4
+HISTORIC WOMEN | As her nation's last monarch, she championed the Oni Pa'a or "Stand Firm" movement | Queen Lili'uokalani (of Hawaii)
+right: Diane
+Wrong: 
+Value: $600
+Number: 8
+JENNIFER & DAVID | In "Labyrinth" the goblin king who kidnaps Jennifer Connelly's brother is played by this singer | David Bowie
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 13
+CHEMISTRY | The table of elements is "punctuated" by these horizontal rows | periods
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 24
+ROCK GOES POSTAL | This stamp star was born Richard Valenzuela in Pacoima, California | Ritchie Valens
+right: Elizabeth
+Wrong: 
+Value: $600
+Number: 19
+MARTIN SCORSESE, ACTOR | In "Guilty By Suspicion" Scorsese played a director blacklisted for refusing to help this committee | the House Un-American Activities Committee (HUAC)
+right: Walter
+Wrong: 
+Value: $600
+Number: 28
+"ERE"Y WORDS | Its surface area can be determined by using 4 pi r<sup>2</sup> | a sphere
+right: Walter
+Wrong: 
+Value: $600
+Number: 5
+HISTORIC WOMEN | In 1997 Texas family physician Nancy Dickey became the first woman elected to head this organization | the American Medical Association (AMA)
+right: Diane
+Wrong: 
+Value: DD: $1,000
+Number: 9
+JENNIFER & DAVID | David Geffen's record company released this "Dreamgirl"'s 1983 record "Feel My Soul" | Jennifer Holliday
+right: Diane
+Wrong: 
+Value: $800
+Number: 14
+CHEMISTRY | Good news!  Ilya Prigogine showed that the 2nd law of this doesn't doom the universe to a slow "heat death" | thermodynamics
+right: Diane
+Wrong: 
+Value: $800
+Number: 25
+ROCK GOES POSTAL | Asked if he was alone on his stamp, this '50s "R-O-C-K" star would have "no comet" | Bill Haley
+right: Walter
+Wrong: 
+Value: $800
+Number: 20
+MARTIN SCORSESE, ACTOR | Scorsese played Van Gogh in a segment of this Japanese director's "Dreams" | Akira Kurosawa
+right: Walter
+Wrong: 
+Value: $800
+Number: 29
+"ERE"Y WORDS | Cape Columbia on this large island is Canada's northernmost point | Ellesmere Island
+right: 
+Wrong: Triple Stumper
+Walter: What is Baffin Island?
+Value: $800
+Number: 6
+HISTORIC WOMEN | In 1923 this woman known for novels of high society became the first to get an honorary degree from Yale | Edith Wharton
+right: Elizabeth
+Wrong: 
+Value: $1000
+Number: 10
+JENNIFER & DAVID | "Boxing Helena" was directed by this avant-garde director's daughter Jennifer | David Lynch
+right: Walter
+Wrong: 
+Value: $1000
+Number: 15
+CHEMISTRY | If you split this word for a solution with a pH over 7, you get a great Detroit Tigers outfielder | Alkaline/Al Kaline
+right: Walter
+Wrong: 
+Value: $1000
+Number: 26
+ROCK GOES POSTAL | There was nothin' finer than this "queen" of the blues who partnered with Brook Benton | Dinah Washington
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+MARTIN SCORSESE, ACTOR | Scorsese joined Ethan Hawke & this "Easy Rider" star in the cast of 1995's "Search And Destroy" | Dennis Hopper
+right: Diane
+Wrong: 
+Value: $1000
+Number: 30
+"ERE"Y WORDS | French physicist who first showed that current in 2 parallel wires causes magnetic forces between the wires | Andre-Marie Ampere
+right: Walter
+Wrong: 
+Value: DD: $1,500
+Number: 7
+Scores at the end of the Double Jeopardy! Round:
+Diane: $5,700
+Walter: $9,200
+Elizabeth: $4,700
+
+Final Jeopardy! Round
+BRITISH AUTHORS | Among the poems this British novelist wrote in the 1920s were "Men In New Mexico" & "Autumn At Taos" | DH Lawrence
+right: Diane
+Wrong: 
+Elizabeth: Who is Carl Sandburg
+Walter: Who was Waugh?
+Wagers: 
+Elizabeth: $0
+Diane: $5,700
+Walter: $2,201
+Final scores:
+Diane: $11,400 (2-day champion: $24,400)
+Walter: $6,999 (2nd place: Trip to Puerto Vallarta, Mexico)
+Elizabeth: $4,700 (3rd place: Fisher 100-Watt Audio Component System)
+
+Coryat scores
+Diane: $5,500 (13 R(including 1 DD),2 W)
+Walter: $8,700 (23 R(including 1 DD),2 W)
+Elizabeth: $5,600 (15 R,1 W(including 1 DD))

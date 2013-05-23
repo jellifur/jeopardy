@@ -1,0 +1,345 @@
+5211 - Monday, April 16, 2007
+Contestants:
+Tricia McKinney: a TV news writer from Secaucus, New Jersey
+Ryan Hall: a physics teacher from State College, Pennsylvania
+Gin Peck: a computer consultant from Phelps, New York (whose 1-day cash winnings total $28,800)
+First Jeopardy! Round: AMERICAN GOVERNMENT, BROADWAY ROLES, BORN FIRST, TODAY'S HOROSCOPE, TUNNEL, OF "LOVE"
+AMERICAN GOVERNMENT | Kansas' 10-member Board of this has made news for its doubts about Darwin | Education
+right: Gin
+Wrong: 
+Value: $200
+Number: 6
+BROADWAY ROLES | In 1951 he was "The King"; Gertrude Lawrence was "I" | Yul Brynner
+right: Tricia
+Wrong: 
+Value: $200
+Number: 1
+BORN FIRST | Dr. Jonas Salk, Dr. Louis Pasteur, Dr. Benjamin Spock | Dr. Louis Pasteur
+right: Ryan
+Wrong: 
+Value: $200
+Number: 26
+TODAY'S HOROSCOPE | This "chaste" sixth sign of the Zodiac gets bold today! You're feminine, but you can play with the big boys! | Virgo
+right: Tricia
+Wrong: 
+Value: $200
+Number: 11
+TUNNEL | The Severomuyskiy Tunnel stretches 9 1/2 miles in this nation | Russia
+right: Gin
+Wrong: 
+Value: $200
+Number: 16
+OF "LOVE" | Fred Grandy popped up as Gopher on this cruisin' TV show | The Love Boat
+right: Ryan
+Wrong: 
+Value: $200
+Number: 21
+AMERICAN GOVERNMENT | (<http://www.j-archive.com/media/2007-04-16_J_07.jpg> Jon of the Clue Crew reporting from the Clinton Presidential Library in Little Rock, AR.) The Bill Clinton library's cabinet meeting room shows that the President has the Defense Secretary on his left and this cabinet officer on his right | Secretary of State
+right: Ryan
+Wrong: 
+Value: $400
+Number: 7
+BROADWAY ROLES | In 2002 this "Notes on a Scandal" dame went "Into the Woods" as Giant (well, her recorded voice did, anyway) | Judi Dench
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+BORN FIRST | Tiberius Caesar, Augustus Caesar, Sid Caesar | Augustus Caesar
+right: Ryan
+Wrong: 
+Value: $400
+Number: 27
+TODAY'S HOROSCOPE | Today people will feel the "sting" of this fixed water sign, the Zodiac's eighth! You have the answer! Say it! | Scorpio
+right: Gin
+Wrong: 
+Value: $400
+Number: 12
+TUNNEL | Traveling under the Alps, the Great St. Bernard Tunnel connects Italy to this country | Switzerland
+right: Tricia
+Wrong: 
+Value: $400
+Number: 17
+OF "LOVE" | It's not a vixen's mitten, it's a traditional herb used in medicines & also known as figwort | foxglove
+right: Gin
+Wrong: 
+Value: $400
+Number: 22
+AMERICAN GOVERNMENT | This type of joint committee settles differences between Senate & House versions of a bill | Conference Committee
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+BROADWAY ROLES | In 1968, before the force was with him, he landed the lead in "The Great White Hope" | James Earl Jones
+right: Tricia
+Wrong: 
+Value: $600
+Number: 3
+BORN FIRST | Ulysses Grant, Abraham Lincoln, Franklin Pierce | Franklin Pierce
+right: Ryan
+Wrong: 
+Value: $600
+Number: 28
+TODAY'S HOROSCOPE | This sign has carried the water for "ages"! You're positive! Make things happen today! | Aquarius
+right: Tricia
+Wrong: 
+Value: $600
+Number: 13
+TUNNEL | Dating from the time of Hezekiah, the Siloam Tunnel diverts water under this city to a pool inside the city walls | Jerusalem
+right: Tricia
+Wrong: 
+Value: DD: $1,500
+Number: 18
+OF "LOVE" | Adjective for the hoof of a goat or a devil | cloven
+right: Tricia
+Wrong: 
+Value: $600
+Number: 23
+AMERICAN GOVERNMENT | (<http://www.j-archive.com/media/2007-04-16_J_09.jpg> Cheryl of the Clue Crew reporting from inside the State Capitol building in Lincoln, NE.) As in Washington, the Vice President presides over the Senate.  In Nebraska, this official presides over the unicameral legislature | the Lieutenant Governor
+right: Ryan
+Wrong: 
+Value: $800
+Number: 9
+BROADWAY ROLES | (<http://www.j-archive.com/media/2007-04-16_J_04.jpg> Hi.  I'm Bebe Neuwirth.) In 1997 I won my 2nd Tony Award for playing Velma Kelly in "Chicago"; in 2007 I appeared in a revival of the production playing this dancer, Velma's rival | Roxie
+right: Gin
+Wrong: 
+Value: $800
+Number: 4
+BORN FIRST | John Irving, James Michener, Arthur Miller | James Michener
+right: Gin
+Wrong: 
+Ryan: Who is Arthur Miller?
+Value: $800
+Number: 29
+TODAY'S HOROSCOPE | This masculine, mutable air sign is ruled by Mercury & knows there are 2 sides to everything, so think twice today! | Gemini
+right: Ryan
+Wrong: 
+Value: $800
+Number: 14
+TUNNEL | What's officially the Lucius J. Kellam, Jr. Bridge-Tunnel travels more than a mile under this east Virginia bay | the Chesapeake Bay
+right: Ryan
+Wrong: 
+Value: $800
+Number: 19
+OF "LOVE" | The title of this 1985 Gabriel Garcia Marquez novel should put you at disease | Love in the Time of Cholera
+right: Tricia
+Wrong: 
+Value: $800
+Number: 24
+AMERICAN GOVERNMENT | Judicially, the U.S. is divided regionally into 12 of these, each with a Court of Appeals | circuits
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 10
+BROADWAY ROLES | In 1948 he was drafted to play "Mister Roberts" | Henry Fonda
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 5
+BORN FIRST | Andy Warhol, Jackson Pollock, Judy Chicago | Jackson Pollock
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+TODAY'S HOROSCOPE | This December-January sign is negative & can be stubborn, but not today; relax & you'll respond | Capricorn
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 15
+TUNNEL | The 11 1/2-mile tunnel between Bologna & Florence, Italy bears the name of this Italian mountain chain | the Apennines
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 20
+OF "LOVE" | The capital of this former Yugoslav Republic & now independent nation is Ljubljana | Slovenia
+right: Tricia
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Gin: $1,400
+Ryan: $2,000
+Tricia: $4,600
+Scores at the end of the Jeopardy! Round:
+Gin: $2,800
+Ryan: $4,400
+Tricia: $8,900
+Second Jeopardy! Round: ARCHITECTURE, MUSICAL NOBILITY, LITERARY INSPIRATIONS, ALPHABETICALLY LAST, CHICKS RULE!, NOT QUITE BEFORE & AFTER
+ARCHITECTURE | Berthold Lubetkin's designs for the London Zoo include a gorilla house & a pool for these flightless birds | penguins
+right: Gin
+Wrong: 
+Value: $400
+Number: 1
+MUSICAL NOBILITY | Born in 1935, he became, simply, "The King" | Elvis Presley
+right: Ryan
+Wrong: 
+Value: $400
+Number: 17
+LITERARY INSPIRATIONS | Many have said that Margaret Mitchell based this character on her first husband, Red Upshaw | Rhett Butler
+right: Gin
+Wrong: 
+Value: $400
+Number: 6
+ALPHABETICALLY LAST | ...of the U.S. states that border an ocean | Washington
+right: Gin
+Wrong: 
+Value: $400
+Number: 8
+CHICKS RULE! | Wu Hao was Empress of this nation for 50 years in the 7th & 8th centuries | China
+right: Ryan
+Wrong: 
+Value: $400
+Number: 10
+NOT QUITE BEFORE & AFTER | Indiana Jones works hard to recover a Biblical artifact misplaced somewhere in Little Rock | Raiders of the Lost Arkansas
+right: Ryan | Tricia
+Wrong: 
+Value: $400
+Number: 26
+ARCHITECTURE | Carlo Maderno is famed for his baroque facade for the Church of Santa Susanna in this world capital | Rome
+right: 
+Wrong: Triple Stumper
+Ryan: What is Mexico City?
+Tricia: What is Madrid?
+Value: $800
+Number: 2
+MUSICAL NOBILITY | God save the rapper, singer & actress Dana Owens, who goes by this moniker | Queen Latifah
+right: Ryan
+Wrong: 
+Value: $800
+Number: 18
+LITERARY INSPIRATIONS | A trip to Spain inspired this "Silas Marner" novelist to write the poem "The Spanish Gypsy" | George Eliot
+right: Ryan
+Wrong: 
+Value: $800
+Number: 7
+ALPHABETICALLY LAST | ...of writers buried in Paris' Pantheon | (Emile) Zola
+right: Tricia
+Wrong: 
+Value: $800
+Number: 9
+CHICKS RULE! | In the 1990s this Down Under island country has back-to-back female P.M.'s, Jenny Shipley & Helen Clark | New Zealand
+right: Tricia
+Wrong: 
+Ryan: What is Australia?
+Value: $800
+Number: 22
+NOT QUITE BEFORE & AFTER | Vodka-based morning cocktail enjoyed with TV's Bundy family | Bloody Married... with Children
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+ARCHITECTURE | This architect of L.A.'s Disney Concert Hall called it "a strange kind of sailing ship sitting in a box" | Frank Gehry
+right: Tricia
+Wrong: 
+Value: $1200
+Number: 3
+MUSICAL NOBILITY | He was born in Minneapolis in 1958, the son of jazz musician John Nelson | Prince
+right: Tricia
+Wrong: 
+Value: $1200
+Number: 19
+LITERARY INSPIRATIONS | Thomas Carlyle's wife is the woman who inspired Leigh Hunt's poem "Jenny" did this to "Me" | Kissed
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 14
+ALPHABETICALLY LAST | ...of groups in the Rock & Roll Hall of Fame | ZZ Top
+right: Gin
+Wrong: 
+Value: $1200
+Number: 11
+CHICKS RULE! | For more than a century, this European country has had 3 queens & no kings: Wilhelmina, Juliana & Beatrix | the Netherlands
+right: Gin
+Wrong: 
+Value: $1200
+Number: 23
+NOT QUITE BEFORE & AFTER | French WWII defensive fortifications put in an album to provide info on a band | Maginot liner notes
+right: Gin
+Wrong: 
+Value: $1200
+Number: 28
+ARCHITECTURE | In the 1950s this Finnish-born architect designed the U.S. Embassy in Oslo | (Eero) Saarinen
+right: Ryan
+Wrong: 
+Value: $1600
+Number: 4
+MUSICAL NOBILITY | The revue "Sophisticated Ladies" is based on the music of this "noble" composer & bandleader | Duke Ellington
+right: Tricia
+Wrong: 
+Value: $1600
+Number: 20
+LITERARY INSPIRATIONS | A fascination with Goethe led this "Magic Mountain" author to write the novel "Lotte in Weimar" | (Thomas) Mann
+right: Gin
+Wrong: 
+Value: $1600
+Number: 15
+ALPHABETICALLY LAST | ...of Alfred Hitchcock movies starring Jimmy Stewart | Vertigo
+right: Tricia
+Wrong: 
+Value: $1600
+Number: 12
+CHICKS RULE! | The Philippines has had 2 female presidents, current leader Gloria Arroyo & this woman from 1986 to 1992 | (Corazon) Aquino
+right: Gin
+Wrong: 
+Value: DD: $4,000
+Number: 24
+NOT QUITE BEFORE & AFTER | Israeli prime minister (1977-1983) who's a Cole Porter song that "brings back a memory ever green" | Menachim Begin the Beguine
+right: Tricia
+Wrong: 
+Value: $1600
+Number: 29
+ARCHITECTURE | Philip Johnson's Glass House may have been inspired by this German-born less-is-more man's Farnsworth House | Mies van der Rohe
+right: Tricia
+Wrong: 
+Value: $2000
+Number: 5
+MUSICAL NOBILITY | Dinah Washington was "The Queen of the Blues" & this singer was "The Empress of the Blues" | Bessie Smith
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+LITERARY INSPIRATIONS | Hemingway's novel "The Torrents of Spring" parodies the style of this "Winesburg, Ohio" author, an early supporter of his | Sherwood Anderson
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+ALPHABETICALLY LAST | ...of current U.S. cabinet departments | Veterans Affairs
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+CHICKS RULE! | Gro Harlem Bruntland has been prime minister of this Scandinavian country 3 different times | Norway
+right: 
+Wrong: Triple Stumper
+Gin: What is Finland?
+Ryan: What is Sweden?
+Value: $2000
+Number: 25
+NOT QUITE BEFORE & AFTER | Descartes' famous Latin axiom that's a screwball comedy with Tony Curtis & Jack Lemmon (in drag) | Cogito Ergo Sum Like It Hot
+right: 
+Wrong: 
+Tricia: What is I have no idea?
+Value: DD: $3,000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Gin: $11,200
+Ryan: $5,200
+Tricia: $16,300
+
+Final Jeopardy! Round
+BEST PICTURE OSCAR WINNERS | Following "Gone with the Wind", it would be another 12 years before a color film won again: this foreign-set musical | An American in Paris
+right: Gin | Tricia
+Wrong: 
+Ryan: What is "The King and I"?
+Wagers: 
+Ryan: $5,199
+Gin: $5,200
+Tricia: $5,199
+Final scores:
+Gin: $16,400 (2nd place: $2,000)
+Ryan: $1 (3rd place: $1,000)
+Tricia: $21,499 (New champion: $21,499)
+
+Coryat scores
+Gin: $8,800 (14 R(including 1 DD),1 W)
+Ryan: $5,200 (15 R,4 W)
+Tricia: $18,400 (21 R(including 1 DD),2 W(including 1 DD))

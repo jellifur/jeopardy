@@ -1,0 +1,340 @@
+4787 - Tuesday, May 31, 2005
+Comments: David Rozenson game 1.
+Contestants:
+David Rozenson: a lawyer from Newton, Massachusetts
+Neill Kovrig: a counseling support specialist from San Marcos, California
+Lisa Voss: a library assistant from Lincoln, Nebraska (whose 1-day cash winnings total $14,000)
+First Jeopardy! Round: LITERARY COLLABORATORS, POKER FACE, POUR ME A STIFF ONE, "COURT" BRIEFS, TALK LIKE A BRIT, 'ALLO, GOVERNOR!
+LITERARY COLLABORATORS | These brothers first published their "Fairy Tales" in 1812 as "Kinderund Hausmarchen" | the Brothers Grimm
+right: Neill
+Wrong: 
+Value: $200
+Number: 1
+POKER FACE | The poker face seen <http://www.j-archive.com/media/2005-05-31_J_02.jpg> here dropped out of this university just short of a degree to pursue a career in acting | Harvard
+right: 
+Wrong: Triple Stumper
+David: Who is Matt Damon?
+Value: $200
+Number: 2
+POUR ME A STIFF ONE | Nonpotent potable in common to a fuzzy navel & a screwdriver | orange juice
+right: Neill
+Wrong: 
+Value: $200
+Number: 14
+"COURT" BRIEFS | A stenographer employed to transcribe an official verbatim record of legal proceedings | a court reporter
+right: Neill
+Wrong: 
+Value: $200
+Number: 23
+TALK LIKE A BRIT | If you're right on queue for a movie in Piccadilly, you're in one of these | a line
+right: Lisa
+Wrong: 
+Value: $200
+Number: 30
+'ALLO, GOVERNOR! | Al Smith, Mario Cuomo | New York
+right: Neill
+Wrong: 
+Value: $200
+Number: 7
+LITERARY COLLABORATORS | She & her tres cher ami Jean-Paul Sartre collaborated on the political & literary journal Modern Times | Simone de Beauvoir
+right: David
+Wrong: 
+Value: $400
+Number: 19
+POKER FACE | It's the TV show on which the poker face seen <http://www.j-archive.com/media/2005-05-31_J_03.jpg> here co-starred for most of the 1970s | The Mary Tyler Moore Show
+right: Neill
+Wrong: 
+Value: $400
+Number: 3
+POUR ME A STIFF ONE | Stolichanya, or stoli to its friends, is a brand of this | vodka
+right: Neill
+Wrong: 
+Value: $400
+Number: 15
+"COURT" BRIEFS | Marsupial term for a self-appointed tribunal that parodies existing principles of law | a kangaroo court
+right: Neill
+Wrong: 
+Value: $400
+Number: 26
+TALK LIKE A BRIT | Of stay in bed, hit someone on the head or rub till it's red, what you do if you cosh | hit someone on the head
+right: Lisa
+Wrong: 
+Value: $400
+Number: 25
+'ALLO, GOVERNOR! | Calvin Coolidge, Michael Dukakis | Massachusetts
+right: Neill
+Wrong: 
+Lisa: What is New Hampshire?
+Value: $400
+Number: 8
+LITERARY COLLABORATORS | For "The Autobiography of Malcolm X", Malcolm collaborated with this author | Alex Haley
+right: David
+Wrong: 
+Value: $600
+Number: 20
+POKER FACE | In a memorable 1987 big screen biography, the poker face seen <http://www.j-archive.com/media/2005-05-31_J_04.jpg> here played this 1950s music legend | Ritchie Valens
+right: Neill
+Wrong: 
+Value: $600
+Number: 4
+POUR ME A STIFF ONE | Invented in Cuba, a mojito is made with lime juice, club soda, sugar, ice, mint leaves & this kind of alcohol | rum
+right: Neill
+Wrong: 
+Value: $600
+Number: 16
+"COURT" BRIEFS | It's a special judicial assembly with power over the administration of estates & wills of deceased people | probate court
+right: David
+Wrong: 
+Value: $600
+Number: 27
+TALK LIKE A BRIT | On British TV's "Top of the Pops" this Booker T. & the MGs hit might be titled "Spring Onions" | "Green Onions"
+right: Lisa
+Wrong: 
+Value: $600
+Number: 12
+'ALLO, GOVERNOR! | Beauford Jester, John B. Connally, Jr. | Texas
+right: Neill
+Wrong: 
+Value: $600
+Number: 9
+LITERARY COLLABORATORS | Sidney Howard helped this author dramatize "Dodsworth" | Sinclair Lewis
+right: Lisa
+Wrong: 
+David: Who is Dickens?
+Value: $800
+Number: 21
+POKER FACE | This poker face seen <http://www.j-archive.com/media/2005-05-31_J_05.jpg> here earned an Oscar nomination for her work in 1994's "Bullets Over Broadway" | Jennifer Tilly
+right: David
+Wrong: 
+Value: $800
+Number: 5
+POUR ME A STIFF ONE | This brand of liqueur made its debut in Dublin on November 26, 1974 | Bailey's (Irish Cream)
+right: Lisa
+Wrong: 
+Value: $800
+Number: 17
+"COURT" BRIEFS | AKA amicus curiae, it's someone not party to the litigation but who offers information pertinent to the case | a friend of the court
+right: Lisa
+Wrong: 
+Value: $800
+Number: 28
+TALK LIKE A BRIT | If you're a British secret agent, you may have a license to kill, but you spell license this way | L-I-C-E-N-C-E
+right: Neill
+Wrong: 
+Value: $800
+Number: 13
+'ALLO, GOVERNOR! | Henry S. Thibodaux, P.B.S. Pinchback | Louisiana
+right: 
+Wrong: 
+Neill: Good Lord.  Uh... What is Wyoming?
+Value: DD: $1,000
+Number: 10
+LITERARY COLLABORATORS | George S Kaufman died in June 1961; this man, his frequent collaborator, in December of that year | Moss Hart
+right: David
+Wrong: 
+Value: $1000
+Number: 22
+POKER FACE | <http://www.j-archive.com/media/2005-05-31_J_06.jpg> This Ontario-based poker face has a Nabokovian first name | Lolita Davidovich
+right: David
+Wrong: 
+Value: $1000
+Number: 6
+POUR ME A STIFF ONE | Mon Dieu!  This French liqueur was originally made at the Abbey of Fecamp by the monks for which it is named | Benedictine
+right: David
+Wrong: 
+Value: $1000
+Number: 18
+"COURT" BRIEFS | Law students try mock hypothetical legal cases in this kind of court | moot court
+right: David
+Wrong: 
+Value: $1000
+Number: 29
+TALK LIKE A BRIT | If you can't get through to your friend in Brighton, you wouldn't say the telephone is busy, you'd say it's this | engaged
+right: Neill
+Wrong: 
+Value: $1000
+Number: 24
+'ALLO, GOVERNOR! | Karl F. Rulvagg, Floyd Bjornsterne Olson, Jacob Aall Ottesen Preus | Minnesota
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 11
+Scores at the first commercial break (after clue 15)
+Lisa: $1,200
+Neill: $2,200
+David: $1,600
+Scores at the end of the Jeopardy! Round:
+Lisa: $4,200
+Neill: $5,000
+David: $5,400
+Second Jeopardy! Round: THE NAACP, SCIENCE BRIEFS, SHAKESPEAREAN WORDS, THE "CAPTAIN", TO NEIL, MUSCAT LOVE
+SCIENCE BRIEFS | It's a vital sign: BP | blood pressure
+right: Neill
+Wrong: 
+Value: $400
+Number: 21
+SHAKESPEAREAN WORDS | Polonius uses the word "outbreak" about Laertes' fiery mind, not this title character | Hamlet
+right: Lisa
+Wrong: 
+Value: $400
+Number: 1
+THE "CAPTAIN" | This enigmatic seafarer in 1954's "20,000 Leagues Under the Sea" was portrayed by James Mason | Captain Nemo
+right: Lisa
+Wrong: 
+Value: $400
+Number: 11
+TO NEIL | On board Gemini 8, he performed the first successful docking of 2 vehicles in space | Neil Armstrong
+right: Lisa
+Wrong: 
+Value: $400
+Number: 6
+MUSCAT LOVE | Muscat is its capital city | Oman
+right: Lisa
+Wrong: 
+Value: $400
+Number: 16
+SCIENCE BRIEFS | It's elemental: Zn | zinc
+right: Lisa
+Wrong: 
+Value: $800
+Number: 22
+SHAKESPEAREAN WORDS | (<http://www.j-archive.com/media/2005-05-31_DJ_02.jpg> Cheryl of the Clue Crew reports from horseback.) Shakespeare used this word in "The Merry Wives of Windsor" to catch someone's notice; I use it to stop my horse | whoa (ho also accepted)
+right: Lisa | Neill
+Wrong: 
+Value: $800
+Number: 2
+THE "CAPTAIN" | Hans Conried voiced this villain in a 1953 Disney classic | Captain Hook
+right: David
+Wrong: 
+Value: $800
+Number: 12
+TO NEIL | A star of D.W. Griffith's "America", Neil Hamilton played Commissioner Gordon on this TV show | Batman
+right: Lisa
+Wrong: 
+Value: $800
+Number: 7
+MUSCAT LOVE | The 3 main forts in Muscat date from the 1580s when this small Iberian nation conquered & occupied it | Portugal
+right: Neill
+Wrong: 
+Value: $800
+Number: 17
+THE NAACP | (<http://www.j-archive.com/media/2005-05-31_DJ_28.jpg> Kweisi Mfume reads the clue.)  This award, the NAACP's highest honor, was first bestowed in 1915 & named for a past chairman of the NAACP | the Spingarn Medal
+right: 
+Wrong: 
+Lisa: What is the Ralph Bunche Award?
+Value: DD: $2,400
+Number: 28
+SCIENCE BRIEFS | For water, it's 0 degrees Celsius: F.P. | freezing point
+right: Neill
+Wrong: 
+Value: $1200
+Number: 23
+SHAKESPEAREAN WORDS | From Latin for "indecent", this word in "Love's Labour's Lost" is the type of book banned by the Comstock Law | obscene
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 3
+THE "CAPTAIN" | For his role as Manuel, Spencer Tracy won an Oscar for this 1937 fish story | Captains Courageous
+right: David
+Wrong: 
+Value: $1200
+Number: 13
+TO NEIL | From 1979 to 1981, Neil Goldschmidt was Secretary of this department abbreviated D.O.T. | the Department of Transportation
+right: David
+Wrong: 
+Lisa: What is Department of the Treasury?
+Value: $1200
+Number: 8
+MUSCAT LOVE | Completed in 2001, the "Grand" one of these in Muscat is the 1st in the country to be open to non-Muslims | a mosque
+right: Neill
+Wrong: 
+Value: $1200
+Number: 18
+THE NAACP | This future Supreme Court justice won 29 of the 32 cases he argued before the court as a lawyer for the NAACP | Thurgood Marshall
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 27
+SCIENCE BRIEFS | Used of radio waves: MHz | megahertz
+right: David
+Wrong: 
+Value: $1600
+Number: 24
+SHAKESPEAREAN WORDS | This word in "Henry VI Part 2" meant blase & world-weary, not having to do with nephrite | jaded
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 4
+THE "CAPTAIN" | Hooray for this Groucho Marx character from "Animal Crackers" | Captain Spaulding
+right: David
+Wrong: 
+Value: $1600
+Number: 14
+TO NEIL | In the '50s, Neil H. McElroy was this man's Secretary of Defense | President Eisenhower
+right: Neill
+Wrong: 
+Value: $1600
+Number: 9
+MUSCAT LOVE | Qaboos bin Said al Said rules from his palace in Muscat under this title that means "ruler" in Arabic | sultan
+right: 
+Wrong: Triple Stumper
+Neill: What is shah?
+David: What is emir?
+Value: $1600
+Number: 19
+THE NAACP | (<http://www.j-archive.com/media/2005-05-31_DJ_26.jpg> Kweisi Mfume reads the clue.)  In 1995 this widow of slain civil rights leader Medgar Evers became the first woman to head the NAACP | Myrlie Evers(-Williams)
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 26
+SCIENCE BRIEFS | When the stork won't come: IVF | in vitro
+right: David
+Wrong: 
+Value: $2000
+Number: 25
+SHAKESPEAREAN WORDS | The word "fashionable" came into vogue with Ulysses' speech to Achilles in this play | Troilus and Cressida
+right: 
+Wrong: 
+Lisa: What is Timon of Athens?
+Value: DD: $1,800
+Number: 5
+THE "CAPTAIN" | Errol Flynn is a doctor who is forced to become a pirate in this 1935 action fest | Captain Blood
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 15
+TO NEIL | In 1989, this "bright" Neil Sheehan work about the Vietnam War won the Pulitzer Prize for general nonfiction | A Bright Shining Lie
+right: 
+Wrong: Triple Stumper
+David: What is Bright and Shining Lie?
+Value: $2000
+Number: 10
+MUSCAT LOVE | A main strategic value of Muscat stems from its position at the entranceway to this 90,000 sq. mi. body of water | the Persian Gulf
+right: Neill
+Wrong: 
+Lisa: What is the Red Sea?
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Lisa: $9,200
+Neill: $11,400
+David: $10,200
+
+Final Jeopardy! Round
+BEATLES MUSIC | Chauffeur Alf Bicknell was the inspiration for this 1965 song | "Drive My Car"
+right: Lisa | David
+Wrong: 
+Neill: What is Hey Jude? :(
+Wagers: 
+Lisa: $9,000
+David: $10,000
+Neill: $6,400
+Final scores:
+Lisa: $18,200 (2nd place: $2,000)
+Neill: $5,000 (3rd place: $1,000)
+David: $20,200 (New champion: $20,200)
+
+Coryat scores
+Lisa: $13,400 (19 R,5 W(including 2 DDs))
+Neill: $12,400 (20 R,2 W(including 1 DD))
+David: $10,200 (14 R,4 W)

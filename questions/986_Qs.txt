@@ -1,0 +1,349 @@
+5013 - Wednesday, May 31, 2006
+Contestants:
+Nathan Meyers: a software developer from Medford, Massachusetts
+Steve Friedman: a writer from Los Angeles, California
+Eric Dolansky: a Ph.D. student in marketing from Toronto, Ontario, Canada (whose 2-day cash winnings total $46,402)
+First Jeopardy! Round: U.S. COLLEGES & UNIVERSITIES, CARTOON MICE, COMPLETES THE PLAY TITLE, LIQUIDS, THE SEA OTTER, HOT "BUN"s
+U.S. COLLEGES & UNIVERSITIES | The 2 founders of Yahoo! & the 2 founders of Google all attended this California school | Stanford
+right: Steve
+Wrong: 
+Value: $200
+Number: 26
+CARTOON MICE | On Nov. 18, 1928 this American icon made his film debut at NYC's Colony Theatre | Mickey Mouse
+right: Eric
+Wrong: 
+Value: $200
+Number: 15
+COMPLETES THE PLAY TITLE | John Guare's "Six Degrees of..." | Separation
+right: Steve
+Wrong: 
+Value: $200
+Number: 6
+LIQUIDS | Byron wrote, "Let us have" this "and women, mirth and laughter, sermons and soda-water the day after" | wine
+right: Steve
+Wrong: 
+Value: $200
+Number: 17
+THE SEA OTTER | Unlike other marine mammals, the sea otter does not have this layer of fat to keep it warm | blubber
+right: Steve
+Wrong: 
+Value: $200
+Number: 7
+HOT "BUN"s | This folklore hero was so big, as a child he rocked in his cradle & caused a 75-foot tide in the Bay of Fundy | Paul Bunyan
+right: Nathan
+Wrong: 
+Value: $200
+Number: 1
+U.S. COLLEGES & UNIVERSITIES | Texas Lutheran University is in Seguin; this school founded in 1873 is in Fort Worth | Texas Christian University
+right: 
+Wrong: Triple Stumper
+Eric: What is Texas A&M?
+Steve: What is Texas Southern?
+Value: $400
+Number: 27
+CARTOON MICE | This red-caped Terrytoons rodent has been saving the day on TV since 1955, with operatic flair | Mighty Mouse
+right: Nathan
+Wrong: 
+Value: $400
+Number: 18
+COMPLETES THE PLAY TITLE | Eugene O'Neill's "Strange..." | Interlude
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+LIQUIDS | Whether autumn leaves turn fiery amber, vivid gold or dull brown depends on the composition of this thick liquid | sap
+right: Eric
+Wrong: 
+Value: $400
+Number: 22
+THE SEA OTTER | As seen <http://www.j-archive.com/media/2006-05-31_J_08.jpg> here, the sea otter <http://www.j-archive.com/media/2006-05-31_J_08a.jpg> wraps itself in this "marine" material to anchor itself while it rests | seaweed (or kelp)
+right: Steve
+Wrong: 
+Value: $400
+Number: 8
+HOT "BUN"s | A con game, or the police squad that breaks it up | bunko
+right: Nathan
+Wrong: 
+Value: $400
+Number: 2
+U.S. COLLEGES & UNIVERSITIES | Recovering from Katrina, it scheduled a makeup "lagniappe semester" starting in May 2006 | Tulane
+right: Steve
+Wrong: 
+Value: DD: $2,800
+Number: 28
+CARTOON MICE | This "fastest mouse in all Mexico" has a cousin, Slowpoke Rodriguez | Speedy Gonzales
+right: Eric
+Wrong: 
+Value: $600
+Number: 19
+COMPLETES THE PLAY TITLE | Neil Simon's "The Prisoner of..." | Second Avenue
+right: Eric
+Wrong: 
+Nathan: What is 42nd Street?
+Value: $600
+Number: 13
+LIQUIDS | The Quaker State Company was founded in 1931 in a Pennsylvania city named for this liquid | oil
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+THE SEA OTTER | There are about 2,500 Southern sea otters off the California coast & 50,000 Northern sea otters off this state | Alaska
+right: Nathan
+Wrong: 
+Eric: What is Washington?
+Steve: What is Oregon?
+Value: $600
+Number: 9
+HOT "BUN"s | In this early American courting custom, a couple lay fully clothed on a bed & exchanged endearments | bundling
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+U.S. COLLEGES & UNIVERSITIES | The North Carolina university founded in this town in 1834 is now in Winston-Salem | Wake Forest
+right: 
+Wrong: Triple Stumper
+Steve: What is Raleigh?
+Value: $800
+Number: 29
+CARTOON MICE | In 1975 Grape Ape & Mumbly teamed with this Hanna-Barbera cat & mouse duo but by December, the ape was out | Tom & Jerry
+right: Nathan
+Wrong: 
+Value: $800
+Number: 20
+COMPLETES THE PLAY TITLE | Beth Henley's "Crimes of the..." | Heart
+right: Steve
+Wrong: 
+Value: $800
+Number: 14
+LIQUIDS | The rounded area of a ship's hull, dividing bottom from sides, or the yucky water that collects there | bilge
+right: Nathan
+Wrong: 
+Eric: What is keel?
+Value: $800
+Number: 24
+THE SEA OTTER | 4-letter term for an otter's skin, the demand for which once almost made them extinct | pelt
+right: Steve
+Wrong: 
+Value: $800
+Number: 10
+HOT "BUN"s | 2-word term for the 30,000-pound precision-guided bombs used to destroy underground command centers | bunker busters
+right: Nathan
+Wrong: 
+Value: $800
+Number: 4
+U.S. COLLEGES & UNIVERSITIES | It's the northernmost Ivy League School | Dartmouth
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+CARTOON MICE | First name of young Mr. Mousekewitz, voiced by Phillip Glasser in "An American Tail" | Fievel
+right: Steve
+Wrong: 
+Value: $1000
+Number: 21
+COMPLETES THE PLAY TITLE | Oscar Wilde's "A Woman of No..." | Importance
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 16
+LIQUIDS | The cholesterol doctors measure is called this "cholesterol", for the fluid part of whole blood | serum
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 25
+THE SEA OTTER | Sea otters feed on clams, crabs, abalone & these creatures seen <http://www.j-archive.com/media/2006-05-31_J_11.jpg> here | sea urchins
+right: Nathan
+Wrong: 
+Value: $1000
+Number: 11
+HOT "BUN"s | Born Edward Z.C. Judson, he was the originator of the 19th century dime novels, many featuring Buffalo Bill Cody | Ned Buntline
+right: Eric
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Eric: $1,200
+Steve: $1,800
+Nathan: $2,400
+Scores at the end of the Jeopardy! Round:
+Eric: $1,000
+Steve: $4,800
+Nathan: $6,400
+Second Jeopardy! Round: PHYSICAL SCIENCE, ALL THAT JAZZ, THAT'S SO CONVENTIONAL!, CLEANING UP, YOU WILL BE ASSIMILATED, EMBRACE THE "ORB"
+PHYSICAL SCIENCE | (<http://www.j-archive.com/media/2006-05-31_DJ_03.jpg> Kelly and Jon of the Clue  Crew play with water in a laboratory; Kelly reads.)  Run a comb through your hair & hold it <http://www.j-archive.com/media/2006-05-31_DJ_03a.jpg> here--the water is drawn to the comb because of this accumulation of electrical charge | static electricity
+right: Eric
+Wrong: 
+Value: $400
+Number: 3
+ALL THAT JAZZ | The instrument seen <http://www.j-archive.com/media/2006-05-31_DJ_21.jpg> here was played by this swingin' bandleader who was at home with classical too | Benny Goodman
+right: Nathan
+Wrong: 
+Value: $400
+Number: 21
+THAT'S SO CONVENTIONAL! | During the 1968 Democratic Convention in this city, antiwar protesters clashed violently with police | Chicago
+right: Eric
+Wrong: 
+Value: $400
+Number: 9
+CLEANING UP | To fight this, from the Latin for "stain", after surgery, John Charnley devised air tents to keep things sterile | infection
+right: Eric
+Wrong: 
+Value: $400
+Number: 23
+YOU WILL BE ASSIMILATED | Victories by Garibaldi in 1860 led to this largest Mediterranean island being joined to Italy | Sicily
+right: Steve
+Wrong: 
+Value: $400
+Number: 16
+EMBRACE THE "ORB" | The quality of being able to take in liquids | absorbent
+right: Nathan
+Wrong: 
+Value: $400
+Number: 1
+PHYSICAL SCIENCE | Phosphorescence is defined as giving off light with little or none of this | heat
+right: Steve
+Wrong: 
+Value: $800
+Number: 7
+ALL THAT JAZZ | Charlie Christian, 1916-1942, was one of the first to electrically amplify this instrument | a guitar
+right: Steve
+Wrong: 
+Value: $800
+Number: 22
+THAT'S SO CONVENTIONAL! | In 2004 the 2 major U.S. political parties held their conventions in these 2 cities | New York & Boston
+right: Nathan
+Wrong: 
+Value: $800
+Number: 12
+CLEANING UP | In 1887 Johnson & Johnson was incorporated in part to improve upon this man's study of antisepsis | (Joseph) Lister
+right: Steve
+Wrong: 
+Value: $800
+Number: 26
+YOU WILL BE ASSIMILATED | It was declared a protectorate February 1, 1893; a treaty to annex it to the U.S. came 2 weeks later | Hawaii
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+EMBRACE THE "ORB" | He's the moody crooner heard <http://www.j-archive.com/media/2006-05-31_DJ_02.mp3> here  "You can bet that I've been crying..." | (Roy) Orbison
+right: Steve
+Wrong: 
+Value: $800
+Number: 2
+PHYSICAL SCIENCE | (<http://www.j-archive.com/media/2006-05-31_DJ_08.jpg> Jon of the Clue Crew explains the diagrams on the monitor.)  For 5 out of 10 carbon-11 atoms to decay into boron-11, it takes 20 minutes, which is this measure for the carbon-11 isotope | the half-life
+right: Steve
+Wrong: 
+Value: DD: $5,000
+Number: 8
+ALL THAT JAZZ | This bandleader from D.C. traveled with an electric piano, now in the Smithsonian, so he wouldn't wake hotel guests | Duke Ellington
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 24
+THAT'S SO CONVENTIONAL! | George H.W. Bush electrified the Republican Convention in this year when he declared "No new taxes" | 1988
+right: Steve
+Wrong: 
+Value: $1200
+Number: 13
+CLEANING UP | To be a cleaner of this, you may need to put on a HAZMAT suit & hope the criminal doesn't return to it | a crime scene
+right: Nathan
+Wrong: 
+Value: $1200
+Number: 29
+YOU WILL BE ASSIMILATED | Israel formally annexed this strategic upland region in 1981 | the Golan Heights
+right: Steve
+Wrong: 
+Value: $1200
+Number: 18
+EMBRACE THE "ORB" | Scurvy is caused by a lack of this "acid" found in citrus | ascorbic acid
+right: Nathan
+Wrong: 
+Eric: What is citric acid?
+Value: $1200
+Number: 4
+PHYSICAL SCIENCE | In 1911 a physicist first observed superconductivity when he found no resistance in this slippery element at 4.2 kelvin | mercury
+right: 
+Wrong: Triple Stumper
+Steve: What is helium?
+Value: $1600
+Number: 10
+ALL THAT JAZZ | This giant of the jazz vibraphone passed away in his 90s in 2002 | Lionel Hampton
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 25
+THAT'S SO CONVENTIONAL! | He gave his famous "Cross of Gold" speech at the 1896 Democratic Convention | William Jennings Bryan
+right: Steve
+Wrong: 
+Value: $1600
+Number: 14
+CLEANING UP | In 1898 Caleb Johnson sold this soap named for 2 types of oil used to make it; later the co. merged with Colgate | Palmolive
+right: Eric
+Wrong: 
+Value: $1600
+Number: 28
+YOU WILL BE ASSIMILATED | Bolivia became landlocked when this country took over its only coastal territory after a 19th c. war | Chile
+right: Eric
+Wrong: 
+Value: $1600
+Number: 19
+EMBRACE THE "ORB" | In December 1991 he gave Yeltsin the nuclear codes | Gorbachev
+right: Eric
+Wrong: 
+Value: $1600
+Number: 5
+PHYSICAL SCIENCE | (<http://www.j-archive.com/media/2006-05-31_DJ_11.jpg> Sarah of the Clue Crew swirls water in a bottle.)  I'm creating a small version of <http://www.j-archive.com/media/2006-05-31_DJ_11a.jpg> this, a mass of fluid in a swirling motion; whirlpools, tornadoes & sunspots are bigger versions | a vortex
+right: Nathan
+Wrong: 
+Value: $2000
+Number: 11
+ALL THAT JAZZ | There's a distinctive left-hand pattern in <http://www.j-archive.com/media/2006-05-31_DJ_30.mp3> this style of piano playing, also a word meaning "walk" | stride
+right: Nathan
+Wrong: 
+Value: $2000
+Number: 30
+THAT'S SO CONVENTIONAL! | This bespectacled NBC newsman was forcibly removed from the floor of the 1964 GOP Convention in San Francisco | John Chancellor
+right: 
+Wrong: Triple Stumper
+Eric: Who is... Dan Rather?
+Value: $2000
+Number: 15
+CLEANING UP | Because of a clean-up effort, Bernard Rayner became the last to sell pigeon food in this British plaza | Trafalgar Square
+right: 
+Wrong: Triple Stumper
+Steve: What is Piccadilly Circus?
+Value: $2000
+Number: 27
+YOU WILL BE ASSIMILATED | Under the 1792 Treaty of Jassy, the Ottoman Empire agreed to Russia's taking over control of this peninsula | the Crimean Peninsula
+right: Eric
+Wrong: 
+Value: DD: $2,000
+Number: 20
+EMBRACE THE "ORB" | From Turkish for "cool drink", it's a frozen dessert made from fruit syrup | sorbet
+right: Steve
+Wrong: 
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Eric: $5,800
+Steve: $15,800
+Nathan: $14,400
+
+Final Jeopardy! Round
+AFRICA | In January 2006 this country swore in Africa's first elected female president, Ellen Johnson Sirleaf | Liberia
+right: Eric | Nathan
+Wrong: 
+Steve: What is South Africa
+Wagers: 
+Eric: $5,798
+Nathan: $1,401
+Steve: $13,001
+Final scores:
+Eric: $11,598 (2nd place: $2,000)
+Steve: $2,799 (3rd place: $1,000)
+Nathan: $15,801 (New champion: $15,801)
+
+Coryat scores
+Eric: $5,800 (12 R(including 1 DD),5 W)
+Steve: $9,800 (19 R(including 2 DDs),5 W)
+Nathan: $14,400 (17 R,1 W)

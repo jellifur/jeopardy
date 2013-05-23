@@ -1,0 +1,346 @@
+6015 - Friday, November 5, 2010
+Contestants:
+Jeanne Breen: a physician from Old Saybrook, Connecticut
+John Wen: a software engineer originally from Downingtown, Pennsylvania
+Vito Cortese: a software engineer and Italian translator from Pittsburgh, Pennsylvania (whose 2-day cash winnings total $48,485)
+First Jeopardy! Round: NAME THE SEUSS TITLE, THE ACTOR DIRECTS, COLORFUL QUOTES, I WISH I KNEW HOW TO ACQUIT YOU, 2 OF THE 7, THE "D"-LIST
+NAME THE SEUSS TITLE | "I will not eat them in the rain. I will not eat them on a train. Not in the dark! Not in a tree! Not in a car! You let me be!" | Green Eggs and Ham
+right: John
+Wrong: 
+Value: $200
+Number: 1
+THE ACTOR DIRECTS | "Lions for Lambs",  "The Horse Whisperer" | Robert Redford
+right: John
+Wrong: 
+Value: $200
+Number: 7
+COLORFUL QUOTES | "No more St. Patrick's Day we'll keep, his color can't be seen, for there's a cruel law agin the wearin' o' the" this | green
+right: Jeanne
+Wrong: 
+Value: $200
+Number: 6
+I WISH I KNEW HOW TO ACQUIT YOU | Your neighbors saw more of you than they wanted to; I'm afraid you'll be found guilty of indecent this | exposure
+right: John
+Wrong: 
+Value: $200
+Number: 19
+2 OF THE 7 | Dopey & Sneezy | the Seven Dwarves
+right: Vito
+Wrong: 
+Value: $200
+Number: 22
+THE "D"-LIST | The Hindenburg was one of these rigid airships | a dirigible
+right: John
+Wrong: 
+Value: $200
+Number: 12
+NAME THE SEUSS TITLE | Through the high jungle tree tops, the news quickly spread: "He talks to a dust speck! He's out of his head!" | Horton Hears a Who
+right: Vito
+Wrong: 
+Value: $400
+Number: 2
+THE ACTOR DIRECTS | "Frost/Nixon",  "Parenthood" | Ron Howard
+right: Jeanne
+Wrong: 
+Value: $400
+Number: 8
+COLORFUL QUOTES | Hamlet replies to Ophelia, "so long? Nay then let the devil wear" this color, "for I'll have a suit of sables" | black
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+I WISH I KNEW HOW TO ACQUIT YOU | You used a deadly & dangerous weapon in the crime! That's aggravated this! Now I'm aggravated & have to convict you! | assault
+right: John
+Wrong: 
+Value: $400
+Number: 27
+2 OF THE 7 | The Temple of Artemis & the Statue of Zeus | the Ancient Wonders of the World
+right: Vito
+Wrong: 
+Value: $400
+Number: 23
+THE "D"-LIST | It's the word for a young woman officially entering society | a debutante
+right: John
+Wrong: 
+Value: $400
+Number: 13
+NAME THE SEUSS TITLE | "No! Not in the house!" said the fish in the pot, "They should not fly kites in a house! They should not" | The Cat in the Hat
+right: Vito
+Wrong: 
+Value: $600
+Number: 3
+THE ACTOR DIRECTS | "Open Range",  "The Postman" (he's uncredited for "Waterworld") | Kevin Costner
+right: Jeanne
+Wrong: 
+Value: $600
+Number: 9
+COLORFUL QUOTES | Isaiah 1.18: "Though your sins be as" this shade of red, "they shall be as white as snow" | scarlet
+right: 
+Wrong: Triple Stumper
+Jeanne: What is crimson?
+Value: $600
+Number: 18
+I WISH I KNEW HOW TO ACQUIT YOU | You created a canvas & tried to pass it off as the work of Arshile Gorky: that's this crime | forgery
+right: Jeanne
+Wrong: 
+Value: $600
+Number: 28
+2 OF THE 7 | Sloth & wrath | the seven deadly sins
+right: Vito
+Wrong: 
+Value: $600
+Number: 24
+THE "D"-LIST | Its name is German for "badger dog" | a dachshund
+right: Jeanne
+Wrong: 
+Value: $600
+Number: 14
+NAME THE SEUSS TITLE | "Silence!" the king of the turtles barked back. "I'm king, and you're only a turtle named Mack" | Yertle the Turtle
+right: Vito
+Wrong: 
+Jeanne: What is Hertle the Turtle?
+Value: $800
+Number: 4
+THE ACTOR DIRECTS | "Confessions of a Dangerous Mind", "Good Night, and Good Luck." | George Clooney
+right: John
+Wrong: 
+Value: $800
+Number: 10
+COLORFUL QUOTES | Stephen Foster dreamed of her, "floating like a vapor on the soft summer air" | Jeannie with the light brown hair
+right: Vito
+Wrong: 
+Value: $800
+Number: 20
+I WISH I KNEW HOW TO ACQUIT YOU | I can't acquit you because you were doing this on that street corner, lingering or standing around too long | loitering
+right: Vito
+Wrong: 
+Value: $800
+Number: 29
+2 OF THE 7 | The schoolboy & the soldier, according to Shakespeare | the seven ages of man
+right: 
+Wrong: Triple Stumper
+Jeanne: What are the seven stages of man?
+Value: $800
+Number: 25
+THE "D"-LIST | (<http://www.j-archive.com/media/2010-11-05_J_15.wmv> Sarah reports from the Toyota Grand Prix in Long Beach, CA.)  Taking advantage of the car in front of you by splitting the air at 220 miles per hour and leaving you little resistance, is called this technique; on the 405, we call it tailgating | drafting
+right: Vito
+Wrong: 
+Value: $800
+Number: 15
+NAME THE SEUSS TITLE | "Socks on chicks and chicks on fox. Fox on clocks on bricks and blocks" | Fox in Socks
+right: John
+Wrong: 
+Vito: What is One Fish, Two Fish, Red Fish, Blue Fish?
+Value: $1000
+Number: 5
+THE ACTOR DIRECTS | "Dead Man Walking", "Bob Roberts" | Tim Robbins
+right: Vito
+Wrong: 
+Jeanne: Who is... Tim...
+Value: $1000
+Number: 11
+COLORFUL QUOTES | The musical "Sally" urged us to "always look for" this "and try to find the sunny side of life" | a silver lining
+right: Jeanne
+Wrong: 
+Value: $1000
+Number: 21
+2 OF THE 7 | The Quirinal & the Aventine | the seven hills of Rome
+right: Vito
+Wrong: 
+Value: DD: $1,200
+Number: 26
+THE "D"-LIST | AKA the Ten Commandments | the Decalogue
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+Scores at the first commercial break (after clue 15)
+Vito: $2,600
+John: $2,800
+Jeanne: $0
+Scores at the end of the Jeopardy! Round:
+Vito: $6,600
+John: $3,400
+Jeanne: $200
+Second Jeopardy! Round: IT HAPPENED ON NOVEMBER 5, I WANT MY MTV, "STAR" TREK, NEW JERSEY, LET'S EAT HEALTHY, NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS
+IT HAPPENED ON NOVEMBER 5 | 1895: George Selden receives the first U.S. patent for one of these conveyances | a car
+right: Vito
+Wrong: 
+Value: $400
+Number: 11
+I WANT MY MTV | Frankie Muniz thought his $250,000 car was stolen as Ashton Kutcher's very first victim on this show | Punk'd
+right: Vito
+Wrong: 
+Value: $400
+Number: 16
+"STAR" TREK | A sluggish economy could use this; so could a weak battery, using some booster cables | a jump start
+right: Vito
+Wrong: 
+John: What is a start-up?
+Value: $400
+Number: 21
+NEW JERSEY | The New Jersey Governor's Mansion, Drumthwacket, is in this university city, not in Trenton | Princeton
+right: John
+Wrong: 
+Value: $400
+Number: 6
+LET'S EAT HEALTHY | Hake & shad are on the National Resources Defense Council list of fish low in this element (that's what you want) | mercury
+right: Vito
+Wrong: 
+Value: $400
+Number: 1
+NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS | Red crabs need moisture to breed, so they await this season of heavy rains to troop to the ocean to breed | the monsoon season
+right: John
+Wrong: 
+Value: $400
+Number: 26
+IT HAPPENED ON NOVEMBER 5 | 1872: In defiance of an existing law, this suffragette tries to vote in the U.S. Presidential Election | Susan B. Anthony
+right: John
+Wrong: 
+Value: $800
+Number: 12
+I WANT MY MTV | "Shaaaron!" was the only word we really understood from the patriarch of this rockin' reality family | the Osbournes
+right: John
+Wrong: 
+Value: $800
+Number: 17
+"STAR" TREK | This children's foundation has been improving the quality of life for sick kids for more than 25 years | the Children's Starlight Foundation
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+NEW JERSEY | New Jersey's highest point, High Point, lies in the Kittatinny Mountains, a part of this larger chain | the Appalachians
+right: 
+Wrong: Triple Stumper
+Vito: What are the Alleghenies?
+John: What are the Poconos?
+Value: $800
+Number: 7
+LET'S EAT HEALTHY | The betacyanin that makes these veggies red may also help fight cancer | beets
+right: Vito
+Wrong: 
+Value: $800
+Number: 2
+NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS | One million of <http://www.j-archive.com/media/2010-11-05_DJ_27.jpg> these African creatures make a yearly 300-mile <http://www.j-archive.com/media/2010-11-05_DJ_27a.jpg> loop that includes a scary <http://www.j-archive.com/media/2010-11-05_DJ_27b.jpg> Mara River crossing | wildebeests
+right: John
+Wrong: 
+Value: $800
+Number: 27
+IT HAPPENED ON NOVEMBER 5 | 1757: This "Great" Prussian leader decisively defeats a combined Austrian & French army at Rossbach | Frederick the Great
+right: 
+Wrong: Triple Stumper
+Vito: Who is Bismarck?
+Value: $1200
+Number: 13
+I WANT MY MTV | Ah, the days of grand debate between these 2 "newlyweds", like whether "chicken of the sea" was actually tuna | Jessica Simpson & Nick Lachey
+right: John
+Wrong: 
+Vito: Who are Bobby Brown & Whitney Houston?
+Value: $1200
+Number: 18
+"STAR" TREK | Harsh or desolate, or the last name of Iron Man | Stark
+right: John
+Wrong: 
+Value: $1200
+Number: 23
+NEW JERSEY | New Jersey was named for an isle in this British island group | the Channel Islands
+right: Vito
+Wrong: 
+Value: $1200
+Number: 8
+LET'S EAT HEALTHY | In 2004, 2 West Virginia men traded gunfire over how to cook a nice healthy skinless this | chicken
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS | It will take 5 months and 3 generations of butterflies to reach Canada--a <http://www.j-archive.com/media/2010-11-05_DJ_28.wmv> journey they're starting in this warmer country | Mexico
+right: Vito
+Wrong: 
+Value: $1200
+Number: 28
+IT HAPPENED ON NOVEMBER 5 | 1862: Lincoln orders this man out as commander of the army of the Potomac | McClellan
+right: John
+Wrong: 
+Value: DD: $2,200
+Number: 14
+I WANT MY MTV | After seeing a tour of Ice-T's home on this show, I thought about putting in a 1,000-gal. shark tank of my own | Cribs
+right: Vito
+Wrong: 
+Value: $1600
+Number: 19
+"STAR" TREK | On July 10, 1962 this low-orbit communications satellite was launched | Telstar
+right: Vito
+Wrong: 
+Value: $1600
+Number: 24
+NEW JERSEY | New Jersey's smallest county in area & most densely populated, it was named for an explorer & the river it borders | Hudson County
+right: Vito
+Wrong: 
+Value: DD: $2,200
+Number: 9
+LET'S EAT HEALTHY | This Amazonian palm fruit that looks like a purple berry packs an antioxidant wallop | the acai fruit
+right: Jeanne
+Wrong: 
+John: What's a pomegranate?
+Value: $1600
+Number: 4
+NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS | After soaring for 7 months and tens of thousands of miles, the black-browed species of this bird is joyously reunited with his mate | the albatross
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+IT HAPPENED ON NOVEMBER 5 | 1688: The "glorious revolution" begins as this Dutchman arrives at Brixham to claim the British crown | William of Orange
+right: Vito
+Wrong: 
+Value: $2000
+Number: 15
+I WANT MY MTV | Adam Sandler & Denis Leary were in the cast of this '80s game show set in host Ken Ober's basement | Remote Control
+right: Vito
+Wrong: 
+Value: $2000
+Number: 20
+"STAR" TREK | Speak very clearly if you call someone this game bird, otis tarda | bustard
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+NEW JERSEY | "America's oldest seaside resort", it's home to more than 600 Victorian homes & seaside cottages | Cape May
+right: Jeanne
+Wrong: 
+Value: $2000
+Number: 10
+LET'S EAT HEALTHY | If liquid yogurt sounds good, you'll like this fizzy milk from the caucasus | kefir
+right: Vito
+Wrong: 
+Value: $2000
+Number: 5
+NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS | A female covers herself with secretions to prep for the migration of the bats called flying <http://www.j-archive.com/media/2010-11-05_DJ_30.wmv> these animals | the flying fox
+right: Vito
+Wrong: 
+John: What are squirrels?
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Vito: $21,600
+John: $6,400
+Jeanne: $1,800
+
+Final Jeopardy! Round
+TERMS FROM THE BIBLE | In 2010 we heard of the discovery of the fossil of a 12 million-year-old giant sperm whale given this Biblical name by its finders | Leviathan
+right: John
+Wrong: 
+Jeanne: What is .... ?
+Vito: What is Jonah?
+Wagers: 
+Jeanne: $1,700
+John: $42
+Vito: $1,600
+Final scores:
+Vito: $20,000 (3-day champion: $68,485)
+John: $6,442 (2nd place: $2,000)
+Jeanne: $100 (3rd place: $1,000)
+
+Coryat scores
+Vito: $20,800 (25 R(including 2 DDs),4 W)
+John: $5,800 (16 R(including 1 DD),4 W)
+Jeanne: $1,800 (8 R,5 W)

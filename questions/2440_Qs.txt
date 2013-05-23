@@ -1,0 +1,329 @@
+3436 - Monday, July 12, 1999
+Contestants:
+Jim Austgen: a system analyst from Winfield, Illinois
+Brad Golstein: a design center manager from Woodland Hills, California
+Laura Miller: a writer from Los Angeles, California (whose 1-day cash winnings total $9,399)
+First Jeopardy! Round: U.N. SECRETARIES-GENERAL, SONGS, THE NEW CAR LOT, "TU", MANY IRONS, IN THE FIRE
+U.N. SECRETARIES-GENERAL | This current Secretary-General is the first U.N. career official to hold the post | Kofi Annan
+right: Jim
+Wrong: 
+Value: $100
+Number: 22
+SONGS | It's what "everybody in the whole cell block was dancin' to" | "Jailhouse Rock"
+right: Jim
+Wrong: 
+Value: $100
+Number: 6
+THE NEW CAR LOT | This company's '99 Quest minivan & Mercury's '99 Villager -- same thing | Nissan
+right: Jim
+Wrong: 
+Value: $100
+Number: 7
+"TU" | The University of Phoenix has a branch in this city | Tucson
+right: Brad
+Wrong: 
+Value: $100
+Number: 1
+MANY IRONS | This mythical barrier cut off the Soviet Union & its friends after World War II | Iron Curtain
+right: Brad
+Wrong: 
+Value: $100
+Number: 9
+IN THE FIRE | Many 17th century New York City households had one of these to form a brigade in case of fire | Bucket
+right: Jim
+Wrong: 
+Value: $100
+Number: 21
+U.N. SECRETARIES-GENERAL | At the time only a secretary-general to-be, this Egyptian played a major role in the 1979 Arab-Israeli peace accord | Boutros Boutros-Ghali
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 23
+SONGS | Willie Nelson must be "wond'rin' what in the world did I do" by writing this Patsy Cline hit | "Crazy"
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 19
+THE NEW CAR LOT | Cadillac doesn't want to rub you the wrong way with its new optional front seats that do this to you | Massage
+right: Brad
+Wrong: 
+Value: $200
+Number: 8
+"TU" | Henry VII was the first ruler from this family on the throne of England | Tudor
+right: Laura
+Wrong: 
+Value: $200
+Number: 3
+MANY IRONS | The male lead in "The French Lieutenant's Woman"; Meryl Streep played the title character | Jeremy Irons
+right: Jim
+Wrong: 
+Value: $200
+Number: 10
+IN THE FIRE | Since 1932 this brand has provided reliable flames for soldiers, campers & others | Zippo
+right: Jim
+Wrong: 
+Value: $200
+Number: 25
+U.N. SECRETARIES-GENERAL | In the 1960s this Burmese secretary-general sought to apply Buddhist principles to international problem solving | U Thant
+right: Brad
+Wrong: 
+Value: $300
+Number: 24
+SONGS | "It's a marvelous night for" this Van Morrison hit, "with the stars up above in your eyes" | "Moondance"
+right: Brad
+Wrong: 
+Value: $300
+Number: 20
+THE NEW CAR LOT | This Chrysler brand has flown the coop with the end of production of its Talon | Eagle
+right: Jim
+Wrong: 
+Value: $300
+Number: 11
+"TU" | Creature seen here in a non-candid photo | Tuna
+right: Brad
+Wrong: 
+Value: $300
+Number: 4
+MANY IRONS | It's gold!  Gold, I tell you!  Gold!!!  Oh, no -- it's not... it's this, fool's gold | Iron pyrite
+right: Brad
+Wrong: 
+Value: $300
+Number: 14
+IN THE FIRE | Oliver Wendell Holmes said not to falsely yell "Fire" in one of these, where 850 Viennese died Dec. 8, 1881 | Theater
+right: Brad
+Wrong: 
+Value: $300
+Number: 28
+U.N. SECRETARIES-GENERAL | Trying to resolve problems in the Congo, this Swedish secretary-general died in a plane crash in Africa in 1961 | Dag Hammarskjold
+right: Jim
+Wrong: 
+Value: $400
+Number: 26
+SONGS | Having this title problem, Barry Manilow sings, "I can't laugh and I can't sing, I'm finding it hard to do anything" | "Can't Smile Without You"
+right: 
+Wrong: 
+Value: DD: $1,500
+Number: 17
+THE NEW CAR LOT | The '99 Saab 9-5 offers a real cool option: this is "refrigerated" | Glove compartment
+right: Brad
+Wrong: 
+Value: $400
+Number: 12
+"TU" | From the Latin for "uproar", it's a confusion of voices | Tumult
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+MANY IRONS | Bruce Dickinson was the lead singer of this British heavy metal band | Iron Maiden
+right: Brad
+Wrong: 
+Value: $400
+Number: 15
+IN THE FIRE | Peshtigo, Wisc. was destroyed by a fire that began Oct. 8, 1871, the same day as this city's Great Fire | Chicago
+right: Brad
+Wrong: 
+Value: $400
+Number: 29
+U.N. SECRETARIES-GENERAL | This Oslo-born secretary-general served in the Norwegian government in exile during WWII | Trygve Lie
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+SONGS | A standard song says of this "fickle friend", it "came blowin' in from across the sea" | "The Summer Wind"
+right: Laura
+Wrong: 
+Value: $500
+Number: 18
+THE NEW CAR LOT | Your pocketbook may not "Bond" with the $130,000 base price of its DB7 Coupe | Aston Martin
+right: Jim
+Wrong: 
+Value: $500
+Number: 13
+"TU" | The ruins of Carthage are in this country | Tunisia
+right: Brad
+Wrong: 
+Value: $500
+Number: 5
+MANY IRONS | This Prusso-German statesman was the "Iron Chancellor" | Otto von Bismarck
+right: Brad
+Wrong: 
+Value: $500
+Number: 16
+IN THE FIRE | 2-word phrase for what sometimes happens to oily rags & often happens to the drummers of Spinal Tap | Spontaneous combustion
+right: Laura
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Laura: -$300
+Brad: $2,700
+Jim: $1,200
+Scores at the end of the Jeopardy! Round:
+Laura: $700
+Brad: $2,100
+Jim: $2,000
+Second Jeopardy! Round: AWARDS, THE MOVIES, THEIR COUNTRY'S LAST MONARCH, RELIGION BY THE NUMBERS, NAME THE POET, ANIMAL GROUPS
+AWARDS | You might have to take a bullet to earn one of these | Purple Heart
+right: Brad
+Wrong: 
+Value: $200
+Number: 11
+THE MOVIES | Mike Myers travels from '60s London to Vegas in the '90s as this "International Man of Mystery" | Austin Powers
+right: Laura
+Wrong: 
+Value: $200
+Number: 6
+RELIGION BY THE NUMBERS | This legendary dozen included 2 Jameses, 2 Judases & an eventual replacement named Matthias | Twelve Apostles/disciples
+right: Brad
+Wrong: 
+Value: $200
+Number: 12
+NAME THE POET | "Listen, my children, and you shall hear of the midnight ride of Paul Revere" | Henry Wadsworth Longfellow
+right: Laura
+Wrong: 
+Value: $200
+Number: 1
+AWARDS | Richard Pryor was the first recipient of a Kennedy Center humorists' prize named for this American author | Mark Twain
+right: Brad
+Wrong: 
+Value: $400
+Number: 17
+THE MOVIES | John Lithgow played a transsexual former football player in this 1982 movie based on a John Irving novel | The World According to Garp
+right: Laura
+Wrong: 
+Value: $400
+Number: 7
+THEIR COUNTRY'S LAST MONARCH | In 1893 the queen seen here (Liliuokalani) became the last monarch of this country | Hawaii
+right: Brad
+Wrong: 
+Value: $400
+Number: 25
+RELIGION BY THE NUMBERS | The sixth of these was an outbreak of boils & sores | Ten Plagues of Egypt
+right: Brad
+Wrong: 
+Value: $400
+Number: 13
+NAME THE POET | "Whan that Aprill with his shoures soote the droghte of March hath perced to the roote" | Geoffrey Chaucer
+right: Laura
+Wrong: 
+Value: $400
+Number: 2
+ANIMAL GROUPS | This word can refer to laziness, a 2-toed mammal, or a group of bears | Sloth
+right: Jim
+Wrong: 
+Value: $400
+Number: 21
+AWARDS | In "Good Will Hunting", Stellan Skarsgard had a Fields Medal, called "The Nobel Prize of" this discipline | Mathematics
+right: Jim
+Wrong: 
+Value: $600
+Number: 22
+THE MOVIES | John Larroquette played Captain Stillman in this wacky 1981 comedy about misfits in the Army | Stripes
+right: Laura
+Wrong: 
+Value: $600
+Number: 8
+THEIR COUNTRY'S LAST MONARCH | 1952: Infant king Fu'ad II | Egypt
+right: Brad
+Wrong: 
+Value: $600
+Number: 26
+RELIGION BY THE NUMBERS | It's the Greek term meaning "5 tools" that represents the 1st 5 books of the Bible | Pentateuch
+right: Laura
+Wrong: 
+Value: $600
+Number: 14
+NAME THE POET | "His pride had cast him out from heaven, with all his host of rebel angels" | John Milton (from "Paradise Lost")
+right: Laura
+Wrong: 
+Value: DD: $600
+Number: 3
+ANIMAL GROUPS | This term for a group of elk also applies to sharks (the ones in "West Side Story") | Gang
+right: Brad
+Wrong: 
+Value: $600
+Number: 18
+AWARDS | "Pearls for Pigs" was 1998's best play in these off-Broadway awards given by the Village Voice | Obies
+right: Laura
+Wrong: 
+Value: $800
+Number: 23
+THE MOVIES | Julia Ormond was the chauffeur's daughter in love with a rich playboy in this 1995 update of a 1954 classic | Sabrina
+right: Laura
+Wrong: 
+Value: $800
+Number: 9
+THEIR COUNTRY'S LAST MONARCH | 1910: King Manuel II | Portugal
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 27
+RELIGION BY THE NUMBERS | For Muslims: witnessing, prayer, alms giving, fasting & pilgrimage | Five Pillars of Faith
+right: Laura
+Wrong: 
+Value: $800
+Number: 15
+NAME THE POET | "Tho' I've belted you an' flayed you, by the livin' gawd that made you, you're a better man than I am, Gunga Din" | Rudyard Kipling
+right: Laura
+Wrong: 
+Value: $800
+Number: 4
+ANIMAL GROUPS | It's a feather filling for quilts, as well as a group of hares | Down
+right: Laura
+Wrong: 
+Value: $800
+Number: 19
+AWARDS | Theodore Hesburgh, once president of this university, has been awarded over 100 honorary degrees | Notre Dame
+right: Brad
+Wrong: 
+Value: $1000
+Number: 24
+THE MOVIES | In 1985 Helena Bonham Carter portrayed this historic "Lady" on film | Lady Jane Grey
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+THEIR COUNTRY'S LAST MONARCH | 1947: Eastern Europe's King Michael | Romania
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+RELIGION BY THE NUMBERS | Right effort, right speech & right action are 3 parts of this noble Buddhist way | Eightfold Path
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+NAME THE POET | "To see a world in a grain of sand and a heaven in a wild flower" | William Blake
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+ANIMAL GROUPS | Wisconsin folks know a cete is a group of these carnivores | Badgers
+right: Brad
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Laura: $7,700
+Brad: $4,900
+Jim: $1,600
+
+Final Jeopardy! Round
+IN THE BOOKSTORE | Bestselling author seen here (she's holding a large "A" & a large "Z") | Sue Grafton
+right: Jim
+Wrong: 
+Brad: Who is Bradford
+Laura: Who is Beverly Cleary?
+Wagers: 
+Jim: $25
+Brad: $1,000
+Laura: $2,101
+Final scores:
+Laura: $5,599 (2-day champion: $14,998)
+Brad: $3,900 (2nd place: Trip to Couples Resort, Jamaica)
+Jim: $1,625 (3rd place: Calypso Key Largo Watches)
+
+Coryat scores
+Laura: $7,700 (16 R(including 1 DD),2 W)
+Brad: $7,400 (22 R,6 W(including 2 DDs))
+Jim: $1,600 (11 R,2 W)

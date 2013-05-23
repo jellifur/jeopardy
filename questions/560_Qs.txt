@@ -1,0 +1,345 @@
+4084 - Thursday, May 9, 2002
+Comments: 2002 Million Dollar Masters semifinal game 2.
+Contestants:
+India Cooper: an actor and copy editor from New York City, New York
+Leslie Frates: a Spanish teacher from Hayward, California
+Brad Rutter: a network administrator from Lancaster, Pennsylvania
+First Jeopardy! Round: LESSER-KNOWN NAMES, POP MUSIC, U.S. BODIES OF WATER, "P"s & "Q"s, SAINTS, SINNERS
+LESSER-KNOWN NAMES | When Apollo 11 reached the moon, Lawrence Knutson was the voice of Mission Control in this city | Houston
+right: Leslie
+Wrong: 
+Value: $200
+Number: 6
+POP MUSIC | This band's 2001 CD "Weathered" spent 8 consecutive weeks atop the Billboard album chart | Creed
+right: Brad
+Wrong: 
+Value: $200
+Number: 1
+U.S. BODIES OF WATER | Chicago & Waukegan are Illinois' busiest ports on this lake | Lake Michigan
+right: Brad
+Wrong: 
+Value: $200
+Number: 9
+"P"s & "Q"s | The Dionnes, born in 1934, were famous ones | quintuplets
+right: Leslie
+Wrong: 
+Value: $200
+Number: 15
+SAINTS | Along with St. Andrew's & St. Patrick's, his cross appears on Britain's Union Jack | St. George
+right: Brad
+Wrong: 
+Value: $200
+Number: 26
+SINNERS | Holiday in 1929 on which Chicago gangster Bugs Moran lost several members of his gang | St. Valentine's Day
+right: Brad
+Wrong: 
+Value: $200
+Number: 21
+LESSER-KNOWN NAMES | 23-year-old Donald Turnupseed was the other driver in this 24-year-old actor's fatal crash | James Dean
+right: Brad
+Wrong: 
+Value: $400
+Number: 7
+POP MUSIC | '70s classic heard <http://www.j-archive.com/media/2002-05-09_J_02.mp3> here  "Plucked her eyebrows on the way / Shaved her legs and then he was a she / She says, 'Hey babe'" | "Walk On The Wild Side"
+right: Brad
+Wrong: 
+Value: $400
+Number: 2
+U.S. BODIES OF WATER | It's referred to in the song heard <http://www.j-archive.com/media/2002-05-09_J_12.mp3> here  "Old man river / He just keeps rolling / Along" | the Mississippi
+right: Brad
+Wrong: 
+Value: $400
+Number: 12
+"P"s & "Q"s | It's the ship in Melville's famous whale tale | the Pequod
+right: Brad
+Wrong: 
+Value: $400
+Number: 17
+SAINTS | T.S. Eliot's "Murder in the Cathedral" deals with the murder of this saint | Thomas à Becket
+right: India
+Wrong: 
+Value: $400
+Number: 27
+SINNERS | Born in Brooklyn in 1899, this gangster got his nickname from a knife cut to his cheeck | Al Capone ("Scarface")
+right: Brad
+Wrong: 
+Value: $400
+Number: 22
+LESSER-KNOWN NAMES | James Blake was driving the bus in this city on the night when Rosa Parks wouldn't stand up | Montgomery (Alabama)
+right: India
+Wrong: 
+Value: $600
+Number: 8
+POP MUSIC | Aaron Lewis is the lead singer of this "It's Been Awhile" alterna-band | Staind
+right: Brad
+Wrong: 
+Value: $600
+Number: 3
+U.S. BODIES OF WATER | This state is home to Penobscot Bay, Penobscot Lake & Penobscot River | Maine
+right: Brad
+Wrong: 
+Value: $600
+Number: 13
+"P"s & "Q"s | Like "Tommy", this '70s rock opera by The Who was also made into a movie | Quadrophenia
+right: Brad
+Wrong: 
+Value: $600
+Number: 18
+SAINTS | St. Paul shares his June 29 feast day with this man whom he rebukes in Galatians | St. Peter
+right: 
+Wrong: 
+India: Who is Timothy?
+Value: DD: $2,000
+Number: 28
+SINNERS | It was long thought that this gangster, seen <http://www.j-archive.com/media/2002-05-09_J_23.jpg> here, got his nickname from his careful grooming habits | "Pretty Boy" Floyd
+right: Brad
+Wrong: 
+Value: $600
+Number: 23
+LESSER-KNOWN NAMES | Clint Hartung & Whitey Lockman were on base when this N.Y. Giant won the 1951 pennant with a home run | Bobby Thomson
+right: India
+Wrong: 
+Value: $800
+Number: 10
+POP MUSIC | This group heard <http://www.j-archive.com/media/2002-05-09_J_04.mp3> here gets its name from a hockey penalty  "I'm more than a bird / I'm more than a plane / I'm more than some pretty face / Beside a train" | Five for Fighting
+right: Brad
+Wrong: 
+Value: $800
+Number: 4
+U.S. BODIES OF WATER | New Jersey's western boundary is formed by this river | the Delaware
+right: India
+Wrong: 
+Value: $800
+Number: 14
+"P"s & "Q"s | It's Latin for any 4-footed animal | quadruped
+right: Brad
+Wrong: 
+Value: $800
+Number: 19
+SAINTS | He's the "beloved physician" of Colossians | Luke
+right: Leslie
+Wrong: 
+Value: $800
+Number: 29
+SINNERS | Despite the nickname, this man said to have coined the term "G-men" reportedly never fired a shot during a crime | "Machine Gun" Kelly
+right: Brad
+Wrong: 
+Value: $800
+Number: 24
+LESSER-KNOWN NAMES | Albert Smith, mayor of this suburb, helped stop American Nazis from marching there in the late 1970s | Skokie (Illinois)
+right: Leslie
+Wrong: 
+Value: $1000
+Number: 11
+POP MUSIC | Footage from a concert at the Fillmore is included in his video for "Babylon" | David Gray
+right: Brad
+Wrong: 
+Value: $1000
+Number: 5
+U.S. BODIES OF WATER | This river that flows out of Lake Tahoe is named for an Indian guide, not a big rig | the Truckee
+right: Leslie
+Wrong: 
+Value: $1000
+Number: 16
+"P"s & "Q"s | In Mexico the juice of certain agaves is used to make this milky fermented drink | pulque
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+SAINTS | A follower of St. Francis, this "poor" saint is the patroness of television | Claire
+right: Leslie
+Wrong: 
+Value: $1000
+Number: 30
+SINNERS | (<http://www.j-archive.com/media/2002-05-09_J_25.jpg> Sarah of the Clue Crew reads from a building on an infamous island.)  This "Birdman of Alcatraz" raised canaries at Leavenworth, but wasn't permitted birds <http://www.j-archive.com/media/2002-05-09_J_25a.jpg> here in his cell at Alcatraz | (Robert) Stroud
+right: Brad
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Brad: $4,600
+Leslie: $1,400
+India: $2,200
+Scores at the end of the Jeopardy! Round:
+Brad: $9,600
+Leslie: $4,200
+India: $600
+Second Jeopardy! Round: CHEMISTRY, ANAGRAMMED NAMES, SWITZERLAND, MILLION, DOLLAR, MASTERS
+CHEMISTRY | As you'd expect, radon gas is collected out of the radioactive decay of this element, symbol Ra | radium
+right: Brad
+Wrong: 
+Value: $400
+Number: 2
+ANAGRAMMED NAMES | Funicello & Fabray | Annette & Nanette
+right: India
+Wrong: 
+Value: $400
+Number: 26
+SWITZERLAND | If you're in top physical condition, you can climb this 14,691-foot peak also known as Monte Cervino | the Matterhorn
+right: Brad
+Wrong: 
+Value: $400
+Number: 11
+MILLION | This physician born in 1903 has been called "The man who reared 50 million kids" | (Dr.) Spock
+right: Brad
+Wrong: 
+Value: $400
+Number: 1
+DOLLAR | He died in 1969 but popped up on a U.S. dollar coin 2 years later | Eisenhower
+right: India
+Wrong: 
+Value: $400
+Number: 21
+MASTERS | His portrait subjects include Ginevra de' Benci & Lisa del Giocondo | Da Vinci
+right: Brad
+Wrong: 
+Value: $400
+Number: 16
+CHEMISTRY | In an exception to the norm, Co, cobalt, atomic number 27, is heavier than this element, Ni, atomic number 28 | nickel
+right: Leslie
+Wrong: 
+Value: $800
+Number: 3
+ANAGRAMMED NAMES | Lincoln & Arthur | Abe & Bea
+right: Brad
+Wrong: 
+Value: $800
+Number: 27
+SWITZERLAND | Swiss banks store heaps of gold in vaults below the Bahnhofstrasse, an elegant street in this city | Zurich
+right: Brad
+Wrong: 
+Value: $800
+Number: 12
+MILLION | Thomas Wolfe described this island as a "million-footed, tower-masted, and sky-soaring citadel" | Manhattan
+right: India
+Wrong: 
+Brad: What is Mont-Saint-Michel?
+Value: $800
+Number: 6
+DOLLAR | The word thaler, which became dollar, is from Joachimsthal, site of a mine for this metal | silver
+right: Leslie
+Wrong: 
+India: What's gold?
+Value: $800
+Number: 22
+MASTERS | When he was born on Crete around 1540, Crete belonged to Venice, so he could have been El Veneto | El Greco
+right: Brad
+Wrong: 
+Value: $800
+Number: 17
+CHEMISTRY | It's the valence number of the oxygen atom in a molecule of water | 2
+right: Brad
+Wrong: 
+Value: $1200
+Number: 4
+ANAGRAMMED NAMES | Banks & Dunne | Irene & Ernie
+right: Leslie
+Wrong: 
+Value: $1200
+Number: 28
+SWITZERLAND | Schwyz, one of the 23 states called these that make up Switzerland today, was one of the original 3 | cantons
+right: Brad
+Wrong: 
+Value: $1200
+Number: 13
+MILLION | The "3 Million Bill" passed by Congress in 1847 appropriated $3 million for the purchase of land from this country | Mexico
+right: Leslie
+Wrong: 
+India: What is Russia?
+Value: $1200
+Number: 7
+DOLLAR | 2-word term for a golf score of 3 under par on a hole, or the old $20 coin it might have won you | double eagle
+right: Brad
+Wrong: 
+Value: $1200
+Number: 23
+MASTERS | In 1883 Claude Monet settled in this hamlet 50 miles from Paris, often seen in his later works | Giverny
+right: Leslie
+Wrong: 
+Value: $1200
+Number: 18
+CHEMISTRY | 4-letter word for the intrinsic angular momentum of an elementary particle | spin
+right: India
+Wrong: 
+Value: $1600
+Number: 5
+ANAGRAMMED NAMES | Campion & Chretien | Jane & Jean
+right: Brad
+Wrong: 
+Value: $1600
+Number: 29
+SWITZERLAND | This 16th century Dutch scholar is buried in Basel | Erasmus
+right: Brad
+Wrong: 
+Value: $1600
+Number: 14
+MILLION | Of the 10 million slaves sent to the Americas over 3 1/2 centuries, almost 40 percent went to this Latin American country | Brazil
+right: Brad
+Wrong: 
+Value: $1600
+Number: 8
+DOLLAR | A "Benjamin" from it would have meant a $2 note, which showed its Secretary of State Judah P. Benjamin | the Confederacy
+right: 
+Wrong: Triple Stumper
+Brad: What is Israel?
+Value: $1600
+Number: 24
+MASTERS | Van Gogh & Kandinsky were in this modern art "show" named for the NYC military building where it was held in 1913 | the Armory Show
+right: Leslie
+Wrong: 
+Value: DD: $9,000
+Number: 19
+CHEMISTRY | This "point" doesn't mean someone's being judgmental--it's where liquid & gaseous phases become identical | the critical point
+right: 
+Wrong: Triple Stumper
+Brad: What is a boiling point?
+Value: $2000
+Number: 9
+ANAGRAMMED NAMES | Baxter & Buffett | Warner & Warren
+right: 
+Wrong: Triple Stumper
+Brad: What is Warren and...
+Value: $2000
+Number: 30
+SWITZERLAND | A period of the Mesozoic era was named for this mountain range that straddles the Swiss-French border | the Jura
+right: Brad
+Wrong: 
+Value: DD: $2,000
+Number: 15
+MILLION | Led by a man from Popowo, in 1981 it had 10 million members | Solidarity
+right: Leslie
+Wrong: 
+Value: $2000
+Number: 10
+DOLLAR | This revolutionary year (not the one you might think) appears on the front of all U.S. dollar bills | 1789
+right: Brad
+Wrong: 
+Value: $2000
+Number: 25
+MASTERS | Ms. Gentileschi, the painter, rape victim, & movie subject whose work is seen <http://www.j-archive.com/media/2002-05-09_DJ_20.jpg> here, had this first name | Artemisia
+right: India
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Brad: $19,600
+Leslie: $20,400
+India: $3,800
+
+Final Jeopardy! Round
+PULITZER PRIZE-WINNING BOOKS | One of its title studies is Sen. Edmund Ross' 1868 vote against convicting President Andrew Johnson | Profiles in Courage
+right: India | Brad | Leslie
+Wrong: 
+Wagers: 
+India: $0
+Brad: $19,600
+Leslie: $0
+Final scores:
+Brad: $39,200 (Finalist)
+Leslie: $20,400 (2nd place: $25,000)
+India: $3,800 (3rd place: $25,000)
+
+Coryat scores
+Brad: $19,600 (33 R(including 1 DD),4 W)
+Leslie: $13,000 (13 R(including 1 DD),0 W)
+India: $5,800 (9 R,3 W(including 1 DD))

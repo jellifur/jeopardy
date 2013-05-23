@@ -1,0 +1,332 @@
+3881 - Monday, June 18, 2001
+Contestants:
+Stuart Leeman: an executive from Coral Springs, Florida
+Chip Rossetti: an editor from Brooklyn, New York
+Kara Miller: a graduate student from Carlisle, Massachusetts (whose 1-day cash winnings total $8,100)
+First Jeopardy! Round: CITY LIT, MODES OF TRANSPORT, THEY PUT ME ON HOLD AGAIN!, COLLECTOR'S CORNER, "MOO", COW
+CITY LIT | En Francais, the title of an 1831 work is "Notre-Dame de" zis city | Paris
+right: Chip
+Wrong: 
+Value: $100
+Number: 1
+MODES OF TRANSPORT | Goodyear's The Eagle | Blimp
+right: Kara
+Wrong: 
+Value: $100
+Number: 6
+THEY PUT ME ON HOLD AGAIN! | Calling Grand Central Station could get you this hold music | "Loco-Motion"
+right: Chip
+Wrong: 
+Value: $100
+Number: 16
+COLLECTOR'S CORNER | This magazine's NYC galleries house the toy soldiers, Monopoly games & Faberge eggs collected by publisher Malcolm | Forbes
+right: Kara
+Wrong: 
+Value: $100
+Number: 11
+"MOO" | The song "That's Amore" is on the soundtrack to this 1987 Cher film | Moonstruck
+right: Chip
+Wrong: 
+Value: $100
+Number: 21
+COW | A 1997 report indicates that Daniel "Peg Leg" Sullivan framed this woman & her cow for the 1871 Chicago Fire | Mrs. O'Leary
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 26
+CITY LIT | Betty Smith wrote about her hometown in the classic "A Tree Grows in" this borough | Brooklyn
+right: Stuart
+Wrong: 
+Value: $200
+Number: 2
+MODES OF TRANSPORT | Disney's Herbie | Volkswagen Beetle (car)
+right: Stuart
+Wrong: 
+Value: $200
+Number: 7
+THEY PUT ME ON HOLD AGAIN! | Hopefully you didn't get this music while on hold with the National Weather Service | "Raindrops Keep Fallin' On My Head"
+right: Stuart
+Wrong: 
+Value: $200
+Number: 17
+COLLECTOR'S CORNER | Collectors of Tom Tierney's paper dolls prize the one of this princess with her charity auction dresses | Princess Diana
+right: Chip
+Wrong: 
+Value: $200
+Number: 12
+"MOO" | This adjective means "purely academic" or "irrelevant" | Moot
+right: Chip
+Wrong: 
+Value: $200
+Number: 22
+COW | At the 1939 World's Fair in New York City, the Borden exhibit featured a live version of this trademarked cow | Elsie
+right: Chip
+Wrong: 
+Value: $200
+Number: 27
+CITY LIT | In his first novel, Michael Chabon revealed "The Mysteries of" this steel city | Pittsburgh
+right: Stuart
+Wrong: 
+Value: $300
+Number: 3
+MODES OF TRANSPORT | The Spruce Goose | Plane
+right: Chip
+Wrong: 
+Value: $300
+Number: 8
+THEY PUT ME ON HOLD AGAIN! | You might get this hold music when calling the auto club for directions | "Do You Know, Do You Know Where You're Going To?"
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 18
+COLLECTOR'S CORNER | The Danbury Mint could make a mint with its porcelain tea set adorned with pictures of this dimpled darling of the '30s | Shirley Temple
+right: Stuart
+Wrong: 
+Value: $300
+Number: 13
+"MOO" | This stir-fried Chinese dish that contains shredded pork, scallions & egg is rolled in a thin pancake | Moo shu pork
+right: Kara
+Wrong: 
+Value: $300
+Number: 23
+COW | A cow's stomach has this many compartments | 4
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 28
+CITY LIT | In a middle English classic, travelers make a pilgrimage from Southwark to this city in Kent | Canterbury
+right: Stuart
+Wrong: 
+Value: DD: $500
+Number: 4
+MODES OF TRANSPORT | Names for these include hogs & choppers | Motorcycles
+right: Stuart
+Wrong: 
+Value: $400
+Number: 9
+THEY PUT ME ON HOLD AGAIN! | It seems to always be this song when my butcher shop puts me on hold | "Mack The Knife"
+right: Chip
+Wrong: 
+Value: $400
+Number: 19
+COLLECTOR'S CORNER | The GWTW movie museum in Atlanta displays a figurine of this black actress in her film role as Prissy | Butterfly McQueen
+right: Stuart
+Wrong: 
+Value: $400
+Number: 14
+"MOO" | It's another name for a person born under the sign of Cancer | Moonchild/moonchildren
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+COW | One of the 2 breeds of milk cows named for English Channel islands | Guernsey or Jersey
+right: Chip
+Wrong: 
+Value: $400
+Number: 29
+CITY LIT | An author succumbs to cholera, leading to his "Death in" this Italian city | Venice
+right: Stuart
+Wrong: 
+Value: $500
+Number: 5
+MODES OF TRANSPORT | The Flying Dutchman in opera | Ship
+right: Stuart
+Wrong: 
+Value: $500
+Number: 10
+THEY PUT ME ON HOLD AGAIN! | This song would be great hold music for a pediatrician | "There Goes My Baby"
+right: Kara
+Wrong: 
+Value: $500
+Number: 20
+COLLECTOR'S CORNER | Seen here, Rachel was this regal company's Figure of the Year for 2000 | Royal Doulton
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 15
+"MOO" | This Cab Calloway song includes the lines "Hi-De-Hi-De-Hi-De-Hi!" & "Ho-De-Ho-De-Ho-De-Ho!" | "Minnie The Moocher"
+right: Stuart
+Wrong: 
+Value: $500
+Number: 25
+COW | This beef grade comes from pampered cows that are massaged with sake & fed lots of beer | Kobe
+right: Chip
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Kara: $200
+Chip: $600
+Stuart: $2,700
+Scores at the end of the Jeopardy! Round:
+Kara: $1,000
+Chip: $2,500
+Stuart: $2,700
+Second Jeopardy! Round: CLASSICAL MUSIC, AT THE MOVIES, MAD ABOUT MADAGASCAR, "C" FOOD, REAL BOHEMIANS, MYTHOLOGICAL RHYME TIME
+CLASSICAL MUSIC | In 1768 his son Carl Philipp Emanuel became the musical director for the 5 main churches in Hamburg | J.S. Bach
+right: Kara
+Wrong: 
+Value: $200
+Number: 21
+AT THE MOVIES | In a popular 1960 western, Yul Brynner & Charles Bronson are 2 of these title defenders of a Mexican town | The Magnificent Seven
+right: Chip
+Wrong: 
+Value: $200
+Number: 15
+MAD ABOUT MADAGASCAR | 1 of only 3 islands in the world larger than Madagascar | Borneo (or Greenland or New Guinea)
+right: Stuart
+Wrong: 
+Value: $200
+Number: 20
+"C" FOOD | Some refer to this spicy dish as a "bowl o' red" | chili
+right: Kara
+Wrong: 
+Value: $200
+Number: 1
+REAL BOHEMIANS | Born in Bohemia in 1884, Edward Benes was the first foreign minister & second president of this country | Czechoslovakia
+right: Chip
+Wrong: 
+Kara: What is Hungary?
+Value: $200
+Number: 6
+MYTHOLOGICAL RHYME TIME | Ship-launching Greek beauty's cantaloupes | Helen's melons
+right: Kara
+Wrong: 
+Value: $200
+Number: 16
+CLASSICAL MUSIC | One of Brahms' best-known orchestral works is his "Variations on a Theme by" this "Papa" | F.J. Haydn
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+AT THE MOVIES | (<http://www.j-archive.com/media/2001-06-18_DJ_09.jpg> Hi, I'm Nathan Lane, hold it down!)  I was the voice of Snowball the Cat in this 1999 film based on an E.B. White book | Stuart Little
+right: Chip
+Wrong: 
+Value: $400
+Number: 9
+"C" FOOD | In English trifle the "soft" type of this puddinglike dessert is mixed with fruit & spongecake | custard
+right: Stuart
+Wrong: 
+Value: $400
+Number: 2
+REAL BOHEMIANS | 19th century chess genius Wilhelm Steinitz was renowned for his use of these front-liners | pawns
+right: Chip
+Wrong: 
+Value: $400
+Number: 7
+MYTHOLOGICAL RHYME TIME | Galahad's special bucket to hold a special chalice | a grail pail
+right: Stuart
+Wrong: 
+Value: $400
+Number: 17
+CLASSICAL MUSIC | In 1897 Gustav Mahler became the artistic director of this city's Imperial Opera, a post he held for 10 years | Vienna
+right: Stuart
+Wrong: 
+Value: $600
+Number: 23
+AT THE MOVIES | The composition heard <http://www.j-archive.com/media/2001-06-18_DJ_10.mp3> here was appropriately played in this 1994 Hugh Grant film: | Four Weddings and a Funeral
+right: Chip
+Wrong: 
+Value: DD: $600
+Number: 10
+MAD ABOUT MADAGASCAR | Madagascar is one of the leading producers of this bean used as a popular flavor of ice cream | vanilla
+right: Chip
+Wrong: 
+Value: $600
+Number: 27
+"C" FOOD | Head south of the border or to any good Mexican restaurant for one of these deep-fried burritos | chimichangas
+right: Kara
+Wrong: 
+Value: $600
+Number: 3
+REAL BOHEMIANS | Rabbi Zechariah Frankel originated this movement, which falls between Orthodox & Reform Judaism | Conservative
+right: Kara
+Wrong: 
+Value: $600
+Number: 8
+MYTHOLOGICAL RHYME TIME | Norse underworld goddess' hollow metal ringers | Hel's bells
+right: Kara
+Wrong: 
+Value: $600
+Number: 18
+CLASSICAL MUSIC | This Frenchman did not allow the publication of his "Carnival of the Animals" during his lifetime | Camille Saint-Saens
+right: Stuart
+Wrong: 
+Value: $800
+Number: 24
+AT THE MOVIES | In 1970 Richard Harris played this 17th century British "protector" at odds with King Charles I | Oliver Cromwell
+right: Chip
+Wrong: 
+Value: $800
+Number: 11
+MAD ABOUT MADAGASCAR | Between 1960 & 1975 Madagascar was known as this "republic" | the Malagasy Republic
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+"C" FOOD | Originally from Naples, it's a single serving stuffed pizza in the shape of a turnover | a calzone
+right: Chip
+Wrong: 
+Value: $800
+Number: 4
+REAL BOHEMIANS | Prince Schwarzenberg helped restore this dynasty's control after the 1848 revolutions | Hapsburg
+right: Chip
+Wrong: 
+Value: $800
+Number: 13
+MYTHOLOGICAL RHYME TIME | Roman agriculture god's sewing aids | Saturn's patterns
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+CLASSICAL MUSIC | In 1874 Richard Wagner & his wife moved into Haus Wahnfried, a home in this city, paid for by KIng Ludwig | Bayreuth
+right: 
+Wrong: Triple Stumper
+Chip: What is Munich?
+Value: $1000
+Number: 25
+AT THE MOVIES | In "Dante's Inferno", Oliver Reed played this pre-Raphaelite artist & poet | Dante Gabriel Rossetti
+right: Chip
+Wrong: 
+Kara: Who was Virgil?
+Value: $1000
+Number: 12
+"C" FOOD | Anatomical name of the squash seen <http://www.j-archive.com/media/2001-06-18_DJ_05.jpg> here: | crookneck
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+REAL BOHEMIANS | This Bohemian-born father of Madeleine K. Albright taught international relations in the U.S. | Josef Korbel
+right: Kara
+Wrong: 
+Value: $1000
+Number: 14
+MYTHOLOGICAL RHYME TIME | Falcon-headed Egyptian god's repeated song verses | Horus' choruses
+right: Stuart
+Wrong: 
+Value: $1000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Kara: $3,200
+Chip: $7,300
+Stuart: $6,100
+
+Final Jeopardy! Round
+POETRY | Oscar Wilde said of this title place "The warder is despair" | (The Ballad of) Reading Gaol
+right: Chip
+Wrong: 
+Kara: What is Jail?
+Stuart: What is The Asylum
+Wagers: 
+Kara: $3,200
+Stuart: $3,900
+Chip: $4,901
+Final scores:
+Kara: $0 (3rd place: Sony Card $1,000 Shopping Spree)
+Chip: $12,201 (New champion: $12,201)
+Stuart: $2,200 (2nd place: Trip to Beaches Resort & Spa, Turks & Caicos)
+
+Coryat scores
+Kara: $3,200 (11 R,2 W)
+Chip: $7,300 (20 R(including 1 DD),1 W)
+Stuart: $6,000 (17 R(including 1 DD),5 W)

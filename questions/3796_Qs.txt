@@ -1,0 +1,335 @@
+6279 - Thursday, December 29, 2011
+Comments: Jason Keller game 10.  Dave Leach game 1.
+Contestants:
+Dave Leach: a software analyst from Atlanta, Georgia
+Jennifer Green: a university librarian from Paris, Tennessee
+Jason Keller: a tutor from Highland Park, New Jersey (whose 9-day cash winnings total $213,900)
+First Jeopardy! Round: I THINK I LOVE SHOE, KENTUCKY KERNELS, EPONYMS, OFFICIAL BRITISH ROYAL POSTS, CHILDREN'S LIT, THAT SMELLS... LIKE A CELEBRITY!
+I THINK I LOVE SHOE | Tassel-top, chain & penny are variations of this shoe | loafers
+right: Dave
+Wrong: 
+Value: $200
+Number: 8
+KENTUCKY KERNELS | Born in Kentucky the year before Lincoln, he became president the same year as Lincoln & died 24 years after Lincoln | Jefferson Davis
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 10
+EPONYMS | This -ism named for a legendary soldier devoted to Napoleon can mean the belief that one's gender is superior | chauvinism
+right: Jason
+Wrong: 
+Value: $200
+Number: 1
+OFFICIAL BRITISH ROYAL POSTS | This verse job is awarded on the advice of the prime minister / Whose motives may be underhanded, even sinister | Poet Laureate
+right: Jason
+Wrong: 
+Value: $200
+Number: 23
+CHILDREN'S LIT | In a kids' book, this plaza dweller "takes a bawth" | Eloise
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 21
+THAT SMELLS... LIKE A CELEBRITY! | Does this movie character's "Mojo" cologne make you hor--uh... smell good?  Yeah, baby! | Austin Powers
+right: Dave
+Wrong: 
+Value: $200
+Number: 6
+I THINK I LOVE SHOE | Have a unique fashion sense?  Into rubber sole?  Then the shoe seen <http://www.j-archive.com/media/2011-12-29_J_09.jpg> here, used in this sport, is for you | bowling
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 9
+KENTUCKY KERNELS | Half of a deadly feud, this family lived primarily in Kentucky; their rivals, in West Virginia | the McCoys
+right: Dave
+Wrong: 
+Jennifer: Who are the Hatfields?
+Value: $400
+Number: 11
+EPONYMS | To execute without due process, especially by hanging; it was named for a Virginian who was allowed to do it | to lynch
+right: Dave
+Wrong: 
+Value: $400
+Number: 2
+OFFICIAL BRITISH ROYAL POSTS | Each earning &#163;3.50 a year in a ceremonial post, royal watermen play a part in any state occasion on this river | the Thames
+right: Jason
+Wrong: 
+Value: $400
+Number: 24
+CHILDREN'S LIT | "A Proud Taste for Scarlet and Miniver" is about 12th century queen Eleanor of this duchy | Aquitaine
+right: Jason
+Wrong: 
+Value: $400
+Number: 22
+THAT SMELLS... LIKE A CELEBRITY! | Bend your nasal passages with this soccer guy's floral scent for ladies or aromatic scent for the blokes | (David) Beckham
+right: Jason
+Wrong: 
+Value: $400
+Number: 7
+I THINK I LOVE SHOE | This 4-letter word describes a high-heeled, slip-on shoe with a low-cut or V-shaped throat | a pump
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 12
+KENTUCKY KERNELS | In 1883 Thomas Edison showed off his light bulb at the southern exposition in this largest Kentucky city | Louisville
+right: Dave
+Wrong: 
+Value: $600
+Number: 13
+EPONYMS | A Greek god who was half man, half goat & known for causing terror gives us this word for sudden terror | panic
+right: Jason
+Wrong: 
+Value: $600
+Number: 3
+OFFICIAL BRITISH ROYAL POSTS | Tom!  Tom!  You can be the son of the queen's this, if dad's musically inclined & in the armed forces | the piper
+right: Dave
+Wrong: 
+Value: $600
+Number: 25
+CHILDREN'S LIT | Chapter I of this Lewis Carroll book says, "the glass was beginning to melt away, just like a bright silvery mist" | Through the Looking Glass
+right: Jennifer
+Wrong: 
+Dave: What is Alice in Wonderland?
+Value: $600
+Number: 26
+THAT SMELLS... LIKE A CELEBRITY! | This singer believes "you are beautiful, no matter what they say", especially with her "Inspire" floral scent | Christina Aguilera
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 18
+I THINK I LOVE SHOE | Named for a Buster Brown girl, this low-heeled, patent leather slipper has a single strap over the instep | a Mary Jane
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 14
+KENTUCKY KERNELS | In 1775 he blazed a trail through Kentucky that became known as the Wilderness Road | (Daniel) Boone
+right: Jason
+Wrong: 
+Value: $800
+Number: 15
+EPONYMS | The 9th century "Apostle of the Slavs" gave his name to this alphabet used by the Slavs | Cyrillic
+right: Dave
+Wrong: 
+Value: $800
+Number: 4
+OFFICIAL BRITISH ROYAL POSTS | Not the Master of the House, but the Master of the this is responsible for the sovereign's carriages & certain animals | Horse
+right: 
+Wrong: Triple Stumper
+Jason: What is Stable?
+Value: $800
+Number: 29
+CHILDREN'S LIT | Sara Crewe is the little title character of this classic by Frances Hodgson Burnett | A Little Princess
+right: 
+Wrong: Triple Stumper
+Jennifer: What is The Secret Garden?
+Value: $800
+Number: 27
+THAT SMELLS... LIKE A CELEBRITY! | Everyone nose this Yankee shortstop is "Driven"; now no one can ever say he stinks | (Derek) Jeter
+right: Jason
+Wrong: 
+Dave: Who is Rodriguez?
+Value: $800
+Number: 19
+I THINK I LOVE SHOE | You can recognize this French designer's chic shoes by the trademark red soles | Louboutin
+right: Jennifer
+Wrong: 
+Value: $1000
+Number: 16
+KENTUCKY KERNELS | Not cotton but this rope-making plant was king in antebellum Kentucky, which grew almost all the USA's supply | hemp
+right: Jennifer
+Wrong: 
+Value: $1000
+Number: 17
+EPONYMS | This setter dog breed was developed in Scotland & named for the nobleman who popularized it in the early 19th c. | the Gordon setter
+right: 
+Wrong: Triple Stumper
+Jennifer: What is the Sussex setter?
+Value: $1000
+Number: 5
+OFFICIAL BRITISH ROYAL POSTS | Edmund Halley was the second this "Royal" from 1720 to 1742 | the Astronomer Royal (the Royal Astronomer accepted)
+right: Dave
+Wrong: 
+Value: DD: $2,000
+Number: 30
+CHILDREN'S LIT | A ravenous insect larva consumes a ton of food & undergoes metamorphosis in this classic by Eric Carle | The Very Hungry Caterpillar
+right: Dave
+Wrong: 
+Jennifer: What is The Hungry, Hungry Caterpillar?
+Value: $1000
+Number: 28
+THAT SMELLS... LIKE A CELEBRITY! | Get this "U Remind Me" R&B singer's eau de toilette for dad... then explain he's not a guy who works in a movie theater | Usher
+right: Dave
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Jason: $2,000
+Jennifer: $600
+Dave: $2,600
+Scores at the end of the Jeopardy! Round:
+Jason: $3,000
+Jennifer: $2,200
+Dave: $5,800
+Second Jeopardy! Round: OPERA, SCIENTISTS, THE THIRD-MOST POPULAR PRESIDENTIAL CHOICE, "D-O", DAYLIGHT COME, ME WANNA GO HOME
+OPERA | This title character is sent to fetch Isolde, his uncle King Mark's intended bride | Tristan
+right: Jason
+Wrong: 
+Value: $400
+Number: 4
+SCIENTISTS | In 1727 this physicist became the first scientist buried in Westminster Abbey | Newton
+right: Jason
+Wrong: 
+Value: $400
+Number: 8
+"D-O" | It precedes "tranquility" in the preamble of the Constitution | domestic
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 1
+DAYLIGHT COME | A dawn event, or a Florida city of 84,000 | Sunrise
+right: Dave
+Wrong: 
+Value: $400
+Number: 16
+ME WANNA GO HOME | The "wine" is too warm in the Transylvanian Alps of this country, & why do I have to carry garlic?  Me wanna go home | Romania
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+OPERA | She's a slave to Amneris, an Egyptian princess | Aida
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 5
+SCIENTISTS | (<http://www.j-archive.com/media/2011-12-29_DJ_12.jpg> Sarah of the Clue Crew hovers over Rio de Janeiro, Brazil in a helicopter.)  To switch on floodlights for Christ the Redeemer's dedication in 1931, <http://www.j-archive.com/media/2011-12-29_DJ_12a.jpg> this radio pioneer sent shortwave signals from Naples | Marconi
+right: Jason
+Wrong: 
+Value: $800
+Number: 12
+"D-O" | A lump or blob of something, like whipped cream | a dollop
+right: Dave
+Wrong: 
+Value: $800
+Number: 2
+DAYLIGHT COME | "Light's glittering morn bedecks the sky", says a hymn for lauds, also called morning this | prayers
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 17
+ME WANNA GO HOME | The summers are nice in this capital of Manitoba--that's when I should have come. Me wanna go home | Winnipeg
+right: Jason
+Wrong: 
+Value: $800
+Number: 26
+OPERA | Alban Berg's 1937 opera is a real doozy, or a real this, the double-talk name of its title character | Lulu
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 9
+SCIENTISTS | Scientist & author Temple Grandin overcame this alienating condition, from the Greek for "self" or "same" | autism
+right: Jennifer
+Wrong: 
+Value: $1200
+Number: 13
+"D-O" | It's a file of documents on a particular subject or person | a dossier
+right: Jason
+Wrong: 
+Value: $1200
+Number: 3
+DAYLIGHT COME | Daylight comes, & it's time for <http://www.j-archive.com/media/2011-12-29_DJ_18.jpg> this <http://www.j-archive.com/media/2011-12-29_DJ_18a.jpg> mix of martial arts & exercise, whose name means "supreme ultimate fist" | tai chi
+right: Jennifer
+Wrong: 
+Value: $1200
+Number: 18
+ME WANNA GO HOME | Got sunburned visiting the beach of this most populous Brazilian city; home please! | São Paulo
+right: Jason
+Wrong: 
+Dave: What is Rio de Janeiro?
+Value: $1200
+Number: 24
+OPERA | Gingerbread figures turn back into boys & girls when the witch's spell is broken in this opera | Hansel and Gretel
+right: Jennifer
+Wrong: 
+Value: $1600
+Number: 10
+SCIENTISTS | In the 2nd century this Alexandrian astronomer catalogued 47 of the 88 constellations we know today | Ptolemy
+right: Dave
+Wrong: 
+Value: $1600
+Number: 14
+THE THIRD-MOST POPULAR PRESIDENTIAL CHOICE | Strom Thurmond | Harry Truman
+right: 
+Wrong: 
+Jason: Who is FDR?
+Value: DD: $3,000
+Number: 27
+"D-O" | Small "coins" thrown from Mardi Gras floats | doubloons
+right: Dave
+Wrong: 
+Value: $1600
+Number: 6
+DAYLIGHT COME | When in Rome, Eos, goddess of dawn, went by this name | Aurora
+right: Jennifer
+Wrong: 
+Value: DD: $3,000
+Number: 19
+ME WANNA GO HOME | The seafood was great, the tequila too much in this "True Cross" city on the Gulf of Mexico; me wanna go home | Veracruz
+right: Jason
+Wrong: 
+Value: $1600
+Number: 23
+OPERA | (<http://www.j-archive.com/media/2011-12-29_DJ_11.jpg> Alex gives the clue from the Metropolitan Opera in New York.)  The Met's production "Enchanted Island" is a version of "The Tempest", & the costume I'm wearing belongs to this magician, who rules the island | Prospero
+right: Dave
+Wrong: 
+Value: $2000
+Number: 11
+SCIENTISTS | In 1986 Ernst Ruska received the Nobel Prize in Physics for his development of this type of microscope 53 years earlier | an electron microscope
+right: Dave
+Wrong: 
+Value: $2000
+Number: 15
+THE THIRD-MOST POPULAR PRESIDENTIAL CHOICE | John B. Anderson | Reagan
+right: Dave
+Wrong: 
+Value: $2000
+Number: 25
+"D-O" | This word for a wild brawl is from the name of a Dublin fair | donnybrook
+right: Dave
+Wrong: 
+Value: $2000
+Number: 7
+DAYLIGHT COME | This author says the cells in the skin of some of her characters are "reflective like crystal" & sparkle in daylight | (Stephenie) Meyer
+right: Dave
+Wrong: 
+Value: $2000
+Number: 20
+ME WANNA GO HOME | If you can't stand the heat either, then let's caravan out of this fabled city at the center of Mali; me wanna go home | Timbuktu
+right: Jason
+Wrong: 
+Value: $2000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Jason: $8,800
+Jennifer: $11,200
+Dave: $19,000
+
+Final Jeopardy! Round
+CONTEMPORARY AMERICAN WRITERS | Concluding a 4-book series, his 2004 novel "Folly and Glory" features Kit Carson, William Clark & Jim Bowie | Larry McMurtry
+right: 
+Wrong: 
+Jason: Who is Grisham?
+Jennifer: Who is McMurty?
+Dave: Who is Michener?
+Wagers: 
+Jason: $7,000
+Jennifer: $11,198
+Dave: $3,401
+Final scores:
+Jason: $1,800 (2nd place: $2,000)
+Jennifer: $2 (3rd place: $1,000)
+Dave: $15,599 (New champion: $15,599)
+
+Coryat scores
+Jason: $11,800 (17 R,2 W(including 1 DD))
+Jennifer: $9,800 (16 R(including 1 DD),4 W)
+Dave: $18,000 (19 R(including 1 DD),3 W)

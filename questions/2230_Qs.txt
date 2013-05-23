@@ -1,0 +1,351 @@
+5355 - Friday, December 14, 2007
+Contestants:
+Max Zarou: a fifth-grade teacher originally from Culver City, California
+Diana Klick: a homemaker from Hershey, Pennsylvania
+Chris McCarthy: a technical support specialist from Brockton, Massachusetts (whose 1-day cash winnings total $28,401)
+First Jeopardy! Round: EUROPEAN EXPLORERS, DOUBLE TALK ROCK, PIE-POURRI, CALIFORNIA, OREGON OR WASHINGTON, MONOPOLY, SUFFIXES
+EUROPEAN EXPLORERS | In 1609 he led his men across the Atlantic & up what became known as his river, to Albany | (Henry) Hudson
+right: Max
+Wrong: 
+Value: $200
+Number: 4
+DOUBLE TALK ROCK | This group that was "Hungry Like The Wolf" was named after a villain in the movie "Barbarella" | Duran Duran
+right: Diana
+Wrong: 
+Value: $200
+Number: 1
+PIE-POURRI | Betty Crocker has a recipe for rhubarb pie topped with this fluff made from egg whites | meringue
+right: Diana
+Wrong: 
+Value: $200
+Number: 21
+CALIFORNIA, OREGON OR WASHINGTON | The smallest in area of the 3 | Washington
+right: Chris
+Wrong: 
+Diana: What is Oregon?
+Value: $200
+Number: 11
+MONOPOLY | Each time a player passes go, he collects this salary | $200
+right: Max
+Wrong: 
+Value: $200
+Number: 25
+SUFFIXES | We love this suffix that means "lover of", as in audio- or anglo- | -phile
+right: Max
+Wrong: 
+Value: $200
+Number: 13
+EUROPEAN EXPLORERS | Commanding the Pelican in 1578, this English circumnavigator reached the South American coast | (Sir Francis) Drake
+right: Chris
+Wrong: 
+Value: $400
+Number: 5
+DOUBLE TALK ROCK | It precedes "Top" in the name of the group that sang, "She's got legs, she knows how to use them" | ZZ
+right: Chris
+Wrong: 
+Value: $400
+Number: 2
+PIE-POURRI | You don't need a lot of dough to make pie crust; smash up some chocolate wafers to make this kind of crust instead | a crumb crust
+right: Diana
+Wrong: 
+Max: What is a cookie crumble?
+Value: $400
+Number: 22
+CALIFORNIA, OREGON OR WASHINGTON | Contains the lowest point in the nation | California
+right: Diana
+Wrong: 
+Value: $400
+Number: 12
+MONOPOLY | Tokens that are household items include the iron & this sewing accessory | a thimble
+right: Diana
+Wrong: 
+Value: $400
+Number: 26
+SUFFIXES | Silly rabbit, this suffix isn't for kids--it was used for female equivalents, like for women aviators | -trix
+right: Max
+Wrong: 
+Value: $400
+Number: 16
+EUROPEAN EXPLORERS | Beatriz Barbosa said goodbye to this Portuguese husband of hers in 1519; 19 months later, he died in the Philippines | Magellan
+right: Diana
+Wrong: 
+Value: $600
+Number: 6
+DOUBLE TALK ROCK | Neil Diamond had his first Top 10 hit with this song that says, "She got the way to move me" | "Cherry, Cherry"
+right: Max
+Wrong: 
+Value: $600
+Number: 3
+PIE-POURRI | Not chocolate silk or chocolate chiffon, but chocolate this glossy fabric is a favorite at Marie Callender's | chocolate satin
+right: Chris
+Wrong: 
+Value: $600
+Number: 23
+CALIFORNIA, OREGON OR WASHINGTON | Its Shakespeare Festival at Ashland started in 1935 | Oregon
+right: Max
+Wrong: 
+Value: $600
+Number: 14
+MONOPOLY | A question mark is on the space in which you draw one of these cards | Chance
+right: Max
+Wrong: 
+Value: $600
+Number: 28
+SUFFIXES | This suffix (as with acr- or syn-) is from the greek for "name" | -onym (-nym accepted)
+right: Diana
+Wrong: 
+Value: $600
+Number: 18
+EUROPEAN EXPLORERS | In 1536 Spain's King Charles I made this explorer governor of Cuba; he arrived near present-day Tampa Bay in 1539 | Hernando de Soto
+right: 
+Wrong: Triple Stumper
+Chris: Who is Ponce de León?
+Value: $800
+Number: 7
+DOUBLE TALK ROCK | "Head To Toe" & "Lost In Emotion" were huge hits for her & Cult Jam | Lisa Lisa
+right: Max
+Wrong: 
+Value: $800
+Number: 9
+PIE-POURRI | Leaping insects!  This pie is actually made with creme de menthe, not with the bug in its name | grasshopper
+right: Max
+Wrong: 
+Value: $800
+Number: 24
+CALIFORNIA, OREGON OR WASHINGTON | Home to the world's oldest living things, a grove of 4,000-year-old bristlecone pine trees | California
+right: Diana
+Wrong: 
+Value: $800
+Number: 15
+MONOPOLY | A classic PBS kids' series that taught reading shared its name with this Monopoly utility | the Electric Company
+right: Max
+Wrong: 
+Value: DD: $2,000
+Number: 29
+SUFFIXES | The suffix -ose is used to form the names of these, as in glucose & sucrose | sugars
+right: Chris
+Wrong: 
+Value: $800
+Number: 19
+EUROPEAN EXPLORERS | Seen <http://www.j-archive.com/media/2007-12-14_J_08.jpg> here is a map of this Florentine's explorations | (Amerigo) Vespucci
+right: 
+Wrong: Triple Stumper
+Max: Who is Da Gama?
+Value: $1000
+Number: 8
+DOUBLE TALK ROCK | This one-named Scottish lass topped the charts in 1967 with "To Sir With Love" | Lulu
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+PIE-POURRI | Finely chopped beef was once a key ingredient in this holiday pie that's often vegetarian these days | mincemeat
+right: Diana
+Wrong: 
+Value: $1000
+Number: 27
+CALIFORNIA, OREGON OR WASHINGTON | Has 2 male U.S. senators | Oregon
+right: Max
+Wrong: 
+Value: $1000
+Number: 17
+MONOPOLY | A railroad & an avenue are both named for this state | Pennsylvania
+right: Diana
+Wrong: 
+Value: $1000
+Number: 30
+SUFFIXES | A 3-letter suffix that forms the present participle of a verb, or before "direct", an online banking group | -ing
+right: Diana
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Chris: $200
+Diana: $1,800
+Max: $1,400
+Scores at the end of the Jeopardy! Round:
+Chris: $1,600
+Diana: $6,400
+Max: $6,000
+Second Jeopardy! Round: HEALTH & MEDICINE, WOMEN ON TV, COUNTRIES' LARGEST ISLANDS, A SNAKEY CATEGORY, THESE 3..., LET'S LEARN HEBREW
+HEALTH & MEDICINE | Statin drugs like Lipitor are used to lower the bad type of this | cholesterol
+right: Diana
+Wrong: 
+Value: $400
+Number: 16
+WOMEN ON TV | One of the original co-hosts of "The View", she now gives her views as co-anchor of "Today" | Meredith Vieira
+right: Diana
+Wrong: 
+Value: $400
+Number: 2
+COUNTRIES' LARGEST ISLANDS | Marajo in the Amazon River | Brazil
+right: Max
+Wrong: 
+Value: $400
+Number: 21
+A SNAKEY CATEGORY | Term for a roll of 2 in the game of craps | snake-eyes
+right: Max
+Wrong: 
+Value: $400
+Number: 26
+THESE 3... | These 3 U.S. coins total $1.11 | a dollar, a dime, and a penny
+right: Max
+Wrong: 
+Value: $400
+Number: 1
+LET'S LEARN HEBREW | (<http://www.j-archive.com/media/2007-12-14_DJ_11.jpg> Jon of the Clue Crew shows a Hebrew word on a monitor.) Hebrew is based on 3-letter roots.  The equivalent of "S", "D", "R" gives us "Sidrah", a Torah reading, "Siddur", a prayer book, and this word for a special meal | seder
+right: Max
+Wrong: 
+Value: $400
+Number: 11
+HEALTH & MEDICINE | There are viral and bacterial types of this, the inflammation of the membranes covering the brain & spinal cord | meningitis
+right: Diana
+Wrong: 
+Value: $800
+Number: 17
+WOMEN ON TV | In addition to playing matriarch Nora Holden on "Brothers & Sisters", she has played Abby's mom on "ER" | Sally Field
+right: Diana
+Wrong: 
+Value: $800
+Number: 3
+COUNTRIES' LARGEST ISLANDS | Baffin Island | Canada
+right: Chris
+Wrong: 
+Value: $800
+Number: 22
+A SNAKEY CATEGORY | Stanley Kunitz wrote a poem, "The Snakes Of" this month; take an easy guess & remember, he's a poet | September
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+THESE 3... | These 3 planets are closer to the sun than Mars is | Mercury, Venus, and Earth
+right: Max
+Wrong: 
+Value: $800
+Number: 5
+LET'S LEARN HEBREW | Dictionary definitions of this Hebrew word include safety, health, success, hello, goodbye & peace | shalom
+right: Chris
+Wrong: 
+Value: $800
+Number: 12
+HEALTH & MEDICINE | A sign of this infection from the virus that also causes chicken pox is a blistering rash preceded by severe pain | shingles
+right: 
+Wrong: 
+Diana: What is rubella?
+Value: DD: $2,000
+Number: 18
+WOMEN ON TV | In the '70s she played Maude Findlay; in the 80s, Dorothy Zbornak | Bea Arthur
+right: Chris
+Wrong: 
+Value: $1200
+Number: 4
+COUNTRIES' LARGEST ISLANDS | Majorca | Spain
+right: Max
+Wrong: 
+Value: $1200
+Number: 23
+A SNAKEY CATEGORY | Twin Falls on the Snake River give this state's city of Twin Falls its name | Idaho
+right: Max
+Wrong: 
+Value: $1200
+Number: 28
+THESE 3... | King who was dad to these 3 girls: Goneril, Regan & Cordelia | King Lear
+right: Diana
+Wrong: 
+Value: $1200
+Number: 8
+LET'S LEARN HEBREW | (<http://www.j-archive.com/media/2007-12-14_DJ_13.jpg> Sarah of the Clue Crew gives us a Hebrew lesson.) Hebrew letters can also indicate numbers; the word for 14 is yod-dalet, or 10 + 4; but 15 is <http://www.j-archive.com/media/2007-12-14_DJ_13a.jpg> 9 + 6 to avoid writing one of the many of these sacred names | the names of God
+right: 
+Wrong: Triple Stumper
+Chris: What is Yaweh?
+Diana: What is Jehovah?
+Max: What is Adonai?
+Value: $1200
+Number: 13
+HEALTH & MEDICINE | Lateral epicondylitis is the medical term for this chronic sports injury that affects the arm | tennis elbow
+right: Max
+Wrong: 
+Value: $1600
+Number: 19
+WOMEN ON TV | Daughter of a Mr. Universe, she shows some muscle as Detective Olivia Benson on "Law & Order: SVU" | Mariska Hargitay
+right: Max
+Wrong: 
+Value: $1600
+Number: 6
+COUNTRIES' LARGEST ISLANDS | Sakhalin | Russia
+right: Diana
+Wrong: 
+Value: $1600
+Number: 24
+A SNAKEY CATEGORY | The basis of the Snake Handlers' Sect, this Second Gospel says believers "shall take up serpents" | Mark
+right: Diana
+Wrong: 
+Value: $1600
+Number: 30
+THESE 3... | White light is made up of these, the 3 additive primary colors | red, blue, and green
+right: 
+Wrong: Triple Stumper
+Chris: What are red, yellow, and green?
+Max: What are red, yellow, and blue?
+Value: $1600
+Number: 9
+LET'S LEARN HEBREW | Modern Hebrew uses Sephardic pronunciation, not that of these European Jews, so "Shabbat" not "Shabbes" | Ashkenazi
+right: 
+Wrong: Triple Stumper
+Max: What is Hasidic?
+Value: $1600
+Number: 14
+HEALTH & MEDICINE | The name of this fluid that contains white blood cells comes from the Latin for "water" | lymph
+right: Diana
+Wrong: 
+Value: $2000
+Number: 20
+WOMEN ON TV | On "Dallas", one of the 2 actresses who played Miss Ellie | Barbara Bel Geddes (& Donna Reed)
+right: Max
+Wrong: 
+Value: $2000
+Number: 7
+COUNTRIES' LARGEST ISLANDS | Isla Isabela in the Galapagos | Ecuador
+right: Diana
+Wrong: 
+Value: $2000
+Number: 25
+A SNAKEY CATEGORY | <http://www.j-archive.com/media/2007-12-14_DJ_29.jpg> This lactic critter is an important controller of pests | the milk snake
+right: Diana
+Wrong: 
+Value: $2000
+Number: 29
+THESE 3... | Annexed by the USSR in 1940, thse 3 countries were the first to break away | Latvia, Lithuania, and Estonia
+right: Max
+Wrong: 
+Value: $2000
+Number: 10
+LET'S LEARN HEBREW | (<http://www.j-archive.com/media/2007-12-14_DJ_15.jpg> Kelly of the Clue Crew gives us a Hebrew lesson.) In Hebrew, prefixes can be used as prepositions; "reshit" means "beginning", & <http://www.j-archive.com/media/2007-12-14_DJ_15a.jpg> "b'reshit" means this familliar phrase | in the beginning
+right: Chris
+Wrong: 
+Value: DD: $2,000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Chris: $3,600
+Diana: $16,000
+Max: $13,600
+
+Final Jeopardy! Round
+ACADEMY AWARD FIRSTS | On March 5, 1936 screenwriter Dudley Nichols did this; it didn't happen again until an actor did it April 15, 1971 | refused his Oscar
+right: 
+Wrong: 
+Chris: What is die?
+Max: What is cried during the acceptance
+Diana: What is won for best director?
+Wagers: 
+Chris: $1,201
+Max: $6,399
+Diana: $11,201
+Final scores:
+Chris: $2,399 (3rd place: $1,000)
+Diana: $4,799 (2nd place: $2,000)
+Max: $7,201 (New champion: $7,201)
+
+Coryat scores
+Chris: $3,600 (9 R(including 1 DD),3 W)
+Diana: $18,000 (21 R,3 W(including 1 DD))
+Max: $12,400 (22 R(including 1 DD),5 W)

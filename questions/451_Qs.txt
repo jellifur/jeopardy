@@ -1,0 +1,334 @@
+1210 - Friday, December 1, 1989
+Contestants:
+Sam Longoria: an engineer & consultant originally from Enumclaw, Washington
+Candy Martinez: a systems consultant from Fremont, California
+Jeff Slike: an ATM repairman originally from Harrisburg, Pennsylvania (whose 3-day cash winnings total $31,300)
+First Jeopardy! Round: STARTS WITH "Z", SPORTS NICKNAMES, NATIONAL ANTHEMS, THE HUMAN BODY, FOOD FACTS, TV GUIDE SAYS
+STARTS WITH "Z" | It can follow temperate, torrid, time or twilight | zone
+right: Candy
+Wrong: 
+Value: $100
+Number: 4
+SPORTS NICKNAMES | "The Bronx Bombers" | the New York Yankees
+right: Jeff
+Wrong: 
+Value: $100
+Number: 1
+NATIONAL ANTHEMS | When Prince Charles becomes ruler of Great Britain, this will be the title of the national anthem | "God Save The King"
+right: Jeff
+Wrong: 
+Value: $100
+Number: 18
+THE HUMAN BODY | Of blood, sweat or tears, the one that's not a product of an exocrine gland | blood
+right: Jeff
+Wrong: 
+Value: $100
+Number: 10
+FOOD FACTS | On menus, the word that usually follows "clams on the half..." | shell
+right: Candy
+Wrong: 
+Value: $100
+Number: 17
+TV GUIDE SAYS | "In Salem, Mass. Samantha tries to help a warlock who's been turned into a bed warmer" | Bewitched
+right: Jeff
+Wrong: 
+Value: $100
+Number: 12
+STARTS WITH "Z" | Title character of a Woody Allen film who becomes famous as the "Human Chameleon" | Zelig
+right: Sam
+Wrong: 
+Value: $200
+Number: 5
+SPORTS NICKNAMES | Former Los Angeles Rams end David Jones had this "religious" nickname | "Deacon"
+right: Jeff
+Wrong: 
+Value: $200
+Number: 2
+NATIONAL ANTHEMS | "Yes, we love this land", sing the fjord dwellers of this country | Norway
+right: Sam
+Wrong: 
+Value: $200
+Number: 19
+THE HUMAN BODY | Your spinal cord is shielded by the spinal column & your brain is shielded by this | the skull
+right: Sam
+Wrong: 
+Value: $200
+Number: 25
+FOOD FACTS | "Potage" is a fancy name for this type of dish, especially a thick one | soup
+right: Candy
+Wrong: 
+Value: $200
+Number: 21
+TV GUIDE SAYS | "Another shot glass is fired in the continuing 'Bar War' with Gary's Old Towne Tavern" | Cheers
+right: Jeff
+Wrong: 
+Value: $200
+Number: 13
+STARTS WITH "Z" | In sailing, when you're tacking, your boat is on this kind of course | zig-zag
+right: Jeff
+Wrong: 
+Value: $300
+Number: 6
+SPORTS NICKNAMES | Heavyweight boxer Luis Firpo was called the "Wild Bull of" this Argentine region | the Pampas
+right: Sam
+Wrong: 
+Value: $300
+Number: 3
+NATIONAL ANTHEMS | This large Asian country's "Jana-Gana-Mana" means "Thou art the ruler of the minds of all the people" | India
+right: Candy
+Wrong: 
+Sam: What is Tibet?
+Value: $300
+Number: 20
+THE HUMAN BODY | About 40% of your body weight consists of 100s of these contracting tissues | muscles
+right: Sam
+Wrong: 
+Value: $300
+Number: 28
+FOOD FACTS | Despite its name, this sauce served with plum pudding isn't "difficult" to make | hard sauce
+right: Candy
+Wrong: 
+Value: $300
+Number: 22
+TV GUIDE SAYS | "Charles leaves the farm for the city to pursue a career as a cabinetmaker" | Little House on the Prairie
+right: Sam
+Wrong: 
+Value: $300
+Number: 14
+STARTS WITH "Z" | Collective name of Frank Beard & the 2 guys with beards seen <http://www.j-archive.com/media/1989-12-01_J_08.jpg> here: | ZZ Top
+right: Sam
+Wrong: 
+Value: DD: $900
+Number: 8
+SPORTS NICKNAMES | This outfielder, disgraced in the "Black Sox" scandal of 1919, was nicknamed "Shoeless" | Joe Jackson
+right: Sam
+Wrong: 
+Value: $400
+Number: 7
+NATIONAL ANTHEMS | Smetana's "The Moldau" resembles the music of "Hatikva", this country's anthem | Israel
+right: Sam
+Wrong: 
+Value: $400
+Number: 29
+THE HUMAN BODY | It's the widest part of the alimentary canal | the stomach
+right: Candy
+Wrong: 
+Sam: What is the colon?
+Value: $400
+Number: 27
+FOOD FACTS | Introduced in 1930, it was "America's 1st Biscuit Mix", but now it's used for all kinds of baking | Bisquick
+right: Sam
+Wrong: 
+Value: $400
+Number: 23
+TV GUIDE SAYS | "Guess who's not invited to the inaugural ball & can't find anyone to take her" | Murphy Brown
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+STARTS WITH "Z" | Spanish explorers called the villages of these Pueblo Indians "The 7 Cities of Cibola" | the Zuni
+right: Candy
+Wrong: 
+Value: $500
+Number: 9
+SPORTS NICKNAMES | Drag racer Don Garlits sports this nickname | "Big Daddy"
+right: Jeff
+Wrong: 
+Value: $500
+Number: 11
+NATIONAL ANTHEMS | This country's "Ymnos Pros Tin Elephterian" is a hymn to liberty, not tin elephants or even grape leaves | Greece
+right: Candy
+Wrong: 
+Value: $500
+Number: 30
+THE HUMAN BODY | In 1984, 12-day-old Baby Fae received the heart of one of these animals | a baboon
+right: Sam
+Wrong: 
+Value: $500
+Number: 26
+FOOD FACTS | The oil of these spice buds stuck in hams is a source of artificial vanilla flavoring | cloves
+right: Candy
+Wrong: 
+Value: $500
+Number: 24
+TV GUIDE SAYS | "Puppets portray Yasir Arafat & Joan Rivers on a date" | D.C. Follies
+right: Sam
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Jeff: $1,200
+Candy: $600
+Sam: $1,800
+Scores at the end of the Jeopardy! Round:
+Jeff: $1,600
+Candy: $2,900
+Sam: $3,900
+Second Jeopardy! Round: NUMBER, PLEASE, ANCIENT HISTORY, WATERFALLS, ETIQUETTE, MODERN LITERATURE, SAN FRANCISCO MOVIES
+NUMBER, PLEASE | 1 of 2 numbers that are naturals in craps | (1 of) 7 or 11
+right: Jeff
+Wrong: 
+Value: $200
+Number: 14
+ANCIENT HISTORY | The Hellenistic Age began with the death of this Macedonian conqueror | Alexander the Great
+right: Jeff
+Wrong: 
+Value: $200
+Number: 6
+WATERFALLS | On Oct. 24, 1901 Annie Taylor became the 1st person to go over these falls in a barrel--& survive | Niagara Falls
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+ETIQUETTE | Wait until the hostess has opened hers before unfolding yours, & don't tuck it under your chin | your napkin
+right: Candy
+Wrong: 
+Value: $200
+Number: 26
+MODERN LITERATURE | One year after "Life with Father", Clarence Day published "Life with" her | Mother
+right: Candy
+Wrong: 
+Value: $200
+Number: 19
+SAN FRANCISCO MOVIES | This Steve McQueen film was about a San Francisco detective, not Roy Rogers' dog | Bullitt
+right: Sam
+Wrong: 
+Value: $200
+Number: 1
+NUMBER, PLEASE | Paul Simon had his only No. 1 hit in 1976 with a song about this many "Ways To Leave Your Lover" | 50
+right: Candy
+Wrong: 
+Value: $400
+Number: 15
+ANCIENT HISTORY | Ancient fort that was the site of the last stand of the Jewish zealots against Rome in 73 A.D. | Masada
+right: Candy
+Wrong: 
+Value: $400
+Number: 7
+WATERFALLS | Plunging 212 feet, Shoshone Falls on this river is Idaho's highest waterfall | Snake River
+right: Jeff
+Wrong: 
+Value: $400
+Number: 12
+ETIQUETTE | According to Amy Vanderbilt, it's who should get into a rowboat first | the person doing the rowing
+right: 
+Wrong: Triple Stumper
+Candy: Who is the gentleman?
+Sam: Who is the lady?
+Value: $400
+Number: 27
+MODERN LITERATURE | The 2-letter title of Richard Nixon's 1978 memoirs | R.N.
+right: 
+Wrong: Triple Stumper
+Candy: What is Me?
+Value: $400
+Number: 22
+SAN FRANCISCO MOVIES | Burt Lancaster played a famous ornithologist cooped up on a San Francisco island in this acclaimed film | The Birdman of Alcatraz
+right: Jeff
+Wrong: 
+Value: $400
+Number: 2
+NUMBER, PLEASE | After this many days of captivity, Iran released the 52 American hostages on January 20, 1981 | 444
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 16
+ANCIENT HISTORY | After winning the 1st Punic War, Rome made this island its 1st province | Sicily
+right: Candy
+Wrong: 
+Value: $600
+Number: 10
+WATERFALLS | This waterfall on Africa's Zambezi River was named for an English queen | Victoria Falls
+right: Sam
+Wrong: 
+Value: $600
+Number: 13
+ETIQUETTE | Traditionally, if Bob dances with Sue & Jim cuts in, it's when Bob can dance with Sue again | after the dance is over (or when she gets a new partner)
+right: Candy
+Wrong: 
+Value: $600
+Number: 28
+MODERN LITERATURE | Freud 1st wrote of the Oedipus Complex in this landmark book published in 1899 | The Interpretation of Dreams
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+SAN FRANCISCO MOVIES | The "shattering" climax of Orson Welles' "The Lady from Shanghai" takes place in S.F. in a maze of these | mirrors
+right: Sam
+Wrong: 
+Value: $600
+Number: 3
+NUMBER, PLEASE | Originally there were this many Marx Brothers | 5
+right: Jeff
+Wrong: 
+Value: $800
+Number: 17
+ANCIENT HISTORY | Starting around 550 B.C. this empire conquered the Medes, the Lydians, the Chaldeans & Egypt | the Persians
+right: Candy
+Wrong: 
+Value: DD: $2,000
+Number: 9
+WATERFALLS | Located in north central Texas, not Kansas, it's the largest U.S. city named for a waterfall | Wichita Falls
+right: Sam
+Wrong: 
+Value: $800
+Number: 20
+MODERN LITERATURE | His experiences as an enlisted man shaped his 1951 novel "From Here to Eternity" | James Jones
+right: Jeff
+Wrong: 
+Value: $800
+Number: 24
+SAN FRANCISCO MOVIES | In "Klondike Annie", this sex symbol fled her sordid life in S.F. & became an evangelist in the Yukon | Mae West
+right: Sam
+Wrong: 
+Value: $800
+Number: 5
+NUMBER, PLEASE | If we were to end this category the way a reporter finishes an article, we'd put this number on it here | 30
+right: Sam
+Wrong: 
+Value: $1000
+Number: 18
+ANCIENT HISTORY | HIstoric nickname for the curved region between the Mediterranean & Mesopotamia | the Fertile Crescent
+right: Candy
+Wrong: 
+Value: $1000
+Number: 8
+WATERFALLS | Longfellow's poem "The Song of Hiawatha" made this waterfall in Minneapolis famous | Minehaha Falls
+right: Candy
+Wrong: 
+Jeff: What is Gitcheegoomee?
+Value: $1000
+Number: 21
+MODERN LITERATURE | He died in 1922 before the last 3 volumes of his "Remembrance of Things Past" were published | Marcel Proust
+right: Jeff
+Wrong: 
+Value: DD: $3,600
+Number: 25
+SAN FRANCISCO MOVIES | She brought down the house singing "San Francisco" in the 1936 film of the same name | Jeanette MacDonald
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 4
+Scores at the end of the Double Jeopardy! Round:
+Jeff: $7,200
+Candy: $8,500
+Sam: $7,500
+
+Final Jeopardy! Round
+LANGUAGES | To have taken the 1st modern IQ test in 1905 you had to understand this language | French (the Binet-Simon test)
+right: Sam | Candy
+Wrong: 
+Jeff: What is English
+Wagers: 
+Jeff: $0
+Sam: $7,500
+Candy: $6,601
+Final scores:
+Jeff: $7,200 (3rd place: Wallace Silversmiths 15-piece punch set)
+Candy: $15,101 (New champion: $15,101)
+Sam: $15,000 (2nd place: Grandfather clock & lamp)
+
+Coryat scores
+Jeff: $4,600 (16 R(including 1 DD),1 W)
+Candy: $7,300 (18 R(including 1 DD),2 W)
+Sam: $7,000 (18 R(including 1 DD),3 W)

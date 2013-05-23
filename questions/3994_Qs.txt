@@ -1,0 +1,344 @@
+6459 - Thursday, October 18, 2012
+Contestants:
+Erin McCready: a teaching artist from Brooklyn, New York
+Glenn Fleishman: a technology journalist from Seattle, Washington
+Meredith Lowmaster: a medical research technician from Quincy, Massachusetts (whose 1-day cash winnings total $16,000)
+First Jeopardy! Round: THE TROPIC OF CAPRICORN, CELEBRITY COOKBOOKS, IT'S ALWAYS "I", "I", "I", TV NETWORK NAMES, ESCAPIST LITERATURE, WORN UNDERNEATH
+THE TROPIC OF CAPRICORN | The Capricorn highway lies on the Tropic of Capricorn in the state of Queensland in this country | Australia
+right: Glenn
+Wrong: 
+Value: $200
+Number: 15
+CELEBRITY COOKBOOKS | A host of celebrities contributed to "in the Kitchen with" this Muppet Mademoiselle, "by Moi" | Miss Piggy
+right: Glenn
+Wrong: 
+Value: $200
+Number: 14
+IT'S ALWAYS "I", "I", "I" | Baby Boom boys remember Annette Funicello & Ursula Andress splashing around wearing these | a bikini
+right: Erin
+Wrong: 
+Value: $200
+Number: 1
+TV NETWORK NAMES | Idiomatically, you might be "as cunning as" one | Fox
+right: Glenn
+Wrong: 
+Value: $200
+Number: 7
+ESCAPIST LITERATURE | Clark Howard's novel "Six Against the Rock" examines an ingenious plan for escape from this prison | Alcatraz
+right: Glenn
+Wrong: 
+Value: $200
+Number: 2
+WORN UNDERNEATH | This belt with elastic bands & clips is used to hold up stockings | garters (or garter belts)
+right: Glenn
+Wrong: 
+Value: $200
+Number: 10
+THE TROPIC OF CAPRICORN | This South American behemoth is the only country crossed by both the Tropic of Capricorn & the equator | Brazil
+right: Erin
+Wrong: 
+Value: $400
+Number: 16
+CELEBRITY COOKBOOKS | His "Knock-Out-the-Fat Barbecue and Grilling Cookbook" features recipes that won't make you a heavyweight | George Foreman
+right: Meredith
+Wrong: 
+Value: $400
+Number: 24
+IT'S ALWAYS "I", "I", "I" | Of the 4 basic operations in arithmetic, the 2 that each fit the category | division & multiplication
+right: 
+Wrong: Triple Stumper
+Glenn: What is addition and multiplication?
+Erin: What is division and--
+Value: $400
+Number: 13
+TV NETWORK NAMES | Nickname for the Magic Johnson/James Worthy-era Lakers | Showtime
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+ESCAPIST LITERATURE | A magician himself, Sid Fleischman penned "Escape!: The Story of" this legend | Houdini
+right: Glenn
+Wrong: 
+Value: $400
+Number: 3
+WORN UNDERNEATH | This company famous for brief men's briefs was founded by a retired minister, not a horse rider | Jockey
+right: Erin
+Wrong: 
+Value: $400
+Number: 11
+THE TROPIC OF CAPRICORN | The largest island through which the Tropic of Capricorn passes is this one off Africa's eastern coast | Madagascar
+right: Meredith
+Wrong: 
+Value: $600
+Number: 28
+CELEBRITY COOKBOOKS | Chapters in "Cookin' with Coolio" include "Pasta Like a Rasta" & "It's Hard Out Here for" this seafood | a shrimp
+right: Erin
+Wrong: 
+Value: $600
+Number: 25
+IT'S ALWAYS "I", "I", "I" | It's a citizen army activated during emergencies for local defense | a militia
+right: Glenn
+Wrong: 
+Value: $600
+Number: 19
+TV NETWORK NAMES | To add liquor to a nonpotent potable like punch | Spike
+right: Erin
+Wrong: 
+Value: $600
+Number: 9
+ESCAPIST LITERATURE | Married at 15 to a man with 5 wives, Susan Ray Schmidt later wrote "Favorite Wife: Escape from" this 8-letter practice | polygamy
+right: Glenn
+Wrong: 
+Value: $600
+Number: 4
+WORN UNDERNEATH | Bear with us--this traditionally male first name is also used for a woman's one-piece underslip | a teddy
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 12
+THE TROPIC OF CAPRICORN | In 2000 a monument marking the Tropic of Capricorn was built in this Chilean desert | the Atacama
+right: Erin
+Wrong: 
+Value: $800
+Number: 29
+CELEBRITY COOKBOOKS | Her "Georgia Cooking in an Oklahoma Kitchen" includes a foreword by hubby Garth Brooks | Trisha Yearwood
+right: Erin
+Wrong: 
+Value: $800
+Number: 26
+IT'S ALWAYS "I", "I", "I" | Rum cocktail named for a Cuban village | a daiquiri
+right: 
+Wrong: Triple Stumper
+Erin: What is a Mai Tai?
+Value: $800
+Number: 20
+TV NETWORK NAMES | In law it's the duty of the prosecution to share pretrial statements | Discovery
+right: Glenn
+Wrong: 
+Value: $800
+Number: 22
+ESCAPIST LITERATURE | "The Road to En-Dor" (during WWI) & "Midnight Express" (later) are accounts of escaping a prison in this country | Turkey
+right: Glenn
+Wrong: 
+Value: $800
+Number: 5
+WORN UNDERNEATH | Good sir knight, 'tis too hot for thy doublet; wear only this undershirt, also a piece of wrestling apparel | a singlet
+right: Meredith
+Wrong: 
+Value: $800
+Number: 17
+THE TROPIC OF CAPRICORN | (<http://www.j-archive.com/media/2012-10-18_J_30.wmv> Sarah of the Clue Crew shows an animation of the globe on the monitor.)  The tropic of Capricorn separates two climatic zones--the tropical one & this zone that extends south to the Antarctic circle | the Temperate Zone
+right: 
+Wrong: 
+Erin: What is the Arctic Zone?
+Value: DD: $800
+Number: 30
+CELEBRITY COOKBOOKS | She dedicated "My Father's Daughter" partly to her kids Apple & Moses, the "hearts of my artichoke" | Gwyneth Paltrow
+right: Erin
+Wrong: 
+Value: $1000
+Number: 27
+IT'S ALWAYS "I", "I", "I" | Symbol Ir, it's the most corrosion-resistant metal | iridium
+right: Meredith
+Wrong: 
+Value: $1000
+Number: 21
+TV NETWORK NAMES | In Italian it can mean "courage" or simply "good" | Bravo
+right: Erin
+Wrong: 
+Value: $1000
+Number: 23
+ESCAPIST LITERATURE | This 1950 Paul Brickhill book that inspired a film tells of a mass breakout from Stalag Luft III | The Great Escape
+right: Glenn
+Wrong: 
+Erin: What is Stalag 17?
+Value: $1000
+Number: 6
+WORN UNDERNEATH | It's a coarse, stiff petticoat worn under a hoop skirt | a crinoline
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+Scores at the first commercial break (after clue 15)
+Meredith: $0
+Glenn: $3,200
+Erin: -$200
+Scores at the end of the Jeopardy! Round:
+Meredith: $2,800
+Glenn: $4,800
+Erin: $2,800
+Second Jeopardy! Round: THE TOPIC OF CAPRICORNS, QUOTH THE POET, THE NOBEL PEACE PRIZE WARS, CLICHES, EARLY AMERICAN CONSTRUCTION, WHAT KIND OF MOVIE ANIMAL ARE YOU?
+THE TOPIC OF CAPRICORNS | Aptly, this author of "Tropic of Capricorn" was, in fact, a Capricorn | (Henry) Miller
+right: Erin
+Wrong: 
+Glenn: Who is James?
+Value: $400
+Number: 24
+QUOTH THE POET | "But mostly he watched with eager search the belfry-tower of the Old North Church" | Longfellow
+right: Glenn
+Wrong: 
+Value: $400
+Number: 11
+THE NOBEL PEACE PRIZE WARS | This military man with a famous plan bested Albert Schweitzer, among others, to win the 1953 Nobel Peace Prize | (George C.) Marshall
+right: Glenn
+Wrong: 
+Value: $400
+Number: 19
+CLICHES | To "hitch" this conveyance "to a star" means to dream big | a wagon
+right: Erin
+Wrong: 
+Value: $400
+Number: 6
+EARLY AMERICAN CONSTRUCTION | St. Luke's church in Va. is the USA's oldest continually standing building made of this--the third little pig had it right | brick
+right: Meredith
+Wrong: 
+Value: $400
+Number: 13
+WHAT KIND OF MOVIE ANIMAL ARE YOU? | Mumble in "Happy Feet" | a penguin
+right: Erin
+Wrong: 
+Value: $400
+Number: 1
+THE TOPIC OF CAPRICORNS | Capricorn is a goat who scales mountains, like this Capricorn who said in 1968, "I've been to the mountaintop" | Martin Luther King
+right: Erin
+Wrong: 
+Value: DD: $1,000
+Number: 25
+QUOTH THE POET | "April is the cruellest month, breeding lilacs out of the dead land" | (T.S.) Eliot
+right: Erin
+Wrong: 
+Value: $800
+Number: 12
+THE NOBEL PEACE PRIZE WARS | Nobody won the Peace Prize in 1939, but both Neville Chamberlain & this Munich Pact partner were nominated | Adolf Hitler
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+CLICHES | To commit irrevocably is to "cross" this Italian stream | the Rubicon
+right: Erin
+Wrong: 
+Value: $800
+Number: 7
+EARLY AMERICAN CONSTRUCTION | Now the governor's mansion, La Fortaleza in this U.S. territory was built by the Spanish in 1533 | Puerto Rico
+right: Erin
+Wrong: 
+Value: $800
+Number: 17
+WHAT KIND OF MOVIE ANIMAL ARE YOU? | Winter, who gets a new tail in a 2011 movie | a dolphin
+right: Erin
+Wrong: 
+Value: $800
+Number: 2
+THE TOPIC OF CAPRICORNS | With the typical patience of a Capricorn, she studied & was accepted by mountain gorillas in Rwanda | (Dian) Fossey
+right: Erin
+Wrong: 
+Meredith: Uh, who is Jane Goodall?
+Value: $1200
+Number: 26
+QUOTH THE POET | "The owl and the pussy-cat went to sea in a beautiful pea-green boat" | (Edward) Lear
+right: Glenn
+Wrong: 
+Meredith: Who is Lewis Carroll?
+Value: $1200
+Number: 14
+THE NOBEL PEACE PRIZE WARS | In 1922 Fridtjof Nansen beat out this Brit economist who'd opposed harsh economic reparations against Germany | (John Maynard) Keynes
+right: Glenn
+Wrong: 
+Value: $1200
+Number: 21
+CLICHES | If you're in your birthday suit, you're "naked as" this bird | a jaybird
+right: Meredith
+Wrong: 
+Value: $1200
+Number: 8
+EARLY AMERICAN CONSTRUCTION | Built between 200 B.C. & 500 A.D., the earthworks called the Hopewell Mounds are in this Great Lakes state | Ohio
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+WHAT KIND OF MOVIE ANIMAL ARE YOU? | Bonzo, one of Ronald Reagan's co-stars | a chimpanzee
+right: Erin
+Wrong: 
+Value: $1200
+Number: 3
+THE TOPIC OF CAPRICORNS | In emergencies, Capricorns are resourceful, like this woman who nursed the wounded in the 1st Battle of Bull Run | Clara Barton
+right: Erin
+Wrong: 
+Glenn: Who is Florence Nightingale?
+Value: $1600
+Number: 27
+QUOTH THE POET | "But, if thou spare to fling Excalibur, I will arise and slay thee with my hands" | Tennyson
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 15
+THE NOBEL PEACE PRIZE WARS | Columbia University president Nicholas Murray butler & this Hull House founder tied for first for the 1931 Peace Prize | Jane Addams
+right: Erin
+Wrong: 
+Value: $1600
+Number: 22
+CLICHES | A cook who's almost done with a dish might "put it on" this alliterative place until it's needed | the back burner
+right: Erin
+Wrong: 
+Value: $1600
+Number: 9
+EARLY AMERICAN CONSTRUCTION | This 16-letter science of tree-ring dating tells us a structure in Dedham, Mass. is the USA's oldest timber frame house | dendrochronology
+right: 
+Wrong: 
+Erin: Ugh.  What is ringology?
+Value: DD: $2,000
+Number: 29
+WHAT KIND OF MOVIE ANIMAL ARE YOU? | Ben & Socrates in "Willard" | rats
+right: Glenn
+Wrong: 
+Value: $1600
+Number: 4
+THE TOPIC OF CAPRICORNS | John C. Fremont was glad to have this sure-footed Capricorn guiding him along the Oregon Trail in 1842 | Kit Carson
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+QUOTH THE POET | "Out of the cradle endlessly rocking, out of the mocking-bird's throat, the musical shuttle" | Walt Whitman
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+THE NOBEL PEACE PRIZE WARS | In 1955 Dwight Eisenhower was a losing nominee despite his 1953 U.N. speech known as these "for Peace" | Atoms
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 23
+CLICHES | "Lay on" this man, a line from Shakespeare, means "do your damnedest" | Macduff
+right: Meredith
+Wrong: 
+Value: $2000
+Number: 10
+WHAT KIND OF MOVIE ANIMAL ARE YOU? | Polynesia in 1967's "Doctor Dolittle" | a parrot
+right: Meredith
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Meredith: $6,000
+Glenn: $7,600
+Erin: $13,400
+
+Final Jeopardy! Round
+PLACE NAMES | From 1953 until 1990 Chemnitz, Germany was named for this man | Karl Marx
+right: Glenn
+Wrong: 
+Meredith: Who is Oppenheimer
+Erin: Who is B Wagner?
+Wagers: 
+Meredith: $4,000
+Glenn: $7,599
+Erin: $1,801
+Final scores:
+Meredith: $2,000 (3rd place: $1,000)
+Glenn: $15,199 (New champion: $15,199)
+Erin: $11,599 (2nd place: $2,000)
+
+Coryat scores
+Meredith: $6,000 (8 R,2 W)
+Glenn: $7,600 (16 R,3 W)
+Erin: $16,000 (22 R(including 1 DD),5 W(including 2 DDs))

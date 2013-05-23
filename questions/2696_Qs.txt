@@ -1,0 +1,337 @@
+4580 - Friday, July 2, 2004
+Comments: Ken Jennings game 23.
+Contestants:
+Mary Ann Eitler: a geologist from Alexandria, Virginia
+Judy MacLeod Reardon: a music store manager from Canton, Georgia
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 22-day cash winnings total $737,760)
+First Jeopardy! Round: FAMOUS AMERICANS, IN A MUSICAL MOOD, 20th CENTURY FOOD, DID WE PLANET THAT WAY?, JULY, 4
+FAMOUS AMERICANS | By age 13 this Microsoft co-founder had read the entire World Book Encyclopedia through volume P | Gates
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+IN A MUSICAL MOOD | It's the royal composition heard <http://www.j-archive.com/media/2004-07-02_J_16.mp3> here, my lord | "Greensleeves"
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+20th CENTURY FOOD | In 1926 Hormel's innovation was selling its flavor-sealed ham in these containers | cans
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+DID WE PLANET THAT WAY? | Not much was known about this innermost planet until 1974 when Mariner 10 took some pictures | Mercury
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+JULY | This industrialist came off the assembly line July 30, 1863 | Henry Ford
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+4 | "Seasonal" quartet in the lyrics of "You've Got A Friend" | winter, spring, summer & fall
+right: Ken
+Wrong: 
+Value: $200
+Number: 6
+FAMOUS AMERICANS | In 2002 he became the first non-black inductee to the Arkansas Black Hall of Fame | Clinton
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+IN A MUSICAL MOOD | Written for the movie "Chasing Rainbows", <http://www.j-archive.com/media/2004-07-02_J_17.mp3> this hit became a campaign song in 1932 | "Happy Days Are Here Again"
+right: Mary Ann
+Wrong: 
+Value: $400
+Number: 17
+20th CENTURY FOOD | In '71 housewives could stretch a pound of ground beef into a meal for 5 with this new product from General Mills | Hamburger Helper
+right: Judy
+Wrong: 
+Value: $400
+Number: 22
+DID WE PLANET THAT WAY? | This seventh planet from the Sun was the first to be discovered by telescope | Uranus
+right: Ken
+Wrong: 
+Value: $400
+Number: 28
+JULY | Being born July 7, 1940 made him the senior member of the Beatles (& he's older than July-born Mick Jagger, too) | Ringo
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+4 | Dressy term for hearts, spades, diamonds or clubs | a suit
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+FAMOUS AMERICANS | In 1998 he was awarded posthumously a special Pulitzer Prize; his brother Ira won a Pulitzer in 1932 | George Gershwin
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+IN A MUSICAL MOOD | A 1972 No. 1 hit, <http://www.j-archive.com/media/2004-07-02_J_18.mp3> this song would be great hold music for an eye doctor | "I Can See Clearly Now"
+right: Mary Ann
+Wrong: 
+Value: $600
+Number: 18
+20th CENTURY FOOD | This superpremium ice cream with a fake Danish name was introduced in the 1920s by a man in the Bronx | Häagen-Dazs
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+DID WE PLANET THAT WAY? | Some scientists want to reclassify this planet as a wayward moon | Pluto
+right: Judy
+Wrong: 
+Value: $600
+Number: 27
+JULY | July 24, 1802 & July 27, 1824 are the birthdays of the pere & fils authors who share this name | Alexandre Dumas
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+4 | (<http://www.j-archive.com/media/2004-07-02_J_08.jpg> I'm Tim Brown of the NFL.)  I'm the only Raider to ever score a touchdown in all 4 of these ways | rushing, pass receiving, punt return & kickoff return
+right: 
+Wrong: Triple Stumper
+Ken: What is rushing, passing, receiving and... uh... defensively?
+Value: $600
+Number: 8
+FAMOUS AMERICANS | A statue of this man assassinated in 1935 represents Louisiana in National Statuary Hall | Huey Long
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+IN A MUSICAL MOOD | It's this Russian composer's Piano Concerto No. 1 you're listening to <http://www.j-archive.com/media/2004-07-02_J_19.mp3> here | Tchaikovsky
+right: Judy
+Wrong: 
+Ken: Who is Rachmaninov?
+Value: $800
+Number: 19
+20th CENTURY FOOD | This new brand of solid hydrogenated vegetable shortening was introduced in 1911 | Crisco
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+DID WE PLANET THAT WAY? | The root of this planet's name means "god-father" | Jupiter
+right: 
+Wrong: 
+Ken: I don't want to trouble you.  Uh, let's do $3,600.
+Value: DD: $3,600
+Number: 29
+JULY | Born alone July 12, 1895, he later partnered with Jerome Kern & Richard Rogers | Hammerstein
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+4 | To complete a foursome, mathematician Herman Minkowski added this to length, width & height | time
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+FAMOUS AMERICANS | His newspaper column "On the Right" is syndicated to more than 300 papers | William F. Buckley, Jr.
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+IN A MUSICAL MOOD | The thrill of an expected return is recounted in <http://www.j-archive.com/media/2004-07-02_J_20.mp3> this favorite | "When Johnny Comes Marching Home"
+right: Mary Ann
+Wrong: 
+Value: $1000
+Number: 20
+20th CENTURY FOOD | In 1940 this company acquired the name Hungry Jack for pancake flour | Pillsbury
+right: Mary Ann
+Wrong: 
+Value: $1000
+Number: 25
+JULY | This Italian sonneteer who wrote poems to Laura was born in July 1304 | Petrarch
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+4 | In the organizational logo seen <http://www.j-archive.com/media/2004-07-02_J_10.jpg> here, the 4 words that the letters in the clover stand for | head, heart, health & hands
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the first commercial break (after clue 15)
+Ken: $5,400
+Judy: $0
+Mary Ann: $0
+Scores at the end of the Jeopardy! Round:
+Ken: $4,800
+Judy: $1,800
+Mary Ann: $2,600
+Second Jeopardy! Round: RONALD REAGAN, "SUMMER" FUN, STRICTLY BUSINESS, NEGATIVE THOUGHTS, AROUND NEW YORK, IN THE DICTIONARY
+RONALD REAGAN | Reagan wrote that his first day in the Oval Office felt pretty much like this old job of his | governor of California
+right: Mary Ann
+Wrong: 
+Ken: What is acting?
+Value: $400
+Number: 6
+"SUMMER" FUN | After Stockholm hosted these in 1912, Sweden's Hugo Wieslander was awarded a disputed gold in the decathlon | the Summer Olympics
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+STRICTLY BUSINESS | A discount is deducted from the price before purchase; this is money sent to the buyer after the purchase | a rebate
+right: Mary Ann
+Wrong: 
+Value: $400
+Number: 26
+NEGATIVE THOUGHTS | John Donne tells death this because "One short sleep past, we wake eternally" | be not proud
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+AROUND NEW YORK | Visit the boardwalk & ride the over 80-year-old Wonder Wheel at this nostalgic amusement resort | Coney Island
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+IN THE DICTIONARY | As a noun, it can mean a series of objects; as a verb, to propel a boat with oars | row
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+RONALD REAGAN | In 1954 Reagan began hosting a TV show for this company & making speeches to its workers | General Electric
+right: Mary Ann
+Wrong: 
+Value: $800
+Number: 7
+"SUMMER" FUN | '60s summers seemed oh, so romantic when we danced to this theme heard <http://www.j-archive.com/media/2004-07-02_DJ_22.mp3> here | the "Theme From A Summer Place
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+NEGATIVE THOUGHTS | The phrase "Ask no" this "and give none" refers to mercy, not a coin | quarter
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+AROUND NEW YORK | This New York neighborhood is home to the National Black Theater as well as the famed Apollo | Harlem
+right: Mary Ann
+Wrong: 
+Value: $800
+Number: 2
+IN THE DICTIONARY | It'll probably take more than a buck to buy a jumbuck, an Australian term for one of these animals | a sheep
+right: 
+Wrong: Triple Stumper
+Ken: What's a kangaroo?
+Value: $800
+Number: 13
+RONALD REAGAN | Like George W. Bush, Reagan sought peace at this type of property, called Del Cielo or "in the sky" | a ranch
+right: Mary Ann
+Wrong: 
+Value: $1200
+Number: 8
+"SUMMER" FUN | Sebastian Venable's summer fun was no picnic; in fact, he became a picnic in this one-act Tennessee Williams play | Suddenly, Last Summer
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+STRICTLY BUSINESS | Collective term for the "costs" involved in transferring real estate from a seller to a buyer | closing costs
+right: Ken
+Wrong: 
+Value: $1200
+Number: 29
+NEGATIVE THOUGHTS | King Lear says of the dead Cordelia, "Thou'lt come no more," this, this, this, this, this | never
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+AROUND NEW YORK | Built in 1902, <http://www.j-archive.com/media/2004-07-02_DJ_03.jpg> this distinctive-looking building is one of New York's oldest & most famous skyscrapers | the Flatiron Building
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+IN THE DICTIONARY | The Latin words for "moving" & "place" are combined to form this word for a self-propelled railroad vehicle | a locomotive
+right: Mary Ann
+Wrong: 
+Value: $1200
+Number: 14
+RONALD REAGAN | The first of Reagan's several historic meetings with this man came in Geneva in 1985 | Gorbachev
+right: Mary Ann
+Wrong: 
+Value: DD: $3,000
+Number: 9
+"SUMMER" FUN | Cowabunga!  2 surfers travel the world looking for the perfect wave in this 1966 documentary | Endless Summer
+right: Ken
+Wrong: 
+Value: $1600
+Number: 24
+STRICTLY BUSINESS | Business people shouldn't infringe on patents, trademarks or these, covered by a 1952 universal convention | copyrights
+right: Ken
+Wrong: 
+Value: $1600
+Number: 28
+NEGATIVE THOUGHTS | Winston Churchill told inquiring reporters, "I think" this 2-word phrase "is a splendid expression" | no comment
+right: Mary Ann
+Wrong: 
+Ken: What is Iron Curtain?
+Value: $1600
+Number: 19
+AROUND NEW YORK | Popular name for the area along Seventh Avenue, south of 42nd Street, with stores full of notions & fabrics | the Garment District
+right: Ken
+Wrong: 
+Value: $1600
+Number: 4
+IN THE DICTIONARY | Meaning crudely indecent, it refers to the every day form of Latin spoken by the ancient Romans | vulgar
+right: Ken
+Wrong: 
+Value: $1600
+Number: 15
+RONALD REAGAN | Reagan called this 1942 film in which he played an amputee the best one he ever made | Kings Row
+right: 
+Wrong: Triple Stumper
+Ken: What is... The Killers?
+Value: $2000
+Number: 10
+"SUMMER" FUN | (<http://www.j-archive.com/media/2004-07-02_DJ_25.jpg> Sarah of the Clue Crew reports from Caffe Florian in Venice, Italy.)  It was right here at Caffe Florian in Venice where Katharine Hepburn met Rosanno Brazzi in this classic 1955 film | Summertime
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+STRICTLY BUSINESS | When businesses restructure following a bankruptcy they use this section of U.S. federal code | Chapter 11
+right: Ken
+Wrong: 
+Value: $2000
+Number: 27
+NEGATIVE THOUGHTS | F. Scott Fitzgerald theatrically observed, "There are no" these "in American lives" | second acts
+right: Ken
+Wrong: 
+Value: $2000
+Number: 20
+AROUND NEW YORK | You don't have to be a monk to visit this branch of the Metropolitan Museum of Art that's devoted to Medieval art | the Cloisters
+right: Ken
+Wrong: 
+Value: DD: $2,000
+Number: 5
+IN THE DICTIONARY | (<http://www.j-archive.com/media/2004-07-02_DJ_16.wmv> Sofia of the Clue Crew fences with Cheryl of the Clue Crew.)  The name of this answering attack also refers to a quick verbal response | riposte
+right: 
+Wrong: Triple Stumper
+Ken: What's a parry?
+Judy: What is joust?
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Ken: $18,800
+Judy: -$200
+Mary Ann: $6,800
+
+Final Jeopardy! Round
+SPORTS HEROES | Born in January 1919, the month Teddy Roosevelt died, he was given the middle name Roosevelt | Jackie Robinson
+right: Mary Ann
+Wrong: 
+Ken: Who is Ted Williams?
+Wagers: 
+Mary Ann: $6,800
+Ken: $1,200
+Final scores:
+Ken: $17,600 (23-day champion: $755,360)
+Judy: -$200 (3rd place: $1,000)
+Mary Ann: $13,600 (2nd place: $2,000)
+
+Coryat scores
+Ken: $22,400 (35 R(including 1 DD),8 W(including 1 DD))
+Judy: -$200 (3 R,1 W)
+Mary Ann: $5,400 (12 R(including 1 DD),5 W)

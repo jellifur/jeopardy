@@ -1,0 +1,340 @@
+3845 - Friday, April 27, 2001
+Contestants:
+Travis Brazil: a waiter and actor from North Hollywood, California
+Mollie Tobin: a training specialist from San Diego, California
+Steve Goodrich: an attorney from Mesa, Arizona (whose 1-day cash winnings total $8,800)
+First Jeopardy! Round: MEDICAL HISTORY, KEEP YOUR SHIRT ON!, NAME THE HITMAKERS, REMEMBER THE '90s, C'EST CHEESE!, COULD YOU TRANSLATE THAT FOR ME?
+MEDICAL HISTORY | The Anti-Vacks were doctors opposed to this Edward Jenner anti-smallpox method | vaccination
+right: Travis
+Wrong: 
+Value: $100
+Number: 1
+KEEP YOUR SHIRT ON! | He's the strange visitor from another planet who inspired the shirt seen here | Superman
+right: Steve
+Wrong: 
+Value: $100
+Number: 6
+NAME THE HITMAKERS | 1997: "My Heart Will Go On" | Celine Dion
+right: Travis
+Wrong: 
+Value: $100
+Number: 14
+REMEMBER THE '90s | In January 1991 Operation Desert Shield was renamed this | Operation Desert Storm
+right: Travis
+Wrong: 
+Value: $100
+Number: 11
+C'EST CHEESE! | Americans refer to Emmentaler as this | Swiss cheese
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 22
+COULD YOU TRANSLATE THAT FOR ME? | It's the all-American way of saying "Rouge, blanc et bleu" | red, white and blue
+right: Mollie
+Wrong: 
+Value: $100
+Number: 21
+MEDICAL HISTORY | S. Weir Mitchell invented the rest cure, pioneered post-trauma research & analyzed this U.S. snake's venom | rattlesnake
+right: Travis
+Wrong: 
+Value: $200
+Number: 2
+KEEP YOUR SHIRT ON! | A game played on horseback shares its name with this style of shirt seen here | polo
+right: Travis
+Wrong: 
+Value: $200
+Number: 7
+NAME THE HITMAKERS | 1994: "Can You Feel the Love Tonight?" | Elton John
+right: Steve
+Wrong: 
+Value: $200
+Number: 15
+REMEMBER THE '90s | He told Oprah in 1993 that he had a rare skin disease & was in love with Brooke Shields | Michael Jackson
+right: Steve
+Wrong: 
+Value: $200
+Number: 12
+C'EST CHEESE! | King Christian IX is a cheese from this country | Denmark
+right: Travis
+Wrong: 
+Value: $200
+Number: 23
+COULD YOU TRANSLATE THAT FOR ME? | It's the English translation of the German word in the lyric "Let me call you liebchen, I'm in love with you" | sweetheart
+right: Travis
+Wrong: 
+Value: $200
+Number: 24
+MEDICAL HISTORY | In the 17th C. Thomas Wharton realized there are endocrine as well as exocrine types of these | glands
+right: Travis
+Wrong: 
+Value: $300
+Number: 3
+KEEP YOUR SHIRT ON! | Say "Hello" to this Hawaiian shirt seen here: | Aloha shirt
+right: Mollie
+Wrong: 
+Value: $300
+Number: 8
+NAME THE HITMAKERS | 1998:   "I Don't Want to Miss a Thing" | Aerosmith
+right: Mollie
+Wrong: 
+Value: $300
+Number: 18
+REMEMBER THE '90s | Liz met Larry, who became husband number 7 (or is it 8?) in 1991, in this complex | Betty Ford Center
+right: Mollie
+Wrong: 
+Value: $300
+Number: 13
+C'EST CHEESE! | This best-known Greek cheese is pickled in a brine solution | Feta
+right: Mollie
+Wrong: 
+Value: $300
+Number: 28
+COULD YOU TRANSLATE THAT FOR ME? | "Benevolenza", you can give old clothes to it or you can have it "toward men" | goodwill
+right: Travis
+Wrong: 
+Value: $300
+Number: 25
+MEDICAL HISTORY | If Pierre Bretonneau's name for this disease had stuck, we'd talk about Dothienenteritis Mary | typhoid
+right: Travis
+Wrong: 
+Value: $400
+Number: 4
+KEEP YOUR SHIRT ON! | It's the fighting force represented by the shirt seen here | Marines
+right: Steve
+Wrong: 
+Travis: What is the U.S. Navy?
+Value: $400
+Number: 9
+NAME THE HITMAKERS | 1992: "This Used To Be My Playground" | Madonna
+right: Mollie
+Wrong: 
+Value: $400
+Number: 19
+REMEMBER THE '90s | By November 1998, 63 million Americans had this service, many using Startacs to access it | cellular telephone service
+right: 
+Wrong: Triple Stumper
+Steve: What is Internet service?
+Value: $400
+Number: 16
+C'EST CHEESE! | At the Congress of Vienna, in a contest instigated by Talleyrand, this French cheese won the title "Le Roi du Fromage" | Brie
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+COULD YOU TRANSLATE THAT FOR ME? | Meaning "counselor", it's the Italian word describing Robert Duvall's role in the service of "The Godfather" | consigliere
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+MEDICAL HISTORY | Tissue grown for study, known by this "high-toned" name, began with the work of Ross Harrison | culture
+right: 
+Wrong: 
+Travis: [no response]
+Value: DD: $500
+Number: 5
+KEEP YOUR SHIRT ON! | From an old Welsh word for sackcloth, it's the nappy shirt fabric seen here | flannel
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 10
+NAME THE HITMAKERS | 1995: "Wonderwall" | Oasis
+right: Travis
+Wrong: 
+Value: $500
+Number: 20
+REMEMBER THE '90s | He carried Kerri Strug up to the medal stand at the '96 Olympics | Bela Karolyi
+right: 
+Wrong: Triple Stumper
+Steve: Who was Wojtyla?
+Travis: Who was Muhammad Ali?
+Value: $500
+Number: 17
+C'EST CHEESE! | This blue-veined cheese made from ewes' milk was a favorite of Charlemagne's | Roquefort
+right: Steve
+Wrong: 
+Mollie: What is Stilton?
+Value: $500
+Number: 30
+COULD YOU TRANSLATE THAT FOR ME? | Literally "God out of a machine", it's the Latin phrase for an unlikely & providential intervention | Deus ex machina
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 26
+Scores at the first commercial break (after clue 15)
+Steve: $900
+Mollie: $600
+Travis: $500
+Scores at the end of the Jeopardy! Round:
+Steve: $900
+Mollie: $1,200
+Travis: $1,200
+Second Jeopardy! Round: BESTSELLERS, BIG-SCREEN STUMPERS, SIGNS & SYMBOLS, TREE-LETTER WORDS, I AM A ROCK, I AM AN ISLAND
+BESTSELLERS | James Patterson's sixth Alex Cross thriller, or the line preceding "Violets are blue" | "Roses are Red"
+right: Travis
+Wrong: 
+Value: $200
+Number: 1
+BIG-SCREEN STUMPERS | Built by a team that created the James Bond cars, this title automobile celebrated its 30th anniv. in 1998 | Chitty Chitty Bang Bang
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 6
+SIGNS & SYMBOLS | It was 16th C. mathematician Robert Recorde who first used 2 parallel lines as this | equal sign
+right: Travis
+Wrong: 
+Value: $200
+Number: 12
+I AM A ROCK | Kimberlite, a variety of peridotite, yields this precious gem in Arkansas & South Africa | diamond
+right: Mollie
+Wrong: 
+Value: $200
+Number: 11
+I AM AN ISLAND | More Indonesians live on this island, famous for its coffee, than on any other | Java
+right: Travis
+Wrong: 
+Value: $200
+Number: 19
+BESTSELLERS | Published in 2000, this book tells the history of the Beatles in their own words & pictures | "The Beatles Anthology"
+right: Travis
+Wrong: 
+Value: $400
+Number: 2
+BIG-SCREEN STUMPERS | This actor first shaved his head to play Pontius Pilate in 1965's "The Greatest Story Ever Told" | Telly Savalas
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 7
+SIGNS & SYMBOLS | As quoted by James Baldwin, "God gave Noah" this sign, "No more water, the fire next time!" | rainbow
+right: Travis
+Wrong: 
+Value: $400
+Number: 13
+I AM A ROCK | Although it may have brown streaks, obsidian is primarily this color | black
+right: Mollie
+Wrong: 
+Value: $400
+Number: 15
+I AM AN ISLAND | America's smallest state in area may have been named for this large island in the Aegean | Rhodes (Rhode Island)
+right: Travis
+Wrong: 
+Value: $400
+Number: 20
+BESTSELLERS | In 1981 John Irving "checked in" with this bestseller about the eccentric Berry family | "The Hotel New Hampshire"
+right: Travis
+Wrong: 
+Value: $600
+Number: 3
+BIG-SCREEN STUMPERS | For a 1941 film, this man became only the second to be nominated for Best Actor in his film debut | Orson Welles
+right: Steve
+Wrong: 
+Value: $600
+Number: 8
+SIGNS & SYMBOLS | The reference mark seen here shares its name with this weapon | dagger
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 14
+TREE-LETTER WORDS | Yes, this "action" is a program trying to end discrimination in employment | Affirmative
+right: Travis
+Wrong: 
+Value: $600
+Number: 28
+I AM A ROCK | This frothy volcanic rock floats on water | pumice
+right: Steve
+Wrong: 
+Mollie: What is lava?
+Value: $600
+Number: 16
+I AM AN ISLAND | This country's Isle of Skye was the original home of the Skye terrier | Scotland
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 21
+BESTSELLERS | Harry Patterson wrote the spy novels "Storm Warning" & "The Eagle Has Landed" under this pen name | Jack Higgins
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 4
+BIG-SCREEN STUMPERS | This Hitchcock classic was the first Best Picture Oscar winner with a first name as its one-word title | Rebecca
+right: 
+Wrong: 
+Steve: What is "Vertigo?"
+Value: DD: $2,500
+Number: 9
+SIGNS & SYMBOLS | The international symbol seen here stands for this type of hazard | biohazard
+right: Steve
+Wrong: 
+Mollie: What is nuclear?
+Value: $800
+Number: 24
+TREE-LETTER WORDS | You're in this position if you've been knocked flat on your back | supine
+right: Steve
+Wrong: 
+Value: DD: $1,400
+Number: 27
+I AM A ROCK | This common rock is piezoelectric & is used to control the frequencies of radio transmitters | quartz
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+I AM AN ISLAND | This Canadian island across from Greenland is the world's fifth-largest island | Baffin Island
+right: Travis
+Wrong: 
+Value: $800
+Number: 22
+BESTSELLERS | Herman Wouk followed up his bestselling "Winds of War" with this 1978 sequel | "War and Remembrance"
+right: Steve
+Wrong: 
+Value: $1000
+Number: 5
+BIG-SCREEN STUMPERS | Dag Nabbit!  He's the perennial sidekick who won 3 Oscars, including one for 1940's "The Westerner" | Walter Brennan
+right: Steve
+Wrong: 
+Value: $1000
+Number: 10
+SIGNS & SYMBOLS | Many Hebrew letters represent numbers; this letter represents 1 | aleph
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+TREE-LETTER WORDS | A mottled coat for a horse, there was a gray one in a nursery rhyme | dapple (has apple)
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+I AM A ROCK | The Rock of Gibraltar is a huge block of this rock made of calcite, a mineral form of calcium carbonate | limestone
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 18
+I AM AN ISLAND | Sapporo is the largest city on this Japanese island | Hokkaido
+right: 
+Wrong: Triple Stumper
+Steve: What is Honshu?
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Steve: $2,800
+Mollie: $400
+Travis: $5,000
+
+Final Jeopardy! Round
+19th CENTURY PERSONALITIES | In 1876 this German wired the king of Greece, "I have gazed upon the face of Agamemnon" | Heinrich Schliemann
+right: 
+Wrong: 
+Mollie: Who Keiser Wilhelm?
+Steve: Who is?
+Travis: Who was Bismarck?
+Wagers: 
+Mollie: $395
+Steve: $2,200
+Travis: $601
+Final scores:
+Steve: $600 (2nd place: Princess Caribbean Cruise)
+Mollie: $5 (3rd place: DirecTv Satellite System)
+Travis: $4,399 (New champion: $4,399)
+
+Coryat scores
+Steve: $4,700 (12 R(including 1 DD),4 W(including 1 DD))
+Mollie: $400 (8 R,3 W)
+Travis: $5,500 (20 R,3 W(including 1 DD))

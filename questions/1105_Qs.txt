@@ -1,0 +1,329 @@
+3324 - Thursday, February 4, 1999
+Contestants:
+Yen Bawagan: a research scientist from Wayne, Pennsylvania
+Nathan Childs: a reporter from Washington, D.C.
+Josh Flosi: a teacher from Danville, California (whose 1-day cash winnings total $15,001)
+First Jeopardy! Round: PEOPLE IN HISTORY, DAD TV, GORILLA MY DREAMS, ARCH-EOLOGY, FOOD GLORIOUS FOOD, FIX THE PROVERB
+PEOPLE IN HISTORY | He was so hefty he was nicknamed "Uncle Jumbo"; he probably preferred to be called "Our Grover" | Grover Cleveland
+right: Nathan
+Wrong: 
+Value: $100
+Number: 1
+DAD TV | Ward Cleaver | Leave It To Beaver
+right: Josh
+Wrong: 
+Value: $100
+Number: 11
+GORILLA MY DREAMS | The first gorilla born in captivity was Colo, who debuted in 1956 in this Ohio capital | Columbus
+right: Yen
+Wrong: 
+Value: $100
+Number: 29
+ARCH-EOLOGY | Built to honor Napoleon's victories, this Paris landmark was completed long after the emperor's death | Arc de Triomphe
+right: Yen
+Wrong: 
+Value: $100
+Number: 6
+FOOD GLORIOUS FOOD | In 1958 the first International House Of these opened in Toluca Lake, California | Pancakes
+right: Yen
+Wrong: 
+Value: $100
+Number: 17
+FIX THE PROVERB | The best things in life are whee! | The best things in life are free
+right: Yen
+Wrong: 
+Value: $100
+Number: 30
+PEOPLE IN HISTORY | These 2 Texans, gunned down on May 23, 1934, weren't nearly as good-looking as Faye & Warren | Bonnie Parker & Clyde Barrow
+right: Josh
+Wrong: 
+Value: $200
+Number: 2
+DAD TV | Jed Clampett | The Beverly Hillbillies
+right: Josh
+Wrong: 
+Value: $200
+Number: 12
+GORILLA MY DREAMS | Gorillas belong to this order of mammals which also includes monkeys, lemurs & man | Primates
+right: Nathan
+Wrong: 
+Value: $200
+Number: 28
+ARCH-EOLOGY | It's not half of the world's largest McDonald's sign, it's the structure seen here | St. Louis Gateway Arch
+right: Josh
+Wrong: 
+Value: $200
+Number: 7
+FOOD GLORIOUS FOOD | This "cocktail" ingredient, ranging in size from miniature to colossal, is the USA's favorite shellfish | Shrimp
+right: Yen
+Wrong: 
+Value: $200
+Number: 24
+FIX THE PROVERB | Fractions speak lewder than weirds | Actions speak louder than words
+right: Yen
+Wrong: 
+Value: $200
+Number: 22
+PEOPLE IN HISTORY | Hua Guofeng is far less famous than this man he succeeded as chairman of China's Communist party in 1976 | Mao Tse-tung
+right: Nathan
+Wrong: 
+Value: $300
+Number: 3
+DAD TV | Cliff Huxtable | The Cosby Show
+right: Yen
+Wrong: 
+Value: $300
+Number: 13
+GORILLA MY DREAMS | There are 3 types of gorillas:  eastern lowland, western lowland & this one that lives at altitudes up to 13,000 feet | Mountain gorilla
+right: Nathan
+Wrong: 
+Value: $300
+Number: 26
+ARCH-EOLOGY | This capital city's Independence Arch commemorates Korean resistance to foreign dominance | Seoul
+right: Josh
+Wrong: 
+Value: $300
+Number: 8
+FOOD GLORIOUS FOOD | Eskimo Pie inventor Russell Stover used his proceeds to open one of these shops in 1923 | Candy store/chocolate shop
+right: Nathan
+Wrong: 
+Value: $300
+Number: 23
+FIX THE PROVERB | Beware of geeks wearing lifts | Beware of Greeks bearing gifts
+right: Josh
+Wrong: 
+Value: $300
+Number: 14
+PEOPLE IN HISTORY | Rumor has it that Cleopatra hatched plots against this king of Judea after she tried to seduce him & failed | Herod the Great
+right: 
+Wrong: 
+Value: DD: $500
+Number: 4
+DAD TV | Ben Cartwright | Bonanza
+right: Yen
+Wrong: 
+Value: $400
+Number: 15
+GORILLA MY DREAMS | This zoologist founded the Karisoke Research Center in Rwanda where she studied gorillas for 18 years | Dian Fossey
+right: Yen
+Wrong: 
+Value: $400
+Number: 25
+ARCH-EOLOGY | The Windows & The Garden of Eden are found in this state's Arches National Park | Utah
+right: Josh
+Wrong: 
+Value: $400
+Number: 9
+FOOD GLORIOUS FOOD | This sauce made with butter, egg yolk & lemon juice embellishes Eggs Benedict | Hollandaise sauce
+right: Nathan
+Wrong: 
+Value: $400
+Number: 19
+FIX THE PROVERB | The pan is meatier than the sarge | The pen is mightier than the sword
+right: Josh
+Wrong: 
+Value: $400
+Number: 21
+PEOPLE IN HISTORY | Just thinking about this Russian's experiments with dogs & bells makes us salivate | Ivan Pavlov
+right: Yen
+Wrong: 
+Value: $500
+Number: 5
+DAD TV | Jack Gallo | Just Shoot Me
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+GORILLA MY DREAMS | This fully adult male with a colorful name may weigh twice as much as the adult females in his group | Silverback
+right: Yen
+Wrong: 
+Value: $500
+Number: 18
+ARCH-EOLOGY | This just in!  The Victory Arch in this Virginia port near Norfolk is a memorial to U.S. forces | Newport News
+right: Josh
+Wrong: 
+Value: $500
+Number: 10
+FOOD GLORIOUS FOOD | The pamphlet C.W. Post gave with each box of his new Grape Nuts was titled "The Road To" this | Wellville
+right: Nathan
+Wrong: 
+Value: $500
+Number: 16
+FIX THE PROVERB | If you lie down with frogs, you'll wake up with brie | If you lie down with dogs, you'll wake up with fleas
+right: Josh
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Josh: $2,200
+Nathan: -$700
+Yen: $900
+Scores at the end of the Jeopardy! Round:
+Josh: $3,100
+Nathan: $400
+Yen: $2,900
+Second Jeopardy! Round: LITERATURE, DIRECTORS, WORD ORIGINS, HEIFETZ, TUESDAY, THIS MUST BE BELGIUM
+LITERATURE | Chapter one of this book informs us that "There was unquestionably a Chuzzlewit in the Gunpowder Plot" | Martin Chuzzlewit
+right: Yen
+Wrong: 
+Value: $200
+Number: 1
+DIRECTORS | Mel Brooks' film "High Anxiety" spoofed this director's films, including, of course, "Vertigo" | Alfred Hitchcock
+right: Yen
+Wrong: 
+Value: $200
+Number: 6
+WORD ORIGINS | This "relative" term for sorority members is derived from middle English & old Norse | Sister
+right: Josh
+Wrong: 
+Value: $200
+Number: 11
+HEIFETZ | When Jascha debuted in this NYC hall in 1917, its steel-making benefactor was still alive | Carnegie Hall
+right: Josh
+Wrong: 
+Value: $200
+Number: 26
+TUESDAY | Tuesday Weld had one child, not 10, while married to this star of "10" | Dudley Moore
+right: Yen
+Wrong: 
+Value: $200
+Number: 21
+THIS MUST BE BELGIUM | Its upper city portion is home to the parliament & the royal palace | Brussels
+right: Josh
+Wrong: 
+Value: $200
+Number: 16
+LITERATURE | Originally, the term Picaresque referred to fiction from this country about rogues called Picaros | Spain
+right: Nathan
+Wrong: 
+Value: $400
+Number: 2
+DIRECTORS | This director claimed he called his 1971 film "Bananas" "Because there are no bananas in it" | Woody Allen
+right: Josh
+Wrong: 
+Value: $400
+Number: 7
+WORD ORIGINS | It's the part of a saddle whose name comes from a Latin word for "fruit" | Pommel
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 12
+HEIFETZ | With the USO, Heifetz told soldiers that Bach was like this vegetable -- you may not like it, but it's good for you | Spinach
+right: Nathan
+Wrong: 
+Value: $400
+Number: 27
+TUESDAY | Weld co-starred with him in "Wild In The Country" & played a mother in love with him in "Heartbreak Hotel" | Elvis Presley
+right: Yen
+Wrong: 
+Value: $400
+Number: 22
+THIS MUST BE BELGIUM | This fictional Belgian detective fled to England when World War I broke out | Hercule Poirot
+right: Nathan
+Wrong: 
+Value: $400
+Number: 17
+LITERATURE | The last chapter of this Charlotte Bronte novel begins with the words "Reader, I married him" | Jane Eyre
+right: Yen
+Wrong: 
+Value: $600
+Number: 3
+DIRECTORS | "I like to use cities as characters", said this "Meet Me In St. Louis" director, Liza's dad | Vincente Minnelli
+right: Yen
+Wrong: 
+Value: $600
+Number: 8
+WORD ORIGINS | This type of tripe is named for its resemblance to a certain bee structure | Honeycomb
+right: Yen
+Wrong: 
+Value: $600
+Number: 13
+HEIFETZ | One of Heifetz' prized violins was made by this great Cremonese in 1731 | Stradavarius
+right: Josh
+Wrong: 
+Value: $600
+Number: 28
+TUESDAY | On TV, Tuesday was one of "The Many Loves Of" this title character | Dobie Gillis
+right: Yen
+Wrong: 
+Value: $600
+Number: 23
+THIS MUST BE BELGIUM | This Motown star was living in Ostend when he co-wrote "Sexual Healing" | Marvin Gaye
+right: Nathan
+Wrong: 
+Value: $600
+Number: 18
+LITERATURE | In a poem dedicated to this lord, Longfellow wrote, "Poet!  I come to touch thy lance with mine" | Alfred Lord Tennyson
+right: Yen
+Wrong: 
+Value: $800
+Number: 4
+DIRECTORS | He directed his good friend John Wayne in many films; the last was "Donovan's Reef", in 1963 | John Ford
+right: Nathan
+Wrong: 
+Value: $800
+Number: 9
+WORD ORIGINS | This insect's name is derived from the superstition that it enters a sleeping person's aural organs | Earwig
+right: Josh
+Wrong: 
+Value: $800
+Number: 14
+TUESDAY | Tuesday was Oscar-nominated for her role in this 1977 Diane Keaton film | Looking For Mr. Goodbar
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+THIS MUST BE BELGIUM | Declared a traitor by the Jacobins, this hero of the American Revolution fled to Flanders | Marquis de Lafayette
+right: Nathan
+Wrong: 
+Value: DD: $1,500
+Number: 19
+LITERATURE | A category called Famous Andres would have to include this Frenchman who wrote "Man's Fate" & "Man's Hope" | Andre Malraux
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+DIRECTORS | He said, "My wife has taught me the meaning of uxoriousness" when he won an Oscar for "The English Patient" | Anthony Minghella
+right: Yen
+Wrong: 
+Value: $1000
+Number: 10
+WORD ORIGINS | The name of these strips of cloth wound around soldiers' lower legs comes from Hindi & Sanskrit for "bandage" | Puttees
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+TUESDAY | With Tuesday at his side, he starred in "Soldier In The Rain" & "The Cincinnati Kid" | Steve McQueen
+right: Yen
+Wrong: 
+Value: $1000
+Number: 25
+THIS MUST BE BELGIUM | A famous musical had this Belgian-born singer-songwriter "Alive And Well And Living In Paris" | Jacques Brel
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Josh: $2,300
+Nathan: $3,700
+Yen: $7,100
+
+Final Jeopardy! Round
+FAMOUS NICKNAMES | This famous 20th century nickname is the Argentinian equivalent of "Y'know?" or "Hey, you!" | Che (for Che Guevara, who was born in Argentina)
+right: Nathan
+Wrong: 
+Josh: What is Evita?
+Yen: What is Senor?
+Wagers: 
+Josh: $1,500
+Nathan: $3,100
+Yen: $301
+Final scores:
+Josh: $800 (3rd place: Store of Knowledge Gift Certificate)
+Nathan: $6,800 (New champion: $6,800)
+Yen: $6,799 (2nd place: Trip to Wyndham Rose Hall & Beach Resort, Montego Bay, Jamaica)
+
+Coryat scores
+Josh: $4,300 (16 R,3 W(including 1 DD))
+Nathan: $3,500 (13 R(including 1 DD),7 W(including 1 DD))
+Yen: $7,100 (22 R,3 W)

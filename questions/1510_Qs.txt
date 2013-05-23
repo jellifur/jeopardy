@@ -1,0 +1,338 @@
+3817 - Tuesday, March 20, 2001
+Contestants:
+Rob Core: a collections account manager from Akron, Ohio
+Kathryn Wildt: a scientist from Washington, D.C.
+Dennis Scott: an actor from Baltimore, Maryland (whose 1-day cash winnings total $7,500)
+First Jeopardy! Round: A WORDLY CATEGORY, THEY'RE GREAT!, WELL, THAT'S OBVIOUS, STRAIGHT TO VIDEO, CHINESE CALENDAR ANIMALS, "OIL" IT
+A WORDLY CATEGORY | At about 7 million, this Iranian city is the Middle East's second most populous, after Cairo | Tehran
+right: Kathryn
+Wrong: 
+Value: $100
+Number: 14
+THEY'RE GREAT! | This great president was known as the "Great Emancipator" | Abraham Lincoln
+right: Kathryn
+Wrong: 
+Value: $100
+Number: 30
+WELL, THAT'S OBVIOUS | In many countries the name Primo is most often given to this son | First son
+right: Dennis
+Wrong: 
+Value: $100
+Number: 1
+STRAIGHT TO VIDEO | The sequel to this film is subtitled "Simba's Pride" | The Lion King
+right: Dennis
+Wrong: 
+Value: $100
+Number: 11
+CHINESE CALENDAR ANIMALS | While all the animals breathe, this is the only one that you'd expect to breathe fire | Dragon
+right: Dennis
+Wrong: 
+Value: $100
+Number: 6
+"OIL" IT | Exhausting labor | Toil
+right: Dennis
+Wrong: 
+Value: $100
+Number: 29
+A WORDLY CATEGORY | The region of Andalusia is found in the southern part of this nation | Spain
+right: Dennis
+Wrong: 
+Value: $200
+Number: 15
+THEY'RE GREAT! | Revealed in a May 1964 speech, it was LBJ's campaign slogan | "The Great Society"
+right: Rob
+Wrong: 
+Value: $200
+Number: 28
+WELL, THAT'S OBVIOUS | One O' Cat is a predecessor of this game named for the places a runner had to get to & the main piece of equipment | Baseball
+right: Dennis
+Wrong: 
+Value: $200
+Number: 2
+STRAIGHT TO VIDEO | He reprised his role as Wayne Szalinski in "Honey, We Shrunk Ourselves" | Rick Moranis
+right: Kathryn
+Wrong: 
+Value: $200
+Number: 12
+CHINESE CALENDAR ANIMALS | "Mr. Ed" went off the air in 1966, ironically the year of this animal | Horse
+right: Dennis
+Wrong: 
+Value: $200
+Number: 7
+"OIL" IT | To change from liquid to vapor | Boil
+right: Dennis
+Wrong: 
+Value: $200
+Number: 19
+A WORDLY CATEGORY | This former monarchy in southwest Asia was occupied by Soviet troops from 1979 to 1989 | Afghanistan
+right: Rob
+Wrong: 
+Value: $300
+Number: 16
+THEY'RE GREAT! | In about 326 B.C. his horse Bucephalus died in India; he built a city to honor his trusty steed | Alexander the Great
+right: Kathryn
+Wrong: 
+Value: $300
+Number: 27
+WELL, THAT'S OBVIOUS | The food item seen here is from this chain that opened its first location in 1946 | Hot Dog on a Stick
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 3
+STRAIGHT TO VIDEO | Universal has released 7 films in this dinosaur series & has plans for an 8th | The Land Before Time
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 13
+CHINESE CALENDAR ANIMALS | William Blake had the "bright" idea to spell this animal's name with a "Y" | Tiger ("Tyger, tyger burning bright...")
+right: 
+Wrong: 
+Value: DD: $600
+Number: 8
+"OIL" IT | A small, ornamental mat | Doily
+right: Kathryn
+Wrong: 
+Value: $300
+Number: 20
+A WORDLY CATEGORY | Of New York City, Havana, Cuba or Santiago, Chile, the one that's farthest east | Santiago
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+THEY'RE GREAT! | On "The Flintstones" Harvey Korman voiced this tiny alien from the planet Zetox | The Great Gazoo
+right: Rob
+Wrong: 
+Value: $400
+Number: 26
+WELL, THAT'S OBVIOUS | It's the title of Madonna's 2000 album, or what you'll hear on it | "Music"
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 4
+STRAIGHT TO VIDEO | In "Buzz Lightyear of Star Command", this "enterprising" actor sings "To Infinity & Beyond" | William Shatner
+right: Rob
+Wrong: 
+Value: $400
+Number: 24
+CHINESE CALENDAR ANIMALS | One of the largest animals, it has the shortest name -- 2 letters | Ox
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 9
+"OIL" IT | To prevent from being successful | Spoil/foil
+right: Rob
+Wrong: 
+Value: $400
+Number: 21
+A WORDLY CATEGORY | 4,389-foot Cerro de Punta on this Caribbean island is the highest point on a U.S. possession not in the 50 states | Puerto Rico
+right: Kathryn
+Wrong: 
+Value: $500
+Number: 18
+THEY'RE GREAT! | This 19th C. Kentuckian was known as the "Great Pacificator" for his ability to settle bitter political conflicts | Henry Clay
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+WELL, THAT'S OBVIOUS | The 16th century painting seen here is known as the "Madonna With the Long" one of these | Neck
+right: Kathryn
+Wrong: 
+Value: $500
+Number: 5
+STRAIGHT TO VIDEO | This series isn't up to "Fievel Get You: 10" yet, but its "Mystery of the Night Monster" is number 4 | An American Tail
+right: Rob
+Wrong: 
+Value: $500
+Number: 23
+CHINESE CALENDAR ANIMALS | First name of John Wayne's character Cogburn | Rooster
+right: Dennis
+Wrong: 
+Value: $500
+Number: 10
+"OIL" IT | To spring back upon firing | Recoil
+right: Rob
+Wrong: 
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Dennis: $600
+Kathryn: $1,500
+Rob: -$300
+Scores at the end of the Jeopardy! Round:
+Dennis: $1,100
+Kathryn: $2,400
+Rob: $2,400
+Second Jeopardy! Round: HISTORIC AMERICANS, THE WRESTLING WORLD, AUTHORS & THEIR SLEUTHS, TIME TO "B" SPECIAL, IT'S CHER'S WORLD, WE JUST LIVE IN IT
+HISTORIC AMERICANS | In the 1790s, this First Lady said she felt like a "state prisoner" | Martha Washington
+right: Rob
+Wrong: 
+Value: $200
+Number: 19
+THE WRESTLING WORLD | Athletes in this sport train on a stew called chankonabe, along with vast quantities of rice & beer | Sumo wrestling
+right: Kathryn
+Wrong: 
+Value: $200
+Number: 7
+AUTHORS & THEIR SLEUTHS | Mike Hammer | Mickey Spillane
+right: Rob
+Wrong: 
+Value: $200
+Number: 2
+TIME TO "B" SPECIAL | This literary movement was led in part by the poetry & prose of Burroughs, Ginsberg & Kerouac | Beat
+right: Dennis
+Wrong: 
+Value: $200
+Number: 20
+IT'S CHER'S WORLD | Cher started putting out these videos in 1991 with one subtitled "A New Attitude" | Exercise videos
+right: Rob
+Wrong: 
+Value: $200
+Number: 1
+WE JUST LIVE IN IT | It can refer to a one-story suburban home as well as to a home on a large farm where animals are raised | Ranch house
+right: Dennis
+Wrong: 
+Value: $200
+Number: 14
+HISTORIC AMERICANS | She was nicknamed "Mother of the Red Cross" | Clara Barton
+right: Kathryn
+Wrong: 
+Value: $400
+Number: 27
+THE WRESTLING WORLD | Henry Coppinger, seen here, helped popularize this sport | Alligator wrestling
+right: Dennis
+Wrong: 
+Value: $400
+Number: 8
+AUTHORS & THEIR SLEUTHS | Philip Marlowe | Raymond Chandler
+right: Rob
+Wrong: 
+Value: $400
+Number: 3
+TIME TO "B" SPECIAL | Ursa Major contains this smaller constellation | Big Dipper
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+IT'S CHER'S WORLD | In 1987 Cher won acclaim as Brooklyn bookkeeper Loretta Castorini in this film | Moonstruck
+right: Rob
+Wrong: 
+Value: $400
+Number: 10
+WE JUST LIVE IN IT | This word for a shack is also heard in quarterbacks' signals | Hut
+right: Dennis
+Wrong: 
+Value: $400
+Number: 15
+HISTORIC AMERICANS | On April 15, 1821 President Monroe appointed him the first governor of the territory of Florida | Andrew Jackson
+right: Rob
+Wrong: 
+Value: $600
+Number: 28
+THE WRESTLING WORLD | In an upset at the 2000 Olympics, Rulon Gardner beat Alexander Karelin in this "classic" style | Greco-Roman wrestling
+right: Dennis
+Wrong: 
+Value: DD: $500
+Number: 9
+AUTHORS & THEIR SLEUTHS | Sam Spade | Dashiell Hammett
+right: Kathryn
+Wrong: 
+Value: $600
+Number: 4
+TIME TO "B" SPECIAL | Before "Showgirls", she played Jessie Spano on the Saturday morning sitcom "Saved By The Bell" | Elizabeth Berkley
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+IT'S CHER'S WORLD | In 1998 Cher published this autobiographical book; they say there's one for everything | "The First Time"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+WE JUST LIVE IN IT | Fictional hero Travis McGee lives aboard one of these, The Busted Flush, moored at Fort Lauderdale | Houseboat
+right: Kathryn
+Wrong: 
+Value: $600
+Number: 16
+HISTORIC AMERICANS | This Nez Perce chief visited Teddy Roosevelt twice to plead for his people's return to their ancestral homeland | Chief Joseph
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+THE WRESTLING WORLD | Masks are worn & chairs are often thrown in lucha libre, or this national type of wrestling | Mexican wrestling
+right: Rob
+Wrong: 
+Value: $800
+Number: 11
+AUTHORS & THEIR SLEUTHS | Bishop Blackie Ryan | Andrew Greeley
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 5
+TIME TO "B" SPECIAL | Ulrike Meinhof was a prominent leader of this 1970s German terrorist gang | Baader-Meinhof Gang
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+IT'S CHER'S WORLD | At Cher's website, T-shirts & a thermal PJ set appear under this rhyming name | Cher Wear
+right: Rob
+Wrong: 
+Value: $800
+Number: 25
+WE JUST LIVE IN IT | Hyphenated name for a shelter made of an inclined roof supported by 2 upright pieces | Lean-to
+right: Dennis
+Wrong: 
+Value: $800
+Number: 17
+HISTORIC AMERICANS | In August 1858 this American financier succeeded in laying the first successful Transatlantic cable | Cyrus Field
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+THE WRESTLING WORLD | Jewish giant of the professional ring seen here | Goldberg
+right: Dennis
+Wrong: 
+Value: $1000
+Number: 12
+AUTHORS & THEIR SLEUTHS | V.I. Warshawski | Sara Paretsky
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+TIME TO "B" SPECIAL | In "The Jungle Book", he's Mowgli's instructive panther | Bagheera
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 24
+IT'S CHER'S WORLD | "Prophetic" name of Cher's son with Gregg Allman | Elijah Blue
+right: Dennis
+Wrong: 
+Value: $1000
+Number: 26
+WE JUST LIVE IN IT | This name for an often rundown apartment building comes from the Latin for "to hold" | Tenement
+right: Rob
+Wrong: 
+Value: $1000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Dennis: $5,600
+Kathryn: $1,600
+Rob: $6,000
+
+Final Jeopardy! Round
+THEATRE HISTORY | This playwright died in 406 B.C., so he never saw his famous tragedy at Colonus produced | Sophocles
+right: Dennis | Rob
+Wrong: 
+Kathryn: Who was Euripedes
+Wagers: 
+Kathryn: $1,600
+Dennis: $3,000
+Rob: $5,601
+Final scores:
+Dennis: $8,600 (2nd place: Trip to Amsterdam courtesy of Priceline.com)
+Kathryn: $0 (3rd place: Novica.com Shopping Spree)
+Rob: $11,601 (New champion: $11,601)
+
+Coryat scores
+Dennis: $6,300 (17 R(including 1 DD),1 W(including 1 DD))
+Kathryn: $3,600 (13 R,4 W(including 1 DD))
+Rob: $6,000 (16 R,2 W)

@@ -1,0 +1,349 @@
+4578 - Wednesday, June 30, 2004
+Comments: Ken Jennings game 21.
+Contestants:
+Sue Richman: a certified public accountant from Oak Park, California
+Ryan McClarren: a graduate student from Lake Orion, Michigan
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 20-day cash winnings total $662,760)
+First Jeopardy! Round: THE BLUE & THE GRAY, BROWN, BLACK & WHITE TV, GREENLAND, PURPLE HAZE, "YELLOW" FEVER
+THE BLUE & THE GRAY | After Bull Run, General McClellan reorganized the Union Army which was then called the Army of this river | the Potomac
+right: Ryan
+Wrong: 
+Value: $200
+Number: 9
+BROWN | Brown belongs to this group of 8 colleges & universities known for their academic & social prestige | the Ivy League
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+BLACK & WHITE TV | Sunset Strip address of detectives Stu Bailey & Jeff Spencer | 77
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+GREENLAND | The closest country to Greenland is this one, a mere 16 miles away | Canada
+right: Ryan
+Wrong: 
+Ken: What is Iceland?
+Value: $200
+Number: 3
+PURPLE HAZE | In 1893 Katharine Lee Bates wrote of "purple mountain majesties above the fruited plain" in this song | "America The Beautiful"
+right: Ken
+Wrong: 
+Value: $200
+Number: 21
+"YELLOW" FEVER | The business section of the phone directory | the yellow pages
+right: Ken
+Wrong: 
+Value: $200
+Number: 26
+THE BLUE & THE GRAY | On Aug. 5, 1864 this hero lost an ironclad, but his wooden flagship the Hartford survived the battle | (David) Farragut
+right: Ryan
+Wrong: 
+Value: DD: $1,000
+Number: 10
+BROWN | Famous Brown alumni include Charles Evans Hughes, Mary Chapin Carpenter & this Penn State football coach | Joe Paterno
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+BLACK & WHITE TV | This CBS game show that first hit the air in 1955 gave away $1,000,000 in its first 17 months | The $64,000 Question
+right: Ryan
+Wrong: 
+Value: $400
+Number: 2
+GREENLAND | Fully two-thirds of Greenland lies within this boundary at latitude 66 degrees 30 minutes north | the Arctic Circle
+right: Ken
+Wrong: 
+Value: $400
+Number: 4
+PURPLE HAZE | The current Purple Heart medal has a portrait of this man on it | George Washington
+right: Sue
+Wrong: 
+Value: $400
+Number: 22
+"YELLOW" FEVER | It's joined to the Yangtze by the Grand Canal | the Yellow River
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+THE BLUE & THE GRAY | On April 9, 1865 Robert E. Lee surrendered in this settlement in a house owned by a farmer named Wilmer McLean | Appomattox
+right: Ken
+Wrong: 
+Value: $600
+Number: 11
+BROWN | Brown's John Hay Library has one of the world's most renowned collections of writings about & by this 16th pres. | Abe Lincoln
+right: Ryan
+Wrong: 
+Value: $600
+Number: 18
+BLACK & WHITE TV | For years "Gunsmoke" & this Western about folks headin' west were the No. 1 & 2 shows on TV | Wagon Train
+right: Sue
+Wrong: 
+Value: $600
+Number: 8
+GREENLAND | Greenland's major physical feature is its massive ice sheet, which is second in size only to one found here | Antarctica
+right: Ken
+Wrong: 
+Value: $600
+Number: 5
+PURPLE HAZE | This alliterative phrase refers to overly florid writing that tries to enlist a reader's sympathies | purple prose
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+"YELLOW" FEVER | Ground-nesting member of the Vespidae family seen <http://www.j-archive.com/media/2004-06-30_J_28.jpg> here | a yellowjacket
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+THE BLUE & THE GRAY | On Jan. 21, 1861 he bade farewell to the U.S. Senate; 28 days later he was sworn in as president of the Confederacy | Jeff Davis
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+BROWN | Brown was closed during this war when it served as a barracks for troops | the Revolutionary War
+right: Ryan
+Wrong: 
+Value: $800
+Number: 19
+BLACK & WHITE TV | In 1951 this Danish pianist with a sense of the absurd had his own show on NBC | Victor Borge
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+GREENLAND | Greenland is an autonomous dependency of this nation | Denmark
+right: Ken
+Wrong: 
+Value: $800
+Number: 6
+PURPLE HAZE | In the '60s & '70s, this football team's defensive line members were known as the Purple People Eaters | the Vikings
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+"YELLOW" FEVER | It's used by a soccer referee to caution a player against further rough play | a yellow card
+right: Ryan
+Wrong: 
+Value: $800
+Number: 29
+THE BLUE & THE GRAY | After Antietam, Lee withdrew into Virginia & whupped Burnside at this Dec. 13, 1862 battle | the Battle of Fredericksburg
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+BROWN | Brown was founded by members of this religious group, now the largest U.S. Protestant denomination | the Baptists
+right: 
+Wrong: Triple Stumper
+Ken: Ooh.  What's Presbyterian?
+Ryan: What is Episcopal?
+Sue: What is Methodist?
+Value: $1000
+Number: 20
+BLACK & WHITE TV | It's not an Italian white wine, it's a cute Italian mouse often featured on "The Ed Sullivan Show" | Topo Gigio
+right: Ken
+Wrong: 
+Value: $1000
+Number: 13
+GREENLAND | The site of a U.S. Air Force base, it follows "Ultima" in a phrase meaning a distant place | Thule
+right: Ken
+Wrong: 
+Value: $1000
+Number: 7
+PURPLE HAZE | A deficiency of this vitamin cuts down on your production of visual purple & may lead to night blindness | vitamin A
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 25
+"YELLOW" FEVER | Founded in 1935, this city lies on the shores of the Northwest Territories' Great Slave Lake | Yellowknife
+right: Sue
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Ken: $6,000
+Ryan: $1,800
+Sue: $600
+Scores at the end of the Jeopardy! Round:
+Ken: $8,400
+Ryan: $4,000
+Sue: $1,000
+Second Jeopardy! Round: COMPOSERS, MILITARY TV SHOWS BY CHARACTER, CHICKEN OR FISH?, THE EUROPEAN UNION, "P"EOPLE, 5, 5
+COMPOSERS | Supposedly Gustav Mahler's last word was the name of this Salzburg-born composer | Mozart
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+MILITARY TV SHOWS BY CHARACTER | Major Hochstetter, General Burkhalter, Colonel Klink | Hogan's Heroes
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+CHICKEN OR FISH? | Tonight's choices: baked stuffed chicken breast or this Chilean fish in a horseradish crust | sea bass
+right: Ryan
+Wrong: 
+Value: $400
+Number: 1
+THE EUROPEAN UNION | 2 of the 4 countries that each have the maximum number of votes in the E.U. council (Malta has the fewest) | (2 of) France, Germany, Italy, & the UK
+right: Ryan
+Wrong: 
+Value: $400
+Number: 16
+"P"EOPLE | He was James Gamble's brother-in-law & business partner | (William) Procter
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+5, 5 | You don't want this venomous spider to sit down beside ya | a black widow
+right: Ken
+Wrong: 
+Value: $400
+Number: 30
+COMPOSERS | His "Goldberg Variations" were originally designed to help an insomniac nobleman sleep | J.S. Bach
+right: Ken
+Wrong: 
+Sue: Who is Beethoven?
+Value: $800
+Number: 3
+MILITARY TV SHOWS BY CHARACTER | Captain Parmenter, Chief Wild Eagle, Corporal Agarn | F-Troop
+right: Ken
+Wrong: 
+Value: $800
+Number: 8
+CHICKEN OR FISH? | Would you care for barbecued chicken wings or this "orange" fish in a green sauce | a roughy
+right: Ken
+Wrong: 
+Value: $800
+Number: 10
+THE EUROPEAN UNION | The 2004 addition of 10 countries including <http://www.j-archive.com/media/2004-06-30_DJ_17.jpg> this <http://www.j-archive.com/media/2004-06-30_DJ_17a.jpg> one brings the E.U.'s population to 450 million | Poland
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+"P"EOPLE | In 2003 this would-be Detroit Lion, author & founder of The Paris Review passed away at 76 | George Plimpton
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+5, 5 | In Monopoly, you pay the owner of this property either 4 or 10 times the amount shown on the dice | Water Works
+right: Ken
+Wrong: 
+Ryan: What is Park Place?
+Value: $800
+Number: 26
+COMPOSERS | A famous suite by this composer includes the piece heard <http://www.j-archive.com/media/2004-06-30_DJ_04.mp3> here | (Ferde) Grofé
+right: Ken
+Wrong: 
+Value: DD: $2,400
+Number: 4
+MILITARY TV SHOWS BY CHARACTER | Lt. Cmdr. Harmon Rabb, Lt. Col. Sarah MacKenzie, Adm. A.J. Chegwidden | JAG
+right: Sue
+Wrong: 
+Value: $1200
+Number: 9
+CHICKEN OR FISH? | I'm out of the halibut fillets in roasted butter, so you can have the chicken dish prepared in this "hunter's style" | cacciatore
+right: Sue
+Wrong: 
+Value: $1200
+Number: 13
+THE EUROPEAN UNION | On Feb. 28, 2002 9 member nations ceased using their own national these | currency
+right: Ryan
+Wrong: 
+Value: $1200
+Number: 18
+"P"EOPLE | If you know that this journalist was born in Mako, Hungary in 1847, you deserve a "Prize" | (Joseph) Pulitzer
+right: Sue
+Wrong: 
+Value: $1200
+Number: 23
+5, 5 | To keep a photographer up on developing events, he may look at <http://www.j-archive.com/media/2004-06-30_DJ_27.jpg> one of <http://www.j-archive.com/media/2004-06-30_DJ_27a.jpg> these | a proof sheet
+right: Ken
+Wrong: 
+Value: $1200
+Number: 27
+COMPOSERS | His 1888 symphonic suite "Scheherazade" was based on the tales of the "Arabian Nights" | Rimsky-Korsakov
+right: Ken
+Wrong: 
+Value: $1600
+Number: 5
+MILITARY TV SHOWS BY CHARACTER | Lt. Colleen McMurphy, Major Lila Garreau, Private Beckett | China Beach
+right: Ken
+Wrong: 
+Value: $1600
+Number: 11
+CHICKEN OR FISH? | Whitefish on rice, or chicken dipped in egg & rolled in a breadcrumb mixture--the style of this northern Italian city | Milan
+right: Sue
+Wrong: 
+Value: $1600
+Number: 14
+THE EUROPEAN UNION | From 1967 to 1993 it wasn't the European "Union" but the European this | Community
+right: Sue
+Wrong: 
+Ken: What is Economic Community?
+Ryan: What is Commonwealth?
+Value: $1600
+Number: 19
+"P"EOPLE | This advocate of a low-fat, low-cholesterol diet was the subject of a book, "The Man Who Healed America's Heart" | Pritikin
+right: Sue
+Wrong: 
+Value: $1600
+Number: 24
+5, 5 | It's documentary evidence left behind | a paper trail
+right: Ken
+Wrong: 
+Value: $1600
+Number: 28
+COMPOSERS | This Impressionist composer's only completed opera, "Pelleas et Melisande", premiered in Paris in 1902 | Debussy
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+MILITARY TV SHOWS BY CHARACTER | Lt. Anderson, Lt. Pruitt, Major "Pappy" Boyington | Baa Baa Black Sheep
+right: Ken
+Wrong: 
+Sue: Um, what is Black Sheep?
+Value: $2000
+Number: 12
+CHICKEN OR FISH? | On today's menu: lobster thermidor or this classic French-named fricassee that once made use of old roosters | coq au vin
+right: Sue
+Wrong: 
+Value: $2000
+Number: 15
+THE EUROPEAN UNION | Conductor Herbert von Karajan made instrumental arrangements of this vocal ode, the E.U.'s anthem | "Ode To Joy"
+right: Sue
+Wrong: 
+Value: $2000
+Number: 20
+"P"EOPLE | In 1961 this African-American soprano made her debut at the Met as Leonora in "Il trovatore" | (Leontyne) Price
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+5, 5 | It's the only Dickens novel that fits the category | Bleak House
+right: Ken
+Wrong: 
+Value: DD: $2,800
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Ken: $30,400
+Ryan: $3,600
+Sue: $10,600
+
+Final Jeopardy! Round
+HISTORIC NAMES | In 1899 he was released from Devil's Island & pardoned for "treason under extenuating circumstances" | Captain Alfred Dreyfus
+right: Ken
+Wrong: 
+Ryan: Who is [Tsolo crossed out] Jefferson Davis
+Sue: Who is Joe + Amy?
+Wagers: 
+Ryan: $3,599
+Sue: $0
+Ken: $4,600
+Final scores:
+Ken: $35,000 (21-day champion: $697,760)
+Ryan: $1 (3rd place: $1,000)
+Sue: $10,600 (2nd place: $2,000)
+
+Coryat scores
+Ken: $28,400 (36 R(including 2 DDs),3 W)
+Ryan: $3,000 (11 R(including 1 DD),3 W)
+Sue: $10,600 (11 R,3 W)

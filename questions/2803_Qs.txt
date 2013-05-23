@@ -1,0 +1,350 @@
+4271 - Monday, March 10, 2003
+Comments: Max Levaren game 4.  <br />
+Contestants:
+Jimmy Ogden: a software project manager from Austin, Texas
+Sherry Harley: a library assistant from Cambridge, Massachusetts
+Max Levaren: a personal success coach from San Diego, California (whose 3-day cash winnings total $46,400)
+First Jeopardy! Round: ANCIENT ROME, PILLOW TALK, BEST PICTURES IN OTHER WORDS, HALLS OF FAME, HISTORICAL NOVELS, ALPHABETIC HOMOPHONES
+ANCIENT ROME | (Jimmy of the Clue Crew in Rome)  This type of Colosseum combat was abolished in 404 A.D. after a monk died trying to separate two combatants | gladiatorial combat
+right: Max
+Wrong: 
+Value: $200
+Number: 6
+PILLOW TALK | In classic radio comedy, Dick Orkin turned this under-kids'-pillows cash provider into the Molar Marauder | the Tooth Fairy
+right: Jimmy
+Wrong: 
+Value: $200
+Number: 21
+BEST PICTURES IN OTHER WORDS | 1998: "'Twelfth Night' Writer's Amorous Adventures" | Shakespeare in Love
+right: Sherry
+Wrong: 
+Value: $200
+Number: 11
+HALLS OF FAME | It opened in Cooperstown, New York in 1939 | Baseball Hall of Fame
+right: Jimmy
+Wrong: 
+Value: $200
+Number: 26
+HISTORICAL NOVELS | Ben Ames Williams' novel "House Divided" depicts a Virginia family during this war | Civil War
+right: Max
+Wrong: 
+Value: $200
+Number: 1
+ALPHABETIC HOMOPHONES | To achieve the best flavor, this should steep for 3 to 5 minutes prior to being served | tea
+right: Jimmy
+Wrong: 
+Value: $200
+Number: 16
+ANCIENT ROME | Less valuable than the aureus, the denarius was a coin made of this | silver
+right: 
+Wrong: Triple Stumper
+Sherry: What is copper?
+Jimmy: What is gold?
+Value: $400
+Number: 7
+PILLOW TALK | Legend has it that each night Alexander the Great put his sword & a book by this epic poet under his pillow | Homer
+right: Max
+Wrong: 
+Jimmy: Who is Virgil?
+Value: $400
+Number: 22
+BEST PICTURES IN OTHER WORDS | 1987: "That Final Manchu Ruler" | The Last Emperor
+right: Max
+Wrong: 
+Value: $400
+Number: 12
+HALLS OF FAME | As you'd expect, Annie Oakley & Dale Evans are honorees at this national hall of fame in Fort Worth, Texas | Cowgirl Hall of Fame
+right: Max
+Wrong: 
+Jimmy: What is the Cowboy Hall of Fame?
+Value: $400
+Number: 27
+HISTORICAL NOVELS | William Safire's "Scandalmonger" exposes James Callender, who gossiped about this president & Sally Hemings | Thomas Jefferson
+right: Max
+Wrong: 
+Value: $400
+Number: 2
+ALPHABETIC HOMOPHONES | It's a slang term for a former spouse | ex
+right: Max
+Wrong: 
+Value: $400
+Number: 17
+ANCIENT ROME | In the Forum in 44 B.C., he gave a rousing speech that may have begun, "Friends, Romans, countrymen..." | Mark Antony
+right: Max
+Wrong: 
+Value: $600
+Number: 8
+PILLOW TALK | Tradition says after a wedding a single girl puts this under her pillow so she'll dream of a future spouse | a slice of wedding cake
+right: Max
+Wrong: 
+Sherry: What is the bouquet?
+Value: $600
+Number: 23
+BEST PICTURES IN OTHER WORDS | 1951: "One Yank on the Left Bank" | An American in Paris
+right: Max
+Wrong: 
+Value: $600
+Number: 13
+HALLS OF FAME | In Indiana, there's a Bill Monroe museum & hall of fame devoted to this "colorful" style of music | Bluegrass
+right: Max
+Wrong: 
+Value: $600
+Number: 28
+HISTORICAL NOVELS | "The Conqueror" by Gertrude Atherton fictionalizes the life of this early 19th century dueling victim | Alexander Hamilton
+right: Max
+Wrong: 
+Value: $600
+Number: 3
+ALPHABETIC HOMOPHONES | It comes before both Greco & Alamein | El
+right: Max
+Wrong: 
+Value: $600
+Number: 18
+ANCIENT ROME | This highest social class, whose name still refers to aristocracy, once made up the entire Senate | Patricians
+right: 
+Wrong: Triple Stumper
+Sherry: What are Republicans?
+Value: $800
+Number: 9
+PILLOW TALK | Named for the variety of designs & stitches on it, this type of pillow can bear a homily or a homemade design | sampler
+right: Max
+Wrong: 
+Sherry: What is embroidery?
+Jimmy: What is cross-stitch?
+Value: $800
+Number: 24
+BEST PICTURES IN OTHER WORDS | 1978: "An Elk Tracker" | The Deer Hunter
+right: Sherry
+Wrong: 
+Value: $800
+Number: 14
+HALLS OF FAME | This state's sports hall of fame includes Herschel Walker, Bobby Jones & Ty Cobb | Georgia
+right: Max
+Wrong: 
+Value: DD: $3,000
+Number: 29
+HISTORICAL NOVELS | Some consider this 1932 novel, the first in a trilogy, a blight on Captain Bligh's character | "Mutiny on the Bounty"
+right: Sherry
+Wrong: 
+Value: $800
+Number: 4
+ALPHABETIC HOMOPHONES | On TV she's Sheriff Andy Taylor's aunt | Aunt Bee
+right: Jimmy
+Wrong: 
+Value: $800
+Number: 19
+ANCIENT ROME | (Jimmy of the Clue Crew in Rome)  The water for the Trevi Fountain is supplied by one of these structures, completed in 19 B.C. | aqueduct
+right: Jimmy
+Wrong: 
+Value: $1000
+Number: 10
+PILLOW TALK | He wrote his son Kermit from the White House in 1903 about his being ambushed in a pillow fight | Theodore Roosevelt
+right: Jimmy
+Wrong: 
+Value: $1000
+Number: 25
+BEST PICTURES IN OTHER WORDS | 1960: "A Residential Rental Unit" | The Apartment
+right: Sherry
+Wrong: 
+Value: $1000
+Number: 15
+HALLS OF FAME | Instead of just "standing on a corner in" this Arizona city, drop by an Astronaut Hall of Fame | Winslow
+right: Jimmy
+Wrong: 
+Value: $1000
+Number: 30
+HISTORICAL NOVELS | A real Edinburgh prison nicknamed "The Heart of Midlothian" is featured in his 1818 novel of the same name | Sir Walter Scott
+right: Max
+Wrong: 
+Value: $1000
+Number: 5
+ALPHABETIC HOMOPHONES | From the Latin for seat, it's the official seat of a bishop | see
+right: Max
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Max: $4,000
+Sherry: $1,600
+Jimmy: $600
+Scores at the end of the Jeopardy! Round:
+Max: $11,800
+Sherry: $200
+Jimmy: $2,400
+Second Jeopardy! Round: ARCHITECTURE, 2-WORD COUNTRIES, TUNES FROM REVUES, "GOOD" STUFF, CHUTE FIRST, HISTORIC RHYME TIME
+ARCHITECTURE | Basically a garage without side walls, it's associated with 1950s architecture | carport
+right: Max
+Wrong: 
+Value: $400
+Number: 16
+2-WORD COUNTRIES | Visited by Columbus, it shares an island with Haiti | Dominican Republic
+right: Max
+Wrong: 
+Value: $400
+Number: 6
+TUNES FROM REVUES | At 1921's "Shuffle Along", you could sing along with Eubie Blake & Noble Sissle's "I'm Just Wild About" this man | Harry
+right: Sherry
+Wrong: 
+Value: $400
+Number: 21
+"GOOD" STUFF | In 1963 this company produced its billionth tire | Goodyear
+right: Jimmy
+Wrong: 
+Value: $400
+Number: 11
+CHUTE FIRST | Before his famous transatlantic flight, this man parachuted out of damaged planes 3 times while delivering mail | Charles Lindbergh
+right: Sherry
+Wrong: 
+Value: $400
+Number: 22
+HISTORIC RHYME TIME | William Tecumseh's Berliners | Sherman's Germans
+right: Sherry
+Wrong: 
+Value: $400
+Number: 1
+ARCHITECTURE | Adobe was a common material in the Southwest U.S. style of architecture named for these church outposts | missions
+right: Jimmy
+Wrong: 
+Value: $800
+Number: 17
+2-WORD COUNTRIES | People from this country are known as Kiwis | New Zealand
+right: Max
+Wrong: 
+Value: $800
+Number: 7
+TUNES FROM REVUES | In a 1921 edition of Ziegfeld's "Follies", she introduced "Second Hand Rose" | Fanny Brice
+right: Max
+Wrong: 
+Value: $800
+Number: 27
+"GOOD" STUFF | You might catch a glimpse of the doomed ship "The Flying Dutchman" off this African cape | Cape of Good Hope
+right: Max
+Wrong: 
+Value: $800
+Number: 12
+CHUTE FIRST | Proverbially, "Minds are like parachutes.  They only function when they are" this | open
+right: Max
+Wrong: 
+Value: $800
+Number: 23
+HISTORIC RHYME TIME | Cody's cash registers | Bill's tills
+right: Max
+Wrong: 
+Value: $800
+Number: 2
+ARCHITECTURE | Anatomical architectural terms include hip, cell, groin & this, a projecting band along a vault | rib
+right: Max
+Wrong: 
+Value: $1200
+Number: 18
+2-WORD COUNTRIES | If you're stealing money from people in this Central American country, you're removing their colons | Costa Rica
+right: Max
+Wrong: 
+Value: DD: $4,400
+Number: 8
+TUNES FROM REVUES | This composer's "Easter Parade" first turned up in 1933's "As Thousands Cheer" | Irving Berlin
+right: Max
+Wrong: 
+Value: $1200
+Number: 28
+"GOOD" STUFF | This classic novel begins on Wang Lung's wedding day | "The Good Earth"
+right: Max
+Wrong: 
+Value: $1200
+Number: 13
+CHUTE FIRST | A blanketlike membrane of furry skin acts like a parachute when this "flying" rodent glides through the air | flying squirrel
+right: Jimmy
+Wrong: 
+Value: $1200
+Number: 24
+HISTORIC RHYME TIME | Ancient war city's great happinesses | Troy's joys
+right: Jimmy
+Wrong: 
+Max: What is Troy's joy?
+Value: $1200
+Number: 3
+ARCHITECTURE | (Cheryl of the Clue Crew in Amsterdam)  These houses have examples of the neck type of this roof section | gable
+right: 
+Wrong: Triple Stumper
+Max: What is an eave?
+Value: $1600
+Number: 19
+2-WORD COUNTRIES | This west African country's city of Freetown was founded in 1787 as a haven for freed slaves | Sierra Leone
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+TUNES FROM REVUES | This tune from 1929's "Hot Chocolates" is the title of a more recent Fats Waller musical | Ain't Misbehavin'
+right: 
+Wrong: 
+Max: What is "Sugar?"
+Value: DD: $5,600
+Number: 29
+"GOOD" STUFF | It was the 1930s "policy" for promoting harmony between the U.S. & Latin America | Good Neighbor Policy
+right: Jimmy
+Wrong: 
+Value: $1600
+Number: 14
+CHUTE FIRST | Though neither was built, around 1500 he sketched not only a flying machine, but a parachute, too | Leonardo da Vinci
+right: Max
+Wrong: 
+Value: $1600
+Number: 25
+HISTORIC RHYME TIME | Agnew's nothings | Spiro's zeros
+right: Jimmy
+Wrong: 
+Value: $1600
+Number: 4
+ARCHITECTURE | A type of bridge, or any horizontal construction that projects out past its vertical support | cantilever
+right: 
+Wrong: Triple Stumper
+Sherry: What is a buttress?
+Jimmy: What is an abutment?
+Value: $2000
+Number: 20
+2-WORD COUNTRIES | Day-to-day stuff in this country has been handled by its king's half-brother, seen here | Saudi Arabia
+right: Max
+Wrong: 
+Value: $2000
+Number: 10
+TUNES FROM REVUES | "The Little Show" of 1931 featured Herman Hupfeld's "When Yuba Plays the Rumba on" this instrument | the Tuba
+right: Jimmy
+Wrong: 
+Value: $2000
+Number: 30
+"GOOD" STUFF | James Hilton wrote this sentimental tale of an English schoolmaster in 4 days | "Goodbye, Mr. Chips"
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+CHUTE FIRST | In Nov. 1971 this man hijacked a plane, then parachuted out of it with $200,000 & was never seen again | D.B. Cooper
+right: Jimmy
+Wrong: 
+Value: $2000
+Number: 26
+HISTORIC RHYME TIME | President Arthur's searchers | Chester's questers
+right: Max
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Max: $21,800
+Sherry: -$600
+Jimmy: $11,200
+
+Final Jeopardy! Round
+U.S. COINS | These 2 states both have airplanes from the 20th century's first decade on their quarters | North Carolina & Ohio (as a tribute to the Wright Brothers)
+right: Jimmy | Max
+Wrong: 
+Wagers: 
+Jimmy: $11,173
+Max: $601
+Final scores:
+Max: $22,401 (4-day champion: $68,801)
+Sherry: -$600 (3rd place: $1,000)
+Jimmy: $22,373 (2nd place: $2,000)
+
+Coryat scores
+Max: $22,000 (31 R(including 2 DDs),3 W(including 1 DD))
+Sherry: -$600 (7 R,5 W)
+Jimmy: $11,200 (15 R,5 W)

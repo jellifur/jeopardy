@@ -1,0 +1,332 @@
+6057 - Tuesday, January 4, 2011
+Contestants:
+Steve Gratz: a freelance artist from Washington, D.C.
+Alex Marchyshyn: a recent college graduate from Charlotte, North Carolina
+Genaro Lopez: a contract administrator from Portland, Oregon (whose 1-day cash winnings total $29,001)
+First Jeopardy! Round: I'M MELTING, TENNIS VOCABULARY, ANYONE?, WHAT'S THE USE, ALWAYS IN FASHION, 3 AGAINST 1, MARXISMS
+I'M MELTING | Scientists worry about the fast melting of these Antarctic bodies, like the vast body called the Pine Island this | the ice shelf
+right: Steve
+Wrong: 
+Value: $200
+Number: 2
+TENNIS VOCABULARY, ANYONE? | An aviator with 5 air kills | an ace
+right: Steve
+Wrong: 
+Value: $200
+Number: 1
+WHAT'S THE USE | A Geiger counter is used primarily to measure this | radiation
+right: Genaro
+Wrong: 
+Value: $200
+Number: 18
+ALWAYS IN FASHION | It's the last name of the designer whose website is usa.tommy.com | Hilfiger
+right: Genaro
+Wrong: 
+Value: $200
+Number: 13
+3 AGAINST 1 | British theater director Trevor, or ex-Georgia Senator Sam | Nunn
+right: Steve
+Wrong: 
+Value: $200
+Number: 11
+MARXISMS | Marx & Engels gave us the line "A specter is haunting Europe -- the specter of" this -ism | communism
+right: 
+Wrong: Triple Stumper
+Genaro: What is fascism?
+Steve: What is capitalism?
+Value: $200
+Number: 26
+I'M MELTING | Snowmelt plus ground still frozen from winter can equal this, the most common type of U.S. natural disaster | flood
+right: 
+Wrong: Triple Stumper
+Genaro: What is an avalanche?
+Value: $400
+Number: 3
+TENNIS VOCABULARY, ANYONE? | A crack in the earth's crust | a fault
+right: Steve
+Wrong: 
+Value: $400
+Number: 4
+WHAT'S THE USE | A capotasto or capo is attached to the fingerboard of a guitar to raise this for all the strings at once | the pitch
+right: 
+Wrong: Triple Stumper
+Steve: What is the level of the strings...the height?
+Value: $400
+Number: 19
+ALWAYS IN FASHION | Hello, designers!  This ""Project Runway" man, AKA as the Silver Fox, is chief creative officer at Liz Claiborne | (Tim) Gunn
+right: Genaro
+Wrong: 
+Value: $400
+Number: 14
+3 AGAINST 1 | As a baby's chest cover for meals, it doesn't have enough letters; as a type of lettuce, it does | Bibb
+right: Genaro
+Wrong: 
+Value: $400
+Number: 12
+MARXISMS | His mom said, "If Karl, instead of writing a lot about" Das This, "made a lot of" this, "it would have been much better" | Kapital
+right: Alex
+Wrong: 
+Value: $400
+Number: 27
+I'M MELTING | Instructions for doing this:  remove food; insert pan of hot water; wipe out melt; return food | defrosting your freezer
+right: Steve
+Wrong: 
+Value: $600
+Number: 8
+TENNIS VOCABULARY, ANYONE? | The retinue of a reigning monarch | the court
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 5
+WHAT'S THE USE | This, named for a 10th C. Danish king, enables short-range wireless communication between electronic devices | bluetooth
+right: Genaro
+Wrong: 
+Value: $600
+Number: 20
+ALWAYS IN FASHION | He was hired at age 17 as Christian Dior's assistant; after Dior's death 4 years later, he was head of the House of Dior | Yves St. Laurent
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 15
+3 AGAINST 1 | A temporary calm or stillness | lull
+right: Steve
+Wrong: 
+Value: $600
+Number: 23
+MARXISMS | Marx & Engels wrote "The proletarians have nothing to lose but" these | their chains
+right: 
+Wrong: Triple Stumper
+Genaro: What are their heads?
+Value: $600
+Number: 28
+I'M MELTING | The melting of the snowpack in this mountain range supplies the water of over half of California's population | the Sierra Nevadas
+right: Steve
+Wrong: 
+Value: DD: $1,600
+Number: 9
+TENNIS VOCABULARY, ANYONE? | An automobile race run over public roads | a rally
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+WHAT'S THE USE | An epipen delivers a dose of epinephrine to treat this type of severe allergic reaction, partly from the Greek word for "watching" | anaphylactic
+right: Genaro
+Wrong: 
+Alex: What is analeptic?
+Value: $800
+Number: 21
+ALWAYS IN FASHION | In 1967 he began marketing his unique line of ties under the name Polo | Ralph Lauren
+right: Alex
+Wrong: 
+Value: $800
+Number: 16
+3 AGAINST 1 | Impudent or disrespectful back talk | sass
+right: Genaro
+Wrong: 
+Value: $800
+Number: 24
+MARXISMS | These people, like Kant and Spinoza, "have only interpreted the world in various ways; the point is to change it" | philosophers
+right: Steve
+Wrong: 
+Value: $800
+Number: 29
+I'M MELTING | (Sara of the Clue Crew stands before a <http://www.j-archive.com/media/2011-01-04_J_10.wmv> map of Europe)   Snowmelt from the Alps feeds major rivers, including the Rhine that flows to the North Sea, the Danube which heads to the Black Sea, and emptying into the Mediterranean Sea is this river | the Rhone
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+TENNIS VOCABULARY, ANYONE? | Ambrose Bierce described this as "a temporary insanity curable by marriage" | love
+right: Steve
+Wrong: 
+Value: $1000
+Number: 7
+WHAT'S THE USE | <http://www.j-archive.com/media/2011-01-04_J_22.jpg> This seen here is used for fastening ropes in mountaineering | a carabiner
+right: Steve
+Wrong: 
+Value: $1000
+Number: 22
+ALWAYS IN FASHION | Originally know for his menswear, this Italian created the A/X line that features leisure & active sportswear | (Giorgio) Armani
+right: Genaro
+Wrong: 
+Value: $1000
+Number: 17
+3 AGAINST 1 | Historian William, or Connecticut Senator Christopher | Dodd
+right: Genaro
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Genaro: $200
+Alex: $0
+Steve: $4,200
+Scores at the end of the Jeopardy! Round:
+Genaro: $4,200
+Alex: $400
+Steve: $6,000
+Second Jeopardy! Round: THE NORTHERNMOST CAPITAL CITY, SAINTS BE PRAISED, WHAT ARE YOU... CHICKEN?, FABLES & FOLKLORE, NON-LY ADVERBS, MARXISMS
+THE NORTHERNMOST CAPITAL CITY | Dublin, Stockholm, Paris | Stockholm
+right: Genaro
+Wrong: 
+Value: $400
+Number: 2
+SAINTS BE PRAISED | This Lord Chancellor of England was canonized in 1935, 400 years after his execution | Thomas More
+right: Steve
+Wrong: 
+Value: $400
+Number: 1
+WHAT ARE YOU... CHICKEN? | The chicken prepared this way, French for "blue ribbon", was often hard to swallow--& such small portions! | cordon bleu
+right: Alex
+Wrong: 
+Value: $400
+Number: 7
+FABLES & FOLKLORE | In a Hawthorne tale, old Mother Rigby animates Feathertop, one of these straw dummies used on farms | a scarecrow
+right: Steve
+Wrong: 
+Value: $400
+Number: 9
+NON-LY ADVERBS | Matt Lauer & Al Roker know that this title of their show could be an adverb meaning "at the present time" | Today
+right: Alex
+Wrong: 
+Value: $400
+Number: 17
+MARXISMS | As Professor Wagstaff in "Horse Feathers", Groucho told his son, "I'd horsewhip you if I had" one of these | a horse
+right: Steve
+Wrong: 
+Value: $400
+Number: 26
+THE NORTHERNMOST CAPITAL CITY | Buenos Aires, Bogota, Brasilia | Bogota
+right: Genaro
+Wrong: 
+Value: $800
+Number: 3
+SAINTS BE PRAISED | In art, Saint Agnes is often depicted as holding this young animal, a symbol of innocence & purity | a lamb
+right: Steve
+Wrong: 
+Value: $800
+Number: 13
+WHAT ARE YOU... CHICKEN? | Diced chicken in a rich cream with mushrooms, pimientos, green peppers & sherry is chicken a la this | King
+right: Steve
+Wrong: 
+Value: $800
+Number: 23
+FABLES & FOLKLORE | In Russia, Baba Yaga is one of these & she's got a hut that walks around on chicken legs | a witch
+right: Steve
+Wrong: 
+Value: $800
+Number: 8
+NON-LY ADVERBS | You can use this 5-letter adverb on "Jeopardy!" if your response is a country | where
+right: 
+Wrong: Triple Stumper
+Alex: What is nation?
+Value: $800
+Number: 18
+MARXISMS | Groucho to Chico: "I'll bet your father spent the first year of your life throwing rocks at" this bird | the stork
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+THE NORTHERNMOST CAPITAL CITY | Pyongyang, New Delhi, Islamabad | Pyongyang
+right: Genaro
+Wrong: 
+Value: $1200
+Number: 4
+SAINTS BE PRAISED | An immigrant herself, <http://www.j-archive.com/media/2011-01-04_DJ_14.jpg> this Italian-American mother is the patron saint of immigrants | Mother Cabrini
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 14
+WHAT ARE YOU... CHICKEN? | Da, when pierced, a boned chicken breast emits a jet of fragrant melted butter in chicken this 4-letter style | chicken Kiev
+right: Steve
+Wrong: 
+Value: $1200
+Number: 22
+FABLES & FOLKLORE | This character announces, "with my bow & my arrow, I killed Cock Robin" | the Sparrow
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 10
+NON-LY ADVERBS | It can be a noun meaning a company, or an adverb for "without wavering", as in "stand" this | firm
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 19
+MARXISMS | Film in which Groucho asks, "Wouldn't it be simpler if you just put the stateroom in the trunk?" | A Night at the Opera
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+THE NORTHERNMOST CAPITAL CITY | Luanda, Monrovia, Algiers | Algiers
+right: Steve
+Wrong: 
+Value: $1600
+Number: 5
+SAINTS BE PRAISED | Legend has it that St. Sylvester healed this first Christian Roman emperor's leprosy in baptismal waters | Constantine
+right: Steve
+Wrong: 
+Value: DD: $2,000
+Number: 15
+WHAT ARE YOU... CHICKEN? | Alton Brown recommends pinot noir for the wine in the French name of this dish | coq au vin
+right: Steve
+Wrong: 
+Value: DD: $2,000
+Number: 24
+FABLES & FOLKLORE | Gerda tries to rescue Kay from this Hans Christian Andersen title royal | the Snow Queen
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 11
+NON-LY ADVERBS | Please resist the temptation to spell this adverb meaning "very nearly" with 2 L's | almost
+right: 
+Wrong: Triple Stumper
+Steve: What is at all?
+Value: $1600
+Number: 20
+THE NORTHERNMOST CAPITAL CITY | Manila, Kathmandu, Jakarta | Kathmandu
+right: Genaro
+Wrong: 
+Value: $2000
+Number: 6
+SAINTS BE PRAISED | This New Testament martyr is the patron saint of bricklayers | Saint Stephen
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+WHAT ARE YOU... CHICKEN? | Cooked spaghetti & strips of chicken with a sherry-parmesan cheese cream sauce is chicken this Italian name | chicken tetrazzini
+right: 
+Wrong: Triple Stumper
+Alex: What is carbonara?
+Value: $2000
+Number: 25
+FABLES & FOLKLORE | In a Robert Burns folksong, this character whose name once symbolized liquor endures torture & death | John Barleycorn
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+NON-LY ADVERBS | Meaning "frequently", this adverb is now 2 letters longer than it was some 400 years ago | often
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Genaro: $8,600
+Alex: -$1,600
+Steve: $14,800
+
+Final Jeopardy! Round
+THE HALL OF PRESIDENTS | Of the 9 presidents whose images have a beard or mustache, this late 19th century man is the only Democrat | Grover Cleveland
+right: 
+Wrong: 
+Genaro: Who is U.S. Grant?
+Steve: Who is Chester Arthur
+Wagers: 
+Genaro: $6,201
+Steve: $2,401
+Final scores:
+Genaro: $2,399 (2nd place: $2,000)
+Alex: -$1,600 (3rd place: $1,000)
+Steve: $12,399 (New champion: $12,399)
+
+Coryat scores
+Genaro: $8,600 (13 R,3 W)
+Alex: -$1,600 (4 R,3 W)
+Steve: $13,200 (20 R(including 3 DDs),3 W)

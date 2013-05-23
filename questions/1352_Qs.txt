@@ -1,0 +1,351 @@
+4311 - Monday, May 5, 2003
+Comments: 2003 Tournament of Champions quarterfinal game 1.
+Contestants:
+Kathy Cassity: a closed captioner from Honolulu, Hawaii
+Ben Tritle: an apartment manager from Los Angeles, California
+Brian Weikle: a project manager from Minneapolis, Minnesota
+First Jeopardy! Round: FIRST LADIES, I DIRECT, GNOME-ENCLATURE, GEOGRAPHIC QUOTATIONS, HARD CANDY, TV GUIDE CROSSWORD CLUES
+FIRST LADIES | She met the future president at a backyard barbecue in Midland, Texas in 1977 | Laura Bush
+right: Ben
+Wrong: 
+Value: $200
+Number: 4
+I DIRECT | So far, he's directed "Star Wars" episodes I, II & IV | George Lucas
+right: Ben
+Wrong: 
+Value: $200
+Number: 9
+GNOME-ENCLATURE | Tomte is a friendly Scandinavian gnome who visits good children on this night | Christmas Eve
+right: Brian
+Wrong: 
+Value: $200
+Number: 13
+GEOGRAPHIC QUOTATIONS | Hitler asked, "Is" this city "burning?" on August 25, 1944, the day it was liberated | Paris
+right: Ben
+Wrong: 
+Value: $200
+Number: 1
+HARD CANDY | Cinnamon Imperials is a generic term for these hard candies; the ones from Ferrara Pan have this "fiery" name | Red Hots
+right: Brian
+Wrong: 
+Value: $200
+Number: 18
+TV GUIDE CROSSWORD CLUES | 34 Across: "Presidio ____" (3) | Med
+right: Ben
+Wrong: 
+Value: $200
+Number: 2
+FIRST LADIES | In December 2002 she turned 90 | Lady Bird Johnson
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 8
+I DIRECT | His 2001 screenplay credit for "A.I." was his first since the '80s | Steven Spielberg
+right: Brian
+Wrong: 
+Value: $400
+Number: 10
+GNOME-ENCLATURE | The first cartoon characters associated with a Kellogg's product were these 3 in the early 1930s | Snap, Crackle & Pop
+right: Ben
+Wrong: 
+Value: $400
+Number: 14
+GEOGRAPHIC QUOTATIONS | These "may crumble, Gibraltar may tumble (they're only made of clay), but -- our love is here to stay" | the Rockies
+right: Kathy
+Wrong: 
+Ben: What are rocks?
+Value: $400
+Number: 11
+HARD CANDY | They're "The Mints That Neutralize Not Mask" | Breath Savers
+right: 
+Wrong: Triple Stumper
+Kathy: What are Tic-Tacs?
+Value: $400
+Number: 27
+TV GUIDE CROSSWORD CLUES | 25 Down: "The ____ Skelton Show" (3) | Red
+right: Kathy
+Wrong: 
+Value: $400
+Number: 3
+FIRST LADIES | Quite the party girl, she's the celebrated first lady seen here | Dolley Madison
+right: Brian
+Wrong: 
+Value: $600
+Number: 12
+I DIRECT | He starred as a highly neurotic film director -- what else? -- in 2002's "Hollywood Ending" | Woody Allen
+right: Kathy
+Wrong: 
+Value: $600
+Number: 15
+GNOME-ENCLATURE | This man gave final approval to the "Project Gnome" Dec. 1961 test detonation of a 3-kiloton nuclear device | John F. Kennedy
+right: Ben
+Wrong: 
+Value: $600
+Number: 19
+GEOGRAPHIC QUOTATIONS | The "Aeneid" begins, "I sing of arms and the man who first from" this city "came destined an exile..." | Troy
+right: Brian
+Wrong: 
+Value: $600
+Number: 20
+HARD CANDY | These bite-sized "Rich & Creamy" hard candies from Nestle have a name that means "little bites" | Nips
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+TV GUIDE CROSSWORD CLUES | 23 Down: Elisha Cuthbert on "24" (3) | Kim
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 5
+FIRST LADIES | She was 5 foot 2, eyes of blue, & a member of Kentucky's high society | Mary Todd Lincoln
+right: 
+Wrong: 
+Kathy: Who is Grace Coolidge?
+Value: DD: $1,000
+Number: 23
+I DIRECT | He not only directed "Traffic", he also served as cinematographer using the pseudonym Peter Andrews | Steven Soderbergh
+right: Ben
+Wrong: 
+Value: $800
+Number: 16
+GNOME-ENCLATURE | Billy Barty played the title role in the 1987 film about this gold-spinning gnome | Rumpelstiltskin
+right: Ben
+Wrong: 
+Value: $800
+Number: 21
+GEOGRAPHIC QUOTATIONS | Psalm 137 says "By the rivers of" this place "we sat down...we wept when we remembered Zion" | Babylon
+right: Kathy
+Wrong: 
+Value: $800
+Number: 25
+HARD CANDY | This simple hard candy is concentrated sugar syrup that has turned into crystal chunks, often on a stick | rock candy
+right: 
+Wrong: Triple Stumper
+Brian: What is cotton candy?
+Value: $800
+Number: 29
+TV GUIDE CROSSWORD CLUES | 23 Across:  "Family Feud" host Richard (4) | Karn
+right: Ben
+Wrong: 
+Value: $800
+Number: 6
+FIRST LADIES | She graduated from the University of Vermont in 1902 | Grace Coolidge
+right: 
+Wrong: Triple Stumper
+Kathy: Who is Edith Roosevelt?
+Value: $1000
+Number: 24
+I DIRECT | (Sofia of the Clue Crew at the Arizona Memorial in Pearl Harbor, Hawaii)  At the start of filming, this "Pearl Harbor" director attended a wreath-laying ceremony on the Arizona Memorial | Michael Bay
+right: 
+Wrong: Triple Stumper
+Kathy: Who is Cameron?
+Value: $1000
+Number: 17
+GNOME-ENCLATURE | In Wagner's "Das Rheingold", a power-mad gnome named Alberich steals the gold & forges it into one of these | ring
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 22
+GEOGRAPHIC QUOTATIONS | In a line providing a John O'Hara title, Death is surprised to see a man in Baghdad when they had an "appointment"  here | Samara
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+HARD CANDY | This candy brand with a variety of hard candies introduced its "Pick-A-Mix" concept in 1958 | Brach's
+right: Brian
+Wrong: 
+Value: $1000
+Number: 30
+TV GUIDE CROSSWORD CLUES | 30 Across:  Garry Moore Show (four words) (3, 3, 1, 6) | I've Got A Secret
+right: Ben
+Wrong: 
+Value: $1000
+Number: 7
+Scores at the first commercial break (after clue 15)
+Brian: $1,200
+Ben: $2,600
+Kathy: $1,400
+Scores at the end of the Jeopardy! Round:
+Brian: $2,200
+Ben: $4,800
+Kathy: -$200
+Second Jeopardy! Round: WORLD LIT, HOLY ROMAN EMPERORS, GENERAL SCIENCE, NUN BUT THE BRAVE, REVOLUTIONARY WAR BATTLES, BACKWORDS
+WORLD LIT | This "Atlas Shrugged" author shrugged off her native Russia in the 1920s & moved to the U.S. | Ayn Rand
+right: Ben
+Wrong: 
+Value: $400
+Number: 1
+HOLY ROMAN EMPERORS | The House of Hapsburg, which ruled from 1440 to 1806, got its name not from just a house, but from one of these | castle
+right: Brian
+Wrong: 
+Kathy: What is a mountain?
+Value: $400
+Number: 3
+GENERAL SCIENCE | Like our moon, only one side of Titan, this planet's satellite, always faces the planet's surface | Saturn
+right: Brian
+Wrong: 
+Ben: What is Jupiter?
+Value: $400
+Number: 10
+NUN BUT THE BRAVE | In 1952 this nun opened the Nirmal Hriday Home for dying destitutes | Mother Teresa
+right: Ben
+Wrong: 
+Value: $400
+Number: 17
+REVOLUTIONARY WAR BATTLES | The Battle of Cowpens was fought in a cattle-grazing area in the north of this "Palmetto State" | South Carolina
+right: Brian
+Wrong: 
+Value: $400
+Number: 20
+BACKWORDS | It's a cheese made in Holland | Edam/made
+right: Brian
+Wrong: 
+Value: $400
+Number: 2
+WORLD LIT | This Chilean continued the story of "Daughter of Fortune" in her novel "Portrait in Sepia" | Isabel Allende
+right: Ben
+Wrong: 
+Value: $800
+Number: 23
+HOLY ROMAN EMPERORS | He was definitely king of the Franks & some historians say he became the first Holy Roman Emperor in 800 | Charlemagne
+right: Ben
+Wrong: 
+Value: $800
+Number: 4
+GENERAL SCIENCE | This aluminum ore is named for the French village near where it was discovered in 1821 | bauxite
+right: Brian
+Wrong: 
+Value: $800
+Number: 11
+NUN BUT THE BRAVE | In 1831 Catherine McAuley founded the Sisters of Mercy in this world capital to care for the poor & destitute | Dublin
+right: Brian
+Wrong: 
+Ben: What is London?
+Value: $800
+Number: 18
+REVOLUTIONARY WAR BATTLES | The Battle of Bunker Hill was fought in this town, now a part of Boston | Charlestown
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 21
+BACKWORDS | We'll have to retool our security so this type of criminal doesn't get in during the next riot | looter/retool
+right: Ben
+Wrong: 
+Value: $800
+Number: 5
+WORLD LIT | A beso for you if you know that Manuel Puig's novel "El Beso de la Mujer Arana" has this title in English | "The Kiss of the Spider Woman"
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 25
+HOLY ROMAN EMPERORS | The highest Henry number in the line; 1 more & they would have tied the British record | 7
+right: Brian
+Wrong: 
+Value: $1200
+Number: 7
+GENERAL SCIENCE | These organisms derive their individual species names from the fungal partner, not the algal partner | lichen
+right: Brian
+Wrong: 
+Value: $1200
+Number: 12
+NUN BUT THE BRAVE | 3-word title of Sister Helen Prejean's powerful account of being a death row counselor | "Dead Man Walking"
+right: 
+Wrong: 
+Brian: No idea.
+Value: DD: $200
+Number: 19
+REVOLUTIONARY WAR BATTLES | French troops under the Comte de Rochambeau helped secure victory in this last major battle of the war | Yorktown
+right: Brian
+Wrong: 
+Value: $1200
+Number: 22
+BACKWORDS | I was avid to hear Myrtle sing after she said she could have made it as this | diva/avid
+right: Brian
+Wrong: 
+Value: $1200
+Number: 6
+WORLD LIT | If you loved "The Loved One", here's a scoop: you'll like his novel "Scoop", too | Evelyn Waugh
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 26
+HOLY ROMAN EMPERORS | Sigismund tried to resolve this church problem that had 2 or 3 popes serving at one time between 1378 & 1417 | The Great Schism
+right: Brian
+Wrong: 
+Value: $1600
+Number: 8
+GENERAL SCIENCE | The horizontal rows on the periodic table are periods; vertical columns of related elements are these | groups
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 13
+NUN BUT THE BRAVE | Founded in 1609, the Loretto Nuns use the same "rule" as this male teaching order founded in 1534 | Jesuits
+right: Ben
+Wrong: 
+Value: $1600
+Number: 28
+REVOLUTIONARY WAR BATTLES | Freeman's Farm & Bemis Heights are also known as the 1st & 2nd battles of this place, a turning point in the war | Saratoga
+right: 
+Wrong: Triple Stumper
+Kathy: What is Bull Run?
+Value: $1600
+Number: 24
+BACKWORDS | "Lilith" actress Jean Seberg was as natural on screen as these birds | grebes/Seberg
+right: Brian
+Wrong: 
+Value: $1600
+Number: 15
+WORLD LIT | "The Blood Knot" began a series of plays that this South African called his "family trilogy" | Athol Fugard
+right: 
+Wrong: Triple Stumper
+Ben: Who is Soyenka?
+Value: $2000
+Number: 27
+HOLY ROMAN EMPERORS | Deposed in 1400 as German king, Wenceslas ruled from this city that has a statue of 10th century Saint Wenceslas | Prague
+right: Brian
+Wrong: 
+Value: DD: $3,000
+Number: 9
+GENERAL SCIENCE | Such cave formations as stalactites & stalagmites form when this mineral accumulates | limestone/calcite
+right: Brian
+Wrong: 
+Value: $2000
+Number: 14
+NUN BUT THE BRAVE | It's the classic work in which you'll find "The Nun's Priest's Tale" | "The Canterbury Tales"
+right: Brian
+Wrong: 
+Value: $2000
+Number: 29
+REVOLUTIONARY WAR BATTLES | Only darkness saved General Washington's troops from complete defeat at this creek near Chadds Ford, Penn. | Brandywine
+right: Brian
+Wrong: 
+Value: $2000
+Number: 30
+BACKWORDS | A thin layer of tissue on an animal | lamina/animal
+right: 
+Wrong: Triple Stumper
+Kathy: What is a membrane?
+Value: $2000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Brian: $22,200
+Ben: $6,400
+Kathy: -$3,000
+
+Final Jeopardy! Round
+HISTORIC OCCASIONS | On December 1, 1990 Philippe Cozette & Graham Fagg had a historic handshake here | the Chunnel (train tunnel under the English Channel between England & France)
+right: Brian
+Wrong: 
+Ben: What is the International Space Station?
+Wagers: 
+Ben: $6,400
+Brian: $0
+Final scores:
+Brian: $22,200 (Automatic semifinalist)
+Ben: $0 (2nd place: $5,000 if eliminated)
+Kathy: -$3,000 (3rd place: $5,000 if eliminated)
+
+Coryat scores
+Brian: $21,400 (22 R(including 1 DD),2 W(including 1 DD))
+Ben: $6,400 (16 R,4 W)
+Kathy: -$2,000 (6 R,7 W(including 1 DD))

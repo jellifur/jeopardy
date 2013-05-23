@@ -1,0 +1,332 @@
+3050 - Friday, November 28, 1997
+Contestants:
+Heather O'Neill: a program assistant from Tarboro, North Carolina
+Claire Guthrie Gastanaga: a management consultant from Richmond, Virginia
+Steven Jupiter: a lawyer from New York City, New York
+First Jeopardy! Round: THE TELL-TALE HEART, THE GOLD BUG, THE BELLS, QUOTH, THE RAVEN, NEVERMORE
+THE TELL-TALE HEART | This largest artery begins in the lower left chamber & gives rise to the coronary arteries | Aorta
+right: Claire
+Wrong: 
+Value: $100
+Number: 6
+THE GOLD BUG | Name this little man who spun straw into gold or he'll take your first-born child | Rumpelstiltskin
+right: Heather
+Wrong: 
+Value: $100
+Number: 5
+THE BELLS | This city's second-most famous bell was cast in 1926 for Wanamaker's Department Store | Philadelphia
+right: Heather
+Wrong: 
+Value: $100
+Number: 4
+QUOTH | Poe's maiden who lived "Many and many a year ago, in a kingdom by the sea" | Annabel Lee
+right: Heather
+Wrong: 
+Value: $100
+Number: 16
+THE RAVEN | In 1959 Glen Raven Mills introduced these waist-high nylons that don't need garters or corsets | Panty hose
+right: Steven
+Wrong: 
+Value: $100
+Number: 1
+NEVERMORE | The Skyway to Fantasyland closed down in this Calif. theme park in 1994, so now it's just a fantasy | Disneyland
+right: Steven
+Wrong: 
+Value: $100
+Number: 3
+THE TELL-TALE HEART | In 1984, in the first surgery of its kind, Baby Fae received a heart transplant from this mammal | Baboon
+right: Steven
+Wrong: 
+Value: $200
+Number: 7
+THE GOLD BUG | Greek sailors after the Golden Fleece, or another name given to Forty-Niners after California gold | Argonauts
+right: Heather
+Wrong: 
+Value: $200
+Number: 9
+THE BELLS | The bells in this 12th century Italian tower are no longer rung; we just hope they don't fall out | Leaning Tower of Pisa
+right: Heather
+Wrong: 
+Value: $200
+Number: 15
+QUOTH | On March 5, 1946 Winston Churchill remarked that this had "descended across the continent" | Iron Curtain
+right: Heather
+Wrong: 
+Value: $200
+Number: 17
+THE RAVEN | The ravens that sit on this Norse god's shoulders are Hugin & Munin, meaning thought & memory | Odin
+right: Heather
+Wrong: 
+Value: $200
+Number: 2
+NEVERMORE | Since 1974, you can't be voted "Miss" this in the Miss America pageant, no matter how much you smile | Miss Congeniality
+right: Steven
+Wrong: 
+Value: $200
+Number: 24
+THE TELL-TALE HEART | The heart has 4 of these to regulate the flow of blood, including the mitral | Valves
+right: Heather
+Wrong: 
+Value: $300
+Number: 8
+THE GOLD BUG | In 1996 he asked to run the 400m relay to try for a record tenth Olympic gold, but was turned down | Carl Lewis
+right: Heather
+Wrong: 
+Value: $300
+Number: 10
+THE BELLS | The world's largest bell, which has never rung, is in this walled area of Moscow | The Kremlin
+right: Claire
+Wrong: 
+Value: $300
+Number: 21
+QUOTH | On Nov. 27, 1963 he told Congress, "All I have I would have given gladly not to be standing here today" | Lyndon B. Johnson
+right: Heather
+Wrong: 
+Value: $300
+Number: 18
+THE RAVEN | Sharon Gabet played Raven on this ABC soap that drifted off into the twilight December 28, 1984 | The Edge of Night
+right: Claire
+Wrong: 
+Value: $300
+Number: 28
+NEVERMORE | In 1996, at age 64, she told People magazine, "I'm through with marriage", but "I'm not through with men" | Elizabeth Taylor
+right: Heather
+Wrong: 
+Value: $300
+Number: 25
+THE TELL-TALE HEART | This term for an irregular heartbeat is from the Greek for "without measure" | Arrhythmia
+right: Steven
+Wrong: 
+Value: $400
+Number: 13
+THE GOLD BUG | In 1995 Mel Fisher recovered silver & gold from a Spanish galleon sunk off the coast of this state in 1622 | Florida
+right: Claire
+Wrong: 
+Value: $400
+Number: 11
+THE BELLS | Big Ben hangs over Parliament & a rival, Great Tom, hangs over Christ Church College at this university | Oxford
+right: Steven
+Wrong: 
+Value: $400
+Number: 22
+QUOTH | Dramatist who wrote that a salesman is "way out there in the blue, riding on a smile and a shoeshine" | Arthur Miller ("Death of a Salesman")
+right: Steven
+Wrong: 
+Value: $400
+Number: 19
+THE RAVEN | Drama with the line "The Raven himself is hoarse that croaks the fatal entrance of Duncan under my battlements" | "Macbeth"
+right: Claire
+Wrong: 
+Value: $400
+Number: 29
+NEVERMORE | Jean Arthur's last feature film was this 1953 Alan Ladd classic; she never made a "Come Back" | Shane
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 26
+THE TELL-TALE HEART | The atria make up the upper, smaller part of the heart & these chambers form the lower portion | Ventricles
+right: Claire
+Wrong: 
+Value: $500
+Number: 14
+THE GOLD BUG | The Incan ruler Atahualpa offered this conquistador a roomful of gold for his freedom | Francisco Pizarro
+right: Claire
+Wrong: 
+Value: $500
+Number: 12
+THE BELLS | One of this city's Temple Bells, which Kipling heard calling him back, weighs 90 tons | Mandalay
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 23
+QUOTH | In the 12th of these letters, Alexander Hamilton wrote, "A nation cannot long exist without revenues" | The Federalist Papers
+right: Heather
+Wrong: 
+Value: $500
+Number: 20
+THE RAVEN | This Biblical prophet is known for being fed by ravens & flying to heaven in a chariot of fire | Elijah
+right: Heather
+Wrong: 
+Value: $500
+Number: 30
+NEVERMORE | This sitcom's last episode, which aired on May 20, 1993, was titled "One for the Road" | Cheers
+right: Heather
+Wrong: 
+Value: DD: $1,000
+Number: 27
+Scores at the first commercial break (after clue 15)
+Steven: $500
+Claire: $1,500
+Heather: $1,300
+Scores at the end of the Jeopardy! Round:
+Steven: $1,500
+Claire: $2,500
+Heather: $4,200
+Second Jeopardy! Round: THE 1960s, RELIGION, THEIR FIRST FILMS, SOUTHERN FOOD, BABIES, "IF" ONLY...
+THE 1960s | Up to 400,000 fans attended this August 1969 folk-rock festival on Max Yasgur's farm near Bethel, N.Y. | Woodstock
+right: Heather
+Wrong: 
+Value: $200
+Number: 14
+RELIGION | His letter to the Thessalonians, written about 51 A.D., is considered the earliest New Testament writing | Paul
+right: Steven
+Wrong: 
+Value: $200
+Number: 11
+THEIR FIRST FILMS | Juliette Lewis was first seen onscreen in the 1988 comedy "My Stepmother Is" one of these | An Alien
+right: Heather
+Wrong: 
+Value: $200
+Number: 1
+SOUTHERN FOOD | Trim the green skin & pink flesh from this melon's rind before pickling it | Watermelon
+right: Heather
+Wrong: 
+Value: $200
+Number: 2
+BABIES | This game of hiding the face & reappearing helps babies define themselves as separate entities | Peek-a-boo
+right: Heather
+Wrong: 
+Value: $200
+Number: 20
+"IF" ONLY... | In "Clueless" Alicia Silverstone responds to male advances with this 2-word phrase | "As If"
+right: Steven
+Wrong: 
+Value: $200
+Number: 19
+THE 1960s | On July 30, 1965 this bill providing health care for the aged was signed into law | Medicare
+right: Heather
+Wrong: 
+Value: $400
+Number: 15
+RELIGION | The name of this Japanese religion means "The way of the gods" | Shinto
+right: Heather
+Wrong: 
+Value: $400
+Number: 12
+THEIR FIRST FILMS | "Born on the Fourth of July" was the 1st film for this Baldwin brother born 5 years after Alec | William Baldwin
+right: Steven
+Wrong: 
+Value: $400
+Number: 7
+SOUTHERN FOOD | In 1942 Neil Fletcher introduced this battered frankfurter at the Texas State Fair | Corn dog
+right: Heather
+Wrong: 
+Value: $400
+Number: 3
+BABIES | In a 2-week-old, it's been estimated at about 20/400 | Eyesight/vision
+right: Heather
+Wrong: 
+Value: $400
+Number: 22
+"IF" ONLY... | Start of a Sting lyric that continues, "Set them free" | "If you love somebody"
+right: Steven
+Wrong: 
+Value: $400
+Number: 21
+THE 1960s | On August 2, 1964 North Vietnamese PT boats attacked the U.S. destroyer Maddox in this gulf | Gulf of Tonkin
+right: Claire
+Wrong: 
+Value: $600
+Number: 16
+RELIGION | During this Jewish holiday, it is customary to greet neighbors with "May You Be Inscribed for a Good Year" | Rosh Hashanah
+right: Heather
+Wrong: 
+Value: $600
+Number: 13
+THEIR FIRST FILMS | In 1961 she made her film debut in the Charles Bronson movie "X-15" & began playing Laura Petrie on TV | Mary Tyler Moore
+right: Steven
+Wrong: 
+Value: $600
+Number: 8
+SOUTHERN FOOD | Green food coloring often brightens the filling of this pie named for a Florida fruit | Key lime pie
+right: Claire
+Wrong: 
+Value: $600
+Number: 4
+BABIES | Many of small babies' actions are these, including the grasping & startle types | Reflexes
+right: Heather
+Wrong: 
+Value: $600
+Number: 23
+"IF" ONLY... | A phrase spoken by Longfellow's Paul Revere gave us this title of a 1996 Sandra Bullock film | Two if by Sea
+right: Heather
+Wrong: 
+Value: $600
+Number: 26
+THE 1960s | Direct commercial flights between the USA & the USSR began July 15, 1968 when this Soviet airline landed at JFK | Aeroflot
+right: Heather
+Wrong: 
+Value: $800
+Number: 17
+RELIGION | The Golden Temple in Amritsar, India is the holiest shrine in this religion | Sikhism
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+THEIR FIRST FILMS | [Hi, I'm Joseph Gordon-Levitt]  I made my feature film debut in this '92 movie directed by Robert Redford; if you want to know the title, "Go Fish" | A River Runs Through It
+right: Steven
+Wrong: 
+Value: DD: $1,000
+Number: 9
+SOUTHERN FOOD | This type of salad can be made by adding hot red-eye gravy or pork drippings to the greens | Wilted salad
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+BABIES | This pain that makes infants cry gets its name from the intestinal area where it may start | Colic
+right: Claire
+Wrong: 
+Value: $800
+Number: 24
+"IF" ONLY... | Harry Truman had this to say to people who don't bear up under criticism | "If you can't stand the heat, get out of the kitchen"
+right: Steven
+Wrong: 
+Value: $800
+Number: 27
+THE 1960s | On June 1, 1967, 4 days before the beginning of the 6-Day War, he was named defense minister of Israel | Moshe Dayan
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 18
+THEIR FIRST FILMS | Kevin Kline chose to debut in this 1982 Meryl Streep film based on a novel | Sophie's Choice
+right: Steven
+Wrong: 
+Value: $1000
+Number: 10
+SOUTHERN FOOD | Most agree this stew once made with squirrel meat originated in a Virginia county of the same name | Brunswick stew
+right: Heather
+Wrong: 
+Value: $1000
+Number: 6
+BABIES | 2-word term for fear & discomfort felt by a 1-year-old when Mommy leaves the room | Separation anxiety
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+"IF" ONLY... | Proverbial condition under which "beggars might ride" | "If wishes were horses"
+right: Heather
+Wrong: 
+Value: $1000
+Number: 28
+Scores at the end of the Double Jeopardy! Round:
+Steven: $5,300
+Claire: $2,900
+Heather: $7,400
+
+Final Jeopardy! Round
+TELEVISION | TV's No. 1 show for the 1979-80 season, it was also tops 13 years later for the 1992-93 season | 60 Minutes
+right: Claire | Steven | Heather
+Wrong: 
+Wagers: 
+Claire: $2,500
+Steven: $4,000
+Heather: $3,201
+Final scores:
+Steven: $9,300 (2nd place: Trip to Almond Beach Resort, Barbados)
+Claire: $5,400 (3rd place: Panasonic LCD Palmcorder)
+Heather: $10,601 (New champion: $10,601)
+
+Coryat scores
+Steven: $5,100 (15 R(including 1 DD),2 W)
+Claire: $2,900 (10 R,2 W)
+Heather: $8,900 (28 R(including 1 DD),5 W(including 1 DD))

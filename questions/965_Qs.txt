@@ -1,0 +1,348 @@
+5001 - Monday, May 15, 2006
+Comments: 2006 Tournament of Champions semifinal game 1.
+Contestants:
+Bob Mesko: an arts administrator from Denver, Colorado
+Aaron Thompson: a special assistant from Washington, D.C.
+Vik Vaz: a medical student from Austin, Texas
+First Jeopardy! Round: NONFICTION, AN ENGLISH-SPORTS DICTIONARY, OK COMPUTER, CHANGE THE WORLD, BODIES OF WATER, A CATEGORY OF CATEGORIES
+NONFICTION | "Night" is this Nobel Peace Prize winner's account of surviving Auschwitz as a teenager | Elie Wiesel
+right: Vik
+Wrong: 
+Value: $200
+Number: 1
+AN ENGLISH-SPORTS DICTIONARY | English: sweet glaze on a cake; hockey: shooting the puck all the way down from your own end | icing
+right: Vik
+Wrong: 
+Value: $200
+Number: 6
+OK COMPUTER | This "high-flying" computer program from Adobe converts other types of documents into a PDF file | Acrobat
+right: Vik
+Wrong: 
+Value: $200
+Number: 30
+CHANGE THE WORLD | Seen <http://www.j-archive.com/media/2006-05-15_J_29.jpg> here is a gold coin depicting this Macedonian ruler who died in 323 B.C. | Alexander the Great
+right: Aaron
+Wrong: 
+Value: $200
+Number: 29
+BODIES OF WATER | After Lake Superior, this African lake is the largest body of fresh water in the world | Lake Victoria
+right: Aaron
+Wrong: 
+Value: $200
+Number: 28
+A CATEGORY OF CATEGORIES | RHYME TIME: Roald Dahl candy man's toy trucks | Wonka's Tonkas
+right: Aaron
+Wrong: 
+Value: $200
+Number: 27
+NONFICTION | Columnist Anna Quindlen wrote "A Short Guide to" one of these | a Happy Life
+right: 
+Wrong: Triple Stumper
+Vik: What is writing a novel?
+Value: $400
+Number: 2
+AN ENGLISH-SPORTS DICTIONARY | English: a newspaper story you saved; football: blocking below the waist from behind | clipping
+right: Bob
+Wrong: 
+Value: $400
+Number: 10
+OK COMPUTER | (<http://www.j-archive.com/media/2006-05-15_J_26.wmv> Kelly of the Clue Crew accesses a video of Sarah of the Clue Crew scuba diving on the Jeopardy! web site from her laptop.)  A synonym for "flowing", it's the type of video you can watch when you <http://www.j-archive.com/media/2006-05-15_J_26.jpg> visit us at jeopardy.com | streaming
+right: Aaron
+Wrong: 
+Value: $400
+Number: 26
+CHANGE THE WORLD | For collectors & investors, this country mints a maple leaf coin in gold & silver | Canada
+right: Aaron
+Wrong: 
+Value: $400
+Number: 24
+BODIES OF WATER | The Persian Gulf is an arm of the Arabian Sea, which is part of this ocean | the Indian Ocean
+right: Vik
+Wrong: 
+Value: $400
+Number: 14
+A CATEGORY OF CATEGORIES | BEFORE & AFTER: Popular "holy" expression about work week's end joins Jason in a 1980 horror movie | Thank God it's Friday the 13th
+right: Aaron
+Wrong: 
+Value: $400
+Number: 25
+NONFICTION | Hunter S. Thompson found fear and loathing "in Las Vegas" & "on" this "Trail" in the title of a 1973 book | the Campaign Trail
+right: Bob
+Wrong: 
+Value: $600
+Number: 4
+AN ENGLISH-SPORTS DICTIONARY | English: a father's coming-of-age talk with his son; basketball: the opposite of zone | man-to-man
+right: Vik
+Wrong: 
+Value: $600
+Number: 7
+OK COMPUTER | This popular Internet service provider began as QCS, Quantum Computer Services | AOL (America Online)
+right: Aaron
+Wrong: 
+Value: $600
+Number: 21
+CHANGE THE WORLD | The Susan Constant, Godspeed & Discovery are the <http://www.j-archive.com/media/2006-05-15_J_22.jpg> ships <http://www.j-archive.com/media/2006-05-15_J_22a.jpg> depicted on this state's quarter | Virginia
+right: Bob
+Wrong: 
+Value: $600
+Number: 22
+BODIES OF WATER | In the 1770s James Cook explored this sea between Australia & New Zealand | the Tasman Sea
+right: Vik
+Wrong: 
+Value: $600
+Number: 11
+A CATEGORY OF CATEGORIES | 14-LETTER WORDS: Secondary or incidental, it often precedes "evidence" in law | circumstantial
+right: Aaron
+Wrong: 
+Value: $600
+Number: 16
+NONFICTION | Grammar is hot!  This bestseller is Lynne Truss' "Zero Tolerance Approach to Punctuation" | Eats, Shoots & Leaves
+right: Aaron
+Wrong: 
+Value: $800
+Number: 3
+AN ENGLISH-SPORTS DICTIONARY | (<http://www.j-archive.com/media/2006-05-15_J_08.jpg> Sarah of the Clue Crew reports from the slopes of Park City, Utah while a snowboarder does a stunt.) English: the sudden seizing of something as in the power type; <http://www.j-archive.com/media/2006-05-15_J_08a.jpg> snowboarding: a <http://www.j-archive.com/media/2006-05-15_J_08.wmv> move where you hold your board | a grab
+right: Aaron
+Wrong: 
+Value: $800
+Number: 8
+OK COMPUTER | From the Old English for "clasp" & "table", it's where anything you "cut" or "copy" is stored until you "paste" | a clipboard
+right: Bob
+Wrong: 
+Value: $800
+Number: 19
+CHANGE THE WORLD | When this king married in 1938, Egypt issued a 100-piastre gold coin to commemorate the event | King Farouk
+right: Aaron
+Wrong: 
+Value: $800
+Number: 15
+BODIES OF WATER | This longest river in Ireland nearly divides the country in two | the Shannon
+right: Bob
+Wrong: 
+Value: $800
+Number: 12
+A CATEGORY OF CATEGORIES | CROSSWORD CLUES "A": Athos' ami (6) | Aramis
+right: Bob
+Wrong: 
+Value: $800
+Number: 17
+NONFICTION | Augusten Burroughs put the "fun" in dysfunctional with his memoir called "Running with" these | Scissors
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 5
+AN ENGLISH-SPORTS DICTIONARY | English: a small piece of candy; golf: how you put a ball back in play after knocking your shot into a lake | a drop
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 9
+OK COMPUTER | It can be a hiding place for food or treasure, or a place for memory on a computer's motherboard | a cache
+right: Bob
+Wrong: 
+Value: $1000
+Number: 20
+CHANGE THE WORLD | <http://www.j-archive.com/media/2006-05-15_J_23.jpg> Here are the 2 new coins minted by this country in 2004 | Iraq
+right: Bob
+Wrong: 
+Value: DD: $1,000
+Number: 23
+BODIES OF WATER | (<http://www.j-archive.com/media/2006-05-15_J_13.jpg> Cheryl of the Clue Crew reports from Tervasaari.)  Tervasaari, just off Helsinki, sits in <http://www.j-archive.com/media/2006-05-15_J_13a.jpg> this arm of the Baltic Sea | the Gulf of Finland
+right: Vik
+Wrong: 
+Aaron: What is the Gulf of Bothnia?
+Value: $1000
+Number: 13
+A CATEGORY OF CATEGORIES | "TOM" TERRIFIC: 12-letter adjective that means showing no evidence of disease | asymptomatic
+right: Aaron
+Wrong: 
+Value: $1000
+Number: 18
+Scores at the first commercial break (after clue 15)
+Vik: $2,600
+Aaron: $2,400
+Bob: $1,800
+Scores at the end of the Jeopardy! Round:
+Vik: $2,800
+Aaron: $6,400
+Bob: $6,000
+Second Jeopardy! Round: THE ANIMAL KINGDOM, CAMEO CAMERA, HISTORIC AMOURS, GONE TOO SOON, BOHEMIAN RHAPSODIES, THE "GOOD", THE "BAD" & THE "UGLY"
+THE ANIMAL KINGDOM | Steven Jay Gould said this animal's "thumb" is an enlarged wrist bone that lets it strip bamboo shoots | a panda
+right: Vik
+Wrong: 
+Value: $400
+Number: 25
+CAMEO CAMERA | He got himself into "Lifeboat" as the before & after in newspaper ads for Reduco the Obesity Slayer | Alfred Hitchcock
+right: Bob
+Wrong: 
+Value: $400
+Number: 16
+HISTORIC AMOURS | This Louis known as "the Well-Beloved" lived up to his name by romancing all 5 of the Nesle sisters | Louis XV
+right: Aaron
+Wrong: 
+Value: $400
+Number: 1
+GONE TOO SOON | Heard <http://www.j-archive.com/media/2006-05-15_DJ_29.mp3> here, he was the youngest of the 3 singers who perished in a February 1959 plane crash  "Para bailar la bamba / Para bailar la bamba..." | Ritchie Valens
+right: Aaron
+Wrong: 
+Value: $400
+Number: 29
+BOHEMIAN RHAPSODIES | Either of the 2 composers who in 1897 based an opera on Henri Murger's novel "Scenes de la vie de boheme" | Puccini (or Leoncavallo)
+right: Vik
+Wrong: 
+Value: $400
+Number: 24
+THE "GOOD", THE "BAD" & THE "UGLY" | This story says "then he rustled his feathers, curved his slender neck, and cried joyfully" | "The Ugly Duckling"
+right: Aaron
+Wrong: 
+Value: $400
+Number: 6
+THE ANIMAL KINGDOM | This serpent devourer was introduced into Jamaica to kill rats--didn't work; the rats simply climbed into trees | the mongoose
+right: Vik
+Wrong: 
+Aaron: What is a, um... anaconda?
+Bob: What is a cobra?
+Value: $800
+Number: 30
+CAMEO CAMERA | In his last role filmed on U.S. soil, this man slit Jack Nicholson's nose in "Chinatown" | Roman Polanski
+right: Aaron
+Wrong: 
+Value: $800
+Number: 11
+HISTORIC AMOURS | Johann Struensee, physician to this country's King Christian VII, was executed for romancing the queen | Denmark
+right: Vik
+Wrong: 
+Value: $800
+Number: 2
+GONE TOO SOON | Of this athlete, Pres. Clinton said, "We were dazzled by her speed, humbled by her talent & captivated by her style" | Florence Griffith Joyner ("FloJo")
+right: Aaron
+Wrong: 
+Value: DD: $3,000
+Number: 13
+BOHEMIAN RHAPSODIES | With Brahms' help, this composer's "Moravian Duets"  & "Slavonic Dances" brought attention to Czech music | Dvorák
+right: Vik
+Wrong: 
+Value: $800
+Number: 23
+THE "GOOD", THE "BAD" & THE "UGLY" | In 1933 FDR espoused this policy in which the U.S. "respects the rights of others" | the Good Neighbor Policy
+right: Bob
+Wrong: 
+Value: $800
+Number: 7
+THE ANIMAL KINGDOM | This animal's 3-letter name is derived from an African word for "black", referring to the black wildebeest | the gnu
+right: Aaron
+Wrong: 
+Value: $1200
+Number: 28
+CAMEO CAMERA | You'll find Jim Lovell as the captain of the Iwo Jima in this 1995 flick | Apollo 13
+right: Vik
+Wrong: 
+Value: $1200
+Number: 9
+HISTORIC AMOURS | He may have sired several of Lady Castlemaine's children; no wonder he was "The Merry Monarch" | Charles II
+right: Vik
+Wrong: 
+Value: $1200
+Number: 3
+GONE TOO SOON | In 1995, 33-year-old Alison Hargreaves conquered Mount Everest, only to perish months later on this 2nd-highest mountain | K2
+right: Bob
+Wrong: 
+Value: $1200
+Number: 14
+BOHEMIAN RHAPSODIES | Josef Suk arranged a meditation on an old carol about this Bohemian "King", the Czech patron saint | Wenceslas ("Wen'slas" accepted)
+right: Bob
+Wrong: 
+Value: $1200
+Number: 20
+THE "GOOD", THE "BAD" & THE "UGLY" | This national park is about 30 miles north of Wounded Knee | Badlands
+right: Bob
+Wrong: 
+Value: $1200
+Number: 8
+THE ANIMAL KINGDOM | There are African, Japanese & fat species of this rodent that may hibernate half the year | the dormouse
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 27
+CAMEO CAMERA | Appropriately, she is the host at the past lives pavilion in Albert Brooks' 1991 film "Defending Your Life" | Shirley MacLaine
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 10
+HISTORIC AMOURS | This Parisian actress born in 1844 counted Victor Hugo & the future Edward VII among her lovers | Sarah Bernhardt
+right: Vik
+Wrong: 
+Value: $1600
+Number: 4
+GONE TOO SOON | Michael Jackson's song "Gone Too Soon" was a tribute to this Indiana teen who died of AIDS in 1990 | Ryan White
+right: Aaron
+Wrong: 
+Value: $1600
+Number: 15
+BOHEMIAN RHAPSODIES | In this Smetana opera, Kecal the marriage broker tries to bribe Jenik to give up his true love | The Bartered Bride
+right: Vik
+Wrong: 
+Value: $1600
+Number: 21
+THE "GOOD", THE "BAD" & THE "UGLY" | A mischievous sprite in English folklore also called Puck | Robin Goodfellow
+right: 
+Wrong: 
+Vik: What is... Pan?
+Value: DD: $4,600
+Number: 18
+THE ANIMAL KINGDOM | Canada has made this arctic bovine a protected species | the musk ox
+right: 
+Wrong: Triple Stumper
+Vik: What is the moose?
+Aaron: What is the caribou?
+Bob: What is the polar bear?
+Value: $2000
+Number: 26
+CAMEO CAMERA | This comic's cameo in 1985's "Spies Like Us" involved him playing golf in a tent & was his last movie role | Bob Hope
+right: Aaron
+Wrong: 
+Value: $2000
+Number: 12
+HISTORIC AMOURS | Robert Devereux, the Earl of this, succeeded his stepfather the Earl of Leicester as Elizabeth I's "favorite" | Essex
+right: Vik
+Wrong: 
+Value: $2000
+Number: 5
+GONE TOO SOON | (<http://www.j-archive.com/media/2006-05-15_DJ_17.jpg> Cheryl of the Clue Crew reports from the JFK Library & Museum in Boston, MA.)  The Oval Office was a place of sorrow when <http://www.j-archive.com/media/2006-05-15_DJ_17a.jpg> President Kennedy heard of the death of this Congolese leader in early 1961 | (Patrice) Lumumba
+right: Vik
+Wrong: 
+Value: $2000
+Number: 17
+BOHEMIAN RHAPSODIES | Also a Yul Brynner film, this Janacek piece came from a Gogol tale of a Cossack who revolts against the Poles | Taras Bulba
+right: Bob
+Wrong: 
+Value: $2000
+Number: 22
+THE "GOOD", THE "BAD" & THE "UGLY" | This hyphenated Black Forest town has hot springs that the Romans built 2,000 years ago | Baden-Baden
+right: Aaron
+Wrong: 
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Vik: $9,000
+Aaron: $17,000
+Bob: $10,000
+
+Final Jeopardy! Round
+MYTHOLOGY | The name of this monster is from the Greek for "she-goat" | the Chimera
+right: Vik
+Wrong: 
+Bob: What is Scylla
+Aaron: What is Medusa?
+Wagers: 
+Vik: $9,000
+Bob: $8,001
+Aaron: $3,001
+Final scores:
+Vik: $18,000 (Finalist)
+Aaron: $13,999 (2nd place: $10,000)
+Bob: $1,999 (3rd place: $10,000)
+
+Coryat scores
+Vik: $13,600 (18 R,3 W(including 1 DD))
+Aaron: $14,800 (23 R(including 1 DD),3 W)
+Bob: $10,000 (14 R(including 1 DD),2 W)

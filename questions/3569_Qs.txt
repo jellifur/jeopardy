@@ -1,0 +1,332 @@
+6081 - Monday, February 7, 2011
+Comments: IBM Challenge mini-documentary: "What is a Grand Challenge?"
+Contestants:
+Erin Beach: a graduate student of English originally from Bradenton, Florida
+Paul Wampler: a web programmer from Knoxville, Tennessee
+Roger Mueller-Kim: a high school social studies teacher from Dublin, California (whose 1-day cash winnings total $17,401)
+First Jeopardy! Round: BOOK NAMES, GETTING INTO CHARACTER, DON'T HAVE A COW, MAN, WOMEN IN CHARGE, FASHION DESIGNERS, 4-LETTER "S" WORDS
+BOOK NAMES | Joseph Conrad: "Lord ____" | Jim
+right: Paul
+Wrong: 
+Value: $200
+Number: 20
+GETTING INTO CHARACTER | For this WWII film Tom Hanks & the other actors in his squad had to endure a rigorous week of boot camp | Saving Private Ryan
+right: Paul
+Wrong: 
+Value: $200
+Number: 12
+DON'T HAVE A COW, MAN | Vegetarians in search of vitamins A & C know butterhead & crisphead are 2 of its general classifications | lettuce
+right: Paul
+Wrong: 
+Value: $200
+Number: 7
+WOMEN IN CHARGE | From 1966 to 1977 & from 1980 to 1984, she led the world's largest democracy | Indira Gandhi
+right: Roger
+Wrong: 
+Value: $200
+Number: 26
+FASHION DESIGNERS | You can wear an Oscar dress every day with one of this Dominican's creations; he established his own firm in 1968 | (Oscar) de la Renta
+right: Paul
+Wrong: 
+Value: $200
+Number: 1
+4-LETTER "S" WORDS | At 6'8" & 740 lbs. Emanuel Yarbrough was one of the heaviest men in the amateur division of this sport | sumo
+right: Paul
+Wrong: 
+Value: $200
+Number: 2
+BOOK NAMES | Thomas Hardy: "____ the Obscure" | Jude
+right: Roger
+Wrong: 
+Value: $400
+Number: 21
+GETTING INTO CHARACTER | He won an Oscar for portraying Ray Charles but learned to play the violin & cello for his role as "The Soloist" | Jamie Foxx
+right: Erin
+Wrong: 
+Value: $400
+Number: 13
+DON'T HAVE A COW, MAN | AKA bean curd, this may be sealed aseptically in packaging that may be kept unopened at room temp for up to 8 months | tofu
+right: Paul
+Wrong: 
+Value: $400
+Number: 8
+WOMEN IN CHARGE | Vigdis Finnbogadottir led a theatre co. for many years before becoming this country's president in 1980 | Iceland
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+FASHION DESIGNERS | In 1994 he sold his underwear business for $64 million | (Calvin) Klein
+right: Paul
+Wrong: 
+Value: $400
+Number: 16
+4-LETTER "S" WORDS | Meaning "half", it's a combining form borrowed from Latin | semi-
+right: Erin
+Wrong: 
+Value: $400
+Number: 3
+BOOK NAMES | Louise Fitzhugh: "____ the Spy" | Harriet
+right: Erin
+Wrong: 
+Value: $600
+Number: 22
+GETTING INTO CHARACTER | Tom Cruise learned to speak Japanese & wield a sword for his role in this 2003 film | The Last Samurai
+right: Paul
+Wrong: 
+Value: $600
+Number: 14
+DON'T HAVE A COW, MAN | Vegetarians can pig out on the rhyming Lightlife product called "Fakin"' this | Bacon
+right: Paul
+Wrong: 
+Value: $600
+Number: 9
+WOMEN IN CHARGE | In 2010, before her term as president ended, Michelle Bachelet oversaw earthquake relief efforts in this country | Chile
+right: Roger
+Wrong: 
+Value: $600
+Number: 28
+FASHION DESIGNERS | She launched her label in 1995 & was named chief designer at Chloe in '97; she must've been working "8 days a week" | Stella McCartney
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+4-LETTER "S" WORDS | A man "goes" this animal term when attending a social event unaccompanied by a woman | stag
+right: Paul
+Wrong: 
+Value: $600
+Number: 4
+BOOK NAMES | Vicki Myron & Bret Witter: "____: The Small-Town Library Cat Who Touched the World" | Dewey
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+GETTING INTO CHARACTER | To prepare for this movie, Helena Bonham Carter took singing & pie-making lessons | Sweeney Todd
+right: Roger
+Wrong: 
+Value: $800
+Number: 15
+DON'T HAVE A COW, MAN | The drink product "Silk is" this 3-letter vegetarian staple, at least in a slogan | soy
+right: Paul
+Wrong: 
+Value: $800
+Number: 10
+WOMEN IN CHARGE | In 2009 Vilnius-born Dalia Grybauskaite became president of this country | Lithuania
+right: Erin
+Wrong: 
+Value: $800
+Number: 29
+FASHION DESIGNERS | In 2003, just before starting to judge "Project Runway", he received the CFDA award for menswear designer of the year | Michael Kors
+right: Paul
+Wrong: 
+Value: $800
+Number: 19
+4-LETTER "S" WORDS | This French word means "without" | sans
+right: Paul
+Wrong: 
+Value: $800
+Number: 5
+BOOK NAMES | Charles Dickens: "The Mystery of ____ ____" | Edwin Drood
+right: Roger
+Wrong: 
+Value: $1000
+Number: 24
+GETTING INTO CHARACTER | To play Hawkeye in this movie, Daniel Day-Lewis learned to track animals, build canoes & fire muskets | The Last of the Mohicans
+right: Roger
+Wrong: 
+Value: $1000
+Number: 17
+DON'T HAVE A COW, MAN | For vegans, allrecipes.com has one for this type of mushroom that shares its name with a Panama seaport | portobello
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+WOMEN IN CHARGE | President of the Philippines from 1986 to 1992, she passed away in 2009 | Corazon Aquino
+right: 
+Wrong: 
+Erin: Who is... Imelda Marcos?
+Value: DD: $1,000
+Number: 30
+FASHION DESIGNERS | In the '70s this alliteratively named American designed luggage & airline uniforms in addition to menswear | Bill Blass
+right: Paul
+Wrong: 
+Value: $1000
+Number: 25
+4-LETTER "S" WORDS | Dude, this term for a vassal serving on a lord's land is totally up! | a serf
+right: Paul
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Roger: $800
+Paul: $5,600
+Erin: $800
+Scores at the end of the Jeopardy! Round:
+Roger: $4,000
+Paul: $8,000
+Erin: $1,200
+Second Jeopardy! Round: THE 16th CENTURY, NOTORIOUS NICKNAMES, READ YOUR BIBLE, SI, PARLO ITALIANO, LITTLE PEOPLE, BIG WORLD
+THE 16th CENTURY | In 1534 he explored the Gulf of St. Lawrence, helping lay the basis for French claims to North America | (Jacques) Cartier
+right: Roger
+Wrong: 
+Value: $400
+Number: 21
+NOTORIOUS NICKNAMES | Al Capone, or the title of one of his biopics | Scarface
+right: Paul
+Wrong: 
+Value: $400
+Number: 6
+READ YOUR BIBLE | Rehoboam, king of Israel, was a son of this wise king by an Ammonite mother | Solomon
+right: Paul
+Wrong: 
+Value: $400
+Number: 23
+SI, PARLO ITALIANO | It's spray-painted words on a wall | graffiti
+right: Paul
+Wrong: 
+Value: $400
+Number: 1
+LITTLE PEOPLE | This wild man's hits include "Long Tall Sally" & "Rip It Up" | Little Richard
+right: Erin
+Wrong: 
+Value: $400
+Number: 16
+BIG WORLD | This largest island is 50 times the size of Denmark, the country to which it belongs | Greenland
+right: Roger
+Wrong: 
+Value: $400
+Number: 11
+THE 16th CENTURY | (<http://www.j-archive.com/media/2011-02-07_DJ_22.wmv> Jimmy of the Clue Crew shows a map on the monitor.)  Of the 27,000 men who left La Coruna in July 1588, more than half perished in voyage in battles of this 2-word military group | the Spanish Armada
+right: Paul
+Wrong: 
+Value: $800
+Number: 22
+NOTORIOUS NICKNAMES | Benjamin Siegel got this 5-letter nickname because he acted crazy | Bugsy
+right: Erin
+Wrong: 
+Value: $800
+Number: 7
+READ YOUR BIBLE | In the Book of Mark, John the Baptist called this king an adulterer; oops! | Herod
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+SI, PARLO ITALIANO | (<http://www.j-archive.com/media/2011-02-07_DJ_02.wmv> Jimmy of the Clue Crew delivers the clue with a ballerina and her accompanist at the Dance Theatre of Harlem.)  Until the late 1800s, rehearsing dancers were usually accompanied by a violinist; today it's a pianist who helps them discover for each piece the perfect this--Italian for "time" | tempo
+right: Roger
+Wrong: 
+Value: $800
+Number: 2
+LITTLE PEOPLE | Grady Little, who managed this star-crossed MLB franchise, was let go in 2003, the year before they broke "The Curse" | the (Boston) Red Sox
+right: Roger
+Wrong: 
+Value: $800
+Number: 17
+BIG WORLD | Almost 10 times the size of the Everglades, the largest swamp is the Pantanal of Mato Grosso in this country | Brazil
+right: Roger
+Wrong: 
+Value: $800
+Number: 12
+THE 16th CENTURY | Edward VI died on July 6, 1553; she was proclaimed Queen 4 days later (didn't last) | Lady Jane Grey
+right: 
+Wrong: 
+Roger: Who is Mary, Queen of Scots?
+Value: DD: $4,000
+Number: 27
+NOTORIOUS NICKNAMES | Rhyming nickname for John Gotti based on a product used on frying pans | the Teflon Don
+right: Paul
+Wrong: 
+Value: $1200
+Number: 8
+READ YOUR BIBLE | As recounted in 1 Samuel, in Saul's time this marauding people drove the Israelites into living in caves | the Philistines
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 25
+SI, PARLO ITALIANO | It's the traditional form of address for an orchestra conductor | maestro
+right: Paul
+Wrong: 
+Value: $1200
+Number: 3
+LITTLE PEOPLE | His website calls him "the greatest impersonator of all time" | Rich Little
+right: Paul
+Wrong: 
+Value: $1200
+Number: 18
+BIG WORLD | When measured by shoreline, this North American bay is the world's largest | Hudson Bay
+right: Roger
+Wrong: 
+Value: $1200
+Number: 13
+NOTORIOUS NICKNAMES | Menacing moniker of Albert Henry de Salvo | the Boston Strangler
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 9
+READ YOUR BIBLE | Following the unusual death of his wife, his daughters became the mothers of the Moabites & the Ammonites | Lot
+right: Roger
+Wrong: 
+Value: $1600
+Number: 26
+SI, PARLO ITALIANO | This word for a disastrous failure is the title of Thomas Ricks' book about the American military in Iraq | fiasco
+right: 
+Wrong: 
+Paul: [Shaking his head] No.
+Value: DD: $2,600
+Number: 4
+LITTLE PEOPLE | Lil Jon is one of the progenitors of this hip hop style that's said to get its name from a blending of "crazy" & "drunk" | crunk
+right: Paul
+Wrong: 
+Value: $1600
+Number: 19
+BIG WORLD | By volume, this deep Siberian lake is the world's largest body of fresh water | Lake Baikal
+right: Erin
+Wrong: 
+Value: $1600
+Number: 14
+THE 16th CENTURY | This magnificent guy succeeded his dad as sultan of the Ottoman Empire in September 1520 | Suleiman
+right: Roger
+Wrong: 
+Value: $2000
+Number: 28
+NOTORIOUS NICKNAMES | 2-word canine nickname for Vincent Coll (& it wasn't Cujo) | Mad Dog
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+SI, PARLO ITALIANO | A view through a narrow passage, or a Microsoft operating system | vista
+right: Erin
+Wrong: 
+Value: $2000
+Number: 5
+LITTLE PEOPLE | She hit No. 1 with "The Loco-Motion" in 1962 | Little Eva
+right: Erin
+Wrong: 
+Value: $2000
+Number: 20
+BIG WORLD | Covering half of the island of Hawaii, it's the largest volcano on Earth | Mauna Loa
+right: Paul
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Roger: $8,000
+Paul: $14,600
+Erin: $8,000
+
+Final Jeopardy! Round
+20th CENTURY NOVELS | Chapters in this 1953 thriller include "Dossier for M", "Pink Lights and Champagne" & "The Game is Baccarat" | Casino Royale
+right: Erin | Paul
+Wrong: 
+Roger: What is Dial M for Murder?
+Wagers: 
+Erin: $8,000
+Roger: $5,301
+Paul: $1,401
+Final scores:
+Roger: $2,699 (3rd place: $1,000)
+Paul: $16,001 (New champion: $16,001)
+Erin: $16,000 (2nd place: $2,000)
+
+Coryat scores
+Roger: $12,000 (14 R,1 W(including 1 DD))
+Paul: $17,200 (24 R,1 W(including 1 DD))
+Erin: $9,000 (9 R,1 W(including 1 DD))

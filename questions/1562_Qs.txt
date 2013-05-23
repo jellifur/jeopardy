@@ -1,0 +1,329 @@
+3867 - Tuesday, May 29, 2001
+Contestants:
+Daniel Melcher: a forensic engineer from West Palm Beach, Florida
+Bob Waterfall: an environmental engineer from Troy, New York
+Jean Lucasey: a judicial clerk from Hartsdale, New York (whose 1-day cash winnings total $15,199)
+First Jeopardy! Round: NO OIL PAINTING, DESCRIBING THE SPORT, CHINESE INVENTIONS, PRESIDENTIAL PETS, CITIES BY HOTEL, ISN'T IT "GRAND"?
+NO OIL PAINTING | J.P. Morgan suffered from rhinophyma, which turned this part of his anatomy into a swollen horror | Nose
+right: Daniel
+Wrong: 
+Value: $100
+Number: 1
+DESCRIBING THE SPORT | Hit tiny spheroid into woods, curse, hit into lake, curse, score round of 120, go to clubhouse for needed beer | Golf
+right: Jean
+Wrong: 
+Value: $100
+Number: 2
+CHINESE INVENTIONS | During the Han dynasty, over 2,000 years ago, the Chinese were out flying these | Kites
+right: Jean
+Wrong: 
+Value: $100
+Number: 21
+PRESIDENTIAL PETS | In 1989 this springer spaniel made the cover of Life magazine along with her new puppies & Barbara Bush | Millie
+right: Bob
+Wrong: 
+Value: $100
+Number: 26
+CITIES BY HOTEL | The Waldorf-Astoria, The Plaza, The St. Regis | New York City
+right: Bob
+Wrong: 
+Value: $100
+Number: 14
+ISN'T IT "GRAND"? | This group decides whether there's enough evidence to try a person in a criminal court of law | Grand jury
+right: Bob
+Wrong: 
+Value: $100
+Number: 9
+NO OIL PAINTING | This onetime freak show performer, whose head was 3 feet around, died in a London hospital in 1890 | John Merrick ("The Elephant Man")
+right: Bob
+Wrong: 
+Value: $200
+Number: 3
+DESCRIBING THE SPORT | Protect oval spheroid like it was Hope Diamond, drag it across line to score 6, then throw it away & dance! | Football
+right: Jean
+Wrong: 
+Value: $200
+Number: 4
+CHINESE INVENTIONS | Way before using it at sea, the Chinese had this device with a floating magnetized needle | Compass
+right: Bob
+Wrong: 
+Value: $200
+Number: 22
+PRESIDENTIAL PETS | She's the First Daughter seen here with First Cat Misty Malarkey Ying-Yang | Amy Carter
+right: Jean
+Wrong: 
+Value: $200
+Number: 27
+CITIES BY HOTEL | The Venetian, The Sahara, The Luxor | Las Vegas
+right: Bob
+Wrong: 
+Value: $200
+Number: 15
+ISN'T IT "GRAND"? | Each day over a half million people pass through this place located on 42nd Street at Park Avenue | Grand Central Station
+right: Jean
+Wrong: 
+Value: $200
+Number: 10
+NO OIL PAINTING | Louis XI of France earned this nickname by his unpleasant appearance & by weaving webs of intrigue | "The Spiderman"
+right: Bob
+Wrong: 
+Value: $300
+Number: 5
+DESCRIBING THE SPORT | Throw spheroid called horsehide, but not always made of such, run 360 feet to score, get $252 million contract | Baseball
+right: Daniel
+Wrong: 
+Value: $300
+Number: 6
+CHINESE INVENTIONS | In the T'ang dynasty the Chinese came up with this bone-hard white ceramic also called china | Porcelain
+right: Jean
+Wrong: 
+Value: $300
+Number: 23
+PRESIDENTIAL PETS | You'll earn a feather for your cap if you know Caroline Kennedy had a pony named this | Macaroni
+right: Jean
+Wrong: 
+Value: $300
+Number: 28
+CITIES BY HOTEL | The Ambassador, site of RFK's assassination in 1968 | Los Angeles
+right: Jean
+Wrong: 
+Value: $300
+Number: 16
+ISN'T IT "GRAND"? | "Should auld acquaintance be forgot, keep your eye on" this | The grand old flag
+right: Jean
+Wrong: 
+Value: $300
+Number: 11
+NO OIL PAINTING | This successor to Queen Elizabeth I ate like a slob because of his malformed jaws | James I
+right: Bob
+Wrong: 
+Value: $400
+Number: 19
+DESCRIBING THE SPORT | Swat at disk of vulcanized rubber, hit twine to score, spend 5 minutes in the box for fighting, feel shame | Ice hockey
+right: Daniel
+Wrong: 
+Value: $400
+Number: 7
+CHINESE INVENTIONS | Legend says Emperor Huangdi's wife invented the loom to weave this fabric | Silk
+right: Jean
+Wrong: 
+Value: DD: $800
+Number: 24
+PRESIDENTIAL PETS | Thomas Jefferson's pet grizzly bears were a present from this pair of travelers | Lewis & Clark
+right: Bob
+Wrong: 
+Value: $400
+Number: 29
+CITIES BY HOTEL | The Fairmont, after which James Brolin's TV "Hotel" was modeled | San Francisco
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+ISN'T IT "GRAND"? | Bobby Fischer was only 15 when he earned this title in 1958 | Grandmaster in chess
+right: Daniel
+Wrong: 
+Value: $400
+Number: 12
+NO OIL PAINTING | In the work seen here, the artist obeyed this 17th century English leader's wish to be shown, warts & all | Oliver Cromwell
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 20
+DESCRIBING THE SPORT | Go 500 miles but only turn left, score points for Winston Cup, be very prepared to talk about your sponsors | Auto racing (NASCAR)
+right: Daniel
+Wrong: 
+Value: $500
+Number: 8
+CHINESE INVENTIONS | In the 8th century the mechanical clocks in China were driven by this | Water
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+PRESIDENTIAL PETS | The FDR Memorial in Washington includes a statue of Roosevelt with this famous Scottie at his feet | Fala
+right: Bob
+Wrong: 
+Value: $500
+Number: 30
+CITIES BY HOTEL | Copley Square Hotel, The Omni Parker House, Back Bay Hilton | Boston
+right: Daniel
+Wrong: 
+Value: $500
+Number: 18
+ISN'T IT "GRAND"? | In bridge it's winning all 13 tricks | Grand slam
+right: Bob
+Wrong: 
+Value: $500
+Number: 13
+Scores at the first commercial break (after clue 15)
+Jean: $800
+Bob: $1,400
+Daniel: $1,700
+Scores at the end of the Jeopardy! Round:
+Jean: $2,800
+Bob: $2,700
+Daniel: $1,400
+Second Jeopardy! Round: OIL PAINTING, "SPACE" MOVIES, WARRIORS, GONE FISHING, ISRAEL, HOMOPHONES
+OIL PAINTING | Working outdoors became easier when these replaced animal bladders as the way to transport oil paints | Metal tubes
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 21
+"SPACE" MOVIES | This TV show made it to the big screen in 1998 with William Hurt as John Robinson | Lost in Space
+right: Bob
+Wrong: 
+Value: $200
+Number: 1
+WARRIORS | In mythology, Hippolyta was a queen of these warriors | Amazons
+right: Bob
+Wrong: 
+Value: $200
+Number: 16
+GONE FISHING | Attached to the butt of a rod, it's used to let out or bring in line | Reel
+right: Daniel
+Wrong: 
+Value: $200
+Number: 6
+ISRAEL | Carried by roughly 40% of Israelis, they were popularized by a 2.5-cents-a-minute offer in 1994 | Cell phones
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 26
+HOMOPHONES | Shy or reserved, or a Japanese pond fish | Coy/koi
+right: Bob
+Wrong: 
+Value: $200
+Number: 11
+OIL PAINTING | This painting surface may be linen or cotton & is placed on a frame called a stretcher | Canvas
+right: Bob
+Wrong: 
+Value: $400
+Number: 22
+"SPACE" MOVIES | Characters in this 1987 movie parody include Lord Dark Helmet & Pizza the Hutt | Spaceballs
+right: Bob
+Wrong: 
+Value: $400
+Number: 2
+WARRIORS | These warriors followed a code of conduct, called bushido, meaning "The way of the warriors" | Samurai
+right: Bob
+Wrong: 
+Value: $400
+Number: 17
+GONE FISHING | From where they prefer to dine, sole & catfish are classified as these | Bottom-dwellers/feeders
+right: Daniel
+Wrong: 
+Value: $400
+Number: 7
+ISRAEL | Bat Yam, or "Daughter of the Sea", is a suburb of this Mediterranean metropolis | Tel Aviv
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+HOMOPHONES | Snoops into someone's affairs, or an award for winning a contest | Pries/prize
+right: Bob
+Wrong: 
+Value: $400
+Number: 12
+OIL PAINTING | The 18th century work seen here is titled this "With Salmon, a Lemon & Three Vessels" | Still Life
+right: Bob
+Wrong: 
+Value: DD: $2,200
+Number: 23
+"SPACE" MOVIES | Charles Barkley, Patrick Ewing & Larry Bird are also in this 1996 sports film | Space Jam
+right: Jean
+Wrong: 
+Value: $600
+Number: 3
+WARRIORS | Luke had to feel the force to become one of these warriors | Jedi
+right: Bob
+Wrong: 
+Value: $600
+Number: 18
+GONE FISHING | Term for a person who fishes with a hook & line; you may be a "compleat" one | Angler
+right: Bob
+Wrong: 
+Value: $600
+Number: 8
+ISRAEL | Among those buried on this Jerusalem mount, or believed to be, are the prophet Haggai & Prince Philip's mother | Mount of Olives
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+HOMOPHONES | Correct, or a proper religious ceremony | Right/rite
+right: Jean
+Wrong: 
+Value: $600
+Number: 13
+OIL PAINTING | Gericault's best-known work is "The Raft of" this wrecked ship | The Medusa
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+"SPACE" MOVIES | Bela Lugosi makes a short appearance in this Ed Wood film, hailed as the worst ever made | Plan 9 from Outer Space
+right: Jean
+Wrong: 
+Value: $800
+Number: 4
+WARRIORS | This warrior-king of the Franks was crowned emperor in 800 | Charlemagne
+right: Daniel
+Wrong: 
+Value: $800
+Number: 19
+GONE FISHING | Yes, pal, it's ground up bits of bait or food spread out over the water to attract game fish | Chum
+right: Bob
+Wrong: 
+Value: DD: $1,100
+Number: 9
+HOMOPHONES | Emanated beams of light, or a sudden attack by the police | Rayed/raid
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+OIL PAINTING | "Look Back" in this 19th century French master whose work is seen here | Jean-Dominique Ingres
+right: Jean
+Wrong: 
+Value: $1000
+Number: 25
+"SPACE" MOVIES | A small town is invaded by blood-drinking aliens that look like clowns in this 1988 cult movie | Killer Klowns from Outer Space
+right: Bob
+Wrong: 
+Value: $1000
+Number: 5
+WARRIORS | In India's caste system, the Kshatriyas, or warriors, were ranked second; this caste was number 1 | Brahmans
+right: Bob
+Wrong: 
+Value: $1000
+Number: 20
+GONE FISHING | On a slow boat to somewhere?  Try this method of fishing by towing a baited hook | Trawling
+right: Daniel
+Wrong: 
+Value: $1000
+Number: 10
+HOMOPHONES | Cry like a banshee, or a ridge in corduroy | Wail/wale
+right: Daniel
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Jean: $5,800
+Bob: $10,000
+Daniel: $3,600
+
+Final Jeopardy! Round
+POETS | These 2 great English romantic poets died while still in their 20s, one in 1821 & one in 1822 | John Keats & Percy Shelley
+right: Daniel
+Wrong: 
+Jean: Who Robert Browning & Elizabeth Barrett Browning
+Bob: Who are P. Shelley & [Keats] Byron
+Wagers: 
+Daniel: $3,598
+Jean: $5,800
+Bob: $1,601
+Final scores:
+Jean: $0 (3rd place: Casablanca Avio Desktop Video Editor)
+Bob: $8,399 (New champion: $8,399)
+Daniel: $7,198 (2nd place: Visit to San Diego Zoo/Wild Animal Park)
+
+Coryat scores
+Jean: $5,400 (14 R(including 1 DD),0 W)
+Bob: $8,100 (24 R(including 2 DDs),3 W)
+Daniel: $3,600 (11 R,5 W)

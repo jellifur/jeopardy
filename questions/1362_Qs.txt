@@ -1,0 +1,256 @@
+1871 - Monday, October 26, 1992
+Comments: 1992 Celebrity <i>Jeopardy!</i> game 1.
+Contestants:
+Regis Philbin: a TV host from Live with Regis and Kathie Lee
+Donna Mills: an actress from Knots Landing
+Carol Burnett: an actress, comedienne, and star from stage, screen and television
+First Jeopardy! Round: EUROPEAN HISTORY, ITALIAN FOOD, WOMEN IN SPORTS, FASHION DESIGNERS, ACTORS ON STAGE, U.S. STATES
+EUROPEAN HISTORY | His family became Christian, but this Viking explorer nicknamed "the Red" remained a pagan | Erik the Red
+right: 
+Wrong: Triple Stumper
+Value: $100
+Number: 20
+ITALIAN FOOD | Don't be alarmed if your lasagne verde is this color; it's supposed to be | green
+right: Carol
+Wrong: 
+Value: $100
+Number: 6
+WOMEN IN SPORTS | In July 1992, Patty Sheehan beat Juli Inkster in an 18-hole playoff to win this sport's U.S. Women's Open | golf
+right: Carol
+Wrong: 
+Value: $100
+Number: 11
+FASHION DESIGNERS | Givenchy costumed this actress for "Breakfast at Tiffany's" & even created a perfume for her | Audrey Hepburn
+right: Regis
+Wrong: 
+Donna: Who is... uh, uh... um...
+Value: $100
+Number: 12
+ACTORS ON STAGE | Christian Slater played Billy Mowcher in the 1981 musical "Copperfield", based on this novel | David Copperfield
+right: Carol
+Wrong: 
+Value: $100
+Number: 1
+U.S. STATES | This state produces over 30% of the nation's cheese | Wisconsin
+right: Regis
+Wrong: 
+Value: $100
+Number: 13
+EUROPEAN HISTORY | She sidestepped her other suitors & married her own choice, Ferdinand of Aragon, in 1469 | Queen Isabella
+right: Regis
+Wrong: 
+Value: $200
+Number: 21
+ITALIAN FOOD | Traditionally, prosciutto is served as a first course with figs or this fruit | melon
+right: Carol
+Wrong: 
+Value: $200
+Number: 7
+FASHION DESIGNERS | Perry Ellis began his career as a buyer for Miller & Rhoads department store in this Virginia capital | Richmond
+right: Regis
+Wrong: 
+Value: $200
+Number: 18
+ACTORS ON STAGE | Mildred Dunnock was perhaps best known for creating the role of Linda Loman in this play | Death of a Salesman
+right: Carol
+Wrong: 
+Value: $200
+Number: 2
+U.S. STATES | Hawaii's state seal features a shield flanked by the goddess of liberty & this king | King Kamehameha
+right: Regis
+Wrong: 
+Value: $200
+Number: 14
+EUROPEAN HISTORY | This small Iberian country became independent in 1143, so it's one of the oldest nations in Europe | Portugal
+right: Regis
+Wrong: 
+Value: $300
+Number: 22
+ITALIAN FOOD | The Italian word for spring, it describes pasta dishes made with fresh vegetables | primavera
+right: Donna
+Wrong: 
+Value: $300
+Number: 8
+FASHION DESIGNERS | Before he became a couturier, Mainbocher edited the Paris edition of this U.S. fashion magazine | Vogue
+right: 
+Wrong: 
+Regis: Boy, you really make it--you really make a guy earn his Daily Double here!  What is Women's Wear Daily?
+Value: DD: $400
+Number: 19
+ACTORS ON STAGE | Carol Baker's daughter, Blanche Baker, played this Nabokov nymphet in a 1981 play by Edward Albee | Lolita
+right: Donna
+Wrong: 
+Value: $300
+Number: 3
+U.S. STATES | This "Cornhusker" State's name comes from an Indian word for "flat water", a reference to the Platte River | Nebraska
+right: Regis
+Wrong: 
+Value: $300
+Number: 15
+EUROPEAN HISTORY | The name of this woman who was executed at Vincennes in 1917 became a synonym for a seductive spy | Mata Hari
+right: Carol
+Wrong: 
+Value: $400
+Number: 23
+ITALIAN FOOD | In Italy these shellfish found in pasta sauces are known as vongole | clams
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+FASHION DESIGNERS | She was 86 when the Broadway musical about her premiered in 1969 | Coco Chanel
+right: Donna
+Wrong: 
+Value: $400
+Number: 25
+ACTORS ON STAGE | Bruce Dern & Rip Torn were in the original cast of this playwright's "Sweet Bird of Youth" | Tennessee Williams
+right: Carol
+Wrong: 
+Value: $400
+Number: 4
+U.S. STATES | This "Down East" state is bordered by only 1 state & 2 provinces | Maine
+right: Regis
+Wrong: 
+Value: $400
+Number: 16
+EUROPEAN HISTORY | This Scottish queen's second husband, Lord Darnley, was also her first cousin | Mary (Queen of Scots)
+right: Carol
+Wrong: 
+Value: $500
+Number: 24
+ITALIAN FOOD | Popular in Northern Italy, it's usually a cornmeal mush, but some people make it with chestnut meal | polenta
+right: Donna
+Wrong: 
+Value: $500
+Number: 10
+FASHION DESIGNERS | Donna Karan was once an associate designer to this woman whose last name also began with the letter K | Anne Klein
+right: Donna
+Wrong: 
+Value: $500
+Number: 26
+ACTORS ON STAGE | Tyne Daly & Angela Lansbury won Tonys for playing Mama Rose in this musical, but Ethel Merman didn't | Gypsy
+right: Carol
+Wrong: 
+Value: $500
+Number: 5
+U.S. STATES | The pecan is the state nut not of Georgia, but of this neighbor to the west | Alabama
+right: 
+Wrong: Triple Stumper
+Carol: What is Texas?
+Regis: What is Arkansas?
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Carol: $1,600
+Donna: $1,100
+Regis: $0
+Scores at the end of the Jeopardy! Round:
+Carol: $2,000
+Donna: $1,900
+Regis: $900
+Second Jeopardy! Round: GENERAL SCIENCE, SONG STANDARDS, DANCE, HOBBIES, SHAKESPEARE, OLD MOVIES
+GENERAL SCIENCE | Andres Celsius & Gabriel Fahrenheit invented types of these that use different scales | thermometers
+right: Donna
+Wrong: 
+Value: $200
+Number: 14
+SONG STANDARDS | "Whenever I feel afraid, I hold my head erect and" do this, "so no one will suspect I'm afraid" | "Whistle A Happy Tune"
+right: Carol
+Wrong: 
+Value: $200
+Number: 6
+HOBBIES | Carl Sagan & his "Cosmos" series were credited with creating a renewed interest in this hobby | astronomy
+right: Carol
+Wrong: 
+Value: $200
+Number: 11
+OLD MOVIES | She was in her teens when she made her first film with Montgomery Clift, "A Place in the Sun" | Elizabeth Taylor
+right: Regis
+Wrong: 
+Value: $200
+Number: 1
+SONG STANDARDS | Do this "and let me play among the stars; let me see what spring is like on Jupiter and Mars" | "Fly Me To The Moon"
+right: Regis
+Wrong: 
+Value: $400
+Number: 7
+HOBBIES | For hobbyists who explore these, the National Speleological Soc. recommends having a hard hat & lights | caves
+right: Regis
+Wrong: 
+Value: $400
+Number: 12
+OLD MOVIES | Charley Grapewin who played Grandpa Joad in "The Grapes of Wrath" played Uncle Henry in this 1939 classic | The Wizard of Oz
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+SONG STANDARDS | "And its torment won't be through till you let me spend my life making love to you" then | "Night And Day"
+right: Regis
+Wrong: 
+Value: $600
+Number: 8
+HOBBIES | Someone who dabbles in deltiology collects & studies these "greetings from" around the world | postcards
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+OLD MOVIES | Appropriately, she sang "The Lady in the Tutti-Frutti Hat" in the 1943 musical "The Gang's All Here" | Carmen Miranda
+right: Regis
+Wrong: 
+Value: $600
+Number: 3
+SONG STANDARDS | It's the question asked in "I Got Rhythm" | Who could ask for anything more?
+right: Regis
+Wrong: 
+Value: DD: $700
+Number: 9
+OLD MOVIES | In 1932 Cary Grant played Lt. Pinkerton in a non-musical film based on this Puccini opera | Madame Butterfly
+right: Carol
+Wrong: 
+Value: $800
+Number: 4
+SONG STANDARDS | "The night is young, the skies are clear, and if you want to go walking, dear, it's" this, "it's" this, "it's" this | It's delightful, it's delicious, it's delovely
+right: Carol
+Wrong: 
+Regis: It's delightful, it's delovely, it's...
+Value: $1000
+Number: 10
+DANCE | The maxixe, a ballroom dance, evolved in this largest South American country in the 1870s | Brazil
+right: Regis
+Wrong: 
+Value: $1000
+Number: 16
+HOBBIES | This term for a coin collector comes from a Greek word meaning "what is sanctioned by law" | numismatist
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+OLD MOVIES | Laurence Olivier wanted Vivian Leigh to play his wife in "Rebecca", but this actress got the job | Joan Fontaine
+right: Carol
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Carol: $5,200
+Donna: $2,100
+Regis: $3,800
+
+Final Jeopardy! Round
+HISTORIC NAMES | For his licentious behavior, monk Grigori Yefimovich Novykh earned this nickname meaning "debauched one" | Rasputin
+right: 
+Wrong: 
+Donna: Who was Don Juan
+Regis: Who was
+Carol: Who was the Marquis de Sade
+Wagers: 
+Donna: $2,100
+Regis: $1,500
+Carol: $2,300
+Final scores:
+Carol: $2,900 (Winner: $10,000 to amfAR)
+Donna: $0 (3rd place: $10,000 to the Earth Communications Office (ECO))
+Regis: $2,300 (2nd place: $10,000 to Cardinal Hayes High School)
+
+Coryat scores
+Carol: $5,200 (14 R,1 W)
+Donna: $2,100 (6 R,1 W)
+Regis: $4,300 (15 R(including 1 DD),3 W(including 1 DD))

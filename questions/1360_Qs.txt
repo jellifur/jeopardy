@@ -1,0 +1,348 @@
+4319 - Thursday, May 15, 2003
+Comments: 2003 Tournament of Champions final game 1.
+Contestants:
+Brian Weikle: a project manager from Minneapolis, Minnesota
+Eric Floyd: a college student from Calhoun, Georgia
+Mark Dawson: a business manager from Chamblee, Georgia
+First Jeopardy! Round: WORLD CAPITALS, THE OLYMPIC GAMES, LITERARY TERMS, RUM FOR YOUR LIFE, SCANDINAVIANS, TRUE & FALSE
+WORLD CAPITALS | Proverbially, it's where "all roads lead" | to Rome
+right: Mark
+Wrong: 
+Value: $200
+Number: 3
+THE OLYMPIC GAMES | In 1998 at age 15 she became the youngest person ever to win a gold medal for ladies' figure skating | Tara Lipinski
+right: 
+Wrong: Triple Stumper
+Mark: Who is Oksana Baiul?
+Eric: Who is Kwan?
+Value: $200
+Number: 1
+LITERARY TERMS | This term for stories about larger-than-life characters is most appropriate for the towering Paul Bunyan | tall tales
+right: Mark
+Wrong: 
+Value: $200
+Number: 13
+RUM FOR YOUR LIFE | Have a cigar & a Cuba Libre: a drink of rum, ice, lime wedges & this | Coca-Cola
+right: Mark
+Wrong: 
+Value: $200
+Number: 22
+SCANDINAVIANS | Somehow a pulp & paper concern begun by Finn Frederik Idestam in 1865 evolved into this cell phone giant | Nokia
+right: Mark
+Wrong: 
+Value: $200
+Number: 10
+TRUE & FALSE | You have 7 true pairs of these & 5 false pairs (2 of which are floating) | ribs
+right: Mark
+Wrong: 
+Brian: What are chromosomes?
+Value: $200
+Number: 16
+WORLD CAPITALS | It's where the government of India meets | New Delhi
+right: Brian
+Wrong: 
+Value: $400
+Number: 6
+THE OLYMPIC GAMES | When this U.S. speedskater raced at the 2002 Olympics, his fans sported fake whiskers under their bottom lips | Apolo Anton Ohno
+right: Brian
+Wrong: 
+Value: $400
+Number: 2
+LITERARY TERMS | A Robinsonade, an adventure that's often about a marooned person, is named for a character created by this author | Daniel Defoe
+right: Mark
+Wrong: 
+Value: $400
+Number: 24
+RUM FOR YOUR LIFE | After one of these cocktails using 3 different kinds of rum, you might feel like the voodoo victim it's named for | Zombie
+right: Brian
+Wrong: 
+Value: $400
+Number: 23
+SCANDINAVIANS | Bjorn Borg won Wimbledon in 1980; this Swedish man won it in 1990 | Stefan Edberg
+right: Eric
+Wrong: 
+Brian: Who is Mats Wilander?
+Value: $400
+Number: 12
+TRUE & FALSE | The true morel variety of these is okay to eat; the false morels are poisonous | mushrooms
+right: Brian
+Wrong: 
+Value: $400
+Number: 17
+WORLD CAPITALS | After the Khmer Rouge came to power, this city's population dropped from about 2 million to 20,000 | Phnom Penh
+right: Brian
+Wrong: 
+Value: $600
+Number: 7
+THE OLYMPIC GAMES | In 1988 he won a gold medal boxing for Canada; 5 years later he won the pro heavyweight title | Lennox Lewis
+right: 
+Wrong: Triple Stumper
+Eric: Who is Razor Rudduck?
+Value: $600
+Number: 4
+LITERARY TERMS | Don't call Gertrude Stein a "block"head, though she played with the literary form of this Braque art style | Cubism
+right: Brian
+Wrong: 
+Value: $600
+Number: 25
+RUM FOR YOUR LIFE | The logo seen here, for this brand, was based on a suggestion by Dona Amalia, the founder's wife | Bacardi
+right: Mark
+Wrong: 
+Value: $600
+Number: 28
+SCANDINAVIANS | In 2000 this seventysomething Swede became head of the U.N.'s weapons inspectors for Iraq | Hans Blix
+right: Mark
+Wrong: 
+Value: $600
+Number: 14
+TRUE & FALSE | In digital logic circuits, 1 is true & this number is false | 0
+right: Brian
+Wrong: 
+Value: $600
+Number: 19
+WORLD CAPITALS | Physicist Niels Bohr was born in this capital in 1885 | Copenhagen
+right: Brian
+Wrong: 
+Value: $800
+Number: 8
+THE OLYMPIC GAMES | Through 2000, Jenny Thompson has won 8 gold medals in this sport, the most by any U.S. woman in any sport | swimming
+right: Brian
+Wrong: 
+Value: $800
+Number: 5
+LITERARY TERMS | This adjective referring to the works of GBS is derived from the Latinized form of his surname | Shavian
+right: Mark
+Wrong: 
+Value: $800
+Number: 26
+RUM FOR YOUR LIFE | It's the Jamaican coffee-flavored rum liqueur whose name means "Aunt Mary" | Tia Maria
+right: Mark
+Wrong: 
+Value: $800
+Number: 29
+SCANDINAVIANS | We wouldn't call ourselves Homo sapiens without the work of this 18th C. Swedish naturalist | Carl Linnaeus
+right: Mark
+Wrong: 
+Value: DD: $1,000
+Number: 15
+TRUE & FALSE | "True and False: Heresy and Common Sense for the Actor" is by this "Speed-the-Plow" playwright | David Mamet
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 20
+WORLD CAPITALS | The name of this South African capital means "fountain of flowers" | Bloemfontein
+right: Brian
+Wrong: 
+Value: $1000
+Number: 9
+THE OLYMPIC GAMES | In 1968 this Frenchman became only the second man in history to win 3 skiing events in the same Olympics | Jean-Claude Killy
+right: Mark
+Wrong: 
+Value: $1000
+Number: 11
+LITERARY TERMS | Real people & events are thinly disguised in this type of work, French for "novel with a key" | roman a clef
+right: Mark
+Wrong: 
+Value: $1000
+Number: 27
+RUM FOR YOUR LIFE | Mount Gay Rum has been made in this West Indies island nation off northeastern South America for 300 years | Barbados
+right: Mark
+Wrong: 
+Value: $1000
+Number: 30
+SCANDINAVIANS | Amundsen was a pup in 1888 when this Norwegian explorer schlepped across the Greenland ice cap | Fridtjof Nansen
+right: Brian
+Wrong: 
+Value: $1000
+Number: 18
+TRUE & FALSE | Folk song writer who gave us "False from True" & "Turn, Turn, Turn" | Pete Seeger
+right: Mark
+Wrong: 
+Eric: Who is Jim McGuinn?
+Brian: Who is Arlo Guthrie?
+Value: $1000
+Number: 21
+Scores at the first commercial break (after clue 15)
+Mark: $3,000
+Eric: -$400
+Brian: $3,600
+Scores at the end of the Jeopardy! Round:
+Mark: $9,000
+Eric: -$1,400
+Brian: $5,400
+Second Jeopardy! Round: INVERTEBRATES, AUTHORS ON FILM, LISTEN TO THE EXPERTS -- NOT!, OCCUPATIONAL HAZARDS, PRESIDENTIAL MEDICAL RECORDS, CRUSH UP YOUR SHAKESPEARE
+INVERTEBRATES | While this spiny-skinned sea creature can have 40 arms or more, most have 5 | starfish
+right: Mark
+Wrong: 
+Value: $400
+Number: 6
+AUTHORS ON FILM | Nicole Kidman (in a prosthetic nose) portrayed "The Hours" of this author | Virginia Woolf
+right: Mark
+Wrong: 
+Value: $400
+Number: 1
+LISTEN TO THE EXPERTS -- NOT! | In 1929 engineer George Gillette remarked, "By 1940" this physics theory "will be considered a joke" | Theory of relativity
+right: Mark
+Wrong: 
+Value: $400
+Number: 2
+OCCUPATIONAL HAZARDS | Logically, this occupation (not postal clerk) is exposed to the highest incidence of workplace violent crime | police officer
+right: Mark
+Wrong: 
+Value: $400
+Number: 16
+PRESIDENTIAL MEDICAL RECORDS | His wife is often called the first woman president because many believed she called all the shots after his stroke | Woodrow Wilson
+right: Eric
+Wrong: 
+Value: $400
+Number: 11
+CRUSH UP YOUR SHAKESPEARE | Female spot remover: chat me badly | Lady Macbeth
+right: Mark
+Wrong: 
+Value: $400
+Number: 23
+INVERTEBRATES | A Fred Astaire movie, or the spider relative seen here | daddy long legs
+right: Brian
+Wrong: 
+Value: $800
+Number: 8
+AUTHORS ON FILM | Meryl Streep played this author of "Shadows on the Grass" in 1985's "Out of Africa" | Isak Dinesen (Karen Blixen)
+right: Mark
+Wrong: 
+Value: $800
+Number: 4
+LISTEN TO THE EXPERTS -- NOT! | In 1911 the New York Times reported, "Vast Engineering Works Accomplished by Our Planetary Neighbors" here | Mars
+right: Eric
+Wrong: 
+Value: $800
+Number: 3
+OCCUPATIONAL HAZARDS | In game 3 of the Stanley Cup finals, Red Wing Steve Duchesne lost 6 of these, 2 of them original | his teeth
+right: Mark
+Wrong: 
+Value: $800
+Number: 19
+PRESIDENTIAL MEDICAL RECORDS | This president showed off his gall bladder surgery scar in the photo seen here | Lyndon B. Johnson
+right: Eric
+Wrong: 
+Value: $800
+Number: 12
+CRUSH UP YOUR SHAKESPEARE | "Hamlet" site: Nile rose | Elsinore
+right: Eric
+Wrong: 
+Value: $800
+Number: 24
+INVERTEBRATES | When this crab waves the larger of its front claws, it's said to resemble the movements of a violinist | fiddler crab
+right: Eric
+Wrong: 
+Value: $1200
+Number: 9
+AUTHORS ON FILM | Meryl Streep played this author of "The Orchid Thief" in 2002's "Adaptation" | Susan Orlean
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 10
+LISTEN TO THE EXPERTS -- NOT! | Killed in the Montana Territory in 1876, this man had declared that "The Army is the Indian's best friend" | George A. Custer
+right: Brian
+Wrong: 
+Value: $1200
+Number: 5
+OCCUPATIONAL HAZARDS | Metal fumes & oily floors trouble workers in these shops where you go after a fender-bender | auto repair shops
+right: Brian
+Wrong: 
+Value: $1200
+Number: 20
+PRESIDENTIAL MEDICAL RECORDS | He kept secret the fact that he lost sight in his left eye during a boxing match with a White House aide | Theodore Roosevelt
+right: Eric
+Wrong: 
+Value: DD: $1,700
+Number: 13
+CRUSH UP YOUR SHAKESPEARE | "Prospero"us girl: in drama | Miranda
+right: Mark
+Wrong: 
+Value: $1200
+Number: 26
+INVERTEBRATES | Like African sleeping sickness, nagana, a disease fatal to cattle, is carried by this insect | tsetse fly
+right: Brian
+Wrong: 
+Value: $1600
+Number: 17
+AUTHORS ON FILM | "Cross Creek" is a biography of this author of "The Yearling" | Marjorie Kinnan Rawlings
+right: Brian
+Wrong: 
+Mark: [*].
+Value: $1600
+Number: 28
+LISTEN TO THE EXPERTS -- NOT! | In 1940 Gandhi said, "I don't consider" this man "to be as bad as depicted...his victories" are gained "without much bloodshed" | Adolf Hitler
+right: Brian
+Wrong: 
+Value: $1600
+Number: 7
+OCCUPATIONAL HAZARDS | As our writers know, eyestrain is one hazard of working at a VDT, short for this | video display terminal
+right: Brian
+Wrong: 
+Value: $1600
+Number: 21
+PRESIDENTIAL MEDICAL RECORDS | George & Barbara Bush were both diagnosed with this thyroid disorder | Graves' disease
+right: Mark
+Wrong: 
+Value: $1600
+Number: 14
+CRUSH UP YOUR SHAKESPEARE | Big "Kat" tamer: hip to cure | Petruchio
+right: Mark
+Wrong: 
+Value: $1600
+Number: 27
+INVERTEBRATES | This tentacled squid relative seen here is the source of the brown pigment called sepia | cuttlefish
+right: Brian
+Wrong: 
+Value: $2000
+Number: 18
+AUTHORS ON FILM | 1995's "Carrington" also portrays the life & loves of this Bloomsbury Group member who wrote "Eminent Victorians" | Lytton Strachey
+right: Eric
+Wrong: 
+Value: $2000
+Number: 30
+LISTEN TO THE EXPERTS -- NOT! | In the 4th century B.C., this Greek philosopher declared that "The brain is an organ of minor importance" | Aristotle
+right: Mark
+Wrong: 
+Value: $2000
+Number: 15
+OCCUPATIONAL HAZARDS | People who work with this type of truck have to be careful not to fall off a tine | forklift truck
+right: Brian
+Wrong: 
+Value: DD: $1,000
+Number: 22
+PRESIDENTIAL MEDICAL RECORDS | JFK suffered from this disease caused by the insufficient production of hormones by the adrenal glands | Addison's disease
+right: Eric
+Wrong: 
+Value: $2000
+Number: 25
+CRUSH UP YOUR SHAKESPEARE | Richard's battleground: show told brief | Bosworth Field
+right: Eric
+Wrong: 
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Mark: $17,400
+Eric: $10,300
+Brian: $18,000
+
+Final Jeopardy! Round
+GOVERNORS | In 1967 she became the first woman governor of a state east of the Mississippi River | Lurleen B. Wallace (of Alabama)
+right: Mark
+Wrong: 
+Eric: Who is Ferraro?
+Brian: Who is Brown?
+Wagers: 
+Eric: $3,000
+Mark: $5,000
+Brian: $3,000
+Final scores:
+Mark: $22,400 ()
+Eric: $7,300 ()
+Brian: $15,000 ()
+
+Coryat scores
+Mark: $17,200 (26 R(including 1 DD),2 W)
+Eric: $9,800 (10 R(including 1 DD),3 W)
+Brian: $19,000 (20 R(including 1 DD),3 W)

@@ -1,0 +1,346 @@
+4576 - Monday, June 28, 2004
+Comments: Ken Jennings game 19.
+Contestants:
+Lori Fountain: a homemaker and substitute teacher from Henderson, Nevada
+Michael Magdalena: a government analyst from Anaheim, California
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 18-day cash winnings total $601,760)
+First Jeopardy! Round: LUXEMBOURG, THE CINEMA, WHAT AM I HAVING?, Y-R, HAIR TODAY, GONE TOMORROW?
+LUXEMBOURG | Rivaner is a profitable type of this planted in Luxembourg's Moselle Valley | grape
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 6
+THE CINEMA | 1999 film with the line "The answer is out there, Neo, and it's looking for you, and it will find you if you want it to" | The Matrix
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+WHAT AM I HAVING? | (<http://www.j-archive.com/media/2004-06-28_J_08.jpg> Sarah of the Clue Crew delivers the clue from Germany.)  Haben sie Bier vom Fass?--I just asked for this form of beer | draft beer
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 8
+Y-R | An astronomer may speak of a solar, lunar, equinoctial or sidereal one | a year
+right: Lori
+Wrong: 
+Value: $200
+Number: 21
+HAIR TODAY | This palindromic word can mean to cut short, or a short, blunt cut, with or without bangs | bob
+right: Michael
+Wrong: 
+Value: $200
+Number: 26
+GONE TOMORROW? | The Oahu tree one of these gastropods is quickly, not slowly, disappearing | a snail
+right: Michael
+Wrong: 
+Value: $200
+Number: 13
+LUXEMBOURG | Encyclopedia Britannica says this, not French, is the lingua franca of Luxembourg | German
+right: Michael
+Wrong: 
+Value: $400
+Number: 7
+THE CINEMA | The park bench Tom Hanks sat on in much of this 1994 film was in Chippewa Square in Savannah, Georgia | Forrest Gump
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+WHAT AM I HAVING? | (<http://www.j-archive.com/media/2004-06-28_J_09.jpg> Sofia of the Clue Crew delivers the clue from Spain.)  Por favor, un plato de chorizo--a plate of this, please | sausage
+right: Ken
+Wrong: 
+Value: $400
+Number: 9
+Y-R | A short war between Israel & Egypt & Syria in October 1973 was named for this high holiday | Yom Kippur
+right: Michael
+Wrong: 
+Value: $400
+Number: 22
+HAIR TODAY | In 2004 this real estate tycoon told People magazine that his signature swept-forward style is his own handiwork | Trump
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+GONE TOMORROW? | The Hine's emerald species of this insect has a wingspan that can reach about 3.5 inches | a dragonfly
+right: 
+Wrong: Triple Stumper
+Ken: What's a butterfly?
+Value: $400
+Number: 14
+LUXEMBOURG | During his years in exile, this "Les Miserables" author lived for a while in Vianden; his house there is now a museum | Victor Hugo
+right: Michael
+Wrong: 
+Value: $600
+Number: 16
+THE CINEMA | The popular soundtrack of this 2000 film includes "I Am A Man Of Constant Sorrow" & "You Are My Sunshine" | O Brother, Where Art Thou?
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+WHAT AM I HAVING? | (<http://www.j-archive.com/media/2004-06-28_J_10.jpg> Sofia of the Clue Crew delivers the clue from Venice.)  Caffe con zucchero, per favore--I take my coffee with this | sugar
+right: Michael
+Wrong: 
+Value: $600
+Number: 10
+Y-R | In October 2002 he made another supersonic flight, 55 years after his first | Chuck Yeager
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+HAIR TODAY | This rastafarian style is Whoopi Goldberg's trademark | dreadlocks
+right: Lori
+Wrong: 
+Value: $600
+Number: 28
+GONE TOMORROW? | The endangerment of the New Mexico ridge-nosed species of this snake was caused in part by collectors | a rattlesnake
+right: Ken
+Wrong: 
+Value: $600
+Number: 15
+LUXEMBOURG | In the 1940s Luxembourg joined with these 2 countries to form a customs union | Belgium & the Netherlands
+right: Ken
+Wrong: 
+Value: DD: $2,000
+Number: 19
+THE CINEMA | It was the mythological container sought by Lara Croft in "Lara Croft Tomb Raider: The Cradle of Life" | Pandora's box
+right: Michael
+Wrong: 
+Value: $800
+Number: 4
+WHAT AM I HAVING? | (<http://www.j-archive.com/media/2004-06-28_J_11.jpg> Sofia of the Clue Crew delivers the clue from Mexico.)  Voy a comer pollo con mole--I'm having <http://www.j-archive.com/media/2004-06-28_J_11a.jpg> this in a classic Mexican sauce | chicken
+right: Michael
+Wrong: 
+Value: $800
+Number: 11
+Y-R | This Cole was a known associate of Jesse James | Younger
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+HAIR TODAY | This 6-letter hairstyle is "business in front, party in the back" | a mullet
+right: Lori
+Wrong: 
+Value: $800
+Number: 29
+GONE TOMORROW? | Picoides Borealis is the red-cockaded species of this bird, still on the endangered list in 2004 | the woodpecker
+right: 
+Wrong: Triple Stumper
+Ken: What's the spotted owl?
+Michael: What is a parrot?
+Value: $800
+Number: 17
+LUXEMBOURG | The Congress of Vienna in 1815 made Luxembourg a state headed by this type of ruler | a grand duke
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+THE CINEMA | In this animated film, Henry J. Waternoose says, "Kids these days.  They just don't get scared like they used to" | Monsters, Inc.
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+WHAT AM I HAVING? | (<http://www.j-archive.com/media/2004-06-28_J_12.jpg> Sarah of the Clue Crew delivers the clue from the Bronx.)  Hey, Sal, I got some hungry people out here; give me a garbage pie--I just ordered up one of these | a pizza with everything
+right: Lori
+Wrong: 
+Value: $1000
+Number: 12
+Y-R | "Savage Sam" is a sequel to the Fred Gipson book called "Old" this | Yeller
+right: Michael
+Wrong: 
+Value: $1000
+Number: 25
+HAIR TODAY | George Clooney popularized the close-cut style named this, like a certain leader | a Caesar (cut)
+right: Lori
+Wrong: 
+Value: $1000
+Number: 30
+GONE TOMORROW? | Among the colorful mammals on the endangered list are the gray & the red ones of these predators | a wolf
+right: Ken
+Wrong: 
+Value: $1000
+Number: 18
+Scores at the first commercial break (after clue 15)
+Ken: $2,800
+Michael: $2,800
+Lori: $1,000
+Scores at the end of the Jeopardy! Round:
+Ken: $7,800
+Michael: $4,200
+Lori: $3,600
+Second Jeopardy! Round: MAIN STREET U.S.A., POP MUSIC, "A"NCIENT GREEKS, FLOWERS, BRITISH INVENTIONS, BEFORE & AFTER
+MAIN STREET U.S.A. | Borgen's Cafe, on Main St. in Westby, Wisconsin, feels a bit like Oslo, with menus & banter in this language | Norwegian
+right: Michael
+Wrong: 
+Value: $400
+Number: 26
+POP MUSIC | This rapper won a 2000 MTV award for Best Male Video for "The Real Slim Shady" | Eminem
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+"A"NCIENT GREEKS | A fabulist: 620-560 B.C. | Aesop
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+FLOWERS | The white petals of this flower are usually pulled to see if "she loves me" or "she loves me not" | a daisy
+right: Lori
+Wrong: 
+Value: $400
+Number: 21
+BRITISH INVENTIONS | A perambulator or pram to the Brits, it was invented in 1733 by William Kent for the Duke of Devonshire's kids | a baby carriage
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+BEFORE & AFTER | 1980 scarefest in which mom & daughter switch bodies one day & are stalked by Jason at Camp Crystal Lake | Freaky Friday the 13th
+right: Michael
+Wrong: 
+Value: $400
+Number: 1
+MAIN STREET U.S.A. | In Salt Lake City take Main Street to this square to find the Mormon Tabernacle | Temple Square
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+POP MUSIC | '60s Dylan classic that begins, "Once upon a time you dressed so fine" | "Like A Rolling Stone"
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+"A"NCIENT GREEKS | A philosopher & student of Plato: 384-322 B.C. | Aristotle
+right: Michael
+Wrong: 
+Value: $800
+Number: 12
+FLOWERS | This flower seen <http://www.j-archive.com/media/2004-06-28_DJ_22.jpg> here is often spotted on a man's lapel | a carnation
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+BRITISH INVENTIONS | In 1676 Robert Hooke came up with a universal one of these to manipulate the mirrors of his helioscope | a universal joint
+right: 
+Wrong: Triple Stumper
+Lori: What is a remote control?
+Value: $800
+Number: 7
+BEFORE & AFTER | Leif Ericson's dad who was a huge star with low surface temperature | Erik the Red Giant
+right: Ken
+Wrong: 
+Value: $800
+Number: 3
+MAIN STREET U.S.A. | There's a house dating from 1648 on Main St. in this "directional" resort village in New York's Hamptons | Southampton
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+POP MUSIC | In the summer of 2002 this country star hit the Hot 100 chart with "Courtesy Of The Red, White and Blue" | Toby Keith
+right: Lori
+Wrong: 
+Value: $1200
+Number: 18
+"A"NCIENT GREEKS | A comedic dramatist: 445-385 B.C. | Aristophanes
+right: Ken
+Wrong: 
+Value: $1200
+Number: 13
+FLOWERS | These flowers blooming in a Flanders cemetery during WWI inspired a famous poem by Major John McCrae | poppies
+right: Ken
+Wrong: 
+Value: DD: $5,000
+Number: 23
+BRITISH INVENTIONS | The name of this Scot who invented the steam hammer sounds just like the American who invented basketball | (James) Nasmyth
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+BEFORE & AFTER | Fictional girl sleuth who's the granddaughter of "The Great Profile" | Nancy Drew Barrymore
+right: Ken
+Wrong: 
+Value: $1200
+Number: 4
+MAIN STREET U.S.A. | Bob Seger was "down on Main Street" in this city, home to a university | Ann Arbor
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+POP MUSIC | Alicia Keys received 5 Grammys for 2001, including best new artist & song of the year for this hit | "Fallin'"
+right: Lori
+Wrong: 
+Value: $1600
+Number: 19
+"A"NCIENT GREEKS | A mathematician: 287-212 B.C. | Archimedes
+right: Lori
+Wrong: 
+Value: $1600
+Number: 14
+FLOWERS | Grown from bulbs, they're the cheerful spring flowers seen <http://www.j-archive.com/media/2004-06-28_DJ_24.jpg> here | daffodils
+right: Lori
+Wrong: 
+Value: $1600
+Number: 24
+BRITISH INVENTIONS | For the military, zoologist John Kerr developed the "dazzle paint" type of this, something animals also use | camouflage
+right: Michael
+Wrong: 
+Value: $1600
+Number: 9
+BEFORE & AFTER | Projection at the southern tip of South America also called a cornucopia | Cape Horn o' Plenty
+right: Michael
+Wrong: 
+Value: $1600
+Number: 5
+MAIN STREET U.S.A. | Your feelings may run deep on historic Main Street in this city, home of Oklahoma State University | Stillwater
+right: Ken
+Wrong: 
+Value: DD: $3,200
+Number: 30
+POP MUSIC | "Come Back Home" is the first single from his 2003 album "Day I Forgot" | Pete Yorn
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+"A"NCIENT GREEKS | The "Oresteia" tragedian: 525-456 B.C. | Aeschylus
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+FLOWERS | In song, Colorado is where these bluish & white state flowers grow | the Rocky Mountain columbines
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+BRITISH INVENTIONS | The miner's safety lamp was also called by the name of this British chemist who invented it in 1815 | Sir Humphrey Davy
+right: 
+Wrong: Triple Stumper
+Michael: What is a torch?
+Value: $2000
+Number: 10
+BEFORE & AFTER | "Lethal Weapon" director whose group was caught in a Sierra Nevada pass in the winter of 1846-47 | the Richard Donner Party
+right: Ken
+Wrong: 
+Value: $2000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Ken: $28,000
+Michael: $7,000
+Lori: $9,200
+
+Final Jeopardy! Round
+BOOK TITLES | "I am the rose of Sharon" & "When you know your name, you should hang on to it" are from 2 different books titled this | Song of Solomon
+right: 
+Wrong: 
+Michael: What is the Grapes of Wrath?
+Lori: What is The grapes of Wrath?
+Ken: What is ?
+Wagers: 
+Michael: $6,999
+Lori: $9,099
+Ken: $7,000
+Final scores:
+Ken: $21,000 (19-day champion: $622,760)
+Michael: $1 (3rd place: $1,000)
+Lori: $101 (2nd place: $2,000)
+
+Coryat scores
+Ken: $21,800 (26 R(including 3 DDs),2 W)
+Michael: $7,000 (14 R,2 W)
+Lori: $9,200 (10 R,1 W)

@@ -1,0 +1,335 @@
+3792 - Tuesday, February 13, 2001
+Comments: 2001 International Championship semifinal game 2.    From the Las Vegas Hilton.
+Contestants:
+Ott Sandrak: a municipal civil servant from Harjumaa, Estonia
+Firat Isbecer: a university student from Istanbul, Turkey
+Robin Carroll: an instructional designer from Marietta, Georgia (USA)
+First Jeopardy! Round: SIEGFRIEDS & ROYS, HISTORY, MUSEUMS, HEALTH & MEDICINE, POTPOURRI, SPEAKING ESPERANTO
+SIEGFRIEDS & ROYS | In an 1870s ballet, Prince Siegfried falls in love with one of these graceful birds | Swan
+right: Robin
+Wrong: 
+Value: $100
+Number: 22
+HISTORY | The storming of this prison in 1789 is one of the most famous events of the French Revolution | Bastille
+right: Robin
+Wrong: 
+Value: $100
+Number: 7
+MUSEUMS | Hieronymus Bosch's "Garden of Earthly Delights" is one of the delightful paintings at this Spanish museum | The Prado
+right: Robin
+Wrong: 
+Value: $100
+Number: 1
+HEALTH & MEDICINE | Hepatitis & cirrhosis are diseases of this organ | Liver
+right: Robin
+Wrong: 
+Value: $100
+Number: 11
+POTPOURRI | Oxford graduate Hugh Grant played a student at this other British university in the coming-of-age film "Maurice" | Cambridge
+right: Robin
+Wrong: 
+Value: $100
+Number: 29
+SPEAKING ESPERANTO | Esperanto adverbs generally end in "E"; these words, like bela for "beautiful", in "A" | Adjectives
+right: Robin
+Wrong: 
+Value: $100
+Number: 16
+SIEGFRIEDS & ROYS | This singer took "Oh, Pretty Woman" to No. 1 in 1964 | Roy Orbison
+right: Robin
+Wrong: 
+Value: $200
+Number: 23
+HISTORY | This German earned the nickname "The Desert Fox" while commanding the Afrika Korps in WWII | Erwin Rommel
+right: Robin
+Wrong: 
+Value: $200
+Number: 6
+MUSEUMS | A Tokyo museum dedicated to this Beatle opened Oct. 9, 2000, which would have been his 60th birthday | John Lennon
+right: Robin
+Wrong: 
+Value: $200
+Number: 2
+HEALTH & MEDICINE | The tympanic membrane is another name for this body part | Eardrum
+right: Robin
+Wrong: 
+Value: $200
+Number: 12
+POTPOURRI | Traditionally, the ballet "Suite en Blanc" is performed without scenery, in costumes of this color | White
+right: Robin
+Wrong: 
+Value: $200
+Number: 18
+SPEAKING ESPERANTO | A fine restoracio might insist you wear a kravat, which is this | Tie
+right: Firat
+Wrong: 
+Value: $200
+Number: 17
+SIEGFRIEDS & ROYS | This composer of the opera "Siegfried" also named his son Siegfried | Richard Wagner
+right: Ott
+Wrong: 
+Value: $300
+Number: 24
+HISTORY | Even though it's been "found", this Peruvian ruin, seen here, is still called "The Lost City of the Incas" | Machu Picchu
+right: Robin
+Wrong: 
+Value: $300
+Number: 8
+MUSEUMS | Seen here, Manet's painting of "Nana" hangs in the Kunshalle, a great museum in this seaport of northern Germany | Hamburg
+right: Ott
+Wrong: 
+Value: $300
+Number: 3
+HEALTH & MEDICINE | When the intestine bulges into the groin muscles, it's the inguinal type of this | Hernia
+right: Robin
+Wrong: 
+Value: $300
+Number: 13
+POTPOURRI | Puerto Ricans eat mofongo, a mashed plantain dish that gets its strong flavor from cloves of this | Garlic
+right: Robin
+Wrong: 
+Value: $300
+Number: 27
+SPEAKING ESPERANTO | Dudek is 20; ducent is this many | 200
+right: Robin
+Wrong: 
+Value: $300
+Number: 19
+SIEGFRIEDS & ROYS | Before he became the "King of the Cowboys" on film, he formed the Sons of the Pioneers singing group | Roy Rogers
+right: Robin
+Wrong: 
+Value: $400
+Number: 25
+HISTORY | As queen of the Netherlands during WWI, she helped maintain Dutch neutrality | Wilhelmina
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 9
+MUSEUMS | We wonder what they sell in the gift shop of the Opium House Museum in Sop Ruak, this nation's Golden Triangle | Thailand
+right: Ott
+Wrong: 
+Value: $400
+Number: 4
+HEALTH & MEDICINE | A deficiency of vitamin D is a common cause of this disease that causes bone deformities like bowed legs | rickets
+right: Robin
+Wrong: 
+Value: $400
+Number: 14
+POTPOURRI | It's the official language of Bahrain | Arabic
+right: Firat
+Wrong: 
+Value: $400
+Number: 28
+SPEAKING ESPERANTO | Arbaro is this type of place as in Longfellow's "Jen la Arbaro Pratempa" | Forest/woods
+right: Robin
+Wrong: 
+Value: $400
+Number: 20
+SIEGFRIEDS & ROYS | In a Sir Walter Scott novel, this title character is an outlaw of the MacGregor clan | Rob Roy
+right: Ott
+Wrong: 
+Value: $500
+Number: 26
+HISTORY | This "Magnificent" sultan, seen here, was the 10th ruler of the Ottoman Empire | Suleiman
+right: Robin
+Wrong: 
+Value: $500
+Number: 10
+MUSEUMS | The central gallery of this French museum, once a train station, is seen here | Musee d'Orsay
+right: Firat
+Wrong: 
+Value: $500
+Number: 5
+HEALTH & MEDICINE | Alexia is word blindness; this is a reading disability in which letters are reversed &/or transposed | Dyslexia
+right: Robin
+Wrong: 
+Value: $500
+Number: 15
+POTPOURRI | This 19th C. Norwegian wrote incidental music for Bjornstjerne Bjornson's play "Sigurd Jorsalfar" | Edvard Grieg
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+SPEAKING ESPERANTO | Originally the pseudonym of the language's creator, Esperanto means "one who" does this | Hopes
+right: Robin
+Wrong: 
+Value: DD: $700
+Number: 21
+Scores at the first commercial break (after clue 15)
+Robin: $2,500
+Firat: $500
+Ott: $700
+Scores at the end of the Jeopardy! Round:
+Robin: $5,300
+Firat: $1,100
+Ott: $1,500
+Second Jeopardy! Round: THE VENETIAN, DIVA LAS VEGAS!, MYTHS & LEGENDS, THE INTERNATIONAL LANGUAGE OF MATH, NOTABLE NAMES, WORLD GEOGRAPHY
+THE VENETIAN | This 17-year-old Venetian left Venice in 1271 & met Kublai Khan 4 years later | Marco Polo
+right: Firat
+Wrong: 
+Value: $200
+Number: 26
+DIVA LAS VEGAS! | "Funny Lady": her "final" show", Dec. 31, 1999 at the MGM Grand, was followed by farewell concerts in NYC & L.A. | Barbra Streisand
+right: Robin
+Wrong: 
+Value: $200
+Number: 21
+MYTHS & LEGENDS | This strongman performed his 12 labors during his 12 years of servitude to King Eurystheus | Hercules
+right: Robin
+Wrong: 
+Value: $200
+Number: 27
+THE INTERNATIONAL LANGUAGE OF MATH | A point equidistant from the vertices of a regular polygon or a position in hockey & basketball | Center
+right: Robin
+Wrong: 
+Value: $200
+Number: 28
+NOTABLE NAMES | While on his way to a prayer meeting in 1948, this "Great Soul" of India was assassinated | Mahatma Gandhi
+right: Robin
+Wrong: 
+Value: $200
+Number: 2
+WORLD GEOGRAPHY | Much of Scotland's Caledonian Canal is formed by Loch Lochy & this other "monstrous" loch | Loch Ness
+right: Robin
+Wrong: 
+Value: $200
+Number: 4
+THE VENETIAN | Orso Ipato became the first of these Venetian chief magistrates in 726 | Doges
+right: Robin
+Wrong: 
+Value: $400
+Number: 17
+DIVA LAS VEGAS! | We've got nothing but "Respect" for this queen of soul who first played Caesars' Circus Maximus showroom in 1969 | Aretha Franklin
+right: Robin
+Wrong: 
+Value: $400
+Number: 22
+MYTHS & LEGENDS | The "Arabian Nights" tales include the adventures of this sailor & his 7 voyages | Sinbad
+right: Firat
+Wrong: 
+Value: $400
+Number: 13
+THE INTERNATIONAL LANGUAGE OF MATH | A whole number is either composite, with factors other than itself & 1, or this type | Prime
+right: Robin
+Wrong: 
+Value: $400
+Number: 1
+NOTABLE NAMES | In 1995 some sections of this Jewish girl's WWII diary were made public for the first time | Anne Frank
+right: Firat
+Wrong: 
+Value: $400
+Number: 3
+WORLD GEOGRAPHY | In ancient times, this "mother" river of Russia was known as the Rha | Volga
+right: Firat
+Wrong: 
+Value: $400
+Number: 8
+THE VENETIAN | Born the son of actors in 1725, this legendary Venetian lover originally planned a career in the priesthood | Giacomo Casanova
+right: Robin
+Wrong: 
+Value: DD: $1,000
+Number: 18
+DIVA LAS VEGAS! | "If I Could Turn Back Time" I "Believe" I would attend her 1991 extravaganza at the Mirage | Cher
+right: Robin
+Wrong: 
+Value: $600
+Number: 23
+MYTHS & LEGENDS | In an Old English poem, this hero who killed the monster Grendel dies after tangling with a dragon | Beowulf
+right: Robin
+Wrong: 
+Value: $600
+Number: 14
+THE INTERNATIONAL LANGUAGE OF MATH | It's the single-digit number represented here (the square root of 64) | 8
+right: Firat
+Wrong: 
+Value: $600
+Number: 9
+NOTABLE NAMES | Leader of this country from 1926 to 1989, this man seen here also had a lifelong interest in marine biology | Emperor Hirohito
+right: Robin
+Wrong: 
+Value: $600
+Number: 5
+WORLD GEOGRAPHY | Although it's Central America's smallest country in area, it's in the top 3 by population | El Salvador
+right: Ott
+Wrong: 
+Value: $600
+Number: 10
+THE VENETIAN | Famous for his paintings of canals, this Venetian artist's real name was Giovanni Canal | Canaletto
+right: Ott
+Wrong: 
+Value: $800
+Number: 19
+DIVA LAS VEGAS! | In January 1970 she made a farewell live appearance with the Supremes at the Frontier Hotel | Diana Ross
+right: Robin
+Wrong: 
+Value: $800
+Number: 24
+MYTHS & LEGENDS | In Norse myth, warriors killed in battle ended up in this magnificent "hall" in the sky | Valhalla
+right: Robin
+Wrong: 
+Value: $800
+Number: 15
+THE INTERNATIONAL LANGUAGE OF MATH | If a circle has a radius of 7.3 inches, its circumference in inches is 2 X 7.3 X this | Pi
+right: Firat
+Wrong: 
+Value: $800
+Number: 29
+NOTABLE NAMES | A hero to many, he trained as a doctor in Argentina before becoming a revolutionary & dying in Bolivia | Che Guevara
+right: Ott
+Wrong: 
+Value: $800
+Number: 6
+WORLD GEOGRAPHY | Have a family get-together in the Indian Ocean on this French island which was once known as Bourbon Island | Reunion
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 11
+THE VENETIAN | Son of a violinist at St. Mark's Cathedral, he's the 18th C. Venetian composer whose work is heard here | Antonio Vivaldi
+right: Robin
+Wrong: 
+Value: $1000
+Number: 20
+DIVA LAS VEGAS! | Gigs in Vegas helped this singer, heard here, pay the bills after her divorce ("Time for Letting Go") | Tina Turner
+right: Robin
+Wrong: 
+Value: DD: $1,100
+Number: 25
+MYTHS & LEGENDS | In Hinduism, Skanda, a 6-headed war god, is the son of this "destroyer" | Shiva
+right: Ott
+Wrong: 
+Value: $1000
+Number: 16
+NOTABLE NAMES | This Danish religious philosopher was known to his followers as S.K. | Soren Kierkegaard
+right: Robin
+Wrong: 
+Value: $1000
+Number: 7
+WORLD GEOGRAPHY | This pass through the Swiss Alps has a 10-mile motor vehicle tunnel, one of the world's largest | St. Gotthard Pass
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 12
+Scores at the end of the Double Jeopardy! Round:
+Robin: $13,400
+Firat: $3,900
+Ott: $3,900
+
+Final Jeopardy! Round
+FRENCH NOVELISTS | A relative of Henri Bergson's wife, he used Bergson's mystical concepts of time in his most famous work | Marcel Proust ("Remembrance of Things Past")
+right: Robin
+Wrong: 
+Ott: Who is
+Firat: Who is ?
+Wagers: 
+Ott: $3,889
+Firat: $3,899
+Robin: $1,600
+Final scores:
+Robin: $15,000 (Finalist)
+Firat: $1 (3rd place: $5,000)
+Ott: $11 (2nd place: $5,000)
+
+Coryat scores
+Robin: $12,700 (38 R(including 3 DDs),3 W)
+Firat: $3,900 (9 R,0 W)
+Ott: $3,900 (8 R,1 W)

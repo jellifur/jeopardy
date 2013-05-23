@@ -1,0 +1,348 @@
+6083 - Wednesday, February 9, 2011
+Comments: IBM Challenge mini-documentary: "What is a Grand Challenge?"
+Contestants:
+Sean Priest: a high school vice principal from San Francisco, California
+Daniel Cohen: an actor from Astoria, New York
+Paul Wampler: a web programmer from Knoxville, Tennessee (whose 2-day cash winnings total $33,401)
+First Jeopardy! Round: MUSICAL INSTRUMENTS, OSCAR-WINNING ROLES, WHAT'S IN YOUR "C"LOSET?, THE CONSTITUTION, SURFIN' USB, NONCE WORDS
+MUSICAL INSTRUMENTS | The difference between a cornet & this almost-indentical inst. is that the cornet is shorter, with a more conical bore | the trumpet
+right: Daniel
+Wrong: 
+Value: $200
+Number: 1
+OSCAR-WINNING ROLES | 1991: Clarice Starling | Jodie Foster
+right: Paul
+Wrong: 
+Value: $200
+Number: 6
+WHAT'S IN YOUR "C"LOSET? | 2 pairs of these shoes--one for golf & one for soccer | cleats
+right: Paul
+Wrong: 
+Value: $200
+Number: 11
+THE CONSTITUTION | This specific body "shall be composed of members chosen every second year by the people of the... states" | the House (of Representatives)
+right: Daniel
+Wrong: 
+Value: $200
+Number: 26
+SURFIN' USB | USB technology was developed by a core group of companies that included Intel, Microsoft & this 3-letter giant | IBM
+right: Paul
+Wrong: 
+Value: $200
+Number: 16
+NONCE WORDS | If the captain says the ship needs some swabification, you'd better find this 3-letter long-handled item | a mop
+right: Paul
+Wrong: 
+Value: $200
+Number: 21
+MUSICAL INSTRUMENTS | The labels on his violins bear a Maltese cross & the initials A.S., enclosed within a double circle | Stradivarius
+right: Sean
+Wrong: 
+Value: $400
+Number: 2
+OSCAR-WINNING ROLES | 1982: She was the choice as Sophie | Meryl Streep
+right: Paul
+Wrong: 
+Value: $400
+Number: 7
+WHAT'S IN YOUR "C"LOSET? | These trousers made of cotton twill cloth & similar to khakis | chinos
+right: Sean
+Wrong: 
+Value: $400
+Number: 12
+THE CONSTITUTION | This job "shall be president of the Senate, but shall have no vote, unless they be equally divided" | the vice president
+right: Paul
+Wrong: 
+Value: $400
+Number: 27
+SURFIN' USB | USB technology is used to power these "happy" control devices also found in airplanes | joysticks
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 17
+NONCE WORDS | In an arithmocracy, this portion of the population rules, not trigonometry teachers | the majority
+right: 
+Wrong: Triple Stumper
+Paul: What are... [sighs]
+Value: $400
+Number: 22
+MUSICAL INSTRUMENTS | To make notes or chords on a guitar, place your fingers in the areas between these metal strips | frets
+right: Paul
+Wrong: 
+Value: $600
+Number: 3
+OSCAR-WINNING ROLES | 1980: He TKO'd Oscar as Jake LaMotta | Robert De Niro
+right: Sean
+Wrong: 
+Value: $600
+Number: 8
+WHAT'S IN YOUR "C"LOSET? | A floral summer dress made from this cotton fabric named for a city in India | calico
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+THE CONSTITUTION | "The privilege of the writ of" this "shall not be suspended" | habeas corpus
+right: 
+Wrong: 
+Paul: What is the people?
+Value: DD: $1,400
+Number: 28
+SURFIN' USB | In computer speak, "USB" stands for "universal serial" this--but don't try waiting for one at a stop | a bus
+right: Sean
+Wrong: 
+Value: $600
+Number: 18
+NONCE WORDS | Airgonation is travel via this transport that Phileas Fogg once used | hot air balloon
+right: Paul
+Wrong: 
+Value: $600
+Number: 23
+MUSICAL INSTRUMENTS | The first pitched versions of this Trinidadian instrument were made from small convex metal containers | steel drums
+right: Daniel
+Wrong: 
+Paul: What are...
+Value: $800
+Number: 4
+OSCAR-WINNING ROLES | 2009: He was really good as Bad Blake | Jeff Bridges
+right: Sean
+Wrong: 
+Value: $800
+Number: 9
+WHAT'S IN YOUR "C"LOSET? | A fuzzy sweater made from this fabric whose name is French for "caterpillar" | chenille
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+THE CONSTITUTION | "The president shall be" this "of the army and navy of the United States" | Commander in Chief
+right: Paul
+Wrong: 
+Value: $800
+Number: 29
+SURFIN' USB | Often connected via USB port, <http://www.j-archive.com/media/2011-02-09_J_19.jpg> this device can be used for video chatting, or to keep an eye on things at home | a webcam
+right: Paul
+Wrong: 
+Value: $800
+Number: 19
+NONCE WORDS | Akin to a dumpster diver, a freegan is an anticonsumerist who eats only what is this | thrown out
+right: Daniel
+Wrong: 
+Value: $800
+Number: 24
+MUSICAL INSTRUMENTS | Similar to a xylophone, it's the national musical instrument of Guatemala & other Central American countries | a marimba
+right: Sean
+Wrong: 
+Value: $1000
+Number: 5
+OSCAR-WINNING ROLES | 1999: Her multi-dimensional performance as Brandon Teena / Teena Brandon won an Oscar | Hilary Swank
+right: Daniel
+Wrong: 
+Value: $1000
+Number: 10
+WHAT'S IN YOUR "C"LOSET? | One of these long, full collarless robes with wide sleeves, worn for lounging or as a cover-up at the beach | caftan
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+THE CONSTITUTION | "Full faith and" this "shall be given in each state to the public acts... of every other state" | credit
+right: Sean
+Wrong: 
+Paul: What is confidence?
+Value: $1000
+Number: 30
+SURFIN' USB | USB ports on the 1998 first generation of this Apple computer helped make USB an industry standard | an iMac
+right: Paul
+Wrong: 
+Daniel: What's the MacBook?
+Value: $1000
+Number: 20
+NONCE WORDS | A thanatorium is a place for those for whom this is about to occur | death
+right: Daniel
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Paul: $600
+Daniel: $2,000
+Sean: $3,200
+Scores at the end of the Jeopardy! Round:
+Paul: $1,800
+Daniel: $3,000
+Sean: $4,800
+Second Jeopardy! Round: FRENCH HISTORY, TV JUDGES, ANIMALS IN CHILDREN'S BOOKS, GERMAN FOOD, IOWA, "HAWK" EYES
+FRENCH HISTORY | In May 1968 demonstrations broke out throughout France against this president's government | de Gaulle
+right: Daniel
+Wrong: 
+Value: $400
+Number: 17
+TV JUDGES | From 1981 to 1993 it was definitely, definitely time for this judge to rule on "The People's Court" | (Joe) Wapner
+right: Paul
+Wrong: 
+Value: $400
+Number: 1
+ANIMALS IN CHILDREN'S BOOKS | Pongo & Missis: This breed that lives with Mr. & Mrs. Dearly | Dalmatians
+right: Daniel
+Wrong: 
+Value: $400
+Number: 12
+GERMAN FOOD | "How sweet is your aroma", wrote poet Heinrich Heine in a hymn to this cabbage preparation | sauerkraut
+right: Daniel
+Wrong: 
+Value: $400
+Number: 22
+IOWA | Iowa's east & west borders are formed by water, primarily these 2 rivers | the Mississippi & the Missouri
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+"HAWK" EYES | It can be an Indian axe or a cruise missile | the tomahawk
+right: Paul
+Wrong: 
+Value: $400
+Number: 6
+FRENCH HISTORY | From 1349 to 1830 the French king's oldest son held this title once used by the Lord of Viennois | dauphin
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+TV JUDGES | From 1997 to 1999 this '80s NYC mayor ruled over "The People's Court" | (Ed) Koch
+right: Paul
+Wrong: 
+Value: $800
+Number: 2
+ANIMALS IN CHILDREN'S BOOKS | Aslan: This majestic creature in Narnia | a lion
+right: Paul
+Wrong: 
+Value: $800
+Number: 13
+GERMAN FOOD | Pichelsteiner Fleisch, a favorite of Otto von Bismarck, is this one-pot concoction, made with beef & pork | a stew
+right: Paul
+Wrong: 
+Value: $800
+Number: 23
+IOWA | In 2007 Winterset, Iowa celebrated the centennial of this actor's birth there, Pilgrim | John Wayne
+right: Paul
+Wrong: 
+Value: $800
+Number: 27
+"HAWK" EYES | Elite U.S. soldiers get trapped attempting to capture 2 lieutenants of a Somali warlord in this film | Black Hawk Down
+right: Paul
+Wrong: 
+Value: $800
+Number: 7
+FRENCH HISTORY | (<http://www.j-archive.com/media/2011-02-09_DJ_19.jpg> Kelly of the Clue Crew shows a map on the monitor.) At one point in the Hundred Years War, England & its allies possessed about half of France; by war's end in 1453, however, the French had pushed England off the mainland, except for this <http://www.j-archive.com/media/2011-02-09_DJ_19a.jpg> port | the port of Calais
+right: 
+Wrong: 
+Daniel: what is Normandy?
+Value: DD: $2,600
+Number: 19
+TV JUDGES | In 1999 this judge wrote the book "Beauty Fades, Dumb is Forever: The Making of a Happy Woman" | Judge Judy
+right: Paul
+Wrong: 
+Value: $1200
+Number: 3
+ANIMALS IN CHILDREN'S BOOKS | Stellaluna: The fruit type of this mammal | a bat
+right: Paul
+Wrong: 
+Value: $1200
+Number: 14
+GERMAN FOOD | Mandelschnitzel is a variation on Wienerschnitzel using these nuts, grated or slivered | almonds
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 24
+IOWA | The name of this capital of Iowa may come from a Native American word meaning "river of the mounds" | Des Moines
+right: Daniel
+Wrong: 
+Value: $1200
+Number: 28
+"HAWK" EYES | This aircraft carrier named for a North Carolina site has been nicknamed "Battle Cat" | the Kitty Hawk
+right: Paul
+Wrong: 
+Value: $1200
+Number: 8
+FRENCH HISTORY | This legislative assembly was formed by Philip IV in 1302; it was replaced in 1789 with the National Assembly | the Estates General (les états généraux)
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 20
+TV JUDGES | This "Super Freak" singer appeared on "Judge Joe Brown" about his unreturned guitar | Rick James
+right: Paul
+Wrong: 
+Value: $1600
+Number: 4
+ANIMALS IN CHILDREN'S BOOKS | Rikki-Tikki-Tavi: This creature that saves his family | a mongoose
+right: Paul
+Wrong: 
+Value: $1600
+Number: 15
+GERMAN FOOD | A specialty of the North Sea island of Helgoland is Knieper, this part of a crab | the claw
+right: 
+Wrong: Triple Stumper
+Sean: What is the brain?
+Value: $1600
+Number: 25
+IOWA | The Cedar Rapids Museum of Art houses the largest collection of this native Iowan's paintings | Grant Wood
+right: 
+Wrong: Triple Stumper
+Sean: Who is Whistler?
+Value: $1600
+Number: 29
+"HAWK" EYES | This young hero of "Treasure Island" sets off on his adventures after discovering a pirate's map | (Jim) Hawkins
+right: Daniel
+Wrong: 
+Value: $1600
+Number: 9
+FRENCH HISTORY | This 1598 edict gave a large measure of religious liberty to the Huguenots | the Edict of Nantes
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+TV JUDGES | Couples live unhappily ever after on this show featuring Judge Lynn Toler | Divorce Court
+right: Daniel
+Wrong: 
+Value: $2000
+Number: 5
+ANIMALS IN CHILDREN'S BOOKS | Mr. Jeremy Fisher: This critter, living at the edge of a pond in a Beatrix Potter tale | a frog
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 16
+GERMAN FOOD | Mimi Sheraton says German stuffed hard-boiled eggs are "always made with a great deal of" this creamy product | mayonnaise
+right: Paul
+Wrong: 
+Value: $2000
+Number: 26
+IOWA | The first non-native Americans to travel in Iowa, this French pair explored the region in 1673 | Jacques Marquette & Louis Joliet
+right: 
+Wrong: 
+Daniel: Uh, nothing.
+Value: DD: $4,000
+Number: 30
+"HAWK" EYES | This New Jersey town across from Manhattan is the western portal to the Lincoln Tunnel | Weehawken
+right: Paul
+Wrong: 
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Paul: $17,400
+Daniel: $3,600
+Sean: $1,600
+
+Final Jeopardy! Round
+POLITICAL PARTIES | Only 1 U.S. president represented this party, & he said, "I dread... a division of the republic into 2 great parties" | the Federalist Party
+right: Sean | Daniel
+Wrong: 
+Paul: What is the [no crossed out] no-nothing party?
+Wagers: 
+Sean: $1,547
+Daniel: $399
+Paul: $400
+Final scores:
+Paul: $17,000 (3-day champion: $50,401)
+Daniel: $3,999 (2nd place: $2,000)
+Sean: $3,147 (3rd place: $1,000)
+
+Coryat scores
+Paul: $18,800 (25 R,4 W(including 1 DD))
+Daniel: $10,200 (13 R,3 W(including 2 DDs))
+Sean: $1,600 (7 R,2 W)

@@ -1,0 +1,343 @@
+4546 - Monday, May 17, 2004
+Contestants:
+Bill Kinnaird: a home builder from Louisville, Kentucky
+Laura Paquet: a romance novelist and travel writer from Ottawa, Canada
+Al Davis: a software test engineer from Everett, Washington (whose 1-day cash winnings total $18,000)
+First Jeopardy! Round: TRAVEL EUROPE, SCHOOL OF ROCK MOVIES, NON SEQUITURS, J.R.R. TOLKIEN, LORD, OF THE "RING"s
+TRAVEL EUROPE | At Glastonbury Abbey in England, a sign marks the spot where he & Guinevere were once supposedly buried | King Arthur
+right: Al
+Wrong: 
+Value: $200
+Number: 4
+SCHOOL OF ROCK MOVIES | 1994's "Backbeat" was a film about this British group's early days | The Beatles
+right: Laura
+Wrong: 
+Value: $200
+Number: 23
+NON SEQUITURS | Jack Paar once hosted the "Tonight Show" & Jack Sprat could eat no this | fat
+right: Al
+Wrong: 
+Value: $200
+Number: 18
+J.R.R. TOLKIEN | It's the third volume in the "Lord of the Rings" trilogy | The Return of the King
+right: Al
+Wrong: 
+Value: $200
+Number: 1
+LORD | In the 1790s, Lord Macartney, the first British emissary to this large Asian land, got the brush-off from the emperor | China
+right: Al
+Wrong: 
+Value: $200
+Number: 8
+OF THE "RING"s | The master of ceremonies at a circus | the ringmaster
+right: Al
+Wrong: 
+Value: $200
+Number: 7
+TRAVEL EUROPE | In Madrid you can get a peek at Goya's majas, clothed & naked, at this famous museum | the Prado
+right: Al
+Wrong: 
+Value: $400
+Number: 15
+SCHOOL OF ROCK MOVIES | "This is" the 1984 movie spoof that chronicled the world's loudest rock group | Spinal Tap
+right: Bill
+Wrong: 
+Value: $400
+Number: 24
+NON SEQUITURS | The month of May has 31 days for you to enjoy all the spinach you can eat, rich in this mineral symbolized Fe | iron
+right: Bill
+Wrong: 
+Value: $400
+Number: 19
+J.R.R. TOLKIEN | Tolkien was born in Bloemfontein in 1892 in this country & lived there until he was 4 | South Africa
+right: Al
+Wrong: 
+Value: $400
+Number: 2
+LORD | When this man asked Lord Halifax to succeed him in 1940, Halifax said, No, I think you want that Churchill fellow | (Neville) Chamberlain
+right: Laura
+Wrong: 
+Value: $400
+Number: 13
+OF THE "RING"s | The chief troublemaker in a group | the ringleader
+right: Al
+Wrong: 
+Value: $400
+Number: 9
+TRAVEL EUROPE | Mumm's the word & Taittinger is too when visiting the cellars of this famous French province | Champagne
+right: Laura
+Wrong: 
+Value: $600
+Number: 27
+SCHOOL OF ROCK MOVIES | This 1986 film told of the deadly relationship between the Sex Pistols' bassist & his groupie girlfriend | Sid and Nancy
+right: Laura
+Wrong: 
+Value: $600
+Number: 25
+NON SEQUITURS | NBA player Kevin Garnett's bed is 98 inches long & this company's 2004 Acura TL is 72.2 inches wide | Honda
+right: Al
+Wrong: 
+Value: $600
+Number: 20
+J.R.R. TOLKIEN | He's the title hobbit in "The Hobbit" | Bilbo Baggins
+right: Bill
+Wrong: 
+Value: $600
+Number: 3
+LORD | The director of "Gandhi" became Lord this of Richmond upon Thames | Attenborough
+right: Bill
+Wrong: 
+Value: $600
+Number: 14
+OF THE "RING"s | "Volcanic" country classic heard <http://www.j-archive.com/media/2004-05-17_J_10.mp3> here | "Ring Of Fire"
+right: Al
+Wrong: 
+Value: $600
+Number: 10
+TRAVEL EUROPE | In Paris order up a Bloody Mary at this bar, a favorite of Hemingway's, where it was created | Harry's Bar
+right: Bill
+Wrong: 
+Value: $800
+Number: 28
+SCHOOL OF ROCK MOVIES | This group was captured on film for the documentary "The Song Remains the Same" | Led Zeppelin
+right: Al
+Wrong: 
+Bill: Who are The Who?
+Value: $800
+Number: 26
+NON SEQUITURS | The rivals of the Mixtecs were the Zapotecs & St. Patrick used this plant to explain the Trinity | the shamrock
+right: Bill
+Wrong: 
+Value: $800
+Number: 21
+J.R.R. TOLKIEN | It's the university where Tolkien studied & later taught languages & literature | Oxford
+right: Al
+Wrong: 
+Value: $800
+Number: 5
+LORD | During WWI future Lord Louis of Battenberg's family name was changed to this less Teutonic one | Mountbatten
+right: Al
+Wrong: 
+Value: DD: $1,200
+Number: 16
+OF THE "RING"s | A fungal skin disease | ringworm
+right: Al
+Wrong: 
+Value: $800
+Number: 11
+TRAVEL EUROPE | For a great view of this capital city, climb to the top of Lykavittos Hill, or take the funicular from Kolonaki | Athens
+right: Bill
+Wrong: 
+Value: $1000
+Number: 29
+SCHOOL OF ROCK MOVIES | (<http://www.j-archive.com/media/2004-05-17_J_30.jpg> Hi.  I'm Vivica Fox.)  I played one of Frankie Lymon's wives in this movie bio, also the title of Frankie's biggest hit | Why Do Fools Fall in Love
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+NON SEQUITURS | Alexander the Great, born in 356 B.C., was one Macedonian who never read this author's "Glinda of Oz" | L. Frank Baum
+right: Al
+Wrong: 
+Value: $1000
+Number: 22
+J.R.R. TOLKIEN | This prequel to "The Lord of the Rings" was published posthumously in 1977 | The Silmarillion
+right: Al
+Wrong: 
+Value: $1000
+Number: 6
+LORD | Though his name is a direction, that's what he lacked in dealing with the colonies as prime minister in the 1770s | Lord North
+right: Al
+Wrong: 
+Value: $1000
+Number: 17
+OF THE "RING"s | It's another name for the game called quoits | ring toss
+right: Laura
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the first commercial break (after clue 15)
+Al: $6,400
+Laura: $1,400
+Bill: $1,200
+Scores at the end of the Jeopardy! Round:
+Al: $10,000
+Laura: $2,800
+Bill: $3,800
+Second Jeopardy! Round: EARLY AMERICA, SPORTS HOME CITIES, THE AMAZING COCKROACH, ARE YOU A FOOD"E"?, 20th CENTURY THINKERS, ANIMAL WORDPLAY
+EARLY AMERICA | Harvard College was founded at Newtowne, Massachusetts in 1636; 2 years later the town was renamed this | Cambridge
+right: Laura
+Wrong: 
+Value: $400
+Number: 7
+SPORTS HOME CITIES | The NFL's Colts | Indianapolis
+right: Bill
+Wrong: 
+Value: $400
+Number: 9
+THE AMAZING COCKROACH | Though they are called "white ants", these destructive insects are more closely related to the cockroach | termites
+right: Al
+Wrong: 
+Value: $400
+Number: 14
+ARE YOU A FOOD"E"? | "Anatomical" pasta named for a joint | elbow macaroni
+right: Al
+Wrong: 
+Value: $400
+Number: 30
+20th CENTURY THINKERS | Called the Russian Revolution's most brilliant thinker, he lost a power struggle with Stalin & was killed in Mexico | Trotsky
+right: Al
+Wrong: 
+Value: $400
+Number: 2
+ANIMAL WORDPLAY | In the titles of Bugs Bunny cartoons, it precedes "Trigger" & "Tonic" | "Hare"
+right: Al
+Wrong: 
+Value: $400
+Number: 1
+EARLY AMERICA | In the summer of 1586 this British circumnavigator attacked the Spanish fort at St. Augustine & razed it | (Sir Francis) Drake
+right: Al
+Wrong: 
+Value: $800
+Number: 8
+SPORTS HOME CITIES | The NHL's Flames | Calgary
+right: Bill
+Wrong: 
+Value: $800
+Number: 10
+THE AMAZING COCKROACH | Marilyn Monroach & Liberoachi are 2 of the fun attractions of the Cockroach Hall of Fame in Plano in this state | Texas
+right: Laura
+Wrong: 
+Value: $800
+Number: 24
+ARE YOU A FOOD"E"? | Escoffier says to leave them in their shells & soak them in a mixture of water, vinegar, salt & flour | escargot
+right: Laura
+Wrong: 
+Al: What are snails?
+Value: $800
+Number: 29
+20th CENTURY THINKERS | This New Yorker wondered, "Can we actually 'know' the universe?... It's hard enough finding your way around Chinatown" | Woody Allen
+right: Laura
+Wrong: 
+Value: $800
+Number: 3
+ANIMAL WORDPLAY | It's the beastly 6-word line in the "Sound of Music" song "Do Re Mi" | "Doe, a deer, a female deer"
+right: Al
+Wrong: 
+Value: $800
+Number: 15
+EARLY AMERICA | A British act of 1732 prevented the colonists from exporting these, made out of beaver or anything else | hats
+right: Laura
+Wrong: 
+Value: $1200
+Number: 19
+SPORTS HOME CITIES | The NBA's Grizzlies | Memphis
+right: Bill
+Wrong: 
+Laura: What is Vancouver?
+Value: $1200
+Number: 11
+THE AMAZING COCKROACH | Like chickens & some dinosaurs, cockroaches have this internal muscular organ where they grind their food | a gizzard
+right: Al
+Wrong: 
+Value: $1200
+Number: 25
+ARE YOU A FOOD"E"? | (<http://www.j-archive.com/media/2004-05-17_DJ_28.jpg> Hi, I'm Brian Mitchell of the University of Louisiana at Lafayette & the NFL.)  My specialty on the field is kick returns; in the kitchen, it's this, crawfish served over white rice | étoufée
+right: Bill
+Wrong: 
+Value: $1200
+Number: 28
+20th CENTURY THINKERS | The works of <http://www.j-archive.com/media/2004-05-17_DJ_04.jpg> this woman on the left include 1965's "Normality and Pathology in Childhood" | Anna Freud
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 4
+ANIMAL WORDPLAY | We say ole! to Deloitte Consulting for software called this; it strips inane jargon from documents | Bullfighter
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 16
+EARLY AMERICA | In December 1620 the Pilgrims established Plymouth Colony on the rocky shore of this bay | Cape Cod Bay
+right: 
+Wrong: Triple Stumper
+Al: What is Chesapeake?
+Bill: What is Massachusetts Bay?
+Value: $1600
+Number: 20
+SPORTS HOME CITIES | The NFL's Panthers | Charlotte
+right: Al
+Wrong: 
+Value: $1600
+Number: 12
+THE AMAZING COCKROACH | Around 1916 newspaper writer Don Marquis created this typing cockroach & friend of Mehitabel the Cat | Archy
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 26
+ARE YOU A FOOD"E"? | From the Spanish for "to bake in pastry", it's South America's equivalent of a calzone | an empanada
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 23
+20th CENTURY THINKERS | This 3-named economist was an architect of the International Monetary Fund & part of the Bloomsbury Group | Keynes
+right: Al
+Wrong: 
+Value: $1600
+Number: 5
+ANIMAL WORDPLAY | 8-letter adjective for an embarrassed ewe | sheepish
+right: Al
+Wrong: 
+Value: DD: $1,000
+Number: 17
+EARLY AMERICA | On September 5, 1774 Virginia's Peyton Randolph was unanimously elected the first president of this body | the Continental Congress
+right: 
+Wrong: 
+Laura: What is the Virginia legislature?
+Value: DD: $3,000
+Number: 21
+SPORTS HOME CITIES | The WNBA's Monarchs | Sacramento
+right: Bill
+Wrong: 
+Value: $2000
+Number: 13
+THE AMAZING COCKROACH | Hissing cockroaches from this African island have become popular pets in the U.S. | Madagascar
+right: Bill
+Wrong: 
+Value: $2000
+Number: 27
+ARE YOU A FOOD"E"? | It's a sweet, succulent peach & the woman it's named for must have been, too | an Elberta
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 22
+20th CENTURY THINKERS | This "in the machine" was Gilbert Ryle's term for the idea that the mind is apart from the body yet controls it | ghost in the machine
+right: Laura
+Wrong: 
+Value: $2000
+Number: 6
+ANIMAL WORDPLAY | (<http://www.j-archive.com/media/2004-05-17_DJ_18.jpg> Hello, my name is James Thrash.)  At my alma mater, Missouri Southern State, the teams are the Lions & our boosters are these, a bit like a football position | the Lionbackers
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Al: $16,200
+Laura: $4,600
+Bill: $9,800
+
+Final Jeopardy! Round
+THE 50 STATES | The USA's most-climbed mountain, Monadnock, is in this state associated with rock | New Hampshire
+right: Laura | Bill | Al
+Wrong: 
+Wagers: 
+Laura: $4,600
+Bill: $9,700
+Al: $3,400
+Final scores:
+Al: $19,600 (2-day champion: $37,600)
+Laura: $9,200 (3rd place: $1,000)
+Bill: $19,500 (2nd place: $2,000)
+
+Coryat scores
+Al: $16,400 (27 R(including 2 DDs),2 W)
+Laura: $7,600 (11 R,2 W(including 1 DD))
+Bill: $9,800 (13 R,2 W)

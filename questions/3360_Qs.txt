@@ -1,0 +1,346 @@
+5893 - Wednesday, April 7, 2010
+Contestants:
+Conor Collins: a student and volunteer from Portsmouth, Rhode Island
+Karla Ruksys: an administrative assistant from Mount Ephraim, New Jersey
+Brandon Hathaway: a mechanical engineer from Augusta, Georgia (whose 2-day cash winnings total $25,400)
+First Jeopardy! Round: 2-WORD SCIENCE RESPONSES, DO TELL THE HOTEL, RUPERT MURDOCH, OWNER OF A LOT OF STUFF, POLITICAL LINGO, MYTHTER & MYTHUS, BEASTLY EXPRESSIONS
+2-WORD SCIENCE RESPONSES | When an aircraft achieves this speed based on an Austrian's name, you'll hear a boom | Mach 1
+right: Karla
+Wrong: 
+Brandon: What is Mach speed?
+Conor: What is the sonic speed?
+Value: $200
+Number: 11
+DO TELL THE HOTEL | This 1956 Elvis Presley hit was inspired by someone's suicide note that said, "I walk a lonely street" | "Heartbreak Hotel"
+right: Karla
+Wrong: 
+Value: $200
+Number: 26
+RUPERT MURDOCH, OWNER OF A LOT OF STUFF | This Murdoch-owned news channel says it's "fair & balanced" | Fox
+right: Conor
+Wrong: 
+Value: $200
+Number: 6
+POLITICAL LINGO | 2-word term for a long-shot candidate for nomination, like James Polk in 1844 | a dark horse
+right: Brandon
+Wrong: 
+Value: $200
+Number: 1
+MYTHTER & MYTHUS | Paris & her | Helen
+right: Conor
+Wrong: 
+Value: $200
+Number: 16
+BEASTLY EXPRESSIONS | You don't have to be at the beach to be "happy as" one of these "at high tide" | a clam
+right: Conor
+Wrong: 
+Value: $200
+Number: 21
+2-WORD SCIENCE RESPONSES | -273 Celsius | absolute zero
+right: Conor
+Wrong: 
+Value: $400
+Number: 12
+DO TELL THE HOTEL | Twin boys residing in a swank Boston hotel made Mr. Moseby's life a challenge on this Disney Channel TV show | The Suite Life of Zack & Cody
+right: Conor
+Wrong: 
+Value: $400
+Number: 27
+RUPERT MURDOCH, OWNER OF A LOT OF STUFF | Rupe paid $5.6 bil. & said how now, Dow Jones, a deal that included this business paper founded in the 1880s | The Wall Street Journal
+right: Conor
+Wrong: 
+Value: $400
+Number: 7
+POLITICAL LINGO | Calling someone who favors talk over military action this bird dates from the Cuban Missile Crisis | a dove
+right: Brandon
+Wrong: 
+Value: $400
+Number: 2
+MYTHTER & MYTHUS | Him & Penelope | Odysseus
+right: Conor
+Wrong: 
+Value: $400
+Number: 17
+BEASTLY EXPRESSIONS | If you have the biggest or best part of something, you have this animal's "share" | the lion's share
+right: Conor
+Wrong: 
+Value: $400
+Number: 22
+2-WORD SCIENCE RESPONSES | Abbreviated MN, it's what a working compass needle is always pointing to in our hemisphere | magnetic north
+right: Brandon
+Wrong: 
+Value: $600
+Number: 13
+DO TELL THE HOTEL | It's the 1932 film in which Greta Garbo uttered the immortal line "I want to be alone" | Grand Hotel
+right: Karla
+Wrong: 
+Value: $600
+Number: 28
+RUPERT MURDOCH, OWNER OF A LOT OF STUFF | "Here comes" this Rupe-owned U.K. tabloid, known for its Page 3 girls & their contributions to the day's news | The Sun
+right: Brandon
+Wrong: 
+Value: $600
+Number: 8
+POLITICAL LINGO | In 1932 FDR said, "I pledge myself to" one of these "for the American people" | a New Deal
+right: Brandon
+Wrong: 
+Value: $600
+Number: 3
+MYTHTER & MYTHUS | Cupid & her | Psyche
+right: 
+Wrong: Triple Stumper
+Brandon: Who is Eurydice?
+Karla: Who is, um... ugh.
+Value: $600
+Number: 18
+BEASTLY EXPRESSIONS | A proverb says, "You can't make a silk purse out of" this | a sow's ear
+right: Karla
+Wrong: 
+Value: $600
+Number: 23
+2-WORD SCIENCE RESPONSES | This type of fossil fuel is primarily methane | natural gas
+right: Conor
+Wrong: 
+Value: $800
+Number: 14
+DO TELL THE HOTEL | This 1981 John Irving novel was made into a 1984 film starring Beau Bridges | The Hotel New Hampshire
+right: Karla
+Wrong: 
+Value: $800
+Number: 29
+RUPERT MURDOCH, OWNER OF A LOT OF STUFF | Murdoch's News Corp. is a partner in this channel known for its "Explorer" & "Dog Whisperer" shows | the National Geographic Channel
+right: Conor
+Wrong: 
+Value: $800
+Number: 9
+POLITICAL LINGO | An 1868 definition of this term: "men traveling with little luggage and less character" to profit from the situation | a carpetbagger
+right: Karla
+Wrong: 
+Value: $800
+Number: 4
+MYTHTER & MYTHUS | Pyramus & her | Thisbe
+right: Karla
+Wrong: 
+Value: $800
+Number: 19
+BEASTLY EXPRESSIONS | This term for the most sultry part of summer come from the Latin "dies caniculares" | the dog days
+right: Karla
+Wrong: 
+Value: DD: $1,000
+Number: 24
+2-WORD SCIENCE RESPONSES | (<http://www.j-archive.com/media/2010-04-07_J_15.jpg> Jimmy of the Clue Crew shows two glasses of water, one with ice.)  Condensation won't necessarily appear on a glass filled with water, but with ice added, a <http://www.j-archive.com/media/2010-04-07_J_15a.jpg> glass reaches this point, & the condensation forms | the dew point
+right: Karla
+Wrong: 
+Value: $1000
+Number: 15
+DO TELL THE HOTEL | Episodes of this British sitcom included "The Hotel Inspectors" & "Basil the Rat" | Fawlty Towers
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 30
+RUPERT MURDOCH, OWNER OF A LOT OF STUFF | We wonder if Rupe discontinued his Facebook account when he bought this social network site for $580 million in 2005 | MySpace
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 10
+POLITICAL LINGO | Spiro Agnew spoke of "nattering" these "of negativism" | "nabobs"
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 5
+MYTHTER & MYTHUS | Him & Galatea | Pygmalion
+right: Karla
+Wrong: 
+Value: $1000
+Number: 20
+BEASTLY EXPRESSIONS | Evoking images of jumping reptiles, it's one of little orphan Annie's favorite interjections | "Leapin' lizards"
+right: Brandon
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Brandon: $4,200
+Karla: $2,000
+Conor: $2,400
+Scores at the end of the Jeopardy! Round:
+Brandon: $5,600
+Karla: $6,400
+Conor: $4,000
+Second Jeopardy! Round: DRAWN-OUT DRAMAS, LETTERS IN TOMATOES, SPY VS. SPY, WHAT, ME WORRY?, THE USUAL GANG OF IDIOTS, MAD MAGAZINE
+DRAWN-OUT DRAMAS | In the 15th century this alliterative type of play dealing with Jesus' crucifixion could take 3 days to complete | a passion play
+right: Brandon
+Wrong: 
+Value: $400
+Number: 11
+LETTERS IN TOMATOES | The old section of Riga is surrounded by one of these trenches | a moat
+right: Conor
+Wrong: 
+Value: $400
+Number: 16
+SPY VS. SPY | This spy was executed at what's now 66th & 3rd in New York City | Nathan Hale
+right: Conor
+Wrong: 
+Value: $400
+Number: 3
+WHAT, ME WORRY? | Yes, I should've worn long pants to ski--but my purple legs aren't symptoms of this cold-induced tissue damage | frostbite
+right: Brandon
+Wrong: 
+Value: $400
+Number: 25
+THE USUAL GANG OF IDIOTS | urbandictionary.com informs us that an "idiot box" is actually one of these electronic devices | a television
+right: Brandon | Conor
+Wrong: 
+Value: $400
+Number: 26
+MAD MAGAZINE | He's "Mad"'s mascot, seen <http://www.j-archive.com/media/2010-04-07_DJ_01.jpg> here behind the magazine's longtime publisher Bill Gaines | Alfred E. Neuman
+right: Conor
+Wrong: 
+Value: $400
+Number: 1
+DRAWN-OUT DRAMAS | Britannica says, "among his most-celebrated long plays is 'Anna Christie"' | Eugene O'Neill
+right: Karla
+Wrong: 
+Value: $800
+Number: 12
+LETTERS IN TOMATOES | For the Olympics it's "Citius, altius , fortius" | the motto
+right: Conor
+Wrong: 
+Value: $800
+Number: 17
+SPY VS. SPY | Portrayed on film in 2007's "Breach", Robert Hanssen was a mole within this organization | the FBI
+right: Karla
+Wrong: 
+Conor: What is the CIA?
+Value: $800
+Number: 4
+WHAT, ME WORRY? | Yes, I'm doing this a lot, but it's just a mosquito bite; no way I have atopic dermatitis | scratching
+right: Karla
+Wrong: 
+Value: $800
+Number: 24
+THE USUAL GANG OF IDIOTS | This 1843 character says, "every idiot... with 'Merry Christmas on his lips should be boiled with his own pudding" | Ebenezer Scrooge
+right: Karla
+Wrong: 
+Value: $800
+Number: 30
+MAD MAGAZINE | Mad is under the corporate control of this comic book company that isn't based in Washington | DC
+right: Brandon
+Wrong: 
+Value: $800
+Number: 2
+DRAWN-OUT DRAMAS | With over 20,000 performances, the longest-running show in London's West End is this Agatha Christie play | The Mousetrap
+right: Karla
+Wrong: 
+Value: $1200
+Number: 13
+LETTERS IN TOMATOES | It's the bane of a chimneysweep | soot
+right: Brandon
+Wrong: 
+Value: $1200
+Number: 18
+SPY VS. SPY | "Ashenden" is an account of his years as a World War I spy by this author of "Of Human Bondage" | Somerset Maugham
+right: Karla
+Wrong: 
+Value: $1200
+Number: 5
+WHAT, ME WORRY? | Sure, my skull's been growing & my jaw's protruding a tad--I doubt I have acromegaly, a disorder of this gland | the pituitary
+right: Karla
+Wrong: 
+Value: $1200
+Number: 23
+THE USUAL GANG OF IDIOTS | "The Complete Idiot's Guide to" this year addresses Mayans' predictions & their long count calendar | 2012
+right: Brandon
+Wrong: 
+Value: $1200
+Number: 29
+MAD MAGAZINE | This composer sued Mad & lost over "Louella Schwartz Describes Her Malady", spoofing his "A Pretty Girl is Like a Melody" | Irving Berlin
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+DRAWN-OUT DRAMAS | Debuting in 1937, "The Lost Colony" by Pulitzer winner Paul Green has been playing in Manteo in this state for 73 years | North Carolina
+right: Karla
+Wrong: 
+Conor: What is Virginia?
+Value: $1600
+Number: 14
+LETTERS IN TOMATOES | Skal!, for example | a toast
+right: Conor
+Wrong: 
+Value: $1600
+Number: 19
+SPY VS. SPY | In exchange for Russian spy Rudolf Abel, this U.S. pilot was released by the Soviets in 1962 | (Francis Gary) Powers
+right: Karla
+Wrong: 
+Value: $1600
+Number: 6
+WHAT, ME WORRY? | So my ankles are sore & swollen--doesn't mean I have this painful arthritic buildup of uric acid in my joints | gout
+right: Conor
+Wrong: 
+Brandon: What is arthritis?
+Value: $1600
+Number: 22
+THE USUAL GANG OF IDIOTS | In "Love and Death" Berdykov is one of these & is seen attending a convention of them from all over Russia | village idiots
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+MAD MAGAZINE | Manipulate the <http://www.j-archive.com/media/2010-04-07_DJ_09.jpg> page so that <http://www.j-archive.com/media/2010-04-07_DJ_09a.jpg> "A" meets "B" & enjoy <http://www.j-archive.com/media/2010-04-07_DJ_09b.jpg> this Mad feature traditionally on the back cover | the fold-in
+right: Karla
+Wrong: 
+Value: $1600
+Number: 9
+DRAWN-OUT DRAMAS | This work is made of 2 lengthy plays: "Millennium Approaches" won a Pulitzer & Tony; "Perestroika" only won a Tony | Angels in America
+right: Karla
+Wrong: 
+Value: $2000
+Number: 15
+LETTERS IN TOMATOES | Struck mightily, in the Bible | smote
+right: 
+Wrong: 
+Conor: Well, Alex...
+Value: DD: $5,200
+Number: 20
+SPY VS. SPY | This playwright was slain under mysterious circumstances possibly related to spying for Elizabeth I | Christopher Marlowe
+right: Karla
+Wrong: 
+Value: DD: $4,000
+Number: 7
+WHAT, ME WORRY? | So the drain in my shower is always clogged, so what?  It doesn't mean I'm developing this, androgenetic alopecia | hair loss (or baldness)
+right: Karla
+Wrong: 
+Value: $2000
+Number: 21
+THE USUAL GANG OF IDIOTS | At the end of this man's "The Idiot", Prince Myshkin goes back to his doctor in Switzerland after failing at love | Dostoyevsky
+right: Conor
+Wrong: 
+Value: $2000
+Number: 27
+MAD MAGAZINE | In 1987 legendary cartoonist Don Martin left Mad & jumped to this rival magazine | Cracked
+right: Brandon
+Wrong: 
+Value: $2000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Brandon: $10,400
+Karla: $26,000
+Conor: $4,000
+
+Final Jeopardy! Round
+CELEBRITY NAMES | This Oscar winner who had his own WB sitcom took his last name as a tribute to an earlier comic & sitcom star | Jamie Foxx
+right: Conor | Karla
+Wrong: 
+Brandon: Who is Damon Wayn[s]
+Wagers: 
+Conor: $4,000
+Brandon: $0
+Karla: $4,000
+Final scores:
+Brandon: $10,400 (2nd place: $2,000)
+Karla: $30,000 (New champion: $30,000)
+Conor: $8,000 (3rd place: $1,000)
+
+Coryat scores
+Brandon: $10,400 (16 R,3 W)
+Karla: $23,800 (23 R(including 2 DDs),1 W)
+Conor: $9,200 (18 R,4 W(including 1 DD))

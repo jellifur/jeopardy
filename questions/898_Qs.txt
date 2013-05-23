@@ -1,0 +1,343 @@
+4976 - Monday, April 10, 2006
+Contestants:
+John Dickas: a congressional staffer originally from Portland, Oregon
+Van Tarpley: a seminary student from La Mesa, California
+William Lee: a software engineer from South San Francisco, California (whose 1-day cash winnings total $30,000)
+First Jeopardy! Round: HIDE & SIKH, KICK THE CANNES, RED ROVER, RED ROVER, DUCK, DUCK, GOOSE, LET'S PLAY "TAG", MARCO POLO
+HIDE & SIKH | Sikhism is a fusion of 2 other religions, Islamic Sufism & the Bhakti form of this religion | Hinduism
+right: Van
+Wrong: 
+Value: $200
+Number: 1
+KICK THE CANNES | Forest Whitaker & Clint Eastwood both won awards in 1988 for bringing this "flighty" jazzman to life | Charlie "Bird" Parker
+right: Van
+Wrong: 
+Value: $200
+Number: 3
+RED ROVER, RED ROVER | 1 rover explored Mars' Bonneville Crater, named for a lake that once filled much of this state's NW corner | Utah
+right: Van
+Wrong: 
+Value: $200
+Number: 4
+DUCK, DUCK, GOOSE | She's the fictional woman famous for her "Nursery Rhymes" | Mother Goose
+right: Van
+Wrong: 
+Value: $200
+Number: 22
+LET'S PLAY "TAG" | The personal identification badge worn by many convention-goers | a nametag
+right: William
+Wrong: 
+Van: What is an ID tag?
+Value: $200
+Number: 17
+MARCO POLO | Marco Polo was born in 1254 in this Italian city where his father Niccolo worked as a merchant | Venice
+right: John
+Wrong: 
+Value: $200
+Number: 8
+HIDE & SIKH | After cremation Sikh ashes are preferably scattered in one of the 7 sacred ones of these, like the Yamuna | a river
+right: John
+Wrong: 
+Value: $400
+Number: 2
+KICK THE CANNES | In 2004 he became the first to win the Palme d'Or for a documentary since Jacques Cousteau in 1956 | Michael Moore
+right: John
+Wrong: 
+Value: $400
+Number: 27
+RED ROVER, RED ROVER | This NASA "Lab" based in Pasadena designed the rovers used on Mars | JPL (Jet Propulsion Lab)
+right: Van
+Wrong: 
+Value: $400
+Number: 5
+DUCK, DUCK, GOOSE | Hey, Daddy-O, this "avian" coiffure was very popular in the 1950s | a ducktail
+right: Van
+Wrong: 
+Value: $400
+Number: 23
+LET'S PLAY "TAG" | The principal character in opposition to a novel's hero | an antagonist
+right: John
+Wrong: 
+Value: $400
+Number: 18
+MARCO POLO | Some argued that Polo never went to China; he did omit mentioning this landmark some measure at 4,000 miles long | the Great Wall of China
+right: John
+Wrong: 
+Value: $400
+Number: 9
+HIDE & SIKH | The Sikh Guru Nanak taught the singleness & unity of God, whom he represented by this mystic syllable | om
+right: John
+Wrong: 
+Value: $600
+Number: 7
+KICK THE CANNES | People were talking when Coppola won for this 1974 Gene Hackman movie where he listens to a murder plot | The Conversation
+right: Van
+Wrong: 
+Value: $600
+Number: 28
+RED ROVER, RED ROVER | To cushion their landing, the Mars rovers had a covering of these safety devices, also found in autos | air bags
+right: William
+Wrong: 
+Value: $600
+Number: 6
+DUCK, DUCK, GOOSE | This 2-word term refers to a politician who has recently lost an election & is soon to leave office | a lame duck
+right: Van
+Wrong: 
+Value: $600
+Number: 24
+LET'S PLAY "TAG" | A language of the Philippines & a people who speak it | Tagalog
+right: Van
+Wrong: 
+Value: $600
+Number: 19
+MARCO POLO | In "Description of the World", Polo notes the then-startling use of this as fuel; he called it "black stones" | coal
+right: Van
+Wrong: 
+Value: $600
+Number: 10
+HIDE & SIKH | The Sikh religion is centered in this northwest Indian state whose main cities include Ludhiana & Jalandhar | Punjab
+right: William
+Wrong: 
+Value: $800
+Number: 15
+KICK THE CANNES | Co-Palme d'Or winners in 1980 were "All That Jazz" by Bob Fosse & "Kagemusha" by this man | Kurosawa
+right: John
+Wrong: 
+Value: $800
+Number: 29
+RED ROVER, RED ROVER | Some of the rover mission's payload was supplied by the NBI, an institute named for this Danish physicist | Niels Bohr
+right: Van
+Wrong: 
+Value: DD: $600
+Number: 13
+DUCK, DUCK, GOOSE | Stechschritt in German, this style of army marching has been used since the time of Frederick the Great | goose-stepping
+right: John
+Wrong: 
+Value: $800
+Number: 25
+LET'S PLAY "TAG" | To become foul or stale through not flowing or moving | stagnate (stagnant accepted)
+right: Van
+Wrong: 
+Value: $800
+Number: 20
+MARCO POLO | On his deathbed Polo is famously said to have stated, "I did not tell" this much "of what I saw" | the half
+right: Van
+Wrong: 
+Value: $800
+Number: 11
+HIDE & SIKH | At this "colorful" shrine, Sikhs bathe in the Amrita Saras--the pool of immortality--for purification | the Golden Temple
+right: William
+Wrong: 
+Value: $1000
+Number: 16
+KICK THE CANNES | The first festival in 1946 screened "The Lost Weekend" directed by <http://www.j-archive.com/media/2006-04-10_J_30.jpg> this man | Billy Wilder
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+RED ROVER, RED ROVER | Each Mars rover is more than 17 times as heavy as this Pathfinder rover that landed on Mars in 1997 | Sojourner
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+DUCK, DUCK, GOOSE | The down of this large sea duck, Somateria mollissima, is used as warm filling in jackets, pillows & quilts | eider
+right: Van
+Wrong: 
+Value: $1000
+Number: 26
+LET'S PLAY "TAG" | It's the 2-dimentional figure seen <http://www.j-archive.com/media/2006-04-10_J_21.jpg> here | a heptagon
+right: Van | John
+Wrong: 
+Value: $1000
+Number: 21
+MARCO POLO | In the 1270s the Polo family hit this city to pick up oil from the Holy Sepulchre to bring to Asia | Jerusalem
+right: Van
+Wrong: 
+Value: $1000
+Number: 12
+Scores at the first commercial break (after clue 15)
+William: $1,400
+Van: $4,000
+John: $1,600
+Scores at the end of the Jeopardy! Round:
+William: $2,600
+Van: $9,000
+John: $5,000
+Second Jeopardy! Round: LET'S GO TO HARVARD, ENTERTAINERS, POSITION PAPERS, DEAF & BLIND, LITERARY TERMS, MILITARY RHYME TIME
+LET'S GO TO HARVARD | Picture that... Anthro 2050 is an introduction to the hieroglyphs of this American Indian people of Guatemala | the Mayans
+right: Van
+Wrong: 
+John: Who are the Aztecs?
+Value: $400
+Number: 1
+ENTERTAINERS | He wrote the 2005 memoir "Dean & Me (A Love Story)" | Jerry Lewis
+right: William
+Wrong: 
+Value: $400
+Number: 23
+POSITION PAPERS | The Supreme Court in Clinton v. Jones declared a "___ing president" is not immune from lawsuits | sitting
+right: John
+Wrong: 
+Value: $400
+Number: 2
+DEAF & BLIND | (<http://www.j-archive.com/media/2006-04-10_DJ_20.jpg> Jon of the Clue Crew delivers the clue from the Alabama Institue for Deaf & Blind.)  The Silent Warrior deaf football team uses a bass drum in place of this 4-letter word that signals the snap | hike
+right: John
+Wrong: 
+Value: $400
+Number: 20
+LITERARY TERMS | A Shavian isn't a clean-shaven man; it's a devotee of this bearded playwright | George Bernard Shaw
+right: William
+Wrong: 
+Value: $400
+Number: 15
+MILITARY RHYME TIME | A verdant one of "The few, the proud..." | a green Marine
+right: John
+Wrong: 
+Van: Who are the Marines?
+Value: $400
+Number: 3
+LET'S GO TO HARVARD | English 115b takes us to the 1390s in a study of this "most famous work of English literature before Shakespeare" | The Canterbury Tales
+right: William
+Wrong: 
+Value: $800
+Number: 8
+ENTERTAINERS | In 2005 <http://www.j-archive.com/media/2006-04-10_DJ_24.jpg> this actress was very supportive in her roles in "Capote" & "The 40-Year-Old Virgin" | Catherine Keener
+right: William
+Wrong: 
+Value: $800
+Number: 24
+POSITION PAPERS | "Chopsocko U.S. bow for Sony's fantasy" wrote Daily Variety of "___ing Tiger, Hidden Dragon" | Crouching
+right: John
+Wrong: 
+Value: $800
+Number: 11
+DEAF & BLIND | (<http://www.j-archive.com/media/2006-04-10_DJ_21.jpg> Cheryl of the Clue Crew delivers the clue from the Alabama Institute for Deaf & Blind.)  On the campus named for this remarkable woman, a statue is <http://www.j-archive.com/media/2006-04-10_DJ_21a.jpg> signing the word for blind while <http://www.j-archive.com/media/2006-04-10_DJ_21b.jpg> reading the word for deaf | Helen Keller
+right: William
+Wrong: 
+Value: $800
+Number: 21
+LITERARY TERMS | Type of poetry that's the literal translation of the French term "vers libre" | free verse
+right: Van
+Wrong: 
+Value: $800
+Number: 16
+MILITARY RHYME TIME | A larger firing lever on a gun | a bigger trigger
+right: John
+Wrong: 
+Value: $800
+Number: 4
+LET'S GO TO HARVARD | I look forward to Comparitive Lit 153, a course dedicated to this author, & to re-reading his "Humboldt's Gift" | Saul Bellow
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 9
+ENTERTAINERS | This "monetary" rapper says the guy who shot him 9 times was like a basketball player with fancy moves who can't finish | 50 Cent
+right: John
+Wrong: 
+Value: $1200
+Number: 25
+POSITION PAPERS | In "The Federalist" Alexander Hamilton said that "___ing armies" threaten domestic liberty | standing
+right: 
+Wrong: 
+John: What are massing armies?
+Value: DD: $5,000
+Number: 12
+DEAF & BLIND | (<http://www.j-archive.com/media/2006-04-10_DJ_26.jpg> Jon of the Clue Crew delivers the clue from the Alabama Institute for Deaf & Blind.)  Students at Alabama Institute for Deaf & Blind have talking computers & <http://www.j-archive.com/media/2006-04-10_DJ_26a.jpg> these note-taking writers named for a famous Frenchman | Braille writers
+right: Van
+Wrong: 
+Value: $1200
+Number: 26
+LITERARY TERMS | It's the 5-syllable adjective for a novel, such as "Clarissa", that's written in the form of letters | epistolary
+right: William
+Wrong: 
+Value: $1200
+Number: 17
+MILITARY RHYME TIME | A long defensive ditch near the Marne | a French trench
+right: 
+Wrong: Triple Stumper
+William: What is a...?
+Value: $1200
+Number: 5
+LET'S GO TO HARVARD | Phys. 287a, "Intro. to" this recent theory, delves into "perturbative formulation of... eleven-dimensional supergravity" | string theory
+right: John
+Wrong: 
+Value: $1600
+Number: 10
+ENTERTAINERS | In 1993 this E Street Band drummer became the bandleader on "Late Night with Conan O'Brien" | Max Weinberg
+right: William
+Wrong: 
+Value: $1600
+Number: 29
+POSITION PAPERS | The Gospel according to Mark has a leper ___ing as he beseeches Jesus to make him clean | kneeling
+right: Van
+Wrong: 
+Value: $1600
+Number: 13
+DEAF & BLIND | (<http://www.j-archive.com/media/2006-04-10_DJ_27.jpg> Jon of the Clue Crew delivers the clue from the Alabama Institute for Deaf & Blind.)  Blind students learn hands-on about animals with help from <http://www.j-archive.com/media/2006-04-10_DJ_27a.jpg> this science, which is Greek for "arrangement of skin" | taxidermy
+right: Van
+Wrong: 
+John: What is dermatuscophy?
+Value: $1600
+Number: 27
+LITERARY TERMS | Edmund Spenser coined the term prothalamion for a poem that celebrates the impending one of these events | a wedding
+right: William
+Wrong: 
+Value: DD: $5,800
+Number: 18
+MILITARY RHYME TIME | An over-excited hidden sharpshooter | a hyper sniper
+right: John
+Wrong: 
+Value: $1600
+Number: 6
+LET'S GO TO HARVARD | Government 90pk examines the philosophy of this man; I already have my copy of "Leviathan" | Thomas Hobbes
+right: William
+Wrong: 
+Value: $2000
+Number: 22
+ENTERTAINERS | Ernest was the real first name of this bandleader & mambo king who died in 2000 | Tito Puente
+right: John
+Wrong: 
+Value: $2000
+Number: 30
+POSITION PAPERS | In 1986 Amsterdam passed a law about abandoned premises to address the longtime issue of ___ing | squatting
+right: John
+Wrong: 
+Value: $2000
+Number: 14
+DEAF & BLIND | (<http://www.j-archive.com/media/2006-04-10_DJ_28.jpg> Cheryl of the Clue Crew delivers the clue from the Alabama Institute for Deaf & Blind.)  This <http://www.j-archive.com/media/2006-04-10_DJ_28a.jpg> youthful soul gospel group was formed at what's now Alabama Institute for Deaf & Blind in 1939 & original members still perform together in the 21st century | The Blind Boys of Alabama
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+LITERARY TERMS | Popular in Victorian England, the stories known as "penny" these were just as sensational as dime novels | dreadfuls
+right: Van
+Wrong: 
+Value: $2000
+Number: 19
+MILITARY RHYME TIME | A general-purpose vehicle on an almost vertical slope | a steep Jeep
+right: William
+Wrong: 
+Value: $2000
+Number: 7
+Scores at the end of the Double Jeopardy! Round:
+William: $17,200
+Van: $16,200
+John: $9,200
+
+Final Jeopardy! Round
+MEMORIALS | Opened in 2002 in Lower Manhattan, a memorial to this 1845-1849 tragedy used Kilkenny limestone | the Great Potato Famine in Ireland
+right: John | Van | William
+Wrong: 
+Wagers: 
+John: $9,200
+Van: $16,200
+William: $15,300
+Final scores:
+William: $32,500 (2-day champion: $62,500)
+Van: $32,400 (2nd place: $2,000)
+John: $18,400 (3rd place: $1,000)
+
+Coryat scores
+William: $13,000 (14 R(including 1 DD),1 W)
+Van: $16,400 (22 R(including 1 DD),2 W)
+John: $14,200 (19 R,3 W(including 1 DD))

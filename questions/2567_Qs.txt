@@ -1,0 +1,341 @@
+2579 - Thursday, November 16, 1995
+Comments: 1995 Tournament of Champions quarterfinal game 4.
+Contestants:
+John McKeon: a writer from Chevy Chase, Maryland
+Ryan Holznagel: a software writer from Forest Grove, Oregon
+David Siegel: a paralegal from Los Angeles, California
+First Jeopardy! Round: FAMOUS FRANKS, HIGHWAYS & BYWAYS, BASEBALL, DANCE, FAMILIAR PHRASES, GOLD RUSHES
+FAMOUS FRANKS | This "Wizard of Oz" author edited a trade magazine for store window decorators | L. Frank Baum
+right: Ryan
+Wrong: 
+Value: $100
+Number: 8
+HIGHWAYS & BYWAYS | The name of this famous street is French for "Avenue of the Elysian Fields" | Champs-Elysees
+right: Ryan
+Wrong: 
+Value: $100
+Number: 1
+BASEBALL | Pitcher Nolan Ryan set a major league record in 1973 by recording 383 of these | Strikeouts
+right: David
+Wrong: 
+Value: $100
+Number: 2
+DANCE | The Kathak is an exciting rhythmic dance from this country, while the Kathakali is a Hindu dance drama | India
+right: John
+Wrong: 
+Value: $100
+Number: 7
+FAMILIAR PHRASES | A person with a hidden flaw is said to have feet of this, from a dream image in Daniel 2:33 | Clay
+right: David
+Wrong: 
+Value: $100
+Number: 18
+GOLD RUSHES | During this country's gold rush Melbourne served as an outfitting center for prospectors | Australia
+right: Ryan
+Wrong: 
+Value: $100
+Number: 13
+FAMOUS FRANKS | Frank Fitzsimmons took control of this union when Jimmy Hoffa was imprisoned in 1967 | Teamsters
+right: Ryan
+Wrong: 
+Value: $200
+Number: 9
+HIGHWAYS & BYWAYS | The Passetto, a fortified corridor, connects Castel Sant'Angelo with this city | Vatican City
+right: John
+Wrong: 
+Value: $200
+Number: 27
+BASEBALL | In 1978 this Cincinnati Red set a modern-day National League record with a 44-game hitting streak | Pete Rose
+right: David
+Wrong: 
+Value: $200
+Number: 3
+DANCE | Act II of this 1948 fairy tale ballet choreographed by Frederick Ashton is set at a palace ball | Cinderella
+right: John
+Wrong: 
+David: What is Sleeping Beauty?
+Value: $200
+Number: 19
+FAMILIAR PHRASES | Many aquatic animals swim open-mouthed & appear to drink constantly, hence the phrase "to drink like" this | a fish
+right: Ryan
+Wrong: 
+Value: $200
+Number: 20
+GOLD RUSHES | Four years after gold was found at his mill on January 24, 1848, he was bankrupt | John Sutter
+right: David
+Wrong: 
+Value: $200
+Number: 17
+FAMOUS FRANKS | This musical satirist founded the Mothers of Invention in 1964 | Frank Zappa
+right: John
+Wrong: 
+Value: $300
+Number: 10
+HIGHWAYS & BYWAYS | You'll find this oldest public park in the United States between Beacon & Tremont Streets | Boston Common
+right: John
+Wrong: 
+Value: $300
+Number: 28
+BASEBALL | Only 3 players have hit 600 major league home runs: Hank Aaron, Babe Ruth & this Giants outfielder | Willie Mays
+right: David
+Wrong: 
+Value: $300
+Number: 4
+DANCE | Ballerina Alicia Markova was director of this U.S. opera company's ballet from 1963-1969 | Metropolitan Opera
+right: John
+Wrong: 
+Value: $300
+Number: 24
+FAMILIAR PHRASES | The depressing expression "down in" these is probably derived from a Middle Dutch word for haze | Dumps
+right: David
+Wrong: 
+Value: $300
+Number: 21
+GOLD RUSHES | In 1896 gold was discovered at Rabbit Creek in this area of the Yukon | Klondike
+right: David
+Wrong: 
+Value: $300
+Number: 14
+FAMOUS FRANKS | In Gemini 7 he & Jim Lovell set a 14-day endurance record | Frank Borman
+right: Ryan
+Wrong: 
+Value: $400
+Number: 11
+HIGHWAYS & BYWAYS | This city's Unter den Linden was laid out to connect the Royal Palace with the Tiergarten | Berlin
+right: David
+Wrong: 
+Value: $400
+Number: 29
+BASEBALL | In 1995 he broke Lou Gehrig's record for consecutive games played | Cal Ripken, Jr.
+right: John
+Wrong: 
+Value: $400
+Number: 5
+DANCE | The Joged is a modernized version of the Legong, the best-known dance of this Indonesian island | Bali
+right: David
+Wrong: 
+Value: $400
+Number: 25
+FAMILIAR PHRASES | Akin to "caught in the act", to be caught this way alludes to a murderer smeared with blood | Caught red-handed
+right: John
+Wrong: 
+Value: $400
+Number: 22
+GOLD RUSHES | The gold rush into the Transvaal was halted by this 1899-1902 war | Boer War
+right: Ryan
+Wrong: 
+Value: $400
+Number: 15
+FAMOUS FRANKS | This Idaho Democratic senator was active in investigating abuses by the CIA | Frank Church
+right: Ryan
+Wrong: 
+Value: $500
+Number: 12
+HIGHWAYS & BYWAYS | The Sacred Way zigzagged from the entrance of this oracle's ancient sanctuary to the Temple of Apollo | Delphi
+right: David
+Wrong: 
+Value: $500
+Number: 30
+BASEBALL | This man with the middle name Mountain was baseball's first & longest-serving commissioner | Kennesaw Mountain Landis
+right: David
+Wrong: 
+Value: $500
+Number: 6
+DANCE | He began with the Lester Horton Dance Theater before founding his own American Dance Theater in 1958 | Alvin Ailey
+right: David
+Wrong: 
+Value: DD: $1,000
+Number: 26
+FAMILIAR PHRASES | Frenchmen once assumed names in the military, hence this phrase, French for "name of war" | Nom de guerre
+right: John
+Wrong: 
+Value: $500
+Number: 23
+GOLD RUSHES | At the turn of the century, Cripple Creek in this state was the richest goldfield in America | Colorado
+right: David
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+David: $1,400
+Ryan: $1,800
+John: $800
+Scores at the end of the Jeopardy! Round:
+David: $4,600
+Ryan: $2,000
+John: $2,700
+Second Jeopardy! Round: ASSASSINATIONS, FLOWERS, THE CARIBBEAN, SCIENTISTS, ECONOMICS, WOMEN NOVELISTS
+ASSASSINATIONS | This leader of India was assassinated in 1991, 6 1/2 years after his mother | Rajiv Gandhi
+right: Ryan
+Wrong: 
+Value: $200
+Number: 1
+FLOWERS | This Christmas flower can grow as tall as 10 feet with leaves 6 inches long | Poinsettia
+right: Ryan
+Wrong: 
+Value: $200
+Number: 21
+THE CARIBBEAN | It's the official language of Jamaica | English
+right: Ryan
+Wrong: 
+Value: $200
+Number: 11
+SCIENTISTS | It's believed this "Rubaiyat" author helped reform the Muslim calendar | Omar Khayyam
+right: David
+Wrong: 
+Value: $200
+Number: 13
+ECONOMICS | It's the unit of currency of the most populous country in North America | Dollar
+right: John
+Wrong: 
+Value: $200
+Number: 26
+WOMEN NOVELISTS | This author of "The Fountainhead" graduated from the University of Petrograd in 1924 | Ayn Rand
+right: John
+Wrong: 
+Value: $200
+Number: 6
+ASSASSINATIONS | This Egyptian president was fatally shot while attending a military parade in 1981 | Anwar Sadat
+right: Ryan
+Wrong: 
+Value: $400
+Number: 2
+FLOWERS | Its name is a corruption of the French pensee, "thought" | Pansy
+right: Ryan
+Wrong: 
+Value: $400
+Number: 22
+THE CARIBBEAN | U.S. citizens arriving at its Luis Munoz Marin International Airport don't have to clear customs | Puerto Rico
+right: John
+Wrong: 
+Value: $400
+Number: 12
+SCIENTISTS | Using a prism, this Englishman proved that white light is a combination of the colors of the spectrum | Sir Isaac Newton
+right: Ryan
+Wrong: 
+Value: $400
+Number: 14
+ECONOMICS | In 1990, about two-thirds of Americans over 65 relied on this for over half their income | Social Security
+right: Ryan
+Wrong: 
+Value: $400
+Number: 30
+WOMEN NOVELISTS | Elizabeth Spencer set her novel "The Light in the Piazza" in this country, where she lived in the 1950s | Italy
+right: David
+Wrong: 
+Value: $400
+Number: 7
+ASSASSINATIONS | In 1923 this Mexican bandit & several of his men were ambushed while driving | Pancho Villa
+right: John
+Wrong: 
+Value: $600
+Number: 3
+FLOWERS | This boutonniere flower, also known as a clove pink due to its fragrance, is No. 2 in commercial value in the United States | Carnation
+right: David
+Wrong: 
+Value: $600
+Number: 23
+THE CARIBBEAN | In this group, Tortola is connected to Beef Island by the Queen Elizabeth Bridge | British Virgin Islands
+right: David
+Wrong: 
+Value: $600
+Number: 18
+SCIENTISTS | In 1980, for her concerns over pollution, she was posthumously awarded a Presidential Medal of Freedom | Rachel Carson
+right: David
+Wrong: 
+Value: $600
+Number: 15
+ECONOMICS | 2-word economic phrase that describes the period of U.S. history from 1929-1939 | Great Depression
+right: Ryan
+Wrong: 
+Value: $600
+Number: 29
+WOMEN NOVELISTS | This "Gigi" novelist wrote "Cheri" in 1920 & "The Last of Cheri" in 1926 | Colette
+right: David
+Wrong: 
+Value: $600
+Number: 8
+ASSASSINATIONS | Tsarina Alexandra frequently prayed on the grave of this mystic murdered in 1916 | Rasputin
+right: Ryan
+Wrong: 
+Value: $800
+Number: 4
+FLOWERS | Bloom forms of this large hardy perennial include spoon, quill & pompon | Chrysanthemum
+right: David
+Wrong: 
+Value: DD: $800
+Number: 24
+THE CARIBBEAN | Palm Beach, one of the world's best, is on this "A" of the ABC Islands | Aruba
+right: 
+Wrong: Triple Stumper
+John: What is Antigua?
+Value: $800
+Number: 19
+SCIENTISTS | In 1948 the Kaiser Wilhelm Society was renamed for this originator of the quantum theory | Max Planck
+right: David
+Wrong: 
+Value: $800
+Number: 16
+ECONOMICS | The high-yield, high-risk bonds of the 1980s were known by this 4-letter word | Junk bonds
+right: Ryan
+Wrong: 
+Value: $800
+Number: 28
+WOMEN NOVELISTS | Dorlcote Mill, in her book "The Mill on the Floss", resembles Arbury Estate, where she played as a child | George Eliot
+right: David
+Wrong: 
+Value: $800
+Number: 9
+ASSASSINATIONS | This country's King Gustav III was shot at a masked ball in 1792 & died two weeks later | Sweden
+right: Ryan
+Wrong: 
+Value: $1000
+Number: 5
+FLOWERS | The oil from this evening flower is high in gamma-linolenic acid, an essential fatty acid | Evening primrose
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+THE CARIBBEAN | Over 500 offshore banks are located in Georgetown, the capital of this group | Cayman Islands
+right: David
+Wrong: 
+Value: DD: $1,000
+Number: 20
+SCIENTISTS | Though oxygen was discovered by Joseph Priestley, this 18th century French chemist gave it its name | Antoine Lavoisier
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 17
+ECONOMICS | The formula to determine this, the CPI, is basically the Laspeyres index formula | Consumer Price Index
+right: John
+Wrong: 
+Value: $1000
+Number: 27
+WOMEN NOVELISTS | Anne Tyler is often compared to this female novelist from Mississippi, her favorite writer | Eudora Welty
+right: David
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+David: $12,000
+Ryan: $7,400
+John: $4,300
+
+Final Jeopardy! Round
+STATE CAPITALS | This state capital was a compromise choice between North Platters & South Platters | Lincoln, Nebraska
+right: Ryan | David
+Wrong: 
+John: What is Boise?
+Wagers: 
+John: $4,300
+Ryan: $1,221
+David: $1,000
+Final scores:
+David: $13,000 (Automatic semifinalist)
+Ryan: $8,621 (2nd place: $1,000 if eliminated)
+John: $0 (3rd place: $1,000 if eliminated)
+
+Coryat scores
+David: $11,500 (24 R(including 3 DDs),1 W)
+Ryan: $7,400 (19 R,0 W)
+John: $4,300 (14 R,1 W)

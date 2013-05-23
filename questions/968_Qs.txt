@@ -1,0 +1,345 @@
+5003 - Wednesday, May 17, 2006
+Comments: 2006 Tournament of Champions semifinal game 3.
+Contestants:
+Maria Wenglinsky: a teacher from Brooklyn, New York
+Jason Richards: a pharmacy technician from Old Town, Maine
+Michael Falk: a meteorologist from Milwaukee, Wisconsin
+First Jeopardy! Round: 21st CENTURY HISTORY, HORSE RACING, ART & ARTISTS, AMERICANA, INSIDE THE BRAIN, TECHWORD MASH-UP
+21st CENTURY HISTORY | This 100-passenger plane's final commercial flight took place on Oct. 24, 2003 | the Concorde
+right: Maria
+Wrong: 
+Value: $200
+Number: 7
+HORSE RACING | This racetrack is home to the Kentucky Derby | Churchill Downs
+right: Michael
+Wrong: 
+Value: $200
+Number: 21
+ART & ARTISTS | In 1899 he painted "Tahitian Women with Mango Blossoms" | Gauguin
+right: Michael
+Wrong: 
+Value: $200
+Number: 3
+AMERICANA | In Oklahoma, the scissor-tailed flycatcher is the official state one of these | the state bird
+right: Maria
+Wrong: 
+Value: $200
+Number: 16
+INSIDE THE BRAIN | The CDC reports that there are about 300,000 of these mild brain injuries each year as a result of sports | concussions
+right: Maria
+Wrong: 
+Value: $200
+Number: 26
+TECHWORD MASH-UP | Mash-up "binary" & "digit" to make this single unit of information | a bit
+right: Michael
+Wrong: 
+Value: $200
+Number: 1
+21st CENTURY HISTORY | He retired in 2006, 6 years after the N.Y. Post killed rumors of his demise with the headline "Fed Head Is Not Dead" | Alan Greenspan
+right: Jason
+Wrong: 
+Value: $400
+Number: 8
+HORSE RACING | The bettor selects the first 3 finishers in the correct sequence in this type of bet also called a triple | a trifecta
+right: Maria
+Wrong: 
+Value: $400
+Number: 22
+ART & ARTISTS | A famous c. 1595 landscape by El Greco shows a "View of" this Spanish city | Toledo
+right: Jason
+Wrong: 
+Value: $400
+Number: 12
+AMERICANA | Since 1962 it's been a tradition to dye the Chicago River this color for a special day in March | green
+right: Maria
+Wrong: 
+Value: $400
+Number: 17
+INSIDE THE BRAIN | Of the average adult human, camel or killer whale, the one with the largest brain | killer whale
+right: Maria
+Wrong: 
+Michael: What is human?
+Value: $400
+Number: 27
+TECHWORD MASH-UP | Plug in an Apple product & download an audio file for "broadcast" to make this word | podcast
+right: Maria
+Wrong: 
+Value: $400
+Number: 2
+21st CENTURY HISTORY | The first Republican senator from North Carolina in the 20th century, he left the chamber in 2003 | Jesse Helms
+right: Jason
+Wrong: 
+Value: $600
+Number: 9
+HORSE RACING | The name of this champion of the 1930s is a synonym for Hard Tack, his sire's name | Seabiscuit
+right: Maria
+Wrong: 
+Value: $600
+Number: 23
+ART & ARTISTS | A restaurant on New York's Greenwich Avenue inspired this 1942 Edward Hopper painting | The Nighthawks
+right: Michael
+Wrong: 
+Value: $600
+Number: 13
+AMERICANA | Last name of the first family of feuding seen <http://www.j-archive.com/media/2006-05-17_J_18.jpg> here in the 1890s | Hatfield
+right: Michael
+Wrong: 
+Value: $600
+Number: 18
+INSIDE THE BRAIN | This outer layer of your brain takes its name from the Latin for "bark", as on a tree | cortex
+right: Michael
+Wrong: 
+Value: $600
+Number: 28
+TECHWORD MASH-UP | It was named because it's a resistor that can "amplify electrical signals... transferred through it" | transistor
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+21st CENTURY HISTORY | In July 2001 a court in Chile ruled that this former president was too ill to stand trial | Pinochet
+right: Jason
+Wrong: 
+Value: $800
+Number: 10
+HORSE RACING | In 1977 this horse "killed" the competition by winning 6 straight races, including the Triple Crown | Seattle Slew
+right: Jason
+Wrong: 
+Value: $800
+Number: 24
+ART & ARTISTS | Unveiled in 1967, his sculpture seen <http://www.j-archive.com/media/2006-05-17_J_14.jpg> here was a gift to the people of Chicago | Pablo Picasso
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+AMERICANA | The National Prisoner of War Museum is adjacent to the site of this notorious Civil War prison | Andersonville
+right: Jason
+Wrong: 
+Value: $800
+Number: 19
+INSIDE THE BRAIN | This disorder caused by excess signaling in the brain was called morbus herculeus, as it was thought Hercules had it | epilepsy
+right: Jason
+Wrong: 
+Value: $800
+Number: 29
+TECHWORD MASH-UP | The product "McAfee Anti-" this 7-letter mashed-up word keeps prying eyes out of your computer | spyware
+right: Michael
+Wrong: 
+Value: $800
+Number: 5
+21st CENTURY HISTORY | Way back in 2005, & 10 years after an assassination attempt, he was reelected president of Egypt | (Hosni) Mubarak
+right: Maria
+Wrong: 
+Value: $1000
+Number: 11
+HORSE RACING | In 1711 Queen Anne saw the potential for this racecourse; its royal enclosure still has a formal dress code | Ascot
+right: Jason
+Wrong: 
+Value: DD: $600
+Number: 25
+ART & ARTISTS | He called his abstract style in paintings like "Composition with Red, Yellow and Blue" Neoplasticism | (Piet) Mondrian
+right: Michael
+Wrong: 
+Value: $1000
+Number: 15
+AMERICANA | The bizcochito is this state's official cookie, so you can use it at Christmas as a "Santa Fee" | New Mexico
+right: Michael
+Wrong: 
+Value: $1000
+Number: 20
+INSIDE THE BRAIN | (<http://www.j-archive.com/media/2006-05-17_J_30.jpg> Cheryl of the Clue Crew reads the clue after hitting Jon on the knee with a small mallet.)  The knee jerk reflex involves just one of these connection sites between neurons; most, like the blink reflex, use more than one | synapses
+right: Michael
+Wrong: 
+Value: $1000
+Number: 30
+TECHWORD MASH-UP | ZQ47J9R is this type of password, from the 2 types of symbols it contains | alphanumeric
+right: Michael
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Michael: $3,800
+Jason: $2,200
+Maria: $1,600
+Scores at the end of the Jeopardy! Round:
+Michael: $6,800
+Jason: $5,200
+Maria: $3,800
+Second Jeopardy! Round: SIR WALTER SCOTT'S PERSONALITY PARADE, MEMORABLE MOVIES, DEAD GUYS WITH 3 NAMES, BY THE NUMBERS, THE EARLY EARTH, ENDS IN "TH"
+SIR WALTER SCOTT'S PERSONALITY PARADE | Sir Walter Scott "read again, & for the the third time at least," her "very finely written novel of  'Pride and Prejudice'" | Jane Austen
+right: Maria
+Wrong: 
+Value: $400
+Number: 6
+MEMORABLE MOVIES | In this film, Moe Green tells Michael Corleone to butt out of Las Vegas--big mistake | The Godfather
+right: Jason
+Wrong: 
+Maria: What is [*] II?
+Value: $400
+Number: 11
+DEAD GUYS WITH 3 NAMES | The first president of North Vietnam | Ho Chi Minh
+right: Jason
+Wrong: 
+Value: $400
+Number: 1
+BY THE NUMBERS | Lasting from the 1337 Gascony Invasion to  Castillon in 1453, it gets its name by rounding down | the Hundred Years' War
+right: Michael
+Wrong: 
+Value: $400
+Number: 16
+THE EARLY EARTH | <http://www.j-archive.com/media/2006-05-17_DJ_21.jpg> Stanley Miller showed possible origins of life by electrifying a gas-&-water mix to get these acids found in proteins | amino acids
+right: Maria
+Wrong: 
+Value: $400
+Number: 21
+ENDS IN "TH" | A moor, or the first name of actor Ledger | Heath
+right: Jason
+Wrong: 
+Value: $400
+Number: 26
+SIR WALTER SCOTT'S PERSONALITY PARADE | This poet said "Waverley" was a great novel; Scott said his "Childe Harold" was an extraordinarily powerful poem | Byron
+right: Michael
+Wrong: 
+Value: $800
+Number: 7
+MEMORABLE MOVIES | For this 1980 film Wally Schneiderman applied John Hurt's elaborate make-up | The Elephant Man
+right: Jason
+Wrong: 
+Value: $800
+Number: 12
+DEAD GUYS WITH 3 NAMES | He composed "Semper Fidelis" | John Philip Sousa
+right: Maria
+Wrong: 
+Value: $800
+Number: 2
+BY THE NUMBERS | Standard editions of Shakespeare contain these numbered 1-154 | sonnets
+right: Michael
+Wrong: 
+Value: $800
+Number: 17
+THE EARLY EARTH | 240 million years ago, the 2 main areas on the globe were Pangaea & Panthalassa, which was this | the sea (or the ocean)
+right: Jason
+Wrong: 
+Value: $800
+Number: 22
+ENDS IN "TH" | The name of this sweet or dry wine flavored with aromatic herbs comes from the High German for "wormwood" | vermouth
+right: Michael
+Wrong: 
+Value: $800
+Number: 27
+SIR WALTER SCOTT'S PERSONALITY PARADE | It was no "Modest Proposal" when Sir Walter Scott edited a 19-volume edition of this "Tale of a Tub" satirist | (Jonathan) Swift
+right: Michael
+Wrong: 
+Value: DD: $1,000
+Number: 8
+MEMORABLE MOVIES | Oscar-nominated Amy Adams was a pregnant charmer in this 2005 film | Junebug
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 13
+DEAD GUYS WITH 3 NAMES | The son of this "Old Ironsides" author was on the Supreme Court | Oliver Wendell Holmes
+right: Maria
+Wrong: 
+Value: $1200
+Number: 3
+BY THE NUMBERS | In a song from "The Music Man", the trombones & these total 186 | the cornets
+right: Michael
+Wrong: 
+Value: $1200
+Number: 18
+THE EARLY EARTH | In 1755 Kant proposed that the Earth formed from this "solar" gas & dust cloud; today's scientists tend to agree | a solar nebula
+right: 
+Wrong: Triple Stumper
+Maria: What is helium?
+Value: $1200
+Number: 23
+ENDS IN "TH" | This Minnesota city is the western terminus of the St. Lawrence Seaway | Duluth
+right: Maria
+Wrong: 
+Value: $1200
+Number: 28
+SIR WALTER SCOTT'S PERSONALITY PARADE | In 1799, Scott translated into English this German poet's "Goetz von Berlichingen" | Goethe
+right: Maria
+Wrong: 
+Value: $1600
+Number: 9
+MEMORABLE MOVIES | The title female is seen <http://www.j-archive.com/media/2006-05-17_DJ_14.wmv> here in this 1948 film  "Gamble?  She's done it for a living." "I'll bet you a dollar I've been to the place where you were born." "Chifu." "It's on the China coast.  Chifu!  It's the second wickedest city in the world!" "What's the first?" | The Lady from Shanghai
+right: 
+Wrong: Triple Stumper
+Maria: Who is Susie Wong?
+Value: $1600
+Number: 14
+DEAD GUYS WITH 3 NAMES | He lost to McKinley twice & Taft once, & for helping Wilson get elected was made Secretary of State | William Jennings Bryan
+right: Maria
+Wrong: 
+Value: DD: $2,000
+Number: 4
+BY THE NUMBERS | This costumer garnered 35 Oscar nominations | Edith Head
+right: Maria
+Wrong: 
+Value: $1600
+Number: 19
+THE EARLY EARTH | Lasting from about 2,011,000 to 11,000 B.C., this epoch featured glaciation cycles & a farewell to the mammoth | the Pleistocene
+right: Maria
+Wrong: 
+Value: $1600
+Number: 24
+ENDS IN "TH" | It's the verb in the title of a classic 20th century play about the murderous Hickey | Cometh
+right: Maria
+Wrong: 
+Value: $1600
+Number: 29
+SIR WALTER SCOTT'S PERSONALITY PARADE | Scott studied law at the University of Edinburgh under a nephew of this Scottish philosopher | (David) Hume
+right: Jason
+Wrong: 
+Value: $2000
+Number: 10
+MEMORABLE MOVIES | "What's the rumpus?" the gangsters ask in this Coen Brothers picture | Miller's Crossing
+right: 
+Wrong: Triple Stumper
+Maria: What is Fargo?
+Value: $2000
+Number: 15
+DEAD GUYS WITH 3 NAMES | This founder of The Liberator was president of the American Anti-Slavery Society from 1843 to 1865 | William Lloyd Garrison
+right: 
+Wrong: Triple Stumper
+Maria: Who is Henry Ward Beecher?
+Value: $2000
+Number: 5
+BY THE NUMBERS | Sub-zero temperature where the Fahrenheit & Celsius scales show the same reading for a set temperature | -40
+right: Michael
+Wrong: 
+Value: $2000
+Number: 20
+THE EARLY EARTH | This formation in the Rockies' Burgess Pass yielded weird  500 million-year-old fossils like <http://www.j-archive.com/media/2006-05-17_DJ_25.jpg> Hallucigenia | the Burgess Shale
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+ENDS IN "TH" | This fish was thought to be extinct millions of years ago until one was found off South Africa in 1938 | coelacanth
+right: Maria
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+Michael: $13,800
+Jason: $10,000
+Maria: $11,000
+
+Final Jeopardy! Round
+BRITISH MONARCHS | The last British monarch who was not the child of a monarch | Queen Victoria
+right: Maria | Michael
+Wrong: 
+Jason: Who is George I?
+Wagers: 
+Jason: $4,000
+Maria: $11,000
+Michael: $8,201
+Final scores:
+Michael: $22,001 (Finalist)
+Jason: $6,000 (3rd place: $10,000)
+Maria: $22,000 (2nd place: $10,000)
+
+Coryat scores
+Michael: $14,000 (18 R(including 1 DD),1 W)
+Jason: $10,400 (14 R(including 1 DD),0 W)
+Maria: $10,600 (20 R(including 1 DD),5 W)

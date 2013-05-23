@@ -1,0 +1,343 @@
+5877 - Tuesday, March 16, 2010
+Contestants:
+Amanda Baber: a project assistant originally from Edmond, Oklahoma
+Jayson Johnson: a systems analyst from Charlotte, North Carolina
+Rachel Pildis: a software developer from Oak Park, Illinois (whose 1-day cash winnings total $12,000)
+First Jeopardy! Round: AMERICAN PRESIDENT: THE SOAP OPERA, FILM TITLES IN FOREIGN LANDS, WHERE THE WILD THINGS WERE, THE SHARED LOUISIANA PARISH NAME, FOOTWEAR, BROKE-DOWN WORDS
+AMERICAN PRESIDENT: THE SOAP OPERA | <http://www.j-archive.com/media/2010-03-16_J_06.mp3> It was all coming apart.  The VP from Maryland had resigned.  Congress was coming after him.  Pray with me, Henry, he said | Nixon
+right: Amanda
+Wrong: 
+Value: $200
+Number: 6
+FILM TITLES IN FOREIGN LANDS | In Romania, this Nicole Kidman film was called "What New Magic Tricks My Wife Did" | Bewitched
+right: Amanda
+Wrong: 
+Rachel: What is Eyes Wide Shut?
+Value: $200
+Number: 16
+WHERE THE WILD THINGS WERE | In prehistoric times 10 foot tall "terror birds" ranged over much of this continent, including Patagonia | South America
+right: Jayson
+Wrong: 
+Value: $200
+Number: 1
+THE SHARED LOUISIANA PARISH NAME | Benjamin, Sir John, Aretha | Franklin
+right: Jayson
+Wrong: 
+Value: $200
+Number: 21
+FOOTWEAR | An infant's knitted or crocheted sock worn as an indoor shoe | bootie
+right: Jayson
+Wrong: 
+Value: $200
+Number: 11
+BROKE-DOWN WORDS | My 1-2-3 letter is the stone of a fruit & my 4-5-6-7 is a season | pitfall
+right: Amanda
+Wrong: 
+Value: $200
+Number: 26
+AMERICAN PRESIDENT: THE SOAP OPERA | <http://www.j-archive.com/media/2010-03-16_J_07.mp3> Things were good.  Economy, strong.  His country, at peace.  But now Ken Starr was asking Reno for more power... | (Bill) Clinton
+right: Jayson
+Wrong: 
+Value: $400
+Number: 7
+FILM TITLES IN FOREIGN LANDS | Michael J. Fox voiced this "Smart Little Mouse" in China & " "Naughty Mouse" in Egypt | Stuart Little
+right: Jayson
+Wrong: 
+Value: $400
+Number: 17
+WHERE THE WILD THINGS WERE | The shamainu or Honshu type of this canine, died out early in the 20th century | wolf
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+THE SHARED LOUISIANA PARISH NAME | Marbury v., Oscar, Square Garden | Madison
+right: Jayson
+Wrong: 
+Value: $400
+Number: 22
+FOOTWEAR | Also called zoris, they're backless rubber sandals with a thong between the first 2 toes | a flip-flop
+right: Rachel
+Wrong: 
+Value: $400
+Number: 12
+BROKE-DOWN WORDS | My 1-2-3 is a basenji or borzoi and my 4-5-6-7-8-9-10 was Mike Piazza's position | dogcatcher
+right: Jayson
+Wrong: 
+Value: $400
+Number: 27
+AMERICAN PRESIDENT: THE SOAP OPERA | <http://www.j-archive.com/media/2010-03-16_J_08.mp3> 7 of the 15 slave states had seceded, but he simply let them go.  & would he ever find the right gal to marry? (Nope) | Buchanan
+right: Jayson
+Wrong: 
+Value: $600
+Number: 8
+FILM TITLES IN FOREIGN LANDS | This Adam Sandler football film was "Crazy Match in Prison" in Hong Kong; in Sweden, "Bonesquashing Mob -- Crush 'Em" | The Longest Yard
+right: Jayson
+Wrong: 
+Value: $600
+Number: 18
+WHERE THE WILD THINGS WERE | Though specimens still exist in zoos, the Barbary lion, native to the north of this continent, is extinct in the wild | Africa
+right: Rachel
+Wrong: 
+Value: $600
+Number: 3
+THE SHARED LOUISIANA PARISH NAME | Jesse, Robert H., Stonewall | Jackson
+right: Amanda
+Wrong: 
+Value: $600
+Number: 23
+FOOTWEAR | Used in fishing and hunting, they're named for the activity of walking into water | waders
+right: Jayson
+Wrong: 
+Value: $600
+Number: 13
+BROKE-DOWN WORDS | My 1-2-3-4-5 was British host David & my 6-7-8-9 means "to wound with the teeth" | frostbite
+right: Amanda
+Wrong: 
+Value: $600
+Number: 28
+AMERICAN PRESIDENT: THE SOAP OPERA | <http://www.j-archive.com/media/2010-03-16_J_09.mp3> First Teapot Dome, &  now Daugherty, his A.G., was on trial for shady dealings; he kept feeling that the end was near | Warren Harding
+right: Rachel
+Wrong: 
+Value: $800
+Number: 9
+FILM TITLES IN FOREIGN LANDS | Switzerland messed with this Adam Sandler title, calling it "For Your Hair Only"; Spain had a "License to Comb" | You Don't Mess with the Zohan
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+WHERE THE WILD THINGS WERE | The Xerces Blue of this insect, native to sand dunes in San Francisco's Sunset District, became extinct in the 1940s | butterflies
+right: Rachel
+Wrong: 
+Value: $800
+Number: 4
+THE SHARED LOUISIANA PARISH NAME | Ethan, Paul, Woody | Allen
+right: Jayson
+Wrong: 
+Value: $800
+Number: 24
+FOOTWEAR | A wooden shoe traditionally worn in Holland | clog
+right: Amanda
+Wrong: 
+Value: $800
+Number: 14
+BROKE-DOWN WORDS | My 1-2-3-4 is what a bad golfer yells & my 5-6-7-8-9-10 follows him on a sunny day | foreshadow
+right: Amanda
+Wrong: 
+Value: $800
+Number: 29
+AMERICAN PRESIDENT: THE SOAP OPERA | <http://www.j-archive.com/media/2010-03-16_J_10.mp3> The President was dead.  He was top dog now.  & he had a Nobel Peace Prize to win, & a canal to build in Central America | Teddy Roosevelt
+right: Jayson
+Wrong: 
+Value: $1000
+Number: 10
+FILM TITLES IN FOREIGN LANDS | Folks in Greece know this Eddie Murphy film as "Daddies as Nannies" | Daddy Day Care
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+WHERE THE WILD THINGS WERE | The bulldog rat disappeared around 1900 from this Aussie-owned island named for a holiday | Christmas Island
+right: Amanda
+Wrong: 
+Value: $1000
+Number: 5
+THE SHARED LOUISIANA PARISH NAME | Ex-Senator Chafee, Senator Blanche, Tunnel | Lincoln
+right: Jayson
+Wrong: 
+Value: $1000
+Number: 25
+FOOTWEAR | Casual slip-on shoes with flaps on the front of the tongues sometimes used to hold a coin | a penny loafer
+right: Amanda
+Wrong: 
+Value: $1000
+Number: 15
+BROKE-DOWN WORDS | My 1-2-3 is active hostility between nations & my 4-5-6-7 is a gated chamber in a canal or dam | warlock
+right: Amanda
+Wrong: 
+Value: DD: $1,500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Rachel: $2,600
+Jayson: $3,000
+Amanda: $3,000
+Scores at the end of the Jeopardy! Round:
+Rachel: $2,400
+Jayson: $6,800
+Amanda: $6,900
+Second Jeopardy! Round: OUR GEOMETRIC WORLD, BARTENDING, PICTURE BOOK TITLE ANIMALS, PHILOSOPHIC IDEAS, WATCHING THE DETECTIVES, "MON"-OTONY
+OUR GEOMETRIC WORLD | Each point on this line is 1,624 miles from the North Pole | the Arctic Circle
+right: Rachel
+Wrong: 
+Jayson: What is the equator?
+Value: $400
+Number: 11
+BARTENDING | Use the kosher type of this, not iodized, to rim glasses | salt
+right: Jayson
+Wrong: 
+Value: $400
+Number: 16
+PICTURE BOOK TITLE ANIMALS | "The Very Hungry _____" | caterpillar
+right: Jayson
+Wrong: 
+Amanda: What is hippo?
+Value: $400
+Number: 1
+PHILOSOPHIC IDEAS | It's the direct apprehension of knowledge without the application of reason; a woman's is said to be pretty good | intuition
+right: Rachel
+Wrong: 
+Value: $400
+Number: 4
+WATCHING THE DETECTIVES | From 1974 to 1980 we watched this title guy drive his sweet Firebird to his even sweeter Malibu trailer (& catch bad guys) | Rockford
+right: Amanda
+Wrong: 
+Value: $400
+Number: 9
+"MON"-OTONY | Display device for a computer | a monitor
+right: Amanda
+Wrong: 
+Value: $400
+Number: 22
+OUR GEOMETRIC WORLD | Mike Tyson & U2 have both done their thing at this arena in Memphis, Tennessee | Pyramid Arena
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+BARTENDING | To create a rainbow with different colored cordials, pour each one slowly over this utensil, rounded side up | spoon
+right: Rachel
+Wrong: 
+Value: $800
+Number: 17
+PICTURE BOOK TITLE ANIMALS | "If You Give a ____ a Cookie" | Mouse
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+PHILOSOPHIC IDEAS | The belief that we cannot know whether or not God exists | agnosticism
+right: Rachel
+Wrong: 
+Value: $800
+Number: 5
+WATCHING THE DETECTIVES | From 1980 to 1988 we watched this title guy drive his sweet Ferrari to his even sweeter Hawaiian pad (& catch bad guys) | Magnum
+right: Rachel
+Wrong: 
+Value: $800
+Number: 10
+"MON"-OTONY | <http://www.j-archive.com/media/2010-03-16_DJ_23.wmv> (Jimmy, a member of the Clue Crew, holds a script and declaims)  In the name of all the gods and the power of all that is in me, I declare it's another name for a soliloquy | a monologue
+right: Rachel
+Wrong: 
+Value: $800
+Number: 23
+OUR GEOMETRIC WORLD | The Jan. 1, 1996 surrender of drug lord Khun Sa was a blow to the Asian trafficking area named the Golden This | Triangle
+right: Rachel
+Wrong: 
+Value: $1200
+Number: 13
+BARTENDING | At a meal, a wine glass should only be filled halfway so the wine can be swirled to appreciate this 7-letter quality | bouquet
+right: Amanda
+Wrong: 
+Value: $1200
+Number: 18
+PICTURE BOOK TITLE ANIMALS | "Make Way for  _____" | ducklings
+right: Rachel
+Wrong: 
+Value: $1200
+Number: 3
+PHILOSOPHIC IDEAS | In ancient times, the 4 basic constituent elements of the physical world | wind, earth, fire and water
+right: Jayson
+Wrong: 
+Value: $1200
+Number: 6
+WATCHING THE DETECTIVES | From 1963 to 1967, America watched Detective Gerard chase his quarry on this series (& rooted against him the whole time) | The Fugitive
+right: Amanda
+Wrong: 
+Value: $1200
+Number: 19
+"MON"-OTONY | It's a sequence of overlapping film clips edited for effect | a montage
+right: Jayson
+Wrong: 
+Value: $1200
+Number: 24
+OUR GEOMETRIC WORLD | <http://www.j-archive.com/media/2010-03-16_DJ_14.wmv> (Kelley of the Clue Crew stands in front of a map) In a 1986 confrontation, Libyan leader Khaddafi said no U.S. ships would be allowed past the mouth of the Gulf of Sidra, drawing what he called this 3-word phrase | The Line of Death
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+BARTENDING | Unlike liqueurs, this type of spirit flavored with herbs & roots is unsweetened, as you can gather from the name | bitters
+right: 
+Wrong: 
+Rachel: What is an aperitif?
+Value: DD: $3,000
+Number: 27
+PICTURE BOOK TITLE ANIMALS | "Harry the Dirty _____" | dog
+right: 
+Wrong: Triple Stumper
+Jayson: What is Ape?
+Value: $1600
+Number: 29
+PHILOSOPHIC IDEAS | Look! It's this advanced, ideal being described in the works of Nietzsche | superman
+right: Jayson
+Wrong: 
+Value: DD: $3,000
+Number: 7
+WATCHING THE DETECTIVES | In 2009 we watched this tall guy replace Chris Noth on "Law & Order:  Criminal Intent" | Jeff Goldblum
+right: Amanda
+Wrong: 
+Value: $1600
+Number: 20
+"MON"-OTONY | It's another name for a nickname, Shorty. | moniker
+right: Jayson
+Wrong: 
+Value: $1600
+Number: 25
+OUR GEOMETRIC WORLD | "Goodbye Piccadilly, farewell" this, between the Haymarket & Charing Cross Road | Leicester Square
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 15
+BARTENDING | <http://www.j-archive.com/media/2010-03-16_DJ_28.jpg> This type of beer glass is named for a style of beer | pilsner
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 28
+PICTURE BOOK TITLE ANIMALS | "Is Your Momma a _____?" | llama
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+PHILOSOPHIC IDEAS | David Hume held this view, that sense & experience are the sole foundation of knowledge | empiricism
+right: Amanda
+Wrong: 
+Value: $2000
+Number: 8
+WATCHING THE DETECTIVES | Got HBO? You can watch Jason Schwartzman play a Brooklyn writer turned P.I. on this show | Bored to Death
+right: Amanda
+Wrong: 
+Value: $2000
+Number: 21
+"MON"-OTONY | The only members of this group of mammals are the echidnas & the platypus | the monotremes
+right: Rachel
+Wrong: 
+Value: $2000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Rachel: $11,800
+Jayson: $12,600
+Amanda: $15,300
+
+Final Jeopardy! Round
+FAMOUS AMERICANS | About him F. Scott Fitzgerald wrote, "In the spring of '27, something bright and alien flashed across the sky..." | Charles Lindbergh
+right: Rachel | Amanda
+Wrong: 
+Jayson: Who was Hemingway?
+Wagers: 
+Rachel: $4,200
+Jayson: $11,100
+Amanda: $9,900
+Final scores:
+Rachel: $16,000 (2nd place: $2,000)
+Jayson: $1,500 (3rd place: $1,000)
+Amanda: $25,200 (New champion: $25,200)
+
+Coryat scores
+Rachel: $14,800 (15 R,2 W(including 1 DD))
+Jayson: $11,200 (19 R(including 1 DD),2 W)
+Amanda: $14,800 (17 R(including 1 DD),1 W)

@@ -1,0 +1,350 @@
+4963 - Wednesday, March 22, 2006
+Contestants:
+Dave Binnig: a bartender from Portland, Oregon
+Mary LoSardo: a retired executive, now web site designer from Bayonne, New Jersey
+Patricia DiMaggio: a school registrar from Maynard, Massachusetts (whose 1-day cash winnings total $14,001)
+First Jeopardy! Round: THE EXODUS FILES, "F"OOD STUFF, COLORFUL RHYME TIME, THE MEDAL OF FREEDOM, CLASS OF '05, ARE YOU BEING SERBED?, BORN TO RUN
+THE EXODUS FILES | It's the mount where Moses talks with God in Exodus 19 | Sinai
+right: Dave
+Wrong: 
+Value: $200
+Number: 7
+"F"OOD STUFF | The Brigittine monks of Amity, Oregon make this yummy treat in flavors like chocolate cherry nut royale | fudge
+right: Patricia
+Wrong: 
+Value: $200
+Number: 1
+COLORFUL RHYME TIME | A lemony guy | a yellow fellow
+right: Dave
+Wrong: 
+Value: $200
+Number: 6
+THE MEDAL OF FREEDOM, CLASS OF '05 | He got the medal shortly before stepping down as Federal Reserve Chairman | (Alan) Greenspan
+right: Dave
+Wrong: 
+Value: $200
+Number: 21
+ARE YOU BEING SERBED? | In 1929 the Kingdom of the Serbs, Croats & Slovenes changed its name to this | Yugoslavia
+right: Patricia
+Wrong: 
+Value: $200
+Number: 26
+BORN TO RUN | At the 1936 Berlin games, he ran a 10.3 in the 100 meters, tying the Olympic record | Jesse Owens
+right: Patricia
+Wrong: 
+Value: $200
+Number: 16
+THE EXODUS FILES | Thou knowest this list of nay-nays shows up in Exodus 20 | the Ten Commandments
+right: Patricia
+Wrong: 
+Value: $400
+Number: 8
+"F"OOD STUFF | These flapjacks have a fabric in their name, but don't worry--it's not an ingredient | flannel cakes
+right: 
+Wrong: Triple Stumper
+Patricia: Uh, what i--uh, what is buckwheat?
+Mary: What is velvet?
+Value: $400
+Number: 2
+COLORFUL RHYME TIME | A coal-colored bag | a black sack
+right: Dave
+Wrong: 
+Value: $400
+Number: 12
+THE MEDAL OF FREEDOM, CLASS OF '05 | In 1994 Paul Rusesabagina sheltered hundreds of people in hotel rooms in this African country | Rwanda
+right: Dave
+Wrong: 
+Value: $400
+Number: 22
+ARE YOU BEING SERBED? | Ethnic Albanians make up about 90% of this Serbian province & have campaigned for its independence | Kosovo
+right: 
+Wrong: Triple Stumper
+Patricia: What is--what is Herzegovina?
+Value: $400
+Number: 27
+BORN TO RUN | Truly an "R.H." factor: on a contract request, this MLB steals leader said, "All I'm asking for is what I want" | Rickey Henderson
+right: Mary
+Wrong: 
+Value: $400
+Number: 17
+THE EXODUS FILES | This unusual food falls from heaven for 40 years starting in Exodus 16 | manna
+right: Patricia
+Wrong: 
+Value: $600
+Number: 9
+"F"OOD STUFF | It should spring to mind that the name of this spiral-shaped pasta means "little springs" | fusilli
+right: 
+Wrong: Triple Stumper
+Mary: What is fettuccine?
+Value: $600
+Number: 3
+COLORFUL RHYME TIME | A verdant frijole | a green bean
+right: Dave
+Wrong: 
+Value: $600
+Number: 13
+THE MEDAL OF FREEDOM, CLASS OF '05 | She got the medal a week after singing her soul out at Rosa Parks' funeral | Aretha Franklin
+right: 
+Wrong: 
+Dave: I have no idea.  Who is, uh, Diana Ross?
+Value: DD: $800
+Number: 23
+ARE YOU BEING SERBED? | It's the capital of Serbia | Belgrade
+right: Patricia
+Wrong: 
+Value: $600
+Number: 28
+BORN TO RUN | In 1975 this Ohio State back rushed for 1,450 yards but only 4 touchdowns on his way to winning his 2nd Heisman | Archie Griffin
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+THE EXODUS FILES | 33:2 promises to drive the Amorite, Hittite, Perizzite, Hivite, Jebusite, & this -ite from the promised land | the Canaanite
+right: Mary
+Wrong: 
+Value: $800
+Number: 10
+"F"OOD STUFF | This nut is named for a saint whose feast day falls when the nut ripens | filbert
+right: Mary
+Wrong: 
+Value: $800
+Number: 4
+COLORFUL RHYME TIME | A crimson government agent | a red fed
+right: Dave
+Wrong: 
+Value: $800
+Number: 14
+THE MEDAL OF FREEDOM, CLASS OF '05 | He began his radio career in 1933 at KVOO-AM in Tulsa & we all know <http://www.j-archive.com/media/2006-03-22_J_24.mp3> "The Rest of the Story" | Paul Harvey
+right: 
+Wrong: Triple Stumper
+Mary: Who is Ronald Reagan?
+Value: $800
+Number: 24
+ARE YOU BEING SERBED? | In 1830 Serbia gained full autonomy from this empire | the Ottoman Empire
+right: Patricia
+Wrong: 
+Value: $800
+Number: 29
+BORN TO RUN | He's the horse seen <http://www.j-archive.com/media/2006-03-22_J_19.jpg> here in 1973 en route to a 31-length victory at Belmont | Secretariat
+right: Mary
+Wrong: 
+Value: $800
+Number: 19
+THE EXODUS FILES | Using gold jewelry from the Israelites, he fashions the Golden Calf | Aaron
+right: Dave
+Wrong: 
+Value: $1000
+Number: 11
+"F"OOD STUFF | You may call it Florentine fennel; Geppetto would know it by this Italian name | Finocchio
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+COLORFUL RHYME TIME | A cobalt wildebeest | a blue gnu
+right: Dave
+Wrong: 
+Value: $1000
+Number: 15
+THE MEDAL OF FREEDOM, CLASS OF '05 | <http://www.j-archive.com/media/2006-03-22_J_25.jpg> He got the medal shortly after stepping down as Chairman of the Joint Chiefs of Staff | General Richard Myers
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+ARE YOU BEING SERBED? | The Sava River is a tributary of this river that flows through Serbia | the Danube
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+BORN TO RUN | This Supreme Court justice twice led the NFL in rushing | (Byron "Whizzer") White
+right: Mary
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Patricia: $800
+Mary: $600
+Dave: $4,200
+Scores at the end of the Jeopardy! Round:
+Patricia: $2,200
+Mary: $2,000
+Dave: $4,000
+Second Jeopardy! Round: THE FOREST, LADY LOOKS LIKE A DUDE, ALSO A CAR, A LITERARY TOUR, "J" WALKING, BORN TO RUN?
+THE FOREST | It's the alliterative & often damaging practice of removing all the trees from an area, as seen <http://www.j-archive.com/media/2006-03-22_DJ_08.jpg> here | clear cutting
+right: Dave
+Wrong: 
+Patricia: What is deforestation?
+Value: $400
+Number: 8
+LADY LOOKS LIKE A DUDE | Wherefore art thou Romeo?  In "Shakespeare in Love", Romeo art this actress | Gwyneth Paltrow
+right: Patricia
+Wrong: 
+Value: $400
+Number: 12
+ALSO A CAR | There are solar & lunar types of this astronomical phenomenon | an Eclipse
+right: Dave
+Wrong: 
+Value: $400
+Number: 26
+A LITERARY TOUR | His London home & museum boasts the original "Golden Arm" sign mentioned in chapter 6 of "A Tale of Two Cities" | Dickens
+right: Dave
+Wrong: 
+Value: $400
+Number: 1
+"J" WALKING | From Old French for "game divided", its historical meanings include problem, trick, stratagem &, of course, danger | jeopardy
+right: Mary
+Wrong: 
+Value: $400
+Number: 6
+BORN TO RUN? | This Illinois man's 2 presidential runs in the 1950s garnered a total of 162 electoral votes | (Adlai) Stevenson
+right: Patricia
+Wrong: 
+Value: $400
+Number: 17
+THE FOREST | (<http://www.j-archive.com/media/2006-03-22_DJ_09.jpg> Jon of the Clue Crew reports from the World Forestry Center in Oregon.)  As it decays, a nurse log can be a site where the seed of a new tree does this, meaning "begins to sprout or grow" | germinate
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+LADY LOOKS LIKE A DUDE | ...who looked like a lady, when she played Victoria Grant & Count Victor Grezhinski in 1982 | Julie Andrews
+right: Mary
+Wrong: 
+Value: $800
+Number: 13
+ALSO A CAR | Elude or evade | Dodge (Escape accepted)
+right: Patricia
+Wrong: 
+Value: $800
+Number: 28
+A LITERARY TOUR | The city of Paris owns Hauteville House, this "Les Miserables" author's home on the Island of Guernsey | (Victor) Hugo
+right: Dave
+Wrong: 
+Value: $800
+Number: 2
+"J" WALKING | This Roman god was unusual in that he had 2 faces & no Greek counterpart | Janus
+right: Dave
+Wrong: 
+Value: $800
+Number: 7
+BORN TO RUN? | In 1858 Abe Lincoln lost a U.S. Senate race to this man but would bounce back against him 2 years later | (Stephen) Douglas
+right: Dave
+Wrong: 
+Value: $800
+Number: 18
+THE FOREST | It's the <http://www.j-archive.com/media/2006-03-22_DJ_10.jpg> topmost layer of a forest formed by the crowns of trees | the canopy
+right: Dave
+Wrong: 
+Value: $1200
+Number: 10
+LADY LOOKS LIKE A DUDE | She won her first Oscar playing Brandon Teena in "Boys Don't Cry" | Hilary Swank
+right: Mary
+Wrong: 
+Patricia: Who is... I can see her face, but...
+Value: $1200
+Number: 14
+ALSO A CAR | A person who makes barrels | a Cooper
+right: Mary
+Wrong: 
+Value: $1200
+Number: 29
+A LITERARY TOUR | Tourist cometh to Tao House, the California home where he wrote "The Iceman Cometh" | Eugene O'Neill
+right: Mary
+Wrong: 
+Value: $1200
+Number: 3
+"J" WALKING | After the death of Ian Curtis, the members of this band formed New Order | Joy Division
+right: Dave
+Wrong: 
+Value: $1200
+Number: 20
+BORN TO RUN? | In 1976 he fell 117 delegate votes short of defeating President Ford for the Republican nomination | Ronald Reagan
+right: Mary
+Wrong: 
+Value: DD: $2,400
+Number: 23
+THE FOREST | (<http://www.j-archive.com/media/2006-03-22_DJ_11.jpg> Sarah of the Clue Crew reports from the World Forestry Center in Oregon.)  The taiga, or northern forest, is dominated by this kind of tree, named for the type of <http://www.j-archive.com/media/2006-03-22_DJ_11a.jpg> reproductive structure it bares | coniferous
+right: Mary
+Wrong: 
+Value: $1600
+Number: 11
+LADY LOOKS LIKE A DUDE | Tilda Swinton went on a gender-bender in 1992's "Orlando", based on this writer's 1928 novel | Virginia Woolf
+right: Mary
+Wrong: 
+Value: $1600
+Number: 15
+ALSO A CAR | Uranium or titanium, for example | an Element
+right: Mary
+Wrong: 
+Value: $1600
+Number: 27
+A LITERARY TOUR | You can follow in the footsteps of this novelist on Dublin walking tours led by his nephew, Ken Monaghan | James Joyce
+right: Mary
+Wrong: 
+Value: DD: $2,800
+Number: 4
+"J" WALKING | William S. Burroughs' first novel | Junky
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+BORN TO RUN? | This former Minnesota gov. ran unsuccessfully 9 times for the GOP presidential nomination | (Harold) Stassen
+right: Mary
+Wrong: 
+Dave: Uh, who is Ventura?
+Value: $1600
+Number: 24
+THE FOREST | (<http://www.j-archive.com/media/2006-03-22_DJ_19.jpg> Sarah of the Clue Crew reads from the World Forestry Center in Oregon.)  The Douglas fir is found in Oregon's forest, referred to as this mature 2-word term, often defined as being <http://www.j-archive.com/media/2006-03-22_DJ_19a.jpg> aged 150 to 200 years | old growth
+right: Dave
+Wrong: 
+Value: $2000
+Number: 19
+LADY LOOKS LIKE A DUDE | In the 2005 film "Transamerica", she's the he-almost-turned-she seen <http://www.j-archive.com/media/2006-03-22_DJ_16.jpg> here | Felicity Huffman
+right: Patricia
+Wrong: 
+Value: $2000
+Number: 16
+ALSO A CAR | In Arthurian legend, this island represented an earthly paradise | Avalon
+right: Dave
+Wrong: 
+Value: $2000
+Number: 30
+A LITERARY TOUR | Marbacka, the estate of Nobel Prize-winner Selma Lagerlof, is a tourist attraction in this country | Sweden
+right: Mary
+Wrong: 
+Value: $2000
+Number: 5
+"J" WALKING | "EX-GI BECOMES BLONDE BOMBSHELL", read the headlines in 1952 when she returned from Europe | Christine Jorgensen
+right: Mary
+Wrong: 
+Value: $2000
+Number: 22
+BORN TO RUN? | 1 electoral vote shy of being president, he left $2.4 million of his estate to help found the N.Y. Public Library | Samuel Tilden
+right: 
+Wrong: Triple Stumper
+Dave: Who is Rockefeller?
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Patricia: $4,200
+Mary: $22,400
+Dave: $10,400
+
+Final Jeopardy! Round
+U.S. STATES | A popular nickname of this state comes from a plant, Poa pratensis, that covers the state | Kentucky
+right: 
+Wrong: 
+Patricia: What is Missouri?
+Dave: What is
+Mary: What is Oklahoma?
+Wagers: 
+Patricia: $2,800
+Dave: $1,999
+Mary: $1,600
+Final scores:
+Patricia: $1,400 (3rd place: $1,000)
+Mary: $20,800 (New champion: $20,800)
+Dave: $8,401 (2nd place: $2,000)
+
+Coryat scores
+Patricia: $4,200 (11 R,4 W)
+Mary: $20,000 (18 R(including 2 DDs),3 W)
+Dave: $11,200 (19 R,3 W(including 1 DD))

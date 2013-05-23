@@ -1,0 +1,348 @@
+6304 - Thursday, February 2, 2012
+Comments: 2012 College Championship quarterfinal game 2.
+Contestants:
+Connie Shi: a junior at the University of Michigan from Okemos, Michigan
+Anne Rozek: a junior at Eastern Illinois University from Perry, Illinois
+Jaime Alayon: a sophomore at the George Washington University from Miami, Florida
+First Jeopardy! Round: YOU'RE HISTORICAL!, NEW FADS, TALES OF THE WINDY CITY, 1 WORD, 2 MEANINGS, BELL CURVES, BAND NAME ADJECTIVES
+YOU'RE HISTORICAL! | After murdering his brother Bleda, he became the sole leader of the Huns | Attila
+right: Anne
+Wrong: 
+Value: $200
+Number: 6
+NEW FADS | Adding this "Freshmaker" candy to Diet Coke never gets old--wait, yes it does | Mentos
+right: Anne
+Wrong: 
+Value: $200
+Number: 14
+TALES OF THE WINDY CITY | Frank Norris' 1903 novel about the Chicago board of trade is just called this--no "& the Pendulum" | The Pit
+right: Connie
+Wrong: 
+Value: $200
+Number: 11
+1 WORD, 2 MEANINGS | To recline indolently, or a public sitting room in a hotel | lounge
+right: Jaime
+Wrong: 
+Anne: What is lobby?
+Value: $200
+Number: 20
+BELL CURVES | Categorized as idiophones, bells are found in this section of the orchestra | the percussion section
+right: Anne
+Wrong: 
+Value: $200
+Number: 19
+BAND NAME ADJECTIVES | They're from Maryland: ____ Charlotte | Good
+right: Jaime
+Wrong: 
+Value: $200
+Number: 1
+YOU'RE HISTORICAL! | Excommunicated 4 months earlier, in April 1521 he was asked to recant his views at the Diet of Worms | Martin Luther
+right: Connie
+Wrong: 
+Value: $400
+Number: 7
+NEW FADS | Vanna's caught up in the Internet fad seen <http://www.j-archive.com/media/2012-02-02_J_15.jpg> here that goes by this wooden name | planking
+right: Jaime
+Wrong: 
+Value: $400
+Number: 15
+TALES OF THE WINDY CITY | In 1898's "A Yankee from the West", Chicago's Opie Read used the phrase "There's" one of these "born every minute" | a sucker
+right: Jaime
+Wrong: 
+Value: $400
+Number: 12
+1 WORD, 2 MEANINGS | To toss a ball, or to promote a product | pitch
+right: Jaime
+Wrong: 
+Value: $400
+Number: 25
+BELL CURVES | This Disney pixie invented a "balloon carrier", a flying craft made from a cotton fluff, a gourd & a compass | Tinkerbell
+right: Connie
+Wrong: 
+Value: $400
+Number: 21
+BAND NAME ADJECTIVES | Better music through science?: My ____ Romance | Chemical
+right: Jaime
+Wrong: 
+Value: $400
+Number: 2
+YOU'RE HISTORICAL! | <http://www.j-archive.com/media/2012-02-02_J_08.jpg> This explorer & courtier for whom a state capital is named actually spelled his last name without an "I" | (Sir Walter) Raleigh
+right: Connie
+Wrong: 
+Value: DD: $1,000
+Number: 8
+NEW FADS | "Mocap" is short for this recent film trend | motion capture
+right: Jaime
+Wrong: 
+Value: $600
+Number: 16
+TALES OF THE WINDY CITY | Henry Fuller's 1893 novel "The Cliff-Dwellers" deals with "The Tribe" inhabiting a lofty Chicago one of these | a skyscraper
+right: 
+Wrong: Triple Stumper
+Anne: What is... a... bluff?
+Value: $600
+Number: 13
+1 WORD, 2 MEANINGS | A sovereign, or a straightedge | a ruler
+right: Anne
+Wrong: 
+Value: $600
+Number: 26
+BELL CURVES | Colorful, thick-fleshed members of the genus Capsicum are called bell these | peppers
+right: Connie
+Wrong: 
+Value: $600
+Number: 22
+BAND NAME ADJECTIVES | Seattle-based folk-rockin' dudes: ____ Foxes | Fleet
+right: Jaime
+Wrong: 
+Value: $600
+Number: 3
+YOU'RE HISTORICAL! | Gian Gastone's death in 1737 brought an end to this dynasty that long ruled over Florence & Tuscany | the Medici
+right: Anne
+Wrong: 
+Jaime: Who are the Lombards?
+Value: $800
+Number: 9
+NEW FADS | The "J" in the versatile trendy leggings called jeggings comes from this apparel | jeans
+right: Jaime
+Wrong: 
+Value: $800
+Number: 17
+TALES OF THE WINDY CITY | This Richard Wright work about a racially charged murder trial was the first best-selling novel by an African American | Native Son
+right: Jaime
+Wrong: 
+Anne: What is Black Boy?
+Value: $800
+Number: 30
+1 WORD, 2 MEANINGS | One book of a series, or sound intensity | volume
+right: Jaime
+Wrong: 
+Value: $800
+Number: 27
+BELL CURVES | Bell Laboratories began as an R&D arm of this company | AT&T
+right: Connie
+Wrong: 
+Value: $800
+Number: 23
+BAND NAME ADJECTIVES | Had a hit with "I Like It Like That": ____ Chelle Rae | Hot
+right: Jaime
+Wrong: 
+Value: $800
+Number: 4
+YOU'RE HISTORICAL! | For conspiring to assassinate Abraham Lincoln, <http://www.j-archive.com/media/2012-02-02_J_10.jpg> she was the first woman executed by the U.S. government | Mary Surratt
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+NEW FADS | (<http://www.j-archive.com/media/2012-02-02_J_18.wmv> Jimmy of the Clue Crew "works out".)  Dynamic inertia is part of this dumbbell-like workout technology | the Shake Weight
+right: Jaime
+Wrong: 
+Value: $1000
+Number: 18
+TALES OF THE WINDY CITY | A Hispanic girl grows up in cold Chicago in Sandra Cisneros' "The House on" this tropical-sounding street | Mango Street
+right: Jaime
+Wrong: 
+Value: $1000
+Number: 29
+1 WORD, 2 MEANINGS | A cord used to ignite an explosive, or to blend by melting together | fuse
+right: Jaime
+Wrong: 
+Value: $1000
+Number: 28
+BELL CURVES | Jean-Dominique Bauby's memoir "Le scaphandre et le Papillon" has this title in English | The Diving Bell and the Butterfly
+right: Connie
+Wrong: 
+Value: $1000
+Number: 24
+BAND NAME ADJECTIVES | Metal band that wants to share the welt: ____ ____ Death Punch | Five Finger
+right: Jaime
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Jaime: $3,000
+Anne: $600
+Connie: $1,600
+Scores at the end of the Jeopardy! Round:
+Jaime: $9,600
+Anne: $400
+Connie: $4,400
+Second Jeopardy! Round: ENTRANCE EXAM, FRESH, MAN, THE SOPHOMORE JINX, JUNIOR YEAR ABROAD, SENIORITIS, "POST" GRADUATE
+ENTRANCE EXAM | This entrance to a house is also a secret way of gaining access to a computer system | the back door
+right: Connie
+Wrong: 
+Value: $400
+Number: 11
+FRESH, MAN | The FDA says when buying fresh these, make sure the eyes are clear & bulgy & the flesh springs back when pressed | fish
+right: Jaime
+Wrong: 
+Value: $400
+Number: 26
+THE SOPHOMORE JINX | Some felt this TV show about Texas football briefly lost its way in the season 2 hiding-the-dead-body arc | Friday Night Lights
+right: Anne
+Wrong: 
+Value: $400
+Number: 5
+JUNIOR YEAR ABROAD | Australia's first university was the University of this city | Sydney
+right: Jaime
+Wrong: 
+Value: $400
+Number: 1
+SENIORITIS | The wind is blowing, so instead of class, "Let's Go" do this, also the title of a "Mary Poppins" song | fly a kite
+right: Anne
+Wrong: 
+Value: $400
+Number: 12
+"POST" GRADUATE | The playoffs in professional sports are also called this | the postseason
+right: Anne
+Wrong: 
+Value: $400
+Number: 17
+ENTRANCE EXAM | The Anne Boleyn <http://www.j-archive.com/media/2012-02-02_DJ_25.jpg> Gatehouse at Hampton court is in <http://www.j-archive.com/media/2012-02-02_DJ_25a.jpg> this historic architectural style | Tudor
+right: 
+Wrong: 
+Anne: What is Gothic?
+Value: DD: $2,000
+Number: 25
+FRESH, MAN | Biscuits made fresh from basic ingredients are "made from" this 7-letter word | scratch
+right: Connie
+Wrong: 
+Value: $800
+Number: 27
+THE SOPHOMORE JINX | In 2004 Bobby Crosby hit 22 HRs for this "Moneyball" team; 9 in 2005 didn't give much bang for the buck | the Oakland Athletics
+right: Jaime
+Wrong: 
+Value: $800
+Number: 7
+JUNIOR YEAR ABROAD | Rio de Janeiro is rocking for this 4-day festival that ends 40 days before Easter | Carnival
+right: Anne
+Wrong: 
+Value: $800
+Number: 2
+SENIORITIS | I got so caught up in reading this fourth book of the "Twilight" series that I missed my Byron seminar | Breaking Dawn
+right: Anne
+Wrong: 
+Value: $800
+Number: 13
+"POST" GRADUATE | Depression affecting mothers shortly after the birth of a child | postpartum
+right: Connie
+Wrong: 
+Value: $800
+Number: 18
+ENTRANCE EXAM | In 1921 C.G. Johnson invented a door that folds upward to use in this structure | a garage
+right: 
+Wrong: Triple Stumper
+Jaime: What is a submarine?
+Value: $1200
+Number: 24
+FRESH, MAN | The 18th c. book "Art of Cookery" says a fresh one of these will sink in water & a rotten one will float | eggs
+right: 
+Wrong: Triple Stumper
+Anne: What is a grape?
+Value: $1200
+Number: 28
+THE SOPHOMORE JINX | This novelist made less of an impact with "The Almost Moon" than with "The Lovely Bones" | Alice Sebold
+right: 
+Wrong: Triple Stumper
+Connie: Who is Angela Ash?
+Value: $1200
+Number: 8
+JUNIOR YEAR ABROAD | Rabat is one of the 4 imperial cities of this country | Morocco
+right: Jaime
+Wrong: 
+Value: $1200
+Number: 3
+SENIORITIS | I was driving up PCH to take a class at Pepperdine in this city, but the waves looked so inviting that I went to the beach instead | Malibu
+right: Connie
+Wrong: 
+Value: $1200
+Number: 14
+"POST" GRADUATE | Meaning "after death", it's another name for an autopsy | postmortem
+right: Connie
+Wrong: 
+Value: $1200
+Number: 19
+ENTRANCE EXAM | Lorenzo Ghiberti's <http://www.j-archive.com/media/2012-02-02_DJ_23.jpg> doors for Florence's baptistery were called <http://www.j-archive.com/media/2012-02-02_DJ_23a.jpg> "The Gates of" this by Michelangelo | Paradise (Heaven accepted)
+right: Anne
+Wrong: 
+Value: $1600
+Number: 23
+FRESH, MAN | Every Doubletree hotel bakes these fresh daily & gives one to each arriving guest | a (chocolate chip) cookie
+right: Connie
+Wrong: 
+Value: $1600
+Number: 29
+THE SOPHOMORE JINX | This "Juno" screenwriter might have some devilish words for reviewers who disliked "Jennifer's Body" | Diablo Cody
+right: Anne
+Wrong: 
+Value: $1600
+Number: 9
+JUNIOR YEAR ABROAD | The Potala Palace is just splendid in this capital of Tibet, & such cute dogs | Lhasa
+right: Connie
+Wrong: 
+Value: $1600
+Number: 4
+SENIORITIS | My paper's not due 'til next week, so I blew off class to play this free MMORPG set in the fantasy world of Gielinor | Runescape
+right: Jaime
+Wrong: 
+Value: $1600
+Number: 15
+"POST" GRADUATE | William Barry in 1829 was the first & Winton Blount in 1969 was the last to be this as a cabinet member | Postmaster General
+right: Connie
+Wrong: 
+Value: DD: $1,600
+Number: 20
+ENTRANCE EXAM | An ancient Roman gateway, the Janus Geminus was closed only in times of this--so twice in 600 years | peace
+right: Jaime
+Wrong: 
+Connie: What is war?
+Value: $2000
+Number: 22
+FRESH, MAN | Leave the pit in this south of the border dip to keep it fresh longer | guacamole
+right: Connie
+Wrong: 
+Value: $2000
+Number: 30
+THE SOPHOMORE JINX | "Mine Is Yours", the 3rd album from these "Kids", was hailed as a rebound from their 2nd, "Loyalty to Loyalty" | Cold War Kids
+right: Jaime
+Wrong: 
+Value: $2000
+Number: 10
+JUNIOR YEAR ABROAD | Johnny must buy all his jackets in the Silk Road city of Almaty, the largest city in this "Stan" | Kazakhstan
+right: Anne
+Wrong: 
+Value: $2000
+Number: 6
+SENIORITIS | Let's take a road trip to Freeport, Maine to see the flagship store of this outdoorsy retailer, on Main Street since 1912 | L.L. Bean
+right: Jaime
+Wrong: 
+Value: $2000
+Number: 16
+"POST" GRADUATE | Cezanne & Toulouse-Lautrec were part of this art movement | Postimpressionism
+right: Anne
+Wrong: 
+Value: $2000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Jaime: $18,800
+Anne: $7,200
+Connie: $12,400
+
+Final Jeopardy! Round
+19th CENTURY AUTHORS | One of this author's greatest successes came after remarking, "I want to write about a fellow who was two fellows" | Robert Louis Stevenson
+right: Anne | Connie
+Wrong: 
+Jaime: Who was Kafka?
+Wagers: 
+Anne: $4,300
+Connie: $6,600
+Jaime: $6,001
+Final scores:
+Jaime: $12,799 (2nd place: $5,000 if eliminated)
+Anne: $11,500 (3rd place: $5,000 if eliminated)
+Connie: $19,000 (Automatic semifinalist)
+
+Coryat scores
+Jaime: $18,800 (24 R,2 W)
+Anne: $9,200 (14 R,5 W(including 1 DD))
+Connie: $12,000 (16 R(including 2 DDs),2 W)

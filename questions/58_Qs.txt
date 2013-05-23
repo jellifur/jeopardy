@@ -1,0 +1,343 @@
+4653 - Wednesday, November 24, 2004
+Comments: Ken Jennings game 71.  Ken sets a new second-highest single-day cash winnings record of $55,099.
+Contestants:
+Dan Ford: an editor from Arlington, Virginia
+Lisa Buckhout: a research associate originally from Niagara Falls, New York
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 70-day cash winnings total $2,355,001)
+First Jeopardy! Round: ANTHROPOLOGY, HIT TV THEME SONGS, RHYMES WITH FOUR, THE NEW TESTAMENT, THE LIGHTER SIDE OF LIFE, TAKE ME HOME, ALEX
+ANTHROPOLOGY | The snake dance of the Hopi is a petition to the gods to bring this | rain
+right: Dan
+Wrong: 
+Value: $200
+Number: 26
+HIT TV THEME SONGS | The theme song for "The Beverly Hillbillies", "The Ballad of" this man, went to No. 44 in 1962 | Jed Clampett
+right: Ken
+Wrong: 
+Value: $200
+Number: 16
+RHYMES WITH FOUR | A wild hog | a boar
+right: Dan
+Wrong: 
+Value: $200
+Number: 6
+THE NEW TESTAMENT | Matthew was a publican, meaning he collected these | taxes
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+THE LIGHTER SIDE OF LIFE | "Lion on the Links" is the subtitle of a biography of him | Tiger Woods
+right: Dan
+Wrong: 
+Value: $200
+Number: 21
+TAKE ME HOME, ALEX | This PM had a swimming pool built at his home Chartwell, in Kent, where he spent the last 40 years of his life | Churchill
+right: Ken
+Wrong: 
+Value: $200
+Number: 11
+ANTHROPOLOGY | Johann Blumenback determined from his collection of these body parts that there were 5 races of humans | skulls
+right: Dan
+Wrong: 
+Value: $400
+Number: 27
+HIT TV THEME SONGS | Whatcha gonna do?  This "Cops" theme song by Inner Circle peaked at No. 8 in 1993 | "Bad Boys"
+right: Ken
+Wrong: 
+Value: $400
+Number: 17
+RHYMES WITH FOUR | Represented Tennessee in the Senate, 1985 to 1993 | Gore
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+THE NEW TESTAMENT | This author of Corinthans is very proud of the fact he's multilingual | Paul
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+THE LIGHTER SIDE OF LIFE | The same firm did the beading on Dorothy's ruby slippers for "The Wizard of Oz" & this man's famous sequined glove | Jacko (Michael Jackson)
+right: Ken
+Wrong: 
+Value: $400
+Number: 22
+TAKE ME HOME, ALEX | This 1920s matinee idol is said to haunt Falcon Lair, his Hollywood home | Valentino
+right: Lisa
+Wrong: 
+Value: $400
+Number: 12
+ANTHROPOLOGY | From the name of the ancient Greek city of Pergamum we get this word for an old material to write on | parchment
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+HIT TV THEME SONGS | Heard <http://www.j-archive.com/media/2004-11-24_J_18.mp3> here, the theme to this TV show hit the charts 3 different times | Peter Gunn
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+RHYMES WITH FOUR | 20 years | a score
+right: Ken
+Wrong: 
+Value: $600
+Number: 8
+THE NEW TESTAMENT | Acts reports that John & he were arrested under suspicion of promoting resurrection of the dead | Peter
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+THE LIGHTER SIDE OF LIFE | This Halloween favorite that has bands of white, orange & yellow dates back to the 1880s | candy corn
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+TAKE ME HOME, ALEX | Prefabricated & shipped by steamboat to Hannibal, Mo., Pilaster House is a childhood home of this author | Mark Twain
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+ANTHROPOLOGY | To a Yurok Indian of the Pacific NW, the scalps of these birds that eat insects in trees were a form of wealth | woodpeckers
+right: Ken
+Wrong: 
+Value: DD: $4,000
+Number: 29
+HIT TV THEME SONGS | Climbing to No. 25 in 1976, "Making Our Dreams Come True" was the hit them song for this TV show | Laverne & Shirley
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+RHYMES WITH FOUR | Return a painting or a piece of furniture to its original condition | restore
+right: Dan
+Wrong: 
+Value: $800
+Number: 9
+THE NEW TESTAMENT | Acts & this Gospel are credited to the same author | Luke
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+THE LIGHTER SIDE OF LIFE | The use of steel girders in construction inspired A.C. Gilbert to invent this classic toy | an erector set
+right: Ken
+Wrong: 
+Value: $800
+Number: 24
+TAKE ME HOME, ALEX | After the deaths of his Uncle George & Aunt Martha, Bushrod Washington moved into this home | Mount Vernon
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+ANTHROPOLOGY | "The Book of Knowledge" refers to these New Mexico Indian dwellings as large apartment houses | pueblos
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 30
+HIT TV THEME SONGS | Appropriately, his 1976 No. 1 hit "Welcome Back" was the theme song to "Welcome Back, Kotter" | John Sebastian
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+RHYMES WITH FOUR | Pakistan's second most populous city | Lahore
+right: Ken
+Wrong: 
+Value: $1000
+Number: 10
+THE NEW TESTAMENT | Object opened in Revelation 8, or a Bergman film that opened in 1957 | the Seventh Seal
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+THE LIGHTER SIDE OF LIFE | Sit-N-Snooze & Slack-Back were suggested names for what became this brand of reclining lounge chairs | La-Z-Boy
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 25
+TAKE ME HOME, ALEX | Once home to a prosperous NYC merchant who went bankrupt, it's now the mayor's official residence | Gracie Mansion
+right: Lisa
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Ken: $6,600
+Lisa: $1,400
+Dan: $1,000
+Scores at the end of the Jeopardy! Round:
+Ken: $15,000
+Lisa: $3,400
+Dan: $1,800
+Second Jeopardy! Round: PHILOSOPHY, FILMED IN HAWAII, U.S. "S"ITIES, ASTRONOMY, WHO WAS THE ENGLISH MONARCH WHEN..., NAMES FROM THE GERMAN
+PHILOSOPHY | Anti-civilization philosopher Jean-Jacques Rosseau advocated man's "Return to" this | Nature
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+FILMED IN HAWAII | Kauai filled in for South America in this first Indiana Jones film | Raiders of the Lost Ark
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+U.S. "S"ITIES | It's California's capital as well as the "Almond Capital of the World" | Sacramento
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+ASTRONOMY | This planet closest to the sun features a crater, the Caloris basin, which is about the size of Texas | Mercury
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+WHO WAS THE ENGLISH MONARCH WHEN... | ...the Tet Offensive was launched | Elizabeth II
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+NAMES FROM THE GERMAN | You'll know it's from the German for "rule" & "army" if you just do the Matthau | Walter
+right: Ken
+Wrong: 
+Value: $400
+Number: 30
+PHILOSOPHY | This ancient philosopher wrote about a theory of forms in his "Republic" | Plato
+right: Ken
+Wrong: 
+Value: $800
+Number: 2
+FILMED IN HAWAII | Part of this 1961 Elvis movie was filmed at the Hilton Hawaiian village, also the birthplace of the colorful cocktail | Blue Hawaii
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+U.S. "S"ITIES | They're Washington State's 2 largest "s"ities | Seattle & Spokane
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+ASTRONOMY | Triton, this planet's largest satellite, has a surface temperature of about -390 degrees F. | Neptune
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+WHO WAS THE ENGLISH MONARCH WHEN... | ...the Spanish Armada was destroyed | Elizabeth I
+right: 
+Wrong: Triple Stumper
+Ken: Ooh.  Who was Mary?
+Value: $800
+Number: 22
+NAMES FROM THE GERMAN | It's German for "strong ruler", like a lion-heart, we guess | Richard
+right: Ken
+Wrong: 
+Value: $800
+Number: 29
+PHILOSOPHY | Kierkegaard said that God telling Abraham to do this in Genesis 22 is an example of absurdity in religion | sacrifice his son (kill Isaac)
+right: Dan
+Wrong: 
+Value: $1200
+Number: 3
+FILMED IN HAWAII | We assume that Jessica Lange was impressed by the size of her co-star in this 1976 remake filmed partly in Hawaii | King Kong
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+U.S. "S"ITIES | You can score some points right now if you know that this city is "The Birthplace of Basketball" | Springfield (Mass.)
+right: Dan
+Wrong: 
+Value: $1200
+Number: 13
+ASTRONOMY | Jupiter's feature called this is really a windstorm raging at around 250 mph & large enough to cover 2 Earths | the Great Red Spot
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+WHO WAS THE ENGLISH MONARCH WHEN... | ...the U.S. ended its Civil War | Victoria
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+NAMES FROM THE GERMAN | In English it means "truthful"; in German it's "Frenchman" | Frank
+right: Ken
+Wrong: 
+Value: DD: $13,200
+Number: 26
+PHILOSOPHY | Ancient Greek philosopher from Samos whose school promoted pleasure & let women & slaves join, too | Epicurus
+right: Ken
+Wrong: 
+Dan: Who is Epicure?
+Value: $1600
+Number: 4
+FILMED IN HAWAII | Danny DeVito scampered off to Kauai to murder Billy Crystal's wife in this 1987 comedy caper | Throw Momma from the Train
+right: Ken
+Wrong: 
+Value: $1600
+Number: 9
+U.S. "S"ITIES | The first Olympics held in the U.S. were in this Midwest city in 1904 | St. Louis
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+ASTRONOMY | Meteors, also known as shooting stars, may be debris left by these icy bodies traveling around the sun | comets
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+WHO WAS THE ENGLISH MONARCH WHEN... | ...Napoleon lost at Waterloo | George III
+right: 
+Wrong: 
+Ken: Who is... George IV?
+Value: DD: $6,600
+Number: 24
+NAMES FROM THE GERMAN | This name we spell with a G or a J may be from the German Gaufrid, "land-peace" or Gisfrid, "pledge-peace" | Jeffrey
+right: Ken
+Wrong: 
+Value: $1600
+Number: 27
+PHILOSOPHY | This Scot wanted to change the course of philosophy with his 1739-1740 "A Treatise of Human Nature" | David Hume
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+FILMED IN HAWAII | In a John Ford movie filmed on Kauai, John Wayne played "Guns" Donovan, the owner of this title bar | Donovan's Reef
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+U.S. "S"ITIES | Until 1867 it was the capital of Russian America | Sitka
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+ASTRONOMY | Part of this astronomer's "belt" theory says small chunks of matter are the building blocks of planets | Gerard Kuiper
+right: 
+Wrong: Triple Stumper
+Lisa: Who is Van Allen?
+Value: $2000
+Number: 20
+WHO WAS THE ENGLISH MONARCH WHEN... | ...the Union Jack was first used | James I
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+NAMES FROM THE GERMAN | Halmric, "home-power", became this in English, a powerful name of a '70s Secretary of State | Henry
+right: Ken
+Wrong: 
+Value: $2000
+Number: 28
+Scores at the end of the Double Jeopardy! Round:
+Ken: $44,800
+Lisa: $1,400
+Dan: $2,600
+
+Final Jeopardy! Round
+20th CENTURY VICE PRESIDENTS | Aptly, his middle name contained the word "rich" | Nelson Aldrich Rockefeller
+right: Lisa | Ken
+Wrong: 
+Dan: Who
+Wagers: 
+Lisa: $0
+Dan: $700
+Ken: $10,299
+Final scores:
+Ken: $55,099 (71-day champion: $2,410,100)
+Lisa: $1,400 (3rd place: $1,000)
+Dan: $1,900 (2nd place: $2,000)
+
+Coryat scores
+Ken: $36,200 (43 R(including 2 DDs),2 W(including 1 DD))
+Lisa: $1,400 (4 R,1 W)
+Dan: $2,600 (7 R,1 W)

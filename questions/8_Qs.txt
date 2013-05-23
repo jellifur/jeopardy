@@ -1,0 +1,345 @@
+4603 - Wednesday, September 15, 2004
+Comments: Ken Jennings game 46.
+Contestants:
+David Fishbach: a consulting program manager from Watertown, Massachusetts
+Cara Butler: a stay-at-home mom originally from Hamilton, Ohio
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 45-day cash winnings total $1,517,461)
+First Jeopardy! Round: AFRICAN WILDLIFE, THOSE ROCKIN' '90s, FIRST NAME'S THE SAME, RATED "P.G.", FEMMES FATALES, DANGER, CURVES AHEAD
+AFRICAN WILDLIFE | The African species of this wading bird is scarlet, not pink; colonies may exceed 1 million pairs | the flamingo
+right: David
+Wrong: 
+Value: $200
+Number: 21
+THOSE ROCKIN' '90s | Spinal Tap cut 35 songs from its act at a 1992 tribute to this Queen singer; he would've "wanted it this way" | (Freddie) Mercury
+right: David
+Wrong: 
+Value: $200
+Number: 6
+FIRST NAME'S THE SAME | O'Neal, Phillippe, Seacrest | Ryan
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+RATED "P.G." | In golf, it's the short-cropped area around the hole | the putting green
+right: David
+Wrong: 
+Value: $200
+Number: 11
+FEMMES FATALES | So enraptured was Israel's King David with this woman, he deliberately sent her husband into battle where he died | Bathsheba
+right: Ken
+Wrong: 
+Cara: Who is Salome?
+Value: $200
+Number: 16
+DANGER, CURVES AHEAD | To a batter, a curveball appears to do most of its curving in this ¼ of its trip to the plate | its last quarter
+right: Ken
+Wrong: 
+Value: $200
+Number: 30
+AFRICAN WILDLIFE | This quill-covered insectivore which resembles a porcupine rolls up into a ball when frightened | a hedgehog
+right: David
+Wrong: 
+Ken: What's an echidna?
+Value: $400
+Number: 22
+THOSE ROCKIN' '90s | In 1996 this band embarked on the "Joker's Choice" tour | The Steve Miller Band
+right: Ken
+Wrong: 
+Value: $400
+Number: 7
+FIRST NAME'S THE SAME | Vaughan, Polley, Bernhardt | Sarah
+right: Ken
+Wrong: 
+Value: $400
+Number: 2
+RATED "P.G." | In 1775 the Continental Congress certified Ben Franklin as the first person in this job | Postmaster General
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+FEMMES FATALES | In Greek legend, Paris was so enamored with this married woman, he stole her away, thus causing a war | Helen of Troy
+right: David
+Wrong: 
+Value: $400
+Number: 17
+DANGER, CURVES AHEAD | In grammar, they're a pair of curved lines used to indicate interjected explanatory material | parentheses
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+AFRICAN WILDLIFE | Tick birds accompany this largest horned mammal, feeding on parasites on the skin & warning of danger | a rhinoceros
+right: Ken
+Wrong: 
+Value: $600
+Number: 23
+THOSE ROCKIN' '90s | Sally was the original name of the protagonist of her 1997 hit "Sunny Came Home" | Shawn Colvin
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 8
+FIRST NAME'S THE SAME | Ashbery, Davidson, Cheever | John
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+RATED "P.G." | Among the countries that surround this body of water are Iran, Iraq, Qatar & Kuwait | the Persian Gulf
+right: Ken
+Wrong: 
+Value: $600
+Number: 13
+FEMMES FATALES | A legendary beautiful woman living on a rock in this river, Lorelei was said to lure sailors to their deaths | the Rhine
+right: Ken
+Wrong: 
+Value: $600
+Number: 18
+DANGER, CURVES AHEAD | The 1978 movie "Deadman's Curve" told the story of this musical duo, one of whom passed away in 2004 | Jan & Dean
+right: David
+Wrong: 
+Value: $600
+Number: 27
+AFRICAN WILDLIFE | Although these tailless monkeys are famous for living on the Rock of Gibraltar, most in the wild live in North Africa | the Barbary apes
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+THOSE ROCKIN' '90s | In 1996 Celine Dion recorded this 1976 Eric Carmen hit in both English & Spanish versions | "All By Myself"
+right: Ken
+Wrong: 
+Value: $800
+Number: 9
+FIRST NAME'S THE SAME | Wyeth, Young, Carnegie | Andrew
+right: Ken
+Wrong: 
+Value: $800
+Number: 4
+RATED "P.G." | An image of this Old West sheriff appears on the logo of the sheriff's dept. of Lincoln County, New Mexico | Pat Garrett
+right: Ken
+Wrong: 
+Value: $800
+Number: 14
+FEMMES FATALES | Ludwig I's infatuation with the dancer Lola Montez helped ensure his loss of this German kingdom | Bavaria
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+DANGER, CURVES AHEAD | This Midwestern college town was named for its location on a curved part of the Saint Joseph River | South Bend
+right: 
+Wrong: 
+David: What is Ann Arbor?
+Value: DD: $2,000
+Number: 28
+AFRICAN WILDLIFE | St. Croix Island off this country's Port Elizabeth has the largest colony of jackass penguins (they bray like donkeys) | South Africa
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+THOSE ROCKIN' '90s | It completes the title of Rod Stewart's 1993 "live" MTV album "Unplugged..." | and Seated
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+FIRST NAME'S THE SAME | Brunell, Messier, Rothko | Mark
+right: Ken
+Wrong: 
+Value: $1000
+Number: 5
+RATED "P.G." | Sadly, a few years before he died in the Marquesas Islands, he attempted suicide by taking arsenic | Paul Gauguin
+right: Ken
+Wrong: 
+Value: $1000
+Number: 15
+FEMMES FATALES | Daughter of the man who became Pope Alexander VI, she became infamous for intrigues & poisonings | Lucrezia Borgia
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+DANGER, CURVES AHEAD | These caused a blurring of the image, so Newton replaced one of them with a curved mirror | a telescope lens
+right: Cara
+Wrong: 
+Value: $1000
+Number: 29
+Scores at the first commercial break (after clue 15)
+Ken: $6,000
+Cara: $0
+David: $400
+Scores at the end of the Jeopardy! Round:
+Ken: $11,400
+Cara: $800
+David: $0
+Second Jeopardy! Round: AMERICAN LITERATURE, WHO PLAYED 'EM?, PAINTINGS, LONGSHOTS, YUCATAN LINES, WORD "PLA"Y
+AMERICAN LITERATURE | This bestselling Western author wrote about the Sackett family in more than a dozen novels | Louis L'Amour
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+WHO PLAYED 'EM? | 2003: Actor Bob Harris, suffering from jet lag in Tokyo | Bill Murray
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+PAINTINGS | The controversial "Da Vinci Code" suggests that it isn't John seated beside Jesus in this painting but Mary Magdalene | The Last Supper
+right: Ken
+Wrong: 
+Value: $400
+Number: 16
+LONGSHOTS | Haru-Urara, a racehorse from this country, is winning hearts & minds even though she's lost over 100 races | Japan
+right: 
+Wrong: Triple Stumper
+Ken: What is Vietnam?
+Value: $400
+Number: 1
+YUCATAN LINES | Cancun is a popular spot for this "seasonal" trip, as in the 2003 film "The Real Cancun" | spring break
+right: Ken
+Wrong: 
+Value: $400
+Number: 26
+WORD "PLA"Y | A precious grayish-white metallic element, or a term to describe Harlow's blonde hair | platinum
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+AMERICAN LITERATURE | This "Age of Innocence" author made her debut in society in 1879 | (Edith) Wharton
+right: Cara
+Wrong: 
+Value: $800
+Number: 12
+WHO PLAYED 'EM? | 2002: Mary Jane Watson, the girl of Peter Parker's dreams | Kirsten Dunst
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+PAINTINGS | The Manet painting seen <http://www.j-archive.com/media/2004-09-15_DJ_17.jpg> here shows this similarly named artist in his studio boat | (Claude) Monet
+right: Ken
+Wrong: 
+Value: $800
+Number: 17
+LONGSHOTS | A British man recently sold all of his belongings, including the shirt off his back, for 1 shot at this casino game | roulette
+right: David
+Wrong: 
+Value: $800
+Number: 2
+YUCATAN LINES | (<http://www.j-archive.com/media/2004-09-15_DJ_30.jpg> Sarah of the Clue Crew crosses a pedestrian bridge over a Yucatan Peninsula, Mexico resort spot.)  A <http://www.j-archive.com/media/2004-09-15_DJ_30a.jpg> touristy part of the Yucatan is known as this precolumbian people's Riviera | the Maya
+right: Ken
+Wrong: 
+Value: $800
+Number: 30
+WORD "PLA"Y | A "medicine" prescribed simply for the mental relief of a patient | a placebo
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+AMERICAN LITERATURE | "Sons", the second book in a trilogy begun with this work, traces the destinies of the 3 sons of Wang Lung | The Good Earth
+right: 
+Wrong: 
+Cara: But I can't get back again.
+Value: DD: $1,500
+Number: 13
+WHO PLAYED 'EM? | 2004: Starsky & Hutch | Ben Stiller & Owen Wilson
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+PAINTINGS | Before his geometric designs like "Composition with Red, Yellow and Blue", he was a landscape painter | Mondrian
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+LONGSHOTS | This presidential hopeful's running mate, Lloyd Bentsen, reportedly quipped in '88, "The momentum is ours" | Dukakis
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+YUCATAN LINES | Tikal National Park is in this country that shares the peninsula with Mexico & Belize | Guatemala
+right: Ken
+Wrong: 
+Value: $1200
+Number: 27
+WORD "PLA"Y | A level of stability, or a relatively flat surface | a plateau
+right: Ken
+Wrong: 
+Value: $1200
+Number: 23
+AMERICAN LITERATURE | This Sinclair Lewis doctor attempts to halt an epidemic on a West Indian island with his anti-bacterial serum | Martin Arrowsmith
+right: Ken
+Wrong: 
+Value: $1600
+Number: 14
+WHO PLAYED 'EM? | 2003: Racetrack radio reporter Tick-Tock McGlaughlin | William H. Macy
+right: Ken
+Wrong: 
+Value: DD: $8,400
+Number: 9
+PAINTINGS | In Rembrandt's "The Abduction of" her, this mythological woman is carried off on a white bull | Europa
+right: Ken
+Wrong: 
+Value: $1600
+Number: 19
+LONGSHOTS | The miraculous 1980 U.S. Olympic hockey team beat this country in its final game | Finland
+right: David
+Wrong: 
+Value: $1600
+Number: 4
+YUCATAN LINES | Just off the peninsula, this 189-sq.-mi. island attracting divers & tourists is part of Quintana Roo state | Cozumel
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 28
+WORD "PLA"Y | An epidemic with a high rate of mortality, or a novel by Albert Camus | a plague
+right: Cara
+Wrong: 
+Value: $1600
+Number: 24
+AMERICAN LITERATURE | In the prologue of a 1952 novel, this author wrote, "I am an invisible man" | (Ralph) Ellison
+right: Ken
+Wrong: 
+Value: $2000
+Number: 15
+WHO PLAYED 'EM? | 2004: Jesus Christ, during his last 12 hours | Jim Caviezel
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+PAINTINGS | An image in Dali's "Persistance of Memory" was apparently based on one in this man's "Garden of Earthly Delights" | Hieronymus Bosch
+right: Ken
+Wrong: 
+Value: $2000
+Number: 20
+LONGSHOTS | "Project Longshot" is a proposed plan to send an unmanned probe to this star system closest to Earth | Alpha Centauri
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+YUCATAN LINES | (<http://www.j-archive.com/media/2004-09-15_DJ_29.jpg> Sofia of the Clue Crew reads from the center of a small town on the Yucatan Peninsula in Mexico.)  Not the glitzy Yucatan, sleepy Puerto Morelos is so sleepy it is sometimes called this, rhyming with Puerto | Muerto
+right: Ken
+Wrong: 
+Value: $2000
+Number: 29
+WORD "PLA"Y | A commonplace or trite remark | a platitude
+right: David
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Ken: $43,800
+Cara: $1,700
+David: $4,400
+
+Final Jeopardy! Round
+BRITISH MONARCHS | Before Victoria & Elizabeth II, this was the last British monarch to reign during 2 different centuries | George III
+right: David
+Wrong: 
+Cara: Who was Elizabeth I
+Ken: Who was George IV
+Wagers: 
+Cara: $1,700
+David: $600
+Ken: $6,200
+Final scores:
+Ken: $37,600 (46-day champion: $1,555,061)
+Cara: $0 (3rd place: $1,000)
+David: $5,000 (2nd place: $2,000)
+
+Coryat scores
+Ken: $37,000 (41 R(including 1 DD),2 W)
+Cara: $3,200 (3 R,2 W(including 1 DD))
+David: $6,400 (9 R,1 W(including 1 DD))

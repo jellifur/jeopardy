@@ -1,0 +1,350 @@
+4330 - Friday, May 30, 2003
+Contestants:
+Warren Usui: a computer programmer from Pacific Palisades, California
+Mat Wahlstrom: a public relations specialist from San Diego, California
+Katie Hamill: a lawyer from Arlington, Massachusetts (whose 1-day cash winnings total $12,800)
+First Jeopardy! Round: SCIENCE OF THE TIMES, MUSICAL INSTRUMENT MAKERS, TV GAME SHOWS, HISTORIC HOMES, FEELING "ILL", MISSOURI LOVES COMPANY
+SCIENCE OF THE TIMES | Early 1800s: Catastrophism says big events, like the one in Genesis 7, shaped the Earth & its life | the Flood
+right: Katie
+Wrong: 
+Mat: What is the Big Bang?
+Value: $200
+Number: 6
+MUSICAL INSTRUMENT MAKERS | Gottfried Silbermann pulled out all the stops building this for Dresden's Katholische Hofkirche | organ
+right: Warren
+Wrong: 
+Value: $200
+Number: 11
+TV GAME SHOWS | On September 17, 1962 the parents of this first moonwalker appeared on an episode of "I've Got A Secret" | Neil Armstrong
+right: Katie
+Wrong: 
+Warren: Who are Michael Jackson's parents?
+Value: $200
+Number: 16
+HISTORIC HOMES | Name of the famous home that's depicted on the back of our current 5-cent coin | Monticello
+right: Warren
+Wrong: 
+Value: $200
+Number: 26
+FEELING "ILL" | It's the "Prairie State" | Illinois
+right: Warren
+Wrong: 
+Value: $200
+Number: 1
+MISSOURI LOVES COMPANY | This seat of Jackson County, Missouri was the home of Harry Truman | Independence
+right: Warren
+Wrong: 
+Value: $200
+Number: 18
+SCIENCE OF THE TIMES | 1751: Axel Cronstedt discovers this -- the element, in a mineral, not the coin in his pants pocket | nickel
+right: Katie
+Wrong: 
+Value: $400
+Number: 7
+MUSICAL INSTRUMENT MAKERS | Antonio de Torres of 19th century Granada is responsible for the modern version of this instrument | guitar
+right: Warren
+Wrong: 
+Value: $400
+Number: 12
+TV GAME SHOWS | Game show on which you heard Richard Dawson say, "Our survey said..." | Family Feud
+right: Warren
+Wrong: 
+Value: $400
+Number: 17
+HISTORIC HOMES | His "Body lies a-mouldering in the grave" near his farmhouse in Lake Placid, New York | John Brown
+right: Katie
+Wrong: 
+Value: $400
+Number: 27
+FEELING "ILL" | The rate of this in Gambia is about 60 percent | illiteracy
+right: Warren
+Wrong: 
+Value: $400
+Number: 2
+MISSOURI LOVES COMPANY | Before moving to Missouri, this pro football team was known as the Dallas Texans | Kansas City Chiefs
+right: Warren
+Wrong: 
+Value: $400
+Number: 19
+SCIENCE OF THE TIMES | 2001: Researchers produce pulses of this that last 650 billionths of a billionth of a second | light
+right: Warren
+Wrong: 
+Value: $600
+Number: 8
+MUSICAL INSTRUMENT MAKERS | The instrument (violin) that's seen here, just before it was auctioned off for $1.3 million, was made by him | Stradivarius
+right: Warren
+Wrong: 
+Value: $600
+Number: 13
+TV GAME SHOWS | In 1978 Billy Crystal cleared all 6 categories in a record 26 sec. on the $20,000 version of this Dick Clark show | Pyramid
+right: Katie
+Wrong: 
+Value: $600
+Number: 23
+HISTORIC HOMES | Beauvoir, his last home in Biloxi, is now operated by the United Sons of Confederate Veterans | Jefferson Davis
+right: Warren
+Wrong: 
+Value: $600
+Number: 28
+FEELING "ILL" | Spock knows it means something that makes no rational sense | illogical
+right: Mat
+Wrong: 
+Value: $600
+Number: 3
+MISSOURI LOVES COMPANY | The only national monument in Missouri is the birthplace of this botanist, seen here | George Washington Carver
+right: Warren
+Wrong: 
+Value: $600
+Number: 20
+SCIENCE OF THE TIMES | 4th century B.C.: Aristotle writes, "It is agreed that there are...only two solids, the pyramid and" this geometric one | cube
+right: Mat
+Wrong: 
+Katie: What is a prism?
+Warren: What is a sphere?
+Value: $800
+Number: 9
+MUSICAL INSTRUMENT MAKERS | Theobald Boehm, a player of this instrument, enlarged its finger holes & made it metal instead of wood | flute
+right: Katie
+Wrong: 
+Value: $800
+Number: 14
+TV GAME SHOWS | Once contestants reached $8,000 on this '50s show, they answered questions from the Revlon isolation booth | The $64,000 Question
+right: Mat
+Wrong: 
+Warren: What is "The $64,000 Pyramid?"
+Value: $800
+Number: 24
+HISTORIC HOMES | After Frederick Pabst's death, his 37-room mansion became home to the archbishops of this city | Milwaukee
+right: Warren
+Wrong: 
+Value: DD: $3,000
+Number: 29
+FEELING "ILL" | Almost impossible to read | illegible
+right: Katie
+Wrong: 
+Value: $800
+Number: 4
+MISSOURI LOVES COMPANY | You're barking up the right tree if you know this is Missouri's state tree | dogwood
+right: Katie
+Wrong: 
+Value: $800
+Number: 21
+SCIENCE OF THE TIMES | 1855: Matthew Maury publishes the first textbook of this science, "Physical Geography of the Sea" | oceanography
+right: Warren
+Wrong: 
+Value: $1000
+Number: 10
+MUSICAL INSTRUMENT MAKERS | In 1950 music stand maker Katsumi Yanagisawa started making these instruments under the Pearl brand name | drums
+right: 
+Wrong: Triple Stumper
+Warren: What is the piano?
+Value: $1000
+Number: 15
+TV GAME SHOWS | Future playwright Neil Simon was a stunt writer & James Dean a stunt tester for this Bud Collyer game show | Beat The Clock
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+HISTORIC HOMES | A window of The Old Manse in Concord, Mass. still bears the diamond-engraved signatures of this author & his wife | Nathaniel Hawthorne
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+FEELING "ILL" | Another name for a magician | illusionist
+right: Mat
+Wrong: 
+Value: $1000
+Number: 5
+MISSOURI LOVES COMPANY | The Missouri Compromise allowed Missouri to enter the Union with this status | slave state
+right: Katie
+Wrong: 
+Value: $1000
+Number: 22
+Scores at the first commercial break (after clue 15)
+Katie: $1,400
+Mat: $2,200
+Warren: $1,600
+Scores at the end of the Jeopardy! Round:
+Katie: $4,400
+Mat: $3,000
+Warren: $6,000
+Second Jeopardy! Round: POETS & POETRY, THE LANGUAGE OF CINEMA, TREE POTPOURRI, 17th CENTURY AMERICA, LET'S PARTY!, DISTURBING THE "P"s
+POETS & POETRY | Almost all of the poetry of this "New England Mystic" was first published after her death in 1886 | Emily Dickinson
+right: Mat
+Wrong: 
+Value: $400
+Number: 6
+THE LANGUAGE OF CINEMA | (Sarah of the Clue Crew)  The equipment (film splicer) here was once used in this job that's had its own Academy Award since 1934 | editing
+right: Katie
+Wrong: 
+Value: $400
+Number: 12
+TREE POTPOURRI | In the theme song for "George of the Jungle", George is warned to do this | watch out for that tree
+right: Warren
+Wrong: 
+Value: $400
+Number: 21
+17th CENTURY AMERICA | The Swedes founded Fort Christina in 1638 & this group founded Schenectady in 1661 | Dutch
+right: Katie
+Wrong: 
+Warren: Who were the Huguenots?
+Value: $400
+Number: 11
+LET'S PARTY! | 2000: Ralph Nader | Green
+right: Katie
+Wrong: 
+Value: $400
+Number: 26
+DISTURBING THE "P"s | Planter's, fish house & champagne are 3 types of this festive drink | punch
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 1
+POETS & POETRY | Poem that contains the line "All in the valley of death rode the six hundred" | "The Charge of the Light Brigade"
+right: Warren
+Wrong: 
+Value: $800
+Number: 7
+THE LANGUAGE OF CINEMA | The genre of "Kickboxer 4: The Aggressor", or what the director says once camera & sound are running | action
+right: Katie
+Wrong: 
+Value: $800
+Number: 13
+TREE POTPOURRI | This fictional character lives in a tree that has the name "Sanders" above the door in gold letters | Winnie-the-Pooh
+right: Katie
+Wrong: 
+Value: $800
+Number: 22
+17th CENTURY AMERICA | These ended in 1692 with a total of 30 convictions & 20 executions | Salem Witch Trials
+right: Mat
+Wrong: 
+Value: $800
+Number: 15
+LET'S PARTY! | 1844: Henry Clay | Whig
+right: Mat
+Wrong: 
+Value: $800
+Number: 27
+DISTURBING THE "P"s | This board can decide whether to release you from prison before your full sentence has been served | parole board
+right: Katie
+Wrong: 
+Value: $800
+Number: 2
+POETS & POETRY | "Mending Wall" is one of the best-known poems in his collection "North of Boston" | Robert Frost
+right: Katie
+Wrong: 
+Value: $1200
+Number: 8
+THE LANGUAGE OF CINEMA | (Sofia of the Clue Crew skiing, but not giving the clue)  From the French, it's a sequence consisting of a succession of shots used to present an idea | montage
+right: Warren
+Wrong: 
+Value: $1200
+Number: 14
+TREE POTPOURRI | This 1987 U2 album contained 2 No. 1 hits: "With or Without You" & "I Still Haven't Found What I'm Looking For" | "The Joshua Tree"
+right: Mat
+Wrong: 
+Value: $1200
+Number: 23
+17th CENTURY AMERICA | Debuting in 1690, Boston's Publick Occurrences, the first one of these in America, was quickly suppressed | newspaper (it only lasted one issue)
+right: 
+Wrong: 
+Mat: What is a public gathering?
+Value: DD: $3,000
+Number: 16
+LET'S PARTY! | 1904: Eugene V. Debs | Socialist
+right: Mat
+Wrong: 
+Value: $1200
+Number: 28
+DISTURBING THE "P"s | Lemurs & humans both belong to this animal order | primates
+right: Mat
+Wrong: 
+Value: $1200
+Number: 3
+POETS & POETRY | A famous line in a James Weldon Johnson poem says, "Young man -- young man -- your arm's too short to" do this | box with God
+right: Mat
+Wrong: 
+Value: $1600
+Number: 9
+THE LANGUAGE OF CINEMA | A type of adhesive tape is named for this job, the chief electrician on the set | gaffer
+right: Katie
+Wrong: 
+Value: $1600
+Number: 18
+TREE POTPOURRI | In Greek mythology, she was transformed into a laurel tree by her father to protect her from Apollo's advances | Daphne
+right: Mat
+Wrong: 
+Value: $1600
+Number: 24
+17th CENTURY AMERICA | In 1692 this father of Cotton received Harvard's first doctor of sacred theology degree | Increase Mather
+right: Katie
+Wrong: 
+Value: $1600
+Number: 17
+LET'S PARTY! | 1996: Ross Perot | Reform
+right: 
+Wrong: 
+Mat: What is the Alternative Party?
+Value: DD: $2,200
+Number: 29
+DISTURBING THE "P"s | It's the city where you'll find the main campus of the University of South Africa | Pretoria
+right: Warren
+Wrong: 
+Value: $1600
+Number: 4
+POETS & POETRY | T.S. Eliot dedicated "The Waste Land" to this poet & critic who helped revise it | Ezra Pound
+right: Mat
+Wrong: 
+Value: $2000
+Number: 10
+THE LANGUAGE OF CINEMA | (Jimmy of the Clue Crew)  As opposed to backlight or fill light, the main spotlight in a scene is usually called this light | key light
+right: 
+Wrong: Triple Stumper
+Katie: What is a floodlight?
+Value: $2000
+Number: 19
+TREE POTPOURRI | This 1943 Betty Smith novel told the story of Francie Nolan, a child living in NYC's slums | "A Tree Grows in Brooklyn"
+right: Katie
+Wrong: 
+Value: $2000
+Number: 25
+17th CENTURY AMERICA | In 1619 this representative body in Virginia met for the very first time | House of Burgesses
+right: Mat
+Wrong: 
+Value: $2000
+Number: 20
+LET'S PARTY! | 1948: Henry Wallace | Progressive
+right: 
+Wrong: Triple Stumper
+Mat: What is the Dixiecrat Party?
+Value: $2000
+Number: 30
+DISTURBING THE "P"s | Clowns attempt rape, cheat on each other & eventually commit murder in this Leoncavallo opera | Pagliacci
+right: Mat
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Katie: $12,400
+Mat: $10,600
+Warren: $9,600
+
+Final Jeopardy! Round
+U.S. CITIES | It's the largest U.S. city in population that's named for an American individual | Houston
+right: Warren
+Wrong: 
+Mat: What is Jefferson C
+Katie: What is Washington, DC
+Wagers: 
+Warren: $5,000
+Mat: $2,400
+Katie: $8,801
+Final scores:
+Katie: $3,599 (3rd place: $1,000)
+Mat: $8,200 (2nd place: $2,000)
+Warren: $14,600 (New champion: $14,600)
+
+Coryat scores
+Katie: $12,400 (19 R,2 W)
+Mat: $15,800 (15 R,4 W(including 2 DDs))
+Warren: $7,400 (18 R(including 1 DD),5 W)

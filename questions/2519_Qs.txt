@@ -1,0 +1,342 @@
+3156 - Monday, April 27, 1998
+Comments: 1998 Celebrity Invitational game 1.
+Contestants:
+Dan Cortese:  from Veronica's Closet
+Carol Burnett:  from The Carol Burnett Show
+Jason Alexander:  from Seinfeld
+First Jeopardy! Round: WHERE YA FROM?, RHYMES WITH ME, ALEXANDER THE GREAT, THE 70th OSCARS, CELEBRITY HEADACHES, TV FROM THE NEXT ROOM
+WHERE YA FROM? | Arnold Schwarzenegger | Austria
+right: Jason
+Wrong: 
+Carol: What is Germany?
+Value: $100
+Number: 10
+RHYMES WITH ME | If the queen invites you to an afternoon party, you'll probably sip this | Tea
+right: Dan
+Wrong: 
+Value: $100
+Number: 23
+ALEXANDER THE GREAT | He's pictured on the $10 bill | Alexander Hamilton
+right: Jason
+Wrong: 
+Value: $100
+Number: 17
+THE 70th OSCARS | Hours before she won her Oscar, she agreed to return to "Mad About You", for $1 million an episode | Helen Hunt
+right: Carol
+Wrong: 
+Value: $100
+Number: 11
+CELEBRITY HEADACHES | You could go for one of this country's Habano cigars -- if it weren't for that dreary embargo | Cuba
+right: Dan
+Wrong: 
+Value: $100
+Number: 6
+TV FROM THE NEXT ROOM | [audio clue] | Gilligan's Island
+right: Dan
+Wrong: 
+Value: $100
+Number: 1
+WHERE YA FROM? | Antonio Banderas | Spain
+right: Dan
+Wrong: 
+Carol: Where is Mexico?
+Value: $200
+Number: 19
+RHYMES WITH ME | Piece of equipment for Picabo Street | Ski
+right: Dan
+Wrong: 
+Value: $200
+Number: 24
+ALEXANDER THE GREAT | In 1876 he was granted a patent for "The Method of, and Apparatus for Transmitting Vocal or Other Sounds" | Alexander Graham Bell
+right: Dan
+Wrong: 
+Value: $200
+Number: 18
+THE 70th OSCARS | Confidentially, she was named Best Supporting Actress for "L.A. Confidential" | Kim Basinger
+right: Carol
+Wrong: 
+Value: $200
+Number: 12
+CELEBRITY HEADACHES | Traffic on this Beverly Hills street is so bad, you can't park in front of Cartier or Louis Vuitton | Rodeo Drive
+right: Dan
+Wrong: 
+Value: $200
+Number: 7
+TV FROM THE NEXT ROOM | [audio clue] | The Andy Griffith Show
+right: Dan
+Wrong: 
+Value: $200
+Number: 2
+WHERE YA FROM? | k.d. lang | Canada
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 20
+RHYMES WITH ME | You might hear the "buzz" of gossip at this kind of quilting party | Bee
+right: Carol
+Wrong: 
+Value: $300
+Number: 25
+ALEXANDER THE GREAT | Ben Alexander played officer Frank Smith, one of Jack Webb's partners on this TV show | Dragnet
+right: Carol
+Wrong: 
+Value: $300
+Number: 30
+THE 70th OSCARS | On winning for this film, Robin Williams said, "Thank you, Ben and Matt.  I still want to see some I.D." | Good Will Hunting
+right: Jason
+Wrong: 
+Value: $300
+Number: 13
+CELEBRITY HEADACHES | Paying about 60 grand for the XJ8 model of this British car, you'd think a CD player would be standard | Jaguar
+right: Dan
+Wrong: 
+Value: $300
+Number: 8
+TV FROM THE NEXT ROOM | [audio clue] | The Nanny
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 3
+WHERE YA FROM? | Lucy Lawless | New Zealand
+right: Jason
+Wrong: 
+Value: $400
+Number: 21
+RHYMES WITH ME | In 1939 she played a "Scarlett" woman | Vivien Leigh
+right: Jason
+Wrong: 
+Value: $400
+Number: 26
+ALEXANDER THE GREAT | William Ivey was nominated to replace this woman as head of the National Endowment for the Arts | Jane Alexander
+right: Jason
+Wrong: 
+Value: DD: $1,500
+Number: 29
+THE 70th OSCARS | "I'm the king of the world!" exulted this director when he won for "Titanic" | James Cameron
+right: Dan
+Wrong: 
+Value: $400
+Number: 14
+CELEBRITY HEADACHES | Don't let your personal trainer work your biceps & forget these opposing muscles on the arms | Triceps
+right: Jason
+Wrong: 
+Value: $400
+Number: 9
+TV FROM THE NEXT ROOM | [audio clue] | Bewitched
+right: Carol
+Wrong: 
+Value: $400
+Number: 4
+WHERE YA FROM? | Elle Macpherson | Australia
+right: Dan
+Wrong: 
+Value: $500
+Number: 22
+RHYMES WITH ME | In "Once Upon A Mattress", it was supposed to be under the mattresses | Pea
+right: Jason
+Wrong: 
+Value: $500
+Number: 27
+ALEXANDER THE GREAT | On March 30, 1981 he told the press, "As of now, I am in control here in the White House" | Alexander Haig
+right: Jason
+Wrong: 
+Value: $500
+Number: 28
+THE 70th OSCARS | On winning this honorary Oscar, this director-choreographer tap-danced & sang part of his thank you speech | Stanley Donen
+right: Carol
+Wrong: 
+Value: $500
+Number: 15
+CELEBRITY HEADACHES | You're probably sick of having your floors scuffed by photographers from this Conde Nast "Digest" | Architectural Digest
+right: Jason
+Wrong: 
+Value: $500
+Number: 16
+TV FROM THE NEXT ROOM | [audio clue] | Good Times
+right: Dan
+Wrong: 
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Jason: $500
+Carol: $300
+Dan: $1,400
+Scores at the end of the Jeopardy! Round:
+Jason: $4,700
+Carol: $1,500
+Dan: $3,000
+Second Jeopardy! Round: WILD WOMEN IN HISTORY, A CATEGORY ABOUT NOTHING, NAME THE PLAY, FOOD & DRINK, AS THE STOMACH TURNS, TOUGH NUCLEAR PHYSICS
+WILD WOMEN IN HISTORY | Rumor has it this "Great" Russian empress had insomnia; with all those lovers, who could sleep? | Catherine the Great
+right: Carol
+Wrong: 
+Value: $200
+Number: 21
+A CATEGORY ABOUT NOTHING | It's what the trio seen here represents: | "See no evil, speak no evil, hear no evil"
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+NAME THE PLAY | "We'll hang ourselves tomorrow...unless Godot comes" | Waiting for Godot
+right: Jason
+Wrong: 
+Value: $200
+Number: 8
+FOOD & DRINK | This vegetable puts the cole in coleslaw | Cabbage
+right: Dan
+Wrong: 
+Value: $200
+Number: 6
+AS THE STOMACH TURNS | A gnawing pain in the abdomen is a symptom of the peptic type of this chronic ailment | Ulcer
+right: Jason
+Wrong: 
+Value: $200
+Number: 13
+WILD WOMEN IN HISTORY | Anna Sage, who set up John Dillinger, is known to history as this "Lady" | "The Lady in Red"
+right: Jason
+Wrong: 
+Value: $400
+Number: 22
+A CATEGORY ABOUT NOTHING | This channel, spun off from Nick at Nite, said it would air nothing during the last "Seinfeld" | TV Land
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+NAME THE PLAY | "I have always depended on the kindness of strangers" | A Streetcar Named Desire
+right: Jason
+Wrong: 
+Value: $400
+Number: 9
+FOOD & DRINK | A lunchtime favorite, it's chicken or turkey, tomato, bacon & lettuce on 3 slices of toast | Club sandwich
+right: Jason
+Wrong: 
+Value: $400
+Number: 7
+AS THE STOMACH TURNS | One of the regions of the stomach is the cardia, named for this nearby organ | Heart
+right: Dan
+Wrong: 
+Value: $400
+Number: 14
+TOUGH NUCLEAR PHYSICS | Some quarks are classified u, d & s: "up", this & "strange" | down
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+WILD WOMEN IN HISTORY | Marie Walewska was one of many women who "entertained" him during his exile on Elba | Napoleon
+right: Carol
+Wrong: 
+Value: DD: $2,500
+Number: 25
+A CATEGORY ABOUT NOTHING | In this Shakespeare comedy, Hero is falsely accused of unfaithfulness & a huge fuss ensues | Much Ado About Nothing
+right: Carol
+Wrong: 
+Value: $600
+Number: 3
+NAME THE PLAY | "Hm...11 o'clock in Grover's Corners, -- you get a good rest, too.  Good night." | Our Town
+right: Jason
+Wrong: 
+Value: DD: $3,500
+Number: 10
+FOOD & DRINK | Bottled in France since 1863, it's the bestselling imported sparkling water in the U.S. | Perrier
+right: Jason
+Wrong: 
+Value: $600
+Number: 17
+AS THE STOMACH TURNS | This "fake fat" reportedly causes abdominal cramps & inhibits the absorption of some vitamins & nutrients | Olestra
+right: Jason
+Wrong: 
+Value: $600
+Number: 15
+TOUGH NUCLEAR PHYSICS | Term for the spontaneous disintegration of radioactive material, or of rotting teeth | Decay
+right: Jason
+Wrong: 
+Value: $600
+Number: 28
+WILD WOMEN IN HISTORY | Calamity Jane's memoirs spread the tale of her torrid romance with this "Wild" westerner | Wild Bill Hickok
+right: Jason
+Wrong: 
+Value: $800
+Number: 27
+A CATEGORY ABOUT NOTHING | According to the title of a 1974 Billy Preston hit, this "leaves nothing" | "Nothing From Nothing"
+right: Dan
+Wrong: 
+Value: $800
+Number: 4
+NAME THE PLAY | "Once more unto the breach, dear friends, once more; or close the wall up with our English dead!" | Henry V
+right: Jason
+Wrong: 
+Value: $800
+Number: 11
+FOOD & DRINK | Some prefer melted cheese for this classic dipping dish, others prefer melted chocolate | Fondue
+right: Carol
+Wrong: 
+Value: $800
+Number: 18
+AS THE STOMACH TURNS | One common shape of the stomach is like this tenth letter of the alphabet | J
+right: Carol
+Wrong: 
+Jason: What is K?
+Dan: What is L?
+Value: $800
+Number: 16
+TOUGH NUCLEAR PHYSICS | The first successful laser used this gem, hence the rosy light | Ruby
+right: Carol
+Wrong: 
+Value: $800
+Number: 24
+WILD WOMEN IN HISTORY | You could call this outlaw the "Mother" of all crime; she was also the mother of Herman, Fred, Arthur & Lloyd | Ma Barker
+right: Dan
+Wrong: 
+Value: $1000
+Number: 26
+A CATEGORY ABOUT NOTHING | Also called the American Party, this political group's name came from its members' denials about it | Know-Nothing
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+NAME THE PLAY | "Nora! Nora!...empty.  She's gone." | A Doll's House
+right: Carol
+Wrong: 
+Value: $1000
+Number: 12
+FOOD & DRINK | Its name means "small tubes", but this Italian pasta is actually large tubes with a meat or cheese filling | Cannelloni
+right: 
+Wrong: Triple Stumper
+Jason: What is penne?
+Value: $1000
+Number: 20
+AS THE STOMACH TURNS | Over-the-counter treatments for heartburn include Pepcid AC & this, from Smithkline Beecham | Tagamet
+right: 
+Wrong: Triple Stumper
+Jason: What is Pepto-Bismol?
+Value: $1000
+Number: 19
+TOUGH NUCLEAR PHYSICS | These devices for upping the speeds of particles may be linear or cyclic | Accelerators
+right: Jason
+Wrong: 
+Value: $1000
+Number: 23
+Scores at the end of the Double Jeopardy! Round:
+Jason: $11,400
+Carol: $8,200
+Dan: $4,800
+
+Final Jeopardy! Round
+WEIGHTS & MEASURES | A unit of length measuring 6 feet, or a verb meaning to comprehend | Fathom
+right: 
+Wrong: 
+Dan: What is a learn
+Carol: What
+Jason: What is a grasp?
+Wagers: 
+Dan: $3,401
+Carol: $1,000
+Jason: $10,000
+Final scores:
+Jason: $1,400 (2nd place: $10,000 for the Scleroderma Research Foundation)
+Carol: $7,200 (Winner: $15,000 for the Hereditary Disease Foundation)
+Dan: $1,399 (3rd place: $10,000 for the Children's Hospital of Pittsburgh)
+
+Coryat scores
+Jason: $7,400 (22 R(including 2 DDs),3 W)
+Carol: $6,300 (13 R(including 1 DD),2 W)
+Dan: $4,800 (17 R,1 W)

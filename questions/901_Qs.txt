@@ -1,0 +1,350 @@
+4977 - Tuesday, April 11, 2006
+Contestants:
+Dan Lee: a training officer from Las Vegas, Nevada
+Kathy Lisiewicz: a project coordinator from Los Angeles, California
+William Lee: a software engineer from South San Francisco, California (whose 2-day cash winnings total $62,500)
+First Jeopardy! Round: CHURCHES & CATHEDRALS, SUPER BOWL MVPs, WE HAVE THE TECHNOLOGY, MR. SMITH GOES TO WASHINGTON, TAKE A HIKE, "BO" KNOWS
+CHURCHES & CATHEDRALS | This Boston landmark contains the first set of church bells in the American colonies | the Old North Church
+right: Kathy
+Wrong: 
+Value: $200
+Number: 3
+SUPER BOWL MVPs | The first 2-time MVP (for the first 2 Super Bowls) was this team's Bart Starr | the Packers
+right: Dan
+Wrong: 
+Value: $200
+Number: 8
+WE HAVE THE TECHNOLOGY | In 1946 Del Harder of this auto co. coined the term "automation" to describe the way its engines were assembled | Ford
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+MR. SMITH GOES TO WASHINGTON | Fort Dix is in this state's 4th District, repped by Chris Smith, who was elected to Congress at age 27 | New Jersey
+right: Kathy
+Wrong: 
+Value: $200
+Number: 19
+TAKE A HIKE | There's good hiking at several stops on this country's mountainous Chihuahua al Pacifico train | Mexico
+right: Dan
+Wrong: 
+Value: $200
+Number: 14
+"BO" KNOWS | Examples include the scaphoid & the scapula | bones
+right: Dan
+Wrong: 
+Value: $200
+Number: 24
+CHURCHES & CATHEDRALS | The name of this Byzantine church in Istanbul is Greek for "holy wisdom" | the Hagia Sophia
+right: Dan
+Wrong: 
+Value: $400
+Number: 4
+SUPER BOWL MVPs | In Super Bowl XXXIII this Bronco won his first MVP award in the last year of his 16-year career | John Elway
+right: William
+Wrong: 
+Value: $400
+Number: 9
+WE HAVE THE TECHNOLOGY | In 1995 Wells Fargo became the first bank whose customers could securely view their accounts here | online
+right: Kathy
+Wrong: 
+Dan: What is an ATM?
+Value: $400
+Number: 2
+MR. SMITH GOES TO WASHINGTON | William French Smith, who held this post, 1981-1985, had a key role in putting the 1st woman on the Supreme Court | Attorney General
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 20
+TAKE A HIKE | The Otter Trail on the coast of this country's Western Cape Province may be booked up a year ahead | South Africa
+right: 
+Wrong: Triple Stumper
+Dan: What's Canada?
+Value: $400
+Number: 15
+"BO" KNOWS | Charon's job on the River Styx | boatman
+right: Kathy
+Wrong: 
+Value: $400
+Number: 25
+CHURCHES & CATHEDRALS | (<http://www.j-archive.com/media/2006-04-11_J_05.jpg> Kelly of the Clue Crew reads from beside a stained glass window.)  John Petts, who illustrated many Dylan Thomas poems, designed this gift to the 16th Street Baptist Church, from the people of this country | Wales
+right: 
+Wrong: 
+Dan: What is Liberia?
+Value: DD: $1,000
+Number: 5
+SUPER BOWL MVPs | This Steelers wide receiver didn't need 57 reasons to be named Super Bowl XL's MVP in 2006 | Hines Ward
+right: William
+Wrong: 
+Kathy: Who is Hines?
+Value: $600
+Number: 10
+WE HAVE THE TECHNOLOGY | A hydroelectric power plant at this U.S. landmark opened in 1881 | Niagara Falls
+right: Kathy
+Wrong: 
+Value: $600
+Number: 13
+MR. SMITH GOES TO WASHINGTON | In 1996 Gordon Smith lost to Ron Wyden to replace Bob Packwood as a Sen. from this state; now they serve together | Oregon
+right: William
+Wrong: 
+Value: $600
+Number: 21
+TAKE A HIKE | In 1923 the first path designated part of this trail opened in New York's Bear Mountain State Park | the Appalachian Trail
+right: Kathy
+Wrong: 
+Value: $600
+Number: 16
+"BO" KNOWS | Bo Derek knows it's a Spanish dance in triple time | the bolero
+right: William
+Wrong: 
+Value: $600
+Number: 26
+CHURCHES & CATHEDRALS | Her Angelus Temple, which was completed in L.A. in 1923, was said to look like a giant spaceship | Aimee Semple McPherson
+right: 
+Wrong: Triple Stumper
+William: Who is Ayn Rand?
+Value: $800
+Number: 6
+SUPER BOWL MVPs | In Super Bowl XXI this team's Phil Simms came up big by completing 88% of his passes | the New York Giants
+right: 
+Wrong: Triple Stumper
+William: Who are the Bills?
+Dan: Who are the Bengals?
+Value: $800
+Number: 11
+WE HAVE THE TECHNOLOGY | Tom Scholz of the band Boston invented an amplifier that worked like a Walkman & called it this | the Rockman
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+MR. SMITH GOES TO WASHINGTON | Washington's 9th District is represented by this man, who has the same name as a certain economist | Adam Smith
+right: William
+Wrong: 
+Value: $800
+Number: 29
+TAKE A HIKE | If this European country's mountains are forbidding, try hiking in its famed valley the Engadine | Switzerland
+right: Kathy
+Wrong: 
+Value: $800
+Number: 17
+"BO" KNOWS | The unit of currency of Venezuela | a bolivar
+right: Dan
+Wrong: 
+Value: $800
+Number: 27
+CHURCHES & CATHEDRALS | The National Cathedral in Washington is officially known as the cathedral church of these two saints | Peter & Paul
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 7
+SUPER BOWL MVPs | After a last-second Colts FG in Super Bowl V, this team's Chuck Howley became the first MVP from a losing team | the Dallas Cowboys
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 12
+WE HAVE THE TECHNOLOGY | Put pulped cellulose fiber mixed with water & fillers into a Fourdrinier machine & it comes out as this | paper
+right: William
+Wrong: 
+Value: $1000
+Number: 23
+MR. SMITH GOES TO WASHINGTON | Parts of Comal, Hays & Travis Counties make up the 21st District of this state's Rep. Lamar Smith | Texas
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 30
+TAKE A HIKE | Germany's 104-mile Rennsteig meanders through the Thuringer Wald, or Thuringian this | Forest
+right: Kathy
+Wrong: 
+Value: $1000
+Number: 18
+"BO" KNOWS | In Shakespeare's "Henry IV, Part 2" Mistress Quickly is the hostess of this tavern | the Boar's-Head
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+Scores at the first commercial break (after clue 15)
+William: -$600
+Kathy: $600
+Dan: -$1,400
+Scores at the end of the Jeopardy! Round:
+William: $2,400
+Kathy: $4,600
+Dan: -$600
+Second Jeopardy! Round: ROCKET MAN, CANDLE IN THE WIND, I'M STILL STANDIN', CROCODILE ROCK, CIRCLE OF LIFE, ELTON JOHN
+ROCKET MAN | "First Man" is a 2005 biography of this quiet Ohioan | Neil Armstrong
+right: 
+Wrong: Triple Stumper
+Dan: Who is John Glenn?
+Value: $400
+Number: 1
+CANDLE IN THE WIND | This cord can be impregnated with inorganic salt solutions & dried prior to molding into candles | the wick
+right: Kathy
+Wrong: 
+Value: $400
+Number: 9
+I'M STILL STANDIN' | In "One Flew Over the Cuckoo's Nest": Randle McMurphy, Chief Bromden, Billy Bibbit | Chief Bromden
+right: William
+Wrong: 
+Value: $400
+Number: 4
+CROCODILE ROCK | The American crocodile is very rare & can only be found naturally in the southern part of this state | Florida
+right: Kathy
+Wrong: 
+Value: $400
+Number: 16
+CIRCLE OF LIFE | Enchantress who made Odysseus' men pig-headed | Circe
+right: Dan
+Wrong: 
+Value: $400
+Number: 22
+ELTON JOHN | The 1997 version of "Candle In The Wind" honored Princess Diana; the original version was about her | Marilyn Monroe
+right: William
+Wrong: 
+Value: $400
+Number: 21
+ROCKET MAN | Apollo 8 astronauts Borman, Lovell & Anders were the first men to make this circuit & they made 10 of them | a lunar orbit
+right: Dan
+Wrong: 
+Value: $800
+Number: 2
+CANDLE IN THE WIND | Candles can be made of animal fat or this nonglycerine substance used as early as 3000 B.C. | beeswax
+right: 
+Wrong: Triple Stumper
+Kathy: What is tallow?
+Value: $800
+Number: 10
+I'M STILL STANDIN' | In "The Iliad": Hector, Agamemnon, Patroclus | Agamemnon
+right: Kathy
+Wrong: 
+Value: $800
+Number: 5
+CROCODILE ROCK | Crocodiles are unique among reptiles in that they have 4-chambered ones of these organs | the heart
+right: William
+Wrong: 
+Value: $800
+Number: 17
+CIRCLE OF LIFE | Last name of the lyricist who worked with Andrew Lloyd Webber | Rice
+right: Dan
+Wrong: 
+Value: $800
+Number: 23
+ELTON JOHN | Elton's 1982 song "Empty Garden (Hey Hey Johnny)" was a tribute to this slain man | John Lennon
+right: Dan
+Wrong: 
+Value: $800
+Number: 27
+ROCKET MAN | "I wouldn't touch" the space station's antenna "with" this, but in 1998 that's what Jerry Ross used to fix it | a 10-foot pole
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 3
+CANDLE IN THE WIND | Meaning "offered" or "dedicated", it's the type of candle seen <http://www.j-archive.com/media/2006-04-11_DJ_11.jpg> here | a votive
+right: Dan
+Wrong: 
+Value: $1200
+Number: 11
+I'M STILL STANDIN' | In "Beowulf": Grendel, Beowulf, Wiglaf | Wiglaf
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 6
+CROCODILE ROCK | Crikey!  This man's made quite a career as the unconventional "Crocodile Hunter" | Steve Irwin
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+CIRCLE OF LIFE | Its name is from the Middle English for "an object of religious veneration" | relic
+right: 
+Wrong: 
+Dan: God, not a clue.
+Value: DD: $2,700
+Number: 24
+ELTON JOHN | A 1982 Elton John song says "Baby's got" these, the song's title, "holding back the tears" | "Blue Eyes"
+right: Kathy
+Wrong: 
+Value: $1200
+Number: 28
+ROCKET MAN | In 1980 Soyuz 38 carried the first Hispanic man in space, Arnaldo Tamayo-Mendez of this country | Cuba
+right: Dan
+Wrong: 
+Value: DD: $2,500
+Number: 14
+CANDLE IN THE WIND | From Latin for "barely connected", this solid white substance is water-insoluble & can precede "oil" | paraffin
+right: 
+Wrong: Triple Stumper
+William: What is castor?
+Value: $1600
+Number: 12
+I'M STILL STANDIN' | In "Othello": Iago, Othello, Desdemona | Iago
+right: Kathy
+Wrong: 
+Value: $1600
+Number: 7
+CROCODILE ROCK | The god Sobek of this ancient culture was often depicted as a crocodile wearing a headdress | Ancient Egypt
+right: Kathy
+Wrong: 
+Value: $1600
+Number: 19
+CIRCLE OF LIFE | To cause annoyance or ire | rile
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 25
+ELTON JOHN | This man "Signed, Sealed, Delivered" a harmonica solo for Elton's song "I Guess That's Why They Call It The Blues" | Stevie Wonder
+right: William
+Wrong: 
+Value: $1600
+Number: 29
+ROCKET MAN | In 2004 Binnie & Melvill piloted SpaceShipOne on the 2 flights that captured this alphabetic $10 million prize | the X Prize
+right: 
+Wrong: Triple Stumper
+Dan: What's the XYZ Prize?
+Value: $2000
+Number: 15
+CANDLE IN THE WIND | We'd know the type of candle seen <http://www.j-archive.com/media/2006-04-11_DJ_13.jpg> here from this "to post" | a pillar
+right: Dan
+Wrong: 
+Value: $2000
+Number: 13
+I'M STILL STANDIN' | In "Les Miserables": Fantine, Cosette, Jean Valjean | Cosette
+right: Kathy
+Wrong: 
+Value: $2000
+Number: 8
+CROCODILE ROCK | This term for a freshwater crocodile of India sounds like a thief who robs someone in a public place | a mugger
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+CIRCLE OF LIFE | In many fantasy role-playing games, it's a healing class | cleric
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 26
+ELTON JOHN | Completes the apt title of Elton's 1973 album "Don't Shoot Me I'm Only..." | "The Piano Player"
+right: William
+Wrong: 
+Value: $2000
+Number: 30
+Scores at the end of the Double Jeopardy! Round:
+William: $6,000
+Kathy: $14,200
+Dan: $2,800
+
+Final Jeopardy! Round
+THE EARLY 1900s | These 2 nations fought a war on neither nation's soil; the decisive battle came at present-day Shen-Yang | Russia & Japan
+right: William | Kathy
+Wrong: 
+Dan: What is the Russo-Japanese War?
+Wagers: 
+Dan: $2,500
+William: $300
+Kathy: $2,000
+Final scores:
+William: $6,300 (2nd place: $2,000)
+Kathy: $16,200 (New champion: $16,200)
+Dan: $300 (3rd place: $1,000)
+
+Coryat scores
+William: $6,000 (11 R,3 W)
+Kathy: $14,200 (18 R,2 W)
+Dan: $5,600 (13 R(including 1 DD),7 W(including 2 DDs))

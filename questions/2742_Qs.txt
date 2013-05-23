@@ -1,0 +1,351 @@
+4360 - Friday, July 11, 2003
+Contestants:
+Sheryl Martin: a contract administrator from Burbank, California
+Leonard Stoehr: a truck driver from Norcross, Georgia
+Nulty Lynch: a financial printer from Greenbelt, Maryland (whose 2-day cash winnings total $26,400)
+First Jeopardy! Round: YOU'RE SUCH AN ANIMAL, HIT ME WITH THE HITS, HISTORIC HOPEWELL, VIRGINIA, FASHION, ODDS & ENDS, B____G
+YOU'RE SUCH AN ANIMAL | Coots, rails & limpkins are types of these | birds
+right: Nulty
+Wrong: 
+Value: $200
+Number: 16
+HIT ME WITH THE HITS | It was all the rage & on the charts in 1975; so "Do" it! | the "Hustle"
+right: Nulty
+Wrong: 
+Value: $200
+Number: 11
+HISTORIC HOPEWELL, VIRGINIA | Take a driving tour of Hopewell homes built in the 1920s & '30s from this "Softer Side" retailer's mail-order kits | Sears
+right: Nulty
+Wrong: 
+Value: $200
+Number: 26
+FASHION | This '70s style included the ubiquitous safety pin in the nose | Punk
+right: Nulty
+Wrong: 
+Value: $200
+Number: 6
+ODDS & ENDS | This woman married to our 37th president was born farther west than any other first lady | Pat Nixon
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+B____G | It's an error in a computer program | bug
+right: Nulty
+Wrong: 
+Value: $200
+Number: 21
+YOU'RE SUCH AN ANIMAL | The spines on a hedgehog are actually a modified form of this, something you have | hair
+right: Nulty
+Wrong: 
+Sheryl: What are fingernails?
+Value: $400
+Number: 17
+HIT ME WITH THE HITS | You might need a designated driver after listening to this No. 1 hit from 1958 | "Tequila"
+right: Sheryl
+Wrong: 
+Value: $400
+Number: 12
+HISTORIC HOPEWELL, VIRGINIA | City Point, the oldest part of Hopewell, was founded by Sir Thomas Dale in the 13th year of this century | 17th century
+right: Leonard
+Wrong: 
+Value: $400
+Number: 27
+FASHION | Elsa Schiaparelli was influenced by this art movement & even designed the "tear dress" with Dali | Surrealism
+right: Sheryl
+Wrong: 
+Value: $400
+Number: 7
+ODDS & ENDS | It's the city where the Francis Scott Key Bridge spans the Patapsco River estuary | Baltimore
+right: Nulty
+Wrong: 
+Value: $400
+Number: 2
+B____G | If you're really desperate to get something, you may do this, "borrow, or steal" to get it | beg
+right: Leonard
+Wrong: 
+Value: $400
+Number: 22
+YOU'RE SUCH AN ANIMAL | (Sarah of the Clue Crew at the Columbus (Ohio) Zoo)  This 2-word term applied to manatees includes the name of a placid land animal | sea cow
+right: Nulty
+Wrong: 
+Value: $600
+Number: 18
+HIT ME WITH THE HITS | The Ventures had a Top 10 hit with this song in 1969 | "Theme from 'Hawaii Five-O'"
+right: Sheryl
+Wrong: 
+Value: $600
+Number: 13
+HISTORIC HOPEWELL, VIRGINIA | Hopewell is a mere 30 minutes down the road from this capital of the Confederacy | Richmond
+right: Leonard
+Wrong: 
+Value: $600
+Number: 28
+FASHION | The trendsetter for men in the '30s was the Prince of Wales who became this king | Edward VIII
+right: 
+Wrong: 
+Sheryl: Who was Edward VII?
+Value: DD: $400
+Number: 8
+ODDS & ENDS | The book "Heave Ho" describes this June 1944 event as perhaps the greatest mass bout of seasickness ever | D-Day
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+B____G | In police slang, it means "to make a collar" | bag
+right: Nulty
+Wrong: 
+Value: $600
+Number: 23
+YOU'RE SUCH AN ANIMAL | At about 500 pounds, the pygmy species of this is only about 1/10 the mass of the full-sized version | hippopotamus
+right: Nulty
+Wrong: 
+Value: $800
+Number: 19
+HIT ME WITH THE HITS | 72 years after this 1902 song was written, it went to No. 3 on the charts | "The Entertainer"
+right: Sheryl
+Wrong: 
+Value: $800
+Number: 14
+HISTORIC HOPEWELL, VIRGINIA | From his headquarters in what is now Hopewell, this general directed the 1864-65 siege of nearby Petersburg | Ulysses S. Grant
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+FASHION | Last name of designers Domenico & Stefano, they have an & line and a D&G line | Dolce & Gabbana
+right: Sheryl
+Wrong: 
+Value: $800
+Number: 9
+ODDS & ENDS | Seen here, it's the only breed of dog of which it can be categorically said that its bite is worse than its bark | Basenji
+right: Nulty
+Wrong: 
+Leonard: What is a Jack Russell Terrier?
+Value: $800
+Number: 4
+B____G | Whitney & Yanni are among the artists on this label | BMG
+right: Nulty
+Wrong: 
+Value: $800
+Number: 24
+YOU'RE SUCH AN ANIMAL | Meaning "intoxicated", musth is when the bulls of the African or Asian species of these go beserk | elephants
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+HIT ME WITH THE HITS | Reaching No. 1 in 1962, this song was the first by a British group to top the U.S. charts | "Telstar"
+right: Leonard
+Wrong: 
+Value: $1000
+Number: 15
+HISTORIC HOPEWELL, VIRGINIA | Hopewell got a major boost in its development when this Delaware chemical company started a factory there in 1914 | DuPont
+right: Leonard
+Wrong: 
+Value: $1000
+Number: 30
+FASHION | 1958 saw his Trapeze line debut at Dior | Yves Saint Laurent
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+ODDS & ENDS | The Latin name of this ocean creature is Xiphias gladius | swordfish
+right: Leonard
+Wrong: 
+Value: $1000
+Number: 5
+B____G | Mystery author Katherine Hall Page has put "The Body in the Cast", "The Body in the Kelp" & "The Body in" this | the Bog
+right: Nulty
+Wrong: 
+Sheryl: What is the bag?
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Nulty: $1,600
+Leonard: $1,200
+Sheryl: $2,600
+Scores at the end of the Jeopardy! Round:
+Nulty: $6,400
+Leonard: $3,600
+Sheryl: $1,200
+Second Jeopardy! Round: ART & ARTISTS, AT THE MOVIES, WHO ARE YOU TALKING TO?, JOE COLLEGE, BY THE SEA, FILE UNDER "F"
+ART & ARTISTS | In 1888 this painter suffered one of his first attacks of madness, while Paul Gauguin was visiting him | Vincent Van Gogh
+right: Sheryl
+Wrong: 
+Value: $400
+Number: 6
+AT THE MOVIES | This person appeared in more than 35 Alfred Hitchcock movies | Alfred Hitchcock
+right: Nulty
+Wrong: 
+Value: $400
+Number: 1
+WHO ARE YOU TALKING TO? | Cleopatra: "Leave the fishing-rod...to us poor sovereigns of Pharos...your game is cities, provinces & kingdoms" | Mark Antony
+right: Nulty
+Wrong: 
+Leonard: Who is Caesar?
+Value: $400
+Number: 26
+JOE COLLEGE | Seen here, Yale Law, 1967 | Joseph Lieberman
+right: Leonard
+Wrong: 
+Value: $400
+Number: 21
+BY THE SEA | The lowest points of Aruba & Anguilla are at sea level -- this sea | Caribbean Sea
+right: Sheryl
+Wrong: 
+Value: $400
+Number: 16
+FILE UNDER "F" | Justice Felix, or a hot dog | Frankfurter
+right: Leonard
+Wrong: 
+Nulty: What is Frank?
+Value: $400
+Number: 11
+ART & ARTISTS | His "Arrangement in Grey and Black, No. 2" featured Thomas Carlyle, not his mother | James McNeill Whistler
+right: Nulty
+Wrong: 
+Value: $800
+Number: 7
+AT THE MOVIES | In the 1937 film version, he's Snow White's only beardless dwarf | Dopey
+right: Sheryl
+Wrong: 
+Value: $800
+Number: 2
+WHO ARE YOU TALKING TO? | Churchill: "You do your worst -- and we will do our best" | Adolf Hitler
+right: Nulty
+Wrong: 
+Value: $800
+Number: 27
+JOE COLLEGE | Seen here, UCLA Law, 1973 | Judge Joe Brown
+right: Nulty
+Wrong: 
+Value: $800
+Number: 22
+BY THE SEA | The Sea of Marmara, between the Bosporus & Dardanelles Straits, is bounded by this country | Turkey
+right: Sheryl
+Wrong: 
+Value: $800
+Number: 17
+FILE UNDER "F" | An amazing stroke of luck, or an alternate name for the summer flounder | fluke
+right: Nulty
+Wrong: 
+Value: $800
+Number: 12
+ART & ARTISTS | Expressionist movements that started in this country included "The Bridge" & "The Blue Rider" | Germany
+right: Leonard
+Wrong: 
+Value: $1200
+Number: 8
+AT THE MOVIES | Disney's first live-action comedy, this 1959 film starred Tommy Kirk as a boy who changes into a sheepdog | The Shaggy Dog
+right: Nulty
+Wrong: 
+Value: $1200
+Number: 3
+WHO ARE YOU TALKING TO? | Lincoln: "Pardon me for asking what the horses of your army have done since...Antietam that fatigue anything?" | George McClellan
+right: 
+Wrong: Triple Stumper
+Nulty: Who is Davis?
+Leonard: Who is Lee?
+Value: $1200
+Number: 28
+JOE COLLEGE | Attended Alabama 1961-1965; played some varsity football | Joe Namath
+right: Leonard
+Wrong: 
+Value: $1200
+Number: 23
+BY THE SEA | A visit to the southern Israeli resort city of Eilat might include snorkeling in this sea | Red Sea
+right: 
+Wrong: Triple Stumper
+Leonard: What is the Dead Sea?
+Value: $1200
+Number: 18
+FILE UNDER "F" | The fiddlehead fronds of these graceful green plants taste a bit like green beans & asparagus | ferns
+right: Nulty
+Wrong: 
+Value: $1200
+Number: 13
+ART & ARTISTS | (Cheryl of the Clue Crew at Rembrandt's house in Amsterdam)  Rembrandt did much of his work in this studio, including this philosopher "Contemplating the Bust of Homer" | Aristotle
+right: Nulty
+Wrong: 
+Value: $1600
+Number: 9
+AT THE MOVIES | In this 1978 film, Vietnam vet Christopher Walken plays Russian Roulette for a living | The Deer Hunter
+right: Leonard
+Wrong: 
+Value: $1600
+Number: 4
+WHO ARE YOU TALKING TO? | Joseph Welch: "Have you no sense of decency, sir?" | Senator Joseph McCarthy
+right: 
+Wrong: 
+Nulty: Who is Churchill?
+Value: DD: $1,600
+Number: 29
+JOE COLLEGE | Brown (not Penn State), 1950 | Joe Paterno
+right: Leonard
+Wrong: 
+Value: $1600
+Number: 24
+BY THE SEA | This "Port" city, a national capital, lies on the Gulf of Papua, an inlet of the Coral Sea | Port Moresby
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 19
+FILE UNDER "F" | Here's the buzz: its scientific genus is Drosophila | fruit fly
+right: Nulty
+Wrong: 
+Value: $1600
+Number: 14
+ART & ARTISTS | French Fauvist famous for his 1905 "Woman with a Hat" & a mural in a Pennsylvania museum | Henri Matisse
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 10
+AT THE MOVIES | This Swedish film director's classics include "The Virgin Spring", "The Silence" & "Wild Strawberries" | Ingmar Bergman
+right: Leonard
+Wrong: 
+Value: $2000
+Number: 5
+WHO ARE YOU TALKING TO? | Samuel Johnson: "I'll come no more behind your scenes, David; for...your actresses excite my amorous propensities" | David Garrick
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+JOE COLLEGE | West Point (to learn "fighting"), 1837 | Joe Hooker
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+BY THE SEA | On the North Sea, this Dutch province whose name includes the Dutch for "sea", was badly flooded in 1953 | Zeeland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 20
+FILE UNDER "F" | Good "Afternoon" to this creature who's half-goat & half-human | faun
+right: 
+Wrong: 
+Nulty: No.
+Value: DD: $2,000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Nulty: $10,800
+Leonard: $9,200
+Sheryl: $3,600
+
+Final Jeopardy! Round
+FICTIONAL PLACES | Wilton, Connecticut, a quiet, affluent town near New York City, was the basis for this title town in a 1972 novel | Stepford
+right: 
+Wrong: 
+Sheryl: What is Jonestown
+Leonard: What is ?
+Nulty: What is ?
+Wagers: 
+Sheryl: $3,500
+Leonard: $1,601
+Nulty: $7,601
+Final scores:
+Nulty: $3,199 (2nd place: $2,000)
+Leonard: $7,599 (New champion: $7,599)
+Sheryl: $100 (3rd place: $1,000)
+
+Coryat scores
+Nulty: $14,400 (23 R,4 W(including 2 DDs))
+Leonard: $9,200 (13 R,4 W)
+Sheryl: $4,000 (9 R,3 W(including 1 DD))

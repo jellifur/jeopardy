@@ -1,0 +1,351 @@
+5190 - Friday, March 16, 2007
+Comments: First nonzero three-way tie.
+Contestants:
+Anders Martinson: a quality assurance engineer from Union City, California
+Jamey Kirby: a humanities teacher originally from Live Oak, Florida
+Scott Weiss: a computer science professor from Walkersville, Maryland (whose 2-day cash winnings total $45,001)
+First Jeopardy! Round: IRELAND, "LEP"RECHAUN, SHAM ROCKS, GREEN BEERS, ST. PATRICK'S DAY, PARADES
+IRELAND | Lourdes got a visitation from this person only; a shrine at Knock, Ireland got Joseph & John the Evangelist, too | the Virgin Mary
+right: 
+Wrong: Triple Stumper
+Scott: Who is St. Patrick?
+Jamey: Who is Jesus?
+Value: $200
+Number: 11
+"LEP"RECHAUN | Frederic Myers, a psychic researcher, coined this term for communications from one mind to another | telepathy
+right: Scott
+Wrong: 
+Value: $200
+Number: 15
+SHAM ROCKS | Some colorless forms of this element with the chemical symbol Zr are known as matura diamonds | zirconium
+right: Jamey
+Wrong: 
+Value: $200
+Number: 7
+GREEN BEERS | This Bremen beer's motto appropriately reads "Life beckons" | Beck's
+right: Jamey
+Wrong: 
+Value: $200
+Number: 1
+ST. PATRICK'S DAY | It's said Patrick drove these things out of Ireland; no truth he said, "I am tired of these bleepin' things in Ireland" | snakes
+right: Jamey
+Wrong: 
+Value: $200
+Number: 12
+PARADES | Matthew Broderick sings "Twist And Shout" from atop a float during Chicago's Von Steuben Day Parade in this film | Ferris Bueller's Day Off
+right: Jamey
+Wrong: 
+Value: $200
+Number: 26
+IRELAND | As in Lough Allen or Lough Corrib, a lough in Irish is one of these geographic features | a lake
+right: Jamey
+Wrong: 
+Value: $400
+Number: 10
+"LEP"RECHAUN | This Yiddish word means "to lug" or "to move in a tedious fashion" | schlepp
+right: Scott
+Wrong: 
+Value: $400
+Number: 16
+SHAM ROCKS | Gary Dahl used 3 tons of stone from Rosarito Beach to create these 1970s fads that couldn't even fetch | Pet Rocks
+right: Jamey
+Wrong: 
+Value: $400
+Number: 22
+GREEN BEERS | Brittany Evans is the new icon for this beer that's named in honor of an old German monastery | St. Pauli's
+right: Scott
+Wrong: 
+Value: $400
+Number: 3
+ST. PATRICK'S DAY | Born on this island near Ireland, Patrick was kidnapped by pirates & sold into Irish slavery at the age of 16 | Great Britain
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 13
+PARADES | A verdant villain crashes the World Unity Parade in this 2002 Tobey Maguire film | Spider-Man
+right: Jamey
+Wrong: 
+Value: $400
+Number: 27
+IRELAND | This popular tourist attraction is also known as the Stone of Eloquence | the Blarney Stone
+right: Anders
+Wrong: 
+Value: $600
+Number: 9
+"LEP"RECHAUN | This neurological disorder marked by seizures can produce disturbances in the brain's electrical activity | epilepsy
+right: Anders
+Wrong: 
+Value: $600
+Number: 17
+SHAM ROCKS | Many experts have doubted the authenticity of a kouros statue at this oilman's L.A. museum | (J. Paul) Getty
+right: Scott
+Wrong: 
+Value: $600
+Number: 23
+GREEN BEERS | Dennis Hopper has a particular aversion to this Dutch beer in the movie "Blue Velvet" | Heineken
+right: Anders
+Wrong: 
+Value: $600
+Number: 4
+ST. PATRICK'S DAY | In his 6 years as a slave, Patrick held this farm job, tending to his first flock | shepherd
+right: Anders
+Wrong: 
+Value: $600
+Number: 14
+PARADES | Irving Berlin penned 17 musical numbers for this Fred Astaire-Judy Garland holiday film | Easter Parade
+right: Anders
+Wrong: 
+Value: $600
+Number: 28
+IRELAND | (<http://www.j-archive.com/media/2007-03-16_J_02.jpg> Cheryl of the Clue Crew reports from Dublin, Ireland.) "Ulysses" captures the sight, sound & even products of Dublin; this man, who represents Ulysses, wonders, "What is home without <http://www.j-archive.com/media/2007-03-16_J_02a.jpg> Plumtree's Potted Meat?" | (Leopold) Bloom
+right: Scott
+Wrong: 
+Value: $800
+Number: 2
+"LEP"RECHAUN | This alcoholic drink is traditionally served at the Kentucky Derby | a mint julep
+right: Jamey
+Wrong: 
+Value: $800
+Number: 18
+SHAM ROCKS | In 2000 NASA helped bust a man who pled guilty to trying to sell these fake items from Apollo 11 | moon rocks
+right: Jamey
+Wrong: 
+Value: $800
+Number: 24
+GREEN BEERS | Brewed since 1615, this Dutch beer with a green bottle has a swingtop cap | Grolsch
+right: Anders
+Wrong: 
+Value: $800
+Number: 5
+ST. PATRICK'S DAY | Patrick is said to have founded more than 300 churches & administered this sacrament to 120,000 people | baptism
+right: 
+Wrong: Triple Stumper
+Scott: What is communion?
+Anders: What is Eucharist?
+Value: $800
+Number: 19
+PARADES | Kent Dorfman's brother's car is reborn as the Deathmobile & is sprung from an "Eat Me" cake float in this film | Animal House
+right: Jamey
+Wrong: 
+Value: $800
+Number: 29
+IRELAND | Pull out the stopper! This southern Irish city is the country's second largest | Cork
+right: Jamey
+Wrong: 
+Value: DD: $1,000
+Number: 8
+"LEP"RECHAUN | A parasitic bacterium causes this infectious disease that affects the skin & the peripheral nervous system | leprosy
+right: Jamey
+Wrong: 
+Value: $1000
+Number: 21
+SHAM ROCKS | To stop graffiti on the real thing, visitors can now sign a fake replica of this in the Juyongguan section | the Great Wall of China
+right: Jamey
+Wrong: 
+Value: $1000
+Number: 25
+GREEN BEERS | Tonight let it be this beer of Munich that's properly spelled with 2 umlauts | Löwenbräu
+right: Anders
+Wrong: 
+Scott: What is Michelob?
+Value: $1000
+Number: 6
+ST. PATRICK'S DAY | Around 450 A.D. Patrick wrote "The" this book about his spiritual development; it was "good for the soul" | The Confession
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+PARADES | A Temperance Union Parade is used for cover by escaping bank robbers in this Peckinpah classic | The Wild Bunch
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Scott: $0
+Jamey: $1,800
+Anders: $3,600
+Scores at the end of the Jeopardy! Round:
+Scott: $400
+Jamey: $7,200
+Anders: $4,000
+Second Jeopardy! Round: AT THE MARK TWAIN HOUSE, JEOPARDY! IN POP CULTURE, IT HAPPENED IN '07, ALPHABETICALLY LAST, THE ANCIENTS, FIGHTIN' WORDS
+AT THE MARK TWAIN HOUSE | (<http://www.j-archive.com/media/2007-03-16_DJ_16.jpg> Alex Trebek delivers the clue from the Mark Twain House in Hartford, CT.)  Twain owned one of the first telephones installed in a private home, but he once wished that all of us may eventually be gathered together in heaven, except for this man | (Alexander Graham) Bell
+right: Scott
+Wrong: 
+Value: $400
+Number: 16
+JEOPARDY! IN POP CULTURE | His "Rain Man" character Raymond Babbitt had to watch "Jeopardy!" at 5:00 | Dustin Hoffman
+right: Scott
+Wrong: 
+Value: $400
+Number: 5
+IT HAPPENED IN '07 | 1607: This site is settled in what would become the first permanent English colony in the New World | Jamestown
+right: Scott
+Wrong: 
+Value: $400
+Number: 1
+ALPHABETICALLY LAST | ...of the Ivy League universities | Yale
+right: Anders
+Wrong: 
+Value: $400
+Number: 21
+THE ANCIENTS | Demosthenes of Athens railed against Philip, "Not even a barbarian... a vile fellow of" this land | Macedonia
+right: Jamey
+Wrong: 
+Value: $400
+Number: 9
+FIGHTIN' WORDS | If you've been beaten senseless, someone's "knocked" this gooey roofing material "out of you" | tar
+right: Anders
+Wrong: 
+Value: $400
+Number: 24
+AT THE MARK TWAIN HOUSE | Twain & his wife bought their bed in this romantic city of canals (iconoclast Twain slept feet toward the headboard) | Venice
+right: Anders
+Wrong: 
+Value: $800
+Number: 17
+JEOPARDY! IN POP CULTURE | In his "Nightmares & Dreamscapes", he penned a short story about a disembodied finger bothering a "Jeopardy!" viewer | Stephen King
+right: Scott
+Wrong: 
+Value: $800
+Number: 18
+IT HAPPENED IN '07 | 1707: This prominent Japanese landmark erupts | Mount Fuji
+right: Jamey
+Wrong: 
+Value: $800
+Number: 2
+ALPHABETICALLY LAST | ...of U.S. National Parks (& please don't get "Y"s with us) | Zion
+right: Scott
+Wrong: 
+Jamey: What is Yosemite?
+Value: $800
+Number: 22
+THE ANCIENTS | In 55 B.C. Cicero published "On" this type of person who may be described as silver-tongued | an orator
+right: Scott
+Wrong: 
+Value: $800
+Number: 12
+FIGHTIN' WORDS | This French term dates to the practice of knights assuming special names for battle | nom de guerre
+right: 
+Wrong: Triple Stumper
+Scott: What is nom de plume?
+Value: $800
+Number: 26
+AT THE MARK TWAIN HOUSE | (<http://www.j-archive.com/media/2007-03-16_DJ_19.jpg> Alex Trebek delivers the clue from the Mark Twain House in Hartford, CT.)  Appropriately, Mark Twain resided here in Hartford while he worked on this 1889 novel about a Hartford man who travels back in time to medieval England | A Connecticut Yankee in King Arthur's Court
+right: Jamey
+Wrong: 
+Value: $1200
+Number: 19
+JEOPARDY! IN POP CULTURE | During a TV ad for this chain, a Chihuahua walking through a room paused to give a "Jeopardy!" response | Taco Bell
+right: Jamey
+Wrong: 
+Value: $1200
+Number: 10
+IT HAPPENED IN '07 | 1507: On the maps of Martin Waldseemuller, the New World is called this | America
+right: Anders
+Wrong: 
+Value: $1200
+Number: 4
+ALPHABETICALLY LAST | ...of our 43 U.S. presidents by first name | Zachary Taylor
+right: Scott
+Wrong: 
+Value: DD: $1,000
+Number: 23
+THE ANCIENTS | He's the Greek shown <http://www.j-archive.com/media/2007-03-16_DJ_13.jpg> here practicing his craft in a work by Raphael | Euclid
+right: 
+Wrong: 
+Scott: Who's John the Baptist?
+Value: DD: $2,000
+Number: 13
+FIGHTIN' WORDS | This adjective that means "inclined to fight" comes from the same root as "pugilistic" | pugnacious
+right: Scott
+Wrong: 
+Value: $1200
+Number: 27
+AT THE MARK TWAIN HOUSE | Among Twain's many guests was this creator of Uncle Remus whose stories Twain read to his daughters | (Joel Chandler) Harris
+right: Scott
+Wrong: 
+Value: $1600
+Number: 11
+JEOPARDY! IN POP CULTURE | "Jeopardy!" appears in the Kiefer Sutherland movie sharing part of its name with a game show--this city, "N.M." | Truth or Consequences
+right: Scott
+Wrong: 
+Jamey: What is Truth and Consequences?
+Value: $1600
+Number: 3
+IT HAPPENED IN '07 | 1307: On Friday the 13th of October, thousands of members of this order of knights are arrested in France | the Knights Templar
+right: Scott
+Wrong: 
+Value: $1600
+Number: 6
+ALPHABETICALLY LAST | ...among books of the Pentateuch | Numbers
+right: Scott
+Wrong: 
+Value: $1600
+Number: 25
+THE ANCIENTS | Paradoxically, Epimenides advised, "All Cretans are" these; the tricky part is, he was a Cretan himself | liars
+right: Scott
+Wrong: 
+Value: $1600
+Number: 14
+FIGHTIN' WORDS | This adjective meaning "belligerent" or "eager to fight" comes from Latin for "pertaining to war" | bellicose
+right: Jamey
+Wrong: 
+Value: $1600
+Number: 28
+AT THE MARK TWAIN HOUSE | (<http://www.j-archive.com/media/2007-03-16_DJ_20.jpg> Alex Trebek delivers the clue from the Mark Twain House in Hartford, CT.)  The style of Mark Twain's <http://www.j-archive.com/media/2007-03-16_DJ_20a.jpg> home here in Hartford exemplifies this ornate age, also the title of a book Twain wrote with his neighbor Charles Dudley Warner | the Gilded Age
+right: Scott
+Wrong: 
+Jamey: What is the... ohh.  Age of Innocence?
+Value: $2000
+Number: 20
+JEOPARDY! IN POP CULTURE | To win enough money to "try to take over the world", one of this WB animated pair went on the show "Gyp-parody" | Pinky & The Brain
+right: Scott
+Wrong: 
+Value: $2000
+Number: 8
+IT HAPPENED IN '07 | 1207: This English king grants the city of Liverpool its first charter | King John
+right: Jamey
+Wrong: 
+Value: $2000
+Number: 7
+ALPHABETICALLY LAST | ...of the 7 nations of Central America | Panama
+right: Anders
+Wrong: 
+Scott: What is Nicaragua?
+Value: $2000
+Number: 30
+THE ANCIENTS | Like his boy, the wealthy father of the future Emperor Augustus was named Gaius this | Octavius
+right: 
+Wrong: Triple Stumper
+Jamey: What is Graccus?
+Anders: What is Caesar?
+Value: $2000
+Number: 15
+FIGHTIN' WORDS | In Cockney rhyming slang, a wife is "trouble and" this type of discord | strife
+right: Anders
+Wrong: 
+Value: $2000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Scott: $13,400
+Jamey: $8,000
+Anders: $8,000
+
+Final Jeopardy! Round
+WOMEN OF THE 1930s | 1 of the men who shot her realized when he saw her body that she'd often waited on him at a cafe in Dallas | Bonnie Parker
+right: Anders | Jamey | Scott
+Wrong: 
+Wagers: 
+Anders: $8,000
+Jamey: $8,000
+Scott: $2,600
+Final scores:
+Scott: $16,000 (3-day co-champion: $61,001)
+Jamey: $16,000 (New co-champion: $16,000)
+Anders: $16,000 (New co-champion: $16,000)
+
+Coryat scores
+Scott: $15,600 (20 R(including 1 DD),6 W(including 1 DD))
+Jamey: $8,000 (19 R(including 1 DD),5 W)
+Anders: $8,000 (13 R,3 W)

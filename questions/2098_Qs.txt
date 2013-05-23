@@ -1,0 +1,334 @@
+3642 - Tuesday, June 6, 2000
+Contestants:
+Gene Newmier: a family physician from Trappe, Maryland
+Rahul Ranadive: a lawyer from Miami, Florida
+Robin Zorthian: a part-time administrator from Greenwich, Connecticut (whose 1-day cash winnings total $20,500)
+First Jeopardy! Round: COUNTRIES OF THE WORLD, TO THE NEAREST..., THE MOVIES, HURRICANES, AMERICA-PODGE, BEASTLY RHYME TIME
+COUNTRIES OF THE WORLD | Under Hussein I this country gave its women the right to vote in 1973 | Jordan
+right: Rahul
+Wrong: 
+Value: $100
+Number: 3
+TO THE NEAREST... | To the nearest minute, it's how long it took Secretariat to run the Kentucky Derby in 1973 | 2 minutes
+right: Robin
+Wrong: 
+Value: $100
+Number: 13
+THE MOVIES | (Hi, I'm Drake Hogestyn)  You can meet me as John Black on "Days of our Lives" & you may have "met" this actor as Joe Black in a '98 film | Brad Pitt
+right: Robin
+Wrong: 
+Value: $100
+Number: 19
+HURRICANES | In 1995 Hurricane Peter McNeely was this boxer's first post-prison victim | Mike Tyson
+right: Rahul
+Wrong: 
+Robin: Who is Rubin Carter?
+Value: $100
+Number: 8
+AMERICA-PODGE | On the evening of Nov. 3, 1992 he learned he was the first runner-up in the U.S. presidential election | George H.W. Bush
+right: Gene
+Wrong: 
+Value: $100
+Number: 26
+BEASTLY RHYME TIME | A marine bivalve's improvisational music session | Clam jam
+right: Robin
+Wrong: 
+Value: $100
+Number: 1
+COUNTRIES OF THE WORLD | Girls can see geysers in this country where the name originated | Iceland
+right: Robin
+Wrong: 
+Value: $200
+Number: 4
+TO THE NEAREST... | According to the USDA food guide pyramid, to the nearest ounce, the serving size for ready-to-eat cereal | 1 ounce
+right: 
+Wrong: Triple Stumper
+Robin: What is 4 ounces?
+Rahul: What is 6 ounces?
+Value: $200
+Number: 14
+THE MOVIES | In this Christmas 1999 release Winona Ryder had a holly Jolie time with Angelina in the mental institute | Girl, Interrupted
+right: Robin
+Wrong: 
+Value: $200
+Number: 22
+HURRICANES | A chimney on a hurricane lamp is usually made out of this | Glass
+right: Robin
+Wrong: 
+Value: $200
+Number: 9
+AMERICA-PODGE | A national historic landmark since 1964, it links 2 NYC boroughs & bears the name of one of them | Brooklyn Bridge
+right: Robin
+Wrong: 
+Value: $200
+Number: 27
+BEASTLY RHYME TIME | Bambi's camping equipment | Deer gear
+right: Gene
+Wrong: 
+Value: $200
+Number: 2
+COUNTRIES OF THE WORLD | Calabria is a region in the "toe" of this country's "boot" | Italy
+right: Gene
+Wrong: 
+Value: $300
+Number: 5
+TO THE NEAREST... | To the nearest 50, number of years Harper's Magazine has been in existence | 150 (founded in 1850)
+right: Rahul
+Wrong: 
+Value: $300
+Number: 15
+THE MOVIES | The poster for this Rita Hayworth classic is seen here: | Gilda
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 23
+HURRICANES | The Spitfire & the Hawker Hurricane are types of these | Airplanes
+right: Robin
+Wrong: 
+Value: $300
+Number: 16
+BEASTLY RHYME TIME | A discount on Shamu | Whale sale
+right: Robin
+Wrong: 
+Rahul: What is a whale deal?
+Value: $300
+Number: 10
+COUNTRIES OF THE WORLD | This Central American country's name means "depths"; it's what Columbus named the region | Honduras
+right: Gene
+Wrong: 
+Value: $400
+Number: 6
+TO THE NEAREST... | To the nearest 10, the number of states in the Union during our centennial year | 40  (37 or 38)
+right: Robin
+Wrong: 
+Rahul: What is 20?
+Gene: What is 30?
+Value: $400
+Number: 20
+THE MOVIES | Dolly Parton turns a cabdriver, played by this actor, into a country singer in "Rhinestone" | Sylvester Stallone
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+HURRICANES | "My Fair Lady" tune with the line "In Hertford, Hereford and Hampshire, hurricanes hardly happen" | "The Rain in Spain"
+right: Robin
+Wrong: 
+Value: DD: $500
+Number: 17
+BEASTLY RHYME TIME | Bucky's broad-bladed butcher knives | Beaver's cleavers
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+COUNTRIES OF THE WORLD | If you wear your DKNY to the DPRK, you'll be well dressed in this east Asian land | North Korea
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 7
+TO THE NEAREST... | To the nearest mile, the height of Mount McKinley | 4 (20,000 feet & change)
+right: Gene
+Wrong: 
+Value: $500
+Number: 21
+THE MOVIES | She got an Oscar nomination for playing the Mrs. of "Mr. & Mrs. Bridge" | Joanne Woodward
+right: Robin
+Wrong: 
+Value: $500
+Number: 25
+HURRICANES | In 1984 this arachnid group had a Top 40 hit with "Rock You Like a Hurricane" | The Scorpions
+right: Gene
+Wrong: 
+Value: $500
+Number: 18
+BEASTLY RHYME TIME | The pile where the woolly farm animals are stacked | Sheep heap
+right: Robin
+Wrong: 
+Value: $500
+Number: 12
+Scores at the first commercial break (after clue 15)
+Robin: $1,100
+Rahul: $0
+Gene: $0
+Scores at the end of the Jeopardy! Round:
+Robin: $3,300
+Rahul: -$400
+Gene: $200
+Second Jeopardy! Round: ZOOLOGY, SPORTS ANNOUNCERS, WHO CREATED 'EM?, WINGS, DIVINATION, "CAPE"s
+ZOOLOGY | Unlike other crabs, it has a shell on its abdomen, forcing it to look constantly for temporary housing | Hermit crab
+right: Rahul
+Wrong: 
+Value: $200
+Number: 6
+SPORTS ANNOUNCERS | Bob Cousy, who spent 13 years as a guard for this team, can now be found in its broadcast booth | Boston Celtics
+right: Robin
+Wrong: 
+Value: $200
+Number: 1
+WHO CREATED 'EM? | Gooper Pollitt, Jim O'Connor, Stella Kowalski | Tennessee Williams
+right: Rahul
+Wrong: 
+Value: $200
+Number: 21
+WINGS | This Roman god is often depicted in art as a chubby, winged infant wearing a blindfold | Cupid
+right: Rahul
+Wrong: 
+Value: $200
+Number: 16
+DIVINATION | His prophesies, "The Centuries", said to reach to the year 3797, were first published in 1555 | Nostradamus
+right: Robin
+Wrong: 
+Value: $200
+Number: 25
+"CAPE"s | Batman's sobriquet | "The Caped Crusader"
+right: Rahul
+Wrong: 
+Value: $200
+Number: 11
+ZOOLOGY | This Greek philosopher who studied animals in the 300s B.C. is often called the "Father of Zoology" | Aristotle
+right: Robin
+Wrong: 
+Value: $400
+Number: 7
+SPORTS ANNOUNCERS | In 2000 this multi-sport announcer seen here moved to CBS after 25 years at NBC: | Dick Enberg
+right: Gene
+Wrong: 
+Value: $400
+Number: 2
+WHO CREATED 'EM? | Gabriel Conroy, Simon Dedalus, Leopold Bloom | James Joyce
+right: Robin
+Wrong: 
+Value: $400
+Number: 22
+WINGS | Martin Sheen plays President Josiah Bartlet in this NBC series about behind-the-scenes activities at the White House | The West Wing
+right: Robin
+Wrong: 
+Value: $400
+Number: 17
+DIVINATION | The 3 main oracle sites in Greece were Dodona, Delos & this other "D" location | Delphi
+right: Gene
+Wrong: 
+Value: $400
+Number: 29
+"CAPE"s | Although the JFK Space Center was once located here, then Cape Kennedy, it was moved to Merritt Island in 1964 | Cape Canaveral
+right: Gene
+Wrong: 
+Value: $400
+Number: 12
+ZOOLOGY | This pet bird comes in 2 main types, depending on its singing: choppers & rollers | Canaries
+right: Gene
+Wrong: 
+Rahul: What are parakeets?
+Value: $600
+Number: 8
+SPORTS ANNOUNCERS | The Olympics & "Wide World of Sports" are covered in announcer Jim's autobiography "The Real" this | McKay
+right: Gene
+Wrong: 
+Value: $600
+Number: 3
+WHO CREATED 'EM? | Eliot Rosewater, Dr. Felix Hoenikker, Billy Pilgrim | Kurt Vonnegut
+right: Gene
+Wrong: 
+Value: $600
+Number: 23
+WINGS | These hinged flaps on the trailing edges of wings are used to make an airplane bank to the right or to the left | Ailerons
+right: 
+Wrong: Triple Stumper
+Robin: What are arielons?
+Value: $600
+Number: 18
+DIVINATION | Many modern packs of these cards go back to the design of the 1910 Rider-Waite pack | Tarot cards
+right: Rahul
+Wrong: 
+Value: $600
+Number: 26
+"CAPE"s | This African ox can kill lions with its heavy hoofs & horns | Cape buffalo
+right: Gene
+Wrong: 
+Value: $600
+Number: 13
+ZOOLOGY | The name of this colorful baboon relative sounds like it could be a synonym for a guy with a jackhammer | Mandrill
+right: 
+Wrong: Triple Stumper
+Robin: What is a blue riveter?
+Value: $800
+Number: 9
+SPORTS ANNOUNCERS | The 1980 U.S. Olympic hockey team inspired Al Michaels to ask this 5-word question | "Do you believe in miracles?"
+right: Rahul
+Wrong: 
+Value: $800
+Number: 4
+WHO CREATED 'EM? | Ike McCaslin, Percy Grimm, Benjy Compson | William Faulkner
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+WINGS | A winged god named Ahura Mazda is the symbol of this ancient Persian religion | Zoroastrianism
+right: Rahul
+Wrong: 
+Value: $800
+Number: 19
+DIVINATION | Chinese for "The Book of Changes", it's a set of 64 symbols, set some 4,000 years ago | I Ching
+right: Rahul
+Wrong: 
+Value: DD: $1,000
+Number: 27
+"CAPE"s | This 1 1/2 story wooden cottage style has a central chimney & is covered by a gabled roof | Cape Cod
+right: Gene
+Wrong: 
+Value: $800
+Number: 14
+ZOOLOGY | This burrowing rodent has fur-lined pouches on the outside of its cheeks in which it carries food | Pocket gopher
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+SPORTS ANNOUNCERS | The voice of the Yankees & later of "This Week in Baseball", he was known for his cry of "How about that!" | Mel Allen
+right: Gene
+Wrong: 
+Value: $1000
+Number: 5
+WHO CREATED 'EM? | Hedda Tesman, Helen Alving, Knut Brovik | Henrik Ibsen
+right: 
+Wrong: 
+Value: DD: $700
+Number: 30
+WINGS | The prophet Isaiah describes these angels as having 6 wings: 2 to cover their faces, 2 to cover their feet & 2 to fly | Seraphim
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+DIVINATION | For an actor to see if he's getting cast in the new Viking movie, he may cast these, letters of a Norse alphabet | Runes
+right: Robin
+Wrong: 
+Value: $1000
+Number: 28
+"CAPE"s | This African island republic is of volcanic origin but today has only one active crater, on Fogo Island | Cape Verde Islands
+right: Gene
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Robin: $4,500
+Rahul: $3,000
+Gene: $4,500
+
+Final Jeopardy! Round
+NEW CLASSICAL MUSIC | In 1999 in Norfolk, the Virginia Symphony premiered Steve Heitzeg's "Aqua", an homage to this man | Jacques Cousteau
+right: 
+Wrong: 
+Rahul: Who is Aqua man
+Gene: Who is Washington
+Robin: Who is Jefferson
+Wagers: 
+Rahul: $0
+Gene: $4,400
+Robin: $2,000
+Final scores:
+Robin: $2,500 (2nd place: Trip to Spice Island Beach Resort, Grenada)
+Rahul: $3,000 (New champion: $3,000)
+Gene: $100 (3rd place: Samsung 8mm Camcorder)
+
+Coryat scores
+Robin: $4,400 (19 R(including 1 DD),4 W)
+Rahul: $2,800 (11 R(including 1 DD),4 W)
+Gene: $5,200 (16 R,8 W(including 1 DD))

@@ -1,0 +1,341 @@
+2980 - Friday, July 11, 1997
+Contestants:
+Steve Muni: a cooking writer from Jackson, California
+Jeff Pilgreen: a waiter from Woodbury, Minnesota
+Kim Simkins: a paralegal from Santa Barbara, California (whose 1-day cash winnings total $10,900)
+First Jeopardy! Round: THE 1800S, SPORTS, FASHION HISTORY, ANIMALS, AMERICAN HODGEPODGE, CURRENT EXPRESSIONS
+THE 1800S | When Stonewall Jackson was fatally wounded, he had this French emperor's "Maxims of War" in his haversack | Napoleon
+right: Jeff
+Wrong: 
+Value: $100
+Number: 4
+SPORTS | On November 30, 1996 this Bulls player became the 10th in NBA history to reach 25,000 career points | Michael Jordan
+right: Jeff
+Wrong: 
+Value: $100
+Number: 26
+FASHION HISTORY | This hair color of Elizabeth I was quite fashionable in 16th century England | red
+right: Kim
+Wrong: 
+Value: $100
+Number: 1
+ANIMALS | In 1956 it was discovered that hamsters could be infected with this "common" human malady | the common cold
+right: Steve
+Wrong: 
+Value: $100
+Number: 10
+AMERICAN HODGEPODGE | It's West Virginia's capital, not its state dance | Charleston
+right: Jeff
+Wrong: 
+Kim: What is Wheeling?
+Value: $100
+Number: 15
+CURRENT EXPRESSIONS | It's the "sport" of changing from NBC to TNT to CNN to GSN to HBO... | channel surfing
+right: Jeff
+Wrong: 
+Value: $100
+Number: 21
+THE 1800S | Eleonora Duse starred in the title role in the play "Denise" by this famous French "fils" | Alexandre Dumas
+right: Steve
+Wrong: 
+Value: $200
+Number: 5
+SPORTS | This German won 7 of 9 Wimbledon women's singles titles from 1988-1996 | Steffi Graf
+right: Kim
+Wrong: 
+Value: $200
+Number: 27
+FASHION HISTORY | In the 1930s, loose pants outfits worn for lounging were known by this "sleepwear" term | pajamas
+right: Jeff
+Wrong: 
+Value: $200
+Number: 2
+ANIMALS | Many American breeds of this animal, like the rambouillet, are raised more for their fleece than for meat | sheep
+right: Kim
+Wrong: 
+Value: $200
+Number: 11
+AMERICAN HODGEPODGE | The Henry & Edsel Ford Auditorium is part of this city's civic center | Detroit
+right: Kim
+Wrong: 
+Value: $200
+Number: 16
+CURRENT EXPRESSIONS | Our web address isn't read "Sony period com", but this way | "Sony dot com"
+right: Kim
+Wrong: 
+Value: $200
+Number: 22
+THE 1800S | His pen-&-ink drawings of his famous "girl" came to represent the ideal young American woman | Charles Dana Gibson
+right: Kim
+Wrong: 
+Value: $300
+Number: 6
+SPORTS | In 1996 Emmitt Smith, with $16.5 million, & this Dolphins QB, with $11.7 million, led the NFL in total earnings | Dan Marino
+right: Jeff
+Wrong: 
+Value: $300
+Number: 28
+FASHION HISTORY | Named for the modest wife of Pepin the Short, a bertha is a wide one of these blouse features | a collar
+right: Steve
+Wrong: 
+Value: $300
+Number: 3
+ANIMALS | This crab's habit of waving its big claw gave it a musical name | the fiddler crab
+right: Steve
+Wrong: 
+Value: $300
+Number: 12
+AMERICAN HODGEPODGE | In the 19th century, folks called it Tulsey Town | Tulsa
+right: Kim
+Wrong: 
+Value: $300
+Number: 18
+CURRENT EXPRESSIONS | Name for the computer-aided process seen <http://www.j-archive.com/media/1997-07-11_J_23.wmv> here: | morphing
+right: Kim
+Wrong: 
+Value: DD: $600
+Number: 23
+THE 1800S | A near-riot ensued when Boito's opera "Mefistofele" premiered at this Milan opera house in 1868 | La Scala
+right: Kim
+Wrong: 
+Value: $400
+Number: 8
+SPORTS | 1 of 4 California stadiums that have hosted a Super Bowl | (1 of) Jack Murphy, L.A. Coliseum, the Rose Bowl & Stanford Stadium
+right: Jeff
+Wrong: 
+Value: $400
+Number: 29
+FASHION HISTORY | The full pants worn by these cowboys of the Pampas became popular for women in the 1960s | gauchos
+right: Steve
+Wrong: 
+Value: $400
+Number: 7
+ANIMALS | In 1996 158 of these endangered marine mammals died in a red tide of toxic algae in Florida | manatees
+right: Jeff
+Wrong: 
+Value: $400
+Number: 14
+AMERICAN HODGEPODGE | Norfolk in this state was home to Johnny Carson & George L. Carlson, pioneer of artificial insemination | Nebraska
+right: Jeff
+Wrong: 
+Value: $400
+Number: 19
+CURRENT EXPRESSIONS | If you're engaging in wishful thinking, you may want to perform this type of "check" | a reality check
+right: Kim
+Wrong: 
+Value: $400
+Number: 24
+THE 1800S | Some say rum was sneaked into White House refreshments while she was First Lady 1877-1881 | Lucy Hayes ("Lemonade Lucy")
+right: Steve
+Wrong: 
+Value: $500
+Number: 13
+SPORTS | In 1941 this Red Sox star led the major leagues in both batting average, .406, & home runs, 37 | Ted Williams
+right: Jeff
+Wrong: 
+Value: $500
+Number: 30
+FASHION HISTORY | Introduced around 1912, this skirt was so tight at the bottom women could barely walk in it | a hobble skirt
+right: 
+Wrong: Triple Stumper
+Jeff: What is a maxi skirt?
+Steve: What is a shise?
+Value: $500
+Number: 9
+ANIMALS | The Canadian government has blamed the decline of this Atlantic food fish partly on the harp seal | the cod
+right: Jeff
+Wrong: 
+Value: $500
+Number: 17
+AMERICAN HODGEPODGE | A town in Minnesota is named for this capital of Uruguay, its sister city | Montevideo
+right: Jeff
+Wrong: 
+Value: $500
+Number: 20
+CURRENT EXPRESSIONS | A smart car has a small screen that displays this | a map
+right: Jeff
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Kim: $1,000
+Jeff: $200
+Steve: $1,300
+Scores at the end of the Jeopardy! Round:
+Kim: $2,800
+Jeff: $3,600
+Steve: $1,300
+Second Jeopardy! Round: SCIENCE, FOOD, MOVIE CHARACTERS, NATIONAL PARKS OF THE WORLD, EDUCATION, AMERICAN LITERATURE
+SCIENCE | In a month an observer can see 59% of this heavenly body's surface | Moon
+right: Jeff
+Wrong: 
+Value: $200
+Number: 26
+FOOD | What we call french fries the British call these; they go with "fish" | Chips
+right: Kim
+Wrong: 
+Value: $200
+Number: 1
+MOVIE CHARACTERS | This archaeologist played by Harrison Ford is called Indy for short | Indiana Jones
+right: Jeff
+Wrong: 
+Value: $200
+Number: 6
+NATIONAL PARKS OF THE WORLD | A herd of rare native red deer inhabits this country's Killarney National Park | Ireland
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+EDUCATION | In the U.S., it's the education of immigrants in their own language as well as in English | Bilingual
+right: Kim
+Wrong: 
+Value: $200
+Number: 16
+AMERICAN LITERATURE | It begins, " 'Tom!'  No answer. 'Tom!' No answer.  'What's gone with that boy, I wonder?  You, Tom!' " | "The Adventures of Tom Sawyer"
+right: Kim
+Wrong: 
+Value: $200
+Number: 17
+SCIENCE | In 1996 scientists mapped a large lake on this continent covered by over 2 miles of ice | Antarctica
+right: Steve
+Wrong: 
+Value: $400
+Number: 27
+FOOD | It's the Italian term for shrimp cooked in garlic & butter | Scampi
+right: Kim
+Wrong: 
+Value: $400
+Number: 2
+MOVIE CHARACTERS | He befriends a young human named Elliott | E.T.
+right: Jeff
+Wrong: 
+Value: $400
+Number: 7
+NATIONAL PARKS OF THE WORLD | Canada's Wood Buffalo National Park was created as a refuge for bison & other animals, like this rare crane | Whooping crane
+right: Jeff
+Wrong: 
+Value: $400
+Number: 12
+EDUCATION | This term for the study of household work was coined at an 1899 conference in Lake Placid, NY | Home economics
+right: Jeff
+Wrong: 
+Value: $400
+Number: 22
+AMERICAN LITERATURE | He published "Marjorie Morningstar" 16 years before "The Winds Of War" | Herman Wouk
+right: Kim
+Wrong: 
+Value: $400
+Number: 18
+SCIENCE | When a seed germinates, its radicle breaks out & grows downward to become this part of the plant | Root
+right: Jeff
+Wrong: 
+Value: $600
+Number: 29
+FOOD | The portobello, a type of this which can measure 6" in diameter, makes a great stuffed appetizer | Mushroom
+right: Kim
+Wrong: 
+Value: $600
+Number: 3
+MOVIE CHARACTERS | In a 1996 film, Julia Roberts in this title role kept house for Dr. Jekyll/Mr. Hyde | Mary Reilly
+right: Kim
+Wrong: 
+Value: $600
+Number: 8
+NATIONAL PARKS OF THE WORLD | Fiordland National Park, this country's largest, lies on the southwestern coast of South Island | New Zealand
+right: Jeff
+Wrong: 
+Value: $600
+Number: 13
+EDUCATION | Since the 1960s many communities have replaced junior high with this for the 6th-8th grades | Middle school
+right: Kim
+Wrong: 
+Value: $600
+Number: 23
+AMERICAN LITERATURE | He set "The Last Picture Show" & "Texasville" in the fictional town of Thalia | Larry McMurtry
+right: Kim
+Wrong: 
+Value: $600
+Number: 19
+SCIENCE | Common types of these organisms combining algae & fungi can be fructose, foliose or crustose | Lichens
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 30
+FOOD | This Hawaiian dish made from cooked taro is eaten traditionally using the fingers | Poi
+right: Kim
+Wrong: 
+Value: $800
+Number: 4
+MOVIE CHARACTERS | Jenny Curran had been the love of his life since they were kids growing up in the South | Forrest Gump
+right: Jeff
+Wrong: 
+Value: $800
+Number: 9
+NATIONAL PARKS OF THE WORLD | Bialowieza National Park straddles the border of Belarus & this western neighbor | Poland
+right: Jeff
+Wrong: 
+Value: $800
+Number: 14
+EDUCATION | In 1996 California schools eased out "whole language" for this letter-by-letter way of teaching reading | Phonics
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 24
+AMERICAN LITERATURE | This novel of high society made Edith Wharton the first female winner of the Pulitzer Prize for Fiction | "The Age Of Innocence"
+right: Jeff
+Wrong: 
+Value: $800
+Number: 20
+SCIENCE | It's an insoluble solid that separates from a solution | Chemical precipitation
+right: Kim
+Wrong: 
+Value: $1000
+Number: 28
+FOOD | From Russian for "small pie", it's a pastry turnover filled with meat, cheese, mashed potatoes, etc. | Pierogi
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 5
+MOVIE CHARACTERS | A special potion transforms Jerry Lewis & Eddie Murphy's "Nutty Professor" into this ladies' man | Buddy Love
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 10
+NATIONAL PARKS OF THE WORLD | Cambodia's Angkor National Park was created to protect the ruins of this empire's former capital | Khmer
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 15
+EDUCATION | In English it's a large room for sports; in German it's a secondary school focusing on academics | Gymnasium
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 25
+AMERICAN LITERATURE | The title of this Ralph Ellison novel refers to its nameless narrator & protagonist | "The Invisible Man"
+right: Jeff
+Wrong: 
+Value: DD: $2,000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Kim: $7,400
+Jeff: $15,000
+Steve: $1,700
+
+Final Jeopardy! Round
+THE COLD WAR | He died November 15, 1996, having outlived his accuser by 35 years | Alger Hiss (accused by Whittaker Chambers)
+right: Steve | Jeff
+Wrong: 
+Kim: Who is ?
+Wagers: 
+Steve: $1,700
+Kim: $0
+Jeff: $199
+Final scores:
+Kim: $7,400 (2nd place: Trip to Braco Village Resort, Jamaica)
+Jeff: $15,199 (New champion: $15,199)
+Steve: $3,400 (3rd place: Klipsch Rebel Speakers)
+
+Coryat scores
+Kim: $8,100 (21 R(including 1 DD),2 W(including 1 DD))
+Jeff: $14,000 (29 R(including 1 DD),1 W)
+Steve: $1,700 (7 R,1 W)

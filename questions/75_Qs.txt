@@ -1,0 +1,338 @@
+4670 - Friday, December 17, 2004
+Contestants:
+Harry Sering: a retail manager from Indianapolis, Indiana
+Jennifer West: a library technician and stage manager from Salinas, California
+Grayson Holmes: a legal assistant from Washington, D.C. (whose 1-day cash winnings total $29,201)
+First Jeopardy! Round: NEXT STOP, VENUS, ROBOTS, ANDROIDS & CYBORGS, MUSIC CLASS, ALL THE GLITTERING PRIZES, LAGER RHYTHMS, CROSSWORD CLUES "D _ _ _ ER"
+NEXT STOP, VENUS | It's the planet that's closest to Venus | Earth
+right: Grayson
+Wrong: 
+Value: $200
+Number: 21
+ROBOTS, ANDROIDS & CYBORGS | In a 1989 TV movie Sandra Bullock was a new model of one of these title cyborgs; Lindsay Wagner was an old one | a bionic woman
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 16
+MUSIC CLASS | It's a composition for 6 instruments or voices | a sestet
+right: Grayson
+Wrong: 
+Value: $200
+Number: 11
+ALL THE GLITTERING PRIZES | Abbreviated the ABA, this national organization hands out annual "Silver Gavel" awards | the American Bar Association
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 6
+LAGER RHYTHMS | Watney's Red Barrel & Newcastle Brown Ale are 2 popular beers from this country | England
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 26
+CROSSWORD CLUES "D _ _ _ ER" | Tee shot tool | a driver
+right: Jennifer
+Wrong: 
+Value: $200
+Number: 1
+NEXT STOP, VENUS | In 1610 this Italian discovered that Venus has phases like the moon | Galileo
+right: Grayson
+Wrong: 
+Harry:  Who is... [time expires] Da Vinci?
+Value: $400
+Number: 22
+ROBOTS, ANDROIDS & CYBORGS | Waiting out a sandstorm on Tatooine, this astromech droid made a new friend in a protocol droid | R2-D2
+right: Harry
+Wrong: 
+Grayson:  Who is C-3PO?
+Value: $400
+Number: 17
+MUSIC CLASS | Notations for these on a score for a guitarist include C7 & D7 | chords
+right: Jennifer
+Wrong: 
+Grayson: What are tabs... in tabulature?
+Value: $400
+Number: 12
+ALL THE GLITTERING PRIZES | In 1982 President Reagan awarded this "God Bless America" singer the Presidential Medal of Freedom | Kate Smith
+right: Harry
+Wrong: 
+Value: $400
+Number: 7
+LAGER RHYTHMS | Beer, like red wine, can protect your heart by lowering the "bad" type of this | cholesterol
+right: Grayson
+Wrong: 
+Value: $400
+Number: 27
+CROSSWORD CLUES "D _ _ _ ER" | An artful fellow | dodger
+right: Harry
+Wrong: 
+Value: $400
+Number: 2
+NEXT STOP, VENUS | With few exceptions all specified surface features of Venus are appropriately named after these | women
+right: 
+Wrong: Triple Stumper
+Grayson: What are Greek gods?
+Value: $600
+Number: 23
+ROBOTS, ANDROIDS & CYBORGS | In this 2004 film a Chicago cop thinks an NS-5 named Sonny has committed murder | I, Robot
+right: Harry
+Wrong: 
+Value: $600
+Number: 18
+MUSIC CLASS | For a violinist the notation "coll'arco" means go back to using this | the bow
+right: Jennifer
+Wrong: 
+Value: $600
+Number: 13
+ALL THE GLITTERING PRIZES | It's the only Nobel Prize that can be awarded to an organization or institution rather than an individual | peace
+right: Harry
+Wrong: 
+Value: $600
+Number: 8
+LAGER RHYTHMS | In 1988, after an over 70-year ban, this European island country allowed the brewing and selling of strong beer | Iceland
+right: 
+Wrong: Triple Stumper
+Grayson: What is Cyprus?
+Value: $600
+Number: 28
+CROSSWORD CLUES "D _ _ _ ER" | It's up when you're angry | your dander
+right: Grayson
+Wrong: 
+Value: $600
+Number: 3
+NEXT STOP, VENUS | Contributing to its high temperature, Venus' atmosphere is predominantly made up of this gas | carbon dioxide
+right: 
+Wrong: 
+Grayson: What is methane?
+Value: DD: $1,400
+Number: 24
+ROBOTS, ANDROIDS & CYBORGS | His niece Penny & his dog Brain help him defeat criminal masterminds like Dr. Claw | Inspector Gadget
+right: Grayson
+Wrong: 
+Value: $800
+Number: 19
+MUSIC CLASS | From the Greek for "to cut short" it's what's being done to the rhythm of the melody <http://www.j-archive.com/media/2004-12-17_J_14.mp3> here | syncopating
+right: 
+Wrong: Triple Stumper
+Grayson: What is staccato?
+Value: $800
+Number: 14
+ALL THE GLITTERING PRIZES | In 1949 this automobile magazine began awarding its coveted "Car of the Year" award | Motor Trend
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 9
+LAGER RHYTHMS | This beer "that made Milwaukee famous" became famous after donating kegs to Chicagoans after the great fire | Schlitz
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+CROSSWORD CLUES "D _ _ _ ER" | Macbeth thought he saw one | a dagger
+right: Jennifer
+Wrong: 
+Grayson: What... is... a... dodger? [shakes head]
+Value: $800
+Number: 4
+NEXT STOP, VENUS | Similar to an eclipse, it's the term for the rare passing in front of the sun that Venus did on June 8, 2004 | a transit
+right: 
+Wrong: Triple Stumper
+Harry: What is an occultation?
+Value: $1000
+Number: 25
+ROBOTS, ANDROIDS & CYBORGS | Seen <http://www.j-archive.com/media/2004-12-17_J_20.jpg> here, he celebrated his 50th anniversary in 2002 and got a new series on the WB in 2004 | Astroboy
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+MUSIC CLASS | It's a moderate tempo, faster than adagio but slower than allegretto | andante
+right: Grayson
+Wrong: 
+Jennifer: What is allegro?
+Value: $1000
+Number: 15
+ALL THE GLITTERING PRIZES | In 1999 J.M. Coetzee became the first 2-time winner of this major British fiction prize | the Booker
+right: Grayson
+Wrong: 
+Value: $1000
+Number: 10
+CROSSWORD CLUES "D _ _ _ ER" | 1900s coat or 1970s car | a duster
+right: Grayson
+Wrong: 
+Value: $1000
+Number: 5
+Scores at the first commercial break (after clue 15)
+Grayson: $1,800
+Jennifer: $2,000
+Harry: $1,400
+Scores at the end of the Jeopardy! Round:
+Grayson: $600
+Jennifer: $2,400
+Harry: $1,000
+Second Jeopardy! Round: THE VIETNAM WAR, CLASSIC TV DRAMA EPISODES, JACQUES IN THE BOX, ASIAN RIVERS, ANDREW LLOYD WEBBER, "A" PLUS
+THE VIETNAM WAR | Around 1964 the North Vietnamese began to turn this famous supply route into a real road that trucks could use | the Ho Chi Minh Trail
+right: Harry
+Wrong: 
+Grayson: What is the Silk Road?
+Value: $400
+Number: 21
+CLASSIC TV DRAMA EPISODES | "Ewing vs. Ewing" | Dallas
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 23
+JACQUES IN THE BOX | In the third movement of his "Titan" symphony Mahler used the theme of this French children's song | "Frère Jacques"
+right: Harry
+Wrong: 
+Value: $400
+Number: 1
+ASIAN RIVERS | From the Lake Hula area to the Sea of Galilee about 10 miles south, it falls more than 600 feet | the Jordan River
+right: Grayson
+Wrong: 
+Value: $400
+Number: 6
+ANDREW LLOYD WEBBER | (<http://www.j-archive.com/media/2004-12-17_DJ_07.jpg> I'm Andrew Lloyd Webber.)  This ex-"Phantom" plays Count Fosco in my latest musical "The Woman in White", which opened in London in Sept. 2004 | Michael Crawford
+right: Jennifer
+Wrong: 
+Value: $400
+Number: 7
+"A" PLUS | The name of this third male human to be mentioned in Genesis means "breath" in Hebrew | Abel
+right: Grayson
+Wrong: 
+Value: $400
+Number: 16
+THE VIETNAM WAR | Eisenhower didn't really send troops; by the time he left office in 1961 he'd sent in 900 personnel called these | advisors
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 22
+CLASSIC TV DRAMA EPISODES | "The Trouble with Tribbles" | Star Trek
+right: Harry
+Wrong: 
+Value: $800
+Number: 24
+JACQUES IN THE BOX | On July 14, 2002 he was shot at while riding in a Paris parade celebrating Bastille Day | (Jacques) Chirac
+right: Grayson
+Wrong: 
+Value: $800
+Number: 2
+ASIAN RIVERS | The Syr Darya, one of central Asia's major rivers, flows through 3 countries whose names end in this syllable | stan
+right: Harry
+Wrong: 
+Value: $800
+Number: 12
+ANDREW LLOYD WEBBER | This musical was the happy result of a 1974 visit to Argentina by Lloyd Webber's collaborator Tim Rice | Evita
+right: Jennifer
+Wrong: 
+Value: $800
+Number: 8
+"A" PLUS | The first band with a palindromic name to be listed in the Rolling Stone "Encyclopedia of Rock & Roll" | ABBA
+right: Harry
+Wrong: 
+Value: $800
+Number: 17
+CLASSIC TV DRAMA EPISODES | "Keep your Eye on the Sparrow" | Baretta
+right: Harry
+Wrong: 
+Value: $1200
+Number: 25
+JACQUES IN THE BOX | On August 27, 1783 Jacques Alexandre Charles & the Robert brothers launched the first balloon filled with this gas | hydrogen
+right: Jennifer
+Wrong: 
+Grayson: What is helium?
+Value: $1200
+Number: 3
+ASIAN RIVERS | At Al Qurnah, Iraq, it joins the Euphrates to form the Shatt al Arab | Tigris (River)
+right: Grayson
+Wrong: 
+Value: $1200
+Number: 13
+ANDREW LLOYD WEBBER | (Andrew Lloyd Webber reads the clue.)  The only show in Broadway history that ran longer than "The Phantom of the Opera" is this other musical of mine | Cats
+right: Grayson
+Wrong: 
+Value: $1200
+Number: 9
+"A" PLUS | From the Spanish for "poplar grove", it's the county where you'll find Oakland, California | Alameda
+right: Grayson
+Wrong: 
+Value: $1200
+Number: 18
+CLASSIC TV DRAMA EPISODES | "Jessica Behind Bars" | Murder, She Wrote
+right: 
+Wrong: 
+Harry: What is Melrose Place?
+Value: DD: $7,500
+Number: 26
+JACQUES IN THE BOX | Father Jacques Marquette & this cartographer explored the Mississippi River during June & July 1673 | (Louis) Joliet
+right: Jennifer
+Wrong: 
+Harry: Who is La Salle?
+Value: $1600
+Number: 4
+ASIAN RIVERS | A 1947 partition divided the water in the basin of this 1,800-mile-long river on the border of Pakistan | Indus River
+right: Grayson
+Wrong: 
+Value: DD: $2,000
+Number: 14
+ANDREW LLOYD WEBBER | Ashley the smoking car is a character in this Lloyd Webber musical (hint: don't lose your train of thought) | Starlight Express
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 10
+"A" PLUS | The large dino known as a Brontosaurus has been reclassified with this name meaning "deceptive lizard" | Apatosaurus
+right: Grayson
+Wrong: 
+Value: $1600
+Number: 19
+THE VIETNAM WAR | Begun Jan. 21, 1968, the Battle for this Marine outpost may have been an NVA diversion before the Tet Offensive | Khe Sanh
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 28
+CLASSIC TV DRAMA EPISODES | "The Brothers Caine" | Kung Fu
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 27
+JACQUES IN THE BOX | He painted "Napoleon Distributing the Eagles" | (Jacques-Louis) David
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 5
+ASIAN RIVERS | The 710-mile-long Kapuas River, Indonesia's longest, is on this third-largest island in the world | Borneo
+right: Harry
+Wrong: 
+Grayson: What is Java?
+Value: $2000
+Number: 15
+ANDREW LLOYD WEBBER | (Andrew Lloyd Webber reads the clue.)  Emmy Rossum plays Christine in "The Phantom of the Opera" movie; this actress originated the role on stage | Sarah Brightman
+right: Grayson
+Wrong: 
+Value: $2000
+Number: 11
+"A" PLUS | Multiply 6.022 times 10 to the 23rd power to get this scientific "number" | Avogadro's number
+right: Harry
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Grayson: $11,400
+Jennifer: $7,600
+Harry: $300
+
+Final Jeopardy! Round
+ANNUAL EVENTS | A high-bounce ball inspired businessman Lamar Hunt to give an annual event this name | the Super Bowl
+right: Harry | Grayson
+Wrong: 
+Jennifer: What is Lollapalooza?
+Wagers: 
+Harry: $300
+Jennifer: $6,800
+Grayson: $3,810
+Final scores:
+Grayson: $15,210 (2-day champion: $44,411)
+Jennifer: $800 (2nd place: $2,000)
+Harry: $600 (3rd place: $1,000)
+
+Coryat scores
+Grayson: $12,400 (20 R(including 1 DD),10 W(including 1 DD))
+Jennifer: $7,600 (14 R,1 W)
+Harry: $7,800 (13 R,4 W(including 1 DD))

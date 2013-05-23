@@ -1,0 +1,347 @@
+6016 - Monday, November 8, 2010
+Comments: 2010-B College Championship quarterfinal game 1.
+Contestants:
+Steve Greene: a senior from UCLA from Elk Grove, California
+Olivia Colangelo: a junior from the University of Notre Dame from Murrysville, Pennsylvania
+Sid Chandrasekhar: a senior from the University of Pennsylvania from Saratoga, California
+First Jeopardy! Round: CIVIL WAR QUOTES, SHOWING YOU THE ANNE HATHAWAY, BOOKS & AUTHORS, CITY BY HOTELS, GAME GOALS, THE OLD COLLEGE "TRI"
+CIVIL WAR QUOTES | Before marching to the sea, he said that "War is cruelty... the crueler it is, the sooner it will be over" | Sherman
+right: Steve
+Wrong: 
+Value: $200
+Number: 26
+SHOWING YOU THE ANNE HATHAWAY | Cowboy Jake Gyllenhaal has a son with Anne Hathaway (but he can quit her) in this film | Brokeback Mountain
+right: Olivia
+Wrong: 
+Value: $200
+Number: 6
+BOOKS & AUTHORS | This Ernest Hemingway love story that takes place during WWI was one of Penguin Books' first 10 titles | A Farewell to Arms
+right: Steve
+Wrong: 
+Sid: What is For Whom the Bell Tolls?
+Value: $200
+Number: 1
+CITY BY HOTELS | Halekulani, Sheraton Moana Surfrider | Honolulu
+right: Sid
+Wrong: 
+Value: $200
+Number: 11
+GAME GOALS | Discover what happened to Mr. Boddy, the victim of foul play in this game | Clue
+right: Sid
+Wrong: 
+Value: $200
+Number: 21
+THE OLD COLLEGE "TRI" | Some colleges run on a calendar of 3 10-week terms each called this | a trimester
+right: Sid
+Wrong: 
+Value: $200
+Number: 16
+CIVIL WAR QUOTES | William Lloyd Garrison said, "In firing his gun", this abolitionist "has merely told what time of day it is. It is High Noon" | John Brown
+right: Sid
+Wrong: 
+Olivia: Who is Douglass?
+Value: $400
+Number: 27
+SHOWING YOU THE ANNE HATHAWAY | Anne is the assistant to Miranda Priestly, editor of Runway Magazine, in this fashionable film | The Devil Wears Prada
+right: Sid
+Wrong: 
+Value: $400
+Number: 7
+BOOKS & AUTHORS | The middle initial of this author of "The Good Earth" stood for Sydenstricker, her maiden name | (Pearl) Buck
+right: Sid
+Wrong: 
+Value: $400
+Number: 2
+CITY BY HOTELS | Covent Garden Hotel, The Dorchester | London
+right: Olivia
+Wrong: 
+Value: $400
+Number: 12
+GAME GOALS | In the "Fleet Command" version of this game, use salvos or triple shots to blow your enemy out of the water | Battleship
+right: Olivia
+Wrong: 
+Value: $400
+Number: 22
+THE OLD COLLEGE "TRI" | Texas' Buffalo Spring Lake was host to the 2010 collegiate championships in this multi-sport sport | a triathlon
+right: Sid
+Wrong: 
+Value: $400
+Number: 17
+CIVIL WAR QUOTES | About this speech, Lincoln said, "I failed, and that is about all that can be said about it" | the Gettysburg Address
+right: Steve
+Wrong: 
+Value: $600
+Number: 28
+SHOWING YOU THE ANNE HATHAWAY | Anne finds out she's Genovian royalty in this 2001 film | The Princess Diaries
+right: Steve
+Wrong: 
+Value: $600
+Number: 8
+BOOKS & AUTHORS | This Khaled Hosseini novel is about Amir, who flees Kabul for America | The Kite Runner
+right: Olivia
+Wrong: 
+Value: $600
+Number: 3
+CITY BY HOTELS | Hotel Romischer Kaiser, Hotel am Schubertring | Vienna
+right: Sid
+Wrong: 
+Olivia: What is Munich?
+Steve: What is Berlin?
+Value: $600
+Number: 13
+GAME GOALS | One description of this 4-letter game says the object is to "retire in style" | Life
+right: Sid
+Wrong: 
+Value: $600
+Number: 23
+THE OLD COLLEGE "TRI" | If you're double-majoring in Spanish & Mandinka, you're planning to become this | trilingual
+right: Steve
+Wrong: 
+Value: $600
+Number: 18
+CIVIL WAR QUOTES | In his Feb. 16, 1861 inaugural address, he said, "The time for compromise has now passed" | Jefferson Davis
+right: Steve
+Wrong: 
+Value: DD: $2,000
+Number: 29
+SHOWING YOU THE ANNE HATHAWAY | Anne engaged in "Bride Wars" with this blonde actress | Kate Hudson
+right: Sid
+Wrong: 
+Value: $800
+Number: 9
+BOOKS & AUTHORS | The bestselling novel "Freedom" has put him back in Oprah's Book Club & good graces | Jonathan Franzen
+right: Steve
+Wrong: 
+Olivia: Who is Frey?
+Value: $800
+Number: 4
+CITY BY HOTELS | Excelsior Copacabana Hotel, Ipanema Plaza | Rio de Janeiro
+right: Olivia
+Wrong: 
+Value: $800
+Number: 14
+GAME GOALS | Shake container with little lettered cubes; after they settle into the pockets, make more words than your opponent | Boggle
+right: Olivia
+Wrong: 
+Sid: What is Scrabble?
+Value: $800
+Number: 24
+THE OLD COLLEGE "TRI" | Arizona State's mascot Sparky the Sun Devil carries one of these 3-pronged pitchforks | a trident
+right: Sid
+Wrong: 
+Value: $800
+Number: 19
+CIVIL WAR QUOTES | Giving aid to Union Army surgeons, she said, "while our soldiers can stand and fight, I can stand and feed and nurse them" | Clara Barton
+right: Sid
+Wrong: 
+Value: $1000
+Number: 30
+SHOWING YOU THE ANNE HATHAWAY | Anne got an Oscar nomination for this 2008 film in which she was the troubled sister of the bride | Rachel Getting Married
+right: Olivia
+Wrong: 
+Sid: What is Vicky Cristina Barcelona?
+Value: $1000
+Number: 10
+BOOKS & AUTHORS | This "Remembrance of Things Past" author was so deathly afraid of germs he wouldn't pick up a pen if he had dropped it | (Marcel) Proust
+right: Sid
+Wrong: 
+Value: $1000
+Number: 5
+CITY BY HOTELS | Hotel Sherpa, Yak & Yeti | Kathmandu
+right: Sid
+Wrong: 
+Value: $1000
+Number: 15
+GAME GOALS | Don't be the person who topples the tower that starts with 54 wooden blocks | Jenga
+right: Steve
+Wrong: 
+Value: $1000
+Number: 25
+THE OLD COLLEGE "TRI" | The math department will gladly instruct you in plane & spherical this | trigonometry
+right: Sid
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Sid: $3,200
+Olivia: $1,600
+Steve: $1,000
+Scores at the end of the Jeopardy! Round:
+Sid: $7,000
+Olivia: $2,400
+Steve: $5,400
+Second Jeopardy! Round: ANCIENT PERSIA, POP CULTURE, HOW MANY FEET LONG?, POETIC PLACES, IT'S ELEMENTAL, MY DEAR, FROM THE GREEK
+ANCIENT PERSIA | Ancient Persians called the region the "land of the Aryans", from which we get this country's name | Iran
+right: Sid
+Wrong: 
+Value: $400
+Number: 11
+POP CULTURE | In a spin-off from "Keeping up with the Kardashians", these 2 sisters "Take Miami" | Kourtney and Khloé
+right: Olivia
+Wrong: 
+Value: $400
+Number: 1
+HOW MANY FEET LONG? | The tail of your average male housecat | 1
+right: Sid
+Wrong: 
+Value: $400
+Number: 26
+POETIC PLACES | In "Idylls of the King" Tennyson calls this place "the mighty hall that Merlin built" | Camelot
+right: Sid
+Wrong: 
+Value: $400
+Number: 16
+IT'S ELEMENTAL, MY DEAR | Like diamond & graphite, fullerene is a form of this element | carbon
+right: Steve
+Wrong: 
+Value: $400
+Number: 6
+FROM THE GREEK | Meaning "self-moving", this word often precedes pilot or transmission | automatic
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+ANCIENT PERSIA | The Persians wrote in this Northwest Semitic language related to Hebrew | Aramaic
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+POP CULTURE | This game's new "Warriors of Rock" features narration by Gene Simmons of KISS | Guitar Hero
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 2
+HOW MANY FEET LONG? | A meterstick | 3
+right: Sid
+Wrong: 
+Value: $800
+Number: 27
+POETIC PLACES | "What troubles you, Yankee phantoms?" asked Whitman in a ballad of this New England city | Boston
+right: Sid
+Wrong: 
+Value: $800
+Number: 17
+IT'S ELEMENTAL, MY DEAR | This really light gas has the lowest boiling point of any element, -452 degrees Fahrenheit | helium
+right: Sid
+Wrong: 
+Value: $800
+Number: 7
+FROM THE GREEK | Greek for "overseer" gives us this chess piece big on 45-degree angles | the bishop
+right: Sid
+Wrong: 
+Value: $800
+Number: 22
+ANCIENT PERSIA | The palace in the city of Susa was built from cedar timber from what's now this country | Lebanon
+right: Steve
+Wrong: 
+Value: $1200
+Number: 13
+POP CULTURE | This outfitter, whose logo is seen <http://www.j-archive.com/media/2010-11-08_DJ_03.jpg> here, first took wing in 1977 | American Eagle
+right: Olivia
+Wrong: 
+Value: $1200
+Number: 3
+HOW MANY FEET LONG? | A Texas state flag that's 4 feet wide | 6
+right: 
+Wrong: Triple Stumper
+Olivia: What is 2?
+Steve: What is 4?
+Value: $1200
+Number: 28
+POETIC PLACES | "Chalk-white arrows" lead to this title Shel Silverstein place that's located "before the street begins" | Where the Sidewalk Ends
+right: Steve
+Wrong: 
+Value: $1200
+Number: 18
+IT'S ELEMENTAL, MY DEAR | To earn a B.A. in chemistry, you'd better know that Ba is the symbol for this | barium
+right: Olivia
+Wrong: 
+Value: $1200
+Number: 8
+FROM THE GREEK | 4 horsemen could tell you this word is from the Greek for "Revelation" | Apocalypse
+right: Sid
+Wrong: 
+Value: DD: $4,200
+Number: 23
+ANCIENT PERSIA | This "Great" king, dad of Xerxes I, standardized weights & measures & built highways | Darius the Great
+right: Sid
+Wrong: 
+Value: $1600
+Number: 14
+POP CULTURE | "Dear John" & "The Last Song" are among his bestsellers that have been turned into films | Nicholas Sparks
+right: Olivia
+Wrong: 
+Value: $1600
+Number: 4
+HOW MANY FEET LONG? | In MLB the baseline from home plate to first base | ninety
+right: Sid
+Wrong: 
+Value: $1600
+Number: 29
+POETIC PLACES | Sections of the lengthy Eliot poem about this place include "The Fire Sermon" & "What the Thunder Said" | The Waste Land
+right: Steve
+Wrong: 
+Value: $1600
+Number: 19
+IT'S ELEMENTAL, MY DEAR | Your daily diet should include ample amounts of this element, kalium in Latin | potassium
+right: Olivia
+Wrong: 
+Value: DD: $3,200
+Number: 9
+FROM THE GREEK | An essay topic or a written work similar to a dissertation, it's from the Greek for "putting down" | thesis
+right: Steve
+Wrong: 
+Value: $1600
+Number: 24
+ANCIENT PERSIA | At its greatest extent, the Persian Empire stretched from Cyrenaica in Libya to this longest river in Pakistan | the Indus
+right: Sid
+Wrong: 
+Value: $2000
+Number: 15
+POP CULTURE | "Miss Celie's Pants" & "Shug Avery Comin' To Town" are songs featured in this Broadway musical | The Color Purple
+right: Steve
+Wrong: 
+Value: $2000
+Number: 5
+HOW MANY FEET LONG? | The length of the shelf of classic books compiled by Harvard's president in 1909 | 5
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+POETIC PLACES | This "stately pleasure-dome" was situated "where Alph, the sacred river ran" | Xanadu
+right: Steve
+Wrong: 
+Value: $2000
+Number: 20
+IT'S ELEMENTAL, MY DEAR | This element named for a moon goddess is used in photoelectric cells & solar batteries | selenium
+right: Sid
+Wrong: 
+Value: $2000
+Number: 10
+FROM THE GREEK | (<http://www.j-archive.com/media/2010-11-08_DJ_25.jpg> Sarah of the Clue Crew stands by a map of the South Pacific.)  The islands of the central & South Pacific are often divided into these three regions, whose names mean "little", "black" & "many islands" | Micronesia, Melanesia & Polynesia
+right: Sid
+Wrong: 
+Value: $2000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Sid: $24,800
+Olivia: $8,800
+Steve: $14,200
+
+Final Jeopardy! Round
+AMERICAN BUSINESS | The mailing address for this company is P.O. Box 57, Pittsburgh, Pennsylvania 15230 | Heinz
+right: Olivia | Steve | Sid
+Wrong: 
+Wagers: 
+Olivia: $6,200
+Steve: $5,800
+Sid: $3,601
+Final scores:
+Sid: $28,401 (Automatic semifinalist)
+Olivia: $15,000 (3rd place: $5,000 if eliminated)
+Steve: $20,000 (2nd place: $5,000 if eliminated)
+
+Coryat scores
+Sid: $21,800 (28 R(including 1 DD),3 W)
+Olivia: $7,200 (12 R(including 1 DD),4 W)
+Steve: $13,000 (15 R(including 1 DD),2 W)

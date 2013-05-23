@@ -1,0 +1,343 @@
+6266 - Monday, December 12, 2011
+Comments: Alex returns to conducting contestant interviews from near contestant lecterns.
+Contestants:
+Chuck Rezac: a cattle ranch hand from Emmett, Kansas
+Ellen Tabor: a psychiatrist from New York, New York
+Drew Bayers: a music supervisor originally from Milford, Connecticut (whose 1-day cash winnings total $19,200)
+First Jeopardy! Round: AMERICAN POETS, INITIAL TV, COOKBOOKS, NOT ACTUALLY A STATE CAPITAL, TAKING SPECIAL MEASURES, GET A "CLU"
+AMERICAN POETS | He published the first edition of "Leaves of Grass" at his own expense & even set some of the type for it | (Walt) Whitman
+right: Drew
+Wrong: 
+Value: $200
+Number: 14
+INITIAL TV | Mark Harmon investigates all crimes involving U.S. Navy & Marine Corps personnel on this drama | NCIS
+right: Drew
+Wrong: 
+Value: $200
+Number: 1
+COOKBOOKS | Matt Armendariz has a whole book devoted to foods "on a" this! like hot dogs, fried mozzarella & chicken satay | on a stick
+right: Drew
+Wrong: 
+Value: $200
+Number: 11
+NOT ACTUALLY A STATE CAPITAL | Witch hunting was more fashionable in this city 16 miles N.E. of Boston than in its West Coast counterpart | Salem
+right: Ellen
+Wrong: 
+Value: $200
+Number: 3
+TAKING SPECIAL MEASURES | It just came to me out of the blue--it's a measure of cloth, usually 40 yards | a bolt
+right: Chuck
+Wrong: 
+Value: $200
+Number: 9
+GET A "CLU" | Thick stick | a club
+right: Drew
+Wrong: 
+Value: $200
+Number: 26
+AMERICAN POETS | Upon this woman's death in 1886, her sister Lavinia found nearly 1,000 poems hidden away in her bureau | Emily Dickinson
+right: Chuck
+Wrong: 
+Value: $400
+Number: 15
+INITIAL TV | Hawkeye & Trapper John shared a tent called The Swamp on this sitcom | M*A*S*H
+right: Ellen
+Wrong: 
+Value: $400
+Number: 2
+COOKBOOKS | In a twist on the meat dish, "How to Cook Everything Vegetarian" has a recipe for chili non this | carne
+right: Drew
+Wrong: 
+Value: $400
+Number: 19
+NOT ACTUALLY A STATE CAPITAL | This city that lies about 125 miles from the mouth of the Savannah River is known for a certain golf course | Augusta
+right: Chuck
+Wrong: 
+Value: $400
+Number: 4
+TAKING SPECIAL MEASURES | For my daughter's suitors' reference, my shotgun has a bore just under 3/4 of an inch wide, so it's a 12-this | gauge
+right: Ellen
+Wrong: 
+Value: $400
+Number: 10
+GET A "CLU" | To litter with things in a disorderly manner | clutter
+right: Ellen
+Wrong: 
+Value: $400
+Number: 27
+AMERICAN POETS | Shortly after becoming engaged to Sarah Shelton, he fell ill in a Baltimore tavern & died 4 days later on October 7, 1849 | (Edgar Allan) Poe
+right: Drew
+Wrong: 
+Value: $600
+Number: 17
+INITIAL TV | In April 2009 the doors of Chicago's County General Hospital closed to TV viewers as this show ended | ER
+right: Ellen
+Wrong: 
+Value: $600
+Number: 6
+COOKBOOKS | In "The Lady & Sons Savannah Country Cookbook", Paula Deen has a section on these, including Confederate bean | soup
+right: Ellen
+Wrong: 
+Value: $600
+Number: 20
+NOT ACTUALLY A STATE CAPITAL | You'll find the University of Missouri's main campus in this city--the one in Missouri, not in South Carolina | Columbia
+right: Chuck
+Wrong: 
+Value: DD: $1,000
+Number: 5
+TAKING SPECIAL MEASURES | Please tell us you know that a hoppus foot measures this building material--& tell us chop chop | lumber (timber)
+right: Drew
+Wrong: 
+Value: $600
+Number: 16
+GET A "CLU" | Hen call | a cluck
+right: Chuck
+Wrong: 
+Value: $600
+Number: 28
+AMERICAN POETS | This family of poets born in & around Boston includes Amy, James Russell & Robert | the Lowells
+right: Ellen
+Wrong: 
+Value: $800
+Number: 18
+INITIAL TV | Ponch & Jon were motorcycle cops on this '70s police drama | CHiPs
+right: Drew
+Wrong: 
+Value: $800
+Number: 12
+COOKBOOKS | This chef whose last name is an anagram of bread published a book "On Bread" in 1973 | (James) Beard
+right: Chuck
+Wrong: 
+Value: $800
+Number: 21
+NOT ACTUALLY A STATE CAPITAL | Home of the Cascade Falls, this city in Michigan (not Mississippi) is also called "The Rose City" | Jackson
+right: Chuck
+Wrong: 
+Value: $800
+Number: 7
+TAKING SPECIAL MEASURES | Used in surveying, this unit is equal to one hundredth of a chain | a link
+right: 
+Wrong: Triple Stumper
+Chuck: What's a rod?
+Value: $800
+Number: 24
+GET A "CLU" | Ungainly | clumsy
+right: Ellen
+Wrong: 
+Value: $800
+Number: 29
+AMERICAN POETS | In "Concord Hymn", he wrote, "Here once the embattled farmers stood, and fired the shot heard round the world" | Ralph Waldo Emerson
+right: 
+Wrong: Triple Stumper
+Chuck: Who is Longfellow?
+Value: $1000
+Number: 25
+INITIAL TV | The beer-drinking MacKenzie brothers were a staple on this comedy show whose full name once included "Network 90" | SCTV
+right: Drew
+Wrong: 
+Value: $1000
+Number: 13
+COOKBOOKS | This Bravo star & former "New York Housewife" offers up some easy & healthy recipes in "The Skinnygirl Dish" | Bethenny Frankel
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 22
+NOT ACTUALLY A STATE CAPITAL | It's the seat of Illinois' Logan County & shares its name with the capital of a different Midwest state | Lincoln
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 8
+TAKING SPECIAL MEASURES | 1 of the 2 units, each 3 letters long & starting with "R", that measure radiation exposure from X-rays | rads (or rem)
+right: Ellen
+Wrong: 
+Value: $1000
+Number: 23
+GET A "CLU" | This type of heavenly group seen <http://www.j-archive.com/media/2011-12-12_J_30.jpg> here is held together by mutual attraction | a (star) cluster
+right: Drew
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Drew: $2,400
+Ellen: $1,600
+Chuck: $2,800
+Scores at the end of the Jeopardy! Round:
+Drew: $5,200
+Ellen: $5,200
+Chuck: $2,400
+Second Jeopardy! Round: MATH, ALSO A PRESIDENT'S SURNAME, BILLIARDS, FRENCH HISTORY, CARTS, WAGONS & SLEDS, RAND CORPORATION
+MATH | It's the result of one or more multiplications | a product
+right: Ellen
+Wrong: 
+Value: $400
+Number: 3
+ALSO A PRESIDENT'S SURNAME | A shrub | Bush
+right: Ellen
+Wrong: 
+Value: $400
+Number: 2
+BILLIARDS | In 8-ball the balls are racked in this shape, with the 8 ball in the center | a triangle
+right: Drew
+Wrong: 
+Value: $400
+Number: 19
+FRENCH HISTORY | Joan of Arc became the maid of this city when she led French troops to victory there in May 1429 | Orleans
+right: Chuck
+Wrong: 
+Value: $400
+Number: 17
+CARTS, WAGONS & SLEDS | Used to transport small loads like lawn dirt, it's a cart with 1 tire & a shallow body, held & pushed by handles | a wheelbarrow
+right: Drew
+Wrong: 
+Value: $400
+Number: 1
+RAND CORPORATION | Seen <http://www.j-archive.com/media/2011-12-12_DJ_12.jpg> here are 1960s <http://www.j-archive.com/media/2011-12-12_DJ_12a.jpg> designs by engineer James Drake, who made use of RAND's Santa Monica location to become the father of this sport | windsurfing
+right: Drew
+Wrong: 
+Value: $400
+Number: 12
+MATH | When he wasn't busy rubaiyating, this 11th century renaissance man wrote a pioneering work on algebra | Omar Khayyám
+right: Ellen
+Wrong: 
+Value: $800
+Number: 4
+ALSO A PRESIDENT'S SURNAME | Carolla, Ant & Sandler | Adams
+right: Ellen
+Wrong: 
+Value: $800
+Number: 7
+BILLIARDS | The bed, or top, of a billiard table is usually made of this rock & can weigh as much as 800 pounds | slate
+right: Chuck
+Wrong: 
+Value: $800
+Number: 27
+FRENCH HISTORY | On May 10, 1981 France elected as president this socialist who then nationalized most of the private banks | Francois Mitterand
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+CARTS, WAGONS & SLEDS | It can be a sled or toboggan, someone riding in one, or a mat you put under a drink | a coaster
+right: Ellen
+Wrong: 
+Value: $800
+Number: 23
+RAND CORPORATION | RAND research culminated in a 1987 treaty on these 3-element compounds that break down the ozone layer | CFCs
+right: Drew
+Wrong: 
+Value: $800
+Number: 13
+MATH | The prefix "mega" denotes 10 to the 6th power; "giga", 10 to this power | the ninth
+right: Chuck
+Wrong: 
+Value: $1200
+Number: 5
+ALSO A PRESIDENT'S SURNAME | Shallow, crossable part of a river | Ford
+right: Chuck
+Wrong: 
+Value: $1200
+Number: 9
+BILLIARDS | This white object gave its name to a bald "Dick Tracy" villain | cue ball
+right: Drew
+Wrong: 
+Value: $1200
+Number: 28
+FRENCH HISTORY | In a July 6, 2003 referendum, this Mediterranean island narrowly defeated a plan for limited autonomy | Corsica
+right: Drew
+Wrong: 
+Value: DD: $2,000
+Number: 20
+CARTS, WAGONS & SLEDS | It's a 2-wheeled wagon used to carry artillery ammunition; in song, they "go rolling along" | caissons
+right: Chuck
+Wrong: 
+Value: $1200
+Number: 24
+RAND CORPORATION | In the first book on this, computers doing tasks associated with human intellect, 6 chapters had been RAND reports | Artificial Intelligence
+right: Chuck
+Wrong: 
+Value: $1200
+Number: 14
+MATH | Jean Poncelet's work on conic sections helped found the "projective" form of this branch of mathematics | geometry
+right: Drew
+Wrong: 
+Value: $1600
+Number: 6
+ALSO A PRESIDENT'S SURNAME | To puncture | to pierce
+right: Chuck
+Wrong: 
+Value: $1600
+Number: 10
+BILLIARDS | Snooker is played with 15 balls of this color & 6 balls of other colors | red
+right: Chuck
+Wrong: 
+Value: $1600
+Number: 29
+FRENCH HISTORY | (<http://www.j-archive.com/media/2011-12-12_DJ_21.jpg> Jimmy of the Clue Crew shows a map on the monitor.)  In June 1940, France was split into <http://www.j-archive.com/media/2011-12-12_DJ_21a.jpg> German-occupied France & Vichy France; 2 1/2 years later, Germany gained control of a large part of continental France;  Italy gained most of the area east of <http://www.j-archive.com/media/2011-12-12_DJ_21b.jpg> this river | the Rhone
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 21
+CARTS, WAGONS & SLEDS | A color & a woman's name combine in this term for a police wagon | a Black Maria
+right: Ellen
+Wrong: 
+Value: $1600
+Number: 25
+RAND CORPORATION | Packet switching, the basic idea of the Internet, came from '60s research on communications in case of this awful event | nuclear war
+right: Drew
+Wrong: 
+Value: $1600
+Number: 15
+MATH | Mathematicians disagree as to whether zero belongs in this set of numbers denoted N | the natural numbers
+right: Chuck
+Wrong: 
+Value: $2000
+Number: 8
+ALSO A PRESIDENT'S SURNAME | To allow | Grant
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+BILLIARDS | In 1845 this firm manufactured its first pool table for a Cincinnati meatpacker; it's sold millions of tables since then | the Brunswick Corporation
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+FRENCH HISTORY | The October 1415 battle of this fortress, lost to the English, actually took place in a nearby muddy field | Agincourt
+right: 
+Wrong: Triple Stumper
+Ellen: What is Mont-Saint-Michel?
+Value: $2000
+Number: 22
+CARTS, WAGONS & SLEDS | This Olympic sport gets its name from the metal sled introduced in the 1890s & what some people thought it resembled | a skeleton
+right: Ellen
+Wrong: 
+Value: $2000
+Number: 26
+RAND CORPORATION | The field called <http://www.j-archive.com/media/2011-12-12_DJ_16.jpg> this "theory", which has influenced economics & other disciplines, was <http://www.j-archive.com/media/2011-12-12_DJ_16a.jpg> expanded at RAND in the '40s | game theory
+right: 
+Wrong: 
+Drew: What is string theory?
+Value: DD: $2,000
+Number: 16
+Scores at the end of the Double Jeopardy! Round:
+Drew: $11,600
+Ellen: $10,000
+Chuck: $13,600
+
+Final Jeopardy! Round
+THE BILLBOARD TOP 40 | Previously done by the Trapp Family, this song about an instrumentalist was a Top 40 hit every December from 1958 to 1962 | "The Little Drummer Boy"
+right: Drew | Chuck
+Wrong: 
+Ellen: What is "My Favorite Things"?"
+Wagers: 
+Ellen: $0
+Drew: $11,600
+Chuck: $11,600
+Final scores:
+Drew: $23,200 (2nd place: $2,000)
+Ellen: $10,000 (3rd place: $1,000)
+Chuck: $25,200 (New champion: $25,200)
+
+Coryat scores
+Drew: $12,800 (18 R(including 1 DD),1 W(including 1 DD))
+Ellen: $10,000 (16 R,1 W)
+Chuck: $13,200 (16 R(including 1 DD),2 W)

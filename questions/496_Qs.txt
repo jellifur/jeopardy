@@ -1,0 +1,323 @@
+1281 - Monday, March 12, 1990
+Contestants:
+Sarah Stegall: a writer from Austin, Texas
+Ken Mitchell: a naval officer from The Philippines
+Jamie Orenstein: an attorney from Brooklyn, New York (whose 1-day cash winnings total $1,399)
+First Jeopardy! Round: IT'S "MAGIC", VOCABULARY, MONEY, THE CONSTITUTION, GAMES, SHOW BIZ BIOGRAPHIES
+IT'S "MAGIC" | This trademarked felt-tip pen was the 1st of its kind when introduced in the 1920s | Magic Marker
+right: Jamie
+Wrong: 
+Value: $100
+Number: 14
+VOCABULARY | From "casa", it once meant "little house", but now refers mostly to a gambling house | Casino
+right: Sarah
+Wrong: 
+Value: $100
+Number: 12
+MONEY | West African country in whose mountains you could spend leones | Sierra Leone
+right: Jamie
+Wrong: 
+Value: $100
+Number: 9
+THE CONSTITUTION | The 1st Amendment gives people the right to do this peacefully | Assemble
+right: Jamie
+Wrong: 
+Value: $100
+Number: 1
+GAMES | "Chicken Out" is a board game based on the riddle "Why did the chicken" do this | Cross the road
+right: Sarah
+Wrong: 
+Value: $100
+Number: 6
+SHOW BIZ BIOGRAPHIES | "Finch, Bloody Finch" is the life story of this "Sunday, Bloody Sunday" star | Peter Finch
+right: Jamie
+Wrong: 
+Value: $100
+Number: 23
+IT'S "MAGIC" | A Lansing, Mich. sportswriter gave this future superstar his nickname when he was in high school | Earvin "Magic" Johnson
+right: Jamie
+Wrong: 
+Value: $200
+Number: 20
+VOCABULARY | Once used as a formal title, it means "my lady" in Italian | Madonna
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 13
+MONEY | Besides the Balboa, this currency is also legal tender in Panama | U.S. Dollar
+right: Ken
+Wrong: 
+Value: $200
+Number: 10
+THE CONSTITUTION | The final wording of the Constitution is due mostly to the literary skill of this Gouverneur | Gouverneur Morris
+right: Jamie
+Wrong: 
+Value: $200
+Number: 2
+GAMES | In "The Batman Game", you join Batman to fight crime in this city on a glow-in-the-dark board | Gotham City
+right: Sarah
+Wrong: 
+Value: $200
+Number: 7
+SHOW BIZ BIOGRAPHIES | She's the subject of "Billie's Blues" | Billie Holiday
+right: Sarah
+Wrong: 
+Value: $200
+Number: 27
+IT'S "MAGIC" | Invented in the 17th C., it was a predecessor of the modern slide projector | Magic Lantern
+right: Ken
+Wrong: 
+Value: $300
+Number: 24
+VOCABULARY | To surrender, to give up all resistance, from the Latin word for "small head" | Capitulate
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 17
+MONEY | In 1967 Marie Curie was honored on a 10 zlotych piece by this, her native country | Poland
+right: Sarah
+Wrong: 
+Value: $300
+Number: 11
+THE CONSTITUTION | John Dickinson of Delaware had George Read do this for him | Sign the Constitution
+right: Jamie
+Wrong: 
+Value: $300
+Number: 3
+GAMES | Milton Bradley calls its game of "Chutes &" these "an exciting up and down game for little people" | Ladders
+right: Jamie
+Wrong: 
+Value: $300
+Number: 8
+IT'S "MAGIC" | This song was a Top 10 hit for the Police in the fall of 1981 | "Every Little Thing She Does Is Magic"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 25
+VOCABULARY | Annuity plan in which the last survivor inherits all, named for Lorenzo Tonti, a Neopolitan banker | Tontine
+right: Jamie
+Wrong: 
+Value: $400
+Number: 18
+MONEY | In 1926 he became the only living president to appear on a U.S. coin, a sesquicentennnial half dollar | Calvin Coolidge
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 15
+THE CONSTITUTION | Title given the president in Article II Section 2 of the Constitution | Commander-In-Chief of the Army & the Navy
+right: 
+Wrong: 
+Jamie: [No response]
+Value: DD: $600
+Number: 4
+GAMES | The "apologetic" name of Parker Brothers' "Slide Pursuit Game" | Sorry!
+right: Jamie
+Wrong: 
+Value: $400
+Number: 21
+IT'S "MAGIC" | Thomas Mann's classic story of a young man's 7-year stay at a sanitarium | "The Magic Mountain"
+right: Jamie
+Wrong: 
+Value: $500
+Number: 26
+VOCABULARY | A word used for any lighthouse, from the island where a famous ancient one was located | Pharos
+right: Sarah
+Wrong: 
+Value: $500
+Number: 19
+MONEY | Term for paper currency issued for temporary use in an emergency | Scrip
+right: Ken
+Wrong: 
+Value: $500
+Number: 16
+THE CONSTITUTION | The 7th Amendment preserves a right to this in lawsuits with more than $20 in question | A Jury
+right: Jamie
+Wrong: 
+Value: $500
+Number: 5
+GAMES | To win this game named for an avuncular rabbit, you have to be 1st to reach Dr. Possum's house | Uncle Wiggily
+right: Sarah
+Wrong: 
+Ken: Who is Peter Rabbit?
+Value: $500
+Number: 22
+Scores at the first commercial break (after clue 15)
+Jamie: $700
+Ken: $0
+Sarah: $500
+Scores at the end of the Jeopardy! Round:
+Jamie: $1,700
+Ken: -$100
+Sarah: $1,400
+Second Jeopardy! Round: 19TH CENTURY AMERICANS, THE BODY HUMAN, RELIGION, PLAYWRIGHTS, POTPOURRI, NEW YORK CITY
+19TH CENTURY AMERICANS | This educator's "Compendious Dictionary of the English Language" was 1st published in 1806 | Noah Webster
+right: Sarah
+Wrong: 
+Value: $200
+Number: 17
+THE BODY HUMAN | The endocardium is a thin membrane that lines the interior of this organ | Heart
+right: Ken
+Wrong: 
+Value: $200
+Number: 19
+RELIGION | The most conservative of the 3 major branches of Judaism is not conservative, but this | Orthodox
+right: Jamie
+Wrong: 
+Value: $200
+Number: 8
+PLAYWRIGHTS | In 1899 he reinterpreted the story of Caesar & Cleopatra using modern allusions | George Bernard Shaw
+right: Sarah
+Wrong: 
+Value: $200
+Number: 11
+POTPOURRI | Students who don't want to dissect a real one of these can order a cloth one named "Ribbit" | Frog
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+NEW YORK CITY | If you want to know who's buried in this president's tomb, you can find out in Riverside Park | Grant's Tomb
+right: Jamie
+Wrong: 
+Value: $200
+Number: 5
+19TH CENTURY AMERICANS | In 1850 this showman began promoting U.S. tours for opera singer Jenny Lind | P.T. Barnum
+right: Jamie
+Wrong: 
+Value: $400
+Number: 18
+THE BODY HUMAN | The parathyroid glands regulate the blood level of phosphates & this mineral necessary for bone growth | Calcium
+right: Ken
+Wrong: 
+Value: $400
+Number: 20
+RELIGION | Members of this religion commonly  touch their foreheads to the ground to acknowledge God's majesty | Islam
+right: Sarah
+Wrong: 
+Value: $400
+Number: 13
+PLAYWRIGHTS | The 1961 comedy "Come Blow Your Horn" was his 1st Broadway play | Neil Simon
+right: Ken
+Wrong: 
+Value: $400
+Number: 12
+POTPOURRI | In flowers, the anther is part of the stamen in which this is produced | Pollen
+right: Sarah
+Wrong: 
+Value: $400
+Number: 2
+NEW YORK CITY | Luxury cruise lines depart from docks along this river on Manhattan's west side | Hudson River
+right: Jamie
+Wrong: 
+Value: $400
+Number: 6
+19TH CENTURY AMERICANS | Nicknamed "Gentleman Jim", this bank teller won the heavyweight boxing title from John L. Sullivan in 1892 | Jim Corbett
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 22
+THE BODY HUMAN | The rectus femoris & the biceps femoris muscles are located in this part of the body | Thigh
+right: Sarah
+Wrong: 
+Value: $600
+Number: 21
+RELIGION | The Deseret News is the daily paper published by this church | Church of Jesus Christ of Latter Day Saints (Mormons)
+right: Sarah
+Wrong: 
+Value: $600
+Number: 14
+PLAYWRIGHTS | She married fellow playwright Arthur Kober but never tied the knot with Dashiell Hammett | Lillian Hellmann
+right: Jamie
+Wrong: 
+Value: $600
+Number: 24
+POTPOURRI | The 12 divisions of a horoscope are known by this "homey" name | Houses
+right: Ken
+Wrong: 
+Value: $600
+Number: 3
+NEW YORK CITY | The Promenade, The Sullivan Street Theatre & The Cherry Lane Theatre, among others | Off-Broadway
+right: Ken
+Wrong: 
+Value: $600
+Number: 7
+19TH CENTURY AMERICANS | He was in command of the U.S.S. Fulton, an early naval steamship, when he opened U.S. trade with Japan | Matthew Perry
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+THE BODY HUMAN | This purplish lymphatic organ is a major filtering element for the blood | Spleen
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 25
+RELIGION | The 3 great traditional religions of China | Buddhism, Confucianism & Taoism
+right: Sarah
+Wrong: 
+Value: DD: $2,500
+Number: 15
+PLAYWRIGHTS | His play "Winterset" is based on the case of Sacco & Vanzetti | Maxwell Anderson
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+POTPOURRI | The Havana brown cat is so named because its coat resembles the color of these | Cigar
+right: Jamie
+Wrong: 
+Value: $800
+Number: 4
+NEW YORK CITY | It parallels 5th & 7th Avenues, & long-time New Yorkers still call it 6th Avenue | The Avenue of the Americas
+right: Jamie
+Wrong: 
+Value: $800
+Number: 9
+THE BODY HUMAN | This carbohydrate is stored in the liver & provides the body with a reserve of energy | Glycogen
+right: Sarah
+Wrong: 
+Value: $1000
+Number: 26
+RELIGION | Brown & the University of Chicago were both established by members of this Protestant denomination | Baptists
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 16
+PLAYWRIGHTS | Centenarian playwright known for the musicals "The Pajama Game" & "Fiorello!" | George Abbott
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 28
+POTPOURRI | It's the largest state entirely east of the Mississippi | Georgia
+right: 
+Wrong: Triple Stumper
+Jamie: What is New York?
+Ken: What is Florida?
+Sarah: What is Texas?
+Value: $1000
+Number: 29
+NEW YORK CITY | (VIDEO DAILY DOUBLE): Travel writer Stephen Birnbaum calls the building "The Princess of the Skyline" | The Chrysler Building
+right: Jamie
+Wrong: 
+Value: DD: $2,100
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Jamie: $5,400
+Ken: -$1,900
+Sarah: $3,700
+
+Final Jeopardy! Round
+THE NOBEL PRIZE | The only peace prize awarded posthumously went to this man in 1961 | Dag Hammarskjold (the secretary-general of the UN who was killed in the plane crash in Africa)
+right: 
+Wrong: 
+Sarah: Who was Mahatma Gandhi?
+Jamie: Who was FDR?
+Wagers: 
+Sarah: $3,600
+Jamie: $2,001
+Final scores:
+Jamie: $3,399 (2-day champion: $4,798)
+Ken: -$1,900 (3rd place: Retronel Flatware service for 8)
+Sarah: $100 (2nd place: Zenith Portable Computer & Magnavox Color TV)
+
+Coryat scores
+Jamie: $4,900 (20 R(including 1 DD),6 W(including 1 DD))
+Ken: -$1,900 (9 R,8 W)
+Sarah: $2,000 (15 R(including 1 DD),6 W)

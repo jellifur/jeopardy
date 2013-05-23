@@ -1,0 +1,347 @@
+368 - Wednesday, February 5, 1986
+Comments: Paul Rouffa game 2.
+Contestants:
+Judy Hedden: a database representative originally from San Francisco, California
+Steve Wenrick: a programmer originally from Reading, Pennsylvania
+Paul Rouffa: an actor from Forest Park, Illinois (whose 1-day cash winnings total $10,000)
+First Jeopardy! Round: CRIME & PUNISHMENT, ASTROLOGY, "J" WORDS, TRANSPORTATION, BIRDS, COOKING TERMS
+CRIME & PUNISHMENT | Capital punishment was widely used under Mosaic Law of this ancient people | the Jews
+right: Steve
+Wrong: 
+Value: $100
+Number: 7
+ASTROLOGY | The "crabby" sign of the zodiac | Cancer
+right: Steve
+Wrong: 
+Value: $100
+Number: 4
+"J" WORDS | Various sources say it's named for one of Popeye's pals, or for initials of "general purpose", G.P. | a jeep
+right: Judy
+Wrong: 
+Value: $100
+Number: 1
+TRANSPORTATION | This company is #1 in bus transportation & bus manufacturing | Greyhound
+right: Paul
+Wrong: 
+Value: $100
+Number: 21
+BIRDS | Oddity shared by the ostrich, kiwi, & penguin | they can't fly
+right: Paul
+Wrong: 
+Value: $100
+Number: 10
+COOKING TERMS | To brush melted mutter on the Thanksgiving turkey at regular intervals | baste
+right: Paul
+Wrong: 
+Value: $100
+Number: 22
+CRIME & PUNISHMENT | In the U.S., the crime said to have the highest conviction rate is murder of these | police
+right: Steve
+Wrong: 
+Value: $200
+Number: 14
+ASTROLOGY | The symbol for this sign aptly resembles the Roman numeral two | Gemini
+right: Steve
+Wrong: 
+Value: $200
+Number: 5
+"J" WORDS | In 1975, it was the Bee Gees' way of talkin' | Jive
+right: Paul
+Wrong: 
+Value: $200
+Number: 2
+TRANSPORTATION | W. & O. Wright felt passengers wouldn't mind flying in this position they 1st flew in themselves | on their stomachs
+right: Paul
+Wrong: 
+Value: $200
+Number: 24
+BIRDS | He shares his name & color with an ecclesiastic | a cardinal
+right: Paul
+Wrong: 
+Steve: What is a blue jay?
+Value: $200
+Number: 13
+COOKING TERMS | From French "to make white", it's to boil food for a short time | blanch
+right: Judy
+Wrong: 
+Value: $200
+Number: 23
+CRIME & PUNISHMENT | J. Edgar Hoover kept this "Public Enemy's" death mask in his own office | Dillinger
+right: Steve
+Wrong: 
+Value: $300
+Number: 15
+ASTROLOGY | Libra ladies are traditionally lovely because Librans are ruled by this planet | Venus
+right: Paul
+Wrong: 
+Value: $300
+Number: 6
+"J" WORDS | "If you shut up your mug, I'll fill up" this with "good ol' mountain dew" | your jug
+right: Steve
+Wrong: 
+Value: $300
+Number: 3
+TRANSPORTATION | This form of transport still carries the most freight in the U.S. | a railroad
+right: Steve
+Wrong: 
+Value: $300
+Number: 25
+BIRDS | A baby goose | a gosling
+right: Steve
+Wrong: 
+Value: $300
+Number: 17
+COOKING TERMS | Adding hot or tangy seasonings to food, it's Satan's favorite method of cooking ham or eggs | deviled
+right: Judy
+Wrong: 
+Value: $300
+Number: 26
+CRIME & PUNISHMENT | By age 33, John MacLean, this type of thief, had stolen $150 mil. worth of goods by himself | a burglar
+right: 
+Wrong: Triple Stumper
+Steve: What is art?
+Judy: What is jewels?
+Value: $400
+Number: 16
+ASTROLOGY | When casting a horoscope, astrologer's place this, not the sun, at the center of the solar system | the Earth
+right: Judy
+Wrong: 
+Value: $400
+Number: 8
+"J" WORDS | Flotsam's "friend" | jetsam
+right: Steve
+Wrong: 
+Value: $400
+Number: 11
+BIRDS | The Terrytoons' Heckle & Jeckle are this type of chattering bird | magpies
+right: 
+Wrong: Triple Stumper
+Paul: What is a crow?
+Steve: What is a mockingbird?
+Judy: What is a myna?
+Value: $400
+Number: 18
+COOKING TERMS | To cook food in liquid just below the boiling point, it's a way to pamper you eggs | coddling
+right: Paul
+Wrong: 
+Steve: What is poached?
+Value: $400
+Number: 27
+CRIME & PUNISHMENT | Freed at 46 after suffering 11 years false imprisonment on Devil's Island, this Frenchman lived to 75 | Dreyfus
+right: Judy
+Wrong: 
+Value: $500
+Number: 20
+ASTROLOGY | 2 of the 3 most important positions in any natal chart | the sun, the moon, & your rising sign
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 9
+"J" WORDS | To place side by side, as in an unexpected combination of colors or ideas | juxtaposition
+right: Steve
+Wrong: 
+Value: $500
+Number: 12
+BIRDS | In <http://www.j-archive.com/media/1986-02-05_J_19.mp3> the following, Al Jolson stops to tell you to look & listen for this bird: | the bluebird
+right: 
+Wrong: 
+Steve: I have a tin ear.
+Value: DD: $400
+Number: 19
+COOKING TERMS | To brown a piece of meat & then simmer it in small amount of liquid in covered pan | braising
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 28
+Scores at the first commercial break (after clue 15)
+Paul: $800
+Steve: $1,800
+Judy: $100
+Scores at the end of the Jeopardy! Round:
+Paul: $1,200
+Steve: $900
+Judy: $700
+Second Jeopardy! Round: WORLD CITIES, SPORTS, ENGLISH HISTORY, WOMEN, CORPORATE AMERICA, "CRY"ING SONGS
+WORLD CITIES | The oldest city in France & still its chief seaport | Marseilles
+right: Paul
+Wrong: 
+Value: $200
+Number: 1
+SPORTS | Only team that can score points in volleyball | serving team
+right: Judy
+Wrong: 
+Value: $200
+Number: 8
+ENGLISH HISTORY | While Prime Minister, Winston Churchill belonged to this political party | Conservatives
+right: Steve
+Wrong: 
+Value: $200
+Number: 6
+WOMEN | Charles Hamilton list this French martyr's autograph as most valuable by a woman | Joan of Arc
+right: Steve
+Wrong: 
+Value: $200
+Number: 15
+CORPORATE AMERICA | This company's tours became so successful in 1973 it built a simulated chocolate factory | Hershey
+right: Paul
+Wrong: 
+Value: $200
+Number: 7
+"CRY"ING SONGS | Fall 1962 was a #1 season for the Four Seasons with "Sherry" & this song | "Big Girls Don't Cry"
+right: 
+Wrong: Triple Stumper
+Judy: What is "Rag Doll"?
+Value: $200
+Number: 18
+WORLD CITIES | Not the duke, duchess, or castle, but Canada's southernmost city | Windsor
+right: Paul
+Wrong: 
+Value: $400
+Number: 2
+SPORTS | Inventor of the boxing glove, English boxer Jack Broughton is commemorated in this regal resting palace | Westminster Abbey
+right: Judy
+Wrong: 
+Value: $400
+Number: 9
+ENGLISH HISTORY | In 1209 the Pope punished King John by doing this to him | excommunication
+right: Paul
+Wrong: 
+Value: $400
+Number: 10
+WOMEN | Her 1918 lunch with Robert Benchley at an Algonquin Hotel round table started a famous literary circle | Dorothy Parker
+right: Paul
+Wrong: 
+Value: $400
+Number: 24
+CORPORATE AMERICA | Every year, this company delivers more than a billion packages, more than the Post Office | UPS (United Parcel Service)
+right: 
+Wrong: Triple Stumper
+Paul: What is Federal Express
+Steve: What is Western Union?
+Value: $400
+Number: 16
+"CRY"ING SONGS | This Gerry & the Pacemakers 1964 hit suggests you should do you weeping at night | "Don't Let The Sun Catch You Crying"
+right: Judy
+Wrong: 
+Paul: What is "Don't Let The Day See You Crying"?
+Value: $400
+Number: 19
+WORLD CITIES | In 1602, the hdqtrs. for the Dutch East India Co. was Batavia, now called this, Indonesia's capital | Jakarta
+right: Judy
+Wrong: 
+Value: $600
+Number: 3
+SPORTS | Finishing the Channel swim in 1926, Gertrude Ederle was met on beach by immigration officer demanding this | a passport
+right: Paul
+Wrong: 
+Value: $600
+Number: 11
+ENGLISH HISTORY | In 1915, the British created this mobile weapon that could cross trenches | the tank
+right: Paul
+Wrong: 
+Value: $600
+Number: 14
+WOMEN | Author Susan Brownmiller said when Hugh Hefner wears this on "his rear end, then we'll have equality" | a bunny tail
+right: Paul
+Wrong: 
+Value: $600
+Number: 25
+CORPORATE AMERICA | 1980 failure of "Heaven's Gate" led Transamerica to sell this movie company to MGM | United Artists
+right: Paul
+Wrong: 
+Value: $600
+Number: 17
+"CRY"ING SONGS | You'd better stop sobbing when Melissa Manchester sings this, her 1979 hit | "Don't Cry Out Loud"
+right: Paul
+Wrong: 
+Value: $600
+Number: 20
+WORLD CITIES | 3 major cities of this S. American country are Concepcion, Encarnacion, & Asuncion, the capital | Paraguay
+right: 
+Wrong: Triple Stumper
+Steve: What is Ecuador?
+Judy: What is Bolivia?
+Value: $800
+Number: 4
+SPORTS | Year of 1st World Series telecast, which featured the Dodgers' Jackie Robinson, Rookie of the Year | 1947
+right: Paul
+Wrong: 
+Value: DD: $1,000
+Number: 12
+ENGLISH HISTORY | In the 16th  C., this great Tudor king abolished the privilege of clergy issuing coins | Henry VIII
+right: Steve
+Wrong: 
+Value: $800
+Number: 28
+WOMEN | Polish musician Wanda Landowska was credited with modern revival of this instrument | the harpsichord
+right: Paul
+Wrong: 
+Value: $800
+Number: 26
+CORPORATE AMERICA | Company that is Delaware's largest single employer | DuPont
+right: Steve
+Wrong: 
+Value: $800
+Number: 22
+"CRY"ING SONGS | A Top 10 hit in 1955 for Julie London, it's no about the Thames | "Cry Me A River"
+right: Steve
+Wrong: 
+Value: $800
+Number: 21
+WORLD CITIES | Tanzania's largest city & functioning capital, its name means "haven of peace" | Dar es Salaam
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+SPORTS | Of all his achievements, this pediatrician is most proud of his 1924 Olympic gold medal for rowing | Benjamin Spock
+right: Judy
+Wrong: 
+Value: $1000
+Number: 13
+ENGLISH HISTORY | 1st Englishman to sail around the world | (Sir) Francis Drake
+right: Paul
+Wrong: 
+Steve: Who is Sir Walter Raleigh?
+Value: $1000
+Number: 30
+WOMEN | This black activist was 1 of only 6 women ever to make the FBI's "Most Wanted" list | Angela Davis
+right: Judy
+Wrong: 
+Value: $1000
+Number: 27
+CORPORATE AMERICA | In 1982, this huge city became #1 beer-producing area in U.S. | L.A.
+right: Paul
+Wrong: 
+Value: $1000
+Number: 23
+"CRY"ING SONGS | 2 Elvis Presley Top 10 hits that fit this category | "Crying In The Chapel" & "Don't Cry Daddy"
+right: 
+Wrong: 
+Steve: No idea.
+Value: DD: $1,000
+Number: 29
+Scores at the end of the Double Jeopardy! Round:
+Paul: $8,800
+Steve: $500
+Judy: $3,300
+
+Final Jeopardy! Round
+ACTORS & ROLES | 1 of 3 actors who won Best Actor Oscar for playing an actor | Jimmy Cagney (for George M. Cohan), Ronald Colman, or Richard Dreyfuss
+right: 
+Wrong: 
+Steve: Who is Albert Finney
+Judy: Who is Albert Finney?
+Paul: Who is L. Olivier?
+Wagers: 
+Steve: $498
+Judy: $3,300
+Paul: $2,199
+Final scores:
+Paul: $6,601 (2-day champion: $16,601)
+Steve: $2 (2nd place: Pinseeker golf clubs and Serengeti Drivers sunglasses)
+Judy: $0 (3rd place: Allister garage door opener)
+
+Coryat scores
+Paul: $8,600 (22 R(including 1 DD),3 W)
+Steve: $1,900 (15 R,9 W(including 2 DDs))
+Judy: $3,300 (11 R,4 W)

@@ -1,0 +1,345 @@
+6337 - Tuesday, March 20, 2012
+Contestants:
+Vince Gatton: an actor from New York, New York
+Melanie Spratford: a caterer from Chicago, Illinois
+Alex Wright: a university administrator from Upper Arlington, Ohio (whose 1-day cash winnings total $25,600)
+First Jeopardy! Round: MOVIE QUOTES, I'M THE KING OF THE WORLD, MY PRECIOUS, "ILE" BE BACK, HELLO, GORGEOUS!, TO INFINITY & BEYOND
+MOVIE QUOTES | 2010: "Drop the 'the'. Just Facebook, it's cleaner" | The Social Network
+right: Alex
+Wrong: 
+Value: $200
+Number: 7
+I'M THE KING OF THE WORLD | This country's King Leopold III spent much of World War II as a prisoner in his own castle | Belgium
+right: Melanie
+Wrong: 
+Value: $200
+Number: 26
+MY PRECIOUS | A New York City importer sells the Caspian Almas Osetra Malossol variety of this for just over $20k per kilo | caviar
+right: Melanie
+Wrong: 
+Value: $200
+Number: 17
+"ILE" BE BACK | "Nimble" & "spry" are synonyms for this 5-letter adjective | agile
+right: Melanie
+Wrong: 
+Value: $200
+Number: 12
+HELLO, GORGEOUS! | Similar to rouge, this cosmetic used to color the cheeks means "to make red, as from shame" | blush
+right: Melanie
+Wrong: 
+Value: $200
+Number: 2
+TO INFINITY & BEYOND | In math, the usual way to indicate an infinite set is to put this after the last element you list | three dots
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 1
+MOVIE QUOTES | 1939: "Pay no attention to that man behind the curtain" | The Wizard of Oz
+right: Vince
+Wrong: 
+Value: $400
+Number: 8
+I'M THE KING OF THE WORLD | In the 1300s Scotland had 3 kings named this, including the Bruce | Robert
+right: Vince
+Wrong: 
+Value: $400
+Number: 27
+MY PRECIOUS | This silvery-white (not blonde) metal, element number 78, fetches more than $1,500 an ounce | platinum
+right: Alex
+Wrong: 
+Vince: What is gold?
+Value: $400
+Number: 18
+"ILE" BE BACK | In 2008 the fine for fare evasion on New York subways went up to $100, so don't jump this structure | a turnstile
+right: Melanie
+Wrong: 
+Value: $400
+Number: 13
+HELLO, GORGEOUS! | Wine not is a shade in Revlon's lipstick line named for this finish that's not glossy but this opposite, also a finish for photos | matte
+right: Alex
+Wrong: 
+Value: $400
+Number: 3
+TO INFINITY & BEYOND | Seen in many travel magazines, the <http://www.j-archive.com/media/2012-03-20_J_22.jpg> infinity pool at the Perivolas suites on Santorini overlooks this sea | the Aegean
+right: Alex
+Wrong: 
+Value: $400
+Number: 22
+MOVIE QUOTES | 2007: "You changed your name to McLovin?" | Superbad
+right: Vince
+Wrong: 
+Value: $600
+Number: 9
+I'M THE KING OF THE WORLD | This eldest son of Queen Victoria ascended the throne upon her death in 1901 | Edward VII
+right: 
+Wrong: Triple Stumper
+Melanie: Who is George V?
+Value: $600
+Number: 28
+MY PRECIOUS | The fresh white Alba type of this fungus from Italy sells for $3,500 per pound | a truffle
+right: Alex
+Wrong: 
+Value: $600
+Number: 19
+"ILE" BE BACK | The liver secretes this greenish stuff | bile
+right: Alex
+Wrong: 
+Value: $600
+Number: 14
+HELLO, GORGEOUS! | A kit like the one seen <http://www.j-archive.com/media/2012-03-20_J_04.jpg> here is named for <http://www.j-archive.com/media/2012-03-20_J_04a.jpg> this smoldering eye look - blend the shadows properly to achieve the look | smoky (eye)
+right: Alex
+Wrong: 
+Value: $600
+Number: 4
+TO INFINITY & BEYOND | This 20th century Dutch artist tried to capture infinity in a frame in pictures like "Circle Limit III" | (M.C.) Escher
+right: Alex
+Wrong: 
+Value: $600
+Number: 23
+MOVIE QUOTES | 1946: "Every time a bell rings, an angel gets his wings" | It's a Wonderful Life
+right: Alex
+Wrong: 
+Value: $800
+Number: 10
+I'M THE KING OF THE WORLD | Charles I, who died in 1922, was the last emperor of Austria & as Charles IV, the last king of this country | Hungary
+right: 
+Wrong: 
+Vince: [pause] I'm gonna say, what is Germany?
+Value: DD: $800
+Number: 29
+MY PRECIOUS | Lucky for us all, the weapons-grade variety of this stuff that powered the second atomic bomb costs almost $11,000 a gram | plutonium
+right: Vince
+Wrong: 
+Value: $800
+Number: 20
+"ILE" BE BACK | We call it a cell phone, but the chaps in Britain call it this | a mobile
+right: Melanie
+Wrong: 
+Value: $800
+Number: 15
+HELLO, GORGEOUS! | Appropriately, a type of big makeup brush is named for this form of Japanese drama that features heavy makeup | kabuki
+right: Alex
+Wrong: 
+Value: $800
+Number: 5
+TO INFINITY & BEYOND | This mathematician & "strip"-per who died in 1868 studied points at infinity in geometry | Moebius
+right: Alex
+Wrong: 
+Value: $800
+Number: 24
+MOVIE QUOTES | 1968: "How could this happen?... I picked the wrong play, the wrong director, the wrong cast--where did I go right?" | The Producers
+right: Alex
+Wrong: 
+Value: $1000
+Number: 11
+I'M THE KING OF THE WORLD | Dethroned in 1952, this king of Egypt died of a heart attack in 1965 at age 45 | Farouk
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+MY PRECIOUS | Sur la Table sells the Spanish Mancha-Oro brand of this spice for almost $500 an ounce | saffron
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 21
+"ILE" BE BACK | Cunning or duplicity | guile
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 16
+HELLO, GORGEOUS! | To give your curls definition use <http://www.j-archive.com/media/2012-03-20_J_06.jpg> this hair dryer attachment seen <http://www.j-archive.com/media/2012-03-20_J_06a.jpg> here | a diffuser
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 6
+TO INFINITY & BEYOND | When John Dryden wrote, "Darest thou, poor worm, offend infinity?", by infinity he meant this | God (the Deity)
+right: 
+Wrong: Triple Stumper
+Vince: What is death?
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Alex: $4,400
+Melanie: $2,600
+Vince: $1,000
+Scores at the end of the Jeopardy! Round:
+Alex: $7,200
+Melanie: $4,400
+Vince: $0
+Second Jeopardy! Round: BESTSELLERS, CELEBRITY VETERANS, THE 50 STATES, TRIPLE RHYME TIME, MUSICAL TERMS, EVERY BIT A "LADY"
+BESTSELLERS | Last name of bestselling authors Catherine (the thriller "Split Second") & Ann ("How to Talk to a Liberal") | Coulter
+right: Melanie
+Wrong: 
+Value: $400
+Number: 1
+CELEBRITY VETERANS | This alliteratively named actor served in the army reserve in Korea before reporting for duty | Alan Alda
+right: Vince
+Wrong: 
+Value: $400
+Number: 19
+THE 50 STATES | Appropriately, it has a huge state marine mammal: the bowhead whale | Alaska
+right: 
+Wrong: Triple Stumper
+Vince: What is Washington?
+Value: $400
+Number: 6
+TRIPLE RHYME TIME | An autumn dance reception area | a fall ball hall
+right: Vince
+Wrong: 
+Value: $400
+Number: 21
+MUSICAL TERMS | In the 11th C. Guido D'Arezzo, a Benedictine monk, invented this set of parallel lines used for the placement of notes | the staff
+right: Vince
+Wrong: 
+Value: $400
+Number: 9
+EVERY BIT A "LADY" | She outlived her presidential husband by nearly 35 years, passing away in 2007 at 94 | Lady Bird Johnson
+right: Alex
+Wrong: 
+Value: $400
+Number: 14
+BESTSELLERS | Seth Grahame-Smith revealed an unknown aspect of the Civil War in the horror-history hybrid called Him: "Vampire Hunter" | Abraham Lincoln
+right: Melanie
+Wrong: 
+Value: DD: $2,000
+Number: 2
+CELEBRITY VETERANS | This comic joined the navy in 1956 & was a hospital corpsman, probably not handing out Jell-O pudding pops | Bill Cosby
+right: Alex
+Wrong: 
+Value: $800
+Number: 20
+THE 50 STATES | This state's natural land regions include the Klamath Mountains & the Columbia Plateau | Oregon
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+TRIPLE RHYME TIME | Feeble Athenian stream | a weak Greek creek
+right: Alex
+Wrong: 
+Value: $800
+Number: 22
+MUSICAL TERMS | The direction "adagissimo" means to play even more slowly than this similar-sounding 6-letter word | adagio
+right: Melanie
+Wrong: 
+Value: $800
+Number: 10
+EVERY BIT A "LADY" | As an infant Sir Lancelot was swept off by this enchantress who later sent him to Arthur's court | the Lady of the Lake
+right: Alex
+Wrong: 
+Value: $800
+Number: 15
+BESTSELLERS | He's ignited fires on the bestseller lists with his weepy novels, including "The Notebook" & "A Walk to Remember" | (Nicholas) Sparks
+right: Alex
+Wrong: 
+Value: $1200
+Number: 3
+CELEBRITY VETERANS | This actor & martial artist was an Air Force man before becoming a "Texas Ranger" on TV | Chuck Norris
+right: Alex
+Wrong: 
+Value: $1200
+Number: 26
+THE 50 STATES | Iowa's nickname the Hawkeye state is said to honor this Sauk chief who fought the U.S. in an 1832 war | Black Hawk
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 8
+TRIPLE RHYME TIME | A warning that some of the T's & button-downs are grimy | a shirt dirt alert
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+MUSICAL TERMS | This specific term refers to one who writes the text of an opera | the librettist
+right: Melanie
+Wrong: 
+Value: DD: $1,600
+Number: 11
+EVERY BIT A "LADY" | Seen in the portrait <http://www.j-archive.com/media/2012-03-20_DJ_16.jpg> here, <http://www.j-archive.com/media/2012-03-20_DJ_16a.jpg> this teen briefly reigned over England in 1553 | Lady Jane Grey
+right: Vince
+Wrong: 
+Value: $1200
+Number: 16
+BESTSELLERS | The title of this bestseller by Julia Glass refers to a trio of summers in the life of the McLeod family | Three Junes
+right: Vince
+Wrong: 
+Value: $1600
+Number: 4
+CELEBRITY VETERANS | He served in Vietnam before joining New York's finest as Det. Sipowicz on "NYPD Blue" | (Dennis) Franz
+right: Melanie
+Wrong: 
+Value: $1600
+Number: 27
+THE 50 STATES | (<http://www.j-archive.com/media/2012-03-20_DJ_29.jpg> Alex Trebek walks along a river with grass, a bridge and a building in the background.)  I'm in Cumberland, in this state. This city of at 20,000 has a long history as a vital transport hub. It was the site of the first national road and also the terminus of the C& O canal, which goes all the way to Washington, D.C. | Maryland
+right: 
+Wrong: Triple Stumper
+Melanie: What is Delaware?
+Vince: What is Ohio?
+Value: $1600
+Number: 29
+TRIPLE RHYME TIME | A tall & thin but grouchy Derek Jeter | a lanky cranky Yankee
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+MUSICAL TERMS | When a dot is placed above a musical note, it is played this way, the opposite of legato | staccato
+right: Melanie
+Wrong: 
+Value: $1600
+Number: 12
+EVERY BIT A "LADY" | She speaks the line "Tell me, daughter Juliet, how stands your disposition to be married?" | Lady Capulet
+right: Melanie
+Wrong: 
+Value: $1600
+Number: 17
+BESTSELLERS | Marc Ostrofsky's "Ultimate Guide to Making Money on the Internet" is punningly titled "Get Rich" this | Click
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+CELEBRITY VETERANS | <http://www.j-archive.com/media/2012-03-20_DJ_28.jpg> This radio personality, and ex-Air Force Captain, has been known to have some stern conversations | Robin Quivers
+right: 
+Wrong: Triple Stumper
+Melanie: Who is Givens?
+Value: $2000
+Number: 28
+THE 50 STATES | Its 3 most recent governors: Jane Hull, Janet Napolitano, Jan Brewer | Arizona
+right: Vince
+Wrong: 
+Value: $2000
+Number: 30
+TRIPLE RHYME TIME | Weighty Camaro tax | a heavy Chevy levy
+right: Vince
+Wrong: 
+Value: $2000
+Number: 25
+MUSICAL TERMS | (<http://www.j-archive.com/media/2012-03-20_DJ_13.jpg> Sarah of the Clue Crew shows us a musical staff with 3 lowercase b's superimposed.) first used on the b-note, accidental symbols are all <http://www.j-archive.com/media/2012-03-20_DJ_13a.jpg> variations of the letter b - the flat lowers pitch, the sharp raises it, and this symbol cancels a flat or sharp | a natural
+right: Vince
+Wrong: 
+Value: $2000
+Number: 13
+EVERY BIT A "LADY" | It's the pretty-as-a-picture butterfly seen <http://www.j-archive.com/media/2012-03-20_DJ_18.jpg> here | Painted Lady
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 18
+Scores at the end of the Double Jeopardy! Round:
+Alex: $9,600
+Melanie: $10,400
+Vince: $8,000
+
+Final Jeopardy! Round
+HISTORICAL FACTS & FIGURES | This site was active from 1892 to 1954; its busiest day was April 17, 1907 when 11,747 were processed | Ellis Island
+right: Vince | Alex | Melanie
+Wrong: 
+Wagers: 
+Vince: $7,800
+Alex: $7,000
+Melanie: $8,801
+Final scores:
+Alex: $16,600 (2nd place: $2,000)
+Melanie: $19,201 (New champion: $19,201)
+Vince: $15,800 (3rd place: $1,000)
+
+Coryat scores
+Alex: $9,600 (18 R,3 W)
+Melanie: $8,800 (16 R(including 2 DDs),3 W)
+Vince: $8,800 (12 R,5 W(including 1 DD))

@@ -1,0 +1,300 @@
+1105 - Friday, May 26, 1989
+Comments: Rich Lerner game 4.
+Contestants:
+Thompson O'Sullivan: an assistant director from Toluca Lake, California
+Doug Schwartz: an engineer originally from La Mesa, California
+Rich Lerner: a lawyer from Silver Spring, Maryland (whose 3-day cash winnings total $34,400)
+First Jeopardy! Round: STARTS WITH "B", HOLLAND, OATS, LYRICS, U.S. HISTORY, FAMOUS "BABY"s
+HOLLAND | In Holland he's known as "Sinter-Klaas" | Santa Claus
+right: Rich
+Wrong: 
+Value: $100
+Number: 6
+OATS | They're "sown" in one's youth | wild oats
+right: Doug
+Wrong: 
+Value: $100
+Number: 18
+LYRICS | According to the song, it's "That Toddlin' Town" | Chicago
+right: Thompson
+Wrong: 
+Value: $100
+Number: 12
+U.S. HISTORY | It's the present-day successor of the old Federal Radio Commission | the FCC (Federal Communications Commission)
+right: Thompson
+Wrong: 
+Value: $100
+Number: 1
+FAMOUS "BABY"s | Nickname of Jean-Claude Duvalier, who succeeded his father, a physician, as Haitian leader | "Baby Doc"
+right: Doug
+Wrong: 
+Thompson: Who is, uh, "Papa Doc"?--
+Value: $100
+Number: 11
+HOLLAND | The Holland Herald is this airline's in-flight magazine | KLM (Royal Dutch)
+right: Rich
+Wrong: 
+Value: $200
+Number: 7
+OATS | Wilford Brimley reminds you in commercials that it's 100% rolled oats & nothing else | Quaker Oats
+right: Doug
+Wrong: 
+Value: $200
+Number: 19
+LYRICS | The last line of this Rodgers & Hart song is "Each day is Valentine's Day" | "My Funny Valentine"
+right: Rich
+Wrong: 
+Value: $200
+Number: 13
+U.S. HISTORY | Number of the Continental Congress which adopted the Declaration of Independence | the second
+right: Thompson
+Wrong: 
+Rich: What is the first?
+Doug: What's thirteen?
+Value: $200
+Number: 2
+FAMOUS "BABY"s | Childhood stage name of the actress who played Sally Rogers on "The Dick Van Dyke Show" | Baby Rose Marie
+right: 
+Wrong: Triple Stumper
+Rich: Who is Baby Rose?
+Value: $200
+Number: 14
+HOLLAND | At Klompenboer in Amsterdam you can watch these being made | wooden shoes (klompen)
+right: Rich
+Wrong: 
+Value: $300
+Number: 8
+OATS | Smuts, rusts & barley yellow dwarf | diseases of oats
+right: Doug
+Wrong: 
+Value: $300
+Number: 22
+U.S. HISTORY | A cartoon by Thomas Nast in an 1874 Harper's Weekly was the 1st to use an elephant as this | the symbol of the Republican Party
+right: Rich
+Wrong: 
+Value: $300
+Number: 3
+FAMOUS "BABY"s | 1 of 2 popular U.S. films released in late 1987 that had the word "Baby" in their titles | Baby Boom
+right: 
+Wrong: 
+Rich: What is Baby?
+Value: DD: $900
+Number: 15
+HOLLAND | The hat colors of porters of this food product at the Alkmaar Market indicate the guild they work for | cheese
+right: Rich
+Wrong: 
+Value: $400
+Number: 9
+OATS | After being hulled, what's left are these, the sseds of the oat | groats
+right: 
+Wrong: Triple Stumper
+Doug: What are the kernels?
+Thompson: What is oat bran?
+Value: $400
+Number: 21
+U.S. HISTORY | The Liberty Bell cracked July 8, 1835 while tolling this Chief Justice's death | (John) Marshall
+right: Doug
+Wrong: 
+Thompson: Who is Holmes?
+Value: $400
+Number: 4
+FAMOUS "BABY"s | Seen w/Casper the Friendly Ghost, this Harvey cartoon & comic character was an overgrown duckling | Baby Huey
+right: Doug
+Wrong: 
+Value: $400
+Number: 16
+HOLLAND | Aruba separated from this island group in 1986 & will be fully independent in 1996 | the Dutch Antilles (or Netherland Antilles)
+right: Rich
+Wrong: 
+Value: $500
+Number: 10
+OATS | This state, the top U.S. oat producer, also gave us Tom Brokaw | South Dakota
+right: 
+Wrong: Triple Stumper
+Rich: What is Nebraska?
+Thompson: What is Kansas?
+Value: $500
+Number: 20
+U.S. HISTORY | The verdict in the 1982 trial of John Hinckley Jr. for attempting to murder the president | not guilty by reason of insanity
+right: Rich
+Wrong: 
+Doug: What's guilty by reason of insanity?
+Value: $500
+Number: 5
+FAMOUS "BABY"s | It's how the media referred to little Miss McClure, who, in 1987, fell down a well & was rescued 2 days later | Baby Jessica
+right: Thompson
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+Rich: $2,100
+Doug: -$300
+Thompson: -$100
+Scores at the end of the Jeopardy! Round:
+Rich: $700
+Doug: $400
+Thompson: -$500
+Second Jeopardy! Round: NEW YORKERS, SHAKESPEARE, WORLD RELIGION, MEDICINE, REAL ESTATE TERMS, "MAN"LY MOVIES
+NEW YORKERS | Though he lived in many states, his body "lies a-moudering in the grave" south of Lake Placid | John Brown
+right: Rich
+Wrong: 
+Value: $200
+Number: 13
+SHAKESPEARE | This comedy features a woman named Hero & a hero named Benedick, but it isn't "Much" | Much Ado About Nothing
+right: Doug
+Wrong: 
+Value: $200
+Number: 1
+WORLD RELIGION | In Hebrew, this word literally means "fit", as in "fit to be eaten" | kosher
+right: Thompson
+Wrong: 
+Value: $200
+Number: 2
+MEDICINE | In the 1890s William Halsted introduced the practice of wearing these sterile surgical accessories | rubber gloves
+right: Thompson
+Wrong: 
+Value: $200
+Number: 25
+NEW YORKERS | This wealthy oil magnate was born in 1839 just outside the village of Richford | (John D.) Rockefeller
+right: Doug
+Wrong: 
+Value: $400
+Number: 24
+SHAKESPEARE | Villain in "Othello" who says, "Wine is a good familiar creature, if it be well used" | Iago
+right: Thompson
+Wrong: 
+Value: $400
+Number: 3
+WORLD RELIGION | The holy day of the week in the Seventh-day Adventist Church | Saturday
+right: Thompson
+Wrong: 
+Value: $400
+Number: 7
+MEDICINE | His goal was to collect 100,000 sexual histories; when he died in 1956, he had about 18,000 | Kinsey
+right: Doug
+Wrong: 
+Value: $400
+Number: 16
+REAL ESTATE TERMS | The local government official who determines the value of a property specifically for tax purposes | an assessor
+right: Doug
+Wrong: 
+Value: $400
+Number: 15
+"MAN"LY MOVIES | His running ability helped this Dustin Hoffman character escape his Nazi foe | The Marathon Man
+right: Doug
+Wrong: 
+Value: $400
+Number: 26
+SHAKESPEARE | Make no mistake: this play about twins was "musicalized" as "The Boys from Syracuse" | A Comedy of Errors
+right: Thompson
+Wrong: 
+Rich: What is Twelfth Night?
+Value: $600
+Number: 4
+WORLD RELIGION | Biblical event commemorated by the taking of communion in Christian ceremonies | the Last Supper
+right: Doug
+Wrong: 
+Value: $600
+Number: 8
+MEDICINE | Connected to a beeping machine, people have learned to control their blood pressure using this process | biofeedback
+right: Doug
+Wrong: 
+Thompson: What is biorhythms?
+Value: $600
+Number: 17
+REAL ESTATE TERMS | Before granting a mortgage, a lender has this person inspect the property to determine its market value | an appraiser
+right: Rich
+Wrong: 
+Doug: What's an assessor?
+Value: $600
+Number: 14
+"MAN"LY MOVIES | Film that inspired Burt Bacharach & Hal David to write <http://www.j-archive.com/media/1989-05-26_DJ_23.mp3> this 1962 Top 10 hit:  "Alone and afraid she prayed that he'd return that fateful night / Aw, that night / When nothing she said could keep her man from going out to fight..." | The Man Who Shot Liberty Valance
+right: Thompson
+Wrong: 
+Value: DD: $2,500
+Number: 23
+NEW YORKERS | Brooklynite Jennie Jerome was the mother of this famous statesman | Winston Churchill
+right: 
+Wrong: 
+Doug: I have no idea.
+Value: DD: $100
+Number: 27
+SHAKESPEARE | In "Antony and Cleopatra", Marc Antony commits suicide by doing this | falling on his blade
+right: Thompson
+Wrong: 
+Value: $800
+Number: 5
+WORLD RELIGION | European mercenaries of the 15th to 19th c., they now exist only to protect the pope | the Swiss Guard
+right: Doug
+Wrong: 
+Value: $800
+Number: 9
+MEDICINE | Encyclopedia Americana says an infant has about 350 of these, but a typical adult only 206 | bones
+right: Doug
+Wrong: 
+Value: $800
+Number: 18
+REAL ESTATE TERMS | An area legally designated for specific use, such as business, residential or industrial | a zone
+right: Thompson
+Wrong: 
+Value: $800
+Number: 12
+"MAN"LY MOVIES | Title roles played by Jean-Louis Trintignant & Anouk Aimée in 1966 & a 1986 sequel | A Man and a Woman
+right: Thompson
+Wrong: 
+Value: $800
+Number: 22
+NEW YORKERS | This 19th c. politician was born at 1 cherry street, Manhattan & died in the Ludlow St. jail | Boss Tweed
+right: Rich
+Wrong: 
+Value: $1000
+Number: 20
+SHAKESPEARE | He was banished from Verona for killing Tybalt | Romeo
+right: Doug
+Wrong: 
+Value: $1000
+Number: 6
+WORLD RELIGION | Every good Moslem is expected to make one of these pilgrimages to Mecca once in his life | a hajj
+right: Rich
+Wrong: 
+Value: $1000
+Number: 10
+MEDICINE | An otolaryngologist treats these 3 body parts | the ear, nose, & the throat
+right: Rich
+Wrong: 
+Value: $1000
+Number: 19
+REAL ESTATE TERMS | An agreement with a real estate broker to market one's property | a listing
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+"MAN"LY MOVIES | Hitchcock "Man" played by Leslie Banks in 1934 & James Stewart in 1956 | The Man Who Knew Too Much
+right: Doug
+Wrong: 
+Value: $1000
+Number: 21
+Scores at the end of the Double Jeopardy! Round:
+Rich: $3,900
+Doug: $6,300
+Thompson: $5,600
+
+Final Jeopardy! Round
+FICTIONAL CHARACTERS | According to the Browning poem, he could also get rid of "The mole and toad and newt and viper" | the Pied Piper of Hamelin
+right: Rich
+Wrong: 
+Thompson: Who is the weasel
+Doug: Who was the doctor?
+Wagers: 
+Rich: $2,490
+Thompson: $1,650
+Doug: $5,000
+Final scores:
+Rich: $6,390 (4-day champion: $40,790)
+Doug: $1,300 (3rd place: White-Westinghouse family-sized 17 cubit foot frost-free refrigerator/freezer)
+Thompson: $3,950 (2nd place: Contemporary Classics bedroom furniture by Keller + Dakota fanfare bedspread)
+
+Coryat scores
+Rich: $4,800 (13 R,5 W(including 1 DD))
+Doug: $6,400 (17 R,5 W(including 1 DD))
+Thompson: $3,700 (13 R(including 1 DD),5 W)

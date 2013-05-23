@@ -1,0 +1,332 @@
+1525 - Friday, March 29, 1991
+Comments: Dan Avila game 1.
+Contestants:
+Richard Dial: a security inspector from Carson, California
+Bennett Crocker: an apartment building manager originally from Pittsburgh, Pennsylvania
+Dan Avila: a photographer from Los Angeles, California
+First Jeopardy! Round: WORLD CITIES, COUNTRY MUSIC, THE NORTH POLE, BUSINESS & INDUSTRY, FEBRUARY, SPRECHEN SIE DEUTSCH?
+WORLD CITIES | After hosting the 1976 Summer Olympics, this city's Olympic Stadium became the home of the Expos | Montreal
+right: Richard
+Wrong: 
+Value: $100
+Number: 1
+COUNTRY MUSIC | In 1978 B. Mandrell was "Sleeping single in" one of these, "thinking over things I wish I'd said" | a double bed
+right: Bennett
+Wrong: 
+Value: $100
+Number: 11
+THE NORTH POLE | It's believed his association with the North Pole & reindeer came from Scandinavian legend | Santa Claus
+right: Dan
+Wrong: 
+Value: $100
+Number: 16
+BUSINESS & INDUSTRY | This biggest computer company is biggest also among companies in philanthropic contributions | IBM
+right: Dan
+Wrong: 
+Value: $100
+Number: 20
+FEBRUARY | His Feb. 11, 1990 release from a South African jail after some 27 years made world headlines | (Nelson) Mandela
+right: Dan
+Wrong: 
+Value: $100
+Number: 30
+SPRECHEN SIE DEUTSCH? | You say it to a sneezer to wish him or her "good health" | gesundheit
+right: Bennett
+Wrong: 
+Value: $100
+Number: 6
+WORLD CITIES | Buildings in this Italian city don't stand on solid ground, but use wooden posts driven into the mud | Venice
+right: Bennett
+Wrong: 
+Value: $200
+Number: 2
+COUNTRY MUSIC | These 2 singers were the original co-hosts of TV's "Hee Haw" | Roy Clark & Buck Owens
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 12
+THE NORTH POLE | It's the northernmost region of the Earth & the North Pole is in its center | the Arctic
+right: 
+Wrong: Triple Stumper
+Dan: What is the polar--the North--what is the polar cap?
+Value: $200
+Number: 17
+BUSINESS & INDUSTRY | The first major U.S. company to publish solely paperbacks, it's named for where their books could fit | Pocket Books
+right: Richard
+Wrong: 
+Value: $200
+Number: 21
+FEBRUARY | Congress established this National Park in Arizona February 26, 1919 | the Grand Canyon
+right: Richard
+Wrong: 
+Dan: What is Petrified National Forest?
+Value: $200
+Number: 29
+SPRECHEN SIE DEUTSCH? | As Wayne Newton could tell you, it means "thank you" | danke schoen
+right: Richard
+Wrong: 
+Value: $200
+Number: 7
+WORLD CITIES | After London and Birmingham, this Scottish city is Great Britain's third largest | Glasgow
+right: Bennett
+Wrong: 
+Dan: Uh, what is Edinburgh?
+Richard: What is Liverpool, Alex?
+Value: $300
+Number: 3
+COUNTRY MUSIC | This singer's short story collection, "The Devil Went Down to Georgia", was named for his 1979 hit song | Charlie Daniels
+right: Dan
+Wrong: 
+Value: $300
+Number: 13
+THE NORTH POLE | The Soviet North Pole station set up in 1937 drifted away & was rescued 9 months later off this island | Greenland
+right: Richard
+Wrong: 
+Value: $300
+Number: 18
+BUSINESS & INDUSTRY | They claim to run "the tightest ship in the shipping business" | UPS
+right: Bennett
+Wrong: 
+Richard: What is Federal Express?
+Value: $300
+Number: 22
+FEBRUARY | It was founded in Feb. 1941 to serve the social, religious, educational & welfare needs of our servicemen | the USO
+right: Dan
+Wrong: 
+Value: $300
+Number: 28
+SPRECHEN SIE DEUTSCH? | Brand of beer that means "lion's brew" | Lowenbrau
+right: Bennett
+Wrong: 
+Value: $300
+Number: 8
+WORLD CITIES | Once called Philadelphia, this capital of Jordan assumed its present name in the 7th century | Amman
+right: Richard
+Wrong: 
+Value: $400
+Number: 4
+COUNTRY MUSIC | Texas town that's the title of Waylon Jennings' 1977 hit subtitled "Back To The Basics Of Love" | Luckenbach
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 14
+THE NORTH POLE | Regular job of the first surface ship to reach the North Pole | icebreaker
+right: 
+Wrong: Triple Stumper
+Richard: What is mail delivery?
+Value: $400
+Number: 19
+BUSINESS & INDUSTRY | This company introduced the Band-Aid to America in 1920 | Johnson & Johnson
+right: Bennett
+Wrong: 
+Value: $400
+Number: 23
+FEBRUARY | On February 10, 1943 he started a 21-day fast | Gandhi
+right: Richard
+Wrong: 
+Value: $400
+Number: 27
+SPRECHEN SIE DEUTSCH? | The name of this flower which grows in the Alps means "noble white" | edelweiss
+right: Richard
+Wrong: 
+Value: $400
+Number: 9
+WORLD CITIES | When first founded, this capital of the Bahamas was known as Charles Towne | Nassau
+right: Bennett
+Wrong: 
+Value: $500
+Number: 5
+COUNTRY MUSIC | Roy Acuff, the 1st living member of the Country Music Hall of Fame, had a big hit with <http://www.j-archive.com/media/1991-03-29_J_15.mp3> the following song: | "Wabash Cannonball"
+right: 
+Wrong: 
+Dan: What is the "Orange Blossom Special"?
+Value: DD: $500
+Number: 15
+THE NORTH POLE | In an 1818 novel he pursues his creation to the North Pole where they both die | Frankenstein
+right: Dan
+Wrong: 
+Value: $500
+Number: 26
+BUSINESS & INDUSTRY | This peanut-packed candy bar, the 1st successful one by Mars, is the current top seller | Snickers
+right: Richard
+Wrong: 
+Value: $500
+Number: 24
+FEBRUARY | On February 11, 1960 he walked off his late night television show while on the air | (Jack) Paar
+right: Dan
+Wrong: 
+Value: $500
+Number: 25
+SPRECHEN SIE DEUTSCH? | In the name of a popular veal dish, Vienna style, it means "slice" or "shaving" | schnitzel
+right: Dan
+Wrong: 
+Value: $500
+Number: 10
+Scores at the first commercial break (after clue 15)
+Dan: $0
+Bennett: $1,500
+Richard: $800
+Scores at the end of the Jeopardy! Round:
+Dan: $1,200
+Bennett: $2,200
+Richard: $1,700
+Second Jeopardy! Round: BLACK AMERICA, POETS & POETRY, CONSTELLATIONS, ANCIENT GREECE, A SEAFOOD SAMPLER, BEN FRANKLIN
+BLACK AMERICA | In 1877 Henry Flipper became the first black graduate of this military academy | West Point
+right: Richard
+Wrong: 
+Value: $200
+Number: 16
+POETS & POETRY | In Sir Walter Scott's poem, it precedes "when first we practice to deceive" | "Oh, what a tangled web we weave"
+right: Bennett
+Wrong: 
+Richard: What is "a tangled web we weave"?
+Value: $200
+Number: 6
+CONSTELLATIONS | Its alpha & beta stars are called the pointers because they point to the North Star | the Big Dipper (or Ursa Major)
+right: Bennett
+Wrong: 
+Dan: What is Andromeda?
+Value: $200
+Number: 20
+ANCIENT GREECE | The Hellenistic period in Ancient Greek art began with his conquests | Alexander the Great
+right: Dan
+Wrong: 
+Value: $200
+Number: 1
+A SEAFOOD SAMPLER | If your frozen seafood dinner's from Mrs. Paul's, it's a product of this soup company | Campbell's
+right: Richard
+Wrong: 
+Value: $200
+Number: 7
+BEN FRANKLIN | Though Ben didn't approve of parts of it, he urged the Convention to unanimously adopt it | the Constitution
+right: Dan
+Wrong: 
+Value: $200
+Number: 25
+BLACK AMERICA | Birdland, a jazz palace of the '50s, was named for this sax player who was nicknamed "Bird" | Charlie Parker
+right: Dan
+Wrong: 
+Value: $400
+Number: 17
+POETS & POETRY | Oliver Wendell Holmes began this poem, "Ay, tear her tattered ensign down!  Long has it waved on high" | "Old Ironsides"
+right: 
+Wrong: Triple Stumper
+Bennett: Whoops.  Uh...
+Value: $400
+Number: 12
+CONSTELLATIONS | This constellation named for the son of Poseidon & Euryale is known as "The Hunter" | Orion
+right: Dan
+Wrong: 
+Value: $400
+Number: 21
+ANCIENT GREECE | The serfs of this warlike city-state were called Helots | Sparta
+right: Dan
+Wrong: 
+Richard: What is Heliopolis?
+Value: $400
+Number: 2
+A SEAFOOD SAMPLER | This British coastal town has a lot of sole named for it | Dover
+right: Bennett
+Wrong: 
+Value: $400
+Number: 8
+BLACK AMERICA | In 1958 this contralto was an alternate U.S. delegate to the UN | Marian Anderson
+right: 
+Wrong: Triple Stumper
+Dan: Who is Lena Horne?
+Value: $600
+Number: 18
+POETS & POETRY | The title of Allen Ginsberg's poem "Howl" was suggested by this author of "On the Road" | (Jack) Kerouac
+right: Dan
+Wrong: 
+Value: $600
+Number: 13
+CONSTELLATIONS | Associated with the onset of spring, this constellation is first in the zodiac | Aries
+right: 
+Wrong: Triple Stumper
+Richard: What is Pisces?
+Value: $600
+Number: 22
+ANCIENT GREECE | This unit of currency was first worth 6 iron cooking spits | the drachma
+right: Dan
+Wrong: 
+Value: $600
+Number: 3
+A SEAFOOD SAMPLER | In song, Sweet Molly Malone sold cockles & this shellfish "Alive, alive O!" | mussels
+right: Richard
+Wrong: 
+Value: $600
+Number: 9
+BLACK AMERICA | For supervising the Arab-Israeli armstice, he was awarded the 1950 Nobel Peace Prize | Ralph Bunche
+right: 
+Wrong: Triple Stumper
+Dan: Who is Bernard Baruch?
+Value: $800
+Number: 19
+POETS & POETRY | Poetess who wrote "I'm nobody!  Who are you?  Are you--nobody--too?" | (Emily) Dickinson
+right: Dan
+Wrong: 
+Value: DD: $1,000
+Number: 14
+CONSTELLATIONS | The constellation Corona Borealis is called this in English | the Northern Crown
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+ANCIENT GREECE | Greek literature is said to have begun with this poet | Homer
+right: Dan
+Wrong: 
+Value: $800
+Number: 4
+A SEAFOOD SAMPLER | "Joy of Cooking" says, to have "a real nice" one, "dig a sand pit about 1 ft. deep & 3½ ft. across" | a clam bake
+right: Richard
+Wrong: 
+Value: $800
+Number: 10
+POETS & POETRY | Edmund Waller wrote a poem "To Phyllis" & Ben Jonson wrote a "Song" to her | Celia
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+CONSTELLATIONS | Other than the sun, the closest star to the Earth is located in this southern constellation | Centaurus
+right: 
+Wrong: Triple Stumper
+Dan: What is Alpha Centauri?
+Richard: Alpha Centauri?  What is Alpha Centauri?
+Value: $1000
+Number: 24
+ANCIENT GREECE | The Greeks defended this pass, whose name means "hot gates", against the Celts as well as the Persians | Thermopylae
+right: Dan
+Wrong: 
+Value: DD: $1,200
+Number: 5
+A SEAFOOD SAMPLER | "Colorful" smoked fish, used to throw hounds off a fox's scent, that's become a figure of speech | a red herring
+right: Dan
+Wrong: 
+Value: $1000
+Number: 11
+Scores at the end of the Double Jeopardy! Round:
+Dan: $5,400
+Bennett: $2,600
+Richard: $1,300
+
+Final Jeopardy! Round
+WOMEN IN HISTORY | Her 1st husband, Alexandre de Beauharnais, fought in both the American & French Revolutions | Empress Josephine
+right: 
+Wrong: 
+Richard: Who was Lafayette?
+Bennett: Who was
+Dan: Who is Lafeyette
+Wagers: 
+Richard: $1,300
+Bennett: $600
+Dan: $100
+Final scores:
+Dan: $5,300 (New champion: $5,300)
+Bennett: $2,000 (2nd place: Bassett entertainment center & Symphonic's TV/VCR combo)
+Richard: $0 (3rd place: Cazal 951/955 sports sunglasses & a Nintendo Entertainment System with Jeopardy! & Wheel of Fortune games)
+
+Coryat scores
+Dan: $5,500 (19 R(including 2 DDs),8 W(including 1 DD))
+Bennett: $2,600 (11 R,1 W)
+Richard: $1,300 (13 R,7 W)

@@ -1,0 +1,339 @@
+5810 - Friday, December 11, 2009
+Contestants:
+Jason James: a legal fellow from Vienna, Virginia
+Siobhan McKenney: a systems administrator from Austin, Texas
+Leigh Rosenecker: a stay-at-home mom from Morgantown, West Virginia (whose 1-day cash winnings total $26,398)
+First Jeopardy! Round: FLAGS, ELVES, GEOGRAPHIC AMERICANISMS, SPEAK OF THE DEVIL, INGRID BERGMAN, "INTER" MEZZO
+FLAGS | The flag of this South American sports powerhouse is seen <http://www.j-archive.com/media/2009-12-11_J_10.jpg> here | Brazil
+right: Jason
+Wrong: 
+Value: $200
+Number: 10
+ELVES | Alabaster Snowball, administrator of the Naughty & Nice List, is one of his elves | Santa Claus
+right: Leigh
+Wrong: 
+Value: $200
+Number: 2
+GEOGRAPHIC AMERICANISMS | Immortalized in "The Ballad Of Jed Clampett", it's what "Texas tea" is | oil
+right: Jason
+Wrong: 
+Value: $200
+Number: 1
+SPEAK OF THE DEVIL | Henry Fielding: Make this stuff "your god and it will plague you like the devil" | money
+right: Jason
+Wrong: 
+Value: $200
+Number: 15
+INGRID BERGMAN | Ingrid was born August 29, 1915 in this capital city | Stockholm
+right: Jason
+Wrong: 
+Value: $200
+Number: 7
+"INTER" MEZZO | We now pause for this short break between dramatic acts | intermission
+right: Leigh
+Wrong: 
+Value: $200
+Number: 13
+FLAGS | This Southern Hemisphere country's flag is seen <http://www.j-archive.com/media/2009-12-11_J_20.jpg> here | New Zealand
+right: Siobhan
+Wrong: 
+Value: $400
+Number: 20
+ELVES | Originally, these 3 elves who promote Kellogg's Rice Krispies had a brother named Pow | Snap, Crackle, & Pop
+right: Jason
+Wrong: 
+Value: $400
+Number: 3
+GEOGRAPHIC AMERICANISMS | This brand of baseball bat was invented by an apprentice woodworker in Kentucky in 1884 | the Louisville Slugger
+right: Jason
+Wrong: 
+Value: $400
+Number: 24
+SPEAK OF THE DEVIL | Shakespeare: "The devil can cite" this "for his purpose" | scripture
+right: Siobhan
+Wrong: 
+Jason: What is the Bible?
+Value: $400
+Number: 16
+INGRID BERGMAN | Ingrid played this French saint 4 times: twice on stage & twice on film | Joan of Arc
+right: Leigh
+Wrong: 
+Value: $400
+Number: 8
+"INTER" MEZZO | The 10, between Jacksonville & Santa Monica | an interstate
+right: Siobhan
+Wrong: 
+Value: $400
+Number: 14
+FLAGS | Scan the horizon for <http://www.j-archive.com/media/2009-12-11_J_21.jpg> this Scandinavian country | Norway
+right: Jason
+Wrong: 
+Leigh: What is Sweden?
+Value: $600
+Number: 21
+ELVES | In the Harry Potter books, Winky, Kreacher & Dobby are this type of elf belonging to wizarding families | house elves
+right: Jason
+Wrong: 
+Value: $600
+Number: 4
+GEOGRAPHIC AMERICANISMS | "West Virginia coleslaw" is this form of nicotine | chewing tobacco
+right: Siobhan
+Wrong: 
+Value: $600
+Number: 25
+SPEAK OF THE DEVIL | Baudelaire: "The devil's finest trick is to pursuade you that he does not" this | exist
+right: Siobhan
+Wrong: 
+Value: $600
+Number: 17
+INGRID BERGMAN | Ingrid won 3 Acting Oscars, 1 for playing this title woman who might be a missing royal | Anastasia
+right: Siobhan
+Wrong: 
+Value: $600
+Number: 9
+"INTER" MEZZO | She speaks fluent Ku, so she might be one of these people who facilitate communication | an interpreter
+right: Leigh
+Wrong: 
+Value: $600
+Number: 28
+FLAGS | The flag of this former constituant nation of the Soviet Union is seen <http://www.j-archive.com/media/2009-12-11_J_22.jpg> here | Russia
+right: Jason
+Wrong: 
+Siobhan: What is the Ukraine?
+Value: $800
+Number: 22
+ELVES | J.R.R. Tolkien described these elven body parts as being "leaf-shaped" | ears
+right: Jason
+Wrong: 
+Value: $800
+Number: 5
+GEOGRAPHIC AMERICANISMS | These strong, hot winds of Southern California take their name from a canyon | the Santa Anas
+right: Siobhan
+Wrong: 
+Value: $800
+Number: 26
+SPEAK OF THE DEVIL | The Book of Common Prayer: "From all the deceits of the world," this "and the devil, good Lord, deliver us" | the flesh
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 18
+INGRID BERGMAN | At Ingrid's funeral service, a lone violin played this song from a film she starred in | "As Time Goes By"
+right: 
+Wrong: 
+Jason: Oh, um... What is Toccata and Fugue?
+Value: DD: $1,400
+Number: 11
+"INTER" MEZZO | Fess up, bub, or we may have to do this to you, interview you officially about a crime | interrogate
+right: Leigh
+Wrong: 
+Value: $800
+Number: 29
+FLAGS | It's the peninsular nation whose flag is seen <http://www.j-archive.com/media/2009-12-11_J_23.jpg> here | South Korea
+right: Siobhan
+Wrong: 
+Value: $1000
+Number: 23
+ELVES | Elf characters get a +2 for dexterity in this role-playing game whose players get a -2 for social skills | Dungeons & Dragons
+right: Jason
+Wrong: 
+Value: $1000
+Number: 6
+GEOGRAPHIC AMERICANISMS | It's not footwear for an urban cowboy, it's a device clamped to the wheel of a parked car with overdue tickets | a Denver boot
+right: 
+Wrong: Triple Stumper
+Jason: What is a boot?
+Value: $1000
+Number: 27
+SPEAK OF THE DEVIL | John Donne: "In best understandings, sin began, / Angels sinn'd first, then devils, and then" him | man
+right: Siobhan
+Wrong: 
+Value: $1000
+Number: 19
+INGRID BERGMAN | In 1982 Ingrid won a posthumous Emmy Award for playing this Middle East leader | Golda Meir
+right: Leigh
+Wrong: 
+Value: $1000
+Number: 12
+"INTER" MEZZO | It's an often troubled time between 2 monarchs' or popes' reigns | an interregnum
+right: Jason
+Wrong: 
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Leigh: $1,800
+Siobhan: $1,000
+Jason: $2,200
+Scores at the end of the Jeopardy! Round:
+Leigh: $2,600
+Siobhan: $5,000
+Jason: $3,600
+Second Jeopardy! Round: REVOLUTIONARY ROAD, MICHIGAN MUSICIAN MISHMASH, MOONS, "C"OMPANIES, MMM, STEAK, 4-LETTER WORDS
+REVOLUTIONARY ROAD | Historians don't know who fired first in Lexington, but later that day, the King's troops shot first in this town | Concord
+right: Leigh
+Wrong: 
+Value: $400
+Number: 26
+MICHIGAN MUSICIAN MISHMASH | She was born as a Bay City roller on Aug. 16, 1958, but left her home town & her last name far behind | Madonna
+right: Leigh
+Wrong: 
+Value: $400
+Number: 1
+MOONS | Deimos strikes terror orbiting this planet | Mars
+right: Jason
+Wrong: 
+Value: $400
+Number: 17
+"C"OMPANIES | Legend says Dr. John S. Pemberton, a Confederate Army veteran, developed the syrup for what became this | Coca-Cola
+right: Siobhan
+Wrong: 
+Value: $400
+Number: 6
+MMM, STEAK | (<http://www.j-archive.com/media/2009-12-11_DJ_11.jpg> Jimmy of the Clue Crew shows a meat cut diagram on the monitor.)  Taken from the central section, <http://www.j-archive.com/media/2009-12-11_DJ_11a.jpg> this large choice steak cut is named for a type of old-time restaurant that also served dark ale | Porterhouse
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 11
+4-LETTER WORDS | With no trans fats & less saturated fat than butter, tubs of this rendered pig fat are making a comeback | lard
+right: Jason
+Wrong: 
+Value: $400
+Number: 16
+REVOLUTIONARY ROAD | Signing the Decl. of Ind., he said, "We must all hang together, or assuredly we shall all hang separately" | Benjamin Franklin
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+MICHIGAN MUSICIAN MISHMASH | In 1971 Detroit native Glenn Frey formed this band in L.A. with Don Henley; pretty good career move, Glenn | The Eagles
+right: Leigh
+Wrong: 
+Value: $800
+Number: 2
+MOONS | Charon paddles around this dwarf planet | Pluto
+right: Siobhan
+Wrong: 
+Jason: What is Neptune?
+Value: $800
+Number: 18
+"C"OMPANIES | In 1853 these brothers, John & Benjamin, got a royal warrant to provide chocolate & cocoa products to the Queen | Cadbury
+right: Siobhan
+Wrong: 
+Value: $800
+Number: 7
+MMM, STEAK | A steak with a cool to warm red center of 120 degrees F. has been cooked to this "unusual" level | rare
+right: Siobhan
+Wrong: 
+Value: $800
+Number: 12
+4-LETTER WORDS | It's the steering wheel of a ship | helm
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+REVOLUTIONARY ROAD | He said, "Caesar had.. .his Brutus--Charles I, his Cromwell, and George III may profit by their example" | Patrick Henry
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+MICHIGAN MUSICIAN MISHMASH | This superstar was born in Saginaw in 1950 & by 1961, signed with Motown's Berry Gordy; isn't he lovely? | Stevie Wonder
+right: Leigh
+Wrong: 
+Value: $1200
+Number: 3
+MOONS | Naiad swims around this planet | Neptune
+right: Siobhan
+Wrong: 
+Value: DD: $3,000
+Number: 23
+"C"OMPANIES | 5 entrepreneurs set up a factory to manufacture liquid chlorine bleach & named it this in 1914 | Clorox
+right: Jason
+Wrong: 
+Value: $1200
+Number: 8
+MMM, STEAK | (<http://www.j-archive.com/media/2009-12-11_DJ_13.jpg> Sarah of the Clue Crew shows a meat cut diagram on the monitor.)  An Old French term designating its position atop the rear haunch gives <http://www.j-archive.com/media/2009-12-11_DJ_13a.jpg> this popular cut its name | (top) sirloin
+right: Leigh
+Wrong: 
+Siobhan: What is filet mignon?
+Jason: What is chateaubriand?
+Value: $1200
+Number: 13
+4-LETTER WORDS | It means to bite or chew, or to wear away with the teeth | gnaw
+right: Jason
+Wrong: 
+Value: $1200
+Number: 20
+MICHIGAN MUSICIAN MISHMASH | Anthony Kiedis was born in Grand Rapids, but got a Flea infestation in L.A. in 1983 & formed this band | The Red Hot Chili Peppers
+right: Leigh
+Wrong: 
+Value: $1600
+Number: 4
+MOONS | Io is seduced into orbiting this planet | Jupiter
+right: Siobhan
+Wrong: 
+Leigh: What is Venus?
+Value: $1600
+Number: 24
+"C"OMPANIES | This maker of high-end leather handbags & wallets uses the logo <http://www.j-archive.com/media/2009-12-11_DJ_09.jpg> seen <http://www.j-archive.com/media/2009-12-11_DJ_09a.jpg> here | Coach
+right: Leigh
+Wrong: 
+Value: $1600
+Number: 9
+MMM, STEAK | Taylor's Steakhouse in L.A. serves a boneless version of this choice cut also known as a Spencer steak | rib eye
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 14
+4-LETTER WORDS | Before you shoot an arrow, you do this to it, which sounds like something cars do on low octane | nock
+right: Siobhan
+Wrong: 
+Value: $1600
+Number: 21
+MICHIGAN MUSICIAN MISHMASH | Dearborn-born in 1945, this singer/songwriter sure liked "Old Time Rock & Roll" in 1979 | Bob Seger
+right: Leigh
+Wrong: 
+Value: $2000
+Number: 5
+MOONS | Titan towers as this planet's main moon | Saturn
+right: Leigh
+Wrong: 
+Value: $2000
+Number: 25
+"C"OMPANIES | Nice'n Easy & Herbal Essences are brands from this hair products company | Clairol
+right: Leigh
+Wrong: 
+Value: $2000
+Number: 10
+MMM, STEAK | (<http://www.j-archive.com/media/2009-12-11_DJ_15.jpg> Kelly of the Clue Crew shows a meat cut diagram on the monitor.)  A cut from the long, flat diaphragm muscle is used in fajitas; it's known as <http://www.j-archive.com/media/2009-12-11_DJ_15a.jpg> this type of steak, like a woman's garment | skirt (steak)
+right: Siobhan
+Wrong: 
+Value: $2000
+Number: 15
+4-LETTER WORDS | An accent over the last letter turns a word meaning disabled into this fabric with metallic threads | lamé
+right: Siobhan
+Wrong: 
+Value: DD: $5,000
+Number: 22
+Scores at the end of the Double Jeopardy! Round:
+Leigh: $14,200
+Siobhan: $19,800
+Jason: $4,800
+
+Final Jeopardy! Round
+OPEC | This African nation of 150 million is the only member of OPEC that's also a member of the British Commonwealth | Nigeria
+right: 
+Wrong: 
+Jason: What is Kenya?
+Leigh: What is Morocco?
+Siobhan: What is Botswana?
+Wagers: 
+Jason: $4,799
+Leigh: $5,598
+Siobhan: $9,001
+Final scores:
+Leigh: $8,602 (2nd place: $2,000)
+Siobhan: $10,799 (New champion: $10,799)
+Jason: $1 (3rd place: $1,000)
+
+Coryat scores
+Leigh: $14,200 (16 R,2 W)
+Siobhan: $15,000 (18 R(including 2 DDs),2 W)
+Jason: $6,200 (16 R,5 W(including 1 DD))

@@ -1,0 +1,352 @@
+5095 - Friday, November 3, 2006
+Contestants:
+Jane Toczek: a seller of antique prints and maps from Philadelphia, Pennsylvania
+Cobra Becerra: a professor of landscape architecture from Whittier, California
+Dave Meddish: an alternative print coordinator from Moscow, Idaho (whose 1-day cash winnings total $20,001)
+First Jeopardy! Round: BUSINESS LEADERS, CONTROVERSIAL SPORTS CELEBS, COMMON BONDS, GIMME AN "H", AUSSIE, HAIRY IT
+BUSINESS LEADERS | If you don't know that he said, "I like making deals, preferably big deals.  That's how I get my kicks", you're fired! | (Donald) Trump
+right: Dave
+Wrong: 
+Value: $200
+Number: 26
+CONTROVERSIAL SPORTS CELEBS | "Game of Shadows" is a 2006 book about this man who is second on the all-time home run list | (Barry) Bonds
+right: Dave
+Wrong: 
+Value: $200
+Number: 8
+COMMON BONDS | The Golden Jubilee, The De Beers, The Cullinan | diamonds
+right: Cobra
+Wrong: 
+Value: $200
+Number: 1
+GIMME AN "H" | The western hemisphere country with French as an official language that fits the category | Haiti
+right: Cobra
+Wrong: 
+Value: $200
+Number: 6
+AUSSIE | In 1802 Matthew Flinders named an island for the large number of these meat-providing marsupials there | kangaroos
+right: 
+Wrong: Triple Stumper
+Cobra: What is Tasmania?
+Value: $200
+Number: 13
+HAIRY IT | Seen <http://www.j-archive.com/media/2006-11-03_J_16.jpg> here, <http://www.j-archive.com/media/2006-11-03_J_16a.jpg> this mammal is all mouth & no teeth | an anteater
+right: Dave
+Wrong: 
+Value: $200
+Number: 16
+BUSINESS LEADERS | For 21 years of leadership & for putting "the magic back in Disney", Disney named its HQ building for him | (Michael) Eisner
+right: Cobra
+Wrong: 
+Value: $400
+Number: 27
+CONTROVERSIAL SPORTS CELEBS | In the 1980s, this iron-fisted team owner hired, then fired, managers Billy Martin, Bob Lemon, Yogi Berra & Gene MIchael | Steinbrenner
+right: Dave
+Wrong: 
+Value: $400
+Number: 9
+COMMON BONDS | Stove, corncob, pan | pipes
+right: Jane
+Wrong: 
+Value: $400
+Number: 2
+GIMME AN "H" | This Onondaga chief who helped unite the Iroquois was celebrated by Longfellow | Hiawatha
+right: Dave
+Wrong: 
+Jane: Who is Redjacket?
+Value: $400
+Number: 7
+AUSSIE | About 20% of all Australians live in this capital of New South Wales | Sydney
+right: Dave
+Wrong: 
+Value: $400
+Number: 14
+HAIRY IT | This small mammal, Mephitis mephitis, can spray musk accurately as far as 12 feet (& it ain't the Jovan kind) | a skunk
+right: Dave
+Wrong: 
+Value: $400
+Number: 17
+BUSINESS LEADERS | This third-party pres. candidate of the 1990s became a billionaire after taking his Dallas-based EDS Company public in 1968 | (Ross) Perot
+right: Dave
+Wrong: 
+Value: $600
+Number: 28
+CONTROVERSIAL SPORTS CELEBS | After the death of Cus D'Amato & the end of his marriage to Robin Givens, he spent time in prison | Mike Tyson
+right: Dave
+Wrong: 
+Value: $600
+Number: 10
+COMMON BONDS | Nebuchadnezzar, Methuselah, Magnum | champagne bottles
+right: Dave
+Wrong: 
+Value: $600
+Number: 3
+GIMME AN "H" | In the New Testament, he tells the Magi, "Go and search diligently for the young child..." | Herod (the Great)
+right: Cobra
+Wrong: 
+Value: $600
+Number: 21
+AUSSIE | The Australians call them gum trees; we call them these | eucalyptus trees
+right: Dave
+Wrong: 
+Jane: What are acacias?
+Value: $600
+Number: 15
+HAIRY IT | You think you can experiment with a clue like it was some kind of this rodent, seen <http://www.j-archive.com/media/2006-11-03_J_18.jpg> here? | a guinea pig
+right: Dave
+Wrong: 
+Value: $600
+Number: 18
+BUSINESS LEADERS | After being elected mayor of Atlanta in 1916, Asa Candler gave control of this company to his children | Coca-Cola
+right: Dave
+Wrong: 
+Value: $800
+Number: 29
+CONTROVERSIAL SPORTS CELEBS | Be wary of pulling out a chair for this Texas Tech & former Indiana basketball coach; he just might throw it at you! | (Bobby) Knight
+right: Dave
+Wrong: 
+Value: $800
+Number: 11
+COMMON BONDS | Krait, Taipan, Fer-de-Lance | snakes
+right: Cobra
+Wrong: 
+Value: $800
+Number: 4
+GIMME AN "H" | He was the last major party pres. candidate to win his party's nod without winning the most votes in the primaries | Hubert Humphrey
+right: 
+Wrong: 
+Cobra: Who is Harding?
+Value: DD: $2,000
+Number: 22
+AUSSIE | The Melbourne Cup is awarded annually in this sport | horse racing
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+HAIRY IT | There are 3 kinds of this animal: western lowland, eastern lowland & mountain | a gorilla
+right: Cobra
+Wrong: 
+Dave: What is a goat?
+Value: $800
+Number: 19
+BUSINESS LEADERS | In 1975 he launched what was regarded as the "Kmart of the stock brokerage industry" | Charles Schwab
+right: Jane
+Wrong: 
+Value: $1000
+Number: 30
+CONTROVERSIAL SPORTS CELEBS | He received a 73-game suspension after fighting with Detroit Pistons fans in 2004 | (Ron) Artest
+right: Cobra
+Wrong: 
+Value: $1000
+Number: 12
+COMMON BONDS | Pont du Quebec, Humber Estuary, Transbay | bridges
+right: Jane
+Wrong: 
+Value: $1000
+Number: 5
+GIMME AN "H" | This scientific endeavor abbreviated HGP had the goal of mapping every gene of Homo sapiens | the Human Genome Project
+right: Cobra
+Wrong: 
+Value: $1000
+Number: 23
+AUSSIE | In an Australian saying, when these birds named for their call "call, the rain will fall" | the kookaburra
+right: Dave
+Wrong: 
+Value: $1000
+Number: 25
+HAIRY IT | This species seen <http://www.j-archive.com/media/2006-11-03_J_20.wmv> here is found only in North America | a bighorn sheep
+right: Jane
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Dave: $4,000
+Cobra: $2,000
+Jane: $400
+Scores at the end of the Jeopardy! Round:
+Dave: $7,000
+Cobra: $2,800
+Jane: $2,400
+Second Jeopardy! Round: SHAKESPEARE, HANGIN' WITH MY GNOMIES, CENTURY OF THE TRIAL, MOSESES, BOOZE-A-PALOOZA, IDIOMS
+SHAKESPEARE | In "Macbeth", among the items in this container are scale of dragon, tooth of wolf, tongue of dog & toe of frog | the witch's cauldron
+right: Cobra
+Wrong: 
+Value: $400
+Number: 17
+HANGIN' WITH MY GNOMIES | In the 1932 Disney short "Babes in the Woods", friendly gnomes save this brother & sister from an evil witch | Hansel & Gretel
+right: Jane
+Wrong: 
+Value: $400
+Number: 11
+CENTURY OF THE TRIAL | George Ryan, for racketeering conspiracy, tax fraud... | the 21st century
+right: Dave
+Wrong: 
+Cobra: What is the 20th century?
+Jane: What is the 19th century?
+Value: $400
+Number: 16
+MOSESES | This German-Jewish philosopher was the grandfather of composer Felix | (Moses) Mendelssohn
+right: Jane
+Wrong: 
+Value: $400
+Number: 22
+BOOZE-A-PALOOZA | This measure of a liquor's strength is twice its percentage of alcohol | proof
+right: Dave
+Wrong: 
+Value: $400
+Number: 2
+IDIOMS | "There's no" this "lost" between 2 people used to mean they liked each other; now it means the opposite | love
+right: Dave
+Wrong: 
+Value: $400
+Number: 1
+SHAKESPEARE | She was worried when Hamlet came to her "pale as his shirt; his knees knocking each other" | Ophelia
+right: Dave
+Wrong: 
+Value: $800
+Number: 18
+HANGIN' WITH MY GNOMIES | Most know him as the neater half of TV's "Odd Couple"; he was the Gnome King in 1987's "The Gnomes' Great Adventure" | Tony Randall
+right: Dave
+Wrong: 
+Value: $800
+Number: 12
+CENTURY OF THE TRIAL | Henry Ward Beecher for adultery | the 19th century
+right: Jane
+Wrong: 
+Value: $800
+Number: 23
+MOSESES | From Jan. 1978 to Dec. 1994, this center did not foul out for an NBA record 1,212 consecutive games | Moses Malone
+right: Dave
+Wrong: 
+Value: $800
+Number: 30
+BOOZE-A-PALOOZA | Liquor placed in paper bags led to this slang term for liquor shops | package stores
+right: Jane
+Wrong: 
+Value: $800
+Number: 3
+IDIOMS | "Ballon d'essai" is the French equivalent of this, sent up to test people's reaction | trial balloon
+right: Cobra
+Wrong: 
+Jane: What is a weather balloon?
+Value: $800
+Number: 4
+SHAKESPEARE | "Twelfth Night" opens with, "If music be the food of love," do this | play on
+right: Dave
+Wrong: 
+Value: $1200
+Number: 19
+HANGIN' WITH MY GNOMIES | On "Happy Days" he was the father of Richie & Joanie, & he voiced the title character on "David the Gnome" | Tom Bosley
+right: Jane
+Wrong: 
+Value: $1200
+Number: 13
+CENTURY OF THE TRIAL | Sarah Good, Rebecca Nurse, et al., for witchcraft | the 17th century
+right: Jane
+Wrong: 
+Value: DD: $1,500
+Number: 24
+MOSESES | Profession of Thomas, husband of artist Grandma Moses | a farmer
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 29
+BOOZE-A-PALOOZA | This famous song is sung to the tune of the old British drinking song "To Anacreon In Heaven" | "The Star-Spangled Banner"
+right: Dave
+Wrong: 
+Value: $1200
+Number: 5
+IDIOMS | (<http://www.j-archive.com/media/2006-11-03_DJ_08.jpg> Jon of the Clue Crew is in his workshop tightening a bolt in a piece of wood.)  This mechanism increases tension without the risk of slipping back; it's also an idiom for turning up the pressure on someone | ratchet
+right: Dave
+Wrong: 
+Value: $1200
+Number: 8
+SHAKESPEARE | Caesar says this man "thinks too much: such men are dangerous" (No, it's not Brutus) | Cassius
+right: Dave
+Wrong: 
+Value: $1600
+Number: 20
+HANGIN' WITH MY GNOMIES | Audrey Tautou sends her father's garden gnome on some worldwide travels in this French comedy from 2001 | Amélie
+right: Dave
+Wrong: 
+Value: $1600
+Number: 14
+CENTURY OF THE TRIAL | Henri Philippe Petain, for treason | the 20th century
+right: Jane
+Wrong: 
+Value: $1600
+Number: 25
+MOSESES | In 1821 he got an OK from Mexico to bring U.S. settlers into the Texas area; his son Stephen carried on his work | (Moses) Austin
+right: Cobra
+Wrong: 
+Value: $1600
+Number: 28
+BOOZE-A-PALOOZA | To create a depth charge, you usually drop a shot of liquor like schnapps or tequila into a glass of this | beer
+right: Jane
+Wrong: 
+Value: $1600
+Number: 6
+IDIOMS | To keep making the same point is to do this, like repeatedly picking the same string on a large instrument | harp
+right: 
+Wrong: Triple Stumper
+Cobra: What is pluck?
+Value: $1600
+Number: 9
+SHAKESPEARE | 2-word phrase for a predetermined ending; Othello talks of one in Act III | a foregone conclusion
+right: 
+Wrong: Triple Stumper
+Cobra: What is a fait accompli?
+Value: $2000
+Number: 21
+HANGIN' WITH MY GNOMIES | 2 gnomes, 2 kids & a lumber tycoon set off on a forest adventure in the title vehicle in this 1967 film | The Gnome-Mobile
+right: Dave
+Wrong: 
+Value: $2000
+Number: 15
+CENTURY OF THE TRIAL | Thomas Cranmer, for heresy | the 16th century
+right: 
+Wrong: Triple Stumper
+Jane: What is the 18th century?
+Value: $2000
+Number: 26
+MOSESES | Robert Caro won a Pulitzer Prize for "The Power Broker", about this administrator who shaped New York City | Robert Moses
+right: 
+Wrong: Triple Stumper
+Cobra: Who is LaGuardia?
+Value: $2000
+Number: 27
+BOOZE-A-PALOOZA | This rum company's logo of a flying bat traditionally symbolizes long life & prosperity | Bacardi
+right: Cobra
+Wrong: 
+Value: $2000
+Number: 7
+IDIOMS | (<http://www.j-archive.com/media/2006-11-03_DJ_10.jpg> Kelly of the Clue Crew shows us a sifter.)  It's a part that restrains movement, like the movement of air; you may say that a setback puts one on your plans | a damper
+right: 
+Wrong: 
+Dave: What is a crimp?
+Value: DD: $2,200
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Dave: $17,200
+Cobra: $1,600
+Jane: $7,500
+
+Final Jeopardy! Round
+THE OSCARS | He's the only person over 70 years of age to win a Best Director Oscar | Clint Eastwood
+right: Cobra
+Wrong: 
+Jane: Who was ?
+Dave: Who is Robert Wise?
+Wagers: 
+Cobra: $1,600
+Jane: $7,499
+Dave: $1,000
+Final scores:
+Dave: $16,200 (2-day champion: $36,201)
+Cobra: $3,200 (2nd place: $2,000)
+Jane: $1 (3rd place: $1,000)
+
+Coryat scores
+Dave: $19,400 (27 R,2 W(including 1 DD))
+Cobra: $3,600 (12 R,6 W(including 1 DD))
+Jane: $7,200 (12 R(including 1 DD),5 W)

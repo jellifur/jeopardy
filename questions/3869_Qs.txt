@@ -1,0 +1,323 @@
+6353 - Wednesday, April 11, 2012
+Contestants:
+Sean Hansen: an assistant professor of management information systems originally from Cleveland, Ohio
+Lindsay Reese: a postdoctoral researcher originally from Escanaba, Michigan
+Amy Ketterling: an administrative assistant from Minneapolis, Minnesota (whose 1-day cash winnings total $30,000)
+First Jeopardy! Round: FIRST LADY FIRSTS, ACTOR-DIRECTORS, BASIC BLACK, WHAT A TOOL, AN "UN"CATEGORY, THE PANAMA CANAL
+FIRST LADY FIRSTS | She's the only First Lady who's given birth to twins | Laura Bush
+right: Lindsay
+Wrong: 
+Value: $200
+Number: 12
+ACTOR-DIRECTORS | "Tropic Thunder"  (2008) | Ben Stiller
+right: Sean
+Wrong: 
+Value: $200
+Number: 2
+BASIC BLACK | Like a high rank in martial arts, it's the name given to the rich farmlands of central Alabama | a Black Belt
+right: Sean
+Wrong: 
+Value: $200
+Number: 1
+WHAT A TOOL | Used for forming grooves and moldings, <http://www.j-archive.com/media/2012-04-11_J_07.jpg> this carpentry tool should give you a smooth ride | a plane
+right: Amy
+Wrong: 
+Value: $200
+Number: 7
+AN "UN"CATEGORY | The husband of your mom's sister | your uncle
+right: Lindsay
+Wrong: 
+Value: $200
+Number: 18
+THE PANAMA CANAL | (<http://www.j-archive.com/media/2012-04-11_J_25.wmv> Sarah of the Clue Crew reports from Panama.) Passing through the Panama Canal, we cross this line that marks the separation of water flow into the Atlantic & Pacific oceans, the same line that's been <http://www.j-archive.com/media/2012-04-11_J_25.jpg> traced up to the Rockies & down to Tierra del Fuego | the Great Divide (or Continental Divide)
+right: Amy
+Wrong: 
+Value: $200
+Number: 25
+FIRST LADY FIRSTS | She was the first First Lady to live in the White House | Abigail Adams
+right: Lindsay
+Wrong: 
+Sean: Who is Dolley Madison?
+Value: $400
+Number: 13
+ACTOR-DIRECTORS | "The Great Dictator"  (1940) | Charlie Chaplin
+right: Sean
+Wrong: 
+Value: $400
+Number: 3
+BASIC BLACK | 2 of these large black birds were Odin's messengers | ravens
+right: Amy
+Wrong: 
+Value: $400
+Number: 15
+WHAT A TOOL | As a noun, it's a wedgelike tool with a cutting edge at the end of the blade; as a verb, it means to swindle | chisel
+right: Sean
+Wrong: 
+Value: $400
+Number: 8
+AN "UN"CATEGORY | The Eighth Amendment protects citizens against this kind of punishment | unusual
+right: Amy
+Wrong: 
+Lindsay: What is undue?
+Value: $400
+Number: 19
+THE PANAMA CANAL | (<http://www.j-archive.com/media/2012-04-11_J_26.wmv> Sarah of the Clue Crew reports from Panama.)  The $400 million canal project was largely due to <http://www.j-archive.com/media/2012-04-11_J_26.jpg> this president, who said he let Congress keep debating while he went ahead & got it built | Theodore Roosevelt
+right: Lindsay
+Wrong: 
+Value: $400
+Number: 26
+FIRST LADY FIRSTS | It was the occupation of Abigail Fillmore, the first wife of a president to hold a paying job after marriage | a teacher
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 14
+ACTOR-DIRECTORS | "Antwone Fisher"  (2002) | Denzel Washington
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 4
+BASIC BLACK | In 1347 this scourge reached Constantinople, killing thousands | Black Death
+right: Lindsay
+Wrong: 
+Value: $600
+Number: 30
+WHAT A TOOL | Also known as a locking wing divider, it's the tool seen <http://www.j-archive.com/media/2012-04-11_J_09.jpg> here | a compass
+right: Amy
+Wrong: 
+Value: $600
+Number: 9
+AN "UN"CATEGORY | A member of the Dalit caste in India, or Eliot Ness in Chicago | the Untouchables
+right: Lindsay
+Wrong: 
+Value: $600
+Number: 20
+THE PANAMA CANAL | (<http://www.j-archive.com/media/2012-04-11_J_27.jpg> Sarah of the Clue Crew reports from Panama.)  Because of the way Central America curves, we've traveled <http://www.j-archive.com/media/2012-04-11_J_27a.jpg> east to west through the Panama Canal & ended up here in this body of water | the Caribbean
+right: Sean
+Wrong: 
+Value: $600
+Number: 27
+FIRST LADY FIRSTS | Casting her vote in 1920, she was the first First Lady who was able to vote for her husband | (Florence) Harding
+right: Lindsay
+Wrong: 
+Value: $800
+Number: 16
+ACTOR-DIRECTORS | "Hamlet"  (1996) | Kenneth Branagh
+right: Sean
+Wrong: 
+Value: $800
+Number: 5
+BASIC BLACK | One theory says this nursery rhyme began as a lament at paying 1/3 of one's income each to one's lord & the church | "Baa, Baa, Black Sheep"
+right: Amy
+Wrong: 
+Value: $800
+Number: 23
+WHAT A TOOL | Northern Tool offers a 2,200-rpm benchtop belt/disc this, used to grind & contour wood, plastic or metal | a sander
+right: Lindsay
+Wrong: 
+Value: $800
+Number: 10
+AN "UN"CATEGORY | Technically passed on, but still animate, like a zombie | undead
+right: Amy
+Wrong: 
+Value: $800
+Number: 21
+THE PANAMA CANAL | (<http://www.j-archive.com/media/2012-04-11_J_28.wmv> Sarah of the Clue Crew reports from Panama.)  The system for the lock gates can be found in the notebooks of Leonardo da Vinci; the leaves, each weighing up to 730 tons, are kept sealed not by a mechanical or electronic device, but by this force exerted on them | hydrostatic pressure (or water pressure)
+right: Amy
+Wrong: 
+Value: $800
+Number: 28
+FIRST LADY FIRSTS | 21-year-old Frances Folsom was first to marry in the White House when she married this president | (Grover) Cleveland
+right: Lindsay
+Wrong: 
+Value: $1000
+Number: 17
+ACTOR-DIRECTORS | "One-Eyed Jacks"  (1961) | Marlon Brando
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 6
+BASIC BLACK | In 1947 the body of Elizabeth Short, known as this, was found on Norton Avenue in Los Angeles | the Black Dahlia
+right: Amy
+Wrong: 
+Value: $1000
+Number: 24
+WHAT A TOOL | A toothed bar with which a part engages, a movie "Transformer", or to move up by degrees | a ratchet
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 11
+AN "UN"CATEGORY | The framework that serves as the support for the body of a car | the undercarriage
+right: Sean
+Wrong: 
+Value: $1000
+Number: 22
+THE PANAMA CANAL | (<http://www.j-archive.com/media/2012-04-11_J_29.jpg> Sarah of the Clue Crew reports from Panama.)  The <http://www.j-archive.com/media/2012-04-11_J_29.jpg> labor of building the canal was made possible by the discovery that mosquitoes spread deadly diseases; screens, fumigations, & <http://www.j-archive.com/media/2012-04-11_J_29b.jpg> oiling standing water helped quickly eliminate this disease & drastically reduce malaria | yellow fever
+right: Amy
+Wrong: 
+Value: DD: $5,000
+Number: 29
+Scores at the first commercial break (after clue 15)
+Amy: $1,200
+Lindsay: $1,400
+Sean: $1,600
+Scores at the end of the Jeopardy! Round:
+Amy: $10,200
+Lindsay: $4,600
+Sean: $3,200
+Second Jeopardy! Round: WHAT'S UP, PIERRE?, MEDICINE, 21st CENTURY TONY AWARDS, ROADSIDE ATTRACTIONS, TALE SHIPS, IN CONJUNCTION
+WHAT'S UP, PIERRE? | In 1892 Pierre de Coubertin first proposed reviving this competition; 4 years later (fittingly), it happened | the Olympics
+right: Amy
+Wrong: 
+Value: $400
+Number: 16
+MEDICINE | A burr hole is made in the skull to remove one of these, also called a thrombus, in the brain | a clot
+right: Sean
+Wrong: 
+Lindsay: What is an embolism?
+Value: $400
+Number: 2
+ROADSIDE ATTRACTIONS | Don't be a dummy--head to Fort Mitchell, Kentucky to the Vent Haven Museum, vent being short for this type of performer | a ventriloquist
+right: Sean
+Wrong: 
+Value: $400
+Number: 21
+TALE SHIPS | The Hispaniola carries everyone to an island with hidden riches in this novel | Treasure Island
+right: Lindsay
+Wrong: 
+Value: $400
+Number: 1
+IN CONJUNCTION | We always have room for you at this small hotel | an inn
+right: Lindsay
+Wrong: 
+Value: $400
+Number: 11
+WHAT'S UP, PIERRE? | This 2-time Canadian prime minister got his master's in political economy from Harvard in 1945 | Pierre Trudeau
+right: Sean
+Wrong: 
+Value: $800
+Number: 17
+MEDICINE | (<http://www.j-archive.com/media/2012-04-11_DJ_04.wmv> Dr. Oz presents the clue.)  These sociopathic cells shown <http://www.j-archive.com/media/2012-04-11_DJ_04.jpg> here invading into the liver are named after the Greek word for "crab" | cancer
+right: Lindsay
+Wrong: 
+Value: $800
+Number: 4
+ROADSIDE ATTRACTIONS | A grinning 13-foot-tall peanut in Plains, Georgia pays tribute to this native son | Jimmy Carter
+right: Sean
+Wrong: 
+Value: $800
+Number: 22
+TALE SHIPS | In a Jules Verne novel, the Abraham Lincoln hunts down a sea monster but discovers it's really this boat | the Nautilus
+right: Amy
+Wrong: 
+Value: $800
+Number: 3
+IN CONJUNCTION | The earliest known use of this whitish metallic element was around 3500 B.C. in what's now Iran | tin
+right: Amy
+Wrong: 
+Value: $800
+Number: 12
+WHAT'S UP, PIERRE? | It's said Kate Middleton shed pre-wedding pounds using this French doctor's diet; his book was then an instant bestseller | Pierre Dukan
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 18
+MEDICINE | Half of people over 60 experience diverticulosis; luckily, few get this more serious inflamed version | diverticulitis
+right: Sean
+Wrong: 
+Value: $1200
+Number: 5
+TALE SHIPS | After the ferry he was on sinks, a man is saved by the tyrannical captain of the Ghost in this Jack London novel | The Sea-Wolf
+right: Amy
+Wrong: 
+Value: $1200
+Number: 6
+IN CONJUNCTION | This loverly product of a palm is lined with a white edible meat | coconut
+right: Lindsay
+Wrong: 
+Value: $1200
+Number: 13
+WHAT'S UP, PIERRE? | Oh, baby!  Born in 1754, this French architect & engineer became the first modern city planner in the United States | (Pierre) L'Enfant
+right: Lindsay
+Wrong: 
+Value: $1600
+Number: 19
+MEDICINE | Irritation around tendons can make the finger curl first with difficulty, then all at once: this type of firing "finger" | a trigger finger
+right: Amy
+Wrong: 
+Value: $1600
+Number: 7
+21st CENTURY TONY AWARDS | 2010's winner for a musical revival was this French-named farce | La Cage aux Folles
+right: Sean
+Wrong: 
+Value: DD: $7,000
+Number: 26
+ROADSIDE ATTRACTIONS | A hall of fame for these pests in Plano, Texas displays dead ones dressed as celebs & live Madagascan hissing ones | cockroaches
+right: Sean
+Wrong: 
+Value: $1600
+Number: 24
+TALE SHIPS | The Fuwalda was the ship that stranded Lord John & Lady Alice, this character's parents | Lord Greystoke (Tarzan)
+right: 
+Wrong: 
+Amy: Uh, who is Robinson Crusoe?
+Value: DD: $4,000
+Number: 9
+IN CONJUNCTION | Animator Paul Terry helped popularize this term for an animated show | a toon
+right: Lindsay
+Wrong: 
+Value: $1600
+Number: 14
+WHAT'S UP, PIERRE? | Last name of Confederate Gen. Pierre Gustave Toutant, whose forces helped win the First Battle of Bull Run | General Beauregard
+right: 
+Wrong: Triple Stumper
+Sean: Who is Lafayette?
+Value: $2000
+Number: 20
+MEDICINE | In melanosis, the skin is discolored black; this is the term for blue discoloration | cyanosis
+right: Amy
+Wrong: 
+Value: $2000
+Number: 8
+21st CENTURY TONY AWARDS | In 2011 the Tony for Best Revival of a Play went to this Larry Kramer drama about the early years of the AIDS epidemic | The Normal Heart
+right: 
+Wrong: Triple Stumper
+Lindsay: What is Rent?
+Value: $2000
+Number: 25
+ROADSIDE ATTRACTIONS | Ice water is free & coffee is 5 cents at Wall Drug in the town of Wall in this state | South Dakota
+right: Amy
+Wrong: 
+Value: $2000
+Number: 23
+TALE SHIPS | Men on the ship the Nellie listen to Marlow tell the story of an African journey in this work | Heart of Darkness
+right: Sean
+Wrong: 
+Value: $2000
+Number: 10
+IN CONJUNCTION | Where you have a knee, a horse has the stifle type of this | a joint
+right: Lindsay
+Wrong: 
+Value: $2000
+Number: 15
+Scores at the end of the Double Jeopardy! Round:
+Amy: $15,000
+Lindsay: $10,200
+Sean: $15,400
+
+Final Jeopardy! Round
+ART STYLES | Printmaker Richard Hamilton is credited with coining the name of this style, calling it "designed for a mass audience" | Pop Art
+right: Lindsay | Amy | Sean
+Wrong: 
+Wagers: 
+Lindsay: $5,201
+Amy: $15,000
+Sean: $14,601
+Final scores:
+Amy: $30,000 (2nd place: $2,000)
+Lindsay: $15,401 (3rd place: $1,000)
+Sean: $30,001 (New champion: $30,001)
+
+Coryat scores
+Amy: $15,000 (17 R(including 1 DD),1 W(including 1 DD))
+Lindsay: $10,200 (16 R,3 W)
+Sean: $10,000 (15 R(including 1 DD),2 W)

@@ -1,0 +1,346 @@
+5275 - Friday, July 13, 2007
+Comments: Last regular-play game of Season 23.
+Contestants:
+Ben Taylor: a student from Rockford, Illinois
+Amy Fuller: a medical missions coordinator from Oakland, Oregon
+Zach Baker: a computer programmer from Downey, California (whose 2-day cash winnings total $44,400)
+First Jeopardy! Round: CEMETERIES, PLEISTOCENE STEALER, 5-LETTER WORDS, STATES' MOST POPULOUS CITIES, ADDING INSULT, TO INJURY
+CEMETERIES | Although Emile Zola's gravestone still rests at this city's Cimetiere de Montmartre, his body was moved to the Pantheon | Paris
+right: Zach
+Wrong: 
+Value: $200
+Number: 23
+PLEISTOCENE STEALER | The last major one of these "glacial" time periods came during the Pleistocene Epoch | an ice age
+right: Amy
+Wrong: 
+Value: $200
+Number: 21
+5-LETTER WORDS | Historically it was the goods, money or property that a bride brought to her husband at marriage | dowry
+right: Zach
+Wrong: 
+Value: $200
+Number: 16
+STATES' MOST POPULOUS CITIES | Jackson, pop. 180,000 | Mississippi
+right: Ben
+Wrong: 
+Value: $200
+Number: 1
+ADDING INSULT | Gore Vidal said this pop artist was "the only genius with an IQ of 60" | (Andy) Warhol
+right: Zach
+Wrong: 
+Value: $200
+Number: 6
+TO INJURY | His boat wasn't swift enough as this ex-candidate for President & Navy man earned 3 Purple Hearts | (John) Kerry
+right: Zach
+Wrong: 
+Value: $200
+Number: 11
+CEMETERIES | With more than 1 million burials, Rookwood Necropolis in this largest Aussie city is one of the world's largest | Sydney
+right: Zach
+Wrong: 
+Value: $400
+Number: 24
+PLEISTOCENE STEALER | This 277-mile-long gorge of the Colorado River was primarily formed during the Pleistocene | the Grand Canyon
+right: Zach
+Wrong: 
+Value: $400
+Number: 22
+5-LETTER WORDS | A group of full-time employees, or the set of 5 horizontal lines on which notes of music are written | staff
+right: Zach
+Wrong: 
+Value: $400
+Number: 17
+STATES' MOST POPULOUS CITIES | Louisville, pop. 556,000 | Kentucky
+right: Zach
+Wrong: 
+Value: $400
+Number: 2
+ADDING INSULT | This "insult comic dog" said to "Star Wars" fans, "Who wants to hear a spoiler?  Here's a spoiler: you will die alone" | Triumph
+right: Zach
+Wrong: 
+Value: $400
+Number: 7
+TO INJURY | In 1521 he could have used a fountain of youth when he was severely wounded in a battle vs. the Calusa Indians | Ponce de León
+right: Amy
+Wrong: 
+Value: $400
+Number: 12
+CEMETERIES | About 250 people were buried in this Tombstone, Arizona Cemetery from 1878 to 1884, including Billy Clanton | Boot Hill
+right: Zach
+Wrong: 
+Value: $600
+Number: 25
+PLEISTOCENE STEALER | If you had a Smilodon smiling down on you, you were in trouble with one of these Pleistocene cats | a saber-tooth tiger (or a lion)
+right: Ben
+Wrong: 
+Value: DD: $3,400
+Number: 28
+5-LETTER WORDS | I'd like to call the meeting to order, but I need one of these small mallets | a gavel
+right: Amy
+Wrong: 
+Value: $600
+Number: 18
+STATES' MOST POPULOUS CITIES | Bridgeport, pop. 140,000 | Connecticut
+right: 
+Wrong: Triple Stumper
+Ben: What is Rhode Island?
+Value: $600
+Number: 3
+ADDING INSULT | Attributed to this "Mr. Warmth" comic: "Oh my God, look at you. Anyone else hurt in the accident?" | Don Rickles
+right: Zach
+Wrong: 
+Value: $600
+Number: 8
+TO INJURY | A WWII platoon leader in Italy, this future presidential candidate was severely wounded in April 1945 | Bob Dole
+right: Zach
+Wrong: 
+Value: $600
+Number: 13
+CEMETERIES | The world's largest historical mosaic, "The Birth Of Liberty", can be found at this Southern Calif. cemetery | Forest Lawn
+right: Amy
+Wrong: 
+Value: $800
+Number: 26
+PLEISTOCENE STEALER | (<http://www.j-archive.com/media/2007-07-13_J_29.jpg> Jon of the Clue Crew shows a map on a screen) During the Pleistocene Epoch, the ocean receded, and Beringia emerged, an example of <http://www.j-archive.com/media/2007-07-13_J_29a.jpg> this 2-word type of isthmus, allowing humans to come from Asia to America, | a land bridge
+right: Ben
+Wrong: 
+Value: $800
+Number: 29
+5-LETTER WORDS | (<http://www.j-archive.com/media/2007-07-13_J_19.jpg> Sarah of the Clue Crew delivers the clue from the Boudin Bakery in San Francisco, California) It once meant a notch used to record a tally in a game.  That meaning is still used for the cuts that will make your sourdough bake and look better | score
+right: Zach
+Wrong: 
+Value: $800
+Number: 19
+STATES' MOST POPULOUS CITIES | Manchester, pop. 110,000 | New Hampshire
+right: Ben
+Wrong: 
+Value: $800
+Number: 4
+ADDING INSULT | A fellow MLBer said of this "juiced" author that, like Michael Jackson, he wore one glove "for no significant reason" | José Canseco
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+TO INJURY | In 1821 this poet had a hard time counting the ways she loved thee, what with injuring her spine in a fall | Elizabeth Barett Browning
+right: Zach
+Wrong: 
+Value: $800
+Number: 14
+CEMETERIES | 368 American servicemen from WWI are buried in this "field", a U.S. Military cemetery near Waregem, Belgium | Flanders Field
+right: Ben
+Wrong: 
+Value: $1000
+Number: 27
+PLEISTOCENE STEALER | Utah's Great Salt Lake is a remnant of this much larger Pleistocene lake that lent its name to some salt flats | Bonneville
+right: Zach
+Wrong: 
+Value: $1000
+Number: 30
+5-LETTER WORDS | From French for "to ward off", it means to ward off a blow, especially in fencing | parry
+right: Zach
+Wrong: 
+Value: $1000
+Number: 20
+STATES' MOST POPULOUS CITIES | Burlington pop. 39,000 | Vermont
+right: Ben
+Wrong: 
+Value: $1000
+Number: 5
+ADDING INSULT | Later a Texas governor, in 1988 she said George H.W. Bush was "born with a silver foot in his mouth" | (Ann) Richards
+right: Amy
+Wrong: 
+Value: $1000
+Number: 10
+TO INJURY | On Oct. 18, 1859 he was found wounded & his 2 sons dead at a federal armory | John Brown
+right: Ben
+Wrong: 
+Value: $1000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Zach: $3,200
+Amy: $1,400
+Ben: $2,400
+Scores at the end of the Jeopardy! Round:
+Zach: $8,200
+Amy: $3,000
+Ben: $7,600
+Second Jeopardy! Round: THE RESTORATION, POP CULTURE: 1999, NAMES FROM THE PAST, THE NEW YORK TIMES WEEK IN REVIEW, CHECK YOUR OIL, "E" BAY
+THE RESTORATION | In the 1660s puppet shows featuring this pair, a hook-nosed hunchback & his shrewish wife, became popular | Punch & Judy
+right: Ben
+Wrong: 
+Value: $400
+Number: 6
+POP CULTURE: 1999 | The glaze lipstick that this ex-intern wore for a 1999 TV interview was discontinued, so women clamor for it on eBay | (Monica) Lewinsky
+right: Zach
+Wrong: 
+Value: $400
+Number: 1
+NAMES FROM THE PAST | Named from Hebrew words for "father of many", this Patriarch has a shrine built for him in Mecca | Abraham
+right: Ben
+Wrong: 
+Value: $400
+Number: 21
+THE NEW YORK TIMES WEEK IN REVIEW | In Mon., Oct. 23, 2006's Times you may have read of Panamanians' vote to modernize this at a cost of $5.25 billion | the Panama Canal
+right: Amy
+Wrong: 
+Value: $400
+Number: 11
+CHECK YOUR OIL | With about 12 million barrels each day, this country leads the world in oil imports, followed by China & Japan | the United States
+right: Amy
+Wrong: 
+Value: $400
+Number: 26
+"E" BAY | A snail in Strasbourg | escargot
+right: Amy
+Wrong: 
+Zach: What is...
+Value: $400
+Number: 15
+THE RESTORATION | After John Milton died in 1674, his widow sold all the rights to this work for a paltry 8 pounds | 
+right: Ben
+Wrong: 
+Value: DD: $3,400
+Number: 7
+POP CULTURE: 1999 | Director M. Night Shyamalan played the doctor who sees Haley Joel Osment after he's traumatized at a party in this film | 
+right: Zach
+Wrong: 
+Value: $800
+Number: 2
+NAMES FROM THE PAST | This Athenian philosopher who died in 399 B.C. was highly regarded for his self-control & moral outlook | Socrates
+right: Ben
+Wrong: 
+Value: $800
+Number: 22
+THE NEW YORK TIMES WEEK IN REVIEW | On Tues., Dec. 9, 2006 the Times said the U.S. would now sell nuclear fuel to this Asia country | India
+right: 
+Wrong: Triple Stumper
+Zach: What is Bangladesh?
+Ben: What is North Korea?
+Value: $800
+Number: 12
+CHECK YOUR OIL | This country is the world's largest producer of crude oil & is home to the world's largest oil reserves | Saudi Arabia
+right: Ben
+Wrong: 
+Value: $800
+Number: 27
+"E" BAY | A burrowing "terrestrial" annelid | an earthworm
+right: Ben
+Wrong: 
+Value: $800
+Number: 16
+THE RESTORATION | He developed the first reflecting telescope, which featured a concave mirror, a flat mirrow & an eyepiece | Isaac Newton
+right: 
+Wrong: Triple Stumper
+Ben: Who is Galileo?
+Value: $1200
+Number: 8
+POP CULTURE: 1999 | In 1999, Broadway audiences could see "The Lion King" or Laurence Fishburne plying King Henry II in this "Leonine" play | 
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+NAMES FROM THE PAST | This Muslim Sultan was devoted to Jihad & recaptured Jerusalem in the 12th Century | Saladin
+right: Ben
+Wrong: 
+Value: $1200
+Number: 23
+THE NEW YORK TIMES WEEK IN REVIEW | Wed., Dec. 21, 2005's Times said a judge stopped a Penn. district from teaching this as an alternative to evolution | intelligent design
+right: Zach
+Wrong: 
+Value: $1200
+Number: 13
+CHECK YOUR OIL | In 2004 producers said high prices partly result from not building any new ones of these in the U.S. since the '70s | refineries
+right: Ben
+Wrong: 
+Value: $1200
+Number: 28
+"E" BAY | This part of a music mixing board controls features like treble & bass | equalizer
+right: Amy
+Wrong: 
+Value: $1200
+Number: 17
+THE RESTORATION | The Restoration began in 1660 when this royal house was returned to the throne with the crowning of Charles II | the Stuart family
+right: Ben
+Wrong: 
+Value: $1600
+Number: 9
+POP CULTURE: 1999 | A tongue-in-cheek tribute on the Emmy Awards featured the many deaths of this animated character | Kenny
+right: Ben
+Wrong: 
+Value: $1600
+Number: 4
+NAMES FROM THE PAST | The subjects of this Greek's writing included anatomy, dreams & the theory that diseases are not divine in origin | Hippocrates
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+THE NEW YORK TIMES WEEK IN REVIEW | On Thurs., Jan. 11, 2007 the Times reported the first public U.S. Military action in this African nation since 1994 | Somalia
+right: 
+Wrong: 
+Zach: What is...
+Value: DD: $4,000
+Number: 14
+CHECK YOUR OIL | The largest known oil field in the U.S. is at Prudhoe Bay in this state | Alaska
+right: Zach
+Wrong: 
+Value: $1600
+Number: 29
+"E" BAY | 11-letter word meaning to use known facts to infer or draw conclusions about something unknown | extrapolate
+right: Amy
+Wrong: 
+Value: $1600
+Number: 18
+THE RESTORATION | In his 1690 work "Two Treatises of Government", he argued against the Divine Right of Kings | (John) Locke
+right: Ben
+Wrong: 
+Value: $2000
+Number: 10
+POP CULTURE: 1999 | 8 years after their farewell concert, this duo reunited for a New Year's Eve show--sort of a "Girls Night Out" | Naomi & Wynonna Judd
+right: 
+Wrong: Triple Stumper
+Amy: Who are Salt-N-Pepa?
+Value: $2000
+Number: 5
+NAMES FROM THE PAST | This orator, 106-43 B.C., tried to uphold Republican principles in the Civil War that destroyed Rome | Cicero
+right: 
+Wrong: Triple Stumper
+Ben: Who is Demosthenes?
+Value: $2000
+Number: 25
+THE NEW YORK TIMES WEEK IN REVIEW | Fri., April 13, 2007 had unlucky news for Don Imus: "off the air" for remarks about female athletes from this school | Rutgers
+right: Ben
+Wrong: 
+Value: $2000
+Number: 20
+CHECK YOUR OIL | Leading to the end of whale oil use, Abraham Gesner distilled a new fuel from coal in 1846 & named it this | kerosene
+right: Ben
+Wrong: 
+Value: $2000
+Number: 30
+"E" BAY | "The race is not to the swift, nor the battle to the strong", says chapter 9 of this book of the Bible | Ecclesiastes
+right: Zach
+Wrong: 
+Value: $2000
+Number: 19
+Scores at the end of the Double Jeopardy! Round:
+Zach: $9,000
+Amy: $5,000
+Ben: $21,800
+
+Final Jeopardy! Round
+SPORTS | Among its 13 founding members in 1950 were Louise Suggs, Patty Berg & Babe Zaharias | the LPGA (Ladies' Professional Golf Association)
+right: Amy | Zach | Ben
+Wrong: 
+Wagers: 
+Amy: $2,000
+Zach: $1,000
+Ben: $3,799
+Final scores:
+Zach: $10,000 (2nd place: $2,000)
+Amy: $7,000 (3rd place: $1,000)
+Ben: $25,599 (New champion: $25,599)
+
+Coryat scores
+Zach: $13,000 (21 R,3 W(including 1 DD))
+Amy: $5,000 (10 R,1 W)
+Ben: $16,400 (20 R(including 2 DDs),4 W)

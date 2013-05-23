@@ -1,0 +1,334 @@
+1254 - Thursday, February 1, 1990
+Contestants:
+Ray Albrektson: an associate professor and author from Redlands, California
+Gretchen Radtke: a law school graduate from Redwood City, California
+Lorrie Mowat: a public relations writer originally from Harrisburg, Pennsylvania (whose 1-day cash winnings total $6,199)
+First Jeopardy! Round: STARTS WITH "T", PRESIDENTIAL TRIVIA, FASHION DESIGNERS, SPORTS SHIFTS, KIDDIE LIT, OLLA PODRIDA
+STARTS WITH "T" | This other name for a seesaw is also a 2-word alliterative phrase | Teeter-totter
+right: Ray
+Wrong: 
+Value: $100
+Number: 4
+PRESIDENTIAL TRIVIA | He said, "People have got to know whether or not their president is a crook" | Richard Nixon
+right: Gretchen
+Wrong: 
+Value: $100
+Number: 1
+FASHION DESIGNERS | First name shared by designers Balmain & Cardin | Pierre
+right: Lorrie
+Wrong: 
+Value: $100
+Number: 17
+SPORTS SHIFTS | The NBA's Jazz franchise spent 5 years in this city before moving to Salt Lake City in 1979 | New Orleans
+right: Lorrie
+Wrong: 
+Value: $100
+Number: 26
+KIDDIE LIT | In "Little Boy Blue", "The cow's in" this | The corn
+right: Gretchen
+Wrong: 
+Value: $100
+Number: 2
+OLLA PODRIDA | People who daydream are said to be "Building" these "in Spain" | Castles
+right: Lorrie
+Wrong: 
+Value: $100
+Number: 11
+STARTS WITH "T" | A surgeon who performs a tenotomy cuts 1 of these to relieve problems caused by muscle shortening | Tendon
+right: Gretchen
+Wrong: 
+Value: $200
+Number: 5
+PRESIDENTIAL TRIVIA | The monument to Geo. Washington at this state's capitol contains a crypt which was meant to be his tomb | Virginia
+right: Gretchen
+Wrong: 
+Value: $200
+Number: 8
+FASHION DESIGNERS | His brother Igor Cassini wrote a society column under pen name Cholly Knickerbocker | Oleg Cassini
+right: Lorrie
+Wrong: 
+Value: $200
+Number: 22
+SPORTS SHIFTS | In 1966 baseball's L.A. Angels became the California Angels when they moved to this city | Anaheim
+right: Ray
+Wrong: 
+Value: $200
+Number: 27
+KIDDIE LIT | The words that complete the famous fairy tale request "Rapunzel, Rapunzel, let down..." | Your hair
+right: Ray
+Wrong: 
+Value: $200
+Number: 3
+OLLA PODRIDA | Don Quixote roamed across this plateau of central Spain | La Mancha
+right: Ray
+Wrong: 
+Value: $200
+Number: 18
+STARTS WITH "T" | This type of strength refers to a material's resistance to force trying to tear it apart | Tensile
+right: Ray
+Wrong: 
+Value: $300
+Number: 6
+PRESIDENTIAL TRIVIA | 3 of the 1st 10 presidents had this 1st name, not James | John
+right: Lorrie
+Wrong: 
+Value: $300
+Number: 12
+FASHION DESIGNERS | Giorgio Armani was instrumental in making this north Italian city an international fashion center | Milan
+right: Gretchen
+Wrong: 
+Value: $300
+Number: 23
+SPORTS SHIFTS | In 1963 the NBA's Syracuse Nationals moved to Philadelphia & changed their name to this | Philadelphia 76'ers
+right: Lorrie
+Wrong: 
+Value: $300
+Number: 28
+KIDDIE LIT | Yes, my friend, this fictional filly's name means "little girl" in Swedish | Flicka
+right: Ray
+Wrong: 
+Value: $300
+Number: 10
+OLLA PODRIDA | Iced drink made of wine, soda water & fruit juice | Sangria
+right: Gretchen
+Wrong: 
+Value: $300
+Number: 19
+STARTS WITH "T" | This 1983 tearjerker won "Best Picture", "Best Actress", "Best Director" & "Best Supporting Actor" Oscars | Terms of Endearment
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 7
+PRESIDENTIAL TRIVIA | He was so heavy that a huge bathtub had to be installed in the White House for him in 1909 | William Howard Taft
+right: Gretchen
+Wrong: 
+Value: $400
+Number: 13
+FASHION DESIGNERS | When he wed his assistant, Kelly Rector, he designed the bridal gown; maybe he was "Obsess"ed | Calvin Klein
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 24
+SPORTS SHIFTS | This pro football team began life as the Dallas Texans before moving to Missouri | Kansas City Chiefs
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 29
+KIDDIE LIT | His fairy tales include "The Metal Pig", "Aunty Toothache", "The Rags" & "The Fir Tree" | Hans Christian Andersen
+right: Gretchen
+Wrong: 
+Value: DD: $500
+Number: 15
+OLLA PODRIDA | Commanded by the Duke of Medina, this group of ships was thought to be invincible -- didn't work | Spanish Armada
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 20
+STARTS WITH "T" | A Richard Wagner opera is based on the legend of this German minstrel | "Tannhauser"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 9
+PRESIDENTIAL TRIVIA | Guinness says this star of "Rear Window" was Eisenhower's favorite actress | Grace Kelly
+right: Gretchen
+Wrong: 
+Value: $500
+Number: 14
+FASHION DESIGNERS | We don't know if he'd let you smoke his Ritz cigarettes in his Rive Gauche boutiques | Yves Saint Laurent
+right: Gretchen
+Wrong: 
+Value: $500
+Number: 25
+SPORTS SHIFTS | In 1982 the NHL's Colorado Rockies became this state's Devils | New Jersey
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+KIDDIE LIT | Wendy Darling's flighty brothers | John & Michael
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 16
+OLLA PODRIDA | She hit the Top 10 in 1987 with "La Isla Bonita", her Spanish lullaby | Madonna
+right: Gretchen
+Wrong: 
+Value: $500
+Number: 21
+Scores at the first commercial break (after clue 15)
+Lorrie: $800
+Gretchen: $2,000
+Ray: $900
+Scores at the end of the Jeopardy! Round:
+Lorrie: $1,400
+Gretchen: $3,200
+Ray: $1,300
+Second Jeopardy! Round: BRITISH HISTORY, SCIENCE, NEWSPAPERS, PROVERBS, GEORGIA, NAME THAT MUSICAL
+BRITISH HISTORY | Ramsay MacDonald was one of the founders of this party & its 1st prime minister | Labour party
+right: Ray
+Wrong: 
+Value: $200
+Number: 7
+SCIENCE | If something's described as effervescent, it means it has a lot of these | Bubbles
+right: Lorrie
+Wrong: 
+Value: $200
+Number: 1
+NEWSPAPERS | Izvestia, the Soviet daily, is now accepting these -- at $50,000 a page | Advertisements
+right: Ray
+Wrong: 
+Value: $200
+Number: 9
+PROVERBS | It completes the proverb "Laugh and the world laughs with you..." | cry and you cry alone
+right: Ray
+Wrong: 
+Value: $200
+Number: 15
+GEORGIA | Since 1872 every governor has been a member of this political party | Democrat
+right: Gretchen
+Wrong: 
+Value: $200
+Number: 26
+NAME THAT MUSICAL | A prince goes to Heidelberg University & falls in love with a waitress | "The Student Prince"
+right: Gretchen
+Wrong: 
+Value: $200
+Number: 2
+BRITISH HISTORY | Party whips can be found at No. 12 on the street named for this 17th C. treasury secretary | Downing Street
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 8
+SCIENCE | Kill an insect & you've committed insecticide; kill the mildew in your shower & you've committed this | Fungicide
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 10
+NEWSPAPERS | In circulation these 2 daily Hollywood trade papers have almost identical numbers | Hollywood Reporter & Variety
+right: Lorrie
+Wrong: 
+Value: $400
+Number: 11
+PROVERBS | An antique hand tool that could be a synonym for "proverb" | Old saw
+right: Gretchen
+Wrong: 
+Value: $400
+Number: 19
+GEORGIA | The 1st painted wall sign advertising this drink was created in 1894 on a Cartersville pharmacy | Coca-Cola
+right: Gretchen
+Wrong: 
+Value: $400
+Number: 27
+NAME THAT MUSICAL | A carnival barker marries a mill girl, dies in disgrace & returns to Earth to redeem his soul | "Carousel"
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 3
+BRITISH HISTORY | In April 1942 this whole Mediterranean island was awarded the George Cross for bravery | Malta
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 23
+SCIENCE | This sedimentary rock, "Creta" in Latin, was formed from marine life during the Cretaceous period | Chalk
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 16
+NEWSPAPERS | This Gannett newspaper is now available in 80 countries, not just the U.S. | USA Today
+right: Gretchen
+Wrong: 
+Value: $600
+Number: 12
+PROVERBS | "A watched pot never" does this | Boils
+right: Ray
+Wrong: 
+Value: $600
+Number: 20
+GEORGIA | FDR died at the Little White House in this town | Warm Springs
+right: Lorrie
+Wrong: 
+Value: $600
+Number: 28
+NAME THAT MUSICAL | ESP fantasy in which Daisy Gamble relives previous existences | "On a Clear Day You Can See Forever"
+right: Lorrie
+Wrong: 
+Value: $600
+Number: 4
+BRITISH HISTORY | While it "will do" in a beggar's rhyme, this coin ceased to be legal tender in 1969 | Half-penny
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+SCIENCE | This mineral comes after No. 9, corundum, on the Mohs scale | Diamond
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 17
+NEWSPAPERS | The Tribune Co. which owns the Chicago Tribune also owns this best-selling NYC newspaper | New York Daily News
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 13
+PROVERBS | Chaucer's version of this proverb was "It is nought good a slepying hound to wake" | Let sleeping dogs lie
+right: Gretchen
+Wrong: 
+Value: $800
+Number: 21
+GEORGIA | In 1964 he closed his restaurant rather than serve blacks; in 1967 he was chosen governor | Lester Maddox
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+NAME THAT MUSICAL | A girl who works for a telephone answering service gets involved in her clients' problems | "Bells are Ringing"
+right: 
+Wrong: 
+Value: DD: $1,200
+Number: 5
+BRITISH HISTORY | The last monarch to reside in the Tower of London, his mom was Mary, Queen of Scots | James I
+right: Gretchen
+Wrong: 
+Value: $1000
+Number: 25
+SCIENCE | Abbreviated "pc", it's a unit of distance used in astronomy equal to 3.21 light years | Parsec
+right: Ray
+Wrong: 
+Value: $1000
+Number: 18
+NEWSPAPERS | The 1st U.S. school of journalism was established in 1908 at this state U.'s Columbia campus | Missouri
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 14
+PROVERBS | "Too many cooks spoil the broth" contradicts the saying "Many hands make" this | Light work
+right: Ray
+Wrong: 
+Value: $1000
+Number: 22
+NAME THAT MUSICAL | A nice, young policeman becomes a protector of a Parisian prostitute | "Irma La Douce"
+right: Gretchen
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the end of the Double Jeopardy! Round:
+Lorrie: $1,000
+Gretchen: $6,400
+Ray: $3,100
+
+Final Jeopardy! Round
+PUNCTUATION | The name of this punctuation mark is Greek for "together" | Hyphen
+right: Ray
+Wrong: 
+Lorrie: What is ampersand?
+Gretchen: What is comma?
+Wagers: 
+Lorrie: $999
+Ray: $1,000
+Gretchen: $150
+Final scores:
+Lorrie: $1 (3rd place: Artisan House Lamp Collection + Jeopardy! box game)
+Gretchen: $6,250 (New champion: $6250 + Jeopardy! box game)
+Ray: $4,100 (2nd place: Trip to Oasis Water Resort Villa Hotel, Palm Springs, California + Ricardo Luggage Collection + Jeopardy! box game)
+
+Coryat scores
+Lorrie: $2,200 (15 R,5 W(including 1 DD))
+Gretchen: $7,300 (19 R(including 1 DD),3 W(including 1 DD))
+Ray: $3,100 (12 R,2 W)

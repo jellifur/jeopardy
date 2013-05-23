@@ -1,0 +1,349 @@
+4572 - Tuesday, June 22, 2004
+Comments: Ken Jennings game 15.
+Contestants:
+Kelly Parker: an interlibrary loan specialist from Atlanta, Georgia
+Rick Faulkner: a law student from Orange, California
+Ken Jennings: a software engineer from Salt Lake City, Utah (whose 14-day cash winnings total $471,759)
+First Jeopardy! Round: A WOMAN OF THE WORLD, SPORTS BIOS, SECRET SERVICE CODE NAMES, CANADA, EH, RIPLEY'S BELIEVE IT OR NOT!, GIVE US "Z" ANSWER!!!
+A WOMAN OF THE WORLD | She was in Kenya when she learned she had become queen on February 6, 1952 | Elizabeth II
+right: Rick
+Wrong: 
+Value: $200
+Number: 4
+SPORTS BIOS | Originally drafted by Atlanta, he quarterbacked Green Bay to a Super Bowl victory in 1997 | Brett Favre
+right: Ken
+Wrong: 
+Value: $200
+Number: 14
+SECRET SERVICE CODE NAMES | A rock & roll president: Eagle (not Elvis, as rumored) | Bill Clinton
+right: Kelly
+Wrong: 
+Value: $200
+Number: 26
+CANADA, EH | This country is Canada's main import & export business partner | the United States
+right: Kelly
+Wrong: 
+Value: $200
+Number: 9
+RIPLEY'S BELIEVE IT OR NOT! | B.I.O.N., Texan David Pay has written over 300 alphabetic characters on a single grain of this! | rice
+right: Rick
+Wrong: 
+Ken: What is sand?
+Value: $200
+Number: 21
+GIVE US "Z" ANSWER!!! | Castor & Pollux are the twin sons of this god | Zeus
+right: Ken
+Wrong: 
+Value: $200
+Number: 1
+A WOMAN OF THE WORLD | An Asian prime minister for 15 years, she was called "Indu" for short | Indira Gandhi
+right: Ken
+Wrong: 
+Value: $400
+Number: 10
+SPORTS BIOS | This American's career grand slam began with his victory at Wimbledon in 1992 | Agassi
+right: Rick
+Wrong: 
+Ken: Who is Pete Sampras?
+Value: $400
+Number: 15
+SECRET SERVICE CODE NAMES | A cowboy president: Rawhide | Reagan
+right: Ken
+Wrong: 
+Value: $400
+Number: 27
+CANADA, EH | The scientific name of this high flyer seen <http://www.j-archive.com/media/2004-06-22_J_18.jpg> here is Branta canadensis | a Canada goose
+right: Ken
+Wrong: 
+Value: $400
+Number: 18
+RIPLEY'S BELIEVE IT OR NOT! | B.I.O.N., herpetologist Bill Haast has been bitten over 150 times by these deadly creatures! | snakes
+right: Rick
+Wrong: 
+Value: $400
+Number: 22
+GIVE US "Z" ANSWER!!! | This Hungarian enjoyed a single day of wedded bliss with Felipe de Alba in 1982 | Zsa Zsa Gabor
+right: Rick
+Wrong: 
+Value: $400
+Number: 2
+A WOMAN OF THE WORLD | In 1767 this "Great" empress called a commission on legal reform | Catherine the Great
+right: Ken
+Wrong: 
+Value: $600
+Number: 11
+SPORTS BIOS | A Detroit Red Wing from 1946 to 1971, it was his records that Gretzky broke | Gordie Howe
+right: Rick
+Wrong: 
+Value: $600
+Number: 16
+SECRET SERVICE CODE NAMES | A Baptist president: Deacon | Carter
+right: Ken
+Wrong: 
+Value: $600
+Number: 28
+CANADA, EH | Sharing a border with Alaska, it's the Canadian territory that had a record low of -81 F. in 1947 | the Yukon
+right: Ken
+Wrong: 
+Value: $600
+Number: 5
+RIPLEY'S BELIEVE IT OR NOT! | B.I.O.N., every year a Filipino village recreates this event of around 30 A.D. using nails | the crucifixion
+right: Rick
+Wrong: 
+Value: $600
+Number: 23
+GIVE US "Z" ANSWER!!! | Leader of the musical Mothers of Invention | Frank Zappa
+right: Ken
+Wrong: 
+Value: $600
+Number: 6
+A WOMAN OF THE WORLD | In 1993 True Path Party leader Tansu Ciller became the first female PM of this large Muslim country | Turkey
+right: Kelly
+Wrong: 
+Rick: What is Indonesia?
+Value: $800
+Number: 12
+SPORTS BIOS | In 1984 this gymnast won 2 bronzes, 2 silvers & the Olympic gold medal for women's all-around | Mary Lou Retton
+right: Kelly
+Wrong: 
+Value: $800
+Number: 3
+SECRET SERVICE CODE NAMES | Eisenhower was Providence; oddly, this president was General | President Harry Truman
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+CANADA, EH | The Royal Tyrrell Museum in this westernmost prairie province is a world leader in dinosaur research | Alberta
+right: Ken
+Wrong: 
+Value: $800
+Number: 19
+RIPLEY'S BELIEVE IT OR NOT! | B.I.O.N., because he believes it's possessed by his dead fiancee, a man married one of these dolls! | a Barbie doll
+right: 
+Wrong: Triple Stumper
+Kelly: What is a mannequin?
+Value: $800
+Number: 24
+GIVE US "Z" ANSWER!!! | A compound of this element, atomic number 30, is used in lotions as a sunscreen | zinc
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+A WOMAN OF THE WORLD | An entirely female unit, the Mariana Grajales Women's Platoon, helped win this country's 1956-58 socialist revolution | Cuba
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+SPORTS BIOS | Later a Knick, this basketball center led Georgetown to 3 NCAA finals & the 1984 title | Patrick Ewing
+right: Rick
+Wrong: 
+Value: $1000
+Number: 17
+SECRET SERVICE CODE NAMES | A religious visitor: Halo | Pope John Paul II
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+CANADA, EH | This league uses 12 players per side, but only 3 plays per series of downs | the CFL (Canadian Football League)
+right: Ken
+Wrong: 
+Value: $1000
+Number: 20
+RIPLEY'S BELIEVE IT OR NOT! | B.I.O.N., a 3-year old Ugandan boy was adopted & raised for 4 years by a colony of these human-like apes! | chimps
+right: Ken
+Wrong: 
+Value: $1000
+Number: 25
+GIVE US "Z" ANSWER!!! | It's home to the Croatian Academy of Arts & Sciences | Zagreb
+right: Ken
+Wrong: 
+Value: DD: $2,200
+Number: 8
+Scores at the first commercial break (after clue 15)
+Ken: $5,200
+Rick: $200
+Kelly: $1,800
+Scores at the end of the Jeopardy! Round:
+Ken: $9,200
+Rick: $3,000
+Kelly: $1,200
+Second Jeopardy! Round: NOVEL WEDDINGS, THEY PLAYED JESSE JAMES, A "D" IN HISTORY, ROGER THAT, MATH CLASS, ON A POSITIVE NOTE
+NOVEL WEDDINGS | Tara is lit with hundreds of candles for this woman's marriage to Charles Hamilton | Scarlett O'Hara
+right: Ken
+Wrong: 
+Value: $400
+Number: 1
+THEY PLAYED JESSE JAMES | Before "The West Wing", this former Brat Packer was in the Wild West as Jesse James in "Frank and Jesse" | Rob Lowe
+right: Kelly
+Wrong: 
+Value: $400
+Number: 26
+A "D" IN HISTORY | He took office as the mayor of Chicago in 1989 | (Richard) Daley
+right: Ken
+Wrong: 
+Value: $400
+Number: 21
+ROGER THAT | In 1961 his 61st home run not only broke the record but won a 1-0 game | Roger Maris
+right: Ken
+Wrong: 
+Value: $400
+Number: 6
+MATH CLASS | Of 3, 4 or 5, the one that's not a prime factor of 15 | 4
+right: Ken
+Wrong: 
+Value: $400
+Number: 11
+ON A POSITIVE NOTE | PC, as in deeply concerned with social fairness, stands for "politically" this | correct
+right: Rick
+Wrong: 
+Value: $400
+Number: 16
+NOVEL WEDDINGS | (<http://www.j-archive.com/media/2004-06-22_DJ_02.jpg> Jimmy of the Clue Crew has a drink at the Seelback Hilton.) F. Scott Fitzgerald enjoyed drinking at the Seelbach Hotel & made it the site of Tom and Daisy's bridal dinner in this famous novel | The Great Gatsby
+right: Rick
+Wrong: 
+Value: $800
+Number: 2
+THEY PLAYED JESSE JAMES | It's true--<http://www.j-archive.com/media/2004-06-22_DJ_27.jpg> he starred in 1957's "The True Story of Jesse James" | Robert Wagner
+right: Ken
+Wrong: 
+Value: $800
+Number: 27
+A "D" IN HISTORY | Alcatraz has been called America's version of this notorious French island prison | Devil's Island
+right: Ken
+Wrong: 
+Value: $800
+Number: 22
+ROGER THAT | This singer seen <http://www.j-archive.com/media/2004-06-22_DJ_07.jpg> here has also made a name as a stage actor | Roger Daltrey
+right: Ken
+Wrong: 
+Value: $800
+Number: 7
+MATH CLASS | When a projectile shot straight up reaches its highest point, its velocity is this | 0
+right: Ken
+Wrong: 
+Value: $800
+Number: 12
+ON A POSITIVE NOTE | Adverb used as a Hertz slogan | exactly
+right: Rick
+Wrong: 
+Kelly: What is positively?
+Value: $800
+Number: 17
+NOVEL WEDDINGS | 2 nights before her wedding to Mr. Rochester, a ghastly figure appears in her room & rips up her wedding veil | Jane Eyre
+right: Ken
+Wrong: 
+Value: $1200
+Number: 3
+THEY PLAYED JESSE JAMES | He played Jesse in 2 Republic serials before donning the mask of the Lone Ranger on TV | Clayton Moore
+right: Ken
+Wrong: 
+Value: $1200
+Number: 28
+A "D" IN HISTORY | This order of inquisitorial monks, aka the Black Friars, could have been called the Black "Fryers" | the Dominicans
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 23
+ROGER THAT | In 1934 Roger Tory Peterson published his classic "A Field Guide to" these | Birds
+right: Ken
+Wrong: 
+Value: $1200
+Number: 8
+MATH CLASS | When the Cardinals play baseball, these ordinal numbers are positions on the field | first, second, & third
+right: 
+Wrong: Triple Stumper
+Ken: What is one through nine?
+Kelly: Uh, what are one, two, and three?
+Value: $1200
+Number: 13
+ON A POSITIVE NOTE | Direction that also means to restore a capsized boat to its normal position | right
+right: Ken
+Wrong: 
+Value: $1200
+Number: 18
+NOVEL WEDDINGS | In this Steinbeck novel, the evil Cathy drugs Adam Trask on their wedding night & seduces his brother | East of Eden
+right: Ken
+Wrong: 
+Value: DD: $4,200
+Number: 4
+THEY PLAYED JESSE JAMES | This 1980 film featured the Carradines as the Youngers & Stacy & James Keach as Frank & Jesse James | The Long Riders
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+A "D" IN HISTORY | On the summit of this hill in Scotland are the remains of Macbeth's castle | Dunsinane
+right: Kelly
+Wrong: 
+Value: $1600
+Number: 24
+ROGER THAT | Roger Baldwin, director of the American Union Against Militarism, transformed it into this "Union" | the ACLU (American Civil Liberties Union)
+right: 
+Wrong: 
+Ken: What is a temperance union?
+Value: DD: $5,600
+Number: 9
+MATH CLASS | (<http://www.j-archive.com/media/2004-06-22_DJ_14.jpg> Sofia of the Clue Crew takes us full-circle.) When using <http://www.j-archive.com/media/2004-06-22_DJ_14a.jpg> this edible type of diagram, proportions are illustrated as sectors of a circle | a pie chart
+right: Kelly
+Wrong: 
+Value: $1600
+Number: 14
+ON A POSITIVE NOTE | Wallace Stevens began a poem, "After the final no there comes a" this | yes
+right: 
+Wrong: Triple Stumper
+Ken: What is a great yea?
+Value: $1600
+Number: 19
+NOVEL WEDDINGS | Frankie Adams thinks that she'll get to accompany her brother on his honeymoon in this Carson McCullers novel | Member of the Wedding
+right: Ken
+Wrong: 
+Value: $2000
+Number: 5
+THEY PLAYED JESSE JAMES | This co-star of 2003's "Open Range" played Jesse in a 1972 film | (Robert) Duvall
+right: Ken
+Wrong: 
+Value: $2000
+Number: 30
+A "D" IN HISTORY | During World War II, the Japanese repeatedly bombed this city on Australia's northern coast | Darwin
+right: Ken
+Wrong: 
+Value: $2000
+Number: 25
+ROGER THAT | This Navy pilot was named to the Apollo 1 crew in 1966, but his life ended tragically a year later | Roger Chaffee
+right: Ken
+Wrong: 
+Value: $2000
+Number: 10
+MATH CLASS | Raising a number to the second power is squaring it; raising it to the third power is this | cubing it
+right: Kelly
+Wrong: 
+Value: $2000
+Number: 15
+ON A POSITIVE NOTE | It's the title of the 1989 hit song heard <http://www.j-archive.com/media/2004-06-22_DJ_20.mp3> here  "One look from you / I drift away..." | "You Got It"
+right: Rick
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Ken: $22,600
+Rick: $7,000
+Kelly: $4,800
+
+Final Jeopardy! Round
+HISTORIC PARTNERSHIPS | The almost 4-decade collaboration of these 2 Germans began in Paris in 1844 | Karl Marx & Friedrich Engels
+right: Kelly
+Wrong: 
+Rick: Who are ?
+Ken: Who are Hi Mindy?
+Wagers: 
+Kelly: $2,800
+Rick: $2,601
+Ken: $7,400
+Final scores:
+Ken: $15,200 (15-day champion: $486,959)
+Rick: $4,399 (3rd place: $1,000)
+Kelly: $7,600 (2nd place: $2,000)
+
+Coryat scores
+Ken: $24,400 (31 R(including 2 DDs),5 W(including 1 DD))
+Rick: $7,000 (12 R,1 W)
+Kelly: $4,800 (8 R,3 W)

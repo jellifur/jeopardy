@@ -1,0 +1,344 @@
+6338 - Wednesday, March 21, 2012
+Contestants:
+Greg Bentley: a law clerk from Pikeville, Kentucky
+Cathy Guiles: a copy editor originally from Baltimore, Maryland
+Melanie Spratford: a caterer from Chicago, Illinois (whose 1-day cash winnings total $19,201)
+First Jeopardy! Round: FLIGHT, A BLANK EXPRESSION, HOME ICE, SIR WALTER SCOTT, NATURAL SELECTION, GOD DID IT!
+FLIGHT | A report detailing an airplane's route, or the title of a 2005 Jodie Foster thriller | flight plan
+right: Cathy
+Wrong: 
+Value: $200
+Number: 1
+A BLANK EXPRESSION | It happened when I arrived in Hollywood: I came, I saw, I ___-ed | I conquered
+right: Greg
+Wrong: 
+Value: $200
+Number: 16
+HOME ICE | Madison Square Garden | the (New York) Rangers
+right: Greg
+Wrong: 
+Value: $200
+Number: 6
+SIR WALTER SCOTT | Sir Walter Scott was born in 1771 in this city | Edinburgh
+right: Cathy
+Wrong: 
+Value: $200
+Number: 26
+NATURAL SELECTION | Vegetarians take note: Organic Valley's Omega-3 Milk is infused with kosher oil from these creatures | fish
+right: Cathy
+Wrong: 
+Value: $200
+Number: 21
+GOD DID IT! | In Genesis 19, God got a tad angry with Sodom & rained on it fire & this, an old word for sulfur | brimstone
+right: Greg
+Wrong: 
+Value: $200
+Number: 11
+FLIGHT | A pipe dream is also alliteratively called a flight of this | flight of fancy
+right: Cathy
+Wrong: 
+Value: $400
+Number: 2
+A BLANK EXPRESSION | Important trio of possibilities at the races: win, place or ___ | show
+right: Greg
+Wrong: 
+Value: $400
+Number: 17
+HOME ICE | Mellon Arena | the Pittsburgh Penguins
+right: Greg
+Wrong: 
+Value: $400
+Number: 7
+SIR WALTER SCOTT | This noble outlaw helps King Richard I rescue the title knight in Scott's "Ivanhoe" | Robin Hood
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 27
+NATURAL SELECTION | Endangered Species Chocolate makes a bar flavored with these colorful antioxidant-rich berries of the genus Vaccinium | blueberries
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+GOD DID IT! | In Genesis 9, God blessed this man & his sons & told them to be fruitful & multiply | Noah
+right: Cathy
+Wrong: 
+Greg: Who is Abraham?
+Value: $400
+Number: 12
+FLIGHT | The Red Baron commanded a unit called the "flying" this, for its brightly colored planes | the Flying Circus
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 3
+A BLANK EXPRESSION | Everything I need: wine, ___ & song | women
+right: Greg
+Wrong: 
+Value: $600
+Number: 18
+HOME ICE | Joe Louis Arena | the Detroit Red Wings
+right: Cathy
+Wrong: 
+Greg: Who are the St. Louis Blues?
+Value: $600
+Number: 8
+SIR WALTER SCOTT | In 1813 Sir Walter wrote a letter complimenting this American on his "History of New York" | Washington Irving
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+NATURAL SELECTION | Sweetgrass Natural Fibers specializes in "eco fashion" made from hemp, cotton & this tall grass | bamboo
+right: Greg
+Wrong: 
+Value: $600
+Number: 23
+GOD DID IT! | In Exodus 3, God told Moses, who was standing on holy ground, to take off these | his shoes
+right: Cathy
+Wrong: 
+Value: $600
+Number: 13
+FLIGHT | AKA the acute stress response, the name of this reflex contains 2 basic options one faces when threatened | fight-or-flight
+right: Cathy
+Wrong: 
+Value: $800
+Number: 4
+A BLANK EXPRESSION | Describes me if Angelina Jolie ever needs any help: ready, ___ & able | willing
+right: Melanie
+Wrong: 
+Value: $800
+Number: 19
+HOME ICE | Scotiabank Saddledome | the Calgary Flames
+right: 
+Wrong: Triple Stumper
+Greg: Who are the Montreal Canadiens?
+Value: $800
+Number: 9
+SIR WALTER SCOTT | Jedediah Cleishbotham, Capt. Clutterbuck & Malachi Malagrowther were all these of Sir Walter Scott | pseudonyms
+right: Cathy
+Wrong: 
+Value: $800
+Number: 30
+NATURAL SELECTION | EVO's Wild Cravings Red Meat Formula Biscuits are high-protein, grain-free treats for these | dogs
+right: Cathy
+Wrong: 
+Value: $800
+Number: 24
+GOD DID IT! | In Genesis 2:21, God helped himself to one of these from Adam | the rib
+right: Greg
+Wrong: 
+Value: $800
+Number: 14
+FLIGHT | (<http://www.j-archive.com/media/2012-03-21_J_05.wmv> Kelly of the Clue Crew sits in a Qantas flight simulator in Sydney, Australia.)  The four forces that act on a plane in flight include lift, gravity, & drag; by pushing these levers forward, we're increasing this fourth force that counteracts drag | thrust
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+A BLANK EXPRESSION | The "Jeopardy!" office on tape days: blood, toil, tears & ___ | sweat
+right: Cathy
+Wrong: 
+Value: $1000
+Number: 20
+HOME ICE | TD Banknorth Garden | the Boston Bruins
+right: Greg
+Wrong: 
+Value: $1000
+Number: 10
+SIR WALTER SCOTT | Scott's novel "Kenilworth" contains the scene involving a mud puddle, a cloak & these 2 personages | Sir Walter Raleigh & Queen Elizabeth I
+right: Greg
+Wrong: 
+Value: $1000
+Number: 29
+NATURAL SELECTION | Clothing optional: "Bear" this granola says it's "100% pure and natural" | Naked
+right: Melanie
+Wrong: 
+Value: $1000
+Number: 25
+GOD DID IT! | In Exodus 3, God promised to smite this land "with all my wonders"; in Exodus 7, he did | Egypt
+right: Greg
+Wrong: 
+Value: DD: $1,000
+Number: 15
+Scores at the first commercial break (after clue 15)
+Melanie: $0
+Cathy: $3,000
+Greg: $1,800
+Scores at the end of the Jeopardy! Round:
+Melanie: $1,800
+Cathy: $6,000
+Greg: $4,600
+Second Jeopardy! Round: THIS PLACE IS DUELSVILLE, BALLET, PLAYING FOR CHANGE, HEY HEY HEY, IT'S PHAT ALBERT!, DOUBLE "L", PUBLISHER, PAIR-ISH
+THIS PLACE IS DUELSVILLE | In 1781 Emperor Joseph II staged a piano duel between Mozart & Muzio Clementi in this city | Vienna
+right: Cathy
+Wrong: 
+Value: $400
+Number: 8
+BALLET | In this ballet a little girl named Clara meets the Sugar Plum Fairy in the Kingdom of Sweets | The Nutcracker
+right: Melanie
+Wrong: 
+Value: $400
+Number: 6
+PLAYING FOR CHANGE | This song title from the '80s precedes "25 for Haiti" in a 2010 project featuring 80 recording artists | "We Are The World"
+right: Greg
+Wrong: 
+Value: $400
+Number: 18
+HEY HEY HEY, IT'S PHAT ALBERT! | In 2011 Prince Albert of this principality wed ex-Olympic swimmer Charlene Wittstock of South Africa | Monaco
+right: Cathy
+Wrong: 
+Value: $400
+Number: 23
+DOUBLE "L" | Combatants shoot pellets of colored gel at each other in this game | paintball
+right: Melanie
+Wrong: 
+Value: $400
+Number: 1
+PUBLISHER, PAIR-ISH | The publisher Simon & him is part of CBS | Schuster
+right: Greg
+Wrong: 
+Value: $400
+Number: 9
+THIS PLACE IS DUELSVILLE | Green Park & Covent Garden were once favored dueling spots in this city | London
+right: Cathy
+Wrong: 
+Value: $800
+Number: 10
+BALLET | Hershy Kay provided the orchestrations of this man's music for the 1958 ballet "Stars and Stripes" | (John Philip) Sousa
+right: Greg
+Wrong: 
+Value: $800
+Number: 7
+PLAYING FOR CHANGE | Willie Nelson, John Mellencamp & Neil Young organized the first of these heartland benefits in 1985 | Farm Aid
+right: Melanie
+Wrong: 
+Value: $800
+Number: 19
+HEY HEY HEY, IT'S PHAT ALBERT! | Like Newt Gingrich & Thomas Foley, Carl Albert held this leadership position, from 1971 to 1977 | Speaker of the House
+right: Cathy
+Wrong: 
+Value: $800
+Number: 24
+DOUBLE "L" | The name of these flowers seen <http://www.j-archive.com/media/2012-03-21_DJ_02.jpg> here fits them perfectly | bluebells
+right: Melanie
+Wrong: 
+Value: $800
+Number: 2
+PUBLISHER, PAIR-ISH | Louisa May Alcott & James Patterson were published by Little, this | Brown
+right: Melanie
+Wrong: 
+Value: $800
+Number: 14
+THIS PLACE IS DUELSVILLE | Pushkin fought his fatal duel in this city, just 34 years after it was founded | Saint Petersburg
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 11
+BALLET | A young prince is saved by a magic feather in this 1910 Stravinsky ballet | The Firebird
+right: 
+Wrong: 
+Greg: I don't know.
+Value: DD: $400
+Number: 27
+PLAYING FOR CHANGE | Dozens of rock stars have played the Secret Policeman's Balls to benefit this human rights organization, A.I. | Amnesty International
+right: Melanie
+Wrong: 
+Value: $1200
+Number: 20
+HEY HEY HEY, IT'S PHAT ALBERT! | This microbiologist worked on cancer & developed the oral polio vaccine | (Albert) Sabin
+right: Greg
+Wrong: 
+Value: $1200
+Number: 25
+DOUBLE "L" | It's another name for a tadpole | a polliwog
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 3
+PUBLISHER, PAIR-ISH | A Random House imprint combines this small fowl with Dell | Bantam Books
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 15
+THIS PLACE IS DUELSVILLE | In 2008 Bobby Fischer died in this island city, site of his 1972 chess duel with Boris Spassky | Reykjavik
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 12
+BALLET | In the 1920s Uday Shankar, Ravi's brother, choreographed "Radha-Krishna" for this Russian ballerina | Pavlova
+right: Greg
+Wrong: 
+Value: $1600
+Number: 30
+PLAYING FOR CHANGE | The organization "Rock" this sponsored a 2008 "Ballot Bash" & a 2011 "Democracy Day" with "Glee" star Darren Criss | the Vote
+right: Cathy
+Wrong: 
+Value: $1600
+Number: 21
+HEY HEY HEY, IT'S PHAT ALBERT! | This man used his $33,000 in Nobel Prize money to expand the hospital he built & to establish a leper colony | (Albert) Schweitzer
+right: Greg
+Wrong: 
+Value: DD: $5,000
+Number: 26
+DOUBLE "L" | It's the lumberjack term for when politicians vote for each other's bills | logrolling
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 4
+PUBLISHER, PAIR-ISH | A big name in textbooks is Prentice this | Hall
+right: Cathy
+Wrong: 
+Value: $1600
+Number: 16
+THIS PLACE IS DUELSVILLE | The book "War of the Rats" tells of a sniper duel during the winter 1942-43 battle for this Russian city | Stalingrad
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 13
+BALLET | In 1944 this conductor composed the music for "Fancy Free", Jerome Robbins' first ballet | Leonard Bernstein
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 29
+PLAYING FOR CHANGE | The Clash & The Who headlined the 1979 Concerts for Kampuchea, benefits for victims in this war-torn country | Cambodia
+right: Cathy
+Wrong: 
+Value: $2000
+Number: 22
+HEY HEY HEY, IT'S PHAT ALBERT! | In 1942 this Frenchman wrote, "There is but one truly serious philosophical problem and that is suicide" | Albert Camus
+right: Cathy
+Wrong: 
+Value: $2000
+Number: 28
+DOUBLE "L" | Prince Charles is the duke of it | Cornwall
+right: 
+Wrong: Triple Stumper
+Cathy: What is Wellington?
+Value: $2000
+Number: 5
+PUBLISHER, PAIR-ISH | Young readers enjoy books from Grosset & him | Dunlap
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+Scores at the end of the Double Jeopardy! Round:
+Melanie: $6,200
+Cathy: $13,600
+Greg: $13,600
+
+Final Jeopardy! Round
+FAMOUS NAMES | At his death in January 2010, he was called "the Garbo of letters, famous for not wanting to be famous" | J.D. Salinger
+right: Cathy
+Wrong: 
+Melanie: Who is Mailer?
+Greg: Who was Warhol?
+Wagers: 
+Melanie: $0
+Cathy: $1,000
+Greg: $13,600
+Final scores:
+Melanie: $6,200 (2nd place: $2,000)
+Cathy: $14,600 (New champion: $14,600)
+Greg: $0 (3rd place: $1,000)
+
+Coryat scores
+Melanie: $6,200 (8 R,0 W)
+Cathy: $13,600 (19 R,1 W)
+Greg: $10,600 (17 R(including 2 DDs),4 W(including 1 DD))

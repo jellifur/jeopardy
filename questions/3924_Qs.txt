@@ -1,0 +1,342 @@
+6405 - Friday, June 22, 2012
+Contestants:
+Ayana Matthews: a geriatric nursing assistent and chef from Baltimore, Maryland
+Bridget Gallagher: a fundraising consultant from Arlington, Virginia
+Margaret Swanson: a graduate student of architecture from Somerville, Massachusetts (whose 1-day cash winnings total $3,999)
+First Jeopardy! Round: TEXAS-BASED COMPANIES, DIAL M FOR MURDER, COMMON BONDS, LESSER-KNOWN NOBEL PRIZE LIT WINNERS, STARTS WITH 3 CONSONANTS, MILESTONE BIRTHDAYS 2012
+TEXAS-BASED COMPANIES | Hello? Headquartered in Dallas, it's the USA's largest tele-communications company | AT&T
+right: Ayana
+Wrong: 
+Value: $200
+Number: 15
+DIAL M FOR MURDER | He's still in prison for the murders his "family" committed in August of 1969 | Charles Manson
+right: Ayana
+Wrong: 
+Value: $200
+Number: 9
+COMMON BONDS | A rainbow, a horseshoe hung above a door, a 4-leaf clover | lucky charms
+right: Bridget
+Wrong: 
+Value: $200
+Number: 11
+LESSER-KNOWN NOBEL PRIZE LIT WINNERS | More people know this name as a deformed French literary character than as the name of the Italian who won the 1959 prize | Quasimodo
+right: Bridget
+Wrong: 
+Value: $200
+Number: 1
+STARTS WITH 3 CONSONANTS | A time of year, or a stream of water | spring
+right: Ayana
+Wrong: 
+Value: $200
+Number: 22
+MILESTONE BIRTHDAYS 2012 | It might be "risky business" for him to keep doing his own stunts after he turns 50 on July 3 | Tom Cruise
+right: Bridget
+Wrong: 
+Value: $200
+Number: 3
+TEXAS-BASED COMPANIES | You'll find the logo seen <http://www.j-archive.com/media/2012-06-22_J_27.jpg> here on products throughout this retailer's more than 4,700 stores in the United States & Mexico | RadioShack
+right: Ayana
+Wrong: 
+Value: $400
+Number: 27
+DIAL M FOR MURDER | For murdering a nurse from county Clare, in 1954 Michael Manning became the last person executed in this country | Ireland
+right: Ayana
+Wrong: 
+Value: $400
+Number: 10
+COMMON BONDS | Janet Evanovich, Lillian Jackson Braun, Sue Grafton | mystery writers
+right: Ayana
+Wrong: 
+Value: $400
+Number: 12
+LESSER-KNOWN NOBEL PRIZE LIT WINNERS | The Nobel folks said the tales of Patrick White "introduced" this continent "into literature" | Australia
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+STARTS WITH 3 CONSONANTS | A ceremony at which a baby is named | a christening
+right: Ayana
+Wrong: 
+Value: $400
+Number: 23
+MILESTONE BIRTHDAYS 2012 | When the real Slim Shady stands up, this rapper will turn 40 on October 17 | Eminem
+right: Bridget
+Wrong: 
+Value: $400
+Number: 4
+TEXAS-BASED COMPANIES | Failing to live up to its name, this largest video rental chain filed for bankruptcy in 2010 | Blockbuster
+right: Bridget
+Wrong: 
+Value: $600
+Number: 28
+DIAL M FOR MURDER | Firearm in the nickname of murderous Jack McGurn-- rat-tat-tat! | machine gun
+right: Ayana
+Wrong: 
+Value: $600
+Number: 13
+COMMON BONDS | A piano, a typewriter, Florida | they all have keys
+right: Margaret
+Wrong: 
+Value: $600
+Number: 18
+LESSER-KNOWN NOBEL PRIZE LIT WINNERS | Carl Spitteler of this Alpine country was honored in "appreciation of his epic, 'Olympian Spring'" | Switzerland
+right: Ayana
+Wrong: 
+Value: $600
+Number: 7
+STARTS WITH 3 CONSONANTS | To attack with guns by way of airplane | strafe
+right: Margaret
+Wrong: 
+Value: $600
+Number: 24
+MILESTONE BIRTHDAYS 2012 | Just in time for summer, this British prince turned 30 on June 21 | Prince William
+right: Ayana
+Wrong: 
+Value: $600
+Number: 5
+TEXAS-BASED COMPANIES | AMR is the parent company of this airline that landed in new headquarters in Dallas/Forth Worth in 1979 | American Airlines
+right: 
+Wrong: Triple Stumper
+Margaret: What is Southwest?
+Bridget: What is Continental?
+Ayana: What is United?
+Value: $800
+Number: 29
+DIAL M FOR MURDER | 1880s Manhattan killer Mike McGloin appears in this chronicle of Big Apple crime, both the book & the Leo DiCaprio movie | Gangs of New York
+right: Bridget
+Wrong: 
+Value: $800
+Number: 14
+COMMON BONDS | Redwood, Mammoth Cave, Mesa Verde | National parks
+right: Bridget
+Wrong: 
+Value: $800
+Number: 19
+LESSER-KNOWN NOBEL PRIZE LIT WINNERS | Bjornstjerne M. Bjornson was recognized for his poems, one of which became this song of Norway | the national anthem
+right: Margaret
+Wrong: 
+Value: $800
+Number: 8
+STARTS WITH 3 CONSONANTS | An illegal wrestling move, or complete power over something | a stranglehold
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 25
+MILESTONE BIRTHDAYS 2012 | Young Jethro on TV's "The Beverly Hillbillies", he turns 75 in December | Max Baer, Jr.
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 6
+TEXAS-BASED COMPANIES | This large retailer of imported furnishings & gifts began as a single store in the San Francisco Bay area | Pier 1
+right: Bridget
+Wrong: 
+Value: DD: $1,000
+Number: 30
+DIAL M FOR MURDER | Confined to an insane asylum for an 1872 London murder, William Minor became a major contributor to this dictionary | Oxford English Dictionary
+right: Bridget
+Wrong: 
+Value: $1000
+Number: 16
+COMMON BONDS | Hurricanes, needles, Swiss cheese | things with eyes
+right: Ayana
+Wrong: 
+Value: $1000
+Number: 20
+LESSER-KNOWN NOBEL PRIZE LIT WINNERS | This country's Wislawa Szymborska, the 1996 winner for her poetry, died in 2012 | Poland
+right: Ayana
+Wrong: 
+Value: $1000
+Number: 17
+STARTS WITH 3 CONSONANTS | Adjective for a worn-out garment or a flimsy excuse | threadbare
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 26
+MILESTONE BIRTHDAYS 2012 | This former child star & 2-time best actress Oscar winner hits the big 5-0 on November 19 | Jodie Foster
+right: Ayana
+Wrong: 
+Value: $1000
+Number: 21
+Scores at the first commercial break (after clue 15)
+Margaret: $800
+Bridget: $1,800
+Ayana: $3,000
+Scores at the end of the Jeopardy! Round:
+Margaret: $1,200
+Bridget: $4,400
+Ayana: $6,200
+Second Jeopardy! Round: TAKE ME "N-A" WHERE, RED, RED WINE, PHOENICIA PHUN, FLOWERY LANGUAGE, PLAY THEM OFF, KEYBOARD CATS
+TAKE ME "N-A" WHERE | Its parishes include Ascension, Assumption & Beauregard | Louisiana
+right: Margaret
+Wrong: 
+Value: $400
+Number: 7
+RED, RED WINE | This popular French red gets its name because its grapes grow in dark bunches that resemble pine cones | pinot noir
+right: Margaret
+Wrong: 
+Value: $400
+Number: 6
+PHOENICIA PHUN | Great sailors, the Phoenicians were the first to use this "directional" star as a navigational guide | the North Star
+right: Bridget
+Wrong: 
+Value: $400
+Number: 19
+FLOWERY LANGUAGE | A periodical publication such as a yearbook | an annual
+right: Bridget
+Wrong: 
+Value: $400
+Number: 12
+PLAY THEM OFF | He roared back from 4 strokes down & beat Chris DiMarco in a one-hole playoff to win the 2005 Masters | Tiger Woods
+right: Bridget
+Wrong: 
+Value: $400
+Number: 22
+KEYBOARD CATS | At the age of 5, he performed at the Bavarian Court alongside his sister Maria Anna | Mozart
+right: Margaret
+Wrong: 
+Value: $400
+Number: 1
+TAKE ME "N-A" WHERE | The name of this partner of Bosnia means "dukedom" | Herzegovina
+right: Margaret
+Wrong: 
+Value: $800
+Number: 8
+RED, RED WINE | Term for intense, flavorful wine, like many Cabernets, that's also the name of a Wrigley's gum | Big Red
+right: Margaret
+Wrong: 
+Value: $800
+Number: 14
+PHOENICIA PHUN | The people of Tyre were known for the expensive dye of this color that was obtained from the Murex snail | purple
+right: Ayana
+Wrong: 
+Value: $800
+Number: 20
+FLOWERY LANGUAGE | To grow with vigor, or Joyce's Molly | bloom
+right: Bridget
+Wrong: 
+Value: $800
+Number: 13
+PLAY THEM OFF | If 2 NFL teams tie for a postseason spot, they no longer play for it; if all their stats are dead even, they do this | flip a coin
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 23
+KEYBOARD CATS | In 1937 this keyboard noble wrote & recorded what became his band's theme song, "One O'Clock Jump" | Count Basie
+right: Bridget
+Wrong: 
+Ayana: Who is Duke Ellington?
+Value: $800
+Number: 2
+TAKE ME "N-A" WHERE | Muhammad fled there in 622; if you're Muslim, today you can visit his tomb there | Medina
+right: Ayana
+Wrong: 
+Value: $1200
+Number: 9
+RED, RED WINE | Red lambrusco was cultivated by these Roman precursors & "Jeopardy!" favorites | the Etruscans
+right: Ayana
+Wrong: 
+Value: $1200
+Number: 18
+PHOENICIA PHUN | The Phoenicians celebrated this on the Autumnal Equinox; we celebrate it about 100 days later | New Year's
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 21
+FLOWERY LANGUAGE | To restrain "the tide" | stem
+right: Margaret
+Wrong: 
+Value: $1200
+Number: 15
+PLAY THEM OFF | Thanks to Bobby Thomson's home run, this team won the pennant, downing the Dodgers in a 1951 playoff | the Giants
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 28
+KEYBOARD CATS | At the 2012 Grammys the Beach Boys feted their 50th anniversary with this song-writing sibling at piano | Brian Wilson
+right: Ayana
+Wrong: 
+Value: $1200
+Number: 3
+TAKE ME "N-A" WHERE | This world capital in the West Indies was established at its present site in 1519 | Havana
+right: 
+Wrong: 
+Ayana: [No response]
+Value: DD: $2,200
+Number: 10
+RED, RED WINE | <http://www.j-archive.com/media/2012-06-22_DJ_24.jpg> These grapes add body and softness to blended reds; I like them a "lot" | merlot
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 24
+PHOENICIA PHUN | Until the 500s A.D., Africans near Carthage spoke this Phoenician dialect, also the name of 3 wars | Punic
+right: Ayana
+Wrong: 
+Value: DD: $1,500
+Number: 26
+FLOWERY LANGUAGE | In an incandescent light bulb, it's usually made of tungsten | the filament
+right: Bridget
+Wrong: 
+Value: $1600
+Number: 16
+PLAY THEM OFF | His 1998 game-winner over Bryon Russell was named the NBA's top playoff moment; Utah fans still say it was a foul | Michael Jordan
+right: 
+Wrong: Triple Stumper
+Bridget: Who is Karl Malone?
+Ayana: Who is Clyde Drexler?
+Value: $1600
+Number: 29
+KEYBOARD CATS | In 1957 he added a vocal group, the Raelettes, to his concerts & recordings | Ray Charles
+right: Bridget
+Wrong: 
+Value: $1600
+Number: 4
+TAKE ME "N-A" WHERE | This city is home to Pacific Oaks College, but that's not why it's the focus of attention each January | Pasadena
+right: Margaret
+Wrong: 
+Value: $2000
+Number: 11
+RED, RED WINE | Many fine cabernets come from this country's Atacama region | Chile
+right: Ayana
+Wrong: 
+Value: $2000
+Number: 25
+PHOENICIA PHUN | (<http://www.j-archive.com/media/2012-06-22_DJ_27.jpg> Kelly of the Clue Crew explains a region on a map.) Generally speaking, phoenicia was bounded on the north by the Eleutherus River, and on the south by this mountain in present-day Haifa in Israel | Mount Carmel
+right: 
+Wrong: Triple Stumper
+Bridget: What is Mount Sinai?
+Value: $2000
+Number: 27
+FLOWERY LANGUAGE | This term for a wreath also refers to a short collection of poems | garland
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+KEYBOARD CATS | In 1986 this piano virtuoso finally returned home to the USSR after 60 years for recitals in Moscow & Leningrad | Vladamir Horowitz
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Margaret: $7,200
+Bridget: $6,800
+Ayana: $7,900
+
+Final Jeopardy! Round
+20th CENTURY TECHNOLOGY | The first major use of simultaneous translation, before adoption by the U.N., was in this European city in 1945 & 1946 | Nuremburg
+right: Margaret
+Wrong: 
+Bridget: What is The Hague?
+Ayana: What is Paris?
+Wagers: 
+Bridget: $6,000
+Margaret: $6,000
+Ayana: $6,900
+Final scores:
+Margaret: $13,200 (2-day champion: $17,199)
+Bridget: $800 (3rd place: $1,000)
+Ayana: $1,000 (2nd place: $2,000)
+
+Coryat scores
+Margaret: $7,200 (10 R,1 W)
+Bridget: $6,800 (16 R(including 1 DD),3 W)
+Ayana: $10,200 (19 R(including 1 DD),5 W(including 1 DD))

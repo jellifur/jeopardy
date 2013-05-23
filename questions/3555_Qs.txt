@@ -1,0 +1,347 @@
+6068 - Wednesday, January 19, 2011
+Comments: IBM Challenge mini-documentary: "Why Jeopardy!?"
+Contestants:
+Jeff Gorham: an accountant from Richmond, Virginia
+Margaret Metcalf: a research librarian from Washington, D.C.
+Anthony Fox: an account executive from Arlington Heights, Illinois (whose 4-day cash winnings total $51,998)
+First Jeopardy! Round: BASIC SCIENCE, CELEBRITIES' MIDDLE NAMES, A NATION OF VODKA BRANDS, EVERYDAY HEROES, BOTH MY X's, LIVE IN TEXAS
+BASIC SCIENCE | This basic unit of heredity acts by directing the production of RNA | a gene
+right: Anthony
+Wrong: 
+Value: $200
+Number: 1
+CELEBRITIES' MIDDLE NAMES | Sarah ____ Parker | Jessica
+right: Anthony
+Wrong: 
+Value: $200
+Number: 3
+A NATION OF VODKA BRANDS | Moskovskaya | Russia
+right: Anthony
+Wrong: 
+Value: $200
+Number: 7
+EVERYDAY HEROES | Denise Thornton founded Beacon of Hope to help restore N.O. after this 2005 event; see lakewoodbeacon.org if you want to help | Hurricane Katrina
+right: Anthony
+Wrong: 
+Value: $200
+Number: 10
+BOTH MY X's | Apparently, diamonds are both forever & $75 when you land on this spot on a Monopoly board | Luxury Tax
+right: Jeff
+Wrong: 
+Value: $200
+Number: 11
+LIVE IN TEXAS | Population-wise, by 1980 it had become the fifth-largest city in the U.S.; no problem there | Houston
+right: Anthony
+Wrong: 
+Value: $200
+Number: 21
+BASIC SCIENCE | (<http://www.j-archive.com/media/2011-01-19_J_02.jpg> Kelly of the Clue Crew shows some high-tech devices.)  Both LCD TVs & mood rings use liquid crystals, however, the crystals in LCDs reflect color by using electricity & <http://www.j-archive.com/media/2011-01-19_J_02a.jpg> mood rings use this type of energy | heat
+right: Margaret
+Wrong: 
+Value: $400
+Number: 2
+CELEBRITIES' MIDDLE NAMES | Keenen ____ Wayans | Ivory
+right: Jeff
+Wrong: 
+Value: $400
+Number: 16
+A NATION OF VODKA BRANDS | Van Gogh | the Netherlands
+right: Anthony
+Wrong: 
+Value: $400
+Number: 8
+EVERYDAY HEROES | Disadvantaged kids can learn to play music with this Maryland city's symphony thanks to Marin Alsop's $100,000 donation | Baltimore
+right: Jeff
+Wrong: 
+Value: $400
+Number: 27
+BOTH MY X's | This Fortune 500 company's headquarters are in Norwalk, Connecticut | Xerox
+right: Anthony
+Wrong: 
+Value: $400
+Number: 12
+LIVE IN TEXAS | Check out the I.M. Pei-designed city hall at the south end of downtown in this city, cowboy; it's i-m-pressive | Dallas
+right: Jeff
+Wrong: 
+Value: $400
+Number: 22
+BASIC SCIENCE | It's the 5-letter term for the transparent solid that disperses light into a spectrum | a prism
+right: Anthony
+Wrong: 
+Value: $600
+Number: 4
+CELEBRITIES' MIDDLE NAMES | David ____ Pierce | Hyde
+right: Anthony
+Wrong: 
+Value: $600
+Number: 17
+A NATION OF VODKA BRANDS | Reyka | Iceland
+right: Jeff
+Wrong: 
+Anthony: What is Finland?
+Value: $600
+Number: 9
+EVERYDAY HEROES | In 2003 firefighter Gary Carella & his team saved a man from a 170' fall over Horseshoe Falls, part of this landmark | Niagara Falls
+right: Jeff
+Wrong: 
+Value: $600
+Number: 28
+BOTH MY X's | This Fortune 500 company's headquarters are in Irving, Texas | Exxon Mobil
+right: Jeff
+Wrong: 
+Anthony: What is Exxon?
+Value: $600
+Number: 13
+LIVE IN TEXAS | From 2001 to 2009 this town was home to "the Western White House" | Crawford
+right: Margaret
+Wrong: 
+Value: $600
+Number: 23
+BASIC SCIENCE | The name of this organ that stores fat may come from a word that means "fat" | liver
+right: 
+Wrong: 
+Anthony: What is dermis?
+Value: DD: $1,000
+Number: 5
+CELEBRITIES' MIDDLE NAMES | Sarah ____ Gellar | Michelle
+right: Anthony
+Wrong: 
+Value: $800
+Number: 20
+A NATION OF VODKA BRANDS | Skyy | the United States
+right: 
+Wrong: Triple Stumper
+Anthony: What is Sweden?
+Margaret: What is Finland?
+Value: $800
+Number: 18
+EVERYDAY HEROES | 2005 Natl. Teacher of the Year Jason Kamras did the math at a D.C. middle school named for this "March King" | (John Philip) Sousa
+right: Jeff
+Wrong: 
+Value: $800
+Number: 29
+BOTH MY X's | 2-word French term for a type of menu where the charge for a meal is set in stone | prix fixe
+right: Anthony
+Wrong: 
+Value: $800
+Number: 14
+LIVE IN TEXAS | Spain officially founded this city known for its Paseo del Rio (River Walk) in 1718... remember? | San Antonio
+right: Anthony
+Wrong: 
+Value: $800
+Number: 24
+BASIC SCIENCE | (<http://www.j-archive.com/media/2011-01-19_J_06.wmv> Kelly of the Clue Crew rolls two ping-pong balls on the table.)  The tack in a ping-pong ball shifts this 3-word directional term from the middle to the side, affecting its roll | the center of gravity
+right: Anthony
+Wrong: 
+Value: $1000
+Number: 6
+CELEBRITIES' MIDDLE NAMES | Philip ____ Hoffman | Seymour
+right: Margaret
+Wrong: 
+Value: $1000
+Number: 26
+A NATION OF VODKA BRANDS | Grey Goose | France
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 19
+EVERYDAY HEROES | There are many heroes in our military; we picked Staff Sgt. Michael Keller, at Bagram AFB in this country in 2009... thanks | Afghanistan
+right: Anthony
+Wrong: 
+Value: $1000
+Number: 30
+BOTH MY X's | In Cartesian geometry, if you're flatlining, you're drawing this | the x
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 15
+LIVE IN TEXAS | You don't get much wester in Texas than this border city, incorporated in 1873 with 173 residents; now it totals 563,000 | El Paso
+right: Margaret
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Anthony: $1,800
+Margaret: $400
+Jeff: $2,400
+Scores at the end of the Jeopardy! Round:
+Anthony: $4,400
+Margaret: $2,200
+Jeff: $6,000
+Second Jeopardy! Round: OPERA, SHE WAS IN THAT?, THE PARTING OF THE FCC, LET''S HAVE A TICKER-TAPE PARADE!, SATIRISTS, 3-LETTER "W"ORDS
+OPERA | The "Hexenritt", or "Witches' Ride", is sung in Act III of this 1893 fairy tale opera | Hansel and Gretel
+right: Jeff
+Wrong: 
+Value: $400
+Number: 8
+SHE WAS IN THAT? | She was married to Larry Fortensky when she played Pearl Slaghoople, Wilma's mom in "The Flintstones" movie | Elizabeth Taylor
+right: Anthony
+Wrong: 
+Value: $400
+Number: 3
+THE PARTING OF THE FCC | In 2008 a federal appeals court tossed a $550,000 FCC fine vs. CBS for this woman's "wardrobe malfunction" | Janet Jackson
+right: Margaret
+Wrong: 
+Value: $400
+Number: 26
+LET''S HAVE A TICKER-TAPE PARADE! | Oct. 29, 1886: As part of the dedication ceremony for this landmark | the Statue of Liberty
+right: Anthony
+Wrong: 
+Value: $400
+Number: 21
+SATIRISTS | His "Gulliver's Travels" is savagely bitter, but so witty & imaginative that it became a children's classic | (Jonathan) Swift
+right: Margaret
+Wrong: 
+Value: $400
+Number: 1
+3-LETTER "W"ORDS | You could probably stop a horse with this exclamation of grief | woe
+right: Margaret
+Wrong: 
+Value: $400
+Number: 13
+OPERA | Donizetti's "Anna Bolena" ends with the marriage of Henry VIII (aka Enrico) to this woman | Jane Seymour
+right: 
+Wrong: 
+Jeff: Who is Catherine Parr?
+Value: DD: $2,000
+Number: 9
+SHE WAS IN THAT? | In between "Saturday Night Live" & "Seinfeld", she had a small role in "Hannah and Her Sisters" | Dreyfus
+right: Margaret
+Wrong: 
+Value: $800
+Number: 4
+THE PARTING OF THE FCC | An FCC FAQ--"Is there any evidence" these devices "cause cancer?" No, but the FCC is still monitoring it | cell phones
+right: Margaret
+Wrong: 
+Value: $800
+Number: 27
+LET''S HAVE A TICKER-TAPE PARADE! | June 1, 1954: For this Ethiopian emperor | Haile Selassie
+right: Anthony
+Wrong: 
+Value: $800
+Number: 22
+SATIRISTS | The "Art" of this Washington political spoofer won him a Pulitzer in 1982 | (Art) Buchwald
+right: Anthony
+Wrong: 
+Value: $800
+Number: 2
+3-LETTER "W"ORDS | Sir Walter Scott noted that a tangled one results from deception | web
+right: Jeff
+Wrong: 
+Value: $800
+Number: 17
+OPERA | In "La boheme" the poet Rodolfo falls in love with this seamstress who suffers from tuberculosis | Mimi
+right: Jeff
+Wrong: 
+Value: $1200
+Number: 10
+SHE WAS IN THAT? | Luckily Leatherface didn't have her at hello when she appeared as Jenny in "The Texas Chainsaw Massacre 4" | (Renée) Zellweger
+right: Margaret
+Wrong: 
+Value: $1200
+Number: 5
+THE PARTING OF THE FCC | A 5-4 Supreme Court ruling in a 1978 case about his "filthy words" gave the FCC the ability to censor TV broadcasts | George Carlin
+right: Anthony
+Wrong: 
+Value: $1200
+Number: 28
+LET''S HAVE A TICKER-TAPE PARADE! | August 13, 1969: For these 3 men following a quarantine | Neil Armstrong, Buzz Aldrin & Michael Collins
+right: 
+Wrong: 
+Anthony: Who are Glenn, Armstrong and Grissom?
+Value: DD: $3,000
+Number: 23
+SATIRISTS | This director, master of the mockumentary, is married to Jamie Lee Curtis | Christopher Guest
+right: Margaret
+Wrong: 
+Value: $1200
+Number: 14
+3-LETTER "W"ORDS | A roll of something, especially cash | wad
+right: Jeff
+Wrong: 
+Value: $1200
+Number: 18
+OPERA | Carl Maria von Weber's 1826 opera about this king of the fairies was subtitled "or, the Elf King's Oath" | Oberon
+right: Jeff
+Wrong: 
+Value: $1600
+Number: 11
+SHE WAS IN THAT? | A young Laura Dern appeared in this 1974 film in which her mom played Flo the waitress | Alice Doesn't Live Here Anymore
+right: Margaret
+Wrong: 
+Value: $1600
+Number: 6
+THE PARTING OF THE FCC | In March '09 the FCC said stations could stop this type of TV service before June 12 "under certain conditions" | analog
+right: Anthony
+Wrong: 
+Value: $1600
+Number: 29
+LET''S HAVE A TICKER-TAPE PARADE! | Sept, 30, 1899: For this admiral following his return from victory at Manila Bay | Dewey
+right: 
+Wrong: Triple Stumper
+Anthony: Who is Admiral... Nelson?
+Value: $1600
+Number: 24
+SATIRISTS | This Brit's "The Loved One" satirized the California funeral industry | Evelyn Waugh
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 15
+3-LETTER "W"ORDS | Ironically humorous: nothing to do with a type of bread | wry
+right: Margaret
+Wrong: 
+Value: $1600
+Number: 19
+OPERA | In 1961, as Venus in "Tannhauser", Grace Bumbry became the first black diva to sing at this Wagner festival | Bayreuth
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 12
+SHE WAS IN THAT? | As a toddler she appeared at the end of mom's 1949 movie "In the Good Old Summertime" | Liza Minelli
+right: Jeff
+Wrong: 
+Value: $2000
+Number: 7
+THE PARTING OF THE FCC | This rhyming tech. has its origins in a 1985 FCC ruling that released bands of the radio spectrum for unlicensed use | Wi-Fi
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 30
+LET''S HAVE A TICKER-TAPE PARADE! | Oct. 5, 1923: For this 3-named prime minister of Great Britain during World War I | David Lloyd George
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 25
+SATIRISTS | This "directional" author of the novel "The Magic Christian" co-wrote the script for "Easy Rider" | (Terry) Southern
+right: Margaret
+Wrong: 
+Value: $2000
+Number: 16
+3-LETTER "W"ORDS | Pallid | wan
+right: Anthony
+Wrong: 
+Value: $2000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Anthony: $7,000
+Margaret: $12,600
+Jeff: $11,200
+
+Final Jeopardy! Round
+OCEAN LIFE | The deepest-diving sea turtle is this one whose name suggests the flexibility that lets it survive 1,700 lbs./square inch pressure | the leatherback turtle
+right: Anthony | Jeff
+Wrong: 
+Margaret: What is a leatherneck turtle?
+Wagers: 
+Anthony: $3,201
+Jeff: $2,801
+Margaret: $1,400
+Final scores:
+Anthony: $10,201 (3rd place: $1,000)
+Margaret: $11,200 (2nd place: $2,000)
+Jeff: $14,001 (New champion: $14,001)
+
+Coryat scores
+Anthony: $11,000 (21 R,6 W(including 2 DDs))
+Margaret: $12,600 (14 R,1 W)
+Jeff: $13,200 (16 R,1 W(including 1 DD))

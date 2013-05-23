@@ -1,0 +1,347 @@
+5881 - Monday, March 22, 2010
+Contestants:
+Lisa Horowitz: a social media editor from Los Angeles, California
+Jonathan Sanchez: a writer and bookstore owner from Charleston, South Carolina
+Kristian Zoerhoff: a computer engineer from Gilberts, Illinois (whose 1-day cash winnings total $21,700)
+First Jeopardy! Round: VICE PRECEDENTS, OFF THE RECORD, ____LESS IS MORE, CHARACTERS WHO BECAME WORDS, SLINGS & ARROWS, OF OUTRAGEOUS FORTUNE
+VICE PRECEDENTS | In 1977 he became the first veep to move into the vice president's current official residence | Walter Mondale
+right: Jonathan
+Wrong: 
+Value: $200
+Number: 30
+OFF THE RECORD | 1982: "The Lady In My Life", "Billie Jean" | Thriller
+right: Lisa
+Wrong: 
+Value: $200
+Number: 11
+____LESS IS MORE | One of the bestselling grapes in the U.S. is the Thompson this | seedless
+right: Lisa
+Wrong: 
+Value: $200
+Number: 1
+CHARACTERS WHO BECAME WORDS | This name of a boy who can fly can be applied to any emotionally undeveloped man | Peter Pan
+right: Kristian
+Wrong: 
+Value: $200
+Number: 2
+SLINGS & ARROWS | Armed with just a sling & some pebbles, David took out this Philistine giant | Goliath
+right: Lisa
+Wrong: 
+Value: $200
+Number: 12
+OF OUTRAGEOUS FORTUNE | "Queen of Mean", indeed: her will gave her grandkids nothing but left $12 million in a trust fund for her dog | Leona Helmsley
+right: Kristian
+Wrong: 
+Value: $200
+Number: 16
+VICE PRECEDENTS | Pinch-pitching for this man, his boss, in 1912 James Sherman became the first VP to make an opening day baseball toss | Taft
+right: Kristian
+Wrong: 
+Lisa: Who is Coolidge?
+Value: $400
+Number: 29
+OFF THE RECORD | 1984: "Glory Days", "Dancing In The Dark" | Born in the U.S.A.
+right: Kristian
+Wrong: 
+Value: $400
+Number: 14
+____LESS IS MORE | This kind of environmentally friendly office is still a dream: printing out email totally defeats the point | paperless
+right: Lisa
+Wrong: 
+Value: $400
+Number: 3
+CHARACTERS WHO BECAME WORDS | This money-lending character from a 1596 play now refers to any heartless or demanding creditor | Shylock
+right: Lisa
+Wrong: 
+Value: $400
+Number: 7
+SLINGS & ARROWS | A trebuchet, a medieval weapon with a sling for hurling missiles, worked much like this playground apparatus | a see-saw
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 13
+OF OUTRAGEOUS FORTUNE | Talk about throwing your money away: ex-Tyco CEO Dennis Kozlowski spent $2,200 on a gilt metal one of these | a trash can
+right: Kristian
+Wrong: 
+Value: $400
+Number: 17
+VICE PRECEDENTS | She was the first woman nominated for vice president by a major party | Geraldine Ferraro
+right: Lisa
+Wrong: 
+Value: $600
+Number: 28
+OFF THE RECORD | 1976: "Life In The Fast Lane", "New Kid In Town" | Hotel California
+right: Lisa
+Wrong: 
+Value: $600
+Number: 15
+____LESS IS MORE | An abyss can be described as this 3-syllable type of "pit" | bottomless
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 4
+CHARACTERS WHO BECAME WORDS | Seen <http://www.j-archive.com/media/2010-03-22_J_08.jpg> here is a 19th century illustration of <http://www.j-archive.com/media/2010-03-22_J_08a.jpg> this Rabelais character | Gargantua
+right: Jonathan
+Wrong: 
+Value: $600
+Number: 8
+SLINGS & ARROWS | In the 16th c., both the Incas & these Nahuatl-speaking people used the sling against Spanish conquistadors | the Aztecs
+right: Lisa
+Wrong: 
+Value: $600
+Number: 21
+OF OUTRAGEOUS FORTUNE | In 2003 Calvin Klein paid $30 million for a mansion in the "south" one of these Long Island enclaves; now he's tearing it down | the Hamptons
+right: Kristian
+Wrong: 
+Value: $600
+Number: 18
+VICE PRECEDENTS | He was the first vice president to assume the presidency upon the death of a president | John Tyler
+right: Kristian
+Wrong: 
+Value: $800
+Number: 27
+OFF THE RECORD | 1986: "Diamonds On The Soles Of Her Shoes", "You Can Call Me Al" | Graceland
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 23
+____LESS IS MORE | [in Spanish accent] Si, señor, it's the type of dog seen <http://www.j-archive.com/media/2010-03-22_J_05.jpg> here | a Mexican hairless
+right: Kristian
+Wrong: 
+Value: $800
+Number: 5
+CHARACTERS WHO BECAME WORDS | Someone exhibiting attributes of these 2 related characters from an 1886 mystery might have a split personality | Dr. Jekyll & Mr. Hyde
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 9
+SLINGS & ARROWS | This sign of the zodiac is sometimes represented by an arrow drawn across a bow | Sagittarius
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 22
+OF OUTRAGEOUS FORTUNE | In August 2009 the sultan of this spent $21,000 to get a trim from his favorite hairdresser | Brunei
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 19
+VICE PRECEDENTS | He was the first (& only) veep to assume the presidency under the provisions of the 25th amendment | Gerald Ford
+right: Kristian
+Wrong: 
+Value: DD: $1,000
+Number: 26
+OFF THE RECORD | 1987: "Welcome To The Jungle", "Sweet Child O' Mine" | Appetite for Destruction
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 24
+____LESS IS MORE | The Department of Labor reported that this rate stood at 10% in December 2009 | the jobless rate
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 6
+CHARACTERS WHO BECAME WORDS | This Thurber character from a 1939 short story now refers to anyone with elaborate daydreams | Walter Mitty
+right: Jonathan
+Wrong: 
+Value: $1000
+Number: 10
+SLINGS & ARROWS | The English army's slings & spears were effective at this battle, but it ended for Harold II with an arrow in the eye | the Battle of Hastings
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 25
+OF OUTRAGEOUS FORTUNE | So many choices: this Philippine first lady had 508 floor-length gowns to wear with her 1,060 pairs of shoes | Imelda Marcos
+right: Kristian
+Wrong: 
+Value: $1000
+Number: 20
+Scores at the first commercial break (after clue 15)
+Kristian: $2,400
+Jonathan: $3,400
+Lisa: $2,000
+Scores at the end of the Jeopardy! Round:
+Kristian: $8,800
+Jonathan: $6,000
+Lisa: $2,800
+Second Jeopardy! Round: EARTH SCIENCE, TITLE ROLE PLAYING, CANADIAN CAPITALS, EH?, PASS THE SALT, OWED ON A GRECIAN URN, BREAKING THE PHONICS RULES
+EARTH SCIENCE | (<http://www.j-archive.com/media/2010-03-22_DJ_16.wmv> Kelly of the Clue Crew stands in front of a map of Wyoming and Montana.)  The caldera of a supervolcano that last erupted 640,000 years ago covers much of the 2.2 million acres of <http://www.j-archive.com/media/2010-03-22_DJ_16.jpg> this national park | Yellowstone National Park
+right: Kristian
+Wrong: 
+Value: $400
+Number: 16
+TITLE ROLE PLAYING | "Hud" | Paul Newman
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 1
+CANADIAN CAPITALS, EH? | Victoria is the capital of this Pacific coast province | British Columbia
+right: Lisa
+Wrong: 
+Value: $400
+Number: 6
+PASS THE SALT | Genesis 19 says that this man's wife "looked back from behind"... and she became a pillar of salt" | Lot
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 21
+OWED ON A GRECIAN URN | Though blind, I see that you're still reading my "Iliad" & "Odyssey"; you owe me! Or at least the overdue library fees | Homer
+right: Kristian
+Wrong: 
+Value: $400
+Number: 26
+BREAKING THE PHONICS RULES | "C" is generally soft when it comes before "E", but not at the start of this musical instrument | the cello
+right: Jonathan
+Wrong: 
+Value: $400
+Number: 9
+EARTH SCIENCE | This class of rock is made by changes in heat, pressure or shearing to pre-existing rocks | metamorphic rock
+right: Kristian
+Wrong: 
+Value: $800
+Number: 17
+TITLE ROLE PLAYING | "Dr. Strangelove" | Peter Sellers
+right: Lisa
+Wrong: 
+Value: $800
+Number: 2
+CANADIAN CAPITALS, EH? | Halifax, the capital of this province, is the home port of the Canadian Atlantic fleet | Nova Scotia
+right: Kristian
+Wrong: 
+Value: $800
+Number: 7
+PASS THE SALT | One reason for building this waterway was to transport salt from deposits in Syracuse to the coast | the Erie Canal
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 22
+OWED ON A GRECIAN URN | "Slow and steady wins the race" is one of the morals I have taught you; you owe me! | Aesop
+right: Jonathan
+Wrong: 
+Value: $800
+Number: 27
+BREAKING THE PHONICS RULES | English words that end in "int" usually have a short "I" --oops, not this measurement | a pint
+right: Kristian
+Wrong: 
+Value: $800
+Number: 10
+EARTH SCIENCE | (<http://www.j-archive.com/media/2010-03-22_DJ_18.jpg> Jimmy of the Clue Crew shows an atomic diagram on the monitor.)  Used to date artifacts because it has a half-life of 5,730 years, <http://www.j-archive.com/media/2010-03-22_DJ_18a.jpg> this isotope has 6 protons and 8 neutrons in its nucleus | carbon-14
+right: Kristian
+Wrong: 
+Value: $1200
+Number: 18
+TITLE ROLE PLAYING | "Saving Private Ryan" | Matt Damon
+right: Kristian
+Wrong: 
+Value: $1200
+Number: 3
+CANADIAN CAPITALS, EH? | Winnie-the-Pooh was named after a bear owned by a WWI soldier from this Manitoba city | Winnipeg
+right: Jonathan
+Wrong: 
+Value: $1200
+Number: 8
+PASS THE SALT | Many chefs prefer this coarse-grained salt named for the fact that it was originally used to meet Jewish dietary rules | Kosher salt
+right: Kristian
+Wrong: 
+Value: $1200
+Number: 23
+OWED ON A GRECIAN URN | I left behind treatises on how to treat diseases & my oath is still taken today; you owe me! Do you have Blue Cross? | Hippocrates
+right: Lisa
+Wrong: 
+Value: $1200
+Number: 28
+BREAKING THE PHONICS RULES | "SH" doesn't sound as usual in this insect that can leap 20 times its length | grasshopper
+right: 
+Wrong: 
+Kristian: What is... I have absolutely no clue?
+Value: DD: $2,000
+Number: 11
+EARTH SCIENCE | The Mohorovicic discontinuity separates the Earth's crust from this | the mantle
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 19
+TITLE ROLE PLAYING | "What's Eating Gilbert Grape?" | Johnny Depp
+right: Lisa
+Wrong: 
+Value: $1600
+Number: 4
+CANADIAN CAPITALS, EH? | Charlottetown, the capital of this island province, is named for the wife of King George III | Prince Edward Island
+right: Kristian
+Wrong: 
+Jonathan: What is New Brunswick?
+Lisa: What is Newfoundland?
+Value: $1600
+Number: 14
+PASS THE SALT | Bars of salt called amoles were once a basic currency of this country formerly known as Abyssinia | Ethiopia
+right: Kristian
+Wrong: 
+Lisa: What is Egypt?
+Value: $1600
+Number: 24
+OWED ON A GRECIAN URN | Without my "Parallel Lives", you'd know a lot less about our history | Plutarch
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+BREAKING THE PHONICS RULES | This British distinction, like the order of the thistle, includes "th" but not as in thistle | knighthood
+right: 
+Wrong: Triple Stumper
+Kristian: What is the Order of the Garter?
+Value: $1600
+Number: 12
+EARTH SCIENCE | (<http://www.j-archive.com/media/2010-03-22_DJ_20.wmv> Sarah of the Clue Crew shows a map on the monitor.)  South America & Africa fit together like puzzle pieces; this theory says they were connected 200 million years ago & have been moving away from each other up to 4 inches a year | plate tectonics
+right: Kristian
+Wrong: 
+Value: $2000
+Number: 20
+TITLE ROLE PLAYING | "The Good, the Bad & the Ugly" (all 3, per favore) | Clint Eastwood, Lee Van Cleef & Eli Wallach
+right: 
+Wrong: Triple Stumper
+Kristian: Who is Clint Eastwood?
+Value: $2000
+Number: 5
+CANADIAN CAPITALS, EH? | Iqaluit, the capital of this territory created in 1999, means "place of fish" in the Inuktitut language | Nunavut
+right: Kristian
+Wrong: 
+Value: $2000
+Number: 15
+PASS THE SALT | Popular with racers, they cover about 100 square miles in Utah, & in some places the salt is 6 feet thick | Bonneville Salt Flats
+right: Lisa
+Wrong: 
+Value: $2000
+Number: 25
+OWED ON A GRECIAN URN | For building the Parthenon as leader of Athens, I say to the citizens: you owe me! & please take better care of it | Pericles
+right: 
+Wrong: 
+Lisa: Who is Julius Caesar?
+Value: DD: $5,000
+Number: 30
+BREAKING THE PHONICS RULES | There's a "PH" but no "F" sound in this type of difficult, tiring battle | uphill
+right: 
+Wrong: Triple Stumper
+Jonathan: What is a Pyrrhic victory?
+Value: $2000
+Number: 13
+Scores at the end of the Double Jeopardy! Round:
+Kristian: $17,200
+Jonathan: $6,400
+Lisa: $2,200
+
+Final Jeopardy! Round
+SHAKESPEARE TITLES | It's not one of the Bard's better-known comedy titles, but has the distinction of containing the most apostrophes | Love's Labour's Lost
+right: Lisa | Jonathan
+Wrong: 
+Kristian: What is [All's Well That Ends W crossed out]
+Wagers: 
+Lisa: $2,000
+Jonathan: $1,000
+Kristian: $4,000
+Final scores:
+Kristian: $13,200 (2-day champion: $34,900)
+Jonathan: $7,400 (2nd place: $2,000)
+Lisa: $4,200 (3rd place: $1,000)
+
+Coryat scores
+Kristian: $19,200 (25 R(including 1 DD),3 W(including 1 DD))
+Jonathan: $6,400 (15 R,2 W)
+Lisa: $7,200 (14 R,4 W(including 1 DD))

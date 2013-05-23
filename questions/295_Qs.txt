@@ -1,0 +1,260 @@
+277 - Tuesday, October 1, 1985
+Comments: Chuck Forrest game 2.  Missing first segment.
+Contestants:
+Bob Devlin:  originally from Pittsburgh, Pennsylvania
+MaryLou:  from 
+Chuck Forrest: a student from Grand Blanc, Michigan (whose 1-day cash winnings total $18,000)
+First Jeopardy! Round: PRESIDENTIAL QUOTES, "UP" SONGS, BIBLICAL ZOO, GAME SHOWS, U.S. STATES, SUDDEN DEATH
+"UP" SONGS | After they fell asleep at the drive-in the Everly Brothers had this to say | "Wake Up Little Susie"
+right: MaryLou
+Wrong: 
+Value: $100
+Number: 18
+BIBLICAL ZOO | The 2nd of Egypt's plagues was hoards of this amphibian | frogs
+right: Chuck
+Wrong: 
+Value: $100
+Number: 20
+"UP" SONGS | Where you'd be going "by the old mill run... in the noonday sun" | "Up The Lazy River"
+right: Chuck
+Wrong: 
+Value: $200
+Number: 19
+BIBLICAL ZOO | Jeremiah rhetorically asked, "can it change its spots?" | leopard
+right: Chuck
+Wrong: 
+Value: $200
+Number: 21
+"UP" SONGS | In '80, Diana Ross was "inside out" with this #1 hit | "Upside Down"
+right: MaryLou
+Wrong: 
+Value: $300
+Number: 25
+BIBLICAL ZOO | They licked the sores of Lazarus & ate the flesh of Jezebel | dogs
+right: MaryLou
+Wrong: 
+Value: $300
+Number: 22
+GAME SHOWS | "Just Men" had 7 keys & 1 of these, while "Split Second" had 1 key & 5 of these | cars
+right: MaryLou
+Wrong: 
+Value: $300
+Number: 28
+SUDDEN DEATH | Term for what Cain did to Abel | fratricide
+right: MaryLou
+Wrong: 
+Value: $300
+Number: 14
+"UP" SONGS | Starsky & Hutch's David Soul made his recording debut with this soulful plea | "Don't Give Up On Us"
+right: MaryLou
+Wrong: 
+Value: $400
+Number: 26
+BIBLICAL ZOO | Joseph explained Pharaoh's dreams of 7 clean ones who ate 7 fat ones but still remained lean | kine or cows (or cattle)
+right: Chuck
+Wrong: 
+Value: $400
+Number: 23
+GAME SHOWS | No. 1 show in history of syndicated TV, its theme is <http://www.j-archive.com/media/1985-10-01_J_29.mp3> the following: | Wheel of Fortune
+right: MaryLou
+Wrong: 
+Value: DD: $300
+Number: 29
+SUDDEN DEATH | DDT commits this | insecticide
+right: Chuck
+Wrong: 
+Value: $400
+Number: 15
+PRESIDENTIAL QUOTES | When asked about his condition this president said, "I don't have ulcers, I give 'em" | Lyndon Baines Johnson
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 17
+"UP" SONGS | Waylon Jennings' maternal admonition | "Mammas Don't Let Your Babies Grow Up To Be Cowboys"
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 27
+BIBLICAL ZOO | Samson killed one of these with his bare hands | lion
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 24
+GAME SHOWS | Jon Bauman & Gene Rayburn passed the mike for an hour when these games combined in 1983 | Match Game
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+SUDDEN DEATH | From Greek for "easy death", painlessly pulling the plug | euthanasia
+right: Chuck
+Wrong: 
+Value: $500
+Number: 16
+Scores at the first commercial break (after clue 15)
+Chuck: $0
+MaryLou: $0
+Bob: $0
+Scores at the end of the Jeopardy! Round:
+Chuck: $900
+MaryLou: $300
+Bob: $0
+Second Jeopardy! Round: AMERICAN INDIANS, HOTELS, GREAT THINKERS, AGRICULTURE, THE NETHERLANDS, "GREEN"
+AMERICAN INDIANS | Until their near extinction in the 1880s, they were the plains Indians main source of food | buffalo (bison)
+right: MaryLou
+Wrong: 
+Value: $200
+Number: 11
+HOTELS | National chain of hotels often referred to as "HoJo's" | Howard Johnson's
+right: Chuck
+Wrong: 
+Value: $200
+Number: 1
+GREAT THINKERS | In "Thus Spake Zarathustra" this 19th century German declared, "God is dead" | Nietzsche
+right: Chuck
+Wrong: 
+Value: $200
+Number: 16
+AGRICULTURE | Asian nation 2nd only to U.S. in meat production | (mainland) China
+right: Chuck
+Wrong: 
+MaryLou: What is Japan?
+Value: $200
+Number: 22
+THE NETHERLANDS | Today very few Hollanders can be found clompin' around in these "klompen" | wooden shoes
+right: MaryLou
+Wrong: 
+Value: $200
+Number: 2
+"GREEN" | A retailer of fresh fruits & vegetables, or TV's Joe Carcione | Green Grocer
+right: MaryLou
+Wrong: 
+Value: $200
+Number: 3
+AMERICAN INDIANS | An American Indian word for food, now the basis for a common style of grits | hominy
+right: Bob
+Wrong: 
+Value: $400
+Number: 15
+HOTELS | In 1977, The Eagles checked into the #1 spot on the charts with this song | "Hotel California"
+right: MaryLou
+Wrong: 
+Value: $400
+Number: 5
+GREAT THINKERS | While prisoner of the Germans in WWII, this French existentialist wrote some of his greatest work | Jean-Paul Sartre
+right: Bob
+Wrong: 
+Value: $400
+Number: 17
+AGRICULTURE | Recently, New Jersey had the highest value per farm acre & this other "New" state the lowest | New Mexico
+right: Chuck
+Wrong: 
+Value: $400
+Number: 24
+THE NETHERLANDS | As of March 1985, 3.46 of these equaled the American dollar | guilder
+right: Chuck
+Wrong: 
+Value: $400
+Number: 7
+"GREEN" | Where actors wait, or 1st time comedians on "The Tonight Show" try to keep their dinner down | green room
+right: Bob
+Wrong: 
+Value: $400
+Number: 4
+AMERICAN INDIANS | The 2 "superpower" adversaries of the French & Indian War | French and English
+right: Bob
+Wrong: 
+Value: $600
+Number: 19
+HOTELS | California's famous Ahwahnee Hotel is in the heart of this national park | Yosemite
+right: MaryLou
+Wrong: 
+Value: $600
+Number: 12
+GREAT THINKERS | Greek philosopher whose works were the basis for most scientific study well into 17th C. | Aristotle
+right: Chuck
+Wrong: 
+Value: $600
+Number: 18
+AGRICULTURE | Farms on this continent average about 5000 acres | Australia
+right: Chuck
+Wrong: 
+Value: $600
+Number: 25
+THE NETHERLANDS | Until the 1700s, this city was noted for its fine blue patterned china | Delft
+right: Chuck
+Wrong: 
+Value: $600
+Number: 8
+"GREEN" | Central Park's famous eating establishment | The Tavern On The Green
+right: Chuck
+Wrong: 
+Value: $600
+Number: 6
+AMERICAN INDIANS | Gall & he led the attack on Custer's 7th cavalry | Crazy Horse
+right: Chuck
+Wrong: 
+MaryLou: Who is Sitting Bull?
+Value: $800
+Number: 23
+HOTELS | This payment plan includes both lodging and meals | American plan
+right: Bob
+Wrong: 
+Value: $800
+Number: 13
+GREAT THINKERS | French soldier & mathematician whose motto was "I think, therefore I am" | (René) Descartes
+right: MaryLou
+Wrong: 
+Value: $800
+Number: 20
+AGRICULTURE | Over 90% of the world food supply comes from farms or ranches & the rest from these 2 methods | hunting and fishing
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 26
+THE NETHERLANDS | Queen Juliana's daughter, she is the present queen of the Netherlands | Beatrix
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 9
+AMERICAN INDIANS | 2 of the 5 "Civilized Tribes", so called because they resembled European nations in structure | (2 of) the Choctaw, the Chickasaw, the Cherokee, the Creek & the Seminole
+right: Chuck
+Wrong: 
+Value: DD: $1,500
+Number: 27
+HOTELS | In 1954 Conrad Hilton wrote checks for $97 million to purchase this entire hotel chain | Statlers
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 14
+GREAT THINKERS | This 17th C. Dutch Jew was excommunicated from his synagogue for his independent thinking | (Baruch) Spinoza
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 21
+THE NETHERLANDS | In 1975, independence of this S. American country caused mass emigration to the Netherlands | Suriname
+right: Chuck
+Wrong: 
+Value: $1000
+Number: 10
+Scores at the end of the Double Jeopardy! Round:
+Chuck: $9,900
+MaryLou: $3,400
+Bob: $2,600
+
+Final Jeopardy! Round
+MOVIES | Compass directions of the Wicked Witches killed in "The Wizard of Oz" | west & east
+right: Bob | MaryLou | Chuck
+Wrong: 
+Wagers: 
+Bob: $3,500
+MaryLou: $3,300
+Chuck: $2,000
+Final scores:
+Chuck: $11,900 (2-day champion: $29,900)
+MaryLou: $6,700 (2nd place)
+Bob: $6,100 (3rd place)
+
+Coryat scores
+Chuck: $9,400 (19 R(including 1 DD),0 W)
+MaryLou: $3,500 (13 R(including 1 DD),2 W)
+Bob: $2,600 (5 R,0 W)

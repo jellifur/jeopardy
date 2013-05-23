@@ -1,0 +1,313 @@
+3371 - Monday, April 12, 1999
+Comments: 1999 Celebrity <i>Jeopardy!</i> Correspondents Night.
+Contestants:
+Jeff Greenfield: a journalist from Newsstand: CNN & Time
+Star Jones: an attorney, correspondent and co-host from The View
+Al Franken: an actor and political satirist from Lateline
+First Jeopardy! Round: NAMES IN THE NEWS, CLASSIC MOVIE LINES, MONEY TALKS, CELEBRITY RHYME TIME, DANCES, WITH WOLVES
+NAMES IN THE NEWS | In 1998 he came out of retirement to help cover John Glenn's return to space, "And that's the way it is" | Walter Cronkhite
+right: Jeff
+Wrong: 
+Value: $100
+Number: 1
+CLASSIC MOVIE LINES | 1984: "I'll be back" | The Terminator
+right: Star
+Wrong: 
+Value: $100
+Number: 2
+MONEY TALKS | This phrase on American coins has been jokingly followed by "All others pay cash" | "In God We Trust"
+right: Star
+Wrong: 
+Value: $100
+Number: 11
+CELEBRITY RHYME TIME | Pitt's bachelor apartments | Brad's pads
+right: Jeff
+Wrong: 
+Value: $100
+Number: 16
+DANCES | Around the start of WWI, the turkey trot's popularity was surpassed by this other animal "trot" | foxtrot
+right: Jeff
+Wrong: 
+Value: $100
+Number: 21
+NAMES IN THE NEWS | This lass who co-anchor's ABC's "20/20" was born in Glasgow -- Glasgow, Kentucky that is | Diane Sawyer
+right: Al
+Wrong: 
+Value: $200
+Number: 4
+CLASSIC MOVIE LINES | 1939: "As God is my witness, I'll never be hungry again!" | Gone with the Wind
+right: Al
+Wrong: 
+Value: $200
+Number: 3
+MONEY TALKS | Now meaning trivial, this phrase once referred to the cheapest type of poker game | penny ante
+right: Jeff
+Wrong: 
+Value: $200
+Number: 12
+CELEBRITY RHYME TIME | Damon's rodents | Matt's rats
+right: Al
+Wrong: 
+Star: What is...[time]?
+Value: $200
+Number: 17
+DANCES | Introduced around 1910, the "Boston" & "Hesitation" were new forms of this dance in 3/4 time | waltz
+right: Jeff
+Wrong: 
+Value: $200
+Number: 22
+NAMES IN THE NEWS | He was co-editor of "60 Minutes" until 1981 when he left to anchor the "CBS Evening News" | Dan Rather
+right: Jeff
+Wrong: 
+Value: $300
+Number: 5
+CLASSIC MOVIE LINES | 1956: "Thus sayeth the Lord God of Israel: Let my people go!" | The Ten Commandments
+right: Star
+Wrong: 
+Value: $300
+Number: 6
+MONEY TALKS | It's not "hard", it's the phrase for campaign donations not regulated by the FEC | soft money
+right: Al
+Wrong: 
+Value: $300
+Number: 13
+CELEBRITY RHYME TIME | Kinnear's beer barrels | Greg's kegs
+right: Jeff
+Wrong: 
+Value: $300
+Number: 18
+DANCES | A companion to the twist was this hip-swivelling dance that you might serve with meat | mashed potato
+right: Jeff
+Wrong: 
+Value: $300
+Number: 23
+NAMES IN THE NEWS | For the latest on foreign affairs Alan Greenspan can ask this correspondent, his wife | Andrea Mitchell
+right: Jeff
+Wrong: 
+Value: $400
+Number: 8
+CLASSIC MOVIE LINES | 1967: "Mrs. Robinson, you're trying to seduce me" | The Graduate
+right: Al
+Wrong: 
+Value: $400
+Number: 7
+MONEY TALKS | This phrase for cash set aside for trifles goes back to what was a luxury item for 14th century seamstresses | pin money
+right: 
+Wrong: 
+Al: [reads out the clue - then no response]
+Value: DD: $500
+Number: 14
+CELEBRITY RHYME TIME | Springsteen's evergreens | Bruce's spruces
+right: Jeff
+Wrong: 
+Value: $400
+Number: 19
+DANCES | The movements of the paso doble represent this sporting event, with the lady as the "cape" | bullfighting
+right: Jeff
+Wrong: 
+Star: What is the tango?
+Value: $400
+Number: 24
+NAMES IN THE NEWS | Her father Hale Boggs was a congressman; her mother Lindy is ambassador to the Vatican | Cokie Roberts
+right: Al
+Wrong: 
+Value: $500
+Number: 10
+CLASSIC MOVIE LINES | 1967: "What we've got here is failure to communicate" | Cool Hand Luke
+right: Al
+Wrong: 
+Value: $500
+Number: 9
+MONEY TALKS | This type of fund began with Navy ships selling their trash for cash; now it's a fund for bribes | slush fund
+right: Star
+Wrong: 
+Value: $500
+Number: 15
+CELEBRITY RHYME TIME | Danes' rockers | Claire's chairs
+right: Star
+Wrong: 
+Value: $500
+Number: 20
+DANCES | Composers like Haydn & Mozart established this French court dance as the third movement of the symphony | minuet
+right: Al
+Wrong: 
+Value: $500
+Number: 25
+Scores at the first commercial break (after clue 15)
+Al: $1,800
+Star: $400
+Jeff: $800
+Scores at the end of the Jeopardy! Round:
+Al: $2,300
+Star: $900
+Jeff: $2,800
+Second Jeopardy! Round: NAMES IN THE NOOSE, THE "SUPER" BOWL, LEGALESE, AROUND THE WORLD, LET'S GO SHOPPING!, ALL THAT JAZZ
+NAMES IN THE NOOSE | According to Matthew, he hanged himself in remorse after betraying Jesus | Judas Iscariot
+right: Jeff
+Wrong: 
+Star: Who is St. Peter?
+Value: $200
+Number: 8
+THE "SUPER" BOWL | Anything faster than the speed of sound | supersonic
+right: Jeff
+Wrong: 
+Value: $200
+Number: 2
+LEGALESE | Something found before "of limitations", it means a law enacted by a governmental legislature | statute
+right: Al
+Wrong: 
+Value: $200
+Number: 1
+AROUND THE WORLD | Pope John Paul II was born in the city of Wadowice in this country | Poland
+right: Al
+Wrong: 
+Value: $200
+Number: 13
+LET'S GO SHOPPING! | You'll find this famous store with "Fifth Avenue" in its name at 611 Fifth Avenue | Saks
+right: Al
+Wrong: 
+Value: $200
+Number: 26
+ALL THAT JAZZ | In 1962 this "King of Swing"'s band became the first U.S. jazz band to visit the Soviet Union | Benny Goodman
+right: Jeff
+Wrong: 
+Value: $200
+Number: 21
+NAMES IN THE NOOSE | Regrettably, a Loyalist cousin may have caused this patriot to lose his one life for his country in 1776 | Nathan Hale
+right: Jeff
+Wrong: 
+Value: $400
+Number: 9
+THE "SUPER" BOWL | A common one of these is "break a mirror & you'll have 7 years bad luck" | superstition
+right: Jeff
+Wrong: 
+Value: $400
+Number: 6
+LEGALESE | Usual word for an interval when a court suspends business, but doesn't adjourn | recess
+right: Jeff
+Wrong: 
+Value: $400
+Number: 3
+AROUND THE WORLD | Beginning in the mountains of Queensland, the Darling River flows 1,700 miles as this continent's longest river | Australia
+right: Al
+Wrong: 
+Value: $400
+Number: 14
+LET'S GO SHOPPING! | Of Fred's, Wilma's or Barney's, the one that debuted on NYC's 17th Street in 1923 | Barney's
+right: Al
+Wrong: 
+Value: $400
+Number: 27
+ALL THAT JAZZ | Keyboard virtuoso nicknamed "Fatha" | Earl Hines
+right: Jeff
+Wrong: 
+Value: $400
+Number: 22
+NAMES IN THE NOOSE | For his role in Nazi Germany's mass murder of the Jews, he was hanged in Israel May 31, 1962 | Adolf Eichmann
+right: Al
+Wrong: 
+Value: $600
+Number: 10
+THE "SUPER" BOWL | Fine examples include Rebecca Romijn, Heidi Klum & Kate Moss | supermodels
+right: Al
+Wrong: 
+Value: $600
+Number: 7
+LEGALESE | Habeas corpus is one of these orders whose name implies they're down in black & white | writ
+right: 
+Wrong: 
+Jeff: I haven't a clue.
+Value: DD: $1,500
+Number: 4
+AROUND THE WORLD | Cities in this country include Baguio, Quezon City & Manila | the Philippines
+right: Star
+Wrong: 
+Value: $600
+Number: 15
+LET'S GO SHOPPING! | Hmm...the garnet heart ring in this actor's Sundance catalog might be perfect for an "Indecent Proposal" | Robert Redford
+right: Star
+Wrong: 
+Value: $600
+Number: 28
+ALL THAT JAZZ | On April 29, 1986 many fans probably took the "A Train" to the post office to get stamps with his likeness | Duke Ellington
+right: Jeff
+Wrong: 
+Value: $600
+Number: 23
+NAMES IN THE NOOSE | A convicted war criminal, this Japanese leader who ordered the attack on Pearl Harbor was hanged in 1948 | Hideki Tojo
+right: Jeff
+Wrong: 
+Value: $800
+Number: 11
+THE "SUPER" BOWL | Tim Rice & Andrew Lloyd Webber turned Jesus Christ into one in 1971 | superstar
+right: Al
+Wrong: 
+Value: $800
+Number: 19
+LEGALESE | When it's planned, this synonym for evil intent is often said to be "aforethought" | malice
+right: Al
+Wrong: 
+Value: $800
+Number: 5
+AROUND THE WORLD | This imaginary line that circles the globe is also known as 0 degrees latitude | the equator
+right: Jeff
+Wrong: 
+Value: $800
+Number: 17
+ALL THAT JAZZ | Eleanora Fagan was the real name of this singer whom Diana Ross played in a 1972 film | Billie Holiday
+right: Jeff
+Wrong: 
+Value: $800
+Number: 24
+NAMES IN THE NOOSE | Killers Perry Smith & Dick Hickock, whose crime inspired this Truman Capote book, were hanged in 1965 | "In Cold Blood"
+right: Jeff
+Wrong: 
+Value: DD: $1,500
+Number: 12
+THE "SUPER" BOWL | The sound of this nonsense word "is something quite atrocious", but Mary Poppins wanted you to say it anyway | supercalifragilisticexpialidocious
+right: Al
+Wrong: 
+Value: $1000
+Number: 20
+LEGALESE | From the Latin for "none", it's a jury's decision to acquit though the law points to conviction | nullification
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 16
+AROUND THE WORLD | 3 of the 7 countries that make up Central America | (3 of 7) Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua & Panama
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 18
+LET'S GO SHOPPING! | Located at 333 Canal Street, Canal Place is one of the most beautiful shopping centers in this Southern city | New Orleans
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 29
+ALL THAT JAZZ | Paul Desmond is the alto saxophonist heard on this other jazz legend's 1961 hit "Take Five" | Dave Brubeck
+right: Jeff
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the end of the Double Jeopardy! Round:
+Al: $7,500
+Star: $1,900
+Jeff: $12,000
+
+Final Jeopardy! Round
+THE 1980s | On January 20, 1981 the U.S. released about $8 billion of this country's assets it had frozen | Iran
+right: Star | Al | Jeff
+Wrong: 
+Wagers: 
+Star: $1,800
+Al: $7,500
+Jeff: $6,000
+Final scores:
+Al: $15,000 (2nd place: $15,000 for the Congressional Hunger Center)
+Star: $3,700 (3rd place: $10,000 for The East Harlem School at Exodus House)
+Jeff: $18,000 (Winner: $18,000 for Rheedlen Centers for Children and Families)
+
+Coryat scores
+Al: $8,000 (18 R,1 W(including 1 DD))
+Star: $1,900 (7 R,3 W)
+Jeff: $13,000 (27 R(including 1 DD),1 W(including 1 DD))

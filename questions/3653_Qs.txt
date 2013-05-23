@@ -1,0 +1,343 @@
+6160 - Friday, May 27, 2011
+Contestants:
+Monica Iyer: a law clerk from New York, New York
+Renee Huff: a high school English teacher from Olney, Maryland
+Chloe Horning: a graduate student in library and information science from Seattle, Washington (whose 1-day cash winnings total $14,000)
+First Jeopardy! Round: 1811, THE SHANGHAI WORLD EXPO, INGREDIENTS IN THE MACBETH WITCHES' CAULDRON, "DROP" IT, BUSTER!, IT'S THE POLICE, I'LL NEED SOME BACKUP
+1811 | Insane & no longer fit to rule, this British king was replaced by his son, the prince regent | George III
+right: Monica
+Wrong: 
+Value: $200
+Number: 11
+THE SHANGHAI WORLD EXPO | The <http://www.j-archive.com/media/2011-05-27_J_26.jpg> pavilion for this international organization was built to look like one of its relief tents | the Red Cross
+right: Monica
+Wrong: 
+Value: $200
+Number: 26
+INGREDIENTS IN THE MACBETH WITCHES' CAULDRON | "Tongue of" one of these best friends | dog
+right: Chloe
+Wrong: 
+Monica: What is newt?
+Value: $200
+Number: 1
+"DROP" IT, BUSTER! | Refer to other people in conversation in order to impress those you're talking to | name-drop
+right: Monica
+Wrong: 
+Value: $200
+Number: 6
+IT'S THE POLICE | To officially record a charge against an arrestee; do it, Danno | to book
+right: Monica
+Wrong: 
+Value: $200
+Number: 14
+I'LL NEED SOME BACKUP | ...and the Gang | Kool
+right: Monica
+Wrong: 
+Value: $200
+Number: 21
+1811 | Her "Sense and Sensibility" was published anonymously "in three volumes", "by a lady" | Jane Austen
+right: Monica
+Wrong: 
+Value: $400
+Number: 12
+THE SHANGHAI WORLD EXPO | This Alpine country's <http://www.j-archive.com/media/2011-05-27_J_27.jpg> exhibit<http://www.j-archive.com/media/2011-05-27_J_27.jpg>  naturally included a ski lift <http://www.j-archive.com/media/2011-05-27_J_27a.jpg> ride | Switzerland
+right: Monica
+Wrong: 
+Value: $400
+Number: 27
+INGREDIENTS IN THE MACBETH WITCHES' CAULDRON | "Eye of" this amphibian | newt
+right: Renee
+Wrong: 
+Value: $400
+Number: 2
+"DROP" IT, BUSTER! | Firm candy made of gelatin & covered with sugar | a gumdrop
+right: Monica
+Wrong: 
+Value: $400
+Number: 7
+IT'S THE POLICE | The title of this Jack Webb TV drama refers to a systematic police search for a criminal | Dragnet
+right: Renee
+Wrong: 
+Value: $400
+Number: 15
+I'LL NEED SOME BACKUP | ...and the Pips | Gladys Knight
+right: Monica
+Wrong: 
+Value: $400
+Number: 22
+1811 | This family-run company, founded in Germany to manufacture steel, eventually did a booming business | Krupp
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+THE SHANGHAI WORLD EXPO | A 20-foot-tall <http://www.j-archive.com/media/2011-05-27_J_28.jpg> robotic baby named Migueln was featured in this European country's exhibit | Spain
+right: 
+Wrong: Triple Stumper
+Monica: What is France?
+Value: $600
+Number: 28
+INGREDIENTS IN THE MACBETH WITCHES' CAULDRON | "Tooth of" this carnivore that can be timber or gray | wolf
+right: Chloe
+Wrong: 
+Value: $600
+Number: 3
+"DROP" IT, BUSTER! | Painted cloth hanging at the rear of a stage | backdrop
+right: Renee
+Wrong: 
+Value: $600
+Number: 8
+IT'S THE POLICE | Named for a palace that housed visiting royalty, it's the HQ of the London Metropolitan Police | Scotland Yard
+right: Monica
+Wrong: 
+Value: DD: $2,000
+Number: 17
+I'LL NEED SOME BACKUP | ...and the Crickets | Buddy Holly
+right: Monica
+Wrong: 
+Value: $600
+Number: 23
+1811 | In an 1811 massacre, this pasha of Egypt (not the boxer) knocked out the Mamluks for good | Muhammad Ali
+right: Monica
+Wrong: 
+Value: $800
+Number: 16
+THE SHANGHAI WORLD EXPO | Artwork brought to China for the expo included a van Gogh, a Gauguin, and a <http://www.j-archive.com/media/2011-05-27_J_29.jpg> self-portrait by this woman in the Mexico pavilion | Frida Kahlo
+right: Monica
+Wrong: 
+Value: $800
+Number: 29
+INGREDIENTS IN THE MACBETH WITCHES' CAULDRON | "Wool of" one of these flyers | bat
+right: Monica
+Wrong: 
+Value: $800
+Number: 4
+"DROP" IT, BUSTER! | Perhaps a slippery sombrero inspired this phrase meaning "on a moment's notice" | at the drop of a hat
+right: Monica
+Wrong: 
+Value: $800
+Number: 9
+IT'S THE POLICE | There's a first name in this term for a policeman's heavy nightstick | a billy club
+right: Renee
+Wrong: 
+Value: $800
+Number: 18
+I'LL NEED SOME BACKUP | ...and the Sunshine Band | KC
+right: Monica
+Wrong: 
+Value: $800
+Number: 24
+1811 | Construction began on the USA's first federal highway, known as this road after the town in which it originated | Cumberland Road
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+THE SHANGHAI WORLD EXPO | <http://www.j-archive.com/media/2011-05-27_J_30.jpg> These <http://www.j-archive.com/media/2011-05-27_J_30a.jpg> two special Chinese administrative regions each had a <http://www.j-archive.com/media/2011-05-27_J_30b.jpg> pavilion | Hong Kong and Macao
+right: Monica
+Wrong: 
+Value: $1000
+Number: 30
+INGREDIENTS IN THE MACBETH WITCHES' CAULDRON | "Toe of" this amphibian | frog
+right: Chloe
+Wrong: 
+Value: $1000
+Number: 5
+"DROP" IT, BUSTER! | It's an old medical term for edema, the abnormal swelling of body tissue | dropsy
+right: Chloe
+Wrong: 
+Value: $1000
+Number: 10
+IT'S THE POLICE | If you need a policeman in Marseilles, ask for one of these | a gendarme
+right: Monica
+Wrong: 
+Value: $1000
+Number: 19
+I'LL NEED SOME BACKUP | ...and the Wailers | Bob Marley
+right: Chloe
+Wrong: 
+Value: $1000
+Number: 25
+Scores at the first commercial break (after clue 15)
+Chloe: $2,800
+Renee: $1,400
+Monica: $2,800
+Scores at the end of the Jeopardy! Round:
+Chloe: $3,800
+Renee: $2,200
+Monica: $10,400
+Second Jeopardy! Round: EUROPEAN NATIONALITIES, MOVIE TITLE MATH, YOU'RE THE TOP, McMEN, PINEAPPLES, ENDS WITH A BODY PART
+EUROPEAN NATIONALITIES | Effleurage is a light gliding stroke used in this hands-on type of spa treatment | Swedish massage
+right: Chloe
+Wrong: 
+Value: $400
+Number: 10
+MOVIE TITLE MATH | Number of simians in a Bruce Willis time travel movie squared | 144
+right: Chloe
+Wrong: 
+Value: $400
+Number: 6
+YOU'RE THE TOP | In 1985 Reagan & Gorbachev met in Geneva in this type of diplomatic meeting | a summit
+right: Chloe
+Wrong: 
+Value: $400
+Number: 16
+McMEN | In 1831 at age 22, he tried his hand at building a reaper | McCormick
+right: Renee
+Wrong: 
+Value: $400
+Number: 26
+PINEAPPLES | (<http://www.j-archive.com/media/2011-05-27_DJ_21.jpg> Sarah of the Clue Crew reports from a pineapple plantation.) Pineapples are the only widely eaten of the bromeliads--a family of 3,000 species; like others, they aren't grown from seed, but by planting the top leafy structure, called this | a crown
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+ENDS WITH A BODY PART | Someone who moves props or lighting for a theatrical production | a stagehand
+right: Renee
+Wrong: 
+Value: $400
+Number: 1
+EUROPEAN NATIONALITIES | It's basically a big kettle with a close-fitting lid, used to cook pot roasts & stews | a Dutch oven
+right: Renee
+Wrong: 
+Value: $800
+Number: 12
+MOVIE TITLE MATH | Number of "Weeks" in a Mickey Rourke film plus the title of a Fellini film; they add up to a whole number | 18
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 7
+YOU'RE THE TOP | A fictional co. that may or may not help in roadrunner chasing, or a word from the Greek for "highest point" | acme
+right: Renee
+Wrong: 
+Value: $800
+Number: 18
+McMEN | His colleagues in the senate had the decency to censure him, at long last, on Dec. 2, 1954 | (Joseph)McCarthy
+right: Monica
+Wrong: 
+Value: $800
+Number: 27
+PINEAPPLES | (<http://www.j-archive.com/media/2011-05-27_DJ_22.jpg> Sarah of the Clue Crew reports from a pineapple plantation.) Pineapple cultivation needs relatively little irrigation; with its reservoir formed in the leaves, the plant is a natural xerophyte--from the Greek "xeros", meaning this | dry
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+ENDS WITH A BODY PART | To identify an illness via medical exam | diagnose
+right: Monica
+Wrong: 
+Value: $800
+Number: 2
+EUROPEAN NATIONALITIES | Leopoldville was the capital of this colony that existed from 1908 to 1960 | the Belgian Congo
+right: Monica
+Wrong: 
+Value: $1200
+Number: 13
+MOVIE TITLE MATH | Number of "Days Later" in a zombie flick divided by the title number of heroes in a Jessica Alba Marvel movie | 7
+right: Chloe
+Wrong: 
+Value: $1200
+Number: 8
+YOU'RE THE TOP | The point formed in the hairline in the middle of the forehead is a "widow's" this | peak
+right: Renee
+Wrong: 
+Value: $1200
+Number: 19
+McMEN | You don't have to picture this Republican senator; he's seen <http://www.j-archive.com/media/2011-05-27_DJ_28.jpg> here | (Mitch) McConnell
+right: Monica
+Wrong: 
+Value: $1200
+Number: 28
+PINEAPPLES | (<http://www.j-archive.com/media/2011-05-27_DJ_23.jpg> Sarah of the Clue Crew reports from a pineapple plantation.) The pineapple shoots that grow from the mother plants after the main harvest are called the ratoon crop--also the Hawaiian term for a baby born to late-in-life parents, the word is thought to be from the Latin for this season | autumn
+right: Chloe
+Wrong: 
+Renee: What is winter?
+Value: $1200
+Number: 23
+ENDS WITH A BODY PART | Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly | a bootleg
+right: Renee
+Wrong: 
+Chloe: What is bootlegging?
+Value: $1200
+Number: 3
+EUROPEAN NATIONALITIES | The uppermost polyp of this poisonous sea creature was thought to resemble a sail, hence its name | a Portuguese man-of-war
+right: Monica
+Wrong: 
+Value: DD: $8,000
+Number: 14
+MOVIE TITLE MATH | It's what 2(x+y) equals if x is the number of "Angry Men" in a 1957 film & y is the "Kings" in a George Clooney movie | 30
+right: Monica
+Wrong: 
+Value: $1600
+Number: 9
+YOU'RE THE TOP | 8-letter word for the highest point of success or the highest part of a rock formation | pinnacle
+right: Renee
+Wrong: 
+Value: DD: $3,000
+Number: 20
+McMEN | This '60s secretary of defense passed away in July 2009 | (Robert) McNamara
+right: Monica
+Wrong: 
+Value: $1600
+Number: 25
+PINEAPPLES | (<http://www.j-archive.com/media/2011-05-27_DJ_29.jpg> Sarah of the Clue Crew reports from a pineapple plantation.) The material that's laid down where pineapples are planted keeps weeds off, retains warmth, & keeps moisture in; though it's a strip of plastic rather than organic material, it's called this | mulch
+right: 
+Wrong: Triple Stumper
+Renee: What is artificial soil?
+Value: $1600
+Number: 29
+ENDS WITH A BODY PART | A spiky sea critter, or a mischievous boy | an urchin
+right: Monica
+Wrong: 
+Value: $1600
+Number: 4
+EUROPEAN NATIONALITIES | The Elgin marbles helped establish this architectural style, based on 5th century B.C. works | Greek revival
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 15
+MOVIE TITLE MATH | Number preceding "Pick Up" in a Roy Scheider film minus Wesley Snipes' "Passenger" number in a 1992 movie | minus five or negative five
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 11
+YOU'RE THE TOP | This TV-making brand got its start in 1918 making radio equipment in Chicago | Zenith
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 17
+McMEN | This 18th century Scotman invented a form of pavement | (John) McAdam
+right: Renee
+Wrong: 
+Value: $2000
+Number: 24
+PINEAPPLES | (<http://www.j-archive.com/media/2011-05-27_DJ_30.jpg> Sarah of the Clue Crew reports from a pineapple plantation.) Whether grown in Africa or here in Hawaii, pineapples have eight spirals in one direction and 13 in the other--one example where nature shows the number sequence named for this Italian mathematician | Fibonacci
+right: Chloe
+Wrong: 
+Value: $2000
+Number: 30
+ENDS WITH A BODY PART | Most opulent | richest
+right: Chloe
+Wrong: 
+Value: $2000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Chloe: $10,200
+Renee: $9,200
+Monica: $27,200
+
+Final Jeopardy! Round
+U.S. CITIES | Alphabetically first among the 150 most populous U.S. cities, it has become the "polymer capital of the world" | Akron
+right: Chloe | Monica
+Wrong: 
+Renee: What is Atlanta?
+Wagers: 
+Renee: $3,000
+Chloe: $8,201
+Monica: $5,000
+Final scores:
+Chloe: $18,401 (2nd place: $2,000)
+Renee: $6,200 (3rd place: $1,000)
+Monica: $32,200 (New champion: $32,200)
+
+Coryat scores
+Chloe: $10,200 (12 R,1 W)
+Renee: $7,800 (12 R(including 1 DD),2 W)
+Monica: $19,400 (26 R(including 2 DDs),2 W)

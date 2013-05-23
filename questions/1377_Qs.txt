@@ -1,0 +1,340 @@
+2916 - Monday, April 14, 1997
+Contestants:
+Tom Ayala: a medical student from Washington, D.C.
+Sue Keller: a ragtime piano player from Staten Island, New York
+David Forman: a mathematician originally from Brooklyn, New York (whose 1-day cash winnings total $10,901)
+First Jeopardy! Round: THE CIVIL WAR, NURSERY RHYMES, DISEASES, LIGHTHOUSES, GENEALOGY, SINGERS' FIRST FILMS
+THE CIVIL WAR | The year before assassinating Lincoln, this actor organized an attempt to abduct the president | John Wilkes Booth
+right: David
+Wrong: 
+Value: $100
+Number: 1
+NURSERY RHYMES | Peter, Peter, Pumpkin Eater put his wife here "and there he kept her very well" | Pumpkin shell
+right: Sue
+Wrong: 
+Value: $100
+Number: 18
+DISEASES | This "fever" is caused by a bacterium called salmonella typhosa | Typhoid fever
+right: Sue
+Wrong: 
+Value: $100
+Number: 7
+LIGHTHOUSES | The lighthouse at the Castillo del Morro is a landmark of this Cuban capital | Havana
+right: David
+Wrong: 
+Value: $100
+Number: 23
+GENEALOGY | Conducted every 10 years by the U.S. government since 1790, it's a major resource for ancestor hunters | Census
+right: David
+Wrong: 
+Value: $100
+Number: 15
+SINGERS' FIRST FILMS | "Lady Sings The Blues" | Diana Ross
+right: Sue
+Wrong: 
+Value: $100
+Number: 4
+THE CIVIL WAR | In 1862 the Union captured this Louisiana capital; the Confederates moved the capital to Opelousas | Baton Rouge
+right: David
+Wrong: 
+Value: $200
+Number: 2
+NURSERY RHYMES | He told the pieman, "Let me taste your ware" | Simple Simon
+right: Sue
+Wrong: 
+Value: $200
+Number: 19
+DISEASES | Most cases of this mosquito-transmitted disease can be cured by chloroquine & primaquine | Malaria
+right: David
+Wrong: 
+Value: $200
+Number: 10
+LIGHTHOUSES | A brick lighthouse on this N.C. cape warns ships away from Diamond Shoals, a famous ship graveyard | Cape Hatteras
+right: Tom
+Wrong: 
+Value: $200
+Number: 25
+GENEALOGY | A "General Society" traces the descendants of passengers on this ship, including Myles Standish | Mayflower
+right: Sue
+Wrong: 
+Value: $200
+Number: 16
+SINGERS' FIRST FILMS | "The Bodyguard" | Whitney Houston
+right: Sue
+Wrong: 
+Value: $200
+Number: 5
+THE CIVIL WAR | Before his troops' charge at Gettysburg, he told them "Don't forget today that you are from old Virginia" | George Pickett
+right: Sue
+Wrong: 
+Value: $300
+Number: 3
+NURSERY RHYMES | They were the "Three Men In A Tub" | The butcher, the baker & the candlestick maker
+right: Sue
+Wrong: 
+Value: $300
+Number: 20
+DISEASES | Chronic hepatitis can lead to cancer & this disease in which scar tissue forms throughout the liver | Cirrhosis
+right: Tom
+Wrong: 
+Value: $300
+Number: 12
+LIGHTHOUSES | It's said that the fires of this Egyptian lighthouse could be seen for about 30 miles | Alexandria
+right: Tom
+Wrong: 
+Value: $300
+Number: 26
+GENEALOGY | This 1976 bestseller sparked interest in the subject, especially by African Americans | Roots
+right: Tom
+Wrong: 
+Value: $300
+Number: 24
+SINGERS' FIRST FILMS | "9 To 5" | Dolly Parton
+right: Tom
+Wrong: 
+Value: $300
+Number: 6
+THE CIVIL WAR | This Union commander's men in the field called him "Little Mac" | George McClellan
+right: Tom
+Wrong: 
+Value: $400
+Number: 9
+NURSERY RHYMES | "There was a crooked man, and he went a crooked mile, he found" this "beside a crooked stile" | Crooked sixpence
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 21
+DISEASES | Bulbar paralysis, the most serious form of this disease, results from nerve damage to the brain stem | Poliomyelitis
+right: Tom
+Wrong: 
+Value: DD: $700
+Number: 13
+LIGHTHOUSES | France's lighthouse the Phare de Cordouan is at the mouth of the Gironde estuary near this bay | Bay of Biscay
+right: Tom
+Wrong: 
+Value: $400
+Number: 27
+GENEALOGY | To aid in the salvation of ancestors, this religious group has the world's largest archive of genealogy | Mormons
+right: Sue
+Wrong: 
+Value: $400
+Number: 29
+SINGERS' FIRST FILMS | "Oh, God!" | John Denver
+right: David
+Wrong: 
+Value: $400
+Number: 8
+THE CIVIL WAR | Possibly from a snake's name, this term referred to northern Democrats urging compromise with the South | Copperheads
+right: Tom
+Wrong: 
+Value: $500
+Number: 11
+NURSERY RHYMES | This insect saw Cock Robin die, "With my little eye, I saw him die" | The Fly
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 22
+DISEASES | In 1882 Robert Koch discovered the bacteria that cause this disease also called consumption | Tuberculosis
+right: David
+Wrong: 
+Value: $500
+Number: 14
+LIGHTHOUSES | This easternmost "point" of New York state at the tip of Long Island has a lighthouse built in 1796 | Montauk Point
+right: David
+Wrong: 
+Value: $500
+Number: 28
+GENEALOGY | This word comes from middle French for "crane's foot" which the lines on family trees resemble | Pedigree
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+SINGERS' FIRST FILMS | "The Electric Horseman" | Willie Nelson
+right: Sue
+Wrong: 
+Value: $500
+Number: 17
+Scores at the first commercial break (after clue 15)
+David: $1,400
+Sue: $700
+Tom: $2,200
+Scores at the end of the Jeopardy! Round:
+David: $2,100
+Sue: $2,400
+Tom: $3,400
+Second Jeopardy! Round: ASIAN CITIES, FIRST NAMES, HISTORICAL OPERAS, BLACK AMERICA, AVIATION, FICTIONAL FEMALES
+ASIAN CITIES | China's national legislature meets in this capital's Great Hall of the People | Beijing/Peking
+right: David
+Wrong: 
+Value: $200
+Number: 1
+FIRST NAMES | Though it's old German for "famous wolf", we know it better as the name of a red-nosed reindeer | Rudolph
+right: Sue
+Wrong: 
+Value: $200
+Number: 21
+HISTORICAL OPERAS | Spontini's 1809 opera "Fernand Cortez" is also called "The Conquest Of" this country | Mexico
+right: Tom
+Wrong: 
+Value: $200
+Number: 6
+BLACK AMERICA | This queen of talk shows ranked among Ebony magazine's 15 Most Beautiful Black Women of 1996 | Oprah Winfrey
+right: David
+Wrong: 
+Value: $200
+Number: 13
+AVIATION | 1997 marks the 60th anniversary of her disappearance over the Pacific | Amelia Earhart
+right: Tom
+Wrong: 
+Value: $200
+Number: 26
+FICTIONAL FEMALES | One book calls her " a stereotypical nice girl"; we wonder how Mark Twain would have answered that | Becky Thatcher
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 11
+ASIAN CITIES | This Saudi Arabian holy city was called Macoraba by the ancients | Mecca
+right: David
+Wrong: 
+Value: $400
+Number: 2
+FIRST NAMES | Bram, as in Bram Stoker, is short for this name | Abraham
+right: Sue
+Wrong: 
+Value: $400
+Number: 22
+HISTORICAL OPERAS | In "Maria Stuarda", this queen orders Mary Stuart's execution after Mary calls her a "bastarda" | Queen Elizabeth I
+right: Tom
+Wrong: 
+Value: $400
+Number: 7
+BLACK AMERICA | A statue of this late tennis star now stands on Monument Avenue in his hometown of Richmond, Virginia | Arthur Ashe
+right: David
+Wrong: 
+Value: $400
+Number: 14
+AVIATION | Grounded for 3 1/2 months after a crash in the Everglades, this airline resumed flights in September 1996 | ValuJet
+right: Tom
+Wrong: 
+Value: $400
+Number: 27
+FICTIONAL FEMALES | Holland is the last name of this character whose life was chronicled by Wendy Wasserstein | Heidi
+right: David
+Wrong: 
+Value: $400
+Number: 12
+ASIAN CITIES | This Vietnamese city's downtown area is still called Saigon | Ho Chi Minh City
+right: Tom
+Wrong: 
+Value: $600
+Number: 3
+FIRST NAMES | A French form of "white", it was a popular name for women around the turn of the century | Blanche
+right: 
+Wrong: 
+Value: DD: $1,000
+Number: 23
+HISTORICAL OPERAS | Bizet & Rimsky-Korsakov both wrote fine operas about this dreadful czar | Ivan the Terrible
+right: Tom
+Wrong: 
+Value: $600
+Number: 8
+BLACK AMERICA | For President Clinton's 1st inauguration, she wrote & recited the poem "On The Pulse Of Morning" | Maya Angelou
+right: Tom
+Wrong: 
+Value: $600
+Number: 15
+AVIATION | In 1995 this airport, in operation for 66 years, was replaced by Denver International | Stapleton International Airport
+right: David
+Wrong: 
+Value: $600
+Number: 28
+FICTIONAL FEMALES | In this poet's only novel, "The Bell Jar", she related the coming of age of Esther Greenwood | Sylvia Plath
+right: Sue
+Wrong: 
+Value: $600
+Number: 18
+ASIAN CITIES | The tomb of Pakistan's founder, Muhammad Ali Jinnah, is a landmark in this former capital | Karachi
+right: Tom
+Wrong: 
+Value: $800
+Number: 4
+FIRST NAMES | Denise is derived from the name of this Greek god of wine | Dionysus
+right: Sue
+Wrong: 
+Value: $800
+Number: 24
+HISTORICAL OPERAS | Meyerbeer's opera "Les Huguenots" takes place in 1572 in Touraine & in this capital city | Paris
+right: Tom
+Wrong: 
+Value: $800
+Number: 9
+BLACK AMERICA | In 1990 he took office as New York City's first black mayor | David Dinkins
+right: David
+Wrong: 
+Value: $800
+Number: 16
+AVIATION | In 1913 he built & flew the first 4-engine airplane; later he built helicopters | Igor Sikorsky
+right: David
+Wrong: 
+Value: $800
+Number: 29
+FICTIONAL FEMALES | Miranda, a young woman, appears in several of her works, including "Pale Horse, Pale Rider" | Katherine Anne Porter
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+ASIAN CITIES | With a population of over 2 million, this capital of Uzbekistan is central Asia's largest city | Tashkent
+right: Sue
+Wrong: 
+Value: $1000
+Number: 5
+FIRST NAMES | Name of a late actor-director, it's from Latin meaning "like a bear" | Orson
+right: Tom
+Wrong: 
+Value: $1000
+Number: 25
+HISTORICAL OPERAS | The famous aria known as "Handel's Largo" is sung in "Serse", a 1738 opera about this great ruler | Xerxes
+right: Sue
+Wrong: 
+Value: $1000
+Number: 10
+BLACK AMERICA | This bandleader whose theme was "One O' Clock Jump" was pictured on a 1996 postage stamp | Count Basie
+right: Sue
+Wrong: 
+Value: $1000
+Number: 17
+AVIATION | Famous for his 1942 raid on Tokyo, he was named Aviator of the Decade in 1950 | Jimmy Doolittle
+right: David
+Wrong: 
+Value: $1000
+Number: 30
+FICTIONAL FEMALES | This Scottish teacher & spinster is Muriel Spark's most famous creation | Miss Jean Brodie
+right: Sue
+Wrong: 
+Value: DD: $1,500
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+David: $6,900
+Sue: $7,900
+Tom: $9,000
+
+Final Jeopardy! Round
+STATE CAPITALS | Like its major streets Hope, Benefit & Friendship, its name is an abstraction | Providence, Rhode Island
+right: 
+Wrong: 
+David: What is Santa Fe?
+Sue: What is Columbia?
+Tom: What is Olympia
+Wagers: 
+David: $3,100
+Sue: $4,000
+Tom: $6,801
+Final scores:
+David: $3,800 (2nd place: Trip to Volcano House Lodge, Hawaii)
+Sue: $3,900 (New champion: $3,900)
+Tom: $2,199 (3rd place: Samsung Ultima 19-Inch Color TV & VCR Combo)
+
+Coryat scores
+David: $6,900 (17 R,0 W)
+Sue: $8,400 (18 R(including 1 DD),1 W(including 1 DD))
+Tom: $8,700 (19 R(including 1 DD),0 W)

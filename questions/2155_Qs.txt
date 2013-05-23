@@ -1,0 +1,340 @@
+3503 - Wednesday, November 24, 1999
+Contestants:
+Tracy Burrell: a computer help desk manager from Mystic, Connecticut
+Karen Golojuch: a sign language interpreter from Arlington, Virginia
+Dave Adler: an astronomer from Columbia, Maryland (whose 1-day cash winnings total $5,500)
+First Jeopardy! Round: FAMOUS ART, HOLIDAYS & OBSERVANCES, SUPERSTITIONS, GAME SHOW HOSTS, 'MEMBER NOVEMBER?, STARTS WITH "KN"
+FAMOUS ART | To call for his paintings, like the one seen here, "just put your lips together and blow" | James M. Whistler
+right: Dave
+Wrong: 
+Value: $100
+Number: 1
+HOLIDAYS & OBSERVANCES | On June 17 Suffolk County in this state celebrates Bunker Hill Day | Massachusetts
+right: Dave
+Wrong: 
+Value: $100
+Number: 6
+SUPERSTITIONS | Bite your tongue while eating & it means you've done this, though not necessarily "under oath" | Lie
+right: Tracy
+Wrong: 
+Value: $100
+Number: 21
+GAME SHOW HOSTS | 1976-1985: "Family Feud" | Richard Dawson
+right: Karen
+Wrong: 
+Value: $100
+Number: 11
+'MEMBER NOVEMBER? | The first college football game took place between Rutgers & this other N.J. university on November 6, 1869 | Princeton
+right: Karen
+Wrong: 
+Value: $100
+Number: 26
+STARTS WITH "KN" | A genuflection may include this body part touching the floor | Knee
+right: Dave
+Wrong: 
+Value: $100
+Number: 16
+FAMOUS ART | This man's art, seen here, depicted popular cabaret entertainers: | Toulouse-Lautrec
+right: Tracy
+Wrong: 
+Value: $200
+Number: 2
+HOLIDAYS & OBSERVANCES | Originally, Veterans Day was known as Armistice Day, to commemorate the end of this | World War I
+right: Dave
+Wrong: 
+Value: $200
+Number: 7
+SUPERSTITIONS | It's said if these itch, you're about to get a kiss, so pucker up! | Lips
+right: Dave
+Wrong: 
+Value: $200
+Number: 22
+GAME SHOW HOSTS | 1966-1975: "Truth or Consequences" | Bob Barker
+right: Dave
+Wrong: 
+Value: $200
+Number: 12
+'MEMBER NOVEMBER? | Abe Lincoln delivered it November 19, 1863 | The Gettysburg Address
+right: Karen
+Wrong: 
+Value: $200
+Number: 27
+STARTS WITH "KN" | If you don't know the face card between the 10 & the queen, you don't know this | Knave
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 17
+FAMOUS ART | He painted the pretty flowers seen here: | Vincent Van Gogh
+right: Karen
+Wrong: 
+Value: $300
+Number: 3
+HOLIDAYS & OBSERVANCES | Christians observe this holy day to celebrate Jesus' triumphant entry into Jerusalem | Palm Sunday
+right: Tracy
+Wrong: 
+Value: $300
+Number: 8
+SUPERSTITIONS | Buy a car on this unlucky day & it'll spend most of its time with the mechanic | Friday the 13th
+right: Tracy
+Wrong: 
+Value: $300
+Number: 23
+GAME SHOW HOSTS | 1966-1981: "Hollywood Squares" | Peter Marshall
+right: Karen
+Wrong: 
+Value: $300
+Number: 13
+'MEMBER NOVEMBER? | Later a prime minister, she was born November 19, 1917 in Allahabad | Indira Gandhi
+right: Karen
+Wrong: 
+Value: $300
+Number: 28
+STARTS WITH "KN" | I love to go a-wandering (Valderee, Valdera) with one of these on my back | Knapsack
+right: Dave
+Wrong: 
+Value: $300
+Number: 18
+FAMOUS ART | She often painted everyday moments like the one seen here: | Mary Cassatt
+right: Karen
+Wrong: 
+Value: $400
+Number: 4
+HOLIDAYS & OBSERVANCES | A foundation in Nebraska City, Nebraska oversees & coordinates the activities of this tree-planting holiday | Arbor Day
+right: Karen
+Wrong: 
+Value: $400
+Number: 9
+SUPERSTITIONS | One reason horseshoes are considered lucky is that they're made of this magical metal | Iron
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 24
+GAME SHOW HOSTS | 1966-1980: "The Newlywed Game" | Bob Eubanks
+right: Dave
+Wrong: 
+Value: $400
+Number: 14
+'MEMBER NOVEMBER? | This man abdicated the German throne on November 9, 1918 | Kaiser Wilhelm II
+right: Karen
+Wrong: 
+Value: $400
+Number: 29
+STARTS WITH "KN" | In this city, you can visit the home of John Sevier, the first governor of Tennessee | Knoxville
+right: Dave
+Wrong: 
+Value: $400
+Number: 19
+FAMOUS ART | Season represented in the masterpiece seen here: | Spring
+right: Tracy
+Wrong: 
+Value: $500
+Number: 5
+HOLIDAYS & OBSERVANCES | Panama celebrates its independence from this country on November 3 | Colombia
+right: Karen
+Wrong: 
+Value: DD: $600
+Number: 10
+SUPERSTITIONS | We wonder if Mary Surratt ever had a stiff neck; it's supposed to be an omen that this will happen | You will be hanged
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 25
+GAME SHOW HOSTS | 1961-1967: "Password" | Allen Ludden
+right: Karen
+Wrong: 
+Value: $500
+Number: 15
+'MEMBER NOVEMBER? | On November 7, 1917 this "majority" political faction toppled the provisional Russian government | Bolsheviks
+right: Tracy
+Wrong: 
+Value: $500
+Number: 30
+STARTS WITH "KN" | First name of the man famous for telling his team to "Win this one for the Gipper" | Knute (Rockne)
+right: Tracy
+Wrong: 
+Value: $500
+Number: 20
+Scores at the first commercial break (after clue 15)
+Dave: $700
+Karen: $2,600
+Tracy: $700
+Scores at the end of the Jeopardy! Round:
+Dave: $1,200
+Karen: $3,400
+Tracy: $2,100
+Second Jeopardy! Round: FAMOUS ARTS, THE ALPS, HEY, HEY WE'RE THE MAORIS!, 20th CENTURY NOVELS, TV DETECTIVES, "IN" WORDS
+FAMOUS ARTS | Paul Simon has said that he regrets letting this man sing lead on "Bridge Over Troubled Water" | Art Garfunkel
+right: Karen
+Wrong: 
+Value: $200
+Number: 6
+THE ALPS | Chamonix in the French Alps is the historic capital of this Alpine sport imported from Norway | Skiing
+right: Dave
+Wrong: 
+Value: $200
+Number: 11
+HEY, HEY WE'RE THE MAORIS! | Examples of these in Maori culture include Ruaumoko, who handles earthquakes, & Hinenuitepo, who handles death | Gods/deities
+right: Dave
+Wrong: 
+Value: $200
+Number: 21
+20th CENTURY NOVELS | Some highbrow critics "Kurt"ly dismiss his sci-fi novel "The Sirens of Titan" as a lesser work | Kurt Vonnegut
+right: Tracy
+Wrong: 
+Value: $200
+Number: 16
+TV DETECTIVES | Were it not for 4 meddling kids & this title dog, many a cartoon crime would be unsolved | Scooby-Doo
+right: Tracy
+Wrong: 
+Value: $200
+Number: 1
+"IN" WORDS | Originally, it consisted of the attorney general & the secretaries of state, war & treasury | Cabinet
+right: Tracy
+Wrong: 
+Value: $200
+Number: 22
+FAMOUS ARTS | Famed for playing a sewer worker on TV, he originated the role of Felix Unger on Broadway | Art Carney
+right: Dave
+Wrong: 
+Value: $400
+Number: 7
+THE ALPS | The Brenner Pass is a pathway from Austria to this country on the south | Italy
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+HEY, HEY WE'RE THE MAORIS! | Of 4, 14 or 40, the percent of New Zealand's population that is Maori | 14 percent
+right: Tracy
+Wrong: 
+Value: $400
+Number: 27
+20th CENTURY NOVELS | Though it's fiction, this first Henry Miller novel tells of the adventures of Henry Miller in Paris | "Tropic of Cancer"
+right: Karen
+Wrong: 
+Value: $400
+Number: 17
+TV DETECTIVES | Mystery author Jessica Fletcher solved crimes in Cabot Cove, Maine on this show | Murder, She Wrote
+right: Dave
+Wrong: 
+Value: $400
+Number: 2
+"IN" WORDS | In names of birds, it follows gold, bull & purple | Finch
+right: Tracy
+Wrong: 
+Value: $400
+Number: 23
+FAMOUS ARTS | His book "Kids Say the Darndest Things!" topped the nonfiction bestsellers list for 2 years | Art Linkletter
+right: Dave
+Wrong: 
+Value: $600
+Number: 8
+THE ALPS | This industry first brought income to the Alps in the 19th century & is now the main source of income there | Tourism
+right: Dave
+Wrong: 
+Value: $600
+Number: 13
+HEY, HEY WE'RE THE MAORIS! | The Maoris are the southernmost members of this larger Pacific ethnic group with "many islands" for homes | Polynesians
+right: Tracy
+Wrong: 
+Value: $600
+Number: 28
+20th CENTURY NOVELS | Hemingway set "A Farewell to Arms" in WWI & "For Whom the Bell Tolls" in this war | Spanish Civil War
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+TV DETECTIVES | These 2 actors were "Moonlighting" as the Blue Moon Detective Agency's Maddie Hayes & David Addison | Cybill Shepherd & Bruce Willis
+right: Tracy
+Wrong: 
+Value: $600
+Number: 3
+"IN" WORDS | Last name of "The Phantom Menace" character seen here: | Jar Jar Binks
+right: Tracy
+Wrong: 
+Value: $600
+Number: 24
+FAMOUS ARTS | (Hi, I'm Art Alexakis of the rock band Everclear)  This American jazz drummer formed the Jazz Messengers & was a pioneer in the bebop movement | Art Blakey
+right: Karen
+Wrong: 
+Value: $800
+Number: 9
+THE ALPS | These features left over from the Ice Age include Maggiore, Constance & Como | Lakes
+right: Dave
+Wrong: 
+Value: $800
+Number: 14
+HEY, HEY WE'RE THE MAORIS! | Trying to land on New Zealand's South Island in 1642, this "devil" of an explorer was attacked by Maoris | Abel Tasman
+right: 
+Wrong: 
+Value: DD: $500
+Number: 29
+20th CENTURY NOVELS | "The Magician of Lublin", by this Yiddish language Nobel Prize winner, is set in his native Poland | Isaac Bashevis Singer
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 19
+TV DETECTIVES | The prognosis is good that he will solve the case as Dr. Mark Sloan on "Diagnosis Murder" | Dick Van Dyke
+right: Tracy
+Wrong: 
+Value: $800
+Number: 4
+"IN" WORDS | A soft white candy usually containing nuts, or a word for a deity | Divinity
+right: Tracy
+Wrong: 
+Value: $800
+Number: 25
+FAMOUS ARTS | He wrote & illustrated the graphic novel "Maus: A Survivor's Tale" | Art Spiegelman
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+THE ALPS | While wandering Alpine passes, you may meet up with this mountain goat: | Alpine ibex
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+HEY, HEY WE'RE THE MAORIS! | This Maori diva performed at the wedding of Charles & Diana in 1981 | Kiri Te Kanawa
+right: Karen
+Wrong: 
+Value: $1000
+Number: 30
+20th CENTURY NOVELS | Ex-reporter Allen Drury wrote this 1959 novel about a Senate confirmation battle | "Advise and Consent"
+right: Tracy
+Wrong: 
+Value: $1000
+Number: 20
+TV DETECTIVES | Based on Ralph McInerny's character, this TV detective was the pastor of St. Michael's Parish | Father Dowling
+right: Tracy
+Wrong: 
+Value: $1000
+Number: 5
+"IN" WORDS | In area, it's the Mediterranean's second-largest island | Sardinia
+right: Tracy
+Wrong: 
+Value: DD: $1,000
+Number: 26
+Scores at the end of the Double Jeopardy! Round:
+Dave: $3,000
+Karen: $5,800
+Tracy: $6,600
+
+Final Jeopardy! Round
+PUBLICATIONS | Its first issue was intended to be read on sabbath day, August 5, 1821 | The Saturday Evening Post
+right: 
+Wrong: 
+Dave: What is the Saturday Evening Review?
+Karen: What is the Christian Science Monitor?
+Tracy: What is Christian Scien
+Wagers: 
+Dave: $2,801
+Karen: $0
+Tracy: $5,001
+Final scores:
+Dave: $199 (3rd place: Meade ETX Telescope)
+Karen: $5,800 (New champion: $5,800)
+Tracy: $1,599 (2nd place: Sony Home Entertainment System featuring WebTV)
+
+Coryat scores
+Dave: $3,000 (16 R,7 W)
+Karen: $5,700 (15 R(including 1 DD),1 W)
+Tracy: $7,100 (20 R(including 1 DD),7 W(including 1 DD))

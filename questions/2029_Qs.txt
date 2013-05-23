@@ -1,0 +1,337 @@
+3551 - Monday, January 31, 2000
+Comments: Lee Lassiter game 5.
+Contestants:
+Arnie Perlstein: a real estate & business lawyer from Fort Lauderdale, Florida
+Jose Siri: a graduate student from Ann Arbor, Michigan
+Lee Lassiter: a computer programmer from Topeka, Kansas (whose 4-day cash winnings total $48,700)
+First Jeopardy! Round: SPACE EXPLORATION, WEIGHTS & MEASURES, FEELING "ILL", NAME, RANK, SERIAL NUMBERS
+SPACE EXPLORATION | In 1959 the Soviet Union's Luna 3 became the first space probe to photograph the far side of this celestial body | Moon
+right: Lee
+Wrong: 
+Value: $100
+Number: 11
+WEIGHTS & MEASURES | Number of teaspoons in a tablespoon | 3
+right: Lee
+Wrong: 
+Value: $100
+Number: 1
+FEELING "ILL" | A large stiff feather, or a porcupine spine | Quill
+right: Lee
+Wrong: 
+Value: $100
+Number: 2
+NAME | Scottish for "pretty", it can be used as a name or an adjective | Bonnie
+right: Arnie
+Wrong: 
+Value: $100
+Number: 12
+RANK | The lowest grade of commissioned officer, it comes from a medieval phrase meaning "place holding" | lieutenant
+right: 
+Wrong: Triple Stumper
+Jose: What is sergeant?
+Value: $100
+Number: 19
+SERIAL NUMBERS | Luke & Laura's 1981 wedding on this daytime serial drew 30 million viewers over 2 days | General Hospital
+right: Jose
+Wrong: 
+Value: $100
+Number: 26
+SPACE EXPLORATION | In 1984 Bruce McCandless became the first human to perform an untethered EVA, which stands for this | Extra-vehicular activity
+right: Lee
+Wrong: 
+Value: $200
+Number: 13
+WEIGHTS & MEASURES | A surveyor's chain has 100 of these | Links
+right: Lee
+Wrong: 
+Value: $200
+Number: 3
+FEELING "ILL" | It's a boneless portion of fish or meat | Fillet
+right: Lee
+Wrong: 
+Value: $200
+Number: 5
+NAME | The last name in clinics, it's from a Norman form of Matthew | Mayo
+right: Lee
+Wrong: 
+Value: $200
+Number: 14
+RANK | On the ocean, an "ordinary" one isn't quite as able as an "able" one | Seaman
+right: Arnie
+Wrong: 
+Value: $200
+Number: 20
+SERIAL NUMBERS | This scheming "All My Children" character has been married 9 times to 6 men in 29 years | Erica Kane
+right: 
+Wrong: Triple Stumper
+Value: $200
+Number: 27
+SPACE EXPLORATION | (Hi, I'm Commander Charlie Precourt aboard space shuttle Discovery)  The 1st U.S.-Russian space venture was the 1975 Apollo linkup with this spacecraft named for the Russian word "union" | Soyuz
+right: Arnie
+Wrong: 
+Value: $300
+Number: 16
+WEIGHTS & MEASURES | On this scale, normal human body temperature is 37 degrees | Celsius
+right: Arnie
+Wrong: 
+Value: $300
+Number: 4
+FEELING "ILL" | This police officer's weapon is also known as a nightstick | Billy club
+right: Jose
+Wrong: 
+Value: $300
+Number: 6
+NAME | Go to Ellen in the name books & you'll find it's a form of this name from Greek myth | Helen
+right: Arnie
+Wrong: 
+Value: $300
+Number: 15
+RANK | A U.S. brigadier general wears 1 star; this is the next grade up with 2 | Major general
+right: Jose
+Wrong: 
+Value: $300
+Number: 21
+SERIAL NUMBERS | This Louise Lasser serial began with the murder of 5 people, 2 goats & 8 chickens | Mary Hartman, Mary Hartman
+right: Lee
+Wrong: 
+Value: $300
+Number: 28
+SPACE EXPLORATION | In June 1963 she orbited 48 times in 70 hours, 50 minutes | Valentina Tereshkova
+right: Jose
+Wrong: 
+Value: $400
+Number: 17
+WEIGHTS & MEASURES | A man weighing 210 pounds is said in Great Britain to weigh 15 of these | Stones
+right: Jose
+Wrong: 
+Value: $400
+Number: 9
+FEELING "ILL" | A woman's brimless hat, or a place for your aspirin | Pillbox
+right: Lee
+Wrong: 
+Value: $400
+Number: 7
+NAME | This Jackson was born in 1966, 11 years after her name was retired from the hurricane list | Janet Jackson
+right: Lee
+Wrong: 
+Value: $400
+Number: 24
+RANK | In the Royal Navy, this important job is just below the rank of commodore | Captain
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 22
+SERIAL NUMBERS | Despite this ABC soap's title, its character Vicki Lord has had at least 5 personalities | One Life to Live
+right: 
+Wrong: 
+Value: DD: $1,800
+Number: 29
+SPACE EXPLORATION | After its July 4, 1997 landing on Mars, this lander was renamed the Carl Sagan Memorial Station | Pathfinder
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 18
+WEIGHTS & MEASURES | This liquor measurement is equivalent to 1.6 pints, or about 25 shots | Fifth
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 10
+FEELING "ILL" | From the Latin for "illegal" or "against the law", it can denote certain activities or drugs | Illicit
+right: Lee
+Wrong: 
+Value: $500
+Number: 8
+NAME | This novelist who wrote screenplays for Howard Hawks has a last name that means "one who works with falcons" | William Faulkner
+right: Arnie
+Wrong: 
+Value: $500
+Number: 25
+RANK | In the RAF, a wing commander immediately outranks a leader of this group | Squadron
+right: Arnie
+Wrong: 
+Value: $500
+Number: 23
+SERIAL NUMBERS | Broadcasting's longest-running serial, it began on radio 62 years ago as the story of a small-town pastor | Guiding Light
+right: Arnie
+Wrong: 
+Value: $500
+Number: 30
+Scores at the first commercial break (after clue 15)
+Lee: $2,000
+Jose: $200
+Arnie: $700
+Scores at the end of the Jeopardy! Round:
+Lee: $500
+Jose: $900
+Arnie: $2,500
+Second Jeopardy! Round: NOBEL PRIZE MEDALS, SLAMMER CINEMA, PERU, POLITICIANS, ALEXANDER POPE-POURRI, BEFORE & AFTER
+NOBEL PRIZE MEDALS | 3 men form a fraternal bond on the back of the medal for this | Peace
+right: Jose
+Wrong: 
+Value: $200
+Number: 9
+SLAMMER CINEMA | 1957: Elvis incarcerated | Jailhouse Rock
+right: Arnie
+Wrong: 
+Value: $200
+Number: 4
+PERU | Civilization that built Machu Picchu, a stronghold in the Andes | Incas
+right: Jose
+Wrong: 
+Value: $200
+Number: 1
+POLITICIANS | This Minnesota governor's 1999 inaugural festivities included a potluck lunch on a farm | Jesse Ventura
+right: Lee
+Wrong: 
+Value: $200
+Number: 24
+ALEXANDER POPE-POURRI | "Blessed is the man who expects" this, "for he shall never be disappointed" | Nothing
+right: Lee
+Wrong: 
+Value: $200
+Number: 28
+BEFORE & AFTER | 1971 Miss America who should "watch out for that tree" | Phyllis George of the Jungle
+right: Arnie
+Wrong: 
+Value: $200
+Number: 16
+NOBEL PRIZE MEDALS | The medal for this shows a singing muse & some lines from Virgil | Literature
+right: Jose
+Wrong: 
+Value: $400
+Number: 10
+SLAMMER CINEMA | 1979: Break-out film for Eastwood | Escape From Alcatraz
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 5
+PERU | In 1992 he suspended the constitution & began to rule by decree | Alberto Fujimori
+right: Arnie
+Wrong: 
+Value: $400
+Number: 2
+POLITICIANS | 1 of 2 U.S. senators from Hawaii; they share a first name & middle initial | Daniel K. Inouye or Daniel K. Akaka
+right: Lee
+Wrong: 
+Value: $400
+Number: 21
+ALEXANDER POPE-POURRI | "But thousands die, without or this & that, die, and endow a college, or" this pet | Cat
+right: Jose
+Wrong: 
+Value: $400
+Number: 26
+BEFORE & AFTER | John Milton's epic poem about a heavenly place to seek out your misplaced belongings | Paradise Lost & found
+right: Jose
+Wrong: 
+Value: $400
+Number: 17
+NOBEL PRIZE MEDALS | A sick girl's thirst is about to be quenched in the image on this medal | Medicine
+right: Arnie
+Wrong: 
+Value: $600
+Number: 11
+SLAMMER CINEMA | 1978: Not a Turkish delight for Brad Davis | Midnight Express
+right: Lee
+Wrong: 
+Value: $600
+Number: 6
+PERU | He's the only Peruvian to become secretary-general of the U.N. | Javier Perez de Cuellar
+right: 
+Wrong: 
+Value: DD: $500
+Number: 3
+POLITICIANS | Defeated in the 1994 election for Florida governor, he won in 1998 by over 400,000 votes | Jeb Bush
+right: Lee
+Wrong: 
+Value: $600
+Number: 22
+ALEXANDER POPE-POURRI | This creature's "Touch, how exquisitely fine!  Feels at each thread, and lives along the line" | Spider
+right: Arnie
+Wrong: 
+Value: $600
+Number: 27
+BEFORE & AFTER | Garden of Eden plant in the memoir of Mark Twain's days as a steamboat pilot | Tree of Life on the Mississippi
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 18
+NOBEL PRIZE MEDALS | At the bottom of this discipline's medal, you can see crossed horns of plenty | Economics
+right: Jose
+Wrong: 
+Value: $800
+Number: 12
+SLAMMER CINEMA | 1973: Butterflies aren't free for Dustin Hoffman | Papillon
+right: Lee
+Wrong: 
+Value: $800
+Number: 7
+PERU | In May 1975 this Indian language joined Spanish as an official language of Peru | Quechua
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 14
+POLITICIANS | A 1940 anti-FDR window sticker read, "No Third Term!  Democrats for" this Republican | Wendell Willkie
+right: Arnie
+Wrong: 
+Value: $800
+Number: 23
+ALEXANDER POPE-POURRI | "Nature, and nature's laws lay hid in night.  God said 'Let'" this scientist "'Be!', and all was light" | Isaac Newton
+right: 
+Wrong: 
+Lee: Who is Edison?
+Value: DD: $700
+Number: 29
+BEFORE & AFTER | Hit Broadway musical starring the grotesquely deformed John Merrick as Don Quixote | The Elephant Man of La Mancha
+right: Lee
+Wrong: 
+Value: $800
+Number: 19
+NOBEL PRIZE MEDALS | The medal showing nature as a goddess is given for these 2 sciences | Physics & chemistry
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 13
+SLAMMER CINEMA | 1994: Tim Robbins caged | The Shawshank Redemption
+right: Arnie
+Wrong: 
+Value: $1000
+Number: 8
+PERU | This small, orange-red furred relative of the llama can be found in the Andes of Peru | Vicuna
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 15
+POLITICIANS | From 1869 to 1875, this Maine Republican was Speaker of the House | James G. Blaine
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 25
+BEFORE & AFTER | Grim Charles Dickens novel about Winnie, Piglet & Christopher Robin waiting in vain for an inheritance | Bleak House at Pooh Corner
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 20
+Scores at the end of the Double Jeopardy! Round:
+Lee: $3,000
+Jose: $1,500
+Arnie: $5,800
+
+Final Jeopardy! Round
+CHILDREN'S LITERATURE | Hans Christian Andersen's "The Nightingale" was inspired by this famous woman | Jenny Lind
+right: Lee
+Wrong: 
+Jose: Who was Florence Nightingale
+Arnie: Who was Clara Barton
+Wagers: 
+Jose: $1,000
+Lee: $2,899
+Arnie: $200
+Final scores:
+Lee: $5,899 (5-day champion: $54,599)
+Jose: $500 (3rd place: Fisher Home Theater System)
+Arnie: $5,600 (2nd place: Trip to Sandals Royal Bahamian Resort)
+
+Coryat scores
+Lee: $5,500 (18 R,4 W(including 2 DDs))
+Jose: $1,500 (11 R,4 W)
+Arnie: $6,300 (15 R,2 W(including 1 DD))

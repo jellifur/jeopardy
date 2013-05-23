@@ -1,0 +1,344 @@
+3470 - Friday, October 8, 1999
+Contestants:
+Paul McGonagle: a bartender from Schaumburg, Illinois
+Beth Carroll: a criminal records supervisor from Morristown, New Jersey
+Pat Tortorello: a corrections officer from Belleville, New Jersey (whose 1-day cash winnings total $10,200)
+First Jeopardy! Round: LOCATION, LOCATION, LOCATION, HORSE & RIDER, THE MOVIES, SLOGANEERING, FIRST LADIES, PRIME NUMBERS
+LOCATION, LOCATION, LOCATION | Suisse is the French name for this mountainous country | Switzerland
+right: Beth
+Wrong: 
+Value: $100
+Number: 11
+HORSE & RIDER | Silver | The Lone Ranger
+right: Paul
+Wrong: 
+Value: $100
+Number: 6
+THE MOVIES | The first episode in the story told by this popular film series is subtitled "The Phantom Menace" | Star Wars
+right: Pat
+Wrong: 
+Value: $100
+Number: 26
+SLOGANEERING | When going out, take this card because "It's Everywhere You Want to Be" | Visa
+right: Paul
+Wrong: 
+Value: $100
+Number: 21
+FIRST LADIES | She married husband Ronnie in 1952 when he was president of the Screen Actors Guild | Nancy (Davis) Reagan
+right: Paul
+Wrong: 
+Value: $100
+Number: 16
+PRIME NUMBERS | Dial this 3-digit prime number in L.A. only for emergencies | 911
+right: Pat
+Wrong: 
+Value: $100
+Number: 1
+LOCATION, LOCATION, LOCATION | Washington Irving gave New York City this nickname in 1807 | Gotham
+right: 
+Wrong: Triple Stumper
+Pat: What is The Knickerbocker State?
+Paul: What is The Big Apple?
+Value: $200
+Number: 12
+HORSE & RIDER | Rocinante | Don Quixote
+right: Paul
+Wrong: 
+Value: $200
+Number: 7
+THE MOVIES | It was double trouble for this martial arts star playing twins in "Twin Dragons" | Jackie Chan
+right: Pat
+Wrong: 
+Value: $200
+Number: 27
+SLOGANEERING | If you need a hammer, this is "The Place With the Helpful Hardware Folks" | Ace Hardware
+right: Paul
+Wrong: 
+Value: $200
+Number: 22
+FIRST LADIES | She served as a regent of the University of Texas & as a member of the National Parks Advisory Board | Lady Bird Johnson
+right: Beth
+Wrong: 
+Pat: Who was Barbara Bush?
+Value: $200
+Number: 17
+PRIME NUMBERS | In the rhyme, it's the number of whacks Lizzie Borden gave her father | 41
+right: Beth
+Wrong: 
+Value: $200
+Number: 2
+LOCATION, LOCATION, LOCATION | There are only 31 states & 1 federal district in this North American country | Mexico
+right: 
+Wrong: Triple Stumper
+Value: $300
+Number: 13
+HORSE & RIDER | Trigger's friend Buttermilk | Dale Evans
+right: Pat
+Wrong: 
+Value: $300
+Number: 8
+THE MOVIES | It was double trouble for this martial arts star playing twins in "Double Impact" | Jean-Claude Van Damme
+right: Paul
+Wrong: 
+Value: $300
+Number: 28
+SLOGANEERING | "The Relentless Pursuit of Perfection" is the goal of this automaker | Lexus
+right: 
+Wrong: Triple Stumper
+Paul: What is BMW?
+Value: $300
+Number: 23
+FIRST LADIES | In January 1991 this first lady broke her left leg while sledding at Camp David | Barbara Bush
+right: Beth
+Wrong: 
+Value: $300
+Number: 18
+PRIME NUMBERS | Columbus' first voyage to the new world ended in this year | 1493
+right: Paul
+Wrong: 
+Value: $300
+Number: 3
+LOCATION, LOCATION, LOCATION | The Tasman Sea separates Australia & this nation | New Zealand
+right: Beth
+Wrong: 
+Value: $400
+Number: 14
+HORSE & RIDER | Traveller | Robert E. Lee
+right: Beth
+Wrong: 
+Value: $400
+Number: 9
+THE MOVIES | Known for comedies like "Mr. Mom", he donned the cape & cowl of Batman in 1989 | Michael Keaton
+right: Paul
+Wrong: 
+Value: $400
+Number: 29
+SLOGANEERING | This large company provides "Solutions For A Small Planet" | IBM
+right: Paul
+Wrong: 
+Value: $400
+Number: 24
+FIRST LADIES | Her stepfather was Hugh Auchincloss | Jackie Kennedy
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 19
+PRIME NUMBERS | Fear of this prime number is called triskaidekaphobia | 13
+right: Pat
+Wrong: 
+Value: $400
+Number: 4
+LOCATION, LOCATION, LOCATION | Robin Hood's nemesis was the sheriff of this district | Nottingham
+right: Pat
+Wrong: 
+Value: $500
+Number: 15
+HORSE & RIDER | Bucephalus | Alexander the Great
+right: Paul
+Wrong: 
+Value: $500
+Number: 10
+THE MOVIES | She turned pirate in "Cutthroat Island" & action star in "The Long Kiss Goodnight" | Geena Davis
+right: 
+Wrong: Triple Stumper
+Value: $500
+Number: 30
+SLOGANEERING | Relax, this brand of medicine is "Recommended by Dr. Mom" | Robitussin
+right: Paul
+Wrong: 
+Value: $500
+Number: 25
+FIRST LADIES | The only first lady whose married name was the same as her maiden name | Eleanor Roosevelt
+right: Beth
+Wrong: 
+Value: DD: $500
+Number: 20
+PRIME NUMBERS | Boeing's answer in the early 1960s to the Douglas DC-9; it's good for medium hauls | 727
+right: 
+Wrong: Triple Stumper
+Pat: What is a DC-3?
+Value: $500
+Number: 5
+Scores at the first commercial break (after clue 15)
+Pat: $600
+Beth: $400
+Paul: $1,000
+Scores at the end of the Jeopardy! Round:
+Pat: $700
+Beth: $1,000
+Paul: $2,600
+Second Jeopardy! Round: DEMOCRATIC KEYNOTERS, THE ASPCA, ON BROADWAY: 1970, BOTANY, I HAVEN'T READ SHAKESPEARE, BUT..., WORD ORIGINS
+DEMOCRATIC KEYNOTERS | 1992: New Jersey senator | Bill Bradley
+right: Pat
+Wrong: 
+Value: $200
+Number: 14
+THE ASPCA | In 1999 Lulu, a plucky potbellied one of these, earned an ASPCA Trooper Award for saving her owner's life | Pig
+right: Paul
+Wrong: 
+Value: $200
+Number: 19
+ON BROADWAY: 1970 | He starred on Broadway as Elwood P. Dowd in a revival of "Harvey"; who else could? | Jimmy Stewart
+right: Beth
+Wrong: 
+Value: $200
+Number: 24
+BOTANY | To the horror of homeowners, this lawn weed, taraxacum officinale, can grow 1 1/2' high | Dandelion
+right: Paul
+Wrong: 
+Pat: What is crabgrass?
+Value: $200
+Number: 11
+I HAVEN'T READ SHAKESPEARE, BUT... | This tragedy has got to be set in a small village, hence the title | Hamlet
+right: Beth
+Wrong: 
+Value: $200
+Number: 6
+WORD ORIGINS | Derived from the Greek for "ice", it's a glass of fine quality that resembles ice | Crystal
+right: Beth
+Wrong: 
+Value: $200
+Number: 1
+DEMOCRATIC KEYNOTERS | 1984: New York governor | Mario Cuomo
+right: Beth
+Wrong: 
+Value: $400
+Number: 15
+THE ASPCA | An ASPCA program begun in 1992 promotes the adoption of these dogs when they retire from racing | Greyhounds
+right: Pat
+Wrong: 
+Value: $400
+Number: 20
+ON BROADWAY: 1970 | Based on "All About Eve", it featured Lauren Bacall as Margo Channing | Applause
+right: Beth
+Wrong: 
+Value: $400
+Number: 25
+BOTANY | This "kissing" shrub, the state flower of Oklahoma, sometimes kills the tree that serves as its host | Mistletoe
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 12
+I HAVEN'T READ SHAKESPEARE, BUT... | Obviously, it's a funny play about bad baseball players | The Comedy of Errors
+right: Beth
+Wrong: 
+Value: $400
+Number: 7
+WORD ORIGINS | Many scholars believe that the Celts called it "The Wild Place"; now this wild place is a city of over 7 million | London
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 2
+DEMOCRATIC KEYNOTERS | 1976: Ohio senator | John Glenn
+right: Paul
+Wrong: 
+Value: $600
+Number: 16
+THE ASPCA | The ASPCA reminds you that you can lengthen a cat's life by neutering a male or doing this equivalent to a female | Spaying
+right: Pat
+Wrong: 
+Value: $600
+Number: 21
+ON BROADWAY: 1970 | Though he never won an Emmy as Barney Miller, he did win a Tony for his role in "The Rothschilds" | Hal Linden
+right: Pat
+Wrong: 
+Value: $600
+Number: 26
+BOTANY | The Jaffa variety of orange originated in this country | Israel
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 13
+I HAVEN'T READ SHAKESPEARE, BUT... | It sounds to me like it's about the leader of lascivious oglers | King Lear
+right: Beth
+Wrong: 
+Value: $600
+Number: 8
+WORD ORIGINS | A Middle Eastern chieftain, this 4-letter term is from the Arabic for "commander" | Emir
+right: Paul
+Wrong: 
+Value: $600
+Number: 3
+DEMOCRATIC KEYNOTERS | 1968: Hawaiian senator | Daniel Inouye
+right: Paul
+Wrong: 
+Value: $800
+Number: 17
+THE ASPCA | In 1867 the ASPCA began operating the world's first of these vehicles to carry horses, probably without a siren | Ambulance
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 22
+ON BROADWAY: 1970 | Anthony Quayle & Keith Baxter starred in this Anthony Shaffer mystery; the rest of the cast is another mystery | Sleuth
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+BOTANY | The jonquil is a short-trumpet narcissus; this yellow flower is a long-trumpet species | Daffodil
+right: Beth
+Wrong: 
+Value: $800
+Number: 27
+I HAVEN'T READ SHAKESPEARE, BUT... | It's about this guy who hires non-permanent secretarial help for his office | The Tempest
+right: Pat
+Wrong: 
+Value: $800
+Number: 9
+WORD ORIGINS | This wooden club is named for the town in county Wicklow where it originated | Shillelagh
+right: Paul
+Wrong: 
+Value: DD: $1,200
+Number: 4
+DEMOCRATIC KEYNOTERS | 1988: Texas state treasurer | Ann Richards
+right: Paul
+Wrong: 
+Value: $1000
+Number: 18
+THE ASPCA | The ASPCA helped stop Iowa legislators from legalizing hunting of the mourning type of this | Dove
+right: Beth
+Wrong: 
+Value: $1000
+Number: 23
+ON BROADWAY: 1970 | After 2,844 performances, Broadway said, "So long, dearie" to this musical December 27, 1970 | Hello, Dolly!
+right: 
+Wrong: 
+Value: DD: $2,000
+Number: 29
+BOTANY | The finest dried form of this root spice used in pumpkin pie is produced in Jamaica | Ginger
+right: 
+Wrong: Triple Stumper
+Pat: What is cinnamon?
+Value: $1000
+Number: 30
+I HAVEN'T READ SHAKESPEARE, BUT... | Toyotas!  Yeah, that's it; it's about Toyotas | Troilus & Cressida
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+WORD ORIGINS | A Greek word for cowherd has given us this term for "pastoral" or "rustic" | bucolic
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 5
+Scores at the end of the Double Jeopardy! Round:
+Pat: $2,100
+Beth: $3,200
+Paul: $7,200
+
+Final Jeopardy! Round
+THE FUNNIES | Debuting November 18, 1985, the caption in its first box was "So long, Pop!  I'm off to check my tiger trap!" | Calvin and Hobbes
+right: Pat | Beth | Paul
+Wrong: 
+Wagers: 
+Pat: $2,031
+Beth: $3,200
+Paul: $0
+Final scores:
+Pat: $4,131 (3rd place: eToys.com Shopping Spree)
+Beth: $6,400 (2nd place: Trip to Grand Case Beach Club, French West Indies)
+Paul: $7,200 (New champion: $7,200)
+
+Coryat scores
+Pat: $2,100 (11 R,5 W)
+Beth: $5,200 (16 R(including 1 DD),5 W(including 1 DD))
+Paul: $6,800 (18 R(including 1 DD),2 W)

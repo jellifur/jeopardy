@@ -1,0 +1,350 @@
+4648 - Wednesday, November 17, 2004
+Comments: 2004 College Championship semifinal game 1.
+Contestants:
+Vicky Manos: a sophomore at St. John’s University from Levittown, New York
+Ari Schoenholtz: a senior at Williams College from Bethesda, Maryland
+Casey Retterer: a sophomore at the University of Maryland from Olney, Maryland
+First Jeopardy! Round: U.S. CITIES, WHEN THEY WERE IN COLLEGE, BESTSELLERS, LAST YEAR'S NEWS, PHYSICS, "MID" TERMS
+U.S. CITIES | The game properties in classic Monopoly were named for streets in this city | Atlantic City
+right: Casey
+Wrong: 
+Value: $200
+Number: 15
+WHEN THEY WERE IN COLLEGE | This handsome hunk played basketball at USC long before “Magnum, P.I.” made him a star | Tom Selleck
+right: Casey
+Wrong: 
+Vicky: Who is Ted Danson?
+Value: $200
+Number: 16
+BESTSELLERS | Oprah picked this Tolstoy tragedy about an unhappy family for her book club | Anna Karenina
+right: Ari
+Wrong: 
+Value: $200
+Number: 21
+LAST YEAR'S NEWS | This government department recommended duct tape & plastic sheets to seal a room against a chemical attack | the Department of Homeland Security
+right: Vicky
+Wrong: 
+Value: $200
+Number: 19
+PHYSICS | It’s the point of maximum velocity in a pendulum’s swing | the bottom of the arc in equilibrium
+right: Casey
+Wrong: 
+Value: $200
+Number: 5
+"MID" TERMS | Cinderella's deadline | midnight
+right: Ari
+Wrong: 
+Value: $200
+Number: 8
+U.S. CITIES | It’s easy to recognize <http://www.j-archive.com/media/2004-11-17_J_14.jpg> this city’s skyline--see the Sears Tower? | Chicago
+right: Ari
+Wrong: 
+Value: $400
+Number: 14
+WHEN THEY WERE IN COLLEGE | This “Alien” star has been a close pal of playwright Christopher Durang ever since they were drama students at Yale | Sigourney Weaver
+right: Vicky
+Wrong: 
+Casey: Who is Jamie Lee Curtis?
+Value: $400
+Number: 17
+BESTSELLERS | This weepie by Nicholas Sparks was made into a film starring Ryan Gosling & Rachel McAdams | The Notebook
+right: Vicky
+Wrong: 
+Value: $400
+Number: 30
+LAST YEAR'S NEWS | Donald Rumsfeld called these 2 countries “Old Europe” after they opposed military action against Iraq | Germany and France
+right: Vicky
+Wrong: 
+Value: $400
+Number: 26
+PHYSICS | After trying to measure this with signals between himself & an assistant, Galileo decided it was infinite | The speed of light
+right: Vicky
+Wrong: 
+Casey: What is gravity?
+Value: $400
+Number: 4
+"MID" TERMS | A crop top is designed to leave this part of the body bare | the midriff
+right: Casey
+Wrong: 
+Value: $400
+Number: 9
+U.S. CITIES | This seat of Indiana University may have been named for its flowers or for an early settler | Bloomington
+right: 
+Wrong: Triple Stumper
+Casey: What is Bloomingdale?
+Ari: What is Bloomingham?
+Value: $600
+Number: 13
+WHEN THEY WERE IN COLLEGE | He was in college in ’74 when he became a weekend weatherman in Syracuse; today he’s on the “Today” show | Al Roker
+right: Casey
+Wrong: 
+Value: $600
+Number: 18
+BESTSELLERS | The title of this series by Tim Lahaye & Jerry B. Jenkins refers to the people who remain on Earth after the rapture | Left Behind
+right: Vicky
+Wrong: 
+Value: $600
+Number: 25
+LAST YEAR'S NEWS | Democratic house members fled this state in order to block republicans from redrawing congressional districts | Texas
+right: Ari
+Wrong: 
+Value: $600
+Number: 27
+PHYSICS | (<http://www.j-archive.com/media/2004-11-17_J_03.jpg> Jimmy and Sarah of the Clue Crew pull on cords of different thicknesses.)  Seven letter word for the type of strength, based on the cohesion of molecules, that varies in different materials | tensile
+right: Casey
+Wrong: 
+Value: $600
+Number: 3
+"MID" TERMS | This word completes the proverb “Don’t change horses in...” | midstream
+right: Casey
+Wrong: 
+Value: $600
+Number: 10
+U.S. CITIES | The heart of French Louisiana & the unofficial capital of the Cajun country is this city named for a French patriot | Lafayette
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 12
+WHEN THEY WERE IN COLLEGE | Joan Cusack performed with an improv group while studying at this school in Madison | University of Wisconsin
+right: Casey
+Wrong: 
+Value: $800
+Number: 20
+BESTSELLERS | The narrator of “The Curious Incident of the Dog in the Night-time” has this developmental condition | autism
+right: Ari
+Wrong: 
+Value: $800
+Number: 24
+LAST YEAR'S NEWS | The FDA said it would ban dietary supplements containing this after a baseball player's death was linked to it | ephedra
+right: Ari
+Wrong: 
+Value: $800
+Number: 28
+PHYSICS | The zeroth law of this says 2 bodies each in thermal equilibrium with a 3rd are in thermal equilibrium with each other | thermodynamics
+right: Casey
+Wrong: 
+Value: $800
+Number: 2
+"MID" TERMS | Even Rachel in the Bible had one of these women to help her deliver her baby | a midwife
+right: Ari
+Wrong: 
+Value: $800
+Number: 7
+U.S. CITIES | On a “table” of Arizona’s most populous cities, this one would be listed third | Mesa
+right: Casey
+Wrong: 
+Value: DD: $4,200
+Number: 11
+WHEN THEY WERE IN COLLEGE | Meryl Streep starred in a campus production of “Miss Julie” as an undergrad at this Poughkeepsie college | Vassar
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 23
+BESTSELLERS | Azar Nafisi’s “Memoir in Books” is called “Reading” this Nabokov classic “in Tehran” | Lolita
+right: Vicky
+Wrong: 
+Value: $1000
+Number: 22
+LAST YEAR'S NEWS | The America’s Cup was won for the first time by a European country: ironically this landlocked nation | Switzerland
+right: Ari
+Wrong: 
+Value: $1000
+Number: 29
+PHYSICS | <http://www.j-archive.com/media/2004-11-17_J_01.jpg> This represents the direction and the magnitude, by the arrow’s length, of certain quantities | a vector
+right: Casey
+Wrong: 
+Value: $1000
+Number: 1
+"MID" TERMS | It’s where your tympanic membrane is located | the middle ear
+right: Casey
+Wrong: 
+Value: $1000
+Number: 6
+Scores at the first commercial break (after clue 15)
+Casey: $8,000
+Ari: $800
+Vicky: $400
+Scores at the end of the Jeopardy! Round:
+Casey: $9,200
+Ari: $4,200
+Vicky: $3,200
+Second Jeopardy! Round: REMAINS TO BE SEEN, A QUICKIE WITH SUPERMAN, THIS MEANS WAR, COOKING, TOOLS OF THE TRADE, E BEFORE I
+REMAINS TO BE SEEN | Excavations at <http://www.j-archive.com/media/2004-11-17_DJ_29.jpg> this city destroyed by Vesuvius have revealed people trapped in time | Pompeii
+right: Casey
+Wrong: 
+Value: $400
+Number: 29
+A QUICKIE WITH SUPERMAN | In 2001 this "Clark Kent before he was Superman" series debuted on the WB | Smallville
+right: Vicky
+Wrong: 
+Value: $400
+Number: 15
+THIS MEANS WAR | In 2001 Teddy Roosevelt received a posthumous Medal of Honor for his actions during this war | the Spanish-American War
+right: Casey
+Wrong: 
+Value: $400
+Number: 23
+COOKING | To make this basis of soup, simmer chicken parts for 3 hours, with frequent skimming, or drop a cube into water | broth (or stock)
+right: Ari
+Wrong: 
+Value: $400
+Number: 1
+TOOLS OF THE TRADE | Zwilling J. A. Henckels will sell the aspiring chef an 18-piece block set of these | knives
+right: Casey
+Wrong: 
+Value: $400
+Number: 17
+E BEFORE I | Goods or cargo transported commercially | freight
+right: Casey
+Wrong: 
+Value: $400
+Number: 11
+REMAINS TO BE SEEN | Today on display in an Italian museum, the body of a 5,300-year-old man was found in 1991 thawing out in these mountains | the Alps
+right: Casey
+Wrong: 
+Value: $800
+Number: 30
+A QUICKIE WITH SUPERMAN | In 1996 in the comics, Superman finally married her | Lois Lane
+right: Casey
+Wrong: 
+Value: $800
+Number: 14
+THIS MEANS WAR | Legend has it that this war lasted for 10 years, ending in 1184 B.C. | the Trojan War
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 28
+COOKING | If you put too much of this into a dish, drop in a peeled potato to absorb it | salt
+right: Casey
+Wrong: 
+Value: $800
+Number: 2
+TOOLS OF THE TRADE | Firefighters' equipment includes axes and this modified "bar" that operates as a lever | a crowbar
+right: Vicky
+Wrong: 
+Value: $800
+Number: 16
+E BEFORE I | Chaing Kai-Shek Memorial Hall is located in this capital | Taipei
+right: 
+Wrong: 
+Ari: What is Beijing?
+Value: DD: $2,500
+Number: 10
+REMAINS TO BE SEEN | <http://www.j-archive.com/media/2004-11-17_DJ_26.jpg> The philosopher Jeremy Bentham, who died in 1832, is kept in a glass case at University College in this British city | London
+right: 
+Wrong: Triple Stumper
+Casey: What is Cambridge?
+Ari: What is Oxford?
+Value: $1200
+Number: 26
+A QUICKIE WITH SUPERMAN | His cub reporter buddy at the Daily Planet newspaper | Jimmy (Olsen)
+right: Ari
+Wrong: 
+Value: $1200
+Number: 13
+THIS MEANS WAR | It began in 1899 when the Orange Free State & South African Republic declared war on Britain | the Boer War
+right: Ari
+Wrong: 
+Value: $1200
+Number: 27
+COOKING | An egg that spins merrily & easily on the counter tells you it's this | hard-boiled
+right: Vicky
+Wrong: 
+Casey: What is rotten?
+Value: $1200
+Number: 5
+TOOLS OF THE TRADE | Professional whose tool kit would most likely include a multimeter & a wire stripper | electrician
+right: Casey
+Wrong: 
+Value: $1200
+Number: 20
+E BEFORE I | The leader of an Arab tribe or village | a sheikh
+right: Ari
+Wrong: 
+Value: $1200
+Number: 9
+REMAINS TO BE SEEN | The body of this "Common Sense" author was taken to be put on display in England, but eventually his remains were lost | (Thomas) Paine
+right: Ari
+Wrong: 
+Value: $1600
+Number: 25
+A QUICKIE WITH SUPERMAN | Superman vows a never-ending fight for "truth, justice and" this | the American Way (freedom also accepted)
+right: Casey
+Wrong: 
+Value: $1600
+Number: 12
+THIS MEANS WAR | The 7th Earl of Cardigan saw his famous light brigade decimated in the Battle of Balaklava in this war | the Crimean War
+right: Casey
+Wrong: 
+Value: $1600
+Number: 24
+COOKING | For vegetarians, instead of vitello alla parmigiana, veal parmesean, make malanzine alla parmigiana, this | eggplant
+right: Ari
+Wrong: 
+Value: $1600
+Number: 6
+TOOLS OF THE TRADE | Tusa's visio, with a polycarbonate frame, is this piece of scuba equipment | a mask
+right: 
+Wrong: 
+Casey: What are goggles?
+Value: DD: $4,400
+Number: 19
+E BEFORE I | He's the missionary and humanitarian seen <http://www.j-archive.com/media/2004-11-17_DJ_08.jpg> here | Albert Schweitzer
+right: Ari
+Wrong: 
+Value: $1600
+Number: 8
+REMAINS TO BE SEEN | This patron saint of Lourdes' <http://www.j-archive.com/media/2004-11-17_DJ_21.jpg> body has remained unchanged in its glass display case since her death in 1879 | Saint Bernadette
+right: 
+Wrong: Triple Stumper
+Value: $2000
+Number: 21
+A QUICKIE WITH SUPERMAN | In the 1978 movie, Gene Hackman played this villain & perpetual thorn in Superman's side | Lex Luthor
+right: Vicky
+Wrong: 
+Value: $2000
+Number: 4
+THIS MEANS WAR | The second of these wars between ancient Rome & Carthage is also known as the Hannibalic war | the Punic Wars
+right: Ari
+Wrong: 
+Value: $2000
+Number: 22
+COOKING | You'll want to remove the stem and possibly the gills before cooking with <http://www.j-archive.com/media/2004-11-17_DJ_07.jpg> this jumbo-sized mushroom | portobello
+right: Ari
+Wrong: 
+Value: $2000
+Number: 7
+TOOLS OF THE TRADE | To achieve the surf style on one of these, use a whammy bar | a guitar
+right: Casey
+Wrong: 
+Value: $2000
+Number: 18
+E BEFORE I | In November 1942 Montgomery's troops scored a major victory at this northern Egyptian town | El Alamein
+right: 
+Wrong: Triple Stumper
+Casey: What is Alexandria?
+Value: $2000
+Number: 3
+Scores at the end of the Double Jeopardy! Round:
+Casey: $10,800
+Ari: $13,300
+Vicky: $7,600
+
+Final Jeopardy! Round
+SCIENCE NEWS | In June 2000 Bill Clinton described it as "the most wondrous map ever produced" | the human genome
+right: Casey | Ari
+Wrong: 
+Vicky: What
+Wagers: 
+Vicky: $7,600
+Casey: $5,133
+Ari: $8,301
+Final scores:
+Casey: $15,933 (2nd place: $10,000)
+Ari: $21,601 (Finalist)
+Vicky: $0 (3rd place: $10,000)
+
+Coryat scores
+Casey: $12,000 (23 R(including 1 DD),7 W(including 1 DD))
+Ari: $15,800 (17 R,3 W(including 1 DD))
+Vicky: $7,600 (11 R,1 W)

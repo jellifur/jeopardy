@@ -1,0 +1,340 @@
+6566 - Monday, March 18, 2013
+Contestants:
+Joshua Simmons: a cook from Little Rock, Arkansas
+Rayma Haas: a reading tutor from Seattle, Washington
+Rob Groves: a classics lecturer from Los Angeles, California (whose 1-day cash winnings total $22,500)
+First Jeopardy! Round: PAN AM, COMPOUND WORDS, LESSER-KNOWN NAMES, RAISING THE BAR, SKYSCRAPERS, SONGS BY THE WOMEN OF COUNTRY
+PAN AM | Pan Am flew Vietnam War servicemen to their destinations for R&R, short for this & recreation | rest
+right: Rayma
+Wrong: 
+Value: $200
+Number: 11
+COMPOUND WORDS | The clavichord & the harpsichord are 2 early examples of this type of musical instrument | a keyboard
+right: Rob
+Wrong: 
+Rayma: What is a piano?
+Value: $200
+Number: 1
+LESSER-KNOWN NAMES | Jonathan Ive, Apple's design chief, is credited with the look of this music player introduced in 2001 | an iPod
+right: Joshua
+Wrong: 
+Value: $200
+Number: 16
+RAISING THE BAR | A '70s song asks "if you like" these fruity cocktails "and getting caught in the rain" (it's stuck in my head now too) | pina coladas
+right: Rob
+Wrong: 
+Value: $200
+Number: 3
+SKYSCRAPERS | This city has 5 buildings higher than its Space Needle, the Columbia Center being the tallest | Seattle
+right: Rob
+Wrong: 
+Value: $200
+Number: 17
+SONGS BY THE WOMEN OF COUNTRY | The Judds: "Love Can Build a _____" | "Bridge"
+right: Rob
+Wrong: 
+Value: $200
+Number: 26
+PAN AM | In 1948 he quit his Pan Am pilot job & moved to L.A., where he used his aeronautical knowledge to create "Star Trek" | (Gene) Roddenberry
+right: Joshua
+Wrong: 
+Value: $400
+Number: 12
+COMPOUND WORDS | Motorcyclist Evel Knievel is called this on his tombstone & by the Smithsonian | a daredevil
+right: Joshua
+Wrong: 
+Value: $400
+Number: 2
+LESSER-KNOWN NAMES | Sort of the British Amelia Earhart, Amy Johnson disappeared over this river's estuary, not too far from home | the Thames
+right: Rayma
+Wrong: 
+Value: $400
+Number: 18
+RAISING THE BAR | Franciscus Sylvius is credited with inventing this type of liquor while trying to improve the medicinal qualities of juniper | gin
+right: Joshua
+Wrong: 
+Value: $400
+Number: 4
+SKYSCRAPERS | In 1930 this art deco building at 405 Lexington Avenue in New York City became the world's first to exceed 1,000 feet | the Chrysler Building
+right: Joshua
+Wrong: 
+Rayma: What is the Empire State Building?
+Value: $400
+Number: 22
+SONGS BY THE WOMEN OF COUNTRY | Patsy Cline: "I Fall to _____" | "Pieces"
+right: Rob
+Wrong: 
+Value: $400
+Number: 27
+PAN AM | In 1963 Pan Am flew Jim Whittaker to Calcutta on his way to becoming the first American to achieve this lofty feat | climbing Mt. Everest
+right: Rob
+Wrong: 
+Value: $600
+Number: 13
+COMPOUND WORDS | A buildup, as of munitions or weapons, amassed for future use, or to accumulate those weapons for future use | a stockpile
+right: Rayma
+Wrong: 
+Value: $600
+Number: 8
+LESSER-KNOWN NAMES | Sen. Robert Wagner sponsored the act that established this, the NLRB for short | the National Labor Relations Board
+right: Rob
+Wrong: 
+Value: $600
+Number: 19
+RAISING THE BAR | For 2012 Tap Tap was recognized for Miami's best of this Cuban cocktail of rum with muddled sugar & mint | a mojito
+right: Rayma
+Wrong: 
+Value: $600
+Number: 5
+SKYSCRAPERS | The Taipei 101 has 2 of these that can travel 3,314 feet per minute | an elevator
+right: Joshua
+Wrong: 
+Value: $600
+Number: 23
+SONGS BY THE WOMEN OF COUNTRY | Miranda Lambert: "The _____ That Built Me" | "House"
+right: 
+Wrong: Triple Stumper
+Value: $600
+Number: 28
+PAN AM | Pan Am founder Juan Trippe called many of his planes these, evoking the fast but lavish sailing ships of the 1800s | a clipper
+right: Rob
+Wrong: 
+Value: DD: $1,000
+Number: 14
+COMPOUND WORDS | This word was coined in the 1800s for a pattern of movement by Aborigines; today Aussies use it for any trip | a walkabout
+right: Joshua
+Wrong: 
+Value: $800
+Number: 9
+LESSER-KNOWN NAMES | George Archer joined this man's company in 1903; the "Midland" comes from a linseed products company | John Daniels
+right: 
+Wrong: Triple Stumper
+Rayma: What is Archer-Midland?
+Value: $800
+Number: 20
+RAISING THE BAR | Try a fuzzy navel--orange juice & the peach flavor of this type of liqueur | schnapps
+right: Rob
+Wrong: 
+Value: $800
+Number: 6
+SKYSCRAPERS | You can look over the Las Vegas Strip from the observation deck at the 869-foot level on this building | the Stratosphere Tower
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 24
+SONGS BY THE WOMEN OF COUNTRY | Chely Wright: "The Bumper of My _____" | "SUV"
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 29
+PAN AM | Before Air Force One, Pan Am took this man on the first presidential flight, to the Casablanca conference | Roosevelt
+right: Rayma
+Wrong: 
+Value: $1000
+Number: 15
+COMPOUND WORDS | In biology, Medusa refers to a stage in the life cycle of one of these invertebrates | a jellyfish
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 10
+LESSER-KNOWN NAMES | Parasitologist Sir Patrick Manson founded this field of medicine named for a particular climate | tropical
+right: Rob
+Wrong: 
+Value: $1000
+Number: 21
+RAISING THE BAR | This clear Italian anise-flavored liqueur is usually served with 3 or 4 coffee beans floating in it | sambuca
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 7
+SKYSCRAPERS | Formerly the world's tallest skyscrapers, the <http://www.j-archive.com/media/2013-03-18_J_25.jpg> Petronas Towers rise high in this Asian capital city | Kuala Lumpur
+right: Rayma
+Wrong: 
+Rob: What is Singapore?
+Value: $1000
+Number: 25
+SONGS BY THE WOMEN OF COUNTRY | The Dixie Chicks: "_____ Take Me Away" | "Cowboy"
+right: 
+Wrong: Triple Stumper
+Value: $1000
+Number: 30
+Scores at the first commercial break (after clue 15)
+Rob: $2,800
+Rayma: $1,200
+Joshua: $2,000
+Scores at the end of the Jeopardy! Round:
+Rob: $4,200
+Rayma: $2,400
+Joshua: $3,200
+Second Jeopardy! Round: ALL ABOUT AUTHORS, DIRTY 4-LETTER WORDS, EDICTS, AFRICAN CAPITALS, "WEDDING" MOVIES, QUASI-RELATED PAIRS
+ALL ABOUT AUTHORS | On Dec. 1, 1859 he was laid to rest at Sleepy Hollow Cemetery | (Washington) Irving
+right: Joshua
+Wrong: 
+Value: $400
+Number: 1
+DIRTY 4-LETTER WORDS | In 1905 Dr. H.A. des Voeux coined this word for the air pollution created by the Industrial Revolution | smog
+right: Rob
+Wrong: 
+Value: $400
+Number: 4
+EDICTS | The Edict of Worms was issued by the Holy Roman Emperor in 1521 to ban the writings of this man & label him a heretic | (Martin) Luther
+right: Joshua
+Wrong: 
+Value: $400
+Number: 16
+AFRICAN CAPITALS | During WWII Algiers was for a time provisional capital of this European country | France
+right: Rob
+Wrong: 
+Value: $400
+Number: 2
+"WEDDING" MOVIES | 1998: Adam Sandler, Drew Barrymore | The Wedding Singer
+right: Joshua
+Wrong: 
+Value: $400
+Number: 18
+QUASI-RELATED PAIRS | A horse-like chess piece & Latin for "of god", found after "opus" | knight & dei
+right: 
+Wrong: Triple Stumper
+Value: $400
+Number: 26
+ALL ABOUT AUTHORS | Former adman Jack Finney wrote this novel to which Hollywood added "Invasion of" | The Body Snatchers
+right: Rob
+Wrong: 
+Value: $800
+Number: 12
+DIRTY 4-LETTER WORDS | An area of soggy, muddy ground, it's sometimes paired with muck | mire
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 5
+EDICTS | The Edicts of Ashoka issued in 3rd century B.C. India spread the teachings of this religious leader | Buddha
+right: Rayma
+Wrong: 
+Value: $800
+Number: 17
+AFRICAN CAPITALS | Located about 1,000 miles south of Cairo, it rose on the site of an Egyptian army camp in 1821 | Khartoum
+right: Rob
+Wrong: 
+Value: DD: $2,000
+Number: 3
+"WEDDING" MOVIES | 1997: Dermot Mulroney, Julia Roberts | My Best Friend's Wedding
+right: Rayma
+Wrong: 
+Value: $800
+Number: 21
+QUASI-RELATED PAIRS | Elemental component & overhanging roof edge | atom & eave
+right: 
+Wrong: Triple Stumper
+Value: $800
+Number: 27
+ALL ABOUT AUTHORS | At Walt Disney's request, in 1945 this "Brave New World" author did some preliminary work on "Alice in Wonderland" | (Aldous) Huxley
+right: Rob
+Wrong: 
+Value: $1200
+Number: 13
+DIRTY 4-LETTER WORDS | In 1961 sen. Robert Byrd opined that many novels "seem to be deliberately loaded with" this word for obscene material | "smut"
+right: Joshua
+Wrong: 
+Value: $1200
+Number: 6
+EDICTS | The Edict of Milan granting religious freedom in the Roman Empire was issued in 313 by Licinius & this ruler in the east | Constantine (the Great)
+right: Rob
+Wrong: 
+Joshua: Who is Justinian?
+Value: $1200
+Number: 19
+AFRICAN CAPITALS | The Garesa Palace in this Somali capital was built for the representative of the sultan of Zanzibar | Mogadishu
+right: Rayma
+Wrong: 
+Value: $1200
+Number: 9
+"WEDDING" MOVIES | 1994: Toni Collette, Rachel Griffiths | Muriel's Wedding
+right: 
+Wrong: Triple Stumper
+Value: $1200
+Number: 22
+QUASI-RELATED PAIRS | Hidden storage place & early Spacek role | a cache & Carrie
+right: Rayma
+Wrong: 
+Value: $1200
+Number: 28
+ALL ABOUT AUTHORS | A narrator in this French author's multivolume work says, "The materials of my work consisted of my own past" | Marcel Proust
+right: 
+Wrong: 
+Joshua: What is Remembrance of Things Past?
+Value: DD: $2,000
+Number: 7
+DIRTY 4-LETTER WORDS | Chimney sweeps know this word for fine black particles resulting from incomplete combustion | soot
+right: Joshua
+Wrong: 
+Value: $1600
+Number: 14
+EDICTS | In 2009 Muslim leaders agreed to a charter on these religious edicts, discouraging the ones that call for bloodshed | fatwas
+right: Rayma
+Wrong: 
+Value: $1600
+Number: 20
+AFRICAN CAPITALS | Once the capital of an Ethiopian province, Asmara is now the capital of this country | Eritria
+right: Joshua
+Wrong: 
+Value: $1600
+Number: 10
+"WEDDING" MOVIES | 1994: Rowan Atkinson, Andie MacDowell | Four Weddings and a Funeral
+right: Rayma
+Wrong: 
+Value: $1600
+Number: 23
+QUASI-RELATED PAIRS | A trucker's long trip & cereal grasses made into meal | haul & oats
+right: 
+Wrong: Triple Stumper
+Value: $1600
+Number: 29
+ALL ABOUT AUTHORS | <http://www.j-archive.com/media/2013-03-18_DJ_08.jpg> He was born in Czechoslovakia but moved to England; his play "Rock 'N' Roll" is set in both places | (Tom) Stoppard
+right: Joshua
+Wrong: 
+Value: $2000
+Number: 8
+DIRTY 4-LETTER WORDS | A trademarked degreasing solvent gave us this word for a thick greasy substance | gunk
+right: 
+Wrong: Triple Stumper
+Joshua: ... [sigh]
+Value: $2000
+Number: 15
+EDICTS | Louis XIV's Edict of Fontainebleau revoked this 1598 edict & ordered the destruction of Huguenot churches | the Edict of Nantes
+right: Joshua
+Wrong: 
+Value: $2000
+Number: 25
+AFRICAN CAPITALS | Peanut oil refining was once a key industry in this capital of Senegal | Dakar
+right: Rayma
+Wrong: 
+Value: $2000
+Number: 11
+"WEDDING" MOVIES | 2005: Rachel McAdams, Isla fisher | Wedding Crashers
+right: Joshua
+Wrong: 
+Value: $2000
+Number: 24
+Scores at the end of the Double Jeopardy! Round:
+Rob: $10,200
+Rayma: $11,600
+Joshua: $9,600
+
+Final Jeopardy! Round
+SONGS | This U.S. ceremonial song was written in 1811 about the head of a Scottish clan, not an American leader | "Hail to the Chief"
+right: Rob | Rayma
+Wrong: 
+Joshua: What
+Wagers: 
+Joshua: $9,400
+Rob: $9,001
+Rayma: $600
+Final scores:
+Rob: $19,201 (2-day champion: $41,701)
+Rayma: $12,200 (2nd place: $2,000)
+Joshua: $200 (3rd place: $1,000)
+
+Coryat scores
+Rob: $8,800 (16 R(including 2 DDs),1 W)
+Rayma: $11,600 (13 R,3 W)
+Joshua: $11,600 (16 R,3 W(including 1 DD))
