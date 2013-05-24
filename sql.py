@@ -364,7 +364,7 @@ def main():
 
 	print 'Working...'
 	genId = GenId()
-	for i in range(4000,4118):
+	for i in range(1,4118):
 		#if i == 3889 or i == 1473 or i == 2172 or i == 3081: # Rounds with Tiebreakers
 		#	continue
 		fileName = str(i)+'_Qs.txt'
@@ -383,8 +383,8 @@ def main():
 	#for row in j.execute('SELECT * FROM Contestants'):
 	#	print row
 
-	for row in j.execute('SELECT * FROM Questions'):
-		print row
+	#for row in j.execute('SELECT * FROM Questions'):
+	#	print row
 
 	#for row in j.execute('SELECT * FROM Answers'):
 	#	print row
